@@ -20,10 +20,19 @@ input_htmls = 'htmls'
 #default setting
 #default_setting = {'miniumu_row': 8, 'ratio': 0.7, 'max_header': 6, 'min_header': 2}
 default_setting = {'miniumu_row': 5, 'ratio': 0.85, 'max_header': 10, 'min_header': 2}
-with open('Wikipedia/wiki-intro-with-ents-dict.json', 'r') as f:
-    cache = json.load(f)
-with open('Wikipedia/redirect_link.json', 'r') as f:
-    redirect = json.load(f)
+
+if len(sys.argv) == 2:
+    steps = sys.argv[1].split(',')
+else:
+    steps = ['1', '2', '3', '4', '5', '6', '7']
+
+if '3' in steps:
+    with open('Wikipedia/wiki-intro-with-ents-dict.json', 'r') as f:
+        cache = json.load(f)
+    with open('Wikipedia/redirect_link.json', 'r') as f:
+        redirect = json.load(f)
+    with open('data/old_merged_unquote.json', 'r') as f:
+        dictionary = json.load(f)
 
 def tokenize(string, remmove_dot=False):
     def func(string):
@@ -120,13 +129,22 @@ def normalize(string):
 
 def harvest_tables(f_name):
     results = []
-    with open(os.path.join(input_htmls, f_name), 'r') as f:
+    with open(f_name, 'r') as f:
         soup = BeautifulSoup(f, 'html.parser')
-        rs = soup.find_all(class_='wikitable sortable')
-        
+        #rs = soup.find_all(class_='wikitable sortable')
+        tmp = soup.find_all(class_='wikitable')
+        rs = []
+        rest = []
+        for _ in tmp:
+            if _['class'] == ['wikitable', 'sortable']:
+                rs.append(_)
+            else:
+                rest.append(_)
+        rs = rs + rest
         for it, r in enumerate(rs):
             heads = []
             rows = []
+            replicate = {}
             for i, t_row in enumerate(r.find_all('tr')):
                 if i == 0:
                     for h in t_row.find_all(['th', 'td']):
@@ -138,17 +156,31 @@ def harvest_tables(f_name):
                 else:
                     row = []
                     for h in t_row.find_all(['th', 'td']):
+                        col_idx = len(row)
+                        if col_idx in replicate:
+                            row.append(replicate[col_idx][1])
+                            replicate[col_idx][0] = replicate[col_idx][0] - 1
+                            if replicate[col_idx][0] == 0:
+                                del replicate[col_idx]
+
                         h = remove_ref(h)
                         if len(h.find_all('a')) > 0:
-                            row.append(process_link(h))
+                            tmp = process_link(h)
                         else:
-                            row.append(([h.get_text(separator=" ").strip()], [None]))
+                            tmp = ([h.get_text(separator=" ").strip()], [None])
+                        if 'rowspan' in h.attrs:
+                            try:
+                                num = int(h['rowspan'])
+                                replicate[len(row)] = [num - 1, tmp]
+                            except Exception:
+                                pass
+                        row.append(tmp)
 
                     if all([len(cell[0]) == 0 for cell in row]):
                         continue
                     else:
                         rows.append(row)
-            
+
             rows = rows[:20]
             if any([len(row) != len(heads) for row in rows]) or len(rows) < default_setting['miniumu_row']:
                 continue
@@ -164,8 +196,9 @@ def harvest_tables(f_name):
                 title = soup.title.string
                 title = re.sub(' - Wikipedia', '', title)
                 url = 'https://en.wikipedia.org/wiki/{}'.format('_'.join(title.split(' ')))
-                uid = f_name[:-5] + "_{}".format(it)
-                results.append({'url': url, 'title': title, 'header': heads, 'data': rows, 
+                table_name = os.path.split(f_name)[1].replace('.html', '')
+                uid = table_name + "_{}".format(it)
+                results.append({'url': url, 'title': title, 'header': heads, 'data': rows,
                                 'section_title': section_title, 'section_text': section_text,
                                 'uid': uid})
     return results
@@ -236,7 +269,9 @@ def get_summary(page_title):
     if page_title.startswith('/wiki/'):
         page_title = page_title[6:]
     page_title = urllib.parse.unquote(page_title)
-    if page_title in cache:
+    if '/wiki/' + page_title in dictionary:
+        return dictionary['/wiki/' + page_title]
+    elif page_title in cache:
         return cache[page_title]
     else:
         if page_title in redirect['forward']:
@@ -284,15 +319,17 @@ def download_summary(page):
     elif r.status == 429:
         time.sleep(1)
         return download_summary(page)
+    elif r.status == 404:
+        return 'N/A'
     else:
-        raise
+        raise ValueError("return with code {}".format(r.status))
 
 def crawl_hyperlinks(table):
     dictionary = {}
     for cell in table['header']:
         if cell[1]:
             for tmp in cell[1]:
-                if tmp is not None and tmp not in dictionary:                
+                if tmp and tmp not in dictionary:                
                     summary = get_summary(tmp)
                     dictionary[tmp] = summary
         
@@ -300,7 +337,7 @@ def crawl_hyperlinks(table):
         for cell in row:
             if cell[1]:
                 for tmp in cell[1]:
-                    if tmp is not None and tmp not in dictionary:
+                    if tmp and tmp not in dictionary:
                         summary = get_summary(tmp)
                         dictionary[tmp] = summary
     # Getting page summary
@@ -383,10 +420,9 @@ def recover(string):
     string = string.replace('_', ' ')
     return string
     
-def clean_text(k, string):
-    if "Initial visibility" in string:
-        return recover(k)
-    
+def clean_text(string):
+    #if "Initial visibility" in string:
+    #    return recover(k)
     position = string.find("mw-parser-output")
     if position != -1:
         left_quote = position - 1
@@ -435,11 +471,6 @@ def clean_text(k, string):
     return string
     
 if __name__ == "__main__":
-    if len(sys.argv) == 2:
-        steps = sys.argv[1].split(',')
-    else:
-        steps = ['1', '2', '3', '4', '5', '6', '7']
-
     cores = multiprocessing.cpu_count()
     pool = Pool(cores)
     print("Initializing the pool of cores")
@@ -453,7 +484,7 @@ if __name__ == "__main__":
     
     if '1' in steps:
         # Step1: Harvesting the tables
-        rs = pool.map(harvest_tables, os.listdir(input_htmls))
+        rs = pool.map(harvest_tables, glob.glob('{}/*.html'.format(input_htmls)))
         tables = []
         for r in rs:
             tables = tables + r
@@ -470,19 +501,15 @@ if __name__ == "__main__":
         with open('{}/processed_new_table_postfiltering.json'.format(output_folder), 'r') as f:
             tables = json.load(f)
         print("Total of {} tables".format(len(tables)))
-        dictionary = {}
         # Step3: Getting the hyperlinks
         rs = pool.map(crawl_hyperlinks, tables)
         for r in rs:
             dictionary.update(r)
-        print('totally {}'.format(len(dictionary)))
-        failed = [k for k, v in dictionary.items() if v == 'N/A']
-        print('failed {} items'.format(len(failed)))
         for k, v in dictionary.items():
             dictionary[k] = re.sub(r'\[[\d]+\]', '', v).strip()
         merged_unquote = {}
         for k, v in dictionary.items():
-            merged_unquote[urllib.parse.unquote(k)] = v
+            merged_unquote[urllib.parse.unquote(k)] = clean_text(v)
         with open('{}/merged_unquote.json'.format(output_folder), 'w') as f:
             json.dump(merged_unquote, f, indent=2)
         print("Step3: Finishing collecting all the links")
@@ -513,32 +540,31 @@ if __name__ == "__main__":
         # Step 6: distribute the request into separate files 
         with open('{}/merged_unquote.json'.format(output_folder), 'r') as f:
             merged_unquote = json.load(f)
-        for k in merged_unquote:
-            merged_unquote[k] = clean_text(k, merged_unquote[k])
         
         def get_request_summary(f_id):
             with open(f_id) as f:
                 table = json.load(f)
-        
             local_dict = {}
             for d in table['header']:
                 for url in d[1]:
                     if url:
                         url = urllib.parse.unquote(url)
                         local_dict[url] = merged_unquote[url]
-            
             for row in table['data']:
                 for cell in row:
                     for url in cell[1]:
                         if url:
                             url = urllib.parse.unquote(url)
+                            if url not in merged_unquote:
+                                import pdb
+                                pdb.set_trace()
                             local_dict[url] = merged_unquote[url]
-            
             request_file = f_id.replace('/tables/', '/request/')
             with open(request_file, 'w') as f:
                 json.dump(local_dict, f, indent=2)
         
-        for f in glob.glob('{}/tables/*.json'.format(output_folder)):
+        fs = glob.glob('{}/tables/*.json'.format(output_folder))
+        for f in fs:
             get_request_summary(f)
         print("Step5: Finishing distributing the requests")
 
