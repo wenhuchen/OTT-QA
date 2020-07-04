@@ -17,6 +17,13 @@ import urllib.parse
 import glob
 output_folder = 'data'
 input_htmls = 'htmls'
+#default setting
+#default_setting = {'miniumu_row': 8, 'ratio': 0.7, 'max_header': 6, 'min_header': 2}
+default_setting = {'miniumu_row': 5, 'ratio': 0.85, 'max_header': 10, 'min_header': 2}
+with open('Wikipedia/wiki-intro-with-ents-dict.json', 'r') as f:
+    cache = json.load(f)
+with open('Wikipedia/redirect_link.json', 'r') as f:
+    redirect = json.load(f)
 
 def tokenize(string, remmove_dot=False):
     def func(string):
@@ -143,7 +150,7 @@ def harvest_tables(f_name):
                         rows.append(row)
             
             rows = rows[:20]
-            if any([len(row) != len(heads) for row in rows]) or len(rows) < 8:
+            if any([len(row) != len(heads) for row in rows]) or len(rows) < default_setting['miniumu_row']:
                 continue
             else:
                 try:
@@ -176,7 +183,6 @@ def inplace_postprocessing(tables):
             count = 0
             total = len(table['data'])
             for d in table['data']:
-                #print(d[j])
                 if d[j][0][0] != '':
                     count += 1
             
@@ -202,9 +208,9 @@ def inplace_postprocessing(tables):
             del tables[i]['data'][r - bias]
             bias += 1
         
-        if len(table['header']) > 6:
+        if len(table['header']) > default_setting['max_header']:
             deletes.append(i)
-        elif len(table['header']) <= 2:
+        elif len(table['header']) <= default_setting['min_header']:
             deletes.append(i)
         else:
             count = 0
@@ -215,7 +221,7 @@ def inplace_postprocessing(tables):
                         if cell[1] == [None]:
                             count += 1                    
                         total += 1
-            if count / total >= 0.7:
+            if count / total >= default_setting['ratio']:
                 deletes.append(i)
 
     print('out of {} tables, {} need to be deleted'.format(len(tables), len(deletes)))
@@ -225,7 +231,24 @@ def inplace_postprocessing(tables):
         del tables[i - bias]
         bias += 1
 
-def get_summary(page):
+def get_summary(page_title):
+    original_title = copy.copy(page_title)
+    if page_title.startswith('/wiki/'):
+        page_title = page_title[6:]
+    page_title = urllib.parse.unquote(page_title)
+    if page_title in cache:
+        return cache[page_title]
+    else:
+        if page_title in redirect['forward']:
+            page_title = redirect['forward'][page_title]
+            if page_title in cache:
+                return cache[page_title]
+            else:
+                return download_summary(original_title)
+        else:
+            return download_summary(original_title)
+
+def download_summary(page):
     if page.startswith('https'):
         pass
     elif page.startswith('/wiki'):
@@ -236,67 +259,59 @@ def get_summary(page):
     r = http.request('GET', page)
     if r.status == 200:
         data = r.data.decode('utf-8')
-        data = data.replace('</p><p>', ' ')        
+        data = data.replace('</p><p>', ' ') 
         soup = BeautifulSoup(data, 'html.parser')
-
         div = soup.body.find("div", {"class": "mw-parser-output"})
-
-        children = div.findChildren("p" , recursive=False)
-        summary = 'N/A'
-        for child in children:
-            if child.get_text().strip() != "":
-                html = str(child)
-                html = html[html.index('>') + 1:].strip()
-                if not html.startswith('<'):
-                    summary = child.get_text(separator=" ").strip()
-                    break
-                elif html.startswith('<a>') or html.startswith('<b>') or \
-                        html.startswith('<i>') or html.startswith('<a ') or html.startswith('<br>'):
-                    summary = child.get_text(separator=" ").strip()
-                    break
-                else:
-                    continue
-        return summary
+        if div:
+            children = div.findChildren("p" , recursive=False)
+            summary = 'N/A'
+            for child in children:
+                if child.get_text().strip() != "":
+                    html = str(child)
+                    html = html[html.index('>') + 1:].strip()
+                    if not html.startswith('<'):
+                        summary = child.get_text(separator=" ").strip()
+                        break
+                    elif html.startswith('<a>') or html.startswith('<b>') or \
+                            html.startswith('<i>') or html.startswith('<a ') or html.startswith('<br>'):
+                        summary = child.get_text(separator=" ").strip()
+                        break
+                    else:
+                        continue
+            return summary
+        else:
+            return 'N/A'
     elif r.status == 429:
         time.sleep(1)
-        return get_summary(page)
+        return download_summary(page)
     else:
         raise
 
-def crawl_hyperlinks(inputs):
-    table, index = inputs
+def crawl_hyperlinks(table):
     dictionary = {}
     for cell in table['header']:
         if cell[1]:
             for tmp in cell[1]:
-                if tmp not in dictionary:                
-                    try:
-                        summary = get_summary(tmp)
-                        dictionary[tmp] = summary
-                    except Exception:
-                        dictionary[tmp] = 'N/A'
+                if tmp is not None and tmp not in dictionary:                
+                    summary = get_summary(tmp)
+                    dictionary[tmp] = summary
         
     for row in table['data']:
         for cell in row:
             if cell[1]:
                 for tmp in cell[1]:
-                    if tmp not in dictionary:
-                        try:
-                            summary = get_summary(tmp)
-                            dictionary[tmp] = summary
-                        except Exception:
-                            dictionary[tmp] = 'N/A'
-    
-    return dictionary
-
-def summarize(table):
-    tmp = '_'.join(table['title'].split(' '))
-    name = '/wiki/{}'.format(tmp)
+                    if tmp is not None and tmp not in dictionary:
+                        summary = get_summary(tmp)
+                        dictionary[tmp] = summary
+    # Getting page summary
+    index = table['url'].index('/wiki/') + 6
+    name = table['url'][index:]
     try:
-        summary = get_summary(table['url'])
+        summary = get_summary(name)
     except Exception:
         summary = 'N/A'
-    return name, summary
+    dictionary[name] = summary
+    return dictionary
 
 def clean_cell_text(string):
     string = string.replace('"', '')
@@ -385,14 +400,10 @@ def clean_text(k, string):
         
         position = string.find("mw-parser-output")
         if position != -1:
-            #print(string)
             right_quote = position + 1
             while right_quote < len(string) and string[right_quote] != '\n':
                 right_quote += 1
-            #print("----------------")
             string = string[:position] + string[right_quote + 1:]
-            #print(string)
-            #print("################")
     
     string = string.replace(u'\xa0', u' ')
     string = string.replace('\ufeff', '')
@@ -456,15 +467,14 @@ if __name__ == "__main__":
         print("Step2: Finsihing postprocessing the tables")
 
     if '3' in steps:
+        with open('{}/processed_new_table_postfiltering.json'.format(output_folder), 'r') as f:
+            tables = json.load(f)
+        print("Total of {} tables".format(len(tables)))
         dictionary = {}
         # Step3: Getting the hyperlinks
-        rs = pool.map(crawl_hyperlinks, zip(tables, range(len(tables))))
-        title_dictionary = dict(rs)
-        dictionary.update(title_dictionary)
-        print("Step3: Finsihing downloading hyperlinks")
-        rs = pool.map(summarize, tables)
-        title_dictionary = dict(rs)
-        dictionary.update(title_dictionary)
+        rs = pool.map(crawl_hyperlinks, tables)
+        for r in rs:
+            dictionary.update(r)
         print('totally {}'.format(len(dictionary)))
         failed = [k for k, v in dictionary.items() if v == 'N/A']
         print('failed {} items'.format(len(failed)))
@@ -475,14 +485,14 @@ if __name__ == "__main__":
             merged_unquote[urllib.parse.unquote(k)] = v
         with open('{}/merged_unquote.json'.format(output_folder), 'w') as f:
             json.dump(merged_unquote, f, indent=2)
-        print("Step3: Finishing collecting the hyperlinks")
+        print("Step3: Finishing collecting all the links")
 
     if '4' in steps:
         # Step5: distribute the tables into separate files
         with open('{}/processed_new_table_postfiltering.json'.format(output_folder), 'r') as f:
             tables = json.load(f)
         for idx, table in enumerate(tables):
-            table['idx'] = idx
+            #table['idx'] = idx
             for row_idx, row in enumerate(table['data']):
                 for col_idx, cell in enumerate(row):
                     for i, ent in enumerate(cell[0]):
@@ -494,8 +504,9 @@ if __name__ == "__main__":
                     if ent:
                         table['header'][col_idx][0][i] = clean_cell_text(ent)
             
-            with open('{}/tables/{}.json'.format(output_folder, table['idx']), 'w') as f:
+            with open('{}/tables/{}.json'.format(output_folder, table['uid']), 'w') as f:
                 json.dump(table, f, indent=2)
+
         print("Step4: Finishing distributing the tables")
 
     if '5' in steps:
@@ -506,28 +517,28 @@ if __name__ == "__main__":
             merged_unquote[k] = clean_text(k, merged_unquote[k])
         
         def get_request_summary(f_id):
-            if f_id.endswith('.json'):
-                with open('{}/tables/{}'.format(output_folder, f_id)) as f:
-                    table = json.load(f)
+            with open(f_id) as f:
+                table = json.load(f)
+        
+            local_dict = {}
+            for d in table['header']:
+                for url in d[1]:
+                    if url:
+                        url = urllib.parse.unquote(url)
+                        local_dict[url] = merged_unquote[url]
             
-                local_dict = {}
-                for d in table['header']:
-                    for url in d[1]:
+            for row in table['data']:
+                for cell in row:
+                    for url in cell[1]:
                         if url:
                             url = urllib.parse.unquote(url)
                             local_dict[url] = merged_unquote[url]
-                
-                for row in table['data']:
-                    for cell in row:
-                        for url in cell[1]:
-                            if url:
-                                url = urllib.parse.unquote(url)
-                                local_dict[url] = merged_unquote[url]
-
-                with open('{}/request/{}'.format(output_folder, f_id), 'w') as f:
-                    json.dump(local_dict, f, indent=2)
+            
+            request_file = f_id.replace('/tables/', '/request/')
+            with open(request_file, 'w') as f:
+                json.dump(local_dict, f, indent=2)
         
-        for f in os.listdir('{}/tables/'.format(output_folder)):
+        for f in glob.glob('{}/tables/*.json'.format(output_folder)):
             get_request_summary(f)
         print("Step5: Finishing distributing the requests")
 
@@ -577,4 +588,3 @@ if __name__ == "__main__":
         pool.close()
         pool.join()
         print("Step7: Finishing tokenization")
-
