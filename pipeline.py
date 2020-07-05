@@ -1,20 +1,21 @@
 import time
 import os
-from bs4 import BeautifulSoup
 import sys
 import json
 import re
+from bs4 import BeautifulSoup
 from multiprocessing import Pool
 import multiprocessing
-from bs4 import BeautifulSoup
 import urllib3
-http = urllib3.PoolManager()
-urllib3.disable_warnings()
 import copy
 from shutil import copyfile
 from nltk.tokenize import word_tokenize, sent_tokenize
 import urllib.parse
 import glob
+http = urllib3.PoolManager()
+urllib3.disable_warnings()
+from utils import *
+
 output_folder = 'data'
 input_htmls = 'htmls'
 #default setting
@@ -31,24 +32,8 @@ if '3' in steps:
         cache = json.load(f)
     with open('Wikipedia/redirect_link.json', 'r') as f:
         redirect = json.load(f)
-    with open('data/old_merged_unquote.json', 'r') as f:
+    with open('Wikipedia/old_merged_unquote.json', 'r') as f:
         dictionary = json.load(f)
-
-def tokenize(string, remmove_dot=False):
-    def func(string):
-        return " ".join(word_tokenize(string))
-    
-    string = string.rstrip('.')
-    return func(string)
-
-def url2dockey(string):
-    string = urllib.parse.unquote(string)
-    return string
-
-def filter_firstKsents(string, k):
-    string = sent_tokenize(string)
-    string = string[:k]
-    return " ".join(string)
 
 def process_link(text):
     tmp = []
@@ -381,39 +366,39 @@ def clean_cell_text(string):
     return string
 
 def tokenization_tab(f_n):
-    if f_n.endswith('.json'):
-        with open('{}/tables/{}'.format(output_folder, f_n)) as f:
-            table = json.load(f)
-        
-        for row_idx, row in enumerate(table['data']):
-            for col_idx, cell in enumerate(row):
-                for i, ent in enumerate(cell[0]):
-                    if ent:
-                        table['data'][row_idx][col_idx][0][i] = tokenize(ent, True)
-                    if table['data'][row_idx][col_idx][1][i]:
-                        table['data'][row_idx][col_idx][1][i] = urllib.parse.unquote(table['data'][row_idx][col_idx][1][i])
-        
-        for col_idx, header in enumerate(table['header']):
-            for i, ent in enumerate(header[0]):
+    with open(f_n) as f:
+        table = json.load(f)
+    
+    for row_idx, row in enumerate(table['data']):
+        for col_idx, cell in enumerate(row):
+            for i, ent in enumerate(cell[0]):
                 if ent:
-                    table['header'][col_idx][0][i] = tokenize(ent, True)
-                if table['header'][col_idx][1][i]:
-                    table['header'][col_idx][1][i] = urllib.parse.unquote(table['header'][col_idx][1][i])
-
-        with open('{}/tables_tok/{}'.format(output_folder, f_n), 'w') as f:
-            json.dump(table, f, indent=2)
+                    table['data'][row_idx][col_idx][0][i] = tokenize(ent, True)
+                if table['data'][row_idx][col_idx][1][i]:
+                    table['data'][row_idx][col_idx][1][i] = urllib.parse.unquote(table['data'][row_idx][col_idx][1][i])
+    
+    for col_idx, header in enumerate(table['header']):
+        for i, ent in enumerate(header[0]):
+            if ent:
+                table['header'][col_idx][0][i] = tokenize(ent, True)
+            if table['header'][col_idx][1][i]:
+                table['header'][col_idx][1][i] = urllib.parse.unquote(table['header'][col_idx][1][i])
+    
+    f_n = f_n.replace('/tables/', '/tables_tok/')
+    with open(f_n, 'w') as f:
+        json.dump(table, f, indent=2)
 
 def tokenization_req(f_n):
-    if f_n.endswith('.json'):
-        with open('{}/{}/{}'.format(output_folder, 'request', f_n)) as f:
-            request_document = json.load(f)
+    with open(f_n) as f:
+        request_document = json.load(f)
 
-        for k, v in request_document.items():
-            sents = tokenize(v)
-            request_document[k] = sents
+    for k, v in request_document.items():
+        sents = tokenize(v)
+        request_document[k] = sents
 
-        with open('{}/request_tok/{}'.format(output_folder, f_n), 'w') as f:
-            json.dump(request_document, f, indent=2)
+    f_n = f_n.replace('/request/', '/request_tok/')
+    with open(f_n, 'w') as f:
+        json.dump(request_document, f, indent=2)
 
 def recover(string):
     string = string[6:]
@@ -519,7 +504,6 @@ if __name__ == "__main__":
         with open('{}/processed_new_table_postfiltering.json'.format(output_folder), 'r') as f:
             tables = json.load(f)
         for idx, table in enumerate(tables):
-            #table['idx'] = idx
             for row_idx, row in enumerate(table['data']):
                 for col_idx, cell in enumerate(row):
                     for i, ent in enumerate(cell[0]):
@@ -530,11 +514,27 @@ if __name__ == "__main__":
                 for i, ent in enumerate(header[0]):
                     if ent:
                         table['header'][col_idx][0][i] = clean_cell_text(ent)
-            
+
+            headers = table['header']
+            if headers[0][0] == ['']:
+                for i in range(len(table['data'])):
+                    del table['data'][i][0]
+                del headers[0]
+            if any([_[0] == ['Rank'] for _ in headers]):
+                if table['data'][0][0][0] == ['']:
+                    for i in range(len(table['data'])):
+                        if table['data'][i][0][0] == ['']:
+                            table['data'][i][0][0] = [str(i + 1)]
+            if any([_[0] == ['Place'] for _ in headers]):
+                if table['data'][0][0][0] == ['']:
+                    for i in range(len(table['data'])):
+                        if table['data'][i][0][0] == ['']:
+                            table['data'][i][0][0] = [str(i + 1)]
+
             with open('{}/tables/{}.json'.format(output_folder, table['uid']), 'w') as f:
                 json.dump(table, f, indent=2)
 
-        print("Step4: Finishing distributing the tables")
+        print("Step4: Finishing remove unnecessary cells")
 
     if '5' in steps:
         # Step 6: distribute the request into separate files 
@@ -555,9 +555,6 @@ if __name__ == "__main__":
                     for url in cell[1]:
                         if url:
                             url = urllib.parse.unquote(url)
-                            if url not in merged_unquote:
-                                import pdb
-                                pdb.set_trace()
                             local_dict[url] = merged_unquote[url]
             request_file = f_id.replace('/tables/', '/request/')
             with open(request_file, 'w') as f:
@@ -566,51 +563,20 @@ if __name__ == "__main__":
         fs = glob.glob('{}/tables/*.json'.format(output_folder))
         for f in fs:
             get_request_summary(f)
+
         print("Step5: Finishing distributing the requests")
 
     if '6' in steps:
-        for fn in glob.glob('{}/tables/*.json'.format(output_folder)):
-            with open(fn) as f:
-                table = json.load(f)
-            
-            headers = table['header']
-            if headers[0][0] == ['']:
-                for i in range(len(table['data'])):
-                    del table['data'][i][0]
-                del headers[0]
-                with open(fn, 'w') as f:
-                    json.dump(table, f, indent=2)
-                        
-        for fn in glob.glob('{}/tables/*.json'.format(output_folder)):
-            with open(fn) as f:
-                table = json.load(f)
-            headers = table['header']
-            if any([_[0] == ['Rank'] for _ in headers]):
-                if table['data'][0][0][0] == ['']:
-                    for i in range(len(table['data'])):
-                        if table['data'][i][0][0] == ['']:
-                            table['data'][i][0][0] = [str(i + 1)]
-                    
-                    with open(fn, 'w') as f:
-                        json.dump(table, f, indent=2)
-            if any([_[0] == ['Place'] for _ in headers]):
-                if table['data'][0][0][0] == ['']:
-                    for i in range(len(table['data'])):
-                        if table['data'][i][0][0] == ['']:
-                            table['data'][i][0][0] = [str(i + 1)]
-                    with open(fn, 'w') as f:
-                        json.dump(table, f, indent=2)
-        print("Step6: Finishing remove unnecessary cells")
-
-    if '7' in steps:
         # Step7: tokenize the tables and request
         if not os.path.exists('{}/request_tok'.format(output_folder)):
             os.mkdir('{}/request_tok'.format(output_folder))
         if not os.path.exists('{}/tables_tok'.format(output_folder)):
             os.mkdir('{}/tables_tok'.format(output_folder))
-        pool.map(tokenization_req, os.listdir('{}/request'.format(output_folder)))
-        pool.map(tokenization_tab, os.listdir('{}/tables'.format(output_folder)))
+
+        print("Step7: Starting tokenizing")
+        pool.map(tokenization_req, glob.glob('{}/request/*.json'.format(output_folder)))
+        pool.map(tokenization_tab, glob.glob('{}/tables/*.json'.format(output_folder)))
 
         pool.close()
         pool.join()
-        print("Step7: Finishing tokenization")
+        print("Step6: Finishing tokenization")
