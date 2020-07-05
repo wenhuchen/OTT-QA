@@ -35,6 +35,10 @@ if '3' in steps:
     with open('Wikipedia/old_merged_unquote.json', 'r') as f:
         dictionary = json.load(f)
 
+def tokenize_merged(k_v):
+    k, v = k_v
+    return k, tokenize(v)
+
 def process_link(text):
     tmp = []
     hrefs = []
@@ -383,7 +387,7 @@ def tokenization_tab(f_n):
                 table['header'][col_idx][0][i] = tokenize(ent, True)
             if table['header'][col_idx][1][i]:
                 table['header'][col_idx][1][i] = urllib.parse.unquote(table['header'][col_idx][1][i])
-    
+
     f_n = f_n.replace('/tables/', '/tables_tok/')
     with open(f_n, 'w') as f:
         json.dump(table, f, indent=2)
@@ -503,6 +507,9 @@ if __name__ == "__main__":
         # Step5: distribute the tables into separate files
         with open('{}/processed_new_table_postfiltering.json'.format(output_folder), 'r') as f:
             tables = json.load(f)
+        with open('{}/merged_unquote.json'.format(output_folder), 'r') as f:
+            merged_unquote = json.load(f)
+
         for idx, table in enumerate(tables):
             for row_idx, row in enumerate(table['data']):
                 for col_idx, cell in enumerate(row):
@@ -531,6 +538,10 @@ if __name__ == "__main__":
                         if table['data'][i][0][0] == ['']:
                             table['data'][i][0][0] = [str(i + 1)]
 
+            index = table['url'].index('/wiki/') + 6
+            name = table['url'][index:]
+            summary = merged_unquote[name]
+            table['intro'] = summary
             with open('{}/tables/{}.json'.format(output_folder, table['uid']), 'w') as f:
                 json.dump(table, f, indent=2)
 
@@ -573,10 +584,23 @@ if __name__ == "__main__":
         if not os.path.exists('{}/tables_tok'.format(output_folder)):
             os.mkdir('{}/tables_tok'.format(output_folder))
 
-        print("Step7: Starting tokenizing")
+        print("Step6: Starting tokenizing")
         pool.map(tokenization_req, glob.glob('{}/request/*.json'.format(output_folder)))
         pool.map(tokenization_tab, glob.glob('{}/tables/*.json'.format(output_folder)))
-
-        pool.close()
-        pool.join()
+        
+        """
+        print("Step6: Starting tokenizing merged unquote")
+        with open('data/merged_unquote.json', 'r') as f:
+            merged_unquote = json.load(f)
+        
+        results = pool.map(tokenize_merged, merged_unquote.items())
+        merged_unquote = dict(results)
+        with open('data/merged_unquote_tok.json', 'w') as f:
+            json.dump(merged_unquote, f, indent=2)
+        """
         print("Step6: Finishing tokenization")
+
+    # Wrapping up the results
+    pool.close()
+    pool.join()
+
