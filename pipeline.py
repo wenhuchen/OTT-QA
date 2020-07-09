@@ -15,6 +15,7 @@ import glob
 http = urllib3.PoolManager()
 urllib3.disable_warnings()
 from utils import *
+import os
 
 output_folder = 'data'
 input_htmls = 'htmls'
@@ -584,10 +585,28 @@ if __name__ == "__main__":
         if not os.path.exists('{}/tables_tok'.format(output_folder)):
             os.mkdir('{}/tables_tok'.format(output_folder))
 
-        print("Step6: Starting tokenizing")
+        deletes = []
+        for f in glob.glob('{}/request/*.json'.format(output_folder)):
+            with open(f) as handle:
+                request_docs = json.load(handle)
+
+            if len(request_docs) == 0:
+                deletes.append(f)
+                deletes.append(f.replace('/request/', '/tables/'))
+            else:
+                if len([v for v in request_docs.values() if len(v) > 5]) > 3:
+                    pass
+                else:
+                    deletes.append(f)
+                    deletes.append(f.replace('/request/', '/tables/'))
+
+        assert 'data/request/Lone_Wolf_and_Cub_1.json' in deletes
+        print("deleting list has {} items".format(len(deletes)))
+        for d in deletes:
+            os.remove(d)
+        print("Step6: Starting tokenizing")   
         pool.map(tokenization_req, glob.glob('{}/request/*.json'.format(output_folder)))
         pool.map(tokenization_tab, glob.glob('{}/tables/*.json'.format(output_folder)))
-        
         """
         print("Step6: Starting tokenizing merged unquote")
         with open('data/merged_unquote.json', 'r') as f:
