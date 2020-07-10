@@ -1,14 +1,15 @@
-## Crawling Wikipedia Tables
+# Crawling Wikipedia Tables
 
-### Download the original HTML files from Wikipedia
+## Download the original HTML files from Wikipedia
 ```
 	wget https://opendomainhybridqa.s3-us-west-2.amazonaws.com/htmls_containing_tables.zip
+	wget https://opendomainhybridqa.s3-us-west-2.amazonaws.com/Wikipedia.zip
 	unzip htmls_containing_tables.zip
-
+	unzip Wikipedia.zip
 ```
 After this step, you will have a htmls/ folder containing thousands of htmls files with plausible Wikipedia tables contained.
 
-### Extracting tables and preprocess them
+## Extracting tables and preprocess them
 ```
 	python pipeline.py
 ```
