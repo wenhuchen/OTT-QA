@@ -416,21 +416,21 @@ def prepare_stage1_data(data):
             tmp = []
             labels = []
             for node in d['tf-idf']:
-                tmp.append(node + [headers[node[1][1]], 'tf-idf'])        
+                tmp.append(list(node) + [headers[node[1][1]], 'tf-idf'])        
                 if node[1][0] in answer_rows:
                     labels.append(1)
                 else:
                     labels.append(0)
 
             for node in d['string-overlap']:
-                tmp.append(node + [headers[node[1][1]], 'string-overlap'])        
+                tmp.append(list(node) + [headers[node[1][1]], 'string-overlap'])        
                 if node[1][0] in answer_rows:
                     labels.append(1)
                 else:
                     labels.append(0)
 
             for node in d['links']:
-                tmp.append(node + [headers[node[1][1]], 'links'])   
+                tmp.append(list(node) + [headers[node[1][1]], 'links'])   
                 if node[1][0] in answer_rows:
                     labels.append(1)
                 else:
@@ -461,7 +461,8 @@ def prepare_stage2_data(d):
             for node in source:
                 i = node[1][0]
                 if i in answer_rows and i >= 0:
-                    tmp = {'question': d['question'], 'question_id': d['question_id'], 'table_id': d['table_id'], 'current': node + [headers[node[1][1]], name]}
+                    tmp = {'question': d['question'], 'question_id': d['question_id'], 'table_id': d['table_id'], 
+                            'current': list(node) + [headers[node[1][1]], name]}
                     target_nodes = []
                     labels = []
                     same_row = table['data'][i]

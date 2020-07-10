@@ -37,25 +37,25 @@ if __name__ == '__main__':
     elif args.split == 'train':
         with open('released_data/train.json', 'r') as f:
             train_data = json.load(f)       
-        
-        results = pool.map(IR, train_data)
+
+        results1 = pool.map(IR, train_data)
         results2 = pool.map(CELL, results1)
         train_results = analyze(results2)
         with open('preprocessed_data/train_linked.json', 'w') as f:
-            json.dump(results, f, indent=2)
-
-        results = prepare_stage1_data(data)
+            json.dump(train_results, f, indent=2)
+ 
+        results = prepare_stage1_data(train_results)
         with open('preprocessed_data/stage1_training_data.json', 'w') as f:
             json.dump(results, f, indent=2)
 
-        results = pool.map(prepare_stage2_data, data)
+        results = pool.map(prepare_stage2_data, train_results)
         train_split = []
         for r1 in results:
             train_split.extend(r1)
         with open('preprocessed_data/stage2_training_data.json', 'w') as f:
             json.dump(train_split, f, indent=2)
 
-        results = prepare_stage3_data(data)
+        results = prepare_stage3_data(train_results)
         with open('preprocessed_data/stage3_training_data.json', 'w') as f:
             json.dump(results, f, indent=2)
     else:
