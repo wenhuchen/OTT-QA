@@ -18,6 +18,7 @@ What's new compared to [HybridQA](http://hybridqa.github.io/):
 - [HuggingFace](https://github.com/huggingface/transformers)
 - [DocQA](https://github.com/facebookresearch/DrQA)
 - [Pytorch 1.4](https://pytorch.org/)
+
 We suggest using virtual environment to install these dependencies.
 ```
 pip install transformers
@@ -29,8 +30,8 @@ cd DrQA; pip install -r requirements.txt; python setup.py develop
 ```
 
 ## Additional Information
-If you want to know more about the crawling procedure, please refer to ?? for details.
-If you want to know more about the retrieval procedure, please refer to ?? for details.
+If you want to know more about the crawling procedure, please refer to (README)[] for details.
+If you want to know more about the retrieval procedure, please refer to (README)[] for details.
 
 
 ## Step1: Download necessary files 
