@@ -32,8 +32,10 @@ cd DrQA; pip install -r requirements.txt; python setup.py develop
 
 ## Additional Information
 If you want to know more about the crawling procedure, please refer to [crawling](https://github.com/wenhuchen/OpenDomainHybridQA/blob/master/crawl_tables.md) for details.
+
 If you want to know more about the retrieval procedure, please refer to [retriever](https://github.com/wenhuchen/OpenDomainHybridQA/tree/master/retriever) for details.
 
+Or you can skip these two steps to directly download the needed files from AWS in Step1.
 
 ## Step1: Download the necessary files 
 ```
