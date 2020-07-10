@@ -4,7 +4,7 @@ This part is mainly from https://github.com/facebookresearch/DrQA. Thank their a
 
 ## Building the table indexes files
 ```
-  python build_corpus.py --build 1,2,4
+python build_corpus.py --build 1,2,4
 ```
 This script generate the index representation of each table using title, section title and table schema.
 
