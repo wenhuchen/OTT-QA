@@ -30,8 +30,8 @@ cd DrQA; pip install -r requirements.txt; python setup.py develop
 ```
 
 ## Additional Information
-If you want to know more about the crawling procedure, please refer to (README)[] for details.
-If you want to know more about the retrieval procedure, please refer to (README)[] for details.
+If you want to know more about the crawling procedure, please refer to [crawling]() for details.
+If you want to know more about the retrieval procedure, please refer to [retriever](https://github.com/wenhuchen/OpenDomainHybridQA/tree/master/retriever) for details.
 
 
 ## Step1: Download necessary files 
