@@ -35,10 +35,12 @@ If you want to know more about the crawling procedure, please refer to [crawling
 If you want to know more about the retrieval procedure, please refer to [retriever](https://github.com/wenhuchen/OpenDomainHybridQA/tree/master/retriever) for details.
 
 
-## Step1: Download necessary files 
+## Step1: Download the necessary files 
 ```
 wget https://opendomainhybridqa.s3-us-west-2.amazonaws.com/data.zip
+wget https://opendomainhybridqa.s3-us-west-2.amazonaws.com/tf-idf-124-index.zip
 unzip data.zip
+unzip tf-idf-124-index.zip
 ```
 This command will download the crawled tables and linked passages from Wikiepdia in a cleaned format.
 
