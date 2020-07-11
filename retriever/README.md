@@ -11,12 +11,12 @@ This script generate the index representation of each table using title, section
 ## Storing the Documents
 To create a sqlite db from a corpus of documents, run:
 ```
-python build_db.py data/solr-input.json data/WikiTables_124.db
+python build_db.py data/tf-idf-input.json data/WikiTables_124.db
 ```
 
 ## Building TF-IDF index
 To build a TF-IDF index.
 ```
-python build_tfidf.py data/WikiTables_124.db data/WikiTablesInv.db tf-idf-124
+python build_tfidf.py data/WikiTables_124.db data/WikiTables_124.db tf-idf-124
 ```
 The file will generate a indexing numpy file in the folder of tf-idf-124/
