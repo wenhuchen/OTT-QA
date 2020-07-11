@@ -29,7 +29,7 @@ args = parser.parse_args()
 logger.info('Initializing ranker...')
 ranker = retriever.get_class('tfidf')(tfidf_path=args.model)
 
-with open('released_data/dev.oracle_retrieval.json', 'r') as f:
+with open('released_data/test.oracle_retrieval.json', 'r') as f:
     data = json.load(f)
 
 

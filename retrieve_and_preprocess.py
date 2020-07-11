@@ -30,7 +30,17 @@ if __name__ == '__main__':
         results2 = pool.map(CELL, results1)
         with open(f'preprocessed_data/{split}_linked.json', 'w') as f:
             json.dump(results2, f, indent=2)
-
+        dev_inputs = generate_inputs(results2)
+        with open(f'preprocessed_data/{split}_inputs.json', 'w') as f:
+            json.dump(dev_inputs, f, indent=2)
+    if args.split in ['dev.oracle', 'test.oracle']:
+        split = args.split
+        with open(f'released_data/{split}_retrieval.json', 'r') as f:
+            dev_data = json.load(f)
+        results1 = pool.map(IR, dev_data)
+        results2 = pool.map(CELL, results1)
+        with open(f'preprocessed_data/{split}_linked.json', 'w') as f:
+            json.dump(results2, f, indent=2)
         dev_inputs = generate_inputs(results2)
         with open(f'preprocessed_data/{split}_inputs.json', 'w') as f:
             json.dump(dev_inputs, f, indent=2)
