@@ -12,7 +12,8 @@ What's new compared to [HybridQA](http://hybridqa.github.io/):
 ## Folder Hierarchy
 - released_data: this folder contains the question/answer pairs for training, dev and test data.
 - data/: this folder contains the preprocessed pool of tables and their associated passages from Wikipedia, roughtly 150K in total.
-- Wikipedia/ and htmls/: the folder containing the information from Wikipedia, you need it only if you want to re-do the crawling procedure.
+- Wikipedia/ and htmls/: the folder containing the information from Wikipedia, you need it only if you want to re-do the 
+ing procedure.
 
 ## Requirements
 - [HuggingFace](https://github.com/huggingface/transformers)
@@ -30,14 +31,18 @@ cd DrQA; pip install -r requirements.txt; python setup.py develop
 ```
 
 ## Additional Information
-If you want to know more about the crawling procedure, please refer to (README)[] for details.
-If you want to know more about the retrieval procedure, please refer to (README)[] for details.
+If you want to know more about the crawling procedure, please refer to [crawling](https://github.com/wenhuchen/OpenDomainHybridQA/blob/master/crawl_tables.md) for details.
 
+If you want to know more about the retrieval procedure, please refer to [retriever](https://github.com/wenhuchen/OpenDomainHybridQA/tree/master/retriever) for details.
 
-## Step1: Download necessary files 
+Or you can skip these two steps to directly download the needed files from AWS in Step1.
+
+## Step1: Download the necessary files 
 ```
 wget https://opendomainhybridqa.s3-us-west-2.amazonaws.com/data.zip
+wget https://opendomainhybridqa.s3-us-west-2.amazonaws.com/tf-idf-124-index.zip
 unzip data.zip
+unzip tf-idf-124-index.zip
 ```
 This command will download the crawled tables and linked passages from Wikiepdia in a cleaned format.
 
