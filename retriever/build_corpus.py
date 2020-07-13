@@ -72,20 +72,5 @@ elif args.build == '1':
         content = "{}".format(title)
         fw.write(json.dumps({'id': table['uid'], 'text': content}) + '\n')
     fw.close()
-
-elif args.build == 'inverse-124':
-    fw = open('data/tf-idf-input-inv-124.json', 'w')
-    for fname in glob.glob('../data/tables_tok/*.json'):
-        with open(fname, 'r') as f:
-            table = json.load(f)
-        title = table['title']
-        section_title = table['section_title']
-        headers = []
-        for h in table['header']:
-            headers.append(' '.join(h[0]))
-        headers = ' '.join(headers)
-        content = "{} | {} | {}".format(title, section_title, headers)
-        fw.write(json.dumps({'id': table['uid'], 'text': content}) + '\n')
-    fw.close()
-lse:
+else:
     raise NotImplementedError

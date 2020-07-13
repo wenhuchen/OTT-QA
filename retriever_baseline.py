@@ -23,11 +23,12 @@ logger.addHandler(console)
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--model', type=str, required=True)
+parser.add_argument('--option', type=str, default='tfidf')
 parser.add_argument('--debug', action='store_true', default=False)
 args = parser.parse_args()
 
 logger.info('Initializing ranker...')
-ranker = retriever.get_class('tfidf')(tfidf_path=args.model)
+ranker = retriever.get_class(args.option)(tfidf_path=args.model)
 
 with open('released_data/test.oracle_retrieval.json', 'r') as f:
     data = json.load(f)

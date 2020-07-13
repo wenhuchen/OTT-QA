@@ -131,7 +131,7 @@ def get_count_matrix(args, db, db_opts):
 # ------------------------------------------------------------------------------
 
 
-def get_tfidf_matrix(cnts, idf_cnts):
+def get_tfidf_matrix(cnts, idf_cnts, option='tf-idf'):
     """Convert the word count matrix into tfidf one.
 
     tfidf = log(tf + 1) * log((N - Nt + 0.5) / (Nt + 0.5))
@@ -139,11 +139,29 @@ def get_tfidf_matrix(cnts, idf_cnts):
     * N = number of documents
     * Nt = number of occurences of term in all documents
     """
+    # Computing the IDF parameters
     Ns = get_doc_freqs(idf_cnts)
     idfs = np.log((idf_cnts.shape[1] - Ns + 0.5) / (Ns + 0.5))
     idfs[idfs < 0] = 0
     idfs = sp.diags(idfs, 0)
-    tfs = cnts.log1p()
+    if option == 'tfidf':
+        # Computing the TF parameters
+        tfs = cnts.log1p()
+    elif option == 'bm25':
+        k1 = 1.5
+        b = 0.75
+        # Computing the saturation parameters
+        doc_length = np.array(cnts.sum(0)).squeeze()
+        doc_length_ratio = k1 * (1 - b + b * doc_length / doc_length.mean())
+        doc_length_ratio = sp.diags(doc_length_ratio, 0)
+        binary = (cnts > 0).astype(int) 
+        masked_length_ratio = binary.dot(doc_length_ratio)
+        denom = cnts.copy()
+        denom.data = denom.data + masked_length_ratio.data
+        tfs = cnts * (1 + k1)
+        tfs.data = tfs.data / denom.data
+    else:
+        raise NotImplementedError
     tfidfs = idfs.dot(tfs)
     return tfidfs
 
@@ -178,7 +196,10 @@ if __name__ == '__main__':
                               "(e.g. 'corenlp')"))
     parser.add_argument('--num-workers', type=int, default=None,
                         help='Number of CPU processes (for tokenizing, etc)')
+    parser.add_argument('--option', type=str, default='tfidf',
+                        help='TF-IDF or BM25')
     args = parser.parse_args()
+    args.option = args.option.lower()
 
     logging.info('Counting words...')
     count_matrix, doc_dict = get_count_matrix(
@@ -189,14 +210,14 @@ if __name__ == '__main__':
     )
 
     logger.info('Making tfidf vectors...')
-    tfidf = get_tfidf_matrix(count_matrix, idf_count_matrix)
+    tfidf = get_tfidf_matrix(count_matrix, idf_count_matrix, option=args.option)
 
     logger.info('Getting word-doc frequencies...')
     freqs = get_doc_freqs(idf_count_matrix)
 
     basename = os.path.splitext(os.path.basename(args.db_path))[0]
-    basename += ('-tfidf-ngram=%d-hash=%d-tokenizer=%s' %
-                 (args.ngram, args.hash_size, args.tokenizer))
+    basename += ('-%s-ngram=%d-hash=%d-tokenizer=%s' %
+                 (args.option, args.ngram, args.hash_size, args.tokenizer))
     filename = os.path.join(args.out_dir, basename)
 
     logger.info('Saving to %s.npz' % filename)
