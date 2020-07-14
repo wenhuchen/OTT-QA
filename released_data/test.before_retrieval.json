@@ -1,40 +1,5 @@
 [
   {
-    "question": "What is the home country of the University of Oxford graduate who was born on 27 September 1951 ?",
-    "answer-text": "Australia",
-    "version": "V3",
-    "question_id": "8ce3401b038625ab",
-    "question_postag": "WP VBZ DT NN NN IN DT NNP IN NNP NN WP VBD VBN IN CD NNP CD ."
-  },
-  {
-    "question": "Who is the oldest person from the United States to graduate from the University of Oxford ?",
-    "answer-text": "Jim Cooper",
-    "version": "V3",
-    "question_id": "a175135eb5a4f4bf",
-    "question_postag": "WP VBZ DT JJS NN IN DT NNP NNPS TO VB IN DT NNP IN NNP ."
-  },
-  {
-    "question": "Who was the most recent person from Canada who attended the University of Oxford that died ?",
-    "answer-text": "James Coyne",
-    "version": "V3",
-    "question_id": "6716a42c67803920",
-    "question_postag": "WP VBD DT RBS JJ NN IN NNP WP VBD DT NNP IN NNP WDT VBD ."
-  },
-  {
-    "question": "How many Australians who attended the University of Oxford were born in the month of September ?",
-    "answer-text": "2",
-    "version": "V3",
-    "question_id": "3f246d0c595cd6db",
-    "question_postag": "WRB JJ NNPS WP VBD DT NNP IN NNP VBD VBN IN DT NN IN NNP ."
-  },
-  {
-    "question": "Who was the University of Oxford graduate that came from a country that was originally populated by the indigenous Taino people ?",
-    "answer-text": "Rub\u00e9n Berr\u00edos",
-    "version": "V3",
-    "question_id": "38802b5c7e6cdfcc",
-    "question_postag": "WP VBD DT NNP IN NNP NN WDT VBD IN DT NN WDT VBD RB VBN IN DT JJ NN NNS ."
-  },
-  {
     "question": "What is the name of the Latin Grammy Award winning album that is the thirteenth studio album from a Puerto Rican-born Mexican singer ?",
     "answer-text": "Amarte Es Un Placer",
     "version": "V3",

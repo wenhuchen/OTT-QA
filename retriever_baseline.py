@@ -24,6 +24,7 @@ logger.addHandler(console)
 parser = argparse.ArgumentParser()
 parser.add_argument('--model', type=str, required=True)
 parser.add_argument('--option', type=str, default='tfidf')
+parser.add_argument('--format', type=str, default='table')
 parser.add_argument('--debug', action='store_true', default=False)
 args = parser.parse_args()
 
@@ -35,17 +36,38 @@ with open('released_data/test.oracle_retrieval.json', 'r') as f:
 
 
 if not args.debug:
-    for k in [1, 5, 10, 20, 50]:
-        succ = 0
-        for i, d in enumerate(data):
-            groundtruth_doc = d['table_id']
-            query = d['question']
-            doc_names, doc_scores = ranker.closest_docs(query, k)
-            if groundtruth_doc in doc_names:
-                succ += 1
-            sys.stdout.write('finished {}/{}; HITS@{} = {} \r'.format(i + 1, len(data), k, succ / (i + 1)))
+    if args.format == 'table':
+        for k in [1, 5, 10, 20, 50]:
+            succ = 0
+            for i, d in enumerate(data):
+                groundtruth_doc = d['table_id']
+                query = d['question']
+                doc_names, doc_scores = ranker.closest_docs(query, k)
+                if groundtruth_doc in doc_names:
+                    succ += 1
+                sys.stdout.write('finished {}/{}; HITS@{} = {} \r'.format(i + 1, len(data), k, succ / (i + 1)))
 
-        print('finished {}/{}; HITS@{} = {} \r'.format(i + 1, len(data), k, succ / (i + 1)))
+            print('finished {}/{}; HITS@{} = {} \r'.format(i + 1, len(data), k, succ / (i + 1)))
+    elif args.format == 'text':
+        print("running ablation study to retrieve text directly")
+        for k in [1, 5, 10, 20, 50]:
+            succ = 0
+            fail = 0
+            for i, d in enumerate(data):
+                if d['where'] == 'passage':
+                    groundtruth_doc = []
+                    for node in d['answer-node']:
+                        groundtruth_doc.append(node[2])
+
+                    query = d['question']
+                    doc_names, doc_scores = ranker.closest_docs(query, k)
+                    if any([_ in doc_names for _ in groundtruth_doc]):
+                        succ += 1
+                    else:
+                        fail += 1
+                    sys.stdout.write('finished {}/{}; HITS@{} = {} \r'.format(i + 1, len(data), k, succ / (succ + fail)))
+
+            print('finished {}/{}; HITS@{} = {} \r'.format(i + 1, len(data), k, succ / (i + 1)))
 else:
     for i, d in enumerate(data):
         groundtruth_doc = d['table_id']

@@ -4,6 +4,7 @@ import os
 import json
 import shutil
 import argparse
+import nltk
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--build', type=str, default=None)
@@ -18,7 +19,10 @@ if args.build == '1,2,3':
         title = table['title']
         section_title = table['section_title']
         section_text = table['section_text']
-        content = "{} | {} | {}".format(title, section_title, section_text)
+        if section_text == '':
+            content = "{} | {}".format(title, section_title)
+        else:
+            content = "{} | {} | {}".format(title, section_title, section_text)
         fw.write(json.dumps({'id': table['uid'], 'text': content}) + '\n')
     fw.close()
 elif args.build == '1,2':
@@ -71,6 +75,13 @@ elif args.build == '1':
         title = table['title']
         content = "{}".format(title)
         fw.write(json.dumps({'id': table['uid'], 'text': content}) + '\n')
+    fw.close()
+elif args.build == 'text':
+    fw = open('data/tf-idf-input.json', 'w')
+    with open('../data/merged_unquote.json', 'r') as f:
+        table = json.load(f)
+    for k, v in table.items():
+        fw.write(json.dumps({'id': k, 'text': v}) + '\n')
     fw.close()
 else:
     raise NotImplementedError
