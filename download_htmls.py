@@ -3,6 +3,11 @@ import sys
 import requests
 import urllib.request, urllib.error, urllib.parse
 import os
+import html
+from urllib.parse import quote
+import time
+
+from_where = sys.argv[1]
 
 def sub_func(d):
     title = d['title']
@@ -34,11 +39,45 @@ def sub_func(d):
             except Exception:
                 return
 
-from multiprocessing import Pool
-with open('processed_table.json') as f:
-    data = json.load(f)
-pool = Pool(64)
-print("Initializing the pool of cores")
-pool.map(sub_func, data)
-pool.close()
-pool.join()
+def download_page(title):
+    title = quote(title) 
+    page = 'https://en.wikipedia.org/wiki/{}'.format(title)
+    if not os.path.exists('htmls/{}.html'.format(title)):
+        response = urllib.request.urlopen(page)
+        webContent = response.read()
+        f = open('htmls/{}.html'.format(title), 'wb')
+        f.write(webContent)
+
+def direct_download(title):
+    try:
+        download_page(title)
+    except Exception as e:
+        if '429' in str(e):
+            print("Sleep and retry")
+            time.sleep(4)
+            try:
+                download_page(title)
+            except Exception:
+                return
+        else:
+            print(e, title)
+            return
+
+if __name__ == '__main__':
+    from multiprocessing import Pool
+    pool = Pool(64)
+    if from_where == 'northwestern': 
+        with open('processed_table.json') as f:
+            data = json.load(f)
+        print("Initializing the pool of cores")
+        pool.map(sub_func, data)
+    elif from_where == 'tapas':
+        with open('tapas_htmls.json', 'r') as f:
+            data = json.load(f)
+        #for d in data:
+        #    direct_download(d)
+        pool.map(direct_download, data)
+    else:
+        raise NotImplementedError
+    pool.close()
+    pool.join()
