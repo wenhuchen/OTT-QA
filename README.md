@@ -39,7 +39,7 @@ Or you can skip these two steps to directly download the needed files from AWS i
 
 ## Step0: Run retrieval experimens:
 ```
-python retriever_baseline.py --model retriever/tf-idf-1/WikiTables_1-tfidf-ngram\=2-hash\=16777216-tokenizer\=simple.npz
+python retriever_baseline.py --model retriever/tf-idf-124/WikiTables_124-tfidf-ngram\=2-hash\=16777216-tokenizer\=simple.npz
 ```
 This script will print the recall@1,5,10,20,50 for TF-IDF retrieval under title+title section+schema setting.
 
