@@ -107,7 +107,7 @@ def IR(data_entry):
     dist_match = longest_match_distance(qs, paras)[0]
     dist = pairwise_distances(q_feature, para_feature, 'cosine')[0]
 
-    threshold = 0.95
+    threshold = 0.99
     tfidf_nodes = []
     string_nodes = []
 

@@ -183,7 +183,7 @@ class Stage12Dataset(Dataset):
                 input_masks.append(input_mask)
                 confs.append([conf])
                 sources.append([source])
-
+            
             max_len = max([len(_) for _ in input_tokens])
             for i in range(len(input_tokens)):
                 input_tokens[i] = input_tokens[i] + ['[PAD]'] * (max_len - len(input_tokens[i]))

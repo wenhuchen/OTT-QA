@@ -12,6 +12,7 @@ import argparse
 import os
 import math
 import logging
+import glob
 
 from multiprocessing import Pool as ProcessPool
 from multiprocessing.util import Finalize
@@ -21,12 +22,184 @@ from collections import Counter
 from drqa import retriever
 from drqa import tokenizers
 
+import sqlite3
+import json
+import importlib.util
+
+from tqdm import tqdm
+from drqa.retriever import utils
+
+
 logger = logging.getLogger()
 logger.setLevel(logging.INFO)
 fmt = logging.Formatter('%(asctime)s: [ %(message)s ]', '%m/%d/%Y %I:%M:%S %p')
 console = logging.StreamHandler()
 console.setFormatter(fmt)
 logger.addHandler(console)
+
+
+# ------------------------------------------------------------------------------
+# Building corpus
+# ------------------------------------------------------------------------------
+
+def build_corpus(build_option, tmp_file):
+    fw = open(tmp_file, 'w')
+    posts = []
+    if build_option == 'title':
+        for fname in glob.glob('../data/tables_tok/*.json'):
+            with open(fname, 'r') as f:
+                table = json.load(f)
+            title = table['title']
+            content = "{}".format(title)
+            fw.write(json.dumps({'id': table['uid'], 'text': content}) + '\n')
+    elif build_option == 'title_sectitle':
+        for fname in glob.glob('../data/tables_tok/*.json'):
+            with open(fname, 'r') as f:
+                table = json.load(f)
+            title = table['title']
+            section_title = table['section_title']
+            content = "{} | {}".format(title, section_title)
+            fw.write(json.dumps({'id': table['uid'], 'text': content}) + '\n')
+    elif build_option == 'title_sectitle_sectext':
+        for fname in glob.glob('../data/tables_tok/*.json'):
+            with open(fname, 'r') as f:
+                table = json.load(f)
+            title = table['title']
+            section_title = table['section_title']
+            section_text = table['section_text']
+            if section_text == '':
+                content = "{} | {}".format(title, section_title)
+            else:
+                content = "{} | {} | {}".format(title, section_title, section_text)
+            fw.write(json.dumps({'id': table['uid'], 'text': content}) + '\n')
+    elif build_option == 'title_sectitle_schema':
+        for fname in glob.glob('../data/tables_tok/*.json'):
+            with open(fname, 'r') as f:
+                table = json.load(f)
+            title = table['title']
+            section_title = table['section_title']
+            headers = []
+            for h in table['header']:
+                headers.append(' '.join(h[0]))
+            headers = ' '.join(headers)
+            content = "{} | {} | {}".format(title, section_title, headers)
+            fw.write(json.dumps({'id': table['uid'], 'text': content}) + '\n')
+    elif build_option == 'title_sectitle_content':
+        for fname in glob.glob('../data/tables_tok/*.json'):
+            with open(fname, 'r') as f:
+                table = json.load(f)
+            title = table['title']
+            section_title = table['section_title']
+            contents = []
+            for h in table['header']:
+                contents.append(' '.join(h[0]))
+            for rows in table['data']:
+                for row in rows:
+                    contents.append(' '.join(row[0]))
+            contents = ' '.join(contents)
+            content = "{} | {} | {}".format(title, section_title, contents)
+            fw.write(json.dumps({'id': table['uid'], 'text': content}) + '\n')
+    elif build_option == 'text':
+        fw = open('data/tf-idf-input.json', 'w')
+        with open('../data/merged_unquote.json', 'r') as f:
+            table = json.load(f)
+        for k, v in table.items():
+            fw.write(json.dumps({'id': k, 'text': v}) + '\n')
+        fw.close()
+    else:
+        raise NotImplementedError
+    fw.close()
+
+# ------------------------------------------------------------------------------
+# Import helper
+# ------------------------------------------------------------------------------
+
+
+PREPROCESS_FN = None
+
+
+def init_preprocess(filename):
+    global PREPROCESS_FN
+    if filename:
+        PREPROCESS_FN = import_module(filename).preprocess
+
+
+def import_module(filename):
+    """Import a module given a full path to the file."""
+    spec = importlib.util.spec_from_file_location('doc_filter', filename)
+    module = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(module)
+    return module
+
+
+# ------------------------------------------------------------------------------
+# Store corpus.
+# ------------------------------------------------------------------------------
+
+
+def iter_files(path):
+    """Walk through all files located under a root path."""
+    if os.path.isfile(path):
+        yield path
+    elif os.path.isdir(path):
+        for dirpath, _, filenames in os.walk(path):
+            for f in filenames:
+                yield os.path.join(dirpath, f)
+    else:
+        raise RuntimeError('Path %s is invalid' % path)
+
+
+def get_contents(filename):
+    """Parse the contents of a file. Each line is a JSON encoded document."""
+    global PREPROCESS_FN
+    documents = []
+    with open(filename) as f:
+        for line in f:
+            # Parse document
+            doc = json.loads(line)
+            # Maybe preprocess the document with custom function
+            if PREPROCESS_FN:
+                doc = PREPROCESS_FN(doc)
+            # Skip if it is empty or None
+            if not doc:
+                continue
+            # Add the document
+            documents.append((utils.normalize(doc['id']), doc['text']))
+    return documents
+
+
+def store_contents(data_path, save_path, preprocess, num_workers=None):
+    """Preprocess and store a corpus of documents in sqlite.
+
+    Args:
+        data_path: Root path to directory (or directory of directories) of files
+          containing json encoded documents (must have `id` and `text` fields).
+        save_path: Path to output sqlite db.
+        preprocess: Path to file defining a custom `preprocess` function. Takes
+          in and outputs a structured doc.
+        num_workers: Number of parallel processes to use when reading docs.
+    """
+    if os.path.isfile(save_path):
+        os.remove(save_path)
+        #raise RuntimeError('%s already exists! Not overwriting.' % save_path)
+
+    logger.info('Reading into database...')
+    conn = sqlite3.connect(save_path)
+    c = conn.cursor()
+    c.execute("CREATE TABLE documents (id PRIMARY KEY, text);")
+
+    workers = ProcessPool(num_workers, initializer=init_preprocess, initargs=(preprocess,))
+    files = [f for f in iter_files(data_path)]
+    count = 0
+    with tqdm(total=len(files)) as pbar:
+        for pairs in tqdm(workers.imap_unordered(get_contents, files)):
+            count += len(pairs)
+            c.executemany("INSERT INTO documents VALUES (?,?)", pairs)
+            pbar.update()
+    logger.info('Read %d docs.' % count)
+    logger.info('Committing...')
+    conn.commit()
+    conn.close()
 
 
 # ------------------------------------------------------------------------------
@@ -180,11 +353,9 @@ def get_doc_freqs(cnts):
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument('db_path', type=str, default=None,
-                        help='Path to sqlite db holding document texts')
-    parser.add_argument('db_idf_path', type=str, default=None,
-                        help='Path to sqlite db holding document texts')
-    parser.add_argument('out_dir', type=str, default=None,
+    parser.add_argument('--build_option', type=str, default=None, 
+                        help='Build option for corpus')
+    parser.add_argument('--out_dir', type=str, default=None,
                         help='Directory for saving output files')
     parser.add_argument('--ngram', type=int, default=2,
                         help=('Use up to N-size n-grams '
@@ -198,15 +369,32 @@ if __name__ == '__main__':
                         help='Number of CPU processes (for tokenizing, etc)')
     parser.add_argument('--option', type=str, default='tfidf',
                         help='TF-IDF or BM25')
+    parser.add_argument('--tmp_file', type=str, default='/tmp/tf-idf-input.json', 
+                        help='Tmp file to put build corpus')
+    parser.add_argument('--tmp_db_file', type=str, default='/tmp/db.json', 
+                        help='Tmp DB file to put build corpus')
+    parser.add_argument('--preprocess', type=str, default=None,
+                        help=('File path to a python module that defines '
+                              'a `preprocess` function'))
     args = parser.parse_args()
     args.option = args.option.lower()
 
+    if not os.path.exists(args.out_dir):
+        os.mkdir(args.out_dir)
+
+    logging.info('Building corpus...')
+    build_corpus(args.build_option, args.tmp_file)
+
+    logging.info('Building DB file...')
+    store_contents(
+        args.tmp_file, args.tmp_db_file, args.preprocess, args.num_workers)
+
     logging.info('Counting words...')
     count_matrix, doc_dict = get_count_matrix(
-        args, 'sqlite', {'db_path': args.db_path}
+        args, 'sqlite', {'db_path': args.tmp_db_file}
     )
     idf_count_matrix, _ = get_count_matrix(
-        args, 'sqlite', {'db_path': args.db_idf_path}
+        args, 'sqlite', {'db_path': args.tmp_db_file}
     )
 
     logger.info('Making tfidf vectors...')
@@ -215,7 +403,7 @@ if __name__ == '__main__':
     logger.info('Getting word-doc frequencies...')
     freqs = get_doc_freqs(idf_count_matrix)
 
-    basename = os.path.splitext(os.path.basename(args.db_path))[0]
+    basename = 'index'
     basename += ('-%s-ngram=%d-hash=%d-tokenizer=%s' %
                  (args.option, args.ngram, args.hash_size, args.tokenizer))
     filename = os.path.join(args.out_dir, basename)

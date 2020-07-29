@@ -543,6 +543,7 @@ if __name__ == "__main__":
             name = table['url'][index:]
             summary = merged_unquote[name]
             table['intro'] = summary
+            table['uid'] = urllib.parse.unquote(table['uid'])
             with open('{}/tables/{}.json'.format(output_folder, table['uid']), 'w') as f:
                 json.dump(table, f, indent=2)
 
@@ -557,20 +558,34 @@ if __name__ == "__main__":
             with open(f_id) as f:
                 table = json.load(f)
             local_dict = {}
-            for d in table['header']:
-                for url in d[1]:
+            table_affected = False
+            for i, d in enumerate(table['header']):
+                for j, url in enumerate(d[1]):
                     if url:
                         url = urllib.parse.unquote(url)
-                        local_dict[url] = merged_unquote[url]
-            for row in table['data']:
-                for cell in row:
-                    for url in cell[1]:
+                        linked_content = merged_unquote[url]
+                        if len(linked_content.split(' ')) <= 6:
+                            table['header'][i][1][j] = None
+                            table_affected = True
+                        else:
+                            local_dict[url] = linked_content
+            for i, row in enumerate(table['data']):
+                for j, cell in enumerate(row):
+                    for k, url in enumerate(cell[1]):
                         if url:
                             url = urllib.parse.unquote(url)
-                            local_dict[url] = merged_unquote[url]
+                            linked_content = merged_unquote[url]
+                            if len(linked_content.split(' ')) <= 6:
+                                table['data'][i][j][1][k] = None
+                                table_affected = True
+                            else:
+                                local_dict[url] = linked_content
             request_file = f_id.replace('/tables/', '/request/')
             with open(request_file, 'w') as f:
                 json.dump(local_dict, f, indent=2)
+            if table_affected:
+                with open(f_id, 'w') as f:
+                    json.dump(table, f, indent=2)
         
         fs = glob.glob('{}/tables/*.json'.format(output_folder))
         for f in fs:
@@ -600,7 +615,6 @@ if __name__ == "__main__":
                     deletes.append(f)
                     deletes.append(f.replace('/request/', '/tables/'))
 
-        assert 'data/request/Lone_Wolf_and_Cub_1.json' in deletes
         print("deleting list has {} items".format(len(deletes)))
         for d in deletes:
             os.remove(d)
