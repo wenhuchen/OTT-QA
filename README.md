@@ -11,7 +11,8 @@ What's new compared to [HybridQA](http://hybridqa.github.io/):
 
 ## Folder Hierarchy
 - released_data: this folder contains the question/answer pairs for training, dev and test data.
-- data/: this folder contains the preprocessed pool of tables and their associated passages from Wikipedia, roughtly 150K in total.
+- data/tables_tok: this folder contains the 420K+ preprocessed pool of tables 
+- data/request_tok: this folder cotains their associated 2M passages from Wikipedia.
 - Wikipedia/ and htmls/: the folder containing the information from Wikipedia, you need it only if you want to re-do the 
 ing procedure.
 
