@@ -46,9 +46,7 @@ This script will print the recall@1,5,10,20,50 for TF-IDF retrieval under title+
 ## Step1: Download the necessary files 
 ```
 wget https://opendomainhybridqa.s3-us-west-2.amazonaws.com/data.zip
-wget https://opendomainhybridqa.s3-us-west-2.amazonaws.com/tf-idf-124-index.zip
 unzip data.zip
-unzip tf-idf-124-index.zip
 ```
 This command will download the crawled tables and linked passages from Wikiepdia in a cleaned format.
 
