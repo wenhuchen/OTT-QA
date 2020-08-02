@@ -39,7 +39,7 @@ Or you can skip these two steps to directly download the needed files from AWS i
 
 ## Step0: Run retrieval experimens:
 ```
-python retriever_baseline.py --model retriever/tf-idf-124/WikiTables_124-tfidf-ngram\=2-hash\=16777216-tokenizer\=simple.npz
+python retriever_baseline.py --model retriever/tfidf_title_sectitle_schema/index-tfidf-ngram\=2-hash\=16777216-tokenizer\=simple.npz
 ```
 This script will print the recall@1,5,10,20,50 for TF-IDF retrieval under title+title section+schema setting.
 
@@ -55,8 +55,8 @@ This command will download the crawled tables and linked passages from Wikiepdia
 ## Step2: Preprocessing the train/dev/test files
 ```
 python retrieve_and_preprocess.py --split train
-python retrieve_and_preprocess.py --split dev --model retriever/tf-idf-124/WikiTables_124-tfidf-ngram\=2-hash\=16777216-tokenizer\=simple.npz
-python retrieve_and_preprocess.py --split test --model retriever/tf-idf-124/WikiTables_124-tfidf-ngram\=2-hash\=16777216-tokenizer\=simple.npz
+python retrieve_and_preprocess.py --split dev --model retriever/tfidf_title_sectitle_schema/index-tfidf-ngram\=2-hash\=16777216-tokenizer\=simple.npz
+python retrieve_and_preprocess.py --split test --model retriever/tfidf_title_sectitle_schema/index-tfidf-ngram\=2-hash\=16777216-tokenizer\=simple.npz
 ```
 This command will generate training data for different submodules in the following steps. For dev/test, it will also retrieve tables from the pool.
 
