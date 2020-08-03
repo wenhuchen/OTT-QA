@@ -809,29 +809,6 @@ def get_raw_scores(examples, preds):
 
 def load_and_cache_examples(args, tokenizer, evaluate=False, output_examples=False, cache=True):
     # Load data features from cache or dataset file
-    """
-        cached_features_file = os.path.join(
-            args.output_dir,
-            "cached_{}_{}_{}.dataset".format(
-                "dev" if evaluate else "train",
-                list(filter(None, args.model_name_or_path.split("/"))).pop(),
-                str(args.max_seq_length),
-            ),
-        )
-
-        # Init features and dataset from cache if it exists
-        if os.path.exists(cached_features_file) and not args.overwrite_cache:
-            logger.info("Loading features from cached file %s", cached_features_file)
-            features_and_dataset = torch.load(cached_features_file)
-            features, dataset, examples = (
-                features_and_dataset["features"],
-                features_and_dataset["dataset"],
-                features_and_dataset["examples"],
-            )
-        else:
-    """
-    #logger.info("Creating features from dataset file at %s", args.output_dir)
-
     processor = SquadProcessor()
     if evaluate:
         examples = processor.get_dev_examples(args.predict_file)
@@ -847,8 +824,6 @@ def load_and_cache_examples(args, tokenizer, evaluate=False, output_examples=Fal
         is_training=not evaluate,
         threads=args.threads,
     )
-    #logger.info("Saving features into cached file %s", cached_features_file)
-    #torch.save({"features": features, "dataset": dataset, "examples": examples}, cached_features_file)
 
     if output_examples:
         return dataset, examples, features

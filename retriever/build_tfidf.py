@@ -100,11 +100,19 @@ def build_corpus(build_option, tmp_file):
             content = "{} | {} | {}".format(title, section_title, contents)
             fw.write(json.dumps({'id': table['uid'], 'text': content}) + '\n')
     elif build_option == 'text':
-        fw = open('data/tf-idf-input.json', 'w')
-        with open('../data/merged_unquote.json', 'r') as f:
-            table = json.load(f)
-        for k, v in table.items():
+        with open('../data/all_requests.json', 'r') as f:
+            requests = json.load(f)
+        for k, v in requests.items():
             fw.write(json.dumps({'id': k, 'text': v}) + '\n')
+        fw.close()
+    elif build_option == 'text_title':
+        with open('../data/all_requests.json', 'r') as f:
+            requests = json.load(f)
+        for k, v in requests.items():
+            v = k.replace('/wiki/', '')
+            v = v.replace('_', ' ')
+            if k and v:
+                fw.write(json.dumps({'id': k, 'text': v}) + '\n')
         fw.close()
     else:
         raise NotImplementedError
@@ -378,6 +386,7 @@ if __name__ == '__main__':
                               'a `preprocess` function'))
     args = parser.parse_args()
     args.option = args.option.lower()
+    assert args.option in ['tfidf', 'bm25'], "only support TF-iDF and BM25"
 
     if not os.path.exists(args.out_dir):
         os.mkdir(args.out_dir)

@@ -27,6 +27,7 @@ if len(sys.argv) == 2:
     steps = sys.argv[1].split(',')
 else:
     steps = ['1', '2', '3', '4', '5', '6', '7']
+print("performing steps = {}".format(steps))
 
 if '3' in steps:
     with open('Wikipedia/wiki-intro-with-ents-dict.json', 'r') as f:
@@ -488,10 +489,10 @@ if __name__ == "__main__":
         print("Step2: Finsihing postprocessing the tables")
 
     if '3' in steps:
+        # Step3: Getting the hyperlinks
         with open('{}/processed_new_table_postfiltering.json'.format(output_folder), 'r') as f:
             tables = json.load(f)
         print("Total of {} tables".format(len(tables)))
-        # Step3: Getting the hyperlinks
         rs = pool.map(crawl_hyperlinks, tables)
         for r in rs:
             dictionary.update(r)
@@ -505,7 +506,7 @@ if __name__ == "__main__":
         print("Step3: Finishing collecting all the links")
 
     if '4' in steps:
-        # Step5: distribute the tables into separate files
+        # Step 4: distribute the tables into separate files
         with open('{}/processed_new_table_postfiltering.json'.format(output_folder), 'r') as f:
             tables = json.load(f)
         with open('{}/merged_unquote.json'.format(output_folder), 'r') as f:
@@ -550,7 +551,7 @@ if __name__ == "__main__":
         print("Step4: Finishing remove unnecessary cells")
 
     if '5' in steps:
-        # Step 6: distribute the request into separate files 
+        # Step 5: distribute the request into separate files 
         with open('{}/merged_unquote.json'.format(output_folder), 'r') as f:
             merged_unquote = json.load(f)
         
@@ -594,7 +595,8 @@ if __name__ == "__main__":
         print("Step5: Finishing distributing the requests")
 
     if '6' in steps:
-        # Step7: tokenize the tables and request
+        # Step 6: tokenize the tables and request
+        print("Step6: Starting tokenizing")
         if not os.path.exists('{}/request_tok'.format(output_folder)):
             os.mkdir('{}/request_tok'.format(output_folder))
         if not os.path.exists('{}/tables_tok'.format(output_folder)):
@@ -618,20 +620,32 @@ if __name__ == "__main__":
         print("deleting list has {} items".format(len(deletes)))
         for d in deletes:
             os.remove(d)
-        print("Step6: Starting tokenizing")   
         pool.map(tokenization_req, glob.glob('{}/request/*.json'.format(output_folder)))
         pool.map(tokenization_tab, glob.glob('{}/tables/*.json'.format(output_folder)))
-        """
-        print("Step6: Starting tokenizing merged unquote")
-        with open('data/merged_unquote.json', 'r') as f:
-            merged_unquote = json.load(f)
-        
-        results = pool.map(tokenize_merged, merged_unquote.items())
-        merged_unquote = dict(results)
-        with open('data/merged_unquote_tok.json', 'w') as f:
-            json.dump(merged_unquote, f, indent=2)
-        """
         print("Step6: Finishing tokenization")
+    
+    if '7' in steps:
+        # Step7: Generate tables without hyperlinks
+        if not os.path.exists('{}/plain_tables_tok'.format(output_folder)):
+            os.mkdir('{}/plain_tables_tok'.format(output_folder))
+
+        for file in glob.glob('{}/tables_tok/*.json'.format(output_folder)):
+            with open(file, 'r') as f:
+                table = json.load(f)
+
+            for i, h in enumerate(table['header']):
+                full_cell = ', '.join(table['header'][i][0])
+                table['header'][i] = full_cell
+
+            for i, row in enumerate(table['data']):
+                for j, cell in enumerate(row):
+                    full_cell = ', '.join(cell[0])
+                    table['data'][i][j] = full_cell
+
+            output_file = file.replace('/tables_tok/', '/plain_tables_tok/')
+            with open(output_file, 'w') as f:
+                json.dump(table, f, indent=2)
+        print("Step7: Finished generating plain tables")
 
     # Wrapping up the results
     pool.close()

@@ -7,8 +7,7 @@ import sys
 import random
 import timeit
 from transformers import (WEIGHTS_NAME, AdamW, BertConfig, BertTokenizer, 
-                        BertModel, get_linear_schedule_with_warmup, 
-                        squad_convert_examples_to_features)
+                        BertModel, get_linear_schedule_with_warmup)
 import torch
 import numpy as np
 from torch import nn
