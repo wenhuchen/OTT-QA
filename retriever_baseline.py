@@ -28,6 +28,8 @@ parser.add_argument('--format', type=str, default='table')
 parser.add_argument('--debug', action='store_true', default=False)
 parser.add_argument('--cell', action='store_true', default=False)
 parser.add_argument('--usage', type=str, default='content')
+parser.add_argument('--offline_cell_classification', type=str, default=None)
+parser.add_argument('--all_request', type=str, default=None)
 args = parser.parse_args()
 
 logger.info('Initializing ranker...')
@@ -123,6 +125,43 @@ if not args.debug:
                         pass
                     sys.stdout.write('finished {}/{}; HITS@{} = {} \r'.format(i + 1, len(pairwise_info), k, succ / (succ + fail)))
                 print('finished {}/{}; HITS@{} = {}'.format(i + 1, len(pairwise_info), k, succ / (succ + fail)))
+        elif args.format == 'table_construction':
+            with open('preprocessed_data/test.json', 'r') as f:
+                required_test_tables = json.load(f)
+            with open(args.offline_cell_classification, 'r') as f:
+                offline_cell_classification = json.load(f)
+            with open(args.all_request, 'r') as f:
+                all_request = json.load(f)
+
+            for entry in required_test_tables:
+                table_id = entry['table_id']
+                with open('data/plain_tables_tok/{}.json'.format(table_id), 'r') as f:
+                    table = json.load(f)
+
+                for i, cell in enumerate(table['header']):
+                    table['header'][i] = ([cell], [None])
+
+                requests = {}
+                for i, row in enumerate(table['data']):
+                    for j, cell in enumerate(row):
+                        success = False
+                        if offline_cell_classification['{}_{}_{}'.format(table_id, i, j)] == 1:
+                            query = use_what((None, None, cell), args.usage)
+                            try:
+                                doc_names, doc_scores = ranker.closest_docs(query, 1)
+                                table['data'][i][j] = ([cell], [doc_names[0]])
+                                requests[doc_names[0]] = all_request[doc_names[0]]
+                                success = True
+                            except Exception:
+                                pass
+                        
+                        if not success:
+                            table['data'][i][j] = ([cell], [None])
+                
+                with open('data/reconstructed_tables/{}.json'.format(table_id), 'w') as f:
+                    json.dump(table, f, indent=2)
+                with open('data/reconstructed_request/{}.json'.format(table_id), 'w') as f:
+                    json.dump(requests, f, indent=2)
         else:
             raise NotImplementedError()
 

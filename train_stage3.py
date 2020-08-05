@@ -969,7 +969,7 @@ def main():
         type=int,
         help="language id of input for language-specific xlm models (see tokenization_xlm.PRETRAINED_INIT_CONFIGURATION)",
     )
-
+    parser.add_argument("--request_path", type=str, default='request_tok', help="Request directory.")
     parser.add_argument("--logging_steps", type=int, default=500, help="Log every X updates steps.")
     parser.add_argument("--save_steps", type=int, default=500, help="Save checkpoint every X updates steps.")
     parser.add_argument(
@@ -1099,7 +1099,7 @@ def main():
                 continue
 
             table_id = d['table_id']            
-            with open('{}/request_tok/{}.json'.format(args.resource_dir, table_id)) as f:
+            with open('{}/{}/{}.json'.format(args.resource_dir, args.request_path, table_id)) as f:
                 requested_documents = json.load(f)  
             
             node = d['pred']

@@ -56,14 +56,15 @@ def longest_match_distance(str1s, str2s):
     return longest_string
 
 
-def IR(data_entry):
+def IR(data_entry, table_path='tables_tok', request_path='request_tok'):
     table_id = data_entry['table_id']
-
-    with open('{}/request_tok/{}.json'.format(resource_path, table_id)) as f:
-        requested_documents = json.load(f)
-    with open('{}/tables_tok/{}.json'.format(resource_path, table_id)) as f:
+    threshold = 0.99
+    # Loading the table/request information
+    with open(f'{resource_path}/{table_path}/{table_id}.json') as f:
         table = json.load(f)
-    
+    with open(f'{resource_path}/{request_path}/{table_id}.json') as f:
+        requested_documents = json.load(f)
+
     # Mapping entity link to cell, entity link to surface word
     mapping_entity = {}
     for row_idx, row in enumerate(table['data']):
@@ -98,41 +99,43 @@ def IR(data_entry):
             paras.append(_)
     
     qs = [data_entry['question']]
-    #try:
-    para_feature = tfidf.fit_transform(paras)
-    q_feature = tfidf.transform(qs)
-    #except Exception:
-    #    print("failed on table {}".format(table_id))
-    
-    dist_match = longest_match_distance(qs, paras)[0]
-    dist = pairwise_distances(q_feature, para_feature, 'cosine')[0]
-
-    threshold = 0.99
-    tfidf_nodes = []
-    string_nodes = []
 
     # Find out the best matched passages based on distance
-    min_dist = {}
-    tfidf_best_match = ('N/A', None, 1.)
-    for k, para, d in zip(keys, paras, dist):
-        if d < min_dist.get(k, threshold):
-            min_dist[k] = d
-            if d < tfidf_best_match[-1]:
-                tfidf_best_match = (k, para, d)
-            if d <= best_threshold:
+    tfidf_nodes = []    
+    try:
+        para_feature = tfidf.fit_transform(paras)
+        transformed = True
+    except Exception:
+        print("only containing stop words, skip it")
+        transformed = False
+    
+    if transformed:
+        q_feature = tfidf.transform(qs)
+        para_tfidf_dist = pairwise_distances(q_feature, para_feature, 'cosine')[0]
+        min_dist = {}
+        tfidf_best_match = ('N/A', None, 1.)
+        for k, para, d in zip(keys, paras, para_tfidf_dist):
+            if d < min_dist.get(k, threshold):
+                min_dist[k] = d
+                if d < tfidf_best_match[-1]:
+                    tfidf_best_match = (k, para, d)
+                if d <= best_threshold:
+                    for content, locs in mapping_entity[k].items():
+                        for loc in locs:
+                            tfidf_nodes.append((content, loc, k, para, d))
+        
+        if tfidf_best_match[0] != 'N/A':
+            if tfidf_best_match[-1] > best_threshold:
                 for content, locs in mapping_entity[k].items():
                     for loc in locs:
-                        tfidf_nodes.append((content, loc, k, para, d))
-    
-    if tfidf_best_match[0] != 'N/A':
-        if tfidf_best_match[-1] > best_threshold:
-            for content, locs in mapping_entity[k].items():
-                for loc in locs:
-                    tfidf_nodes.append((content, loc, k, tfidf_best_match[1], tfidf_best_match[2]))
+                        tfidf_nodes.append((content, loc, k, tfidf_best_match[1], tfidf_best_match[2]))
 
+    # Find the best matched paragraph string
+    string_nodes = []
+    para_longest_string_match_dist = longest_match_distance(qs, paras)[0]
     min_dist = {}
     string_best_match = ('N/A', None, 1.)
-    for k, para, d in zip(keys, paras, dist_match):
+    for k, para, d in zip(keys, paras, para_longest_string_match_dist):
         if d < min_dist.get(k, threshold):
             min_dist[k] = d
             if d < string_best_match[-1]:
@@ -228,7 +231,7 @@ def find_superlative(table_id, table):
 
     return nodes
 
-def CELL(d):
+def CELL(d, table_path='tables_tok'):
     threshold = 90
     # LINKING THE CELL DATA
     triggers = ['JJR', 'JJS', 'RBR', 'RBS']
@@ -236,7 +239,7 @@ def CELL(d):
     new_processed = []
 
     table_id = d['table_id']
-    with open('{}/tables_tok/{}.json'.format(resource_path, table_id)) as f:
+    with open(f'{resource_path}/{table_path}/{table_id}.json') as f:
         table = json.load(f)        
 
     tmp_link = []
@@ -264,7 +267,7 @@ def hash_string(string):
     sha.update(string.encode())
     return sha.hexdigest()[:16]
 
-def analyze(processed):
+def analyze(processed, table_path='tables_tok'):
     trivial, easy, medium, hard, no_answer, number, yesorno, repeated = 0, 0, 0, 0, 0, 0, 0, 0
     from_passage, from_cell, from_calculation = 0, 0, 0
     new_processed = []
@@ -286,7 +289,8 @@ def analyze(processed):
             continue
         else:
             if len(p['answer-node']) > 1 and p['answer-node'][0][-1] == 'table':
-                with open('{}/tables_tok/{}.json'.format(resource_path, p['table_id']), 'r') as f:
+                table_id = p['table_id']
+                with open(f'{resource_path}/{table_path}/{table_id}.json', 'r') as f:
                     table = json.load(f)
                 headers = [" , ".join(cell[0]) for cell in table['header']]
                 potential_headers = set()
@@ -381,11 +385,11 @@ def analyze(processed):
 
     return new_processed
 
-def generate_inputs(data):
+def generate_inputs(data, table_path='tables_tok'):
     split = []
     for d in data:
         table_id = d['table_id']
-        with open('{}/tables_tok/{}.json'.format(resource_path, table_id), 'r') as f:
+        with open(f'{resource_path}/{table_path}/{table_id}.json', 'r') as f:
             table = json.load(f)
         headers = [cell[0][0] for cell in table['header']]
 
@@ -401,12 +405,12 @@ def generate_inputs(data):
                       'table_id': d['table_id'], 'nodes': tmp})
     return split
 
-def prepare_stage1_data(data):
+def prepare_stage1_data(data, table_path='tables_tok'):
     split = []
     for d in data:
         if d['type'] in ['medium', 'easy']:
             table_id = d['table_id']
-            with open('{}/tables_tok/{}.json'.format(resource_path, table_id), 'r') as f:
+            with open(f'{resource_path}/{table_path}/{table_id}.json', 'r') as f:
                 table = json.load(f)
             headers = [" , ".join(cell[0]) for cell in table['header']]
 
@@ -441,14 +445,14 @@ def prepare_stage1_data(data):
     
     return split
 
-def prepare_stage2_data(d):
+def prepare_stage2_data(d, table_path='tables_tok', request_path='request_tok'):
     split = []
     if d['type'] in ['medium', 'easy']:
         table_id = d['table_id']
-        with open('{}/tables_tok/{}.json'.format(resource_path, table_id), 'r') as f:
+        with open(f'{resource_path}/{table_path}/{table_id}.json', 'r') as f:
             table = json.load(f)
         
-        with open('{}/request_tok/{}.json'.format(resource_path, table_id), 'r') as f:
+        with open(f'{resource_path}/{request_path}/{table_id}.json', 'r') as f:
             requested_document = json.load(f)
         
         headers = [cell[0][0] for cell in table['header']]
@@ -503,13 +507,13 @@ def prepare_stage2_data(d):
 
     return split
 
-def prepare_stage3_data(data):
+def prepare_stage3_data(data, request_path='request_tok'):
     split = []
     for d in data:
         if d['where'] == 'passage':
             table_id = d['table_id']
             
-            with open('{}/request_tok/{}.json'.format(resource_path, table_id)) as f:
+            with open(f'{resource_path}/{request_path}/{table_id}.json') as f:
                 requested_documents = json.load(f)        
             
             #tmp = mapping.get(str(table_id), [])
@@ -544,7 +548,7 @@ def prepare_stage3_data(data):
         if d['where'] == 'table':
             table_id = d['table_id']
             
-            with open('{}/request_tok/{}.json'.format(resource_path, table_id)) as f:
+            with open(f'{resource_path}/{request_path}/{table_id}.json') as f:
                 requested_documents = json.load(f)  
                 
             used = set()
@@ -573,178 +577,3 @@ def prepare_stage3_data(data):
                 else:
                     continue
     return split
-
-if __name__ == "__main__":
-    with open('released_data/train.json', 'r') as f:
-        train_data = json.load(f)
-
-    if not os.path.exists('preprocessed_data'):
-        os.mkdir('preprocessed_data')
-    """
-    parser = argparse.ArgumentParser()
-    parser.add_argument('--build_dev', action='store_true', default=False)
-    args = parser.parse_args()
-    
-
-    if args.build_dev:
-        with open('released_data/dev.oracle_retrieval.json', 'r') as f:
-            dev_data = json.load(f) 
-    else:
-        with open('released_data/dev.json', 'r') as f:
-            dev_data = json.load(f) 
-    
-    # Step1 processing for both train/dev
-    print("building IR step for training data")
-    pool = Pool(64)
-    results = pool.map(IR, train_data)
-
-    pool.close()
-    pool.join()
-
-    with open('preprocessed_data/train_step1.json', 'w') as f:
-        json.dump(results, f, indent=2)
-
-    if not os.path.exists('preprocessed_data/dev_step1.json'):
-        print("building IR step for dev data")
-        pool = Pool(64)
-        results = pool.map(IR, dev_data)
-
-        pool.close()
-        pool.join()
-
-        with open('preprocessed_data/dev_step1.json', 'w') as f:
-            json.dump(results, f, indent=2)
-
-    if not os.path.exists('{}/tables_tmp'.format(resource_path)):
-        os.mkdir('{}/tables_tmp'.format(resource_path))
-
-
-    # Step2 processing for both train/dev
-    if not os.path.exists('preprocessed_data/train_step2.json'):
-        print("building CELL step for training data")
-
-        with open('preprocessed_data/train_step1.json', 'r') as f:
-            data = json.load(f)
-
-        pool = Pool(64)
-        results = pool.map(CELL, data)
-
-        pool.close()
-        pool.join()
-
-        with open('preprocessed_data/train_step2.json', 'w') as f:
-            json.dump(results, f, indent=2)
-
-    if not os.path.exists('preprocessed_data/dev_step2.json'):
-        print("building CELL step for dev data")
-
-        with open('preprocessed_data/dev_step1.json', 'r') as f:
-            data = json.load(f)
-
-        pool = Pool(64)
-        results = pool.map(CELL, data)
-
-        pool.close()
-        pool.join()
-
-        with open('preprocessed_data/dev_step2.json', 'w') as f:
-            json.dump(results, f, indent=2)
-
-    # Creating dev inputs
-    if not os.path.exists('preprocessed_data/dev_inputs.json'):
-        print("constructing dev inputs")
-
-        with open('preprocessed_data/dev_step2.json', 'r') as f:
-            data = json.load(f)
-        results = generate_inputs(data)
-        with open('preprocessed_data/dev_inputs.json', 'w') as f:
-            json.dump(results, f, indent=2)
-        print("Done with Stage1 Data Processing")
-    
-    # Step3 processing for training data
-    if not os.path.exists('preprocessed_data/train_step3.json'):
-        print("analyzing the training data")
-        with open('preprocessed_data/train_step2.json', 'r') as f:
-            data = json.load(f)
-
-        results = analyze(data)
-        with open('preprocessed_data/train_step3.json', 'w') as f:
-            json.dump(results, f, indent=2)
-
-    # Creating stage1 training data
-    if not os.path.exists('preprocessed_data/stage1_training_data.json'):
-        print("constructing stage1 training data")
-
-        with open('preprocessed_data/train_step3.json', 'r') as f:
-            data = json.load(f)
-
-        results = prepare_stage1_data(data)
-        with open('preprocessed_data/stage1_training_data.json', 'w') as f:
-            json.dump(results, f, indent=2)
-        
-    # Creating stage2 training data
-    if not os.path.exists('preprocessed_data/stage2_training_data.json'):
-        print("constructing stage2 training data")
-
-        with open('preprocessed_data/train_step3.json', 'r') as f:
-            data = json.load(f)
-
-        pool = Pool(64)
-        results = pool.map(prepare_stage2_data, data)
-
-        train_split = []
-        for r1 in results:
-            train_split.extend(r1)
-        with open('preprocessed_data/stage2_training_data.json', 'w') as f:
-            json.dump(train_split, f, indent=2)
-
-
-    # Creating stage3 training data
-    if not os.path.exists('preprocessed_data/stage3_training_data.json'):
-        print("constructing stage3 training data")
-
-        with open('preprocessed_data/train_step3.json', 'r') as f:
-            data = json.load(f)        
-
-        results = prepare_stage3_data(data)
-
-        with open('preprocessed_data/stage3_training_data.json', 'w') as f:
-            json.dump(results, f, indent=2)
-
-
-    # If needed, we analyze the dev data
-    if args.build_dev:
-        print("You set the args to build the dev set for stage1/2/3")
-        if not os.path.exists('preprocessed_data/dev_step3.json'):
-            pool = Pool(64)
-            print("analyzing the dev data")
-            with open('preprocessed_data/dev_step2.json', 'r') as f:
-                data = json.load(f)
-            results = analyze(data)
-            with open('preprocessed_data/dev_step3.json', 'w') as f:
-                json.dump(results, f, indent=2)
-            
-            # Stage 1
-            with open('preprocessed_data/dev_step3.json', 'r') as f:
-                data = json.load(f)
-            results = prepare_stage1_data(data)
-            with open('preprocessed_data/stage1_dev_data.json', 'w') as f:
-                json.dump(results, f, indent=2)
-            
-            # Stage 2
-            with open('preprocessed_data/dev_step3.json', 'r') as f:
-                data = json.load(f)
-            results = pool.map(prepare_stage2_data, data)
-            dev_split = []
-            for r1 in results:
-                dev_split.extend(r1)
-            with open('preprocessed_data/stage2_dev_data.json', 'w') as f:
-                json.dump(dev_split, f, indent=2)        
-
-            # Stage 3
-            with open('preprocessed_data/dev_step3.json', 'r') as f:
-                data = json.load(f)        
-            results = prepare_stage3_data(data)
-            with open('preprocessed_data/stage3_dev_data.json', 'w') as f:
-                json.dump(results, f, indent=2)
-	"""

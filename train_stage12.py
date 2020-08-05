@@ -48,12 +48,12 @@ def set_seed(args):
     if args.n_gpu > 0:
         torch.cuda.manual_seed_all(args.seed)
 
-def generate_target_nodes(path, d):
+def generate_target_nodes(path, d, table_path='tables_tok', request_path='request_tok'):
     table_id = d['table_id']
-    with open('{}/tables_tok/{}.json'.format(path, table_id), 'r') as f:
+    with open(f'{path}/{table_path}/{table_id}.json', 'r') as f:
         table = json.load(f)
     
-    with open('{}/request_tok/{}.json'.format(path, table_id), 'r') as f:
+    with open(f'{path}/{request_path}/{table_id}.json', 'r') as f:
         requested_document = json.load(f)
 
     headers = [cell[0][0] for cell in table['header']]
@@ -85,7 +85,8 @@ def generate_target_nodes(path, d):
     return results
 
 class Stage12Dataset(Dataset):
-    def __init__(self, path, data, tokenizer, max_seq_length, option, retain_label=True, shuffle=True):
+    def __init__(self, path, data, tokenizer, max_seq_length, option, \
+                 table_path='tables_tok', retain_label=True, shuffle=True):
         super(Stage12Dataset, self).__init__()
         self.shuffle = shuffle
         self.retain_label = retain_label
@@ -94,6 +95,7 @@ class Stage12Dataset(Dataset):
         self.data = data
         self.tokenizer = tokenizer
         self.path = path
+        self.table_path = table_path
 
     def __len__(self):
         return len(self.data)
@@ -113,7 +115,7 @@ class Stage12Dataset(Dataset):
 
         if self.option == 'stage1':
             table_id = d['table_id']
-            with open('{}/tables_tok/{}.json'.format(self.path, table_id), 'r') as f:
+            with open('{}/{}/{}.json'.format(self.path, self.table_path, table_id), 'r') as f:
                 table = json.load(f)        
             
             question = d['question']
@@ -405,7 +407,9 @@ def main():
         type=str,
         default='data/',
         help="Number of updates steps to accumulate before performing a backward/update pass.",
-    )   
+    )
+    parser.add_argument("--table_path", type=str, default='tables_tok/', help="table path.")
+    parser.add_argument("--request_path", type=str, default='request_tok/', help="request path.")
     parser.add_argument("--learning_rate", default=5e-5, type=float, help="The initial learning rate for Adam.")        
     parser.add_argument("--seed", type=int, default=42, help="random seed for initialization")
     parser.add_argument(
@@ -513,7 +517,8 @@ def main():
 
     if args.do_train:
         train_data = readGZip(args.train_file)
-        dataset = Stage12Dataset(args.resource_dir, train_data, tokenizer, args.max_seq_length, args.option, retain_label=True, shuffle=True)
+        dataset = Stage12Dataset(args.resource_dir, train_data, tokenizer, args.max_seq_length, args.option, \
+                                 retain_label=True, shuffle=True)
         loader = DataLoader(dataset, batch_size=None, batch_sampler=None, num_workers=8, shuffle=False, pin_memory=True)
 
         tb_writer = SummaryWriter(log_dir=args.output_dir)
@@ -609,31 +614,16 @@ def main():
         
         tb_writer.close()
 
-    if args.do_eval and args.option in ['stage1', 'stage2']:
-        dev_data = readGZip(args.predict_file)
-        model.eval()
-        dataset = Stage12Dataset(args.resource_dir, dev_data, tokenizer, args.max_seq_length, args.option, retain_label=True, shuffle=False)
-        loader = DataLoader(dataset, batch_size=None, batch_sampler=None, num_workers=8, shuffle=False, pin_memory=True)
-
-        for model_path in os.listdir(args.output_dir):
-            if model_path.startswith('checkpoint'):
-                model.load_state_dict(torch.load(os.path.join(args.output_dir, model_path, 'pytorch_model.bin')))
-                logger.info("Loading model from {}".format(model_path))
-                
-                eval_loss = 0
-                for step, batch in enumerate(tqdm(loader, desc="Evaluation")):
-                    *data, labels = tuple(Variable(t).to(args.device) for t in batch)
-                    probs = model(*data)
-                    loss = torch.sum(-torch.log(probs + 1e-8) * labels)
-                    eval_loss += loss.item()
-                eval_loss = eval_loss / len(loader)
-
-                logger.info("{} acheives average loss = {}".format(model_path, eval_loss))
-
-
     elif args.do_eval and args.option == 'stage12':
         dev_data = readGZip(args.predict_file)
-        # multi-gpu training (should be after apex fp16 initialization)
+        filtered_dev_data = []
+        for d in dev_data:
+            if len(d['nodes']) > 0:
+                filtered_dev_data.append(d)
+            else:
+                print("filter out {}".format(d['table_id']))
+        dev_data = filtered_dev_data
+
         filter_model.eval()
         jump_model.eval()
         
@@ -647,7 +637,8 @@ def main():
         pred_data = copy.copy(dev_data)
         succ, total = 0, 0
 
-        dataset = Stage12Dataset(args.resource_dir, dev_data, tokenizer, args.max_seq_length, 'stage1', retain_label=False, shuffle=False)
+        dataset = Stage12Dataset(args.resource_dir, dev_data, tokenizer, args.max_seq_length, 'stage1', 
+                                 table_path=args.table_path, retain_label=False, shuffle=False)
         loader = DataLoader(dataset, batch_size=None, batch_sampler=None, num_workers=8, shuffle=False, pin_memory=True)
 
         for step, batch in enumerate(tqdm(loader, desc="Evaluation")):
@@ -656,10 +647,11 @@ def main():
 
             info = dev_data[batch[-1]]
             info['nodes'] = [info['nodes'][torch.argmax(probs, 0).item()]]
-            info = generate_target_nodes(args.resource_dir, info)
+            info = generate_target_nodes(args.resource_dir, info, args.table_path, args.request_path)
             
             selected_target_nodes = []            
-            inner_dataset = Stage12Dataset(args.resource_dir, info, tokenizer, args.max_seq_length, 'stage2', retain_label=False, shuffle=False)
+            inner_dataset = Stage12Dataset(args.resource_dir, info, tokenizer, args.max_seq_length, 'stage2', 
+                                           table_path=args.table_path, retain_label=False, shuffle=False)
             for b in inner_dataset:
                 data = tuple(Variable(t).to(args.device) for t in b[:-1])
                 probs = jump_model(*data)

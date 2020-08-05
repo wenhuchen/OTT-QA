@@ -103,7 +103,7 @@ def build_corpus(build_option, tmp_file):
         with open('../data/all_requests.json', 'r') as f:
             requests = json.load(f)
         for k, v in requests.items():
-            fw.write(json.dumps({'id': k, 'text': v}) + '\n')
+            fw.write(json.dumps({'id': k.encode('utf8'), 'text': v}) + '\n')
         fw.close()
     elif build_option == 'text_title':
         with open('../data/all_requests.json', 'r') as f:
@@ -172,7 +172,7 @@ def get_contents(filename):
             if not doc:
                 continue
             # Add the document
-            documents.append((utils.normalize(doc['id']), doc['text']))
+            documents.append((doc['id'], doc['text']))
     return documents
 
 

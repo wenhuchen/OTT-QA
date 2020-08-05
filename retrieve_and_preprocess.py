@@ -15,14 +15,15 @@ if __name__ == '__main__':
         split = args.split
         with open(f'released_data/{split}.before_retrieval.json', 'r') as f:
             dev_data = json.load(f)
-        k = 5       
+        k = 5
+        assert args.model is not None
         ranker = retriever.get_class('tfidf')(tfidf_path=args.model)
         for i, d in enumerate(dev_data):
             query = d['question']
             doc_names, doc_scores = ranker.closest_docs(query, k)
             d['table_id'] = doc_names[0]
-            d['top_k'] = doc_names
-            d['top_k_scores'] = doc_scores.tolist()
+            #d['top_k'] = doc_names
+            #d['top_k_scores'] = doc_scores.tolist()
         with open(f'preprocessed_data/{split}.json', 'w') as f:
             json.dump(dev_data, f, indent=2)
 
@@ -33,6 +34,38 @@ if __name__ == '__main__':
         dev_inputs = generate_inputs(results2)
         with open(f'preprocessed_data/{split}_inputs.json', 'w') as f:
             json.dump(dev_inputs, f, indent=2)
+    
+    elif args.split in ['maskedlink_dev', 'maskedlink_test']:
+        if 'test' in args.split:
+            split = 'test'
+        else:
+            split = 'dev'
+
+        with open(f'released_data/{split}.before_retrieval.json', 'r') as f:
+            dev_data = json.load(f)
+
+        print("Start Retrieving Documents from the pool")
+        assert args.model is not None
+        k = 1
+        ranker = retriever.get_class('tfidf')(tfidf_path=args.model)
+        for i, d in enumerate(dev_data):
+            query = d['question']
+            doc_names, doc_scores = ranker.closest_docs(query, k)
+            d['table_id'] = doc_names[0].encode('utf8').decode('utf8')
+        with open(f'preprocessed_data/{split}.json', 'w') as f:
+            json.dump(dev_data, f, indent=2)
+
+        dev_data = [(_, 'reconstructed_tables', 'reconstructed_request') for _ in dev_data]
+        results1 = pool.starmap(IR, dev_data)
+
+        results1 = [(_, 'reconstructed_tables') for _ in results1]
+        results2 = pool.starmap(CELL, results1)
+        with open(f'preprocessed_data/{split}_linked.json', 'w') as f:
+            json.dump(results2, f, indent=2)
+        dev_inputs = generate_inputs(results2)
+        with open(f'preprocessed_data/{split}_inputs.json', 'w') as f:
+            json.dump(dev_inputs, f, indent=2)
+
     elif args.split in ['dev.oracle', 'test.oracle']:
         split = args.split
         with open(f'released_data/{split}_retrieval.json', 'r') as f:
@@ -44,6 +77,7 @@ if __name__ == '__main__':
         dev_inputs = generate_inputs(results2)
         with open(f'preprocessed_data/{split}_inputs.json', 'w') as f:
             json.dump(dev_inputs, f, indent=2)
+    
     elif args.split == 'train':
         with open('released_data/train.json', 'r') as f:
             train_data = json.load(f)       
