@@ -17,7 +17,7 @@ urllib3.disable_warnings()
 from utils import *
 import os
 
-output_folder = 'data'
+output_folder = 'data_v2'
 input_htmls = 'htmls'
 #default setting
 #default_setting = {'miniumu_row': 8, 'ratio': 0.7, 'max_header': 6, 'min_header': 2}
@@ -159,13 +159,15 @@ def harvest_tables(f_name):
                             tmp = process_link(h)
                         else:
                             tmp = ([h.get_text(separator=" ").strip()], [None])
+
                         if 'rowspan' in h.attrs:
+                            # Identify row span cases
                             try:
                                 num = int(h['rowspan'])
                                 replicate[len(row)] = [num - 1, tmp]
                             except Exception:
                                 pass
-                        row.append(tmp)
+                        row.extend(tmp)
 
                     if all([len(cell[0]) == 0 for cell in row]):
                         continue
@@ -461,6 +463,12 @@ def clean_text(string):
     
     return string
     
+def tokenize_and_clean_text(kv):
+    k, v = kv
+    v = clean_text(v)
+    v = tokenize(v)
+    return k, v
+
 if __name__ == "__main__":
     cores = multiprocessing.cpu_count()
     pool = Pool(cores)
@@ -646,6 +654,18 @@ if __name__ == "__main__":
             with open(output_file, 'w') as f:
                 json.dump(table, f, indent=2)
         print("Step7: Finished generating plain tables")
+
+    if '8' in steps:
+        if os.path.exists('Wikipedia/wiki-intro-with-ents-dict.json'):
+            with open('Wikipedia/wiki-intro-with-ents-dict.json', 'r') as f:
+                entity_to_intro = json.load(f)
+
+            results = pool.map(tokenize_and_clean_text, entity_to_intro.items())
+            results = dict(results)
+            
+            with open('data/wikipedia_request.json', 'w') as f:
+                json.dump(results, f)
+
 
     # Wrapping up the results
     pool.close()

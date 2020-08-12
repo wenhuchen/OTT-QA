@@ -9,7 +9,7 @@ import json
 import multiprocessing
 from multiprocessing import Pool
 import re
-
+import pprint
 import nltk
 
 
@@ -156,6 +156,11 @@ def transform(original_table, debug=False):
       raise NotImplementedError()
     rows.append(tmp)
 
+  least_row = min([len(_) for _ in rows])
+  max_row = max([len(_) for _ in rows])
+  if least_row != max_row or least_row != total_columns:
+    raise NotImplementedError()
+
   return headers, rows, mapping
 
 
@@ -201,43 +206,54 @@ def get_table_sent(entry):
 
 
 if __name__ == '__main__':
-  filepath = '/usr/local/google/home/wenhuchen/Documents/TOTTO/totto_data/totto_dev_data.jsonl'
+  filepath = 'totto_data/totto_dev_data.jsonl'
   pair = []
   with open(filepath, 'r') as f:
     for line in f:
       pair.append(json.loads(line))
-  filepath = '/usr/local/google/home/wenhuchen/Documents/TOTTO/totto_data/totto_train_data.jsonl'
+  filepath = 'totto_data/totto_train_data.jsonl'
   with open(filepath, 'r') as f:
     for line in f:
       pair.append(json.loads(line))
   print('Finish loading local data')
 
-  output_dict = {}
-  sentences = []
+  debug = False
 
-  cpu_cores = multiprocessing.cpu_count()
-  print('using {} cores'.format(cpu_cores))
-  pool = Pool(cpu_cores)
+  if not debug:
+    output_dict = {}
+    sentences = []
 
-  results = pool.map(get_table_sent, pair)
-  print('Finish the running')
+    cpu_cores = multiprocessing.cpu_count()
+    print('using {} cores'.format(cpu_cores))
+    pool = Pool(cpu_cores)
 
-  error = 0
-  for r in results:
-    if r[0] and r[1]:
-      output_dict[r[0][0]] = r[0][1]
-      sentences.extend(r[1])
-    else:
-      error += 1
+    results = pool.map(get_table_sent, pair)
+    print('Finish the running')
 
-  print('failing conversion rate = {}'.format(error / len(pair)))
-  print('successful tables = {}'.format(len(output_dict)))
+    processed_ids = set()
+    error = 0
+    for r in results:
+      if r[0] and r[1]:
+        output_dict[r[0][0]] = r[0][1]
+        for question in r[1]:
+          if question['question_id'] not in processed_ids:
+            processed_ids.add(question['question_id'])
+            sentences.append(question)
+          else:
+            print("find duplicate")
+      else:
+        error += 1
 
-  with open(
-      '/usr/local/google/home/wenhuchen/Documents/TOTTO/totto_data//tables.json',
-      'w') as f:
-    json.dump(output_dict, f, indent=2)
-  with open(
-      '/usr/local/google/home/wenhuchen/Documents/TOTTO/totto_data//train.json',
-      'w') as f:
-    json.dump(sentences, f, indent=2)
+    print('failing conversion rate = {}'.format(error / len(pair)))
+    print('successful tables = {} and questions = {}'.format(len(output_dict), len(sentences)))
+
+    with open('aws-files/totto_tables.json', 'w') as f:
+      json.dump(output_dict, f, indent=2)
+    with open('aws-files/totto_train.json', 'w') as f:
+      json.dump(sentences, f, indent=2)
+  else:
+    for entry in pair:
+      if 'Steve Barnes' in entry['table_page_title']:
+        table, sents = get_table_sent(entry)
+        pprint.pprint(entry)
+        pprint.pprint(table)
