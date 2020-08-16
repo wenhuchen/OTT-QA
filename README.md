@@ -11,10 +11,10 @@ What's new compared to [HybridQA](http://hybridqa.github.io/):
 
 ## Folder Hierarchy
 - released_data: this folder contains the question/answer pairs for training, dev and test data.
-- data/tables_tok: this folder contains the 420K+ preprocessed pool of tables 
+- data/tables_tok: this folder contains the 420K+ preprocessed pool of tables.
 - data/request_tok: this folder cotains their associated 2M passages from Wikipedia.
-- Wikipedia/ and htmls/: the folder containing the information from Wikipedia, you need it only if you want to re-do the 
-ing procedure.
+- table_crawling/: the folder contains the information about how we extract tables from Wikipedia.
+- retriever/: the folder contains the information about how we build index for the table and text.
 
 ## Requirements
 - [HuggingFace](https://github.com/huggingface/transformers)
@@ -46,9 +46,11 @@ This script will print the recall@1,5,10,20,50 for TF-IDF retrieval under title+
 
 ## Step1: Download the necessary files 
 ```
-wget https://opendomainhybridqa.s3-us-west-2.amazonaws.com/data.zip
-unzip data.zip
 unzip tf-idf-index.zip
+cd data/
+wget https://opendomainhybridqa.s3-us-west-2.amazonaws.com/all_plain_data.json
+wget https://opendomainhybridqa.s3-us-west-2.amazonaws.com/all_passages.json
+cd ../
 ```
 This command will download the crawled tables and linked passages from Wikiepdia in a cleaned format.
 
