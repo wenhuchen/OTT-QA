@@ -1,0 +1,724 @@
+{
+  "url": "https://en.wikipedia.org/wiki/Restriction_enzyme",
+  "title": "Restriction enzyme",
+  "header": [
+    [
+      [
+        "Enzyme"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Source"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Recognition Sequence"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Cut"
+      ],
+      [
+        null
+      ]
+    ]
+  ],
+  "data": [
+    [
+      [
+        [
+          "EcoRI"
+        ],
+        [
+          "/wiki/EcoRI"
+        ]
+      ],
+      [
+        [
+          "Escherichia coli"
+        ],
+        [
+          "/wiki/Escherichia_coli"
+        ]
+      ],
+      [
+        [
+          "5'GAATTC 3'CTTAAG"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "5 ' -- -G AATTC -- -3 ' 3 ' -- -CTTAA G -- -5 '"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "EcoRII"
+        ],
+        [
+          "/wiki/EcoRII"
+        ]
+      ],
+      [
+        [
+          "Escherichia coli"
+        ],
+        [
+          "/wiki/Escherichia_coli"
+        ]
+      ],
+      [
+        [
+          "5'CCWGG 3'GGWCC"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "5 ' -- - CCWGG -- -3 ' 3 ' -- -GGWCC -- -5 '"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "BamHI"
+        ],
+        [
+          "/wiki/BamHI"
+        ]
+      ],
+      [
+        [
+          "Bacillus amyloliquefaciens"
+        ],
+        [
+          "/wiki/Bacillus_amyloliquefaciens"
+        ]
+      ],
+      [
+        [
+          "5'GGATCC 3'CCTAGG"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "5 ' -- -G GATCC -- -3 ' 3 ' -- -CCTAG G -- -5 '"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "HindIII"
+        ],
+        [
+          "/wiki/HindIII"
+        ]
+      ],
+      [
+        [
+          "Haemophilus influenzae"
+        ],
+        [
+          "/wiki/Haemophilus_influenzae"
+        ]
+      ],
+      [
+        [
+          "5'AAGCTT 3'TTCGAA"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "5 ' -- -A AGCTT -- -3 ' 3 ' -- -TTCGA A -- -5 '"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "TaqI"
+        ],
+        [
+          "/wiki/TaqI"
+        ]
+      ],
+      [
+        [
+          "Thermus aquaticus"
+        ],
+        [
+          "/wiki/Thermus_aquaticus"
+        ]
+      ],
+      [
+        [
+          "5'TCGA 3'AGCT"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "5 ' -- -T CGA -- -3 ' 3 ' -- -AGC T -- -5 '"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "NotI"
+        ],
+        [
+          "/wiki/NotI"
+        ]
+      ],
+      [
+        [
+          "Nocardia otitidis"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "5'GCGGCCGC 3'CGCCGGCG"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "5 ' -- -GC GGCCGC -- -3 ' 3 ' -- -CGCCGG CG -- -5 '"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "HinFI"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Haemophilus influenzae"
+        ],
+        [
+          "/wiki/Haemophilus_influenzae"
+        ]
+      ],
+      [
+        [
+          "5'GANTC 3'CTNAG"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "5 ' -- -G ANTC -- -3 ' 3 ' -- -CTNA G -- -5 '"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Sau3AI"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Staphylococcus aureus"
+        ],
+        [
+          "/wiki/Staphylococcus_aureus"
+        ]
+      ],
+      [
+        [
+          "5'GATC 3'CTAG"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "5 ' -- - GATC -- -3 ' 3 ' -- -CTAG -- -5 '"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "PvuII*"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Proteus vulgaris"
+        ],
+        [
+          "/wiki/Proteus_vulgaris"
+        ]
+      ],
+      [
+        [
+          "5'CAGCTG 3'GTCGAC"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "5 ' -- -CAG CTG -- -3 ' 3 ' -- -GTC GAC -- -5 '"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "SmaI*"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Serratia marcescens"
+        ],
+        [
+          "/wiki/Serratia_marcescens"
+        ]
+      ],
+      [
+        [
+          "5'CCCGGG 3'GGGCCC"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "5 ' -- -CCC GGG -- -3 ' 3 ' -- -GGG CCC -- -5 '"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "HaeIII*"
+        ],
+        [
+          "/wiki/HaeIII"
+        ]
+      ],
+      [
+        [
+          "Haemophilus aegyptius"
+        ],
+        [
+          "/wiki/Haemophilus_influenzae_biogroup_aegyptius"
+        ]
+      ],
+      [
+        [
+          "5'GGCC 3'CCGG"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "5 ' -- -GG CC -- -3 ' 3 ' -- -CC GG -- -5 '"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "HgaI"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Haemophilus gallinarum"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "5'GACGC 3'CTGCG"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "5 ' -- -NN NN -- -3 ' 3 ' -- -NN NN -- -5 '"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "AluI*"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Arthrobacter luteus"
+        ],
+        [
+          "/wiki/Arthrobacter_luteus"
+        ]
+      ],
+      [
+        [
+          "5'AGCT 3'TCGA"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "5 ' -- -AG CT -- -3 ' 3 ' -- -TC GA -- -5 '"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "EcoRV*"
+        ],
+        [
+          "/wiki/EcoRV"
+        ]
+      ],
+      [
+        [
+          "Escherichia coli"
+        ],
+        [
+          "/wiki/Escherichia_coli"
+        ]
+      ],
+      [
+        [
+          "5'GATATC 3'CTATAG"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "5 ' -- -GAT ATC -- -3 ' 3 ' -- -CTA TAG -- -5 '"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "EcoP15I"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Escherichia coli"
+        ],
+        [
+          "/wiki/Escherichia_coli"
+        ]
+      ],
+      [
+        [
+          "5'CAGCAGN 25 NN 3'GTCGTCN 25 NN"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "5 ' -- -CAGCAGN 25 NN -- -3 ' 3 ' -- -GTCGTCN 25 NN -- -5 '"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "KpnI"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Klebsiella pneumoniae"
+        ],
+        [
+          "/wiki/Klebsiella_pneumoniae"
+        ]
+      ],
+      [
+        [
+          "5'GGTACC 3'CCATGG"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "5 ' -- -GGTAC C -- -3 ' 3 ' -- -C CATGG -- -5 '"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "PstI"
+        ],
+        [
+          "/wiki/PstI"
+        ]
+      ],
+      [
+        [
+          "Providencia stuartii"
+        ],
+        [
+          "/wiki/Providencia_stuartii"
+        ]
+      ],
+      [
+        [
+          "5'CTGCAG 3'GACGTC"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "5 ' -- -CTGCA G -- -3 ' 3 ' -- -G ACGTC -- -5 '"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "SacI"
+        ],
+        [
+          "/wiki/SacI"
+        ]
+      ],
+      [
+        [
+          "Streptomyces achromogenes"
+        ],
+        [
+          "/wiki/Streptomyces_achromogenes"
+        ]
+      ],
+      [
+        [
+          "5'GAGCTC 3'CTCGAG"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "5 ' -- -GAGCT C -- -3 ' 3 ' -- -C TCGAG -- -5 '"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "SalI"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Streptomyces albus"
+        ],
+        [
+          "/wiki/Streptomyces_albus"
+        ]
+      ],
+      [
+        [
+          "5'GTCGAC 3'CAGCTG"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "5 ' -- -G TCGAC -- -3 ' 3 ' -- -CAGCT G -- -5 '"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "ScaI"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Streptomyces caespitosus"
+        ],
+        [
+          "/wiki/Streptomyces_caespitosus"
+        ]
+      ],
+      [
+        [
+          "5'AGTACT 3'TCATGA"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "5 ' -- -AGT ACT -- -3 ' 3 ' -- -TCA TGA -- -5 '"
+        ],
+        [
+          null
+        ]
+      ]
+    ]
+  ],
+  "section_title": "Examples",
+  "section_text": "See also : List of restriction enzyme cutting sites Examples of restriction enzymes include : [ 76 ]",
+  "uid": "Restriction_enzyme_0",
+  "intro": "A restriction enzyme, restriction endonuclease, or restrictase is an enzyme that cleaves DNA into fragments at or near specific recognition sites within molecules known as restriction sites. Restriction enzymes are one class of the broader endonuclease group of enzymes. Restriction enzymes are commonly classified into five types, which differ in their structure and whether they cut their DNA substrate at their recognition site, or if the recognition and cleavage sites are separate from one another. To cut DNA, all restriction enzymes make two incisions, once through each sugar-phosphate backbone (i.e. each strand) of the DNA double helix. These enzymes are found in bacteria and archaea and provide a defence mechanism against invading viruses. Inside a prokaryote, the restriction enzymes selectively cut up foreign DNA in a process called restriction digestion; meanwhile, host DNA is protected by a modification enzyme (a methyltransferase) that modifies the prokaryotic DNA and blocks cleavage. Together, these two processes form the restriction modification system. Over 3,000 restriction enzymes have been studied in detail, and more than 600 of these are available commercially. These enzymes are routinely used for DNA modification in laboratories, and they are a vital tool in molecular cloning."
+}

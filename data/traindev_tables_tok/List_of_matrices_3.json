@@ -1,0 +1,464 @@
+{
+  "url": "https://en.wikipedia.org/wiki/List_of_matrices",
+  "title": "List of matrices",
+  "header": [
+    [
+      [
+        "Name"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Explanation"
+      ],
+      [
+        null
+      ]
+    ],
+    [
+      [
+        "Notes"
+      ],
+      [
+        null
+      ]
+    ]
+  ],
+  "data": [
+    [
+      [
+        [
+          "Circular matrix",
+          "Coninvolutory matrix"
+        ],
+        [
+          null,
+          null
+        ]
+      ],
+      [
+        [
+          "A matrix whose inverse is equal to its entrywise complex conjugate : A = A"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Compare with unitary matrices"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Congruent matrix"
+        ],
+        [
+          "/wiki/Matrix_congruence"
+        ]
+      ],
+      [
+        [
+          "Two matrices A and B are congruent if there exists an invertible matrix P such that P A P = B"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Compare with similar matrices"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "EP matrix"
+        ],
+        [
+          "/wiki/EP_matrix"
+        ]
+      ],
+      [
+        [
+          "Moore-Penrose inverse"
+        ],
+        [
+          "/wiki/Moore\u2013Penrose_inverse"
+        ]
+      ],
+      [
+        [
+          ""
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Idempotent matrix",
+          "Projection Matrix"
+        ],
+        [
+          "/wiki/Idempotent_matrix",
+          "/wiki/Projection_(linear_algebra)"
+        ]
+      ],
+      [
+        [
+          "A matrix that has the property A \u00b2 = AA = A"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "one projection"
+        ],
+        [
+          "/wiki/Projection_(linear_algebra)"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Invertible matrix"
+        ],
+        [
+          "/wiki/Invertible_matrix"
+        ]
+      ],
+      [
+        [
+          "inverse"
+        ],
+        [
+          "/wiki/Inverse_matrix"
+        ]
+      ],
+      [
+        [
+          "general linear group"
+        ],
+        [
+          "/wiki/General_linear_group"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Involutory matrix"
+        ],
+        [
+          "/wiki/Involutory_matrix"
+        ]
+      ],
+      [
+        [
+          "A square matrix which is its own inverse , i.e. , AA = I"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Signature matrices",
+          "Householder Matrices"
+        ],
+        [
+          "/wiki/Signature_matrix",
+          "/wiki/Householder_transformation"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Nilpotent matrix"
+        ],
+        [
+          "/wiki/Nilpotent_matrix"
+        ]
+      ],
+      [
+        [
+          "A square matrix satisfying A = 0 for some positive integer q"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "Equivalently , the only eigenvalue of A is 0"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Normal matrix"
+        ],
+        [
+          "/wiki/Normal_matrix"
+        ]
+      ],
+      [
+        [
+          "conjugate transpose"
+        ],
+        [
+          "/wiki/Conjugate_transpose"
+        ]
+      ],
+      [
+        [
+          "spectral theorem"
+        ],
+        [
+          "/wiki/Spectral_theorem"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Orthogonal matrix"
+        ],
+        [
+          "/wiki/Orthogonal_matrix"
+        ]
+      ],
+      [
+        [
+          "transpose"
+        ],
+        [
+          "/wiki/Transpose"
+        ]
+      ],
+      [
+        [
+          "orthogonal group"
+        ],
+        [
+          "/wiki/Orthogonal_group"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Orthonormal matrix"
+        ],
+        [
+          "/wiki/Orthonormal_matrix"
+        ]
+      ],
+      [
+        [
+          "orthonormal"
+        ],
+        [
+          "/wiki/Orthonormal"
+        ]
+      ],
+      [
+        [
+          ""
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Singular matrix"
+        ],
+        [
+          "/wiki/Singular_matrix"
+        ]
+      ],
+      [
+        [
+          "A square matrix that is not invertible"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ""
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Unimodular matrix"
+        ],
+        [
+          "/wiki/Unimodular_matrix"
+        ]
+      ],
+      [
+        [
+          "integer matrix"
+        ],
+        [
+          "/wiki/Integer_matrix"
+        ]
+      ],
+      [
+        [
+          "Necessarily the determinant is +1 or \u22121"
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Unipotent matrix"
+        ],
+        [
+          "/wiki/Unipotent_matrix"
+        ]
+      ],
+      [
+        [
+          "A square matrix with all eigenvalues equal to 1"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          "unipotent group"
+        ],
+        [
+          "/wiki/Unipotent_group"
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Unitary matrix"
+        ],
+        [
+          "/wiki/Unitary_matrix"
+        ]
+      ],
+      [
+        [
+          "conjugate transpose"
+        ],
+        [
+          "/wiki/Conjugate_transpose"
+        ]
+      ],
+      [
+        [
+          ""
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Totally unimodular matrix"
+        ],
+        [
+          "/wiki/Totally_unimodular_matrix"
+        ]
+      ],
+      [
+        [
+          "unimodular",
+          "linear programming",
+          "relaxation",
+          "integer program"
+        ],
+        [
+          "/wiki/Unimodular_matrix",
+          "/wiki/Linear_programming",
+          "/wiki/Linear_programming_relaxation",
+          "/wiki/Integer_program"
+        ]
+      ],
+      [
+        [
+          ""
+        ],
+        [
+          null
+        ]
+      ]
+    ],
+    [
+      [
+        [
+          "Weighing matrix"
+        ],
+        [
+          "/wiki/Weighing_matrix"
+        ]
+      ],
+      [
+        [
+          "A square matrix the entries of which are in { 0 , 1 , \u22121 } , such that AA = wI for some positive integer w"
+        ],
+        [
+          null
+        ]
+      ],
+      [
+        [
+          ""
+        ],
+        [
+          null
+        ]
+      ]
+    ]
+  ],
+  "section_title": "Matrices satisfying conditions on products or inverses",
+  "section_text": "A number of matrix-related notions is about properties of products or inverses of the given matrix . The matrix product of a m-by-n matrix A and a n-by-k matrix B is the m-by-k matrix C given by ( C ) i , j = \u2211 r = 1 n A i , r B r , j . { \\displaystyle ( C ) _ { i , j } =\\sum _ { r=1 } ^ { n } A_ { i , r } B_ { r , j } . }",
+  "uid": "List_of_matrices_3",
+  "intro": "This page lists some important classes of matrices used in mathematics, science and engineering. A matrix (plural matrices, or less commonly matrixes) is a rectangular array of numbers called entries. Matrices have a long history of both study and application, leading to diverse ways of classifying matrices. A first group is matrices satisfying concrete conditions of the entries, including constant matrices. An important example is the identity matrix given by"
+}
