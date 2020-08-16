@@ -11,10 +11,12 @@ What's new compared to [HybridQA](http://hybridqa.github.io/):
 
 ## Folder Hierarchy
 - released_data: this folder contains the question/answer pairs for training, dev and test data.
-- data/tables_tok: this folder contains the 420K+ preprocessed pool of tables.
-- data/request_tok: this folder cotains their associated 2M passages from Wikipedia.
+- data/traindev_tables_tok: this folder contains the 420K+ preprocessed pool of tables.
+- data/traindev_request_tok: this folder cotains their associated 2M passages from Wikipedia.
 - table_crawling/: the folder contains the information about how we extract tables from Wikipedia.
 - retriever/: the folder contains the information about how we build index for the table and text.
+- data/all_plain_tables.json: this file contains the 400K+ open-domain tables for the test set. (see the following downloading command)
+- data/all_passages.json: this file contains the 1M+ open-domain passages for the test set. (see the following downloading command)
 
 ## Requirements
 - [HuggingFace](https://github.com/huggingface/transformers)
@@ -48,7 +50,7 @@ This script will print the recall@1,5,10,20,50 for TF-IDF retrieval under title+
 ```
 unzip tf-idf-index.zip
 cd data/
-wget https://opendomainhybridqa.s3-us-west-2.amazonaws.com/all_plain_data.json
+wget https://opendomainhybridqa.s3-us-west-2.amazonaws.com/all_plain_tables.json
 wget https://opendomainhybridqa.s3-us-west-2.amazonaws.com/all_passages.json
 cd ../
 ```
@@ -58,7 +60,6 @@ This command will download the crawled tables and linked passages from Wikiepdia
 ```
 python retrieve_and_preprocess.py --split train
 python retrieve_and_preprocess.py --split dev --model retriever/tfidf_title_sectitle_schema/index-tfidf-ngram\=2-hash\=16777216-tokenizer\=simple.npz
-python retrieve_and_preprocess.py --split test --model retriever/tfidf_title_sectitle_schema/index-tfidf-ngram\=2-hash\=16777216-tokenizer\=simple.npz
 ```
 This command will generate training data for different submodules in the following steps. For dev/test, it will also retrieve tables from the pool.
 
