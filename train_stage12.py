@@ -48,7 +48,7 @@ def set_seed(args):
     if args.n_gpu > 0:
         torch.cuda.manual_seed_all(args.seed)
 
-def generate_target_nodes(path, d, table_path='tables_tok', request_path='request_tok'):
+def generate_target_nodes(path, d, table_path, request_path):
     table_id = d['table_id']
     with open(f'{path}/{table_path}/{table_id}.json', 'r') as f:
         table = json.load(f)
@@ -86,7 +86,7 @@ def generate_target_nodes(path, d, table_path='tables_tok', request_path='reques
 
 class Stage12Dataset(Dataset):
     def __init__(self, path, data, tokenizer, max_seq_length, option, \
-                 table_path='tables_tok', retain_label=True, shuffle=True):
+                 table_path, retain_label=True, shuffle=True):
         super(Stage12Dataset, self).__init__()
         self.shuffle = shuffle
         self.retain_label = retain_label
@@ -408,8 +408,8 @@ def main():
         default='data/',
         help="Number of updates steps to accumulate before performing a backward/update pass.",
     )
-    parser.add_argument("--table_path", type=str, default='tables_tok/', help="table path.")
-    parser.add_argument("--request_path", type=str, default='request_tok/', help="request path.")
+    parser.add_argument("--table_path", type=str, default='traindev_tables_tok/', help="table path.")
+    parser.add_argument("--request_path", type=str, default='traindev_request_tok/', help="request path.")
     parser.add_argument("--learning_rate", default=5e-5, type=float, help="The initial learning rate for Adam.")        
     parser.add_argument("--seed", type=int, default=42, help="random seed for initialization")
     parser.add_argument(
@@ -518,7 +518,7 @@ def main():
     if args.do_train:
         train_data = readGZip(args.train_file)
         dataset = Stage12Dataset(args.resource_dir, train_data, tokenizer, args.max_seq_length, args.option, \
-                                 retain_label=True, shuffle=True)
+                                 table_path=args.table_path, retain_label=True, shuffle=True)
         loader = DataLoader(dataset, batch_size=None, batch_sampler=None, num_workers=8, shuffle=False, pin_memory=True)
 
         tb_writer = SummaryWriter(log_dir=args.output_dir)

@@ -56,7 +56,7 @@ def longest_match_distance(str1s, str2s):
     return longest_string
 
 
-def IR(data_entry, table_path='tables_tok', request_path='request_tok'):
+def IR(data_entry, table_path='traindev_tables_tok', request_path='traindev_request_tok'):
     table_id = data_entry['table_id']
     threshold = 0.99
     # Loading the table/request information
@@ -167,8 +167,8 @@ def convert2num(string):
     except Exception:
         return None
     
-def find_superlative(table_id, table):
-    if not os.path.exists('tables_tmp/{}.json'.format(table_id)):
+def find_superlative(table_id, table, resource_path='traindev_tables_tok'):
+    if not os.path.exists('{}/tmp/{}.json'.format(resource_path, table_id)):
         mapping = {}
         headers = [_[0][0] for _ in table['header']]
         for j in range(len(table['header'])):
@@ -231,7 +231,7 @@ def find_superlative(table_id, table):
 
     return nodes
 
-def CELL(d, table_path='tables_tok'):
+def CELL(d, table_path='traindev_tables_tok'):
     threshold = 90
     # LINKING THE CELL DATA
     triggers = ['JJR', 'JJS', 'RBR', 'RBS']
@@ -254,7 +254,7 @@ def CELL(d, table_path='tables_tok'):
     d['links'] = tmp_link
     if any([_ in d['question_postag'] for _ in triggers]):
         try:
-            tmp = find_superlative(table_id, table)
+            tmp = find_superlative(table_id, table, table_path)
             d['links'] = d['links'] + tmp
         except Exception:
             print("failed with table {}".format(table_id))
@@ -267,7 +267,7 @@ def hash_string(string):
     sha.update(string.encode())
     return sha.hexdigest()[:16]
 
-def analyze(processed, table_path='tables_tok'):
+def analyze(processed, table_path='traindev_tables_tok'):
     trivial, easy, medium, hard, no_answer, number, yesorno, repeated = 0, 0, 0, 0, 0, 0, 0, 0
     from_passage, from_cell, from_calculation = 0, 0, 0
     new_processed = []
@@ -385,7 +385,7 @@ def analyze(processed, table_path='tables_tok'):
 
     return new_processed
 
-def generate_inputs(data, table_path='tables_tok'):
+def generate_inputs(data, table_path='traindev_tables_tok'):
     split = []
     for d in data:
         table_id = d['table_id']
@@ -405,7 +405,7 @@ def generate_inputs(data, table_path='tables_tok'):
                       'table_id': d['table_id'], 'nodes': tmp})
     return split
 
-def prepare_stage1_data(data, table_path='tables_tok'):
+def prepare_stage1_data(data, table_path='traindev_tables_tok'):
     split = []
     for d in data:
         if d['type'] in ['medium', 'easy']:
@@ -445,7 +445,7 @@ def prepare_stage1_data(data, table_path='tables_tok'):
     
     return split
 
-def prepare_stage2_data(d, table_path='tables_tok', request_path='request_tok'):
+def prepare_stage2_data(d, table_path='traindev_tables_tok', request_path='traindev_request_tok'):
     split = []
     if d['type'] in ['medium', 'easy']:
         table_id = d['table_id']
@@ -507,7 +507,7 @@ def prepare_stage2_data(d, table_path='tables_tok', request_path='request_tok'):
 
     return split
 
-def prepare_stage3_data(data, request_path='request_tok'):
+def prepare_stage3_data(data, request_path='traindev_request_tok'):
     split = []
     for d in data:
         if d['where'] == 'passage':

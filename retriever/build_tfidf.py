@@ -45,25 +45,23 @@ logger.addHandler(console)
 def build_corpus(build_option, tmp_file):
     fw = open(tmp_file, 'w')
     posts = []
+    with open('../data/all_plain_tables.json', 'r') as f:
+        tables = json.load(f)
+    with open('../data/all_passages.json', 'r') as f:
+        passages = json.load(f)
     if build_option == 'title':
-        for fname in glob.glob('../data/tables_tok/*.json'):
-            with open(fname, 'r') as f:
-                table = json.load(f)
+        for _, table in tables.items():
             title = table['title']
             content = "{}".format(title)
             fw.write(json.dumps({'id': table['uid'], 'text': content}) + '\n')
     elif build_option == 'title_sectitle':
-        for fname in glob.glob('../data/tables_tok/*.json'):
-            with open(fname, 'r') as f:
-                table = json.load(f)
+        for _, table in tables.items():
             title = table['title']
             section_title = table['section_title']
             content = "{} | {}".format(title, section_title)
             fw.write(json.dumps({'id': table['uid'], 'text': content}) + '\n')
     elif build_option == 'title_sectitle_sectext':
-        for fname in glob.glob('../data/tables_tok/*.json'):
-            with open(fname, 'r') as f:
-                table = json.load(f)
+        for _, table in tables.items():
             title = table['title']
             section_title = table['section_title']
             section_text = table['section_text']
@@ -73,9 +71,7 @@ def build_corpus(build_option, tmp_file):
                 content = "{} | {} | {}".format(title, section_title, section_text)
             fw.write(json.dumps({'id': table['uid'], 'text': content}) + '\n')
     elif build_option == 'title_sectitle_schema':
-        for fname in glob.glob('../data/tables_tok/*.json'):
-            with open(fname, 'r') as f:
-                table = json.load(f)
+        for _, table in tables.items():
             title = table['title']
             section_title = table['section_title']
             headers = []
@@ -85,9 +81,7 @@ def build_corpus(build_option, tmp_file):
             content = "{} | {} | {}".format(title, section_title, headers)
             fw.write(json.dumps({'id': table['uid'], 'text': content}) + '\n')
     elif build_option == 'title_sectitle_content':
-        for fname in glob.glob('../data/tables_tok/*.json'):
-            with open(fname, 'r') as f:
-                table = json.load(f)
+        for _, table in tables.items():
             title = table['title']
             section_title = table['section_title']
             contents = []
@@ -100,15 +94,11 @@ def build_corpus(build_option, tmp_file):
             content = "{} | {} | {}".format(title, section_title, contents)
             fw.write(json.dumps({'id': table['uid'], 'text': content}) + '\n')
     elif build_option == 'text':
-        with open('../data/all_requests.json', 'r') as f:
-            requests = json.load(f)
-        for k, v in requests.items():
+        for k, v in passages.items():
             fw.write(json.dumps({'id': k.encode('utf8'), 'text': v}) + '\n')
         fw.close()
     elif build_option == 'text_title':
-        with open('../data/all_requests.json', 'r') as f:
-            requests = json.load(f)
-        for k, v in requests.items():
+        for k, v in passages.items():
             v = k.replace('/wiki/', '')
             v = v.replace('_', ' ')
             if k and v:

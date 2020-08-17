@@ -11,7 +11,7 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     pool = Pool(64)
-    if args.split in ['dev', 'test']: 
+    if args.split in ['dev']: 
         split = args.split
         with open(f'released_data/{split}.before_retrieval.json', 'r') as f:
             dev_data = json.load(f)
@@ -22,8 +22,7 @@ if __name__ == '__main__':
             query = d['question']
             doc_names, doc_scores = ranker.closest_docs(query, k)
             d['table_id'] = doc_names[0]
-            #d['top_k'] = doc_names
-            #d['top_k_scores'] = doc_scores.tolist()
+
         with open(f'preprocessed_data/{split}.json', 'w') as f:
             json.dump(dev_data, f, indent=2)
 
@@ -35,12 +34,7 @@ if __name__ == '__main__':
         with open(f'preprocessed_data/{split}_inputs.json', 'w') as f:
             json.dump(dev_inputs, f, indent=2)
     
-    elif args.split in ['maskedlink_dev', 'maskedlink_test']:
-        if 'test' in args.split:
-            split = 'test'
-        else:
-            split = 'dev'
-
+    elif args.split in ['test']:
         with open(f'released_data/{split}.before_retrieval.json', 'r') as f:
             dev_data = json.load(f)
 
@@ -66,7 +60,7 @@ if __name__ == '__main__':
         with open(f'preprocessed_data/{split}_inputs.json', 'w') as f:
             json.dump(dev_inputs, f, indent=2)
 
-    elif args.split in ['dev.oracle', 'test.oracle']:
+    elif args.split in ['dev.oracle']:
         split = args.split
         with open(f'released_data/{split}_retrieval.json', 'r') as f:
             dev_data = json.load(f)
@@ -103,6 +97,7 @@ if __name__ == '__main__':
         results = prepare_stage3_data(train_results)
         with open('preprocessed_data/stage3_training_data.json', 'w') as f:
             json.dump(results, f, indent=2)
+    
     elif args.split in ['train_retrieval', 'test_retrieval']:
         print("generating the retrieval data")
         split = args.split

@@ -125,6 +125,7 @@ if not args.debug:
                         pass
                     sys.stdout.write('finished {}/{}; HITS@{} = {} \r'.format(i + 1, len(pairwise_info), k, succ / (succ + fail)))
                 print('finished {}/{}; HITS@{} = {}'.format(i + 1, len(pairwise_info), k, succ / (succ + fail)))
+        
         elif args.format == 'table_construction':
             with open('preprocessed_data/test.json', 'r') as f:
                 required_test_tables = json.load(f)
