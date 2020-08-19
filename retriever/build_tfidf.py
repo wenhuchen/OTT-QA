@@ -95,7 +95,7 @@ def build_corpus(build_option, tmp_file):
             fw.write(json.dumps({'id': table['uid'], 'text': content}) + '\n')
     elif build_option == 'text':
         for k, v in passages.items():
-            fw.write(json.dumps({'id': k.encode('utf8'), 'text': v}) + '\n')
+            fw.write(json.dumps({'id': k, 'text': v}) + '\n')
         fw.close()
     elif build_option == 'text_title':
         for k, v in passages.items():
