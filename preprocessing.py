@@ -167,7 +167,7 @@ def convert2num(string):
     except Exception:
         return None
     
-def find_superlative(table_id, table, resource_path='traindev_tables_tok'):
+def find_superlative(table_id, table):
     if not os.path.exists('{}/tmp/{}.json'.format(resource_path, table_id)):
         mapping = {}
         headers = [_[0][0] for _ in table['header']]
@@ -223,10 +223,10 @@ def find_superlative(table_id, table, resource_path='traindev_tables_tok'):
                     tmp_node[3] = 'latest'
                     nodes.append(tmp_node)
 
-        with open('{}/tables_tmp/{}.json'.format(resource_path, table_id), 'w') as f:
+        with open('{}/tmp/{}.json'.format(resource_path, table_id), 'w') as f:
             json.dump(nodes, f)
     else:
-        with open('{}/tables_tmp/{}.json'.format(resource_path, table_id), 'r') as f:
+        with open('{}/tmp/{}.json'.format(resource_path, table_id), 'r') as f:
             nodes = json.load(f)
 
     return nodes
@@ -254,7 +254,7 @@ def CELL(d, table_path='traindev_tables_tok'):
     d['links'] = tmp_link
     if any([_ in d['question_postag'] for _ in triggers]):
         try:
-            tmp = find_superlative(table_id, table, table_path)
+            tmp = find_superlative(table_id, table)
             d['links'] = d['links'] + tmp
         except Exception:
             print("failed with table {}".format(table_id))
