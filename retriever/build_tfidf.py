@@ -76,7 +76,7 @@ def build_corpus(build_option, tmp_file):
             section_title = table['section_title']
             headers = []
             for h in table['header']:
-                headers.append(' '.join(h[0]))
+                headers.append(h)
             headers = ' '.join(headers)
             content = "{} | {} | {}".format(title, section_title, headers)
             fw.write(json.dumps({'id': table['uid'], 'text': content}) + '\n')
@@ -86,10 +86,10 @@ def build_corpus(build_option, tmp_file):
             section_title = table['section_title']
             contents = []
             for h in table['header']:
-                contents.append(' '.join(h[0]))
+                contents.append(h)
             for rows in table['data']:
-                for row in rows:
-                    contents.append(' '.join(row[0]))
+                for cell in rows:
+                    contents.append(cell)
             contents = ' '.join(contents)
             content = "{} | {} | {}".format(title, section_title, contents)
             fw.write(json.dumps({'id': table['uid'], 'text': content}) + '\n')

@@ -25,6 +25,7 @@ parser = argparse.ArgumentParser()
 parser.add_argument('--model', type=str, required=True)
 parser.add_argument('--option', type=str, default='tfidf')
 parser.add_argument('--format', type=str, default='table')
+parser.add_argument('--split', type=str, default='dev')
 parser.add_argument('--debug', action='store_true', default=False)
 parser.add_argument('--cell', action='store_true', default=False)
 parser.add_argument('--usage', type=str, default='content')
@@ -52,7 +53,7 @@ def use_what(whole_representation, usage):
     else:
         raise NotImplementedError()
 
-with open('released_data/test.oracle_retrieval.json', 'r') as f:
+with open(f'released_data/{args.split}.oracle_retrieval.json', 'r') as f:
     data = json.load(f)
 
 if not args.debug:
