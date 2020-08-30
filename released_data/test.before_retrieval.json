@@ -225,7 +225,7 @@
   },
   {
     "question": "What is the theme of the Australian television show that debuted on Nine Network on 12 May 2011 ?",
-    "answer-text": "Sports",
+    "answer-text": "sports",
     "version": "V2",
     "question_id": "d00c8f1cc922ce38",
     "question_postag": "WP VBZ DT NN IN DT JJ NN NN WDT VBD IN NNP NNP IN CD NNP CD ."
@@ -4418,7 +4418,7 @@
   },
   {
     "question": "What does man pass himself off as in the 1934 film in which Jean Muir plays Caroline Grant ?",
-    "answer-text": "Doctor",
+    "answer-text": "doctor",
     "version": "V2",
     "question_id": "0f20ccc03ad10bd2",
     "question_postag": "WP VBZ NN VB PRP RP IN IN DT CD NN IN WDT NNP NNP VBZ NNP NNP ."
@@ -10452,7 +10452,7 @@
   },
   {
     "question": "What is the home state of the team that opposed the VMI Keydets in their October 29th 1904 football game ?",
-    "answer-text": "North Carolina A & M",
+    "answer-text": "North Carolina",
     "version": "v4",
     "question_id": "a04c13bdfe6c29fa",
     "question_postag": "WP VBZ DT NN NN IN DT NN WDT VBD DT NNP NNP IN PRP$ NNP CD CD NN NN ."

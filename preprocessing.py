@@ -269,12 +269,11 @@ def hash_string(string):
 
 def analyze(processed, table_path='traindev_tables_tok'):
     trivial, easy, medium, hard, no_answer, number, yesorno, repeated = 0, 0, 0, 0, 0, 0, 0, 0
-    from_passage, from_cell, from_calculation = 0, 0, 0
+    from_passage, from_cell, from_both = 0, 0, 0, 0
     new_processed = []
     used_question_id = set([])
     
     question_type = ''
-    where_from = ''
     for p in processed:
         p['question_id'] = hash_string(p['question'])
         
@@ -365,23 +364,33 @@ def analyze(processed, table_path='traindev_tables_tok'):
 
         p['type'] = question_type
 
-        if p['type'] != 'trivial':
-            if len(answer_node) > 0:
-                if answer_node[0][-1] == 'passage':
-                    from_passage += 1
+        if len(answer_node) > 0:
+            possible_passage, possibel_table = 0, 0
+            for answer in answer_node:
+                if answer[-1] == 'passage':
+                    possible_passage += 1
                 else:
-                    from_cell += 1
-                p['where'] = answer_node[0][-1]
+                    possibel_table += 1
+            # Trace back where it comes from
+            if possible_passage > 0 and possibel_table > 0:
+                p['where'] = 'both'
+                from_both += 1
+            elif possible_passage > 0:
+                p['where'] = 'passage'
+                from_passage += 1
             else:
-                from_calculation += 1
-                p['where'] = 'calculation'
-                
-            new_processed.append(p)
-            used_question_id.add(p['question_id'])
+                p['where'] = 'table'
+                from_cell += 1
+            p['where'] = answer_node[0][-1]
+        else:
+            raise ValueError('wrong parsing')
+            
+        new_processed.append(p)
+        used_question_id.add(p['question_id'])
 
     print("trivial: {}, easy: {}, medium: {}, hard: {}, number: {}, no answer: {}, yes/no: {}, repeated: {}".
           format(trivial, easy, medium, hard, number, no_answer, yesorno, repeated))
-    print("from cell: {}, from passage: {}, from_calculation: {}".format(from_cell, from_passage, from_calculation))
+    print("from cell: {}, from passage: {}, from both: {}".format(from_cell, from_passage, from_both))
 
     return new_processed
 

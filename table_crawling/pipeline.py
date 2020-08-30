@@ -12,11 +12,16 @@ from shutil import copyfile
 from nltk.tokenize import word_tokenize, sent_tokenize
 import urllib.parse
 import glob
-http = urllib3.PoolManager()
-urllib3.disable_warnings()
-from utils import *
+import sys
 import os
 
+# HTTP manager
+http = urllib3.PoolManager()
+urllib3.disable_warnings()
+sys.path.append("../")
+from utils import *
+
+# Initializing the resource folder
 output_folder = 'data/'
 input_htmls = 'htmls'
 #default setting
@@ -636,23 +641,26 @@ if __name__ == "__main__":
         # Step7: Generate tables without hyperlinks
         if not os.path.exists('{}/plain_tables_tok'.format(output_folder)):
             os.mkdir('{}/plain_tables_tok'.format(output_folder))
-
-        for file in glob.glob('{}/tables_tok/*.json'.format(output_folder)):
-            with open(file, 'r') as f:
+        
+        table_set = {}
+        for file_name in glob.glob('{}/tables_tok/*.json'.format(output_folder)):
+            with open(file_name, 'r') as f:
                 table = json.load(f)
 
             for i, h in enumerate(table['header']):
-                full_cell = ', '.join(table['header'][i][0])
+                full_cell = ' , '.join(table['header'][i][0])
                 table['header'][i] = full_cell
 
             for i, row in enumerate(table['data']):
                 for j, cell in enumerate(row):
-                    full_cell = ', '.join(cell[0])
+                    full_cell = ' , '.join(cell[0])
                     table['data'][i][j] = full_cell
-
-            output_file = file.replace('data/', '../data/')
-            with open(output_file, 'w') as f:
-                json.dump(table, f, indent=2)
+            
+            file_name = os.path.basename(file_name)
+            file_name = os.path.splitext(file_name)[0]
+            table_set[file_name] = table
+        with open('../data/all_plain_tables.json', 'w') as f:
+            json.dump(table_set, f)
         print("Step7: Finished generating plain tables")
 
     if '8' in steps:
