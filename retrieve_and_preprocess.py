@@ -37,7 +37,7 @@ if __name__ == '__main__':
         with open('preprocessed_data/stage3_training_data.json', 'w') as f:
             json.dump(results, f, indent=2)
             
-    if args.split in ['dev']: 
+    elif args.split in ['dev']: 
         split = args.split
         with open(f'released_data/{split}.before_retrieval.json', 'r') as f:
             dev_data = json.load(f)

@@ -269,7 +269,7 @@ def hash_string(string):
 
 def analyze(processed, table_path='traindev_tables_tok'):
     trivial, easy, medium, hard, no_answer, number, yesorno, repeated = 0, 0, 0, 0, 0, 0, 0, 0
-    from_passage, from_cell, from_both = 0, 0, 0, 0
+    from_passage, from_cell, from_both = 0, 0, 0
     new_processed = []
     used_question_id = set([])
     

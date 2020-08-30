@@ -67,19 +67,6 @@ def get_raw_scores(examples, reference):
     qid_list = reference['reference'].keys()
     total = len(qid_list)
     
-    table_list = reference['table']
-    passage_list = reference['passage']
-    
-    for k in table_list:
-        if k not in exact_scores:
-            print("WARNING: MISSING QUESTION {}".format(k))
-    table_list = list(set(table_list) & set(exact_scores.keys()))
-
-    for k in passage_list:
-        if k not in exact_scores:
-            print("WARNING: MISSING QUESTION {}".format(k))
-    passage_list = list(set(passage_list) & set(exact_scores.keys()))
-
     for k in qid_list:
         if k not in exact_scores:
             print("WARNING: MISSING QUESTION {}".format(k))
@@ -87,10 +74,6 @@ def get_raw_scores(examples, reference):
 
     return collections.OrderedDict(
         [
-            ("table exact", 100.0 * sum(exact_scores[k] for k in table_list) / len(table_list)),
-            ("table f1", 100.0 * sum(f1_scores[k] for k in table_list) / len(table_list)),
-            ("passage exact", 100.0 * sum(exact_scores[k] for k in passage_list) / len(passage_list)),
-            ("passage f1", 100.0 * sum(f1_scores[k] for k in passage_list) / len(passage_list)),
             ("total exact", 100.0 * sum(exact_scores[k] for k in qid_list) / total),
             ("total f1", 100.0 * sum(f1_scores[k] for k in qid_list) / total),
             ("total", total),
