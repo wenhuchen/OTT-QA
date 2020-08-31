@@ -686,9 +686,6 @@ if __name__ == "__main__":
 
     if '8' in steps:
         # Step7: Generate tables without hyperlinks
-        if not os.path.exists('{}/plain_tables_tok'.format(output_folder)):
-            os.mkdir('{}/plain_tables_tok'.format(output_folder))
-        
         table_set = {}
         for file_name in glob.glob('{}/tables_tok/*.json'.format(output_folder)):
             with open(file_name, 'r') as f:

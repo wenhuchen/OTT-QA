@@ -86,11 +86,11 @@
           "Tulip Poplar"
         ],
         [
-          "/wiki/Eastern_Hemlock",
-          "/wiki/American_Beech",
-          "/wiki/Sweet_Birch",
+          "/wiki/Tsuga_canadensis",
+          "/wiki/Fagus_grandifolia",
+          "/wiki/Betula_lenta",
           "/wiki/Quercus_alba",
-          "/wiki/Tulip_Poplar"
+          "/wiki/Liriodendron_tulipifera"
         ]
       ]
     ],
@@ -125,7 +125,7 @@
           "Pacific Coastal Mountain icefields and tundra"
         ],
         [
-          "/wiki/Northern_Pacific_coastal_forests",
+          "/wiki/Northern_Pacific_coastal_forests_(WWF_ecoregion)",
           null
         ]
       ],
@@ -136,9 +136,9 @@
           "Western Hemlock"
         ],
         [
-          "/wiki/Western_Red_Cedar",
-          "/wiki/Sitka_Spruce",
-          "/wiki/Western_Hemlock"
+          "/wiki/Thuja_plicata",
+          "/wiki/Picea_sitchensis",
+          "/wiki/Tsuga_heterophylla"
         ]
       ]
     ],
@@ -189,16 +189,16 @@
           "Baldcypress"
         ],
         [
-          "/wiki/American_Sweetgum",
-          "/wiki/Nuttall's_Oak",
-          "/wiki/Willow_Oak",
-          "/wiki/Sugarberry",
-          "/wiki/American_Elm",
-          "/wiki/Green_Ash",
-          "/wiki/American_Sycamore",
+          "/wiki/Liquidambar_styraciflua",
+          "/wiki/Quercus_texana",
+          "/wiki/Quercus_phellos",
+          "/wiki/Celtis_laevigata",
+          "/wiki/Ulmus_americana",
+          "/wiki/Fraxinus_pennsylvanica",
+          "/wiki/Platanus_occidentalis",
           "/wiki/Pecan",
-          "/wiki/American_Elm",
-          "/wiki/Baldcypress"
+          "/wiki/Ulmus_americana",
+          "/wiki/Taxodium_distichum"
         ]
       ]
     ],
@@ -249,16 +249,16 @@
           "Yaupon"
         ],
         [
-          "/wiki/Post_Oak",
-          "/wiki/Shortleaf_Pine",
+          "/wiki/Quercus_stellata",
+          "/wiki/Pinus_echinata",
           "/wiki/Hickory",
-          "/wiki/Northern_Red_Oak",
+          "/wiki/Quercus_rubra",
           "/wiki/Quercus_alba",
-          "/wiki/Blackjack_Oak",
-          "/wiki/Eastern_Redcedar",
-          "/wiki/Gum_Bumelia",
-          "/wiki/Winged_Elm",
-          "/wiki/Yaupon"
+          "/wiki/Quercus_marilandica",
+          "/wiki/Juniperus_virginiana",
+          "/wiki/Sideroxylon_lanuginosum",
+          "/wiki/Ulmus_alata",
+          "/wiki/Ilex_vomitoria"
         ]
       ]
     ],
@@ -276,7 +276,7 @@
           "Ozark-St. Francis National Forest"
         ],
         [
-          "/wiki/Ozark-St._Francis_National_Forest"
+          "/wiki/Ozark\u2013St._Francis_National_Forest"
         ]
       ],
       [
@@ -305,12 +305,12 @@
           "Northern Red Oak"
         ],
         [
-          "/wiki/Shortleaf_Pine",
-          "/wiki/Post_Oak",
-          "/wiki/Blackjack_Oak",
-          "/wiki/Eastern_Black_Oak",
+          "/wiki/Pinus_echinata",
+          "/wiki/Quercus_stellata",
+          "/wiki/Quercus_marilandica",
+          "/wiki/Quercus_velutina",
           "/wiki/Quercus_alba",
-          "/wiki/Northern_Red_Oak"
+          "/wiki/Quercus_rubra"
         ]
       ]
     ],
@@ -354,8 +354,8 @@
           "White Oak"
         ],
         [
-          "/wiki/Shortleaf_Pine",
-          "/wiki/Blackjack_Oak",
+          "/wiki/Pinus_echinata",
+          "/wiki/Quercus_marilandica",
           "/wiki/Quercus_alba"
         ]
       ]
@@ -399,8 +399,8 @@
           "Sugar Maple"
         ],
         [
-          "/wiki/American_Beech",
-          "/wiki/Sugar_Maple"
+          "/wiki/Fagus_grandifolia",
+          "/wiki/Acer_saccharum"
         ]
       ]
     ],
@@ -434,7 +434,7 @@
           "Sierra Nevada forests"
         ],
         [
-          "/wiki/Sierra_Nevada_forests"
+          "/wiki/Ecology_of_the_Sierra_Nevada"
         ]
       ],
       [
@@ -452,17 +452,17 @@
           "Foxtail Pine"
         ],
         [
-          "/wiki/Giant_Sequoia",
-          "/wiki/Ponderosa_Pine",
-          "/wiki/Jeffrey_Pine",
-          "/wiki/Sugar_Pine",
-          "/wiki/White_Fir",
-          "/wiki/California_Incense_Cedar",
-          "/wiki/Coast_Douglas-fir",
-          "/wiki/Red_Fir",
-          "/wiki/Western_White_Pine",
-          "/wiki/Lodgepole_Pine",
-          "/wiki/Foxtail_Pine"
+          "/wiki/Sequoiadendron_giganteum",
+          "/wiki/Pinus_ponderosa",
+          "/wiki/Pinus_jeffreyi",
+          "/wiki/Pinus_lambertiana",
+          "/wiki/Abies_concolor",
+          "/wiki/Calocedrus_decurrens",
+          "/wiki/Pseudotsuga_menziesii_var._menziesii",
+          "/wiki/Abies_magnifica",
+          "/wiki/Western_white_pine",
+          "/wiki/Pinus_contorta",
+          "/wiki/Pinus_balfouriana"
         ]
       ]
     ],
@@ -498,7 +498,7 @@
           "Sierra Nevada forests"
         ],
         [
-          "/wiki/Sierra_Nevada_forests"
+          "/wiki/Ecology_of_the_Sierra_Nevada"
         ]
       ],
       [
@@ -512,13 +512,13 @@
           "California Incense Cedar"
         ],
         [
-          "/wiki/Giant_Sequoia",
-          "/wiki/Ponderosa_Pine",
-          "/wiki/Jeffrey_Pine",
-          "/wiki/Sugar_Pine",
-          "/wiki/White_Fir",
-          "/wiki/Red_Fir",
-          "/wiki/California_Incense_Cedar"
+          "/wiki/Sequoiadendron_giganteum",
+          "/wiki/Pinus_ponderosa",
+          "/wiki/Pinus_jeffreyi",
+          "/wiki/Pinus_lambertiana",
+          "/wiki/Abies_concolor",
+          "/wiki/Abies_magnifica",
+          "/wiki/Calocedrus_decurrens"
         ]
       ]
     ],
@@ -552,7 +552,7 @@
           "Sierra Nevada forests"
         ],
         [
-          "/wiki/Sierra_Nevada_forests"
+          "/wiki/Ecology_of_the_Sierra_Nevada"
         ]
       ],
       [
@@ -568,15 +568,15 @@
           "Whitebark Pine"
         ],
         [
-          "/wiki/Ponderosa_Pine",
-          "/wiki/Jeffrey_Pine",
-          "/wiki/Sugar_Pine",
-          "/wiki/White_Fir",
-          "/wiki/Red_Fir",
-          "/wiki/Western_White_Pine",
-          "/wiki/Mountain_Hemlock",
-          "/wiki/Lodgepole_Pine",
-          "/wiki/Whitebark_Pine"
+          "/wiki/Pinus_ponderosa",
+          "/wiki/Pinus_jeffreyi",
+          "/wiki/Pinus_lambertiana",
+          "/wiki/Abies_concolor",
+          "/wiki/Abies_magnifica",
+          "/wiki/Western_white_pine",
+          "/wiki/Tsuga_mertensiana",
+          "/wiki/Pinus_contorta",
+          "/wiki/Pinus_albicaulis"
         ]
       ]
     ],
@@ -610,7 +610,7 @@
           "Northern California coastal forests"
         ],
         [
-          "/wiki/Northern_California_coastal_forests"
+          "/wiki/Northern_California_coastal_forests_(WWF_ecoregion)"
         ]
       ],
       [
@@ -618,7 +618,7 @@
           "Coast Redwood"
         ],
         [
-          "/wiki/Coast_Redwood"
+          "/wiki/Sequoia_sempervirens"
         ]
       ]
     ],
@@ -652,7 +652,7 @@
           "Northern California coastal forests"
         ],
         [
-          "/wiki/Northern_California_coastal_forests"
+          "/wiki/Northern_California_coastal_forests_(WWF_ecoregion)"
         ]
       ],
       [
@@ -660,7 +660,7 @@
           "Coast Redwood"
         ],
         [
-          "/wiki/Coast_Redwood"
+          "/wiki/Sequoia_sempervirens"
         ]
       ]
     ],
@@ -702,7 +702,7 @@
           "Coast Redwood"
         ],
         [
-          "/wiki/Coast_Redwood"
+          "/wiki/Sequoia_sempervirens"
         ]
       ]
     ],
@@ -744,7 +744,7 @@
           "Coast Redwood"
         ],
         [
-          "/wiki/Coast_Redwood"
+          "/wiki/Sequoia_sempervirens"
         ]
       ]
     ],
@@ -778,7 +778,7 @@
           "Northern California coastal forests"
         ],
         [
-          "/wiki/Northern_California_coastal_forests"
+          "/wiki/Northern_California_coastal_forests_(WWF_ecoregion)"
         ]
       ],
       [
@@ -786,7 +786,7 @@
           "Coast Redwood"
         ],
         [
-          "/wiki/Coast_Redwood"
+          "/wiki/Sequoia_sempervirens"
         ]
       ]
     ],
@@ -820,7 +820,7 @@
           "Northern California coastal forests"
         ],
         [
-          "/wiki/Northern_California_coastal_forests"
+          "/wiki/Northern_California_coastal_forests_(WWF_ecoregion)"
         ]
       ],
       [
@@ -831,10 +831,10 @@
           "Ponderosa Pine"
         ],
         [
-          "/wiki/Coast_Redwood",
-          "/wiki/Coast_Douglas-fir",
-          "/wiki/Pacific_Madrone",
-          "/wiki/Ponderosa_Pine"
+          "/wiki/Sequoia_sempervirens",
+          "/wiki/Pseudotsuga_menziesii_var._menziesii",
+          "/wiki/Arbutus_menziesii",
+          "/wiki/Pinus_ponderosa"
         ]
       ]
     ],
@@ -868,7 +868,7 @@
           "Northern California coastal forests"
         ],
         [
-          "/wiki/Northern_California_coastal_forests"
+          "/wiki/Northern_California_coastal_forests_(WWF_ecoregion)"
         ]
       ],
       [
@@ -876,7 +876,7 @@
           "Coast Redwood"
         ],
         [
-          "/wiki/Coast_Redwood"
+          "/wiki/Sequoia_sempervirens"
         ]
       ]
     ],
@@ -918,7 +918,7 @@
           "Blue Oak"
         ],
         [
-          "/wiki/Blue_Oak"
+          "/wiki/Quercus_douglasii"
         ]
       ]
     ],
@@ -964,11 +964,11 @@
           "Lodgepole Pine"
         ],
         [
-          "/wiki/Jeffrey_Pine",
-          "/wiki/Coast_Douglas-fir",
-          "/wiki/Ponderosa_Pine",
-          "/wiki/White_Fir",
-          "/wiki/Lodgepole_Pine"
+          "/wiki/Pinus_jeffreyi",
+          "/wiki/Pseudotsuga_menziesii_var._menziesii",
+          "/wiki/Pinus_ponderosa",
+          "/wiki/Abies_concolor",
+          "/wiki/Pinus_contorta"
         ]
       ]
     ],
@@ -1002,7 +1002,7 @@
           "Sierra Nevada forests"
         ],
         [
-          "/wiki/Sierra_Nevada_forests"
+          "/wiki/Ecology_of_the_Sierra_Nevada"
         ]
       ],
       [
@@ -1014,11 +1014,11 @@
           "Red Fir"
         ],
         [
-          "/wiki/Coast_Douglas-fir",
-          "/wiki/Ponderosa_Pine",
-          "/wiki/White_Fir",
-          "/wiki/Lodgepole_Pine",
-          "/wiki/Red_Fir"
+          "/wiki/Pseudotsuga_menziesii_var._menziesii",
+          "/wiki/Pinus_ponderosa",
+          "/wiki/Abies_concolor",
+          "/wiki/Pinus_contorta",
+          "/wiki/Abies_magnifica"
         ]
       ]
     ]

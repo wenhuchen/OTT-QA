@@ -66,7 +66,7 @@
           "POSIX"
         ],
         [
-          "/wiki/Posix"
+          "/wiki/POSIX"
         ]
       ]
     ],
@@ -101,7 +101,7 @@
           "FUSE"
         ],
         [
-          "/wiki/Posix",
+          "/wiki/POSIX",
           "/wiki/Filesystem_in_Userspace"
         ]
       ]
@@ -175,7 +175,7 @@
           "S3"
         ],
         [
-          "/wiki/Posix",
+          "/wiki/POSIX",
           "/wiki/Network_File_System",
           "/wiki/Filesystem_in_Userspace",
           "/wiki/Amazon_S3"
@@ -266,9 +266,9 @@
           "/wiki/Installable_File_System",
           "/wiki/Network_File_System",
           "/wiki/Server_Message_Block",
-          "/wiki/Posix",
+          "/wiki/POSIX",
           "/wiki/Command-line_interface",
-          "/wiki/Software_Development_Kit"
+          "/wiki/Software_development_kit"
         ]
       ]
     ],
@@ -308,12 +308,12 @@
           "CLI"
         ],
         [
-          "/wiki/Posix",
+          "/wiki/POSIX",
           "/wiki/Network_File_System",
-          "/wiki/SMB/CIFS",
-          "/wiki/HDFS",
-          "/wiki/HTTP",
-          "/wiki/FTP",
+          "/wiki/Server_Message_Block",
+          "/wiki/Apache_Hadoop",
+          "/wiki/Hypertext_Transfer_Protocol",
+          "/wiki/File_Transfer_Protocol",
           "/wiki/Command-line_interface"
         ]
       ]
@@ -352,9 +352,9 @@
         ],
         [
           "/wiki/Filesystem_in_Userspace",
-          "/wiki/NFS_file_system",
+          "/wiki/Network_File_System",
           "/wiki/Representational_state_transfer",
-          "/wiki/AWS_S3"
+          "/wiki/Amazon_S3"
         ]
       ]
     ],
@@ -395,13 +395,13 @@
           "CLI"
         ],
         [
-          "/wiki/Posix",
+          "/wiki/POSIX",
           "/wiki/Filesystem_in_Userspace",
           "/wiki/Network_File_System",
-          "/wiki/SMB/CIFS",
-          "/wiki/HDFS",
-          "/wiki/AWS_S3",
-          "/wiki/Tensorflow",
+          "/wiki/Server_Message_Block",
+          "/wiki/Apache_Hadoop",
+          "/wiki/Amazon_S3",
+          "/wiki/TensorFlow",
           "/wiki/Command-line_interface"
         ]
       ]

@@ -179,7 +179,7 @@
           "/wiki/.22_Long",
           "/wiki/.22_Long_Rifle",
           "/wiki/.22_Extra_Long",
-          "/wiki/.22_WMR",
+          "/wiki/.22_Winchester_Magnum_Rimfire",
           "/wiki/.22_Hornet"
         ]
       ]
@@ -236,9 +236,9 @@
           "/wiki/.222_Remington_Magnum",
           "/wiki/.223_Remington",
           "/wiki/5.56\u00d745mm_NATO",
-          "/wiki/5.7\u00d728mm",
+          "/wiki/FN_5.7\u00d728mm",
           "/wiki/.22_TCM",
-          "/wiki/5.8\u00d742mm_DBP87",
+          "/wiki/5.8\u00d742mm",
           "/wiki/.224_Weatherby_Magnum",
           "/wiki/.225_Winchester",
           "/wiki/.223_Winchester_Super_Short_Magnum",
@@ -323,8 +323,8 @@
         [
           "/wiki/.25_ACP",
           "/wiki/.250-3000_Savage",
-          "/wiki/257_Roberts",
-          "/wiki/.25-06"
+          "/wiki/.257_Roberts",
+          "/wiki/.25-06_Remington"
         ]
       ]
     ],
@@ -364,7 +364,7 @@
         [
           "/wiki/6.5\u00d755mm_Swedish",
           "/wiki/.260_Remington",
-          "/wiki/.26_Nosler",
+          "/wiki/Nosler_proprietary_cartridges",
           "/wiki/6.5mm_Creedmoor",
           "/wiki/6.5\u00d747mm_Lapua"
         ]
@@ -402,7 +402,7 @@
         ],
         [
           "/wiki/.270_Winchester",
-          "/wiki/6.8_SPC"
+          "/wiki/6.8mm_Remington_SPC"
         ]
       ]
     ],
@@ -488,8 +488,8 @@
           ".300 Weatherby Magnum"
         ],
         [
-          "/wiki/.30-30_Win",
-          "/wiki/300_AAC_Blackout_(7.62\u00d735mm)",
+          "/wiki/.30-30_Winchester",
+          "/wiki/.300_AAC_Blackout",
           "/wiki/.300_Winchester_Magnum",
           "/wiki/.30_Carbine",
           "/wiki/.30-03",
@@ -535,7 +535,7 @@
         ],
         [
           "/wiki/.303_British",
-          "/wiki/7.62\u00d739mm_Soviet",
+          "/wiki/7.62\u00d739mm",
           "/wiki/7.62\u00d754mmR",
           "/wiki/7.62\u00d725mm_Tokarev",
           "/wiki/7.7\u00d758mm_Arisaka"
@@ -609,8 +609,8 @@
           "airsoft"
         ],
         [
-          "/wiki/8\u00d757mm_IS",
-          "/wiki/.325_WSM",
+          "/wiki/7.92\u00d757mm_Mauser",
+          "/wiki/.325_Winchester_Short_Magnum",
           "/wiki/8mm_Remington_Magnum",
           "/wiki/Airsoft"
         ]
@@ -649,7 +649,7 @@
           ".338-378 Weatherby Magnum"
         ],
         [
-          "/wiki/.338_Lapua",
+          "/wiki/.338_Lapua_Magnum",
           "/wiki/.338_Norma_Magnum",
           "/wiki/.338_Winchester_Magnum",
           "/wiki/.338-378_Weatherby_Magnum"
@@ -688,9 +688,9 @@
           "9mm Steyr"
         ],
         [
-          "/wiki/9mm_Luger",
-          "/wiki/9mm_Mauser",
-          "/wiki/9mm_Steyr"
+          "/wiki/9\u00d719mm_Parabellum",
+          "/wiki/9\u00d725mm_Mauser",
+          "/wiki/9\u00d723mm_Steyr"
         ]
       ]
     ],

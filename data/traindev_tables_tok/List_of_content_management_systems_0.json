@@ -23,7 +23,7 @@
         "Supported databases"
       ],
       [
-        "/wiki/Relational_database_management_system"
+        "/wiki/Relational_database"
       ]
     ],
     [
@@ -66,7 +66,7 @@
           "Java"
         ],
         [
-          "/wiki/Java_platform"
+          "/wiki/Java_(software_platform)"
         ]
       ],
       [
@@ -79,10 +79,10 @@
         ],
         [
           "/wiki/MySQL",
-          "/wiki/Oracle_database",
+          "/wiki/Oracle_Database",
           "/wiki/Microsoft_SQL_Server",
           "/wiki/PostgreSQL",
-          "/wiki/IBM_DB2"
+          "/wiki/IBM_Db2_Family"
         ]
       ],
       [
@@ -98,7 +98,7 @@
           "LGPL"
         ],
         [
-          "/wiki/LGPL"
+          "/wiki/GNU_Lesser_General_Public_License"
         ]
       ],
       [
@@ -137,7 +137,7 @@
         ],
         [
           "/wiki/MySQL",
-          "/wiki/Oracle_database",
+          "/wiki/Oracle_Database",
           "/wiki/Microsoft_SQL_Server",
           "/wiki/Content_repository_API_for_Java",
           "/wiki/Apache_Derby"
@@ -196,11 +196,11 @@
           "Apache Derby"
         ],
         [
-          "/wiki/HSQL",
+          "/wiki/HSQLDB",
           "/wiki/MySQL",
-          "/wiki/Oracle_database",
+          "/wiki/Oracle_Database",
           "/wiki/Microsoft_SQL_Server",
-          "/wiki/IBM_DB2",
+          "/wiki/IBM_Db2_Family",
           "/wiki/PostgreSQL",
           "/wiki/Apache_Derby"
         ]
@@ -308,7 +308,7 @@
         ],
         [
           "/wiki/MySQL",
-          "/wiki/Oracle_database",
+          "/wiki/Oracle_Database",
           "/wiki/Microsoft_SQL_Server",
           "/wiki/Ingres_(database)",
           "/wiki/PostgreSQL",
@@ -365,8 +365,8 @@
         ],
         [
           "/wiki/Git",
-          "/wiki/Solr",
-          "/wiki/CMIS"
+          "/wiki/Apache_Solr",
+          "/wiki/Content_Management_Interoperability_Services"
         ]
       ],
       [
@@ -384,7 +384,7 @@
         ],
         [
           "/wiki/GNU",
-          "/wiki/GPL"
+          "/wiki/GNU_General_Public_License"
         ]
       ],
       [
@@ -423,7 +423,7 @@
         [
           "/wiki/MySQL",
           "/wiki/Oracle_Database",
-          "/wiki/MSSQL",
+          "/wiki/Microsoft_SQL_Server",
           "/wiki/PostgreSQL"
         ]
       ],
@@ -442,7 +442,7 @@
         ],
         [
           "/wiki/GNU",
-          "/wiki/GPL"
+          "/wiki/GNU_General_Public_License"
         ]
       ],
       [
@@ -477,7 +477,7 @@
           "PostgreSQL"
         ],
         [
-          "/wiki/Oracle_database",
+          "/wiki/Oracle_Database",
           "/wiki/PostgreSQL"
         ]
       ],
@@ -494,7 +494,7 @@
           "BSD License"
         ],
         [
-          "/wiki/BSD_License"
+          "/wiki/BSD_licenses"
         ]
       ],
       [
@@ -544,7 +544,7 @@
           "GPL"
         ],
         [
-          "/wiki/GPL"
+          "/wiki/GNU_General_Public_License"
         ]
       ],
       [
@@ -582,7 +582,7 @@
         ],
         [
           "/wiki/MySQL",
-          "/wiki/Oracle_database",
+          "/wiki/Oracle_Database",
           "/wiki/PostgreSQL",
           "/wiki/Mulgara_(software)"
         ]
@@ -656,7 +656,7 @@
           "GPL"
         ],
         [
-          "/wiki/GPL"
+          "/wiki/GNU_General_Public_License"
         ]
       ],
       [
@@ -682,7 +682,7 @@
           "Java"
         ],
         [
-          "/wiki/Java_platform"
+          "/wiki/Java_(software_platform)"
         ]
       ],
       [
@@ -694,7 +694,7 @@
         ],
         [
           "/wiki/MySQL",
-          "/wiki/Oracle_database",
+          "/wiki/Oracle_Database",
           "/wiki/Microsoft_SQL_Server",
           "/wiki/PostgreSQL"
         ]
@@ -712,7 +712,7 @@
           "LGPL"
         ],
         [
-          "/wiki/LGPL"
+          "/wiki/GNU_Lesser_General_Public_License"
         ]
       ],
       [
@@ -752,7 +752,7 @@
         ],
         [
           "/wiki/MySQL",
-          "/wiki/Oracle_database",
+          "/wiki/Oracle_Database",
           "/wiki/Microsoft_SQL_Server",
           "/wiki/Ingres_(database)",
           "/wiki/PostgreSQL",
@@ -815,7 +815,7 @@
           "/wiki/Apache_Derby",
           "/wiki/MySQL",
           "/wiki/PostgreSQL",
-          "/wiki/Oracle_database",
+          "/wiki/Oracle_Database",
           "/wiki/Microsoft_SQL_Server"
         ]
       ],
@@ -832,7 +832,7 @@
           "GPL"
         ],
         [
-          "/wiki/GPL"
+          "/wiki/GNU_General_Public_License"
         ]
       ],
       [
@@ -871,11 +871,11 @@
           "PostgreSQL"
         ],
         [
-          "/wiki/HSQL",
+          "/wiki/HSQLDB",
           "/wiki/MySQL",
-          "/wiki/Oracle_database",
+          "/wiki/Oracle_Database",
           "/wiki/Microsoft_SQL_Server",
-          "/wiki/IBM_DB2",
+          "/wiki/IBM_Db2_Family",
           "/wiki/PostgreSQL"
         ]
       ],
@@ -892,7 +892,7 @@
           "LGPL"
         ],
         [
-          "/wiki/LGPL"
+          "/wiki/GNU_Lesser_General_Public_License"
         ]
       ],
       [
@@ -932,7 +932,7 @@
         [
           "/wiki/MySQL",
           "/wiki/PostgreSQL",
-          "/wiki/Oracle_database",
+          "/wiki/Oracle_Database",
           "/wiki/Microsoft_SQL_Server",
           "/wiki/HSQLDB"
         ]
@@ -950,7 +950,7 @@
           "GPL"
         ],
         [
-          "/wiki/GPL"
+          "/wiki/GNU_General_Public_License"
         ]
       ],
       [
@@ -993,11 +993,11 @@
         [
           "/wiki/MySQL",
           "/wiki/PostgreSQL",
-          "/wiki/IBM_DB2",
+          "/wiki/IBM_Db2_Family",
           "/wiki/HSQLDB",
-          "/wiki/Oracle_database",
+          "/wiki/Oracle_Database",
           "/wiki/Microsoft_SQL_Server",
-          "/wiki/IBM_Lotus_Domino",
+          "/wiki/HCL_Domino",
           "/wiki/Content_Management_Interoperability_Services"
         ]
       ],
@@ -1014,7 +1014,7 @@
           "GPL"
         ],
         [
-          "/wiki/GPL"
+          "/wiki/GNU_General_Public_License"
         ]
       ],
       [
@@ -1054,7 +1054,7 @@
         [
           "/wiki/MySQL",
           "/wiki/PostgreSQL",
-          "/wiki/Oracle_database",
+          "/wiki/Oracle_Database",
           "/wiki/Microsoft_SQL_Server",
           "/wiki/HSQLDB"
         ]
@@ -1072,7 +1072,7 @@
           "LGPL"
         ],
         [
-          "/wiki/LGPL"
+          "/wiki/GNU_Lesser_General_Public_License"
         ]
       ],
       [
