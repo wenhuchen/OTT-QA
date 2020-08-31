@@ -31,7 +31,7 @@ default_setting = {'miniumu_row': 5, 'ratio': 0.85, 'max_header': 10, 'min_heade
 if len(sys.argv) == 2:
     steps = sys.argv[1].split(',')
 else:
-    steps = ['1', '2', '3', '4', '5', '6', '7']
+    steps = ['1', '2', '3', '4', '5', '6', '7', '8', '9']
 print("performing steps = {}".format(steps))
 
 if '3' in steps:
@@ -472,6 +472,8 @@ def tokenize_and_clean_text(kv):
     k, v = kv
     v = clean_text(v)
     v = tokenize(v)
+    if not k.startswith('/wiki/'):
+        k = '/wiki/{}'.format(k)
     return k, v
 
 if __name__ == "__main__":
@@ -638,6 +640,51 @@ if __name__ == "__main__":
         print("Step6: Finishing tokenization")
     
     if '7' in steps:
+        # Remove redundancy
+        with open('Wikipedia/redirect_link.json') as f:
+            redirect = json.load(f)['forward']
+        def replace_links(links):
+            assert isinstance(links, list)
+            new_links = []
+            for link in links:
+                if link:
+                    tmp = link.replace('/wiki/', '')
+                    new_link = '/wiki/{}'.format(redirect.get(tmp, tmp))
+                    new_links.append(new_link)
+                else:
+                    new_links.append(link)
+            return new_links
+
+        for file_name in glob.glob('{}/tables_tok/*.json'.format(output_folder)):
+            with open(file_name, 'r') as f:
+                table = json.load(f)
+
+            for i, h in enumerate(table['header']):
+                table['header'][i] = (table['header'][i][0], replace_links(h[1]))
+                assert len(table['header'][i][0]) == len(table['header'][i][1])
+
+            for i, row in enumerate(table['data']):
+                for j, cell in enumerate(row):
+                    table['data'][i][j] = (table['data'][i][j][0], replace_links(cell[1]))
+                    assert len(table['data'][i][j][0]) == len(table['data'][i][j][1])
+
+            with open(file_name, 'w') as f:
+                json.dump(table, f, indent=2)
+
+            file_name = file_name.replace('/tables_tok/', '/request_tok/')
+            with open(file_name, 'r') as f:
+                request = json.load(f)
+
+            new_request = {}
+            for k, v in request.items():
+                tmp = replace_links([k])[0]
+                new_request[tmp] = v
+
+            with open(file_name, 'w') as f:
+                json.dump(new_request, f, indent=2)
+        print("Step7: Finished Removing Redundancy")
+
+    if '8' in steps:
         # Step7: Generate tables without hyperlinks
         if not os.path.exists('{}/plain_tables_tok'.format(output_folder)):
             os.mkdir('{}/plain_tables_tok'.format(output_folder))
@@ -661,19 +708,50 @@ if __name__ == "__main__":
             table_set[file_name] = table
         with open('../data/all_plain_tables.json', 'w') as f:
             json.dump(table_set, f)
-        print("Step7: Finished generating plain tables")
+        print("Step8: Finished generating plain tables")
 
-    if '8' in steps:
+    if '9' in steps:
+        # Blend with the full wikipedia
         if os.path.exists('Wikipedia/wiki-intro-with-ents-dict.json'):
             with open('Wikipedia/wiki-intro-with-ents-dict.json', 'r') as f:
                 entity_to_intro = json.load(f)
 
-            results = pool.map(tokenize_and_clean_text, entity_to_intro.items())
-            results = dict(results)
-            
-            with open('data/wikipedia_request.json', 'w') as f:
-                json.dump(results, f)
+            whole_wikipedia = pool.map(tokenize_and_clean_text, entity_to_intro.items())
+            whole_wikipedia = dict(whole_wikipedia)
 
+            requests = {}
+            all_files = glob.glob('data/request_tok/*.json')
+            for i, f in enumerate(all_files):
+                with open(f) as fw:
+                    table = json.load(fw)
+                for k, v in table.items():
+                    if k not in requests:
+                        requests[k] = v
+                if i % 100000 == 0:
+                    print("finished {} tables".format(i))
+
+            # with open('Wikipedia/redirect_link.json') as f:
+            #    redirect = json.load(f)
+
+            success, fail = 0, 0
+            for k, v in requests.items():
+                whole_wikipedia[k] = v
+                """
+                if k in whole_wikipedia:
+                    whole_wikipedia[k] = v
+                    success += 1
+                else:
+                    if k in redirect['forward'] and redirect['forward'][k] in whole_wikipedia:
+                        mapped_key = redirect['forward'][k]
+                        whole_wikipedia.pop(mapped_key)
+                        whole_wikipedia[k] = v
+                        success += 1
+                    else:
+                        whole_wikipedia[k] = v
+                        fail += 1
+                """
+            with open('../data/all_passages.json', 'w') as f:
+                json.dump(whole_wikipedia, f)
 
     # Wrapping up the results
     pool.close()
