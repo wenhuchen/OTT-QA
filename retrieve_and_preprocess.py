@@ -11,17 +11,24 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     pool = Pool(64)
-    if args.split == 'train':
-        with open('released_data/train.json', 'r') as f:
+    if args.split in ['train', 'dev', 'test']:
+        if args.split == 'dev' or args.split == 'test':
+            split = '{}.oracle_retrieval'.format(args.split)
+        else:
+            split = args.split
+        print("using {}".format(split))
+        with open(f'released_data/{split}.json', 'r') as f:
             train_data = json.load(f)       
 
         results1 = pool.map(IR, train_data)
         results2 = pool.map(CELL, results1)
         train_results = analyze(results2)
         random.shuffle(train_results)
-        with open('preprocessed_data/train_linked.json', 'w') as f:
+        with open('preprocessed_data/{}_linked.json'.format(args.split), 'w') as f:
             json.dump(train_results, f, indent=2)
  
+        if args.split == 'dev' or args.split == 'test':
+            exit()
         results = prepare_stage1_data(train_results)
         with open('preprocessed_data/stage1_training_data.json', 'w') as f:
             json.dump(results, f, indent=2)
@@ -86,18 +93,6 @@ if __name__ == '__main__':
         with open(f'preprocessed_data/{split}_inputs.json', 'w') as f:
             json.dump(dev_inputs, f, indent=2)
 
-    elif args.split in ['dev.oracle']:
-        split = args.split
-        with open(f'released_data/{split}_retrieval.json', 'r') as f:
-            dev_data = json.load(f)
-        results1 = pool.map(IR, dev_data)
-        results2 = pool.map(CELL, results1)
-        with open(f'preprocessed_data/{split}_linked.json', 'w') as f:
-            json.dump(results2, f, indent=2)
-        dev_inputs = generate_inputs(results2)
-        with open(f'preprocessed_data/{split}_inputs.json', 'w') as f:
-            json.dump(dev_inputs, f, indent=2)
-    
     elif args.split in ['train_retrieval', 'test_retrieval']:
         print("generating the retrieval data")
         split = args.split
