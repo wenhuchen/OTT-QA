@@ -65,7 +65,7 @@
           "/wiki/Microsoft_Windows",
           "/wiki/Linux",
           "/wiki/Unix",
-          "/wiki/MacOS",
+          "/wiki/OS_X",
           "/wiki/BeOS"
         ]
       ],
@@ -88,7 +88,7 @@
           "Azure DevOps"
         ],
         [
-          "/wiki/Azure_DevOps_Server"
+          "/wiki/Team_Foundation_Server"
         ]
       ],
       [
@@ -141,10 +141,10 @@
           "TortoiseBzr"
         ],
         [
-          "/wiki/GTK",
-          "/wiki/Qt_(software)",
-          "/wiki/Qt_(software)",
-          "/wiki/GNU_Bazaar"
+          "/wiki/GTK+",
+          "/wiki/Qt_(toolkit)",
+          "/wiki/Qt_(toolkit)",
+          "/wiki/TortoiseBzr"
         ]
       ],
       [
@@ -153,7 +153,7 @@
           "WingIDE"
         ],
         [
-          "/wiki/Komodo_Edit",
+          "/wiki/ActiveState_Komodo",
           "/wiki/Wing_IDE"
         ]
       ]
@@ -198,7 +198,7 @@
           "CA Software Change Manager"
         ],
         [
-          "/wiki/CA_Harvest_Software_Change_Manager"
+          "/wiki/CA_Software_Change_Manager"
         ]
       ],
       [
@@ -328,9 +328,9 @@
         [
           "/wiki/TortoiseCVS",
           "/wiki/Tcl",
-          "/wiki/Tk_(software)",
-          "/wiki/CVSNT",
-          "/wiki/GTK"
+          "/wiki/Tk_(computing)",
+          "/wiki/WinCVS",
+          "/wiki/GTK+"
         ]
       ],
       [
@@ -344,7 +344,7 @@
         [
           "/wiki/Eclipse_(software)",
           "/wiki/Emacs",
-          "/wiki/Komodo_Edit",
+          "/wiki/ActiveState_Komodo",
           "/wiki/BBEdit",
           "/wiki/Wing_IDE"
         ]
@@ -373,8 +373,8 @@
           "GTK"
         ],
         [
-          "/wiki/IBM_i",
-          "/wiki/GTK"
+          "/wiki/OS/400",
+          "/wiki/GTK+"
         ]
       ],
       [
@@ -459,8 +459,8 @@
           "/wiki/Eclipse_(software)",
           "/wiki/Microsoft_Visual_Studio",
           "/wiki/IntelliJ_IDEA",
-          "/wiki/Xcode",
-          "/wiki/PowerBuilder"
+          "/wiki/XCode",
+          "/wiki/Powerbuilder"
         ]
       ]
     ],
@@ -504,7 +504,7 @@
           "Git"
         ],
         [
-          "/wiki/Git"
+          "/wiki/Git_(software)"
         ]
       ],
       [
@@ -538,9 +538,9 @@
         ],
         [
           "/wiki/Tcl",
-          "/wiki/Tk_(software)",
+          "/wiki/Tk_(computing)",
           "/wiki/TortoiseGit",
-          "/wiki/Axosoft"
+          "/wiki/GitKraken"
         ]
       ],
       [
@@ -560,9 +560,9 @@
           "/wiki/Perforce_Software",
           "/wiki/KDevelop",
           "/wiki/Emacs",
-          "/wiki/Komodo_Edit",
+          "/wiki/ActiveState_Komodo",
           "/wiki/Anjuta",
-          "/wiki/Xcode",
+          "/wiki/XCode",
           "/wiki/Wing_IDE",
           "/wiki/PyCharm"
         ]
@@ -590,7 +590,7 @@
           "GTK2"
         ],
         [
-          "/wiki/GTK"
+          "/wiki/GTK+"
         ]
       ],
       [
@@ -642,7 +642,7 @@
           "MKS Integrity"
         ],
         [
-          "/wiki/PTC_Integrity"
+          "/wiki/MKS_Integrity"
         ]
       ],
       [
@@ -708,8 +708,8 @@
         ],
         [
           "/wiki/Emacs",
-          "/wiki/Komodo_Edit",
-          "/wiki/Eric_(software)",
+          "/wiki/ActiveState_Komodo",
+          "/wiki/Eric_Python_IDE",
           "/wiki/Wing_IDE"
         ]
       ]
@@ -739,9 +739,9 @@
           "Perl"
         ],
         [
-          "/wiki/GTK",
-          "/wiki/Qt_(software)",
-          "/wiki/GTK",
+          "/wiki/GTK+",
+          "/wiki/Qt_toolkit",
+          "/wiki/GTK+",
           "/wiki/Perl"
         ]
       ],
@@ -793,13 +793,13 @@
         ],
         [
           "/wiki/Eclipse_(video_game)",
-          "/wiki/Microsoft_Visual_Studio",
-          "/wiki/MATLAB",
+          "/wiki/Visual_Studio",
+          "/wiki/Matlab",
           "/wiki/Unity_(game_engine)",
-          "/wiki/Unreal_Engine",
+          "/wiki/Unreal_engine",
           "/wiki/Amazon_Lumberyard",
           "/wiki/Autodesk_Maya",
-          "/wiki/Autodesk_3ds_Max",
+          "/wiki/3ds_max",
           "/wiki/Adobe_PS"
         ]
       ]
@@ -810,7 +810,7 @@
           "Rational Team Concert"
         ],
         [
-          "/wiki/Rational_Team_Concert"
+          "/wiki/IBM_Rational_Team_Concert"
         ]
       ],
       [

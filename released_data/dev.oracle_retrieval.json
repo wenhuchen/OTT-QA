@@ -417,7 +417,7 @@
     "version": "V2",
     "question_id": "059ced1cebb3c97b",
     "question_postag": "JJ NN VBD DT NN IN DT NN IN CD IN DT NNP NNP NNP NNP IN CD VBP PRP$ NN IN .",
-    "where": "both"
+    "where": "passage"
   },
   {
     "table_id": "2004_Aerobic_Gymnastics_World_Championships_2",
@@ -577,7 +577,7 @@
     "version": "V2",
     "question_id": "29c760a75e4eaad8",
     "question_postag": "WRB JJ NNS VBD VBN IN DT JJ NN NN WP$ NN NN VBZ DT NNP POS NN IN DT VBG NN IN CD .",
-    "where": "both"
+    "where": "table"
   },
   {
     "table_id": "List_of_Chinese_football_champions_0",
@@ -599,7 +599,7 @@
           0,
           3
         ],
-        "/wiki/1987_Chinese_Jia-A_League",
+        "/wiki/Chinese_Jia-A_League_1987",
         "passage"
       ]
     ],
@@ -808,7 +808,7 @@
           1,
           2
         ],
-        "/wiki/Nothing_but_Trouble_(1991_film)",
+        "/wiki/Nothing_but_Trouble_(soundtrack)",
         "passage"
       ]
     ],
@@ -928,7 +928,7 @@
           9,
           3
         ],
-        "/wiki/Lizzie_Deignan",
+        "/wiki/Lizzie_Armitstead",
         "passage"
       ],
       [
@@ -937,7 +937,7 @@
           11,
           1
         ],
-        "/wiki/Lizzie_Deignan",
+        "/wiki/Lizzie_Armitstead",
         "passage"
       ],
       [
@@ -946,7 +946,7 @@
           12,
           1
         ],
-        "/wiki/Lizzie_Deignan",
+        "/wiki/Lizzie_Armitstead",
         "passage"
       ]
     ],
@@ -966,7 +966,7 @@
           10,
           3
         ],
-        "/wiki/Antwerp",
+        "/wiki/Antwerp,_Belgium",
         "passage"
       ]
     ],
@@ -986,7 +986,7 @@
           4,
           3
         ],
-        "/wiki/Sydney",
+        "/wiki/Sydney,_Australia",
         "passage"
       ],
       [
@@ -995,7 +995,7 @@
           5,
           3
         ],
-        "/wiki/Sydney",
+        "/wiki/Sydney,_Australia",
         "passage"
       ]
     ],
@@ -1015,7 +1015,7 @@
           8,
           3
         ],
-        "/wiki/Athens",
+        "/wiki/Athens,_Greece",
         "passage"
       ],
       [
@@ -1024,7 +1024,7 @@
           9,
           3
         ],
-        "/wiki/Athens",
+        "/wiki/Athens,_Greece",
         "passage"
       ]
     ],
@@ -1044,7 +1044,7 @@
           1,
           3
         ],
-        "/wiki/Paris",
+        "/wiki/Paris_(city)",
         "passage"
       ],
       [
@@ -1053,7 +1053,7 @@
           3,
           3
         ],
-        "/wiki/Paris",
+        "/wiki/Paris,_France",
         "passage"
       ]
     ],
@@ -1073,7 +1073,7 @@
           4,
           3
         ],
-        "/wiki/Sydney",
+        "/wiki/Sydney,_Australia",
         "passage"
       ],
       [
@@ -1082,7 +1082,7 @@
           5,
           3
         ],
-        "/wiki/Sydney",
+        "/wiki/Sydney,_Australia",
         "passage"
       ]
     ],
@@ -1102,7 +1102,7 @@
           8,
           3
         ],
-        "/wiki/Athens",
+        "/wiki/Athens,_Greece",
         "passage"
       ],
       [
@@ -1111,7 +1111,7 @@
           9,
           3
         ],
-        "/wiki/Athens",
+        "/wiki/Athens,_Greece",
         "passage"
       ]
     ],
@@ -1178,7 +1178,7 @@
     "version": "V2",
     "question_id": "5155d4f4c4b5d5cd",
     "question_postag": "WP NN VBZ DT NN IN CD NNP NNP NNP NNP NNP NN NNP NNP NN IN .",
-    "where": "both"
+    "where": "passage"
   },
   {
     "table_id": "2004_Aerobic_Gymnastics_World_Championships_3",
@@ -1198,7 +1198,7 @@
     "version": "V2",
     "question_id": "679beed9cf94c580",
     "question_postag": "WP NN VBZ DT JJ NN IN DT NN IN CD NNP NNP NNP NNP NNP NN NNP NNP .",
-    "where": "both"
+    "where": "passage"
   },
   {
     "table_id": "2004_Aerobic_Gymnastics_World_Championships_3",
@@ -1329,7 +1329,7 @@
           4,
           3
         ],
-        "/wiki/Square_(video_game_company)",
+        "/wiki/SquareSoft",
         "passage"
       ]
     ],
@@ -1618,7 +1618,7 @@
           0,
           1
         ],
-        "/wiki/Doha_Diamond_League",
+        "/wiki/Qatar_Athletic_Super_Grand_Prix",
         "passage"
       ]
     ],
@@ -2014,7 +2014,7 @@
           2,
           1
         ],
-        "/wiki/Robert_Karlin",
+        "/wiki/Sheldon_Karlin",
         "passage"
       ]
     ],
@@ -2141,7 +2141,7 @@
     "version": "V2",
     "question_id": "2a6736b982149cc3",
     "question_postag": "WP NN VBD NNP NNP DT NN WDT VBD RB IN NN CD IN CD JJS VBN IN VBG .",
-    "where": "both"
+    "where": "passage"
   },
   {
     "table_id": "2005_in_American_television_2",
@@ -2542,7 +2542,7 @@
           3,
           3
         ],
-        "/wiki/Ernest_W._Gibson_Jr.",
+        "/wiki/Ernest_W._Gibson,_Jr.",
         "passage"
       ]
     ],
@@ -2723,7 +2723,7 @@
     "version": "V2",
     "question_id": "25475dafca787f75",
     "question_postag": "WRB VBD VBN JJ NNP IN NNP WP VBD NN CC RB DT NN .",
-    "where": "both"
+    "where": "passage"
   },
   {
     "table_id": "2007_AFL_Draft_3",
@@ -3073,7 +3073,7 @@
           12,
           0
         ],
-        "/wiki/Steven_Derounian",
+        "/wiki/Steven_Boghos_Derounian",
         "passage"
       ],
       [
@@ -3102,7 +3102,7 @@
           7,
           0
         ],
-        "/wiki/Tom_Coleman_(Missouri_politician)",
+        "/wiki/Earl_Thomas_Coleman",
         "passage"
       ]
     ],
@@ -3191,7 +3191,7 @@
           14,
           2
         ],
-        "/wiki/Los_Angeles",
+        "/wiki/Los_Angeles,_California",
         "passage"
       ],
       [
@@ -3200,7 +3200,7 @@
           14,
           2
         ],
-        "/wiki/San_Francisco",
+        "/wiki/San_Francisco,_California",
         "passage"
       ],
       [
@@ -3238,7 +3238,7 @@
           12,
           1
         ],
-        "/wiki/Missouri_Pacific_Railroad",
+        "/wiki/Missouri_Pacific",
         "table"
       ],
       [
@@ -3247,7 +3247,7 @@
           5,
           1
         ],
-        "/wiki/Union_Pacific_Railroad",
+        "/wiki/Union_Pacific",
         "passage"
       ],
       [
@@ -3256,7 +3256,7 @@
           6,
           1
         ],
-        "/wiki/Union_Pacific_Railroad",
+        "/wiki/Union_Pacific",
         "passage"
       ],
       [
@@ -3265,7 +3265,7 @@
           7,
           1
         ],
-        "/wiki/Union_Pacific_Railroad",
+        "/wiki/Union_Pacific",
         "passage"
       ],
       [
@@ -3274,7 +3274,7 @@
           12,
           1
         ],
-        "/wiki/Missouri_Pacific_Railroad",
+        "/wiki/Missouri_Pacific",
         "passage"
       ]
     ],
@@ -3434,7 +3434,7 @@
           4,
           0
         ],
-        "/wiki/Flintridge_Sacred_Heart_Academy",
+        "/wiki/Flintridge-Sacred_Heart_Academy",
         "passage"
       ]
     ],
@@ -3521,7 +3521,7 @@
     "version": "V3",
     "question_id": "217f1613b71fe608",
     "question_postag": "WRB JJ NNS VBZ DT NNP NN VBD NNP NNP NNP VBD NN CC VB RP VBN .",
-    "where": "both"
+    "where": "passage"
   },
   {
     "table_id": "CONCACAF_Champions'_Cup_and_Champions_League_records_and_statistics_0",
@@ -3650,16 +3650,7 @@
           4,
           1
         ],
-        "/wiki/Europa-Park",
-        "passage"
-      ],
-      [
-        "Europa Park",
-        [
-          19,
-          1
-        ],
-        "/wiki/Europa-Park",
+        "/wiki/Europa_Park",
         "passage"
       ]
     ],
@@ -3719,7 +3710,7 @@
           19,
           0
         ],
-        "/wiki/Arthur_\u2013_The_Ride",
+        "/wiki/Mul-Mul",
         "passage"
       ]
     ],
@@ -3873,7 +3864,7 @@
     "version": "V3",
     "question_id": "63f9d378072beafb",
     "question_postag": "WRB JJ JJ NNS VBP RB IN DT NN WP VBZ DT NN WDT VBZ DT JJ RB VBN IN DT CD NNS .",
-    "where": "both"
+    "where": "passage"
   },
   {
     "table_id": "Current_members_of_the_United_States_House_of_Representatives_0",
@@ -4122,7 +4113,7 @@
           0,
           0
         ],
-        "/wiki/Orlando_City_SC_(2010\u20132014)",
+        "/wiki/Orlando_City_SC_(2010\u201314)",
         "passage"
       ]
     ],
@@ -4211,7 +4202,7 @@
           0,
           0
         ],
-        "/wiki/Orlando_City_SC_(2010\u20132014)",
+        "/wiki/Orlando_City_SC_(2010\u201314)",
         "passage"
       ]
     ],
@@ -4278,7 +4269,7 @@
     "version": "V3",
     "question_id": "cee0391cc406111f",
     "question_postag": "WP VBZ DT NN IN DT NN VBN IN DT JJ CD NNP NN IN NN WDT VBZ DT NN TO VB TO CD NNS .",
-    "where": "both"
+    "where": "passage"
   },
   {
     "table_id": "Rajya_Sabha_members_from_Maharashtra_0",
@@ -4429,7 +4420,7 @@
           1,
           2
         ],
-        "/wiki/Julio_Garc\u00eda",
+        "/wiki/Julio_Garc\u00eda_(footballer)",
         "passage"
       ]
     ],
@@ -4518,7 +4509,7 @@
           0,
           2
         ],
-        "/wiki/Juan_Jos\u00e9_Jayo_Legario",
+        "/wiki/Juan_Jos\u00e9_Jayo",
         "passage"
       ]
     ],
@@ -4585,7 +4576,7 @@
     "version": "V3",
     "question_id": "f1e0f9f1a1300b01",
     "question_postag": "JJ NN VBD DT NN IN DT NNP NNP IN CD IN VBG IN DT NNP NNP .",
-    "where": "both"
+    "where": "table"
   },
   {
     "table_id": "Viking_Award_0",
@@ -4738,7 +4729,7 @@
           5,
           0
         ],
-        "/wiki/SM_Supermalls",
+        "/wiki/SM_City_Lipa",
         "table"
       ]
     ],
@@ -4807,7 +4798,7 @@
           3,
           0
         ],
-        "/wiki/SM_Supermalls",
+        "/wiki/SM_City_Batangas",
         "table"
       ]
     ],
@@ -4976,7 +4967,7 @@
           2,
           1
         ],
-        "/wiki/South_Chungcheong_Province",
+        "/wiki/Chungnam",
         "passage"
       ]
     ],
@@ -4996,7 +4987,7 @@
           8,
           1
         ],
-        "/wiki/South_Jeolla_Province",
+        "/wiki/Jeonnam",
         "passage"
       ]
     ],
@@ -5150,7 +5141,7 @@
           4,
           0
         ],
-        "/wiki/Bulusan_Volcano_Natural_Park",
+        "/wiki/Bulusan_Volcano_National_Park",
         "passage"
       ],
       [
@@ -6062,7 +6053,7 @@
           13,
           0
         ],
-        "/wiki/Arizona's_14th_legislative_district",
+        "/wiki/Arizona_14th_Legislative_District",
         "passage"
       ]
     ],
@@ -6082,7 +6073,7 @@
           0,
           0
         ],
-        "/wiki/Arizona's_1st_legislative_district",
+        "/wiki/Arizona_1st_Legislative_District",
         "passage"
       ],
       [
@@ -6151,7 +6142,7 @@
           18,
           3
         ],
-        "/wiki/Avondale,_Arizona",
+        "/wiki/Cashion,_Arizona",
         "passage"
       ]
     ],
@@ -6227,7 +6218,7 @@
     "version": "V3",
     "question_id": "6d124d919b270ed3",
     "question_postag": "WP NN VBZ DT NN VBG NNP NNP CC NNP NNP IN .",
-    "where": "both"
+    "where": "passage"
   },
   {
     "table_id": "List_of_submissions_to_the_58th_Academy_Awards_for_Best_Foreign_Language_Film_0",
@@ -6285,7 +6276,7 @@
     "version": "V3",
     "question_id": "bca7b57f193254e3",
     "question_postag": "JJ NN VBD DT NN VBN IN NNP NNP .",
-    "where": "both"
+    "where": "passage"
   },
   {
     "table_id": "List_of_submissions_to_the_58th_Academy_Awards_for_Best_Foreign_Language_Film_0",
@@ -6612,7 +6603,7 @@
           3,
           1
         ],
-        "/wiki/Celine_Dion",
+        "/wiki/C\u00e9line_Dion",
         "passage"
       ]
     ],
@@ -6632,7 +6623,7 @@
           7,
           2
         ],
-        "/wiki/New_Radiant_S.C.",
+        "/wiki/New_Radiant_SC",
         "passage"
       ]
     ],
@@ -6652,7 +6643,7 @@
           15,
           2
         ],
-        "/wiki/New_Radiant_S.C.",
+        "/wiki/New_Radiant_SC",
         "passage"
       ]
     ],
@@ -6672,7 +6663,7 @@
           5,
           2
         ],
-        "/wiki/New_Radiant_S.C.",
+        "/wiki/New_Radiant_SC",
         "passage"
       ],
       [
@@ -6681,7 +6672,7 @@
           6,
           2
         ],
-        "/wiki/New_Radiant_S.C.",
+        "/wiki/New_Radiant_SC",
         "passage"
       ],
       [
@@ -6690,7 +6681,7 @@
           7,
           2
         ],
-        "/wiki/New_Radiant_S.C.",
+        "/wiki/New_Radiant_SC",
         "passage"
       ],
       [
@@ -6699,7 +6690,7 @@
           13,
           2
         ],
-        "/wiki/New_Radiant_S.C.",
+        "/wiki/New_Radiant_SC",
         "passage"
       ],
       [
@@ -6708,7 +6699,7 @@
           14,
           2
         ],
-        "/wiki/New_Radiant_S.C.",
+        "/wiki/New_Radiant_SC",
         "passage"
       ],
       [
@@ -6717,7 +6708,7 @@
           15,
           2
         ],
-        "/wiki/New_Radiant_S.C.",
+        "/wiki/New_Radiant_SC",
         "passage"
       ]
     ],
@@ -6757,7 +6748,7 @@
           2,
           2
         ],
-        "/wiki/VB_Addu_FC",
+        "/wiki/VB_Sports_Club",
         "passage"
       ]
     ],
@@ -6804,7 +6795,7 @@
     "version": "V3",
     "question_id": "4953df794905e03d",
     "question_postag": "WP VBZ DT NN IN NNP NNP POS NN WDT VBD VBN IN CD JJ TO NN NNS .",
-    "where": "both"
+    "where": "passage"
   },
   {
     "table_id": "Bruno_Gavazzoli_0",
@@ -6877,7 +6868,7 @@
           3,
           3
         ],
-        "/wiki/O.S.C.A.",
+        "/wiki/Osca_MT4",
         "table"
       ]
     ],
@@ -6913,7 +6904,7 @@
     "version": "V3",
     "question_id": "e9babe1f8413e180",
     "question_postag": "NNP NN NN NN JJ NN VBD RB VBN IN NNP CD CD IN DT NN VBN IN NNP NNP .",
-    "where": "both"
+    "where": "passage"
   },
   {
     "table_id": "Fortune_Street_0",
@@ -7087,7 +7078,7 @@
     "version": "V3",
     "question_id": "e237364565ecee8c",
     "question_postag": "WP VBZ DT NN IN DT JJ NNP NNPS IN NNP NNP NN RB VBN IN NNP NNP .",
-    "where": "both"
+    "where": "passage"
   },
   {
     "table_id": "List_of_Places_of_Scenic_Beauty_of_Japan_(Ehime)_0",
@@ -7316,7 +7307,7 @@
           19,
           0
         ],
-        "/wiki/Canton_Charge",
+        "/wiki/Huntsville_Flight",
         "passage"
       ]
     ],
@@ -7528,7 +7519,7 @@
           14,
           2
         ],
-        "/wiki/Keep_on_Pushin'",
+        "/wiki/Keep_On_Pushin'",
         "passage"
       ]
     ],
@@ -7611,7 +7602,7 @@
     "version": "V3",
     "question_id": "5e4a2eaa3ec60ae5",
     "question_postag": "WP VBZ DT JJ NN IN DT NN IN DT NNP NN NN IN DT NN NNP .",
-    "where": "both"
+    "where": "passage"
   },
   {
     "table_id": "List_of_video_games_published_by_Aksys_Games_3",
@@ -7644,7 +7635,7 @@
           1,
           0
         ],
-        "/wiki/Guilty_Gear_X2_updated_versions",
+        "/wiki/Guilty_Gear_XX_Accent_Core",
         "passage"
       ],
       [
@@ -7653,7 +7644,7 @@
           12,
           0
         ],
-        "/wiki/Guilty_Gear_X2_updated_versions",
+        "/wiki/Guilty_Gear_XX_Accent_Core_Plus",
         "passage"
       ]
     ],
@@ -7673,7 +7664,7 @@
           10,
           2
         ],
-        "/wiki/Choice_Provisions",
+        "/wiki/Gaijin_Games",
         "passage"
       ],
       [
@@ -7682,7 +7673,7 @@
           14,
           2
         ],
-        "/wiki/Choice_Provisions",
+        "/wiki/Gaijin_Games",
         "passage"
       ]
     ],
@@ -8190,7 +8181,7 @@
     "version": "V2",
     "question_id": "55e4f6bd134799a3",
     "question_postag": "DT NN WP VBD IN NN CD IN DT CD NNP NNPS NNP NNP NN VBD DT NN IN WP JJ NN .",
-    "where": "both"
+    "where": "passage"
   },
   {
     "table_id": "2004_United_States_Grand_Prix_0",
@@ -8666,7 +8657,7 @@
           16,
           3
         ],
-        "/wiki/Coburg_Football_Club",
+        "/wiki/Coburg_Tigers",
         "passage"
       ]
     ],
@@ -8795,14 +8786,14 @@
           11,
           0
         ],
-        "/wiki/Steven_Sotloff",
+        "/wiki/Steven_Joel_Sotloff",
         "passage"
       ]
     ],
     "version": "V2",
     "question_id": "fea3bbd11ccca6cf",
     "question_postag": "WP NN VBD VBN IN DT NNP IN NNP NNP NN WP VBD VBN IN NNP , NNP , CC VBD JJ IN NNS IN NNP .",
-    "where": "both"
+    "where": "passage"
   },
   {
     "table_id": "List_of_football_clubs_in_Argentina_9",
@@ -9135,7 +9126,7 @@
     "version": "V2",
     "question_id": "b1222b7ddf5e7c2a",
     "question_postag": "JJ CD JJ NNP NNP NN VBD NNP IN CD .",
-    "where": "both"
+    "where": "passage"
   },
   {
     "table_id": "1999_Spanish_Grand_Prix_0",
@@ -9333,7 +9324,7 @@
           2,
           1
         ],
-        "/wiki/Rai_3",
+        "/wiki/Rai_Tre",
         "table"
       ],
       [
@@ -9342,7 +9333,7 @@
           2,
           1
         ],
-        "/wiki/Rai_3",
+        "/wiki/Rai_Tre",
         "passage"
       ]
     ],
@@ -9492,7 +9483,7 @@
     "version": "V2",
     "question_id": "ae954eb5bf01bbf6",
     "question_postag": "WP VBZ DT NN NN IN DT NN WP VBD DT NN IN CD IN DT CD NNP .",
-    "where": "both"
+    "where": "passage"
   },
   {
     "table_id": "PR_postcode_area_0",
@@ -9545,7 +9536,7 @@
           7,
           0
         ],
-        "/wiki/Russell_J._Rickford",
+        "/wiki/Russell_Rickford",
         "passage"
       ]
     ],
@@ -9605,7 +9596,7 @@
           11,
           0
         ],
-        "/wiki/Rachel_Judith_Weil",
+        "/wiki/Rachel_Weil",
         "passage"
       ]
     ],
@@ -10144,7 +10135,7 @@
     "version": "V2",
     "question_id": "1ea20d763e8ab002",
     "question_postag": "WP VBZ DT NN IN DT JJ NN IN DT CD NNP NNPS WP VBZ RB DT NN IN DT NNP CC NNP NNP NNP NNP NN .",
-    "where": "both"
+    "where": "table"
   },
   {
     "table_id": "Sweden_at_the_2006_Winter_Olympics_0",
@@ -10282,7 +10273,7 @@
           1,
           0
         ],
-        "/wiki/John_Logan_Campbell",
+        "/wiki/Logan_Campbell_(politician)",
         "table"
       ],
       [
@@ -10291,7 +10282,7 @@
           1,
           0
         ],
-        "/wiki/John_Logan_Campbell",
+        "/wiki/Logan_Campbell_(politician)",
         "passage"
       ]
     ],
@@ -10311,7 +10302,7 @@
           8,
           0
         ],
-        "/wiki/Saltergate_Recreation_Ground",
+        "/wiki/Saltergate",
         "passage"
       ]
     ],
@@ -10351,7 +10342,7 @@
           5,
           0
         ],
-        "/wiki/Tynecastle_Park",
+        "/wiki/Tynecastle_Stadium",
         "passage"
       ]
     ],
@@ -10598,7 +10589,7 @@
           2,
           2
         ],
-        "/wiki/2008_Summer_Olympics",
+        "/wiki/2008_Beijing_Olympics",
         "passage"
       ]
     ],
@@ -10874,7 +10865,7 @@
           5,
           2
         ],
-        "/wiki/1996_All-Ireland_Senior_Hurling_Championship",
+        "/wiki/All-Ireland_Senior_Hurling_Championship_1996",
         "table"
       ],
       [
@@ -10883,7 +10874,7 @@
           5,
           2
         ],
-        "/wiki/1996_All-Ireland_Senior_Hurling_Championship",
+        "/wiki/All-Ireland_Senior_Hurling_Championship_1996",
         "passage"
       ]
     ],
@@ -11295,7 +11286,7 @@
     "version": "V2",
     "question_id": "bbbee0557987cb45",
     "question_postag": "WP VBZ DT JJ NN IN DT CD NNP NNP NN NN WP VBZ DT NN IN NN NN NN , NNP , NNP .",
-    "where": "both"
+    "where": "table"
   },
   {
     "table_id": "2011_D.C._United_season_4",
@@ -11535,7 +11526,7 @@
     "version": "V2",
     "question_id": "35f7c567b1b0d7c2",
     "question_postag": "WP VBD DT NNP NNP NN WDT VBZ NN IN DT JJ NN TO DT JJ NN NNP NN .",
-    "where": "both"
+    "where": "passage"
   },
   {
     "table_id": "List_of_video_games_published_by_Aksys_Games_8",
@@ -11555,7 +11546,7 @@
     "version": "V2",
     "question_id": "a333b3b4a58d33b3",
     "question_postag": "WP VBZ DT NN IN DT NNP NNP NN WDT VBZ DT NN TO DT CD NN NN NNP : NN TO NNP .",
-    "where": "both"
+    "where": "passage"
   },
   {
     "table_id": "List_of_video_games_published_by_Aksys_Games_8",
@@ -12042,7 +12033,7 @@
     "version": "V2",
     "question_id": "d6ffbe317efe3cb9",
     "question_postag": "WP VBZ DT NN IN NNP NNP POS NN WP$ NN VBZ DT NN POS JJS NN NN .",
-    "where": "both"
+    "where": "table"
   },
   {
     "table_id": "Adrian_Smith_(architect)_0",
@@ -12062,7 +12053,7 @@
     "version": "V2",
     "question_id": "9113a62bbe235c70",
     "question_postag": "WP VBZ DT NN IN NNP NNP POS NN WDT VBZ DT CD NN , CD NN ( CD NN ) , JJ NN JJ NN . NNP",
-    "where": "both"
+    "where": "passage"
   },
   {
     "table_id": "Adrian_Smith_(architect)_0",
@@ -12153,7 +12144,7 @@
           9,
           2
         ],
-        "/wiki/Indoor_roller_coaster",
+        "/wiki/Enclosed_roller_coaster",
         "passage"
       ]
     ],
@@ -12336,7 +12327,7 @@
     "version": "V2",
     "question_id": "f616565a4d3a5d4f",
     "question_postag": "WP VBZ DT NN IN DT NNP NNP NNP IN NNP NN WP VBZ RB .",
-    "where": "both"
+    "where": "table"
   },
   {
     "table_id": "List_of_alumni_and_faculty_of_the_Royal_Melbourne_Institute_of_Technology_0",
@@ -12825,7 +12816,7 @@
           15,
           1
         ],
-        "/wiki/Pilar,_Buenos_Aires",
+        "/wiki/Pilar,_Buenos_Aires_Province",
         "passage"
       ]
     ],
@@ -12845,7 +12836,7 @@
           17,
           0
         ],
-        "/wiki/Club_Atl\u00e9tico_Platense",
+        "/wiki/Club_Atletico_Platense",
         "passage"
       ]
     ],
@@ -12874,7 +12865,7 @@
           6,
           3
         ],
-        "/wiki/Chacarita_Juniors",
+        "/wiki/Chacarita_Juniors_Stadium",
         "passage"
       ]
     ],
@@ -13106,7 +13097,7 @@
           17,
           0
         ],
-        "/wiki/Coffee_production_in_Indonesia",
+        "/wiki/Java_coffee",
         "passage"
       ]
     ],
@@ -13353,7 +13344,7 @@
           12,
           1
         ],
-        "/wiki/Vitor_J\u00fanior",
+        "/wiki/V\u00edtor_J\u00fanior",
         "passage"
       ]
     ],
@@ -13400,7 +13391,7 @@
     "version": "V2",
     "question_id": "b416458f10e8f32a",
     "question_postag": "IN WP NN VBZ DT RBS JJ NNP IN DT NNP NN VBD `` DT NNPS `` .",
-    "where": "both"
+    "where": "passage"
   },
   {
     "table_id": "List_of_Australian_Football_League_pre-season_and_night_series_premiers_3",
@@ -14012,7 +14003,7 @@
           3,
           0
         ],
-        "/wiki/What's_My_Age_Again?",
+        "/wiki/What's_My_Age_Again",
         "passage"
       ]
     ],
@@ -14090,7 +14081,7 @@
           0,
           1
         ],
-        "/wiki/The_All-American_Rejects",
+        "/wiki/The_All_American_Rejects",
         "passage"
       ],
       [
@@ -14099,7 +14090,7 @@
           1,
           1
         ],
-        "/wiki/The_All-American_Rejects",
+        "/wiki/The_All_American_Rejects",
         "passage"
       ]
     ],
@@ -14334,7 +14325,7 @@
           0,
           2
         ],
-        "/wiki/Real_Madrid_CF",
+        "/wiki/Real_Madrid_C.F.",
         "passage"
       ]
     ],
@@ -14428,7 +14419,7 @@
     "version": "V2",
     "question_id": "62a8b87842df0058",
     "question_postag": "WRB VBD DT NNP JJ NN NN VBP JJ NN IN DT NNP NNP NNP NNP NNP .",
-    "where": "both"
+    "where": "passage"
   },
   {
     "table_id": "UCI_Mountain_Bike_World_Cup_6",
@@ -14650,7 +14641,7 @@
           3,
           2
         ],
-        "/wiki/Juninho_(footballer,_born_January_1989)",
+        "/wiki/Vitor_Gomes_Pereira_Junior",
         "table"
       ],
       [
@@ -14659,7 +14650,7 @@
           3,
           2
         ],
-        "/wiki/Juninho_(footballer,_born_January_1989)",
+        "/wiki/Vitor_Gomes_Pereira_Junior",
         "passage"
       ]
     ],
@@ -14953,7 +14944,7 @@
           6,
           0
         ],
-        "/wiki/Ukrainian_Museum",
+        "/wiki/The_Ukrainian_Museum",
         "passage"
       ]
     ],
@@ -14973,7 +14964,7 @@
           6,
           0
         ],
-        "/wiki/Ukrainian_Museum",
+        "/wiki/The_Ukrainian_Museum",
         "passage"
       ]
     ],
@@ -15078,7 +15069,7 @@
     "version": "V2",
     "question_id": "64baf071f800206d",
     "question_postag": "WP VBZ DT JJ NN IN NNP WDT VBD VBN IN DT NN IN NNP IN CD IN NNP NNP .",
-    "where": "both"
+    "where": "passage"
   },
   {
     "table_id": "List_of_songs_recorded_by_Elisa_0",
@@ -15098,7 +15089,7 @@
     "version": "V2",
     "question_id": "f46143175b625b1a",
     "question_postag": "WP NN VBD NNP POS JJ NN VBD RB VBZ IN DT NNP VBZ NNP CD .",
-    "where": "both"
+    "where": "passage"
   },
   {
     "table_id": "List_of_songs_recorded_by_Elisa_0",
@@ -15154,7 +15145,7 @@
     "version": "V2",
     "question_id": "bde8169851a494cf",
     "question_postag": "WP NN VBD NNP POS RBS JJ NN NN VBN RP IN .",
-    "where": "both"
+    "where": "passage"
   },
   {
     "table_id": "List_of_songs_recorded_by_Elisa_0",
@@ -15187,7 +15178,7 @@
           16,
           1
         ],
-        "/wiki/Dancing_(album)",
+        "/wiki/Dancing_(Elisa_album)",
         "table"
       ],
       [
@@ -15196,7 +15187,7 @@
           16,
           1
         ],
-        "/wiki/Dancing_(album)",
+        "/wiki/Dancing_(Elisa_album)",
         "passage"
       ],
       [
@@ -15430,14 +15421,14 @@
           3,
           2
         ],
-        "/wiki/Age_of_Enlightenment",
+        "/wiki/The_Enlightenment",
         "passage"
       ]
     ],
     "version": "V2",
     "question_id": "da394371ca0069c7",
     "question_postag": "JJ JJ NN VBD DT NN IN NN VBN IN NNP NNP NNP IN NNP NNP NNP NNP .",
-    "where": "both"
+    "where": "passage"
   },
   {
     "table_id": "Cornell_University_Department_of_History_1",
@@ -15608,7 +15599,7 @@
           18,
           2
         ],
-        "/wiki/The_People_v._O._J._Simpson:_American_Crime_Story",
+        "/wiki/The_People_v._O.J._Simpson:_American_Crime_Story",
         "passage"
       ]
     ],
@@ -16117,7 +16108,7 @@
           0,
           0
         ],
-        "/wiki/Busan_IPark",
+        "/wiki/Busan_I'Park",
         "table"
       ]
     ],
@@ -16384,7 +16375,7 @@
           1,
           0
         ],
-        "/wiki/Maverik_Center",
+        "/wiki/E_Center",
         "passage"
       ]
     ],
@@ -16965,7 +16956,7 @@
           15,
           1
         ],
-        "/wiki/Luj\u00e1n,_Buenos_Aires",
+        "/wiki/Luj\u00e1n,_Buenos_Aires_Province",
         "table"
       ],
       [
@@ -16983,7 +16974,7 @@
           15,
           1
         ],
-        "/wiki/Luj\u00e1n,_Buenos_Aires",
+        "/wiki/Luj\u00e1n,_Buenos_Aires_Province",
         "passage"
       ]
     ],
@@ -17190,7 +17181,7 @@
     "version": "V2",
     "question_id": "7bc0c135b70adb3c",
     "question_postag": "WP VBZ DT NN IN DT NNP NNP NNP NN WDT VBD DT CD NN IN NNP POS NN NN NN NN VBN IN NNP .",
-    "where": "both"
+    "where": "passage"
   },
   {
     "table_id": "Bangor_City_F.C._0",
@@ -17230,7 +17221,7 @@
     "version": "V2",
     "question_id": "24e3afe92f6de563",
     "question_postag": "WP VBZ DT NN IN NNP NNP NNP WP$ NN VBZ VBN DT RBS JJ IN DT NN NNS IN JJ NNP NN NN .",
-    "where": "both"
+    "where": "passage"
   },
   {
     "table_id": "Bangor_City_F.C._0",
@@ -17263,34 +17254,7 @@
           0,
           1
         ],
-        "/wiki/San_Juan\u2013Caguas\u2013Guaynabo_metropolitan_area",
-        "passage"
-      ],
-      [
-        "San Juan-Bayam\u00f3n , PR Combined Statistical Area",
-        [
-          0,
-          5
-        ],
-        "/wiki/San_Juan\u2013Caguas\u2013Guaynabo_metropolitan_area",
-        "passage"
-      ],
-      [
-        "San Juan-Bayam\u00f3n , PR Combined Statistical Area",
-        [
-          3,
-          5
-        ],
-        "/wiki/San_Juan\u2013Caguas\u2013Guaynabo_metropolitan_area",
-        "passage"
-      ],
-      [
-        "San Juan-Bayam\u00f3n , PR Combined Statistical Area",
-        [
-          7,
-          5
-        ],
-        "/wiki/San_Juan\u2013Caguas\u2013Guaynabo_metropolitan_area",
+        "/wiki/San_Juan-Bayam\u00f3n-Caguas,_PR_Metropolitan_Statistical_Area",
         "passage"
       ]
     ],
@@ -17310,7 +17274,7 @@
           6,
           1
         ],
-        "/wiki/Yauco_metropolitan_area",
+        "/wiki/Yauco,_PR_Metropolitan_Statistical_Area",
         "passage"
       ]
     ],
@@ -17330,7 +17294,7 @@
           0,
           1
         ],
-        "/wiki/San_Juan\u2013Caguas\u2013Guaynabo_metropolitan_area",
+        "/wiki/San_Juan-Bayam\u00f3n-Caguas,_PR_Metropolitan_Statistical_Area",
         "passage"
       ],
       [
@@ -17339,7 +17303,7 @@
           0,
           5
         ],
-        "/wiki/San_Juan\u2013Caguas\u2013Guaynabo_metropolitan_area",
+        "/wiki/San_Juan-Bayam\u00f3n,_PR_Combined_Statistical_Area",
         "passage"
       ],
       [
@@ -17348,7 +17312,7 @@
           3,
           5
         ],
-        "/wiki/San_Juan\u2013Caguas\u2013Guaynabo_metropolitan_area",
+        "/wiki/San_Juan-Bayam\u00f3n,_PR_Combined_Statistical_Area",
         "passage"
       ],
       [
@@ -17357,7 +17321,7 @@
           7,
           5
         ],
-        "/wiki/San_Juan\u2013Caguas\u2013Guaynabo_metropolitan_area",
+        "/wiki/San_Juan-Bayam\u00f3n,_PR_Combined_Statistical_Area",
         "passage"
       ]
     ],
@@ -17377,34 +17341,7 @@
           0,
           1
         ],
-        "/wiki/San_Juan\u2013Caguas\u2013Guaynabo_metropolitan_area",
-        "passage"
-      ],
-      [
-        "San Juan-Bayam\u00f3n , PR Combined Statistical Area",
-        [
-          0,
-          5
-        ],
-        "/wiki/San_Juan\u2013Caguas\u2013Guaynabo_metropolitan_area",
-        "passage"
-      ],
-      [
-        "San Juan-Bayam\u00f3n , PR Combined Statistical Area",
-        [
-          3,
-          5
-        ],
-        "/wiki/San_Juan\u2013Caguas\u2013Guaynabo_metropolitan_area",
-        "passage"
-      ],
-      [
-        "San Juan-Bayam\u00f3n , PR Combined Statistical Area",
-        [
-          7,
-          5
-        ],
-        "/wiki/San_Juan\u2013Caguas\u2013Guaynabo_metropolitan_area",
+        "/wiki/San_Juan-Bayam\u00f3n-Caguas,_PR_Metropolitan_Statistical_Area",
         "passage"
       ]
     ],
@@ -17613,7 +17550,7 @@
           2,
           0
         ],
-        "/wiki/Roger_Dean_(footballer)",
+        "/wiki/Roger_Dean_(Australian_rules_footballer)",
         "table"
       ]
     ],
@@ -17698,7 +17635,7 @@
     "version": "V2",
     "question_id": "16edf1f3cef85ce8",
     "question_postag": "WP VBZ DT JJ NN IN DT CD NNP NN WP VBD VBN NNP IN CD NNP CD IN NN .",
-    "where": "both"
+    "where": "table"
   },
   {
     "table_id": "2012_Superettan_0",
@@ -17760,7 +17697,7 @@
           0,
           0
         ],
-        "/wiki/BlazBlue:_Continuum_Shift",
+        "/wiki/BlazBlue:_Continuum_Shift_II",
         "passage"
       ]
     ],
@@ -17800,7 +17737,7 @@
           5,
           0
         ],
-        "/wiki/Hakuoki",
+        "/wiki/Haku\u014dki",
         "passage"
       ]
     ],
@@ -17900,7 +17837,7 @@
           1,
           5
         ],
-        "/wiki/Presidency_of_George_W._Bush",
+        "/wiki/George_W._Bush_Cabinet",
         "passage"
       ],
       [
@@ -17909,7 +17846,7 @@
           7,
           5
         ],
-        "/wiki/Presidency_of_George_W._Bush",
+        "/wiki/George_W._Bush_Cabinet",
         "passage"
       ],
       [
@@ -17918,7 +17855,7 @@
           9,
           5
         ],
-        "/wiki/Presidency_of_George_W._Bush",
+        "/wiki/George_W._Bush_Cabinet",
         "passage"
       ],
       [
@@ -17927,7 +17864,7 @@
           18,
           5
         ],
-        "/wiki/Presidency_of_George_W._Bush",
+        "/wiki/George_W._Bush_Cabinet",
         "passage"
       ]
     ],
@@ -18512,7 +18449,7 @@
           0,
           3
         ],
-        "/wiki/Tatooine",
+        "/wiki/Mos_Espa",
         "passage"
       ]
     ],
@@ -18595,7 +18532,7 @@
     "version": "V2",
     "question_id": "70862961311f6251",
     "question_postag": "WP VBZ DT NN IN DT NNP NNP VBG NN WDT VBZ DT NN IN CD NN IN IN NN RB .",
-    "where": "both"
+    "where": "passage"
   },
   {
     "table_id": "List_of_Star_Wars_filming_locations_0",
@@ -18615,7 +18552,7 @@
     "version": "V2",
     "question_id": "3f8bc522c6ab8900",
     "question_postag": "WP VBZ DT NN IN DT NNP NNP VBG NN WDT VBZ DT NN IN CD NN IN IN NN RB .",
-    "where": "both"
+    "where": "table"
   },
   {
     "table_id": "List_of_Star_Wars_filming_locations_0",
@@ -18628,7 +18565,7 @@
           10,
           3
         ],
-        "/wiki/List_of_Star_Wars_planets_and_moons",
+        "/wiki/Mustafar",
         "table"
       ]
     ],
@@ -18906,7 +18843,7 @@
           6,
           0
         ],
-        "/wiki/7th_Annual_Latin_Grammy_Awards",
+        "/wiki/Latin_Grammy_Awards_of_2006",
         "table"
       ],
       [
@@ -18915,7 +18852,7 @@
           6,
           0
         ],
-        "/wiki/7th_Annual_Latin_Grammy_Awards",
+        "/wiki/Latin_Grammy_Awards_of_2006",
         "passage"
       ]
     ],
@@ -18944,7 +18881,7 @@
           10,
           4
         ],
-        "/wiki/Y._(Bebe_album)",
+        "/wiki/Y.",
         "passage"
       ]
     ],
@@ -19004,7 +18941,7 @@
           0,
           0
         ],
-        "/wiki/1st_Annual_Latin_Grammy_Awards",
+        "/wiki/Latin_Grammy_Awards_of_2000",
         "passage"
       ]
     ],
@@ -19053,7 +18990,7 @@
           14,
           3
         ],
-        "/wiki/Stockholm",
+        "/wiki/Stockholm,_Sweden",
         "passage"
       ]
     ],
@@ -19233,7 +19170,7 @@
           4,
           2
         ],
-        "/wiki/New_York_University_Tisch_School_of_the_Arts",
+        "/wiki/Tisch_School_of_the_Arts",
         "table"
       ],
       [
@@ -19242,7 +19179,7 @@
           5,
           2
         ],
-        "/wiki/New_York_University_Tisch_School_of_the_Arts",
+        "/wiki/Tisch_School_of_the_Arts",
         "table"
       ],
       [
@@ -19251,7 +19188,7 @@
           6,
           2
         ],
-        "/wiki/New_York_University_Tisch_School_of_the_Arts",
+        "/wiki/Tisch_School_of_the_Arts",
         "table"
       ],
       [
@@ -19260,7 +19197,7 @@
           7,
           2
         ],
-        "/wiki/New_York_University_Tisch_School_of_the_Arts",
+        "/wiki/Tisch_School_of_the_Arts",
         "table"
       ],
       [
@@ -19269,7 +19206,7 @@
           9,
           2
         ],
-        "/wiki/New_York_University_Tisch_School_of_the_Arts",
+        "/wiki/Tisch_School_of_the_Arts",
         "table"
       ]
     ],
@@ -19309,7 +19246,7 @@
           6,
           2
         ],
-        "/wiki/New_York_University_Tisch_School_of_the_Arts",
+        "/wiki/Tisch_School_of_the_Arts",
         "table"
       ]
     ],
@@ -19329,7 +19266,7 @@
           8,
           3
         ],
-        "/wiki/Tour_of_Sweden",
+        "/wiki/Postgirot_Open",
         "passage"
       ]
     ],
@@ -19773,7 +19710,7 @@
           7,
           3
         ],
-        "/wiki/The_Rolling_Stones",
+        "/wiki/Rolling_Stones",
         "passage"
       ]
     ],
@@ -19867,7 +19804,7 @@
     "version": "V2",
     "question_id": "54f3563b662247e6",
     "question_postag": "WP VBZ DT JJ NN NN IN DT NN IN VBZ DT JJ NN IN CD NNS ( CD NN NN ) .",
-    "where": "both"
+    "where": "passage"
   },
   {
     "table_id": "Etymological_list_of_counties_of_Ireland_0",
@@ -19940,7 +19877,7 @@
           14,
           1
         ],
-        "/wiki/Shin-Kamigot\u014d",
+        "/wiki/Shin-Kamigot\u014d,_Nagasaki",
         "passage"
       ]
     ],
@@ -20103,14 +20040,14 @@
           10,
           0
         ],
-        "/wiki/SM_City_Mindpro",
+        "/wiki/SM_Mindpro_Zamboanga",
         "passage"
       ]
     ],
     "version": "V2",
     "question_id": "15995332476f61ef",
     "question_postag": "IN WP NN IN DT NNPS VBZ DT JJ JJS VBG NN IN DT NNP NNP VBN .",
-    "where": "both"
+    "where": "passage"
   },
   {
     "table_id": "List_of_shopping_malls_in_the_Philippines_18",
@@ -20565,7 +20502,7 @@
     "version": "V2",
     "question_id": "12078456b70290ca",
     "question_postag": "WP VBZ DT JJ NN IN DT NN IN DT NNP POS NNP NNP NNP IN CD .",
-    "where": "both"
+    "where": "passage"
   },
   {
     "table_id": "Commissioner's_Historic_Achievement_Award_0",
@@ -20647,7 +20584,7 @@
           1,
           2
         ],
-        "/wiki/Drake_(musician)",
+        "/wiki/Drake_(entertainer)",
         "passage"
       ]
     ],
@@ -20812,7 +20749,7 @@
           2,
           1
         ],
-        "/wiki/Magic:_The_Gathering_Pro_Tour",
+        "/wiki/Pro_Tour_(Magic:_The_Gathering)",
         "passage"
       ],
       [
@@ -20821,7 +20758,7 @@
           3,
           1
         ],
-        "/wiki/Magic:_The_Gathering_Pro_Tour",
+        "/wiki/Pro_Tour_(Magic:_The_Gathering)",
         "passage"
       ],
       [
@@ -20830,7 +20767,7 @@
           6,
           1
         ],
-        "/wiki/Magic:_The_Gathering_Pro_Tour",
+        "/wiki/Pro_Tour_(Magic:_The_Gathering)",
         "passage"
       ]
     ],
@@ -20962,7 +20899,7 @@
     "version": "V2",
     "question_id": "52193ff2187bf2a4",
     "question_postag": "IN DT NNS WDT VBD DT JJ CD NNS IN DT CD NNP NN , WDT NN VBD VBN RB .",
-    "where": "both"
+    "where": "passage"
   },
   {
     "table_id": "1990_AFL_Draft_2",
@@ -21209,7 +21146,7 @@
           15,
           2
         ],
-        "/wiki/Toll_Group",
+        "/wiki/Toll_Holdings",
         "table"
       ]
     ],
@@ -21376,7 +21313,7 @@
           4,
           2
         ],
-        "/wiki/Viktoriya_Koval",
+        "/wiki/Victoriya_Koval",
         "passage"
       ]
     ],
@@ -21436,7 +21373,7 @@
           1,
           0
         ],
-        "/wiki/FELDA_United_F.C.",
+        "/wiki/Felda_United_F.C.",
         "table"
       ],
       [
@@ -21445,7 +21382,7 @@
           1,
           0
         ],
-        "/wiki/FELDA_United_F.C.",
+        "/wiki/Felda_United_F.C.",
         "passage"
       ]
     ],
@@ -21474,7 +21411,7 @@
           1,
           2
         ],
-        "/wiki/Kaironnisam_Sahabudin_Hussain",
+        "/wiki/Muhamad_Kaironnisam_Sahabudin_Hussain",
         "passage"
       ]
     ],
@@ -21494,7 +21431,7 @@
           2,
           0
         ],
-        "/wiki/Johor_Darul_Ta'zim_F.C.",
+        "/wiki/Johor_Darul_Takzim_F.C.",
         "table"
       ]
     ],
@@ -21732,7 +21669,7 @@
           0,
           3
         ],
-        "/wiki/Montr\u00e9al\u2013Trudeau_International_Airport",
+        "/wiki/Montr\u00e9al\u2013Pierre_Elliott_Trudeau_International_Airport",
         "passage"
       ],
       [
@@ -21741,7 +21678,7 @@
           1,
           3
         ],
-        "/wiki/Montr\u00e9al\u2013Trudeau_International_Airport",
+        "/wiki/Montr\u00e9al\u2013Pierre_Elliott_Trudeau_International_Airport",
         "passage"
       ],
       [
@@ -21750,7 +21687,7 @@
           2,
           3
         ],
-        "/wiki/Montr\u00e9al\u2013Trudeau_International_Airport",
+        "/wiki/Montr\u00e9al\u2013Pierre_Elliott_Trudeau_International_Airport",
         "passage"
       ],
       [
@@ -21759,7 +21696,7 @@
           3,
           3
         ],
-        "/wiki/Montr\u00e9al\u2013Trudeau_International_Airport",
+        "/wiki/Montr\u00e9al\u2013Pierre_Elliott_Trudeau_International_Airport",
         "passage"
       ],
       [
@@ -21768,7 +21705,7 @@
           5,
           3
         ],
-        "/wiki/Montr\u00e9al\u2013Trudeau_International_Airport",
+        "/wiki/Montr\u00e9al\u2013Pierre_Elliott_Trudeau_International_Airport",
         "passage"
       ],
       [
@@ -21777,7 +21714,7 @@
           8,
           3
         ],
-        "/wiki/Montr\u00e9al\u2013Trudeau_International_Airport",
+        "/wiki/Montr\u00e9al\u2013Pierre_Elliott_Trudeau_International_Airport",
         "passage"
       ],
       [
@@ -21786,7 +21723,7 @@
           14,
           3
         ],
-        "/wiki/Montr\u00e9al\u2013Trudeau_International_Airport",
+        "/wiki/Montr\u00e9al\u2013Pierre_Elliott_Trudeau_International_Airport",
         "passage"
       ],
       [
@@ -21795,7 +21732,7 @@
           15,
           3
         ],
-        "/wiki/Montr\u00e9al\u2013Trudeau_International_Airport",
+        "/wiki/Montr\u00e9al\u2013Pierre_Elliott_Trudeau_International_Airport",
         "passage"
       ],
       [
@@ -21804,7 +21741,7 @@
           16,
           3
         ],
-        "/wiki/Montr\u00e9al\u2013Trudeau_International_Airport",
+        "/wiki/Montr\u00e9al\u2013Pierre_Elliott_Trudeau_International_Airport",
         "passage"
       ],
       [
@@ -21813,7 +21750,7 @@
           17,
           3
         ],
-        "/wiki/Montr\u00e9al\u2013Trudeau_International_Airport",
+        "/wiki/Montr\u00e9al\u2013Pierre_Elliott_Trudeau_International_Airport",
         "passage"
       ],
       [
@@ -21860,7 +21797,7 @@
           0,
           3
         ],
-        "/wiki/Montr\u00e9al\u2013Trudeau_International_Airport",
+        "/wiki/Montr\u00e9al\u2013Pierre_Elliott_Trudeau_International_Airport",
         "passage"
       ],
       [
@@ -21869,7 +21806,7 @@
           2,
           3
         ],
-        "/wiki/Montr\u00e9al\u2013Trudeau_International_Airport",
+        "/wiki/Montr\u00e9al\u2013Pierre_Elliott_Trudeau_International_Airport",
         "passage"
       ],
       [
@@ -21987,7 +21924,7 @@
           17,
           1
         ],
-        "/wiki/Mercedes-Benz_Arena_(Berlin)",
+        "/wiki/O2_World_(Berlin)",
         "passage"
       ]
     ],
@@ -22208,7 +22145,7 @@
     "version": "V2",
     "question_id": "6b962633edfe2f23",
     "question_postag": "WP NN VBD DT CD NNP NNP NNP NN NN WP VBD CD IN CD NNS IN JJ NNS .",
-    "where": "both"
+    "where": "passage"
   },
   {
     "table_id": "2008_Major_League_Baseball_Draft_2",
@@ -22377,7 +22314,7 @@
           18,
           0
         ],
-        "/wiki/Silinog",
+        "/wiki/Selinog",
         "passage"
       ]
     ],
@@ -22437,7 +22374,7 @@
           6,
           1
         ],
-        "/wiki/Karin_Enke",
+        "/wiki/Karin_Kania-Enke",
         "passage"
       ],
       [
@@ -22446,7 +22383,7 @@
           7,
           1
         ],
-        "/wiki/Karin_Enke",
+        "/wiki/Karin_Kania-Enke",
         "passage"
       ],
       [
@@ -22455,7 +22392,7 @@
           14,
           1
         ],
-        "/wiki/Karin_Enke",
+        "/wiki/Karin_Kania-Enke",
         "passage"
       ],
       [
@@ -22464,7 +22401,7 @@
           17,
           1
         ],
-        "/wiki/Karin_Enke",
+        "/wiki/Karin_Kania-Enke",
         "passage"
       ]
     ],
@@ -22504,7 +22441,7 @@
           3,
           1
         ],
-        "/wiki/Steffi_Martin",
+        "/wiki/Steffi_Walter-Martin",
         "passage"
       ]
     ],
@@ -22544,7 +22481,7 @@
           6,
           1
         ],
-        "/wiki/Karin_Enke",
+        "/wiki/Karin_Kania-Enke",
         "passage"
       ],
       [
@@ -22553,7 +22490,7 @@
           7,
           1
         ],
-        "/wiki/Karin_Enke",
+        "/wiki/Karin_Kania-Enke",
         "passage"
       ],
       [
@@ -22562,7 +22499,7 @@
           14,
           1
         ],
-        "/wiki/Karin_Enke",
+        "/wiki/Karin_Kania-Enke",
         "passage"
       ],
       [
@@ -22571,7 +22508,7 @@
           17,
           1
         ],
-        "/wiki/Karin_Enke",
+        "/wiki/Karin_Kania-Enke",
         "passage"
       ]
     ],
@@ -22767,7 +22704,7 @@
           5,
           2
         ],
-        "/wiki/Josh_Head",
+        "/wiki/Joshua_Head",
         "passage"
       ]
     ],
@@ -22823,7 +22760,7 @@
           5,
           2
         ],
-        "/wiki/Josh_Head",
+        "/wiki/Joshua_Head",
         "passage"
       ]
     ],
@@ -23556,7 +23493,7 @@
     "version": "V2",
     "question_id": "027d38266ae68a23",
     "question_postag": "WP JJ NN VBZ JJ IN DT NN VBD IN PRP$ JJ NN .",
-    "where": "both"
+    "where": "passage"
   },
   {
     "table_id": "Special_cities_of_Japan_0",
@@ -23772,7 +23709,7 @@
           8,
           2
         ],
-        "/wiki/80's_Ladies",
+        "/wiki/80s_Ladies",
         "table"
       ]
     ],
@@ -23830,7 +23767,7 @@
           3,
           0
         ],
-        "/wiki/25th_Annual_Grammy_Awards",
+        "/wiki/Grammy_Awards_of_1983",
         "table"
       ],
       [
@@ -23839,7 +23776,7 @@
           3,
           0
         ],
-        "/wiki/25th_Annual_Grammy_Awards",
+        "/wiki/Grammy_Awards_of_1983",
         "passage"
       ]
     ],
@@ -23917,7 +23854,7 @@
           8,
           0
         ],
-        "/wiki/Runner2",
+        "/wiki/Bit.Trip_Presents..._Runner2:_Future_Legend_of_Rhythm_Alien",
         "passage"
       ]
     ],
@@ -24444,7 +24381,7 @@
           0,
           1
         ],
-        "/wiki/Nintendo_Entertainment_System",
+        "/wiki/Famicom",
         "passage"
       ],
       [
@@ -24453,7 +24390,7 @@
           0,
           1
         ],
-        "/wiki/Nintendo_Entertainment_System",
+        "/wiki/NES",
         "passage"
       ],
       [
@@ -24462,7 +24399,7 @@
           2,
           1
         ],
-        "/wiki/TurboGrafx-16",
+        "/wiki/PC_Engine_CD",
         "passage"
       ],
       [
@@ -24471,7 +24408,7 @@
           2,
           1
         ],
-        "/wiki/Super_Nintendo_Entertainment_System",
+        "/wiki/Super_Famicom",
         "passage"
       ],
       [
@@ -24500,7 +24437,7 @@
           0,
           1
         ],
-        "/wiki/Nintendo_Entertainment_System",
+        "/wiki/Famicom",
         "passage"
       ],
       [
@@ -24509,7 +24446,7 @@
           0,
           1
         ],
-        "/wiki/Nintendo_Entertainment_System",
+        "/wiki/NES",
         "passage"
       ]
     ],
@@ -24616,7 +24553,7 @@
     "version": "V3",
     "question_id": "101acbe19ec8b1e0",
     "question_postag": "WP VBZ DT NN IN DT NNP NN WP VBD DT NNP NNP NN NNP CC NNP .",
-    "where": "both"
+    "where": "table"
   },
   {
     "table_id": "List_of_alumni_and_faculty_of_the_Royal_Melbourne_Institute_of_Technology_8",
@@ -24629,7 +24566,7 @@
           6,
           0
         ],
-        "/wiki/Alicia_Loxley",
+        "/wiki/Alicia_Gorey",
         "table"
       ]
     ],
@@ -24834,7 +24771,7 @@
           13,
           0
         ],
-        "/wiki/List_of_United_States_senators_from_Georgia",
+        "/wiki/List_of_United_States_Senators_from_Georgia",
         "passage"
       ],
       [
@@ -24843,7 +24780,7 @@
           16,
           0
         ],
-        "/wiki/List_of_United_States_senators_from_Georgia",
+        "/wiki/List_of_United_States_Senators_from_Georgia",
         "passage"
       ],
       [
@@ -24852,7 +24789,7 @@
           13,
           1
         ],
-        "/wiki/Alfred_Iverson_Sr.",
+        "/wiki/Alfred_Iverson,_Sr.",
         "passage"
       ]
     ],
@@ -24881,7 +24818,7 @@
           7,
           0
         ],
-        "/wiki/List_of_United_States_senators_from_Maine",
+        "/wiki/List_of_United_States_Senators_from_Maine",
         "passage"
       ],
       [
@@ -25355,7 +25292,7 @@
           9,
           3
         ],
-        "/wiki/Run-DMC",
+        "/wiki/Run_DMC",
         "passage"
       ]
     ],
@@ -25404,7 +25341,7 @@
           11,
           0
         ],
-        "/wiki/Terengganu_FC",
+        "/wiki/Terengganu_FA",
         "table"
       ],
       [
@@ -25413,7 +25350,7 @@
           11,
           0
         ],
-        "/wiki/Terengganu_FC",
+        "/wiki/Terengganu_FA",
         "passage"
       ]
     ],
@@ -25469,7 +25406,7 @@
     "version": "V3",
     "question_id": "de54043e5ebeb262",
     "question_postag": "JJ NNP NNP NNP NN VBD DT NN VBN IN CD NNP CD NN IN .",
-    "where": "both"
+    "where": "passage"
   },
   {
     "table_id": "2013_Malaysia_Super_League_2",
@@ -25482,7 +25419,7 @@
           1,
           0
         ],
-        "/wiki/Johor_Darul_Ta'zim_F.C.",
+        "/wiki/Johor_Darul_Takzim_F.C.",
         "table"
       ]
     ],
@@ -25778,7 +25715,7 @@
           0,
           4
         ],
-        "/wiki/The_Sobrato_Center",
+        "/wiki/War_Memorial_Gymnasium",
         "passage"
       ],
       [
@@ -25805,15 +25742,6 @@
         "Saint Mary 's",
         [
           4,
-          3
-        ],
-        "/wiki/Saint_Mary's_Gaels_men's_basketball",
-        "passage"
-      ],
-      [
-        "Saint Mary 's",
-        [
-          17,
           3
         ],
         "/wiki/Saint_Mary's_Gaels_men's_basketball",
@@ -25934,7 +25862,7 @@
           0,
           1
         ],
-        "/wiki/Pelham_Bay_(neighborhood),_Bronx",
+        "/wiki/Pelham_Bay,_Bronx",
         "passage"
       ]
     ],
@@ -26188,7 +26116,7 @@
           1,
           1
         ],
-        "/wiki/Babruysk",
+        "/wiki/Bobruisk",
         "passage"
       ]
     ],
@@ -26248,7 +26176,7 @@
           1,
           1
         ],
-        "/wiki/Babruysk",
+        "/wiki/Bobruisk",
         "passage"
       ]
     ],
@@ -26288,7 +26216,7 @@
           9,
           2
         ],
-        "/wiki/Yunost_Stadium_(Mazyr)",
+        "/wiki/Yunost_Stadium_(Mozyr)",
         "passage"
       ]
     ],
@@ -26426,7 +26354,7 @@
           11,
           0
         ],
-        "/wiki/Bomberman_(2006_video_game)",
+        "/wiki/Bomberman_PSP",
         "passage"
       ]
     ],
@@ -26613,7 +26541,7 @@
     "version": "V3",
     "question_id": "be5676736f41babd",
     "question_postag": "WP VBZ DT NN , NNP VBG NN NN WP$ NN VBD IN NN CD IN DT NNP NNP CD .",
-    "where": "both"
+    "where": "passage"
   },
   {
     "table_id": "Grammy_Award_for_Best_Female_Country_Vocal_Performance_3",
@@ -26729,7 +26657,7 @@
           1,
           3
         ],
-        "/wiki/K._T._Oslin",
+        "/wiki/K.T._Oslin",
         "table"
       ]
     ],
@@ -26956,7 +26884,7 @@
           5,
           1
         ],
-        "/wiki/Renu_Bala_Chanu",
+        "/wiki/Yumnam_Chanu",
         "passage"
       ],
       [
@@ -27104,7 +27032,7 @@
           2,
           1
         ],
-        "/wiki/Ravinder_Singh_(wrestler)",
+        "/wiki/Ravinder_Kumar_(wrestler)",
         "passage"
       ],
       [
@@ -27441,7 +27369,7 @@
     "version": "V3",
     "question_id": "cc6dc1920cb24a27",
     "question_postag": "WP NN VBZ IN IN DT JJ JJ NN IN JJR IN CD CC JJR IN CD NNS .",
-    "where": "both"
+    "where": "passage"
   },
   {
     "table_id": "Ethnic_groups_in_Central_America_0",
@@ -27514,14 +27442,14 @@
           4,
           4
         ],
-        "/wiki/State_Meteorological_Agency",
+        "/wiki/Agencia_Estatal_de_Meteorolog\u00eda",
         "passage"
       ]
     ],
     "version": "V3",
     "question_id": "830afb76ab32a073",
     "question_postag": "WP NN VBZ IN DT JJ NN IN DT NN IN DT JJ NN IN DT NNP IN NNP NNP NN VBN IN CD .",
-    "where": "both"
+    "where": "passage"
   },
   {
     "table_id": "EUMETSAT_0",
@@ -27574,7 +27502,7 @@
           5,
           2
         ],
-        "/wiki/Lindita_(singer)",
+        "/wiki/Linda_Halimi",
         "passage"
       ]
     ],
@@ -27694,7 +27622,7 @@
           2,
           1
         ],
-        "/wiki/Celine_Dion",
+        "/wiki/C\u00e9line_Dion",
         "passage"
       ]
     ],
@@ -27821,7 +27749,7 @@
     "version": "V3",
     "question_id": "c1f96a59c2a1ec94",
     "question_postag": "WP VBD VBN TO DT NN VBN IN JJ NNP , JJ NNP NN NNP .",
-    "where": "both"
+    "where": "passage"
   },
   {
     "table_id": "6th_Legislative_Assembly_of_Manitoba_1",
@@ -28003,7 +27931,7 @@
           10,
           1
         ],
-        "/wiki/Phoenix_metropolitan_area",
+        "/wiki/Phoenix-Mesa-Chandler,_AZ_MSA",
         "table"
       ]
     ],
@@ -28023,16 +27951,7 @@
           4,
           1
         ],
-        "/wiki/Greater_Houston",
-        "passage"
-      ],
-      [
-        "Houston-The Woodlands , TX CSA",
-        [
-          4,
-          5
-        ],
-        "/wiki/Greater_Houston",
+        "/wiki/Houston-The_Woodlands-Sugar_Land,_TX_MSA",
         "passage"
       ]
     ],
@@ -28052,7 +27971,7 @@
           6,
           1
         ],
-        "/wiki/Miami_metropolitan_area",
+        "/wiki/Miami-Fort_Lauderdale-West_Palm_Beach,_FL_MSA",
         "table"
       ]
     ],
@@ -28072,7 +27991,7 @@
           1,
           1
         ],
-        "/wiki/Los_Angeles_metropolitan_area",
+        "/wiki/Los_Angeles-Long_Beach-Anaheim,_CA_MSA",
         "table"
       ]
     ],
@@ -28092,16 +28011,7 @@
           2,
           1
         ],
-        "/wiki/Chicago_metropolitan_area",
-        "passage"
-      ],
-      [
-        "Chicago-Naperville , IL-IN-WI CSA",
-        [
-          2,
-          5
-        ],
-        "/wiki/Chicago_metropolitan_area",
+        "/wiki/Chicago-Naperville-Elgin,_IL-IN-WI_MSA",
         "passage"
       ]
     ],
@@ -28277,7 +28187,7 @@
     "version": "V3",
     "question_id": "2cb629d2525f04d5",
     "question_postag": "WP NN VBD NNP NNP NN IN DT NN NN VBN IN DT JJ NN IN NNP .",
-    "where": "both"
+    "where": "table"
   },
   {
     "table_id": "Gabriel_Byrne_1",
@@ -28866,7 +28776,7 @@
           7,
           1
         ],
-        "/wiki/National_Football_League",
+        "/wiki/NFL",
         "passage"
       ]
     ],
@@ -28964,7 +28874,7 @@
           6,
           1
         ],
-        "/wiki/Magic_(illusion)",
+        "/wiki/Illusionist",
         "passage"
       ]
     ],
@@ -28984,7 +28894,7 @@
           5,
           0
         ],
-        "/wiki/Tiffany_Darwish",
+        "/wiki/Tiffany_(American_singer)",
         "passage"
       ]
     ],
@@ -29309,7 +29219,7 @@
           0,
           1
         ],
-        "/wiki/Rukiye_Y\u0131ld\u0131r\u0131m",
+        "/wiki/Rukiye_Yildirim",
         "passage"
       ]
     ],
@@ -29516,7 +29426,7 @@
           7,
           3
         ],
-        "/wiki/Richard_Petty_Motorsports",
+        "/wiki/Evernham_Motorsports",
         "passage"
       ]
     ],
@@ -29594,7 +29504,7 @@
           1,
           0
         ],
-        "/wiki/Soprano_family",
+        "/wiki/List_of_characters_from_The_Sopranos_in_the_DiMeo_Crime_Family",
         "passage"
       ],
       [
@@ -29603,7 +29513,7 @@
           1,
           1
         ],
-        "/wiki/Soprano_family",
+        "/wiki/Soprano_crime_family",
         "passage"
       ]
     ],
@@ -29623,7 +29533,7 @@
           5,
           0
         ],
-        "/wiki/John_Hulme_(Derbyshire_cricketer)",
+        "/wiki/John_Hulme_(cricketer,_born_1862)",
         "passage"
       ]
     ],
@@ -29643,7 +29553,7 @@
           0,
           2
         ],
-        "/wiki/MTV_(Brazilian_TV_channel)",
+        "/wiki/MTV_(Brazil)",
         "table"
       ],
       [
@@ -29652,7 +29562,7 @@
           5,
           2
         ],
-        "/wiki/MTV_(Italian_TV_channel)",
+        "/wiki/MTV_(Italy)",
         "table"
       ],
       [
@@ -29661,7 +29571,7 @@
           9,
           2
         ],
-        "/wiki/MTV_Polska",
+        "/wiki/MTV_(Poland)",
         "table"
       ],
       [
@@ -29679,7 +29589,7 @@
           0,
           2
         ],
-        "/wiki/MTV_(Brazilian_TV_channel)",
+        "/wiki/MTV_(Brazil)",
         "passage"
       ],
       [
@@ -29688,7 +29598,7 @@
           5,
           2
         ],
-        "/wiki/MTV_(Italian_TV_channel)",
+        "/wiki/MTV_(Italy)",
         "passage"
       ],
       [
@@ -29697,7 +29607,7 @@
           9,
           2
         ],
-        "/wiki/MTV_Polska",
+        "/wiki/MTV_(Poland)",
         "passage"
       ],
       [
@@ -29746,7 +29656,7 @@
           0,
           2
         ],
-        "/wiki/George_H._W._Bush",
+        "/wiki/George_H.W._Bush",
         "passage"
       ]
     ],
@@ -29786,7 +29696,7 @@
           3,
           1
         ],
-        "/wiki/Norfolk_and_Western_Railway",
+        "/wiki/Norfolk_&_Western_Railway",
         "passage"
       ]
     ],
@@ -29806,7 +29716,7 @@
           0,
           1
         ],
-        "/wiki/Newburgh_and_South_Shore_Railroad",
+        "/wiki/Newburgh_&_South_Shore_Railroad",
         "passage"
       ]
     ],
@@ -29846,7 +29756,7 @@
           7,
           2
         ],
-        "/wiki/Birmingham",
+        "/wiki/Birmingham,_United_Kingdom",
         "passage"
       ]
     ],
@@ -29962,7 +29872,7 @@
           5,
           4
         ],
-        "/wiki/Football_Park",
+        "/wiki/AAMI_Stadium",
         "passage"
       ]
     ],
@@ -30022,7 +29932,7 @@
           4,
           2
         ],
-        "/wiki/Groupama_Arena",
+        "/wiki/Groupama_Ar\u00e9na",
         "passage"
       ]
     ],
@@ -30425,7 +30335,7 @@
           0,
           1
         ],
-        "/wiki/The_Holocaust",
+        "/wiki/Holocaust",
         "passage"
       ]
     ],
@@ -30853,7 +30763,7 @@
           4,
           1
         ],
-        "/wiki/San_Germ\u00e1n,_Puerto_Rico",
+        "/wiki/San_Germ\u00e1n,_PR_Metropolitan_Statistical_Area",
         "passage"
       ]
     ],
@@ -30873,7 +30783,7 @@
           8,
           1
         ],
-        "/wiki/Salinas,_Puerto_Rico",
+        "/wiki/Coco,_PR_Micropolitan_Statistical_Area",
         "passage"
       ]
     ],
@@ -30967,7 +30877,7 @@
           6,
           2
         ],
-        "/wiki/Finneran_Pavilion",
+        "/wiki/The_Pavilion",
         "passage"
       ],
       [
@@ -30976,7 +30886,7 @@
           7,
           2
         ],
-        "/wiki/Finneran_Pavilion",
+        "/wiki/The_Pavilion",
         "passage"
       ],
       [
@@ -30985,7 +30895,7 @@
           8,
           2
         ],
-        "/wiki/Finneran_Pavilion",
+        "/wiki/The_Pavilion",
         "passage"
       ],
       [
@@ -30994,7 +30904,7 @@
           9,
           2
         ],
-        "/wiki/Finneran_Pavilion",
+        "/wiki/The_Pavilion",
         "passage"
       ],
       [
@@ -31003,7 +30913,7 @@
           11,
           2
         ],
-        "/wiki/Finneran_Pavilion",
+        "/wiki/The_Pavilion",
         "passage"
       ],
       [
@@ -31012,7 +30922,7 @@
           12,
           2
         ],
-        "/wiki/Finneran_Pavilion",
+        "/wiki/The_Pavilion",
         "passage"
       ],
       [
@@ -31021,7 +30931,7 @@
           13,
           2
         ],
-        "/wiki/Finneran_Pavilion",
+        "/wiki/The_Pavilion",
         "passage"
       ]
     ],
@@ -31357,7 +31267,7 @@
           9,
           1
         ],
-        "/wiki/Serj\u00e3o_(footballer,_born_1979)",
+        "/wiki/Sergio_Luis_Gardino_da_Silva",
         "passage"
       ]
     ],
@@ -31477,7 +31387,7 @@
           3,
           0
         ],
-        "/wiki/Mark_Helfrich_(American_football)",
+        "/wiki/Mark_Helfrich_(American_football_coach)",
         "passage"
       ]
     ],
@@ -31604,7 +31514,7 @@
           5,
           1
         ],
-        "/wiki/The_X_Factor_(British_TV_series)",
+        "/wiki/The_X_Factor_(UK_TV_series)",
         "passage"
       ]
     ],
@@ -31940,7 +31850,7 @@
           6,
           4
         ],
-        "/wiki/James_Wong_Jim",
+        "/wiki/Wong_Jim",
         "passage"
       ]
     ],
@@ -32187,7 +32097,7 @@
           5,
           1
         ],
-        "/wiki/Anolis_carolinensis",
+        "/wiki/Green_anole",
         "passage"
       ]
     ],
@@ -32207,7 +32117,7 @@
           4,
           0
         ],
-        "/wiki/Zebra_finch",
+        "/wiki/Taeniopygia_guttata",
         "passage"
       ],
       [
@@ -33733,7 +33643,7 @@
           7,
           4
         ],
-        "/wiki/Dignity_Health_Sports_Park",
+        "/wiki/ADT_Event_Center",
         "passage"
       ],
       [
@@ -34076,7 +33986,7 @@
           3,
           0
         ],
-        "/wiki/429_Transport_Squadron",
+        "/wiki/No._429_Squadron_RCAF",
         "passage"
       ]
     ],
@@ -34192,7 +34102,7 @@
           3,
           0
         ],
-        "/wiki/FC_Baku",
+        "/wiki/FK_Baku",
         "passage"
       ]
     ],
@@ -34428,7 +34338,7 @@
           2,
           1
         ],
-        "/wiki/Evangel_University",
+        "/wiki/Evangel_Crusaders_football",
         "passage"
       ]
     ],
@@ -34709,7 +34619,7 @@
           1,
           1
         ],
-        "/wiki/Don_Tonry",
+        "/wiki/Donald_Tonry",
         "passage"
       ]
     ],
@@ -34798,7 +34708,7 @@
           4,
           1
         ],
-        "/wiki/Lviv_Danylo_Halytskyi_International_Airport",
+        "/wiki/Lviv_International_Airport",
         "passage"
       ]
     ],
@@ -34965,7 +34875,7 @@
           6,
           1
         ],
-        "/wiki/Maha_Al-Bargouti",
+        "/wiki/Maha_Al_Bargouti",
         "passage"
       ]
     ],
@@ -35243,7 +35153,7 @@
           4,
           7
         ],
-        "/wiki/Virginia_Tech",
+        "/wiki/Virginia_Polytechnic_Institute_and_State_University",
         "passage"
       ]
     ],
@@ -35370,7 +35280,7 @@
           0,
           0
         ],
-        "/wiki/Pierce_Mason_Butler",
+        "/wiki/Pierce_M._Butler",
         "passage"
       ]
     ],
@@ -35829,7 +35739,7 @@
           0,
           1
         ],
-        "/wiki/Canton_of_Ticino",
+        "/wiki/Ticino",
         "passage"
       ]
     ],
@@ -35869,7 +35779,7 @@
           0,
           2
         ],
-        "/wiki/FC_Spartak_Sofia",
+        "/wiki/Spartak_Sofia",
         "passage"
       ]
     ],
@@ -35909,7 +35819,7 @@
           2,
           0
         ],
-        "/wiki/PLUS_F.C.",
+        "/wiki/KL_PLUS_FC",
         "passage"
       ]
     ],
@@ -35949,7 +35859,7 @@
           8,
           0
         ],
-        "/wiki/Tartu_JK_Tammeka",
+        "/wiki/JK_Tammeka_Tartu",
         "passage"
       ]
     ],
@@ -36838,7 +36748,7 @@
           6,
           4
         ],
-        "/wiki/1974_UEFA_European_Under-23_Championship",
+        "/wiki/1974_UEFA_European_Under-23_Football_Championship",
         "passage"
       ]
     ],
@@ -37152,7 +37062,7 @@
           7,
           1
         ],
-        "/wiki/Shakti_-_Astitva_Ke_Ehsaas_Ki",
+        "/wiki/Shakti_\u2014_Astitva_Ke_Ehsaas_Ki",
         "passage"
       ]
     ],
@@ -37221,7 +37131,7 @@
           2,
           4
         ],
-        "/wiki/Football_Park",
+        "/wiki/AAMI_Stadium",
         "passage"
       ]
     ],
@@ -37359,7 +37269,7 @@
           7,
           2
         ],
-        "/wiki/Canadian_Women's_Open",
+        "/wiki/Du_Maurier_Classic",
         "passage"
       ]
     ],
@@ -37399,7 +37309,7 @@
           0,
           1
         ],
-        "/wiki/Life_(American_TV_series)",
+        "/wiki/Life_(NBC_TV_series)",
         "passage"
       ]
     ],
@@ -37439,7 +37349,7 @@
           1,
           1
         ],
-        "/wiki/Stan_Wawrinka",
+        "/wiki/Stanislas_Wawrinka",
         "passage"
       ],
       [
@@ -37477,7 +37387,7 @@
           1,
           1
         ],
-        "/wiki/Stan_Wawrinka",
+        "/wiki/Stanislas_Wawrinka",
         "passage"
       ],
       [
@@ -38165,7 +38075,7 @@
           1,
           4
         ],
-        "/wiki/Map\u00faa_University",
+        "/wiki/Mapua_Institute_of_Technology",
         "passage"
       ]
     ],
@@ -38185,7 +38095,7 @@
           3,
           4
         ],
-        "/wiki/Colegio_de_San_Juan_de_Letran",
+        "/wiki/Letran_College",
         "passage"
       ]
     ],
@@ -38305,7 +38215,7 @@
           7,
           0
         ],
-        "/wiki/KTP_Basket",
+        "/wiki/KTP-Basket",
         "passage"
       ]
     ],
@@ -39116,7 +39026,7 @@
           1,
           1
         ],
-        "/wiki/Mari_Paz_Vilas",
+        "/wiki/Mar\u00eda_Paz_Vilas",
         "passage"
       ]
     ],
@@ -39225,7 +39135,7 @@
           0,
           4
         ],
-        "/wiki/Islamic_Jihad_Movement_in_Palestine",
+        "/wiki/Palestinian_Islamic_Jihad",
         "passage"
       ],
       [
@@ -39234,7 +39144,7 @@
           4,
           4
         ],
-        "/wiki/Islamic_Jihad_Movement_in_Palestine",
+        "/wiki/Palestinian_Islamic_Jihad",
         "passage"
       ],
       [
@@ -39243,7 +39153,7 @@
           5,
           4
         ],
-        "/wiki/Islamic_Jihad_Movement_in_Palestine",
+        "/wiki/Palestinian_Islamic_Jihad",
         "passage"
       ],
       [
@@ -39252,7 +39162,7 @@
           6,
           4
         ],
-        "/wiki/Islamic_Jihad_Movement_in_Palestine",
+        "/wiki/Palestinian_Islamic_Jihad",
         "passage"
       ],
       [
@@ -39261,7 +39171,7 @@
           7,
           4
         ],
-        "/wiki/Islamic_Jihad_Movement_in_Palestine",
+        "/wiki/Palestinian_Islamic_Jihad",
         "passage"
       ]
     ],
@@ -39444,7 +39354,7 @@
           6,
           2
         ],
-        "/wiki/Canadian_Tire_Motorsport_Park",
+        "/wiki/Mosport",
         "table"
       ],
       [
@@ -39453,7 +39363,7 @@
           6,
           2
         ],
-        "/wiki/Canadian_Tire_Motorsport_Park",
+        "/wiki/Mosport",
         "passage"
       ]
     ],
@@ -39941,7 +39851,7 @@
           10,
           3
         ],
-        "/wiki/Left-arm_orthodox_spin",
+        "/wiki/Orthodox_spin",
         "table"
       ],
       [
@@ -39950,7 +39860,7 @@
           10,
           3
         ],
-        "/wiki/Left-arm_orthodox_spin",
+        "/wiki/Orthodox_spin",
         "passage"
       ]
     ],
@@ -40766,7 +40676,7 @@
           13,
           1
         ],
-        "/wiki/Alexander_Sutherland_(politician)",
+        "/wiki/Alexander_Sutherland_(Manitoba_politician)",
         "passage"
       ]
     ],
@@ -40815,7 +40725,7 @@
           5,
           1
         ],
-        "/wiki/Corporaci\u00f3n_Pe\u00f1alol\u00e9n",
+        "/wiki/Equipo_Pe\u00f1alol\u00e9n",
         "passage"
       ]
     ],
@@ -40951,7 +40861,7 @@
           6,
           2
         ],
-        "/wiki/OFK_Grbalj",
+        "/wiki/FK_Grbalj",
         "passage"
       ]
     ],
@@ -41009,7 +40919,7 @@
           4,
           3
         ],
-        "/wiki/Masamagrell",
+        "/wiki/Massamagrell",
         "passage"
       ],
       [
@@ -41067,7 +40977,7 @@
           1,
           3
         ],
-        "/wiki/Nordic_Naturals_Challenger",
+        "/wiki/Comerica_Bank_Challenger",
         "table"
       ],
       [
@@ -41076,7 +40986,7 @@
           1,
           3
         ],
-        "/wiki/Nordic_Naturals_Challenger",
+        "/wiki/Comerica_Bank_Challenger",
         "passage"
       ]
     ],
@@ -41828,7 +41738,7 @@
           7,
           3
         ],
-        "/wiki/SpongeBob_SquarePants_vs._The_Big_One",
+        "/wiki/SpongeBob_vs._The_Big_One",
         "passage"
       ]
     ],
@@ -41948,7 +41858,7 @@
           13,
           0
         ],
-        "/wiki/Zinaida_Grecean\u00eei",
+        "/wiki/Zinaida_Greceanii",
         "passage"
       ]
     ],
@@ -42028,7 +41938,7 @@
           5,
           2
         ],
-        "/wiki/FC_Sf\u00e2ntul_Gheorghe_Suruceni",
+        "/wiki/FC_Sf\u00eentul_Gheorghe",
         "passage"
       ]
     ],
@@ -42137,7 +42047,7 @@
           9,
           2
         ],
-        "/wiki/Herning-Ikast_H\u00e5ndbold",
+        "/wiki/FC_Midtjylland_H\u00e5ndbold",
         "passage"
       ]
     ],
@@ -42304,7 +42214,7 @@
           9,
           3
         ],
-        "/wiki/Muharrem_Korhan_Yama\u00e7",
+        "/wiki/Muharrem_Korhan_Yamac",
         "passage"
       ],
       [
@@ -42313,7 +42223,7 @@
           11,
           1
         ],
-        "/wiki/Muharrem_Korhan_Yama\u00e7",
+        "/wiki/Muharrem_Korhan_Yamac",
         "passage"
       ]
     ],
@@ -42393,7 +42303,7 @@
           3,
           1
         ],
-        "/wiki/Double_Trouble_State_Park",
+        "/wiki/Double_Trouble,_New_Jersey",
         "passage"
       ]
     ],
@@ -42433,7 +42343,7 @@
           1,
           0
         ],
-        "/wiki/High_tech",
+        "/wiki/Tech_industry",
         "passage"
       ]
     ],
@@ -42611,7 +42521,7 @@
           11,
           0
         ],
-        "/wiki/Earl_of_Kerry",
+        "/wiki/Baron_Kerry",
         "passage"
       ],
       [
@@ -42620,7 +42530,7 @@
           12,
           0
         ],
-        "/wiki/Earl_of_Kerry",
+        "/wiki/Baron_Kerry",
         "passage"
       ]
     ],
@@ -42720,7 +42630,7 @@
           4,
           0
         ],
-        "/wiki/FC_Baku",
+        "/wiki/FK_Baku",
         "passage"
       ]
     ],
@@ -42740,7 +42650,7 @@
           4,
           0
         ],
-        "/wiki/FC_Baku",
+        "/wiki/FK_Baku",
         "passage"
       ],
       [
@@ -42749,7 +42659,7 @@
           7,
           0
         ],
-        "/wiki/Ke\u015fla_FK",
+        "/wiki/FC_Inter_Baku",
         "passage"
       ]
     ],
@@ -42965,7 +42875,7 @@
           2,
           3
         ],
-        "/wiki/Wrexham_A.F.C.",
+        "/wiki/Wrexham_F.C.",
         "passage"
       ]
     ],
@@ -42985,7 +42895,7 @@
           0,
           1
         ],
-        "/wiki/Rugby_union_positions",
+        "/wiki/Back_(rugby_union)",
         "table"
       ]
     ],
@@ -43123,7 +43033,7 @@
           5,
           5
         ],
-        "/wiki/Ramon_Dom\u00ednguez",
+        "/wiki/Ramon_Dominguez",
         "passage"
       ],
       [
@@ -43132,7 +43042,7 @@
           7,
           5
         ],
-        "/wiki/Abel_Castellano_Jr.",
+        "/wiki/Abel_Castellano,_Jr.",
         "passage"
       ]
     ],
@@ -43152,7 +43062,7 @@
           0,
           0
         ],
-        "/wiki/Monte_Carlo_Rally",
+        "/wiki/Rallye_Monte_Carlo",
         "passage"
       ]
     ],
@@ -43272,7 +43182,7 @@
           1,
           1
         ],
-        "/wiki/Network_10",
+        "/wiki/Network_Ten",
         "passage"
       ]
     ],
@@ -43579,7 +43489,7 @@
           3,
           2
         ],
-        "/wiki/RC_Celta_de_Vigo",
+        "/wiki/Celta_de_Vigo",
         "passage"
       ]
     ],
@@ -43748,7 +43658,7 @@
           5,
           4
         ],
-        "/wiki/Kwansei_Gakuin_University",
+        "/wiki/Kwansei_Gakuin",
         "passage"
       ]
     ],
@@ -44668,7 +44578,7 @@
           9,
           2
         ],
-        "/wiki/Walter_Davis_(triple_jumper)",
+        "/wiki/Walter_Davis_(athlete)",
         "passage"
       ]
     ],
@@ -45049,7 +44959,7 @@
           1,
           6
         ],
-        "/wiki/Ford_Sierra_RS_Cosworth",
+        "/wiki/Ford_Sierra_RS500",
         "passage"
       ],
       [
@@ -45078,7 +44988,7 @@
           3,
           3
         ],
-        "/wiki/Benalla",
+        "/wiki/Benalla,_Victoria",
         "passage"
       ]
     ],
@@ -46128,7 +46038,7 @@
           2,
           4
         ],
-        "/wiki/Ford_Motor_Company",
+        "/wiki/Ford",
         "passage"
       ]
     ],
@@ -46190,15 +46100,6 @@
         "passage"
       ],
       [
-        "Holocaust",
-        [
-          8,
-          2
-        ],
-        "/wiki/The_Holocaust",
-        "passage"
-      ],
-      [
         "Gestapo",
         [
           8,
@@ -46232,6 +46133,15 @@
           2
         ],
         "/wiki/Izbica_Ghetto",
+        "passage"
+      ],
+      [
+        "Holocaust",
+        [
+          8,
+          2
+        ],
+        "/wiki/Holocaust",
         "passage"
       ],
       [
@@ -46478,7 +46388,7 @@
           13,
           0
         ],
-        "/wiki/WolfSSL",
+        "/wiki/WolfCrypt",
         "passage"
       ]
     ],
@@ -46816,7 +46726,7 @@
           11,
           5
         ],
-        "/wiki/NASCAR_Advance_Auto_Parts_Weekly_Series",
+        "/wiki/Whelen_All-American_Series",
         "passage"
       ],
       [
@@ -46825,7 +46735,7 @@
           12,
           5
         ],
-        "/wiki/NASCAR_Advance_Auto_Parts_Weekly_Series",
+        "/wiki/Whelen_All-American_Series",
         "passage"
       ],
       [
@@ -46834,7 +46744,7 @@
           13,
           5
         ],
-        "/wiki/NASCAR_Advance_Auto_Parts_Weekly_Series",
+        "/wiki/Whelen_All-American_Series",
         "passage"
       ]
     ],
@@ -46923,7 +46833,7 @@
           7,
           3
         ],
-        "/wiki/Straight_Outta_Oz",
+        "/wiki/Straight_Outta_Oz_(album)",
         "passage"
       ]
     ],
@@ -46963,7 +46873,7 @@
           6,
           2
         ],
-        "/wiki/Hisham_Mohamed_Mekin",
+        "/wiki/Hisham_Mohamed",
         "passage"
       ]
     ],
@@ -47717,7 +47627,7 @@
           2,
           0
         ],
-        "/wiki/U.D._Oliveirense_(basketball)",
+        "/wiki/Oliveirense_Basquetebol",
         "passage"
       ]
     ],
@@ -47737,7 +47647,7 @@
           2,
           3
         ],
-        "/wiki/R._D._Burman",
+        "/wiki/R.D._Burman",
         "passage"
       ]
     ],
@@ -47924,7 +47834,7 @@
           0,
           1
         ],
-        "/wiki/Battle_Creek_Flight",
+        "/wiki/Battle_Creek_Knights",
         "passage"
       ]
     ],
@@ -47944,7 +47854,7 @@
           1,
           3
         ],
-        "/wiki/Marysville_Meteors",
+        "/wiki/Columbus_Cyclones",
         "passage"
       ]
     ],
@@ -48347,7 +48257,7 @@
           1,
           3
         ],
-        "/wiki/Pat_Rafter",
+        "/wiki/Patrick_Rafter",
         "passage"
       ],
       [
@@ -48492,7 +48402,7 @@
           0,
           5
         ],
-        "/wiki/Terra_Firma_Dyip",
+        "/wiki/Kia_Picanto_(PBA_team)",
         "passage"
       ]
     ],
@@ -48984,7 +48894,7 @@
           3,
           3
         ],
-        "/wiki/Beijing_Institute_of_Technology_F.C.",
+        "/wiki/Beijing_Institute_of_Technology_FC",
         "passage"
       ]
     ],
@@ -49153,7 +49063,7 @@
           10,
           2
         ],
-        "/wiki/Vazgen_Sargsyan_Republican_Stadium",
+        "/wiki/Hanrapetakan_Stadium",
         "passage"
       ]
     ],
@@ -49318,7 +49228,7 @@
           5,
           2
         ],
-        "/wiki/\u00c9toile_Sportive_du_Sahel",
+        "/wiki/\u00c9toile_du_Sahel",
         "passage"
       ]
     ],
@@ -49734,7 +49644,7 @@
           5,
           3
         ],
-        "/wiki/I_Can't_Tell_a_Waltz_from_a_Tango",
+        "/wiki/I_Can't_Tell_A_Waltz_From_A_Tango",
         "passage"
       ],
       [
@@ -50068,7 +49978,7 @@
           0,
           0
         ],
-        "/wiki/1991_NCAA_Division_I_Women's_Basketball_Tournament",
+        "/wiki/1991_NCAA_Women's_Division_I_Basketball_Tournament",
         "passage"
       ]
     ],
@@ -50246,7 +50156,7 @@
           0,
           0
         ],
-        "/wiki/KF_Besa_Kavaj\u00eb",
+        "/wiki/Besa_Kavaj\u00eb",
         "passage"
       ]
     ],
@@ -50373,7 +50283,7 @@
           1,
           1
         ],
-        "/wiki/Bethel_University_(Indiana)",
+        "/wiki/Bethel_Pilots",
         "passage"
       ]
     ],
@@ -50453,7 +50363,7 @@
           4,
           1
         ],
-        "/wiki/\u00cdngrid_Drexel",
+        "/wiki/Ingrid_Drexel",
         "passage"
       ]
     ],
@@ -50553,7 +50463,7 @@
           1,
           1
         ],
-        "/wiki/Kim_Jin-il",
+        "/wiki/Kim_Jin-Il",
         "passage"
       ]
     ],
@@ -50573,7 +50483,7 @@
           6,
           1
         ],
-        "/wiki/Ha_Jung-heon",
+        "/wiki/Ha_Jung-Heon",
         "passage"
       ]
     ],
@@ -50613,7 +50523,7 @@
           6,
           1
         ],
-        "/wiki/Ferris_State_Bulldogs",
+        "/wiki/Ferris_Bulldogs_football",
         "passage"
       ]
     ],
@@ -50751,7 +50661,7 @@
           0,
           5
         ],
-        "/wiki/Julio_C\u00e9sar_Campozano",
+        "/wiki/J\u00falio_C\u00e9sar_Campozano",
         "passage"
       ]
     ],
@@ -50911,7 +50821,7 @@
           4,
           0
         ],
-        "/wiki/Slovaks_in_Serbia",
+        "/wiki/Slovaks_of_Serbia",
         "passage"
       ]
     ],
@@ -50951,7 +50861,7 @@
           6,
           1
         ],
-        "/wiki/Cronulla-Sutherland_Sharks",
+        "/wiki/Cronulla_Sharks",
         "passage"
       ],
       [
@@ -50960,7 +50870,7 @@
           7,
           1
         ],
-        "/wiki/Cronulla-Sutherland_Sharks",
+        "/wiki/Cronulla_Sharks",
         "passage"
       ]
     ],
@@ -51216,7 +51126,7 @@
           11,
           3
         ],
-        "/wiki/Southend-on-Sea",
+        "/wiki/Southend",
         "passage"
       ],
       [
@@ -51660,7 +51570,7 @@
           0,
           2
         ],
-        "/wiki/J\u00e4nner_Rallye",
+        "/wiki/Internationale_J\u00e4nner_Rallye",
         "table"
       ],
       [
@@ -51669,7 +51579,7 @@
           0,
           2
         ],
-        "/wiki/J\u00e4nner_Rallye",
+        "/wiki/Internationale_J\u00e4nner_Rallye",
         "passage"
       ]
     ],
@@ -52085,7 +51995,7 @@
           3,
           0
         ],
-        "/wiki/Ghosts_I\u2013IV",
+        "/wiki/Ghosts_I-IV",
         "passage"
       ]
     ],
@@ -52413,7 +52323,7 @@
           0,
           2
         ],
-        "/wiki/Walkinshaw_Andretti_United",
+        "/wiki/Holden_Racing_Team",
         "passage"
       ],
       [
@@ -52422,7 +52332,7 @@
           9,
           2
         ],
-        "/wiki/Walkinshaw_Andretti_United",
+        "/wiki/Holden_Racing_Team",
         "passage"
       ]
     ],
@@ -52442,7 +52352,7 @@
           1,
           1
         ],
-        "/wiki/Delta-aminolevulinic_acid_dehydratase",
+        "/wiki/5-aminolevulinate_dehydratase",
         "passage"
       ]
     ],
@@ -52462,7 +52372,7 @@
           0,
           1
         ],
-        "/wiki/Aminolevulinic_acid_synthase",
+        "/wiki/ALA_synthase",
         "passage"
       ]
     ],
@@ -52985,7 +52895,7 @@
           5,
           3
         ],
-        "/wiki/WTA_Indian_Open",
+        "/wiki/AP_Tourism_Hyderabad_Open",
         "passage"
       ]
     ],
@@ -53065,7 +52975,7 @@
           1,
           3
         ],
-        "/wiki/1922_Georgia_Tech_Golden_Tornado_football_team",
+        "/wiki/1922_Georgia_Tech_Yellow_Jackets_football_team",
         "passage"
       ],
       [
@@ -53074,7 +52984,7 @@
           5,
           3
         ],
-        "/wiki/1922_Georgia_Tech_Golden_Tornado_football_team",
+        "/wiki/1922_Georgia_Tech_Yellow_Jackets_football_team",
         "passage"
       ],
       [
@@ -53083,7 +52993,7 @@
           6,
           3
         ],
-        "/wiki/1922_Georgia_Tech_Golden_Tornado_football_team",
+        "/wiki/1922_Georgia_Tech_Yellow_Jackets_football_team",
         "passage"
       ],
       [
@@ -53092,7 +53002,7 @@
           7,
           3
         ],
-        "/wiki/1922_Georgia_Tech_Golden_Tornado_football_team",
+        "/wiki/1922_Georgia_Tech_Yellow_Jackets_football_team",
         "passage"
       ]
     ],

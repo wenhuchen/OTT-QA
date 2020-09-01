@@ -23,7 +23,7 @@
         "Instruction set"
       ],
       [
-        "/wiki/Instruction_set_architecture"
+        "/wiki/Instruction_set"
       ]
     ],
     [
@@ -59,8 +59,8 @@
           "Honeywell 6180"
         ],
         [
-          "/wiki/GE-600_series",
-          "/wiki/Honeywell_6000_series"
+          "/wiki/GE-645",
+          "/wiki/Honeywell_6180"
         ]
       ],
       [
@@ -69,8 +69,8 @@
           "Honeywell 6180"
         ],
         [
-          "/wiki/GE-600_series",
-          "/wiki/Honeywell_6000_series"
+          "/wiki/GE-645",
+          "/wiki/Honeywell_6180"
         ]
       ]
     ],
@@ -119,7 +119,7 @@
           "Linux"
         ],
         [
-          "/wiki/Windows_API",
+          "/wiki/Win32",
           "/wiki/Linux"
         ]
       ]
@@ -318,7 +318,7 @@
           "PIC microcontroller"
         ],
         [
-          "/wiki/PIC_microcontrollers"
+          "/wiki/PIC_microcontroller"
         ]
       ],
       [
@@ -370,7 +370,7 @@
           "Symbolic Optimal Assembly Program"
         ],
         [
-          "/wiki/IBM_650"
+          "/wiki/Symbolic_Optimal_Assembly_Program"
         ]
       ],
       [
@@ -464,10 +464,10 @@
           "/wiki/IBM_700/7000_series",
           "/wiki/IBM_1401",
           "/wiki/IBM_1410",
-          "/wiki/IBM_700/7000_series",
+          "/wiki/IBM_7010",
           "/wiki/IBM_7070",
-          "/wiki/IBM_7070",
-          "/wiki/IBM_7070",
+          "/wiki/IBM_7072",
+          "/wiki/IBM_7074",
           "/wiki/IBM_7080"
         ]
       ],
@@ -486,7 +486,7 @@
           "Fortran Assembly Program"
         ],
         [
-          "/wiki/IBM_700/7000_series"
+          "/wiki/FORTRAN_Assembly_Program"
         ]
       ],
       [
@@ -670,7 +670,7 @@
           "Symbolic Programming System"
         ],
         [
-          "/wiki/IBM_1401_Symbolic_Programming_System"
+          "/wiki/Symbolic_Programming_System"
         ]
       ],
       [
@@ -724,7 +724,7 @@
           "ICL 1900"
         ],
         [
-          "/wiki/ICT_1900_series"
+          "/wiki/ICL_1900"
         ]
       ],
       [
@@ -732,7 +732,7 @@
           "ICL 1900"
         ],
         [
-          "/wiki/ICT_1900_series"
+          "/wiki/ICL_1900"
         ]
       ]
     ],
@@ -758,7 +758,7 @@
           "ICL 1900"
         ],
         [
-          "/wiki/ICT_1900_series"
+          "/wiki/ICL_1900"
         ]
       ],
       [
@@ -766,7 +766,7 @@
           "ICL 1900"
         ],
         [
-          "/wiki/ICT_1900_series"
+          "/wiki/ICL_1900"
         ]
       ]
     ]

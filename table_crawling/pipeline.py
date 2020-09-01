@@ -655,31 +655,43 @@ if __name__ == "__main__":
                     new_links.append(link)
             return new_links
 
+        with open('../released_data/train_dev_test_table_ids.json', 'r') as f:
+            table_ids = json.load(f)
+        blacklist_table_ids = table_ids['train'] + table_ids['dev'] + table_ids['test']
+        blacklist_table_ids = set(blacklist_table_ids)
+        golden_request = {}
+        for table_id in blacklist_table_ids:
+            file_name = '{}/tables_tok/{}.json'.format(output_folder, table_id)
+            with open(file_name, 'r') as f:
+                request = json.load(f)
+            golden_request.update(request)
+        print("Step7: Generating golden requests")
+            
         for file_name in glob.glob('{}/tables_tok/*.json'.format(output_folder)):
+            table_id = os.path.basename(file_name).replace('.json', '')
+            if table_id in blacklist_table_ids:
+                continue
+            # Only removing redundancy for non train/dev/test files
             with open(file_name, 'r') as f:
                 table = json.load(f)
-
             for i, h in enumerate(table['header']):
                 table['header'][i] = (table['header'][i][0], replace_links(h[1]))
                 assert len(table['header'][i][0]) == len(table['header'][i][1])
-
             for i, row in enumerate(table['data']):
                 for j, cell in enumerate(row):
                     table['data'][i][j] = (table['data'][i][j][0], replace_links(cell[1]))
                     assert len(table['data'][i][j][0]) == len(table['data'][i][j][1])
-
             with open(file_name, 'w') as f:
                 json.dump(table, f, indent=2)
-
             file_name = file_name.replace('/tables_tok/', '/request_tok/')
             with open(file_name, 'r') as f:
                 request = json.load(f)
-
             new_request = {}
             for k, v in request.items():
                 tmp = replace_links([k])[0]
                 new_request[tmp] = v
-
+                if tmp in golden_request:
+                    new_request[tmp] = golden_request[tmp]
             with open(file_name, 'w') as f:
                 json.dump(new_request, f, indent=2)
         print("Step7: Finished Removing Redundancy")
@@ -690,7 +702,6 @@ if __name__ == "__main__":
         for file_name in glob.glob('{}/tables_tok/*.json'.format(output_folder)):
             with open(file_name, 'r') as f:
                 table = json.load(f)
-
             for i, h in enumerate(table['header']):
                 full_cell = ' , '.join(table['header'][i][0])
                 table['header'][i] = full_cell
@@ -699,7 +710,6 @@ if __name__ == "__main__":
                 for j, cell in enumerate(row):
                     full_cell = ' , '.join(cell[0])
                     table['data'][i][j] = full_cell
-            
             file_name = os.path.basename(file_name)
             file_name = os.path.splitext(file_name)[0]
             table_set[file_name] = table
@@ -733,20 +743,6 @@ if __name__ == "__main__":
             success, fail = 0, 0
             for k, v in requests.items():
                 whole_wikipedia[k] = v
-                """
-                if k in whole_wikipedia:
-                    whole_wikipedia[k] = v
-                    success += 1
-                else:
-                    if k in redirect['forward'] and redirect['forward'][k] in whole_wikipedia:
-                        mapped_key = redirect['forward'][k]
-                        whole_wikipedia.pop(mapped_key)
-                        whole_wikipedia[k] = v
-                        success += 1
-                    else:
-                        whole_wikipedia[k] = v
-                        fail += 1
-                """
             with open('../data/all_passages.json', 'w') as f:
                 json.dump(whole_wikipedia, f)
 

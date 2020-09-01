@@ -41,7 +41,7 @@
         [
           "/wiki/Gatwick_Airport",
           "/wiki/London_City_Airport",
-          "/wiki/Heathrow_Airport",
+          "/wiki/London_Heathrow_Airport",
           "/wiki/London_Luton_Airport",
           "/wiki/London_Stansted_Airport",
           "/wiki/London_Southend_Airport"
@@ -108,7 +108,7 @@
         ],
         [
           "/wiki/Brussels_Airport",
-          "/wiki/Brussels_South_Charleroi_Airport"
+          "/wiki/Brussels-South_Charleroi_Airport"
         ]
       ],
       [
@@ -171,8 +171,8 @@
         ],
         [
           "/wiki/Beauvais-Till\u00e9_Airport",
-          "/wiki/Charles_de_Gaulle_Airport",
-          "/wiki/Orly_Airport"
+          "/wiki/Paris_Charles_de_Gaulle_Airport",
+          "/wiki/Paris_Orly_Airport"
         ]
       ],
       [
@@ -206,7 +206,7 @@
         ],
         [
           "/wiki/Sheremetyevo_International_Airport",
-          "/wiki/Vnukovo_International_Airport"
+          "/wiki/Vnukovo_Airport"
         ]
       ],
       [
@@ -260,7 +260,7 @@
           "Amsterdam Airport"
         ],
         [
-          "/wiki/Amsterdam_Airport_Schiphol"
+          "/wiki/Amsterdam_Airport"
         ]
       ],
       [
@@ -289,7 +289,7 @@
           "Istanbul Airport"
         ],
         [
-          "/wiki/Istanbul_Sabiha_G\u00f6k\u00e7en_International_Airport",
+          "/wiki/Sabiha_G\u00f6k\u00e7en_Airport",
           "/wiki/Istanbul_Airport"
         ]
       ],
@@ -351,8 +351,8 @@
           "Rome Fiumicino Airport"
         ],
         [
-          "/wiki/Ciampino\u2013G._B._Pastine_International_Airport",
-          "/wiki/Leonardo_da_Vinci\u2013Fiumicino_Airport"
+          "/wiki/Rome_Ciampino_Airport",
+          "/wiki/Rome_Fiumicino_Airport"
         ]
       ],
       [
@@ -382,7 +382,7 @@
           "Prague Airport"
         ],
         [
-          "/wiki/V\u00e1clav_Havel_Airport_Prague"
+          "/wiki/Prague_Airport"
         ]
       ],
       [
@@ -411,7 +411,7 @@
           "Orio al Serio International Airport"
         ],
         [
-          "/wiki/Milan_Malpensa_Airport",
+          "/wiki/Malpensa_Airport",
           "/wiki/Orio_al_Serio_International_Airport"
         ]
       ],
@@ -440,7 +440,7 @@
           "Henri Coanda International Airport"
         ],
         [
-          "/wiki/Henri_Coand\u0103_International_Airport"
+          "/wiki/Henri_Coanda_International_Airport"
         ]
       ],
       [
@@ -488,7 +488,7 @@
           "Wizz Air"
         ],
         [
-          "/wiki/EasyJet",
+          "/wiki/Easyjet",
           "/wiki/Ryanair",
           "/wiki/Wizz_Air"
         ]
@@ -500,7 +500,7 @@
           "Madrid Airport"
         ],
         [
-          "/wiki/Adolfo_Su\u00e1rez_Madrid\u2013Barajas_Airport"
+          "/wiki/Madrid_Airport"
         ]
       ],
       [
@@ -518,7 +518,7 @@
           "Wizz Air"
         ],
         [
-          "/wiki/Iberian_Peninsula",
+          "/wiki/Iberia",
           "/wiki/Ryanair",
           "/wiki/Wizz_Air"
         ]

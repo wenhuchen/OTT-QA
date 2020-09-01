@@ -74,8 +74,8 @@
         [
           "/wiki/Hokkaido",
           "/wiki/Matsumae_District,_Hokkaido",
-          "/wiki/Hakodate",
-          "/wiki/Otaru",
+          "/wiki/Hakodate,_Hokkaido",
+          "/wiki/Otaru,_Hokkaido",
           "/wiki/Fukushima,_Hokkaido"
         ]
       ]
@@ -270,7 +270,7 @@
         [
           "/wiki/Yamabushi",
           "/wiki/Amano-Iwato",
-          "/wiki/Taiko"
+          "/wiki/\u014cdaiko"
         ]
       ],
       [
@@ -281,7 +281,7 @@
         ],
         [
           "/wiki/Ogatsu,_Miyagi",
-          "/wiki/Ishinomaki",
+          "/wiki/Ishinomaki,_Miyagi",
           "/wiki/Miyagi_Prefecture"
         ]
       ]
@@ -310,7 +310,7 @@
         ],
         [
           "/wiki/Yamabushi",
-          "/wiki/Bon_Festival"
+          "/wiki/Bon_festival"
         ]
       ],
       [
@@ -321,7 +321,7 @@
         ],
         [
           "/wiki/Ani,_Akita",
-          "/wiki/Kitaakita",
+          "/wiki/Kitaakita,_Akita",
           "/wiki/Akita_Prefecture"
         ]
       ]
@@ -435,7 +435,7 @@
           "Yamagata"
         ],
         [
-          "/wiki/Yuza",
+          "/wiki/Yuza,_Yamagata",
           "/wiki/Yamagata_Prefecture"
         ]
       ]
@@ -543,13 +543,13 @@
           "/wiki/Tait\u014d",
           "/wiki/Shinagawa",
           "/wiki/Arakawa,_Tokyo",
-          "/wiki/Inagi",
+          "/wiki/Inagi,_Tokyo",
           "/wiki/Saitama_Prefecture",
           "/wiki/Enp\u014d",
-          "/wiki/Meiji_(era)",
+          "/wiki/Meiji_period",
           "/wiki/Rash\u014dmon_(Noh_play)",
           "/wiki/Momotar\u014d",
-          "/wiki/Noh",
+          "/wiki/N\u014d",
           "/wiki/Ky\u014dgen"
         ]
       ],
@@ -594,7 +594,7 @@
           "Yamanashi"
         ],
         [
-          "/wiki/Asama_shrine",
+          "/wiki/Asama_Shrine",
           "/wiki/Fujikawaguchiko,_Yamanashi",
           "/wiki/Yamanashi_Prefecture"
         ]
@@ -700,7 +700,7 @@
           "Kitashitara District , Aichi"
         ],
         [
-          "/wiki/Kitashitara_District"
+          "/wiki/Kitashitara_District,_Aichi"
         ]
       ]
     ],
@@ -802,7 +802,7 @@
           "Genroku"
         ],
         [
-          "/wiki/Hy\u014dshigi",
+          "/wiki/Hyoshigi",
           null,
           "/wiki/Muromachi_period",
           "/wiki/Edo_period",
