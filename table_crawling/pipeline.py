@@ -661,12 +661,12 @@ if __name__ == "__main__":
         blacklist_table_ids = set(blacklist_table_ids)
         golden_request = {}
         for table_id in blacklist_table_ids:
-            file_name = '{}/tables_tok/{}.json'.format(output_folder, table_id)
+            file_name = '{}/request_tok/{}.json'.format(output_folder, table_id)
             with open(file_name, 'r') as f:
                 request = json.load(f)
             golden_request.update(request)
         print("Step7: Generating golden requests")
-            
+
         for file_name in glob.glob('{}/tables_tok/*.json'.format(output_folder)):
             table_id = os.path.basename(file_name).replace('.json', '')
             if table_id in blacklist_table_ids:
@@ -689,9 +689,10 @@ if __name__ == "__main__":
             new_request = {}
             for k, v in request.items():
                 tmp = replace_links([k])[0]
-                new_request[tmp] = v
                 if tmp in golden_request:
                     new_request[tmp] = golden_request[tmp]
+                else:
+                    new_request[tmp] = v
             with open(file_name, 'w') as f:
                 json.dump(new_request, f, indent=2)
         print("Step7: Finished Removing Redundancy")
