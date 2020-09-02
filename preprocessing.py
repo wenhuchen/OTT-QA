@@ -79,21 +79,11 @@ def IR(data_entry, table_path='traindev_tables_tok', request_path='traindev_requ
                         else:
                             mapping_entity[ent][cell[0][i]] = mapping_entity[ent][cell[0][i]] + [(row_idx, col_idx)]
     
-    for col_idx, header in enumerate(table['header']):
-        for i, ent in enumerate(header[1]):
-            if ent:
-                if ent not in mapping_entity:
-                    mapping_entity[ent] = {header[0][i]: [(-1, col_idx)]}
-                else:
-                    if header[0][i] not in mapping_entity[ent]:
-                        mapping_entity[ent][header[0][i]] = [(-1, col_idx)]
-                    else:
-                        mapping_entity[ent][header[0][i]] = mapping_entity[ent][header[0][i]] + [(-1, col_idx)]
-
     # Convert the paragraph and question into TF-IDF features
     keys = []
     paras = []
-    for k, v in requested_documents.items():
+    for k in mapping_entity:
+        v = requested_documents[k]
         for _ in tokenizer.tokenize(v):
             keys.append(k)
             paras.append(_)
