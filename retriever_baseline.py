@@ -53,8 +53,12 @@ def use_what(whole_representation, usage):
     else:
         raise NotImplementedError()
 
-with open(f'released_data/{args.split}.oracle_retrieval.json', 'r') as f:
-    data = json.load(f)
+if args.split == 'train':
+    with open(f'released_data/{args.split}.json', 'r') as f:
+        data = json.load(f)
+else:
+    with open(f'released_data/{args.split}.oracle_retrieval.json', 'r') as f:
+        data = json.load(f)
 
 if not args.debug:
     if not args.cell:
