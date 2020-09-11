@@ -1,34 +1,34 @@
 [
   {
-    "question": "What is the full name of the person who is a New York University alumnus associated with ARTS ?",
+    "question": "What is the full name of the person who is a NYU prize winner alumnus associated with ARTS ?",
     "answer-text": "Milton Byron Babbitt",
     "version": "V2",
     "question_id": "b5cfc92181b6511b",
     "question_postag": "WP VBZ DT JJ NN IN DT NN WP VBZ DT NNP NNP NNP RB VBD IN NNP ."
   },
   {
-    "question": "What poet was the person who was a New York University alumnus and a professor a follower of ?",
+    "question": "What poet was the person who was a NYU prize winner alumnus and a professor a follower of ?",
     "answer-text": "Walt Whitman",
     "version": "V2",
     "question_id": "6063c2d9948e657a",
     "question_postag": "WP NN VBD DT NN WP VBD DT NNP NNP NNP NN CC DT NN DT NN IN ."
   },
   {
-    "question": "When did the person who was a New York University alumnus associated with A Free Song die ?",
+    "question": "When did the person who was a NYU prize winner alumnus associated with A Free Song die ?",
     "answer-text": "February 15 , 1992",
     "version": "V2",
     "question_id": "e2f08cd15ac9db09",
     "question_postag": "WRB VBD DT NN WP VBD DT NNP NNP NNP RB VBD IN NNP NNP NNP NN ."
   },
   {
-    "question": "When did the person who was a New York University alumnus who wrote The Greenback Era publish their most recent book ?",
+    "question": "When did the person who was a NYU prize winner alumnus who wrote The Greenback Era publish their most recent book ?",
     "answer-text": "2014",
     "version": "V2",
     "question_id": "4ba52692e307bdd2",
     "question_postag": "WRB VBD DT NN WP VBD DT NNP NNP NNP NN WP VBD DT NNP NNP VB PRP$ JJS JJ NN ."
   },
   {
-    "question": "In what year did the person who was a New York University alumnus with a Master 's in Journalism receive their Pulitzer Prize ?",
+    "question": "In what year did the person who was a NYU prize winner alumnus with a Master 's in Journalism receive their Pulitzer Prize ?",
     "answer-text": "1969",
     "version": "V2",
     "question_id": "206833a4731e7bb9",
@@ -210,28 +210,28 @@
     "question_postag": "WRB JJ NNS VBD VBN IN DT JJ NN NN WDT MD VB PRP$ NN TO CD ."
   },
   {
-    "question": "In what year was a building named in the honor of the person who graduated New York University in 1929 ?",
+    "question": "In what year was a building named in the honor of the research-related alumni who graduated New York University in 1929 ?",
     "answer-text": "1973",
     "version": "V2",
     "question_id": "7c7581db982be668",
     "question_postag": "IN WP NN VBD DT NN VBN IN DT NN IN DT NN WP VBD NNP NNP NNP IN CD ."
   },
   {
-    "question": "What was the occupation of the person who was a New York University alumnus and the victim of an unsolved murder ?",
+    "question": "What was the occupation of the research-related alumni who was a New York University alumnus and the victim of an unsolved murder ?",
     "answer-text": "chemist",
     "version": "V2",
     "question_id": "99858c63d3ecd7bd",
     "question_postag": "WP VBD DT NN IN DT NN WP VBD DT NNP NNP NNP NN CC DT NN IN DT JJ NN ."
   },
   {
-    "question": "When did the person who was a New York University alumnus known for inventing cereals die ?",
+    "question": "When did the research-related alumni who was a New York University alumnus known for inventing cereals die ?",
     "answer-text": "December 14 , 1943",
     "version": "V2",
     "question_id": "0111ecd5b0a1c1bb",
     "question_postag": "WRB VBD DT NN WP VBD DT NNP NNP NNP POS NN IN VBG NNS VB ."
   },
   {
-    "question": "What is the full name of the New York University graduate of 1951 ?",
+    "question": "What is the full name of the New York University research-related alumni of 1951 ?",
     "answer-text": "Cathleen Synge Morawetz",
     "version": "V2",
     "question_id": "fbdaae5d55e62da4",
@@ -469,42 +469,42 @@
     "question_postag": "WP VBP DT NNS VBG DT NN IN DT NN WDT VBD IN CD CD NNS RB ."
   },
   {
-    "question": "What is the Association with RMIT of the person born 23 June 1967 ?",
+    "question": "What is the Association of the RMIT athletics alumni born on 23 June 1967 ?",
     "answer-text": "BAppSci",
     "version": "V2",
     "question_id": "1da484642c481016",
     "question_postag": "WP VBZ DT NNP IN NNP IN DT NN JJ CD NNP CD ."
   },
   {
-    "question": "What is the Association with RMIT of the person born 4 September 1980 ?",
+    "question": "What is the Association of the RMIT athletics alumni born on 4 September 1980 ?",
     "answer-text": "BAppSci ( Human )",
     "version": "V2",
     "question_id": "2af408262523beeb",
     "question_postag": "WP VBZ DT NNP IN NNP IN DT NN VBD CD NNP CD ."
   },
   {
-    "question": "What is the Association with RMIT of the person born 28 November 1972 ?",
+    "question": "What is the Association of the RMIT athletics alumni who was born on 28 November 1972 ?",
     "answer-text": "attended",
     "version": "V2",
     "question_id": "38f56e8d3e325a4a",
     "question_postag": "WP VBZ DT NNP IN NNP IN DT NN VBD CD NNP CD ."
   },
   {
-    "question": "What is the Association with RMIT of the person born 22 June 1931 ?",
+    "question": "What is the Association of the RMIT athletics alumni who was born on 22 June 1931 ?",
     "answer-text": "attended",
     "version": "V2",
     "question_id": "7489641d6011f207",
     "question_postag": "WP VBZ DT NNP IN NNP IN DT NN JJ CD NNP CD ."
   },
   {
-    "question": "What is the Association with RMIT of the person born 16 July 1982 ?",
+    "question": "What is the Association of the RMIT athletics alumni who was born on 16 July 1982 ?",
     "answer-text": "attended",
     "version": "V2",
     "question_id": "8d36e4c23daf2a46",
     "question_postag": "WP VBZ DT NNP IN NNP IN DT NN VBD CD NNP CD ."
   },
   {
-    "question": "What is the Association with RMIT of the person born 19 May 1979 ?",
+    "question": "What is the Association of the RMIT athletics alumni who was born on 19 May 1979 ?",
     "answer-text": "BA ( Advert )",
     "version": "V2",
     "question_id": "f2b3659004995113",
@@ -630,21 +630,21 @@
     "question_postag": "WRB JJ NNS IN CD VBD IN DT NNP NN WDT VBZ NN TO DT NNP NNP NNP ."
   },
   {
-    "question": "How far west is Australia from the homeland of Rod Dixon , winner of the New York City marathon ?",
+    "question": "How far west is Australia from the homeland of Rod Dixon , winner of the New York City marathon in men 's open division ?",
     "answer-text": "2,000 kilometres",
     "version": "V2",
     "question_id": "e0c4bf8e931c0d40",
     "question_postag": "WRB RB JJS VBZ NNP IN DT NN IN NNP NNP , NN IN DT NNP NNP NNP NN ."
   },
   {
-    "question": "What was the profession of the person who finished the New York City marathon the fastest at 2:26:30 ?",
+    "question": "What was the profession of the person who finished the New York City marathon the fastest at 2:26:30 in men 's open division ?",
     "answer-text": "physician",
     "version": "V2",
     "question_id": "814922e512c50771",
     "question_postag": "WP VBD DT NN IN DT NN WP VBD DT NNP NNP NNP VBP DT JJS IN CD ."
   },
   {
-    "question": "What tribal group contained the Latins who lived in the homeland of New York City marathon winner Orlando Pizzolato ?",
+    "question": "What tribal group contained the Latins who lived in the homeland of New York City marathon men 's open division winner Orlando Pizzolato ?",
     "answer-text": "Italic",
     "version": "V2",
     "question_id": "4f0d7abd486e6618",
@@ -1428,28 +1428,28 @@
     "question_postag": "WP VBZ DT JJ NN IN NNP NNP IN DT CD NN IN WDT NNP NNP VBD NNP NNP ."
   },
   {
-    "question": "What is the name of the Philippine shopping mall that is located in the city that has a population of 332,386 people ?",
+    "question": "What is the name of the Calabarzon shopping mall that is located in the city that has a population of 332,386 people ?",
     "answer-text": "SM City Lipa",
     "version": "V3",
     "question_id": "960022483a9d97c4",
     "question_postag": "WP VBZ DT NN IN DT NNP NN NN WDT VBZ VBN IN DT NN WDT VBZ DT NN IN CD NNS ."
   },
   {
-    "question": "What is the name of the Philippine shopping mall that is located in the city that has a population of 322,128 people ?",
+    "question": "What is the name of the Calabarzon shopping mall that is located in the city that has a population of 322,128 people ?",
     "answer-text": "Sta . Lucia East Grand Mall",
     "version": "V3",
     "question_id": "a70cfc60e541827f",
     "question_postag": "WP VBZ DT NN IN DT NNP NN NN WDT VBZ VBN IN DT NN WDT VBZ DT NN IN CD NNS ."
   },
   {
-    "question": "What is the name of the Philippine shopping mall that is located in the city that has a population of 659,019 people ?",
+    "question": "What is the name of the Calabarzon shopping mall that is located in the city that has a population of 659,019 people ?",
     "answer-text": "Robinsons Place Dasmari\u00f1as",
     "version": "V3",
     "question_id": "10d99c32b561ee3f",
     "question_postag": "WP VBZ DT NN IN DT NNP NN NN WDT VBZ VBN IN DT NN WDT VBZ DT NN IN CD NNS ."
   },
   {
-    "question": "What is the name of the Philippine shopping mall that is located in the city that has a population of 329,874 people ?",
+    "question": "What is the name of the Calabarzon shopping mall that is located in the city that has a population of 329,874 people ?",
     "answer-text": "SM City Batangas",
     "version": "V3",
     "question_id": "421b6a1345f5b0b0",
@@ -1631,14 +1631,14 @@
     "question_postag": "WP NN VBD DT JJ NN WP VBD IN DT CD NNP NNPS NNP WP RB VBD DT NN IN NNP NNP VB ."
   },
   {
-    "question": "What was the year that the UCI Mountain Bike World Cup 2nd place finisher was the person who went on to play wheelchair tennis for Canada ?",
+    "question": "What was the year that the UCI Mountain Bike World Cup Four-Cross 2nd place finisher was the person who went on to play wheelchair tennis for Canada ?",
     "answer-text": "2004",
     "version": "V3",
     "question_id": "974387b4aee23823",
     "question_postag": "WP VBD DT NN IN DT NNP NNP NNP NNP NNP CD NN NN VBD DT NN WP VBD IN TO VB NN NN IN NNP ."
   },
   {
-    "question": "When the first place in the UCI Mountain Bike World Cup finisher was a French cyclist who had been born in Dijon , who came in second ?",
+    "question": "When the first place in the UCI Mountain Bike World Cup Four-Cross finisher was a French cyclist who had been born in Dijon , who came in second ?",
     "answer-text": "Sabrina Jonnier",
     "version": "V3",
     "question_id": "dbc2fd97af409c31",
@@ -2422,42 +2422,42 @@
     "question_postag": "DT JJ NN NN VBN IN NNP NNPS WDT VBD VBN IN NNP CD , CD IN NNP NNP NNP VBD IN WP NN ."
   },
   {
-    "question": "What was the year of birth of the Australian Football League number 14 pick of the 2007 AFL draft ?",
+    "question": "What was the year of birth of the Australian Football League number 14 pick of the 2007 AFL rookie draft ?",
     "answer-text": "1985",
     "version": "V2",
     "question_id": "f8e890d86aa62836",
     "question_postag": "WP VBD DT NN IN NN IN DT JJ NNP NNP NN CD NN IN DT CD NNP NN ."
   },
   {
-    "question": "What was the year of birth of the Australian Football League number 5 pick of the 2007 AFL draft ?",
+    "question": "What was the year of birth of the Australian Football League number 5 pick of the 2007 AFL rookie draft ?",
     "answer-text": "1989",
     "version": "V2",
     "question_id": "4a22b4ee7b0b79e2",
     "question_postag": "WP VBD DT NN IN NN IN DT JJ NNP NNP NN CD NN IN DT CD NNP NN ."
   },
   {
-    "question": "What was the year of birth of the Australian Football League number 1 pick of the 2007 AFL draft ?",
+    "question": "What was the year of birth of the Australian Football League number 1 pick of the 2007 AFL rookie draft ?",
     "answer-text": "1988",
     "version": "V2",
     "question_id": "729fd5a520896db4",
     "question_postag": "WP VBD DT NN IN NN IN DT JJ NNP NNP NN CD NN IN DT CD NNP NN ."
   },
   {
-    "question": "What was the year of birth of the Australian Football League number 12 pick of the 2007 AFL draft ?",
+    "question": "What was the year of birth of the Australian Football League number 12 pick of the 2007 AFL rookie draft ?",
     "answer-text": "1989",
     "version": "V2",
     "question_id": "f923777b096db69d",
     "question_postag": "WP VBD DT NN IN NN IN DT JJ NNP NNP NN CD NN IN DT CD NNP NN ."
   },
   {
-    "question": "What was the year of birth of the Australian Football League number 2 pick of the 2007 AFL draft ?",
+    "question": "What was the year of birth of the Australian Football League number 2 pick of the 2007 AFL rookie draft ?",
     "answer-text": "1989",
     "version": "V2",
     "question_id": "a551b39054617e1b",
     "question_postag": "WP VBD DT NN IN NN IN DT JJ NNP NNP NN CD NN IN DT CD NNP NN ."
   },
   {
-    "question": "What was the year of birth of the number 10 pick of the 2007 AFL draft ?",
+    "question": "What was the year of birth of the number 10 pick of the 2007 AFL rookie draft ?",
     "answer-text": "1988",
     "version": "V2",
     "question_id": "ec38a39f9486b0f5",
@@ -2506,70 +2506,70 @@
     "question_postag": "WP JJ NN VBZ NNS CC NNS CC VBZ DT NN NN WDT RB VBZ IN DT NNP NNP NNP ."
   },
   {
-    "question": "What Argentinian stadium , officially named Monumental de la Vicente L\u00f3pez , hosts a team that finished bottom of their group in 1979 ?",
+    "question": "What Argentinian stadium , officially named Monumental de la Vicente L\u00f3pez , hosts a zone D team that finished bottom of their group in 1979 ?",
     "answer-text": "Gigante del Norte",
     "version": "V2",
     "question_id": "a030cc9ec728d948",
     "question_postag": "WP JJ NN , RB VBN NNP FW FW NNP NNP , VBZ DT NN WDT VBD NN IN PRP$ NN IN CD ."
   },
   {
-    "question": "What Argentinian province is surrounded by Paraguay to the northwest and hosts a team that was founded by a long-distance bus company ?",
+    "question": "What Argentinian province is surrounded by Paraguay to the northwest and hosts a zone D team that was founded by a long-distance bus company ?",
     "answer-text": "Misiones",
     "version": "V2",
     "question_id": "f47317db44a50957",
     "question_postag": "WP JJ NN VBZ VBN IN NNP TO DT NN CC VBZ DT NN WDT VBD VBN IN DT NN NN NN ."
   },
   {
-    "question": "What Argentinian team played in the Primera Divisi\u00f3n 6 times and is hosted in a city that surrounds Jujuy ?",
+    "question": "What Argentinian zone D team played in the Primera Divisi\u00f3n 6 times and is hosted in a city that surrounds Jujuy ?",
     "answer-text": "Juventud Antoniana",
     "version": "V2",
     "question_id": "52136045339225ce",
     "question_postag": "WP JJ NN VBD IN DT NNP NNP CD NNS CC VBZ VBN IN DT NN WDT VBZ NNP ."
   },
   {
-    "question": "What Argentinian team currently plays in Torneo Argentino A and is located in a northwest of province of Argentina ?",
+    "question": "What Argentinian zone D team currently plays in Torneo Argentino A and is located in a northwest of province of Argentina ?",
     "answer-text": "Juventud Antoniana",
     "version": "V2",
     "question_id": "bf279fa3effa772b",
     "question_postag": "WP JJ NN RB VBZ IN NNP NNP NNP CC VBZ VBN IN DT NN IN NN IN NNP ."
   },
   {
-    "question": "Which 1999 Spanish Grand Prix constructor is based in Dearborn , Michigan ?",
+    "question": "Which 1999 Spanish Grand Prix Qualifying constructor is based in Dearborn , Michigan ?",
     "answer-text": "Ford",
     "version": "V2",
     "question_id": "e92744581a2849bb",
     "question_postag": "JJ CD JJ NNP NNP NN VBZ VBN IN NNP , NNP ."
   },
   {
-    "question": "Which 1999 Spanish Grand Prix constructor pulled its sponsorship from Formula One in 2006 ?",
+    "question": "Which 1999 Spanish Grand Prix Qualifying constructor pulled its sponsorship from Formula One in 2006 ?",
     "answer-text": "BAR",
     "version": "V2",
     "question_id": "e71024d34e176ac9",
     "question_postag": "JJ CD JJ NNP NNP NN VBD PRP$ NN IN NNP CD IN CD ."
   },
   {
-    "question": "Who finished as runner up in the 1999 World Drivers ' Championship ?",
+    "question": "Who finished as runner up in the 1999 World Drivers ' Championship Qualifying ?",
     "answer-text": "Eddie Irvine",
     "version": "V2",
     "question_id": "ae97a365da4af8f2",
     "question_postag": "WP VBD IN NN IN IN DT CD NNP NNP POS NNP ."
   },
   {
-    "question": "Which 1999 Spanish Grand Prix constructor supplied Brawn in 2009 ?",
+    "question": "Which 1999 Spanish Grand Prix Qualifying constructor supplied Brawn in 2009 ?",
     "answer-text": "Mercedes",
     "version": "V2",
     "question_id": "b1222b7ddf5e7c2a",
     "question_postag": "JJ CD JJ NNP NNP NN VBD NNP IN CD ."
   },
   {
-    "question": "How many seasons did the 1999 Spanish Grand Prix driver , in 15th position , complete in Formula One ?",
+    "question": "How many seasons did the 1999 Spanish Grand Prix Qualifying driver , in 15th position , complete in Formula One ?",
     "answer-text": "10",
     "version": "V2",
     "question_id": "f43fe9156bfba2a9",
     "question_postag": "WRB JJ NNS VBD DT CD JJ NNP NNP NN , IN CD NN , JJ IN NNP CD ."
   },
   {
-    "question": "How many consecutive Formula One World Championships did 1999 Spanish Grand Prix driver Michael Schumacher win ?",
+    "question": "How many consecutive Formula One World Championships did 1999 Spanish Grand Prix Qualifying driver Michael Schumacher win ?",
     "answer-text": "5",
     "version": "V2",
     "question_id": "71aef558c8e1fcd6",
@@ -3122,35 +3122,35 @@
     "question_postag": "WP VBZ DT JJ NN IN DT NN IN NNP WDT VBZ DT JJ NN NN NN ."
   },
   {
-    "question": "What is the jersey number of the 2011 D.C. United season player who is a co-founder of talent representation firm , Felkrem , LLC ?",
+    "question": "What is the jersey number of the 2011 D.C. United season transfer player who is a co-founder of talent representation firm , Felkrem , LLC ?",
     "answer-text": "21",
     "version": "V2",
     "question_id": "bbbee0557987cb45",
     "question_postag": "WP VBZ DT JJ NN IN DT CD NNP NNP NN NN WP VBZ DT NN IN NN NN NN , NNP , NNP ."
   },
   {
-    "question": "What is the jersey number of the 2011 D.C. United season player who is currently the head coach of Austin FC ?",
+    "question": "What is the jersey number of the 2011 D.C. United season transfer player who is currently the head coach of Austin FC ?",
     "answer-text": "16",
     "version": "V2",
     "question_id": "304e61035fdc4d01",
     "question_postag": "WP VBZ DT JJ NN IN DT CD NNP NNP NN NN WP VBZ RB DT NN NN IN NNP NNP ."
   },
   {
-    "question": "What is the jersey number of the 2011 D.C. United season player who was born on May 28 , 1983 in Sacramento , California ?",
+    "question": "What is the jersey number of the 2011 D.C. United season transfer player who was born on May 28 , 1983 in Sacramento , California ?",
     "answer-text": "1",
     "version": "V2",
     "question_id": "5a767521722371da",
     "question_postag": "WP VBZ DT JJ NN IN DT CD NNP NNP NN NN WP VBD VBN IN NNP CD , CD IN NNP , NNP ."
   },
   {
-    "question": "What is the jersey number of the 2011 D.C. United season player who last played for New York City FC in Major League Soccer ( MLS ) ?",
+    "question": "What is the jersey number of the 2011 D.C. United season transfer player who last played for New York City FC in Major League Soccer ( MLS ) ?",
     "answer-text": "15",
     "version": "V2",
     "question_id": "af4f65d71fcb8b5f",
     "question_postag": "WP VBZ DT JJ NN IN DT CD NNP NNP NN NN WP JJ VBD IN NNP NNP NNP NNP IN NNP NNP NNP ( NNP ) ."
   },
   {
-    "question": "What is the jersey number of the 2011 D.C. United season player who was born on March 30 , 1981 in Plumtree ?",
+    "question": "What is the jersey number of the 2011 D.C. United season transfer player who was born on March 30 , 1981 in Plumtree ?",
     "answer-text": "11",
     "version": "V2",
     "question_id": "caedf9b3f40b9c5f",
@@ -3458,28 +3458,28 @@
     "question_postag": "WRB VBD DT NN IN DT NNP NNP NNP NNP VBD VBN IN NNP NN IN DT CD NNP NNP ."
   },
   {
-    "question": "What is the notability of the Royal Melbourne Institute of Technology person who lives nocturnally ?",
+    "question": "What is the notability of the RMIT alumni in drawing and painting who lives nocturnally ?",
     "answer-text": "artist",
     "version": "V2",
     "question_id": "f616565a4d3a5d4f",
     "question_postag": "WP VBZ DT NN IN DT NNP NNP NNP IN NNP NN WP VBZ RB ."
   },
   {
-    "question": "Who is the Royal Melbourne Institute of Technology person with the notability that is a subsidiary of Warner Bros . Global Brands and Experiences ?",
+    "question": "Who is the Royal Melbourne Institute of Technology alumni in drawing and painting with the notability that is a subsidiary of Warner Bros . Global Brands and Experiences ?",
     "answer-text": "David de Vries",
     "version": "V2",
     "question_id": "8f03e3a0fbb2deb4",
     "question_postag": "WP VBZ DT NNP NNP NNP IN NNP NN IN DT NN WDT VBZ DT NN IN NNP NNP . NNP NNPS CC NNS ."
   },
   {
-    "question": "What is the notability of the Royal Melbourne Institute of Technology person who was born in Victoria on 26 August 1919 ?",
+    "question": "What is the notability of the RMIT alumni in drawing and painting who was born in Victoria on 26 August 1919 ?",
     "answer-text": "abstract artist , developed the Lindsay Edwards Fine Art Collection at RMIT",
     "version": "V2",
     "question_id": "1cbb4172e0e24ada",
     "question_postag": "WP VBZ DT NN IN DT NNP NNP NNP IN NNP NN WP VBD VBN IN NNP IN CD NNP CD ."
   },
   {
-    "question": "What is the Association with RMIT of the Royal Melbourne Institute of Technology person whose notability was founded in 1887 ?",
+    "question": "What is the Association of the RMIT alumni in drawing and painting whose notability was founded in 1887 ?",
     "answer-text": "BA ( Painting )",
     "version": "V2",
     "question_id": "802ac8f43f36c301",
@@ -3514,28 +3514,28 @@
     "question_postag": "IN WDT NN VBD DT NN IN DT CD NNP FW NNP VBD DT NNP NNP NNP NNP NNP NNP NN NNP IN DT JJ NN ."
   },
   {
-    "question": "How many people live in the nation where competitor at 2004 Aerobic Gymnastics World Championships , Giovanna Lecis is from ?",
+    "question": "How many people live in the nation where female competitor at 2004 Aerobic Gymnastics World Championships , Giovanna Lecis is from ?",
     "answer-text": "60 million",
     "version": "V2",
     "question_id": "616f7122818e0b43",
     "question_postag": "WRB JJ NNS VBP IN DT NN WRB NN IN CD NNP NNP NNP NNP , NNP NNP VBZ IN ."
   },
   {
-    "question": "How many people live in the nation where the second-ranked gymnast at 2004 Aerobic Gymnastics World Championships is from ?",
+    "question": "How many people live in the nation where the second-ranked female gymnast at 2004 Aerobic Gymnastics World Championships is from ?",
     "answer-text": "60 million",
     "version": "V2",
     "question_id": "3329267ae3d7ea2e",
     "question_postag": "WRB JJ NNS VBP IN DT NN WRB DT JJ NN IN CD NNP NNP NNP NNP VBZ IN ."
   },
   {
-    "question": "What ocean borders the country , which gymnast scored 19.1 points at 2004 Aerobic Gymnastics World Championships ?",
+    "question": "What ocean borders the country of the female gymnast who scored 19.1 points at 2004 Aerobic Gymnastics World Championships ?",
     "answer-text": "Atlantic Ocean",
     "version": "V2",
     "question_id": "1142ed40819cf389",
     "question_postag": "WP VBZ VBZ DT NN , WDT VBP VBD CD NNS IN CD NNP NNP NNP NNP ."
   },
   {
-    "question": "How many square km are in the country that gave the gymnast that had the most points at 2004 Aerobic Gymnastics World Championships ?",
+    "question": "How many square km are in the country of the female gymnast that had the most points at 2004 Aerobic Gymnastics World Championships ?",
     "answer-text": "268,000",
     "version": "V2",
     "question_id": "0fbab31a8ddfcab4",
@@ -3780,14 +3780,14 @@
     "question_postag": "JJ NN VBZ DT JJ VBD JJ NN WP VBD IN NNP NNP IN CD , CC VBD TO VB IN DT NN WP$ JJS NN VBZ NNP ."
   },
   {
-    "question": "In what year is the Most Recent Win for the VFL/AFL team nicknamed `` The Cats `` ?",
+    "question": "In what year is the Most Recent Win for the VFL/AFL team ( with most pre-season cup wins between 1988\u20132013 ) nicknamed `` The Cats `` ?",
     "answer-text": "2009",
     "version": "V2",
     "question_id": "b416458f10e8f32a",
     "question_postag": "IN WP NN VBZ DT RBS JJ NNP IN DT NNP NN VBD `` DT NNPS `` ."
   },
   {
-    "question": "How many wins does the VFL/AFL team founded on May 12 1870 have ?",
+    "question": "How many wins does the VFL/AFL team ( with most pre-season cup wins between 1988\u20132013 ) founded on May 12 1870 have ?",
     "answer-text": "2",
     "version": "V2",
     "question_id": "022b2ad1f6e30951",
@@ -3801,21 +3801,21 @@
     "question_postag": "WP VBZ DT NN IN DT NN POS JJS NN NN NN ."
   },
   {
-    "question": "The VFL/AFL team with the most recent win was formed in what year ?",
+    "question": "The VFL/AFL team ( with most pre-season cup wins between 1988\u20132013 ) with the most recent win was formed in what year ?",
     "answer-text": "1996",
     "version": "V2",
     "question_id": "b51d6149342bd315",
     "question_postag": "DT NNP NN IN DT RBS JJ NN VBD VBN IN WP NN ."
   },
   {
-    "question": "How many VFL/AFL Grand Finals wins does the team with the oldest song in the AFL have ?",
+    "question": "How many VFL/AFL Grand Finals wins does the team ( with most pre-season cup wins between 1988\u20132013 ) with the oldest song in the AFL have ?",
     "answer-text": "15",
     "version": "V2",
     "question_id": "b2546e3300b49de6",
     "question_postag": "WRB JJ NNP NNP NNP VBZ VBZ DT NN IN DT JJS NN IN DT NNP VB ."
   },
   {
-    "question": "Which VFL/AFL team with 2 wins has a grey kangaroo for a mascot ?",
+    "question": "Which VFL/AFL team ( with most pre-season cup wins between 1988\u20132013 ) with 2 wins has a grey kangaroo for a mascot ?",
     "answer-text": "North Melbourne",
     "version": "V2",
     "question_id": "165ae9481e6728ba",
@@ -3857,35 +3857,35 @@
     "question_postag": "WRB JJ NNS VBD DT JJ NNP NNP NNP NNP NNP POS NNP NNP IN DT NNP NN NNP RB ."
   },
   {
-    "question": "Which Royal Melbourne Institute of Technology person is the oldest ?",
+    "question": "Which Royal Melbourne Institute of Technology alumni in Fashion industry is the oldest ?",
     "answer-text": "Graham Bennett",
     "version": "V2",
     "question_id": "47ef1a8b097a1653",
     "question_postag": "WDT NNP NNP NNP IN NNP NN VBZ DT JJS ."
   },
   {
-    "question": "Who is the Royal Melbourne Institute of Technology person who won two Academy Awards for his work on the 1967 film Camelot ?",
+    "question": "Who is the Royal Melbourne Institute of Technology alumni who won two Academy Awards for his work on the 1967 film Camelot ?",
     "answer-text": "Graham Bennett",
     "version": "V2",
     "question_id": "30a4a9a588c394a9",
     "question_postag": "WP VBZ DT NNP NNP NNP IN NNP NN WP VBD CD NNP NNS IN PRP$ NN IN DT CD NN NNP ."
   },
   {
-    "question": "What is the notability of the Royal Melbourne Institute of Technology person who was born on 26 April 1943 ?",
+    "question": "What is the notability of the Royal Melbourne Institute of Technology alumni in fashion industry who was born on 26 April 1943 ?",
     "answer-text": "fashion designer and businesswoman",
     "version": "V2",
     "question_id": "f784d013f9b05ea6",
     "question_postag": "WP VBZ DT NN IN DT NNP NNP NNP IN NNP NN WP VBD VBN IN CD NNP CD ."
   },
   {
-    "question": "What is the Association with RMIT of the person who has traveled throughout outback Australia , living and working with Aboriginal communities ?",
+    "question": "What is the Association of RMIT alumni in fashion industry who has traveled throughout outback Australia , living and working with Aboriginal communities ?",
     "answer-text": "Dip Fashion Design [ EMC ]",
     "version": "V2",
     "question_id": "4cf2dd1d7e705480",
     "question_postag": "WP VBZ DT NNP IN NNP IN DT NN WP VBZ VBN IN NN NNP , NN CC VBG IN NNP NNS ."
   },
   {
-    "question": "Who is the Royal Melbourne Institute of Technology person who was born on October 2 , 1948 ?",
+    "question": "Who is the Royal Melbourne Institute of Technology alumni in fashion industry who was born on October 2 , 1948 ?",
     "answer-text": "Toni Mati\u010devski",
     "version": "V2",
     "question_id": "5fd3b43ea2aa82ba",
@@ -4046,7 +4046,7 @@
     "question_postag": "WRB VBD DT NNP JJ NN NN VBP JJ NN IN DT NNP NNP NNP NNP NNP ."
   },
   {
-    "question": "What year did the winner of the UCI Mountain Bike World Cup release an iPhone game ?",
+    "question": "What year did the winner of the UCI Mountain Bike World Cup DH release an iPhone game ?",
     "answer-text": "2006",
     "version": "V2",
     "question_id": "8e0b650b150fdc2e",
@@ -4067,7 +4067,7 @@
     "question_postag": "WP VBD IN JJ DT NN IN NNP VBD DT NN IN DT NNP NNP NNP NNP NNP ."
   },
   {
-    "question": "In what year was UCI Mountain Bike World Cup winner also an accomplished luger ?",
+    "question": "In what year was UCI Mountain Bike World Cup DH winner also an accomplished luger ?",
     "answer-text": "1997",
     "version": "V2",
     "question_id": "d13272b311ee96c5",
@@ -4480,7 +4480,7 @@
     "question_postag": "WRB VBD DT JJS JJ NNP NNP NNP NN VBN ."
   },
   {
-    "question": "What is the 2011 book of the celebrity eliminated from season 5 of Dancing with the Stars in america on October 23 , 2007 ?",
+    "question": "What is the 2011 book of the couple celebrity eliminated from season 5 of Dancing with the Stars in america on October 23 , 2007 ?",
     "answer-text": "How to Win at the Sport of Business",
     "version": "V2",
     "question_id": "fb1c4745962c1a5d",
@@ -4501,14 +4501,14 @@
     "question_postag": "JJ NN VBD DT JJ NN IN NNP NNP IN NN CD IN DT JJ NN IN VBG IN DT NNP VBP DT JJ NN IN ."
   },
   {
-    "question": "What is the best known song sung by the celebrity paired with Jonathan Roberts during the season 5 of Dancing with the Stars in america ?",
+    "question": "What is the best known song sung by the couple celebrity paired with Jonathan Roberts during the season 5 of Dancing with the Stars in america ?",
     "answer-text": "Paper Roses",
     "version": "V2",
     "question_id": "0190463339d6f441",
     "question_postag": "WP VBZ DT JJS VBN NN NN IN DT NN VBN IN NNP NNP IN DT NN CD IN VBG IN DT NNP IN NN ."
   },
   {
-    "question": "Who did the celebrity paired with Derek Hough during season 5 of Dancing with the Stars in america play on What I Like About You ?",
+    "question": "Who did the couple celebrity paired with Derek Hough during season 5 of Dancing with the Stars in america play on What I Like About You ?",
     "answer-text": "Val Tyler",
     "version": "V2",
     "question_id": "f86bcd613ab2d582",
@@ -4753,14 +4753,14 @@
     "question_postag": "WP NN VBD DT NNP JJ NN WP VBD IN DT JJ NN IN DT CD NNP NNP ."
   },
   {
-    "question": "What is the format of the WLIR station with the lowest frequency ?",
+    "question": "What is the format of the WLIR station with the lowest frequency between 1991\u20131996 ?",
     "answer-text": "Spanish language Adult contemporary format",
     "version": "V2",
     "question_id": "b0ffb0ad36f81e81",
     "question_postag": "WP VBZ DT NN IN DT NNP NN IN DT JJS NN ."
   },
   {
-    "question": "How many people live in the WLIR city that is located in Illinois ?",
+    "question": "How many people live in the WLIR city between 1991\u20131996 that is located in Illinois ?",
     "answer-text": "5,724",
     "version": "V2",
     "question_id": "a75e2c9dea9ab011",
@@ -4774,14 +4774,14 @@
     "question_postag": "RB WRB RB VBZ DT NN , WDT NNP CC NNP NNS TO , VBN IN NN NNP ."
   },
   {
-    "question": "When was the city where 96.7 WLIR broadcasts the capital of its state ?",
+    "question": "When was the city where 96.7 WLIR underground network in 1991\u20131996 broadcasts the capital of its state ?",
     "answer-text": "1797",
     "version": "V2",
     "question_id": "3701c74111410bba",
     "question_postag": "WRB VBD DT NN WRB CD NNP VBZ DT NN IN PRP$ NN ."
   },
   {
-    "question": "What genre of underground music is played at the Memphis WLIR station ?",
+    "question": "What genre of underground music is played at the Memphis WLIR underground network station in 1991\u20131996 ?",
     "answer-text": "Hip-Hop-intense mainstream urban",
     "version": "V2",
     "question_id": "850709d3990992df",
@@ -4977,35 +4977,35 @@
     "question_postag": "DT NN IN DT NNP NN NN IN DT NNP NNP NNP VBD PRP$ NN IN WDT NN ."
   },
   {
-    "question": "What is the Association with RMIT of the person who retired from professional football in August 2011 due to injury ?",
+    "question": "What is the Association of the RMIT athletics alumni who retired from professional football in August 2011 due to injury ?",
     "answer-text": "current student",
     "version": "V2",
     "question_id": "0f2a7691b5065d48",
     "question_postag": "WP VBZ DT NNP IN NNP IN DT NN WP VBD IN JJ NN IN NNP CD JJ TO VB ."
   },
   {
-    "question": "What is the Association with RMIT of the person who became a coach in the VFA for both Coburg and Brunswick ?",
+    "question": "What is the Association of the RMIT athletics alumni who became a coach in the VFA for both Coburg and Brunswick ?",
     "answer-text": "attended",
     "version": "V2",
     "question_id": "1e320f22ec163e33",
     "question_postag": "WP VBZ DT NNP IN NNP IN DT NN WP VBD DT NN IN DT NNP IN DT NNP CC NNP ."
   },
   {
-    "question": "What is the notability of the RMIT alumni who was born on 2 June 1981 ?",
+    "question": "What is the notability of the RMIT athletics alumni who was born on 2 June 1981 ?",
     "answer-text": "current player with Essendon Bombers",
     "version": "V2",
     "question_id": "599969c7ff36a5df",
     "question_postag": "WP VBZ DT NN IN DT NNP NNS WP VBD VBN IN CD NNP CD ."
   },
   {
-    "question": "Who is the RMIT alumni with the notability that won premierships in 1909 , 1918 and 1933 before experiencing a 72-year premiership drought ?",
+    "question": "Who is the RMIT athletics alumni with the notability that won premierships in 1909 , 1918 and 1933 before experiencing a 72-year premiership drought ?",
     "answer-text": "Bob Skilton",
     "version": "V2",
     "question_id": "4a0512489970bdf9",
     "question_postag": "WP VBZ DT NNP NNS IN DT NN WDT VBD NNS IN CD , CD CC CD IN VBG DT JJ NN NN ."
   },
   {
-    "question": "Who is the RMIT alumni with the notability that is coached by Damien Hardwick and its current captain is Trent Cotchin ?",
+    "question": "Who is the RMIT athletics alumni with the notability that is coached by Damien Hardwick and its current captain is Trent Cotchin ?",
     "answer-text": "Roger Dean",
     "version": "V2",
     "question_id": "649e54b24d5e8cde",
@@ -5299,42 +5299,42 @@
     "question_postag": "WP NN VBZ DT NN VBN IN CD IN NNP VBN IN ."
   },
   {
-    "question": "What is the Association with RMIT of the Royal Melbourne Institute of Technology person born 13 June 1946 ?",
+    "question": "What is the Association of RMIT alumni working in science and technology born on 13 June 1946 ?",
     "answer-text": "former faculty",
     "version": "V2",
     "question_id": "b6297d157d26f7f3",
     "question_postag": "WP VBZ DT NNP IN NNP IN DT NNP NNP NNP IN NNP NN VBD CD NNP CD ."
   },
   {
-    "question": "What is the Association with RMIT of the Royal Melbourne Institute of Technology person born 31 December 1971 ?",
+    "question": "What is the Association of RMIT alumni working in science and technology born on 31 December 1971 ?",
     "answer-text": "B Sci ( AppPhysics ) ( Hon ) , PhD",
     "version": "V2",
     "question_id": "a6e9bef0fac7273c",
     "question_postag": "WP VBZ DT NNP IN NNP IN DT NNP NNP NNP IN NNP NN VBD CD NNP CD ."
   },
   {
-    "question": "What is the Association with RMIT of the Royal Melbourne Institute of Technology person born 26 October 1964 ?",
+    "question": "What is the Association of RMIT alumni working in science and technology born on 26 October 1964 ?",
     "answer-text": "current Vice-Chancellor",
     "version": "V2",
     "question_id": "683b59f74e09d7ce",
     "question_postag": "WP VBZ DT NNP IN NNP IN DT NNP NNP NNP IN NNP NN VBD CD NNP CD ."
   },
   {
-    "question": "What is the Association with RMIT of the Royal Melbourne Institute of Technology person born 11 May 1910 ?",
+    "question": "What is the Association of RMIT alumni working in science and technology born on 11 May 1910 ?",
     "answer-text": "science classes",
     "version": "V2",
     "question_id": "288a151b81173a52",
     "question_postag": "WP VBZ DT NNP IN NNP IN DT NNP NNP NNP IN NNP NN VBD CD NNP CD ."
   },
   {
-    "question": "What is the Association with RMIT of the Royal Melbourne Institute of Technology person born August 30 , 1907 ?",
+    "question": "What is the Association of RMIT alumni working in science and technology born on August 30 , 1907 ?",
     "answer-text": "Dip Civil Eng , Elec Eng , Mech Eng [ WMC ]",
     "version": "V2",
     "question_id": "074b2b6d3ba2fff2",
     "question_postag": "WP VBZ DT NNP IN NNP IN DT NNP NNP NNP IN NNP NN VBD NNP CD , CD ."
   },
   {
-    "question": "For how many years did the Royal Melbourne Institute of Technology person that served as vice chancellor serve in his position ?",
+    "question": "For how many years did the RMIT alumni in science and technology served as vice chancellor ?",
     "answer-text": "6",
     "version": "V2",
     "question_id": "5b0ff0d155792d22",
@@ -5383,56 +5383,56 @@
     "question_postag": "WP NN NN VBD DT CD NN IN DT NNP NNP NNP IN NNP NNP NNP NNP NNP RB VB IN ."
   },
   {
-    "question": "Which lake is the city where the women 's 100 metres butterfly was swam in 55.46 by Felicity Galvez situated on ?",
+    "question": "Which lake is the city where the women 's 100 metres short course butterfly was swam in 55.46 by Felicity Galvez situated on ?",
     "answer-text": "Lake M\u00e4laren",
     "version": "V2",
     "question_id": "3fd0062f85a71280",
     "question_postag": "JJ NN VBZ DT NN WRB DT NNS POS CD NNS NN VBD VBN IN CD IN NNP NNP VBD IN ."
   },
   {
-    "question": "What medal did the swimmer who swam the women 's 100 metres butterfly in 58.77 on February 18 , 1995 win in the 1996 Olympics ?",
+    "question": "What medal did the swimmer who swam the women 's 100 metres short course butterfly in 58.77 on February 18 , 1995 win in the 1996 Olympics ?",
     "answer-text": "silver",
     "version": "V2",
     "question_id": "4b85a74b167d1938",
     "question_postag": "WP NN VBD DT NN WP VBZ DT NNS POS CD NNS VBP IN CD IN NNP CD , CD NN IN DT CD NNPS ."
   },
   {
-    "question": "Where did the swimmer who swam the women 's 100 metres butterfly in 58.68 on December 2 , 1995 attend college ?",
+    "question": "Where did the swimmer who swam the women 's 100 metres short course butterfly in 58.68 on December 2 , 1995 attend college ?",
     "answer-text": "University of Nevada",
     "version": "V2",
     "question_id": "6190a09cbd164fcb",
     "question_postag": "WRB VBD DT NN WP VBZ DT NNS POS CD NNS VBP IN CD IN NNP CD , CD NN NN ."
   },
   {
-    "question": "What are the former names of the city where the women 's 100 metres butterfly was swam in 55.05 by Diane Bui Duyet ?",
+    "question": "What are the former names of the city where the women 's 100 metres short course butterfly was swam in 55.05 by Diane Bui Duyet ?",
     "answer-text": "Byzantium and Constantinople",
     "version": "V2",
     "question_id": "d77fa287139596f1",
     "question_postag": "WP VBP DT JJ NNS IN DT NN WRB DT NNS POS CD NNS NN VBD VBN IN CD IN NNP NNP NNP ."
   },
   {
-    "question": "Which territorty is the city where the women 's 100 metres butterfly was swam in 55.74 by Libby Trickett in ?",
+    "question": "Which territorty is the city where the women 's 100 metres short course butterfly was swam in 55.74 by Libby Trickett in ?",
     "answer-text": "Australian Capital Territory",
     "version": "V2",
     "question_id": "f3a8a7346e4b9370",
     "question_postag": "NNP NN VBZ DT NN WRB DT NNS POS CD NNS NN VBD VBN IN CD IN NNP NNP IN ."
   },
   {
-    "question": "What is the profession of the swimmer who swam the women 's 100 metres butterfly in 56.56 on March 18 , 2000 ?",
+    "question": "What is the profession of the swimmer who swam the women 's 100 metres short course butterfly in 56.56 on March 18 , 2000 ?",
     "answer-text": "anesthesiologist",
     "version": "V2",
     "question_id": "f7a2b8883c28f990",
     "question_postag": "WP VBZ DT NN IN DT NN WP VBZ DT NNS POS CD NNS VBP IN CD IN NNP CD , CD ."
   },
   {
-    "question": "The youngest person to graduate New York University with an M.F.A graduated in which year ?",
+    "question": "The youngest person to graduate with titles in professors , researchers and scientists of New York University with an M.F.A graduated in which year ?",
     "answer-text": "2003",
     "version": "V2",
     "question_id": "e16b0e32e1881a09",
     "question_postag": "DT JJS NN TO VB NNP NNP NNP IN DT NNP VBN IN WDT NN ."
   },
   {
-    "question": "the person noted for serial and electronic music graduated New York University in what year ?",
+    "question": "the person with titles in professors , researchers and scientists noted for serial and electronic music graduated New York University in what year ?",
     "answer-text": "1935",
     "version": "V2",
     "question_id": "705ee64b038977f1",
@@ -5446,7 +5446,7 @@
     "question_postag": "WP VBD DT JJS NN IN NN IN DT CD NNP NNP ."
   },
   {
-    "question": "The person named a named a MacArthur Fellow for 2016 went to which school ?",
+    "question": "The person with titles in professors , researchers and scientists named a named a MacArthur Fellow for 2016 went to which school ?",
     "answer-text": "TSOA",
     "version": "V2",
     "question_id": "a3fe331c1b477870",
@@ -5460,42 +5460,42 @@
     "question_postag": "DT JJS NNP NNP VBD NNP NNP NNP IN WDT NN ."
   },
   {
-    "question": "The founder of Sustainable South Bronx went to which school ?",
+    "question": "The founder of Sustainable South Bronx went to which school in NYU ?",
     "answer-text": "TSOA",
     "version": "V2",
     "question_id": "d72d8b06df0be344",
     "question_postag": "DT NN IN NNP NNP NNP VBD TO WDT NN ."
   },
   {
-    "question": "In the stage 4 event in 1987 , the competition replaced what other event ?",
+    "question": "In the stage 4 event in 1987 competed by Andrzej Mierzejewski , the competition replaced what other event ?",
     "answer-text": "Six Days Race",
     "version": "V2",
     "question_id": "12800375d843b1eb",
     "question_postag": "IN DT NN CD NN IN CD , DT NN VBD WP JJ NN ."
   },
   {
-    "question": "The Tour of Austria took place in a country that is composed of how many federated states ?",
+    "question": "The Tour of Austria which Andrzej Mierzejewski pariticipated , took place in a country that is composed of how many federated states ?",
     "answer-text": "nine",
     "version": "V2",
     "question_id": "3af174334bb2bdf4",
     "question_postag": "DT NNP IN NNP VBD NN IN DT NN WDT VBZ VBN IN WRB JJ VBN NNS ."
   },
   {
-    "question": "The Stage 8 competition in 1984 took place in a location that has what population ?",
+    "question": "The Stage 8 competition by Andrzej Mierzejewski in 1984 took place in a location that has what population ?",
     "answer-text": "205,726",
     "version": "V2",
     "question_id": "a074e0caedf18110",
     "question_postag": "DT NNP CD NN IN CD VBD NN IN DT NN WDT VBZ WP NN ."
   },
   {
-    "question": "The stage 2 event of 1985 took place in a country that had what official name ?",
+    "question": "The stage 2 event which Andrzej Mierzejewski participated in 1985 took place in a country that had what official name ?",
     "answer-text": "Union of Soviet Socialist Republics",
     "version": "V2",
     "question_id": "d88b757c961f503a",
     "question_postag": "DT NN CD NN IN CD VBD NN IN DT NN WDT VBD WP JJ NN ."
   },
   {
-    "question": "The stage 3 event in 1982 took place in a country that was founded in what year ?",
+    "question": "The stage 3 event whichAndrzej Mierzejewski participated in 1982 took place in a country that was founded in what year ?",
     "answer-text": "1025",
     "version": "V2",
     "question_id": "fc47368ca54fac39",
@@ -5894,56 +5894,56 @@
     "question_postag": "IN NNS IN DT NN IN DT CD CC CD NNS VBD VBN IN IN DT CD NNP NN , WDT CD VBD RB ."
   },
   {
-    "question": "What is the highest round the rider who was second place in the 2011 UCI Mountain Bike World Cup reached in the Olympics ?",
+    "question": "What is the highest round the rider who was second place in the Men 's 4X in 2011 UCI Mountain Bike World Cup reached in the Olympics ?",
     "answer-text": "semi-finals",
     "version": "V2",
     "question_id": "14b5ba2486ddde65",
     "question_postag": "WP VBZ DT JJS NN DT NN WP VBD JJ NN IN DT CD NNP NNP NNP NNP NNP VBD IN DT NNPS ."
   },
   {
-    "question": "What year did the rider who was first place in the 2004 UCI Mountain Bike World Cup turn professional ?",
+    "question": "What year did the rider who was first place in the Men 's 4X in 2004 UCI Mountain Bike World Cup turn professional ?",
     "answer-text": "1995",
     "version": "V2",
     "question_id": "22d9de2673fbb668",
     "question_postag": "WP NN VBD DT NN WP VBD JJ NN IN DT CD NNP NNP NNP NNP NNP VBP JJ ."
   },
   {
-    "question": "What was the first nickname of the rider who was first place in the 2003 UCI Mountain Bike World Cup ?",
+    "question": "What was the first nickname of the rider who was first place in the Men 's 4X in 2003 UCI Mountain Bike World Cup ?",
     "answer-text": "The Golden Child",
     "version": "V2",
     "question_id": "37c31515054c872a",
     "question_postag": "WP VBD DT JJ NN IN DT NN WP VBD JJ NN IN DT CD NNP NNP NNP NNP NNP ."
   },
   {
-    "question": "What team is the rider who was second place in the 2009 UCI Mountain Bike World Cup manager of ?",
+    "question": "What team is the rider who was second place in the Men 's 4X of 2009 UCI Mountain Bike World Cup manager of ?",
     "answer-text": "Radon Flow Team",
     "version": "V2",
     "question_id": "5b855b252160f4b8",
     "question_postag": "WP NN VBZ DT NN WP VBD JJ NN IN DT CD NNP NNP NNP NNP NNP NN IN ."
   },
   {
-    "question": "Which national team did the rider who was second place in the 2007 UCI Mountain Bike World Cup ride for in the Olympics ?",
+    "question": "Which national team did the rider who was second place in the 2007 UCI Mountain Bike World Cup Men 's 4X ride for in the Olympics ?",
     "answer-text": "Czech",
     "version": "V2",
     "question_id": "8abd0b49e612b0dc",
     "question_postag": "NNP JJ NN VBD DT NN WP VBD JJ NN IN DT CD NNP NNP NNP NNP NNP NN IN IN DT NNPS ."
   },
   {
-    "question": "What is the book co-written by the rider who was first place in the 2002 UCI Mountain Bike World Cup ?",
+    "question": "What is the book co-written by the rider who was first place in the Men 's 4X of 2002 UCI Mountain Bike World Cup ?",
     "answer-text": "Mastering Mountain Bike Skills",
     "version": "V2",
     "question_id": "9c6b389724503b29",
     "question_postag": "WP VBZ DT NN JJ IN DT NN WP VBD JJ NN IN DT CD NNP NNP NNP NNP NNP ."
   },
   {
-    "question": "What is the notability of the Royal Melbourne Institute of Technology person with an estimated net worth of $ 880 million in 2013 ?",
+    "question": "What is the notability in Business and society of the Royal Melbourne Institute of Technology person with an estimated net worth of $ 880 million in 2013 ?",
     "answer-text": "Toll Holdings",
     "version": "V2",
     "question_id": "7a66e010172589c1",
     "question_postag": "WP VBZ DT NN IN DT NNP NNP NNP IN NNP NN IN DT JJ JJ NN IN $ CD CD IN CD ."
   },
   {
-    "question": "Which former faculty member of the Royal Melbourne Institute of Technology is the youngest ?",
+    "question": "Which former faculty member in Business and society of the Royal Melbourne Institute of Technology is the youngest ?",
     "answer-text": "Andrew Demetriou",
     "version": "V2",
     "question_id": "c7167cf22d0a11ea",
@@ -8246,28 +8246,28 @@
     "question_postag": "NNP NN VBD IN DT NN IN NNP NNP WDT VBD VBG IN DT JJ NN NN IN WP NNS ."
   },
   {
-    "question": "Which town is near by A949 and B9168 roads and acceptable for small plane ?",
+    "question": "Which northern Presbytery town is near by A949 and B9168 roads and acceptable for small plane ?",
     "answer-text": "Dornoch",
     "version": "v4",
     "question_id": "106ad8b20bec104c",
     "question_postag": "JJ NN VBZ IN IN NNP CC NNP NNS CC JJ IN JJ NN ."
   },
   {
-    "question": "What is the town that locates in small village near by Scotch council area ?",
+    "question": "What is the northern Presbytery town that locates in small village near by Scotch council area ?",
     "answer-text": "Achnagarron",
     "version": "v4",
     "question_id": "ac58ea8cbcbccef0",
     "question_postag": "WP VBZ DT NN WDT VBZ IN JJ NN IN IN NNP NN NN ."
   },
   {
-    "question": "What country did the silver medalist of the \u221249 kg ( fly ) at the 2010 European Taekwondo Championships represent ?",
+    "question": "What country did the silver medalist of the \u221249 kg ( fly ) at the Women 's 2010 European Taekwondo Championships represent ?",
     "answer-text": "France",
     "version": "v4",
     "question_id": "89295f31a49a4854",
     "question_postag": "WP NN VBD DT NN NN IN DT NNP NN ( NN ) IN DT CD JJ NNP NNP NN ."
   },
   {
-    "question": "When was the gold medalist of the \u221246 kg ( fin ) at the 2010 European Taekwondo Championships born ?",
+    "question": "When was the gold medalist of the \u221246 kg ( fin ) at the Women 's 2010 European Taekwondo Championships born ?",
     "answer-text": "February 12 , 1991",
     "version": "v4",
     "question_id": "51233e1d37eaa6c5",
@@ -8393,7 +8393,7 @@
     "question_postag": "WRB VBD DT JJ NN WDT VBD NNP POS CD JJ NN IN CD NN ."
   },
   {
-    "question": "Where is the original headquarters for the heritage of number 101 in the Age of Steam Roundhouse Museum ?",
+    "question": "Where is the original headquarters for the ALCO heritage of number 101 in the Age of Steam Roundhouse Museum ?",
     "answer-text": "Roanoke , Virginia",
     "version": "v4",
     "question_id": "42511244954b49b1",
@@ -8491,14 +8491,14 @@
     "question_postag": "WDT JJ NN IN DT NNP NNP JJ NNP NNP VBD CD NNS IN NN NN IN NNP NNP ."
   },
   {
-    "question": "What is the official name of the city which is home to the busiest airport in S. Korea ?",
+    "question": "What is the official name of the city which is home to the busiest airport in S. Korea as of 2011 ?",
     "answer-text": "Seoul Special City",
     "version": "v4",
     "question_id": "2e3c3a766d12b8b9",
     "question_postag": "WP VBZ DT JJ NN IN DT NN WDT VBZ NN TO DT JJS NN IN NNP NNP ."
   },
   {
-    "question": "Which airports did the airport with the least passengers replace ?",
+    "question": "Which airports did the airport with the least passengers replace as of 2011 ?",
     "answer-text": "Gangneung and Sokcho airports",
     "version": "v4",
     "question_id": "8bc305b015f1162c",
@@ -8764,14 +8764,14 @@
     "question_postag": "WRB VBZ DT NN WDT VBD IN DT CD NNP NNP NNP , CC VBZ VBN IN DT NNP NN NNP VBN ."
   },
   {
-    "question": "What is the nationality of the runner up with Rungkat in the 2017 Dunlop World Competition ?",
+    "question": "What is the nationality of the runner up with Rungkat in the men 's double in 2017 Dunlop World Competition ?",
     "answer-text": "Filipino",
     "version": "v4",
     "question_id": "6101fb8265582d77",
     "question_postag": "WP VBZ DT NN IN DT NN RP IN NNP IN DT CD NNP NNP NNP ."
   },
   {
-    "question": "What is the ranking of the 2016 champion of the Dunlop Challenge that appeared with Matt Reid ?",
+    "question": "What is the ranking of the men 's double in 2016 champion of the Dunlop Challenge that appeared with Matt Reid ?",
     "answer-text": "No . 183",
     "version": "v4",
     "question_id": "bfb82bdd9e7f1da2",
@@ -8806,14 +8806,14 @@
     "question_postag": "WP VBD DT NN WRB DT NN IN DT JJS NN VBZ VBN IN CC DT VBZ VBN TO DT NN WDT VBD IN DT CD NNP NNP NNP ."
   },
   {
-    "question": "How many Olympic teams did the 1997 European Judo Championships athlete compete in , whose country is located mostly on the Anatolian peninsula ?",
+    "question": "How many Olympic teams did the Men 's 1997 European Judo Championships athlete compete in , whose country is located mostly on the Anatolian peninsula ?",
     "answer-text": "three",
     "version": "v4",
     "question_id": "9e0f017d47ddcd2f",
     "question_postag": "WRB JJ NNP NNS VBD DT CD JJ NNP NNP JJ NN IN , WP$ NN VBZ VBN RB IN DT JJ NN ."
   },
   {
-    "question": "What is the area in square kilometers of the country whose 1997 European Judo Championships athlete once portrayed Ursus ?",
+    "question": "What is the area in square kilometers of the country whose 1997 European Judo Championships male athlete once portrayed Ursus ?",
     "answer-text": "312,696",
     "version": "v4",
     "question_id": "8789ed0c0d50126f",
@@ -8953,7 +8953,7 @@
     "question_postag": "WP NN VBN IN DT NNP NN NN VBP VBN CD NN NNS ."
   },
   {
-    "question": "In what year did the Albanian dynasty known as the Khedival dynasty commence ?",
+    "question": "In what year did the Albanian early modern dynasty known as the Khedival dynasty commence ?",
     "answer-text": "1805",
     "version": "v4",
     "question_id": "3cbd13a8fdab2067",
@@ -9345,14 +9345,14 @@
     "question_postag": "WRB JJ VBD NNP NNP POS NN IN DT NNP NNS NN IN DT VBN NN WRB PRP VBD VBG NN ."
   },
   {
-    "question": "What department is the location in where the opponent of George Augustus Vaughn Jr. was a double seater reconnaissance biplane ?",
+    "question": "What department is the location in where the opponent of George Augustus Vaughn Jr. was a double seater reconnaissance biplane in WW 1 ?",
     "answer-text": "Somme",
     "version": "v4",
     "question_id": "cfd274e6f1fcc6ab",
     "question_postag": "WP NN VBZ DT NN IN WRB DT NN IN NNP NNP NNP NNP VBD DT JJ NN NN NN ."
   },
   {
-    "question": "Where was the aircraft developed where the opponent of George Augustus Vaughn Jr. was the premier important unique design of Pfalz Flugzeugwerke ?",
+    "question": "Where was the aircraft developed where the opponent of George Augustus Vaughn Jr. was the premier important unique design of Pfalz Flugzeugwerke in WW 1 ?",
     "answer-text": "the Royal Aircraft Factory",
     "version": "v4",
     "question_id": "b4ecaf1b15410e68",
@@ -9380,14 +9380,14 @@
     "question_postag": "IN DT NNP IN NNP IN CD , WP VBD DT NN IN DT NN WP VBZ DT JJR NN IN NNP NNP ."
   },
   {
-    "question": "In what year did Peng Shuai 's September 2008 game opponent turn professional ?",
+    "question": "In what year did Peng Shuai 's September 2008 single final game opponent turn professional ?",
     "answer-text": "2000",
     "version": "v4",
     "question_id": "434454378da67d9e",
     "question_postag": "IN WP NN VBD NNP NNP POS NNP CD NN JJ VBP JJ ."
   },
   {
-    "question": "In what years did Peng Shuai 's opponent for the Tianjin Open reach the third round of the Australian Open ?",
+    "question": "In what years did Peng Shuai 's opponent for the Tianjin Open in single final reach the third round of the Australian Open ?",
     "answer-text": "2014 and 2017",
     "version": "v4",
     "question_id": "a4065c7fe53d7f85",
@@ -9436,14 +9436,14 @@
     "question_postag": "WP VBZ DT NN IN DT NN IN WDT DT NNP NNP NNP NN IN DT JJS NN VBZ VBN ."
   },
   {
-    "question": "The 2018 Sydney International player from the fourth-largest country in the Americas is how tall in centimetres ?",
+    "question": "The 2018 Sydney International seed player from the fourth-largest country in the Americas is how tall in centimetres ?",
     "answer-text": "168 cm",
     "version": "v4",
     "question_id": "11a5488ccd75395b",
     "question_postag": "DT CD NNP NNP NN IN DT JJ NN IN DT NNPS VBZ WRB JJ IN NNS ."
   },
   {
-    "question": "The 2018 Sydney International player from a country with a narrow coastline at Neum won what medal at the 2010 Youth Olympic Games ?",
+    "question": "The 2018 Sydney International seed player from a country with a narrow coastline at Neum won what medal at the 2010 Youth Olympic Games ?",
     "answer-text": "bronze",
     "version": "v4",
     "question_id": "7037e34bd58dc54c",
@@ -9499,7 +9499,7 @@
     "question_postag": "WP VBZ DT NN , NNP NNP NNP , WRB CD NNP NN NNP NNP NN NNP NNP RB VBD ."
   },
   {
-    "question": "What is the name of the +100 kg athlete , which participated at World Wrestling Championships in 1983 , that won five European titles between 1977 and 1986 ?",
+    "question": "What is the name of the +100 kg male athlete in Greco-Roman , which participated at World Wrestling Championships in 1983 , that won five European titles between 1977 and 1986 ?",
     "answer-text": "Nikola Dinev",
     "version": "v4",
     "question_id": "43ea5a56552dd120",
@@ -9520,14 +9520,14 @@
     "question_postag": "WP VBZ DT JJ NN IN DT NNS NNP NNP NNP NNP NNP NNP IN DT NN IN CD NNS ."
   },
   {
-    "question": "What group did the artist start her career with whose song had the lowest Percentage/ calls in the fourth season of Deutschland sucht den Superstar ?",
+    "question": "What group did the artist start her career with whose song had the lowest Percentage/ calls in the fourth season of Deutschland sucht den Superstar in 1st MottoShow ?",
     "answer-text": "Miami Latin Boys",
     "version": "v4",
     "question_id": "0dd1469d488d5be6",
     "question_postag": "WP NN VBD DT NN VB PRP$ NN IN WP$ NN VBD DT JJS NN VBZ IN DT JJ NN IN NNP NNP NN NNP ."
   },
   {
-    "question": "What group did the singer start out with whose song had the highest Percentage/ calls in the fourth season of Deutschland sucht den Superstar ?",
+    "question": "What group did the singer start out with whose song had the highest Percentage/ calls in the fourth season of Deutschland sucht den Superstar in 1st MottoShow ?",
     "answer-text": "Commodores",
     "version": "v4",
     "question_id": "30d3f3d7b412dc0c",
@@ -9870,14 +9870,14 @@
     "question_postag": "WP NN VBD VBN JJ NN NN , NNP NNP WP VBD IN CD NNS IN CD NNP NNP NNP VBN ."
   },
   {
-    "question": "The athlete with the best rank for the 1986 NHK Trophy grew up in what city ?",
+    "question": "The athlete with the best rank for the Men 's 1986 NHK Trophy grew up in what city ?",
     "answer-text": "Chicago",
     "version": "v4",
     "question_id": "ceef4ef02c0d7b52",
     "question_postag": "DT NN IN DT JJS NN IN DT CD NNP NNP VBD RP IN WP NN ."
   },
   {
-    "question": "Who coached the athlete that was ranked number 6 for the 1986 NHK Trophy ?",
+    "question": "Who coached the athlete that was ranked number 6 for the Men 's 1986 NHK Trophy ?",
     "answer-text": "Louella Rehfield and Kathy Casey",
     "version": "v4",
     "question_id": "582b34b9c743a55a",
@@ -9926,14 +9926,14 @@
     "question_postag": "DT NNP NN IN DT CD NNP NNP NNP NNP NN VBN IN NNP NNP IN CD VBZ WP NN ."
   },
   {
-    "question": "What University did German professional golfer , Bernhard Langer 's opponent attend in the least recent tournament ?",
+    "question": "What University did German professional golfer , Bernhard Langer 's opponent attend in the least recent PGA tournament ?",
     "answer-text": "Wake Forest",
     "version": "v4",
     "question_id": "8a12ca9f67d94018",
     "question_postag": "WP NNP VBD NNP NN NN , NNP NNP POS JJ NN IN DT JJS JJ NN ."
   },
   {
-    "question": "What was the tournament 's former name when German professional golfer , Bernhard Langer 's opponent was the 1981 Rolex Junior Player of the Year ?",
+    "question": "What was the PGA tournament 's former name when German professional golfer , Bernhard Langer 's opponent was the 1981 Rolex Junior Player of the Year ?",
     "answer-text": "Senior Tour Championship",
     "version": "v4",
     "question_id": "52aa9d8723e144b3",
@@ -10038,14 +10038,14 @@
     "question_postag": "JJ NNP NNP NNP NN VBD CD NNS , VBD VBN IN NNP CC NNP CC VBD RB VBN IN DT NNP NNPS IN JJ NNP CD ."
   },
   {
-    "question": "Who is the Handball team the 2014 Asian games ranked number 2 controlled by ?",
+    "question": "Who is the Handball team the men 's 2014 Asian games ranked number 2 controlled by ?",
     "answer-text": "the Korea Handball Federation",
     "version": "v4",
     "question_id": "79d7532cc493be97",
     "question_postag": "WP VBZ DT NNP NN DT CD JJ NNS VBD NN CD VBN IN ."
   },
   {
-    "question": "The team ranked number 8 at the 2014 Asian games in Handball has competed in the Asian Men 's Handball Championships how many times ?",
+    "question": "The team ranked number 8 at the 2014 Asian games in Handball has competed in the men 's 2014 Asian Men 's Handball Championships how many times ?",
     "answer-text": "six times",
     "version": "v4",
     "question_id": "63165f58c5522a31",
@@ -10206,14 +10206,14 @@
     "question_postag": "WP VBD DT JJ NN IN DT NN IN DT CD NNP NNP NN VBN IN IN DT NN ."
   },
   {
-    "question": "When was the club which played in Cypriot Second Division in 2013/14 , based in the second largest urban area in Cyprus founded ?",
+    "question": "When was the B2 division club which played in Cypriot Second Division in 2013/14 , based in the second largest urban area in Cyprus founded ?",
     "answer-text": "1956",
     "version": "v4",
     "question_id": "2f43009e20eee2b8",
     "question_postag": "WRB VBD DT NN WDT VBD IN NNP NNP NNP IN CD , VBN IN DT JJ JJS JJ NN IN NNP VBD ."
   },
   {
-    "question": "What church is the current home of the club which played in Cypriot Second Division in 2013/14 and that was established in Lysi known for ?",
+    "question": "What church is the current home of the B2 division club which played in Cypriot Second Division in 2013/14 and that was established in Lysi known for ?",
     "answer-text": "Church of Saint Lazarus",
     "version": "v4",
     "question_id": "d351b1a6e95fe7b1",
@@ -10444,14 +10444,14 @@
     "question_postag": "IN DT CD NN IN DT NNP NNP DT NN RP NNS IN WP NN ."
   },
   {
-    "question": "What type of business sponsors the 1986 Tour de France team with a rider who won the 1988 Giro d'Italia ?",
+    "question": "What type of business sponsors the 1986 Tour de France team with a rider who won the 1988 Giro d'Italia in general classification ?",
     "answer-text": "a chain of health food stores",
     "version": "v4",
     "question_id": "79a051980a283775",
     "question_postag": "WP NN IN NN NNS DT CD NNP FW NNP NN IN DT NN WP VBD DT CD NNP NN ."
   },
   {
-    "question": "Over what years was the rider for the 1986 Tour de France team listed as the most successful cycling team of all time , professional ?",
+    "question": "Over what years was the rider for the 1986 Tour de France team in general classification listed as the most successful cycling team of all time , professional ?",
     "answer-text": "1985 to 1997",
     "version": "v4",
     "question_id": "11c44d7b5bf05f15",
@@ -10605,14 +10605,14 @@
     "question_postag": "NNP NN CD NN IN JJ NNP VBD DT NN IN DT NN WDT VBZ VBN JJ NNS IN CD NNS ."
   },
   {
-    "question": "What is the name of the Montserrat sport with a 1982 record in athletics , involving a person throwing a heavy bar as far as possible ?",
+    "question": "What is the name of the Montserrat sport with a 1982 record in female athletics , involving a person throwing a heavy bar as far as possible ?",
     "answer-text": "Shot put",
     "version": "v4",
     "question_id": "2ef012993d9015d9",
     "question_postag": "WP VBZ DT NN IN DT NNP NN IN DT CD NN IN NNS , VBG DT NN VBG DT JJ NN RB RB IN JJ ."
   },
   {
-    "question": "What is the name of the film actress holds the Montserrat record in athletics , in the 3K run ?",
+    "question": "What is the name of the film actress holds the Montserrat record in athletics , in the women 's 3K run ?",
     "answer-text": "Judith Allen",
     "version": "v4",
     "question_id": "43a63455e084d008",
@@ -10815,14 +10815,14 @@
     "question_postag": "WRB JJ NNS NNP VBD VBN IN DT CD NNP NNP NNP NNP , IN NNP NNP VBD IN ."
   },
   {
-    "question": "What is the capacity of the football stadium in which Haiqal Pashia played the first game listed in the table ?",
+    "question": "What is the capacity of the football stadium in which Haiqal Pashia played the first game listed in U19 international caps ?",
     "answer-text": "20,000 people",
     "version": "v4",
     "question_id": "b427be80def48689",
     "question_postag": "WP VBZ DT NN IN DT NN NN IN WDT NNP NNP VBD DT JJ NN VBN IN DT NN ."
   },
   {
-    "question": "Between 1940 and 1945 , what military forces occupied the city in which the Singaporean footballer Haiqal Pashia played the lowest scoring game listed in the table ?",
+    "question": "Between 1940 and 1945 , what military forces occupied the city in which the Singaporean footballer Haiqal Pashia played the lowest scoring game in U19 international caps ?",
     "answer-text": "Japanese forces",
     "version": "v4",
     "question_id": "faf0314bac249dac",
@@ -10885,14 +10885,14 @@
     "question_postag": "WP VBZ DT JJ JJ JJ NNP NN IN DT NN NN VBN IN CD IN DT NNP NNP NNP NNP ."
   },
   {
-    "question": "Who wrote the song performed on the Norwegian X Factor that was used in a film based on the play Everybody Comes to Rick 's ?",
+    "question": "Who wrote the song performed on the Norwegian X Factor season 2 that was used in a film based on the play Everybody Comes to Rick 's ?",
     "answer-text": "Herman Hupfeld",
     "version": "v4",
     "question_id": "e4d6ebfa015fbc97",
     "question_postag": "WP VBD DT NN VBN IN DT JJ NNP NNP WDT VBD VBN IN DT NN VBN IN DT NN NN VBZ TO NNP POS ."
   },
   {
-    "question": "Who directed the film which the song whose order on the Norwegian X Factor was greater than 7 came from ?",
+    "question": "Who directed the film which the song whose order on the Norwegian X Factor season 2 was greater than 7 came from ?",
     "answer-text": "Randal Kleiser",
     "version": "v4",
     "question_id": "f4fd65d72e77394e",
@@ -10913,14 +10913,14 @@
     "question_postag": "DT NNP NNP , NNP NN VBN IN DT NN NN IN NNP NNP VBZ NNS IN WDT NN ."
   },
   {
-    "question": "What is the capital of the home country of the runner-up of the 2010 South American Race Walking Championship ?",
+    "question": "What is the capital of the home country of the runner-up of the 2010 Men 's 20km at South American Race Walking Championship ?",
     "answer-text": "Bogot\u00e1",
     "version": "v4",
     "question_id": "ff2c222fe9c9c1ad",
     "question_postag": "WP VBZ DT NN IN DT NN NN IN DT NN IN DT CD NNP JJ NNP NNP NNP ."
   },
   {
-    "question": "In what year did the athlete who finished 10th in the 2010 South American Race Walking Championship leave a competition before finishing it ?",
+    "question": "In what year did the athlete who finished 10th in the 2010 Men 's 20km at South American Race Walking Championship leave a competition before finishing it ?",
     "answer-text": "2016",
     "version": "v4",
     "question_id": "7ace6ada77abc1b7",
@@ -10983,14 +10983,14 @@
     "question_postag": "WP VBZ DT JJ NN IN DT NN IN DT JJS JJ NN IN DT CD NNP NNP NNP POS NNP NNP ."
   },
   {
-    "question": "What college did the youngest player at 1983 Cricket World Cup take up a coaching position with ?",
+    "question": "What college did the youngest Zimbabwe player at 1983 Cricket World Cup take up a coaching position with ?",
     "answer-text": "Malvern College",
     "version": "v4",
     "question_id": "ac3936f9612d9814",
     "question_postag": "WP NN VBD DT JJS NN IN CD NNP NNP NNP VB RP DT NN NN IN ."
   },
   {
-    "question": "What team did the oldest player at 1983 Cricket World Cup coach ?",
+    "question": "What team did the oldest Zimbabwe player at 1983 Cricket World Cup coach ?",
     "answer-text": "India",
     "version": "v4",
     "question_id": "5a3f6e44d4289d4c",
@@ -11067,14 +11067,14 @@
     "question_postag": "WP NN VBZ DT NN WP VBD DT CD JJS NNS IN DT JJ NNP NNP ( NNS ) VB ."
   },
   {
-    "question": "When did the 2001 World Judo Championships Judoka from Japan win a gold medal ?",
+    "question": "When did the Men 's 2001 World Judo Championships Judoka from Japan win a gold medal ?",
     "answer-text": "2000 Summer Olympics",
     "version": "v4",
     "question_id": "018e6f06ee983da1",
     "question_postag": "WRB VBD DT CD NNP NNP NNP NNP IN NNP VBP DT NN NN ."
   },
   {
-    "question": "What 2001 World Judo Championships Judoka hails from a country spanning 93,030 square kilometres ?",
+    "question": "What 2001 Men 's World Judo Championships Judoka hails from a country spanning 93,030 square kilometres ?",
     "answer-text": "Antal Kov\u00e1cs",
     "version": "v4",
     "question_id": "2a80a460979b9e45",
@@ -11207,14 +11207,14 @@
     "question_postag": "IN DT NNS IN DT NN WDT VBD JJ IN JJ IN DT JJ NNP NNP , WRB JJ NNS VBD DT NN NN WP VBD DT JJS NNS ."
   },
   {
-    "question": "What is the rank of the skater at the 2002 Bofrost Cup on Ice who 's country is the fourth-largest country by total area ?",
+    "question": "What is the rank of the male skater at the 2002 Bofrost Cup on Ice who 's country is the fourth-largest country by total area ?",
     "answer-text": "4",
     "version": "v4",
     "question_id": "c346e44e74f9b6c7",
     "question_postag": "WP VBZ DT NN IN DT NN IN DT CD NNP NNP IN NNP WP VBZ NN VBZ DT JJ NN IN JJ NN ."
   },
   {
-    "question": "What is the TFP of the skater at the 2002 Bofrost Cup on Ice who is a two-time European medalist and placed fifth at the 2002 Winter Olympics ?",
+    "question": "What is the TFP of the male skater at the 2002 Bofrost Cup on Ice who is a two-time European medalist and placed fifth at the 2002 Winter Olympics ?",
     "answer-text": "3.0",
     "version": "v4",
     "question_id": "977de39c88146229",
@@ -11382,28 +11382,28 @@
     "question_postag": "WP NNS VBD DT NN IN NNP IN CD NNP NNP NNP VBN IN NNP NN IN DT NNPS ."
   },
   {
-    "question": "Why did the original artist of the song performed by Genesis Ramierez on season 2 of Idol Puerto Rico retire ?",
+    "question": "Why did the original artist of the song performed by Genesis Ramierez on season 2 Second Gala of Idol Puerto Rico retire ?",
     "answer-text": "religious reasons",
     "version": "v4",
     "question_id": "342b884075ba9878",
     "question_postag": "WRB VBD DT JJ NN IN DT NN VBN IN NNP NNP IN NN CD IN NNP NNP NNP NN ."
   },
   {
-    "question": "Who released the song performed by Abimelec Torres on season 2 of Idol Puerto Rico ?",
+    "question": "Who released the song performed by Abimelec Torres on season 2 Second Gala of Idol Puerto Rico ?",
     "answer-text": "Sony BMG Latin",
     "version": "v4",
     "question_id": "b1407faec8e3917c",
     "question_postag": "WP VBD DT NN VBN IN NNP NNP IN NN CD IN NNP NNP NNP ."
   },
   {
-    "question": "Where does the team of the 2016 Summer Olympics United States player born 13th Sept '83 currently play their home games ?",
+    "question": "Where does the team of the Men 's 2016 Summer Olympics United States player born 13th Sept '83 currently play their home games ?",
     "answer-text": "Allianz Park",
     "version": "v4",
     "question_id": "c8971cef6174c93b",
     "question_postag": "WRB VBZ DT NN IN DT CD NNP NNPS NNP NNPS NN VBD CD NNP POS RB VBP PRP$ NN NNS ."
   },
   {
-    "question": "Which college team did the 2016 Summer Olympics United States player whose team has the highest number of wins in a 10 year period play for ?",
+    "question": "Which college team did the Men 's 2016 Summer Olympics United States player whose team has the highest number of wins in a 10 year period play for ?",
     "answer-text": "Buckeyes",
     "version": "v4",
     "question_id": "c97bc5dcd3f50078",
@@ -11431,14 +11431,14 @@
     "question_postag": "WP VBZ DT JJ JJ NN NN VBN IN DT JJ NN VBD IN NNP CC RB DT JJS JJ NN IN DT NN ."
   },
   {
-    "question": "What is the capacity of Team 1 's stadium which has a 4,000 seats capacity ?",
+    "question": "What is the capacity of Team 1 's stadium which has a 4,000 seats capacity in Second Round of 2008\u201309 Bosnia and Herzegovina Football Cup ?",
     "answer-text": "6,000",
     "version": "v4",
     "question_id": "1222e85777226495",
     "question_postag": "WP VBZ DT NN IN NNP CD POS NN WDT VBZ DT CD NNS NN ."
   },
   {
-    "question": "What city was founded in June 1922 based on Team 2 ?",
+    "question": "What city was founded in June 1922 based on Team 2 in Second Round of 2008\u201309 Bosnia and Herzegovina Football Cup ?",
     "answer-text": "Grada\u010dac",
     "version": "v4",
     "question_id": "84ab19dc3fcf7299",
@@ -11550,7 +11550,7 @@
     "question_postag": "WP VBZ DT NN NN IN DT JJ JJS JJ NN ."
   },
   {
-    "question": "What was the name of the tournament in Uzbekistan that John Paul Fruttero , American professional tennis player , was the winner ?",
+    "question": "What was the name of the tournament double final in Uzbekistan that John Paul Fruttero , American professional tennis player , was the winner ?",
     "answer-text": "Fergana",
     "version": "v4",
     "question_id": "cda854e3f72be6b5",
@@ -11690,14 +11690,14 @@
     "question_postag": "NNP NNP VBD VBN IN DT NN NN NN IN DT NN WP VBD DT NN IN WDT JJ NN ."
   },
   {
-    "question": "When was the American-English CB contracted for 3 months born ?",
+    "question": "When was the American-English transfer-in CB contracted for 3 months born in 2015-16 Shrewsbury Town F.C . season ?",
     "answer-text": "March 4 , 1984",
     "version": "v4",
     "question_id": "9f41c22d46425d15",
     "question_postag": "WRB VBD DT JJ NNP VBD IN CD NNS VBN ."
   },
   {
-    "question": "In what English town is Ross County Football Club based in ?",
+    "question": "In what English town is Ross County Football Club based in 2015-16 Shrewsbury Town F.C . season ?",
     "answer-text": "Dingwall , Highland",
     "version": "v4",
     "question_id": "e98061b807b383fd",
@@ -11718,35 +11718,35 @@
     "question_postag": "WRB JJ JJ NNS VBZ DT NN VBD , WP$ CD NNP NNP NN VBD IN DT NN IN DT NN IN CD NNS ."
   },
   {
-    "question": "The Overall winner for the Columbus Open in 1971 was given birth to in what year ?",
+    "question": "The Overall single winner for the Columbus Open in 1971 was given birth to in what year ?",
     "answer-text": "1946",
     "version": "v4",
     "question_id": "095ce8fc8c364b13",
     "question_postag": "DT JJ NN IN DT NNP NNP IN CD VBD VBN NN TO IN WP NN ."
   },
   {
-    "question": "The Runner-up for 1973 Columbus Open was elected into the International Tennis Hall of Fame in what year ?",
+    "question": "The Runner-up for 1973 Columbus Open Single was elected into the International Tennis Hall of Fame in what year ?",
     "answer-text": "2013",
     "version": "v4",
     "question_id": "9ab65a8f3c9fcb7f",
     "question_postag": "DT NNP IN CD NNP NNP VBD VBN IN DT NNP NNP NNP IN NNP IN WP NN ."
   },
   {
-    "question": "What sport did the oldest player on the list compete in at the 2000 Olympics ?",
+    "question": "What sport did Chi Kredell play in at the 2000 Olympics ?",
     "answer-text": "water polo",
     "version": "v4",
     "question_id": "a96a7432551861b6",
     "question_postag": "WP NN VBD DT JJS NN IN DT NN NN IN IN DT CD NNPS ."
   },
   {
-    "question": "How many times did the youngest American player compete in the Olympics ?",
+    "question": "How many times did the youngest American water polo male player who participated in 2000 Summer Olympics play in Olympic games ?",
     "answer-text": "five-time",
     "version": "v4",
     "question_id": "00bd9f8b4524cae6",
     "question_postag": "WRB JJ NNS VBD DT JJS JJ NN NN IN DT NNPS ."
   },
   {
-    "question": "Where is the 5-time champion of the top division of Danish Women 's Handball located ?",
+    "question": "Where is the 5-time champion of the top division of Danish Women 's Handball located in 2019-20 season ?",
     "answer-text": "Ikast",
     "version": "v4",
     "question_id": "64b9b2735151d950",
@@ -11851,14 +11851,14 @@
     "question_postag": "WRB VBD DT NN WDT VBD IN DT JJ NN IN JJ NNP IN NNP NNP IN CD , WP VBD JJS NNS IN CD NN , VBN ."
   },
   {
-    "question": "In what year was the world 's second richest billionaire born ?",
+    "question": "In what year was the world 's second richest billionaire in 2013 born ?",
     "answer-text": "1955",
     "version": "v4",
     "question_id": "99781104e7739aae",
     "question_postag": "IN WP NN VBD DT NN POS JJ NN NN VBN ."
   },
   {
-    "question": "What does the world 's 63 year old billionaire from France collect ?",
+    "question": "What does the world 's 63 year old billionaire in 2013 from France collect ?",
     "answer-text": "art",
     "version": "v4",
     "question_id": "51374a4030a1c66c",
@@ -11956,7 +11956,7 @@
     "question_postag": "WP VBZ DT NN IN DT NN NN NN IN VBG IN DT CD NNP NNPS WRB DT NN NN VBD VBN IN NNP NNP ."
   },
   {
-    "question": "The Yukon Province has a Skip that participated in the 2012 Canadian Junior Curling Championships playoff and which Olympics ?",
+    "question": "The Yukon Province has a Skip that participated in the Round Robin of 2012 Canadian Junior Curling Championships playoff and which Olympics ?",
     "answer-text": "2012 Winter Youth Olympics",
     "version": "v4",
     "question_id": "1749151667e72c79",
@@ -11998,14 +11998,14 @@
     "question_postag": "WP VBZ DT NN IN JJ NN IN DT NNS NN NN IN DT JJS JJ NN NN IN CD ."
   },
   {
-    "question": "For the Legend Grand Slam tournament whose partner of Andre Begemann is Martin Emmrich , what country is the tournament held in ?",
+    "question": "During the Legend Grand Slam tournament ATP final double , with Martin Emmrich being the partner of Andre Begemann , what country was the tournament held in ?",
     "answer-text": "Austria",
     "version": "v4",
     "question_id": "213776ee6cd335a8",
     "question_postag": "IN DT NNP NNP NNP NN WP$ NN IN NNP NNP VBZ NNP NNP , WP NN VBZ DT JJ NN IN ."
   },
   {
-    "question": "For the Legend Grand Slam tournament Swiss Open Gstaad , what date was the partner of Andre Begemann born ?",
+    "question": "For the Legend Grand Slam tournament Swiss Open Gstaad ATP final double , what date was the partner of Andre Begemann born ?",
     "answer-text": "6 April 1987",
     "version": "v4",
     "question_id": "74c5df9489d87f95",
@@ -12159,7 +12159,7 @@
     "question_postag": "DT NN IN DT CD NNP NNP NNP . NN WP VBD VBN IN NNP VBD VBN TO DT NN WDT VBZ IN WDT NN ."
   },
   {
-    "question": "What is the position of the 2018 Rugby World Cup Sevens ' player who was nominated rookie of the year in the 2015/16 World Rugby Sevens Series ?",
+    "question": "What is the position of the 2018 Rugby World Cup Sevens ' Australian male player who was nominated rookie of the year in the 2015/16 World Rugby Sevens Series ?",
     "answer-text": "BK",
     "version": "v4",
     "question_id": "22be1743ece3fe7d",
@@ -12404,14 +12404,14 @@
     "question_postag": "WP VBZ DT NN IN DT NN WRB DT NN NNP NNP NNP NNP NNP , VBD IN DT CD NNP NNP NNP NNP IN NNP NNP ."
   },
   {
-    "question": "Where are the satellite campuses located for the away school with a score of 85 - 15 at the 40th Japan National University Rugby Championship ?",
+    "question": "Where are the satellite campuses located for the away school with a score of 85 - 15 at the 40th Japan National University Rugby Championship knockout round ?",
     "answer-text": "Nishinomiya , Sanda , Osaka , and Tokyo",
     "version": "v4",
     "question_id": "7580a407c882c057",
     "question_postag": "WRB VBP DT NN NNS VBN IN DT JJ NN IN DT NN IN CD : CD IN DT CD NNP NNP NNP NNP NNP ."
   },
   {
-    "question": "When the place was Nagoya and the attendance was 2000 at the 40th Japan National University Rugby Championship , what was the original name of the away school ?",
+    "question": "Held in Nagoya with 2000 attendance at the 40th Japan National University Rugby Championship , what was the original name of the away school in the knockout round ?",
     "answer-text": "Teikyo Commercial High School",
     "version": "v4",
     "question_id": "1dae209b55df1224",
@@ -13216,14 +13216,14 @@
     "question_postag": "DT NNP NNP NNP VBZ IN DT CD NNP NNP NNP NNP NNP POS NNP NNP NN IN DT NN IN WRB JJ NNS ."
   },
   {
-    "question": "At the 65th Sanremo Music Festival , who wrote the song ?",
+    "question": "At the 65th Sanremo Music Festival Big Artists section , who wrote the song ?",
     "answer-text": "Francesco Boccia and Ciro Tommy Esposito",
     "version": "v4",
     "question_id": "9266395e36299fae",
     "question_postag": "IN DT CD NNP NNP NNP , WP VBD DT NN ."
   },
   {
-    "question": "At the Sanremo Music Festival , how many MTV Italian Music Award nominations were received by the person who sang the song produced by Palmasi ?",
+    "question": "At the Sanremo Music Festival Big Artists section , how many MTV Italian Music Award nominations were received by the person who sang the song produced by Palmasi ?",
     "answer-text": "three",
     "version": "v4",
     "question_id": "0fbd37f97f88e4af",
@@ -13258,7 +13258,7 @@
     "question_postag": "WP VBZ DT NN IN DT JJ JJ NN NN IN DT NNP NN IN NN ."
   },
   {
-    "question": "When did the BBC Radio 1 band that performed at In New Music We Trust Stage at the same time as two artists performed at outdoor stage form ?",
+    "question": "When did the BBC Radio 1 band in 2008 ( Sunday ) that performed at In New Music We Trust Stage at the same time as two artists performed at outdoor stage form ?",
     "answer-text": "in 2000",
     "version": "v4",
     "question_id": "625f3cb6fdd77734",
@@ -13741,7 +13741,7 @@
     "question_postag": "WP CD NN VBD NNP NNP NN NN VBN IN DT JJ NN TO NNP NNP , VBD DT JJ NN NNP NNP VBD IN NNP NNP ."
   },
   {
-    "question": "What is the stage name of the singer-song writer to which Valerie & Tristan danced with in week three of Dancing with the Stars ( American season 17 ) ?",
+    "question": "What is the stage name of the singer-song writer to which Valerie & Tristan danced with in week three of Dancing with the Stars ( American season 17 week 3 ) ?",
     "answer-text": "Mika",
     "version": "v4",
     "question_id": "22edb842e8a36627",
@@ -13951,14 +13951,14 @@
     "question_postag": "WP VBZ DT JJ NN IN DT NNP NNP NNP VBZ NN IN JJ NNS ."
   },
   {
-    "question": "What is the nickname of the team that Stephen Nicol scored against in a 2 - 2 draw during the 1983\u201384 Liverpool F.C . season ?",
+    "question": "What is the nickname of the team that Stephen Nicol scored against in a 2 - 2 draw during the 1983\u201384 Liverpool F.C . season in League Cup ?",
     "answer-text": "The owls",
     "version": "v4",
     "question_id": "550017f3a781d7fe",
     "question_postag": "WP VBZ DT NN IN DT NN IN NNP NNP VBD IN IN DT CD : CD NN IN DT CD NNP NNP . NN ."
   },
   {
-    "question": "What British Honour is held by the only scorer against Fulham away from home in a 1-1 draw during the 1983\u201384 Liverpool F.C . season ?",
+    "question": "What British Honour is held by the only scorer against Fulham away from home in a 1-1 draw during the 1983\u201384 Liverpool F.C . season in League Cup ?",
     "answer-text": "MBE",
     "version": "v4",
     "question_id": "1cff1056290bde48",
@@ -14035,14 +14035,14 @@
     "question_postag": "WP VBZ DT NN IN DT NN WRB DT NNP NNP NNP NNP POS JJ NN NN VBZ IN DT NNP NNP ."
   },
   {
-    "question": "Which 2017 Pan American Fencing Championship participating nation made 4th position at the match on 13 to 18 June 2017 , and has the capital city of San Juan ?",
+    "question": "Which 2017 Men 's Pan American Fencing Championship participating nation made 4th position at the match on 13 to 18 June 2017 , and has the capital city of San Juan ?",
     "answer-text": "Puerto Rico",
     "version": "v4",
     "question_id": "9c399023b2910f7b",
     "question_postag": "JJ CD NNP NNP NNP NNP VBG NN VBD CD NN IN DT NN IN CD TO CD NNP CD , CC VBZ DT NN NN IN NNP NNP ."
   },
   {
-    "question": "Which 2017 Pan American Fencing Championship participating nation made 5th position at the match on 13 to 18 June 2017 , and has the capital city of Ottawa ?",
+    "question": "Which 2017 Men 's Pan American Fencing Championship participating nation made 5th position at the match on 13 to 18 June 2017 , and has the capital city of Ottawa ?",
     "answer-text": "Canada",
     "version": "v4",
     "question_id": "85a7797ef8919cc9",
@@ -14756,14 +14756,14 @@
     "question_postag": "WDT POS NN CD NN NNP NN NN VBD IN DT NNP NNP , NNP NNP CC NNP NNP NNS ."
   },
   {
-    "question": "What is the date of birth of Mads Pieler Kolding 's 6-time winning partner in 2009-2010 ?",
+    "question": "What is the date of birth of Mads Pieler Kolding 's 6-time winning partner in 2009-2010 Men 's double at BWF International ?",
     "answer-text": "12 January 1988",
     "version": "v4",
     "question_id": "2201cafc3ee58f1f",
     "question_postag": "WP VBZ DT NN IN NN IN NNP NNP NNP POS JJ NN NN IN CD ."
   },
   {
-    "question": "When runner-up , what is the nationality of Mads Pieler Kolding 's partner in 2007 ?",
+    "question": "When runner-up , what is the nationality of Mads Pieler Kolding 's partner in 2007 Men 's double at BWF International ?",
     "answer-text": "Danish",
     "version": "v4",
     "question_id": "a17b2ae11d218589",
@@ -14875,14 +14875,14 @@
     "question_postag": "WP NN VBZ DT NN JJ JJ NN IN NNP NN TO ."
   },
   {
-    "question": "The NHL player with a PIM of 16 during the 2018 Stanley Cup playoffs was born in what year ?",
+    "question": "The NHL Skater with a PIM of 16 during the 2018 Stanley Cup playoffs was born in what year ?",
     "answer-text": "1992",
     "version": "v4",
     "question_id": "ce955d9d313d224d",
     "question_postag": "DT NNP NN IN DT NNP IN CD IN DT CD NNP NNP NNS VBD VBN IN WP NN ."
   },
   {
-    "question": "The NHL player with a PIM of 31 during the 2018 Stanley Cup playoffs was selected in which NHL Entry Draft ?",
+    "question": "The NHL skater with a PIM of 31 during the 2018 Stanley Cup playoffs was selected in which NHL Entry Draft ?",
     "answer-text": "2005 NHL Entry Draft",
     "version": "v4",
     "question_id": "90edf41f33a8b5b4",
