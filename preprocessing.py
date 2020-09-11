@@ -251,12 +251,6 @@ def CELL(d, table_path='traindev_tables_tok'):
 
     return d
 
-def hash_string(string):
-    import hashlib
-    sha = hashlib.sha256()
-    sha.update(string.encode())
-    return sha.hexdigest()[:16]
-
 def analyze(processed, table_path='traindev_tables_tok'):
     trivial, easy, medium, hard, no_answer, number, yesorno, repeated = 0, 0, 0, 0, 0, 0, 0, 0
     from_passage, from_cell, from_both = 0, 0, 0
@@ -265,8 +259,6 @@ def analyze(processed, table_path='traindev_tables_tok'):
     
     question_type = ''
     for p in processed:
-        p['question_id'] = hash_string(p['question'])
-        
         if p['question_id'] in used_question_id:
             repeated +=1
             continue
