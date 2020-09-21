@@ -3,885 +3,547 @@
   "title": "Swiss Market Index",
   "header": [
     [
-      [
-        "Company"
-      ],
-      [
-        null
-      ]
+      "Company",
+      []
     ],
     [
-      [
-        "ICB"
-      ],
+      "ICB Sector",
       [
         "/wiki/Industry_Classification_Benchmark"
       ]
     ],
     [
-      [
-        "Canton"
-      ],
-      [
-        null
-      ]
+      "Canton",
+      []
     ],
     [
-      [
-        "Ticker symbol"
-      ],
-      [
-        null
-      ]
+      "Ticker symbol",
+      []
     ],
     [
-      [
-        "Weight (% )"
-      ],
-      [
-        null
-      ]
+      "Weight (% )",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "ABB"
-        ],
+        "ABB",
         [
           "/wiki/ABB_Group"
         ]
       ],
       [
-        [
-          "electronic and electrical equipment"
-        ],
-        [
-          null
-        ]
+        "electronic and electrical equipment",
+        []
       ],
       [
-        [
-          "Zurich"
-        ],
+        "Zurich",
         [
           "/wiki/Canton_of_Zurich"
         ]
       ],
       [
-        [
-          "ABBN"
-        ],
-        [
-          null
-        ]
+        "ABBN",
+        []
       ],
       [
-        [
-          "3.61"
-        ],
-        [
-          null
-        ]
+        "3.61",
+        []
       ]
     ],
     [
       [
-        [
-          "Adecco"
-        ],
+        "Adecco",
         [
           "/wiki/Adecco"
         ]
       ],
       [
-        [
-          "business training and employment agencies"
-        ],
-        [
-          null
-        ]
+        "business training and employment agencies",
+        []
       ],
       [
-        [
-          "Zurich"
-        ],
+        "Zurich",
         [
           "/wiki/Canton_of_Zurich"
         ]
       ],
       [
-        [
-          "ADEN"
-        ],
-        [
-          null
-        ]
+        "ADEN",
+        []
       ],
       [
-        [
-          "0.95"
-        ],
-        [
-          null
-        ]
+        "0.95",
+        []
       ]
     ],
     [
       [
-        [
-          "Alcon"
-        ],
+        "Alcon",
         [
           "/wiki/Alcon"
         ]
       ],
       [
-        [
-          "healthcare"
-        ],
-        [
-          null
-        ]
+        "healthcare",
+        []
       ],
       [
-        [
-          "Fribourg"
-        ],
+        "Fribourg",
         [
           "/wiki/Canton_of_Fribourg"
         ]
       ],
       [
-        [
-          "ALC"
-        ],
-        [
-          null
-        ]
+        "ALC",
+        []
       ],
       [
-        [
-          "3.09"
-        ],
-        [
-          null
-        ]
+        "3.09",
+        []
       ]
     ],
     [
       [
-        [
-          "Credit Suisse"
-        ],
+        "Credit Suisse",
         [
           "/wiki/Credit_Suisse"
         ]
       ],
       [
-        [
-          "banks"
-        ],
-        [
-          null
-        ]
+        "banks",
+        []
       ],
       [
-        [
-          "Zurich"
-        ],
+        "Zurich",
         [
           "/wiki/Canton_of_Zurich"
         ]
       ],
       [
-        [
-          "CSGN"
-        ],
-        [
-          null
-        ]
+        "CSGN",
+        []
       ],
       [
-        [
-          "2.95"
-        ],
-        [
-          null
-        ]
+        "2.95",
+        []
       ]
     ],
     [
       [
-        [
-          "Geberit"
-        ],
+        "Geberit",
         [
           "/wiki/Geberit"
         ]
       ],
       [
-        [
-          "building materials and fixtures"
-        ],
-        [
-          null
-        ]
+        "building materials and fixtures",
+        []
       ],
       [
-        [
-          "St. Gallen"
-        ],
+        "St. Gallen",
         [
           "/wiki/Canton_of_St._Gallen"
         ]
       ],
       [
-        [
-          "GEBN"
-        ],
-        [
-          null
-        ]
+        "GEBN",
+        []
       ],
       [
-        [
-          "1.77"
-        ],
-        [
-          null
-        ]
+        "1.77",
+        []
       ]
     ],
     [
       [
-        [
-          "Givaudan"
-        ],
+        "Givaudan",
         [
           "/wiki/Givaudan"
         ]
       ],
       [
-        [
-          "specialty chemicals"
-        ],
-        [
-          null
-        ]
+        "specialty chemicals",
+        []
       ],
       [
-        [
-          "Geneva"
-        ],
+        "Geneva",
         [
           "/wiki/Canton_of_Geneva"
         ]
       ],
       [
-        [
-          "GIVN"
-        ],
-        [
-          null
-        ]
+        "GIVN",
+        []
       ],
       [
-        [
-          "2.25"
-        ],
-        [
-          null
-        ]
+        "2.25",
+        []
       ]
     ],
     [
       [
-        [
-          "LafargeHolcim"
-        ],
+        "LafargeHolcim",
         [
           "/wiki/LafargeHolcim"
         ]
       ],
       [
-        [
-          "building materials and fixtures"
-        ],
-        [
-          null
-        ]
+        "building materials and fixtures",
+        []
       ],
       [
-        [
-          "St. Gallen"
-        ],
+        "St. Gallen",
         [
           "/wiki/Canton_of_St._Gallen"
         ]
       ],
       [
-        [
-          "LHN"
-        ],
-        [
-          null
-        ]
+        "LHN",
+        []
       ],
       [
-        [
-          "2.44"
-        ],
-        [
-          null
-        ]
+        "2.44",
+        []
       ]
     ],
     [
       [
-        [
-          "Lonza"
-        ],
+        "Lonza",
         [
           "/wiki/Lonza_Group"
         ]
       ],
       [
-        [
-          "pharmaceuticals and biotechnology"
-        ],
-        [
-          null
-        ]
+        "pharmaceuticals and biotechnology",
+        []
       ],
       [
-        [
-          "Basel"
-        ],
+        "Basel",
         [
           "/wiki/Canton_of_Basel-Stadt"
         ]
       ],
       [
-        [
-          "LONN"
-        ],
-        [
-          null
-        ]
+        "LONN",
+        []
       ],
       [
-        [
-          "2.81"
-        ],
-        [
-          null
-        ]
+        "2.81",
+        []
       ]
     ],
     [
       [
-        [
-          "Nestl\u00e9"
-        ],
+        "Nestl\u00e9",
         [
           "/wiki/Nestl\u00e9"
         ]
       ],
       [
-        [
-          "food products"
-        ],
-        [
-          null
-        ]
+        "food products",
+        []
       ],
       [
-        [
-          "Vaud"
-        ],
+        "Vaud",
         [
           "/wiki/Vaud"
         ]
       ],
       [
-        [
-          "NESN"
-        ],
-        [
-          null
-        ]
+        "NESN",
+        []
       ],
       [
-        [
-          "19.17"
-        ],
-        [
-          null
-        ]
+        "19.17",
+        []
       ]
     ],
     [
       [
-        [
-          "Novartis"
-        ],
+        "Novartis",
         [
           "/wiki/Novartis"
         ]
       ],
       [
-        [
-          "pharmaceuticals"
-        ],
-        [
-          null
-        ]
+        "pharmaceuticals",
+        []
       ],
       [
-        [
-          "Basel"
-        ],
+        "Basel",
         [
           "/wiki/Canton_of_Basel-Stadt"
         ]
       ],
       [
-        [
-          "NOVN"
-        ],
-        [
-          null
-        ]
+        "NOVN",
+        []
       ],
       [
-        [
-          "18.01"
-        ],
-        [
-          null
-        ]
+        "18.01",
+        []
       ]
     ],
     [
       [
-        [
-          "Richemont"
-        ],
+        "Richemont",
         [
           "/wiki/Richemont"
         ]
       ],
       [
-        [
-          "clothing and accessories"
-        ],
-        [
-          null
-        ]
+        "clothing and accessories",
+        []
       ],
       [
-        [
-          "Geneva"
-        ],
+        "Geneva",
         [
           "/wiki/Canton_of_Geneva"
         ]
       ],
       [
-        [
-          "CFR"
-        ],
-        [
-          null
-        ]
+        "CFR",
+        []
       ],
       [
-        [
-          "4.42"
-        ],
-        [
-          null
-        ]
+        "4.42",
+        []
       ]
     ],
     [
       [
-        [
-          "Roche"
-        ],
+        "Roche",
         [
           "/wiki/Hoffmann\u2013La_Roche"
         ]
       ],
       [
-        [
-          "pharmaceuticals"
-        ],
-        [
-          null
-        ]
+        "pharmaceuticals",
+        []
       ],
       [
-        [
-          "Basel"
-        ],
+        "Basel",
         [
           "/wiki/Canton_of_Basel-Stadt"
         ]
       ],
       [
-        [
-          "ROG"
-        ],
-        [
-          null
-        ]
+        "ROG",
+        []
       ],
       [
-        [
-          "17.87"
-        ],
-        [
-          null
-        ]
+        "17.87",
+        []
       ]
     ],
     [
       [
-        [
-          "SGS"
-        ],
+        "SGS",
         [
           "/wiki/Soci\u00e9t\u00e9_G\u00e9n\u00e9rale_de_Surveillance"
         ]
       ],
       [
-        [
-          "business support services"
-        ],
-        [
-          null
-        ]
+        "business support services",
+        []
       ],
       [
-        [
-          "Geneva"
-        ],
+        "Geneva",
         [
           "/wiki/Canton_of_Geneva"
         ]
       ],
       [
-        [
-          "SGSN"
-        ],
-        [
-          null
-        ]
+        "SGSN",
+        []
       ],
       [
-        [
-          "1.36"
-        ],
-        [
-          null
-        ]
+        "1.36",
+        []
       ]
     ],
     [
       [
-        [
-          "Sika"
-        ],
+        "Sika",
         [
           "/wiki/Sika_AG"
         ]
       ],
       [
-        [
-          "specialty chemicals"
-        ],
-        [
-          null
-        ]
+        "specialty chemicals",
+        []
       ],
       [
-        [
-          "Zug"
-        ],
+        "Zug",
         [
           "/wiki/Canton_of_Zug"
         ]
       ],
       [
-        [
-          "SIKA"
-        ],
-        [
-          null
-        ]
+        "SIKA",
+        []
       ],
       [
-        [
-          "1.92"
-        ],
-        [
-          null
-        ]
+        "1.92",
+        []
       ]
     ],
     [
       [
-        [
-          "Swatch"
-        ],
+        "Swatch",
         [
           "/wiki/The_Swatch_Group"
         ]
       ],
       [
-        [
-          "clothing and accessories"
-        ],
-        [
-          null
-        ]
+        "clothing and accessories",
+        []
       ],
       [
-        [
-          "Bern"
-        ],
+        "Bern",
         [
           "/wiki/Canton_of_Bern"
         ]
       ],
       [
-        [
-          "UHR"
-        ],
-        [
-          null
-        ]
+        "UHR",
+        []
       ],
       [
-        [
-          "0.92"
-        ],
-        [
-          null
-        ]
+        "0.92",
+        []
       ]
     ],
     [
       [
-        [
-          "Swiss Life"
-        ],
+        "Swiss Life",
         [
           "/wiki/Swiss_Life"
         ]
       ],
       [
-        [
-          "life insurance"
-        ],
-        [
-          null
-        ]
+        "life insurance",
+        []
       ],
       [
-        [
-          "Zurich"
-        ],
+        "Zurich",
         [
           "/wiki/Canton_of_Zurich"
         ]
       ],
       [
-        [
-          "SLHN"
-        ],
-        [
-          null
-        ]
+        "SLHN",
+        []
       ],
       [
-        [
-          "1.74"
-        ],
-        [
-          null
-        ]
+        "1.74",
+        []
       ]
     ],
     [
       [
-        [
-          "Swiss Re"
-        ],
+        "Swiss Re",
         [
           "/wiki/Swiss_Re"
         ]
       ],
       [
-        [
-          "reinsurance"
-        ],
-        [
-          null
-        ]
+        "reinsurance",
+        []
       ],
       [
-        [
-          "Zurich"
-        ],
+        "Zurich",
         [
           "/wiki/Canton_of_Zurich"
         ]
       ],
       [
-        [
-          "SREN"
-        ],
-        [
-          null
-        ]
+        "SREN",
+        []
       ],
       [
-        [
-          "3.24"
-        ],
-        [
-          null
-        ]
+        "3.24",
+        []
       ]
     ],
     [
       [
-        [
-          "Swisscom"
-        ],
+        "Swisscom",
         [
           "/wiki/Swisscom"
         ]
       ],
       [
-        [
-          "fixed line telecommunications"
-        ],
-        [
-          null
-        ]
+        "fixed line telecommunications",
+        []
       ],
       [
-        [
-          "Bern"
-        ],
+        "Bern",
         [
           "/wiki/Canton_of_Bern"
         ]
       ],
       [
-        [
-          "SCMN"
-        ],
-        [
-          null
-        ]
+        "SCMN",
+        []
       ],
       [
-        [
-          "1.34"
-        ],
-        [
-          null
-        ]
+        "1.34",
+        []
       ]
     ],
     [
       [
-        [
-          "UBS"
-        ],
+        "UBS",
         [
           "/wiki/UBS_AG"
         ]
       ],
       [
-        [
-          "banks"
-        ],
-        [
-          null
-        ]
+        "banks",
+        []
       ],
       [
-        [
-          "Zurich"
-        ],
+        "Zurich",
         [
           "/wiki/Canton_of_Zurich"
         ]
       ],
       [
-        [
-          "UBSG"
-        ],
-        [
-          null
-        ]
+        "UBSG",
+        []
       ],
       [
-        [
-          "4.41"
-        ],
-        [
-          null
-        ]
+        "4.41",
+        []
       ]
     ],
     [
       [
-        [
-          "Zurich Insurance"
-        ],
+        "Zurich Insurance",
         [
           "/wiki/Zurich_Insurance_Group"
         ]
       ],
       [
-        [
-          "full line insurance"
-        ],
-        [
-          null
-        ]
+        "full line insurance",
+        []
       ],
       [
-        [
-          "Zurich"
-        ],
+        "Zurich",
         [
           "/wiki/Canton_of_Zurich"
         ]
       ],
       [
-        [
-          "ZURN"
-        ],
-        [
-          null
-        ]
+        "ZURN",
+        []
       ],
       [
-        [
-          "5.76"
-        ],
-        [
-          null
-        ]
+        "5.76",
+        []
       ]
     ]
   ],

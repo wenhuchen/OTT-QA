@@ -3,843 +3,523 @@
   "title": "List of sequenced plant genomes",
   "header": [
     [
-      [
-        "Organism strain"
-      ],
-      [
-        null
-      ]
+      "Organism strain",
+      []
     ],
     [
-      [
-        "Family"
-      ],
-      [
-        null
-      ]
+      "Family",
+      []
     ],
     [
-      [
-        "Relevance"
-      ],
-      [
-        null
-      ]
+      "Relevance",
+      []
     ],
     [
-      [
-        "Genome size"
-      ],
-      [
-        null
-      ]
+      "Genome size",
+      []
     ],
     [
-      [
-        "Year of completion"
-      ],
-      [
-        null
-      ]
+      "Year of completion",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Setaria italica"
-        ],
+        "Setaria italica ( Foxtail millet )",
         [
           "/wiki/Setaria_italica"
         ]
       ],
       [
-        [
-          "Poaceae"
-        ],
+        "Poaceae",
         [
           "/wiki/Poaceae"
         ]
       ],
       [
-        [
-          "C4"
-        ],
+        "Model of C4 metabolism",
         [
           "/wiki/C4_carbon_fixation"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "2012"
-        ],
-        [
-          null
-        ]
+        "2012",
+        []
       ]
     ],
     [
       [
-        [
-          "Aegilops tauschii"
-        ],
+        "Aegilops tauschii ( Tausch 's goatgrass )",
         [
           "/wiki/Aegilops_tauschii"
         ]
       ],
       [
-        [
-          "Poaceae"
-        ],
+        "Poaceae",
         [
           "/wiki/Poaceae"
         ]
       ],
       [
-        [
-          "bread wheat D-genome progenitor"
-        ],
-        [
-          null
-        ]
+        "bread wheat D-genome progenitor",
+        []
       ],
       [
-        [
-          "ca 4.36 Gb"
-        ],
-        [
-          null
-        ]
+        "ca 4.36 Gb",
+        []
       ],
       [
-        [
-          "2017"
-        ],
-        [
-          null
-        ]
+        "2017",
+        []
       ]
     ],
     [
       [
-        [
-          "Brachypodium distachyon"
-        ],
+        "Brachypodium distachyon ( purple false brome )",
         [
           "/wiki/Brachypodium_distachyon"
         ]
       ],
       [
-        [
-          "Poaceae"
-        ],
+        "Poaceae",
         [
           "/wiki/Poaceae"
         ]
       ],
       [
-        [
-          "Model monocot"
-        ],
-        [
-          null
-        ]
+        "Model monocot",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "2010"
-        ],
-        [
-          null
-        ]
+        "2010",
+        []
       ]
     ],
     [
       [
-        [
-          "Coix lacryma-jobi"
-        ],
+        "Coix lacryma-jobi L. ( Job 's tears )",
         [
           "/wiki/Job's_tears"
         ]
       ],
       [
-        [
-          "Poaceae"
-        ],
+        "Poaceae",
         [
           "/wiki/Poaceae"
         ]
       ],
       [
-        [
-          "Crop & used in medicine & ornamentation"
-        ],
-        [
-          null
-        ]
+        "Crop & used in medicine & ornamentation",
+        []
       ],
       [
-        [
-          "1.619 Gb"
-        ],
-        [
-          null
-        ]
+        "1.619 Gb",
+        []
       ],
       [
-        [
-          "2019"
-        ],
-        [
-          null
-        ]
+        "2019",
+        []
       ]
     ],
     [
       [
-        [
-          "Dichanthelium oligosanthes"
-        ],
+        "Dichanthelium oligosanthes ( Heller 's rosette grass )",
         [
           "/wiki/Dichanthelium_oligosanthes"
         ]
       ],
       [
-        [
-          "Poaceae"
-        ],
+        "Poaceae",
         [
           "/wiki/Poaceae"
         ]
       ],
       [
-        [
-          "C3 grass closely related to C4 species"
-        ],
-        [
-          null
-        ]
+        "C3 grass closely related to C4 species",
+        []
       ],
       [
-        [
-          "960 Mb"
-        ],
-        [
-          null
-        ]
+        "960 Mb",
+        []
       ],
       [
-        [
-          "2016"
-        ],
-        [
-          null
-        ]
+        "2016",
+        []
       ]
     ],
     [
       [
-        [
-          "Eragrostis curvula"
-        ],
+        "Eragrostis curvula",
         [
           "/wiki/Eragrostis_curvula"
         ]
       ],
       [
-        [
-          "Poaceae"
-        ],
+        "Poaceae",
         [
           "/wiki/Poaceae"
         ]
       ],
       [
-        [
-          "good for livestock"
-        ],
-        [
-          null
-        ]
+        "good for livestock",
+        []
       ],
       [
-        [
-          "43.31 Mb"
-        ],
-        [
-          null
-        ]
+        "43.31 Mb",
+        []
       ],
       [
-        [
-          "2019"
-        ],
-        [
-          null
-        ]
+        "2019",
+        []
       ]
     ],
     [
       [
-        [
-          "Hordeum vulgare"
-        ],
+        "Hordeum vulgare ( barley )",
         [
           "/wiki/Hordeum_vulgare"
         ]
       ],
       [
-        [
-          "Poaceae"
-        ],
+        "Poaceae",
         [
           "/wiki/Poaceae"
         ]
       ],
       [
-        [
-          "Model of ecological adoption"
-        ],
-        [
-          null
-        ]
+        "Model of ecological adoption",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "2012 , 2017"
-        ],
-        [
-          null
-        ]
+        "2012 , 2017",
+        []
       ]
     ],
     [
       [
-        [
-          "Oryza brachyantha"
-        ],
+        "Oryza brachyantha ( wild rice )",
         [
           "/wiki/Oryza_brachyantha"
         ]
       ],
       [
-        [
-          "Poaceae"
-        ],
+        "Poaceae",
         [
           "/wiki/Poaceae"
         ]
       ],
       [
-        [
-          "Disease resistant wild relative of rice"
-        ],
-        [
-          null
-        ]
+        "Disease resistant wild relative of rice",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "2013"
-        ],
-        [
-          null
-        ]
+        "2013",
+        []
       ]
     ],
     [
       [
-        [
-          "Oryza glaberrima"
-        ],
+        "Oryza glaberrima ( African rice ) var CG14",
         [
           "/wiki/Oryza_glaberrima"
         ]
       ],
       [
-        [
-          "Poaceae"
-        ],
+        "Poaceae",
         [
           "/wiki/Poaceae"
         ]
       ],
       [
-        [
-          "West-African species of rice"
-        ],
-        [
-          null
-        ]
+        "West-African species of rice",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "2010"
-        ],
-        [
-          null
-        ]
+        "2010",
+        []
       ]
     ],
     [
       [
-        [
-          "Oryza rufipogon"
-        ],
+        "Oryza rufipogon ( red rice )",
         [
           "/wiki/Oryza_rufipogon"
         ]
       ],
       [
-        [
-          "Poaceae"
-        ],
+        "Poaceae",
         [
           "/wiki/Poaceae"
         ]
       ],
       [
-        [
-          "Oryza sativa"
-        ],
+        "Ancestor to Oryza sativa",
         [
           "/wiki/Oryza_sativa"
         ]
       ],
       [
-        [
-          "406 Mb"
-        ],
-        [
-          null
-        ]
+        "406 Mb",
+        []
       ],
       [
-        [
-          "2012"
-        ],
-        [
-          null
-        ]
+        "2012",
+        []
       ]
     ],
     [
       [
-        [
-          "Oryza sativa"
-        ],
+        "Oryza sativa ( long grain rice ) ssp indica",
         [
           "/wiki/Oryza_sativa"
         ]
       ],
       [
-        [
-          "Poaceae"
-        ],
+        "Poaceae",
         [
           "/wiki/Poaceae"
         ]
       ],
       [
-        [
-          "Crop and model cereal"
-        ],
-        [
-          null
-        ]
+        "Crop and model cereal",
+        []
       ],
       [
-        [
-          "430 Mb"
-        ],
-        [
-          null
-        ]
+        "430 Mb",
+        []
       ],
       [
-        [
-          "2002"
-        ],
-        [
-          null
-        ]
+        "2002",
+        []
       ]
     ],
     [
       [
-        [
-          "Oryza sativa"
-        ],
+        "Oryza sativa ( Short grain rice ) ssp japonica",
         [
           "/wiki/Oryza_sativa"
         ]
       ],
       [
-        [
-          "Poaceae"
-        ],
+        "Poaceae",
         [
           "/wiki/Poaceae"
         ]
       ],
       [
-        [
-          "Crop and model cereal"
-        ],
-        [
-          null
-        ]
+        "Crop and model cereal",
+        []
       ],
       [
-        [
-          "430 Mb"
-        ],
-        [
-          null
-        ]
+        "430 Mb",
+        []
       ],
       [
-        [
-          "2002"
-        ],
-        [
-          null
-        ]
+        "2002",
+        []
       ]
     ],
     [
       [
-        [
-          "Panicum virgatum"
-        ],
+        "Panicum virgatum ( switchgrass )",
         [
           "/wiki/Panicum_virgatum"
         ]
       ],
       [
-        [
-          "Poaceae"
-        ],
+        "Poaceae",
         [
           "/wiki/Poaceae"
         ]
       ],
       [
-        [
-          "biofuel"
-        ],
-        [
-          null
-        ]
+        "biofuel",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "2013 ?"
-        ],
-        [
-          null
-        ]
+        "2013 ?",
+        []
       ]
     ],
     [
       [
-        [
-          "Phyllostachys edulis"
-        ],
+        "Phyllostachys edulis ( moso bamboo )",
         [
           "/wiki/Phyllostachys_edulis"
         ]
       ],
       [
-        [
-          "Poaceae"
-        ],
+        "Poaceae",
         [
           "/wiki/Poaceae"
         ]
       ],
       [
-        [
-          "Bamboo textile industry"
-        ],
-        [
-          null
-        ]
+        "Bamboo textile industry",
+        []
       ],
       [
-        [
-          "79.90 Mb"
-        ],
-        [
-          null
-        ]
+        "79.90 Mb",
+        []
       ],
       [
-        [
-          "2013 2018"
-        ],
-        [
-          null
-        ]
+        "2013 2018",
+        []
       ]
     ],
     [
       [
-        [
-          "Sorghum bicolor"
-        ],
+        "Sorghum bicolor genotype BTx623",
         [
           "/wiki/Sorghum_bicolor"
         ]
       ],
       [
-        [
-          "Poaceae"
-        ],
+        "Poaceae",
         [
           "/wiki/Poaceae"
         ]
       ],
       [
-        [
-          "Crop"
-        ],
-        [
-          null
-        ]
+        "Crop",
+        []
       ],
       [
-        [
-          "ca 730 Mb"
-        ],
-        [
-          null
-        ]
+        "ca 730 Mb",
+        []
       ],
       [
-        [
-          "2009"
-        ],
-        [
-          null
-        ]
+        "2009",
+        []
       ]
     ],
     [
       [
-        [
-          "Triticum aestivum"
-        ],
+        "Triticum aestivum ( bread wheat )",
         [
           "/wiki/Triticum_aestivum"
         ]
       ],
       [
-        [
-          "Poaceae"
-        ],
+        "Poaceae",
         [
           "/wiki/Poaceae"
         ]
       ],
       [
-        [
-          "20% of global nutrition"
-        ],
-        [
-          null
-        ]
+        "20% of global nutrition",
+        []
       ],
       [
-        [
-          "14.5 Gb"
-        ],
-        [
-          null
-        ]
+        "14.5 Gb",
+        []
       ],
       [
-        [
-          "2018"
-        ],
-        [
-          null
-        ]
+        "2018",
+        []
       ]
     ],
     [
       [
-        [
-          "Triticum urartu"
-        ],
+        "Triticum urartu",
         [
           "/wiki/Triticum_urartu"
         ]
       ],
       [
-        [
-          "Poaceae"
-        ],
+        "Poaceae",
         [
           "/wiki/Poaceae"
         ]
       ],
       [
-        [
-          "Bread wheat A-genome progenitor"
-        ],
-        [
-          null
-        ]
+        "Bread wheat A-genome progenitor",
+        []
       ],
       [
-        [
-          "ca 4.94 Gb"
-        ],
-        [
-          null
-        ]
+        "ca 4.94 Gb",
+        []
       ],
       [
-        [
-          "2013"
-        ],
-        [
-          null
-        ]
+        "2013",
+        []
       ]
     ],
     [
       [
-        [
-          "Zea mays"
-        ],
+        "Zea mays ( maize ) ssp mays B73",
         [
           "/wiki/Zea_mays"
         ]
       ],
       [
-        [
-          "Poaceae"
-        ],
+        "Poaceae",
         [
           "/wiki/Poaceae"
         ]
       ],
       [
-        [
-          "Cereal crop"
-        ],
-        [
-          null
-        ]
+        "Cereal crop",
+        []
       ],
       [
-        [
-          "2.3 Gb"
-        ],
-        [
-          null
-        ]
+        "2.3 Gb",
+        []
       ],
       [
-        [
-          "2009"
-        ],
-        [
-          null
-        ]
+        "2009",
+        []
       ]
     ],
     [
       [
-        [
-          "Pennisetum glaucum"
-        ],
+        "Pennisetum glaucum ( pearl millet )",
         [
           "/wiki/Pennisetum_glaucum"
         ]
       ],
       [
-        [
-          "Poaceae"
-        ],
+        "Poaceae",
         [
           "/wiki/Poaceae"
         ]
       ],
       [
-        [
-          "Subsaharian and Sahelian millet species"
-        ],
-        [
-          null
-        ]
+        "Subsaharian and Sahelian millet species",
+        []
       ],
       [
-        [
-          "~1,79 Gb"
-        ],
-        [
-          null
-        ]
+        "~1,79 Gb",
+        []
       ],
       [
-        [
-          "2017"
-        ],
-        [
-          null
-        ]
+        "2017",
+        []
       ]
     ]
   ],

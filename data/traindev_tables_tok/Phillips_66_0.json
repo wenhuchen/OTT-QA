@@ -3,33 +3,21 @@
   "title": "Phillips 66",
   "header": [
     [
-      [
-        "Name"
-      ],
-      [
-        null
-      ]
+      "Name",
+      []
     ],
     [
-      [
-        "Location"
-      ],
-      [
-        null
-      ]
+      "Location",
+      []
     ],
     [
-      [
-        "Nelson Complexity Factor"
-      ],
+      "Nelson Complexity Factor",
       [
         "/wiki/Nelson_complexity_index"
       ]
     ],
     [
-      [
-        "MBD"
-      ],
+      "Crude Oil Processing Capacity ( MBD )",
       [
         "/wiki/Barrel_(unit)"
       ]
@@ -38,448 +26,274 @@
   "data": [
     [
       [
-        [
-          "Wood River Refinery*"
-        ],
+        "Wood River Refinery*",
         [
           "/wiki/Wood_River_Refinery"
         ]
       ],
       [
-        [
-          "Roxana , IL"
-        ],
+        "Roxana , IL",
         [
           "/wiki/Roxana,_Illinois"
         ]
       ],
       [
-        [
-          "9.8"
-        ],
-        [
-          null
-        ]
+        "9.8",
+        []
       ],
       [
-        [
-          "305"
-        ],
-        [
-          null
-        ]
+        "305",
+        []
       ]
     ],
     [
       [
-        [
-          "Alliance Refinery"
-        ],
-        [
-          null
-        ]
+        "Alliance Refinery",
+        []
       ],
       [
-        [
-          "Belle Chasse , LA"
-        ],
+        "Belle Chasse , LA",
         [
           "/wiki/Belle_Chase,_Louisiana"
         ]
       ],
       [
-        [
-          "12.0"
-        ],
-        [
-          null
-        ]
+        "12.0",
+        []
       ],
       [
-        [
-          "247"
-        ],
-        [
-          null
-        ]
+        "247",
+        []
       ]
     ],
     [
       [
-        [
-          "Sweeny Refinery"
-        ],
-        [
-          null
-        ]
+        "Sweeny Refinery",
+        []
       ],
       [
-        [
-          "Old Ocean , TX"
-        ],
+        "Old Ocean , TX",
         [
           "/wiki/Old_Ocean,_Texas"
         ]
       ],
       [
-        [
-          "13.2"
-        ],
-        [
-          null
-        ]
+        "13.2",
+        []
       ],
       [
-        [
-          "247"
-        ],
-        [
-          null
-        ]
+        "247",
+        []
       ]
     ],
     [
       [
-        [
-          "Bayway Refinery"
-        ],
+        "Bayway Refinery",
         [
           "/wiki/Bayway_Refinery"
         ]
       ],
       [
-        [
-          "Linden , NJ"
-        ],
+        "Linden , NJ",
         [
           "/wiki/Linden,_New_Jersey"
         ]
       ],
       [
-        [
-          "8.5"
-        ],
-        [
-          null
-        ]
+        "8.5",
+        []
       ],
       [
-        [
-          "238"
-        ],
-        [
-          null
-        ]
+        "238",
+        []
       ]
     ],
     [
       [
-        [
-          "Lake Charles Refinery"
-        ],
-        [
-          null
-        ]
+        "Lake Charles Refinery",
+        []
       ],
       [
-        [
-          "Westlake , LA"
-        ],
+        "Westlake , LA",
         [
           "/wiki/Westlake,_Louisiana"
         ]
       ],
       [
-        [
-          "10.2"
-        ],
-        [
-          null
-        ]
+        "10.2",
+        []
       ],
       [
-        [
-          "239"
-        ],
-        [
-          null
-        ]
+        "239",
+        []
       ]
     ],
     [
       [
-        [
-          "Ponca City Refinery"
-        ],
-        [
-          null
-        ]
+        "Ponca City Refinery",
+        []
       ],
       [
-        [
-          "Ponca City , OK"
-        ],
+        "Ponca City , OK",
         [
           "/wiki/Ponca_City,_Oklahoma"
         ]
       ],
       [
-        [
-          "9.8"
-        ],
-        [
-          null
-        ]
+        "9.8",
+        []
       ],
       [
-        [
-          "210"
-        ],
-        [
-          null
-        ]
+        "210",
+        []
       ]
     ],
     [
       [
-        [
-          "Borger Refinery*"
-        ],
-        [
-          null
-        ]
+        "Borger Refinery*",
+        []
       ],
       [
-        [
-          "Borger , TX"
-        ],
+        "Borger , TX",
         [
           "/wiki/Borger,_Texas"
         ]
       ],
       [
-        [
-          "12.3"
-        ],
-        [
-          null
-        ]
+        "12.3",
+        []
       ],
       [
-        [
-          "146"
-        ],
-        [
-          null
-        ]
+        "146",
+        []
       ]
     ],
     [
       [
-        [
-          "Los Angeles Refinery"
-        ],
-        [
-          null
-        ]
+        "Los Angeles Refinery",
+        []
       ],
       [
-        [
-          "Carson , CA",
-          "Wilmington , CA"
-        ],
+        "Carson , CA / Wilmington , CA",
         [
           "/wiki/Carson,_California",
           "/wiki/Wilmington,_Los_Angeles"
         ]
       ],
       [
-        [
-          "14.1"
-        ],
-        [
-          null
-        ]
+        "14.1",
+        []
       ],
       [
-        [
-          "139"
-        ],
-        [
-          null
-        ]
+        "139",
+        []
       ]
     ],
     [
       [
-        [
-          "San Francisco Refinery"
-        ],
-        [
-          null
-        ]
+        "San Francisco Refinery",
+        []
       ],
       [
-        [
-          "Rodeo , CA",
-          "Arroyo Grande , CA"
-        ],
+        "Rodeo , CA / Arroyo Grande , CA",
         [
           "/wiki/Rodeo,_California",
           "/wiki/Arroyo_Grande,_California"
         ]
       ],
       [
-        [
-          "13.6"
-        ],
-        [
-          null
-        ]
+        "13.6",
+        []
       ],
       [
-        [
-          "120"
-        ],
-        [
-          null
-        ]
+        "120",
+        []
       ]
     ],
     [
       [
-        [
-          "Ferndale Refinery"
-        ],
+        "Ferndale Refinery",
         [
           "/wiki/Ferndale_Refinery"
         ]
       ],
       [
-        [
-          "Ferndale , WA"
-        ],
+        "Ferndale , WA",
         [
           "/wiki/Ferndale,_Washington"
         ]
       ],
       [
-        [
-          "7.4"
-        ],
-        [
-          null
-        ]
+        "7.4",
+        []
       ],
       [
-        [
-          "100"
-        ],
-        [
-          null
-        ]
+        "100",
+        []
       ]
     ],
     [
       [
-        [
-          "Billings Refinery"
-        ],
+        "Billings Refinery",
         [
           "/wiki/Billings_Refinery_(Phillips_66)"
         ]
       ],
       [
-        [
-          "Billings , MT"
-        ],
+        "Billings , MT",
         [
           "/wiki/Billings,_Montana"
         ]
       ],
       [
-        [
-          "14.3"
-        ],
-        [
-          null
-        ]
+        "14.3",
+        []
       ],
       [
-        [
-          "58"
-        ],
-        [
-          null
-        ]
+        "58",
+        []
       ]
     ],
     [
       [
-        [
-          "Humber Refinery"
-        ],
+        "Humber Refinery",
         [
           "/wiki/Humber_Refinery"
         ]
       ],
       [
-        [
-          "North Lincolnshire"
-        ],
+        "North Lincolnshire",
         [
           "/wiki/North_Lincolnshire"
         ]
       ],
       [
-        [
-          "11.6"
-        ],
-        [
-          null
-        ]
+        "11.6",
+        []
       ],
       [
-        [
-          "221"
-        ],
-        [
-          null
-        ]
+        "221",
+        []
       ]
     ],
     [
       [
-        [
-          "MIRO Refinery*"
-        ],
-        [
-          null
-        ]
+        "MIRO Refinery*",
+        []
       ],
       [
-        [
-          "Karlsruhe"
-        ],
+        "Karlsruhe",
         [
           "/wiki/Karlsruhe"
         ]
       ],
       [
-        [
-          "7.9"
-        ],
-        [
-          null
-        ]
+        "7.9",
+        []
       ],
       [
-        [
-          "58"
-        ],
-        [
-          null
-        ]
+        "58",
+        []
       ]
     ]
   ],

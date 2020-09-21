@@ -3,153 +3,89 @@
   "title": "Flight distance record",
   "header": [
     [
-      [
-        "Year"
-      ],
-      [
-        null
-      ]
+      "Year",
+      []
     ],
     [
-      [
-        "Date"
-      ],
-      [
-        null
-      ]
+      "Date",
+      []
     ],
     [
-      [
-        "Distance"
-      ],
-      [
-        null
-      ]
+      "Distance",
+      []
     ],
     [
-      [
-        "Pilot"
-      ],
-      [
-        null
-      ]
+      "Pilot",
+      []
     ],
     [
-      [
-        "Aircraft"
-      ],
-      [
-        null
-      ]
+      "Aircraft",
+      []
     ],
     [
-      [
-        "Notes"
-      ],
-      [
-        null
-      ]
+      "Notes",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "2006"
-        ],
-        [
-          null
-        ]
+        "2006",
+        []
       ],
       [
-        [
-          "February 12 , 2006"
-        ],
-        [
-          null
-        ]
+        "February 12 , 2006",
+        []
       ],
       [
-        [
-          "41,467.46 km"
-        ],
-        [
-          null
-        ]
+        "41,467.46 km",
+        []
       ],
       [
-        [
-          "Steve Fossett"
-        ],
+        "Steve Fossett",
         [
           "/wiki/Steve_Fossett"
         ]
       ],
       [
-        [
-          "GlobalFlyer"
-        ],
+        "GlobalFlyer",
         [
           "/wiki/Virgin_Atlantic_GlobalFlyer"
         ]
       ],
       [
-        [
-          "Single pilot ( Steve Fossett ) flight"
-        ],
-        [
-          null
-        ]
+        "Single pilot ( Steve Fossett ) flight",
+        []
       ]
     ],
     [
       [
-        [
-          "1986"
-        ],
-        [
-          null
-        ]
+        "1986",
+        []
       ],
       [
-        [
-          "December 23 , 1986"
-        ],
-        [
-          null
-        ]
+        "December 23 , 1986",
+        []
       ],
       [
-        [
-          "40,212.14 km"
-        ],
-        [
-          null
-        ]
+        "40,212.14 km",
+        []
       ],
       [
-        [
-          "Richard Glenn Rutan",
-          "Jeana Yeager"
-        ],
+        "Richard Glenn Rutan and Jeana Yeager",
         [
           "/wiki/Richard_Glenn_Rutan",
           "/wiki/Jeana_Yeager"
         ]
       ],
       [
-        [
-          "Rutan Voyager"
-        ],
+        "Rutan Voyager",
         [
           "/wiki/Rutan_Voyager"
         ]
       ],
       [
-        [
-          "Circumnavigation",
-          "F\u00e9d\u00e9ration A\u00e9ronautique Internationale"
-        ],
+        "Circumnavigation . F\u00e9d\u00e9ration A\u00e9ronautique Internationale record holder up to 2006 ( current class holder )",
         [
           "/wiki/Circumnavigation",
           "/wiki/F\u00e9d\u00e9ration_A\u00e9ronautique_Internationale"
@@ -158,104 +94,59 @@
     ],
     [
       [
-        [
-          "1962"
-        ],
-        [
-          null
-        ]
+        "1962",
+        []
       ],
       [
-        [
-          "January 10-11 , 1962"
-        ],
-        [
-          null
-        ]
+        "January 10-11 , 1962",
+        []
       ],
       [
-        [
-          "20,168.78 km ( 12532.3 mi )"
-        ],
-        [
-          null
-        ]
+        "20,168.78 km ( 12532.3 mi )",
+        []
       ],
       [
-        [
-          "Major Clyde P. Evely and crew"
-        ],
-        [
-          null
-        ]
+        "Major Clyde P. Evely and crew",
+        []
       ],
       [
-        [
-          "Boeing B-52H Stratofortress"
-        ],
+        "Boeing B-52H Stratofortress",
         [
           "/wiki/Boeing_B-52_Stratofortress"
         ]
       ],
       [
-        [
-          "From Kadena AB , Okinawa to Torrejon AB , Spain , via Tokyo , Seattle , Fort Worth , Washington DC and the Azores"
-        ],
-        [
-          null
-        ]
+        "From Kadena AB , Okinawa to Torrejon AB , Spain , via Tokyo , Seattle , Fort Worth , Washington DC and the Azores",
+        []
       ]
     ],
     [
       [
+        "1946",
+        []
+      ],
+      [
+        "September 29 - October 2 , 1946",
+        []
+      ],
+      [
+        "18,083.6 km",
+        []
+      ],
+      [
+        "CDR Tom Davies pilot , Cdr . Eugene Rankin ( co-pilot ) and two crew",
         [
-          "1946"
-        ],
-        [
-          null
+          "/wiki/Commander_(United_States)"
         ]
       ],
       [
-        [
-          "September 29 - October 2 , 1946"
-        ],
-        [
-          null
-        ]
-      ],
-      [
-        [
-          "18,083.6 km"
-        ],
-        [
-          null
-        ]
-      ],
-      [
-        [
-          "CDR",
-          "Tom Davies",
-          "Eugene Rankin"
-        ],
-        [
-          "/wiki/Commander_(United_States)",
-          null,
-          null
-        ]
-      ],
-      [
-        [
-          "P2V-1 Neptune"
-        ],
+        "P2V-1 Neptune",
         [
           "/wiki/Lockheed_P-2_Neptune"
         ]
       ],
       [
-        [
-          "Perth , Australia",
-          "Columbus , U.S"
-        ],
+        "From Perth , Australia to Columbus , U.S",
         [
           "/wiki/Perth,_Western_Australia",
           "/wiki/Columbus,_Ohio"
@@ -264,209 +155,121 @@
     ],
     [
       [
+        "1945",
+        []
+      ],
+      [
+        "November 20 , 1945",
+        []
+      ],
+      [
+        "12,739.6 km",
+        []
+      ],
+      [
+        "U.S. Army Air Forces ; C. S. Irvine + crew of 9",
         [
-          "1945"
-        ],
-        [
-          null
+          "/wiki/United_States_Army_Air_Forces"
         ]
       ],
       [
-        [
-          "November 20 , 1945"
-        ],
-        [
-          null
-        ]
-      ],
-      [
-        [
-          "12,739.6 km"
-        ],
-        [
-          null
-        ]
-      ],
-      [
-        [
-          "U.S. Army Air Forces",
-          "C. S. Irvine"
-        ],
-        [
-          "/wiki/United_States_Army_Air_Forces",
-          null
-        ]
-      ],
-      [
-        [
-          "Boeing B-29 Superfortress"
-        ],
+        "Boeing B-29 Superfortress",
         [
           "/wiki/Boeing_B-29_Superfortress"
         ]
       ],
       [
-        [
-          "From Guam to Washington DC , USA"
-        ],
-        [
-          null
-        ]
+        "From Guam to Washington DC , USA",
+        []
       ]
     ],
     [
       [
-        [
-          "1944"
-        ],
-        [
-          null
-        ]
+        "1944",
+        []
       ],
       [
-        [
-          "July 2 , 1944"
-        ],
-        [
-          null
-        ]
+        "July 2 , 1944",
+        []
       ],
       [
-        [
-          "16,435 km"
-        ],
-        [
-          null
-        ]
+        "16,435 km",
+        []
       ],
       [
-        [
-          "Imperial Japanese Army Air Service"
-        ],
+        "Imperial Japanese Army Air Service ( Omata , Tanaka , Shimazaki , Sakamoto , Motimatsu , Habiro )",
         [
           "/wiki/Imperial_Japanese_Army_Air_Service"
         ]
       ],
       [
-        [
-          "Tachikawa Ki-77"
-        ],
+        "Tachikawa Ki-77",
         [
           "/wiki/Tachikawa_Ki-77"
         ]
       ],
       [
-        [
-          "From Hsinking to B\u00e1ich\u00e9ng , China ( closed circuit )"
-        ],
-        [
-          null
-        ]
+        "From Hsinking to B\u00e1ich\u00e9ng , China ( closed circuit )",
+        []
       ]
     ],
     [
       [
-        [
-          "1939"
-        ],
-        [
-          null
-        ]
+        "1939",
+        []
       ],
       [
-        [
-          "August 1 , 1939"
-        ],
-        [
-          null
-        ]
+        "August 1 , 1939",
+        []
       ],
       [
-        [
-          "12,936 km ( 8,038 mi )"
-        ],
-        [
-          null
-        ]
+        "12,936 km ( 8,038 mi )",
+        []
       ],
       [
-        [
-          "Regia Aeronautica"
-        ],
+        "Regia Aeronautica : Angelo Tondi , Riccardo Dogasso , Ferruccio Vignoni , Aldo Staiano",
         [
           "/wiki/Regia_Aeronautica"
         ]
       ],
       [
-        [
-          "Savoia-Marchetti SM.82"
-        ],
+        "Savoia-Marchetti SM.82",
         [
           "/wiki/Savoia-Marchetti_SM.82"
         ]
       ],
       [
-        [
-          "Closed-circuit world record"
-        ],
-        [
-          null
-        ]
+        "Closed-circuit world record",
+        []
       ]
     ],
     [
       [
+        "1938",
+        []
+      ],
+      [
+        "November 5-7 , 1938",
+        []
+      ],
+      [
+        "11,520.4 km ( 7,162 miles )",
+        []
+      ],
+      [
+        "Royal Air Force Long Range Development Unit ; R. Kellett , H.A.V . Hogan and A. N. Combe ( first pilots ) + crew of two ( also qualified pilots ) in each aircraft",
         [
-          "1938"
-        ],
-        [
-          null
+          "/wiki/Royal_Air_Force"
         ]
       ],
       [
-        [
-          "November 5-7 , 1938"
-        ],
-        [
-          null
-        ]
-      ],
-      [
-        [
-          "11,520.4 km ( 7,162 miles )"
-        ],
-        [
-          null
-        ]
-      ],
-      [
-        [
-          "Royal Air Force",
-          "R. Kellett",
-          "H.A.V . Hogan",
-          "A. N. Combe"
-        ],
-        [
-          "/wiki/Royal_Air_Force",
-          null,
-          null,
-          null
-        ]
-      ],
-      [
-        [
-          "Vickers Wellesley"
-        ],
+        "Vickers Wellesley",
         [
           "/wiki/Vickers_Wellesley"
         ]
       ],
       [
-        [
-          "Darwin , Northern Territory",
-          "Australia",
-          "Darwin , Northern Territory"
-        ],
+        "From Ismailia , Egypt to Darwin , Northern Territory in Australia ; three aircraft flew in formation , Hogan landed to refuel at Koepang ( 500 miles short of Darwin , Australia ) , the other two landed at Darwin , Northern Territory",
         [
           "/wiki/Darwin,_Northern_Territory",
           "/wiki/Australia",
@@ -476,151 +279,87 @@
     ],
     [
       [
-        [
-          "1938"
-        ],
-        [
-          null
-        ]
+        "1938",
+        []
       ],
       [
-        [
-          "May 13-15 , 1938"
-        ],
-        [
-          null
-        ]
+        "May 13-15 , 1938",
+        []
       ],
       [
-        [
-          "11,651.011 km"
-        ],
-        [
-          null
-        ]
+        "11,651.011 km",
+        []
       ],
       [
-        [
-          "Yuzoh Fujita"
-        ],
-        [
-          null
-        ]
+        "Yuzoh Fujita + crew ( Japan )",
+        []
       ],
       [
-        [
-          "Koken-ki"
-        ],
+        "Koken-ki",
         [
           "/wiki/Koken-ki"
         ]
       ],
       [
-        [
-          "Three-corner course over Japan . Closed-circuit record"
-        ],
-        [
-          null
-        ]
+        "Three-corner course over Japan . Closed-circuit record",
+        []
       ]
     ],
     [
       [
-        [
-          "1937"
-        ],
-        [
-          null
-        ]
+        "1937",
+        []
       ],
       [
-        [
-          "July 12-14 , 1937"
-        ],
-        [
-          null
-        ]
+        "July 12-14 , 1937",
+        []
       ],
       [
-        [
-          "10,148.5 km"
-        ],
-        [
-          null
-        ]
+        "10,148.5 km",
+        []
       ],
       [
-        [
-          "Mikhail Gromov"
-        ],
+        "Mikhail Gromov + crew ( Soviet Union )",
         [
           "/wiki/Mikhail_Gromov_(aviator)"
         ]
       ],
       [
-        [
-          "Tupolev ANT-25"
-        ],
+        "Tupolev ANT-25",
         [
           "/wiki/Tupolev_ANT-25"
         ]
       ],
       [
-        [
-          "From Moscow to San Jacinto , California , USA"
-        ],
-        [
-          null
-        ]
+        "From Moscow to San Jacinto , California , USA",
+        []
       ]
     ],
     [
       [
-        [
-          "1933"
-        ],
-        [
-          null
-        ]
+        "1933",
+        []
       ],
       [
-        [
-          "August 5-7 , 1933"
-        ],
-        [
-          null
-        ]
+        "August 5-7 , 1933",
+        []
       ],
       [
-        [
-          "9,104.7 km"
-        ],
-        [
-          null
-        ]
+        "9,104.7 km",
+        []
       ],
       [
-        [
-          "Maurice Rossi",
-          "Paul Codos"
-        ],
-        [
-          null,
-          null
-        ]
+        "Maurice Rossi and Paul Codos ( France )",
+        []
       ],
       [
-        [
-          "Bl\u00e9riot 110"
-        ],
+        "Bl\u00e9riot 110 F-ALCC",
         [
           "/wiki/Bl\u00e9riot_110"
         ]
       ],
       [
-        [
-          "Floyd Bennett Field"
-        ],
+        "From Floyd Bennett Field , New York , USA to Rayak , Syria",
         [
           "/wiki/Floyd_Bennett_Field"
         ]
@@ -628,53 +367,32 @@
     ],
     [
       [
-        [
-          "1933"
-        ],
-        [
-          null
-        ]
+        "1933",
+        []
       ],
       [
-        [
-          "February 8 , 1933"
-        ],
-        [
-          null
-        ]
+        "February 8 , 1933",
+        []
       ],
       [
-        [
-          "8,544 km"
-        ],
-        [
-          null
-        ]
+        "8,544 km",
+        []
       ],
       [
-        [
-          "Royal Air Force",
-          "O. R. Gayford",
-          "Gilbert Nicholetts"
-        ],
+        "Royal Air Force Long Range Development Unit ; O. R. Gayford and Gilbert Nicholetts",
         [
           "/wiki/Royal_Air_Force",
-          null,
           "/wiki/Gilbert_Nicholetts"
         ]
       ],
       [
-        [
-          "Fairey Long-range Monoplane"
-        ],
+        "Fairey Long-range Monoplane K1991",
         [
           "/wiki/Fairey_Long-range_Monoplane"
         ]
       ],
       [
-        [
-          "Walvis Bay"
-        ],
+        "From Cranwell , UK , to Walvis Bay , South Africa",
         [
           "/wiki/Walvis_Bay"
         ]
@@ -682,50 +400,31 @@
     ],
     [
       [
-        [
-          "1931"
-        ],
-        [
-          null
-        ]
+        "1931",
+        []
       ],
       [
-        [
-          "August 18-29"
-        ],
-        [
-          null
-        ]
+        "August 18-29",
+        []
       ],
       [
-        [
-          "8,940 km"
-        ],
-        [
-          null
-        ]
+        "8,940 km",
+        []
       ],
       [
-        [
-          "Marga von Etzdorf"
-        ],
+        "Marga von Etzdorf",
         [
           "/wiki/Marga_von_Etzdorf"
         ]
       ],
       [
-        [
-          "Junkers A 50ce Junior"
-        ],
+        "Junkers A 50ce Junior",
         [
           "/wiki/Junkers_A50"
         ]
       ],
       [
-        [
-          "Berlin Tempelhof Airport",
-          "Haneda Airport"
-        ],
+        "From Berlin Tempelhof Airport to Haneda Airport",
         [
           "/wiki/Berlin_Tempelhof_Airport",
           "/wiki/Haneda_Airport"
@@ -734,53 +433,32 @@
     ],
     [
       [
-        [
-          "1931"
-        ],
-        [
-          null
-        ]
+        "1931",
+        []
       ],
       [
-        [
-          "July 28-31"
-        ],
-        [
-          null
-        ]
+        "July 28-31",
+        []
       ],
       [
-        [
-          "8,066 km"
-        ],
-        [
-          null
-        ]
+        "8,066 km",
+        []
       ],
       [
-        [
-          "Russell Boardman",
-          "John Polando"
-        ],
+        "Russell Boardman and John Polando",
         [
           "/wiki/Russell_Boardman",
           "/wiki/John_Polando"
         ]
       ],
       [
-        [
-          "Bellanca J-300 Special Cape Cod"
-        ],
+        "Bellanca J-300 Special Cape Cod NR761W",
         [
           "/wiki/Bellanca_CH-300"
         ]
       ],
       [
-        [
-          "Floyd Bennett Field",
-          "Istanbul",
-          "Turkey"
-        ],
+        "From Floyd Bennett Field to Istanbul , Turkey",
         [
           "/wiki/Floyd_Bennett_Field",
           "/wiki/Istanbul",
@@ -790,101 +468,62 @@
     ],
     [
       [
-        [
-          "1929"
-        ],
-        [
-          null
-        ]
+        "1929",
+        []
       ],
       [
-        [
-          "December 15-19 , 1929"
-        ],
-        [
-          null
-        ]
+        "December 15-19 , 1929",
+        []
       ],
       [
-        [
-          "8,029.44 km"
-        ],
-        [
-          null
-        ]
+        "8,029.44 km",
+        []
       ],
       [
-        [
-          "Dieudonn\u00e9 Costes"
-        ],
+        "Dieudonn\u00e9 Costes and P. Codas",
         [
           "/wiki/Dieudonn\u00e9_Costes"
         ]
       ],
       [
-        [
-          "Breguet 19"
-        ],
+        "Breguet 19 Super Bidon Point d'Interrogation",
         [
           "/wiki/Breguet_19"
         ]
       ],
       [
-        [
-          "Closed-circuit record"
-        ],
-        [
-          null
-        ]
+        "Closed-circuit record",
+        []
       ]
     ],
     [
       [
-        [
-          "1929"
-        ],
-        [
-          null
-        ]
+        "1929",
+        []
       ],
       [
-        [
-          "September 27-29 , 1929"
-        ],
-        [
-          null
-        ]
+        "September 27-29 , 1929",
+        []
       ],
       [
-        [
-          "7,905.140 km"
-        ],
-        [
-          null
-        ]
+        "7,905.140 km",
+        []
       ],
       [
-        [
-          "Dieudonne Costes",
-          "Maurice Bellonte"
-        ],
+        "Dieudonne Costes and Maurice Bellonte",
         [
           "/wiki/Dieudonne_Costes",
           "/wiki/Maurice_Bellonte"
         ]
       ],
       [
-        [
-          "Breguet 19"
-        ],
+        "Breguet 19 Super Bidon Point d'Interrogation",
         [
           "/wiki/Breguet_19"
         ]
       ],
       [
-        [
-          "Qiqihar"
-        ],
+        "Paris to Qiqihar , China",
         [
           "/wiki/Qiqihar"
         ]
@@ -892,102 +531,60 @@
     ],
     [
       [
-        [
-          "1928"
-        ],
-        [
-          null
-        ]
+        "1928",
+        []
       ],
       [
-        [
-          "July 3-5 , 1928"
-        ],
-        [
-          null
-        ]
+        "July 3-5 , 1928",
+        []
       ],
       [
-        [
-          "7.188,26"
-        ],
-        [
-          null
-        ]
+        "7.188,26",
+        []
       ],
       [
-        [
-          "Arturo Ferrarin"
-        ],
+        "Arturo Ferrarin and Carlo del Prete",
         [
           "/wiki/Arturo_Ferrarin"
         ]
       ],
       [
-        [
-          "Savoia Marchetti S.64"
-        ],
-        [
-          null
-        ]
+        "Savoia Marchetti S.64",
+        []
       ],
       [
-        [
-          "From Montecelio ( Italy ) to Touros ( Brasil ) . Distance in a straight line . FAI Database ID # 9108"
-        ],
-        [
-          null
-        ]
+        "From Montecelio ( Italy ) to Touros ( Brasil ) . Distance in a straight line . FAI Database ID # 9108",
+        []
       ]
     ],
     [
       [
-        [
-          "1927"
-        ],
-        [
-          null
-        ]
+        "1927",
+        []
       ],
       [
-        [
-          "June 28-29"
-        ],
-        [
-          null
-        ]
+        "June 28-29",
+        []
       ],
       [
-        [
-          "3,862.43 km"
-        ],
-        [
-          null
-        ]
+        "3,862.43 km",
+        []
       ],
       [
-        [
-          "Albert Francis Hegenberger",
-          "Lester Maitland"
-        ],
+        "Albert Francis Hegenberger and Lester Maitland",
         [
           "/wiki/Albert_Francis_Hegenberger",
           "/wiki/Lester_Maitland"
         ]
       ],
       [
-        [
-          "Fokker F.VII"
-        ],
+        "Fokker F.VII",
         [
           "/wiki/Fokker_F.VII"
         ]
       ],
       [
-        [
-          "Distinguished Flying Cross",
-          "Calvin Coolidge"
-        ],
+        "From California to Hawaii , the longest open sea flight up to that date , in the Bird of Paradise . They received the Mackey Trophy and the Distinguished Flying Cross from President Calvin Coolidge for this achievement",
         [
           "/wiki/Distinguished_Flying_Cross_(United_States)",
           "/wiki/Calvin_Coolidge"
@@ -996,102 +593,60 @@
     ],
     [
       [
-        [
-          "1927"
-        ],
-        [
-          null
-        ]
+        "1927",
+        []
       ],
       [
-        [
-          "May 20-21 , 1927"
-        ],
-        [
-          null
-        ]
+        "May 20-21 , 1927",
+        []
       ],
       [
-        [
-          "5,809 km"
-        ],
-        [
-          null
-        ]
+        "5,809 km",
+        []
       ],
       [
-        [
-          "Charles Lindbergh"
-        ],
+        "Charles Lindbergh",
         [
           "/wiki/Charles_Lindbergh"
         ]
       ],
       [
-        [
-          "Ryan NYP , Spirit of St. Louis"
-        ],
+        "Ryan NYP , Spirit of St. Louis",
         [
           "/wiki/Spirit_of_St._Louis"
         ]
       ],
       [
-        [
-          "Single pilot flight New York - Paris"
-        ],
-        [
-          null
-        ]
+        "Single pilot flight New York - Paris",
+        []
       ]
     ],
     [
       [
-        [
-          "1926"
-        ],
-        [
-          null
-        ]
+        "1926",
+        []
       ],
       [
-        [
-          "October 28-29 , 1926"
-        ],
-        [
-          null
-        ]
+        "October 28-29 , 1926",
+        []
       ],
       [
-        [
-          "5,396 km"
-        ],
-        [
-          null
-        ]
+        "5,396 km",
+        []
       ],
       [
-        [
-          "Dieudonn\u00e9 Costes"
-        ],
+        "Dieudonn\u00e9 Costes and Jean Rignot",
         [
           "/wiki/Dieudonn\u00e9_Costes"
         ]
       ],
       [
-        [
-          "Breguet 19 GR"
-        ],
-        [
-          null
-        ]
+        "Breguet 19 GR",
+        []
       ],
       [
-        [
-          "From Paris-Le Bourget Airport to Djask , Iran"
-        ],
-        [
-          null
-        ]
+        "From Paris-Le Bourget Airport to Djask , Iran",
+        []
       ]
     ]
   ],

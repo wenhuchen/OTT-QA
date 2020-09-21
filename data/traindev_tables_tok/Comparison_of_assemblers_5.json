@@ -3,106 +3,71 @@
   "title": "Comparison of assemblers",
   "header": [
     [
-      [
-        "Assembler"
-      ],
-      [
-        null
-      ]
+      "Assembler",
+      []
     ],
     [
-      [
-        "Operating system"
-      ],
+      "Operating system",
       [
         "/wiki/Operating_system"
       ]
     ],
     [
-      [
-        "FOSS"
-      ],
+      "FOSS",
       [
         "/wiki/Free_and_open-source_software"
       ]
     ],
     [
-      [
-        "License"
-      ],
+      "License",
       [
         "/wiki/Software_license"
       ]
     ],
     [
-      [
-        "Development active"
-      ],
-      [
-        null
-      ]
+      "Development active",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "A86/A386"
-        ],
+        "A86/A386",
         [
           "/wiki/A86_(software)"
         ]
       ],
       [
-        [
-          "Windows",
-          "DOS"
-        ],
+        "Windows , DOS",
         [
           "/wiki/Microsoft_Windows",
           "/wiki/DOS"
         ]
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary",
         [
           "/wiki/Proprietary_software"
         ]
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ]
     ],
     [
       [
-        [
-          "ACK"
-        ],
+        "ACK",
         [
           "/wiki/Amsterdam_Compiler_Kit"
         ]
       ],
       [
-        [
-          "Linux",
-          "MINIX",
-          "Unix-like"
-        ],
+        "Linux , MINIX , Unix-like",
         [
           "/wiki/Linux",
           "/wiki/MINIX",
@@ -110,131 +75,85 @@
         ]
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "BSD"
-        ],
+        "BSD since 2003",
         [
           "/wiki/BSD_licenses"
         ]
       ],
       [
-        [
-          "1985- ?"
-        ],
-        [
-          null
-        ]
+        "1985- ?",
+        []
       ]
     ],
     [
       [
-        [
-          "IBM ALP"
-        ],
+        "IBM ALP",
         [
           "/wiki/IBM_ALP"
         ]
       ],
       [
-        [
-          "OS/2"
-        ],
+        "OS/2",
         [
           "/wiki/OS/2"
         ]
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary",
         [
           "/wiki/Proprietary_software"
         ]
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ]
     ],
     [
       [
-        [
-          "AT & T"
-        ],
+        "AT & T",
         [
           "/wiki/AT&T"
         ]
       ],
       [
-        [
-          "Unix System V"
-        ],
+        "Unix System V",
         [
           "/wiki/Unix_System_V"
         ]
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary",
         [
           "/wiki/Proprietary_software"
         ]
       ],
       [
-        [
-          "1985- ?"
-        ],
-        [
-          null
-        ]
+        "1985- ?",
+        []
       ]
     ],
     [
       [
-        [
-          "Digital Research"
-        ],
+        "Digital Research ASM86",
         [
           "/wiki/Digital_Research"
         ]
       ],
       [
-        [
-          "CP/M-86",
-          "DOS",
-          "Intel",
-          "ISIS",
-          "iRMX"
-        ],
+        "CP/M-86 , DOS , Intel 's ISIS and iRMX",
         [
           "/wiki/CP/M-86",
           "/wiki/DOS",
@@ -244,46 +163,29 @@
         ]
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary",
         [
           "/wiki/Proprietary_software"
         ]
       ],
       [
-        [
-          "1978-1992"
-        ],
-        [
-          null
-        ]
+        "1978-1992",
+        []
       ]
     ],
     [
       [
-        [
-          "FASM"
-        ],
+        "FASM",
         [
           "/wiki/FASM"
         ]
       ],
       [
-        [
-          "Windows",
-          "DOS",
-          "Linux",
-          "Unix-like"
-        ],
+        "Windows , DOS , Linux , Unix-like",
         [
           "/wiki/Microsoft_Windows",
           "/wiki/DOS",
@@ -292,48 +194,30 @@
         ]
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "BSD",
-          "Copyleft"
-        ],
+        "BSD with added Copyleft",
         [
           "/wiki/BSD_licenses",
           "/wiki/Copyleft"
         ]
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ]
     ],
     [
       [
-        [
-          "GAS"
-        ],
+        "GAS",
         [
           "/wiki/GNU_Assembler"
         ]
       ],
       [
-        [
-          "Unix-like",
-          "Windows",
-          "DOS",
-          "OS/2"
-        ],
+        "Unix-like , Windows , DOS , OS/2",
         [
           "/wiki/Unix-like",
           "/wiki/Microsoft_Windows",
@@ -342,46 +226,29 @@
         ]
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "GNU GPL"
-        ],
+        "GNU GPL",
         [
           "/wiki/GNU_General_Public_License"
         ]
       ],
       [
-        [
-          "Since 1987"
-        ],
-        [
-          null
-        ]
+        "Since 1987",
+        []
       ]
     ],
     [
       [
-        [
-          "HLA"
-        ],
+        "HLA",
         [
           "/wiki/High_Level_Assembly"
         ]
       ],
       [
-        [
-          "Windows",
-          "Linux",
-          "FreeBSD",
-          "macOS"
-        ],
+        "Windows , Linux , FreeBSD , macOS",
         [
           "/wiki/Microsoft_Windows",
           "/wiki/Linux",
@@ -390,47 +257,29 @@
         ]
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "Public domain"
-        ],
+        "Public domain",
         [
           "/wiki/Public_domain"
         ]
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ]
     ],
     [
       [
-        [
-          "Open Watcom Assembler"
-        ],
+        "Open Watcom Assembler ( HJWASM a.k.a . UASM , JWASM , WASM )",
         [
           "/wiki/Open_Watcom_Assembler"
         ]
       ],
       [
-        [
-          "Linux",
-          "Windows",
-          "DOS",
-          "FreeBSD",
-          "OS/2"
-        ],
+        "Linux , Windows , DOS , FreeBSD , OS/2",
         [
           "/wiki/Linux",
           "/wiki/Microsoft_Windows",
@@ -440,47 +289,32 @@
         ]
       ],
       [
-        [
-          "OSI",
-          "FSF"
-        ],
+        "approved by OSI , but not by FSF",
         [
           "/wiki/Open_Source_Initiative",
           "/wiki/Free_Software_Foundation"
         ]
       ],
       [
-        [
-          "Sybase Open Watcom Public"
-        ],
+        "Sybase Open Watcom Public",
         [
           "/wiki/Sybase_Open_Watcom_Public_License"
         ]
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ]
     ],
     [
       [
-        [
-          "MASM"
-        ],
+        "MASM",
         [
           "/wiki/Microsoft_Macro_Assembler"
         ]
       ],
       [
-        [
-          "Windows",
-          "DOS",
-          "OS/2"
-        ],
+        "Windows , DOS , OS/2",
         [
           "/wiki/Microsoft_Windows",
           "/wiki/DOS",
@@ -488,47 +322,29 @@
         ]
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ],
       [
-        [
-          "EULA"
-        ],
+        "Microsoft EULA",
         [
           "/wiki/End-user_license_agreement"
         ]
       ],
       [
-        [
-          "Since 1981"
-        ],
-        [
-          null
-        ]
+        "Since 1981",
+        []
       ]
     ],
     [
       [
-        [
-          "NASM"
-        ],
+        "NASM",
         [
           "/wiki/Netwide_Assembler"
         ]
       ],
       [
-        [
-          "Linux",
-          "macOS",
-          "Windows",
-          "DOS",
-          "OS/2"
-        ],
+        "Linux , macOS , Windows , DOS , OS/2",
         [
           "/wiki/Linux",
           "/wiki/MacOS",
@@ -538,45 +354,29 @@
         ]
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "BSD"
-        ],
+        "BSD",
         [
           "/wiki/BSD_licenses"
         ]
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ]
     ],
     [
       [
-        [
-          "Tim Paterson"
-        ],
+        "Tim Paterson 's ASM",
         [
           "/wiki/Tim_Paterson"
         ]
       ],
       [
-        [
-          "86-DOS",
-          "DOS",
-          "DEBUG"
-        ],
+        "86-DOS , DOS DEBUG",
         [
           "/wiki/86-DOS",
           "/wiki/DOS",
@@ -584,218 +384,137 @@
         ]
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary",
         [
           "/wiki/Proprietary_software"
         ]
       ],
       [
-        [
-          "1979-1983"
-        ],
-        [
-          null
-        ]
+        "1979-1983",
+        []
       ]
     ],
     [
       [
-        [
-          "TASM"
-        ],
+        "TASM",
         [
           "/wiki/Turbo_Assembler"
         ]
       ],
       [
-        [
-          "Windows",
-          "DOS"
-        ],
+        "Windows , DOS",
         [
           "/wiki/Microsoft_Windows",
           "/wiki/DOS"
         ]
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary",
         [
           "/wiki/Proprietary_software"
         ]
       ],
       [
-        [
-          "?"
-        ],
-        [
-          null
-        ]
+        "?",
+        []
       ]
     ],
     [
       [
-        [
-          "TCCASM"
-        ],
+        "TCCASM",
         [
           "/wiki/Tiny_C_Compiler"
         ]
       ],
       [
-        [
-          "Unix-like",
-          "Windows"
-        ],
+        "Unix-like , Windows",
         [
           "/wiki/Unix-like",
           "/wiki/Microsoft_Windows"
         ]
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "LGPL"
-        ],
+        "LGPL",
         [
           "/wiki/GNU_Lesser_General_Public_License"
         ]
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ]
     ],
     [
       [
-        [
-          "vasm"
-        ],
+        "vasm",
         [
           "/wiki/Vasm"
         ]
       ],
       [
-        [
-          "various"
-        ],
-        [
-          null
-        ]
+        "various",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "Free"
-        ],
-        [
-          null
-        ]
+        "Free",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ]
     ],
     [
       [
-        [
-          "Xenix"
-        ],
+        "Xenix",
         [
           "/wiki/Xenix"
         ]
       ],
       [
-        [
-          "Xenix"
-        ],
+        "Xenix 2.3 and 3.0 ( before 1985 )",
         [
           "/wiki/Xenix"
         ]
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary",
         [
           "/wiki/Proprietary_software"
         ]
       ],
       [
-        [
-          "1982-1984"
-        ],
-        [
-          null
-        ]
+        "1982-1984",
+        []
       ]
     ],
     [
       [
-        [
-          "Yasm"
-        ],
-        [
-          null
-        ]
+        "Yasm",
+        []
       ],
       [
-        [
-          "Windows",
-          "DOS",
-          "Linux",
-          "Unix-like"
-        ],
+        "Windows , DOS , Linux , Unix-like",
         [
           "/wiki/Microsoft_Windows",
           "/wiki/DOS",
@@ -804,28 +523,18 @@
         ]
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "BSD"
-        ],
+        "BSD",
         [
           "/wiki/BSD_licenses"
         ]
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ]
     ]
   ],

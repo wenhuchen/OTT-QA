@@ -3,84 +3,52 @@
   "title": "Aetosaur",
   "header": [
     [
-      [
-        "Genus"
-      ],
-      [
-        null
-      ]
+      "Genus",
+      []
     ],
     [
-      [
-        "Status"
-      ],
-      [
-        null
-      ]
+      "Status",
+      []
     ],
     [
-      [
-        "Age"
-      ],
-      [
-        null
-      ]
+      "Age",
+      []
     ],
     [
-      [
-        "Location"
-      ],
-      [
-        null
-      ]
+      "Location",
+      []
     ],
     [
-      [
-        "Unit"
-      ],
-      [
-        null
-      ]
+      "Unit",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Acaenasuchus"
-        ],
+        "Acaenasuchus",
         [
           "/wiki/Acaenasuchus"
         ]
       ],
       [
-        [
-          "Valid"
-        ],
-        [
-          null
-        ]
+        "Valid",
+        []
       ],
       [
-        [
-          "Norian"
-        ],
+        "Norian",
         [
           "/wiki/Norian"
         ]
       ],
       [
-        [
-          "USA"
-        ],
+        "USA",
         [
           "/wiki/United_States"
         ]
       ],
       [
-        [
-          "Chinle Group"
-        ],
+        "Chinle Group",
         [
           "/wiki/Chinle_Group"
         ]
@@ -88,41 +56,31 @@
     ],
     [
       [
-        [
-          "Acompsosaurus"
-        ],
+        "Acompsosaurus",
         [
           "/wiki/Acompsosaurus"
         ]
       ],
       [
-        [
-          "Nomen dubium"
-        ],
+        "Nomen dubium",
         [
           "/wiki/Nomen_dubium"
         ]
       ],
       [
-        [
-          "Late Triassic"
-        ],
+        "Late Triassic",
         [
           "/wiki/Late_Triassic"
         ]
       ],
       [
-        [
-          "USA"
-        ],
+        "USA",
         [
           "/wiki/United_States"
         ]
       ],
       [
-        [
-          "Chinle Formation"
-        ],
+        "Chinle Formation",
         [
           "/wiki/Chinle_Formation"
         ]
@@ -130,41 +88,29 @@
     ],
     [
       [
-        [
-          "Adamanasuchus"
-        ],
+        "Adamanasuchus",
         [
           "/wiki/Adamanasuchus"
         ]
       ],
       [
-        [
-          "Valid"
-        ],
-        [
-          null
-        ]
+        "Valid",
+        []
       ],
       [
-        [
-          "Carnian"
-        ],
+        "Carnian",
         [
           "/wiki/Carnian"
         ]
       ],
       [
-        [
-          "USA"
-        ],
+        "USA",
         [
           "/wiki/United_States"
         ]
       ],
       [
-        [
-          "Chinle Formation"
-        ],
+        "Chinle Formation",
         [
           "/wiki/Chinle_Formation"
         ]
@@ -172,43 +118,30 @@
     ],
     [
       [
-        [
-          "Aetobarbakinoides"
-        ],
+        "Aetobarbakinoides",
         [
           "/wiki/Aetobarbakinoides"
         ]
       ],
       [
-        [
-          "Valid"
-        ],
-        [
-          null
-        ]
+        "Valid",
+        []
       ],
       [
-        [
-          "Carnian",
-          "Norian"
-        ],
+        "Carnian - Norian",
         [
           "/wiki/Carnian",
           "/wiki/Norian"
         ]
       ],
       [
-        [
-          "Brazil"
-        ],
+        "Brazil",
         [
           "/wiki/Brazil"
         ]
       ],
       [
-        [
-          "Santa Maria Formation"
-        ],
+        "Santa Maria Formation",
         [
           "/wiki/Santa_Maria_Formation"
         ]
@@ -216,46 +149,31 @@
     ],
     [
       [
-        [
-          "Aetosauroides"
-        ],
+        "Aetosauroides",
         [
           "/wiki/Aetosauroides"
         ]
       ],
       [
-        [
-          "Valid"
-        ],
-        [
-          null
-        ]
+        "Valid",
+        []
       ],
       [
-        [
-          "Carnian",
-          "Norian"
-        ],
+        "Carnian - Norian",
         [
           "/wiki/Carnian",
           "/wiki/Norian"
         ]
       ],
       [
-        [
-          "Argentina",
-          "Brazil"
-        ],
+        "Argentina Brazil",
         [
           "/wiki/Argentina",
           "/wiki/Brazil"
         ]
       ],
       [
-        [
-          "Ischigualasto Formation",
-          "Santa Maria Formation"
-        ],
+        "Ischigualasto Formation Santa Maria Formation",
         [
           "/wiki/Ischigualasto_Formation",
           "/wiki/Santa_Maria_Formation"
@@ -264,35 +182,23 @@
     ],
     [
       [
-        [
-          "Aetosaurus"
-        ],
+        "Aetosaurus",
         [
           "/wiki/Aetosaurus"
         ]
       ],
       [
-        [
-          "Valid"
-        ],
-        [
-          null
-        ]
+        "Valid",
+        []
       ],
       [
-        [
-          "Norian"
-        ],
+        "Norian",
         [
           "/wiki/Norian"
         ]
       ],
       [
-        [
-          "Germany",
-          "Italy",
-          "Greenland"
-        ],
+        "Germany Italy Greenland",
         [
           "/wiki/Germany",
           "/wiki/Italy",
@@ -300,11 +206,7 @@
         ]
       ],
       [
-        [
-          "Lower Stubensandtein",
-          "Calcare di Zorzino Formation",
-          "Fleming Fjord Formation"
-        ],
+        "Lower Stubensandtein Calcare di Zorzino Formation Fleming Fjord Formation",
         [
           "/wiki/Stubensandtein",
           "/wiki/Zorzino_Limestone",
@@ -314,43 +216,30 @@
     ],
     [
       [
-        [
-          "Apachesuchus"
-        ],
+        "Apachesuchus",
         [
           "/wiki/Apachesuchus"
         ]
       ],
       [
-        [
-          "Valid"
-        ],
-        [
-          null
-        ]
+        "Valid",
+        []
       ],
       [
-        [
-          "Norian",
-          "Rhaetian"
-        ],
+        "late Norian - Rhaetian",
         [
           "/wiki/Norian",
           "/wiki/Rhaetian"
         ]
       ],
       [
-        [
-          "US"
-        ],
+        "US",
         [
           "/wiki/United_States"
         ]
       ],
       [
-        [
-          "Redonda Formation"
-        ],
+        "Redonda Formation",
         [
           "/wiki/Redonda_Formation"
         ]
@@ -358,43 +247,32 @@
     ],
     [
       [
-        [
-          "Argentinosuchus"
-        ],
+        "Argentinosuchus",
         [
           "/wiki/Argentinosuchus"
         ]
       ],
       [
-        [
-          "Nomen dubium"
-        ],
+        "Nomen dubium",
         [
           "/wiki/Nomen_dubium"
         ]
       ],
       [
-        [
-          "Carnian",
-          "Norian"
-        ],
+        "Carnian - Norian",
         [
           "/wiki/Carnian",
           "/wiki/Norian"
         ]
       ],
       [
-        [
-          "Argentina"
-        ],
+        "Argentina",
         [
           "/wiki/Argentina"
         ]
       ],
       [
-        [
-          "Ischigualasto Formation"
-        ],
+        "Ischigualasto Formation",
         [
           "/wiki/Ischigualasto_Formation"
         ]
@@ -402,41 +280,29 @@
     ],
     [
       [
-        [
-          "Calyptosuchus"
-        ],
+        "Calyptosuchus",
         [
           "/wiki/Calyptosuchus"
         ]
       ],
       [
-        [
-          "Valid"
-        ],
-        [
-          null
-        ]
+        "Valid",
+        []
       ],
       [
-        [
-          "Late Triassic"
-        ],
+        "Late Triassic",
         [
           "/wiki/Late_Triassic"
         ]
       ],
       [
-        [
-          "USA"
-        ],
+        "USA",
         [
           "/wiki/United_States"
         ]
       ],
       [
-        [
-          "Dockum Group"
-        ],
+        "Dockum Group",
         [
           "/wiki/Dockum_Group"
         ]
@@ -444,84 +310,57 @@
     ],
     [
       [
-        [
-          "Chilenosuchus"
-        ],
+        "Chilenosuchus",
         [
           "/wiki/Chilenosuchus"
         ]
       ],
       [
-        [
-          "Valid"
-        ],
-        [
-          null
-        ]
+        "Valid",
+        []
       ],
       [
-        [
-          "Late Triassic"
-        ],
+        "Late Triassic",
         [
           "/wiki/Late_Triassic"
         ]
       ],
       [
-        [
-          "Chile"
-        ],
+        "Chile",
         [
           "/wiki/Chile"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Coahomasuchus"
-        ],
+        "Coahomasuchus",
         [
           "/wiki/Coahomasuchus"
         ]
       ],
       [
-        [
-          "Valid"
-        ],
-        [
-          null
-        ]
+        "Valid",
+        []
       ],
       [
-        [
-          "Carnian"
-        ],
+        "Carnian",
         [
           "/wiki/Carnian"
         ]
       ],
       [
-        [
-          "USA"
-        ],
+        "USA",
         [
           "/wiki/United_States"
         ]
       ],
       [
-        [
-          "Dockum Group",
-          "Pekin Formation"
-        ],
+        "Dockum Group Pekin Formation",
         [
           "/wiki/Dockum_Group",
           "/wiki/Pekin_Formation"
@@ -530,43 +369,30 @@
     ],
     [
       [
-        [
-          "Desmatosuchus"
-        ],
+        "Desmatosuchus",
         [
           "/wiki/Desmatosuchus"
         ]
       ],
       [
-        [
-          "Valid"
-        ],
-        [
-          null
-        ]
+        "Valid",
+        []
       ],
       [
-        [
-          "Carnian",
-          "Norian"
-        ],
+        "Carnian - Norian",
         [
           "/wiki/Carnian",
           "/wiki/Norian"
         ]
       ],
       [
-        [
-          "USA"
-        ],
+        "USA",
         [
           "/wiki/United_States"
         ]
       ],
       [
-        [
-          "Dockum Group"
-        ],
+        "Dockum Group",
         [
           "/wiki/Dockum_Group"
         ]
@@ -574,41 +400,29 @@
     ],
     [
       [
-        [
-          "Gorgetosuchus"
-        ],
+        "Gorgetosuchus",
         [
           "/wiki/Gorgetosuchus"
         ]
       ],
       [
-        [
-          "Valid"
-        ],
-        [
-          null
-        ]
+        "Valid",
+        []
       ],
       [
-        [
-          "Late Triassic"
-        ],
+        "Late Triassic",
         [
           "/wiki/Late_Triassic"
         ]
       ],
       [
-        [
-          "USA"
-        ],
+        "USA",
         [
           "/wiki/United_States"
         ]
       ],
       [
-        [
-          "Pekin Formation"
-        ],
+        "Pekin Formation",
         [
           "/wiki/Pekin_Formation"
         ]
@@ -616,86 +430,59 @@
     ],
     [
       [
-        [
-          "Longosuchus"
-        ],
+        "Longosuchus",
         [
           "/wiki/Longosuchus"
         ]
       ],
       [
-        [
-          "Valid"
-        ],
-        [
-          null
-        ]
+        "Valid",
+        []
       ],
       [
-        [
-          "Carnian"
-        ],
+        "Carnian",
         [
           "/wiki/Carnian"
         ]
       ],
       [
-        [
-          "USA"
-        ],
+        "USA",
         [
           "/wiki/United_States"
         ]
       ],
       [
+        "Dockum Group Timesgadiouine Formation",
         [
-          "Dockum Group",
-          "Timesgadiouine Formation"
-        ],
-        [
-          "/wiki/Dockum_Group",
-          null
+          "/wiki/Dockum_Group"
         ]
       ]
     ],
     [
       [
-        [
-          "Lucasuchus"
-        ],
+        "Lucasuchus",
         [
           "/wiki/Lucasuchus"
         ]
       ],
       [
-        [
-          "Valid"
-        ],
-        [
-          null
-        ]
+        "Valid",
+        []
       ],
       [
-        [
-          "Norian"
-        ],
+        "Norian",
         [
           "/wiki/Norian"
         ]
       ],
       [
-        [
-          "USA"
-        ],
+        "USA",
         [
           "/wiki/United_States"
         ]
       ],
       [
-        [
-          "Bull Canyon Formation",
-          "Pekin Formation"
-        ],
+        "Bull Canyon Formation Pekin Formation",
         [
           "/wiki/Bull_Canyon_Formation",
           "/wiki/Pekin_Formation"
@@ -704,41 +491,29 @@
     ],
     [
       [
-        [
-          "Neoaetosauroides"
-        ],
+        "Neoaetosauroides",
         [
           "/wiki/Neoaetosauroides"
         ]
       ],
       [
-        [
-          "Valid"
-        ],
-        [
-          null
-        ]
+        "Valid",
+        []
       ],
       [
-        [
-          "Norian"
-        ],
+        "Norian",
         [
           "/wiki/Norian"
         ]
       ],
       [
-        [
-          "Argentina"
-        ],
+        "Argentina",
         [
           "/wiki/Argentina"
         ]
       ],
       [
-        [
-          "Los Colorados Formation"
-        ],
+        "Los Colorados Formation",
         [
           "/wiki/Los_Colorados_Formation"
         ]
@@ -746,37 +521,24 @@
     ],
     [
       [
-        [
-          "Paratypothorax"
-        ],
+        "Paratypothorax",
         [
           "/wiki/Paratypothorax"
         ]
       ],
       [
-        [
-          "Valid"
-        ],
-        [
-          null
-        ]
+        "Valid",
+        []
       ],
       [
-        [
-          "Carnian",
-          "Rhaetian"
-        ],
+        "Carnian - Rhaetian",
         [
           "/wiki/Carnian",
           "/wiki/Rhaetian"
         ]
       ],
       [
-        [
-          "Germany",
-          "USA",
-          "Greenland"
-        ],
+        "Germany USA Greenland",
         [
           "/wiki/Germany",
           "/wiki/United_States",
@@ -784,11 +546,7 @@
         ]
       ],
       [
-        [
-          "Lower Stubensandstein",
-          "Chinle Group",
-          "Fleming Fjord Formation"
-        ],
+        "Lower Stubensandstein Chinle Group Fleming Fjord Formation",
         [
           "/wiki/Lower_Stubensandstein",
           "/wiki/Chinle_Group",
@@ -798,41 +556,29 @@
     ],
     [
       [
-        [
-          "Redondasuchus"
-        ],
+        "Redondasuchus",
         [
           "/wiki/Redondasuchus"
         ]
       ],
       [
-        [
-          "Valid"
-        ],
-        [
-          null
-        ]
+        "Valid",
+        []
       ],
       [
-        [
-          "Norian"
-        ],
+        "Norian",
         [
           "/wiki/Norian"
         ]
       ],
       [
-        [
-          "USA"
-        ],
+        "USA",
         [
           "/wiki/United_States"
         ]
       ],
       [
-        [
-          "Redonda Formation"
-        ],
+        "Redonda Formation",
         [
           "/wiki/Redonda_Formation"
         ]
@@ -840,41 +586,29 @@
     ],
     [
       [
-        [
-          "Rioarribasuchus"
-        ],
+        "Rioarribasuchus",
         [
           "/wiki/Rioarribasuchus"
         ]
       ],
       [
-        [
-          "Valid"
-        ],
-        [
-          null
-        ]
+        "Valid",
+        []
       ],
       [
-        [
-          "Carnian"
-        ],
+        "Carnian",
         [
           "/wiki/Carnian"
         ]
       ],
       [
-        [
-          "USA"
-        ],
+        "USA",
         [
           "/wiki/United_States"
         ]
       ],
       [
-        [
-          "Chinle Formation"
-        ],
+        "Chinle Formation",
         [
           "/wiki/Chinle_Formation"
         ]

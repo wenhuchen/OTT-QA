@@ -3,120 +3,114 @@
   "title": "Ford of Europe",
   "header": [
     [
-      [
-        "Plant"
-      ],
-      [
-        null
-      ]
+      "Plant",
+      []
     ],
     [
-      [
-        "City"
-      ],
-      [
-        null
-      ]
+      "City",
+      []
     ],
     [
-      [
-        "Employees"
-      ],
-      [
-        null
-      ]
+      "Country",
+      []
     ],
     [
-      [
-        "Current/Last Products"
-      ],
-      [
-        null
-      ]
+      "Employees",
+      []
     ],
     [
-      [
-        "Opened"
-      ],
-      [
-        null
-      ]
+      "Current/Last Products",
+      []
+    ],
+    [
+      "Opened",
+      []
     ]
   ],
   "data": [
     [
       [
+        "Aachen Research Center",
+        []
+      ],
+      [
+        "Aachen",
         [
-          "Bordeaux"
-        ],
+          "/wiki/Aachen"
+        ]
+      ],
+      [
+        "Germany",
+        []
+      ],
+      [
+        "",
+        []
+      ],
+      [
+        "",
+        []
+      ],
+      [
+        "",
+        []
+      ]
+    ],
+    [
+      [
+        "Bordeaux Transmission Plant",
         [
           "/wiki/Bordeaux"
         ]
       ],
       [
-        [
-          "Blanquefort"
-        ],
+        "Blanquefort",
         [
           "/wiki/Blanquefort,_Gironde"
         ]
       ],
       [
+        "France",
         [
-          ""
-        ],
-        [
-          null
+          "/wiki/France"
         ]
       ],
       [
-        [
-          "IB5 Transmissions : Fiesta , Fusion , B-MAX , Focus , C-MAX , Mondeo"
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "IB5 Transmissions : Fiesta , Fusion , B-MAX , Focus , C-MAX , Mondeo",
+        []
+      ],
+      [
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Bridgend Engine"
-        ],
+        "Bridgend Engine",
         [
           "/wiki/Ford_Bridgend_Engine_Plant"
         ]
       ],
       [
-        [
-          "Bridgend"
-        ],
+        "Bridgend",
         [
           "/wiki/Bridgend"
         ]
       ],
       [
-        [
-          "2,137"
-        ],
-        [
-          null
-        ]
+        "United Kingdom",
+        []
       ],
       [
-        [
-          "EcoBoost",
-          "Volvo",
-          "Land Rover"
-        ],
+        "2,137",
+        []
+      ],
+      [
+        "The 1,6 I4 EcoBoost and the SI6 ( for Volvo , Land Rover ) petrol engine",
         [
           "/wiki/Ford_EcoBoost_engine",
           "/wiki/Volvo",
@@ -124,301 +118,221 @@
         ]
       ],
       [
-        [
-          "1980"
-        ],
-        [
-          null
-        ]
+        "1980",
+        []
       ]
     ],
     [
       [
-        [
-          "Cologne Body & Assembly"
-        ],
+        "Cologne Body & Assembly",
         [
           "/wiki/Cologne_Body_&_Assembly"
         ]
       ],
       [
-        [
-          "Cologne"
-        ],
+        "Cologne",
         [
           "/wiki/Cologne"
         ]
       ],
       [
-        [
-          "4,375"
-        ],
-        [
-          null
-        ]
+        "Germany",
+        []
       ],
       [
-        [
-          "Fiesta",
-          "EcoBoost"
-        ],
+        "4,375",
+        []
+      ],
+      [
+        "Fiesta , the 1.0 L I3 EcoBoost",
         [
           "/wiki/Ford_Fiesta",
           "/wiki/Ford_EcoBoost_engine"
         ]
       ],
       [
-        [
-          "1931"
-        ],
-        [
-          null
-        ]
+        "1931",
+        []
       ]
     ],
     [
       [
-        [
-          "Merkenich Technical/Design Centre"
-        ],
-        [
-          null
-        ]
+        "Merkenich Technical/Design Centre",
+        []
       ],
       [
-        [
-          "Merkenich , Cologne"
-        ],
+        "Merkenich , Cologne",
         [
           "/wiki/Cologne"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "Germany",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "1968"
-        ],
-        [
-          null
-        ]
+        "",
+        []
+      ],
+      [
+        "1968",
+        []
       ]
     ],
     [
       [
-        [
-          "Craiova Assembly"
-        ],
+        "Craiova Assembly",
         [
           "/wiki/Ford_Romania"
         ]
       ],
       [
-        [
-          "Craiova"
-        ],
+        "Craiova",
         [
           "/wiki/Craiova"
         ]
       ],
       [
+        "Romania",
         [
-          "3,600"
-        ],
-        [
-          null
+          "/wiki/Romania"
         ]
       ],
       [
-        [
-          "B-Max",
-          "EcoBoost"
-        ],
+        "3,600",
+        []
+      ],
+      [
+        "B-Max , the 1.0 L I3 EcoBoost",
         [
           "/wiki/Ford_B-Max",
           "/wiki/Ford_EcoBoost_engine"
         ]
       ],
       [
-        [
-          "2008"
-        ],
-        [
-          null
-        ]
+        "2008",
+        []
       ]
     ],
     [
       [
-        [
-          "Dagenham Engine"
-        ],
+        "Dagenham Engine",
         [
           "/wiki/Ford_Dagenham"
         ]
       ],
       [
-        [
-          "Dagenham"
-        ],
+        "Dagenham",
         [
           "/wiki/Dagenham"
         ]
       ],
       [
-        [
-          "1,835"
-        ],
-        [
-          null
-        ]
+        "United Kingdom",
+        []
       ],
       [
-        [
-          "All Ford Europe diesel engines"
-        ],
-        [
-          null
-        ]
+        "1,835",
+        []
       ],
       [
-        [
-          "1931"
-        ],
-        [
-          null
-        ]
+        "All Ford Europe diesel engines",
+        []
+      ],
+      [
+        "1931",
+        []
       ]
     ],
     [
       [
-        [
-          "Dunton Technical Centre"
-        ],
+        "Dunton Technical Centre",
         [
           "/wiki/Dunton_Technical_Centre"
         ]
       ],
       [
-        [
-          "Dunton Wayletts"
-        ],
+        "Dunton Wayletts",
         [
           "/wiki/Dunton_Wayletts"
         ]
       ],
       [
-        [
-          "3,000"
-        ],
-        [
-          null
-        ]
+        "United Kingdom",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "3,000",
+        []
       ],
       [
-        [
-          "1967"
-        ],
-        [
-          null
-        ]
+        "",
+        []
+      ],
+      [
+        "1967",
+        []
       ]
     ],
     [
       [
-        [
-          "Halewood Transmission"
-        ],
+        "Halewood Transmission",
         [
           "/wiki/Halewood_Body_&_Assembly"
         ]
       ],
       [
-        [
-          "Halewood"
-        ],
+        "Halewood , Merseyside",
         [
           "/wiki/Halewood"
         ]
       ],
       [
-        [
-          "715"
-        ],
-        [
-          null
-        ]
+        "United Kingdom",
+        []
       ],
       [
-        [
-          "Transmissions"
-        ],
-        [
-          null
-        ]
+        "715",
+        []
       ],
       [
-        [
-          "1963"
-        ],
-        [
-          null
-        ]
+        "Transmissions",
+        []
+      ],
+      [
+        "1963",
+        []
       ]
     ],
     [
       [
-        [
-          "Otosan Assembly"
-        ],
+        "Otosan Assembly",
         [
           "/wiki/Otosan"
         ]
       ],
       [
-        [
-          "Kocaeli"
-        ],
+        "Kocaeli",
         [
           "/wiki/Kocaeli_Province"
         ]
       ],
       [
+        "Turkey",
         [
-          "7,534"
-        ],
-        [
-          null
+          "/wiki/Turkey"
         ]
       ],
       [
-        [
-          "Transit",
-          "Transit Custom",
-          "Transit Connect"
-        ],
+        "7,534",
+        []
+      ],
+      [
+        "Transit , Transit Custom , Transit Connect",
         [
           "/wiki/Ford_Transit",
           "/wiki/Ford_Transit_Custom",
@@ -426,133 +340,102 @@
         ]
       ],
       [
-        [
-          "2001"
-        ],
-        [
-          null
-        ]
+        "2001",
+        []
       ]
     ],
     [
       [
-        [
-          "Lommel Proving Grounds"
-        ],
+        "Lommel Proving Grounds",
         [
           "/wiki/Lommel_Proving_Grounds"
         ]
       ],
       [
-        [
-          "Lommel"
-        ],
+        "Lommel",
         [
           "/wiki/Lommel"
         ]
       ],
       [
+        "Belgium",
         [
-          ""
-        ],
-        [
-          null
+          "/wiki/Belgium"
         ]
       ],
       [
-        [
-          "Proving grounds"
-        ],
+        "",
+        []
+      ],
+      [
+        "Proving grounds",
         [
           "/wiki/Proving_grounds"
         ]
       ],
       [
-        [
-          "1964"
-        ],
-        [
-          null
-        ]
+        "1964",
+        []
       ]
     ],
     [
       [
-        [
-          "Saarlouis Body & Assembly"
-        ],
+        "Saarlouis Body & Assembly",
         [
           "/wiki/Saarlouis_Body_&_Assembly"
         ]
       ],
       [
-        [
-          "Saarlouis"
-        ],
+        "Saarlouis",
         [
           "/wiki/Saarlouis"
         ]
       ],
       [
-        [
-          "6,199"
-        ],
-        [
-          null
-        ]
+        "Germany",
+        []
       ],
       [
-        [
-          "Focus",
-          "C-Max"
-        ],
+        "6,199",
+        []
+      ],
+      [
+        "Focus , C-Max",
         [
           "/wiki/Ford_Focus_(international)",
           "/wiki/Ford_C-Max"
         ]
       ],
       [
-        [
-          "1970"
-        ],
-        [
-          null
-        ]
+        "1970",
+        []
       ]
     ],
     [
       [
-        [
-          "Valencia Body & Assembly"
-        ],
+        "Valencia Body & Assembly",
         [
           "/wiki/Ford_Valencia_Plant"
         ]
       ],
       [
-        [
-          "Almussafes"
-        ],
+        "Almussafes",
         [
           "/wiki/Almusafes"
         ]
       ],
       [
+        "Spain",
         [
-          "3,485"
-        ],
-        [
-          null
+          "/wiki/Spain"
         ]
       ],
       [
-        [
-          "Kuga",
-          "Galaxy",
-          "Mondeo",
-          "S-Max",
-          "Transit"
-        ],
+        "3,485",
+        []
+      ],
+      [
+        "Kuga , Galaxy , Mondeo , S-Max , Transit",
         [
           "/wiki/Ford_Kuga",
           "/wiki/Ford_Galaxy",
@@ -562,56 +445,41 @@
         ]
       ],
       [
-        [
-          "1976"
-        ],
-        [
-          null
-        ]
+        "1976",
+        []
       ]
     ],
     [
       [
-        [
-          "Vsevolozhsk Assembly"
-        ],
-        [
-          null
-        ]
+        "Vsevolozhsk Assembly",
+        []
       ],
       [
-        [
-          "Vsevolozhsk"
-        ],
+        "Vsevolozhsk",
         [
           "/wiki/Vsevolozhsk"
         ]
       ],
       [
+        "Russia",
         [
-          "2,961"
-        ],
-        [
-          null
+          "/wiki/Russia"
         ]
       ],
       [
-        [
-          "Focus",
-          "Mondeo"
-        ],
+        "2,961",
+        []
+      ],
+      [
+        "Focus , Mondeo",
         [
           "/wiki/Ford_Focus_(international)",
           "/wiki/Ford_Mondeo"
         ]
       ],
       [
-        [
-          "2002"
-        ],
-        [
-          null
-        ]
+        "2002",
+        []
       ]
     ]
   ],

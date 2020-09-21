@@ -3,79 +3,44 @@
   "title": "List of busiest airports by cargo traffic",
   "header": [
     [
-      [
-        "Rank"
-      ],
-      [
-        null
-      ]
+      "Rank",
+      []
     ],
     [
-      [
-        "Airport"
-      ],
-      [
-        null
-      ]
+      "Airport",
+      []
     ],
     [
-      [
-        "Location"
-      ],
-      [
-        null
-      ]
+      "Location",
+      []
     ],
     [
-      [
-        "Code ( IATA/ICAO )"
-      ],
-      [
-        null
-      ]
+      "Code ( IATA/ICAO )",
+      []
     ],
     [
-      [
-        "Total Cargo ( tonnes )"
-      ],
-      [
-        null
-      ]
+      "Total Cargo ( tonnes )",
+      []
     ],
     [
-      [
-        "% Change"
-      ],
-      [
-        null
-      ]
+      "% Change",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "Hong Kong International Airport"
-        ],
+        "Hong Kong International Airport",
         [
           "/wiki/Hong_Kong_International_Airport"
         ]
       ],
       [
-        [
-          "Chek Lap Kok",
-          "Islands",
-          "New Territories",
-          "Hong Kong"
-        ],
+        "Chek Lap Kok , Islands , New Territories , Hong Kong",
         [
           "/wiki/Chek_Lap_Kok",
           "/wiki/Islands_District",
@@ -84,357 +49,213 @@
         ]
       ],
       [
-        [
-          "HKG/VHHH"
-        ],
-        [
-          null
-        ]
+        "HKG/VHHH",
+        []
       ],
       [
-        [
-          "4,166,033"
-        ],
-        [
-          null
-        ]
+        "4,166,033",
+        []
       ],
       [
-        [
-          "2.4%"
-        ],
-        [
-          null
-        ]
+        "2.4%",
+        []
       ]
     ],
     [
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "Memphis International Airport"
-        ],
+        "Memphis International Airport",
         [
           "/wiki/Memphis_International_Airport"
         ]
       ],
       [
-        [
-          "Memphis"
-        ],
+        "Memphis , Tennessee , United States",
         [
           "/wiki/Memphis,_Tennessee"
         ]
       ],
       [
-        [
-          "MEM/KMEM"
-        ],
-        [
-          null
-        ]
+        "MEM/KMEM",
+        []
       ],
       [
-        [
-          "4,137,801"
-        ],
-        [
-          null
-        ]
+        "4,137,801",
+        []
       ],
       [
-        [
-          "3.0%"
-        ],
-        [
-          null
-        ]
+        "3.0%",
+        []
       ]
     ],
     [
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "Shanghai Pudong International Airport"
-        ],
+        "Shanghai Pudong International Airport",
         [
           "/wiki/Shanghai_Pudong_International_Airport"
         ]
       ],
       [
-        [
-          "Pudong",
-          "Shanghai"
-        ],
+        "Pudong , Shanghai , China",
         [
           "/wiki/Pudong",
           "/wiki/Shanghai"
         ]
       ],
       [
-        [
-          "PVG/ZSPD"
-        ],
-        [
-          null
-        ]
+        "PVG/ZSPD",
+        []
       ],
       [
-        [
-          "2,928,527"
-        ],
-        [
-          null
-        ]
+        "2,928,527",
+        []
       ],
       [
-        [
-          "0.3%"
-        ],
-        [
-          null
-        ]
+        "0.3%",
+        []
       ]
     ],
     [
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "Incheon International Airport"
-        ],
+        "Incheon International Airport",
         [
           "/wiki/Incheon_International_Airport"
         ]
       ],
       [
-        [
-          "Incheon",
-          "Seoul National Capital Area"
-        ],
+        "Incheon , Seoul National Capital Area , South Korea",
         [
           "/wiki/Incheon",
           "/wiki/Seoul_National_Capital_Area"
         ]
       ],
       [
-        [
-          "ICN/RKSI"
-        ],
-        [
-          null
-        ]
+        "ICN/RKSI",
+        []
       ],
       [
-        [
-          "2,464,384"
-        ],
-        [
-          null
-        ]
+        "2,464,384",
+        []
       ],
       [
-        [
-          "0.3%"
-        ],
-        [
-          null
-        ]
+        "0.3%",
+        []
       ]
     ],
     [
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "Dubai International Airport"
-        ],
+        "Dubai International Airport",
         [
           "/wiki/Dubai_International_Airport"
         ]
       ],
       [
-        [
-          "Dubai"
-        ],
+        "Dubai , United Arab Emirates",
         [
           "/wiki/Dubai"
         ]
       ],
       [
-        [
-          "DXB/OMDB"
-        ],
-        [
-          null
-        ]
+        "DXB/OMDB",
+        []
       ],
       [
-        [
-          "2,435,567"
-        ],
-        [
-          null
-        ]
+        "2,435,567",
+        []
       ],
       [
-        [
-          "6.8%"
-        ],
-        [
-          null
-        ]
+        "6.8%",
+        []
       ]
     ],
     [
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "Ted Stevens Anchorage International Airport"
-        ],
+        "Ted Stevens Anchorage International Airport",
         [
           "/wiki/Ted_Stevens_Anchorage_International_Airport"
         ]
       ],
       [
-        [
-          "Anchorage"
-        ],
+        "Anchorage , Alaska , United States",
         [
           "/wiki/Anchorage,_Alaska"
         ]
       ],
       [
-        [
-          "ANC/PANC"
-        ],
-        [
-          null
-        ]
+        "ANC/PANC",
+        []
       ],
       [
-        [
-          "2,421,145"
-        ],
-        [
-          null
-        ]
+        "2,421,145",
+        []
       ],
       [
-        [
-          "1.7%"
-        ],
-        [
-          null
-        ]
+        "1.7%",
+        []
       ]
     ],
     [
       [
-        [
-          "7"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ],
       [
-        [
-          "Louisville International Airport"
-        ],
+        "Louisville International Airport",
         [
           "/wiki/Louisville_International_Airport"
         ]
       ],
       [
-        [
-          "Louisville"
-        ],
+        "Louisville , Kentucky , United States",
         [
           "/wiki/Louisville,_Kentucky"
         ]
       ],
       [
-        [
-          "SDF/KSDF"
-        ],
-        [
-          null
-        ]
+        "SDF/KSDF",
+        []
       ],
       [
-        [
-          "2,216,079"
-        ],
-        [
-          null
-        ]
+        "2,216,079",
+        []
       ],
       [
-        [
-          "2.2%"
-        ],
-        [
-          null
-        ]
+        "2.2%",
+        []
       ]
     ],
     [
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "Frankfurt Airport"
-        ],
+        "Frankfurt Airport",
         [
           "/wiki/Frankfurt_Airport"
         ]
       ],
       [
-        [
-          "Flughafen",
-          "Frankfurt",
-          "Hesse"
-        ],
+        "Flughafen , Frankfurt , Hesse , Germany",
         [
           "/wiki/Flughafen_(Frankfurt_am_Main)",
           "/wiki/Frankfurt",
@@ -442,54 +263,31 @@
         ]
       ],
       [
-        [
-          "FRA/EDDF"
-        ],
-        [
-          null
-        ]
+        "FRA/EDDF",
+        []
       ],
       [
-        [
-          "2,094,453"
-        ],
-        [
-          null
-        ]
+        "2,094,453",
+        []
       ],
       [
-        [
-          "1.4%"
-        ],
-        [
-          null
-        ]
+        "1.4%",
+        []
       ]
     ],
     [
       [
-        [
-          "9"
-        ],
-        [
-          null
-        ]
+        "9",
+        []
       ],
       [
-        [
-          "Paris-Charles de Gaulle Airport"
-        ],
+        "Paris-Charles de Gaulle Airport",
         [
           "/wiki/Paris-Charles_de_Gaulle_Airport"
         ]
       ],
       [
-        [
-          "Seine-et-Marne",
-          "Seine-Saint-Denis",
-          "Val-d'Oise",
-          "\u00cele-de-France"
-        ],
+        "Seine-et-Marne / Seine-Saint-Denis / Val-d'Oise , \u00cele-de-France , France",
         [
           "/wiki/Seine-et-Marne",
           "/wiki/Seine-Saint-Denis",
@@ -498,54 +296,31 @@
         ]
       ],
       [
-        [
-          "CDG/LFPG"
-        ],
-        [
-          null
-        ]
+        "CDG/LFPG",
+        []
       ],
       [
-        [
-          "2,069,200"
-        ],
-        [
-          null
-        ]
+        "2,069,200",
+        []
       ],
       [
-        [
-          "3.8%"
-        ],
-        [
-          null
-        ]
+        "3.8%",
+        []
       ]
     ],
     [
       [
-        [
-          "10"
-        ],
-        [
-          null
-        ]
+        "10",
+        []
       ],
       [
-        [
-          "Narita International Airport"
-        ],
+        "Narita International Airport",
         [
           "/wiki/Narita_International_Airport"
         ]
       ],
       [
-        [
-          "Narita",
-          "Chiba",
-          "Kant\u014d",
-          "Honsh\u016b"
-        ],
+        "Narita , Chiba , Kant\u014d , Honsh\u016b , Japan",
         [
           "/wiki/Narita,_Chiba",
           "/wiki/Chiba_Prefecture",
@@ -554,155 +329,92 @@
         ]
       ],
       [
-        [
-          "NRT/RJAA"
-        ],
-        [
-          null
-        ]
+        "NRT/RJAA",
+        []
       ],
       [
-        [
-          "2,019,844"
-        ],
-        [
-          null
-        ]
+        "2,019,844",
+        []
       ],
       [
-        [
-          "0.7%"
-        ],
-        [
-          null
-        ]
+        "0.7%",
+        []
       ]
     ],
     [
       [
-        [
-          "11"
-        ],
-        [
-          null
-        ]
+        "11",
+        []
       ],
       [
-        [
-          "Miami International Airport"
-        ],
+        "Miami International Airport",
         [
           "/wiki/Miami_International_Airport"
         ]
       ],
       [
-        [
-          "Miami"
-        ],
+        "Miami , Florida , United States",
         [
           "/wiki/Miami,_Florida"
         ]
       ],
       [
-        [
-          "MIA/KMIA"
-        ],
-        [
-          null
-        ]
+        "MIA/KMIA",
+        []
       ],
       [
-        [
-          "1,945,012"
-        ],
-        [
-          null
-        ]
+        "1,945,012",
+        []
       ],
       [
-        [
-          "0.8%"
-        ],
-        [
-          null
-        ]
+        "0.8%",
+        []
       ]
     ],
     [
       [
-        [
-          "12"
-        ],
-        [
-          null
-        ]
+        "12",
+        []
       ],
       [
-        [
-          "Singapore Changi Airport"
-        ],
+        "Singapore Changi Airport",
         [
           "/wiki/Singapore_Changi_Airport"
         ]
       ],
       [
-        [
-          "Changi",
-          "East Region"
-        ],
+        "Changi , East Region , Singapore",
         [
           "/wiki/Changi",
           "/wiki/East_Region,_Singapore"
         ]
       ],
       [
-        [
-          "SIN/WSSS"
-        ],
-        [
-          null
-        ]
+        "SIN/WSSS",
+        []
       ],
       [
-        [
-          "1,885,978"
-        ],
-        [
-          null
-        ]
+        "1,885,978",
+        []
       ],
       [
-        [
-          "0.8%"
-        ],
-        [
-          null
-        ]
+        "0.8%",
+        []
       ]
     ],
     [
       [
-        [
-          "13"
-        ],
-        [
-          null
-        ]
+        "13",
+        []
       ],
       [
-        [
-          "Beijing Capital International Airport"
-        ],
+        "Beijing Capital International Airport",
         [
           "/wiki/Beijing_Capital_International_Airport"
         ]
       ],
       [
-        [
-          "Chaoyang",
-          "Shunyi",
-          "Beijing"
-        ],
+        "Chaoyang - Shunyi , Beijing , China",
         [
           "/wiki/Chaoyang_District,_Beijing",
           "/wiki/Shunyi_District",
@@ -710,103 +422,61 @@
         ]
       ],
       [
-        [
-          "PEK/ZBAA"
-        ],
-        [
-          null
-        ]
+        "PEK/ZBAA",
+        []
       ],
       [
-        [
-          "1,843,681"
-        ],
-        [
-          null
-        ]
+        "1,843,681",
+        []
       ],
       [
-        [
-          "2.4%"
-        ],
-        [
-          null
-        ]
+        "2.4%",
+        []
       ]
     ],
     [
       [
-        [
-          "14"
-        ],
-        [
-          null
-        ]
+        "14",
+        []
       ],
       [
-        [
-          "Los Angeles International Airport"
-        ],
+        "Los Angeles International Airport",
         [
           "/wiki/Los_Angeles_International_Airport"
         ]
       ],
       [
-        [
-          "Los Angeles"
-        ],
+        "Los Angeles , California , United States",
         [
           "/wiki/Los_Angeles,_California"
         ]
       ],
       [
-        [
-          "LAX/KLAX"
-        ],
-        [
-          null
-        ]
+        "LAX/KLAX",
+        []
       ],
       [
-        [
-          "1,747,284"
-        ],
-        [
-          null
-        ]
+        "1,747,284",
+        []
       ],
       [
-        [
-          "1.9%"
-        ],
-        [
-          null
-        ]
+        "1.9%",
+        []
       ]
     ],
     [
       [
-        [
-          "15"
-        ],
-        [
-          null
-        ]
+        "15",
+        []
       ],
       [
-        [
-          "Taiwan Taoyuan International Airport"
-        ],
+        "Taiwan Taoyuan International Airport",
         [
           "/wiki/Taiwan_Taoyuan_International_Airport"
         ]
       ],
       [
-        [
-          "Dayuan",
-          "Taoyuan",
-          "Taiwan"
-        ],
+        "Dayuan , Taoyuan , Taiwan",
         [
           "/wiki/Dayuan_District",
           "/wiki/Taoyuan_City",
@@ -814,105 +484,62 @@
         ]
       ],
       [
-        [
-          "TPE/RCTP"
-        ],
-        [
-          null
-        ]
+        "TPE/RCTP",
+        []
       ],
       [
-        [
-          "1,571,814"
-        ],
-        [
-          null
-        ]
+        "1,571,814",
+        []
       ],
       [
-        [
-          "0.4%"
-        ],
-        [
-          null
-        ]
+        "0.4%",
+        []
       ]
     ],
     [
       [
-        [
-          "16"
-        ],
-        [
-          null
-        ]
+        "16",
+        []
       ],
       [
-        [
-          "Amsterdam Airport Schiphol"
-        ],
+        "Amsterdam Airport Schiphol",
         [
           "/wiki/Amsterdam_Airport_Schiphol"
         ]
       ],
       [
-        [
-          "Haarlemmermeer",
-          "North Holland"
-        ],
+        "Haarlemmermeer , North Holland , Netherlands",
         [
           "/wiki/Haarlemmermeer",
           "/wiki/North_Holland"
         ]
       ],
       [
-        [
-          "AMS/EHAM"
-        ],
-        [
-          null
-        ]
+        "AMS/EHAM",
+        []
       ],
       [
-        [
-          "1,565,961"
-        ],
-        [
-          null
-        ]
+        "1,565,961",
+        []
       ],
       [
-        [
-          "3.6%"
-        ],
-        [
-          null
-        ]
+        "3.6%",
+        []
       ]
     ],
     [
       [
-        [
-          "17"
-        ],
-        [
-          null
-        ]
+        "17",
+        []
       ],
       [
-        [
-          "London Heathrow Airport"
-        ],
+        "London Heathrow Airport",
         [
           "/wiki/London_Heathrow_Airport"
         ]
       ],
       [
-        [
-          "Hayes",
-          "Hillingdon",
-          "Greater London"
-        ],
+        "Hayes , Hillingdon , Greater London , United Kingdom",
         [
           "/wiki/Hayes,_Hillingdon",
           "/wiki/London_Borough_of_Hillingdon",
@@ -920,54 +547,31 @@
         ]
       ],
       [
-        [
-          "LHR/EGLL"
-        ],
-        [
-          null
-        ]
+        "LHR/EGLL",
+        []
       ],
       [
-        [
-          "1,515,056"
-        ],
-        [
-          null
-        ]
+        "1,515,056",
+        []
       ],
       [
-        [
-          "2.6%"
-        ],
-        [
-          null
-        ]
+        "2.6%",
+        []
       ]
     ],
     [
       [
-        [
-          "18"
-        ],
-        [
-          null
-        ]
+        "18",
+        []
       ],
       [
-        [
-          "Guangzhou Baiyun International Airport"
-        ],
+        "Guangzhou Baiyun International Airport",
         [
           "/wiki/Guangzhou_Baiyun_International_Airport"
         ]
       ],
       [
-        [
-          "Baiyun",
-          "Huadu",
-          "Guangzhou",
-          "Guangdong"
-        ],
+        "Baiyun - Huadu , Guangzhou , Guangdong , China",
         [
           "/wiki/Baiyun_District,_Guangzhou",
           "/wiki/Huadu_District",
@@ -976,105 +580,61 @@
         ]
       ],
       [
-        [
-          "CAN/ZGGG"
-        ],
-        [
-          null
-        ]
+        "CAN/ZGGG",
+        []
       ],
       [
-        [
-          "1,309,746"
-        ],
-        [
-          null
-        ]
+        "1,309,746",
+        []
       ],
       [
-        [
-          "4.9%"
-        ],
-        [
-          null
-        ]
+        "4.9%",
+        []
       ]
     ],
     [
       [
-        [
-          "19"
-        ],
-        [
-          null
-        ]
+        "19",
+        []
       ],
       [
-        [
-          "John F. Kennedy International Airport"
-        ],
+        "John F. Kennedy International Airport",
         [
           "/wiki/John_F._Kennedy_International_Airport"
         ]
       ],
       [
-        [
-          "New York City"
-        ],
+        "New York City , New York , United States",
         [
           "/wiki/New_York,_New_York"
         ]
       ],
       [
-        [
-          "JFK/KJFK"
-        ],
-        [
-          null
-        ]
+        "JFK/KJFK",
+        []
       ],
       [
-        [
-          "1,295,473"
-        ],
-        [
-          null
-        ]
+        "1,295,473",
+        []
       ],
       [
-        [
-          "0.8%"
-        ],
-        [
-          null
-        ]
+        "0.8%",
+        []
       ]
     ],
     [
       [
-        [
-          "20"
-        ],
-        [
-          null
-        ]
+        "20",
+        []
       ],
       [
-        [
-          "Suvarnabhumi Airport"
-        ],
+        "Suvarnabhumi Airport",
         [
           "/wiki/Suvarnabhumi_Airport"
         ]
       ],
       [
-        [
-          "Racha Thewa",
-          "Bang Phli",
-          "Samut Prakan",
-          "Greater Bangkok",
-          "Central"
-        ],
+        "Racha Thewa , Bang Phli , Samut Prakan , Greater Bangkok , Central , Thailand",
         [
           "/wiki/Racha_Thewa",
           "/wiki/Amphoe_Bang_Phli",
@@ -1084,28 +644,16 @@
         ]
       ],
       [
-        [
-          "BKK/VTBS"
-        ],
-        [
-          null
-        ]
+        "BKK/VTBS",
+        []
       ],
       [
-        [
-          "1,236,223"
-        ],
-        [
-          null
-        ]
+        "1,236,223",
+        []
       ],
       [
-        [
-          "8.1%"
-        ],
-        [
-          null
-        ]
+        "8.1%",
+        []
       ]
     ]
   ],

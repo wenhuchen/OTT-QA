@@ -3,189 +3,93 @@
   "title": "2006 Aerobic Gymnastics World Championships",
   "header": [
     [
-      [
-        "Rank"
-      ],
-      [
-        null
-      ]
+      "Rank",
+      []
     ],
     [
-      [
-        "Gymnast"
-      ],
-      [
-        null
-      ]
+      "Gymnast",
+      []
     ],
     [
-      [
-        "Country"
-      ],
-      [
-        null
-      ]
+      "Country",
+      []
     ],
     [
-      [
-        "Point"
-      ],
-      [
-        null
-      ]
+      "Point",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "Yan Song",
-          "Qin Yong",
-          "Xiong De Liang",
-          "He Shijian",
-          "Ao Jinping",
-          "Yu Wei"
-        ],
-        [
-          null,
-          null,
-          null,
-          null,
-          null,
-          null
-        ]
+        "Yan Song , Qin Yong , Xiong De Liang , He Shijian , Ao Jinping , Yu Wei",
+        []
       ],
       [
-        [
-          "China"
-        ],
+        "China",
         [
           "/wiki/China"
         ]
       ],
       [
-        [
-          "21.600"
-        ],
-        [
-          null
-        ]
+        "21.600",
+        []
       ]
     ],
     [
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "Gaylord Oubrier",
-          "Xavier Julien",
-          "Morgan Jacquemin",
-          "Adrien Galo",
-          "Vivien Peralta",
-          "Nicolas Garavel"
-        ],
-        [
-          null,
-          null,
-          null,
-          null,
-          null,
-          null
-        ]
+        "Gaylord Oubrier , Xavier Julien , Morgan Jacquemin , Adrien Galo , Vivien Peralta , Nicolas Garavel",
+        []
       ],
       [
-        [
-          "France"
-        ],
+        "France",
         [
           "/wiki/France"
         ]
       ],
       [
-        [
-          "20.850"
-        ],
-        [
-          null
-        ]
+        "20.850",
+        []
       ]
     ],
     [
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "Tang Peng",
-          "Wu Yongjun",
-          "Zhang Zhuo",
-          "Zhang Xue",
-          "Guo Xiaoping",
-          "Li Jia"
-        ],
+        "Tang Peng , Wu Yongjun , Zhang Zhuo , Zhang Xue , Guo Xiaoping , Li Jia",
         [
           "/wiki/Tang_Peng",
-          null,
-          null,
-          "/wiki/Zhang_Xue",
-          null,
-          null
+          "/wiki/Zhang_Xue"
         ]
       ],
       [
-        [
-          "China"
-        ],
+        "China",
         [
           "/wiki/China"
         ]
       ],
       [
-        [
-          "20.350"
-        ],
-        [
-          null
-        ]
+        "20.350",
+        []
       ]
     ],
     [
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "Raluca Elena Babaligea",
-          "Cristina Antonescu",
-          "Constantina Madalina Cioveie",
-          "Cristina Marin",
-          "Cristina Simona Nedelcu",
-          "Izabela L\u0103c\u0103tu\u0219"
-        ],
+        "Raluca Elena Babaligea , Cristina Antonescu , Constantina Madalina Cioveie , Cristina Marin , Cristina Simona Nedelcu , Izabela L\u0103c\u0103tu\u0219",
         [
           "/wiki/Raluca_Babaligea",
           "/wiki/Cristina_Antonescu",
@@ -196,196 +100,98 @@
         ]
       ],
       [
-        [
-          "Romania"
-        ],
+        "Romania",
         [
           "/wiki/Romania"
         ]
       ],
       [
-        [
-          "20.300"
-        ],
-        [
-          null
-        ]
+        "20.300",
+        []
       ]
     ],
     [
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "Denis Karepov",
-          "Konstantin Nekrasov",
-          "Vladimir Vorobyev",
-          "Roman Tymko",
-          "Sergei Konstantinov",
-          "Danila Shohin"
-        ],
-        [
-          null,
-          null,
-          null,
-          null,
-          null,
-          null
-        ]
+        "Denis Karepov , Konstantin Nekrasov , Vladimir Vorobyev , Roman Tymko , Sergei Konstantinov , Danila Shohin",
+        []
       ],
       [
-        [
-          "Russia"
-        ],
+        "Russia",
         [
           "/wiki/Russia"
         ]
       ],
       [
-        [
-          "19.750"
-        ],
-        [
-          null
-        ]
+        "19.750",
+        []
       ]
     ],
     [
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
+        "Lora Bertone , Arianna Ciucci , Daniela Tosci , Cinzia Galletti , Lisa Milani , Alice Capitani",
         [
-          "Lora Bertone",
-          "Arianna Ciucci",
-          "Daniela Tosci",
-          "Cinzia Galletti",
-          "Lisa Milani",
-          "Alice Capitani"
-        ],
-        [
-          null,
-          null,
-          null,
-          null,
-          null,
           "/wiki/Alice_Capitani"
         ]
       ],
       [
-        [
-          "Italy"
-        ],
+        "Italy",
         [
           "/wiki/Italy"
         ]
       ],
       [
-        [
-          "19.400"
-        ],
-        [
-          null
-        ]
+        "19.400",
+        []
       ]
     ],
     [
       [
+        "7",
+        []
+      ],
+      [
+        "Jonatan Canada , Israel Carrasco , Saray Martin , Alexandra Torres , Ivan Parejo , Toni Leyva",
         [
-          "7"
-        ],
-        [
-          null
+          "/wiki/Ivan_Parejo"
         ]
       ],
       [
-        [
-          "Jonatan Canada",
-          "Israel Carrasco",
-          "Saray Martin",
-          "Alexandra Torres",
-          "Ivan Parejo",
-          "Toni Leyva"
-        ],
-        [
-          null,
-          null,
-          null,
-          null,
-          "/wiki/Ivan_Parejo",
-          null
-        ]
-      ],
-      [
-        [
-          "Spain"
-        ],
+        "Spain",
         [
           "/wiki/Spain"
         ]
       ],
       [
-        [
-          "19.300"
-        ],
-        [
-          null
-        ]
+        "19.300",
+        []
       ]
     ],
     [
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "Elena Kurochkina",
-          "Eugenia Anisimova",
-          "Ekaterina Cherepanova",
-          "Anastasia Akhmadieva",
-          "Irina Klopova",
-          "Julia Amosova"
-        ],
-        [
-          null,
-          null,
-          null,
-          null,
-          null,
-          null
-        ]
+        "Elena Kurochkina , Eugenia Anisimova , Ekaterina Cherepanova , Anastasia Akhmadieva , Irina Klopova , Julia Amosova",
+        []
       ],
       [
-        [
-          "Russia"
-        ],
+        "Russia",
         [
           "/wiki/Russia"
         ]
       ],
       [
-        [
-          "19.250"
-        ],
-        [
-          null
-        ]
+        "19.250",
+        []
       ]
     ]
   ],

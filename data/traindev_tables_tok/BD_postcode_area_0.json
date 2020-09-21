@@ -3,76 +3,44 @@
   "title": "BD postcode area",
   "header": [
     [
-      [
-        "Postcode district"
-      ],
-      [
-        null
-      ]
+      "Postcode district",
+      []
     ],
     [
-      [
-        "Post town"
-      ],
+      "Post town",
       [
         "/wiki/Post_town"
       ]
     ],
     [
-      [
-        "Coverage"
-      ],
-      [
-        null
-      ]
+      "Coverage",
+      []
     ],
     [
-      [
-        "Local authority area"
-      ],
-      [
-        null
-      ]
+      "Local authority area",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "BD1"
-        ],
-        [
-          null
-        ]
+        "BD1",
+        []
       ],
       [
-        [
-          "BRADFORD"
-        ],
-        [
-          null
-        ]
+        "BRADFORD",
+        []
       ],
       [
-        [
-          "Bradford City Centre",
-          "Little Germany",
-          "Independent Quarter",
-          "West End",
-          "City Park"
-        ],
+        "Bradford City Centre , Little Germany , Goitside , Independent Quarter , West End , City Park",
         [
           "/wiki/City_of_Bradford",
           "/wiki/Little_Germany,_Bradford",
-          null,
-          null,
           "/wiki/Bradford_City_Park"
         ]
       ],
       [
-        [
-          "Bradford"
-        ],
+        "Bradford",
         [
           "/wiki/City_of_Bradford"
         ]
@@ -80,62 +48,35 @@
     ],
     [
       [
-        [
-          "BD2"
-        ],
-        [
-          null
-        ]
+        "BD2",
+        []
       ],
       [
-        [
-          "BRADFORD"
-        ],
-        [
-          null
-        ]
+        "BRADFORD",
+        []
       ],
       [
-        [
-          "Eccleshill"
-        ],
+        "Eccleshill , Five Lane Ends , parts of Undercliffe , Fagley , Bolton Woods , Poplars Farm , Swain House , Ashbourne , High House , Grove House",
         [
           "/wiki/Eccleshill,_West_Yorkshire"
         ]
       ],
       [
-        [
-          "Bradford"
-        ],
-        [
-          null
-        ]
+        "Bradford",
+        []
       ]
     ],
     [
       [
-        [
-          "BD3"
-        ],
-        [
-          null
-        ]
+        "BD3",
+        []
       ],
       [
-        [
-          "BRADFORD"
-        ],
-        [
-          null
-        ]
+        "BRADFORD",
+        []
       ],
       [
-        [
-          "Barkerend",
-          "Bradford Moor",
-          "Thornbury",
-          "Laisterdyke"
-        ],
+        "Barkerend , Bradford Moor , Thornbury , Eastbrook , Pollard Park , parts of , Laisterdyke , Undercliffe , Wapping",
         [
           "/wiki/Barkerend",
           "/wiki/Bradford_Moor",
@@ -144,9 +85,7 @@
         ]
       ],
       [
-        [
-          "Leeds"
-        ],
+        "Bradford , Leeds",
         [
           "/wiki/City_of_Leeds"
         ]
@@ -154,30 +93,15 @@
     ],
     [
       [
-        [
-          "BD4"
-        ],
-        [
-          null
-        ]
+        "BD4",
+        []
       ],
       [
-        [
-          "BRADFORD"
-        ],
-        [
-          null
-        ]
+        "BRADFORD",
+        []
       ],
       [
-        [
-          "East Bowling",
-          "Tong",
-          "Dudley Hill",
-          "Tyersal",
-          "Cutler Heights",
-          "Tong Village"
-        ],
+        "Bierley , East Bowling , East Bierley , Laisterdyke , Tong , Tong Street , Holme Wood , Dudley Hill , Tyersal , Swaine Green , Cutler Heights , Tong Village",
         [
           "/wiki/East_Bowling",
           "/wiki/Tong,_West_Yorkshire",
@@ -188,9 +112,7 @@
         ]
       ],
       [
-        [
-          "Leeds"
-        ],
+        "Bradford , Leeds",
         [
           "/wiki/City_of_Leeds"
         ]
@@ -198,64 +120,36 @@
     ],
     [
       [
-        [
-          "BD5"
-        ],
-        [
-          null
-        ]
+        "BD5",
+        []
       ],
       [
-        [
-          "BRADFORD"
-        ],
-        [
-          null
-        ]
+        "BRADFORD",
+        []
       ],
       [
-        [
-          "Little Horton",
-          "West Bowling"
-        ],
+        "Bankfoot , Little Horton , West Bowling , Canterbury , Marshfields , Ripleyville ,",
         [
           "/wiki/Little_Horton",
           "/wiki/West_Bowling"
         ]
       ],
       [
-        [
-          "Bradford"
-        ],
-        [
-          null
-        ]
+        "Bradford",
+        []
       ]
     ],
     [
       [
-        [
-          "BD6"
-        ],
-        [
-          null
-        ]
+        "BD6",
+        []
       ],
       [
-        [
-          "BRADFORD"
-        ],
-        [
-          null
-        ]
+        "BRADFORD",
+        []
       ],
       [
-        [
-          "Buttershaw",
-          "Wibsey",
-          "Odsal",
-          "Staithgate"
-        ],
+        "Buttershaw , Wibsey , Woodside , Westwood Park , Odsal , Staithgate , parts of Horton Bank Top ( Cooperville )",
         [
           "/wiki/Buttershaw",
           "/wiki/Wibsey",
@@ -264,71 +158,41 @@
         ]
       ],
       [
-        [
-          "Bradford"
-        ],
-        [
-          null
-        ]
+        "Bradford",
+        []
       ]
     ],
     [
       [
-        [
-          "BD7"
-        ],
-        [
-          null
-        ]
+        "BD7",
+        []
       ],
       [
-        [
-          "BRADFORD"
-        ],
-        [
-          null
-        ]
+        "BRADFORD",
+        []
       ],
       [
-        [
-          "Great Horton"
-        ],
+        "Great Horton , Lidget Green , Scholemoor , Horton Bank Top , Horton Grange",
         [
           "/wiki/Great_Horton"
         ]
       ],
       [
-        [
-          "Bradford"
-        ],
-        [
-          null
-        ]
+        "Bradford",
+        []
       ]
     ],
     [
       [
-        [
-          "BD8"
-        ],
-        [
-          null
-        ]
+        "BD8",
+        []
       ],
       [
-        [
-          "BRADFORD"
-        ],
-        [
-          null
-        ]
+        "BRADFORD",
+        []
       ],
       [
-        [
-          "Manningham",
-          "Girlington",
-          "Belle Vue"
-        ],
+        "Manningham , Girlington , White Abbey , Lower Grange , Four Lane Ends , Whetley , Longlands , West Park , Rhodesway , Crossley Hall , Belle Vue",
         [
           "/wiki/Manningham,_Bradford",
           "/wiki/Girlington,_Bradford",
@@ -336,127 +200,74 @@
         ]
       ],
       [
-        [
-          "Bradford"
-        ],
-        [
-          null
-        ]
+        "Bradford",
+        []
       ]
     ],
     [
       [
-        [
-          "BD9"
-        ],
-        [
-          null
-        ]
+        "BD9",
+        []
       ],
       [
-        [
-          "BRADFORD"
-        ],
-        [
-          null
-        ]
+        "BRADFORD",
+        []
       ],
       [
-        [
-          "Frizinghall",
-          "Heaton"
-        ],
+        "Frizinghall , Heaton , Daisy Hill , Haworth Road Estate , Chellow Heights , Chellow Grange",
         [
           "/wiki/Frizinghall",
           "/wiki/Heaton,_West_Yorkshire"
         ]
       ],
       [
-        [
-          "Bradford"
-        ],
-        [
-          null
-        ]
+        "Bradford",
+        []
       ]
     ],
     [
       [
-        [
-          "BD10"
-        ],
-        [
-          null
-        ]
+        "BD10",
+        []
       ],
       [
-        [
-          "BRADFORD"
-        ],
-        [
-          null
-        ]
+        "BRADFORD",
+        []
       ],
       [
-        [
-          "Apperley Bridge",
-          "Eccleshill",
-          "Greengates",
-          "Idle",
-          "Ravenscliffe",
-          "Thackley",
-          "Thorpe Edge"
-        ],
+        "Apperley Bridge , parts of Eccleshill , Greengates , Idle , Ravenscliffe , Thackley , Thorpe Edge",
         [
           "/wiki/Apperley_Bridge",
           "/wiki/Eccleshill,_West_Yorkshire",
           "/wiki/Greengates",
           "/wiki/Idle,_West_Yorkshire",
           "/wiki/Ravenscliffe,_West_Yorkshire",
-          "/wiki/Thackley",
-          null
+          "/wiki/Thackley"
         ]
       ],
       [
-        [
-          "Bradford , Leeds"
-        ],
-        [
-          null
-        ]
+        "Bradford , Leeds",
+        []
       ]
     ],
     [
       [
-        [
-          "BD11"
-        ],
-        [
-          null
-        ]
+        "BD11",
+        []
       ],
       [
-        [
-          "BRADFORD"
-        ],
-        [
-          null
-        ]
+        "BRADFORD",
+        []
       ],
       [
-        [
-          "Birkenshaw",
-          "Drighlington"
-        ],
+        "Birkenshaw , Drighlington",
         [
           "/wiki/Birkenshaw,_West_Yorkshire",
           "/wiki/Drighlington"
         ]
       ],
       [
-        [
-          "Kirklees"
-        ],
+        "Kirklees , Leeds",
         [
           "/wiki/Kirklees"
         ]
@@ -464,28 +275,15 @@
     ],
     [
       [
-        [
-          "BD12"
-        ],
-        [
-          null
-        ]
+        "BD12",
+        []
       ],
       [
-        [
-          "BRADFORD"
-        ],
-        [
-          null
-        ]
+        "BRADFORD",
+        []
       ],
       [
-        [
-          "Low Moor",
-          "Oakenshaw",
-          "Wyke",
-          "Lower Wyke"
-        ],
+        "Low Moor , Oakenshaw , Wyke , Lower Wyke , Delph Hill",
         [
           "/wiki/Low_Moor,_Bradford",
           "/wiki/Oakenshaw,_West_Yorkshire",
@@ -494,38 +292,21 @@
         ]
       ],
       [
-        [
-          "Bradford , Kirklees"
-        ],
-        [
-          null
-        ]
+        "Bradford , Kirklees",
+        []
       ]
     ],
     [
       [
-        [
-          "BD13"
-        ],
-        [
-          null
-        ]
+        "BD13",
+        []
       ],
       [
-        [
-          "BRADFORD"
-        ],
-        [
-          null
-        ]
+        "BRADFORD",
+        []
       ],
       [
-        [
-          "Cullingworth",
-          "Denholme",
-          "Queensbury",
-          "Thornton"
-        ],
+        "Cullingworth , Clayton Heights Denholme , Queensbury , Thornton , School Green",
         [
           "/wiki/Cullingworth",
           "/wiki/Denholme",
@@ -534,71 +315,41 @@
         ]
       ],
       [
-        [
-          "Bradford"
-        ],
-        [
-          null
-        ]
+        "Bradford",
+        []
       ]
     ],
     [
       [
-        [
-          "BD14"
-        ],
-        [
-          null
-        ]
+        "BD14",
+        []
       ],
       [
-        [
-          "BRADFORD"
-        ],
-        [
-          null
-        ]
+        "BRADFORD",
+        []
       ],
       [
-        [
-          "Clayton"
-        ],
+        "Clayton",
         [
           "/wiki/Clayton,_Bradford"
         ]
       ],
       [
-        [
-          "Bradford"
-        ],
-        [
-          null
-        ]
+        "Bradford",
+        []
       ]
     ],
     [
       [
-        [
-          "BD15"
-        ],
-        [
-          null
-        ]
+        "BD15",
+        []
       ],
       [
-        [
-          "BRADFORD"
-        ],
-        [
-          null
-        ]
+        "BRADFORD",
+        []
       ],
       [
-        [
-          "Allerton",
-          "Wilsden",
-          "Sandy Lane"
-        ],
+        "Allerton , Norr , Wilsden , Sandy Lane",
         [
           "/wiki/Allerton,_West_Yorkshire",
           "/wiki/Wilsden",
@@ -606,38 +357,21 @@
         ]
       ],
       [
-        [
-          "Bradford"
-        ],
-        [
-          null
-        ]
+        "Bradford",
+        []
       ]
     ],
     [
       [
-        [
-          "BD16"
-        ],
-        [
-          null
-        ]
+        "BD16",
+        []
       ],
       [
-        [
-          "BINGLEY"
-        ],
-        [
-          null
-        ]
+        "BINGLEY",
+        []
       ],
       [
-        [
-          "Bingley",
-          "Cottingley",
-          "Eldwick",
-          "Harden"
-        ],
+        "Bingley , Cottingley , Eldwick , Harden",
         [
           "/wiki/Bingley",
           "/wiki/Cottingley,_Bradford",
@@ -646,73 +380,42 @@
         ]
       ],
       [
-        [
-          "Bradford"
-        ],
-        [
-          null
-        ]
+        "Bradford",
+        []
       ]
     ],
     [
       [
-        [
-          "BD17"
-        ],
-        [
-          null
-        ]
+        "BD17",
+        []
       ],
       [
-        [
-          "SHIPLEY"
-        ],
-        [
-          null
-        ]
+        "SHIPLEY",
+        []
       ],
       [
-        [
-          "Baildon",
-          "Shipley"
-        ],
+        "Baildon , Shipley",
         [
           "/wiki/Baildon",
           "/wiki/Shipley,_West_Yorkshire"
         ]
       ],
       [
-        [
-          "Bradford"
-        ],
-        [
-          null
-        ]
+        "Bradford",
+        []
       ]
     ],
     [
       [
-        [
-          "BD18"
-        ],
-        [
-          null
-        ]
+        "BD18",
+        []
       ],
       [
-        [
-          "SHIPLEY"
-        ],
-        [
-          null
-        ]
+        "SHIPLEY",
+        []
       ],
       [
-        [
-          "Saltaire",
-          "Shipley",
-          "Wrose"
-        ],
+        "Saltaire , Shipley , Windhill , Wrose",
         [
           "/wiki/Saltaire",
           "/wiki/Shipley,_West_Yorkshire",
@@ -720,37 +423,21 @@
         ]
       ],
       [
-        [
-          "Bradford"
-        ],
-        [
-          null
-        ]
+        "Bradford",
+        []
       ]
     ],
     [
       [
-        [
-          "BD19"
-        ],
-        [
-          null
-        ]
+        "BD19",
+        []
       ],
       [
-        [
-          "CLECKHEATON"
-        ],
-        [
-          null
-        ]
+        "CLECKHEATON",
+        []
       ],
       [
-        [
-          "Cleckheaton",
-          "Gomersal",
-          "Scholes"
-        ],
+        "Cleckheaton , Gomersal , Scholes",
         [
           "/wiki/Cleckheaton",
           "/wiki/Gomersal",
@@ -758,41 +445,21 @@
         ]
       ],
       [
-        [
-          "Kirklees"
-        ],
-        [
-          null
-        ]
+        "Kirklees",
+        []
       ]
     ],
     [
       [
-        [
-          "BD20"
-        ],
-        [
-          null
-        ]
+        "BD20",
+        []
       ],
       [
-        [
-          "KEIGHLEY"
-        ],
-        [
-          null
-        ]
+        "KEIGHLEY",
+        []
       ],
       [
-        [
-          "Cononley",
-          "Cross Hills",
-          "Glusburn",
-          "Kildwick",
-          "Silsden",
-          "Steeton",
-          "Sutton-in-Craven"
-        ],
+        "Cononley , Cross Hills , Glusburn , Kildwick , Silsden , Steeton , Sutton-in-Craven",
         [
           "/wiki/Cononley",
           "/wiki/Cross_Hills",
@@ -804,9 +471,7 @@
         ]
       ],
       [
-        [
-          "Craven"
-        ],
+        "Bradford , Craven",
         [
           "/wiki/Craven"
         ]

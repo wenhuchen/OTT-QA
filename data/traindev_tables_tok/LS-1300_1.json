@@ -3,411 +3,259 @@
   "title": "SSL 1300",
   "header": [
     [
-      [
-        "Satellite"
-      ],
-      [
-        null
-      ]
+      "Satellite",
+      []
     ],
     [
-      [
-        "Operator"
-      ],
-      [
-        null
-      ]
+      "Operator",
+      []
     ],
     [
-      [
-        "Detail"
-      ],
-      [
-        null
-      ]
+      "Detail",
+      []
     ],
     [
-      [
-        "Failure Date"
-      ],
-      [
-        null
-      ]
+      "Failure Date",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Echostar 5"
-        ],
+        "Echostar 5",
         [
           "/wiki/Echostar_5"
         ]
       ],
       [
-        [
-          "Echostar"
-        ],
+        "Echostar",
         [
           "/wiki/Echostar"
         ]
       ],
       [
-        [
-          "Dual momentum wheel failures"
-        ],
-        [
-          null
-        ]
+        "Dual momentum wheel failures",
+        []
       ],
       [
-        [
-          "2001-07 and 2003-12"
-        ],
-        [
-          null
-        ]
+        "2001-07 and 2003-12",
+        []
       ]
     ],
     [
       [
-        [
-          "Echostar 6"
-        ],
+        "Echostar 6",
         [
           "/wiki/Echostar_6"
         ]
       ],
       [
-        [
-          "Echostar"
-        ],
+        "Echostar",
         [
           "/wiki/Echostar"
         ]
       ],
       [
-        [
-          "Partial thruster failure"
-        ],
-        [
-          null
-        ]
+        "Partial thruster failure",
+        []
       ],
       [
-        [
-          "2001"
-        ],
-        [
-          null
-        ]
+        "2001",
+        []
       ]
     ],
     [
       [
-        [
-          "Estrela do Sul 1"
-        ],
+        "Telstar 14 / Estrela do Sul 1",
         [
           "/wiki/Estrela_do_Sul_1"
         ]
       ],
       [
-        [
-          "Telesat"
-        ],
+        "Telesat",
         [
           "/wiki/Telesat"
         ]
       ],
       [
-        [
-          "Solar panel deployment failure"
-        ],
-        [
-          null
-        ]
+        "Solar panel deployment failure",
+        []
       ],
       [
-        [
-          "2004-01-11"
-        ],
-        [
-          null
-        ]
+        "2004-01-11",
+        []
       ]
     ],
     [
       [
-        [
-          "Telstar 14R"
-        ],
+        "Telstar 14R / Estrela do Sul 2",
         [
           "/wiki/Telstar_14R"
         ]
       ],
       [
-        [
-          "Telesat"
-        ],
+        "Telesat",
         [
           "/wiki/Telesat"
         ]
       ],
       [
-        [
-          "Solar panel deployment failure"
-        ],
-        [
-          null
-        ]
+        "Solar panel deployment failure",
+        []
       ],
       [
-        [
-          "2011-05-20"
-        ],
-        [
-          null
-        ]
+        "2011-05-20",
+        []
       ]
     ],
     [
       [
-        [
-          "GOES 9"
-        ],
+        "GOES 9",
         [
           "/wiki/GOES_9"
         ]
       ],
       [
-        [
-          "NOAA"
-        ],
+        "NOAA",
         [
           "/wiki/NOAA"
         ]
       ],
       [
-        [
-          "Momentum wheel problems"
-        ],
-        [
-          null
-        ]
+        "Momentum wheel problems",
+        []
       ],
       [
-        [
-          "1998-06-01"
-        ],
-        [
-          null
-        ]
+        "1998-06-01",
+        []
       ]
     ],
     [
       [
-        [
-          "PAS 6"
-        ],
-        [
-          null
-        ]
+        "PAS 6",
+        []
       ],
       [
-        [
-          "PanAmSat"
-        ],
+        "PanAmSat",
         [
           "/wiki/PanAmSat"
         ]
       ],
       [
-        [
-          "Total power loss"
-        ],
-        [
-          null
-        ]
+        "Total power loss",
+        []
       ],
       [
-        [
-          "2004-03-17 and 2004-04-01"
-        ],
-        [
-          null
-        ]
+        "2004-03-17 and 2004-04-01",
+        []
       ]
     ],
     [
       [
-        [
-          "Intelsat 7"
-        ],
+        "Intelsat 7",
         [
           "/wiki/Intelsat_7"
         ]
       ],
       [
-        [
-          "Intelsat"
-        ],
+        "Intelsat",
         [
           "/wiki/Intelsat"
         ]
       ],
       [
-        [
-          "Partial power loss"
-        ],
-        [
-          null
-        ]
+        "Partial power loss",
+        []
       ],
       [
-        [
-          "2001-09-06"
-        ],
-        [
-          null
-        ]
+        "2001-09-06",
+        []
       ]
     ],
     [
       [
-        [
-          "Galaxy 26"
-        ],
+        "Galaxy 26",
         [
           "/wiki/Galaxy_26"
         ]
       ],
       [
-        [
-          "Intelsat"
-        ],
+        "Intelsat",
         [
           "/wiki/Intelsat"
         ]
       ],
       [
-        [
-          "Multiple system failures . Control processor failure"
-        ],
-        [
-          null
-        ]
+        "Multiple system failures . Control processor failure",
+        []
       ],
       [
-        [
-          "2001 and 2008-06-28"
-        ],
-        [
-          null
-        ]
+        "2001 and 2008-06-28",
+        []
       ]
     ],
     [
       [
-        [
-          "Galaxy 27"
-        ],
+        "Galaxy 27",
         [
           "/wiki/Galaxy_27"
         ]
       ],
       [
-        [
-          "Intelsat"
-        ],
+        "Intelsat",
         [
           "/wiki/Intelsat"
         ]
       ],
       [
-        [
-          "Electrical failure"
-        ],
-        [
-          null
-        ]
+        "Electrical failure",
+        []
       ],
       [
-        [
-          "2004-11-28"
-        ],
-        [
-          null
-        ]
+        "2004-11-28",
+        []
       ]
     ],
     [
       [
-        [
-          "DirecTV 6"
-        ],
-        [
-          null
-        ]
+        "DirecTV 6",
+        []
       ],
       [
-        [
-          "DirecTV"
-        ],
+        "DirecTV",
         [
           "/wiki/DirecTV"
         ]
       ],
       [
-        [
-          "Solar flare damage"
-        ],
-        [
-          null
-        ]
+        "Solar flare damage",
+        []
       ],
       [
-        [
-          "1997-04"
-        ],
-        [
-          null
-        ]
+        "1997-04",
+        []
       ]
     ],
     [
       [
-        [
-          "Intelsat 19"
-        ],
+        "Intelsat 19",
         [
           "/wiki/Intelsat_19"
         ]
       ],
       [
-        [
-          "Intelsat"
-        ],
+        "Intelsat",
         [
           "/wiki/Intelsat"
         ]
       ],
       [
-        [
-          "Solar panel deployment failure"
-        ],
-        [
-          null
-        ]
+        "Solar panel deployment failure",
+        []
       ],
       [
-        [
-          "2012-06-01"
-        ],
-        [
-          null
-        ]
+        "2012-06-01",
+        []
       ]
     ]
   ],

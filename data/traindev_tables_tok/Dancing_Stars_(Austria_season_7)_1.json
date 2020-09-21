@@ -3,290 +3,187 @@
   "title": "Dancing Stars (Austrian season 7)",
   "header": [
     [
-      [
-        "Dance"
-      ],
-      [
-        null
-      ]
+      "Dance",
+      []
     ],
     [
-      [
-        "Best dancer"
-      ],
-      [
-        null
-      ]
+      "Best dancer",
+      []
     ],
     [
-      [
-        "Best score"
-      ],
-      [
-        null
-      ]
+      "Best score",
+      []
     ],
     [
-      [
-        "Worst dancer"
-      ],
-      [
-        null
-      ]
+      "Worst dancer",
+      []
     ],
     [
-      [
-        "Worst score"
-      ],
-      [
-        null
-      ]
+      "Worst score",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Cha Cha Cha"
-        ],
+        "Cha Cha Cha",
         [
           "/wiki/Cha-cha-cha_(dance)"
         ]
       ],
       [
-        [
-          "Brigitte Kren"
-        ],
+        "Brigitte Kren",
         [
           "/wiki/Brigitte_Kren"
         ]
       ],
       [
-        [
-          "31"
-        ],
-        [
-          null
-        ]
+        "31",
+        []
       ],
       [
-        [
-          "Dolly Buster"
-        ],
+        "Dolly Buster",
         [
           "/wiki/Dolly_Buster"
         ]
       ],
       [
-        [
-          "18"
-        ],
-        [
-          null
-        ]
+        "18",
+        []
       ]
     ],
     [
       [
-        [
-          "Foxtrot"
-        ],
+        "Foxtrot",
         [
           "/wiki/Foxtrot"
         ]
       ],
       [
-        [
-          "Petra Frey"
-        ],
+        "Petra Frey",
         [
           "/wiki/Petra_Frey"
         ]
       ],
       [
-        [
-          "39"
-        ],
-        [
-          null
-        ]
+        "39",
+        []
       ],
       [
-        [
-          "Dolly Buster"
-        ],
+        "Dolly Buster",
         [
           "/wiki/Dolly_Buster"
         ]
       ],
       [
-        [
-          "15"
-        ],
-        [
-          null
-        ]
+        "15",
+        []
       ]
     ],
     [
       [
-        [
-          "Jive"
-        ],
+        "Jive",
         [
           "/wiki/Jive_(dance)"
         ]
       ],
       [
-        [
-          "Petra Frey"
-        ],
+        "Petra Frey",
         [
           "/wiki/Petra_Frey"
         ]
       ],
       [
-        [
-          "39"
-        ],
-        [
-          null
-        ]
+        "39",
+        []
       ],
       [
-        [
-          "Wolfram Pirchner"
-        ],
+        "Wolfram Pirchner",
         [
           "/wiki/Wolfram_Pirchner"
         ]
       ],
       [
-        [
-          "12"
-        ],
-        [
-          null
-        ]
+        "12",
+        []
       ]
     ],
     [
       [
-        [
-          "Mambo"
-        ],
+        "Mambo",
         [
           "/wiki/Mambo_(dance)"
         ]
       ],
       [
-        [
-          "Petra Frey",
-          "Eva Maria Marold"
-        ],
+        "Petra Frey Eva Maria Marold",
         [
           "/wiki/Petra_Frey",
           "/wiki/Eva_Maria_Marold"
         ]
       ],
       [
-        [
-          "33"
-        ],
-        [
-          null
-        ]
+        "33",
+        []
       ],
       [
-        [
-          "Marco Ventre"
-        ],
+        "Marco Ventre",
         [
           "/wiki/Marco_Ventre"
         ]
       ],
       [
-        [
-          "24"
-        ],
-        [
-          null
-        ]
+        "24",
+        []
       ]
     ],
     [
       [
-        [
-          "Paso Doble"
-        ],
+        "Paso Doble",
         [
           "/wiki/Paso_Doble"
         ]
       ],
       [
-        [
-          "Frenkie Schinkels"
-        ],
+        "Frenkie Schinkels",
         [
           "/wiki/Frank_Schinkels"
         ]
       ],
       [
-        [
-          "34"
-        ],
-        [
-          null
-        ]
+        "34",
+        []
       ],
       [
-        [
-          "Marco Ventre"
-        ],
+        "Marco Ventre",
         [
           "/wiki/Marco_Ventre"
         ]
       ],
       [
-        [
-          "21"
-        ],
-        [
-          null
-        ]
+        "21",
+        []
       ]
     ],
     [
       [
-        [
-          "Quickstep"
-        ],
+        "Quickstep",
         [
           "/wiki/Quickstep"
         ]
       ],
       [
-        [
-          "Marco Ventre"
-        ],
+        "Marco Ventre",
         [
           "/wiki/Marco_Ventre"
         ]
       ],
       [
-        [
-          "33"
-        ],
-        [
-          null
-        ]
+        "33",
+        []
       ],
       [
-        [
-          "Michael Sch\u00f6nborn",
-          "Wolfram Pirchner",
-          "Dolly Buster"
-        ],
+        "Michael Sch\u00f6nborn Wolfram Pirchner Dolly Buster",
         [
           "/wiki/Michael_Sch\u00f6nborn",
           "/wiki/Wolfram_Pirchner",
@@ -294,224 +191,149 @@
         ]
       ],
       [
-        [
-          "15"
-        ],
-        [
-          null
-        ]
+        "15",
+        []
       ]
     ],
     [
       [
-        [
-          "Rumba"
-        ],
+        "Rumba",
         [
           "/wiki/Rhumba"
         ]
       ],
       [
-        [
-          "Eva Maria Marold"
-        ],
+        "Eva Maria Marold",
         [
           "/wiki/Eva_Maria_Marold"
         ]
       ],
       [
-        [
-          "35"
-        ],
-        [
-          null
-        ]
+        "35",
+        []
       ],
       [
-        [
-          "Albert Fortell"
-        ],
+        "Albert Fortell",
         [
           "/wiki/Albert_Fortell"
         ]
       ],
       [
-        [
-          "12"
-        ],
-        [
-          null
-        ]
+        "12",
+        []
       ]
     ],
     [
       [
-        [
-          "Samba"
-        ],
+        "Samba",
         [
           "/wiki/Samba_(ballroom_dance)"
         ]
       ],
       [
-        [
-          "Petra Frey"
-        ],
+        "Petra Frey",
         [
           "/wiki/Petra_Frey"
         ]
       ],
       [
-        [
-          "37"
-        ],
-        [
-          null
-        ]
+        "37",
+        []
       ],
       [
-        [
-          "Dolly Buster"
-        ],
+        "Dolly Buster",
         [
           "/wiki/Dolly_Buster"
         ]
       ],
       [
-        [
-          "14"
-        ],
-        [
-          null
-        ]
+        "14",
+        []
       ]
     ],
     [
       [
-        [
-          "Tango"
-        ],
+        "Tango",
         [
           "/wiki/Tango_(dance)"
         ]
       ],
       [
-        [
-          "Sueli Menezes"
-        ],
+        "Sueli Menezes",
         [
           "/wiki/Sueli_Menezes"
         ]
       ],
       [
-        [
-          "30"
-        ],
-        [
-          null
-        ]
+        "30",
+        []
       ],
       [
-        [
-          "Marco Ventre",
-          "Frenkie Schinkels"
-        ],
+        "Marco Ventre Frenkie Schinkels",
         [
           "/wiki/Marco_Ventre",
           "/wiki/Frank_Schinkels"
         ]
       ],
       [
-        [
-          "21"
-        ],
-        [
-          null
-        ]
+        "21",
+        []
       ]
     ],
     [
       [
-        [
-          "Viennese Waltz"
-        ],
+        "Viennese Waltz",
         [
           "/wiki/Viennese_Waltz"
         ]
       ],
       [
-        [
-          "Brigitte Kren"
-        ],
+        "Brigitte Kren",
         [
           "/wiki/Brigitte_Kren"
         ]
       ],
       [
-        [
-          "35"
-        ],
-        [
-          null
-        ]
+        "35",
+        []
       ],
       [
-        [
-          "Frenkie Schinkels"
-        ],
+        "Frenkie Schinkels",
         [
           "/wiki/Frank_Schinkels"
         ]
       ],
       [
-        [
-          "16"
-        ],
-        [
-          null
-        ]
+        "16",
+        []
       ]
     ],
     [
       [
-        [
-          "Waltz"
-        ],
+        "Waltz",
         [
           "/wiki/Waltz"
         ]
       ],
       [
-        [
-          "Petra Frey"
-        ],
+        "Petra Frey",
         [
           "/wiki/Petra_Frey"
         ]
       ],
       [
-        [
-          "39"
-        ],
-        [
-          null
-        ]
+        "39",
+        []
       ],
       [
-        [
-          "Wolfram Pirchner"
-        ],
+        "Wolfram Pirchner",
         [
           "/wiki/Wolfram_Pirchner"
         ]
       ],
       [
-        [
-          "17"
-        ],
-        [
-          null
-        ]
+        "17",
+        []
       ]
     ]
   ],

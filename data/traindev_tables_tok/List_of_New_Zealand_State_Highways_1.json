@@ -3,90 +3,52 @@
   "title": "List of New Zealand state highways",
   "header": [
     [
-      [
-        "No"
-      ],
-      [
-        null
-      ]
+      "No",
+      []
     ],
     [
-      [
-        "From"
-      ],
-      [
-        null
-      ]
+      "From",
+      []
     ],
     [
-      [
-        "To"
-      ],
-      [
-        null
-      ]
+      "To",
+      []
     ],
     [
-      [
-        "Via"
-      ],
-      [
-        null
-      ]
+      "Via",
+      []
     ],
     [
-      [
-        "Length ( km )"
-      ],
-      [
-        null
-      ]
+      "Length ( km )",
+      []
     ],
     [
-      [
-        "Notes"
-      ],
-      [
-        null
-      ]
+      "Notes",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "1S"
-        ],
+        "1S",
         [
           "/wiki/New_Zealand_State_Highway_1"
         ]
       ],
       [
-        [
-          "Picton"
-        ],
+        "Picton Ferry Terminal",
         [
           "/wiki/Picton,_New_Zealand"
         ]
       ],
       [
-        [
-          "Bluff"
-        ],
+        "Bluff",
         [
           "/wiki/Bluff,_New_Zealand"
         ]
       ],
       [
-        [
-          "Blenheim",
-          "Kaikoura",
-          "Christchurch",
-          "Timaru",
-          "Dunedin",
-          "Gore",
-          "Invercargill"
-        ],
+        "Blenheim , Kaikoura , Christchurch , Timaru , Dunedin , Gore , Invercargill",
         [
           "/wiki/Blenheim,_New_Zealand",
           "/wiki/Kaikoura",
@@ -98,19 +60,11 @@
         ]
       ],
       [
-        [
-          "940.7"
-        ],
-        [
-          null
-        ]
+        "940.7",
+        []
       ],
       [
-        [
-          "Interislander",
-          "State Highway 1N",
-          "State Highway 1S"
-        ],
+        "SH 1S is used in official documentation , SH 1 on maps and signs . Interislander ferry connects State Highway 1N and State Highway 1S between Wellington and Picton",
         [
           "/wiki/Interislander",
           "/wiki/New_Zealand_State_Highway_1",
@@ -120,36 +74,25 @@
     ],
     [
       [
-        [
-          "6"
-        ],
+        "6",
         [
           "/wiki/New_Zealand_State_Highway_6"
         ]
       ],
       [
-        [
-          "Blenheim"
-        ],
+        "SH 1 at Blenheim",
         [
           "/wiki/Blenheim,_New_Zealand"
         ]
       ],
       [
-        [
-          "Invercargill"
-        ],
+        "SH 1 at Invercargill",
         [
           "/wiki/Invercargill"
         ]
       ],
       [
-        [
-          "Nelson",
-          "Westport",
-          "Greymouth",
-          "Hokitika"
-        ],
+        "Nelson , Westport , Greymouth , Hokitika",
         [
           "/wiki/Nelson,_New_Zealand",
           "/wiki/Westport,_New_Zealand",
@@ -158,68 +101,45 @@
         ]
       ],
       [
-        [
-          "1162.2"
-        ],
-        [
-          null
-        ]
+        "1162.2",
+        []
       ],
       [
-        [
-          "The longest single-island State Highway"
-        ],
-        [
-          null
-        ]
+        "The longest single-island State Highway",
+        []
       ]
     ],
     [
       [
-        [
-          "6A"
-        ],
+        "6A",
         [
           "/wiki/New_Zealand_State_Highway_6"
         ]
       ],
       [
-        [
-          "Frankton"
-        ],
+        "SH 6 at Frankton",
         [
           "/wiki/Frankton,_Otago"
         ]
       ],
       [
-        [
-          "Queenstown"
-        ],
+        "Queenstown",
         [
           "/wiki/Queenstown,_New_Zealand"
         ]
       ],
       [
-        [
-          "Queenstown central"
-        ],
+        "Frankton , Queenstown central",
         [
           "/wiki/Queenstown,_New_Zealand"
         ]
       ],
       [
-        [
-          "6.9"
-        ],
-        [
-          null
-        ]
+        "6.9",
+        []
       ],
       [
-        [
-          "Queenstown International Airport",
-          "Queenstown central"
-        ],
+        "Connection between Queenstown International Airport and Queenstown central",
         [
           "/wiki/Queenstown_International_Airport",
           "/wiki/Queenstown,_New_Zealand"
@@ -228,139 +148,90 @@
     ],
     [
       [
-        [
-          "7"
-        ],
+        "7",
         [
           "/wiki/New_Zealand_State_Highway_7"
         ]
       ],
       [
-        [
-          "Waipara",
-          "Christchurch"
-        ],
+        "SH 1 at Waipara ( 60 km north of Christchurch )",
         [
           "/wiki/Waipara",
           "/wiki/Christchurch"
         ]
       ],
       [
-        [
-          "Greymouth"
-        ],
+        "SH 6 at Greymouth",
         [
           "/wiki/Greymouth"
         ]
       ],
       [
-        [
-          "Lewis Pass"
-        ],
+        "Lewis Pass",
         [
           "/wiki/Lewis_Pass"
         ]
       ],
       [
-        [
-          "272.4"
-        ],
-        [
-          null
-        ]
+        "272.4",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "7A"
-        ],
+        "7A",
         [
           "/wiki/New_Zealand_State_Highway_7"
         ]
       ],
       [
-        [
-          "SH 7 at Waiau Bridge"
-        ],
-        [
-          null
-        ]
+        "SH 7 at Waiau Bridge",
+        []
       ],
       [
-        [
-          "Hanmer Springs"
-        ],
+        "Hanmer Springs",
         [
           "/wiki/Hanmer_Springs"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "9.4"
-        ],
-        [
-          null
-        ]
+        "9.4",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "8"
-        ],
+        "8",
         [
           "/wiki/New_Zealand_State_Highway_8"
         ]
       ],
       [
-        [
-          "Timaru"
-        ],
+        "SH 1 at Timaru",
         [
           "/wiki/Timaru"
         ]
       ],
       [
-        [
-          "Milton"
-        ],
+        "SH 1 at Milton",
         [
           "/wiki/Milton,_New_Zealand"
         ]
       ],
       [
-        [
-          "Fairlie",
-          "Tekapo",
-          "Twizel",
-          "Cromwell",
-          "Alexandra"
-        ],
+        "Fairlie , Tekapo , Twizel , Cromwell , Alexandra",
         [
           "/wiki/Fairlie,_New_Zealand",
           "/wiki/Lake_Tekapo_(town)",
@@ -370,67 +241,43 @@
         ]
       ],
       [
-        [
-          "456.7"
-        ],
-        [
-          null
-        ]
+        "456.7",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "8A"
-        ],
+        "8A",
         [
           "/wiki/New_Zealand_State_Highway_8"
         ]
       ],
       [
-        [
-          "Luggate"
-        ],
+        "SH 6 at Luggate",
         [
           "/wiki/Luggate"
         ]
       ],
       [
-        [
-          "Tarras"
-        ],
+        "SH 8 at Tarras",
         [
           "/wiki/Tarras"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "21"
-        ],
-        [
-          null
-        ]
+        "21",
+        []
       ],
       [
-        [
-          "Lake Dunstan"
-        ],
+        "Northern route crossing Lake Dunstan",
         [
           "/wiki/Lake_Dunstan"
         ]
@@ -438,49 +285,33 @@
     ],
     [
       [
-        [
-          "8B"
-        ],
+        "8B",
         [
           "/wiki/New_Zealand_State_Highway_8"
         ]
       ],
       [
-        [
-          "SH 8 at Deadmans Point"
-        ],
-        [
-          null
-        ]
+        "SH 8 at Deadmans Point",
+        []
       ],
       [
-        [
-          "Cromwell"
-        ],
+        "SH6 at Cromwell",
         [
           "/wiki/Cromwell,_New_Zealand"
         ]
       ],
       [
-        [
-          "Cromwell"
-        ],
+        "Cromwell",
         [
           "/wiki/Cromwell,_New_Zealand"
         ]
       ],
       [
-        [
-          "2.6"
-        ],
-        [
-          null
-        ]
+        "2.6",
+        []
       ],
       [
-        [
-          "Lake Dunstan"
-        ],
+        "Southern route crossing Lake Dunstan",
         [
           "/wiki/Lake_Dunstan"
         ]
@@ -488,240 +319,155 @@
     ],
     [
       [
-        [
-          "60"
-        ],
+        "60",
         [
           "/wiki/New_Zealand_State_Highway_60"
         ]
       ],
       [
-        [
-          "Collingwood"
-        ],
+        "Collingwood",
         [
           "/wiki/Collingwood,_New_Zealand"
         ]
       ],
       [
-        [
-          "Richmond"
-        ],
+        "SH 6 near Richmond",
         [
           "/wiki/Richmond,_New_Zealand"
         ]
       ],
       [
-        [
-          "Motueka",
-          "Takaka"
-        ],
+        "Motueka , Takaka",
         [
           "/wiki/Motueka",
           "/wiki/Takaka"
         ]
       ],
       [
-        [
-          "116.5"
-        ],
-        [
-          null
-        ]
+        "116.5",
+        []
       ],
       [
-        [
-          "Was shortened by 2 km in 2010 after the opening of the Ruby Bay bypass"
-        ],
-        [
-          null
-        ]
+        "Was shortened by 2 km in 2010 after the opening of the Ruby Bay bypass",
+        []
       ]
     ],
     [
       [
-        [
-          "62"
-        ],
+        "62",
         [
           "/wiki/New_Zealand_State_Highway_62"
         ]
       ],
       [
-        [
-          "SH 1 at Spring Creek"
-        ],
-        [
-          null
-        ]
+        "SH 1 at Spring Creek",
+        []
       ],
       [
-        [
-          "SH 6 2 km North of Renwick"
-        ],
-        [
-          null
-        ]
+        "SH 6 2 km North of Renwick",
+        []
       ],
       [
-        [
-          "Rapaura"
-        ],
+        "Rapaura",
         [
           "/wiki/Rapaura"
         ]
       ],
       [
-        [
-          "12.8"
-        ],
-        [
-          null
-        ]
+        "12.8",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "63"
-        ],
+        "63",
         [
           "/wiki/New_Zealand_State_Highway_63"
         ]
       ],
       [
-        [
-          "Renwick"
-        ],
+        "SH 6 Renwick",
         [
           "/wiki/Renwick,_New_Zealand"
         ]
       ],
       [
-        [
-          "SH 6 at Kawatiri Junction"
-        ],
-        [
-          null
-        ]
+        "SH 6 at Kawatiri Junction",
+        []
       ],
       [
-        [
-          "Wairau Valley",
-          "Saint Arnaud"
-        ],
+        "Wairau Valley , Saint Arnaud",
         [
           "/wiki/Wairau_Valley",
           "/wiki/Saint_Arnaud,_New_Zealand"
         ]
       ],
       [
-        [
-          "117.3"
-        ],
-        [
-          null
-        ]
+        "117.3",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "65"
-        ],
+        "65",
         [
           "/wiki/New_Zealand_State_Highway_65"
         ]
       ],
       [
-        [
-          "SH 7 at Springs Junction"
-        ],
-        [
-          null
-        ]
+        "SH 7 at Springs Junction",
+        []
       ],
       [
-        [
-          "Murchison"
-        ],
+        "SH 6 11 km west of Murchison ,",
         [
           "/wiki/Murchison,_New_Zealand"
         ]
       ],
       [
-        [
-          "Maruia"
-        ],
+        "Maruia",
         [
           "/wiki/Maruia"
         ]
       ],
       [
-        [
-          "71.4"
-        ],
-        [
-          null
-        ]
+        "71.4",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "67"
-        ],
+        "67",
         [
           "/wiki/New_Zealand_State_Highway_67"
         ]
       ],
       [
-        [
-          "Westport"
-        ],
+        "SH 6 near Westport",
         [
           "/wiki/Westport,_New_Zealand"
         ]
       ],
       [
-        [
-          "Summerlea"
-        ],
+        "4 km past Summerlea ,",
         [
           "/wiki/Summerlea,_New_Zealand"
         ]
       ],
       [
-        [
-          "Waimangaroa",
-          "Granity",
-          "Hector",
-          "Ngakawau"
-        ],
+        "Westport , Waimangaroa , Granity , Hector / Ngakawau",
         [
           "/wiki/Waimangaroa",
           "/wiki/Granity",
@@ -730,17 +476,11 @@
         ]
       ],
       [
-        [
-          "52.3"
-        ],
-        [
-          null
-        ]
+        "52.3",
+        []
       ],
       [
-        [
-          "Karamea"
-        ],
+        "The road continues for a further 44 km to Karamea but not as a State Highway",
         [
           "/wiki/Karamea"
         ]
@@ -748,187 +488,123 @@
     ],
     [
       [
-        [
-          "67A"
-        ],
+        "67A",
         [
           "/wiki/New_Zealand_State_Highway_67"
         ]
       ],
       [
-        [
-          "Westport"
-        ],
+        "SH 67 at Westport",
         [
           "/wiki/Westport,_New_Zealand"
         ]
       ],
       [
-        [
-          "Cape Foulwind"
-        ],
+        "Cape Foulwind",
         [
           "/wiki/Cape_Foulwind"
         ]
       ],
       [
-        [
-          "Carters Beach"
-        ],
+        "Carters Beach",
         [
           "/wiki/Carters_Beach"
         ]
       ],
       [
-        [
-          "9"
-        ],
-        [
-          null
-        ]
+        "9",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "69"
-        ],
+        "69",
         [
           "/wiki/New_Zealand_State_Highway_69"
         ]
       ],
       [
-        [
-          "Inangahua Junction"
-        ],
+        "SH 6 at Inangahua Junction",
         [
           "/wiki/Inangahua_Junction"
         ]
       ],
       [
-        [
-          "Reefton"
-        ],
+        "SH 7 at Reefton",
         [
           "/wiki/Reefton"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "33.3"
-        ],
-        [
-          null
-        ]
+        "33.3",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "71"
-        ],
+        "71",
         [
           "/wiki/New_Zealand_State_Highway_71"
         ]
       ],
       [
-        [
-          "Kaiapoi"
-        ],
+        "SH 1 at Kaiapoi Interchange",
         [
           "/wiki/Kaiapoi"
         ]
       ],
       [
-        [
-          "Rangiora"
-        ],
+        "Rangiora",
         [
           "/wiki/Rangiora"
         ]
       ],
       [
-        [
-          "Lineside Rd"
-        ],
-        [
-          null
-        ]
+        "Lineside Rd",
+        []
       ],
       [
-        [
-          "6.4"
-        ],
-        [
-          null
-        ]
+        "6.4",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "73"
-        ],
+        "73",
         [
           "/wiki/New_Zealand_State_Highway_73"
         ]
       ],
       [
-        [
-          "Christchurch"
-        ],
+        "SH 75/SH 76 interchange near Hillmorton , Christchurch",
         [
           "/wiki/Christchurch"
         ]
       ],
       [
-        [
-          "Kumara Junction"
-        ],
+        "SH 6 at Kumara Junction",
         [
           "/wiki/Kumara,_New_Zealand"
         ]
       ],
       [
-        [
-          "Darfield",
-          "Springfield",
-          "Porters Pass",
-          "Arthur 's Pass",
-          "Kumara"
-        ],
+        "Darfield , Springfield , Porters Pass , Arthur 's Pass and Kumara",
         [
           "/wiki/Darfield,_New_Zealand",
           "/wiki/Springfield,_New_Zealand",
@@ -938,172 +614,109 @@
         ]
       ],
       [
-        [
-          "224"
-        ],
-        [
-          null
-        ]
+        "224",
+        []
       ],
       [
-        [
-          "Great Alpine Highway"
-        ],
-        [
-          null
-        ]
+        "Great Alpine Highway",
+        []
       ]
     ],
     [
       [
-        [
-          "74"
-        ],
+        "74",
         [
           "/wiki/New_Zealand_State_Highway_74"
         ]
       ],
       [
-        [
-          "Belfast"
-        ],
+        "SH 1 at Belfast",
         [
           "/wiki/Belfast,_New_Zealand"
         ]
       ],
       [
-        [
-          "Lyttelton"
-        ],
+        "Lyttelton",
         [
           "/wiki/Lyttelton,_New_Zealand"
         ]
       ],
       [
-        [
-          "Lyttelton road tunnel"
-        ],
+        "Lyttelton road tunnel",
         [
           "/wiki/Lyttelton_road_tunnel"
         ]
       ],
       [
-        [
-          "28.8"
-        ],
-        [
-          null
-        ]
+        "28.8",
+        []
       ],
       [
-        [
-          "Has followed the eastern part of the Christchurch Ring Road since January 2004"
-        ],
-        [
-          null
-        ]
+        "Has followed the eastern part of the Christchurch Ring Road since January 2004",
+        []
       ]
     ],
     [
       [
-        [
-          "74A"
-        ],
+        "74A",
         [
           "/wiki/New_Zealand_State_Highway_74"
         ]
       ],
       [
-        [
-          "SH 76 at Brougham St/Garlands/Opawa Rds , Christchurch"
-        ],
-        [
-          null
-        ]
+        "SH 76 at Brougham St/Garlands/Opawa Rds , Christchurch",
+        []
       ],
       [
-        [
-          "SH 74 at Palinurus/Dyers Rds"
-        ],
-        [
-          null
-        ]
+        "SH 74 at Palinurus/Dyers Rds",
+        []
       ],
       [
-        [
-          "Garlands Rd , Rutherford St and Palinurus Rd"
-        ],
-        [
-          null
-        ]
+        "Garlands Rd , Rutherford St and Palinurus Rd",
+        []
       ],
       [
-        [
-          "2.1"
-        ],
-        [
-          null
-        ]
+        "2.1",
+        []
       ],
       [
-        [
-          "Part of the Christchurch Ring Road"
-        ],
-        [
-          null
-        ]
+        "Part of the Christchurch Ring Road",
+        []
       ]
     ],
     [
       [
-        [
-          "75"
-        ],
+        "75",
         [
           "/wiki/New_Zealand_State_Highway_75"
         ]
       ],
       [
-        [
-          "Christchurch"
-        ],
+        "SH 73/SH 76 interchange near Hillmorton , Christchurch",
         [
           "/wiki/Christchurch"
         ]
       ],
       [
-        [
-          "Akaroa"
-        ],
+        "Akaroa",
         [
           "/wiki/Akaroa"
         ]
       ],
       [
-        [
-          "Halswell",
-          "Little River"
-        ],
+        "Halswell Tai Tapu , Little River and Duvauchelle",
         [
           "/wiki/Halswell",
           "/wiki/Little_River,_New_Zealand"
         ]
       ],
       [
-        [
-          "77.3"
-        ],
-        [
-          null
-        ]
+        "77.3",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ]
   ],

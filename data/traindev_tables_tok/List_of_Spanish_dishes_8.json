@@ -3,170 +3,108 @@
   "title": "List of Spanish dishes",
   "header": [
     [
-      [
-        "Name"
-      ],
-      [
-        null
-      ]
+      "Name",
+      []
     ],
     [
-      [
-        "Region"
-      ],
-      [
-        null
-      ]
+      "Region",
+      []
     ],
     [
-      [
-        "Type"
-      ],
-      [
-        null
-      ]
+      "Type",
+      []
     ],
     [
-      [
-        "Description"
-      ],
-      [
-        null
-      ]
+      "Description",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Aguardiente"
-        ],
+        "Aguardiente Aguardente , augardente/ca\u00f1a or oruxu",
         [
           "/wiki/Aguardiente"
         ]
       ],
       [
-        [
-          "Galicia"
-        ],
+        "Galicia",
         [
           "/wiki/Galician_cuisine"
         ]
       ],
       [
-        [
-          "drink"
-        ],
-        [
-          null
-        ]
+        "drink",
+        []
       ],
       [
-        [
-          "alcoholic drinks between 29 and 60 percent alcohol made from a number of different sources . Fruit , grain , tuber , sugarcane or other sweet canes can be the main ingredients"
-        ],
-        [
-          null
-        ]
+        "alcoholic drinks between 29 and 60 percent alcohol made from a number of different sources . Fruit , grain , tuber , sugarcane or other sweet canes can be the main ingredients",
+        []
       ]
     ],
     [
       [
-        [
-          "Brandy"
-        ],
+        "Brandy",
         [
           "/wiki/Brandy"
         ]
       ],
       [
-        [
-          "Andalusia"
-        ],
+        "Andalusia",
         [
           "/wiki/Andalusian_cuisine"
         ]
       ],
       [
-        [
-          "drink"
-        ],
-        [
-          null
-        ]
+        "drink",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Brandy de Jerez"
-        ],
+        "Brandy de Jerez",
         [
           "/wiki/Brandy_de_Jerez"
         ]
       ],
       [
-        [
-          "Andalusia"
-        ],
+        "Andalusia",
         [
           "/wiki/Andalusia"
         ]
       ],
       [
-        [
-          "brandy"
-        ],
-        [
-          null
-        ]
+        "brandy",
+        []
       ],
       [
-        [
-          "a brandy that is produced only in the Jerez area of Andalusia , Spain"
-        ],
-        [
-          null
-        ]
+        "a brandy that is produced only in the Jerez area of Andalusia , Spain",
+        []
       ]
     ],
     [
       [
-        [
-          "Herbero"
-        ],
+        "Herbero",
         [
           "/wiki/Herbero"
         ]
       ],
       [
-        [
-          "Valencia"
-        ],
+        "Valencia",
         [
           "/wiki/Valencian_cuisine"
         ]
       ],
       [
-        [
-          "liquor"
-        ],
-        [
-          null
-        ]
+        "liquor",
+        []
       ],
       [
-        [
-          "Sierra de Mariola"
-        ],
+        "a liquor made in the Sierra de Mariola region . The plants used in the production of herbero include at least four of the following : sage , chamomile , pennyroyal , lemon verbena , the root of the blessed thistle , peppermint , cattail , fennel , anise , melissa , agrimony , savory , felty germander , thyme , and French lavender",
         [
           "/wiki/Serra_Mariola_Natural_Park"
         ]
@@ -174,135 +112,89 @@
     ],
     [
       [
-        [
-          "Iroul\u00e9guy AOC"
-        ],
+        "Iroul\u00e9guy AOC wines",
         [
           "/wiki/Iroul\u00e9guy_AOC"
         ]
       ],
       [
-        [
-          "Basque"
-        ],
+        "Basque",
         [
           "/wiki/Basque_cuisine"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Izarra ( liqueur )"
-        ],
+        "Izarra ( liqueur )",
         [
           "/wiki/Izarra_(liqueur)"
         ]
       ],
       [
-        [
-          "Basque"
-        ],
+        "Basque",
         [
           "/wiki/Basque_cuisine"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Kalimotxo"
-        ],
+        "Kalimotxo",
         [
           "/wiki/Kalimotxo"
         ]
       ],
       [
-        [
-          "Basque"
-        ],
+        "Basque",
         [
           "/wiki/Basque_cuisine"
         ]
       ],
       [
-        [
-          "drink"
-        ],
-        [
-          null
-        ]
+        "drink",
+        []
       ],
       [
-        [
-          "a drink consisting of approximately 50% red wine and 50% cola-based soft drink"
-        ],
-        [
-          null
-        ]
+        "a drink consisting of approximately 50% red wine and 50% cola-based soft drink",
+        []
       ]
     ],
     [
       [
-        [
-          "Orujo"
-        ],
+        "Orujo",
         [
           "/wiki/Orujo"
         ]
       ],
       [
-        [
-          "Galicia"
-        ],
+        "Galicia",
         [
           "/wiki/Galician_cuisine"
         ]
       ],
       [
-        [
-          "liquor"
-        ],
-        [
-          null
-        ]
+        "liquor",
+        []
       ],
       [
-        [
-          "pressing"
-        ],
+        "a liquor obtained from the distillation of the pomace ( solid remains left after pressing ) of the grape . It is a transparent spirit with an alcohol content over 50% ( 100\u00b0 proof )",
         [
           "/wiki/Pressing_(wine)"
         ]
@@ -310,242 +202,153 @@
     ],
     [
       [
-        [
-          "Patxaran"
-        ],
+        "Patxaran",
         [
           "/wiki/Patxaran"
         ]
       ],
       [
-        [
-          "Navarre"
-        ],
+        "Navarre",
         [
           "/wiki/Navarre"
         ]
       ],
       [
-        [
-          "liqueur"
-        ],
-        [
-          null
-        ]
+        "liqueur",
+        []
       ],
       [
-        [
-          "a sloe-flavoured liqueur commonly drunk in Navarre and in the rest of Spain"
-        ],
-        [
-          null
-        ]
+        "a sloe-flavoured liqueur commonly drunk in Navarre and in the rest of Spain",
+        []
       ]
     ],
     [
       [
-        [
-          "Ratafia"
-        ],
+        "Ratafia",
         [
           "/wiki/Ratafia"
         ]
       ],
       [
-        [
-          "Catalonia"
-        ],
+        "Catalonia",
         [
           "/wiki/Catalan_cuisine"
         ]
       ],
       [
-        [
-          "liqueur"
-        ],
-        [
-          null
-        ]
+        "liqueur",
+        []
       ],
       [
-        [
-          "liqueur flavored with lemon peel and spices in various amounts ( nutmeg , cinnamon , clove , mint , rosemary , anise , etc . ) , typically combined with sugar"
-        ],
-        [
-          null
-        ]
+        "liqueur flavored with lemon peel and spices in various amounts ( nutmeg , cinnamon , clove , mint , rosemary , anise , etc . ) , typically combined with sugar",
+        []
       ]
     ],
     [
       [
-        [
-          "Queimada"
-        ],
+        "Queimada",
         [
           "/wiki/Queimada_(drink)"
         ]
       ],
       [
-        [
-          "Galicia"
-        ],
+        "Galicia",
         [
           "/wiki/Galician_cuisine"
         ]
       ],
       [
-        [
-          "drink"
-        ],
-        [
-          null
-        ]
+        "drink",
+        []
       ],
       [
-        [
-          "an alcoholic punch made from Galician aguardiente ( Orujo Gallego ) - a spirit distilled from wine and flavoured with special herbs or coffee , plus sugar , lemon peel , coffee beans and cinnamon"
-        ],
-        [
-          null
-        ]
+        "an alcoholic punch made from Galician aguardiente ( Orujo Gallego ) - a spirit distilled from wine and flavoured with special herbs or coffee , plus sugar , lemon peel , coffee beans and cinnamon",
+        []
       ]
     ],
     [
       [
-        [
-          "Txakoli"
-        ],
+        "Txakoli",
         [
           "/wiki/Txakoli"
         ]
       ],
       [
-        [
-          "Basque"
-        ],
+        "Basque",
         [
           "/wiki/Basque_cuisine"
         ]
       ],
       [
-        [
-          "wine"
-        ],
-        [
-          null
-        ]
+        "wine",
+        []
       ],
       [
-        [
-          "a fruity and dry white wine , usually served with pintxos"
-        ],
-        [
-          null
-        ]
+        "a fruity and dry white wine , usually served with pintxos",
+        []
       ]
     ],
     [
       [
-        [
-          "Zurracapote"
-        ],
+        "Zurracapote",
         [
           "/wiki/Zurracapote"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "punch"
-        ],
-        [
-          null
-        ]
+        "punch",
+        []
       ],
       [
-        [
-          "a popular alcoholic mixed drink , similar to sangr\u00eda . It consists of red wine mixed with fruit such as peaches and lemons , sugar , and cinnamon"
-        ],
-        [
-          null
-        ]
+        "a popular alcoholic mixed drink , similar to sangr\u00eda . It consists of red wine mixed with fruit such as peaches and lemons , sugar , and cinnamon",
+        []
       ]
     ],
     [
       [
-        [
-          "Sangria"
-        ],
+        "Sangria",
         [
           "/wiki/Sangria"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "punch"
-        ],
-        [
-          null
-        ]
+        "punch",
+        []
       ],
       [
-        [
-          "Wine and fruit punch"
-        ],
-        [
-          null
-        ]
+        "Wine and fruit punch",
+        []
       ]
     ],
     [
       [
-        [
-          "Sidra"
-        ],
+        "Sidra",
         [
           "/wiki/Cider"
         ]
       ],
       [
-        [
-          "Asturias",
-          "Basque"
-        ],
+        "Asturias and Basque",
         [
           "/wiki/Asturias",
           "/wiki/Basque_cuisine"
         ]
       ],
       [
-        [
-          "drink"
-        ],
-        [
-          null
-        ]
+        "drink",
+        []
       ],
       [
-        [
-          "an alcoholic beverage made from apples"
-        ],
-        [
-          null
-        ]
+        "an alcoholic beverage made from apples",
+        []
       ]
     ]
   ],

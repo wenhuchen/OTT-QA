@@ -3,62 +3,36 @@
   "title": "TW postcode area",
   "header": [
     [
-      [
-        "Postcode district"
-      ],
-      [
-        null
-      ]
+      "Postcode district",
+      []
     ],
     [
-      [
-        "Post town"
-      ],
+      "Post town",
       [
         "/wiki/Post_town"
       ]
     ],
     [
-      [
-        "Coverage"
-      ],
-      [
-        null
-      ]
+      "Coverage",
+      []
     ],
     [
-      [
-        "Local authority area"
-      ],
-      [
-        null
-      ]
+      "Local authority area",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "TW1"
-        ],
-        [
-          null
-        ]
+        "TW1",
+        []
       ],
       [
-        [
-          "TWICKENHAM"
-        ],
-        [
-          null
-        ]
+        "TWICKENHAM",
+        []
       ],
       [
-        [
-          "Twickenham",
-          "St. Margarets",
-          "Strawberry Hill"
-        ],
+        "Twickenham , St. Margarets , Strawberry Hill ( east )",
         [
           "/wiki/Twickenham",
           "/wiki/St_Margarets,_London",
@@ -66,10 +40,7 @@
         ]
       ],
       [
-        [
-          "Richmond upon Thames",
-          "Hounslow"
-        ],
+        "Richmond upon Thames , Hounslow",
         [
           "/wiki/London_Borough_of_Richmond_upon_Thames",
           "/wiki/London_Borough_of_Hounslow"
@@ -78,28 +49,15 @@
     ],
     [
       [
-        [
-          "TW2"
-        ],
-        [
-          null
-        ]
+        "TW2",
+        []
       ],
       [
-        [
-          "TWICKENHAM"
-        ],
-        [
-          null
-        ]
+        "TWICKENHAM",
+        []
       ],
       [
-        [
-          "Twickenham",
-          "Whitton",
-          "Strawberry Hill",
-          "Fulwell"
-        ],
+        "Twickenham ( west ) , Whitton , Strawberry Hill ( west ) , Fulwell ( north )",
         [
           "/wiki/Twickenham",
           "/wiki/Whitton,_London",
@@ -108,37 +66,21 @@
         ]
       ],
       [
-        [
-          "Richmond upon Thames"
-        ],
-        [
-          null
-        ]
+        "Richmond upon Thames",
+        []
       ]
     ],
     [
       [
-        [
-          "TW3"
-        ],
-        [
-          null
-        ]
+        "TW3",
+        []
       ],
       [
-        [
-          "HOUNSLOW"
-        ],
-        [
-          null
-        ]
+        "HOUNSLOW",
+        []
       ],
       [
-        [
-          "Hounslow",
-          "Lampton",
-          "Whitton"
-        ],
+        "Hounslow , Lampton , Whitton ( north )",
         [
           "/wiki/Hounslow",
           "/wiki/Lampton",
@@ -146,38 +88,21 @@
         ]
       ],
       [
-        [
-          "Hounslow , Richmond upon Thames"
-        ],
-        [
-          null
-        ]
+        "Hounslow , Richmond upon Thames",
+        []
       ]
     ],
     [
       [
-        [
-          "TW4"
-        ],
-        [
-          null
-        ]
+        "TW4",
+        []
       ],
       [
-        [
-          "HOUNSLOW"
-        ],
-        [
-          null
-        ]
+        "HOUNSLOW",
+        []
       ],
       [
-        [
-          "Hounslow West",
-          "Hounslow Heath",
-          "Whitton",
-          "Cranford"
-        ],
+        "Hounslow West , Hounslow Heath , Whitton ( west ) , Cranford ( south )",
         [
           "/wiki/Hounslow_West",
           "/wiki/Hounslow_Heath",
@@ -186,37 +111,21 @@
         ]
       ],
       [
-        [
-          "Hounslow , Richmond upon Thames"
-        ],
-        [
-          null
-        ]
+        "Hounslow , Richmond upon Thames",
+        []
       ]
     ],
     [
       [
-        [
-          "TW5"
-        ],
-        [
-          null
-        ]
+        "TW5",
+        []
       ],
       [
-        [
-          "HOUNSLOW"
-        ],
-        [
-          null
-        ]
+        "HOUNSLOW",
+        []
       ],
       [
-        [
-          "Heston",
-          "Cranford",
-          "Osterley"
-        ],
+        "Heston , Cranford ( north ) , Osterley ( west )",
         [
           "/wiki/Heston",
           "/wiki/Cranford,_London",
@@ -224,43 +133,27 @@
         ]
       ],
       [
-        [
-          "Hounslow"
-        ],
-        [
-          null
-        ]
+        "Hounslow",
+        []
       ]
     ],
     [
       [
-        [
-          "TW6"
-        ],
-        [
-          null
-        ]
+        "TW6",
+        []
       ],
       [
-        [
-          "HOUNSLOW"
-        ],
-        [
-          null
-        ]
+        "HOUNSLOW",
+        []
       ],
       [
-        [
-          "Heathrow Airport"
-        ],
+        "Heathrow Airport",
         [
           "/wiki/London_Heathrow_Airport"
         ]
       ],
       [
-        [
-          "Hillingdon"
-        ],
+        "Hillingdon",
         [
           "/wiki/London_Borough_of_Hillingdon"
         ]
@@ -268,27 +161,15 @@
     ],
     [
       [
-        [
-          "TW7"
-        ],
-        [
-          null
-        ]
+        "TW7",
+        []
       ],
       [
-        [
-          "ISLEWORTH"
-        ],
-        [
-          null
-        ]
+        "ISLEWORTH",
+        []
       ],
       [
-        [
-          "Isleworth",
-          "Osterley",
-          "Whitton"
-        ],
+        "Isleworth , Osterley ( east and centre ) , Whitton ( north )",
         [
           "/wiki/Isleworth",
           "/wiki/Osterley",
@@ -296,38 +177,21 @@
         ]
       ],
       [
-        [
-          "Hounslow , Richmond upon Thames"
-        ],
-        [
-          null
-        ]
+        "Hounslow , Richmond upon Thames",
+        []
       ]
     ],
     [
       [
-        [
-          "TW8"
-        ],
-        [
-          null
-        ]
+        "TW8",
+        []
       ],
       [
-        [
-          "BRENTFORD"
-        ],
-        [
-          null
-        ]
+        "BRENTFORD",
+        []
       ],
       [
-        [
-          "Brentford",
-          "Kew Bridge",
-          "Syon Park",
-          "Brentford Ait"
-        ],
+        "Brentford , Kew Bridge , Syon Park , Brentford Ait",
         [
           "/wiki/Brentford",
           "/wiki/Kew_Bridge",
@@ -336,37 +200,21 @@
         ]
       ],
       [
-        [
-          "Hounslow , Richmond upon Thames"
-        ],
-        [
-          null
-        ]
+        "Hounslow , Richmond upon Thames",
+        []
       ]
     ],
     [
       [
-        [
-          "TW9"
-        ],
-        [
-          null
-        ]
+        "TW9",
+        []
       ],
       [
-        [
-          "RICHMOND"
-        ],
-        [
-          null
-        ]
+        "RICHMOND",
+        []
       ],
       [
-        [
-          "Richmond",
-          "Kew",
-          "North Sheen"
-        ],
+        "Richmond , Kew , North Sheen ( north )",
         [
           "/wiki/Richmond,_London",
           "/wiki/Kew",
@@ -374,39 +222,21 @@
         ]
       ],
       [
-        [
-          "Richmond upon Thames"
-        ],
-        [
-          null
-        ]
+        "Richmond upon Thames",
+        []
       ]
     ],
     [
       [
-        [
-          "TW10"
-        ],
-        [
-          null
-        ]
+        "TW10",
+        []
       ],
       [
-        [
-          "RICHMOND"
-        ],
-        [
-          null
-        ]
+        "RICHMOND",
+        []
       ],
       [
-        [
-          "Ham",
-          "Petersham",
-          "Richmond Hill",
-          "North Sheen",
-          "Richmond Park"
-        ],
+        "Ham , Petersham , Richmond Hill , North Sheen ( south ) , Richmond Park",
         [
           "/wiki/Ham,_London",
           "/wiki/Petersham,_London",
@@ -416,9 +246,7 @@
         ]
       ],
       [
-        [
-          "Kingston upon Thames"
-        ],
+        "Richmond upon Thames , Kingston upon Thames",
         [
           "/wiki/Royal_Borough_of_Kingston_upon_Thames"
         ]
@@ -426,27 +254,15 @@
     ],
     [
       [
-        [
-          "TW11"
-        ],
-        [
-          null
-        ]
+        "TW11",
+        []
       ],
       [
-        [
-          "TEDDINGTON"
-        ],
-        [
-          null
-        ]
+        "TEDDINGTON",
+        []
       ],
       [
-        [
-          "Teddington",
-          "Fulwell",
-          "Bushy Park"
-        ],
+        "Teddington , Fulwell ( east ) , Bushy Park",
         [
           "/wiki/Teddington",
           "/wiki/Fulwell,_London",
@@ -454,37 +270,21 @@
         ]
       ],
       [
-        [
-          "Richmond upon Thames"
-        ],
-        [
-          null
-        ]
+        "Richmond upon Thames",
+        []
       ]
     ],
     [
       [
-        [
-          "TW12"
-        ],
-        [
-          null
-        ]
+        "TW12",
+        []
       ],
       [
-        [
-          "HAMPTON"
-        ],
-        [
-          null
-        ]
+        "HAMPTON",
+        []
       ],
       [
-        [
-          "Hampton",
-          "Hampton Hill",
-          "Fulwell"
-        ],
+        "Hampton , Hampton Hill , Fulwell ( west )",
         [
           "/wiki/Hampton,_London",
           "/wiki/Hampton_Hill",
@@ -492,73 +292,42 @@
         ]
       ],
       [
-        [
-          "Richmond upon Thames"
-        ],
-        [
-          null
-        ]
+        "Richmond upon Thames",
+        []
       ]
     ],
     [
       [
-        [
-          "TW13"
-        ],
-        [
-          null
-        ]
+        "TW13",
+        []
       ],
       [
-        [
-          "FELTHAM"
-        ],
-        [
-          null
-        ]
+        "FELTHAM",
+        []
       ],
       [
-        [
-          "Feltham",
-          "Hanworth"
-        ],
+        "Feltham ( south of the railway line ) , Hanworth",
         [
           "/wiki/Feltham",
           "/wiki/Hanworth"
         ]
       ],
       [
-        [
-          "Hounslow , Richmond upon Thames"
-        ],
-        [
-          null
-        ]
+        "Hounslow , Richmond upon Thames",
+        []
       ]
     ],
     [
       [
-        [
-          "TW14"
-        ],
-        [
-          null
-        ]
+        "TW14",
+        []
       ],
       [
-        [
-          "FELTHAM"
-        ],
-        [
-          null
-        ]
+        "FELTHAM",
+        []
       ],
       [
-        [
-          "Feltham",
-          "East Bedfont",
-          "Hatton"
-        ],
+        "Feltham ( north of the railway line ) , North Feltham , East Bedfont , Hatton",
         [
           "/wiki/Feltham",
           "/wiki/Bedfont",
@@ -566,9 +335,7 @@
         ]
       ],
       [
-        [
-          "Spelthorne"
-        ],
+        "Hounslow , Hillingdon , Spelthorne",
         [
           "/wiki/Borough_of_Spelthorne"
         ]
@@ -576,67 +343,41 @@
     ],
     [
       [
-        [
-          "TW15"
-        ],
-        [
-          null
-        ]
+        "TW15",
+        []
       ],
       [
-        [
-          "ASHFORD"
-        ],
-        [
-          null
-        ]
+        "ASHFORD",
+        []
       ],
       [
-        [
-          "Ashford"
-        ],
+        "Ashford",
         [
           "/wiki/Ashford,_Surrey"
         ]
       ],
       [
-        [
-          "Spelthorne , Hounslow"
-        ],
-        [
-          null
-        ]
+        "Spelthorne , Hounslow",
+        []
       ]
     ],
     [
       [
-        [
-          "TW16"
-        ],
-        [
-          null
-        ]
+        "TW16",
+        []
       ],
       [
-        [
-          "SUNBURY-ON-THAMES"
-        ],
-        [
-          null
-        ]
+        "SUNBURY-ON-THAMES",
+        []
       ],
       [
-        [
-          "Sunbury-on-Thames"
-        ],
+        "Sunbury-on-Thames",
         [
           "/wiki/Sunbury-on-Thames"
         ]
       ],
       [
-        [
-          "Elmbridge"
-        ],
+        "Spelthorne , Elmbridge , Richmond upon Thames",
         [
           "/wiki/Borough_of_Elmbridge"
         ]
@@ -644,28 +385,15 @@
     ],
     [
       [
-        [
-          "TW17"
-        ],
-        [
-          null
-        ]
+        "TW17",
+        []
       ],
       [
-        [
-          "SHEPPERTON"
-        ],
-        [
-          null
-        ]
+        "SHEPPERTON",
+        []
       ],
       [
-        [
-          "Shepperton",
-          "Upper Halliford",
-          "Charlton",
-          "Littleton"
-        ],
+        "Shepperton , Upper Halliford , Charlton , Littleton",
         [
           "/wiki/Shepperton",
           "/wiki/Upper_Halliford",
@@ -674,37 +402,21 @@
         ]
       ],
       [
-        [
-          "Spelthorne , Elmbridge"
-        ],
-        [
-          null
-        ]
+        "Spelthorne , Elmbridge",
+        []
       ]
     ],
     [
       [
-        [
-          "TW18"
-        ],
-        [
-          null
-        ]
+        "TW18",
+        []
       ],
       [
-        [
-          "STAINES-UPON-THAMES"
-        ],
-        [
-          null
-        ]
+        "STAINES-UPON-THAMES",
+        []
       ],
       [
-        [
-          "Staines-upon-Thames",
-          "Egham Hythe",
-          "Laleham"
-        ],
+        "Staines-upon-Thames , Egham Hythe , Laleham",
         [
           "/wiki/Staines-upon-Thames",
           "/wiki/Egham_Hythe",
@@ -712,10 +424,7 @@
         ]
       ],
       [
-        [
-          "Runnymede",
-          "Windsor and Maidenhead"
-        ],
+        "Spelthorne , Runnymede , Windsor and Maidenhead",
         [
           "/wiki/Borough_of_Runnymede",
           "/wiki/Royal_Borough_of_Windsor_and_Maidenhead"
@@ -724,29 +433,15 @@
     ],
     [
       [
-        [
-          "TW19"
-        ],
-        [
-          null
-        ]
+        "TW19",
+        []
       ],
       [
-        [
-          "STAINES-UPON-THAMES"
-        ],
-        [
-          null
-        ]
+        "STAINES-UPON-THAMES",
+        []
       ],
       [
-        [
-          "Stanwell",
-          "Stanwell Moor",
-          "Wraysbury",
-          "Sunnymeads",
-          "Hythe End"
-        ],
+        "Stanwell , Stanwell Moor , Wraysbury , Sunnymeads , Hythe End",
         [
           "/wiki/Stanwell",
           "/wiki/Stanwell_Moor",
@@ -756,37 +451,21 @@
         ]
       ],
       [
-        [
-          "Spelthorne , Windsor and Maidenhead , Hillingdon"
-        ],
-        [
-          null
-        ]
+        "Spelthorne , Windsor and Maidenhead , Hillingdon",
+        []
       ]
     ],
     [
       [
-        [
-          "TW20"
-        ],
-        [
-          null
-        ]
+        "TW20",
+        []
       ],
       [
-        [
-          "EGHAM"
-        ],
-        [
-          null
-        ]
+        "EGHAM",
+        []
       ],
       [
-        [
-          "Egham",
-          "Englefield Green",
-          "Thorpe"
-        ],
+        "Egham , Englefield Green , Thorpe",
         [
           "/wiki/Egham",
           "/wiki/Englefield_Green",
@@ -794,12 +473,8 @@
         ]
       ],
       [
-        [
-          "Runnymede"
-        ],
-        [
-          null
-        ]
+        "Runnymede",
+        []
       ]
     ]
   ],

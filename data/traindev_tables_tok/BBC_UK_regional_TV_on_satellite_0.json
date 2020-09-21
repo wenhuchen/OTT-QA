@@ -3,33 +3,21 @@
   "title": "BBC UK regional TV on satellite",
   "header": [
     [
-      [
-        "BBC One Nation/Region"
-      ],
-      [
-        null
-      ]
+      "BBC One Nation/Region",
+      []
     ],
     [
-      [
-        "News programme"
-      ],
-      [
-        null
-      ]
+      "News programme",
+      []
     ],
     [
-      [
-        "Freesat"
-      ],
+      "Freesat",
       [
         "/wiki/Freesat"
       ]
     ],
     [
-      [
-        "Sky"
-      ],
+      "Sky",
       [
         "/wiki/Sky_UK"
       ]
@@ -38,684 +26,439 @@
   "data": [
     [
       [
-        [
-          "London"
-        ],
+        "London",
         [
           "/wiki/BBC_London"
         ]
       ],
       [
-        [
-          "BBC London News"
-        ],
+        "BBC London News",
         [
           "/wiki/BBC_London_News"
         ]
       ],
       [
-        [
-          "950"
-        ],
-        [
-          null
-        ]
+        "950",
+        []
       ],
       [
-        [
-          "954"
-        ],
-        [
-          null
-        ]
+        "954",
+        []
       ]
     ],
     [
       [
-        [
-          "South West"
-        ],
+        "South West ( Channel Islands )",
         [
           "/wiki/BBC_South_West"
         ]
       ],
       [
-        [
-          "BBC Spotlight/BBC Channel Islands News"
-        ],
+        "BBC Spotlight/BBC Channel Islands News",
         [
           "/wiki/BBC_Channel_Islands_News"
         ]
       ],
       [
-        [
-          "951"
-        ],
-        [
-          null
-        ]
+        "951",
+        []
       ],
       [
-        [
-          "968"
-        ],
-        [
-          null
-        ]
+        "968",
+        []
       ]
     ],
     [
       [
-        [
-          "East Midlands"
-        ],
+        "East Midlands",
         [
           "/wiki/BBC_East_Midlands"
         ]
       ],
       [
-        [
-          "BBC East Midlands Today"
-        ],
+        "BBC East Midlands Today",
         [
           "/wiki/BBC_East_Midlands_Today"
         ]
       ],
       [
-        [
-          "952"
-        ],
-        [
-          null
-        ]
+        "952",
+        []
       ],
       [
-        [
-          "960"
-        ],
-        [
-          null
-        ]
+        "960",
+        []
       ]
     ],
     [
       [
-        [
-          "East"
-        ],
+        "East ( Norwich )",
         [
           "/wiki/BBC_East"
         ]
       ],
       [
-        [
-          "BBC Look East"
-        ],
+        "BBC Look East",
         [
           "/wiki/BBC_Look_East"
         ]
       ],
       [
-        [
-          "953"
-        ],
-        [
-          null
-        ]
+        "953",
+        []
       ],
       [
-        [
-          "961"
-        ],
-        [
-          null
-        ]
+        "961",
+        []
       ]
     ],
     [
       [
-        [
-          "East"
-        ],
+        "East ( Cambridge )",
         [
           "/wiki/BBC_East"
         ]
       ],
       [
-        [
-          "BBC Look East"
-        ],
+        "BBC Look East",
         [
           "/wiki/BBC_Look_East"
         ]
       ],
       [
-        [
-          "954"
-        ],
-        [
-          null
-        ]
+        "954",
+        []
       ],
       [
-        [
-          "962"
-        ],
-        [
-          null
-        ]
+        "962",
+        []
       ]
     ],
     [
       [
-        [
-          "North West"
-        ],
+        "North West",
         [
           "/wiki/BBC_North_West"
         ]
       ],
       [
-        [
-          "BBC North West Today/BBC North West Tonight"
-        ],
+        "BBC North West Today/BBC North West Tonight",
         [
           "/wiki/BBC_North_West_Tonight"
         ]
       ],
       [
-        [
-          "955"
-        ],
-        [
-          null
-        ]
+        "955",
+        []
       ],
       [
-        [
-          "958"
-        ],
-        [
-          null
-        ]
+        "958",
+        []
       ]
     ],
     [
       [
-        [
-          "North East and Cumbria"
-        ],
+        "North East and Cumbria",
         [
           "/wiki/BBC_North_East_and_Cumbria"
         ]
       ],
       [
-        [
-          "BBC Look North"
-        ],
+        "BBC Look North ( Newcastle )",
         [
           "/wiki/BBC_Look_North_(North_East_and_Cumbria)"
         ]
       ],
       [
-        [
-          "956"
-        ],
-        [
-          null
-        ]
+        "956",
+        []
       ],
       [
-        [
-          "955"
-        ],
-        [
-          null
-        ]
+        "955",
+        []
       ]
     ],
     [
       [
-        [
-          "Northern Ireland"
-        ],
+        "Northern Ireland",
         [
           "/wiki/BBC_One_Northern_Ireland"
         ]
       ],
       [
-        [
-          "BBC Newsline"
-        ],
+        "BBC Newsline",
         [
           "/wiki/BBC_Newsline"
         ]
       ],
       [
-        [
-          "957"
-        ],
-        [
-          null
-        ]
+        "957",
+        []
       ],
       [
-        [
-          "953"
-        ],
-        [
-          null
-        ]
+        "953",
+        []
       ]
     ],
     [
       [
-        [
-          "South"
-        ],
+        "South ( Oxford )",
         [
           "/wiki/BBC_South"
         ]
       ],
       [
-        [
-          "BBC South Today",
-          "BBC South Today ( Oxford )"
-        ],
+        "BBC South Today / BBC South Today ( Oxford )",
         [
           "/wiki/South_Today",
           "/wiki/South_Today"
         ]
       ],
       [
-        [
-          "958"
-        ],
-        [
-          null
-        ]
+        "958",
+        []
       ],
       [
-        [
-          "965"
-        ],
-        [
-          null
-        ]
+        "965",
+        []
       ]
     ],
     [
       [
-        [
-          "South East"
-        ],
+        "South East",
         [
           "/wiki/BBC_South_East"
         ]
       ],
       [
-        [
-          "BBC South East Today"
-        ],
+        "BBC South East Today",
         [
           "/wiki/South_East_Today"
         ]
       ],
       [
-        [
-          "959"
-        ],
-        [
-          null
-        ]
+        "959",
+        []
       ],
       [
-        [
-          "963"
-        ],
-        [
-          null
-        ]
+        "963",
+        []
       ]
     ],
     [
       [
-        [
-          "Scotland"
-        ],
+        "Scotland",
         [
           "/wiki/BBC_One_Scotland"
         ]
       ],
       [
-        [
-          "BBC Reporting Scotland"
-        ],
+        "BBC Reporting Scotland",
         [
           "/wiki/Reporting_Scotland"
         ]
       ],
       [
-        [
-          "960"
-        ],
-        [
-          null
-        ]
+        "960",
+        []
       ],
       [
-        [
-          "951"
-        ],
-        [
-          null
-        ]
+        "951",
+        []
       ]
     ],
     [
       [
-        [
-          "South"
-        ],
+        "South ( Southampton )",
         [
           "/wiki/BBC_South"
         ]
       ],
       [
-        [
-          "BBC South Today"
-        ],
+        "BBC South Today",
         [
           "/wiki/South_Today"
         ]
       ],
       [
-        [
-          "961"
-        ],
-        [
-          null
-        ]
+        "961",
+        []
       ],
       [
-        [
-          "964"
-        ],
-        [
-          null
-        ]
+        "964",
+        []
       ]
     ],
     [
       [
-        [
-          "South West"
-        ],
+        "South West ( Plymouth )",
         [
           "/wiki/BBC_South_West"
         ]
       ],
       [
-        [
-          "BBC Spotlight"
-        ],
+        "BBC Spotlight",
         [
           "/wiki/Spotlight_(BBC_News)"
         ]
       ],
       [
-        [
-          "962"
-        ],
-        [
-          null
-        ]
+        "962",
+        []
       ],
       [
-        [
-          "967"
-        ],
-        [
-          null
-        ]
+        "967",
+        []
       ]
     ],
     [
       [
-        [
-          "West Midlands"
-        ],
+        "West Midlands",
         [
           "/wiki/BBC_West_Midlands"
         ]
       ],
       [
-        [
-          "BBC Midlands Today"
-        ],
+        "BBC Midlands Today",
         [
           "/wiki/Midlands_Today"
         ]
       ],
       [
-        [
-          "963"
-        ],
-        [
-          null
-        ]
+        "963",
+        []
       ],
       [
-        [
-          "959"
-        ],
-        [
-          null
-        ]
+        "959",
+        []
       ]
     ],
     [
       [
-        [
-          "Wales"
-        ],
+        "Wales",
         [
           "/wiki/BBC_One_Wales"
         ]
       ],
       [
-        [
-          "BBC Wales Today"
-        ],
+        "BBC Wales Today",
         [
           "/wiki/BBC_Wales_Today"
         ]
       ],
       [
-        [
-          "964"
-        ],
-        [
-          null
-        ]
+        "964",
+        []
       ],
       [
-        [
-          "952"
-        ],
-        [
-          null
-        ]
+        "952",
+        []
       ]
     ],
     [
       [
-        [
-          "West"
-        ],
+        "West",
         [
           "/wiki/BBC_West"
         ]
       ],
       [
-        [
-          "BBC Points West"
-        ],
+        "BBC Points West",
         [
           "/wiki/BBC_Points_West"
         ]
       ],
       [
-        [
-          "965"
-        ],
-        [
-          null
-        ]
+        "965",
+        []
       ],
       [
-        [
-          "966"
-        ],
-        [
-          null
-        ]
+        "966",
+        []
       ]
     ],
     [
       [
-        [
-          "Yorkshire"
-        ],
+        "Yorkshire",
         [
           "/wiki/BBC_Yorkshire"
         ]
       ],
       [
-        [
-          "BBC Look North"
-        ],
+        "BBC Look North ( Leeds )",
         [
           "/wiki/BBC_Look_North_(Yorkshire_and_North_Midlands)"
         ]
       ],
       [
-        [
-          "966"
-        ],
-        [
-          null
-        ]
+        "966",
+        []
       ],
       [
-        [
-          "956"
-        ],
-        [
-          null
-        ]
+        "956",
+        []
       ]
     ],
     [
       [
-        [
-          "Yorkshire and Lincolnshire"
-        ],
+        "Yorkshire and Lincolnshire",
         [
           "/wiki/BBC_Yorkshire_and_Lincolnshire"
         ]
       ],
       [
-        [
-          "BBC Look North"
-        ],
+        "BBC Look North ( Hull )",
         [
           "/wiki/BBC_Look_North_(East_Yorkshire_and_Lincolnshire)"
         ]
       ],
       [
-        [
-          "967"
-        ],
-        [
-          null
-        ]
+        "967",
+        []
       ],
       [
-        [
-          "957"
-        ],
-        [
-          null
-        ]
+        "957",
+        []
       ]
     ],
     [
       [
-        [
-          "England HD"
-        ],
-        [
-          null
-        ]
+        "England HD",
+        []
       ],
       [
-        [
-          "N/A ( This is BBC One HD )"
-        ],
-        [
-          null
-        ]
+        "N/A ( This is BBC One HD )",
+        []
       ],
       [
-        [
-          "972"
-        ],
-        [
-          null
-        ]
+        "972",
+        []
       ],
       [
-        [
-          "976"
-        ],
-        [
-          null
-        ]
+        "976",
+        []
       ]
     ],
     [
       [
-        [
-          "Scotland HD"
-        ],
+        "Scotland HD",
         [
           "/wiki/BBC_One_Scotland"
         ]
       ],
       [
-        [
-          "BBC Reporting Scotland"
-        ],
+        "BBC Reporting Scotland",
         [
           "/wiki/Reporting_Scotland"
         ]
       ],
       [
-        [
-          "973"
-        ],
-        [
-          null
-        ]
+        "973",
+        []
       ],
       [
-        [
-          "977"
-        ],
-        [
-          null
-        ]
+        "977",
+        []
       ]
     ]
   ],

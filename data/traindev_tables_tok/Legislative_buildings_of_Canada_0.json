@@ -3,56 +3,35 @@
   "title": "Legislative buildings of Canada",
   "header": [
     [
-      [
-        "Name"
-      ],
-      [
-        null
-      ]
+      "Name",
+      []
     ],
     [
-      [
-        "Location"
-      ],
-      [
-        null
-      ]
+      "Location",
+      []
     ],
     [
-      [
-        "Years of construction"
-      ],
-      [
-        null
-      ]
+      "Years of construction",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Parliament Buildings of Canada"
-        ],
+        ": Parliament Buildings of Canada",
         [
           "/wiki/Parliament_Hill"
         ]
       ],
       [
-        [
-          "Ottawa",
-          "Ontario",
-          "45\u00b025\u203229\u2033N 75\u00b041\u203257\u2033W / 45.424807\u00b0N 75.699234\u00b0W / 45.424807 ; -75.699234 ( Parliament Buildings of Canada )"
-        ],
+        "Ottawa , Ontario 45\u00b025\u203229\u2033N 75\u00b041\u203257\u2033W / 45.424807\u00b0N 75.699234\u00b0W / 45.424807 ; -75.699234 ( Parliament Buildings of Canada )",
         [
           "/wiki/Ottawa",
-          "/wiki/Ontario",
-          null
+          "/wiki/Ontario"
         ]
       ],
       [
-        [
-          "Centre Block"
-        ],
+        "1859-1876 ( Centre Block : 1916-1927 )",
         [
           "/wiki/Centre_Block"
         ]
@@ -60,366 +39,236 @@
     ],
     [
       [
-        [
-          "Legislative Building of Alberta"
-        ],
+        ": Legislative Building of Alberta",
         [
           "/wiki/Alberta_Legislature_Building"
         ]
       ],
       [
+        "Edmonton 53\u00b032\u203201\u2033N 113\u00b030\u203224\u2033W / 53.533714\u00b0N 113.506531\u00b0W / 53.533714 ; -113.506531 ( Legislative Building of Alberta )",
         [
-          "Edmonton",
-          "53\u00b032\u203201\u2033N 113\u00b030\u203224\u2033W / 53.533714\u00b0N 113.506531\u00b0W / 53.533714 ; -113.506531 ( Legislative Building of Alberta )"
-        ],
-        [
-          "/wiki/Edmonton",
-          null
+          "/wiki/Edmonton"
         ]
       ],
       [
-        [
-          "1907-1913"
-        ],
-        [
-          null
-        ]
+        "1907-1913",
+        []
       ]
     ],
     [
       [
-        [
-          "Parliament Buildings of British Columbia"
-        ],
+        ": Parliament Buildings of British Columbia",
         [
           "/wiki/British_Columbia_Parliament_Buildings"
         ]
       ],
       [
+        "Victoria 48\u00b025\u203211\u2033N 123\u00b022\u203213\u2033W / 48.41963\u00b0N 123.37026\u00b0W / 48.41963 ; -123.37026 ( Parliament Building of British Columbia )",
         [
-          "Victoria",
-          "48\u00b025\u203211\u2033N 123\u00b022\u203213\u2033W / 48.41963\u00b0N 123.37026\u00b0W / 48.41963 ; -123.37026 ( Parliament Building of British Columbia )"
-        ],
-        [
-          "/wiki/Victoria,_British_Columbia",
-          null
+          "/wiki/Victoria,_British_Columbia"
         ]
       ],
       [
-        [
-          "1893-1898"
-        ],
-        [
-          null
-        ]
+        "1893-1898",
+        []
       ]
     ],
     [
       [
-        [
-          "Legislative Building of Manitoba"
-        ],
+        ": Legislative Building of Manitoba",
         [
           "/wiki/Manitoba_Legislative_Building"
         ]
       ],
       [
+        "Winnipeg 49\u00b053\u203204\u2033N 97\u00b008\u203249\u2033W / 49.884394\u00b0N 97.146918\u00b0W / 49.884394 ; -97.146918 ( Legislative Building of Manitoba )",
         [
-          "Winnipeg",
-          "49\u00b053\u203204\u2033N 97\u00b008\u203249\u2033W / 49.884394\u00b0N 97.146918\u00b0W / 49.884394 ; -97.146918 ( Legislative Building of Manitoba )"
-        ],
-        [
-          "/wiki/Winnipeg",
-          null
+          "/wiki/Winnipeg"
         ]
       ],
       [
-        [
-          "1913-1920"
-        ],
-        [
-          null
-        ]
+        "1913-1920",
+        []
       ]
     ],
     [
       [
-        [
-          "Legislative Building of New Brunswick"
-        ],
+        ": Legislative Building of New Brunswick",
         [
           "/wiki/New_Brunswick_Legislative_Building"
         ]
       ],
       [
+        "Fredericton 45\u00b057\u203234\u2033N 66\u00b038\u203210\u2033W / 45.959325\u00b0N 66.636103\u00b0W / 45.959325 ; -66.636103 ( Legislative Building of New Brunswick )",
         [
-          "Fredericton",
-          "45\u00b057\u203234\u2033N 66\u00b038\u203210\u2033W / 45.959325\u00b0N 66.636103\u00b0W / 45.959325 ; -66.636103 ( Legislative Building of New Brunswick )"
-        ],
-        [
-          "/wiki/Fredericton",
-          null
+          "/wiki/Fredericton"
         ]
       ],
       [
-        [
-          "1882"
-        ],
-        [
-          null
-        ]
+        "1882",
+        []
       ]
     ],
     [
       [
-        [
-          "Confederation Building ( Newfoundland and Labrador )"
-        ],
+        ": Confederation Building ( Newfoundland and Labrador )",
         [
           "/wiki/Confederation_Building_(Newfoundland_and_Labrador)"
         ]
       ],
       [
+        "St. John 's 47\u00b035\u203200.27\u2033N 52\u00b043\u203225.71\u2033W / 47.5834083\u00b0N 52.7238083\u00b0W / 47.5834083 ; -52.7238083 ( Confederation Building ( Newfoundland and Labrador ) )",
         [
-          "St. John 's",
-          "47\u00b035\u203200.27\u2033N 52\u00b043\u203225.71\u2033W / 47.5834083\u00b0N 52.7238083\u00b0W / 47.5834083 ; -52.7238083 ( Confederation Building ( Newfoundland and Labrador ) )"
-        ],
-        [
-          "/wiki/St._John's,_Newfoundland_and_Labrador",
-          null
+          "/wiki/St._John's,_Newfoundland_and_Labrador"
         ]
       ],
       [
-        [
-          "1960"
-        ],
-        [
-          null
-        ]
+        "1960",
+        []
       ]
     ],
     [
       [
-        [
-          "Legislative Building of the Northwest Territories"
-        ],
+        ": Legislative Building of the Northwest Territories",
         [
           "/wiki/Northwest_Territories_Legislative_Building"
         ]
       ],
       [
+        "Yellowknife 62\u00b027\u203234\u2033N 114\u00b022\u203255\u2033W / 62.459384\u00b0N 114.382042\u00b0W / 62.459384 ; -114.382042 ( Legislative Building of the Northwest Territories )",
         [
-          "Yellowknife",
-          "62\u00b027\u203234\u2033N 114\u00b022\u203255\u2033W / 62.459384\u00b0N 114.382042\u00b0W / 62.459384 ; -114.382042 ( Legislative Building of the Northwest Territories )"
-        ],
-        [
-          "/wiki/Yellowknife",
-          null
+          "/wiki/Yellowknife"
         ]
       ],
       [
-        [
-          "1993"
-        ],
-        [
-          null
-        ]
+        "1993",
+        []
       ]
     ],
     [
       [
-        [
-          "Province House ( Nova Scotia )"
-        ],
+        ": Province House ( Nova Scotia )",
         [
           "/wiki/Province_House_(Nova_Scotia)"
         ]
       ],
       [
+        "Halifax 44\u00b038\u203252\u2033N 63\u00b034\u203224\u2033W / 44.64791\u00b0N 63.573396\u00b0W / 44.64791 ; -63.573396 ( Province House )",
         [
-          "Halifax",
-          "44\u00b038\u203252\u2033N 63\u00b034\u203224\u2033W / 44.64791\u00b0N 63.573396\u00b0W / 44.64791 ; -63.573396 ( Province House )"
-        ],
-        [
-          "/wiki/Halifax_Regional_Municipality",
-          null
+          "/wiki/Halifax_Regional_Municipality"
         ]
       ],
       [
-        [
-          "1819"
-        ],
-        [
-          null
-        ]
+        "1819",
+        []
       ]
     ],
     [
       [
-        [
-          "Legislative Building of Nunavut"
-        ],
+        ": Legislative Building of Nunavut",
         [
           "/wiki/Legislative_Building_of_Nunavut"
         ]
       ],
       [
+        "Iqaluit 63\u00b045\u203201\u2033N 068\u00b031\u203223\u2033W / 63.75028\u00b0N 68.52306\u00b0W / 63.75028 ; -68.52306 ( Legislative Building of Nunavut )",
         [
-          "Iqaluit",
-          "63\u00b045\u203201\u2033N 068\u00b031\u203223\u2033W / 63.75028\u00b0N 68.52306\u00b0W / 63.75028 ; -68.52306 ( Legislative Building of Nunavut )"
-        ],
-        [
-          "/wiki/Iqaluit",
-          null
+          "/wiki/Iqaluit"
         ]
       ],
       [
-        [
-          "1998-1999"
-        ],
-        [
-          null
-        ]
+        "1998-1999",
+        []
       ]
     ],
     [
       [
-        [
-          "Legislative Building of Ontario"
-        ],
+        ": Legislative Building of Ontario",
         [
           "/wiki/Ontario_Legislative_Building"
         ]
       ],
       [
+        "Toronto 43\u00b039\u203245\u2033N 79\u00b023\u203230\u2033W / 43.662447\u00b0N 79.391708\u00b0W / 43.662447 ; -79.391708 ( Legislative Building of Ontario )",
         [
-          "Toronto",
-          "43\u00b039\u203245\u2033N 79\u00b023\u203230\u2033W / 43.662447\u00b0N 79.391708\u00b0W / 43.662447 ; -79.391708 ( Legislative Building of Ontario )"
-        ],
-        [
-          "/wiki/Toronto",
-          null
+          "/wiki/Toronto"
         ]
       ],
       [
-        [
-          "1886-1893"
-        ],
-        [
-          null
-        ]
+        "1886-1893",
+        []
       ]
     ],
     [
       [
-        [
-          "Province House ( Prince Edward Island )"
-        ],
+        ": Province House ( Prince Edward Island )",
         [
           "/wiki/Province_House_(Prince_Edward_Island)"
         ]
       ],
       [
+        "Charlottetown 46\u00b014\u203206\u2033N 63\u00b007\u203234\u2033W / 46.234927\u00b0N 63.126084\u00b0W / 46.234927 ; -63.126084 ( Province House )",
         [
-          "Charlottetown",
-          "46\u00b014\u203206\u2033N 63\u00b007\u203234\u2033W / 46.234927\u00b0N 63.126084\u00b0W / 46.234927 ; -63.126084 ( Province House )"
-        ],
-        [
-          "/wiki/Charlottetown",
-          null
+          "/wiki/Charlottetown"
         ]
       ],
       [
-        [
-          "1843-1847"
-        ],
-        [
-          null
-        ]
+        "1843-1847",
+        []
       ]
     ],
     [
       [
-        [
-          "Parliament Building of Quebec"
-        ],
+        ": Parliament Building of Quebec",
         [
           "/wiki/Parliament_Building_(Quebec)"
         ]
       ],
       [
+        "Quebec City 46\u00b048\u203232\u2033N 71\u00b012\u203251\u2033W / 46.808762\u00b0N 71.214178\u00b0W / 46.808762 ; -71.214178 ( Parliament Building of Quebec )",
         [
-          "Quebec City",
-          "46\u00b048\u203232\u2033N 71\u00b012\u203251\u2033W / 46.808762\u00b0N 71.214178\u00b0W / 46.808762 ; -71.214178 ( Parliament Building of Quebec )"
-        ],
-        [
-          "/wiki/Quebec_City",
-          null
+          "/wiki/Quebec_City"
         ]
       ],
       [
-        [
-          "1877-1886"
-        ],
-        [
-          null
-        ]
+        "1877-1886",
+        []
       ]
     ],
     [
       [
-        [
-          "Legislative Building of Saskatchewan"
-        ],
+        ": Legislative Building of Saskatchewan",
         [
           "/wiki/Saskatchewan_Legislative_Building"
         ]
       ],
       [
+        "Regina 50\u00b025\u203257\u2033N 104\u00b036\u203254\u2033W / 50.432426\u00b0N 104.615099\u00b0W / 50.432426 ; -104.615099 ( Legislative Building of Saskatchewan )",
         [
-          "Regina",
-          "50\u00b025\u203257\u2033N 104\u00b036\u203254\u2033W / 50.432426\u00b0N 104.615099\u00b0W / 50.432426 ; -104.615099 ( Legislative Building of Saskatchewan )"
-        ],
-        [
-          "/wiki/Regina,_Saskatchewan",
-          null
+          "/wiki/Regina,_Saskatchewan"
         ]
       ],
       [
-        [
-          "1908-1912"
-        ],
-        [
-          null
-        ]
+        "1908-1912",
+        []
       ]
     ],
     [
       [
-        [
-          "Legislative Building of Yukon"
-        ],
+        ": Legislative Building of Yukon",
         [
           "/wiki/Yukon_Legislative_Building"
         ]
       ],
       [
+        "Whitehorse 60\u00b043\u203201\u2033N 135\u00b002\u203258\u2033W / 60.716948\u00b0N 135.049374\u00b0W / 60.716948 ; -135.049374 ( Legislative Building of Yukon )",
         [
-          "Whitehorse",
-          "60\u00b043\u203201\u2033N 135\u00b002\u203258\u2033W / 60.716948\u00b0N 135.049374\u00b0W / 60.716948 ; -135.049374 ( Legislative Building of Yukon )"
-        ],
-        [
-          "/wiki/Whitehorse,_Yukon",
-          null
+          "/wiki/Whitehorse,_Yukon"
         ]
       ],
       [
-        [
-          "1976"
-        ],
-        [
-          null
-        ]
+        "1976",
+        []
       ]
     ]
   ],

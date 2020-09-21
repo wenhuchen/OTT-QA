@@ -3,105 +3,63 @@
   "title": "List of coffee varieties",
   "header": [
     [
-      [
-        "Name"
-      ],
-      [
-        null
-      ]
+      "Name",
+      []
     ],
     [
-      [
-        "Species"
-      ],
-      [
-        null
-      ]
+      "Species",
+      []
     ],
     [
-      [
-        "Region ( s )"
-      ],
-      [
-        null
-      ]
+      "Region ( s )",
+      []
     ],
     [
-      [
-        "Comments"
-      ],
-      [
-        null
-      ]
+      "Comments",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Arusha"
-        ],
-        [
-          null
-        ]
+        "Arusha",
+        []
       ],
       [
-        [
-          "C. arabica"
-        ],
-        [
-          null
-        ]
+        "C. arabica",
+        []
       ],
       [
-        [
-          "Tanzania",
-          "Papua New Guinea"
-        ],
+        "Mount Meru in Tanzania , and Papua New Guinea",
         [
           "/wiki/Tanzania",
           "/wiki/Papua_New_Guinea"
         ]
       ],
       [
-        [
-          "either a Typica variety or a French Mission"
-        ],
-        [
-          null
-        ]
+        "either a Typica variety or a French Mission",
+        []
       ]
     ],
     [
       [
-        [
-          "Benguet"
-        ],
+        "Benguet",
         [
           "/wiki/Benguet_coffee"
         ]
       ],
       [
-        [
-          "C. arabica"
-        ],
-        [
-          null
-        ]
+        "C. arabica",
+        []
       ],
       [
-        [
-          "Philippines"
-        ],
+        "Philippines",
         [
           "/wiki/Philippines"
         ]
       ],
       [
-        [
-          "Benguet",
-          "Cordillera"
-        ],
+        "Typica variety grown in Benguet in the Cordillera highlands of the northern Philippines since 1875",
         [
           "/wiki/Benguet",
           "/wiki/Cordillera_Central_(Luzon)"
@@ -110,33 +68,19 @@
     ],
     [
       [
-        [
-          "Bergendal , Sidikalang"
-        ],
-        [
-          null
-        ]
+        "Bergendal , Sidikalang",
+        []
       ],
       [
-        [
-          "C. arabica"
-        ],
-        [
-          null
-        ]
+        "C. arabica",
+        []
       ],
       [
-        [
-          "Indonesia"
-        ],
-        [
-          null
-        ]
+        "Indonesia",
+        []
       ],
       [
-        [
-          "leaf rust"
-        ],
+        "Both are Typica varieties which survived the leaf rust outbreak of the 1880s ; most of the other Typica in Indonesia was destroyed",
         [
           "/wiki/Hemileia_vastatrix"
         ]
@@ -144,35 +88,19 @@
     ],
     [
       [
-        [
-          "Bernardina ( coffee )"
-        ],
-        [
-          null
-        ]
+        "Bernardina ( coffee )",
+        []
       ],
       [
-        [
-          "C. arabica"
-        ],
-        [
-          null
-        ]
+        "C. arabica",
+        []
       ],
       [
-        [
-          "El Salvador"
-        ],
-        [
-          null
-        ]
+        "El Salvador",
+        []
       ],
       [
-        [
-          "Geisha",
-          "Agaro",
-          "Ethiopia"
-        ],
+        "A variety discovered in Finca Los Bellotos , El Salvador by Maria and Alfredo Pacas . It was first thought to be Geisha because of its aromatic profile . However , after studying its phenotype characteristics and DNA testing , it was determined to be a new , unclassified variety genetically similar to varieties found in the Agaro region of Ethiopia",
         [
           "/wiki/Geisha_(coffee)",
           "/wiki/Agaro",
@@ -182,31 +110,15 @@
     ],
     [
       [
-        [
-          "Blue Mountain"
-        ],
-        [
-          null
-        ]
+        "Blue Mountain",
+        []
       ],
       [
-        [
-          "C. arabica"
-        ],
-        [
-          null
-        ]
+        "C. arabica",
+        []
       ],
       [
-        [
-          "Blue Mountains",
-          "Jamaica",
-          "Kenya",
-          "Hawaii",
-          "Haiti",
-          "Papua New Guinea",
-          "Cameroon"
-        ],
+        "Blue Mountains region of Jamaica . Also grown in Kenya , Hawaii , Haiti , Papua New Guinea ( where it is known as PNG Gold ) and Cameroon ( where it is known as Boyo )",
         [
           "/wiki/Blue_Mountains_(Jamaica)",
           "/wiki/Jamaica",
@@ -218,9 +130,7 @@
         ]
       ],
       [
-        [
-          "coffee berry disease"
-        ],
+        "A unique mutation of Typica , known to have some resistance to coffee berry disease",
         [
           "/wiki/Colletotrichum_kahawae"
         ]
@@ -228,34 +138,23 @@
     ],
     [
       [
-        [
-          "Bourbon"
-        ],
+        "Bourbon",
         [
           "/wiki/Bourbon_coffee"
         ]
       ],
       [
-        [
-          "C. arabica"
-        ],
-        [
-          null
-        ]
+        "C. arabica",
+        []
       ],
       [
-        [
-          "R\u00e9union"
-        ],
+        "R\u00e9union , Rwanda , Latin America",
         [
           "/wiki/R\u00e9union"
         ]
       ],
       [
-        [
-          "R\u00e9union",
-          "Bourbon"
-        ],
+        "Around 1708 , the French planted coffee on the island of Bourbon ( now called R\u00e9union ) in the middle of the Indian Ocean , all probably from the same parent stock - the plant the Dutch gave them . Unsurprisingly , it mutated slightly and was planted throughout Brazil in the late 1800s and eventually spread through Latin America , however , it was not possible to achieve the same level of flavour as when in R\u00e9union , due to the volcanic earth and the soil properties . Bourbon produces 20-30% more fruit than Typica strains",
         [
           "/wiki/R\u00e9union",
           "/wiki/Bourbon_coffee"
@@ -264,103 +163,55 @@
     ],
     [
       [
-        [
-          "Catuai"
-        ],
-        [
-          null
-        ]
+        "Catuai",
+        []
       ],
       [
-        [
-          "C. arabica"
-        ],
-        [
-          null
-        ]
+        "C. arabica",
+        []
       ],
       [
-        [
-          "Latin America"
-        ],
-        [
-          null
-        ]
+        "Latin America",
+        []
       ],
       [
-        [
-          "Mundo Novo"
-        ],
-        [
-          null
-        ]
+        "This is a hybrid of Mundo Novo and Caturra bred in Brazil in the late 1940s",
+        []
       ]
     ],
     [
       [
-        [
-          "Catimor"
-        ],
-        [
-          null
-        ]
+        "Catimor",
+        []
       ],
       [
-        [
-          "Interspecific hybrid"
-        ],
-        [
-          null
-        ]
+        "Interspecific hybrid",
+        []
       ],
       [
-        [
-          "Latin America , Indonesia , India , China ( Yunnan )"
-        ],
-        [
-          null
-        ]
+        "Latin America , Indonesia , India , China ( Yunnan )",
+        []
       ],
       [
-        [
-          "This is cross between Timor coffee and Caturra coffee . It was created in Portugal in 1959 . In India , this cultivar goes by the name Cauvery"
-        ],
-        [
-          null
-        ]
+        "This is cross between Timor coffee and Caturra coffee . It was created in Portugal in 1959 . In India , this cultivar goes by the name Cauvery",
+        []
       ]
     ],
     [
       [
-        [
-          "Caturra"
-        ],
-        [
-          null
-        ]
+        "Caturra",
+        []
       ],
       [
-        [
-          "C. arabica"
-        ],
-        [
-          null
-        ]
+        "C. arabica",
+        []
       ],
       [
-        [
-          "Latin and Central America"
-        ],
-        [
-          null
-        ]
+        "Latin and Central America",
+        []
       ],
       [
-        [
-          "Serra do Capara\u00f3",
-          "El Salvador",
-          "Costa Rica"
-        ],
+        "Developed from two cultivars that originated by natural mutation of Bourbon Red , originally a tall coffee shrub , found in the Serra do Capara\u00f3 . It produces a higher yield than Bourbon , due to the plant being shorter and with less distance between the branches , matures more quickly , and is more disease resistant than older , traditional arabica varieties . Its mutation is not unique ; it led to the formation of the Pacas variety in El Salvador ( from Bourbon ) and the Villa Sarchi in Costa Rica ( from Bourbon ) . Genetically it is very similar to Bourbon although it produces a poorer cup quality , mainly due to the variety yielding more",
         [
           "/wiki/Serra_do_Capara\u00f3",
           "/wiki/El_Salvador",
@@ -370,68 +221,41 @@
     ],
     [
       [
-        [
-          "Charrier"
-        ],
+        "Charrier",
         [
           "/wiki/Coffea_charrieriana"
         ]
       ],
       [
-        [
-          "C. charrieriana"
-        ],
-        [
-          null
-        ]
+        "C. charrieriana",
+        []
       ],
       [
-        [
-          "Cameroon"
-        ],
-        [
-          null
-        ]
+        "Cameroon",
+        []
       ],
       [
-        [
-          "This is a newly found species from Cameroon . It has gained some press recently due to its caffeine-free nature . Not yet grown commercially , but it probably will be"
-        ],
-        [
-          null
-        ]
+        "This is a newly found species from Cameroon . It has gained some press recently due to its caffeine-free nature . Not yet grown commercially , but it probably will be",
+        []
       ]
     ],
     [
       [
-        [
-          "Ethiopian Harar"
-        ],
+        "Ethiopian Harar",
         [
           "/wiki/Ethiopian_Harar"
         ]
       ],
       [
-        [
-          "C. arabica"
-        ],
-        [
-          null
-        ]
+        "C. arabica",
+        []
       ],
       [
-        [
-          "Ethiopia"
-        ],
-        [
-          null
-        ]
+        "Ethiopia",
+        []
       ],
       [
-        [
-          "Harar",
-          "Ethiopia"
-        ],
+        "From the region of Harar , Ethiopia . Known for its complex , fruity flavor that resembles a dry red wine . All three Ethiopian varieties are trademarked names with the rights owned by Ethiopia",
         [
           "/wiki/Harar",
           "/wiki/Ethiopia"
@@ -440,35 +264,21 @@
     ],
     [
       [
-        [
-          "Ethiopian Sidamo"
-        ],
+        "Ethiopian Sidamo",
         [
           "/wiki/Ethiopian_Sidamo_(coffee)"
         ]
       ],
       [
-        [
-          "C. arabica"
-        ],
-        [
-          null
-        ]
+        "C. arabica",
+        []
       ],
       [
-        [
-          "Ethiopia"
-        ],
-        [
-          null
-        ]
+        "Ethiopia",
+        []
       ],
       [
-        [
-          "Sidamo",
-          "Oromia",
-          "Ethiopia"
-        ],
+        "From the Sidamo ( now Oromia ) region of Ethiopia as well . All three Ethiopian varieties are trademarked names with the rights owned by Ethiopia",
         [
           "/wiki/Sidamo_Province",
           "/wiki/Oromia",
@@ -478,35 +288,19 @@
     ],
     [
       [
-        [
-          "Ethiopian Yirgacheffe"
-        ],
-        [
-          null
-        ]
+        "Ethiopian Yirgacheffe",
+        []
       ],
       [
-        [
-          "C. arabica"
-        ],
-        [
-          null
-        ]
+        "C. arabica",
+        []
       ],
       [
-        [
-          "Ethiopia"
-        ],
-        [
-          null
-        ]
+        "Ethiopia",
+        []
       ],
       [
-        [
-          "Yirgachefe",
-          "Gedeo Zone",
-          "Southern Nations , Nationalities , and People 's Region"
-        ],
+        "From the Yirgachefe district in the Gedeo Zone of the Southern Nations , Nationalities , and People 's Region of Ethiopia . All three Ethiopian varieties are trademarked names with the rights owned by Ethiopia",
         [
           "/wiki/Yirgachefe_(woreda)",
           "/wiki/Gedeo_Zone",
@@ -516,33 +310,19 @@
     ],
     [
       [
-        [
-          "French Mission"
-        ],
-        [
-          null
-        ]
+        "French Mission",
+        []
       ],
       [
-        [
-          "C. arabica"
-        ],
-        [
-          null
-        ]
+        "C. arabica",
+        []
       ],
       [
-        [
-          "Africa"
-        ],
-        [
-          null
-        ]
+        "Africa",
+        []
       ],
       [
-        [
-          "Bourbon"
-        ],
+        "French Mission is actually Bourbon that was planted in East Africa by French Missionaries around 1897",
         [
           "/wiki/Bourbon_coffee"
         ]
@@ -550,35 +330,21 @@
     ],
     [
       [
-        [
-          "Geisha"
-        ],
+        "Geisha / Gesha",
         [
           "/wiki/Geisha_coffee"
         ]
       ],
       [
-        [
-          "C. arabica"
-        ],
-        [
-          null
-        ]
+        "C. arabica",
+        []
       ],
       [
-        [
-          "Ethiopia , Tanzania , Costa Rica , Panama , Colombia , Peru"
-        ],
-        [
-          null
-        ]
+        "Ethiopia , Tanzania , Costa Rica , Panama , Colombia , Peru",
+        []
       ],
       [
-        [
-          "Boquete",
-          "Chiriqu\u00ed Province",
-          "Gesha"
-        ],
+        "Geisha or Gesha variety , grown in the highlands of Boquete in Chiriqu\u00ed Province , Panama , highly sought after at auction , achieving high prices . Originally from the village of Gesha , Ethiopia . It was planted in the 1950s as a rust-resistant crop and rediscovered in the early 2000s . The most expensive varietal at coffee auctions , fetching $ 350.25USD in 2013 . Breaking its own record as the most expensive coffee in the world at US $ 803.00 /lb of Natural ( processed ) Geisha in the Best of Panama auctions in 2018",
         [
           "/wiki/Boquete",
           "/wiki/Chiriqu\u00ed_Province",
@@ -588,70 +354,43 @@
     ],
     [
       [
-        [
-          "Guadeloupe Bonifieur"
-        ],
+        "Guadeloupe Bonifieur",
         [
           "/wiki/Guadeloupe_Bonifieur"
         ]
       ],
       [
-        [
-          "C. arabica"
-        ],
-        [
-          null
-        ]
+        "C. arabica",
+        []
       ],
       [
-        [
-          "Guadeloupe"
-        ],
+        "Guadeloupe",
         [
           "/wiki/Guadeloupe"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Kona"
-        ],
+        "Hawaiian Kona",
         [
           "/wiki/Kona_coffee"
         ]
       ],
       [
-        [
-          "C. arabica"
-        ],
-        [
-          null
-        ]
+        "C. arabica",
+        []
       ],
       [
-        [
-          "Hawaii"
-        ],
-        [
-          null
-        ]
+        "Hawaii",
+        []
       ],
       [
-        [
-          "Hualalai",
-          "Mauna Loa",
-          "Kona District",
-          "Big Island of Hawaii"
-        ],
+        "Grown on the slopes of Hualalai and Mauna Loa in the Kona District on the Big Island of Hawaii . Coffee was first introduced to the Islands by Chief Boki , the Governor of Oahu , in 1825",
         [
           "/wiki/Hualalai",
           "/wiki/Mauna_Loa",
@@ -662,34 +401,21 @@
     ],
     [
       [
-        [
-          "Java"
-        ],
+        "Java",
         [
           "/wiki/Java_coffee"
         ]
       ],
       [
-        [
-          "Interspecific hybrid"
-        ],
-        [
-          null
-        ]
+        "Interspecific hybrid",
+        []
       ],
       [
-        [
-          "Indonesia"
-        ],
-        [
-          null
-        ]
+        "Indonesia",
+        []
       ],
       [
-        [
-          "Java",
-          "Indonesia"
-        ],
+        "From the island of Java , in Indonesia . This coffee was once so widely traded that java became a slang term for coffee . Java encompasses a regional style , not a cultivar of coffee",
         [
           "/wiki/Java_(island)",
           "/wiki/Indonesia"
@@ -698,67 +424,39 @@
     ],
     [
       [
-        [
-          "K7"
-        ],
-        [
-          null
-        ]
+        "K7",
+        []
       ],
       [
-        [
-          "C. arabica"
-        ],
-        [
-          null
-        ]
+        "C. arabica",
+        []
       ],
       [
-        [
-          "Africa"
-        ],
-        [
-          null
-        ]
+        "Africa",
+        []
       ],
       [
-        [
-          "A Kenyan selection of French Mission Bourbon selected at Legelet Estate in Muhoroni , Kenya . Selected based on cupping trials"
-        ],
-        [
-          null
-        ]
+        "A Kenyan selection of French Mission Bourbon selected at Legelet Estate in Muhoroni , Kenya . Selected based on cupping trials",
+        []
       ]
     ],
     [
       [
-        [
-          "Maragogipe"
-        ],
+        "Maragogipe",
         [
           "/wiki/Maragogipe_Coffee"
         ]
       ],
       [
-        [
-          "C. arabica"
-        ],
-        [
-          null
-        ]
+        "C. arabica",
+        []
       ],
       [
-        [
-          "Latin America"
-        ],
-        [
-          null
-        ]
+        "Latin America",
+        []
       ],
       [
-        [
-          "Maragogipe"
-        ],
+        "Maragogipe ( ' y ' ) is considered to be a natural mutation from Typica . It was first discovered near Maragogipe , in Brazil 's state Bahia . Maragogype is well known for producing big beans",
         [
           "/wiki/Maragogipe"
         ]

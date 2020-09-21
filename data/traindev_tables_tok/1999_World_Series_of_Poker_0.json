@@ -3,70 +3,41 @@
   "title": "1999 World Series of Poker",
   "header": [
     [
-      [
-        "Event"
-      ],
-      [
-        null
-      ]
+      "Event",
+      []
     ],
     [
-      [
-        "Winner"
-      ],
-      [
-        null
-      ]
+      "Winner",
+      []
     ],
     [
-      [
-        "Prize"
-      ],
-      [
-        null
-      ]
+      "Prize",
+      []
     ],
     [
-      [
-        "Runner-up"
-      ],
-      [
-        null
-      ]
+      "Runner-up",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Limit",
-          "Hold'em"
-        ],
+        "$ 1,500 Limit Hold'em",
         [
           "/wiki/Betting_(poker)",
           "/wiki/Hold'em"
         ]
       ],
       [
-        [
-          "Charles Brahmi"
-        ],
-        [
-          null
-        ]
+        "Charles Brahmi",
+        []
       ],
       [
-        [
-          "$ 338,000"
-        ],
-        [
-          null
-        ]
+        "$ 338,000",
+        []
       ],
       [
-        [
-          "John Bonetti"
-        ],
+        "John Bonetti",
         [
           "/wiki/John_Bonetti"
         ]
@@ -74,67 +45,43 @@
     ],
     [
       [
-        [
-          "Razz"
-        ],
+        "$ 1,500 Razz",
         [
           "/wiki/Razz_(poker)"
         ]
       ],
       [
-        [
-          "Paul Clark"
-        ],
+        "Paul Clark",
         [
           "/wiki/Paul_Clark_(poker_player)"
         ]
       ],
       [
-        [
-          "$ 84,610"
-        ],
-        [
-          null
-        ]
+        "$ 84,610",
+        []
       ],
       [
-        [
-          "Simon Zhang"
-        ],
-        [
-          null
-        ]
+        "Simon Zhang",
+        []
       ]
     ],
     [
       [
-        [
-          "$ 2,500 Limit Hold'em"
-        ],
-        [
-          null
-        ]
+        "$ 2,500 Limit Hold'em",
+        []
       ],
       [
-        [
-          "John Esposito"
-        ],
+        "John Esposito",
         [
           "/wiki/John_Esposito_(poker_player)"
         ]
       ],
       [
-        [
-          "$ 219,225"
-        ],
-        [
-          null
-        ]
+        "$ 219,225",
+        []
       ],
       [
-        [
-          "Mimi Tran"
-        ],
+        "Mimi Tran",
         [
           "/wiki/Mimi_Tran"
         ]
@@ -142,33 +89,23 @@
     ],
     [
       [
-        [
-          "Seven Card Stud"
-        ],
+        "$ 2,500 Seven Card Stud",
         [
           "/wiki/Seven_Card_Stud"
         ]
       ],
       [
-        [
-          "David Grey"
-        ],
+        "David Grey",
         [
           "/wiki/David_Grey"
         ]
       ],
       [
-        [
-          "$ 199,000"
-        ],
-        [
-          null
-        ]
+        "$ 199,000",
+        []
       ],
       [
-        [
-          "Eli Balas"
-        ],
+        "Eli Balas",
         [
           "/wiki/Eli_Balas"
         ]
@@ -176,103 +113,60 @@
     ],
     [
       [
-        [
-          "Pot Limit",
-          "Omaha"
-        ],
+        "$ 2,500 Pot Limit Omaha w/Rebuys",
         [
           "/wiki/Betting_(poker)",
           "/wiki/Omaha_hold'em"
         ]
       ],
       [
-        [
-          "Hassan Kamoei"
-        ],
-        [
-          null
-        ]
+        "Hassan Kamoei",
+        []
       ],
       [
-        [
-          "$ 173,000"
-        ],
-        [
-          null
-        ]
+        "$ 173,000",
+        []
       ],
       [
-        [
-          "Norbert Hoelting"
-        ],
-        [
-          null
-        ]
+        "Norbert Hoelting",
+        []
       ]
     ],
     [
       [
-        [
-          "$ 2,500 Seven Card Stud Hi-Lo Split"
-        ],
-        [
-          null
-        ]
+        "$ 2,500 Seven Card Stud Hi-Lo Split",
+        []
       ],
       [
-        [
-          "Ron Long"
-        ],
-        [
-          null
-        ]
+        "Ron Long",
+        []
       ],
       [
-        [
-          "$ 170,000"
-        ],
-        [
-          null
-        ]
+        "$ 170,000",
+        []
       ],
       [
-        [
-          "Brian Nadell"
-        ],
-        [
-          null
-        ]
+        "Brian Nadell",
+        []
       ]
     ],
     [
       [
-        [
-          "No Limit"
-        ],
+        "$ 2,500 No Limit Hold'em",
         [
           "/wiki/Betting_(poker)"
         ]
       ],
       [
-        [
-          "Eric Holum"
-        ],
-        [
-          null
-        ]
+        "Eric Holum",
+        []
       ],
       [
-        [
-          "$ 283,975"
-        ],
-        [
-          null
-        ]
+        "$ 283,975",
+        []
       ],
       [
-        [
-          "Ted Forrest"
-        ],
+        "Ted Forrest",
         [
           "/wiki/Ted_Forrest"
         ]
@@ -280,101 +174,61 @@
     ],
     [
       [
-        [
-          "$ 2,500 Limit Omaha"
-        ],
-        [
-          null
-        ]
+        "$ 2,500 Limit Omaha",
+        []
       ],
       [
-        [
-          "Tom Franklin"
-        ],
+        "Tom Franklin",
         [
           "/wiki/Tom_Franklin_(poker_player)"
         ]
       ],
       [
-        [
-          "$ 104,000"
-        ],
-        [
-          null
-        ]
+        "$ 104,000",
+        []
       ],
       [
-        [
-          "Erik Alps"
-        ],
-        [
-          null
-        ]
+        "Erik Alps",
+        []
       ]
     ],
     [
       [
-        [
-          "$ 2,500 Omaha Hi-Lo Split"
-        ],
-        [
-          null
-        ]
+        "$ 2,500 Omaha Hi-Lo Split",
+        []
       ],
       [
-        [
-          "Steve Badger"
-        ],
+        "Steve Badger",
         [
           "/wiki/Steve_Badger_(poker_player)"
         ]
       ],
       [
-        [
-          "$ 186,000"
-        ],
-        [
-          null
-        ]
+        "$ 186,000",
+        []
       ],
       [
-        [
-          "Larry Anderson"
-        ],
-        [
-          null
-        ]
+        "Larry Anderson",
+        []
       ]
     ],
     [
       [
-        [
-          "$ 3,000 Limit Hold'em"
-        ],
-        [
-          null
-        ]
+        "$ 3,000 Limit Hold'em",
+        []
       ],
       [
-        [
-          "Josh Arieh"
-        ],
+        "Josh Arieh",
         [
           "/wiki/Josh_Arieh"
         ]
       ],
       [
-        [
-          "$ 202,800"
-        ],
-        [
-          null
-        ]
+        "$ 202,800",
+        []
       ],
       [
-        [
-          "Humberto Brenes"
-        ],
+        "Humberto Brenes",
         [
           "/wiki/Humberto_Brenes"
         ]
@@ -382,33 +236,21 @@
     ],
     [
       [
-        [
-          "$ 3,500 No Limit Hold'em"
-        ],
-        [
-          null
-        ]
+        "$ 3,500 No Limit Hold'em",
+        []
       ],
       [
-        [
-          "Mike Matusow"
-        ],
+        "Mike Matusow",
         [
           "/wiki/Mike_Matusow"
         ]
       ],
       [
-        [
-          "$ 265,475"
-        ],
-        [
-          null
-        ]
+        "$ 265,475",
+        []
       ],
       [
-        [
-          "Alex Brenes"
-        ],
+        "Alex Brenes",
         [
           "/wiki/Alex_Brenes"
         ]
@@ -416,67 +258,41 @@
     ],
     [
       [
-        [
-          "$ 3,000 Pot Limit Hold'em"
-        ],
-        [
-          null
-        ]
+        "$ 3,000 Pot Limit Hold'em",
+        []
       ],
       [
-        [
-          "Layne Flack"
-        ],
+        "Layne Flack",
         [
           "/wiki/Layne_Flack"
         ]
       ],
       [
-        [
-          "$ 224,400"
-        ],
-        [
-          null
-        ]
+        "$ 224,400",
+        []
       ],
       [
-        [
-          "Matt Lefkowitz"
-        ],
-        [
-          null
-        ]
+        "Matt Lefkowitz",
+        []
       ]
     ],
     [
       [
-        [
-          "$ 5,000 Limit Hold'em"
-        ],
-        [
-          null
-        ]
+        "$ 5,000 Limit Hold'em",
+        []
       ],
       [
-        [
-          "Eli Balas"
-        ],
+        "Eli Balas",
         [
           "/wiki/Eli_Balas"
         ]
       ],
       [
-        [
-          "$ 220,000"
-        ],
-        [
-          null
-        ]
+        "$ 220,000",
+        []
       ],
       [
-        [
-          "Annie Duke"
-        ],
+        "Annie Duke",
         [
           "/wiki/Annie_Duke"
         ]
@@ -484,70 +300,40 @@
     ],
     [
       [
-        [
-          "$ 1,500 Omaha Hi-Lo Split"
-        ],
-        [
-          null
-        ]
+        "$ 1,500 Omaha Hi-Lo Split",
+        []
       ],
       [
-        [
-          "Mike Wattel"
-        ],
-        [
-          null
-        ]
+        "Mike Wattel",
+        []
       ],
       [
-        [
-          "$ 134,865"
-        ],
-        [
-          null
-        ]
+        "$ 134,865",
+        []
       ],
       [
-        [
-          "Ed Smith"
-        ],
-        [
-          null
-        ]
+        "Ed Smith",
+        []
       ]
     ],
     [
       [
-        [
-          "$ 1,000 Ladies ' Seven Card Stud"
-        ],
-        [
-          null
-        ]
+        "$ 1,000 Ladies ' Seven Card Stud",
+        []
       ],
       [
-        [
-          "Christina Pie"
-        ],
+        "Christina Pie",
         [
           "/wiki/Christina_Pie"
         ]
       ],
       [
-        [
-          "$ 34,000"
-        ],
-        [
-          null
-        ]
+        "$ 34,000",
+        []
       ],
       [
-        [
-          "LaVonne Joyce"
-        ],
-        [
-          null
-        ]
+        "LaVonne Joyce",
+        []
       ]
     ]
   ],

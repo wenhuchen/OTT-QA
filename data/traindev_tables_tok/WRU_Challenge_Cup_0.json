@@ -3,445 +3,273 @@
   "title": "WRU Challenge Cup",
   "header": [
     [
-      [
-        "Team"
-      ],
-      [
-        null
-      ]
+      "Team",
+      []
     ],
     [
-      [
-        "Winners"
-      ],
-      [
-        null
-      ]
+      "Winners",
+      []
     ],
     [
-      [
-        "Runners-up"
-      ],
-      [
-        null
-      ]
+      "Runners-up",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Llanelli"
-        ],
+        "Llanelli",
         [
           "/wiki/Llanelli_RFC"
         ]
       ],
       [
-        [
-          "14"
-        ],
-        [
-          null
-        ]
+        "14",
+        []
       ],
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ]
     ],
     [
       [
-        [
-          "Cardiff"
-        ],
+        "Cardiff",
         [
           "/wiki/Cardiff_RFC"
         ]
       ],
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ]
     ],
     [
       [
-        [
-          "Neath"
-        ],
+        "Neath",
         [
           "/wiki/Neath_RFC"
         ]
       ],
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "7"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ]
     ],
     [
       [
-        [
-          "Pontypridd"
-        ],
+        "Pontypridd",
         [
           "/wiki/Pontypridd_RFC"
         ]
       ],
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ]
     ],
     [
       [
-        [
-          "Swansea"
-        ],
+        "Swansea",
         [
           "/wiki/Swansea_RFC"
         ]
       ],
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "7"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ]
     ],
     [
       [
-        [
-          "Bridgend"
-        ],
+        "Bridgend",
         [
           "/wiki/Bridgend_RFC"
         ]
       ],
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ]
     ],
     [
       [
-        [
-          "Newport"
-        ],
+        "Newport",
         [
           "/wiki/Newport_RFC"
         ]
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ]
     ],
     [
       [
-        [
-          "Llandovery"
-        ],
+        "Llandovery",
         [
           "/wiki/Llandovery_RFC"
         ]
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ]
     ],
     [
       [
-        [
-          "Pontypool"
-        ],
+        "Pontypool",
         [
           "/wiki/Pontypool_RFC"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ]
     ],
     [
       [
-        [
-          "Cross Keys"
-        ],
+        "Cross Keys",
         [
           "/wiki/Cross_Keys_RFC"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ]
     ],
     [
       [
-        [
-          "Merthyr"
-        ],
+        "Merthyr",
         [
           "/wiki/Merthyr_RFC"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ]
     ],
     [
       [
-        [
-          "RGC 1404"
-        ],
+        "RGC 1404",
         [
           "/wiki/RGC_1404"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ]
     ],
     [
       [
-        [
-          "Aberavon"
-        ],
+        "Aberavon",
         [
           "/wiki/Aberavon_RFC"
         ]
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ]
     ],
     [
       [
-        [
-          "Carmarthen Quins"
-        ],
+        "Carmarthen Quins",
         [
           "/wiki/Carmarthen_Quins_RFC"
         ]
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ]
     ],
     [
       [
-        [
-          "Caerphilly"
-        ],
+        "Caerphilly",
         [
           "/wiki/Caerphilly_RFC"
         ]
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ]
     ],
     [
       [
-        [
-          "Ebbw Vale"
-        ],
+        "Ebbw Vale",
         [
           "/wiki/Ebbw_Vale_RFC"
         ]
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ]
     ]
   ],

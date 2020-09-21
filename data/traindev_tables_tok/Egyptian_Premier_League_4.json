@@ -3,98 +3,58 @@
   "title": "Egyptian Premier League",
   "header": [
     [
-      [
-        "No"
-      ],
-      [
-        null
-      ]
+      "No",
+      []
     ],
     [
-      [
-        "Player"
-      ],
-      [
-        null
-      ]
+      "Player",
+      []
     ],
     [
-      [
-        "Teams"
-      ],
-      [
-        null
-      ]
+      "Teams",
+      []
     ],
     [
-      [
-        "Goals"
-      ],
-      [
-        null
-      ]
+      "Goals",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "Hassan El-Shazly"
-        ],
+        "Hassan El-Shazly",
         [
           "/wiki/Hassan_El-Shazly"
         ]
       ],
       [
-        [
-          "Tersana"
-        ],
+        "Tersana",
         [
           "/wiki/Tersana_SC"
         ]
       ],
       [
-        [
-          "176"
-        ],
-        [
-          null
-        ]
+        "176",
+        []
       ]
     ],
     [
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "Hossam Hassan"
-        ],
+        "Hossam Hassan",
         [
           "/wiki/Hossam_Hassan"
         ]
       ],
       [
-        [
-          "Al Ahly",
-          "Zamalek",
-          "Al Masry",
-          "Tersana",
-          "El Ittihad El Sakandary"
-        ],
+        "Al Ahly / Zamalek / Al Masry / Tersana / El Ittihad El Sakandary",
         [
           "/wiki/Al_Ahly_SC",
           "/wiki/Zamalek_SC",
@@ -104,141 +64,90 @@
         ]
       ],
       [
-        [
-          "168"
-        ],
-        [
-          null
-        ]
+        "168",
+        []
       ]
     ],
     [
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "Moustafa Reyadh"
-        ],
+        "Moustafa Reyadh",
         [
           "/wiki/Moustafa_Reyadh"
         ]
       ],
       [
-        [
-          "Tersana"
-        ],
+        "Tersana",
         [
           "/wiki/Tersana_SC"
         ]
       ],
       [
-        [
-          "123"
-        ],
-        [
-          null
-        ]
+        "123",
+        []
       ]
     ],
     [
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "El-Sayed El-Dhizui"
-        ],
+        "El-Sayed El-Dhizui",
         [
           "/wiki/El-Sayed_El-Dhizui"
         ]
       ],
       [
-        [
-          "Al Masry",
-          "Al Ahly"
-        ],
+        "Al Masry / Al Ahly",
         [
           "/wiki/Al_Masry_SC",
           "/wiki/Al_Ahly_SC"
         ]
       ],
       [
-        [
-          "112"
-        ],
-        [
-          null
-        ]
+        "112",
+        []
       ]
     ],
     [
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "Mahmoud El Khatib"
-        ],
+        "Mahmoud El Khatib",
         [
           "/wiki/Mahmoud_El_Khatib"
         ]
       ],
       [
-        [
-          "Al Ahly"
-        ],
+        "Al Ahly",
         [
           "/wiki/Al_Ahly_SC"
         ]
       ],
       [
-        [
-          "109"
-        ],
-        [
-          null
-        ]
+        "109",
+        []
       ]
     ],
     [
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "Ahmed El-Kass"
-        ],
+        "Ahmed El-Kass",
         [
           "/wiki/Ahmed_El-Kass"
         ]
       ],
       [
-        [
-          "El Olympi",
-          "Zamalek",
-          "El Ittihad El Sakandary"
-        ],
+        "El Olympi / Zamalek / El Ittihad El Sakandary",
         [
           "/wiki/Olympic_Club_(Egypt)",
           "/wiki/Zamalek_SC",
@@ -246,120 +155,77 @@
         ]
       ],
       [
-        [
-          "107"
-        ],
-        [
-          null
-        ]
+        "107",
+        []
       ]
     ],
     [
       [
-        [
-          "7"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ],
       [
-        [
-          "Mohamed Aboutrika"
-        ],
+        "Mohamed Aboutrika",
         [
           "/wiki/Mohamed_Aboutrika"
         ]
       ],
       [
-        [
-          "Tersana",
-          "Al Ahly"
-        ],
+        "Tersana / Al Ahly",
         [
           "/wiki/Tersana_SC",
           "/wiki/Al_Ahly_SC"
         ]
       ],
       [
-        [
-          "105"
-        ],
-        [
-          null
-        ]
+        "105",
+        []
       ]
     ],
     [
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "Abdallah Said"
-        ],
+        "Abdallah Said",
         [
           "/wiki/Abdallah_Said"
         ]
       ],
       [
-        [
-          "Pyramids",
-          "Al Ahly"
-        ],
+        "Pyramids / Al Ahly",
         [
           "/wiki/Pyramids_FC",
           "/wiki/Al_Ahly_SC"
         ]
       ],
       [
-        [
-          "102"
-        ],
-        [
-          null
-        ]
+        "102",
+        []
       ]
     ],
     [
       [
-        [
-          "9"
-        ],
-        [
-          null
-        ]
+        "9",
+        []
       ],
       [
-        [
-          "Gamal Abdel-Hameed"
-        ],
+        "Gamal Abdel-Hameed",
         [
           "/wiki/Gamal_Abdel-Hameed"
         ]
       ],
       [
-        [
-          "Al Ahly",
-          "Zamalek"
-        ],
+        "Al Ahly / Zamalek",
         [
           "/wiki/Al_Ahly_SC",
           "/wiki/Zamalek_SC"
         ]
       ],
       [
-        [
-          "101"
-        ],
-        [
-          null
-        ]
+        "101",
+        []
       ]
     ]
   ],

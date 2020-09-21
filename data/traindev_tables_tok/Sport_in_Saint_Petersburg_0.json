@@ -3,101 +3,62 @@
   "title": "Sport in Saint Petersburg",
   "header": [
     [
-      [
-        "Club"
-      ],
-      [
-        null
-      ]
+      "Club",
+      []
     ],
     [
-      [
-        "League"
-      ],
-      [
-        null
-      ]
+      "League",
+      []
     ],
     [
-      [
-        "Sport"
-      ],
-      [
-        null
-      ]
+      "Sport",
+      []
     ],
     [
-      [
-        "Venue"
-      ],
-      [
-        null
-      ]
+      "Venue",
+      []
     ],
     [
-      [
-        "Established"
-      ],
-      [
-        null
-      ]
+      "Established",
+      []
     ],
     [
-      [
-        "Championships"
-      ],
-      [
-        null
-      ]
+      "Championships",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Zenit St. Petersburg"
-        ],
+        "Zenit St. Petersburg",
         [
           "/wiki/FC_Zenit_Saint_Petersburg"
         ]
       ],
       [
-        [
-          "RFPL"
-        ],
+        "RFPL",
         [
           "/wiki/Russian_Premier_League"
         ]
       ],
       [
-        [
-          "Football"
-        ],
+        "Football",
         [
           "/wiki/Association_Football"
         ]
       ],
       [
-        [
-          "Krestovsky Stadium"
-        ],
+        "Krestovsky Stadium",
         [
           "/wiki/Krestovsky_Stadium"
         ]
       ],
       [
-        [
-          "1926"
-        ],
-        [
-          null
-        ]
+        "1926",
+        []
       ],
       [
-        [
-          "UEFA Cup",
-          "UEFA Super Cup"
-        ],
+        "1 UEFA Cup , 1 UEFA Super Cup , 3 Russian Championships , 1 USSR Championship",
         [
           "/wiki/UEFA_Cup",
           "/wiki/UEFA_Super_Cup"
@@ -106,50 +67,35 @@
     ],
     [
       [
-        [
-          "Kondrashin Belov"
-        ],
+        "Kondrashin Belov",
         [
           "/wiki/BC_Kondrashin_Belov"
         ]
       ],
       [
-        [
-          "PBL"
-        ],
+        "PBL",
         [
           "/wiki/Russian_Professional_Basketball_League"
         ]
       ],
       [
-        [
-          "Basketball"
-        ],
+        "Basketball",
         [
           "/wiki/Basketball"
         ]
       ],
       [
-        [
-          "Sibur Arena"
-        ],
+        "Sibur Arena",
         [
           "/wiki/Sibur_Arena"
         ]
       ],
       [
-        [
-          "1935"
-        ],
-        [
-          null
-        ]
+        "1935",
+        []
       ],
       [
-        [
-          "Saporta Cups",
-          "Russian Cup"
-        ],
+        "2 Saporta Cups , 1 Russian Cup , 2 USSR Championships , 2 USSR Cups",
         [
           "/wiki/FIBA_Saporta_Cup",
           "/wiki/Russian_Basketball_Cup"
@@ -158,49 +104,31 @@
     ],
     [
       [
-        [
-          "Avtomobilist St. Petersburg"
-        ],
-        [
-          null
-        ]
+        "Avtomobilist St. Petersburg",
+        []
       ],
       [
-        [
-          "VSL"
-        ],
+        "VSL",
         [
           "/wiki/Russian_Volleyball_Super_League"
         ]
       ],
       [
-        [
-          "Volleyball"
-        ],
+        "Volleyball",
         [
           "/wiki/Volleyball"
         ]
       ],
       [
-        [
-          "Platonov Volleyball Academy"
-        ],
-        [
-          null
-        ]
+        "Platonov Volleyball Academy",
+        []
       ],
       [
-        [
-          "1935"
-        ],
-        [
-          null
-        ]
+        "1935",
+        []
       ],
       [
-        [
-          "CEV Cups"
-        ],
+        "2 CEV Cups , 2 Russian Championships , 3 USSR Championships , 2 USSR Cups",
         [
           "/wiki/Challenge_Cup_(volleyball)"
         ]
@@ -208,49 +136,35 @@
     ],
     [
       [
-        [
-          "SKA Saint Petersburg"
-        ],
+        "SKA Saint Petersburg",
         [
           "/wiki/SKA_Saint_Petersburg"
         ]
       ],
       [
-        [
-          "KHL"
-        ],
+        "KHL",
         [
           "/wiki/Kontinental_Hockey_League"
         ]
       ],
       [
-        [
-          "Ice hockey"
-        ],
+        "Ice hockey",
         [
           "/wiki/Ice_hockey"
         ]
       ],
       [
-        [
-          "Ice Palace"
-        ],
+        "Ice Palace",
         [
           "/wiki/Ice_Palace_Saint_Petersburg"
         ]
       ],
       [
-        [
-          "1946"
-        ],
-        [
-          null
-        ]
+        "1946",
+        []
       ],
       [
-        [
-          "Gagarin Cup Championships"
-        ],
+        "2 Gagarin Cup Championships",
         [
           "/wiki/Gagarin_Cup"
         ]
@@ -258,99 +172,65 @@
     ],
     [
       [
-        [
-          "Politekh St. Petersburg"
-        ],
-        [
-          null
-        ]
+        "Politekh St. Petersburg",
+        []
       ],
       [
-        [
-          "MFSL"
-        ],
+        "MFSL",
         [
           "/wiki/Russian_Futsal_Super_League"
         ]
       ],
       [
-        [
-          "Futsal"
-        ],
+        "Futsal",
         [
           "/wiki/Futsal"
         ]
       ],
       [
-        [
-          "Kalinin District MFOK"
-        ],
-        [
-          null
-        ]
+        "Kalinin District MFOK",
+        []
       ],
       [
-        [
-          "1995"
-        ],
-        [
-          null
-        ]
+        "1995",
+        []
       ],
       [
-        [
-          "0 Championships"
-        ],
-        [
-          null
-        ]
+        "0 Championships",
+        []
       ]
     ],
     [
       [
-        [
-          "Petrotrest St. Petersburg"
-        ],
+        "Petrotrest St. Petersburg",
         [
           "/wiki/FC_Petrotrest_Saint_Petersburg"
         ]
       ],
       [
-        [
-          "FNL"
-        ],
+        "FNL",
         [
           "/wiki/Russian_National_Football_League"
         ]
       ],
       [
-        [
-          "Football"
-        ],
+        "Football",
         [
           "/wiki/Association_Football"
         ]
       ],
       [
-        [
-          "MSA Petrovsky"
-        ],
+        "MSA Petrovsky",
         [
           "/wiki/Petrovsky_Stadium"
         ]
       ],
       [
-        [
-          "2001"
-        ],
-        [
-          null
-        ]
+        "2001",
+        []
       ],
       [
-        [
-          "Second Division"
-        ],
+        "1 Second Division Championship",
         [
           "/wiki/Russian_Second_Division"
         ]
@@ -358,152 +238,96 @@
     ],
     [
       [
-        [
-          "SKA-1946 St. Petersburg"
-        ],
-        [
-          null
-        ]
+        "SKA-1946 St. Petersburg",
+        []
       ],
       [
-        [
-          "MHL"
-        ],
+        "MHL",
         [
           "/wiki/Minor_Hockey_League"
         ]
       ],
       [
-        [
-          "Ice hockey"
-        ],
+        "Ice hockey",
         [
           "/wiki/Ice_hockey"
         ]
       ],
       [
-        [
-          "MSA Yubileyny"
-        ],
+        "MSA Yubileyny",
         [
           "/wiki/Yubileyny_Sports_Palace"
         ]
       ],
       [
-        [
-          "2009"
-        ],
-        [
-          null
-        ]
+        "2009",
+        []
       ],
       [
-        [
-          "0 Championships"
-        ],
-        [
-          null
-        ]
+        "0 Championships",
+        []
       ]
     ],
     [
       [
-        [
-          "Serebryanye Lvy"
-        ],
-        [
-          null
-        ]
+        "Serebryanye Lvy",
+        []
       ],
       [
-        [
-          "MHL"
-        ],
+        "MHL",
         [
           "/wiki/Minor_Hockey_League"
         ]
       ],
       [
-        [
-          "Ice hockey"
-        ],
+        "Ice hockey",
         [
           "/wiki/Ice_hockey"
         ]
       ],
       [
-        [
-          "Spartak Ice Palace"
-        ],
-        [
-          null
-        ]
+        "Spartak Ice Palace",
+        []
       ],
       [
-        [
-          "2010"
-        ],
-        [
-          null
-        ]
+        "2010",
+        []
       ],
       [
-        [
-          "0 Championships"
-        ],
-        [
-          null
-        ]
+        "0 Championships",
+        []
       ]
     ],
     [
       [
-        [
-          "VC Zenit Saint Petersburg"
-        ],
+        "VC Zenit Saint Petersburg",
         [
           "/wiki/VC_Zenit_Saint_Petersburg"
         ]
       ],
       [
-        [
-          "VSL"
-        ],
+        "VSL",
         [
           "/wiki/Russian_Volleyball_Super_League"
         ]
       ],
       [
-        [
-          "Volleyball"
-        ],
+        "Volleyball",
         [
           "/wiki/Volleyball"
         ]
       ],
       [
-        [
-          "Platonov Volleyball Academy"
-        ],
-        [
-          null
-        ]
+        "Platonov Volleyball Academy",
+        []
       ],
       [
-        [
-          "2017"
-        ],
-        [
-          null
-        ]
+        "2017",
+        []
       ],
       [
-        [
-          "0 Championships"
-        ],
-        [
-          null
-        ]
+        "0 Championships",
+        []
       ]
     ]
   ],

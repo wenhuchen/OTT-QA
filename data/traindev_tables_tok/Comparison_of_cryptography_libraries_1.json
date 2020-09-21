@@ -3,547 +3,321 @@
   "title": "Comparison of cryptography libraries",
   "header": [
     [
-      [
-        "Implementation"
-      ],
-      [
-        null
-      ]
+      "Implementation",
+      []
     ],
     [
-      [
-        "FIPS 140 validated"
-      ],
-      [
-        null
-      ]
+      "FIPS 140 validated",
+      []
     ],
     [
-      [
-        "FIPS 140-2 mode"
-      ],
-      [
-        null
-      ]
+      "FIPS 140-2 mode",
+      []
     ],
     [
-      [
-        "DO-178"
-      ],
-      [
-        null
-      ]
+      "DO-178",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Botan"
-        ],
+        "Botan",
         [
           "/wiki/Botan_(programming_library)"
         ]
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ]
     ],
     [
       [
-        [
-          "Bouncy Castle"
-        ],
+        "Bouncy Castle",
         [
           "/wiki/Bouncy_Castle_(cryptography)"
         ]
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ]
     ],
     [
       [
-        [
-          "cryptlib"
-        ],
+        "cryptlib",
         [
           "/wiki/Cryptlib"
         ]
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ]
     ],
     [
       [
-        [
-          "Crypto++"
-        ],
+        "Crypto++",
         [
           "/wiki/Crypto++"
         ]
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ]
     ],
     [
       [
-        [
-          "GnuTLS"
-        ],
+        "GnuTLS",
         [
           "/wiki/GnuTLS"
         ]
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ]
     ],
     [
       [
-        [
-          "Libgcrypt"
-        ],
+        "Libgcrypt",
         [
           "/wiki/Libgcrypt"
         ]
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ]
     ],
     [
       [
-        [
-          "libsodium"
-        ],
+        "libsodium",
         [
           "/wiki/NaCl_(software)"
         ]
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ]
     ],
     [
       [
-        [
-          "NaCl"
-        ],
+        "NaCl",
         [
           "/wiki/NaCl_(software)"
         ]
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ]
     ],
     [
       [
-        [
-          "Nettle"
-        ],
+        "Nettle",
         [
           "/wiki/Nettle_(cryptographic_library)"
         ]
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ]
     ],
     [
       [
-        [
-          "Network Security Services"
-        ],
+        "Network Security Services ( NSS )",
         [
           "/wiki/Network_Security_Services"
         ]
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ]
     ],
     [
       [
-        [
-          "OpenSSL"
-        ],
+        "OpenSSL",
         [
           "/wiki/OpenSSL"
         ]
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ]
     ],
     [
       [
-        [
-          "RSA BSAFE"
-        ],
+        "RSA BSAFE Crypto-C Micro Edition",
         [
           "/wiki/RSA_BSAFE"
         ]
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ]
     ],
     [
       [
-        [
-          "RSA BSAFE"
-        ],
+        "RSA BSAFE Crypto-J",
         [
           "/wiki/RSA_BSAFE"
         ]
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ]
     ],
     [
       [
-        [
-          "wolfCrypt"
-        ],
+        "wolfCrypt",
         [
           "/wiki/WolfCrypt"
         ]
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ]
     ],
     [
       [
-        [
-          "mbed TLS"
-        ],
+        "mbed TLS",
         [
           "/wiki/Mbed_TLS"
         ]
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ]
     ]
   ],

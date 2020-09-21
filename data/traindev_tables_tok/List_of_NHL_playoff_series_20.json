@@ -3,80 +3,44 @@
   "title": "List of NHL playoff series",
   "header": [
     [
-      [
-        "Opponent"
-      ],
-      [
-        null
-      ]
+      "Opponent",
+      []
     ],
     [
-      [
-        "S"
-      ],
-      [
-        null
-      ]
+      "S",
+      []
     ],
     [
-      [
-        "Occurrences"
-      ],
-      [
-        null
-      ]
+      "Occurrences",
+      []
     ],
     [
-      [
-        "GP"
-      ],
-      [
-        null
-      ]
+      "GP",
+      []
     ],
     [
-      [
-        "Rec"
-      ],
-      [
-        null
-      ]
+      "Rec",
+      []
     ],
     [
-      [
-        "%"
-      ],
-      [
-        null
-      ]
+      "%",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Pittsburgh Penguins"
-        ],
+        "Pittsburgh Penguins",
         [
           "/wiki/Pittsburgh_Penguins"
         ]
       ],
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "2007",
-          "2008",
-          "2010",
-          "2013",
-          "2017"
-        ],
+        "2007 , 2008 , 2010 , 2013 , 2017",
         [
           "/wiki/2007_Stanley_Cup_playoffs",
           "/wiki/2008_Stanley_Cup_playoffs",
@@ -86,54 +50,31 @@
         ]
       ],
       [
-        [
-          "27"
-        ],
-        [
-          null
-        ]
+        "27",
+        []
       ],
       [
-        [
-          "1-4"
-        ],
-        [
-          null
-        ]
+        "1-4",
+        []
       ],
       [
-        [
-          ".200"
-        ],
-        [
-          null
-        ]
+        ".200",
+        []
       ]
     ],
     [
       [
-        [
-          "Buffalo Sabres"
-        ],
+        "Buffalo Sabres",
         [
           "/wiki/Buffalo_Sabres"
         ]
       ],
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "1997",
-          "1999",
-          "2006",
-          "2007"
-        ],
+        "1997 , 1999 , 2006 , 2007",
         [
           "/wiki/1997_Stanley_Cup_playoffs",
           "/wiki/1999_Stanley_Cup_playoffs",
@@ -142,54 +83,31 @@
         ]
       ],
       [
-        [
-          "21"
-        ],
-        [
-          null
-        ]
+        "21",
+        []
       ],
       [
-        [
-          "1-3"
-        ],
-        [
-          null
-        ]
+        "1-3",
+        []
       ],
       [
-        [
-          ".250"
-        ],
-        [
-          null
-        ]
+        ".250",
+        []
       ]
     ],
     [
       [
-        [
-          "Toronto Maple Leafs"
-        ],
+        "Toronto Maple Leafs",
         [
           "/wiki/Toronto_Maple_Leafs"
         ]
       ],
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "2000",
-          "2001",
-          "2002",
-          "2004"
-        ],
+        "2000 , 2001 , 2002 , 2004",
         [
           "/wiki/2000_Stanley_Cup_playoffs",
           "/wiki/2001_Stanley_Cup_playoffs",
@@ -198,53 +116,31 @@
         ]
       ],
       [
-        [
-          "24"
-        ],
-        [
-          null
-        ]
+        "24",
+        []
       ],
       [
-        [
-          "0-4"
-        ],
-        [
-          null
-        ]
+        "0-4",
+        []
       ],
       [
-        [
-          ".000"
-        ],
-        [
-          null
-        ]
+        ".000",
+        []
       ]
     ],
     [
       [
-        [
-          "New Jersey Devils"
-        ],
+        "New Jersey Devils",
         [
           "/wiki/New_Jersey_Devils"
         ]
       ],
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "1998",
-          "2003",
-          "2007"
-        ],
+        "1998 , 2003 , 2007",
         [
           "/wiki/1998_Stanley_Cup_playoffs",
           "/wiki/2003_Stanley_Cup_playoffs",
@@ -252,484 +148,285 @@
         ]
       ],
       [
-        [
-          "18"
-        ],
-        [
-          null
-        ]
+        "18",
+        []
       ],
       [
-        [
-          "2-1"
-        ],
-        [
-          null
-        ]
+        "2-1",
+        []
       ],
       [
-        [
-          ".667"
-        ],
-        [
-          null
-        ]
+        ".667",
+        []
       ]
     ],
     [
       [
-        [
-          "Philadelphia Flyers"
-        ],
+        "Philadelphia Flyers",
         [
           "/wiki/Philadelphia_Flyers"
         ]
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "2002",
-          "2003"
-        ],
+        "2002 , 2003",
         [
           "/wiki/2002_Stanley_Cup_playoffs",
           "/wiki/2003_Stanley_Cup_playoffs"
         ]
       ],
       [
-        [
-          "11"
-        ],
-        [
-          null
-        ]
+        "11",
+        []
       ],
       [
-        [
-          "2-0"
-        ],
-        [
-          null
-        ]
+        "2-0",
+        []
       ],
       [
-        [
-          "1.000"
-        ],
-        [
-          null
-        ]
+        "1.000",
+        []
       ]
     ],
     [
       [
-        [
-          "Montreal Canadiens"
-        ],
+        "Montreal Canadiens",
         [
           "/wiki/Montreal_Canadiens"
         ]
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "2013",
-          "2015"
-        ],
+        "2013 , 2015",
         [
           "/wiki/2013_Stanley_Cup_playoffs",
           "/wiki/2015_Stanley_Cup_playoffs"
         ]
       ],
       [
-        [
-          "11"
-        ],
-        [
-          null
-        ]
+        "11",
+        []
       ],
       [
-        [
-          "1-1"
-        ],
-        [
-          null
-        ]
+        "1-1",
+        []
       ],
       [
-        [
-          ".500"
-        ],
-        [
-          null
-        ]
+        ".500",
+        []
       ]
     ],
     [
       [
-        [
-          "New York Rangers"
-        ],
+        "New York Rangers",
         [
           "/wiki/New_York_Rangers"
         ]
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "2012",
-          "2017"
-        ],
+        "2012 , 2017",
         [
           "/wiki/2012_Stanley_Cup_playoffs",
           "/wiki/2017_Stanley_Cup_playoffs"
         ]
       ],
       [
-        [
-          "13"
-        ],
-        [
-          null
-        ]
+        "13",
+        []
       ],
       [
-        [
-          "1-1"
-        ],
-        [
-          null
-        ]
+        "1-1",
+        []
       ],
       [
-        [
-          ".500"
-        ],
-        [
-          null
-        ]
+        ".500",
+        []
       ]
     ],
     [
       [
-        [
-          "Boston Bruins"
-        ],
+        "Boston Bruins",
         [
           "/wiki/Boston_Bruins"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "2017"
-        ],
+        "2017",
         [
           "/wiki/2017_Stanley_Cup_playoffs"
         ]
       ],
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "1-0"
-        ],
-        [
-          null
-        ]
+        "1-0",
+        []
       ],
       [
-        [
-          "1.000"
-        ],
-        [
-          null
-        ]
+        "1.000",
+        []
       ]
     ],
     [
       [
-        [
-          "New York Islanders"
-        ],
+        "New York Islanders",
         [
           "/wiki/New_York_Islanders"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "2003"
-        ],
+        "2003",
         [
           "/wiki/2003_Stanley_Cup_playoffs"
         ]
       ],
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "1-0"
-        ],
-        [
-          null
-        ]
+        "1-0",
+        []
       ],
       [
-        [
-          "1.000"
-        ],
-        [
-          null
-        ]
+        "1.000",
+        []
       ]
     ],
     [
       [
-        [
-          "Tampa Bay Lightning"
-        ],
+        "Tampa Bay Lightning",
         [
           "/wiki/Tampa_Bay_Lightning"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "2006"
-        ],
+        "2006",
         [
           "/wiki/2006_Stanley_Cup_playoffs"
         ]
       ],
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "1-0"
-        ],
-        [
-          null
-        ]
+        "1-0",
+        []
       ],
       [
-        [
-          "1.000"
-        ],
-        [
-          null
-        ]
+        "1.000",
+        []
       ]
     ],
     [
       [
-        [
-          "Anaheim Ducks"
-        ],
+        "Anaheim Ducks",
         [
           "/wiki/Anaheim_Ducks"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "2007"
-        ],
+        "2007",
         [
           "/wiki/2007_Stanley_Cup_playoffs"
         ]
       ],
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "0-1"
-        ],
-        [
-          null
-        ]
+        "0-1",
+        []
       ],
       [
-        [
-          ".000"
-        ],
-        [
-          null
-        ]
+        ".000",
+        []
       ]
     ],
     [
       [
-        [
-          "Washington Capitals"
-        ],
+        "Washington Capitals",
         [
           "/wiki/Washington_Capitals"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "1998"
-        ],
+        "1998",
         [
           "/wiki/1998_Stanley_Cup_playoffs"
         ]
       ],
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "0-1"
-        ],
-        [
-          null
-        ]
+        "0-1",
+        []
       ],
       [
-        [
-          ".000"
-        ],
-        [
-          null
-        ]
+        ".000",
+        []
       ]
     ],
     [
       [
-        [
-          "Totals"
-        ],
-        [
-          null
-        ]
+        "Totals",
+        []
       ],
       [
-        [
-          "27"
-        ],
-        [
-          null
-        ]
+        "27",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "151"
-        ],
-        [
-          null
-        ]
+        "151",
+        []
       ],
       [
-        [
-          "11-16"
-        ],
-        [
-          null
-        ]
+        "11-16",
+        []
       ],
       [
-        [
-          ".407"
-        ],
-        [
-          null
-        ]
+        ".407",
+        []
       ]
     ]
   ],

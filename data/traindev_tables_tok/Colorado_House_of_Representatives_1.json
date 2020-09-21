@@ -3,68 +3,40 @@
   "title": "Colorado House of Representatives",
   "header": [
     [
-      [
-        "District"
-      ],
-      [
-        null
-      ]
+      "District",
+      []
     ],
     [
-      [
-        "Representative"
-      ],
-      [
-        null
-      ]
+      "Representative",
+      []
     ],
     [
-      [
-        "Party"
-      ],
-      [
-        null
-      ]
+      "Party",
+      []
     ],
     [
-      [
-        "Residence"
-      ],
-      [
-        null
-      ]
+      "Residence",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "Susan Lontine"
-        ],
+        "Susan Lontine",
         [
           "/wiki/Susan_Lontine"
         ]
       ],
       [
-        [
-          "Democratic"
-        ],
-        [
-          null
-        ]
+        "Democratic",
+        []
       ],
       [
-        [
-          "Denver"
-        ],
+        "Denver",
         [
           "/wiki/Denver"
         ]
@@ -72,305 +44,179 @@
     ],
     [
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "Alec Garnett"
-        ],
+        "Alec Garnett",
         [
           "/wiki/Alec_Garnett"
         ]
       ],
       [
-        [
-          "Democratic"
-        ],
-        [
-          null
-        ]
+        "Democratic",
+        []
       ],
       [
-        [
-          "Denver"
-        ],
-        [
-          null
-        ]
+        "Denver",
+        []
       ]
     ],
     [
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "Meg Froelich"
-        ],
-        [
-          null
-        ]
+        "Meg Froelich",
+        []
       ],
       [
-        [
-          "Democratic"
-        ],
-        [
-          null
-        ]
+        "Democratic",
+        []
       ],
       [
-        [
-          "Greenwood Village"
-        ],
-        [
-          null
-        ]
+        "Greenwood Village",
+        []
       ]
     ],
     [
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "Serena Gonzales-Gutierrez"
-        ],
+        "Serena Gonzales-Gutierrez",
         [
           "/wiki/Serena_Gonzales-Gutierrez"
         ]
       ],
       [
-        [
-          "Democratic"
-        ],
-        [
-          null
-        ]
+        "Democratic",
+        []
       ],
       [
-        [
-          "Denver"
-        ],
-        [
-          null
-        ]
+        "Denver",
+        []
       ]
     ],
     [
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "Alex Valdez"
-        ],
+        "Alex Valdez",
         [
           "/wiki/Alex_Valdez"
         ]
       ],
       [
-        [
-          "Democratic"
-        ],
-        [
-          null
-        ]
+        "Democratic",
+        []
       ],
       [
-        [
-          "Denver"
-        ],
-        [
-          null
-        ]
+        "Denver",
+        []
       ]
     ],
     [
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "Chris Hansen"
-        ],
+        "Chris Hansen",
         [
           "/wiki/Chris_Hansen_(politician)"
         ]
       ],
       [
-        [
-          "Democratic"
-        ],
-        [
-          null
-        ]
+        "Democratic",
+        []
       ],
       [
-        [
-          "Denver"
-        ],
-        [
-          null
-        ]
+        "Denver",
+        []
       ]
     ],
     [
       [
-        [
-          "7"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ],
       [
-        [
-          "James Coleman"
-        ],
+        "James Coleman",
         [
           "/wiki/James_Coleman_(politician)"
         ]
       ],
       [
-        [
-          "Democratic"
-        ],
-        [
-          null
-        ]
+        "Democratic",
+        []
       ],
       [
-        [
-          "Denver"
-        ],
-        [
-          null
-        ]
+        "Denver",
+        []
       ]
     ],
     [
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "Leslie Herod"
-        ],
+        "Leslie Herod",
         [
           "/wiki/Leslie_Herod"
         ]
       ],
       [
-        [
-          "Democratic"
-        ],
-        [
-          null
-        ]
+        "Democratic",
+        []
       ],
       [
-        [
-          "Denver"
-        ],
-        [
-          null
-        ]
+        "Denver",
+        []
       ]
     ],
     [
       [
-        [
-          "9"
-        ],
-        [
-          null
-        ]
+        "9",
+        []
       ],
       [
-        [
-          "Emily Sirota"
-        ],
+        "Emily Sirota",
         [
           "/wiki/Emily_Sirota"
         ]
       ],
       [
-        [
-          "Democratic"
-        ],
-        [
-          null
-        ]
+        "Democratic",
+        []
       ],
       [
-        [
-          "Denver"
-        ],
-        [
-          null
-        ]
+        "Denver",
+        []
       ]
     ],
     [
       [
-        [
-          "10"
-        ],
-        [
-          null
-        ]
+        "10",
+        []
       ],
       [
-        [
-          "Edie Hooton"
-        ],
+        "Edie Hooton",
         [
           "/wiki/Edie_Hooton"
         ]
       ],
       [
-        [
-          "Democratic"
-        ],
-        [
-          null
-        ]
+        "Democratic",
+        []
       ],
       [
-        [
-          "Boulder"
-        ],
+        "Boulder",
         [
           "/wiki/Boulder,_Colorado"
         ]
@@ -378,33 +224,21 @@
     ],
     [
       [
-        [
-          "11"
-        ],
-        [
-          null
-        ]
+        "11",
+        []
       ],
       [
-        [
-          "Jonathan Singer"
-        ],
+        "Jonathan Singer",
         [
           "/wiki/Jonathan_Singer_(politician)"
         ]
       ],
       [
-        [
-          "Democratic"
-        ],
-        [
-          null
-        ]
+        "Democratic",
+        []
       ],
       [
-        [
-          "Longmont"
-        ],
+        "Longmont",
         [
           "/wiki/Longmont"
         ]
@@ -412,33 +246,21 @@
     ],
     [
       [
-        [
-          "12"
-        ],
-        [
-          null
-        ]
+        "12",
+        []
       ],
       [
-        [
-          "Sonya Jaquez Lewis"
-        ],
+        "Sonya Jaquez Lewis",
         [
           "/wiki/Sonya_Jaquez_Lewis"
         ]
       ],
       [
-        [
-          "Democratic"
-        ],
-        [
-          null
-        ]
+        "Democratic",
+        []
       ],
       [
-        [
-          "Lafayette"
-        ],
+        "Lafayette",
         [
           "/wiki/Lafayette,_Colorado"
         ]
@@ -446,33 +268,21 @@
     ],
     [
       [
-        [
-          "13"
-        ],
-        [
-          null
-        ]
+        "13",
+        []
       ],
       [
-        [
-          "KC Becker"
-        ],
+        "KC Becker",
         [
           "/wiki/KC_Becker"
         ]
       ],
       [
-        [
-          "Democratic"
-        ],
-        [
-          null
-        ]
+        "Democratic",
+        []
       ],
       [
-        [
-          "Boulder"
-        ],
+        "Boulder",
         [
           "/wiki/Boulder,_Colorado"
         ]
@@ -480,33 +290,21 @@
     ],
     [
       [
-        [
-          "14"
-        ],
-        [
-          null
-        ]
+        "14",
+        []
       ],
       [
-        [
-          "Shane Sandridge"
-        ],
+        "Shane Sandridge",
         [
           "/wiki/Shane_Sandridge"
         ]
       ],
       [
-        [
-          "Republican"
-        ],
-        [
-          null
-        ]
+        "Republican",
+        []
       ],
       [
-        [
-          "Colorado Springs"
-        ],
+        "Colorado Springs",
         [
           "/wiki/Colorado_Springs,_Colorado"
         ]
@@ -514,67 +312,41 @@
     ],
     [
       [
-        [
-          "15"
-        ],
-        [
-          null
-        ]
+        "15",
+        []
       ],
       [
-        [
-          "Dave Williams"
-        ],
+        "Dave Williams",
         [
           "/wiki/Dave_Williams_(Colorado_politician)"
         ]
       ],
       [
-        [
-          "Republican"
-        ],
-        [
-          null
-        ]
+        "Republican",
+        []
       ],
       [
-        [
-          "Colorado Springs"
-        ],
-        [
-          null
-        ]
+        "Colorado Springs",
+        []
       ]
     ],
     [
       [
-        [
-          "16"
-        ],
-        [
-          null
-        ]
+        "16",
+        []
       ],
       [
-        [
-          "Larry Liston"
-        ],
+        "Larry Liston",
         [
           "/wiki/Larry_Liston"
         ]
       ],
       [
-        [
-          "Republican"
-        ],
-        [
-          null
-        ]
+        "Republican",
+        []
       ],
       [
-        [
-          "Colorado Springs"
-        ],
+        "Colorado Springs",
         [
           "/wiki/Colorado_Springs,_Colorado"
         ]
@@ -582,33 +354,21 @@
     ],
     [
       [
-        [
-          "17"
-        ],
-        [
-          null
-        ]
+        "17",
+        []
       ],
       [
-        [
-          "Tony Exum"
-        ],
+        "Tony Exum",
         [
           "/wiki/Tony_Exum"
         ]
       ],
       [
-        [
-          "Democratic"
-        ],
-        [
-          null
-        ]
+        "Democratic",
+        []
       ],
       [
-        [
-          "Colorado Springs"
-        ],
+        "Colorado Springs",
         [
           "/wiki/Colorado_Springs,_Colorado"
         ]
@@ -616,33 +376,21 @@
     ],
     [
       [
-        [
-          "18"
-        ],
-        [
-          null
-        ]
+        "18",
+        []
       ],
       [
-        [
-          "Marc Snyder"
-        ],
+        "Marc Snyder",
         [
           "/wiki/Marc_Snyder"
         ]
       ],
       [
-        [
-          "Democratic"
-        ],
-        [
-          null
-        ]
+        "Democratic",
+        []
       ],
       [
-        [
-          "Colorado Springs"
-        ],
+        "Colorado Springs",
         [
           "/wiki/Colorado_Springs,_Colorado"
         ]
@@ -650,70 +398,42 @@
     ],
     [
       [
-        [
-          "19"
-        ],
-        [
-          null
-        ]
+        "19",
+        []
       ],
       [
-        [
-          "Tim Geitner"
-        ],
+        "Tim Geitner",
         [
           "/wiki/Tim_Geitner_(Colorado_politician)"
         ]
       ],
       [
-        [
-          "Republican"
-        ],
-        [
-          null
-        ]
+        "Republican",
+        []
       ],
       [
-        [
-          "Monument"
-        ],
-        [
-          null
-        ]
+        "Monument",
+        []
       ]
     ],
     [
       [
-        [
-          "20"
-        ],
-        [
-          null
-        ]
+        "20",
+        []
       ],
       [
-        [
-          "Terri Carver"
-        ],
+        "Terri Carver",
         [
           "/wiki/Terri_Carver"
         ]
       ],
       [
-        [
-          "Republican"
-        ],
-        [
-          null
-        ]
+        "Republican",
+        []
       ],
       [
-        [
-          "Colorado Springs"
-        ],
-        [
-          null
-        ]
+        "Colorado Springs",
+        []
       ]
     ]
   ],

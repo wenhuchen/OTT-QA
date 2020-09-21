@@ -3,84 +3,48 @@
   "title": "Emakhazeni Local Municipality",
   "header": [
     [
-      [
-        "Place"
-      ],
-      [
-        null
-      ]
+      "Place",
+      []
     ],
     [
-      [
-        "Code"
-      ],
-      [
-        null
-      ]
+      "Code",
+      []
     ],
     [
-      [
-        "Area ( km )"
-      ],
-      [
-        null
-      ]
+      "Area ( km )",
+      []
     ],
     [
-      [
-        "Population"
-      ],
-      [
-        null
-      ]
+      "Population",
+      []
     ],
     [
-      [
-        "Most spoken language"
-      ],
-      [
-        null
-      ]
+      "Most spoken language",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Emakhazeni"
-        ],
+        "Emakhazeni",
         [
           "/wiki/Belfast,_Mpumalanga"
         ]
       ],
       [
-        [
-          "81101"
-        ],
-        [
-          null
-        ]
+        "81101",
+        []
       ],
       [
-        [
-          "67.63"
-        ],
-        [
-          null
-        ]
+        "67.63",
+        []
       ],
       [
-        [
-          "2,425"
-        ],
-        [
-          null
-        ]
+        "2,425",
+        []
       ],
       [
-        [
-          "Afrikaans"
-        ],
+        "Afrikaans",
         [
           "/wiki/Afrikaans"
         ]
@@ -88,41 +52,25 @@
     ],
     [
       [
-        [
-          "Dullstroom"
-        ],
+        "Dullstroom",
         [
           "/wiki/Dullstroom"
         ]
       ],
       [
-        [
-          "81102"
-        ],
-        [
-          null
-        ]
+        "81102",
+        []
       ],
       [
-        [
-          "48.10"
-        ],
-        [
-          null
-        ]
+        "48.10",
+        []
       ],
       [
-        [
-          "600"
-        ],
-        [
-          null
-        ]
+        "600",
+        []
       ],
       [
-        [
-          "English"
-        ],
+        "English",
         [
           "/wiki/English_language"
         ]
@@ -130,41 +78,25 @@
     ],
     [
       [
-        [
-          "eMgwenya"
-        ],
+        "eMgwenya",
         [
           "/wiki/EMgwenya"
         ]
       ],
       [
-        [
-          "81103"
-        ],
-        [
-          null
-        ]
+        "81103",
+        []
       ],
       [
-        [
-          "1.02"
-        ],
-        [
-          null
-        ]
+        "1.02",
+        []
       ],
       [
-        [
-          "3,785"
-        ],
-        [
-          null
-        ]
+        "3,785",
+        []
       ],
       [
-        [
-          "Swazi"
-        ],
+        "Swazi",
         [
           "/wiki/Swazi_language"
         ]
@@ -172,125 +104,73 @@
     ],
     [
       [
-        [
-          "Emthonjeni"
-        ],
+        "Emthonjeni",
         [
           "/wiki/Emthonjeni"
         ]
       ],
       [
-        [
-          "81104"
-        ],
-        [
-          null
-        ]
+        "81104",
+        []
       ],
       [
-        [
-          "1.17"
-        ],
-        [
-          null
-        ]
+        "1.17",
+        []
       ],
       [
-        [
-          "4,112"
-        ],
-        [
-          null
-        ]
+        "4,112",
+        []
       ],
       [
-        [
-          "Swazi"
-        ],
-        [
-          null
-        ]
+        "Swazi",
+        []
       ]
     ],
     [
       [
-        [
-          "Machadodorp"
-        ],
+        "Machadodorp",
         [
           "/wiki/Machadodorp"
         ]
       ],
       [
-        [
-          "81106"
-        ],
-        [
-          null
-        ]
+        "81106",
+        []
       ],
       [
-        [
-          "36.77"
-        ],
-        [
-          null
-        ]
+        "36.77",
+        []
       ],
       [
-        [
-          "1,465"
-        ],
-        [
-          null
-        ]
+        "1,465",
+        []
       ],
       [
-        [
-          "Afrikaans"
-        ],
-        [
-          null
-        ]
+        "Afrikaans",
+        []
       ]
     ],
     [
       [
-        [
-          "Sakhelwe"
-        ],
+        "Sakhelwe",
         [
           "/wiki/Sakhelwe"
         ]
       ],
       [
-        [
-          "81107"
-        ],
-        [
-          null
-        ]
+        "81107",
+        []
       ],
       [
-        [
-          "0.76"
-        ],
-        [
-          null
-        ]
+        "0.76",
+        []
       ],
       [
-        [
-          "2,920"
-        ],
-        [
-          null
-        ]
+        "2,920",
+        []
       ],
       [
-        [
-          "Northern Sotho"
-        ],
+        "Northern Sotho",
         [
           "/wiki/Northern_Sotho_language"
         ]
@@ -298,41 +178,25 @@
     ],
     [
       [
-        [
-          "Siyathuthuka"
-        ],
+        "Siyathuthuka",
         [
           "/wiki/Siyathuthuka"
         ]
       ],
       [
-        [
-          "81108"
-        ],
-        [
-          null
-        ]
+        "81108",
+        []
       ],
       [
-        [
-          "1.71"
-        ],
-        [
-          null
-        ]
+        "1.71",
+        []
       ],
       [
-        [
-          "7,485"
-        ],
-        [
-          null
-        ]
+        "7,485",
+        []
       ],
       [
-        [
-          "Zulu"
-        ],
+        "Zulu",
         [
           "/wiki/Zulu_language"
         ]
@@ -340,83 +204,47 @@
     ],
     [
       [
-        [
-          "Waterval Boven"
-        ],
+        "Waterval Boven",
         [
           "/wiki/Waterval_Boven"
         ]
       ],
       [
-        [
-          "81109"
-        ],
-        [
-          null
-        ]
+        "81109",
+        []
       ],
       [
-        [
-          "1.99"
-        ],
-        [
-          null
-        ]
+        "1.99",
+        []
       ],
       [
-        [
-          "1,908"
-        ],
-        [
-          null
-        ]
+        "1,908",
+        []
       ],
       [
-        [
-          "Swazi"
-        ],
-        [
-          null
-        ]
+        "Swazi",
+        []
       ]
     ],
     [
       [
-        [
-          "Remainder of the municipality"
-        ],
-        [
-          null
-        ]
+        "Remainder of the municipality",
+        []
       ],
       [
-        [
-          "81105"
-        ],
-        [
-          null
-        ]
+        "81105",
+        []
       ],
       [
-        [
-          "4,576.32"
-        ],
-        [
-          null
-        ]
+        "4,576.32",
+        []
       ],
       [
-        [
-          "18,291"
-        ],
-        [
-          null
-        ]
+        "18,291",
+        []
       ],
       [
-        [
-          "Southern Ndebele"
-        ],
+        "Southern Ndebele",
         [
           "/wiki/Southern_Ndebele_language"
         ]

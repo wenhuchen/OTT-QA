@@ -3,64 +3,36 @@
   "title": "Southern United States",
   "header": [
     [
-      [
-        "Rank"
-      ],
-      [
-        null
-      ]
+      "Rank",
+      []
     ],
     [
-      [
-        "Combined Statistical Area"
-      ],
-      [
-        null
-      ]
+      "Combined Statistical Area",
+      []
     ],
     [
-      [
-        "State ( s )"
-      ],
-      [
-        null
-      ]
+      "State ( s )",
+      []
     ],
     [
-      [
-        "Population ( 2017 est . )"
-      ],
-      [
-        null
-      ]
+      "Population ( 2017 est . )",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "Washington-Baltimore-Arlington"
-        ],
+        "Washington-Baltimore-Arlington",
         [
           "/wiki/Baltimore-Washington_metropolitan_area"
         ]
       ],
       [
-        [
-          "DC",
-          "MD",
-          "VA",
-          "WV",
-          "PA"
-        ],
+        "DC - MD - VA - WV - PA",
         [
           "/wiki/District_of_Columbia",
           "/wiki/Maryland",
@@ -70,243 +42,156 @@
         ]
       ],
       [
-        [
-          "9,764,315"
-        ],
-        [
-          null
-        ]
+        "9,764,315",
+        []
       ]
     ],
     [
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "Dallas-Fort Worth"
-        ],
+        "Dallas-Fort Worth",
         [
           "/wiki/Dallas-Fort_Worth_metroplex"
         ]
       ],
       [
-        [
-          "TX"
-        ],
+        "TX",
         [
           "/wiki/Texas"
         ]
       ],
       [
-        [
-          "7,846,293"
-        ],
-        [
-          null
-        ]
+        "7,846,293",
+        []
       ]
     ],
     [
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "Houston-The Woodlands-Baytown"
-        ],
+        "Houston-The Woodlands-Baytown",
         [
           "/wiki/Greater_Houston"
         ]
       ],
       [
-        [
-          "TX"
-        ],
+        "TX",
         [
           "/wiki/Texas"
         ]
       ],
       [
-        [
-          "7,093,190"
-        ],
-        [
-          null
-        ]
+        "7,093,190",
+        []
       ]
     ],
     [
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "Miami-Fort Lauderdale-Port St. Lucie"
-        ],
+        "Miami-Fort Lauderdale-Port St. Lucie",
         [
           "/wiki/Miami_metropolitan_area"
         ]
       ],
       [
-        [
-          "FL"
-        ],
+        "FL",
         [
           "/wiki/Florida"
         ]
       ],
       [
-        [
-          "6,828,241"
-        ],
-        [
-          null
-        ]
+        "6,828,241",
+        []
       ]
     ],
     [
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "Atlanta-Athens-Clarke County-Sandy Springs"
-        ],
+        "Atlanta-Athens-Clarke County-Sandy Springs",
         [
           "/wiki/Atlanta_metropolitan_area"
         ]
       ],
       [
-        [
-          "GA"
-        ],
+        "GA",
         [
           "/wiki/Georgia_(U.S._state)"
         ]
       ],
       [
-        [
-          "6,555,956"
-        ],
-        [
-          null
-        ]
+        "6,555,956",
+        []
       ]
     ],
     [
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "Orlando-Deltona-Daytona Beach"
-        ],
+        "Orlando-Deltona-Daytona Beach",
         [
           "/wiki/Greater_Orlando"
         ]
       ],
       [
-        [
-          "FL"
-        ],
+        "FL",
         [
           "/wiki/Florida"
         ]
       ],
       [
-        [
-          "3,284,198"
-        ],
-        [
-          null
-        ]
+        "3,284,198",
+        []
       ]
     ],
     [
       [
-        [
-          "7"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ],
       [
-        [
-          "Charlotte-Concord"
-        ],
+        "Charlotte-Concord",
         [
           "/wiki/Charlotte_metropolitan_area"
         ]
       ],
       [
-        [
-          "NC",
-          "SC"
-        ],
+        "NC - SC",
         [
           "/wiki/North_Carolina",
           "/wiki/South_Carolina"
         ]
       ],
       [
-        [
-          "2,684,121"
-        ],
-        [
-          null
-        ]
+        "2,684,121",
+        []
       ]
     ],
     [
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "Cincinnati-Wilmington-Maysville"
-        ],
+        "Cincinnati-Wilmington-Maysville",
         [
           "/wiki/Cincinnati_metropolitan_area"
         ]
       ],
       [
-        [
-          "OH",
-          "KY",
-          "IN"
-        ],
+        "OH - KY - IN",
         [
           "/wiki/Ohio",
           "/wiki/Kentucky",
@@ -314,351 +199,225 @@
         ]
       ],
       [
-        [
-          "2,238,265"
-        ],
-        [
-          null
-        ]
+        "2,238,265",
+        []
       ]
     ],
     [
       [
-        [
-          "9"
-        ],
-        [
-          null
-        ]
+        "9",
+        []
       ],
       [
-        [
-          "Raleigh-Durham-Chapel Hill"
-        ],
+        "Raleigh-Durham-Chapel Hill",
         [
           "/wiki/Research_Triangle"
         ]
       ],
       [
-        [
-          "NC"
-        ],
+        "NC",
         [
           "/wiki/North_Carolina"
         ]
       ],
       [
-        [
-          "2,199,459"
-        ],
-        [
-          null
-        ]
+        "2,199,459",
+        []
       ]
     ],
     [
       [
-        [
-          "10"
-        ],
-        [
-          null
-        ]
+        "10",
+        []
       ],
       [
-        [
-          "Nashville-Davidson-Murfreesboro"
-        ],
+        "Nashville-Davidson-Murfreesboro",
         [
           "/wiki/Nashville_metropolitan_area"
         ]
       ],
       [
-        [
-          "TN"
-        ],
+        "TN",
         [
           "/wiki/Tennessee"
         ]
       ],
       [
-        [
-          "2,027,489"
-        ],
-        [
-          null
-        ]
+        "2,027,489",
+        []
       ]
     ],
     [
       [
-        [
-          "11"
-        ],
-        [
-          null
-        ]
+        "11",
+        []
       ],
       [
-        [
-          "Virginia Beach-Norfolk"
-        ],
+        "Virginia Beach-Norfolk",
         [
           "/wiki/Hampton_Roads"
         ]
       ],
       [
-        [
-          "VA",
-          "NC"
-        ],
+        "VA - NC",
         [
           "/wiki/Virginia",
           "/wiki/North_Carolina"
         ]
       ],
       [
-        [
-          "1,829,195"
-        ],
-        [
-          null
-        ]
+        "1,829,195",
+        []
       ]
     ],
     [
       [
-        [
-          "12"
-        ],
-        [
-          null
-        ]
+        "12",
+        []
       ],
       [
-        [
-          "Greensboro-Winston-Salem-High Point"
-        ],
+        "Greensboro-Winston-Salem-High Point",
         [
           "/wiki/Piedmont_Triad"
         ]
       ],
       [
-        [
-          "NC"
-        ],
+        "NC",
         [
           "/wiki/North_Carolina"
         ]
       ],
       [
-        [
-          "1,663,532"
-        ],
-        [
-          null
-        ]
+        "1,663,532",
+        []
       ]
     ],
     [
       [
-        [
-          "13"
-        ],
-        [
-          null
-        ]
+        "13",
+        []
       ],
       [
-        [
-          "Jacksonville-St. Marys-Palatka"
-        ],
+        "Jacksonville-St. Marys-Palatka",
         [
           "/wiki/Jacksonville_metropolitan_area"
         ]
       ],
       [
-        [
-          "FL",
-          "GA"
-        ],
+        "FL - GA",
         [
           "/wiki/Florida",
           "/wiki/Georgia_(U.S._state)"
         ]
       ],
       [
-        [
-          "1,631,488"
-        ],
-        [
-          null
-        ]
+        "1,631,488",
+        []
       ]
     ],
     [
       [
-        [
-          "14"
-        ],
-        [
-          null
-        ]
+        "14",
+        []
       ],
       [
-        [
-          "Louisville/Jefferson County-Elizabethtown-Madison"
-        ],
+        "Louisville/Jefferson County-Elizabethtown-Madison",
         [
           "/wiki/Louisville_metropolitan_area"
         ]
       ],
       [
-        [
-          "KY",
-          "IN"
-        ],
+        "KY - IN",
         [
           "/wiki/Kentucky",
           "/wiki/Indiana"
         ]
       ],
       [
-        [
-          "1,522,112"
-        ],
-        [
-          null
-        ]
+        "1,522,112",
+        []
       ]
     ],
     [
       [
-        [
-          "15"
-        ],
-        [
-          null
-        ]
+        "15",
+        []
       ],
       [
-        [
-          "New Orleans-Metairie-Hammond"
-        ],
+        "New Orleans-Metairie-Hammond",
         [
           "/wiki/New_Orleans-Metairie-Hammond_combined_statistical_area"
         ]
       ],
       [
-        [
-          "LA",
-          "MS"
-        ],
+        "LA - MS",
         [
           "/wiki/Louisiana",
           "/wiki/Mississippi"
         ]
       ],
       [
-        [
-          "1,510,162"
-        ],
-        [
-          null
-        ]
+        "1,510,162",
+        []
       ]
     ],
     [
       [
-        [
-          "16"
-        ],
-        [
-          null
-        ]
+        "16",
+        []
       ],
       [
-        [
-          "Oklahoma City-Shawnee"
-        ],
+        "Oklahoma City-Shawnee",
         [
           "/wiki/Oklahoma_City_metropolitan_area"
         ]
       ],
       [
-        [
-          "OK"
-        ],
+        "OK",
         [
           "/wiki/Oklahoma"
         ]
       ],
       [
-        [
-          "1,455,935"
-        ],
-        [
-          null
-        ]
+        "1,455,935",
+        []
       ]
     ],
     [
       [
-        [
-          "17"
-        ],
-        [
-          null
-        ]
+        "17",
+        []
       ],
       [
-        [
-          "Greenville-Spartanburg-Anderson"
-        ],
+        "Greenville-Spartanburg-Anderson",
         [
           "/wiki/Greenville-Spartanburg-Anderson,_SC_Combined_Statistical_Area"
         ]
       ],
       [
-        [
-          "SC"
-        ],
+        "SC",
         [
           "/wiki/South_Carolina"
         ]
       ],
       [
-        [
-          "1,460,036"
-        ],
-        [
-          null
-        ]
+        "1,460,036",
+        []
       ]
     ],
     [
       [
-        [
-          "18"
-        ],
-        [
-          null
-        ]
+        "18",
+        []
       ],
       [
-        [
-          "Memphis-Forrest City"
-        ],
+        "Memphis-Forrest City",
         [
           "/wiki/Memphis_metropolitan_area"
         ]
       ],
       [
-        [
-          "TN",
-          "MS",
-          "AR"
-        ],
+        "TN - MS - AR",
         [
           "/wiki/Tennessee",
           "/wiki/Mississippi",
@@ -666,80 +425,52 @@
         ]
       ],
       [
-        [
-          "1,374,190"
-        ],
-        [
-          null
-        ]
+        "1,374,190",
+        []
       ]
     ],
     [
       [
-        [
-          "19"
-        ],
-        [
-          null
-        ]
+        "19",
+        []
       ],
       [
-        [
-          "Birmingham-Hoover-Talladega"
-        ],
+        "Birmingham-Hoover-Talladega",
         [
           "/wiki/Birmingham-Hoover-Talladega,_AL_Combined_Statistical_Area"
         ]
       ],
       [
-        [
-          "AL"
-        ],
+        "AL",
         [
           "/wiki/Alabama"
         ]
       ],
       [
-        [
-          "1,364,062"
-        ],
-        [
-          null
-        ]
+        "1,364,062",
+        []
       ]
     ],
     [
       [
-        [
-          "20"
-        ],
-        [
-          null
-        ]
+        "20",
+        []
       ],
       [
-        [
-          "Tulsa-Muskogee-Bartlesville"
-        ],
+        "Tulsa-Muskogee-Bartlesville",
         [
           "/wiki/Tulsa-Muskogee-Bartlesville,_OK_Combined_Statistical_Area"
         ]
       ],
       [
-        [
-          "OK"
-        ],
+        "OK",
         [
           "/wiki/Oklahoma"
         ]
       ],
       [
-        [
-          "1,160,612"
-        ],
-        [
-          null
-        ]
+        "1,160,612",
+        []
       ]
     ]
   ],

@@ -3,73 +3,44 @@
   "title": "Subdivisions of the canton of Bern",
   "header": [
     [
-      [
-        "New district ( Verwaltungskreis )"
-      ],
-      [
-        null
-      ]
+      "New district ( Verwaltungskreis )",
+      []
     ],
     [
-      [
-        "Capital"
-      ],
-      [
-        null
-      ]
+      "Capital",
+      []
     ],
     [
-      [
-        "Region"
-      ],
-      [
-        null
-      ]
+      "Region",
+      []
     ],
     [
-      [
-        "Former district ( s ) ( Amtsbezirk )"
-      ],
-      [
-        null
-      ]
+      "Former district ( s ) ( Amtsbezirk )",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Bern-Mittelland"
-        ],
+        "Bern-Mittelland",
         [
           "/wiki/Bern-Mittelland_(administrative_district)"
         ]
       ],
       [
-        [
-          "Ostermundigen"
-        ],
+        "Ostermundigen",
         [
           "/wiki/Ostermundigen"
         ]
       ],
       [
-        [
-          "Bern-Mittelland"
-        ],
+        "Bern-Mittelland",
         [
           "/wiki/Bern-Mittelland"
         ]
       ],
       [
-        [
-          "Bern",
-          "Fraubrunnen",
-          "Konolfingen",
-          "Laupen",
-          "Schwarzenburg",
-          "Seftigen"
-        ],
+        "Bern , Fraubrunnen , Konolfingen , Laupen , Schwarzenburg and Seftigen",
         [
           "/wiki/Bern_(district)",
           "/wiki/Fraubrunnen_(district)",
@@ -82,34 +53,23 @@
     ],
     [
       [
-        [
-          "Biel/Bienne"
-        ],
-        [
-          null
-        ]
+        "Biel/Bienne",
+        []
       ],
       [
-        [
-          "Biel/Bienne"
-        ],
+        "Biel/Bienne",
         [
           "/wiki/Biel/Bienne"
         ]
       ],
       [
-        [
-          "Seeland"
-        ],
+        "Seeland",
         [
           "/wiki/Seeland_Region"
         ]
       ],
       [
-        [
-          "Biel",
-          "Nidau"
-        ],
+        "Biel and about half of Nidau",
         [
           "/wiki/Biel_(district)",
           "/wiki/Nidau_(district)"
@@ -118,35 +78,25 @@
     ],
     [
       [
-        [
-          "Emmental"
-        ],
+        "Emmental",
         [
           "/wiki/Emmental_(administrative_district)"
         ]
       ],
       [
-        [
-          "Langnau im Emmental"
-        ],
+        "Langnau im Emmental",
         [
           "/wiki/Langnau_im_Emmental"
         ]
       ],
       [
-        [
-          "Emmental-Oberaargau"
-        ],
+        "Emmental-Oberaargau",
         [
           "/wiki/Emmental-Oberaargau"
         ]
       ],
       [
-        [
-          "Burgdorf",
-          "Signau",
-          "Trachselwald"
-        ],
+        "Burgdorf , Signau and Trachselwald",
         [
           "/wiki/Burgdorf_(district)",
           "/wiki/Signau_(district)",
@@ -156,34 +106,25 @@
     ],
     [
       [
-        [
-          "Frutigen-Niedersimmental"
-        ],
+        "Frutigen-Niedersimmental",
         [
           "/wiki/Frutigen-Niedersimmental_(administrative_district)"
         ]
       ],
       [
-        [
-          "Frutigen"
-        ],
+        "Frutigen",
         [
           "/wiki/Frutigen"
         ]
       ],
       [
-        [
-          "Bernese Oberland"
-        ],
+        "Bernese Oberland",
         [
           "/wiki/Bernese_Oberland"
         ]
       ],
       [
-        [
-          "Frutigen",
-          "Niedersimmental"
-        ],
+        "Frutigen and Niedersimmental",
         [
           "/wiki/Frutigen_(district)",
           "/wiki/Niedersimmental_(district)"
@@ -192,34 +133,25 @@
     ],
     [
       [
-        [
-          "Interlaken-Oberhasli"
-        ],
+        "Interlaken-Oberhasli",
         [
           "/wiki/Interlaken-Oberhasli_(administrative_district)"
         ]
       ],
       [
-        [
-          "Interlaken"
-        ],
+        "Interlaken",
         [
           "/wiki/Interlaken"
         ]
       ],
       [
-        [
-          "Bernese Oberland"
-        ],
+        "Bernese Oberland",
         [
           "/wiki/Bernese_Oberland"
         ]
       ],
       [
-        [
-          "Interlaken",
-          "Oberhasli"
-        ],
+        "Interlaken and Oberhasli",
         [
           "/wiki/Interlaken_(district)",
           "/wiki/Oberhasli_(district)"
@@ -228,35 +160,25 @@
     ],
     [
       [
-        [
-          "Jura bernois"
-        ],
+        "Jura bernois",
         [
           "/wiki/Jura_bernois_(administrative_district)"
         ]
       ],
       [
-        [
-          "Courtelary"
-        ],
+        "Courtelary",
         [
           "/wiki/Courtelary"
         ]
       ],
       [
-        [
-          "Jura Bernois Region"
-        ],
+        "Jura Bernois Region",
         [
           "/wiki/Jura_Bernois_Region"
         ]
       ],
       [
-        [
-          "Courtelary",
-          "Moutier",
-          "La Neuveville"
-        ],
+        "Courtelary , Moutier and La Neuveville",
         [
           "/wiki/Courtelary_(district)",
           "/wiki/Moutier_(district)",
@@ -266,34 +188,25 @@
     ],
     [
       [
-        [
-          "Oberaargau"
-        ],
+        "Oberaargau",
         [
           "/wiki/Oberaargau_(administrative_district)"
         ]
       ],
       [
-        [
-          "Wangen an der Aare"
-        ],
+        "Wangen an der Aare",
         [
           "/wiki/Wangen_an_der_Aare"
         ]
       ],
       [
-        [
-          "Emmental-Oberaargau"
-        ],
+        "Emmental-Oberaargau",
         [
           "/wiki/Emmental-Oberaargau"
         ]
       ],
       [
-        [
-          "Aarwangen",
-          "Wangen"
-        ],
+        "Aarwangen and Wangen",
         [
           "/wiki/Aarwangen_(district)",
           "/wiki/Wangen_(district)"
@@ -302,34 +215,25 @@
     ],
     [
       [
-        [
-          "Obersimmental-Saanen"
-        ],
+        "Obersimmental-Saanen",
         [
           "/wiki/Obersimmental-Saanen_(administrative_district)"
         ]
       ],
       [
-        [
-          "Saanen"
-        ],
+        "Saanen",
         [
           "/wiki/Saanen"
         ]
       ],
       [
-        [
-          "Bernese Oberland"
-        ],
+        "Bernese Oberland",
         [
           "/wiki/Bernese_Oberland"
         ]
       ],
       [
-        [
-          "Obersimmental",
-          "Saanen"
-        ],
+        "Obersimmental and Saanen",
         [
           "/wiki/Obersimmental_(district)",
           "/wiki/Saanen_(district)"
@@ -338,36 +242,25 @@
     ],
     [
       [
-        [
-          "Seeland"
-        ],
+        "Seeland",
         [
           "/wiki/Seeland_(administrative_district)"
         ]
       ],
       [
-        [
-          "Aarberg"
-        ],
+        "Aarberg",
         [
           "/wiki/Aarberg"
         ]
       ],
       [
-        [
-          "Seeland"
-        ],
+        "Seeland",
         [
           "/wiki/Seeland_Region"
         ]
       ],
       [
-        [
-          "Aarberg",
-          "B\u00fcren",
-          "Erlach",
-          "Nidau"
-        ],
+        "Aarberg , B\u00fcren , Erlach and about half of Nidau",
         [
           "/wiki/Aarberg_(district)",
           "/wiki/B\u00fcren_(district)",
@@ -378,33 +271,25 @@
     ],
     [
       [
-        [
-          "Thun"
-        ],
+        "Thun",
         [
           "/wiki/Thun_(administrative_district)"
         ]
       ],
       [
-        [
-          "Thun"
-        ],
+        "Thun",
         [
           "/wiki/Thun"
         ]
       ],
       [
-        [
-          "Bernese Oberland"
-        ],
+        "Bernese Oberland",
         [
           "/wiki/Bernese_Oberland"
         ]
       ],
       [
-        [
-          "Thun"
-        ],
+        "Thun",
         [
           "/wiki/Thun_(district)"
         ]

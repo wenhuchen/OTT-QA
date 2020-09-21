@@ -3,86 +3,52 @@
   "title": "List of auto racing tracks in the United States",
   "header": [
     [
-      [
-        "City"
-      ],
+      "City",
       [
         "/wiki/United_States_metropolitan_area"
       ]
     ],
     [
-      [
-        "Rank"
-      ],
+      "Rank",
       [
         "/wiki/Table_of_United_States_primary_census_statistical_areas"
       ]
     ],
     [
-      [
-        "Major ovals"
-      ],
-      [
-        null
-      ]
+      "Major ovals",
+      []
     ],
     [
-      [
-        "Total major tracks"
-      ],
-      [
-        null
-      ]
+      "Total major tracks",
+      []
     ],
     [
-      [
-        "Defunct tracks"
-      ],
-      [
-        null
-      ]
+      "Defunct tracks",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "New York City"
-        ],
+        "New York City",
         [
           "/wiki/New_York_City_metropolitan_area"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "Meadowlands",
-          "Bridgehampton",
-          "Trenton"
-        ],
+        "Meadowlands , Bridgehampton , Trenton",
         [
           "/wiki/Meadowlands_Grand_Prix",
           "/wiki/Bridgehampton_Race_Circuit",
@@ -92,42 +58,27 @@
     ],
     [
       [
-        [
-          "Los Angeles"
-        ],
+        "Los Angeles",
         [
           "/wiki/Greater_Los_Angeles_Area"
         ]
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "Fontana"
-        ],
+        "Fontana",
         [
           "/wiki/Auto_Club_Speedway"
         ]
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "Ontario",
-          "Riverside"
-        ],
+        "Ontario , Riverside",
         [
           "/wiki/Ontario_Motor_Speedway",
           "/wiki/Riverside_International_Raceway"
@@ -136,41 +87,27 @@
     ],
     [
       [
-        [
-          "Chicago"
-        ],
+        "Chicago",
         [
           "/wiki/Chicago_metropolitan_area"
         ]
       ],
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "Chicagoland"
-        ],
+        "Chicagoland",
         [
           "/wiki/Chicagoland_Speedway"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "Cicero"
-        ],
+        "Cicero",
         [
           "/wiki/Chicago_Motor_Speedway"
         ]
@@ -178,43 +115,25 @@
     ],
     [
       [
-        [
-          "Baltimore / Washington"
-        ],
+        "Baltimore / Washington",
         [
           "/wiki/Baltimore\u2013Washington_Metropolitan_Area"
         ]
       ],
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "Baltimore",
-          "Marlboro",
-          "RFK Stadium"
-        ],
+        "Baltimore , Marlboro , RFK Stadium",
         [
           "/wiki/Baltimore_Grand_Prix",
           "/wiki/Marlboro_Motor_Raceway",
@@ -224,42 +143,25 @@
     ],
     [
       [
-        [
-          "San Jose/San Francisco"
-        ],
+        "San Jose/San Francisco",
         [
           "/wiki/San_Francisco_Bay_Area"
         ]
       ],
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "San Jose",
-          "Altamont"
-        ],
+        "San Jose , Altamont",
         [
           "/wiki/San_Jose_Grand_Prix",
           "/wiki/Altamont_Raceway"
@@ -268,85 +170,53 @@
     ],
     [
       [
-        [
-          "Boston"
-        ],
+        "Boston",
         [
           "/wiki/Greater_Boston"
         ]
       ],
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "New Hampshire"
-        ],
+        "New Hampshire",
         [
           "/wiki/New_Hampshire_Motor_Speedway"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Philadelphia"
-        ],
+        "Philadelphia",
         [
           "/wiki/Delaware_Valley"
         ]
       ],
       [
-        [
-          "7"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ],
       [
-        [
-          "Pocono"
-        ],
+        "Pocono",
         [
           "/wiki/Pocono_Raceway"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "Langhorne",
-          "Flemington",
-          "Nazareth"
-        ],
+        "Langhorne , Flemington , Nazareth",
         [
           "/wiki/Langhorne_Speedway",
           "/wiki/Flemington_Speedway",
@@ -356,41 +226,27 @@
     ],
     [
       [
-        [
-          "Dallas / Fort Worth"
-        ],
+        "Dallas / Fort Worth",
         [
           "/wiki/Dallas_\u2013_Fort_Worth_Metroplex"
         ]
       ],
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "Texas"
-        ],
+        "Texas",
         [
           "/wiki/Texas_Motor_Speedway"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "Dallas"
-        ],
+        "Dallas",
         [
           "/wiki/Dallas_Grand_Prix"
         ]
@@ -398,88 +254,54 @@
     ],
     [
       [
-        [
-          "Miami"
-        ],
+        "Miami",
         [
           "/wiki/South_Florida_metropolitan_area"
         ]
       ],
       [
-        [
-          "9"
-        ],
-        [
-          null
-        ]
+        "9",
+        []
       ],
       [
-        [
-          "Homestead"
-        ],
+        "Homestead",
         [
           "/wiki/Homestead-Miami_Speedway"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "Miami",
-          "Miami",
-          "West Palm Beach"
-        ],
+        "Miami , Miami , West Palm Beach",
         [
           "/wiki/Grand_Prix_of_Miami_(open_wheel_racing)",
-          "/wiki/Grand_Prix_of_Miami_(sports_car_racing)",
-          null
+          "/wiki/Grand_Prix_of_Miami_(sports_car_racing)"
         ]
       ]
     ],
     [
       [
-        [
-          "Houston"
-        ],
+        "Houston",
         [
           "/wiki/Greater_Houston"
         ]
       ],
       [
-        [
-          "10"
-        ],
-        [
-          null
-        ]
+        "10",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "Houston",
-          "Texas"
-        ],
+        "Houston , Texas",
         [
           "/wiki/Grand_Prix_of_Houston",
           "/wiki/Texas_World_Speedway"
@@ -488,167 +310,103 @@
     ],
     [
       [
-        [
-          "Atlanta"
-        ],
+        "Atlanta",
         [
           "/wiki/Atlanta_metropolitan_area"
         ]
       ],
       [
-        [
-          "11"
-        ],
-        [
-          null
-        ]
+        "11",
+        []
       ],
       [
-        [
-          "Atlanta"
-        ],
+        "Atlanta",
         [
           "/wiki/Atlanta_Motor_Speedway"
         ]
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Detroit"
-        ],
+        "Detroit",
         [
           "/wiki/Metro_Detroit"
         ]
       ],
       [
-        [
-          "12"
-        ],
-        [
-          null
-        ]
+        "12",
+        []
       ],
       [
-        [
-          "Michigan"
-        ],
+        "Michigan",
         [
           "/wiki/Michigan_International_Speedway"
         ]
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Seattle"
-        ],
+        "Seattle",
         [
           "/wiki/Seattle_metropolitan_area"
         ]
       ],
       [
-        [
-          "13"
-        ],
-        [
-          null
-        ]
+        "13",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Phoenix"
-        ],
+        "Phoenix",
         [
           "/wiki/Phoenix_metropolitan_area"
         ]
       ],
       [
-        [
-          "14"
-        ],
-        [
-          null
-        ]
+        "14",
+        []
       ],
       [
-        [
-          "Phoenix"
-        ],
+        "Phoenix",
         [
           "/wiki/ISM_Raceway"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "Phoenix"
-        ],
+        "Phoenix",
         [
           "/wiki/Phoenix_street_circuit"
         ]
@@ -656,41 +414,25 @@
     ],
     [
       [
-        [
-          "Minneapolis / St. Paul"
-        ],
+        "Minneapolis / St. Paul",
         [
           "/wiki/Minneapolis\u2013Saint_Paul"
         ]
       ],
       [
-        [
-          "15"
-        ],
-        [
-          null
-        ]
+        "15",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "Minneapolis"
-        ],
+        "Minneapolis",
         [
           "/wiki/Grand_Prix_of_Minnesota"
         ]
@@ -698,41 +440,25 @@
     ],
     [
       [
-        [
-          "Cleveland"
-        ],
+        "Cleveland",
         [
           "/wiki/Greater_Cleveland"
         ]
       ],
       [
-        [
-          "16"
-        ],
-        [
-          null
-        ]
+        "16",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "Cleveland"
-        ],
+        "Cleveland",
         [
           "/wiki/Grand_Prix_of_Cleveland"
         ]
@@ -740,83 +466,49 @@
     ],
     [
       [
-        [
-          "Denver"
-        ],
+        "Denver",
         [
           "/wiki/Denver\u2013Aurora\u2013Boulder_Combined_Statistical_Area"
         ]
       ],
       [
-        [
-          "17"
-        ],
-        [
-          null
-        ]
+        "17",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "Denver"
-        ],
-        [
-          null
-        ]
+        "Denver",
+        []
       ]
     ],
     [
       [
-        [
-          "San Diego"
-        ],
+        "San Diego",
         [
           "/wiki/San_Diego_metropolitan_area"
         ]
       ],
       [
-        [
-          "18"
-        ],
-        [
-          null
-        ]
+        "18",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "Del Mar"
-        ],
+        "Del Mar",
         [
           "/wiki/Del_Mar_Fairgrounds"
         ]
@@ -824,83 +516,51 @@
     ],
     [
       [
-        [
-          "Portland"
-        ],
+        "Portland",
         [
           "/wiki/Portland_metropolitan_area"
         ]
       ],
       [
-        [
-          "19"
-        ],
-        [
-          null
-        ]
+        "19",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Orlando"
-        ],
+        "Orlando",
         [
           "/wiki/Greater_Orlando"
         ]
       ],
       [
-        [
-          "20"
-        ],
-        [
-          null
-        ]
+        "20",
+        []
       ],
       [
-        [
-          "Daytona"
-        ],
+        "Daytona",
         [
           "/wiki/Daytona_International_Speedway"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "Walt Disney World"
-        ],
+        "Walt Disney World",
         [
           "/wiki/Walt_Disney_World_Speedway"
         ]

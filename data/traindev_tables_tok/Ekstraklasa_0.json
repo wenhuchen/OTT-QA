@@ -3,615 +3,427 @@
   "title": "Ekstraklasa",
   "header": [
     [
-      [
-        "Team"
-      ],
-      [
-        null
-      ]
+      "Team",
+      []
     ],
     [
-      [
-        "Location"
-      ],
-      [
-        null
-      ]
+      "Location",
+      []
     ],
     [
-      [
-        "Venue"
-      ],
-      [
-        null
-      ]
+      "Venue",
+      []
     ],
     [
-      [
-        "Capacity"
-      ],
-      [
-        null
-      ]
+      "Capacity",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Arka Gdynia"
-        ],
+        "Arka Gdynia",
         [
           "/wiki/Arka_Gdynia"
         ]
       ],
       [
-        [
-          "Gdynia"
-        ],
+        "Gdynia",
         [
           "/wiki/Gdynia"
         ]
       ],
       [
-        [
-          "Stadion Miejski"
-        ],
+        "Stadion Miejski",
         [
           "/wiki/Stadion_GOSiR"
         ]
       ],
       [
-        [
-          "15,139"
-        ],
-        [
-          null
-        ]
+        "15,139",
+        []
       ]
     ],
     [
       [
-        [
-          "Cracovia"
-        ],
+        "Cracovia",
         [
           "/wiki/KS_Cracovia_(football)"
         ]
       ],
       [
-        [
-          "Krak\u00f3w"
-        ],
+        "Krak\u00f3w",
         [
           "/wiki/Krak\u00f3w"
         ]
       ],
       [
-        [
-          "Stadion Cracovii"
-        ],
+        "Stadion Cracovii",
         [
           "/wiki/Marshal_J\u00f3zef_Pi\u0142sudski_Stadium"
         ]
       ],
       [
-        [
-          "15,016"
-        ],
-        [
-          null
-        ]
+        "15,016",
+        []
       ]
     ],
     [
       [
-        [
-          "G\u00f3rnik Zabrze"
-        ],
+        "G\u00f3rnik Zabrze",
         [
           "/wiki/G\u00f3rnik_Zabrze"
         ]
       ],
       [
-        [
-          "Zabrze"
-        ],
+        "Zabrze",
         [
           "/wiki/Zabrze"
         ]
       ],
       [
-        [
-          "Stadion im . Ernesta Pohla"
-        ],
+        "Stadion im . Ernesta Pohla",
         [
           "/wiki/Ernest_Pohl_Stadium"
         ]
       ],
       [
-        [
-          "24,413"
-        ],
-        [
-          null
-        ]
+        "24,413",
+        []
       ]
     ],
     [
       [
-        [
-          "Jagiellonia Bia\u0142ystok"
-        ],
+        "Jagiellonia Bia\u0142ystok",
         [
           "/wiki/Jagiellonia_Bia\u0142ystok"
         ]
       ],
       [
-        [
-          "Bia\u0142ystok"
-        ],
+        "Bia\u0142ystok",
         [
           "/wiki/Bia\u0142ystok"
         ]
       ],
       [
-        [
-          "Stadion Miejski"
-        ],
+        "Stadion Miejski",
         [
           "/wiki/Bia\u0142ystok_City_Stadium"
         ]
       ],
       [
-        [
-          "22,432"
-        ],
-        [
-          null
-        ]
+        "22,432",
+        []
       ]
     ],
     [
       [
-        [
-          "Korona Kielce"
-        ],
+        "Korona Kielce",
         [
           "/wiki/Korona_Kielce"
         ]
       ],
       [
-        [
-          "Kielce"
-        ],
+        "Kielce",
         [
           "/wiki/Kielce"
         ]
       ],
       [
-        [
-          "Kolporter Arena"
-        ],
+        "Kolporter Arena",
         [
           "/wiki/Kielce_City_Stadium"
         ]
       ],
       [
-        [
-          "15,550"
-        ],
-        [
-          null
-        ]
+        "15,550",
+        []
       ]
     ],
     [
       [
-        [
-          "Lech Pozna\u0144"
-        ],
+        "Lech Pozna\u0144",
         [
           "/wiki/Lech_Pozna\u0144"
         ]
       ],
       [
-        [
-          "Pozna\u0144"
-        ],
+        "Pozna\u0144",
         [
           "/wiki/Pozna\u0144"
         ]
       ],
       [
-        [
-          "Stadion Miejski"
-        ],
+        "Stadion Miejski",
         [
           "/wiki/Stadion_Miejski_(Pozna\u0144)"
         ]
       ],
       [
-        [
-          "43,269"
-        ],
-        [
-          null
-        ]
+        "43,269",
+        []
       ]
     ],
     [
       [
-        [
-          "Lechia Gda\u0144sk"
-        ],
+        "Lechia Gda\u0144sk",
         [
           "/wiki/Lechia_Gda\u0144sk"
         ]
       ],
       [
-        [
-          "Gda\u0144sk"
-        ],
+        "Gda\u0144sk",
         [
           "/wiki/Gda\u0144sk"
         ]
       ],
       [
-        [
-          "Stadion Energa Gda\u0144sk"
-        ],
+        "Stadion Energa Gda\u0144sk",
         [
           "/wiki/Stadion_Energa_Gda\u0144sk"
         ]
       ],
       [
-        [
-          "43,615"
-        ],
-        [
-          null
-        ]
+        "43,615",
+        []
       ]
     ],
     [
       [
-        [
-          "Legia Warsaw"
-        ],
+        "Legia Warsaw",
         [
           "/wiki/Legia_Warsaw"
         ]
       ],
       [
-        [
-          "Warsaw"
-        ],
+        "Warsaw",
         [
           "/wiki/Warsaw"
         ]
       ],
       [
-        [
-          "Stadion im . Marsza\u0142ka J\u00f3zefa Pi\u0142sudskiego"
-        ],
+        "Stadion im . Marsza\u0142ka J\u00f3zefa Pi\u0142sudskiego",
         [
           "/wiki/Polish_Army_Stadium"
         ]
       ],
       [
-        [
-          "31,800"
-        ],
-        [
-          null
-        ]
+        "31,800",
+        []
       ]
     ],
     [
       [
-        [
-          "\u0141KS \u0141\u00f3d\u017a"
-        ],
+        "\u0141KS \u0141\u00f3d\u017a",
         [
           "/wiki/\u0141KS_\u0141\u00f3d\u017a"
         ]
       ],
       [
-        [
-          "\u0141\u00f3d\u017a"
-        ],
+        "\u0141\u00f3d\u017a",
         [
           "/wiki/\u0141\u00f3d\u017a"
         ]
       ],
       [
-        [
-          "Stadion \u0141KS"
-        ],
+        "Stadion \u0141KS",
         [
           "/wiki/Stadion_\u0141KS"
         ]
       ],
       [
-        [
-          "5,700"
-        ],
-        [
-          null
-        ]
+        "5,700",
+        []
       ]
     ],
     [
       [
-        [
-          "Piast Gliwice"
-        ],
+        "Piast Gliwice",
         [
           "/wiki/Piast_Gliwice"
         ]
       ],
       [
-        [
-          "Gliwice"
-        ],
+        "Gliwice",
         [
           "/wiki/Gliwice"
         ]
       ],
       [
-        [
-          "Stadion Miejski"
-        ],
+        "Stadion Miejski",
         [
           "/wiki/Stadion_Piast"
         ]
       ],
       [
-        [
-          "10,037"
-        ],
-        [
-          null
-        ]
+        "10,037",
+        []
       ]
     ],
     [
       [
-        [
-          "Pogo\u0144 Szczecin"
-        ],
+        "Pogo\u0144 Szczecin",
         [
           "/wiki/Pogo\u0144_Szczecin"
         ]
       ],
       [
-        [
-          "Szczecin"
-        ],
+        "Szczecin",
         [
           "/wiki/Szczecin"
         ]
       ],
       [
-        [
-          "Stadion im . Floriana Krygiera"
-        ],
+        "Stadion im . Floriana Krygiera",
         [
           "/wiki/Stadion_Florian_Krygier"
         ]
       ],
       [
-        [
-          "18,027"
-        ],
-        [
-          null
-        ]
+        "18,027",
+        []
       ]
     ],
     [
       [
-        [
-          "Rak\u00f3w Cz\u0119stochowa"
-        ],
+        "Rak\u00f3w Cz\u0119stochowa",
         [
           "/wiki/Rak\u00f3w_Cz\u0119stochowa"
         ]
       ],
       [
-        [
-          "Cz\u0119stochowa"
-        ],
+        "Cz\u0119stochowa",
         [
           "/wiki/Cz\u0119stochowa"
         ]
       ],
       [
-        [
-          "Miejski Stadion Pi\u0142karski Rak\u00f3w"
-        ],
-        [
-          null
-        ]
+        "Miejski Stadion Pi\u0142karski Rak\u00f3w",
+        []
       ],
       [
-        [
-          "4,200"
-        ],
-        [
-          null
-        ]
+        "4,200",
+        []
       ]
     ],
     [
       [
-        [
-          "\u015al\u0105sk Wroc\u0142aw"
-        ],
+        "\u015al\u0105sk Wroc\u0142aw",
         [
           "/wiki/\u015al\u0105sk_Wroc\u0142aw"
         ]
       ],
       [
-        [
-          "Wroc\u0142aw"
-        ],
+        "Wroc\u0142aw",
         [
           "/wiki/Wroc\u0142aw"
         ]
       ],
       [
-        [
-          "Stadion Miejski"
-        ],
+        "Stadion Miejski",
         [
           "/wiki/Stadion_Miejski_(Wroc\u0142aw)"
         ]
       ],
       [
-        [
-          "42,771"
-        ],
-        [
-          null
-        ]
+        "42,771",
+        []
       ]
     ],
     [
       [
-        [
-          "Wis\u0142a Krak\u00f3w"
-        ],
+        "Wis\u0142a Krak\u00f3w",
         [
           "/wiki/Wis\u0142a_Krak\u00f3w"
         ]
       ],
       [
-        [
-          "Krak\u00f3w"
-        ],
+        "Krak\u00f3w",
         [
           "/wiki/Krak\u00f3w"
         ]
       ],
       [
-        [
-          "Stadion im . Henryka Reymana"
-        ],
+        "Stadion im . Henryka Reymana",
         [
           "/wiki/Stadion_Miejski,_Krak\u00f3w"
         ]
       ],
       [
-        [
-          "33,326"
-        ],
-        [
-          null
-        ]
+        "33,326",
+        []
       ]
     ],
     [
       [
-        [
-          "Wis\u0142a P\u0142ock"
-        ],
+        "Wis\u0142a P\u0142ock",
         [
           "/wiki/Wis\u0142a_P\u0142ock"
         ]
       ],
       [
-        [
-          "P\u0142ock"
-        ],
+        "P\u0142ock",
         [
           "/wiki/P\u0142ock"
         ]
       ],
       [
-        [
-          "Stadion im . Kazimierza G\u00f3rskiego"
-        ],
+        "Stadion im . Kazimierza G\u00f3rskiego",
         [
           "/wiki/Kazimierz_G\u00f3rski_Stadium"
         ]
       ],
       [
-        [
-          "12,800"
-        ],
-        [
-          null
-        ]
+        "12,800",
+        []
       ]
     ],
     [
       [
-        [
-          "Zag\u0142\u0119bie Lubin"
-        ],
+        "Zag\u0142\u0119bie Lubin",
         [
           "/wiki/Zag\u0142\u0119bie_Lubin"
         ]
       ],
       [
-        [
-          "Lubin"
-        ],
+        "Lubin",
         [
           "/wiki/Lubin"
         ]
       ],
       [
-        [
-          "Stadion KGHM Zag\u0142\u0119bia"
-        ],
+        "Stadion KGHM Zag\u0142\u0119bia",
         [
           "/wiki/Stadion_Zag\u0142\u0119bia_Lubin"
         ]
       ],
       [
-        [
-          "16,068"
-        ],
-        [
-          null
-        ]
+        "16,068",
+        []
       ]
     ],
     [
       [
-        [
-          "Zag\u0142\u0119bie Sosnowiec"
-        ],
+        "Zag\u0142\u0119bie Sosnowiec",
         [
           "/wiki/Zag\u0142\u0119bie_Sosnowiec"
         ]
       ],
       [
-        [
-          "Sosnowiec"
-        ],
+        "Sosnowiec",
         [
           "/wiki/Sosnowiec"
         ]
       ],
       [
-        [
-          "Stadion Ludowy"
-        ],
+        "Stadion Ludowy",
         [
           "/wiki/Stadion_Ludowy"
         ]
       ],
       [
-        [
-          "7,500 ( 4,900 seats )"
-        ],
-        [
-          null
-        ]
+        "7,500 ( 4,900 seats )",
+        []
       ]
     ]
   ],

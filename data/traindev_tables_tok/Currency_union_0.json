@@ -3,73 +3,36 @@
   "title": "Currency union",
   "header": [
     [
-      [
-        "Currency"
-      ],
-      [
-        null
-      ]
+      "Currency",
+      []
     ],
     [
-      [
-        "Users"
-      ],
-      [
-        null
-      ]
+      "Users",
+      []
     ],
     [
-      [
-        "Est"
-      ],
-      [
-        null
-      ]
+      "Est",
+      []
     ],
     [
-      [
-        "Status"
-      ],
-      [
-        null
-      ]
+      "Status",
+      []
     ],
     [
-      [
-        "Population"
-      ],
-      [
-        null
-      ]
+      "Population",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "CFA franc"
-        ],
+        "CFA franc",
         [
           "/wiki/CFA_franc"
         ]
       ],
       [
-        [
-          "Benin",
-          "Burkina Faso",
-          "C\u00f4te d'Ivoire",
-          "Guinea-Bissau",
-          "Mali",
-          "Niger",
-          "Senegal",
-          "Togo",
-          "Cameroon",
-          "Central African Republic",
-          "Chad",
-          "Republic of the Congo",
-          "Equatorial Guinea",
-          "Gabon"
-        ],
+        "Benin Burkina Faso C\u00f4te d'Ivoire Guinea-Bissau Mali Niger Senegal Togo Cameroon Central African Republic Chad Republic of the Congo Equatorial Guinea Gabon",
         [
           "/wiki/Benin",
           "/wiki/Burkina_Faso",
@@ -88,45 +51,27 @@
         ]
       ],
       [
-        [
-          "1945"
-        ],
-        [
-          null
-        ]
+        "1945",
+        []
       ],
       [
-        [
-          "Formal , common policy"
-        ],
-        [
-          null
-        ]
+        "Formal , common policy",
+        []
       ],
       [
-        [
-          "151,978,440"
-        ],
-        [
-          null
-        ]
+        "151,978,440",
+        []
       ]
     ],
     [
       [
-        [
-          "CFP franc"
-        ],
+        "CFP franc",
         [
           "/wiki/CFP_franc"
         ]
       ],
       [
-        [
-          "French Polynesia",
-          "New Caledonia",
-          "Wallis and Futuna"
-        ],
+        "French Polynesia New Caledonia Wallis and Futuna",
         [
           "/wiki/French_Polynesia",
           "/wiki/New_Caledonia",
@@ -134,50 +79,27 @@
         ]
       ],
       [
-        [
-          "1945"
-        ],
-        [
-          null
-        ]
+        "1945",
+        []
       ],
       [
-        [
-          "Formal , common policy"
-        ],
-        [
-          null
-        ]
+        "Formal , common policy",
+        []
       ],
       [
-        [
-          "552,537"
-        ],
-        [
-          null
-        ]
+        "552,537",
+        []
       ]
     ],
     [
       [
-        [
-          "Eastern Caribbean dollar"
-        ],
+        "Eastern Caribbean dollar",
         [
           "/wiki/Eastern_Caribbean_dollar"
         ]
       ],
       [
-        [
-          "Anguilla",
-          "Antigua and Barbuda",
-          "Dominica",
-          "Grenada",
-          "Montserrat",
-          "Saint Kitts and Nevis",
-          "Saint Lucia",
-          "Saint Vincent and the Grenadines"
-        ],
+        "Anguilla Antigua and Barbuda Dominica Grenada Montserrat Saint Kitts and Nevis Saint Lucia Saint Vincent and the Grenadines",
         [
           "/wiki/Anguilla",
           "/wiki/Antigua_and_Barbuda",
@@ -190,76 +112,30 @@
         ]
       ],
       [
-        [
-          "1965"
-        ],
-        [
-          null
-        ]
+        "1965",
+        []
       ],
       [
-        [
-          "EMU",
-          "CSME"
-        ],
+        "Formal , common policy de facto EMU for CSME members",
         [
           "/wiki/Economic_and_monetary_union",
           "/wiki/CARICOM_Single_Market_and_Economy"
         ]
       ],
       [
-        [
-          "625,000"
-        ],
-        [
-          null
-        ]
+        "625,000",
+        []
       ]
     ],
     [
       [
-        [
-          "Euro"
-        ],
+        "Euro",
         [
           "/wiki/Euro"
         ]
       ],
       [
-        [
-          "Eurozone",
-          "Austria",
-          "Belgium",
-          "Cyprus",
-          "Estonia",
-          "Finland",
-          "France",
-          "Germany",
-          "Greece",
-          "Ireland",
-          "Italy",
-          "Latvia",
-          "Lithuania",
-          "Luxembourg",
-          "Malta",
-          "Netherlands",
-          "Portugal",
-          "Slovakia",
-          "Slovenia",
-          "Spain",
-          "EU special territories",
-          "Akrotiri and Dhekelia",
-          "French Southern and Antarctic Lands",
-          "Saint Barth\u00e9lemy",
-          "Saint Martin",
-          "Saint Pierre and Miquelon",
-          "Andorra",
-          "Kosovo",
-          "Monaco",
-          "Montenegro",
-          "San Marino",
-          "Vatican City"
-        ],
+        "Eurozone : Austria Belgium Cyprus Estonia Finland France Germany Greece Ireland Italy Latvia Lithuania Luxembourg Malta Netherlands Portugal Slovakia Slovenia Spain and EU special territories : Akrotiri and Dhekelia ( SBAs ) French Southern and Antarctic Lands Saint Barth\u00e9lemy Saint Martin Saint Pierre and Miquelon Andorra Kosovo Monaco Montenegro San Marino Vatican City",
         [
           "/wiki/Eurozone",
           "/wiki/Austria",
@@ -296,146 +172,85 @@
         ]
       ],
       [
-        [
-          "1999/2002"
-        ],
-        [
-          null
-        ]
+        "1999/2002",
+        []
       ],
       [
-        [
-          "EMU",
-          "SBAs"
-        ],
+        "Formal , common policy and EMU for EU members Formal for Monaco and SBAs ( those form a de facto EMU with the Eurozone ) Formal for Andorra since 2011 Informal for Kosovo , Montenegro Formal for the rest",
         [
           "/wiki/Economic_and_monetary_union",
           "/wiki/Akrotiri_and_Dhekelia"
         ]
       ],
       [
-        [
-          "341,008,867"
-        ],
-        [
-          null
-        ]
+        "341,008,867",
+        []
       ]
     ],
     [
       [
-        [
-          "Hong Kong dollar"
-        ],
+        "Hong Kong dollar",
         [
           "/wiki/Hong_Kong_dollar"
         ]
       ],
       [
-        [
-          "Hong Kong",
-          "Macau"
-        ],
+        "Hong Kong Macau",
         [
           "/wiki/Hong_Kong",
           "/wiki/Macau"
         ]
       ],
       [
-        [
-          "1977"
-        ],
-        [
-          null
-        ]
+        "1977",
+        []
       ],
       [
-        [
-          "Informal ; Decreto-Lei n.\u00ba 16/95/M prohibiting the refusal of the pataca by merchants and businesses"
-        ],
-        [
-          null
-        ]
+        "Informal ; Decreto-Lei n.\u00ba 16/95/M prohibiting the refusal of the pataca by merchants and businesses",
+        []
       ],
       [
-        [
-          "7,775,200"
-        ],
-        [
-          null
-        ]
+        "7,775,200",
+        []
       ]
     ],
     [
       [
-        [
-          "Singapore dollar",
-          "Brunei dollar"
-        ],
+        "Singapore dollar Brunei dollar",
         [
           "/wiki/Singapore_dollar",
           "/wiki/Brunei_dollar"
         ]
       ],
       [
-        [
-          "Brunei",
-          "Singapore"
-        ],
+        "Brunei Singapore",
         [
           "/wiki/Brunei",
           "/wiki/Singapore"
         ]
       ],
       [
-        [
-          "1967"
-        ],
-        [
-          null
-        ]
+        "1967",
+        []
       ],
       [
-        [
-          "Formal ; currencies mutually exchangeable"
-        ],
-        [
-          null
-        ]
+        "Formal ; currencies mutually exchangeable",
+        []
       ],
       [
-        [
-          "5,137,000"
-        ],
-        [
-          null
-        ]
+        "5,137,000",
+        []
       ]
     ],
     [
       [
-        [
-          "Australian dollar"
-        ],
+        "Australian dollar",
         [
           "/wiki/Australian_dollar"
         ]
       ],
       [
-        [
-          "Australia",
-          "external territories",
-          "Ashmore and Cartier Islands",
-          "Australian Antarctic Territory",
-          "Christmas Island",
-          "Cocos ( Keeling ) Islands",
-          "Coral Sea Islands",
-          "Heard Island and McDonald Islands",
-          "Norfolk Island",
-          "Kiribati",
-          "Nauru",
-          "Tuvalu"
-        ],
+        "Australia and external territories : Ashmore and Cartier Islands Australian Antarctic Territory Christmas Island Cocos ( Keeling ) Islands Coral Sea Islands Heard Island and McDonald Islands Norfolk Island Kiribati Nauru Tuvalu",
         [
           "/wiki/Australia",
           "/wiki/Australian_External_Territories",
@@ -452,54 +267,27 @@
         ]
       ],
       [
-        [
-          "1966"
-        ],
-        [
-          null
-        ]
+        "1966",
+        []
       ],
       [
-        [
-          "Informal"
-        ],
-        [
-          null
-        ]
+        "Informal",
+        []
       ],
       [
-        [
-          "24,557,000"
-        ],
-        [
-          null
-        ]
+        "24,557,000",
+        []
       ]
     ],
     [
       [
-        [
-          "Pound sterling"
-        ],
+        "Pound sterling",
         [
           "/wiki/Pound_sterling"
         ]
       ],
       [
-        [
-          "United Kingdom",
-          "overseas territories",
-          "British Antarctic Territory",
-          "British Indian Ocean Territory",
-          "Falkland Islands",
-          "Gibraltar",
-          "Saint Helena , Ascension and Tristan da Cunha",
-          "South Georgia and the South Sandwich Islands",
-          "crown dependencies",
-          "Guernsey",
-          "Isle of Man",
-          "Jersey"
-        ],
+        "United Kingdom and overseas territories : British Antarctic Territory British Indian Ocean Territory Falkland Islands Gibraltar Saint Helena , Ascension and Tristan da Cunha South Georgia and the South Sandwich Islands and crown dependencies : Guernsey Isle of Man Jersey",
         [
           "/wiki/United_Kingdom",
           "/wiki/British_overseas_territory",
@@ -516,23 +304,11 @@
         ]
       ],
       [
-        [
-          "1939"
-        ],
-        [
-          null
-        ]
+        "1939",
+        []
       ],
       [
-        [
-          "Guernsey pound",
-          "Manx pound",
-          "Jersey pound",
-          "Alderney pound",
-          "Falkland Islands pound",
-          "Gibraltar pound",
-          "Saint Helena pound"
-        ],
+        "Semi-formal . UK banknotes are legal tender in locations outside the UK . Local currencies are pegged to the GBP but not necessarily accepted in the UK : Guernsey pound , Manx pound , Jersey pound and Alderney pound , Falkland Islands pound , Gibraltar pound , Saint Helena pound",
         [
           "/wiki/Guernsey_pound",
           "/wiki/Manx_pound",
@@ -544,29 +320,19 @@
         ]
       ],
       [
-        [
-          "62,321,000"
-        ],
-        [
-          null
-        ]
+        "62,321,000",
+        []
       ]
     ],
     [
       [
-        [
-          "Indian rupee"
-        ],
+        "Indian rupee",
         [
           "/wiki/Indian_rupee"
         ]
       ],
       [
-        [
-          "India",
-          "Bhutan",
-          "Nepal"
-        ],
+        "India Bhutan Nepal",
         [
           "/wiki/India",
           "/wiki/Bhutan",
@@ -574,47 +340,27 @@
         ]
       ],
       [
-        [
-          "1974"
-        ],
-        [
-          null
-        ]
+        "1974",
+        []
       ],
       [
-        [
-          "Informal Nepal minor usage"
-        ],
-        [
-          null
-        ]
+        "Informal Nepal minor usage",
+        []
       ],
       [
-        [
-          "1,352,000,000"
-        ],
-        [
-          null
-        ]
+        "1,352,000,000",
+        []
       ]
     ],
     [
       [
-        [
-          "New Zealand dollar"
-        ],
+        "New Zealand dollar",
         [
           "/wiki/New_Zealand_dollar"
         ]
       ],
       [
-        [
-          "New Zealand",
-          "realm",
-          "Cook Islands",
-          "Niue",
-          "Pitcairn Islands"
-        ],
+        "New Zealand and realm : Cook Islands Niue Pitcairn Islands",
         [
           "/wiki/New_Zealand",
           "/wiki/Realm_of_New_Zealand",
@@ -624,89 +370,54 @@
         ]
       ],
       [
-        [
-          "1967"
-        ],
-        [
-          null
-        ]
+        "1967",
+        []
       ],
       [
-        [
-          "Informal"
-        ],
-        [
-          null
-        ]
+        "Informal",
+        []
       ],
       [
-        [
-          "4,411,000"
-        ],
-        [
-          null
-        ]
+        "4,411,000",
+        []
       ]
     ],
     [
       [
-        [
-          "Israeli new sheqel"
-        ],
+        "Israeli new sheqel",
         [
           "/wiki/Israeli_new_sheqel"
         ]
       ],
       [
-        [
-          "Israel",
-          "Palestine"
-        ],
+        "Israel Palestine",
         [
           "/wiki/Israel",
           "/wiki/State_of_Palestine"
         ]
       ],
       [
-        [
-          "1927/1986"
-        ],
-        [
-          null
-        ]
+        "1927/1986",
+        []
       ],
       [
-        [
-          "Informal"
-        ],
-        [
-          null
-        ]
+        "Informal",
+        []
       ],
       [
-        [
-          "11,738,000"
-        ],
-        [
-          null
-        ]
+        "11,738,000",
+        []
       ]
     ],
     [
       [
-        [
-          "Jordanian dinar"
-        ],
+        "Jordanian dinar",
         [
           "/wiki/Jordanian_dinar"
         ]
       ],
       [
-        [
-          "Jordan",
-          "Palestine",
-          "West Bank"
-        ],
+        "Jordan Palestine ( West Bank only )",
         [
           "/wiki/Jordan",
           "/wiki/State_of_Palestine",
@@ -714,45 +425,27 @@
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Informal"
-        ],
-        [
-          null
-        ]
+        "Informal",
+        []
       ],
       [
-        [
-          "8,922,000"
-        ],
-        [
-          null
-        ]
+        "8,922,000",
+        []
       ]
     ],
     [
       [
-        [
-          "Russian ruble"
-        ],
+        "Russian ruble",
         [
           "/wiki/Russian_ruble"
         ]
       ],
       [
-        [
-          "Russia",
-          "Abkhazia",
-          "South Ossetia"
-        ],
+        "Russia Abkhazia South Ossetia",
         [
           "/wiki/Russia",
           "/wiki/Abkhazia",
@@ -760,46 +453,27 @@
         ]
       ],
       [
-        [
-          "2008"
-        ],
-        [
-          null
-        ]
+        "2008",
+        []
       ],
       [
-        [
-          "Informal"
-        ],
-        [
-          null
-        ]
+        "Informal",
+        []
       ],
       [
-        [
-          "142,177,000"
-        ],
-        [
-          null
-        ]
+        "142,177,000",
+        []
       ]
     ],
     [
       [
-        [
-          "South African rand"
-        ],
+        "South African rand",
         [
           "/wiki/South_African_rand"
         ]
       ],
       [
-        [
-          "Lesotho",
-          "Namibia",
-          "South Africa",
-          "Eswatini"
-        ],
+        "Lesotho Namibia South Africa Eswatini",
         [
           "/wiki/Lesotho",
           "/wiki/Namibia",
@@ -808,67 +482,41 @@
         ]
       ],
       [
-        [
-          "1974"
-        ],
-        [
-          null
-        ]
+        "1974",
+        []
       ],
       [
-        [
-          "customs and monetary union",
-          "SACU"
-        ],
+        "Formal de facto customs and monetary union for SACU members",
         [
           "/wiki/Customs_and_monetary_union",
           "/wiki/Southern_Africa_Customs_Union"
         ]
       ],
       [
-        [
-          "52,924,669"
-        ],
-        [
-          null
-        ]
+        "52,924,669",
+        []
       ]
     ],
     [
       [
-        [
-          "Swiss franc"
-        ],
+        "Swiss franc",
         [
           "/wiki/Swiss_franc"
         ]
       ],
       [
-        [
-          "Liechtenstein",
-          "Switzerland"
-        ],
+        "Liechtenstein Switzerland",
         [
           "/wiki/Liechtenstein",
           "/wiki/Switzerland"
         ]
       ],
       [
-        [
-          "1920"
-        ],
-        [
-          null
-        ]
+        "1920",
+        []
       ],
       [
-        [
-          "economic and monetary union",
-          "customs union",
-          "European Free Trade Association",
-          "common market",
-          "European Single Market"
-        ],
+        "Informal de facto economic and monetary union - 1924 creation of a customs union , then members of the European Free Trade Association ( a common market ) , and now also part of the European Single Market",
         [
           "/wiki/Economic_and_monetary_union",
           "/wiki/Customs_union",
@@ -878,88 +526,46 @@
         ]
       ],
       [
-        [
-          "8,547,015"
-        ],
-        [
-          null
-        ]
+        "8,547,015",
+        []
       ]
     ],
     [
       [
-        [
-          "Turkish lira"
-        ],
+        "Turkish lira",
         [
           "/wiki/Turkish_lira"
         ]
       ],
       [
-        [
-          "Turkey",
-          "Turkish Republic of Northern Cyprus"
-        ],
+        "Turkey Turkish Republic of Northern Cyprus",
         [
           "/wiki/Turkey",
           "/wiki/Northern_Cyprus"
         ]
       ],
       [
-        [
-          "1983"
-        ],
-        [
-          null
-        ]
+        "1983",
+        []
       ],
       [
-        [
-          "Informal"
-        ],
-        [
-          null
-        ]
+        "Informal",
+        []
       ],
       [
-        [
-          "75,081,100"
-        ],
-        [
-          null
-        ]
+        "75,081,100",
+        []
       ]
     ],
     [
       [
-        [
-          "United States dollar"
-        ],
+        "United States dollar",
         [
           "/wiki/United_States_dollar"
         ]
       ],
       [
-        [
-          "United States",
-          "insular areas",
-          "American Samoa",
-          "Guam",
-          "United States Minor Outlying Islands",
-          "Northern Mariana Islands",
-          "Puerto Rico",
-          "United States Virgin Islands",
-          "Ecuador",
-          "El Salvador",
-          "Panama",
-          "Marshall Islands",
-          "Federated States of Micronesia",
-          "Palau",
-          "Timor-Leste",
-          "Turks and Caicos Islands",
-          "British Virgin Islands",
-          "BES islands"
-        ],
+        "United States and insular areas : American Samoa Guam United States Minor Outlying Islands Northern Mariana Islands Puerto Rico United States Virgin Islands Ecuador El Salvador Panama Marshall Islands Federated States of Micronesia Palau Timor-Leste Turks and Caicos Islands British Virgin Islands BES islands",
         [
           "/wiki/United_States",
           "/wiki/Insular_area",
@@ -982,28 +588,18 @@
         ]
       ],
       [
-        [
-          "1904 ( Panama only )"
-        ],
-        [
-          null
-        ]
+        "1904 ( Panama only )",
+        []
       ],
       [
-        [
-          "Compact of Free Association"
-        ],
+        "Formal for insular areas and sovereign status with Compact of Free Association , informal for other areas",
         [
           "/wiki/Compact_of_Free_Association"
         ]
       ],
       [
-        [
-          "339,300,000"
-        ],
-        [
-          null
-        ]
+        "339,300,000",
+        []
       ]
     ]
   ],

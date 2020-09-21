@@ -3,68 +3,40 @@
   "title": "Hiragana and katakana place names",
   "header": [
     [
-      [
-        "City / Town"
-      ],
-      [
-        null
-      ]
+      "City / Town",
+      []
     ],
     [
-      [
-        "Hiragana + Kanji"
-      ],
-      [
-        null
-      ]
+      "Hiragana + Kanji",
+      []
     ],
     [
-      [
-        "Full kanji"
-      ],
-      [
-        null
-      ]
+      "Full kanji",
+      []
     ],
     [
-      [
-        "Prefecture"
-      ],
-      [
-        null
-      ]
+      "Prefecture",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Akiruno"
-        ],
+        "Akiruno",
         [
           "/wiki/Akiruno,_Tokyo"
         ]
       ],
       [
-        [
-          "\u3042\u304d\u308b\u91ce\u5e02"
-        ],
-        [
-          null
-        ]
+        "\u3042\u304d\u308b\u91ce\u5e02",
+        []
       ],
       [
-        [
-          "\u79cb\u7559\u91ce\u3001\u963f\u4f0e\u7559\u91ce"
-        ],
-        [
-          null
-        ]
+        "\u79cb\u7559\u91ce\u3001\u963f\u4f0e\u7559\u91ce",
+        []
       ],
       [
-        [
-          "Tokyo"
-        ],
+        "Tokyo",
         [
           "/wiki/Tokyo"
         ]
@@ -72,33 +44,21 @@
     ],
     [
       [
-        [
-          "Ichikikushikino"
-        ],
+        "Ichikikushikino",
         [
           "/wiki/Ichikikushikino,_Kagoshima"
         ]
       ],
       [
-        [
-          "\u3044\u3061\u304d\u4e32\u6728\u91ce\u5e02"
-        ],
-        [
-          null
-        ]
+        "\u3044\u3061\u304d\u4e32\u6728\u91ce\u5e02",
+        []
       ],
       [
-        [
-          "\u5e02\u6765\u4e32\u6728\u91ce"
-        ],
-        [
-          null
-        ]
+        "\u5e02\u6765\u4e32\u6728\u91ce",
+        []
       ],
       [
-        [
-          "Kagoshima"
-        ],
+        "Kagoshima",
         [
           "/wiki/Kagoshima_Prefecture"
         ]
@@ -106,33 +66,21 @@
     ],
     [
       [
-        [
-          "Higashikagawa"
-        ],
+        "Higashikagawa",
         [
           "/wiki/Higashikagawa"
         ]
       ],
       [
-        [
-          "\u6771\u304b\u304c\u308f\u5e02"
-        ],
-        [
-          null
-        ]
+        "\u6771\u304b\u304c\u308f\u5e02",
+        []
       ],
       [
-        [
-          "\u6771\u9999\u5ddd"
-        ],
-        [
-          null
-        ]
+        "\u6771\u9999\u5ddd",
+        []
       ],
       [
-        [
-          "Kagawa"
-        ],
+        "Kagawa",
         [
           "/wiki/Kagawa_Prefecture"
         ]
@@ -140,33 +88,21 @@
     ],
     [
       [
-        [
-          "Higashimiyoshi"
-        ],
+        "Higashimiyoshi",
         [
           "/wiki/Higashimiyoshi,_Tokushima"
         ]
       ],
       [
-        [
-          "\u6771\u307f\u3088\u3057\u753a"
-        ],
-        [
-          null
-        ]
+        "\u6771\u307f\u3088\u3057\u753a",
+        []
       ],
       [
-        [
-          "\u6771\u4e09\u597d"
-        ],
-        [
-          null
-        ]
+        "\u6771\u4e09\u597d",
+        []
       ],
       [
-        [
-          "Tokushima"
-        ],
+        "Tokushima",
         [
           "/wiki/Tokushima_Prefecture"
         ]
@@ -174,33 +110,21 @@
     ],
     [
       [
-        [
-          "Kinokawa"
-        ],
+        "Kinokawa",
         [
           "/wiki/Kinokawa,_Wakayama"
         ]
       ],
       [
-        [
-          "\u7d00\u306e\u5ddd\u5e02"
-        ],
-        [
-          null
-        ]
+        "\u7d00\u306e\u5ddd\u5e02",
+        []
       ],
       [
-        [
-          "\u7d00\u4e4b\u5ddd"
-        ],
-        [
-          null
-        ]
+        "\u7d00\u4e4b\u5ddd",
+        []
       ],
       [
-        [
-          "Wakayama"
-        ],
+        "Wakayama",
         [
           "/wiki/Wakayama_Prefecture"
         ]
@@ -208,33 +132,21 @@
     ],
     [
       [
-        [
-          "Minamiawaji"
-        ],
+        "Minamiawaji",
         [
           "/wiki/Minamiawaji,_Hyogo"
         ]
       ],
       [
-        [
-          "\u5357\u3042\u308f\u3058\u5e02"
-        ],
-        [
-          null
-        ]
+        "\u5357\u3042\u308f\u3058\u5e02",
+        []
       ],
       [
-        [
-          "\u5357\u6de1\u8def"
-        ],
-        [
-          null
-        ]
+        "\u5357\u6de1\u8def",
+        []
       ],
       [
-        [
-          "Hy\u014dgo"
-        ],
+        "Hy\u014dgo",
         [
           "/wiki/Hy\u014dgo_Prefecture"
         ]
@@ -242,33 +154,21 @@
     ],
     [
       [
-        [
-          "Izunokuni"
-        ],
+        "Izunokuni",
         [
           "/wiki/Izunokuni,_Shizuoka"
         ]
       ],
       [
-        [
-          "\u4f0a\u8c46\u306e\u56fd\u5e02"
-        ],
-        [
-          null
-        ]
+        "\u4f0a\u8c46\u306e\u56fd\u5e02",
+        []
       ],
       [
-        [
-          "\u4f0a\u8c46\u4e4b\u56fd"
-        ],
-        [
-          null
-        ]
+        "\u4f0a\u8c46\u4e4b\u56fd",
+        []
       ],
       [
-        [
-          "Shizuoka"
-        ],
+        "Shizuoka",
         [
           "/wiki/Shizuoka_Prefecture"
         ]
@@ -276,33 +176,21 @@
     ],
     [
       [
-        [
-          "Fujimino"
-        ],
+        "Fujimino",
         [
           "/wiki/Fujimino,_Saitama"
         ]
       ],
       [
-        [
-          "\u3075\u3058\u307f\u91ce\u5e02"
-        ],
-        [
-          null
-        ]
+        "\u3075\u3058\u307f\u91ce\u5e02",
+        []
       ],
       [
-        [
-          "\u5bcc\u58eb\u898b\u91ce"
-        ],
-        [
-          null
-        ]
+        "\u5bcc\u58eb\u898b\u91ce",
+        []
       ],
       [
-        [
-          "Saitama"
-        ],
+        "Saitama",
         [
           "/wiki/Saitama_Prefecture"
         ]

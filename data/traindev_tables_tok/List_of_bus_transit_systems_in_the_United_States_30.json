@@ -3,78 +3,48 @@
   "title": "List of bus transit systems in the United States",
   "header": [
     [
-      [
-        "System"
-      ],
-      [
-        null
-      ]
+      "System",
+      []
     ],
     [
-      [
-        "Locale"
-      ],
-      [
-        null
-      ]
+      "Locale",
+      []
     ],
     [
-      [
-        "Major city ( s )"
-      ],
-      [
-        null
-      ]
+      "Major city ( s )",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "BurLink"
-        ],
-        [
-          null
-        ]
+        "BurLink",
+        []
       ],
       [
-        [
-          "Burlington County"
-        ],
+        "Burlington County",
         [
           "/wiki/Burlington_County,_New_Jersey"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Colonial Coach of Morristown"
-        ],
-        [
-          null
-        ]
+        "Colonial Coach of Morristown",
+        []
       ],
       [
-        [
-          "Morris County"
-        ],
+        "Morris County",
         [
           "/wiki/Morris_County,_New_Jersey"
         ]
       ],
       [
-        [
-          "Morristown"
-        ],
+        "Morristown",
         [
           "/wiki/Morristown,_New_Jersey"
         ]
@@ -82,26 +52,17 @@
     ],
     [
       [
-        [
-          "Kearny Commuter Shuttle"
-        ],
-        [
-          null
-        ]
+        "Kearny Commuter Shuttle",
+        []
       ],
       [
-        [
-          "Hudson County"
-        ],
+        "Hudson County",
         [
           "/wiki/Hudson_County,_New_Jersey"
         ]
       ],
       [
-        [
-          "Kearny",
-          "Harrison"
-        ],
+        "Kearny and Harrison",
         [
           "/wiki/Kearny,_New_Jersey",
           "/wiki/Harrison,_New_Jersey"
@@ -110,26 +71,17 @@
     ],
     [
       [
-        [
-          "The Link/Flemington Shuffle Service"
-        ],
-        [
-          null
-        ]
+        "The Link/Flemington Shuffle Service",
+        []
       ],
       [
-        [
-          "Hunterdon County"
-        ],
+        "Hunterdon County",
         [
           "/wiki/Hunterdon_County,_New_Jersey"
         ]
       ],
       [
-        [
-          "Flemington",
-          "Raritan Township"
-        ],
+        "Flemington and Raritan Township",
         [
           "/wiki/Flemington,_New_Jersey",
           "/wiki/Raritan_Township,_New_Jersey"
@@ -138,45 +90,29 @@
     ],
     [
       [
-        [
-          "Middlesex County Area Transit ( MCAT )"
-        ],
-        [
-          null
-        ]
+        "Middlesex County Area Transit ( MCAT )",
+        []
       ],
       [
-        [
-          "Middlesex County"
-        ],
+        "Middlesex County",
         [
           "/wiki/Middlesex_County,_New_Jersey"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "New Jersey Transit"
-        ],
+        "New Jersey Transit",
         [
           "/wiki/New_Jersey_Transit_Bus_Operations"
         ]
       ],
       [
-        [
-          "New Jersey",
-          "Manhattan",
-          "Philadelphia"
-        ],
+        "New Jersey ( statewide ) with service to Manhattan and Philadelphia",
         [
           "/wiki/New_Jersey",
           "/wiki/Manhattan",
@@ -184,35 +120,23 @@
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Parsippany Free Transit System"
-        ],
-        [
-          null
-        ]
+        "Parsippany Free Transit System",
+        []
       ],
       [
-        [
-          "Morris County"
-        ],
+        "Morris County",
         [
           "/wiki/Morris_County,_New_Jersey"
         ]
       ],
       [
-        [
-          "Parsippany , New Jersey"
-        ],
+        "Parsippany , New Jersey",
         [
           "/wiki/Parsippany,_New_Jersey"
         ]
@@ -220,25 +144,17 @@
     ],
     [
       [
-        [
-          "Princeton Free B"
-        ],
-        [
-          null
-        ]
+        "Princeton Free B",
+        []
       ],
       [
-        [
-          "Mercer County"
-        ],
+        "Mercer County",
         [
           "/wiki/Mercer_County,_New_Jersey"
         ]
       ],
       [
-        [
-          "Princeton"
-        ],
+        "Princeton",
         [
           "/wiki/Princeton,_New_Jersey"
         ]
@@ -246,26 +162,17 @@
     ],
     [
       [
-        [
-          "Princeton Junction Shuttle"
-        ],
-        [
-          null
-        ]
+        "Princeton Junction Shuttle",
+        []
       ],
       [
-        [
-          "Mercer County"
-        ],
+        "Mercer County",
         [
           "/wiki/Mercer_County,_New_Jersey"
         ]
       ],
       [
-        [
-          "East Windsor Township",
-          "Hightstown"
-        ],
+        "East Windsor Township and Hightstown",
         [
           "/wiki/East_Windsor_Township,_New_Jersey",
           "/wiki/Hightstown,_New_Jersey"
@@ -274,129 +181,81 @@
     ],
     [
       [
-        [
-          "Route 57 Shuttle"
-        ],
-        [
-          null
-        ]
+        "Route 57 Shuttle",
+        []
       ],
       [
-        [
-          "Warren County"
-        ],
+        "Warren County",
         [
           "/wiki/Warren_County,_New_Jersey"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Route 130 Connection Shuttle"
-        ],
-        [
-          null
-        ]
+        "Route 130 Connection Shuttle",
+        []
       ],
       [
-        [
-          "Mercer County"
-        ],
+        "Mercer County",
         [
           "/wiki/Mercer_County,_New_Jersey"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Somerset County Public Transit"
-        ],
-        [
-          null
-        ]
+        "Somerset County Public Transit",
+        []
       ],
       [
-        [
-          "Somerset County"
-        ],
+        "Somerset County",
         [
           "/wiki/Somerset_County,_New_Jersey"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Sussex County Skylands Ride"
-        ],
-        [
-          null
-        ]
+        "Sussex County Skylands Ride",
+        []
       ],
       [
-        [
-          "Sussex County"
-        ],
+        "Sussex County",
         [
           "/wiki/Sussex_County,_New_Jersey"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Vernon Area Shuttle"
-        ],
-        [
-          null
-        ]
+        "Vernon Area Shuttle",
+        []
       ],
       [
-        [
-          "Sussex County"
-        ],
+        "Sussex County",
         [
           "/wiki/Sussex_County,_New_Jersey"
         ]
       ],
       [
-        [
-          "Vernon , New Jersey"
-        ],
+        "Vernon , New Jersey",
         [
           "/wiki/Vernon,_New_Jersey"
         ]
@@ -404,25 +263,17 @@
     ],
     [
       [
-        [
-          "West Milford Bus"
-        ],
-        [
-          null
-        ]
+        "West Milford Bus",
+        []
       ],
       [
-        [
-          "Passaic County"
-        ],
+        "Passaic County",
         [
           "/wiki/Passaic_County,_New_Jersey"
         ]
       ],
       [
-        [
-          "West Milford"
-        ],
+        "West Milford",
         [
           "/wiki/West_Milford_Township,_New_Jersey"
         ]

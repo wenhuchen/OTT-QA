@@ -3,655 +3,449 @@
   "title": "LNB Pro A",
   "header": [
     [
-      [
-        "Team"
-      ],
-      [
-        null
-      ]
+      "Team",
+      []
     ],
     [
-      [
-        "City"
-      ],
-      [
-        null
-      ]
+      "City",
+      []
     ],
     [
-      [
-        "Arena"
-      ],
-      [
-        null
-      ]
+      "Arena",
+      []
     ],
     [
-      [
-        "Capacity"
-      ],
-      [
-        null
-      ]
+      "Capacity",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "AS Monaco Basket"
-        ],
+        "AS Monaco Basket",
         [
           "/wiki/AS_Monaco_Basket"
         ]
       ],
       [
-        [
-          "Fontvieille , Monaco"
-        ],
+        "Fontvieille , Monaco",
         [
           "/wiki/Fontvieille,_Monaco"
         ]
       ],
       [
-        [
-          "Salle Gaston M\u00e9decin"
-        ],
+        "Salle Gaston M\u00e9decin",
         [
           "/wiki/Salle_Gaston_M\u00e9decin"
         ]
       ],
       [
-        [
-          "3,700"
-        ],
-        [
-          null
-        ]
+        "3,700",
+        []
       ]
     ],
     [
       [
-        [
-          "ASVEL"
-        ],
+        "ASVEL",
         [
           "/wiki/ASVEL_Basket"
         ]
       ],
       [
-        [
-          "Villeurbanne"
-        ],
+        "Villeurbanne",
         [
           "/wiki/Villeurbanne"
         ]
       ],
       [
-        [
-          "Astroballe"
-        ],
+        "Astroballe",
         [
           "/wiki/L'Astroballe"
         ]
       ],
       [
-        [
-          "5,556"
-        ],
-        [
-          null
-        ]
+        "5,556",
+        []
       ]
     ],
     [
       [
-        [
-          "BCM Gravelines-Dunkerque"
-        ],
+        "BCM Gravelines-Dunkerque",
         [
           "/wiki/BCM_Gravelines"
         ]
       ],
       [
-        [
-          "Gravelines"
-        ],
+        "Gravelines",
         [
           "/wiki/Gravelines"
         ]
       ],
       [
-        [
-          "Sportica"
-        ],
+        "Sportica",
         [
           "/wiki/Gravelines_Sportica"
         ]
       ],
       [
-        [
-          "3,043"
-        ],
-        [
-          null
-        ]
+        "3,043",
+        []
       ]
     ],
     [
       [
-        [
-          "Boulazac Basket Dordogne"
-        ],
+        "Boulazac Basket Dordogne",
         [
           "/wiki/Boulazac_Basket_Dordogne"
         ]
       ],
       [
-        [
-          "Boulazac"
-        ],
+        "Boulazac",
         [
           "/wiki/Boulazac"
         ]
       ],
       [
-        [
-          "Le Palio"
-        ],
+        "Le Palio",
         [
           "/wiki/Le_Palio_(Boulazac)"
         ]
       ],
       [
-        [
-          "5,200"
-        ],
-        [
-          null
-        ]
+        "5,200",
+        []
       ]
     ],
     [
       [
-        [
-          "Champagne Ch\u00e2lons-Reims Basket"
-        ],
+        "Champagne Ch\u00e2lons-Reims Basket",
         [
           "/wiki/Champagne_Ch\u00e2lons-Reims_Basket"
         ]
       ],
       [
-        [
-          "Ch\u00e2lons",
-          "Reims"
-        ],
+        "Ch\u00e2lons / Reims",
         [
           "/wiki/Ch\u00e2lons-en-Champagne",
           "/wiki/Reims"
         ]
       ],
       [
-        [
-          "Complexe Ren\u00e9-Tys",
-          "Pierre de Coubertin"
-        ],
-        [
-          null,
-          null
-        ]
+        "Complexe Ren\u00e9-Tys / Pierre de Coubertin",
+        []
       ],
       [
-        [
-          "3,000 / 2,791"
-        ],
-        [
-          null
-        ]
+        "3,000 / 2,791",
+        []
       ]
     ],
     [
       [
-        [
-          "Cholet Basket"
-        ],
+        "Cholet Basket",
         [
           "/wiki/Cholet_Basket"
         ]
       ],
       [
-        [
-          "Cholet"
-        ],
+        "Cholet",
         [
           "/wiki/Cholet"
         ]
       ],
       [
-        [
-          "La Meilleraie"
-        ],
+        "La Meilleraie",
         [
           "/wiki/La_Meilleraie"
         ]
       ],
       [
-        [
-          "5,191"
-        ],
-        [
-          null
-        ]
+        "5,191",
+        []
       ]
     ],
     [
       [
-        [
-          "\u00c9lan B\u00e9arnais Pau-Lacq-Orthez"
-        ],
+        "\u00c9lan B\u00e9arnais Pau-Lacq-Orthez",
         [
           "/wiki/\u00c9lan_B\u00e9arnais"
         ]
       ],
       [
-        [
-          "Pau"
-        ],
+        "Pau",
         [
           "/wiki/Pau,_Pyr\u00e9n\u00e9es-Atlantiques"
         ]
       ],
       [
-        [
-          "Palais des Sports de Pau"
-        ],
+        "Palais des Sports de Pau",
         [
           "/wiki/Palais_des_Sports_de_Pau"
         ]
       ],
       [
-        [
-          "7,707"
-        ],
-        [
-          null
-        ]
+        "7,707",
+        []
       ]
     ],
     [
       [
-        [
-          "\u00c9lan Chalon"
-        ],
+        "\u00c9lan Chalon",
         [
           "/wiki/\u00c9lan_Chalon"
         ]
       ],
       [
-        [
-          "Chalon-sur-Sa\u00f4ne"
-        ],
+        "Chalon-sur-Sa\u00f4ne",
         [
           "/wiki/Chalon-sur-Sa\u00f4ne"
         ]
       ],
       [
-        [
-          "Le Colis\u00e9e"
-        ],
+        "Le Colis\u00e9e",
         [
           "/wiki/Le_Colis\u00e9e"
         ]
       ],
       [
-        [
-          "4,948"
-        ],
-        [
-          null
-        ]
+        "4,948",
+        []
       ]
     ],
     [
       [
-        [
-          "ESSM Le Portel"
-        ],
+        "ESSM Le Portel",
         [
           "/wiki/ESSM_Le_Portel"
         ]
       ],
       [
-        [
-          "Le Portel"
-        ],
+        "Le Portel",
         [
           "/wiki/Le_Portel"
         ]
       ],
       [
-        [
-          "Chaudron"
-        ],
-        [
-          null
-        ]
+        "Chaudron",
+        []
       ],
       [
-        [
-          "3,500"
-        ],
-        [
-          null
-        ]
+        "3,500",
+        []
       ]
     ],
     [
       [
-        [
-          "Orl\u00e9ans Loiret Basket"
-        ],
+        "Orl\u00e9ans Loiret Basket",
         [
           "/wiki/Orl\u00e9ans_Loiret_Basket"
         ]
       ],
       [
-        [
-          "Orl\u00e9ans"
-        ],
+        "Orl\u00e9ans",
         [
           "/wiki/Orl\u00e9ans"
         ]
       ],
       [
-        [
-          "Palais des Sports"
-        ],
+        "Palais des Sports",
         [
           "/wiki/Palais_des_Sports_(Orl\u00e9ans)"
         ]
       ],
       [
-        [
-          "3,222"
-        ],
-        [
-          null
-        ]
+        "3,222",
+        []
       ]
     ],
     [
       [
-        [
-          "JDA Dijon Basket"
-        ],
+        "JDA Dijon Basket",
         [
           "/wiki/JDA_Dijon_Basket"
         ]
       ],
       [
-        [
-          "Dijon"
-        ],
+        "Dijon",
         [
           "/wiki/Dijon"
         ]
       ],
       [
-        [
-          "Palais des Sports Jean-Michel Geoffroy"
-        ],
+        "Palais des Sports Jean-Michel Geoffroy",
         [
           "/wiki/Palais_des_Sports_de_Dijon"
         ]
       ],
       [
-        [
-          "4,628"
-        ],
-        [
-          null
-        ]
+        "4,628",
+        []
       ]
     ],
     [
       [
-        [
-          "JL Bourg-en-Bresse"
-        ],
+        "JL Bourg-en-Bresse",
         [
           "/wiki/JL_Bourg-en-Bresse"
         ]
       ],
       [
-        [
-          "Bourg-en-Bresse"
-        ],
+        "Bourg-en-Bresse",
         [
           "/wiki/Bourg-en-Bresse"
         ]
       ],
       [
-        [
-          "Ekinox"
-        ],
-        [
-          null
-        ]
+        "Ekinox",
+        []
       ],
       [
-        [
-          "3,548"
-        ],
-        [
-          null
-        ]
+        "3,548",
+        []
       ]
     ],
     [
       [
-        [
-          "Le Mans Sarthe Basket"
-        ],
+        "Le Mans Sarthe Basket",
         [
           "/wiki/Le_Mans_Sarthe_Basket"
         ]
       ],
       [
-        [
-          "Le Mans"
-        ],
+        "Le Mans",
         [
           "/wiki/Le_Mans"
         ]
       ],
       [
-        [
-          "Antar\u00e8s"
-        ],
+        "Antar\u00e8s",
         [
           "/wiki/Antar\u00e8s"
         ]
       ],
       [
-        [
-          "6,023"
-        ],
-        [
-          null
-        ]
+        "6,023",
+        []
       ]
     ],
     [
       [
-        [
-          "Limoges CSP"
-        ],
+        "Limoges CSP",
         [
           "/wiki/Limoges_CSP"
         ]
       ],
       [
-        [
-          "Limoges"
-        ],
+        "Limoges",
         [
           "/wiki/Limoges"
         ]
       ],
       [
-        [
-          "Beaublanc"
-        ],
+        "Beaublanc",
         [
           "/wiki/Palais_des_Sports_de_Beaublanc"
         ]
       ],
       [
-        [
-          "5,516"
-        ],
-        [
-          null
-        ]
+        "5,516",
+        []
       ]
     ],
     [
       [
-        [
-          "Metropolitans 92"
-        ],
+        "Metropolitans 92",
         [
           "/wiki/Metropolitans_92"
         ]
       ],
       [
-        [
-          "Levallois-Perret"
-        ],
+        "Levallois-Perret",
         [
           "/wiki/Levallois-Perret"
         ]
       ],
       [
-        [
-          "Palais des Sports Marcel Cerdan"
-        ],
+        "Palais des Sports Marcel Cerdan",
         [
           "/wiki/Palais_des_Sports_Marcel_Cerdan"
         ]
       ],
       [
-        [
-          "3,051"
-        ],
-        [
-          null
-        ]
+        "3,051",
+        []
       ]
     ],
     [
       [
-        [
-          "Nanterre 92"
-        ],
+        "Nanterre 92",
         [
           "/wiki/Nanterre_92"
         ]
       ],
       [
-        [
-          "Nanterre"
-        ],
+        "Nanterre",
         [
           "/wiki/Nanterre"
         ]
       ],
       [
-        [
-          "Palais des Sports",
-          "Halle Georges Carpentier"
-        ],
+        "Palais des Sports / Halle Georges Carpentier",
         [
           "/wiki/Palais_des_Sports_(Nanterre)",
           "/wiki/Halle_Georges_Carpentier"
         ]
       ],
       [
-        [
-          "3,000 / 5,009"
-        ],
-        [
-          null
-        ]
+        "3,000 / 5,009",
+        []
       ]
     ],
     [
       [
-        [
-          "Roanne"
-        ],
+        "Roanne",
         [
           "/wiki/Chorale_Roanne_Basket"
         ]
       ],
       [
-        [
-          "Roanne"
-        ],
+        "Roanne",
         [
           "/wiki/Roanne"
         ]
       ],
       [
-        [
-          "Halle Andr\u00e9 Vacheresse"
-        ],
+        "Halle Andr\u00e9 Vacheresse",
         [
           "/wiki/Halle_Andr\u00e9_Vacheresse"
         ]
       ],
       [
-        [
-          "5,020"
-        ],
-        [
-          null
-        ]
+        "5,020",
+        []
       ]
     ],
     [
       [
-        [
-          "SIG Basket"
-        ],
+        "SIG Basket",
         [
           "/wiki/SIG_Basket"
         ]
       ],
       [
-        [
-          "Strasbourg"
-        ],
+        "Strasbourg",
         [
           "/wiki/Strasbourg"
         ]
       ],
       [
-        [
-          "Rh\u00e9nus Sport"
-        ],
+        "Rh\u00e9nus Sport",
         [
           "/wiki/Rh\u00e9nus_Sport"
         ]
       ],
       [
-        [
-          "6,200"
-        ],
-        [
-          null
-        ]
+        "6,200",
+        []
       ]
     ]
   ],

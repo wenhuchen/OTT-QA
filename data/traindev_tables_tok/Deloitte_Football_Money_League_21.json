@@ -3,52 +3,32 @@
   "title": "Deloitte Football Money League",
   "header": [
     [
-      [
-        "Club"
-      ],
-      [
-        null
-      ]
+      "Club",
+      []
     ],
     [
-      [
-        "times in list"
-      ],
-      [
-        null
-      ]
+      "times in list",
+      []
     ],
     [
-      [
-        "Country"
-      ],
-      [
-        null
-      ]
+      "Country",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Real Madrid"
-        ],
+        "Real Madrid",
         [
           "/wiki/Real_Madrid_C.F."
         ]
       ],
       [
-        [
-          "16"
-        ],
-        [
-          null
-        ]
+        "16",
+        []
       ],
       [
-        [
-          "Spain"
-        ],
+        "Spain",
         [
           "/wiki/Spain"
         ]
@@ -56,25 +36,17 @@
     ],
     [
       [
-        [
-          "Manchester United"
-        ],
+        "Manchester United",
         [
           "/wiki/Manchester_United_F.C."
         ]
       ],
       [
-        [
-          "16"
-        ],
-        [
-          null
-        ]
+        "16",
+        []
       ],
       [
-        [
-          "England"
-        ],
+        "England",
         [
           "/wiki/England"
         ]
@@ -82,25 +54,17 @@
     ],
     [
       [
-        [
-          "Bayern Munich"
-        ],
+        "Bayern Munich",
         [
           "/wiki/FC_Bayern_Munich"
         ]
       ],
       [
-        [
-          "16"
-        ],
-        [
-          null
-        ]
+        "16",
+        []
       ],
       [
-        [
-          "Germany"
-        ],
+        "Germany",
         [
           "/wiki/Germany"
         ]
@@ -108,25 +72,17 @@
     ],
     [
       [
-        [
-          "Chelsea"
-        ],
+        "Chelsea",
         [
           "/wiki/Chelsea_F.C."
         ]
       ],
       [
-        [
-          "16"
-        ],
-        [
-          null
-        ]
+        "16",
+        []
       ],
       [
-        [
-          "England"
-        ],
+        "England",
         [
           "/wiki/England"
         ]
@@ -134,25 +90,17 @@
     ],
     [
       [
-        [
-          "Liverpool"
-        ],
+        "Liverpool",
         [
           "/wiki/Liverpool_F.C."
         ]
       ],
       [
-        [
-          "15"
-        ],
-        [
-          null
-        ]
+        "15",
+        []
       ],
       [
-        [
-          "England"
-        ],
+        "England",
         [
           "/wiki/England"
         ]
@@ -160,25 +108,17 @@
     ],
     [
       [
-        [
-          "Barcelona"
-        ],
+        "Barcelona",
         [
           "/wiki/FC_Barcelona"
         ]
       ],
       [
-        [
-          "14"
-        ],
-        [
-          null
-        ]
+        "14",
+        []
       ],
       [
-        [
-          "Spain"
-        ],
+        "Spain",
         [
           "/wiki/Spain"
         ]
@@ -186,25 +126,17 @@
     ],
     [
       [
-        [
-          "Milan"
-        ],
+        "Milan",
         [
           "/wiki/A.C._Milan"
         ]
       ],
       [
-        [
-          "14"
-        ],
-        [
-          null
-        ]
+        "14",
+        []
       ],
       [
-        [
-          "Italy"
-        ],
+        "Italy",
         [
           "/wiki/Italy"
         ]
@@ -212,25 +144,17 @@
     ],
     [
       [
-        [
-          "Arsenal"
-        ],
+        "Arsenal",
         [
           "/wiki/Arsenal_F.C."
         ]
       ],
       [
-        [
-          "14"
-        ],
-        [
-          null
-        ]
+        "14",
+        []
       ],
       [
-        [
-          "England"
-        ],
+        "England",
         [
           "/wiki/England"
         ]
@@ -238,25 +162,17 @@
     ],
     [
       [
-        [
-          "Juventus"
-        ],
+        "Juventus",
         [
           "/wiki/Juventus_F.C."
         ]
       ],
       [
-        [
-          "12"
-        ],
-        [
-          null
-        ]
+        "12",
+        []
       ],
       [
-        [
-          "Italy"
-        ],
+        "Italy",
         [
           "/wiki/Italy"
         ]
@@ -264,25 +180,17 @@
     ],
     [
       [
-        [
-          "Internazionale"
-        ],
+        "Internazionale",
         [
           "/wiki/Inter_Milan"
         ]
       ],
       [
-        [
-          "11"
-        ],
-        [
-          null
-        ]
+        "11",
+        []
       ],
       [
-        [
-          "Italy"
-        ],
+        "Italy",
         [
           "/wiki/Italy"
         ]
@@ -290,25 +198,17 @@
     ],
     [
       [
-        [
-          "Paris Saint - Germain"
-        ],
+        "Paris Saint - Germain",
         [
           "/wiki/Paris_Saint-Germain_F.C."
         ]
       ],
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "France"
-        ],
+        "France",
         [
           "/wiki/France"
         ]
@@ -316,25 +216,17 @@
     ],
     [
       [
-        [
-          "Roma"
-        ],
+        "Roma",
         [
           "/wiki/A.S._Roma"
         ]
       ],
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "Italy"
-        ],
+        "Italy",
         [
           "/wiki/Italy"
         ]
@@ -342,25 +234,17 @@
     ],
     [
       [
-        [
-          "Manchester City"
-        ],
+        "Manchester City",
         [
           "/wiki/Manchester_City_F.C."
         ]
       ],
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "England"
-        ],
+        "England",
         [
           "/wiki/England"
         ]
@@ -368,25 +252,17 @@
     ],
     [
       [
-        [
-          "Newcastle United"
-        ],
+        "Newcastle United",
         [
           "/wiki/Newcastle_United_F.C."
         ]
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "England"
-        ],
+        "England",
         [
           "/wiki/England"
         ]
@@ -394,25 +270,17 @@
     ],
     [
       [
-        [
-          "Schalke 04"
-        ],
+        "Schalke 04",
         [
           "/wiki/FC_Schalke_04"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "Germany"
-        ],
+        "Germany",
         [
           "/wiki/Germany"
         ]
@@ -420,25 +288,17 @@
     ],
     [
       [
-        [
-          "Lazio"
-        ],
+        "Lazio",
         [
           "/wiki/S.S._Lazio"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "Italy"
-        ],
+        "Italy",
         [
           "/wiki/Italy"
         ]
@@ -446,25 +306,17 @@
     ],
     [
       [
-        [
-          "Borussia Dortmund"
-        ],
+        "Borussia Dortmund",
         [
           "/wiki/Borussia_Dortmund"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "Germany"
-        ],
+        "Germany",
         [
           "/wiki/Germany"
         ]
@@ -472,25 +324,17 @@
     ],
     [
       [
-        [
-          "Tottenham Hotspur"
-        ],
+        "Tottenham Hotspur",
         [
           "/wiki/Tottenham_Hotspur"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "England"
-        ],
+        "England",
         [
           "/wiki/England"
         ]

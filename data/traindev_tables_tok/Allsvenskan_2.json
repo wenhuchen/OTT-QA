@@ -3,581 +3,367 @@
   "title": "Allsvenskan",
   "header": [
     [
-      [
-        "Club"
-      ],
-      [
-        null
-      ]
+      "Club",
+      []
     ],
     [
-      [
-        "Location"
-      ],
-      [
-        null
-      ]
+      "Location",
+      []
     ],
     [
-      [
-        "Stadium"
-      ],
-      [
-        null
-      ]
+      "Stadium",
+      []
     ],
     [
-      [
-        "Capacity"
-      ],
-      [
-        null
-      ]
+      "Capacity",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "AFC Eskilstuna"
-        ],
-        [
-          null
-        ]
+        "AFC Eskilstuna",
+        []
       ],
       [
-        [
-          "Eskilstuna"
-        ],
+        "Eskilstuna",
         [
           "/wiki/Eskilstuna_Municipality"
         ]
       ],
       [
-        [
-          "Tunavallen"
-        ],
+        "Tunavallen",
         [
           "/wiki/Tunavallen"
         ]
       ],
       [
-        [
-          "7,800"
-        ],
-        [
-          null
-        ]
+        "7,800",
+        []
       ]
     ],
     [
       [
-        [
-          "AIK"
-        ],
-        [
-          null
-        ]
+        "AIK",
+        []
       ],
       [
-        [
-          "Solna"
-        ],
+        "Solna",
         [
           "/wiki/Solna"
         ]
       ],
       [
-        [
-          "Friends Arena"
-        ],
+        "Friends Arena",
         [
           "/wiki/Friends_Arena"
         ]
       ],
       [
-        [
-          "54,000"
-        ],
-        [
-          null
-        ]
+        "54,000",
+        []
       ]
     ],
     [
       [
-        [
-          "BK H\u00e4cken"
-        ],
-        [
-          null
-        ]
+        "BK H\u00e4cken",
+        []
       ],
       [
-        [
-          "Gothenburg"
-        ],
+        "Gothenburg",
         [
           "/wiki/Gothenburg"
         ]
       ],
       [
-        [
-          "Bravida Arena"
-        ],
+        "Bravida Arena",
         [
           "/wiki/Bravida_Arena"
         ]
       ],
       [
-        [
-          "6,500"
-        ],
-        [
-          null
-        ]
+        "6,500",
+        []
       ]
     ],
     [
       [
-        [
-          "Djurg\u00e5rdens IF"
-        ],
-        [
-          null
-        ]
+        "Djurg\u00e5rdens IF",
+        []
       ],
       [
-        [
-          "Stockholm"
-        ],
+        "Stockholm",
         [
           "/wiki/Stockholm"
         ]
       ],
       [
-        [
-          "Tele2 Arena"
-        ],
+        "Tele2 Arena",
         [
           "/wiki/Tele2_Arena"
         ]
       ],
       [
-        [
-          "33,000"
-        ],
-        [
-          null
-        ]
+        "33,000",
+        []
       ]
     ],
     [
       [
-        [
-          "Falkenbergs FF"
-        ],
-        [
-          null
-        ]
+        "Falkenbergs FF",
+        []
       ],
       [
-        [
-          "Falkenberg"
-        ],
+        "Falkenberg",
         [
           "/wiki/Falkenberg"
         ]
       ],
       [
-        [
-          "Falcon Alkoholfri Arena"
-        ],
+        "Falcon Alkoholfri Arena",
         [
           "/wiki/Falcon_Alkoholfri_Arena"
         ]
       ],
       [
-        [
-          "5,500"
-        ],
-        [
-          null
-        ]
+        "5,500",
+        []
       ]
     ],
     [
       [
-        [
-          "GIF Sundsvall"
-        ],
-        [
-          null
-        ]
+        "GIF Sundsvall",
+        []
       ],
       [
-        [
-          "Sundsvall"
-        ],
+        "Sundsvall",
         [
           "/wiki/Sundsvall"
         ]
       ],
       [
-        [
-          "Norrporten Arena"
-        ],
+        "Norrporten Arena",
         [
           "/wiki/Norrporten_Arena"
         ]
       ],
       [
-        [
-          "7,700"
-        ],
-        [
-          null
-        ]
+        "7,700",
+        []
       ]
     ],
     [
       [
-        [
-          "Hammarby IF"
-        ],
-        [
-          null
-        ]
+        "Hammarby IF",
+        []
       ],
       [
-        [
-          "Stockholm"
-        ],
-        [
-          null
-        ]
+        "Stockholm",
+        []
       ],
       [
-        [
-          "Tele2 Arena"
-        ],
-        [
-          null
-        ]
+        "Tele2 Arena",
+        []
       ],
       [
-        [
-          "33,000"
-        ],
-        [
-          null
-        ]
+        "33,000",
+        []
       ]
     ],
     [
       [
-        [
-          "Helsingborgs IF"
-        ],
-        [
-          null
-        ]
+        "Helsingborgs IF",
+        []
       ],
       [
-        [
-          "Helsingborg"
-        ],
+        "Helsingborg",
         [
           "/wiki/Helsingborg"
         ]
       ],
       [
-        [
-          "Olympia"
-        ],
+        "Olympia",
         [
           "/wiki/Olympia_(Helsingborg)"
         ]
       ],
       [
-        [
-          "16,500"
-        ],
-        [
-          null
-        ]
+        "16,500",
+        []
       ]
     ],
     [
       [
-        [
-          "IF Elfsborg"
-        ],
-        [
-          null
-        ]
+        "IF Elfsborg",
+        []
       ],
       [
-        [
-          "Bor\u00e5s"
-        ],
+        "Bor\u00e5s",
         [
           "/wiki/Bor\u00e5s"
         ]
       ],
       [
-        [
-          "Bor\u00e5s Arena"
-        ],
+        "Bor\u00e5s Arena",
         [
           "/wiki/Bor\u00e5s_Arena"
         ]
       ],
       [
-        [
-          "16,899"
-        ],
-        [
-          null
-        ]
+        "16,899",
+        []
       ]
     ],
     [
       [
-        [
-          "IFK G\u00f6teborg"
-        ],
-        [
-          null
-        ]
+        "IFK G\u00f6teborg",
+        []
       ],
       [
-        [
-          "Gothenburg"
-        ],
-        [
-          null
-        ]
+        "Gothenburg",
+        []
       ],
       [
-        [
-          "Gamla Ullevi"
-        ],
+        "Gamla Ullevi",
         [
           "/wiki/Gamla_Ullevi"
         ]
       ],
       [
-        [
-          "18,900"
-        ],
-        [
-          null
-        ]
+        "18,900",
+        []
       ]
     ],
     [
       [
-        [
-          "IFK Norrk\u00f6ping"
-        ],
-        [
-          null
-        ]
+        "IFK Norrk\u00f6ping",
+        []
       ],
       [
-        [
-          "Norrk\u00f6ping"
-        ],
+        "Norrk\u00f6ping",
         [
           "/wiki/Norrk\u00f6ping"
         ]
       ],
       [
-        [
-          "\u00d6stg\u00f6taporten"
-        ],
+        "\u00d6stg\u00f6taporten",
         [
           "/wiki/\u00d6stg\u00f6taporten"
         ]
       ],
       [
-        [
-          "15,734"
-        ],
-        [
-          null
-        ]
+        "15,734",
+        []
       ]
     ],
     [
       [
-        [
-          "IK Sirius"
-        ],
-        [
-          null
-        ]
+        "IK Sirius",
+        []
       ],
       [
-        [
-          "Uppsala"
-        ],
+        "Uppsala",
         [
           "/wiki/Uppsala"
         ]
       ],
       [
-        [
-          "Studenternas IP"
-        ],
+        "Studenternas IP",
         [
           "/wiki/Studenternas_IP"
         ]
       ],
       [
-        [
-          "6,300"
-        ],
-        [
-          null
-        ]
+        "6,300",
+        []
       ]
     ],
     [
       [
-        [
-          "Kalmar FF"
-        ],
-        [
-          null
-        ]
+        "Kalmar FF",
+        []
       ],
       [
-        [
-          "Kalmar"
-        ],
+        "Kalmar",
         [
           "/wiki/Kalmar"
         ]
       ],
       [
-        [
-          "Guldf\u00e5geln Arena"
-        ],
+        "Guldf\u00e5geln Arena",
         [
           "/wiki/Guldf\u00e5geln_Arena"
         ]
       ],
       [
-        [
-          "12,182"
-        ],
-        [
-          null
-        ]
+        "12,182",
+        []
       ]
     ],
     [
       [
-        [
-          "Malm\u00f6 FF"
-        ],
-        [
-          null
-        ]
+        "Malm\u00f6 FF",
+        []
       ],
       [
-        [
-          "Malm\u00f6"
-        ],
+        "Malm\u00f6",
         [
           "/wiki/Malm\u00f6"
         ]
       ],
       [
-        [
-          "Eleda Stadion"
-        ],
+        "Eleda Stadion",
         [
           "/wiki/Eleda_Stadion"
         ]
       ],
       [
-        [
-          "22,500"
-        ],
-        [
-          null
-        ]
+        "22,500",
+        []
       ]
     ],
     [
       [
-        [
-          "\u00d6rebro SK"
-        ],
-        [
-          null
-        ]
+        "\u00d6rebro SK",
+        []
       ],
       [
-        [
-          "\u00d6rebro"
-        ],
+        "\u00d6rebro",
         [
           "/wiki/\u00d6rebro"
         ]
       ],
       [
-        [
-          "Behrn Arena"
-        ],
+        "Behrn Arena",
         [
           "/wiki/Behrn_Arena"
         ]
       ],
       [
-        [
-          "12,645"
-        ],
-        [
-          null
-        ]
+        "12,645",
+        []
       ]
     ],
     [
       [
-        [
-          "\u00d6stersunds FK"
-        ],
-        [
-          null
-        ]
+        "\u00d6stersunds FK",
+        []
       ],
       [
-        [
-          "\u00d6stersund"
-        ],
+        "\u00d6stersund",
         [
           "/wiki/\u00d6stersund"
         ]
       ],
       [
-        [
-          "J\u00e4mtkraft Arena"
-        ],
+        "J\u00e4mtkraft Arena",
         [
           "/wiki/J\u00e4mtkraft_Arena"
         ]
       ],
       [
-        [
-          "9,500"
-        ],
-        [
-          null
-        ]
+        "9,500",
+        []
       ]
     ]
   ],

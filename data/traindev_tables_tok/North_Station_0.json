@@ -3,62 +3,34 @@
   "title": "North Station",
   "header": [
     [
-      [
-        "Name"
-      ],
-      [
-        null
-      ]
+      "Name",
+      []
     ],
     [
-      [
-        "Final B & M station at peak level"
-      ],
-      [
-        null
-      ]
+      "Final B & M station at peak level",
+      []
     ],
     [
-      [
-        "Partner railroad in continuing joint train service"
-      ],
-      [
-        null
-      ]
+      "Partner railroad in continuing joint train service",
+      []
     ],
     [
-      [
-        "Final destination"
-      ],
-      [
-        null
-      ]
+      "Final destination",
+      []
     ],
     [
-      [
-        "Year discontinued"
-      ],
-      [
-        null
-      ]
+      "Year discontinued",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "The Minute Man"
-        ],
-        [
-          null
-        ]
+        "The Minute Man",
+        []
       ],
       [
-        [
-          "Troy , New York",
-          "Fitchburg , Massachusetts",
-          "Greenfield , Massachusetts"
-        ],
+        "Troy , New York via Fitchburg , Massachusetts and Greenfield , Massachusetts",
         [
           "/wiki/Union_Station_(Troy,_New_York)",
           "/wiki/Fitchburg,_Massachusetts",
@@ -66,133 +38,85 @@
         ]
       ],
       [
-        [
-          "New York Central"
-        ],
+        "New York Central",
         [
           "/wiki/New_York_Central"
         ]
       ],
       [
-        [
-          "Chicago , Illinois"
-        ],
+        "Chicago , Illinois",
         [
           "/wiki/Chicago,_Illinois"
         ]
       ],
       [
-        [
-          "1960"
-        ],
-        [
-          null
-        ]
+        "1960",
+        []
       ]
     ],
     [
       [
-        [
-          "The Cheshire"
-        ],
-        [
-          null
-        ]
+        "The Cheshire",
+        []
       ],
       [
-        [
-          "Bellows Falls , Vermont",
-          "Keene , New Hampshire"
-        ],
+        "Bellows Falls , Vermont via Fitchburg , Massachusetts and Keene , New Hampshire",
         [
           "/wiki/Bellows_Falls,_Vermont",
           "/wiki/Keene,_New_Hampshire"
         ]
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "1958"
-        ],
-        [
-          null
-        ]
+        "1958",
+        []
       ]
     ],
     [
       [
-        [
-          "Green Mountain Flyer"
-        ],
+        "Green Mountain Flyer",
         [
           "/wiki/Green_Mountain_Flyer"
         ]
       ],
       [
-        [
-          "Bellows Falls , Vermont"
-        ],
-        [
-          null
-        ]
+        "Bellows Falls , Vermont",
+        []
       ],
       [
-        [
-          "Rutland Railway"
-        ],
+        "Rutland Railway",
         [
           "/wiki/Rutland_Railway"
         ]
       ],
       [
-        [
-          "Burlington , Vermont",
-          "Montreal , Quebec"
-        ],
+        "Burlington , Vermont , Montreal , Quebec",
         [
           "/wiki/Burlington,_Vermont",
           "/wiki/Montreal,_Quebec"
         ]
       ],
       [
-        [
-          "1953"
-        ],
-        [
-          null
-        ]
+        "1953",
+        []
       ]
     ],
     [
       [
-        [
-          "Ambassador"
-        ],
+        "Ambassador",
         [
           "/wiki/Ambassador_(B&M_train)"
         ]
       ],
       [
-        [
-          "White River Junction , Vermont",
-          "Lowell , Massachusetts",
-          "Concord , New Hampshire"
-        ],
+        "White River Junction , Vermont via Lowell , Massachusetts and Concord , New Hampshire",
         [
           "/wiki/White_River_Junction_(Amtrak_station)",
           "/wiki/Lowell,_Massachusetts",
@@ -200,357 +124,218 @@
         ]
       ],
       [
-        [
-          "Central Vermont Railway"
-        ],
+        "Central Vermont Railway",
         [
           "/wiki/Central_Vermont_Railway"
         ]
       ],
       [
-        [
-          "Essex Junction , Vermont"
-        ],
+        "Essex Junction , Vermont , Montreal , Quebec",
         [
           "/wiki/Essex_Junction,_Vermont"
         ]
       ],
       [
-        [
-          "1956"
-        ],
-        [
-          null
-        ]
+        "1956",
+        []
       ]
     ],
     [
       [
-        [
-          "Alouette"
-        ],
+        "Alouette",
         [
           "/wiki/Alouette_(train)"
         ]
       ],
       [
-        [
-          "Wells River , Vermont"
-        ],
+        "Wells River , Vermont via Lowell , Massachusetts and Concord , New Hampshire",
         [
           "/wiki/Wells_River,_Vermont"
         ]
       ],
       [
-        [
-          "Canadian Pacific Railway"
-        ],
+        "Canadian Pacific Railway",
         [
           "/wiki/Canadian_Pacific_Railway"
         ]
       ],
       [
-        [
-          "Montreal , Quebec"
-        ],
-        [
-          null
-        ]
+        "Montreal , Quebec",
+        []
       ],
       [
-        [
-          "1965 ( only as unnamed train in final decade )"
-        ],
-        [
-          null
-        ]
+        "1965 ( only as unnamed train in final decade )",
+        []
       ]
     ],
     [
       [
-        [
-          "Connecticut Yankee"
-        ],
+        "Connecticut Yankee",
         [
           "/wiki/Connecticut_Yankee_(train)"
         ]
       ],
       [
-        [
-          "Concord , New Hampshire",
-          "White River Junction , Vermont"
-        ],
+        "Travelling via Concord , New Hampshire , then connecting with main route from New York City at White River Junction , Vermont",
         [
           "/wiki/Concord,_New_Hampshire",
           "/wiki/White_River_Junction,_Vermont"
         ]
       ],
       [
-        [
-          "Central Vermont Railway",
-          "Quebec Central Railway"
-        ],
+        "Central Vermont Railway Quebec Central Railway",
         [
           "/wiki/Central_Vermont_Railway",
           "/wiki/Quebec_Central_Railway"
         ]
       ],
       [
-        [
-          "Quebec City , Quebec",
-          "Sherbrooke , Quebec"
-        ],
+        "Quebec City , Quebec via Sherbrooke , Quebec",
         [
           "/wiki/Quebec_City,_Quebec",
           "/wiki/Sherbrooke,_Quebec"
         ]
       ],
       [
-        [
-          "ca . 1953"
-        ],
-        [
-          null
-        ]
+        "ca . 1953",
+        []
       ]
     ],
     [
       [
-        [
-          "Flying Yankee"
-        ],
+        "Flying Yankee",
         [
           "/wiki/Flying_Yankee"
         ]
       ],
       [
-        [
-          "Portland , Maine",
-          "Dover , New Hampshire"
-        ],
+        "Portland , Maine via Dover , New Hampshire",
         [
           "/wiki/Portland,_Maine",
           "/wiki/Dover,_New_Hampshire"
         ]
       ],
       [
-        [
-          "Maine Central Railroad"
-        ],
+        "Maine Central Railroad",
         [
           "/wiki/Maine_Central_Railroad"
         ]
       ],
       [
-        [
-          "Bangor , Maine"
-        ],
+        "Bangor , Maine",
         [
           "/wiki/Bangor,_Maine"
         ]
       ],
       [
-        [
-          "1957"
-        ],
-        [
-          null
-        ]
+        "1957",
+        []
       ]
     ],
     [
       [
-        [
-          "Kennebec Limited"
-        ],
-        [
-          null
-        ]
+        "Kennebec Limited",
+        []
       ],
       [
-        [
-          "Portland , Maine"
-        ],
-        [
-          null
-        ]
+        "Portland , Maine",
+        []
       ],
       [
-        [
-          "Maine Central Railroad"
-        ],
-        [
-          null
-        ]
+        "Maine Central Railroad",
+        []
       ],
       [
-        [
-          "Vanceboro , Maine"
-        ],
-        [
-          null
-        ]
+        "Vanceboro , Maine",
+        []
       ],
       [
-        [
-          "1958"
-        ],
-        [
-          null
-        ]
+        "1958",
+        []
       ]
     ],
     [
       [
-        [
-          "Mountaineer ( summer only )"
-        ],
-        [
-          null
-        ]
+        "Mountaineer ( summer only )",
+        []
       ],
       [
-        [
-          "Littleton , New Hampshire",
-          "White Mountains"
-        ],
+        "Littleton , New Hampshire via North Conway , and Crawford Notch in the White Mountains",
         [
           "/wiki/Littleton,_New_Hampshire",
           "/wiki/White_Mountains_(New_Hampshire)"
         ]
       ],
       [
-        [
-          "Maine Central Railroad"
-        ],
-        [
-          null
-        ]
+        "Maine Central Railroad",
+        []
       ],
       [
-        [
-          "Intervale , New Hampshire"
-        ],
-        [
-          null
-        ]
+        "Intervale , New Hampshire",
+        []
       ],
       [
-        [
-          "1955"
-        ],
-        [
-          null
-        ]
+        "1955",
+        []
       ]
     ],
     [
       [
-        [
-          "Penobscot"
-        ],
-        [
-          null
-        ]
+        "Penobscot",
+        []
       ],
       [
-        [
-          "Portland , Maine"
-        ],
-        [
-          null
-        ]
+        "Portland , Maine",
+        []
       ],
       [
-        [
-          "Maine Central Railroad"
-        ],
-        [
-          null
-        ]
+        "Maine Central Railroad",
+        []
       ],
       [
-        [
-          "Bangor , Maine"
-        ],
-        [
-          null
-        ]
+        "Bangor , Maine",
+        []
       ],
       [
-        [
-          "1957"
-        ],
-        [
-          null
-        ]
+        "1957",
+        []
       ]
     ],
     [
       [
-        [
-          "Pine Tree Limited"
-        ],
-        [
-          null
-        ]
+        "Pine Tree Limited",
+        []
       ],
       [
-        [
-          "Portland , Maine"
-        ],
-        [
-          null
-        ]
+        "Portland , Maine",
+        []
       ],
       [
-        [
-          "Maine Central Railroad"
-        ],
-        [
-          null
-        ]
+        "Maine Central Railroad",
+        []
       ],
       [
-        [
-          "Bangor , Maine"
-        ],
-        [
-          null
-        ]
+        "Bangor , Maine",
+        []
       ],
       [
-        [
-          "1958"
-        ],
-        [
-          null
-        ]
+        "1958",
+        []
       ]
     ],
     [
       [
-        [
-          "The Gull"
-        ],
+        "The Gull",
         [
           "/wiki/The_Gull"
         ]
       ],
       [
-        [
-          "Portland , Maine"
-        ],
-        [
-          null
-        ]
+        "Portland , Maine",
+        []
       ],
       [
-        [
-          "Maine Central Railroad",
-          "Canadian Pacific Railway",
-          "Canadian National Railway"
-        ],
+        "Maine Central Railroad Canadian Pacific Railway Canadian National Railway",
         [
           "/wiki/Maine_Central_Railroad",
           "/wiki/Canadian_Pacific_Railway",
@@ -558,22 +343,15 @@
         ]
       ],
       [
-        [
-          "Halifax , Nova Scotia",
-          "Saint John , New Brunswick"
-        ],
+        "Halifax , Nova Scotia via Saint John , New Brunswick",
         [
           "/wiki/Halifax,_Nova_Scotia",
           "/wiki/Saint_John,_New_Brunswick"
         ]
       ],
       [
-        [
-          "1960"
-        ],
-        [
-          null
-        ]
+        "1960",
+        []
       ]
     ]
   ],

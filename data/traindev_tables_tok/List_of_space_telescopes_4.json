@@ -3,338 +3,207 @@
   "title": "List of space telescopes",
   "header": [
     [
-      [
-        "Name"
-      ],
-      [
-        null
-      ]
+      "Name",
+      []
     ],
     [
-      [
-        "Space Agency"
-      ],
-      [
-        null
-      ]
+      "Space Agency",
+      []
     ],
     [
-      [
-        "Launch Date"
-      ],
-      [
-        null
-      ]
+      "Launch Date",
+      []
     ],
     [
-      [
-        "Terminated"
-      ],
-      [
-        null
-      ]
+      "Terminated",
+      []
     ],
     [
-      [
-        "Location"
-      ],
-      [
-        null
-      ]
+      "Location",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "IRAS"
-        ],
+        "IRAS",
         [
           "/wiki/IRAS"
         ]
       ],
       [
-        [
-          "NASA"
-        ],
+        "NASA",
         [
           "/wiki/NASA"
         ]
       ],
       [
-        [
-          "25 Jan 1983"
-        ],
-        [
-          null
-        ]
+        "25 Jan 1983",
+        []
       ],
       [
-        [
-          "21 Nov 1983"
-        ],
-        [
-          null
-        ]
+        "21 Nov 1983",
+        []
       ],
       [
-        [
-          "Earth orbit ( 889-903 km )"
-        ],
-        [
-          null
-        ]
+        "Earth orbit ( 889-903 km )",
+        []
       ]
     ],
     [
       [
-        [
-          "Infrared Telescope in Space"
-        ],
+        "Infrared Telescope in Space",
         [
           "/wiki/Infrared_Telescope_in_Space"
         ]
       ],
       [
-        [
-          "ISAS",
-          "NASDA"
-        ],
+        "ISAS & NASDA",
         [
           "/wiki/Institute_of_Space_and_Astronautical_Science",
           "/wiki/National_Space_Development_Agency_of_Japan"
         ]
       ],
       [
-        [
-          "18 Mar 1995"
-        ],
-        [
-          null
-        ]
+        "18 Mar 1995",
+        []
       ],
       [
-        [
-          "25 Apr 1995"
-        ],
-        [
-          null
-        ]
+        "25 Apr 1995",
+        []
       ],
       [
-        [
-          "Earth orbit ( 486 km )"
-        ],
-        [
-          null
-        ]
+        "Earth orbit ( 486 km )",
+        []
       ]
     ],
     [
       [
-        [
-          "Infrared Space Observatory"
-        ],
+        "Infrared Space Observatory ( ISO )",
         [
           "/wiki/Infrared_Space_Observatory"
         ]
       ],
       [
-        [
-          "ESA"
-        ],
+        "ESA",
         [
           "/wiki/ESA"
         ]
       ],
       [
-        [
-          "17 Nov 1995"
-        ],
-        [
-          null
-        ]
+        "17 Nov 1995",
+        []
       ],
       [
-        [
-          "16 May 1998"
-        ],
-        [
-          null
-        ]
+        "16 May 1998",
+        []
       ],
       [
-        [
-          "Earth orbit ( 1000-70500 km )"
-        ],
-        [
-          null
-        ]
+        "Earth orbit ( 1000-70500 km )",
+        []
       ]
     ],
     [
       [
-        [
-          "Midcourse Space Experiment"
-        ],
+        "Midcourse Space Experiment ( MSX )",
         [
           "/wiki/Midcourse_Space_Experiment"
         ]
       ],
       [
-        [
-          "USN"
-        ],
+        "USN",
         [
           "/wiki/United_States_Navy"
         ]
       ],
       [
-        [
-          "24 Apr 1996"
-        ],
-        [
-          null
-        ]
+        "24 Apr 1996",
+        []
       ],
       [
-        [
-          "26 Feb 1997"
-        ],
-        [
-          null
-        ]
+        "26 Feb 1997",
+        []
       ],
       [
-        [
-          "Earth orbit ( 900 km )"
-        ],
-        [
-          null
-        ]
+        "Earth orbit ( 900 km )",
+        []
       ]
     ],
     [
       [
-        [
-          "Submillimeter Wave Astronomy Satellite"
-        ],
+        "Submillimeter Wave Astronomy Satellite ( SWAS )",
         [
           "/wiki/Submillimeter_Wave_Astronomy_Satellite"
         ]
       ],
       [
-        [
-          "NASA"
-        ],
+        "NASA",
         [
           "/wiki/NASA"
         ]
       ],
       [
-        [
-          "6 Dec 1998"
-        ],
-        [
-          null
-        ]
+        "6 Dec 1998",
+        []
       ],
       [
-        [
-          "Last used in 2005"
-        ],
-        [
-          null
-        ]
+        "Last used in 2005",
+        []
       ],
       [
-        [
-          "Earth orbit ( 638-651 km )"
-        ],
-        [
-          null
-        ]
+        "Earth orbit ( 638-651 km )",
+        []
       ]
     ],
     [
       [
-        [
-          "Wide Field Infrared Explorer"
-        ],
+        "Wide Field Infrared Explorer ( WIRE )",
         [
           "/wiki/Wide_Field_Infrared_Explorer"
         ]
       ],
       [
-        [
-          "NASA"
-        ],
+        "NASA",
         [
           "/wiki/NASA"
         ]
       ],
       [
-        [
-          "5 Mar 1999"
-        ],
-        [
-          null
-        ]
+        "5 Mar 1999",
+        []
       ],
       [
-        [
-          "no observations"
-        ],
-        [
-          null
-        ]
+        "no observations",
+        []
       ],
       [
-        [
-          "Re-entered May 10 , 2011"
-        ],
-        [
-          null
-        ]
+        "Re-entered May 10 , 2011",
+        []
       ]
     ],
     [
       [
-        [
-          "Spitzer Space Telescope"
-        ],
+        "Spitzer Space Telescope",
         [
           "/wiki/Spitzer_Space_Telescope"
         ]
       ],
       [
-        [
-          "NASA"
-        ],
+        "NASA",
         [
           "/wiki/NASA"
         ]
       ],
       [
-        [
-          "25 Aug 2003"
-        ],
-        [
-          null
-        ]
+        "25 Aug 2003",
+        []
       ],
       [
-        [
-          "30 Jan 2020"
-        ],
-        [
-          null
-        ]
+        "30 Jan 2020",
+        []
       ],
       [
-        [
-          "AU"
-        ],
+        "Solar orbit ( 0.98-1.02 AU )",
         [
           "/wiki/Astronomical_unit"
         ]
@@ -342,87 +211,54 @@
     ],
     [
       [
-        [
-          "Akari"
-        ],
+        "Akari ( Astro-F )",
         [
           "/wiki/Akari_(satellite)"
         ]
       ],
       [
-        [
-          "JAXA"
-        ],
+        "JAXA",
         [
           "/wiki/JAXA"
         ]
       ],
       [
-        [
-          "21 Feb 2006"
-        ],
-        [
-          null
-        ]
+        "21 Feb 2006",
+        []
       ],
       [
-        [
-          "24 Nov 2011"
-        ],
-        [
-          null
-        ]
+        "24 Nov 2011",
+        []
       ],
       [
-        [
-          "Earth orbit ( 586.47-610.44 km )"
-        ],
-        [
-          null
-        ]
+        "Earth orbit ( 586.47-610.44 km )",
+        []
       ]
     ],
     [
       [
-        [
-          "Herschel Space Observatory"
-        ],
+        "Herschel Space Observatory",
         [
           "/wiki/Herschel_Space_Observatory"
         ]
       ],
       [
-        [
-          "ESA",
-          "NASA"
-        ],
+        "ESA & NASA",
         [
           "/wiki/ESA",
           "/wiki/NASA"
         ]
       ],
       [
-        [
-          "14 May 2009"
-        ],
-        [
-          null
-        ]
+        "14 May 2009",
+        []
       ],
       [
-        [
-          "29 Apr 2013"
-        ],
-        [
-          null
-        ]
+        "29 Apr 2013",
+        []
       ],
       [
-        [
-          "Sun",
-          "Earth",
-          "L 2 Lagrange point"
-        ],
+        "Sun - Earth L 2 Lagrange point",
         [
           "/wiki/Sun",
           "/wiki/Earth",
@@ -432,41 +268,27 @@
     ],
     [
       [
-        [
-          "Wide-field Infrared Survey Explorer"
-        ],
+        "Wide-field Infrared Survey Explorer ( WISE )",
         [
           "/wiki/Wide-field_Infrared_Survey_Explorer"
         ]
       ],
       [
-        [
-          "NASA"
-        ],
+        "NASA",
         [
           "/wiki/NASA"
         ]
       ],
       [
-        [
-          "14 Dec 2009"
-        ],
-        [
-          null
-        ]
+        "14 Dec 2009",
+        []
       ],
       [
-        [
-          "( hibernation Feb 2011 - Aug 2013 )"
-        ],
-        [
-          null
-        ]
+        "( hibernation Feb 2011 - Aug 2013 )",
+        []
       ],
       [
-        [
-          "Earth orbit"
-        ],
+        "Earth orbit ( 500 km )",
         [
           "/wiki/Earth_orbit"
         ]

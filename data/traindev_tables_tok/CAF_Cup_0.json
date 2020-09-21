@@ -3,78 +3,44 @@
   "title": "CAF Cup",
   "header": [
     [
-      [
-        "Team"
-      ],
-      [
-        null
-      ]
+      "Team",
+      []
     ],
     [
-      [
-        "Winners"
-      ],
-      [
-        null
-      ]
+      "Winners",
+      []
     ],
     [
-      [
-        "Runners-up"
-      ],
-      [
-        null
-      ]
+      "Runners-up",
+      []
     ],
     [
-      [
-        "Years won"
-      ],
-      [
-        null
-      ]
+      "Years won",
+      []
     ],
     [
-      [
-        "Years runners-up"
-      ],
-      [
-        null
-      ]
+      "Years runners-up",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "JS Kabylie"
-        ],
+        "JS Kabylie",
         [
           "/wiki/JS_Kabylie"
         ]
       ],
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "2000",
-          "2001",
-          "2002"
-        ],
+        "2000 , 2001 , 2002",
         [
           "/wiki/2000_CAF_Cup",
           "/wiki/2001_CAF_Cup",
@@ -82,54 +48,34 @@
         ]
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ]
     ],
     [
       [
-        [
-          "\u00c9toile du Sahel"
-        ],
+        "\u00c9toile du Sahel",
         [
           "/wiki/\u00c9toile_Sportive_du_Sahel"
         ]
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "1995",
-          "1999"
-        ],
+        "1995 , 1999",
         [
           "/wiki/1995_CAF_Cup",
           "/wiki/1999_CAF_Cup"
         ]
       ],
       [
-        [
-          "1996",
-          "2001"
-        ],
+        "1996 , 2001",
         [
           "/wiki/1996_CAF_Cup",
           "/wiki/2001_CAF_Cup"
@@ -138,335 +84,207 @@
     ],
     [
       [
-        [
-          "Shooting Stars"
-        ],
+        "Shooting Stars",
         [
           "/wiki/Shooting_Stars_F.C."
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "1992"
-        ],
+        "1992",
         [
           "/wiki/1992_CAF_Cup"
         ]
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ]
     ],
     [
       [
-        [
-          "Stella Club d'Adjam\u00e9"
-        ],
+        "Stella Club d'Adjam\u00e9",
         [
           "/wiki/Stella_Club_d'Adjam\u00e9"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "1993"
-        ],
+        "1993",
         [
           "/wiki/1993_CAF_Cup"
         ]
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ]
     ],
     [
       [
-        [
-          "Bendel Insurance"
-        ],
+        "Bendel Insurance",
         [
           "/wiki/Bendel_Insurance_F.C."
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "1994"
-        ],
+        "1994",
         [
           "/wiki/1994_CAF_Cup"
         ]
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ]
     ],
     [
       [
-        [
-          "Kawkab Marrakech"
-        ],
+        "Kawkab Marrakech",
         [
           "/wiki/Kawkab_Marrakech"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "1996"
-        ],
+        "1996",
         [
           "/wiki/1996_CAF_Cup"
         ]
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ]
     ],
     [
       [
-        [
-          "Esp\u00e9rance"
-        ],
+        "Esp\u00e9rance",
         [
           "/wiki/Esp\u00e9rance_Sportive_de_Tunis"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "1997"
-        ],
+        "1997",
         [
           "/wiki/1997_CAF_Cup"
         ]
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ]
     ],
     [
       [
-        [
-          "CS Sfaxien"
-        ],
+        "CS Sfaxien",
         [
           "/wiki/CS_Sfaxien"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "1998"
-        ],
+        "1998",
         [
           "/wiki/1998_CAF_Cup"
         ]
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ]
     ],
     [
       [
-        [
-          "Raja Casablanca"
-        ],
+        "Raja Casablanca",
         [
           "/wiki/Raja_Casablanca"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "2003"
-        ],
+        "2003",
         [
           "/wiki/2003_CAF_Cup"
         ]
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ]
     ],
     [
       [
-        [
-          "Villa SC"
-        ],
+        "Villa SC",
         [
           "/wiki/Villa_SC"
         ]
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "1992"
-        ],
+        "1992",
         [
           "/wiki/1992_CAF_Cup"
         ]
@@ -474,41 +292,25 @@
     ],
     [
       [
-        [
-          "Simba SC"
-        ],
+        "Simba SC",
         [
           "/wiki/Simba_SC"
         ]
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "1993"
-        ],
+        "1993",
         [
           "/wiki/1993_CAF_Cup"
         ]
@@ -516,41 +318,25 @@
     ],
     [
       [
-        [
-          "Primeiro de Maio"
-        ],
+        "Primeiro de Maio",
         [
           "/wiki/Estrela_Clube_Primeiro_de_Maio"
         ]
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "1994"
-        ],
+        "1994",
         [
           "/wiki/1994_CAF_Cup"
         ]
@@ -558,41 +344,25 @@
     ],
     [
       [
-        [
-          "AS Kaloum Star"
-        ],
+        "AS Kaloum Star",
         [
           "/wiki/AS_Kaloum_Star"
         ]
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "1995"
-        ],
+        "1995",
         [
           "/wiki/1995_CAF_Cup"
         ]
@@ -600,41 +370,25 @@
     ],
     [
       [
-        [
-          "Petro de Luanda"
-        ],
+        "Petro de Luanda",
         [
           "/wiki/Atl\u00e9tico_Petr\u00f3leos_de_Luanda"
         ]
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "1997"
-        ],
+        "1997",
         [
           "/wiki/1997_CAF_Cup"
         ]
@@ -642,41 +396,25 @@
     ],
     [
       [
-        [
-          "ASC Jeanne d'Arc"
-        ],
+        "ASC Jeanne d'Arc",
         [
           "/wiki/ASC_Jeanne_d'Arc"
         ]
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "1998"
-        ],
+        "1998",
         [
           "/wiki/1998_CAF_Cup"
         ]
@@ -684,41 +422,25 @@
     ],
     [
       [
-        [
-          "Wydad Casablanca"
-        ],
+        "Wydad Casablanca",
         [
           "/wiki/Wydad_Casablanca"
         ]
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "1999"
-        ],
+        "1999",
         [
           "/wiki/1998_CAF_Cup"
         ]
@@ -726,41 +448,25 @@
     ],
     [
       [
-        [
-          "Ismaily"
-        ],
+        "Ismaily",
         [
           "/wiki/Ismaily"
         ]
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "2000"
-        ],
+        "2000",
         [
           "/wiki/2000_CAF_Cup"
         ]
@@ -768,41 +474,25 @@
     ],
     [
       [
-        [
-          "Tonnerre Yaound\u00e9"
-        ],
+        "Tonnerre Yaound\u00e9",
         [
           "/wiki/Tonnerre_Yaound\u00e9"
         ]
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "2002"
-        ],
+        "2002",
         [
           "/wiki/2002_CAF_Cup"
         ]
@@ -810,41 +500,25 @@
     ],
     [
       [
-        [
-          "Cotonsport Garoua"
-        ],
+        "Cotonsport Garoua",
         [
           "/wiki/Cotonsport_Garoua"
         ]
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "2003"
-        ],
+        "2003",
         [
           "/wiki/2003_CAF_Cup"
         ]

@@ -3,68 +3,44 @@
   "title": "List of Thai ingredients",
   "header": [
     [
-      [
-        "Thai name"
-      ],
+      "Thai name",
       [
         "/wiki/Royal_Thai_General_System_of_Transcription"
       ]
     ],
     [
-      [
-        "Thai script"
-      ],
+      "Thai script",
       [
         "/wiki/Thai_script"
       ]
     ],
     [
-      [
-        "English name"
-      ],
-      [
-        null
-      ]
+      "English name",
+      []
     ],
     [
-      [
-        "Description and use"
-      ],
-      [
-        null
-      ]
+      "Description and use",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Bai po"
-        ],
-        [
-          null
-        ]
+        "Bai po",
+        []
       ],
       [
-        [
-          "\u0e43\u0e1a\u0e1b\u0e2d"
-        ],
-        [
-          null
-        ]
+        "\u0e43\u0e1a\u0e1b\u0e2d",
+        []
       ],
       [
-        [
-          "Corchorus"
-        ],
+        "Corchorus olitorius ( Jute )",
         [
           "/wiki/Corchorus"
         ]
       ],
       [
-        [
-          "samphire"
-        ],
+        "The leaves are eaten blanched as a dish with khao tom kui ( plain rice congee ) . The taste resembles that of spinach and samphire",
         [
           "/wiki/Salicornia"
         ]
@@ -72,33 +48,21 @@
     ],
     [
       [
-        [
-          "Bai yo"
-        ],
-        [
-          null
-        ]
+        "Bai yo",
+        []
       ],
       [
-        [
-          "\u0e43\u0e1a\u0e22\u0e2d"
-        ],
-        [
-          null
-        ]
+        "\u0e43\u0e1a\u0e22\u0e2d",
+        []
       ],
       [
-        [
-          "Noni"
-        ],
+        "Noni leaves",
         [
           "/wiki/Noni"
         ]
       ],
       [
-        [
-          "coconut milk"
-        ],
+        "Leaves are cooked with coconut milk in kaeng bai yo",
         [
           "/wiki/Coconut_milk"
         ]
@@ -106,101 +70,61 @@
     ],
     [
       [
-        [
-          "Buap hom"
-        ],
-        [
-          null
-        ]
+        "Buap hom",
+        []
       ],
       [
-        [
-          "\u0e1a\u0e27\u0e1a\u0e2b\u0e2d\u0e21"
-        ],
-        [
-          null
-        ]
+        "\u0e1a\u0e27\u0e1a\u0e2b\u0e2d\u0e21",
+        []
       ],
       [
-        [
-          "Luffa aegyptiaca"
-        ],
+        "Luffa aegyptiaca",
         [
           "/wiki/Luffa_aegyptiaca"
         ]
       ],
       [
-        [
-          "Used in stir-fries , in curries and in Kaeng type soups"
-        ],
-        [
-          null
-        ]
+        "Used in stir-fries , in curries and in Kaeng type soups",
+        []
       ]
     ],
     [
       [
-        [
-          "Buap liam"
-        ],
-        [
-          null
-        ]
+        "Buap liam",
+        []
       ],
       [
-        [
-          "\u0e1a\u0e27\u0e1a\u0e40\u0e2b\u0e25\u0e35\u0e48\u0e22\u0e21"
-        ],
-        [
-          null
-        ]
+        "\u0e1a\u0e27\u0e1a\u0e40\u0e2b\u0e25\u0e35\u0e48\u0e22\u0e21",
+        []
       ],
       [
-        [
-          "Luffa acutangula"
-        ],
+        "Luffa acutangula",
         [
           "/wiki/Luffa_acutangula"
         ]
       ],
       [
-        [
-          "Used in stir-fries and in Kaeng type soups"
-        ],
-        [
-          null
-        ]
+        "Used in stir-fries and in Kaeng type soups",
+        []
       ]
     ],
     [
       [
-        [
-          "Chaphlu"
-        ],
-        [
-          null
-        ]
+        "Chaphlu",
+        []
       ],
       [
-        [
-          "\u0e0a\u0e30\u0e1e\u0e25\u0e39"
-        ],
-        [
-          null
-        ]
+        "\u0e0a\u0e30\u0e1e\u0e25\u0e39",
+        []
       ],
       [
-        [
-          "Piper sarmentosum"
-        ],
+        "Piper sarmentosum",
         [
           "/wiki/Piper_sarmentosum"
         ]
       ],
       [
-        [
-          "Miang kham"
-        ],
+        "This leaf is used raw as a wrapper for the Thai dish Miang kham",
         [
           "/wiki/Miang_kham"
         ]
@@ -208,68 +132,41 @@
     ],
     [
       [
-        [
-          "Fak thong"
-        ],
-        [
-          null
-        ]
+        "Fak thong",
+        []
       ],
       [
-        [
-          "\u0e1f\u0e31\u0e01\u0e17\u0e2d\u0e07"
-        ],
-        [
-          null
-        ]
+        "\u0e1f\u0e31\u0e01\u0e17\u0e2d\u0e07",
+        []
       ],
       [
-        [
-          "Kabocha"
-        ],
+        "Kabocha",
         [
           "/wiki/Kabocha"
         ]
       ],
       [
-        [
-          "Used in curries , stir-fries , soups , salads and sweets"
-        ],
-        [
-          null
-        ]
+        "Used in curries , stir-fries , soups , salads and sweets",
+        []
       ]
     ],
     [
       [
-        [
-          "Hom daeng"
-        ],
-        [
-          null
-        ]
+        "Hom daeng",
+        []
       ],
       [
-        [
-          "\u0e2b\u0e2d\u0e21\u0e41\u0e14\u0e07"
-        ],
-        [
-          null
-        ]
+        "\u0e2b\u0e2d\u0e21\u0e41\u0e14\u0e07",
+        []
       ],
       [
-        [
-          "Shallot"
-        ],
+        "Shallot",
         [
           "/wiki/Shallot"
         ]
       ],
       [
-        [
-          "onions",
-          "khao soi"
-        ],
+        "Shallots , not onions , are essential for Thai cuisine . They are used for making Thai curry pastes , salads , and certain condiments and pickles . They are also served raw on the side with certain dishes such as khao soi",
         [
           "/wiki/Onion",
           "/wiki/Khao_soi"
@@ -278,35 +175,21 @@
     ],
     [
       [
-        [
-          "Kalam pli"
-        ],
-        [
-          null
-        ]
+        "Kalam pli",
+        []
       ],
       [
-        [
-          "\u0e01\u0e30\u0e2b\u0e25\u0e48\u0e33\u0e1b\u0e25\u0e35"
-        ],
-        [
-          null
-        ]
+        "\u0e01\u0e30\u0e2b\u0e25\u0e48\u0e33\u0e1b\u0e25\u0e35",
+        []
       ],
       [
-        [
-          "White cabbage"
-        ],
+        "White cabbage",
         [
           "/wiki/White_cabbage"
         ]
       ],
       [
-        [
-          "som tam",
-          "lap",
-          "nam phrik"
-        ],
+        "In Thai cuisine , cabbage is often served raw on the side with Thai salads such as som tam or lap , steamed or raw with nam phrik , or boiled in soups and curries",
         [
           "/wiki/Papaya_salad",
           "/wiki/Larb",
@@ -316,33 +199,19 @@
     ],
     [
       [
-        [
-          "Khanaeng"
-        ],
-        [
-          null
-        ]
+        "Khanaeng",
+        []
       ],
       [
-        [
-          "\u0e41\u0e02\u0e19\u0e07"
-        ],
-        [
-          null
-        ]
+        "\u0e41\u0e02\u0e19\u0e07",
+        []
       ],
       [
-        [
-          "Cabbage sprouts"
-        ],
-        [
-          null
-        ]
+        "Cabbage sprouts",
+        []
       ],
       [
-        [
-          "brussels sprouts"
-        ],
+        "The sprouts that come up from the roots after the main cabbage has been harvested , are simply called khanaeng , meaning sprouts , or khanaeng kalam pli , cabbage sprouts . They resemble and taste somewhat like brussels sprouts . It is often eaten stir-fried with , for instance , pork",
         [
           "/wiki/Brussels_sprouts"
         ]
@@ -350,67 +219,41 @@
     ],
     [
       [
-        [
-          "Khilek"
-        ],
-        [
-          null
-        ]
+        "Khilek",
+        []
       ],
       [
-        [
-          "\u0e02\u0e35\u0e49\u0e40\u0e2b\u0e25\u0e47\u0e01"
-        ],
-        [
-          null
-        ]
+        "\u0e02\u0e35\u0e49\u0e40\u0e2b\u0e25\u0e47\u0e01",
+        []
       ],
       [
-        [
-          "Senna siamea"
-        ],
+        "Senna siamea",
         [
           "/wiki/Senna_siamea"
         ]
       ],
       [
-        [
-          "The leaves , tender pods and seeds are edible , but they must be previously boiled and the water discarded . One of the most well-known preparations is Kaeng khilek ( \u0e41\u0e01\u0e07\u0e02\u0e35\u0e49\u0e40\u0e2b\u0e25\u0e47\u0e01 )"
-        ],
-        [
-          null
-        ]
+        "The leaves , tender pods and seeds are edible , but they must be previously boiled and the water discarded . One of the most well-known preparations is Kaeng khilek ( \u0e41\u0e01\u0e07\u0e02\u0e35\u0e49\u0e40\u0e2b\u0e25\u0e47\u0e01 )",
+        []
       ]
     ],
     [
       [
-        [
-          "Krachiap"
-        ],
-        [
-          null
-        ]
+        "Krachiap",
+        []
       ],
       [
-        [
-          "\u0e01\u0e23\u0e30\u0e40\u0e08\u0e35\u0e4a\u0e22\u0e1a"
-        ],
-        [
-          null
-        ]
+        "\u0e01\u0e23\u0e30\u0e40\u0e08\u0e35\u0e4a\u0e22\u0e1a",
+        []
       ],
       [
-        [
-          "Okra"
-        ],
+        "Okra",
         [
           "/wiki/Okra"
         ]
       ],
       [
-        [
-          "Nam phrik"
-        ],
+        "It is usually served blanched or raw together with a Nam phrik ( chilli dip ) , but it may be also served slightly barbecued or used in curries and stir-fried dishes",
         [
           "/wiki/Nam_phrik"
         ]
@@ -418,33 +261,21 @@
     ],
     [
       [
-        [
-          "Makhuea phuang"
-        ],
-        [
-          null
-        ]
+        "Makhuea phuang",
+        []
       ],
       [
-        [
-          "\u0e21\u0e30\u0e40\u0e02\u0e37\u0e2d\u0e1e\u0e27\u0e07"
-        ],
-        [
-          null
-        ]
+        "\u0e21\u0e30\u0e40\u0e02\u0e37\u0e2d\u0e1e\u0e27\u0e07",
+        []
       ],
       [
-        [
-          "Pea eggplant"
-        ],
+        "Pea eggplant",
         [
           "/wiki/Solanum_torvum"
         ]
       ],
       [
-        [
-          "shrimp paste"
-        ],
+        "This pea sized eggplant is often used in curries and is indispensable in Nam phrik kapi , a chilli dip containing shrimp paste , where it is used raw",
         [
           "/wiki/Shrimp_paste"
         ]
@@ -452,33 +283,21 @@
     ],
     [
       [
-        [
-          "Makhuea pro"
-        ],
-        [
-          null
-        ]
+        "Makhuea pro",
+        []
       ],
       [
-        [
-          "\u0e21\u0e30\u0e40\u0e02\u0e37\u0e2d\u0e40\u0e1b\u0e23\u0e32\u0e30"
-        ],
-        [
-          null
-        ]
+        "\u0e21\u0e30\u0e40\u0e02\u0e37\u0e2d\u0e40\u0e1b\u0e23\u0e32\u0e30",
+        []
       ],
       [
-        [
-          "Thai eggplant"
-        ],
+        "Thai eggplant",
         [
           "/wiki/Thai_eggplant"
         ]
       ],
       [
-        [
-          "ping pong"
-        ],
+        "About the size of a ping pong ball , these eggplants are used in curries or stir-fries , but they are also eaten raw with Nam phrik ( Chilli dips )",
         [
           "/wiki/Ping_pong"
         ]
@@ -486,33 +305,21 @@
     ],
     [
       [
-        [
-          "Makhuea thet"
-        ],
-        [
-          null
-        ]
+        "Makhuea thet",
+        []
       ],
       [
-        [
-          "\u0e21\u0e30\u0e40\u0e02\u0e37\u0e2d\u0e40\u0e17\u0e28"
-        ],
-        [
-          null
-        ]
+        "\u0e21\u0e30\u0e40\u0e02\u0e37\u0e2d\u0e40\u0e17\u0e28",
+        []
       ],
       [
-        [
-          "Tomato"
-        ],
+        "Tomato",
         [
           "/wiki/Tomato"
         ]
       ],
       [
-        [
-          "Som tam"
-        ],
+        "Literally meaning foreign eggplant , it is used in salad such as Som tam , as an ingredient in stir-fries such as in Thai fried rice , but also cooked to a thick sauce as in the chilli paste Nam phrik ong",
         [
           "/wiki/Som_tam"
         ]
@@ -520,33 +327,21 @@
     ],
     [
       [
-        [
-          "Mara"
-        ],
-        [
-          null
-        ]
+        "Mara",
+        []
       ],
       [
-        [
-          "\u0e21\u0e30\u0e23\u0e30"
-        ],
-        [
-          null
-        ]
+        "\u0e21\u0e30\u0e23\u0e30",
+        []
       ],
       [
-        [
-          "Bitter melon"
-        ],
+        "Bitter melon or bitter gourd",
         [
           "/wiki/Bitter_melon"
         ]
       ],
       [
-        [
-          "Thai"
-        ],
+        "The small variety is most often eaten raw with Nam phrik . Popular is Tom chuet mara ( Thai : \u0e15\u0e49\u0e21\u0e08\u0e37\u0e14\u0e21\u0e30\u0e23\u0e30 ) : bitter gourd in a clear broth , often stuffed with minced pork",
         [
           "/wiki/Thai_language"
         ]
@@ -554,136 +349,81 @@
     ],
     [
       [
-        [
-          "Marum"
-        ],
-        [
-          null
-        ]
+        "Marum",
+        []
       ],
       [
-        [
-          "\u0e21\u0e30\u0e23\u0e38\u0e21"
-        ],
-        [
-          null
-        ]
+        "\u0e21\u0e30\u0e23\u0e38\u0e21",
+        []
       ],
       [
-        [
-          "Drumstick"
-        ],
+        "Drumstick",
         [
           "/wiki/Moringa_oleifera"
         ]
       ],
       [
-        [
-          "Most parts of the tree are edible : the long pods , the leaves , the flowers and the roots . Used in curries , stir-fries , soups , omelets , salads and also medicinal preparations"
-        ],
-        [
-          null
-        ]
+        "Most parts of the tree are edible : the long pods , the leaves , the flowers and the roots . Used in curries , stir-fries , soups , omelets , salads and also medicinal preparations",
+        []
       ]
     ],
     [
       [
-        [
-          "No mai"
-        ],
-        [
-          null
-        ]
+        "No mai",
+        []
       ],
       [
-        [
-          "\u0e2b\u0e19\u0e48\u0e2d\u0e44\u0e21\u0e49"
-        ],
-        [
-          null
-        ]
+        "\u0e2b\u0e19\u0e48\u0e2d\u0e44\u0e21\u0e49",
+        []
       ],
       [
-        [
-          "Bamboo shoot"
-        ],
+        "Bamboo shoot",
         [
           "/wiki/Bamboo_shoot"
         ]
       ],
       [
-        [
-          "Used in stir-fried dishes and Thai curries"
-        ],
-        [
-          null
-        ]
+        "Used in stir-fried dishes and Thai curries",
+        []
       ]
     ],
     [
       [
-        [
-          "No mai farang"
-        ],
-        [
-          null
-        ]
+        "No mai farang",
+        []
       ],
       [
-        [
-          "\u0e2b\u0e19\u0e48\u0e2d\u0e44\u0e21\u0e49\u0e1d\u0e23\u0e31\u0e48\u0e07"
-        ],
-        [
-          null
-        ]
+        "\u0e2b\u0e19\u0e48\u0e2d\u0e44\u0e21\u0e49\u0e1d\u0e23\u0e31\u0e48\u0e07",
+        []
       ],
       [
-        [
-          "asparagus"
-        ],
+        "Green asparagus",
         [
           "/wiki/Asparagus"
         ]
       ],
       [
-        [
-          "Literally meaning European bamboo shoot , green asparagus is used mainly in vegetable stir-fries"
-        ],
-        [
-          null
-        ]
+        "Literally meaning European bamboo shoot , green asparagus is used mainly in vegetable stir-fries",
+        []
       ]
     ],
     [
       [
-        [
-          "Phak bung"
-        ],
-        [
-          null
-        ]
+        "Phak bung",
+        []
       ],
       [
-        [
-          "\u0e1c\u0e31\u0e01\u0e1a\u0e38\u0e49\u0e07"
-        ],
-        [
-          null
-        ]
+        "\u0e1c\u0e31\u0e01\u0e1a\u0e38\u0e49\u0e07",
+        []
       ],
       [
-        [
-          "Morning-glory or water spinach"
-        ],
+        "Morning-glory or water spinach",
         [
           "/wiki/Ipomoea_aquatica"
         ]
       ],
       [
-        [
-          "Som tam",
-          "Nam phrik"
-        ],
+        "The large variety ( Phak bung chin ) is mostly eaten stir-fried or in soup . The small variety ( Phak bung na ) is generally served raw with Som tam or with Nam phrik",
         [
           "/wiki/Som_tam",
           "/wiki/Nam_phrik"
@@ -692,33 +432,21 @@
     ],
     [
       [
-        [
-          "Phak chi lom"
-        ],
-        [
-          null
-        ]
+        "Phak chi lom",
+        []
       ],
       [
-        [
-          "\u0e1c\u0e31\u0e01\u0e0a\u0e35\u0e25\u0e49\u0e2d\u0e21"
-        ],
-        [
-          null
-        ]
+        "\u0e1c\u0e31\u0e01\u0e0a\u0e35\u0e25\u0e49\u0e2d\u0e21",
+        []
       ],
       [
-        [
-          "Oenanthe javanica"
-        ],
+        "Oenanthe javanica",
         [
           "/wiki/Oenanthe_javanica"
         ]
       ],
       [
-        [
-          "Trachyspermum roxburghianum"
-        ],
+        "Eaten in soups , curries , stir-fries and also raw . This is one of the vegetables known as Phak chi lom , the other is Trachyspermum roxburghianum",
         [
           "/wiki/Trachyspermum_roxburghianum"
         ]

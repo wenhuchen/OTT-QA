@@ -3,64 +3,32 @@
   "title": "Comparison of version-control software",
   "header": [
     [
-      [
-        "Software"
-      ],
-      [
-        null
-      ]
+      "Software",
+      []
     ],
     [
-      [
-        "History"
-      ],
-      [
-        null
-      ]
+      "History",
+      []
     ],
     [
-      [
-        "Notable users"
-      ],
-      [
-        null
-      ]
+      "Notable users",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "AccuRev SCM"
-        ],
+        "AccuRev SCM",
         [
           "/wiki/AccuRev_SCM"
         ]
       ],
       [
-        [
-          "First publicly released in 2002"
-        ],
-        [
-          null
-        ]
+        "First publicly released in 2002",
+        []
       ],
       [
-        [
-          "American Airlines",
-          "Ford",
-          "Lockheed Martin",
-          "Orbitz",
-          "Xerox",
-          "McAfee",
-          "Polycom",
-          "SanDisk",
-          "Siemens",
-          "Sony",
-          "Symantec",
-          "Thomson Financial",
-          "Verizon Wireless"
-        ],
+        "American Airlines , Ford , Lockheed Martin , Orbitz , Xerox , McAfee , Polycom , SanDisk , Siemens , Sony , Symantec , Thomson Financial , Verizon Wireless and many others",
         [
           "/wiki/American_Airlines",
           "/wiki/Ford_Motor_Company",
@@ -80,25 +48,17 @@
     ],
     [
       [
-        [
-          "Azure DevOps Server"
-        ],
+        "Azure DevOps Server",
         [
           "/wiki/Team_Foundation_Server"
         ]
       ],
       [
-        [
-          "First publicly released in March , 2006 as Visual Studio Team System , renamed to Team Foundation Server in 2010 and Azure DevOps Server in 2019"
-        ],
-        [
-          null
-        ]
+        "First publicly released in March , 2006 as Visual Studio Team System , renamed to Team Foundation Server in 2010 and Azure DevOps Server in 2019",
+        []
       ],
       [
-        [
-          "Microsoft"
-        ],
+        "Microsoft",
         [
           "/wiki/Microsoft"
         ]
@@ -106,142 +66,91 @@
     ],
     [
       [
-        [
-          "Azure DevOps Services"
-        ],
+        "Azure DevOps Services",
         [
           "/wiki/Visual_Studio_Team_Services"
         ]
       ],
       [
-        [
-          "First publicly released in 2012 as Team Foundation Service , renamed to Visual Studio Online in 2013 , Visual Studio Team Services in 2015 and Azure DevOps in 2018"
-        ],
-        [
-          null
-        ]
+        "First publicly released in 2012 as Team Foundation Service , renamed to Visual Studio Online in 2013 , Visual Studio Team Services in 2015 and Azure DevOps in 2018",
+        []
       ],
       [
-        [
-          "Microsoft"
-        ],
-        [
-          null
-        ]
+        "Microsoft",
+        []
       ]
     ],
     [
       [
-        [
-          "GNU Bazaar"
-        ],
+        "GNU Bazaar",
         [
           "/wiki/GNU_Bazaar"
         ]
       ],
       [
-        [
-          "baz",
-          "Canonical Ltd"
-        ],
+        "Initial release March 26 , 2005 . Loosely related to baz . Sponsored by Canonical Ltd .",
         [
           "/wiki/Baz_(software)",
           "/wiki/Canonical_Ltd."
         ]
       ],
       [
-        [
-          "Ubuntu",
-          "Launchpad",
-          "KatchTV"
-        ],
+        "Ubuntu , Launchpad , KatchTV ,",
         [
           "/wiki/Ubuntu_(operating_system)",
-          "/wiki/Launchpad_(website)",
-          null
+          "/wiki/Launchpad_(website)"
         ]
       ]
     ],
     [
       [
-        [
-          "BitKeeper"
-        ],
+        "BitKeeper",
         [
           "/wiki/BitKeeper"
         ]
       ],
       [
-        [
-          "Sun WorkShop TeamWare"
-        ],
+        "Initial release May 4 , 2000 . Influenced by Sun WorkShop TeamWare",
         [
           "/wiki/Sun_WorkShop_TeamWare"
         ]
       ],
       [
-        [
-          "Linux Kernel ( 2002-2005 ) and many companies"
-        ],
-        [
-          null
-        ]
+        "Linux Kernel ( 2002-2005 ) and many companies",
+        []
       ]
     ],
     [
       [
-        [
-          "CA Software Change Manager"
-        ],
+        "CA Software Change Manager",
         [
           "/wiki/CA_Harvest_Software_Change_Manager"
         ]
       ],
       [
-        [
-          "Original company founded in 1977 ; CA SCM ( then called CCC/Harvest ) first released in 1995"
-        ],
-        [
-          null
-        ]
+        "Original company founded in 1977 ; CA SCM ( then called CCC/Harvest ) first released in 1995",
+        []
       ],
       [
-        [
-          "CA does not disclose customer lists without the companies ' permission . CA SCM is used by companies with global development teams including 13 of the Fortune 100"
-        ],
-        [
-          null
-        ]
+        "CA does not disclose customer lists without the companies ' permission . CA SCM is used by companies with global development teams including 13 of the Fortune 100",
+        []
       ]
     ],
     [
       [
-        [
-          "ClearCase"
-        ],
+        "ClearCase",
         [
           "/wiki/Rational_ClearCase"
         ]
       ],
       [
-        [
-          "Apollo Computer"
-        ],
+        "Developed beginning in 1990 by Atria Software , following concepts developed by Apollo Computer in DSEE during the 1980s . The most recent version is 9.0.0 , released in March 2016",
         [
           "/wiki/Apollo_Computer"
         ]
       ],
       [
-        [
-          "IBM",
-          "Alcatel-Lucent",
-          "Cisco",
-          "Motorola",
-          "Siemens",
-          "Ericsson",
-          "Nokia",
-          "Society for Worldwide Interbank Financial Telecommunication"
-        ],
+        "IBM , Alcatel-Lucent , Cisco , Motorola , Siemens , Ericsson , Nokia , Society for Worldwide Interbank Financial Telecommunication and other large organizations worldwide",
         [
           "/wiki/IBM",
           "/wiki/Alcatel-Lucent",
@@ -256,52 +165,35 @@
     ],
     [
       [
-        [
-          "Code Co-op"
-        ],
+        "Code Co-op",
         [
           "/wiki/Code_Co-op"
         ]
       ],
       [
-        [
-          "The first distributed VCS , demoed in 1997 , released soon after"
-        ],
-        [
-          null
-        ]
+        "The first distributed VCS , demoed in 1997 , released soon after",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "CVS"
-        ],
+        "CVS",
         [
           "/wiki/Concurrent_Versions_System"
         ]
       ],
       [
-        [
-          "RCS"
-        ],
+        "First publicly released July 3 , 1986 ; based on RCS",
         [
           "/wiki/Revision_Control_System"
         ]
       ],
       [
-        [
-          "NetBSD",
-          "OpenBSD"
-        ],
+        "NetBSD , OpenBSD",
         [
           "/wiki/NetBSD",
           "/wiki/OpenBSD"
@@ -310,54 +202,36 @@
     ],
     [
       [
-        [
-          "CVSNT"
-        ],
+        "CVSNT",
         [
           "/wiki/CVSNT"
         ]
       ],
       [
-        [
-          "CVS",
-          "CVS"
-        ],
+        "First publicly released 1998 ; based on CVS . Started by CVS developers with the goal adding support for a wider range of development methods and processes",
         [
           "/wiki/Concurrent_Versions_System",
           "/wiki/Concurrent_Versions_System"
         ]
       ],
       [
-        [
-          "Primarily professionals ( not hobbyists ) , e.g . : AnandTech , Wachovia , Wells Fargo , Goldman Sachs"
-        ],
-        [
-          null
-        ]
+        "Primarily professionals ( not hobbyists ) , e.g . : AnandTech , Wachovia , Wells Fargo , Goldman Sachs",
+        []
       ]
     ],
     [
       [
-        [
-          "darcs"
-        ],
+        "darcs",
         [
           "/wiki/Darcs"
         ]
       ],
       [
-        [
-          "First announced on April 9 , 2003"
-        ],
-        [
-          null
-        ]
+        "First announced on April 9 , 2003",
+        []
       ],
       [
-        [
-          "Mnet",
-          "xmonad"
-        ],
+        "Mnet , xmonad , Projects Using Darcs",
         [
           "/wiki/Mnet_(Computer_program)",
           "/wiki/Xmonad"
@@ -366,19 +240,13 @@
     ],
     [
       [
-        [
-          "Dimensions CM"
-        ],
+        "Dimensions CM",
         [
           "/wiki/Dimensions_CM"
         ]
       ],
       [
-        [
-          "Serena Software",
-          "Dimensions CM",
-          "Serena Software"
-        ],
+        "Developed by SQL Software under the name PCMS Dimensions during the late 1980s ( PCMS standing for Product Configuration Management ) . Through number of company acquisitions the product was released under names PVCS Dimensions ( 1990s , Intersolv ) , Dimensions ( early 2000s , Merant ) , ChangeMan Dimensions ( 2004 , Serena Software ) and finally Dimensions CM ( since 2007 , Serena Software )",
         [
           "/wiki/Serena_Software",
           "/wiki/Dimensions_CM",
@@ -386,11 +254,7 @@
         ]
       ],
       [
-        [
-          "Lockheed Martin",
-          "European Space Agency",
-          "Fujitsu"
-        ],
+        "Lockheed Martin , European Space Agency , Fujitsu Business Communication Systems and many companies worldwide",
         [
           "/wiki/Lockheed_Martin",
           "/wiki/European_Space_Agency",
@@ -400,26 +264,17 @@
     ],
     [
       [
-        [
-          "Fossil"
-        ],
+        "Fossil",
         [
           "/wiki/Fossil_(software)"
         ]
       ],
       [
-        [
-          "Fossil and SQLite have used Fossil since 21 July 2007"
-        ],
-        [
-          null
-        ]
+        "Fossil and SQLite have used Fossil since 21 July 2007",
+        []
       ],
       [
-        [
-          "SQLite",
-          "Tcl/Tk Project"
-        ],
+        "SQLite , Tcl/Tk Project",
         [
           "/wiki/SQLite",
           "/wiki/Tcl"
@@ -428,65 +283,20 @@
     ],
     [
       [
-        [
-          "Git"
-        ],
+        "Git",
         [
           "/wiki/Git"
         ]
       ],
       [
-        [
-          "Linus Torvalds",
-          "BitKeeper"
-        ],
+        "Started by Linus Torvalds in April 2005 , following the BitKeeper controversy",
         [
           "/wiki/Linus_Torvalds",
           "/wiki/BitKeeper"
         ]
       ],
       [
-        [
-          "Linux kernel",
-          "Android",
-          "Bugzilla",
-          "DragonFly BSD",
-          "GNOME",
-          "GNU Emacs",
-          "GRUB2",
-          "KDE",
-          "MySQL",
-          "Perl 5",
-          "PostgreSQL",
-          "X.Org",
-          "Cairo",
-          "Qt Development Frameworks",
-          "Samba",
-          "OpenEmbedded",
-          "Ruby",
-          "Ruby on Rails",
-          "Wine",
-          "Fluxbox",
-          "Openbox",
-          "Compiz Fusion",
-          "XCB",
-          "ELinks",
-          "XMMS2",
-          "e2fsprogs",
-          "GNU Core Utilities",
-          "DokuWiki",
-          "Drupal",
-          "LibreOffice",
-          "MediaWiki",
-          "Mono",
-          "ASP.NET MVC",
-          "ADO.NET Entity Framework",
-          "NuGet",
-          "jQuery",
-          "OpenCV",
-          "Wireshark",
-          "Django"
-        ],
+        "Linux kernel , Android , Bugzilla , DragonFly BSD , GNOME , GNU Emacs , GRUB2 , KDE , MySQL , Perl 5 , PostgreSQL , X.Org , Cairo , Qt Development Frameworks , Samba , OpenEmbedded , Ruby , Ruby on Rails , Wine , Fluxbox , Openbox , Compiz Fusion , XCB , ELinks , XMMS2 , e2fsprogs , GNU Core Utilities , DokuWiki , Drupal , LibreOffice , MediaWiki , Mono , ASP.NET MVC , ADO.NET Entity Framework , NuGet , jQuery and many of its plugins , OpenCV , Wireshark , Django , many companies like Ericsson , Microsoft , Huawei , Apple , Amazon , LG",
         [
           "/wiki/Linux_kernel",
           "/wiki/Android_(operating_system)",
@@ -532,26 +342,19 @@
     ],
     [
       [
-        [
-          "GNU arch"
-        ],
+        "GNU arch",
         [
           "/wiki/GNU_arch"
         ]
       ],
       [
-        [
-          "GNU"
-        ],
+        "Started by Tom Lord in 2001 , it later became part of the GNU project . Lord resigned as maintainer in August 2005",
         [
           "/wiki/GNU"
         ]
       ],
       [
-        [
-          "GNU Savannah",
-          "Gna.org"
-        ],
+        "available for GNU Savannah and Gna.org projects",
         [
           "/wiki/GNU_Savannah",
           "/wiki/Gna.org"
@@ -560,93 +363,51 @@
     ],
     [
       [
-        [
-          "IC Manage"
-        ],
+        "IC Manage",
         [
           "/wiki/IC_Manage"
         ]
       ],
       [
-        [
-          "Developed by IC Manage , Inc which was founded in 2003 by Shiv Sikand and Dean Drako"
-        ],
-        [
-          null
-        ]
+        "Developed by IC Manage , Inc which was founded in 2003 by Shiv Sikand and Dean Drako",
+        []
       ],
       [
-        [
-          "many organizations worldwide"
-        ],
-        [
-          null
-        ]
+        "many organizations worldwide",
+        []
       ]
     ],
     [
       [
-        [
-          "PTC Integrity"
-        ],
+        "PTC Integrity",
         [
           "/wiki/PTC_Integrity"
         ]
       ],
       [
-        [
-          "Originally developed by MKS Software . Purchased by PTC in May 2011"
-        ],
-        [
-          null
-        ]
+        "Originally developed by MKS Software . Purchased by PTC in May 2011",
+        []
       ],
       [
-        [
-          "Many global engineering and IT organizations"
-        ],
-        [
-          null
-        ]
+        "Many global engineering and IT organizations",
+        []
       ]
     ],
     [
       [
-        [
-          "Mercurial"
-        ],
+        "Mercurial",
         [
           "/wiki/Mercurial"
         ]
       ],
       [
-        [
-          "BitKeeper"
-        ],
+        "Started April 6 , 2005 by Matt Mackall , following the BitKeeper controversy . First released on April 19 , 2005",
         [
           "/wiki/BitKeeper"
         ]
       ],
       [
-        [
-          "Python",
-          "Mozilla",
-          "OpenJDK",
-          "NetBeans",
-          "Xine",
-          "Xen",
-          "OpenSolaris",
-          "wmii",
-          "MoinMoin",
-          "Linux-HA",
-          "Pidgin",
-          "Gajim",
-          "Nginx",
-          "PyPy",
-          "SDL",
-          "Facebook",
-          "Google"
-        ],
+        "Python , Mozilla , OpenJDK , NetBeans , Xine , Xen , OpenSolaris , wmii , MoinMoin , Linux-HA , Pidgin , Gajim , Nginx , PyPy , SDL , Facebook , Google ( as a UI on top of Piper )",
         [
           "/wiki/Python_(programming_language)",
           "/wiki/Mozilla",
@@ -670,27 +431,17 @@
     ],
     [
       [
-        [
-          "Monotone"
-        ],
+        "Monotone",
         [
           "/wiki/Monotone_(software)"
         ]
       ],
       [
-        [
-          "First released in April 2003"
-        ],
-        [
-          null
-        ]
+        "First released in April 2003",
+        []
       ],
       [
-        [
-          "CTWM",
-          "I2P",
-          "Botan"
-        ],
+        "CTWM , I2P , Botan",
         [
           "/wiki/CTWM",
           "/wiki/I2P",
@@ -700,26 +451,17 @@
     ],
     [
       [
-        [
-          "Perforce Helix Core"
-        ],
+        "Perforce Helix Core",
         [
           "/wiki/Perforce"
         ]
       ],
       [
-        [
-          "Developed by Perforce Software , Inc which was founded in 1995 by Christopher Seiwald"
-        ],
-        [
-          null
-        ]
+        "Developed by Perforce Software , Inc which was founded in 1995 by Christopher Seiwald",
+        []
       ],
       [
-        [
-          "FreeBSD",
-          "Scania AB"
-        ],
+        "FreeBSD , Scania AB",
         [
           "/wiki/FreeBSD",
           "/wiki/Scania_AB"

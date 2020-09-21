@@ -3,380 +3,235 @@
   "title": "Comparison of office suites",
   "header": [
     [
-      [
-        "Software Name"
-      ],
-      [
-        null
-      ]
+      "Software Name",
+      []
     ],
     [
-      [
-        "E-mail client"
-      ],
+      "E-mail client",
       [
         "/wiki/E-mail_client"
       ]
     ],
     [
-      [
-        "HTML editor"
-      ],
+      "HTML editor",
       [
         "/wiki/HTML_editor"
       ]
     ],
     [
-      [
-        "Collaborative software"
-      ],
+      "Collaborative software",
       [
         "/wiki/Collaborative_software"
       ]
     ],
     [
-      [
-        "Online editing"
-      ],
-      [
-        null
-      ]
+      "Online editing",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Ability Office"
-        ],
+        "Ability Office",
         [
           "/wiki/Ability_Office"
         ]
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ]
     ],
     [
       [
-        [
-          "Apache OpenOffice"
-        ],
+        "Apache OpenOffice",
         [
           "/wiki/Apache_OpenOffice"
         ]
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ],
       [
-        [
-          "OpenOffice Writer"
-        ],
+        "OpenOffice Writer",
         [
           "/wiki/OpenOffice_Writer"
         ]
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ],
       [
-        [
-          "With free plugins"
-        ],
-        [
-          null
-        ]
+        "With free plugins",
+        []
       ]
     ],
     [
       [
-        [
-          "Breadbox Office"
-        ],
+        "Breadbox Office",
         [
           "/wiki/GEOS_(16-bit_operating_system)"
         ]
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ]
     ],
     [
       [
-        [
-          "Calligra Suite"
-        ],
+        "Calligra Suite",
         [
           "/wiki/Calligra_Suite"
         ]
       ],
       [
-        [
-          "Kontact"
-        ],
+        "Kontact",
         [
           "/wiki/Kontact"
         ]
       ],
       [
-        [
-          "Kate",
-          "Quanta+"
-        ],
+        "Kate , Quanta+",
         [
           "/wiki/Kate_(text_editor)",
           "/wiki/Quanta_Plus"
         ]
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ]
     ],
     [
       [
-        [
-          "Feng Office Community Edition"
-        ],
+        "Feng Office Community Edition",
         [
           "/wiki/Feng_Office_Community_Edition"
         ]
       ],
       [
-        [
-          "beta"
-        ],
-        [
-          null
-        ]
+        "beta",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ]
     ],
     [
       [
-        [
-          "GobeProductive"
-        ],
+        "GobeProductive",
         [
           "/wiki/GobeProductive"
         ]
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ]
     ],
     [
       [
-        [
-          "Google Apps for Work"
-        ],
+        "Google Apps for Work",
         [
           "/wiki/Google_Apps_for_Work"
         ]
       ],
       [
-        [
-          "Gmail"
-        ],
+        "Gmail",
         [
           "/wiki/Gmail"
         ]
       ],
       [
-        [
-          "Google Sites"
-        ],
+        "Google Sites",
         [
           "/wiki/Google_Sites"
         ]
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "Fully online"
-        ],
-        [
-          null
-        ]
+        "Fully online",
+        []
       ]
     ],
     [
       [
-        [
-          "iWork"
-        ],
+        "iWork",
         [
           "/wiki/IWork"
         ]
       ],
       [
-        [
-          "Mail"
-        ],
+        "Mail",
         [
           "/wiki/Mail"
         ]
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "iCloud"
-        ],
+        "iCloud",
         [
           "/wiki/ICloud"
         ]
@@ -384,169 +239,104 @@
     ],
     [
       [
-        [
-          "LibreOffice"
-        ],
+        "LibreOffice",
         [
           "/wiki/LibreOffice"
         ]
       ],
       [
-        [
-          "Can interface with email clients and Mail Merge Wizard can send email directly from LibreOffice"
-        ],
-        [
-          null
-        ]
+        "Can interface with email clients and Mail Merge Wizard can send email directly from LibreOffice",
+        []
       ],
       [
-        [
-          "LibreOffice Writer"
-        ],
-        [
-          null
-        ]
+        "LibreOffice Writer",
+        []
       ],
       [
-        [
-          "LibreOffice Calc"
-        ],
-        [
-          null
-        ]
+        "LibreOffice Calc",
+        []
       ],
       [
-        [
-          "Currently via free plugins ; LibreOffice Online under development"
-        ],
-        [
-          null
-        ]
+        "Currently via free plugins ; LibreOffice Online under development",
+        []
       ]
     ],
     [
       [
-        [
-          "Lotus SmartSuite"
-        ],
+        "Lotus SmartSuite",
         [
           "/wiki/Lotus_SmartSuite"
         ]
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ],
       [
-        [
-          "Lotus FastSite"
-        ],
-        [
-          null
-        ]
+        "Lotus FastSite",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ]
     ],
     [
       [
-        [
-          "MarinerPak"
-        ],
+        "MarinerPak",
         [
           "/wiki/Mariner_Software"
         ]
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ]
     ],
     [
       [
-        [
-          "Microsoft Office"
-        ],
+        "Microsoft Office",
         [
           "/wiki/Microsoft_Office"
         ]
       ],
       [
-        [
-          "Microsoft Outlook"
-        ],
+        "Microsoft Outlook ( Not included in Microsoft Office 2013 or 2016 Home & Student )",
         [
           "/wiki/Microsoft_Outlook"
         ]
       ],
       [
-        [
-          "Microsoft SharePoint Designer",
-          "Microsoft FrontPage"
-        ],
+        "Microsoft SharePoint Designer . Versions after Office 2000 Premium and Developer contain Microsoft FrontPage , the full-blown web page editor . Microsoft Word can read and write HTML starting with a free special upgrade for Word 6.0",
         [
           "/wiki/Microsoft_SharePoint_Designer",
           "/wiki/Microsoft_FrontPage"
         ]
       ],
       [
-        [
-          "Microsoft SharePoint"
-        ],
+        "Microsoft SharePoint ( Available for separate subscription )",
         [
           "/wiki/Microsoft_SharePoint"
         ]
       ],
       [
-        [
-          "Office Online"
-        ],
+        "Office Online",
         [
           "/wiki/Office_Online"
         ]
@@ -554,41 +344,25 @@
     ],
     [
       [
-        [
-          "Microsoft Works"
-        ],
+        "Microsoft Works",
         [
           "/wiki/Microsoft_Works"
         ]
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ],
       [
-        [
-          "Microsoft Office Live"
-        ],
+        "Microsoft Office Live",
         [
           "/wiki/Microsoft_Office_Live"
         ]
@@ -596,298 +370,175 @@
     ],
     [
       [
-        [
-          "MobiSystems",
-          "OfficeSuite"
-        ],
+        "MobiSystems OfficeSuite",
         [
           "/wiki/OfficeSuite",
           "/wiki/OfficeSuite"
         ]
       ],
       [
-        [
-          "OfficeSuite Mail for Windows , AquaMail for Android"
-        ],
-        [
-          null
-        ]
+        "OfficeSuite Mail for Windows , AquaMail for Android",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ]
     ],
     [
       [
-        [
-          "NeoOffice"
-        ],
+        "NeoOffice",
         [
           "/wiki/NeoOffice"
         ]
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ],
       [
-        [
-          "NeoOffice Writer"
-        ],
+        "NeoOffice Writer",
         [
           "/wiki/NeoOffice_Writer"
         ]
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ]
     ],
     [
       [
-        [
-          "ONLYOFFICE"
-        ],
+        "ONLYOFFICE",
         [
           "/wiki/OnlyOffice"
         ]
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "Fully online"
-        ],
-        [
-          null
-        ]
+        "Fully online",
+        []
       ]
     ],
     [
       [
-        [
-          "SoftMaker Office"
-        ],
+        "SoftMaker Office",
         [
           "/wiki/SoftMaker_Office"
         ]
       ],
       [
-        [
-          "Mozilla Thunderbird"
-        ],
+        "a bundled Mozilla Thunderbird",
         [
           "/wiki/Mozilla_Thunderbird"
         ]
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ]
     ],
     [
       [
-        [
-          "StarOffice"
-        ],
+        "StarOffice",
         [
           "/wiki/StarOffice"
         ]
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ],
       [
-        [
-          "StarWriter"
-        ],
+        "StarWriter",
         [
           "/wiki/StarWriter_(word_processor)"
         ]
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ],
       [
-        [
-          "With free plugins"
-        ],
-        [
-          null
-        ]
+        "With free plugins",
+        []
       ]
     ],
     [
       [
-        [
-          "TeXmacs"
-        ],
+        "TeXmacs",
         [
           "/wiki/TeXmacs"
         ]
       ],
       [
-        [
-          "allows to read emails"
-        ],
-        [
-          null
-        ]
+        "allows to read emails",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "under development"
-        ],
-        [
-          null
-        ]
+        "under development",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ]
     ],
     [
       [
-        [
-          "Https : //www.onlyoffice.com"
-        ],
-        [
-          null
-        ]
+        "[ ./ Https : //www.onlyoffice.com OnlyOffice ]",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ]
     ]
   ],

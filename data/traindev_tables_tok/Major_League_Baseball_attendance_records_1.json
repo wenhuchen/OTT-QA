@@ -3,84 +3,48 @@
   "title": "Major League Baseball attendance records",
   "header": [
     [
-      [
-        "Team name"
-      ],
-      [
-        null
-      ]
+      "Team name",
+      []
     ],
     [
-      [
-        "Season"
-      ],
-      [
-        null
-      ]
+      "Season",
+      []
     ],
     [
-      [
-        "Home attendance"
-      ],
-      [
-        null
-      ]
+      "Home attendance",
+      []
     ],
     [
-      [
-        "Per game"
-      ],
-      [
-        null
-      ]
+      "Per game",
+      []
     ],
     [
-      [
-        "Ballpark"
-      ],
-      [
-        null
-      ]
+      "Ballpark",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Colorado Rockies"
-        ],
+        "Colorado Rockies",
         [
           "/wiki/Colorado_Rockies"
         ]
       ],
       [
-        [
-          "1993"
-        ],
-        [
-          null
-        ]
+        "1993",
+        []
       ],
       [
-        [
-          "4,483,350"
-        ],
-        [
-          null
-        ]
+        "4,483,350",
+        []
       ],
       [
-        [
-          "55,350"
-        ],
-        [
-          null
-        ]
+        "55,350",
+        []
       ],
       [
-        [
-          "Mile High Stadium"
-        ],
+        "Mile High Stadium",
         [
           "/wiki/Mile_High_Stadium"
         ]
@@ -88,41 +52,25 @@
     ],
     [
       [
-        [
-          "New York Yankees"
-        ],
+        "New York Yankees",
         [
           "/wiki/New_York_Yankees"
         ]
       ],
       [
-        [
-          "2008"
-        ],
-        [
-          null
-        ]
+        "2008",
+        []
       ],
       [
-        [
-          "4,298,655"
-        ],
-        [
-          null
-        ]
+        "4,298,655",
+        []
       ],
       [
-        [
-          "53,070"
-        ],
-        [
-          null
-        ]
+        "53,070",
+        []
       ],
       [
-        [
-          "Yankee Stadium"
-        ],
+        "Yankee Stadium",
         [
           "/wiki/Yankee_Stadium_(1923)"
         ]
@@ -130,41 +78,25 @@
     ],
     [
       [
-        [
-          "New York Yankees"
-        ],
+        "New York Yankees",
         [
           "/wiki/New_York_Yankees"
         ]
       ],
       [
-        [
-          "2007"
-        ],
-        [
-          null
-        ]
+        "2007",
+        []
       ],
       [
-        [
-          "4,271,867"
-        ],
-        [
-          null
-        ]
+        "4,271,867",
+        []
       ],
       [
-        [
-          "52,739"
-        ],
-        [
-          null
-        ]
+        "52,739",
+        []
       ],
       [
-        [
-          "Yankee Stadium"
-        ],
+        "Yankee Stadium",
         [
           "/wiki/Yankee_Stadium_(1923)"
         ]
@@ -172,41 +104,25 @@
     ],
     [
       [
-        [
-          "New York Yankees"
-        ],
+        "New York Yankees",
         [
           "/wiki/New_York_Yankees"
         ]
       ],
       [
-        [
-          "2006"
-        ],
-        [
-          null
-        ]
+        "2006",
+        []
       ],
       [
-        [
-          "4,248,067"
-        ],
-        [
-          null
-        ]
+        "4,248,067",
+        []
       ],
       [
-        [
-          "52,445"
-        ],
-        [
-          null
-        ]
+        "52,445",
+        []
       ],
       [
-        [
-          "Yankee Stadium"
-        ],
+        "Yankee Stadium",
         [
           "/wiki/Yankee_Stadium_(1923)"
         ]
@@ -214,41 +130,25 @@
     ],
     [
       [
-        [
-          "New York Yankees"
-        ],
+        "New York Yankees",
         [
           "/wiki/New_York_Yankees"
         ]
       ],
       [
-        [
-          "2005"
-        ],
-        [
-          null
-        ]
+        "2005",
+        []
       ],
       [
-        [
-          "4,090,696"
-        ],
-        [
-          null
-        ]
+        "4,090,696",
+        []
       ],
       [
-        [
-          "50,502"
-        ],
-        [
-          null
-        ]
+        "50,502",
+        []
       ],
       [
-        [
-          "Yankee Stadium"
-        ],
+        "Yankee Stadium",
         [
           "/wiki/Yankee_Stadium_(1923)"
         ]
@@ -256,41 +156,25 @@
     ],
     [
       [
-        [
-          "Toronto Blue Jays"
-        ],
+        "Toronto Blue Jays",
         [
           "/wiki/Toronto_Blue_Jays"
         ]
       ],
       [
-        [
-          "1993"
-        ],
-        [
-          null
-        ]
+        "1993",
+        []
       ],
       [
-        [
-          "4,057,947"
-        ],
-        [
-          null
-        ]
+        "4,057,947",
+        []
       ],
       [
-        [
-          "50,098"
-        ],
-        [
-          null
-        ]
+        "50,098",
+        []
       ],
       [
-        [
-          "SkyDome"
-        ],
+        "SkyDome",
         [
           "/wiki/SkyDome"
         ]
@@ -298,41 +182,25 @@
     ],
     [
       [
-        [
-          "New York Mets"
-        ],
+        "New York Mets",
         [
           "/wiki/New_York_Mets"
         ]
       ],
       [
-        [
-          "2008"
-        ],
-        [
-          null
-        ]
+        "2008",
+        []
       ],
       [
-        [
-          "4,042,045"
-        ],
-        [
-          null
-        ]
+        "4,042,045",
+        []
       ],
       [
-        [
-          "49,902"
-        ],
-        [
-          null
-        ]
+        "49,902",
+        []
       ],
       [
-        [
-          "Shea Stadium"
-        ],
+        "Shea Stadium",
         [
           "/wiki/Shea_Stadium"
         ]
@@ -340,41 +208,25 @@
     ],
     [
       [
-        [
-          "Toronto Blue Jays"
-        ],
+        "Toronto Blue Jays",
         [
           "/wiki/Toronto_Blue_Jays"
         ]
       ],
       [
-        [
-          "1992"
-        ],
-        [
-          null
-        ]
+        "1992",
+        []
       ],
       [
-        [
-          "4,028,318"
-        ],
-        [
-          null
-        ]
+        "4,028,318",
+        []
       ],
       [
-        [
-          "49,732"
-        ],
-        [
-          null
-        ]
+        "49,732",
+        []
       ],
       [
-        [
-          "SkyDome"
-        ],
+        "SkyDome",
         [
           "/wiki/SkyDome"
         ]
@@ -382,41 +234,25 @@
     ],
     [
       [
-        [
-          "Toronto Blue Jays"
-        ],
+        "Toronto Blue Jays",
         [
           "/wiki/Toronto_Blue_Jays"
         ]
       ],
       [
-        [
-          "1991"
-        ],
-        [
-          null
-        ]
+        "1991",
+        []
       ],
       [
-        [
-          "4,001,527"
-        ],
-        [
-          null
-        ]
+        "4,001,527",
+        []
       ],
       [
-        [
-          "49,402"
-        ],
-        [
-          null
-        ]
+        "49,402",
+        []
       ],
       [
-        [
-          "SkyDome"
-        ],
+        "SkyDome",
         [
           "/wiki/SkyDome"
         ]

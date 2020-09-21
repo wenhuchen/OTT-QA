@@ -3,206 +3,126 @@
   "title": "List of disasters in the United States by death toll",
   "header": [
     [
-      [
-        "Year"
-      ],
-      [
-        null
-      ]
+      "Year",
+      []
     ],
     [
-      [
-        "Type"
-      ],
-      [
-        null
-      ]
+      "Type",
+      []
     ],
     [
-      [
-        "Fatalities"
-      ],
-      [
-        null
-      ]
+      "Fatalities",
+      []
     ],
     [
-      [
-        "Article"
-      ],
-      [
-        null
-      ]
+      "Article",
+      []
     ],
     [
-      [
-        "Location"
-      ],
-      [
-        null
-      ]
+      "Location",
+      []
     ],
     [
-      [
-        "Comments"
-      ],
-      [
-        null
-      ]
+      "Comments",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "1912"
-        ],
-        [
-          null
-        ]
+        "1912",
+        []
       ],
       [
-        [
-          "Accident",
-          "railroad"
-        ],
+        "Accident - railroad",
         [
           "/wiki/Accident",
           "/wiki/Railroad"
         ]
       ],
       [
-        [
-          "39"
-        ],
-        [
-          null
-        ]
+        "39",
+        []
       ],
       [
-        [
-          "Corning train wreck"
-        ],
+        "Corning train wreck",
         [
           "/wiki/Corning_train_wreck"
         ]
       ],
       [
-        [
-          "Corning , New York"
-        ],
+        "Corning , New York",
         [
           "/wiki/Corning_(town),_New_York"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "1977"
-        ],
-        [
-          null
-        ]
+        "1977",
+        []
       ],
       [
-        [
-          "Accident",
-          "dam"
-        ],
+        "Accident - dam failure",
         [
           "/wiki/Accident",
           "/wiki/Dam"
         ]
       ],
       [
-        [
-          "39"
-        ],
-        [
-          null
-        ]
+        "39",
+        []
       ],
       [
-        [
-          "Kelly Barnes Dam"
-        ],
+        "Kelly Barnes Dam",
         [
           "/wiki/Kelly_Barnes_Dam"
         ]
       ],
       [
-        [
-          "Toccoa , Georgia"
-        ],
+        "Toccoa , Georgia",
         [
           "/wiki/Toccoa,_Georgia"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "1997"
-        ],
-        [
-          null
-        ]
+        "1997",
+        []
       ],
       [
-        [
-          "Mass suicide"
-        ],
+        "Mass suicide",
         [
           "/wiki/Mass_suicide"
         ]
       ],
       [
-        [
-          "39"
-        ],
-        [
-          null
-        ]
+        "39",
+        []
       ],
       [
-        [
-          "Heaven 's Gate ( religious group )"
-        ],
+        "Heaven 's Gate ( religious group )",
         [
           "/wiki/Heaven's_Gate_(religious_group)"
         ]
       ],
       [
-        [
-          "San Diego , California"
-        ],
+        "San Diego , California",
         [
           "/wiki/San_Diego,_California"
         ]
       ],
       [
-        [
-          "Marshall Applewhite",
-          "Bonnie Nettles",
-          "Comet Hale-Bopp"
-        ],
+        "Cult leaders Marshall Applewhite and Bonnie Nettles convinced followers they would join Comet Hale-Bopp to take them to another planet by swallowing poison",
         [
           "/wiki/Marshall_Applewhite",
           "/wiki/Bonnie_Nettles",
@@ -212,255 +132,164 @@
     ],
     [
       [
-        [
-          "2011"
-        ],
-        [
-          null
-        ]
+        "2011",
+        []
       ],
       [
-        [
-          "Blizzard"
-        ],
+        "Blizzard",
         [
           "/wiki/Blizzard"
         ]
       ],
       [
-        [
-          "39"
-        ],
-        [
-          null
-        ]
+        "39",
+        []
       ],
       [
-        [
-          "2011 Halloween nor'easter"
-        ],
+        "2011 Halloween nor'easter",
         [
           "/wiki/2011_Halloween_nor'easter"
         ]
       ],
       [
-        [
-          "Northeastern United States"
-        ],
+        "Northeastern United States",
         [
           "/wiki/Northeastern_United_States"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "1920"
-        ],
-        [
-          null
-        ]
+        "1920",
+        []
       ],
       [
-        [
-          "Terrorism"
-        ],
+        "Terrorism",
         [
           "/wiki/Terrorism"
         ]
       ],
       [
-        [
-          "38"
-        ],
-        [
-          null
-        ]
+        "38",
+        []
       ],
       [
-        [
-          "Wall Street bombing"
-        ],
+        "Wall Street bombing",
         [
           "/wiki/Wall_Street_bombing"
         ]
       ],
       [
-        [
-          "Manhattan , New York"
-        ],
+        "Manhattan , New York",
         [
           "/wiki/Manhattan"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "1969"
-        ],
-        [
-          null
-        ]
+        "1969",
+        []
       ],
       [
-        [
-          "Accident",
-          "aircraft"
-        ],
+        "Accident - aircraft",
         [
           "/wiki/Accident",
           "/wiki/Aircraft"
         ]
       ],
       [
-        [
-          "38"
-        ],
-        [
-          null
-        ]
+        "38",
+        []
       ],
       [
-        [
-          "United Airlines Flight 266"
-        ],
+        "United Airlines Flight 266",
         [
           "/wiki/United_Airlines_Flight_266"
         ]
       ],
       [
-        [
-          "Santa Monica Bay",
-          "California"
-        ],
+        "Santa Monica Bay , California",
         [
           "/wiki/Santa_Monica_Bay",
           "/wiki/California"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "2014"
-        ],
-        [
-          null
-        ]
+        "2014",
+        []
       ],
       [
-        [
-          "Tornado outbreak"
-        ],
+        "Tornado outbreak",
         [
           "/wiki/Tornado_outbreak"
         ]
       ],
       [
-        [
-          "38"
-        ],
-        [
-          null
-        ]
+        "38",
+        []
       ],
       [
-        [
-          "Tornado outbreak of April 27-30 , 2014"
-        ],
+        "Tornado outbreak of April 27-30 , 2014",
         [
           "/wiki/Tornado_outbreak_of_April_27\u201330,_2014"
         ]
       ],
       [
-        [
-          "Southern United States",
-          "Central United States"
-        ],
+        "Southern United States , Central United States",
         [
           "/wiki/Southern_United_States",
           "/wiki/Central_United_States"
         ]
       ],
       [
-        [
-          "84 tornadoes . 35 tornadic deaths , with another 3 from related weather"
-        ],
-        [
-          null
-        ]
+        "84 tornadoes . 35 tornadic deaths , with another 3 from related weather",
+        []
       ]
     ],
     [
       [
-        [
-          "1883"
-        ],
-        [
-          null
-        ]
+        "1883",
+        []
       ],
       [
-        [
-          "Tornado"
-        ],
+        "Tornado",
         [
           "/wiki/Tornado"
         ]
       ],
       [
-        [
-          "37"
-        ],
-        [
-          null
-        ]
+        "37",
+        []
       ],
       [
-        [
-          "1883 Rochester tornado"
-        ],
+        "1883 Rochester tornado",
         [
           "/wiki/1883_Rochester_tornado"
         ]
       ],
       [
-        [
-          "Rochester , Minnesota"
-        ],
+        "Rochester , Minnesota",
         [
           "/wiki/Rochester,_Minnesota"
         ]
       ],
       [
-        [
-          "Mayo Clinic"
-        ],
+        "F5 tornado killed 37 and injured hundreds more . It led to the creation of the Mayo Clinic",
         [
           "/wiki/Mayo_Clinic"
         ]
@@ -468,101 +297,66 @@
     ],
     [
       [
-        [
-          "1924"
-        ],
-        [
-          null
-        ]
+        "1924",
+        []
       ],
       [
-        [
-          "Fire"
-        ],
+        "Fire ( building )",
         [
           "/wiki/Fire"
         ]
       ],
       [
-        [
-          "36"
-        ],
-        [
-          null
-        ]
+        "36",
+        []
       ],
       [
-        [
-          "Babbs Switch fire"
-        ],
+        "Babbs Switch fire",
         [
           "/wiki/Babbs_Switch_fire"
         ]
       ],
       [
-        [
-          "Babbs Switch , Oklahoma"
-        ],
+        "Babbs Switch , Oklahoma",
         [
           "/wiki/Babbs_Switch,_Oklahoma"
         ]
       ],
       [
-        [
-          "Christmas tree lighted with candles accidentally caught fire and destroyed school building . 37 additional people injured"
-        ],
-        [
-          null
-        ]
+        "Christmas tree lighted with candles accidentally caught fire and destroyed school building . 37 additional people injured",
+        []
       ]
     ],
     [
       [
-        [
-          "1937"
-        ],
-        [
-          null
-        ]
+        "1937",
+        []
       ],
       [
-        [
-          "Accident",
-          "airship"
-        ],
+        "Accident - airship",
         [
           "/wiki/Accident",
           "/wiki/Airship"
         ]
       ],
       [
-        [
-          "36"
-        ],
-        [
-          null
-        ]
+        "36",
+        []
       ],
       [
-        [
-          "Hindenburg disaster"
-        ],
+        "Hindenburg disaster",
         [
           "/wiki/Hindenburg_disaster"
         ]
       ],
       [
-        [
-          "Manchester , New Jersey"
-        ],
+        "Manchester , New Jersey",
         [
           "/wiki/Manchester,_New_Jersey"
         ]
       ],
       [
-        [
-          "zeppelin"
-        ],
+        "Hydrogen-filled zeppelin exploded while trying to dock",
         [
           "/wiki/Zeppelin"
         ]
@@ -570,248 +364,157 @@
     ],
     [
       [
-        [
-          "2016"
-        ],
-        [
-          null
-        ]
+        "2016",
+        []
       ],
       [
-        [
-          "Fire"
-        ],
+        "Fire ( building )",
         [
           "/wiki/Fire"
         ]
       ],
       [
-        [
-          "36"
-        ],
-        [
-          null
-        ]
+        "36",
+        []
       ],
       [
-        [
-          "2016 Oakland warehouse fire"
-        ],
+        "2016 Oakland warehouse fire",
         [
           "/wiki/2016_Oakland_warehouse_fire"
         ]
       ],
       [
-        [
-          "Oakland , California"
-        ],
+        "Oakland , California",
         [
           "/wiki/Oakland,_California"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "1969"
-        ],
-        [
-          null
-        ]
+        "1969",
+        []
       ],
       [
-        [
-          "Accident",
-          "aircraft"
-        ],
+        "Accident - aircraft",
         [
           "/wiki/Accident",
           "/wiki/Aircraft"
         ]
       ],
       [
-        [
-          "35"
-        ],
-        [
-          null
-        ]
+        "35",
+        []
       ],
       [
-        [
-          "Hawthorne Nevada Airlines Flight 708"
-        ],
+        "Hawthorne Nevada Airlines Flight 708",
         [
           "/wiki/Hawthorne_Nevada_Airlines_Flight_708"
         ]
       ],
       [
-        [
-          "Lone Pine , California"
-        ],
+        "Lone Pine , California",
         [
           "/wiki/Lone_Pine,_California"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "1980"
-        ],
-        [
-          null
-        ]
+        "1980",
+        []
       ],
       [
-        [
-          "Ship"
-        ],
+        "Ship - collision",
         [
           "/wiki/Ship"
         ]
       ],
       [
-        [
-          "35"
-        ],
-        [
-          null
-        ]
+        "35",
+        []
       ],
       [
-        [
-          "Sunshine Skyway Bridge"
-        ],
+        "Sunshine Skyway Bridge",
         [
           "/wiki/Sunshine_Skyway_Bridge"
         ]
       ],
       [
-        [
-          "St. Petersburg , Florida"
-        ],
+        "St. Petersburg , Florida",
         [
           "/wiki/St._Petersburg,_Florida"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "1967"
-        ],
-        [
-          null
-        ]
+        "1967",
+        []
       ],
       [
-        [
-          "Attack"
-        ],
+        "Attack - military ship",
         [
           "/wiki/Offensive_(military)"
         ]
       ],
       [
-        [
-          "34"
-        ],
-        [
-          null
-        ]
+        "34",
+        []
       ],
       [
-        [
-          "USS Liberty incident"
-        ],
+        "USS Liberty incident",
         [
           "/wiki/USS_Liberty_incident"
         ]
       ],
       [
-        [
-          "Mediterranean Sea"
-        ],
+        "Mediterranean Sea",
         [
           "/wiki/Mediterranean_Sea"
         ]
       ],
       [
-        [
-          "34 deaths on military ship USS Liberty due to June 8 , 1967 attack by Israeli Defense Force ( IDF ) aircraft and torpedo boats"
-        ],
-        [
-          null
-        ]
+        "34 deaths on military ship USS Liberty due to June 8 , 1967 attack by Israeli Defense Force ( IDF ) aircraft and torpedo boats",
+        []
       ]
     ],
     [
       [
-        [
-          "2015"
-        ],
-        [
-          null
-        ]
+        "2015",
+        []
       ],
       [
-        [
-          "Tropical cyclone",
-          "shipwreck"
-        ],
+        "Tropical cyclone , shipwreck",
         [
           "/wiki/Tropical_cyclone",
           "/wiki/Shipwreck"
         ]
       ],
       [
-        [
-          "34"
-        ],
-        [
-          null
-        ]
+        "34",
+        []
       ],
       [
-        [
-          "Hurricane Joaquin"
-        ],
+        "Hurricane Joaquin",
         [
           "/wiki/Hurricane_Joaquin"
         ]
       ],
       [
-        [
-          "Southeastern United States",
-          "Bermuda",
-          "Cuba",
-          "The Caribbean"
-        ],
+        "Southeastern United States , Bermuda , Cuba , The Caribbean",
         [
           "/wiki/Southeastern_United_States",
           "/wiki/Bermuda",
@@ -820,9 +523,7 @@
         ]
       ],
       [
-        [
-          "Cargo ship"
-        ],
+        "33 deaths from Cargo ship sunk by Joaquin . 1 other death on land",
         [
           "/wiki/Cargo_ship"
         ]
@@ -830,157 +531,100 @@
     ],
     [
       [
-        [
-          "1967"
-        ],
-        [
-          null
-        ]
+        "1967",
+        []
       ],
       [
-        [
-          "Accident",
-          "aircraft"
-        ],
+        "Accident - aircraft",
         [
           "/wiki/Accident",
           "/wiki/Aircraft"
         ]
       ],
       [
-        [
-          "34"
-        ],
-        [
-          null
-        ]
+        "34",
+        []
       ],
       [
-        [
-          "Mohawk Airlines Flight 40"
-        ],
+        "Mohawk Airlines Flight 40",
         [
           "/wiki/Mohawk_Airlines_Flight_40"
         ]
       ],
       [
-        [
-          "Blossburg , Pennsylvania"
-        ],
+        "Blossburg , Pennsylvania",
         [
           "/wiki/Blossburg,_Pennsylvania"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "2019"
-        ],
-        [
-          null
-        ]
+        "2019",
+        []
       ],
       [
-        [
-          "Fire"
-        ],
+        "Fire ( dive boat )",
         [
           "/wiki/Fire"
         ]
       ],
       [
-        [
-          "34"
-        ],
-        [
-          null
-        ]
+        "34",
+        []
       ],
       [
-        [
-          "Sinking of MV Conception"
-        ],
+        "Sinking of MV Conception",
         [
           "/wiki/Sinking_of_MV_Conception"
         ]
       ],
       [
-        [
-          "Santa Cruz Island",
-          "California"
-        ],
+        "Santa Cruz Island , California",
         [
           "/wiki/Santa_Cruz_Island",
           "/wiki/California"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "2007"
-        ],
-        [
-          null
-        ]
+        "2007",
+        []
       ],
       [
-        [
-          "Mass murder",
-          "school shooting"
-        ],
+        "Mass murder - school shooting",
         [
           "/wiki/Mass_murder",
           "/wiki/School_shooting"
         ]
       ],
       [
-        [
-          "33"
-        ],
-        [
-          null
-        ]
+        "33",
+        []
       ],
       [
-        [
-          "Virginia Tech shooting"
-        ],
+        "Virginia Tech shooting",
         [
           "/wiki/Virginia_Tech_shooting"
         ]
       ],
       [
-        [
-          "Blacksburg , Virginia"
-        ],
+        "Blacksburg , Virginia",
         [
           "/wiki/Blacksburg,_Virginia"
         ]
       ],
       [
-        [
-          "semi-automatic handguns",
-          "Seung-Hui Cho",
-          "Virginia Polytechnic Institute and State University"
-        ],
+        "Armed with two semi-automatic handguns , student Seung-Hui Cho shot to death 32 people in two separate attacks on the campus of Virginia Polytechnic Institute and State University . 23 other people were wounded , 17 by gunfire . Cho committed suicide",
         [
           "/wiki/Semi-automatic_handgun",
           "/wiki/Seung-Hui_Cho",
@@ -990,51 +634,34 @@
     ],
     [
       [
-        [
-          "2015"
-        ],
-        [
-          null
-        ]
+        "2015",
+        []
       ],
       [
-        [
-          "Accident",
-          "shipwreck"
-        ],
+        "Accident - shipwreck",
         [
           "/wiki/Accident",
           "/wiki/Shipwreck"
         ]
       ],
       [
-        [
-          "33"
-        ],
-        [
-          null
-        ]
+        "33",
+        []
       ],
       [
-        [
-          "SS El Faro"
-        ],
+        "SS El Faro",
         [
           "/wiki/SS_El_Faro"
         ]
       ],
       [
-        [
-          "Bahamas"
-        ],
+        "Atlantic Ocean near the Bahamas",
         [
           "/wiki/Bahamas"
         ]
       ],
       [
-        [
-          "Hurricane Joaquin"
-        ],
+        "A U.S.-flagged vessel sank during Hurricane Joaquin with all on board perishing",
         [
           "/wiki/Hurricane_Joaquin"
         ]
@@ -1042,49 +669,33 @@
     ],
     [
       [
-        [
-          "1963"
-        ],
-        [
-          null
-        ]
+        "1963",
+        []
       ],
       [
-        [
-          "Accident"
-        ],
+        "Accident - bus , train",
         [
           "/wiki/Accident"
         ]
       ],
       [
-        [
-          "32"
-        ],
-        [
-          null
-        ]
+        "32",
+        []
       ],
       [
-        [
-          "1963 Chualar bus crash"
-        ],
+        "1963 Chualar bus crash",
         [
           "/wiki/1963_Chualar_bus_crash"
         ]
       ],
       [
-        [
-          "Chualar , California"
-        ],
+        "Chualar , California",
         [
           "/wiki/Chualar,_California"
         ]
       ],
       [
-        [
-          "grade crossing"
-        ],
+        "Deadliest road accident in U.S. history , and deadliest U.S. rail accident involving a grade crossing",
         [
           "/wiki/Grade_crossing"
         ]

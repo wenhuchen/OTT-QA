@@ -3,52 +3,34 @@
   "title": "List of bus transit systems in the United States",
   "header": [
     [
-      [
-        "System"
-      ],
-      [
-        null
-      ]
+      "System",
+      []
     ],
     [
-      [
-        "Locale"
-      ],
-      [
-        null
-      ]
+      "Locale",
+      []
     ],
     [
-      [
-        "Major city ( s )"
-      ],
-      [
-        null
-      ]
+      "Major city ( s )",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Johnson County Transit"
-        ],
+        "Johnson County Transit",
         [
           "/wiki/Johnson_County_Transit"
         ]
       ],
       [
-        [
-          "Kansas City Metro Area"
-        ],
+        "Kansas City Metro Area",
         [
           "/wiki/Kansas_City_Metro_Area"
         ]
       ],
       [
-        [
-          "Overland Park"
-        ],
+        "Overland Park",
         [
           "/wiki/Overland_Park,_Kansas"
         ]
@@ -56,25 +38,19 @@
     ],
     [
       [
-        [
-          "Kansas City Area Transportation Authority"
-        ],
+        "Kansas City Area Transportation Authority",
         [
           "/wiki/Kansas_City_Area_Transportation_Authority"
         ]
       ],
       [
-        [
-          "Kansas City Metro Area"
-        ],
+        "Kansas City Metro Area",
         [
           "/wiki/Kansas_City_Metro_Area"
         ]
       ],
       [
-        [
-          "Kansas City"
-        ],
+        "Kansas City",
         [
           "/wiki/Kansas_City,_Kansas"
         ]
@@ -82,54 +58,38 @@
     ],
     [
       [
-        [
-          "Topeka Transit"
-        ],
+        "Topeka Transit",
         [
           "/wiki/Topeka_Transit"
         ]
       ],
       [
-        [
-          "Topeka"
-        ],
+        "Topeka",
         [
           "/wiki/Topeka,_Kansas"
         ]
       ],
       [
-        [
-          "Topeka"
-        ],
-        [
-          null
-        ]
+        "Topeka",
+        []
       ]
     ],
     [
       [
-        [
-          "Wichita Transit"
-        ],
+        "Wichita Transit",
         [
           "/wiki/Wichita_Transit"
         ]
       ],
       [
-        [
-          "Wichita"
-        ],
+        "Wichita",
         [
           "/wiki/Wichita,_Kansas"
         ]
       ],
       [
-        [
-          "Wichita"
-        ],
-        [
-          null
-        ]
+        "Wichita",
+        []
       ]
     ]
   ],

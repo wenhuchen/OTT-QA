@@ -3,57 +3,34 @@
   "title": "Open top buses in the United Kingdom",
   "header": [
     [
-      [
-        "County"
-      ],
-      [
-        null
-      ]
+      "County",
+      []
     ],
     [
-      [
-        "Operator"
-      ],
-      [
-        null
-      ]
+      "Operator",
+      []
     ],
     [
-      [
-        "Route"
-      ],
-      [
-        null
-      ]
+      "Route",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Cornwall"
-        ],
+        "Cornwall",
         [
           "/wiki/Cornwall"
         ]
       ],
       [
-        [
-          "First South West"
-        ],
+        "First South West",
         [
           "/wiki/First_South_West"
         ]
       ],
       [
-        [
-          "Penzance",
-          "Newlyn",
-          "Land 's End",
-          "St Just",
-          "St Ives",
-          "Marazion"
-        ],
+        "300 300 : Penzance - Newlyn - Land 's End - St Just - St Ives - Marazion - Penzance",
         [
           "/wiki/Penzance",
           "/wiki/Newlyn",
@@ -66,25 +43,19 @@
     ],
     [
       [
-        [
-          "Cumbria"
-        ],
+        "Cumbria",
         [
           "/wiki/Cumbria"
         ]
       ],
       [
-        [
-          "Stagecoach Cumbria & North Lancashire"
-        ],
+        "Stagecoach Cumbria & North Lancashire",
         [
           "/wiki/Stagecoach_Cumbria_&_North_Lancashire"
         ]
       ],
       [
-        [
-          "Keswick"
-        ],
+        "078 78 : Keswick - Borrowdale - Seatoller",
         [
           "/wiki/Keswick,_Cumbria"
         ]
@@ -92,26 +63,19 @@
     ],
     [
       [
-        [
-          "Cumbria"
-        ],
+        "Cumbria",
         [
           "/wiki/Cumbria"
         ]
       ],
       [
-        [
-          "Stagecoach Cumbria & North Lancashire"
-        ],
+        "Stagecoach Cumbria & North Lancashire",
         [
           "/wiki/Stagecoach_Cumbria_&_North_Lancashire"
         ]
       ],
       [
-        [
-          "Penrith",
-          "Ullswater"
-        ],
+        "508 508 : Penrith - Ullswater",
         [
           "/wiki/Penrith,_Cumbria",
           "/wiki/Ullswater"
@@ -120,28 +84,19 @@
     ],
     [
       [
-        [
-          "Cumbria"
-        ],
+        "Cumbria",
         [
           "/wiki/Cumbria"
         ]
       ],
       [
-        [
-          "Stagecoach Cumbria & North Lancashire"
-        ],
+        "Stagecoach Cumbria & North Lancashire",
         [
           "/wiki/Stagecoach_Cumbria_&_North_Lancashire"
         ]
       ],
       [
-        [
-          "Bowness",
-          "Windermere",
-          "Ambleside",
-          "Grasmere"
-        ],
+        "599 599 : Bowness - Windermere - Ambleside - Grasmere",
         [
           "/wiki/Bowness-on-Windmere",
           "/wiki/Windermere",
@@ -152,51 +107,33 @@
     ],
     [
       [
-        [
-          "Devon"
-        ],
-        [
-          null
-        ]
+        "Devon",
+        []
       ],
       [
-        [
-          "Stagecoach Devon"
-        ],
+        "Stagecoach Devon",
         [
           "/wiki/Stagecoach_Devon"
         ]
       ],
       [
-        [
-          "122 122 : Babbacombe - Paignton Zoo"
-        ],
-        [
-          null
-        ]
+        "122 122 : Babbacombe - Paignton Zoo",
+        []
       ]
     ],
     [
       [
-        [
-          "Devon"
-        ],
-        [
-          null
-        ]
+        "Devon",
+        []
       ],
       [
-        [
-          "Stagecoach Devon"
-        ],
+        "Stagecoach Devon",
         [
           "/wiki/Stagecoach_Devon"
         ]
       ],
       [
-        [
-          "Exmouth"
-        ],
+        "095 95 : Exmouth - Sandy Bay",
         [
           "/wiki/Exmouth"
         ]
@@ -204,26 +141,17 @@
     ],
     [
       [
-        [
-          "Devon"
-        ],
-        [
-          null
-        ]
+        "Devon",
+        []
       ],
       [
-        [
-          "Dart Pleasure Craft"
-        ],
+        "Dart Pleasure Craft",
         [
           "/wiki/Dart_Pleasure_Craft_Limited"
         ]
       ],
       [
-        [
-          "Paignton",
-          "Totnes"
-        ],
+        "100 100 : Paignton - Totnes",
         [
           "/wiki/Paignton",
           "/wiki/Totnes"
@@ -232,29 +160,17 @@
     ],
     [
       [
-        [
-          "Dorset"
-        ],
-        [
-          null
-        ]
+        "Dorset",
+        []
       ],
       [
-        [
-          "Wilts & Dorset"
-        ],
+        "Wilts & Dorset",
         [
           "/wiki/Wilts_&_Dorset"
         ]
       ],
       [
-        [
-          "Bournemouth",
-          "Poole",
-          "Swanage",
-          "Sandbanks",
-          "chain ferry"
-        ],
+        "050 50 Purbeck Breezer : Bournemouth - Poole - Swanage via Sandbanks chain ferry",
         [
           "/wiki/Bournemouth",
           "/wiki/Poole",
@@ -266,26 +182,17 @@
     ],
     [
       [
-        [
-          "Dorset"
-        ],
-        [
-          null
-        ]
+        "Dorset",
+        []
       ],
       [
-        [
-          "First Hampshire & Dorset"
-        ],
+        "First Hampshire & Dorset",
         [
           "/wiki/First_Hampshire_&_Dorset"
         ]
       ],
       [
-        [
-          "Weymouth",
-          "Portland Bill"
-        ],
+        "050 501 Weymouth - Portland Bill",
         [
           "/wiki/Weymouth,_Dorset",
           "/wiki/Portland_Bill"
@@ -294,56 +201,37 @@
     ],
     [
       [
-        [
-          "East Sussex"
-        ],
+        "East Sussex",
         [
           "/wiki/East_Sussex"
         ]
       ],
       [
-        [
-          "Brighton & Hove"
-        ],
+        "Brighton & Hove",
         [
           "/wiki/Brighton_&_Hove_(bus_company)"
         ]
       ],
       [
-        [
-          "077 77 : Brighton Pier - Devil 's Dyke 78 : Brighton Old Steine - Stanmer Park 79 : Brighton Old Steine - Ditchling Beacon"
-        ],
-        [
-          null
-        ]
+        "077 77 : Brighton Pier - Devil 's Dyke 78 : Brighton Old Steine - Stanmer Park 79 : Brighton Old Steine - Ditchling Beacon",
+        []
       ]
     ],
     [
       [
-        [
-          "Isle of Wight"
-        ],
+        "Isle of Wight",
         [
           "/wiki/Isle_of_Wight"
         ]
       ],
       [
-        [
-          "Southern Vectis"
-        ],
+        "Southern Vectis",
         [
           "/wiki/Southern_Vectis"
         ]
       ],
       [
-        [
-          "Ryde",
-          "Wootton railway station",
-          "Yarmouth",
-          "The Needles",
-          "Shanklin",
-          "Sandown"
-        ],
+        "Downs Breezer : Ryde - Wootton railway station - The Downs - Ryde Needles Breezer : Yarmouth - The Needles Sandown Bay Breezer : Shanklin - Sandown - Isle of Wight Zoo",
         [
           "/wiki/Ryde",
           "/wiki/Wootton_railway_station",
@@ -356,26 +244,19 @@
     ],
     [
       [
-        [
-          "Lincolnshire"
-        ],
+        "Lincolnshire",
         [
           "/wiki/Lincolnshire"
         ]
       ],
       [
-        [
-          "Stagecoach Lincolnshire"
-        ],
+        "Stagecoach Lincolnshire",
         [
           "/wiki/Stagecoach_Lincolnshire"
         ]
       ],
       [
-        [
-          "Skegness",
-          "Fantasy Island"
-        ],
+        "020 3 : Skegness - Fantasy Island - Anchor Lane",
         [
           "/wiki/Skegness",
           "/wiki/Fantasy_Island"
@@ -384,26 +265,19 @@
     ],
     [
       [
-        [
-          "North Yorkshire"
-        ],
+        "North Yorkshire",
         [
           "/wiki/North_Yorkshire"
         ]
       ],
       [
-        [
-          "East Yorkshire Motor Services"
-        ],
+        "East Yorkshire Motor Services",
         [
           "/wiki/East_Yorkshire_Motor_Services"
         ]
       ],
       [
-        [
-          "Scarborough",
-          "Scarborough"
-        ],
+        "108 108 : Scarborough - Bowls Centre 109 : Scarborough North Bay - Spa",
         [
           "/wiki/Scarborough,_North_Yorkshire",
           "/wiki/Scarborough,_North_Yorkshire"
@@ -412,53 +286,31 @@
     ],
     [
       [
-        [
-          "North Yorkshire"
-        ],
-        [
-          null
-        ]
+        "North Yorkshire",
+        []
       ],
       [
-        [
-          "Shorelineline Suncruisers"
-        ],
-        [
-          null
-        ]
+        "Shorelineline Suncruisers",
+        []
       ],
       [
-        [
-          "109 109 : Scarborough North Bay - South Bay"
-        ],
-        [
-          null
-        ]
+        "109 109 : Scarborough North Bay - South Bay",
+        []
       ]
     ],
     [
       [
-        [
-          "Somerset"
-        ],
-        [
-          null
-        ]
+        "Somerset",
+        []
       ],
       [
-        [
-          "First West of England"
-        ],
+        "First West of England",
         [
           "/wiki/First_West_of_England"
         ]
       ],
       [
-        [
-          "Weston-super-Mare",
-          "Brean",
-          "Burnham-on-Sea"
-        ],
+        "020 1 : Weston-super-Mare - Grand Pier - Sand Bay 20 : Weston-super-Mare - Brean - Burnham-on-Sea",
         [
           "/wiki/Weston-super-Mare",
           "/wiki/Brean",
@@ -468,26 +320,17 @@
     ],
     [
       [
-        [
-          "Wales"
-        ],
-        [
-          null
-        ]
+        "Wales",
+        []
       ],
       [
-        [
-          "Arriva Buses Wales"
-        ],
+        "Arriva Buses Wales",
         [
           "/wiki/Arriva_Buses_Wales"
         ]
       ],
       [
-        [
-          "Llandudno",
-          "Conwy"
-        ],
+        "001 1 : Llandudno - Conwy",
         [
           "/wiki/Llandudno",
           "/wiki/Conwy"
@@ -496,26 +339,17 @@
     ],
     [
       [
-        [
-          "Wales"
-        ],
-        [
-          null
-        ]
+        "Wales",
+        []
       ],
       [
-        [
-          "First Cymru"
-        ],
+        "First Cymru",
         [
           "/wiki/First_Cymru"
         ]
       ],
       [
-        [
-          "Swansea City Centre",
-          "Limeslade Bay"
-        ],
+        "001 1 : Swansea City Centre - Limeslade Bay",
         [
           "/wiki/Swansea_City_Centre",
           "/wiki/Limeslade_Bay"

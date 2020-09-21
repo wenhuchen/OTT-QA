@@ -3,717 +3,554 @@
   "title": "2010 Allsvenskan",
   "header": [
     [
-      [
-        "Team"
-      ],
-      [
-        null
-      ]
+      "Team",
+      []
     ],
     [
-      [
-        "Location"
-      ],
-      [
-        null
-      ]
+      "Location",
+      []
     ],
     [
-      [
-        "Arena"
-      ],
-      [
-        null
-      ]
+      "Arena",
+      []
     ],
     [
-      [
-        "Capacity"
-      ],
-      [
-        null
-      ]
+      "Capacity",
+      []
     ],
     [
-      [
-        "Average attendance"
-      ],
-      [
-        null
-      ]
+      "Average attendance",
+      []
+    ],
+    [
+      "Manager",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "AIK"
-        ],
+        "AIK",
         [
           "/wiki/AIK_Fotboll"
         ]
       ],
       [
-        [
-          "Solna"
-        ],
+        "Solna",
         [
           "/wiki/Solna_Municipality"
         ]
       ],
       [
-        [
-          "R\u00e5sunda Stadion"
-        ],
+        "R\u00e5sunda Stadion",
         [
           "/wiki/R\u00e5sunda_Stadion"
         ]
       ],
       [
-        [
-          "36,608"
-        ],
-        [
-          null
-        ]
+        "36,608",
+        []
       ],
       [
+        "11,925",
+        []
+      ],
+      [
+        "Alex Miller",
         [
-          "11,925"
-        ],
-        [
-          null
+          "/wiki/Alex_Miller"
         ]
       ]
     ],
     [
       [
-        [
-          "IF Brommapojkarna"
-        ],
+        "IF Brommapojkarna",
         [
           "/wiki/IF_Brommapojkarna"
         ]
       ],
       [
-        [
-          "Stockholm"
-        ],
+        "Stockholm",
         [
           "/wiki/Stockholm"
         ]
       ],
       [
-        [
-          "Grimsta IP"
-        ],
+        "Grimsta IP",
         [
           "/wiki/Grimsta_IP"
         ]
       ],
       [
-        [
-          "4,500"
-        ],
-        [
-          null
-        ]
+        "4,500",
+        []
       ],
       [
-        [
-          "2,262"
-        ],
-        [
-          null
-        ]
+        "2,262",
+        []
+      ],
+      [
+        "Kim Bergstrand",
+        []
       ]
     ],
     [
       [
-        [
-          "Djurg\u00e5rdens IF"
-        ],
+        "Djurg\u00e5rdens IF",
         [
           "/wiki/Djurg\u00e5rdens_IF_Fotboll"
         ]
       ],
       [
-        [
-          "Stockholm"
-        ],
+        "Stockholm",
         [
           "/wiki/Stockholm"
         ]
       ],
       [
-        [
-          "Stockholms Stadion"
-        ],
+        "Stockholms Stadion",
         [
           "/wiki/Stockholms_Stadion"
         ]
       ],
       [
-        [
-          "14,500"
-        ],
-        [
-          null
-        ]
+        "14,500",
+        []
       ],
       [
-        [
-          "7,178"
-        ],
-        [
-          null
-        ]
+        "7,178",
+        []
+      ],
+      [
+        "Lennart Wass Carlos Banda",
+        []
       ]
     ],
     [
       [
-        [
-          "IF Elfsborg"
-        ],
+        "IF Elfsborg",
         [
           "/wiki/IF_Elfsborg"
         ]
       ],
       [
-        [
-          "Bor\u00e5s"
-        ],
+        "Bor\u00e5s",
         [
           "/wiki/Bor\u00e5s"
         ]
       ],
       [
-        [
-          "Bor\u00e5s Arena"
-        ],
+        "Bor\u00e5s Arena",
         [
           "/wiki/Bor\u00e5s_Arena"
         ]
       ],
       [
-        [
-          "17,800"
-        ],
-        [
-          null
-        ]
+        "17,800",
+        []
       ],
       [
-        [
-          "8,423"
-        ],
-        [
-          null
-        ]
+        "8,423",
+        []
+      ],
+      [
+        "Magnus Haglund",
+        []
       ]
     ],
     [
       [
-        [
-          "GAIS"
-        ],
+        "GAIS",
         [
           "/wiki/GAIS"
         ]
       ],
       [
-        [
-          "Gothenburg"
-        ],
+        "Gothenburg",
         [
           "/wiki/Gothenburg"
         ]
       ],
       [
-        [
-          "Gamla Ullevi"
-        ],
+        "Gamla Ullevi",
         [
           "/wiki/Gamla_Ullevi"
         ]
       ],
       [
-        [
-          "18,800"
-        ],
-        [
-          null
-        ]
+        "18,800",
+        []
       ],
       [
-        [
-          "4,666"
-        ],
-        [
-          null
-        ]
+        "4,666",
+        []
+      ],
+      [
+        "Alexander Ax\u00e9n",
+        []
       ]
     ],
     [
       [
-        [
-          "Gefle IF"
-        ],
+        "Gefle IF",
         [
           "/wiki/Gefle_IF"
         ]
       ],
       [
-        [
-          "G\u00e4vle"
-        ],
+        "G\u00e4vle",
         [
           "/wiki/G\u00e4vle"
         ]
       ],
       [
-        [
-          "Str\u00f6mvallen"
-        ],
+        "Str\u00f6mvallen",
         [
           "/wiki/Str\u00f6mvallen"
         ]
       ],
       [
-        [
-          "7,300"
-        ],
-        [
-          null
-        ]
+        "7,300",
+        []
       ],
       [
-        [
-          "3,500"
-        ],
-        [
-          null
-        ]
+        "3,500",
+        []
+      ],
+      [
+        "Per Olsson",
+        []
       ]
     ],
     [
       [
-        [
-          "Halmstads BK"
-        ],
+        "Halmstads BK",
         [
           "/wiki/Halmstads_BK"
         ]
       ],
       [
-        [
-          "Halmstad"
-        ],
+        "Halmstad",
         [
           "/wiki/Halmstad"
         ]
       ],
       [
-        [
-          "\u00d6rjans Vall"
-        ],
+        "\u00d6rjans Vall",
         [
           "/wiki/\u00d6rjans_Vall"
         ]
       ],
       [
-        [
-          "15,500"
-        ],
-        [
-          null
-        ]
+        "15,500",
+        []
       ],
       [
+        "4,240",
+        []
+      ],
+      [
+        "Lars Jacobsson",
         [
-          "4,240"
-        ],
-        [
-          null
+          "/wiki/Lars_Jacobsson"
         ]
       ]
     ],
     [
       [
-        [
-          "Helsingborgs IF"
-        ],
+        "Helsingborgs IF",
         [
           "/wiki/Helsingborgs_IF"
         ]
       ],
       [
-        [
-          "Helsingborg"
-        ],
+        "Helsingborg",
         [
           "/wiki/Helsingborg"
         ]
       ],
       [
-        [
-          "Olympia"
-        ],
+        "Olympia",
         [
           "/wiki/Olympia_(stadium)"
         ]
       ],
       [
-        [
-          "17,200"
-        ],
-        [
-          null
-        ]
+        "17,200",
+        []
       ],
       [
+        "10,543",
+        []
+      ],
+      [
+        "Conny Karlsson",
         [
-          "10,543"
-        ],
-        [
-          null
+          "/wiki/Conny_Karlsson_(footballer)"
         ]
       ]
     ],
     [
       [
-        [
-          "BK H\u00e4cken"
-        ],
+        "BK H\u00e4cken",
         [
           "/wiki/BK_H\u00e4cken"
         ]
       ],
       [
-        [
-          "Gothenburg"
-        ],
+        "Gothenburg",
         [
           "/wiki/Gothenburg"
         ]
       ],
       [
-        [
-          "Rambergsvallen"
-        ],
+        "Rambergsvallen",
         [
           "/wiki/Rambergsvallen"
         ]
       ],
       [
-        [
-          "7,000"
-        ],
-        [
-          null
-        ]
+        "7,000",
+        []
       ],
       [
-        [
-          "2,576"
-        ],
-        [
-          null
-        ]
+        "2,576",
+        []
+      ],
+      [
+        "Peter Gerhardsson",
+        []
       ]
     ],
     [
       [
-        [
-          "IFK G\u00f6teborg"
-        ],
+        "IFK G\u00f6teborg",
         [
           "/wiki/IFK_G\u00f6teborg"
         ]
       ],
       [
-        [
-          "Gothenburg"
-        ],
+        "Gothenburg",
         [
           "/wiki/Gothenburg"
         ]
       ],
       [
-        [
-          "Gamla Ullevi"
-        ],
+        "Gamla Ullevi",
         [
           "/wiki/Gamla_Ullevi"
         ]
       ],
       [
-        [
-          "18,800"
-        ],
-        [
-          null
-        ]
+        "18,800",
+        []
       ],
       [
+        "10,489",
+        []
+      ],
+      [
+        "Stefan Rehn Jonas Olsson",
         [
-          "10,489"
-        ],
-        [
-          null
+          "/wiki/Stefan_Rehn",
+          "/wiki/Jonas_Olsson_(footballer_born_1970)"
         ]
       ]
     ],
     [
       [
-        [
-          "Kalmar FF"
-        ],
+        "Kalmar FF",
         [
           "/wiki/Kalmar_FF"
         ]
       ],
       [
-        [
-          "Kalmar"
-        ],
+        "Kalmar",
         [
           "/wiki/Kalmar"
         ]
       ],
       [
-        [
-          "Fredriksskans"
-        ],
+        "Fredriksskans",
         [
           "/wiki/Fredriksskans"
         ]
       ],
       [
-        [
-          "9,000"
-        ],
-        [
-          null
-        ]
+        "9,000",
+        []
       ],
       [
+        "4,285",
+        []
+      ],
+      [
+        "Nanne Bergstrand",
         [
-          "4,285"
-        ],
-        [
-          null
+          "/wiki/Nanne_Bergstrand"
         ]
       ]
     ],
     [
       [
-        [
-          "Malm\u00f6 FF"
-        ],
+        "Malm\u00f6 FF",
         [
           "/wiki/Malm\u00f6_FF"
         ]
       ],
       [
-        [
-          "Malm\u00f6"
-        ],
+        "Malm\u00f6",
         [
           "/wiki/Malm\u00f6"
         ]
       ],
       [
-        [
-          "Swedbank Stadion"
-        ],
+        "Swedbank Stadion",
         [
           "/wiki/Swedbank_Stadion"
         ]
       ],
       [
-        [
-          "24,000"
-        ],
-        [
-          null
-        ]
+        "24,000",
+        []
       ],
       [
+        "15,194",
+        []
+      ],
+      [
+        "Roland Nilsson",
         [
-          "15,194"
-        ],
-        [
-          null
+          "/wiki/Roland_Nilsson"
         ]
       ]
     ],
     [
       [
-        [
-          "Mj\u00e4llby AIF"
-        ],
+        "Mj\u00e4llby AIF",
         [
           "/wiki/Mj\u00e4llby_AIF"
         ]
       ],
       [
-        [
-          "Mj\u00e4llby"
-        ],
+        "Mj\u00e4llby",
         [
           "/wiki/Mj\u00e4llby"
         ]
       ],
       [
-        [
-          "Strandvallen"
-        ],
+        "Strandvallen",
         [
           "/wiki/Strandvallen"
         ]
       ],
       [
-        [
-          "7,500"
-        ],
-        [
-          null
-        ]
+        "7,500",
+        []
       ],
       [
-        [
-          "4,380"
-        ],
-        [
-          null
-        ]
+        "4,380",
+        []
+      ],
+      [
+        "Peter Sw\u00e4rdh",
+        []
       ]
     ],
     [
       [
-        [
-          "Trelleborgs FF"
-        ],
+        "Trelleborgs FF",
         [
           "/wiki/Trelleborgs_FF"
         ]
       ],
       [
-        [
-          "Trelleborg"
-        ],
+        "Trelleborg",
         [
           "/wiki/Trelleborg"
         ]
       ],
       [
-        [
-          "V\u00e5ngavallen"
-        ],
+        "V\u00e5ngavallen",
         [
           "/wiki/V\u00e5ngavallen"
         ]
       ],
       [
-        [
-          "10,000"
-        ],
-        [
-          null
-        ]
+        "10,000",
+        []
       ],
       [
+        "2,911",
+        []
+      ],
+      [
+        "Tom Prahl",
         [
-          "2,911"
-        ],
-        [
-          null
+          "/wiki/Tom_Prahl"
         ]
       ]
     ],
     [
       [
-        [
-          "\u00c5tvidabergs FF"
-        ],
+        "\u00c5tvidabergs FF",
         [
           "/wiki/\u00c5tvidabergs_FF"
         ]
       ],
       [
-        [
-          "\u00c5tvidaberg"
-        ],
+        "\u00c5tvidaberg",
         [
           "/wiki/\u00c5tvidaberg"
         ]
       ],
       [
-        [
-          "Kopparvallen"
-        ],
-        [
-          null
-        ]
+        "Kopparvallen",
+        []
       ],
       [
-        [
-          "8,000"
-        ],
-        [
-          null
-        ]
+        "8,000",
+        []
       ],
       [
-        [
-          "4,004"
-        ],
-        [
-          null
-        ]
+        "4,004",
+        []
+      ],
+      [
+        "Andreas Thomsson",
+        []
       ]
     ],
     [
       [
-        [
-          "\u00d6rebro SK"
-        ],
+        "\u00d6rebro SK",
         [
           "/wiki/\u00d6rebro_SK"
         ]
       ],
       [
-        [
-          "\u00d6rebro"
-        ],
+        "\u00d6rebro",
         [
           "/wiki/\u00d6rebro"
         ]
       ],
       [
-        [
-          "Behrn Arena"
-        ],
+        "Behrn Arena",
         [
           "/wiki/Behrn_Arena"
         ]
       ],
       [
-        [
-          "14,500"
-        ],
-        [
-          null
-        ]
+        "14,500",
+        []
       ],
       [
-        [
-          "7,704"
-        ],
-        [
-          null
-        ]
+        "7,704",
+        []
+      ],
+      [
+        "Sixten Bostr\u00f6m",
+        []
       ]
     ]
   ],

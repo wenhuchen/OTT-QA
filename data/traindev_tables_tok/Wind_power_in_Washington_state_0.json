@@ -3,25 +3,15 @@
   "title": "Wind power in Washington (state)",
   "header": [
     [
-      [
-        "Name"
-      ],
-      [
-        null
-      ]
+      "Name",
+      []
     ],
     [
-      [
-        "Location"
-      ],
-      [
-        null
-      ]
+      "Location",
+      []
     ],
     [
-      [
-        "MW"
-      ],
+      "Capacity ( MW )",
       [
         "/wiki/Megawatt"
       ]
@@ -30,288 +20,192 @@
   "data": [
     [
       [
-        [
-          "Windy Point Wind Farm"
-        ],
+        "Windy Point Wind Farm",
         [
           "/wiki/Windy_Point_Wind_Farm"
         ]
       ],
       [
-        [
-          "Klickitat County"
-        ],
+        "Klickitat County",
         [
           "/wiki/Klickitat_County,_Washington"
         ]
       ],
       [
-        [
-          "400"
-        ],
-        [
-          null
-        ]
+        "400",
+        []
       ]
     ],
     [
       [
-        [
-          "Wild Horse Wind Farm"
-        ],
+        "Wild Horse Wind Farm",
         [
           "/wiki/Wild_Horse_Wind_Farm"
         ]
       ],
       [
-        [
-          "Kittitas County"
-        ],
+        "Kittitas County",
         [
           "/wiki/Kittitas_County,_Washington"
         ]
       ],
       [
-        [
-          "273"
-        ],
-        [
-          null
-        ]
+        "273",
+        []
       ]
     ],
     [
       [
-        [
-          "Marengo Wind Farm"
-        ],
+        "Marengo Wind Farm",
         [
           "/wiki/Marengo_Wind_Farm"
         ]
       ],
       [
-        [
-          "Columbia County"
-        ],
+        "Columbia County",
         [
           "/wiki/Columbia_County,_Washington"
         ]
       ],
       [
-        [
-          "211"
-        ],
-        [
-          null
-        ]
+        "211",
+        []
       ]
     ],
     [
       [
-        [
-          "White Creek Wind Farm"
-        ],
+        "White Creek Wind Farm",
         [
           "/wiki/White_Creek_Wind_Farm"
         ]
       ],
       [
-        [
-          "Klickitat County"
-        ],
+        "Klickitat County",
         [
           "/wiki/Klickitat_County,_Washington"
         ]
       ],
       [
-        [
-          "205"
-        ],
-        [
-          null
-        ]
+        "205",
+        []
       ]
     ],
     [
       [
-        [
-          "Big Horn Wind Farm"
-        ],
+        "Big Horn Wind Farm",
         [
           "/wiki/Big_Horn_Wind_Farm"
         ]
       ],
       [
-        [
-          "Klickitat County"
-        ],
+        "Klickitat County",
         [
           "/wiki/Klickitat_County,_Washington"
         ]
       ],
       [
-        [
-          "200"
-        ],
-        [
-          null
-        ]
+        "200",
+        []
       ]
     ],
     [
       [
-        [
-          "Stateline Wind Farm"
-        ],
+        "Stateline Wind Farm",
         [
           "/wiki/Stateline_Wind_Farm"
         ]
       ],
       [
-        [
-          "Walla Walla County"
-        ],
+        "Walla Walla County",
         [
           "/wiki/Walla_Walla_County,_Washington"
         ]
       ],
       [
-        [
-          "177"
-        ],
-        [
-          null
-        ]
+        "177",
+        []
       ]
     ],
     [
       [
-        [
-          "Hopkins Ridge Wind Farm"
-        ],
-        [
-          null
-        ]
+        "Hopkins Ridge Wind Farm",
+        []
       ],
       [
-        [
-          "Columbia County"
-        ],
+        "Columbia County",
         [
           "/wiki/Columbia_County,_Washington"
         ]
       ],
       [
-        [
-          "157"
-        ],
-        [
-          null
-        ]
+        "157",
+        []
       ]
     ],
     [
       [
-        [
-          "Lower Snake River Wind Project"
-        ],
+        "Lower Snake River Wind Project",
         [
           "/wiki/Lower_Snake_River_Wind_Project"
         ]
       ],
       [
-        [
-          "Garfield County"
-        ],
+        "Garfield County",
         [
           "/wiki/Garfield_County,_Washington"
         ]
       ],
       [
-        [
-          "342.7"
-        ],
-        [
-          null
-        ]
+        "342.7",
+        []
       ]
     ],
     [
       [
-        [
-          "Tucannon River Wind Farm"
-        ],
-        [
-          null
-        ]
+        "Tucannon River Wind Farm",
+        []
       ],
       [
-        [
-          "Dayton"
-        ],
+        "Dayton",
         [
           "/wiki/Dayton,_Washington"
         ]
       ],
       [
-        [
-          "267"
-        ],
-        [
-          null
-        ]
+        "267",
+        []
       ]
     ],
     [
       [
-        [
-          "Palouse Wind Farm"
-        ],
-        [
-          null
-        ]
+        "Palouse Wind Farm",
+        []
       ],
       [
-        [
-          "Whitman County , Washington"
-        ],
+        "Whitman County , Washington",
         [
           "/wiki/Whitman_County,_Washington"
         ]
       ],
       [
-        [
-          "100"
-        ],
-        [
-          null
-        ]
+        "100",
+        []
       ]
     ],
     [
       [
-        [
-          "Nine Canyon Wind Project"
-        ],
-        [
-          null
-        ]
+        "Nine Canyon Wind Project",
+        []
       ],
       [
-        [
-          "Benton County , Washington"
-        ],
+        "Benton County , Washington",
         [
           "/wiki/Benton_County,_Washington"
         ]
       ],
       [
-        [
-          "95.9"
-        ],
-        [
-          null
-        ]
+        "95.9",
+        []
       ]
     ]
   ],

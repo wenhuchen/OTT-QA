@@ -3,140 +3,94 @@
   "title": "Goitre",
   "header": [
     [
-      [
-        "Cause"
-      ],
-      [
-        null
-      ]
+      "Cause",
+      []
     ],
     [
-      [
-        "Pathophysiology"
-      ],
-      [
-        null
-      ]
+      "Pathophysiology",
+      []
     ],
     [
-      [
-        "Resultant thyroid activity"
-      ],
-      [
-        null
-      ]
+      "Resultant thyroid activity",
+      []
     ],
     [
-      [
-        "Growth pattern"
-      ],
-      [
-        null
-      ]
+      "Growth pattern",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Iodine deficiency"
-        ],
+        "Iodine deficiency",
         [
           "/wiki/Iodine_deficiency"
         ]
       ],
       [
-        [
-          "Hyperplasia"
-        ],
+        "Hyperplasia of thyroid to compensate for decreased efficacy",
         [
           "/wiki/Hyperplasia"
         ]
       ],
       [
-        [
-          "hypothyroidism"
-        ],
+        "Can cause hypothyroidism",
         [
           "/wiki/Hypothyroidism"
         ]
       ],
       [
-        [
-          "Diffuse"
-        ],
-        [
-          null
-        ]
+        "Diffuse",
+        []
       ]
     ],
     [
       [
-        [
-          "Congenital hypothyroidism"
-        ],
+        "Congenital hypothyroidism",
         [
           "/wiki/Congenital_hypothyroidism"
         ]
       ],
       [
-        [
-          "Inborn errors",
-          "thyroid hormone synthesis"
-        ],
+        "Inborn errors of thyroid hormone synthesis",
         [
           "/wiki/Inborn_errors_of_metabolism",
           "/wiki/Thyroid_hormones"
         ]
       ],
       [
-        [
-          "Hypothyroidism"
-        ],
+        "Hypothyroidism",
         [
           "/wiki/Hypothyroidism"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Hashimoto 's thyroiditis"
-        ],
+        "Hashimoto 's thyroiditis",
         [
           "/wiki/Hashimoto's_thyroiditis"
         ]
       ],
       [
-        [
-          "Autoimmune disease",
-          "lymphocytes"
-        ],
+        "Autoimmune disease in which the thyroid gland is gradually destroyed . Infiltration of lymphocytes",
         [
           "/wiki/Autoimmune_disease",
           "/wiki/Lymphocyte"
         ]
       ],
       [
-        [
-          "Hypothyroidism"
-        ],
+        "Hypothyroidism",
         [
           "/wiki/Hypothyroidism"
         ]
       ],
       [
-        [
-          "lobulated"
-        ],
+        "Diffuse and lobulated",
         [
           "/wiki/Lobulated"
         ]
@@ -144,212 +98,139 @@
     ],
     [
       [
-        [
-          "Pituitary disease"
-        ],
+        "Pituitary disease",
         [
           "/wiki/Pituitary_disease"
         ]
       ],
       [
-        [
-          "thyroid stimulating hormone"
-        ],
+        "Hypersecretion of thyroid stimulating hormone , almost always by a pituitary adenoma",
         [
           "/wiki/Thyroid_stimulating_hormone"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Diffuse"
-        ],
-        [
-          null
-        ]
+        "Diffuse",
+        []
       ]
     ],
     [
       [
-        [
-          "Graves ' disease"
-        ],
+        "Graves ' disease - also called Basedow syndrome",
         [
           "/wiki/Graves'_disease"
         ]
       ],
       [
-        [
-          "Autoantibodies",
-          "TSH"
-        ],
+        "Autoantibodies ( TSHR-Ab ) that activate the TSH -receptor ( TSHR )",
         [
           "/wiki/Autoantibodies",
           "/wiki/Thyroid-stimulating_hormone"
         ]
       ],
       [
-        [
-          "Hyperthyroidism"
-        ],
+        "Hyperthyroidism",
         [
           "/wiki/Hyperthyroidism"
         ]
       ],
       [
-        [
-          "Diffuse"
-        ],
-        [
-          null
-        ]
+        "Diffuse",
+        []
       ]
     ],
     [
       [
-        [
-          "Thyroiditis"
-        ],
+        "Thyroiditis",
         [
           "/wiki/Thyroiditis"
         ]
       ],
       [
-        [
-          "inflammation"
-        ],
+        "Acute or chronic inflammation",
         [
           "/wiki/Inflammation"
         ]
       ],
       [
-        [
-          "hyperthyroidism",
-          "hypothyroidism"
-        ],
+        "Can be hyperthyroidism initially , but progress to hypothyroidism",
         [
           "/wiki/Hyperthyroidism",
           "/wiki/Hypothyroidism"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Thyroid cancer"
-        ],
+        "Thyroid cancer",
         [
           "/wiki/Thyroid_cancer"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Usually uninodular"
-        ],
-        [
-          null
-        ]
+        "Usually uninodular",
+        []
       ]
     ],
     [
       [
-        [
-          "thyroid neoplasms"
-        ],
+        "Benign thyroid neoplasms",
         [
           "/wiki/Thyroid_neoplasm"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "hyperthyroidism"
-        ],
+        "Usually hyperthyroidism",
         [
           "/wiki/Hyperthyroidism"
         ]
       ],
       [
-        [
-          "Usually uninodular"
-        ],
-        [
-          null
-        ]
+        "Usually uninodular",
+        []
       ]
     ],
     [
       [
-        [
-          "Thyroid hormone insensitivity"
-        ],
+        "Thyroid hormone insensitivity",
         [
           "/wiki/Thyroid_hormone_insensitivity"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "hyperthyroidism",
-          "hypothyroidism"
-        ],
+        "Secretional hyperthyroidism , Symptomatic hypothyroidism",
         [
           "/wiki/Hyperthyroidism",
           "/wiki/Hypothyroidism"
         ]
       ],
       [
-        [
-          "Diffuse"
-        ],
-        [
-          null
-        ]
+        "Diffuse",
+        []
       ]
     ]
   ],

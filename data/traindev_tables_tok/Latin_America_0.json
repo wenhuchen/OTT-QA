@@ -3,35 +3,19 @@
   "title": "Latin America",
   "header": [
     [
-      [
-        "City"
-      ],
-      [
-        null
-      ]
+      "City",
+      []
     ],
     [
-      [
-        "Country"
-      ],
-      [
-        null
-      ]
+      "Country",
+      []
     ],
     [
-      [
-        "2017 population"
-      ],
-      [
-        null
-      ]
+      "2017 population",
+      []
     ],
     [
-      [
-        "GDP",
-        "PPP",
-        "USD"
-      ],
+      "2014 GDP ( PPP , $ million , USD )",
       [
         "/wiki/Gross_domestic_product",
         "/wiki/GDP_(PPP)",
@@ -39,9 +23,7 @@
       ]
     ],
     [
-      [
-        "USD"
-      ],
+      "2014 GDP per capita , ( USD )",
       [
         "/wiki/USD"
       ]
@@ -50,422 +32,262 @@
   "data": [
     [
       [
-        [
-          "Mexico City"
-        ],
+        "Mexico City",
         [
           "/wiki/Greater_Mexico_City"
         ]
       ],
       [
-        [
-          "Mexico"
-        ],
+        "Mexico",
         [
           "/wiki/Mexico"
         ]
       ],
       [
-        [
-          "23,655,355"
-        ],
-        [
-          null
-        ]
+        "23,655,355",
+        []
       ],
       [
-        [
-          "$ 403,561"
-        ],
-        [
-          null
-        ]
+        "$ 403,561",
+        []
       ],
       [
-        [
-          "$ 19,239"
-        ],
-        [
-          null
-        ]
+        "$ 19,239",
+        []
       ]
     ],
     [
       [
-        [
-          "S\u00e3o Paulo"
-        ],
+        "S\u00e3o Paulo",
         [
           "/wiki/Greater_S\u00e3o_Paulo"
         ]
       ],
       [
-        [
-          "Brazil"
-        ],
+        "Brazil",
         [
           "/wiki/Brazil"
         ]
       ],
       [
-        [
-          "23,467,354"
-        ],
-        [
-          null
-        ]
+        "23,467,354",
+        []
       ],
       [
-        [
-          "$ 430,510"
-        ],
-        [
-          null
-        ]
+        "$ 430,510",
+        []
       ],
       [
-        [
-          "$ 20,650"
-        ],
-        [
-          null
-        ]
+        "$ 20,650",
+        []
       ]
     ],
     [
       [
-        [
-          "Buenos Aires"
-        ],
+        "Buenos Aires",
         [
           "/wiki/Greater_Buenos_Aires"
         ]
       ],
       [
-        [
-          "Argentina"
-        ],
+        "Argentina",
         [
           "/wiki/Argentina"
         ]
       ],
       [
-        [
-          "15,564,354"
-        ],
-        [
-          null
-        ]
+        "15,564,354",
+        []
       ],
       [
-        [
-          "$ 315,885"
-        ],
-        [
-          null
-        ]
+        "$ 315,885",
+        []
       ],
       [
-        [
-          "$ 23,606"
-        ],
-        [
-          null
-        ]
+        "$ 23,606",
+        []
       ]
     ],
     [
       [
-        [
-          "Rio de Janeiro"
-        ],
+        "Rio de Janeiro",
         [
           "/wiki/Greater_Rio_de_Janeiro"
         ]
       ],
       [
-        [
-          "Brazil"
-        ],
+        "Brazil",
         [
           "/wiki/Brazil"
         ]
       ],
       [
-        [
-          "14,440,345"
-        ],
-        [
-          null
-        ]
+        "14,440,345",
+        []
       ],
       [
-        [
-          "$ 176,630"
-        ],
-        [
-          null
-        ]
+        "$ 176,630",
+        []
       ],
       [
-        [
-          "$ 14,176"
-        ],
-        [
-          null
-        ]
+        "$ 14,176",
+        []
       ]
     ],
     [
       [
-        [
-          "Bogot\u00e1"
-        ],
+        "Bogot\u00e1",
         [
           "/wiki/Metropolitan_Area_of_Bogot\u00e1"
         ]
       ],
       [
-        [
-          "Colombia"
-        ],
+        "Colombia",
         [
           "/wiki/Colombia"
         ]
       ],
       [
-        [
-          "9,900,800"
-        ],
-        [
-          null
-        ]
+        "9,900,800",
+        []
       ],
       [
-        [
-          "$ 199,150"
-        ],
-        [
-          null
-        ]
+        "$ 199,150",
+        []
       ],
       [
-        [
-          "$ 19,497"
-        ],
-        [
-          null
-        ]
+        "$ 19,497",
+        []
       ]
     ],
     [
       [
-        [
-          "Lima"
-        ],
+        "Lima",
         [
           "/wiki/Lima_Metropolitan_Area"
         ]
       ],
       [
-        [
-          "Peru"
-        ],
+        "Peru",
         [
           "/wiki/Peru"
         ]
       ],
       [
-        [
-          "9,752,000"
-        ],
-        [
-          null
-        ]
+        "9,752,000",
+        []
       ],
       [
-        [
-          "$ 176,447"
-        ],
-        [
-          null
-        ]
+        "$ 176,447",
+        []
       ],
       [
-        [
-          "$ 16,530"
-        ],
-        [
-          null
-        ]
+        "$ 16,530",
+        []
       ]
     ],
     [
       [
-        [
-          "Santiago"
-        ],
+        "Santiago",
         [
           "/wiki/Santiago_Metropolitan_Region"
         ]
       ],
       [
-        [
-          "Chile"
-        ],
+        "Chile",
         [
           "/wiki/Chile"
         ]
       ],
       [
-        [
-          "7,164,400"
-        ],
-        [
-          null
-        ]
+        "7,164,400",
+        []
       ],
       [
-        [
-          "$ 171,436"
-        ],
-        [
-          null
-        ]
+        "$ 171,436",
+        []
       ],
       [
-        [
-          "$ 23,290"
-        ],
-        [
-          null
-        ]
+        "$ 23,290",
+        []
       ]
     ],
     [
       [
-        [
-          "Belo Horizonte"
-        ],
+        "Belo Horizonte",
         [
           "/wiki/Greater_Belo_Horizonte"
         ]
       ],
       [
-        [
-          "Brazil"
-        ],
+        "Brazil",
         [
           "/wiki/Brazil"
         ]
       ],
       [
-        [
-          "6,145,800"
-        ],
-        [
-          null
-        ]
+        "6,145,800",
+        []
       ],
       [
-        [
-          "$ 95,686"
-        ],
-        [
-          null
-        ]
+        "$ 95,686",
+        []
       ],
       [
-        [
-          "$ 17,635"
-        ],
-        [
-          null
-        ]
+        "$ 17,635",
+        []
       ]
     ],
     [
       [
-        [
-          "Guadalajara"
-        ],
+        "Guadalajara",
         [
           "/wiki/Guadalajara_Metropolitan_Area"
         ]
       ],
       [
-        [
-          "Mexico"
-        ],
+        "Mexico",
         [
           "/wiki/Mexico"
         ]
       ],
       [
-        [
-          "4,687,700"
-        ],
-        [
-          null
-        ]
+        "4,687,700",
+        []
       ],
       [
-        [
-          "$ 80,656"
-        ],
-        [
-          null
-        ]
+        "$ 80,656",
+        []
       ],
       [
-        [
-          "$ 17,206"
-        ],
-        [
-          null
-        ]
+        "$ 17,206",
+        []
       ]
     ],
     [
       [
-        [
-          "Monterrey"
-        ],
+        "Monterrey",
         [
           "/wiki/Monterrey_Metropolitan_area"
         ]
       ],
       [
-        [
-          "Mexico"
-        ],
+        "Mexico",
         [
           "/wiki/Mexico"
         ]
       ],
       [
-        [
-          "4,344,200"
-        ],
-        [
-          null
-        ]
+        "4,344,200",
+        []
       ],
       [
-        [
-          "$ 122,896"
-        ],
-        [
-          null
-        ]
+        "$ 122,896",
+        []
       ],
       [
-        [
-          "$ 28,290"
-        ],
-        [
-          null
-        ]
+        "$ 28,290",
+        []
       ]
     ]
   ],

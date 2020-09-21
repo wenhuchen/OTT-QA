@@ -3,25 +3,15 @@
   "title": "Dinar",
   "header": [
     [
-      [
-        "Countries"
-      ],
-      [
-        null
-      ]
+      "Countries",
+      []
     ],
     [
-      [
-        "Currency"
-      ],
-      [
-        null
-      ]
+      "Currency",
+      []
     ],
     [
-      [
-        "ISO 4217"
-      ],
+      "ISO 4217 code",
       [
         "/wiki/ISO_4217"
       ]
@@ -30,236 +20,164 @@
   "data": [
     [
       [
-        [
-          "Algeria"
-        ],
+        "Algeria",
         [
           "/wiki/Algeria"
         ]
       ],
       [
-        [
-          "Algerian dinar"
-        ],
+        "Algerian dinar",
         [
           "/wiki/Algerian_dinar"
         ]
       ],
       [
-        [
-          "DZD"
-        ],
-        [
-          null
-        ]
+        "DZD",
+        []
       ]
     ],
     [
       [
-        [
-          "Bahrain"
-        ],
+        "Bahrain",
         [
           "/wiki/Bahrain"
         ]
       ],
       [
-        [
-          "Bahraini dinar"
-        ],
+        "Bahraini dinar",
         [
           "/wiki/Bahraini_dinar"
         ]
       ],
       [
-        [
-          "BHD"
-        ],
-        [
-          null
-        ]
+        "BHD",
+        []
       ]
     ],
     [
       [
-        [
-          "Iraq"
-        ],
+        "Iraq",
         [
           "/wiki/Iraq"
         ]
       ],
       [
-        [
-          "Iraqi dinar"
-        ],
+        "Iraqi dinar",
         [
           "/wiki/Iraqi_dinar"
         ]
       ],
       [
-        [
-          "IQD"
-        ],
-        [
-          null
-        ]
+        "IQD",
+        []
       ]
     ],
     [
       [
-        [
-          "Jordan"
-        ],
+        "Jordan",
         [
           "/wiki/Jordan"
         ]
       ],
       [
-        [
-          "Jordanian dinar"
-        ],
+        "Jordanian dinar",
         [
           "/wiki/Jordanian_dinar"
         ]
       ],
       [
-        [
-          "JOD"
-        ],
-        [
-          null
-        ]
+        "JOD",
+        []
       ]
     ],
     [
       [
-        [
-          "Kuwait"
-        ],
+        "Kuwait",
         [
           "/wiki/Kuwait"
         ]
       ],
       [
-        [
-          "Kuwaiti dinar"
-        ],
+        "Kuwaiti dinar",
         [
           "/wiki/Kuwaiti_dinar"
         ]
       ],
       [
-        [
-          "KWD"
-        ],
-        [
-          null
-        ]
+        "KWD",
+        []
       ]
     ],
     [
       [
-        [
-          "Libya"
-        ],
+        "Libya",
         [
           "/wiki/Libya"
         ]
       ],
       [
-        [
-          "Libyan dinar"
-        ],
+        "Libyan dinar",
         [
           "/wiki/Libyan_dinar"
         ]
       ],
       [
-        [
-          "LYD"
-        ],
-        [
-          null
-        ]
+        "LYD",
+        []
       ]
     ],
     [
       [
-        [
-          "North Macedonia"
-        ],
+        "North Macedonia",
         [
           "/wiki/North_Macedonia"
         ]
       ],
       [
-        [
-          "Macedonian denar"
-        ],
+        "Macedonian denar",
         [
           "/wiki/Macedonian_denar"
         ]
       ],
       [
-        [
-          "MKN ( 1992-1993 ) MKD ( 1993\u2212 )"
-        ],
-        [
-          null
-        ]
+        "MKN ( 1992-1993 ) MKD ( 1993\u2212 )",
+        []
       ]
     ],
     [
       [
-        [
-          "Serbia"
-        ],
+        "Serbia",
         [
           "/wiki/Serbia"
         ]
       ],
       [
-        [
-          "Serbian dinar"
-        ],
+        "Serbian dinar",
         [
           "/wiki/Serbian_dinar"
         ]
       ],
       [
-        [
-          "RSD CSD ( 2003-2006 )"
-        ],
-        [
-          null
-        ]
+        "RSD CSD ( 2003-2006 )",
+        []
       ]
     ],
     [
       [
-        [
-          "Tunisia"
-        ],
+        "Tunisia",
         [
           "/wiki/Tunisia"
         ]
       ],
       [
-        [
-          "Tunisian dinar"
-        ],
+        "Tunisian dinar",
         [
           "/wiki/Tunisian_dinar"
         ]
       ],
       [
-        [
-          "TND"
-        ],
-        [
-          null
-        ]
+        "TND",
+        []
       ]
     ]
   ],

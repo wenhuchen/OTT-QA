@@ -3,84 +3,52 @@
   "title": "Media in Toronto",
   "header": [
     [
-      [
-        "Frequency"
-      ],
-      [
-        null
-      ]
+      "Frequency",
+      []
     ],
     [
-      [
-        "Call sign"
-      ],
-      [
-        null
-      ]
+      "Call sign",
+      []
     ],
     [
-      [
-        "Branding"
-      ],
-      [
-        null
-      ]
+      "Branding",
+      []
     ],
     [
-      [
-        "Format"
-      ],
-      [
-        null
-      ]
+      "Format",
+      []
     ],
     [
-      [
-        "Owner"
-      ],
-      [
-        null
-      ]
+      "Owner",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "AM"
-        ],
+        "AM 590",
         [
           "/wiki/AM_radio"
         ]
       ],
       [
-        [
-          "CJCL"
-        ],
+        "CJCL",
         [
           "/wiki/CJCL"
         ]
       ],
       [
-        [
-          "Sportsnet 590 The Fan"
-        ],
-        [
-          null
-        ]
+        "Sportsnet 590 The Fan",
+        []
       ],
       [
-        [
-          "sports"
-        ],
+        "sports",
         [
           "/wiki/Sports_radio"
         ]
       ],
       [
-        [
-          "Rogers Media"
-        ],
+        "Rogers Media",
         [
           "/wiki/Rogers_Media"
         ]
@@ -88,41 +56,27 @@
     ],
     [
       [
-        [
-          "AM 640"
-        ],
-        [
-          null
-        ]
+        "AM 640",
+        []
       ],
       [
-        [
-          "CFMJ"
-        ],
+        "CFMJ",
         [
           "/wiki/CFMJ"
         ]
       ],
       [
-        [
-          "Global News Radio 640 Toronto"
-        ],
-        [
-          null
-        ]
+        "Global News Radio 640 Toronto",
+        []
       ],
       [
-        [
-          "talk"
-        ],
+        "talk",
         [
           "/wiki/Talk_radio"
         ]
       ],
       [
-        [
-          "Corus Entertainment"
-        ],
+        "Corus Entertainment",
         [
           "/wiki/Corus_Entertainment"
         ]
@@ -130,41 +84,27 @@
     ],
     [
       [
-        [
-          "AM 680"
-        ],
-        [
-          null
-        ]
+        "AM 680",
+        []
       ],
       [
-        [
-          "CFTR"
-        ],
+        "CFTR",
         [
           "/wiki/CFTR_(AM)"
         ]
       ],
       [
-        [
-          "680 News"
-        ],
-        [
-          null
-        ]
+        "680 News",
+        []
       ],
       [
-        [
-          "news"
-        ],
+        "news",
         [
           "/wiki/News_radio"
         ]
       ],
       [
-        [
-          "Rogers Media"
-        ],
+        "Rogers Media",
         [
           "/wiki/Rogers_Media"
         ]
@@ -172,41 +112,27 @@
     ],
     [
       [
-        [
-          "AM 740"
-        ],
-        [
-          null
-        ]
+        "AM 740",
+        []
       ],
       [
-        [
-          "CFZM"
-        ],
+        "CFZM",
         [
           "/wiki/CFZM"
         ]
       ],
       [
-        [
-          "Zoomer Radio"
-        ],
-        [
-          null
-        ]
+        "Zoomer Radio",
+        []
       ],
       [
-        [
-          "pop standards"
-        ],
+        "pop standards",
         [
           "/wiki/Pop_standards"
         ]
       ],
       [
-        [
-          "ZoomerMedia"
-        ],
+        "ZoomerMedia",
         [
           "/wiki/ZoomerMedia"
         ]
@@ -214,35 +140,23 @@
     ],
     [
       [
-        [
-          "AM 860"
-        ],
-        [
-          null
-        ]
+        "AM 860",
+        []
       ],
       [
-        [
-          "CJBC"
-        ],
+        "CJBC",
         [
           "/wiki/CJBC_(AM)"
         ]
       ],
       [
-        [
-          "Ici Radio-Canada Premi\u00e8re"
-        ],
+        "Ici Radio-Canada Premi\u00e8re",
         [
           "/wiki/Ici_Radio-Canada_Premi\u00e8re"
         ]
       ],
       [
-        [
-          "public",
-          "news",
-          "talk"
-        ],
+        "public news / talk",
         [
           "/wiki/Public_broadcasting",
           "/wiki/News_radio",
@@ -250,9 +164,7 @@
         ]
       ],
       [
-        [
-          "CBC"
-        ],
+        "CBC",
         [
           "/wiki/Canadian_Broadcasting_Corporation"
         ]
@@ -260,85 +172,54 @@
     ],
     [
       [
-        [
-          "AM 960"
-        ],
-        [
-          null
-        ]
+        "AM 960",
+        []
       ],
       [
-        [
-          "CKNT"
-        ],
+        "CKNT",
         [
           "/wiki/CKNT"
         ]
       ],
       [
-        [
-          "960 CKNT"
-        ],
-        [
-          null
-        ]
+        "960 CKNT",
+        []
       ],
       [
-        [
-          "talk"
-        ],
+        "talk",
         [
           "/wiki/Talk_radio"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "AM 1010"
-        ],
-        [
-          null
-        ]
+        "AM 1010",
+        []
       ],
       [
-        [
-          "CFRB"
-        ],
+        "CFRB",
         [
           "/wiki/CFRB"
         ]
       ],
       [
-        [
-          "Newstalk 1010"
-        ],
-        [
-          null
-        ]
+        "Newstalk 1010",
+        []
       ],
       [
-        [
-          "news",
-          "talk"
-        ],
+        "news / talk",
         [
           "/wiki/News_radio",
           "/wiki/Talk_radio"
         ]
       ],
       [
-        [
-          "Bell Media"
-        ],
+        "Bell Media",
         [
           "/wiki/Bell_Media"
         ]
@@ -346,41 +227,27 @@
     ],
     [
       [
-        [
-          "AM 1050"
-        ],
-        [
-          null
-        ]
+        "AM 1050",
+        []
       ],
       [
-        [
-          "CHUM"
-        ],
+        "CHUM",
         [
           "/wiki/CHUM_(AM)"
         ]
       ],
       [
-        [
-          "TSN Radio 1050"
-        ],
-        [
-          null
-        ]
+        "TSN Radio 1050",
+        []
       ],
       [
-        [
-          "sports radio"
-        ],
+        "sports radio",
         [
           "/wiki/Sports_radio"
         ]
       ],
       [
-        [
-          "Bell Media"
-        ],
+        "Bell Media",
         [
           "/wiki/Bell_Media"
         ]
@@ -388,41 +255,27 @@
     ],
     [
       [
-        [
-          "AM 1280"
-        ],
-        [
-          null
-        ]
+        "AM 1280",
+        []
       ],
       [
-        [
-          "CJRU"
-        ],
+        "CJRU",
         [
           "/wiki/CJRU_(AM)"
         ]
       ],
       [
-        [
-          "CJRU.ca"
-        ],
-        [
-          null
-        ]
+        "CJRU.ca",
+        []
       ],
       [
-        [
-          "campus/community"
-        ],
+        "campus/community",
         [
           "/wiki/Campus_radio"
         ]
       ],
       [
-        [
-          "Ryerson University"
-        ],
+        "Ryerson University",
         [
           "/wiki/Ryerson_University"
         ]
@@ -430,41 +283,27 @@
     ],
     [
       [
-        [
-          "AM 1430"
-        ],
-        [
-          null
-        ]
+        "AM 1430",
+        []
       ],
       [
-        [
-          "CHKT"
-        ],
+        "CHKT",
         [
           "/wiki/CHKT"
         ]
       ],
       [
-        [
-          "Fairchild Radio"
-        ],
-        [
-          null
-        ]
+        "Fairchild Radio",
+        []
       ],
       [
-        [
-          "multilingual"
-        ],
+        "multilingual",
         [
           "/wiki/Multilingual"
         ]
       ],
       [
-        [
-          "Fairchild Radio"
-        ],
+        "Fairchild Radio",
         [
           "/wiki/Fairchild_Radio"
         ]
@@ -472,41 +311,27 @@
     ],
     [
       [
-        [
-          "AM 1540"
-        ],
-        [
-          null
-        ]
+        "AM 1540",
+        []
       ],
       [
-        [
-          "CHIN"
-        ],
+        "CHIN",
         [
           "/wiki/CHIN_(AM)"
         ]
       ],
       [
-        [
-          "CHIN Radio"
-        ],
-        [
-          null
-        ]
+        "CHIN Radio",
+        []
       ],
       [
-        [
-          "multilingual"
-        ],
+        "multilingual",
         [
           "/wiki/Multilingual"
         ]
       ],
       [
-        [
-          "CHIN Radio/TV International"
-        ],
+        "CHIN Radio/TV International",
         [
           "/wiki/CHIN_Radio/TV_International"
         ]
@@ -514,88 +339,55 @@
     ],
     [
       [
-        [
-          "AM 1610"
-        ],
-        [
-          null
-        ]
+        "AM 1610",
+        []
       ],
       [
-        [
-          "CHHA"
-        ],
+        "CHHA",
         [
           "/wiki/CHHA_(AM)"
         ]
       ],
       [
-        [
-          "Voces Latinas"
-        ],
-        [
-          null
-        ]
+        "Voces Latinas",
+        []
       ],
       [
-        [
-          "Spanish",
-          "community station"
-        ],
+        "Spanish community station",
         [
           "/wiki/Spanish_language",
           "/wiki/Community_radio"
         ]
       ],
       [
-        [
-          "San Lorenzo Latin American Community Centre"
-        ],
-        [
-          null
-        ]
+        "San Lorenzo Latin American Community Centre",
+        []
       ]
     ],
     [
       [
-        [
-          "AM 1690"
-        ],
-        [
-          null
-        ]
+        "AM 1690",
+        []
       ],
       [
-        [
-          "CHTO"
-        ],
+        "CHTO",
         [
           "/wiki/CHTO"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "multilingual"
-        ],
+        "multilingual",
         [
           "/wiki/Multilingual"
         ]
       ],
       [
-        [
-          "Canadian Hellenic Toronto Radio"
-        ],
-        [
-          null
-        ]
+        "Canadian Hellenic Toronto Radio",
+        []
       ]
     ]
   ],

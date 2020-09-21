@@ -3,86 +3,60 @@
   "title": "List of National Historic Landmarks in New York",
   "header": [
     [
-      [
-        "Landmark name"
-      ],
-      [
-        null
-      ]
+      "",
+      []
     ],
     [
-      [
-        "Date designated"
-      ],
-      [
-        null
-      ]
+      "Landmark name",
+      []
     ],
     [
-      [
-        "Location"
-      ],
-      [
-        null
-      ]
+      "Date designated",
+      []
     ],
     [
-      [
-        "County"
-      ],
-      [
-        null
-      ]
+      "Location",
+      []
     ],
     [
-      [
-        "Description"
-      ],
-      [
-        null
-      ]
+      "County",
+      []
+    ],
+    [
+      "Description",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Adams Power Plant Transformer House"
-        ],
+        "1",
+        []
+      ],
+      [
+        "Adams Power Plant Transformer House",
         [
           "/wiki/Adams_Power_Plant_Transformer_House"
         ]
       ],
       [
+        "May 4 , 1983 ( # 75001212 )",
+        []
+      ],
+      [
+        "Niagara Falls 43\u00b004\u203254\u2033N 79\u00b002\u203234\u2033W / 43.081764\u00b0N 79.042836\u00b0W / 43.081764 ; -79.042836 ( Adams Power Plant Transformer House )",
         [
-          "# 75001212"
-        ],
-        [
-          null
+          "/wiki/Niagara_Falls,_New_York"
         ]
       ],
       [
-        [
-          "Niagara Falls",
-          "43\u00b004\u203254\u2033N 79\u00b002\u203234\u2033W / 43.081764\u00b0N 79.042836\u00b0W / 43.081764 ; -79.042836 ( Adams Power Plant Transformer House )"
-        ],
-        [
-          "/wiki/Niagara_Falls,_New_York",
-          null
-        ]
-      ],
-      [
-        [
-          "Niagara"
-        ],
+        "Niagara",
         [
           "/wiki/National_Register_of_Historic_Places_listings_in_Niagara_County,_New_York"
         ]
       ],
       [
-        [
-          "Niagara Falls"
-        ],
+        "Transformer house of the first large-scale , alternating current electric generating plant in the world ; tapped power of Niagara Falls via a 7,500 foot ( 2,286 m ) tail-race tunnel",
         [
           "/wiki/Niagara_Falls"
         ]
@@ -90,46 +64,27 @@
     ],
     [
       [
-        [
-          "Adirondack Forest Preserve"
-        ],
+        "2",
+        []
+      ],
+      [
+        "Adirondack Forest Preserve",
         [
           "/wiki/Adirondack_Park"
         ]
       ],
       [
+        "May 23 , 1963 ( # 66000891 )",
+        []
+      ],
+      [
+        "Northeastern Upstate New York 43\u00b047\u203213\u2033N 74\u00b029\u203206\u2033W / 43.786958\u00b0N 74.485016\u00b0W / 43.786958 ; -74.485016 ( Adirondack Forest Preserve )",
         [
-          "# 66000891"
-        ],
-        [
-          null
+          "/wiki/Upstate_New_York"
         ]
       ],
       [
-        [
-          "Upstate New York",
-          "43\u00b047\u203213\u2033N 74\u00b029\u203206\u2033W / 43.786958\u00b0N 74.485016\u00b0W / 43.786958 ; -74.485016 ( Adirondack Forest Preserve )"
-        ],
-        [
-          "/wiki/Upstate_New_York",
-          null
-        ]
-      ],
-      [
-        [
-          "Essex",
-          "Hamilton",
-          "Clinton",
-          "Franklin",
-          "Fulton",
-          "Herkimer",
-          "Lewis",
-          "Oneida",
-          "St. Lawrence",
-          "Saratoga",
-          "Warren",
-          "Washington"
-        ],
+        "All of Essex and Hamilton and parts of Clinton , Franklin , Fulton , Herkimer , Lewis , Oneida , St. Lawrence , Saratoga , Warren , and Washington",
         [
           "/wiki/National_Register_of_Historic_Places_listings_in_Essex_County,_New_York",
           "/wiki/National_Register_of_Historic_Places_listings_in_Hamilton_County,_New_York",
@@ -146,9 +101,7 @@
         ]
       ],
       [
-        [
-          "protected area"
-        ],
+        "Largest publicly protected area in the lower 48 United States ; largest National Historic Landmark ; largest and one of earliest areas protected by any state ; established in 1885 ; later protected in forever wild section of New York state constitution",
         [
           "/wiki/Protected_area"
         ]
@@ -156,43 +109,33 @@
     ],
     [
       [
-        [
-          "Susan B. Anthony House"
-        ],
+        "3",
+        []
+      ],
+      [
+        "Susan B. Anthony House",
         [
           "/wiki/Susan_B._Anthony_House"
         ]
       ],
       [
+        "May 23 , 1965 ( # 66000528 )",
+        []
+      ],
+      [
+        "Rochester 43\u00b009\u203212\u2033N 77\u00b037\u203233\u2033W / 43.153336\u00b0N 77.625747\u00b0W / 43.153336 ; -77.625747 ( Susan B. Anthony House )",
         [
-          "# 66000528"
-        ],
-        [
-          null
+          "/wiki/Rochester,_New_York"
         ]
       ],
       [
-        [
-          "Rochester",
-          "43\u00b009\u203212\u2033N 77\u00b037\u203233\u2033W / 43.153336\u00b0N 77.625747\u00b0W / 43.153336 ; -77.625747 ( Susan B. Anthony House )"
-        ],
-        [
-          "/wiki/Rochester,_New_York",
-          null
-        ]
-      ],
-      [
-        [
-          "Monroe"
-        ],
+        "Monroe",
         [
           "/wiki/National_Register_of_Historic_Places_listings_in_Monroe_County,_New_York"
         ]
       ],
       [
-        [
-          "Susan B. Anthony"
-        ],
+        "Home of Susan B. Anthony , prominent 19th century women 's rights activist",
         [
           "/wiki/Susan_B._Anthony"
         ]
@@ -200,43 +143,33 @@
     ],
     [
       [
-        [
-          "Armour-Stiner House"
-        ],
+        "4",
+        []
+      ],
+      [
+        "Armour-Stiner House",
         [
           "/wiki/Armour-Stiner_House"
         ]
       ],
       [
+        "December 8 , 1976 ( # 75001238 )",
+        []
+      ],
+      [
+        "Irvington 41\u00b001\u203251\u2033N 73\u00b052\u203213\u2033W / 41.030803\u00b0N 73.870415\u00b0W / 41.030803 ; -73.870415 ( Armour-Stiner House )",
         [
-          "# 75001238"
-        ],
-        [
-          null
+          "/wiki/Irvington,_New_York"
         ]
       ],
       [
-        [
-          "Irvington",
-          "41\u00b001\u203251\u2033N 73\u00b052\u203213\u2033W / 41.030803\u00b0N 73.870415\u00b0W / 41.030803 ; -73.870415 ( Armour-Stiner House )"
-        ],
-        [
-          "/wiki/Irvington,_New_York",
-          null
-        ]
-      ],
-      [
-        [
-          "Westchester"
-        ],
+        "Westchester",
         [
           "/wiki/National_Register_of_Historic_Places_listings_in_Westchester_County,_New_York"
         ]
       ],
       [
-        [
-          "Orson Squire Fowler"
-        ],
+        "Octagonal implementation of architectural ideas of Orson Squire Fowler",
         [
           "/wiki/Orson_Squire_Fowler"
         ]
@@ -244,46 +177,33 @@
     ],
     [
       [
-        [
-          "Bennington Battlefield"
-        ],
+        "5",
+        []
+      ],
+      [
+        "Bennington Battlefield",
         [
           "/wiki/Bennington_Battlefield_State_Historic_Site"
         ]
       ],
       [
+        "January 20 , 1961 ( # 66000564 )",
+        []
+      ],
+      [
+        "Walloomsac 42\u00b056\u203219\u2033N 73\u00b018\u203216\u2033W / 42.938658\u00b0N 73.304418\u00b0W / 42.938658 ; -73.304418 ( Bennington Battlefield )",
         [
-          "# 66000564"
-        ],
-        [
-          null
+          "/wiki/Walloomsac,_New_York"
         ]
       ],
       [
-        [
-          "Walloomsac",
-          "42\u00b056\u203219\u2033N 73\u00b018\u203216\u2033W / 42.938658\u00b0N 73.304418\u00b0W / 42.938658 ; -73.304418 ( Bennington Battlefield )"
-        ],
-        [
-          "/wiki/Walloomsac,_New_York",
-          null
-        ]
-      ],
-      [
-        [
-          "Rensselaer"
-        ],
+        "Rensselaer",
         [
           "/wiki/National_Register_of_Historic_Places_listings_in_Rensselaer_County,_New_York"
         ]
       ],
       [
-        [
-          "Battle of Bennington",
-          "dragoons",
-          "Continental Army",
-          "Saratoga"
-        ],
+        "Site of Battle of Bennington , where the American defeat of a British foraging party of dragoons helped assure the Continental Army 's pivotal victory at Saratoga",
         [
           "/wiki/Battle_of_Bennington",
           "/wiki/Dragoons",
@@ -294,46 +214,33 @@
     ],
     [
       [
-        [
-          "Boston Post Road Historic District"
-        ],
+        "6",
+        []
+      ],
+      [
+        "Boston Post Road Historic District",
         [
           "/wiki/Boston_Post_Road_Historic_District_(Rye,_New_York)"
         ]
       ],
       [
+        "August 30 , 1993 ( # 82001275 )",
+        []
+      ],
+      [
+        "Rye 40\u00b057\u203231\u2033N 73\u00b042\u203207\u2033W / 40.958487\u00b0N 73.701922\u00b0W / 40.958487 ; -73.701922 ( Boston Post Road Historic District )",
         [
-          "# 82001275"
-        ],
-        [
-          null
+          "/wiki/Rye_(city),_New_York"
         ]
       ],
       [
-        [
-          "Rye",
-          "40\u00b057\u203231\u2033N 73\u00b042\u203207\u2033W / 40.958487\u00b0N 73.701922\u00b0W / 40.958487 ; -73.701922 ( Boston Post Road Historic District )"
-        ],
-        [
-          "/wiki/Rye_(city),_New_York",
-          null
-        ]
-      ],
-      [
-        [
-          "Westchester"
-        ],
+        "Westchester",
         [
           "/wiki/National_Register_of_Historic_Places_listings_in_Westchester_County,_New_York"
         ]
       ],
       [
-        [
-          "1838 Peter Augustus Jay House",
-          "John Jay",
-          "Boston Post Road",
-          "Long Island Sound"
-        ],
+        "Three mansions and associated grounds with pre-contact archaeological significance ; 5 contributing properties include the 1838 Peter Augustus Jay House and surrounding Jay Property , childhood home of Founding Father John Jay , Lounsberry , Whitby Castle , the private Jay Cemetery , final resting place of John Jay and his descendants , and Marshlands Conservancy , a nature preserve running from Boston Post Road down to the Long Island Sound , an area essentially unchanged for 200 years",
         [
           "/wiki/1838_Peter_Augustus_Jay_House",
           "/wiki/John_Jay",
@@ -344,44 +251,33 @@
     ],
     [
       [
-        [
-          "Boughton Hill ( Gannagaro )"
-        ],
+        "7",
+        []
+      ],
+      [
+        "Boughton Hill ( Gannagaro )",
         [
           "/wiki/Ganondagan_State_Historic_Site"
         ]
       ],
       [
+        "July 19 , 1964 ( # 66000559 )",
+        []
+      ],
+      [
+        "Victor 42\u00b057\u203240\u2033N 77\u00b024\u203246\u2033W / 42.961157\u00b0N 77.412736\u00b0W / 42.961157 ; -77.412736 ( Boughton Hill ( Gannagaro ) )",
         [
-          "# 66000559"
-        ],
-        [
-          null
+          "/wiki/Victor_(town),_New_York"
         ]
       ],
       [
-        [
-          "Victor",
-          "42\u00b057\u203240\u2033N 77\u00b024\u203246\u2033W / 42.961157\u00b0N 77.412736\u00b0W / 42.961157 ; -77.412736 ( Boughton Hill ( Gannagaro ) )"
-        ],
-        [
-          "/wiki/Victor_(town),_New_York",
-          null
-        ]
-      ],
-      [
-        [
-          "Ontario"
-        ],
+        "Ontario",
         [
           "/wiki/National_Register_of_Historic_Places_listings_in_Ontario_County,_New_York"
         ]
       ],
       [
-        [
-          "Seneca",
-          "Iroquois Confederacy"
-        ],
+        "The site of a 17th-century Seneca village known as the Town of Peace and birthplace of the Iroquois Confederacy",
         [
           "/wiki/Seneca_tribe",
           "/wiki/Iroquois_Confederacy"
@@ -390,44 +286,33 @@
     ],
     [
       [
-        [
-          "Bronck House"
-        ],
+        "8",
+        []
+      ],
+      [
+        "Bronck House",
         [
           "/wiki/Bronck_House"
         ]
       ],
       [
+        "December 24 , 1967 ( # 67000012 )",
+        []
+      ],
+      [
+        "Coxsackie 42\u00b020\u203231\u2033N 73\u00b050\u203255\u2033W / 42.342052\u00b0N 73.848724\u00b0W / 42.342052 ; -73.848724 ( Bronck House )",
         [
-          "# 67000012"
-        ],
-        [
-          null
+          "/wiki/Coxsackie_(town),_New_York"
         ]
       ],
       [
-        [
-          "Coxsackie",
-          "42\u00b020\u203231\u2033N 73\u00b050\u203255\u2033W / 42.342052\u00b0N 73.848724\u00b0W / 42.342052 ; -73.848724 ( Bronck House )"
-        ],
-        [
-          "/wiki/Coxsackie_(town),_New_York",
-          null
-        ]
-      ],
-      [
-        [
-          "Greene"
-        ],
+        "Greene",
         [
           "/wiki/National_Register_of_Historic_Places_listings_in_Greene_County,_New_York"
         ]
       ],
       [
-        [
-          "upstate New York",
-          "Dutch colonial"
-        ],
+        "Oldest structure in upstate New York ; excellent example of Dutch colonial architecture",
         [
           "/wiki/Upstate_New_York",
           "/wiki/Dutch_colonization_of_the_Americas"
@@ -436,44 +321,33 @@
     ],
     [
       [
-        [
-          "Dr. Oliver Bronson House and Estate"
-        ],
+        "9",
+        []
+      ],
+      [
+        "Dr. Oliver Bronson House and Estate",
         [
           "/wiki/Oliver_Bronson_House"
         ]
       ],
       [
+        "July 31 , 2003 ( # 03001035 )",
+        []
+      ],
+      [
+        "Hudson 42\u00b014\u203235\u2033N 73\u00b047\u203209\u2033W / 42.243119\u00b0N 73.785764\u00b0W / 42.243119 ; -73.785764 ( Dr. Oliver Bronson House and Estate )",
         [
-          "# 03001035"
-        ],
-        [
-          null
+          "/wiki/Hudson,_New_York"
         ]
       ],
       [
-        [
-          "Hudson",
-          "42\u00b014\u203235\u2033N 73\u00b047\u203209\u2033W / 42.243119\u00b0N 73.785764\u00b0W / 42.243119 ; -73.785764 ( Dr. Oliver Bronson House and Estate )"
-        ],
-        [
-          "/wiki/Hudson,_New_York",
-          null
-        ]
-      ],
-      [
-        [
-          "Columbia"
-        ],
+        "Columbia",
         [
           "/wiki/National_Register_of_Historic_Places_listings_in_Columbia_County,_New_York"
         ]
       ],
       [
-        [
-          "Hudson River bracketed style",
-          "Alexander Jackson Davis"
-        ],
+        "Early example of the Hudson River bracketed style of Alexander Jackson Davis",
         [
           "/wiki/Hudson_River_Bracketed_architectural_style",
           "/wiki/Alexander_Jackson_Davis"
@@ -482,45 +356,33 @@
     ],
     [
       [
-        [
-          "John Brown Farm and Gravesite"
-        ],
+        "10",
+        []
+      ],
+      [
+        "John Brown Farm and Gravesite",
         [
           "/wiki/John_Brown_Farm_and_Gravesite"
         ]
       ],
       [
+        "August 5 , 1998 ( # 72000840 )",
+        []
+      ],
+      [
+        "Lake Placid 44\u00b015\u203220\u2033N 73\u00b058\u203215\u2033W / 44.255574\u00b0N 73.970969\u00b0W / 44.255574 ; -73.970969 ( John Brown Farm and Gravesite )",
         [
-          "# 72000840"
-        ],
-        [
-          null
+          "/wiki/Lake_Placid,_New_York"
         ]
       ],
       [
-        [
-          "Lake Placid",
-          "44\u00b015\u203220\u2033N 73\u00b058\u203215\u2033W / 44.255574\u00b0N 73.970969\u00b0W / 44.255574 ; -73.970969 ( John Brown Farm and Gravesite )"
-        ],
-        [
-          "/wiki/Lake_Placid,_New_York",
-          null
-        ]
-      ],
-      [
-        [
-          "Essex"
-        ],
+        "Essex",
         [
           "/wiki/National_Register_of_Historic_Places_listings_in_Essex_County,_New_York"
         ]
       ],
       [
-        [
-          "abolitionist",
-          "John Brown",
-          "Harper 's Ferry Armory"
-        ],
+        "Home and final resting place of famous abolitionist John Brown , executed for his raid on Harper 's Ferry Armory before the Civil War",
         [
           "/wiki/Abolitionism_in_the_United_States",
           "/wiki/John_Brown_(abolitionist)",
@@ -530,44 +392,33 @@
     ],
     [
       [
-        [
-          "Buffalo and Erie County Historic Society Building"
-        ],
+        "11",
+        []
+      ],
+      [
+        "Buffalo and Erie County Historic Society Building",
         [
           "/wiki/Buffalo_History_Museum"
         ]
       ],
       [
+        "February 27 , 1987 ( # 80002606 )",
+        []
+      ],
+      [
+        "Buffalo 42\u00b056\u203208\u2033N 78\u00b052\u203236\u2033W / 42.935556\u00b0N 78.876667\u00b0W / 42.935556 ; -78.876667 ( Buffalo and Erie County Historic Society Building )",
         [
-          "# 80002606"
-        ],
-        [
-          null
+          "/wiki/Buffalo,_New_York"
         ]
       ],
       [
-        [
-          "Buffalo",
-          "42\u00b056\u203208\u2033N 78\u00b052\u203236\u2033W / 42.935556\u00b0N 78.876667\u00b0W / 42.935556 ; -78.876667 ( Buffalo and Erie County Historic Society Building )"
-        ],
-        [
-          "/wiki/Buffalo,_New_York",
-          null
-        ]
-      ],
-      [
-        [
-          "Erie"
-        ],
+        "Erie",
         [
           "/wiki/National_Register_of_Historic_Places_listings_in_Erie_County,_New_York"
         ]
       ],
       [
-        [
-          "Parthenon",
-          "Pan-American Exposition"
-        ],
+        "Parthenon -evoking legacy of the 1901 Pan-American Exposition ; turned over to historical society afterwards",
         [
           "/wiki/Parthenon",
           "/wiki/Pan-American_Exposition"
@@ -576,45 +427,33 @@
     ],
     [
       [
-        [
-          "Buffalo State Hospital"
-        ],
+        "12",
+        []
+      ],
+      [
+        "Buffalo State Hospital",
         [
           "/wiki/Richardson_Olmsted_Complex"
         ]
       ],
       [
+        "June 24 , 1986 ( # 86003557 )",
+        []
+      ],
+      [
+        "Buffalo 42\u00b055\u203246\u2033N 78\u00b052\u203256\u2033W / 42.929382\u00b0N 78.882147\u00b0W / 42.929382 ; -78.882147 ( Buffalo State Hospital )",
         [
-          "# 86003557"
-        ],
-        [
-          null
+          "/wiki/Buffalo,_New_York"
         ]
       ],
       [
-        [
-          "Buffalo",
-          "42\u00b055\u203246\u2033N 78\u00b052\u203256\u2033W / 42.929382\u00b0N 78.882147\u00b0W / 42.929382 ; -78.882147 ( Buffalo State Hospital )"
-        ],
-        [
-          "/wiki/Buffalo,_New_York",
-          null
-        ]
-      ],
-      [
-        [
-          "Erie"
-        ],
+        "Erie",
         [
           "/wiki/National_Register_of_Historic_Places_listings_in_Erie_County,_New_York"
         ]
       ],
       [
-        [
-          "H. H. Richardson",
-          "Richardsonian Romanesque",
-          "Frederick Law Olmsted"
-        ],
+        "Architect H. H. Richardson 's largest commission ; advent of his characteristic Richardsonian Romanesque style ; used to care for the mentally ill ; grounds designed by Frederick Law Olmsted",
         [
           "/wiki/H._H._Richardson",
           "/wiki/Richardsonian_Romanesque",
@@ -624,43 +463,33 @@
     ],
     [
       [
-        [
-          "John Burroughs ' Riverby Study"
-        ],
+        "13",
+        []
+      ],
+      [
+        "John Burroughs ' Riverby Study",
         [
           "/wiki/Riverby"
         ]
       ],
       [
+        "October 18 , 1968 ( # 68000035 )",
+        []
+      ],
+      [
+        "West Park 41\u00b048\u203200\u2033N 73\u00b057\u203232\u2033W / 41.8\u00b0N 73.958889\u00b0W / 41.8 ; -73.958889 ( John Burroughs ' Riverby Study )",
         [
-          "# 68000035"
-        ],
-        [
-          null
+          "/wiki/Esopus,_New_York"
         ]
       ],
       [
-        [
-          "West Park",
-          "41\u00b048\u203200\u2033N 73\u00b057\u203232\u2033W / 41.8\u00b0N 73.958889\u00b0W / 41.8 ; -73.958889 ( John Burroughs ' Riverby Study )"
-        ],
-        [
-          "/wiki/Esopus,_New_York",
-          null
-        ]
-      ],
-      [
-        [
-          "Ulster"
-        ],
+        "Ulster",
         [
           "/wiki/National_Register_of_Historic_Places_listings_in_Ulster_County,_New_York"
         ]
       ],
       [
-        [
-          "John Burroughs"
-        ],
+        "Small frame structure built in 1881 by naturalist John Burroughs as a writing retreat ; in this study , that looks east over the Hudson River , Burroughs wrote Fresh Fields ( 1884 ) , Signs and Seasons ( 1886 ) , Indoor Studies ( 1889 ) , and Riverby ( 1894 )",
         [
           "/wiki/John_Burroughs"
         ]
@@ -668,44 +497,33 @@
     ],
     [
       [
-        [
-          "Camp Pine Knot"
-        ],
+        "14",
+        []
+      ],
+      [
+        "Camp Pine Knot",
         [
           "/wiki/Camp_Pine_Knot"
         ]
       ],
       [
+        "August 18 , 2004 ( # 86002934 )",
+        []
+      ],
+      [
+        "Raquette Lake 43\u00b049\u203217\u2033N 74\u00b037\u203234\u2033W / 43.821325\u00b0N 74.626197\u00b0W / 43.821325 ; -74.626197 ( Camp Pine Knot )",
         [
-          "# 86002934"
-        ],
-        [
-          null
+          "/wiki/Raquette_Lake"
         ]
       ],
       [
-        [
-          "Raquette Lake",
-          "43\u00b049\u203217\u2033N 74\u00b037\u203234\u2033W / 43.821325\u00b0N 74.626197\u00b0W / 43.821325 ; -74.626197 ( Camp Pine Knot )"
-        ],
-        [
-          "/wiki/Raquette_Lake",
-          null
-        ]
-      ],
-      [
-        [
-          "Hamilton"
-        ],
+        "Hamilton",
         [
           "/wiki/National_Register_of_Historic_Places_listings_in_Hamilton_County,_New_York"
         ]
       ],
       [
-        [
-          "Adirondack Great Camps",
-          "William West Durant"
-        ],
+        "First of the Adirondack Great Camps ; designed and built by William West Durant",
         [
           "/wiki/Great_Camp",
           "/wiki/William_West_Durant"
@@ -714,44 +532,33 @@
     ],
     [
       [
-        [
-          "Camp Uncas"
-        ],
+        "15",
+        []
+      ],
+      [
+        "Camp Uncas",
         [
           "/wiki/Camp_Uncas"
         ]
       ],
       [
+        "October 6 , 2008 ( # 86002937 )",
+        []
+      ],
+      [
+        "Raquette Lake 43\u00b044\u203238\u2033N 74\u00b038\u203253\u2033W / 43.743889\u00b0N 74.648056\u00b0W / 43.743889 ; -74.648056 ( Camp Uncas )",
         [
-          "# 86002937"
-        ],
-        [
-          null
+          "/wiki/Raquette_Lake"
         ]
       ],
       [
-        [
-          "Raquette Lake",
-          "43\u00b044\u203238\u2033N 74\u00b038\u203253\u2033W / 43.743889\u00b0N 74.648056\u00b0W / 43.743889 ; -74.648056 ( Camp Uncas )"
-        ],
-        [
-          "/wiki/Raquette_Lake",
-          null
-        ]
-      ],
-      [
-        [
-          "Hamilton"
-        ],
+        "Hamilton",
         [
           "/wiki/National_Register_of_Historic_Places_listings_in_Hamilton_County,_New_York"
         ]
       ],
       [
-        [
-          "Adirondack Great Camps",
-          "William West Durant"
-        ],
+        "Second of the Adirondack Great Camps ; designed and built by William West Durant",
         [
           "/wiki/Great_Camp",
           "/wiki/William_West_Durant"
@@ -760,87 +567,65 @@
     ],
     [
       [
-        [
-          "Canfield Casino and Congress Park"
-        ],
+        "16",
+        []
+      ],
+      [
+        "Canfield Casino and Congress Park",
         [
           "/wiki/Canfield_Casino_and_Congress_Park"
         ]
       ],
       [
+        "February 27 , 1987 ( # 87000904 )",
+        []
+      ],
+      [
+        "Saratoga Springs 43\u00b004\u203245\u2033N 73\u00b046\u203258\u2033W / 43.079076\u00b0N 73.782855\u00b0W / 43.079076 ; -73.782855 ( Canfield Casino and Congress Park )",
         [
-          "# 87000904"
-        ],
-        [
-          null
+          "/wiki/Saratoga_Springs,_New_York"
         ]
       ],
       [
-        [
-          "Saratoga Springs",
-          "43\u00b004\u203245\u2033N 73\u00b046\u203258\u2033W / 43.079076\u00b0N 73.782855\u00b0W / 43.079076 ; -73.782855 ( Canfield Casino and Congress Park )"
-        ],
-        [
-          "/wiki/Saratoga_Springs,_New_York",
-          null
-        ]
-      ],
-      [
-        [
-          "Saratoga"
-        ],
+        "Saratoga",
         [
           "/wiki/National_Register_of_Historic_Places_listings_in_Saratoga_County,_New_York"
         ]
       ],
       [
-        [
-          "Former resort and casino ; now houses the Saratoga Springs History Museum"
-        ],
-        [
-          null
-        ]
+        "Former resort and casino ; now houses the Saratoga Springs History Museum",
+        []
       ]
     ],
     [
       [
-        [
-          "Chautauqua Historic District"
-        ],
+        "17",
+        []
+      ],
+      [
+        "Chautauqua Historic District",
         [
           "/wiki/Chautauqua_Institution"
         ]
       ],
       [
+        "June 29 , 1989 ( # 73001168 )",
+        []
+      ],
+      [
+        "Chautauqua 42\u00b012\u203235\u2033N 79\u00b028\u203201\u2033W / 42.209722\u00b0N 79.466944\u00b0W / 42.209722 ; -79.466944 ( Chautauqua Historic District )",
         [
-          "# 73001168"
-        ],
-        [
-          null
+          "/wiki/Chautauqua,_New_York"
         ]
       ],
       [
-        [
-          "Chautauqua",
-          "42\u00b012\u203235\u2033N 79\u00b028\u203201\u2033W / 42.209722\u00b0N 79.466944\u00b0W / 42.209722 ; -79.466944 ( Chautauqua Historic District )"
-        ],
-        [
-          "/wiki/Chautauqua,_New_York",
-          null
-        ]
-      ],
-      [
-        [
-          "Chautauqua"
-        ],
+        "Chautauqua",
         [
           "/wiki/National_Register_of_Historic_Places_listings_in_Chautauqua_County,_New_York"
         ]
       ],
       [
-        [
-          "Adult education"
-        ],
+        "Adult education and summer retreat ; focuses on programs related to arts , education , religion and recreation ; well-preserved 19th century architecture",
         [
           "/wiki/Adult_education"
         ]
@@ -848,43 +633,33 @@
     ],
     [
       [
-        [
-          "Christeen ( sloop )"
-        ],
+        "18",
+        []
+      ],
+      [
+        "Christeen ( sloop )",
         [
           "/wiki/Christeen_(sloop)"
         ]
       ],
       [
+        "December 4 , 1991 ( # 91002060 )",
+        []
+      ],
+      [
+        "Oyster Bay 40\u00b052\u203240\u2033N 73\u00b032\u203223\u2033W / 40.87774\u00b0N 73.539702\u00b0W / 40.87774 ; -73.539702 ( Christeen ( sloop ) )",
         [
-          "# 91002060"
-        ],
-        [
-          null
+          "/wiki/Oyster_Bay_(hamlet),_New_York"
         ]
       ],
       [
-        [
-          "Oyster Bay",
-          "40\u00b052\u203240\u2033N 73\u00b032\u203223\u2033W / 40.87774\u00b0N 73.539702\u00b0W / 40.87774 ; -73.539702 ( Christeen ( sloop ) )"
-        ],
-        [
-          "/wiki/Oyster_Bay_(hamlet),_New_York",
-          null
-        ]
-      ],
-      [
-        [
-          "Nassau"
-        ],
+        "Nassau",
         [
           "/wiki/National_Register_of_Historic_Places_listings_in_Nassau_County,_New_York"
         ]
       ],
       [
-        [
-          "sloop"
-        ],
+        "Oldest oyster sloop in the U.S",
         [
           "/wiki/Sloop"
         ]
@@ -892,45 +667,33 @@
     ],
     [
       [
-        [
-          "Frederick E. Church House"
-        ],
+        "19",
+        []
+      ],
+      [
+        "Frederick E. Church House",
         [
           "/wiki/Olana_State_Historic_Site"
         ]
       ],
       [
+        "June 22 , 1965 ( # 66000509 )",
+        []
+      ],
+      [
+        "Hudson 42\u00b013\u203203\u2033N 73\u00b049\u203207\u2033W / 42.2175\u00b0N 73.818611\u00b0W / 42.2175 ; -73.818611 ( Frederick E. Church House )",
         [
-          "# 66000509"
-        ],
-        [
-          null
+          "/wiki/Hudson,_New_York"
         ]
       ],
       [
-        [
-          "Hudson",
-          "42\u00b013\u203203\u2033N 73\u00b049\u203207\u2033W / 42.2175\u00b0N 73.818611\u00b0W / 42.2175 ; -73.818611 ( Frederick E. Church House )"
-        ],
-        [
-          "/wiki/Hudson,_New_York",
-          null
-        ]
-      ],
-      [
-        [
-          "Columbia"
-        ],
+        "Columbia",
         [
           "/wiki/National_Register_of_Historic_Places_listings_in_Columbia_County,_New_York"
         ]
       ],
       [
-        [
-          "Calvert Vaux",
-          "Hudson River School",
-          "Frederic Edwin Church"
-        ],
+        "Calvert Vaux -designed home of Hudson River School painter Frederic Edwin Church ; also known as Olana",
         [
           "/wiki/Calvert_Vaux",
           "/wiki/Hudson_River_School",
@@ -940,43 +703,33 @@
     ],
     [
       [
-        [
-          "Clermont"
-        ],
+        "20",
+        []
+      ],
+      [
+        "Clermont",
         [
           "/wiki/Clermont_State_Historic_Site"
         ]
       ],
       [
+        "November 28 , 1972 ( # 71000535 )",
+        []
+      ],
+      [
+        "Clermont 42\u00b005\u203209\u2033N 73\u00b055\u203209\u2033W / 42.085922\u00b0N 73.919073\u00b0W / 42.085922 ; -73.919073 ( Clermont )",
         [
-          "# 71000535"
-        ],
-        [
-          null
+          "/wiki/Clermont,_New_York"
         ]
       ],
       [
-        [
-          "Clermont",
-          "42\u00b005\u203209\u2033N 73\u00b055\u203209\u2033W / 42.085922\u00b0N 73.919073\u00b0W / 42.085922 ; -73.919073 ( Clermont )"
-        ],
-        [
-          "/wiki/Clermont,_New_York",
-          null
-        ]
-      ],
-      [
-        [
-          "Columbia"
-        ],
+        "Columbia",
         [
           "/wiki/National_Register_of_Historic_Places_listings_in_Columbia_County,_New_York"
         ]
       ],
       [
-        [
-          "Livingston family"
-        ],
+        "Ancestral home of the Livingston family , prominent in colonial and early New York ; known also as Clermont Manor",
         [
           "/wiki/Livingston_family"
         ]

@@ -3,72 +3,41 @@
   "title": "Bergen Airport, Flesland",
   "header": [
     [
-      [
-        "Rank"
-      ],
-      [
-        null
-      ]
+      "Rank",
+      []
     ],
     [
-      [
-        "City"
-      ],
-      [
-        null
-      ]
+      "City",
+      []
     ],
     [
-      [
-        "Passengers"
-      ],
-      [
-        null
-      ]
+      "Passengers",
+      []
     ],
     [
-      [
-        "Airline"
-      ],
-      [
-        null
-      ]
+      "Airline",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "London-Gatwick",
-          "London-Heathrow , United Kingdom"
-        ],
+        "London-Gatwick and London-Heathrow , United Kingdom",
         [
           "/wiki/Gatwick_Airport",
           "/wiki/Heathrow_Airport"
         ]
       ],
       [
-        [
-          "604,211"
-        ],
-        [
-          null
-        ]
+        "604,211",
+        []
       ],
       [
-        [
-          "British Airways",
-          "Norwegian Air Shuttle",
-          "Scandinavian Airlines"
-        ],
+        "British Airways , Norwegian Air Shuttle , Scandinavian Airlines",
         [
           "/wiki/British_Airways",
           "/wiki/Norwegian_Air_Shuttle",
@@ -78,34 +47,21 @@
     ],
     [
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "Copenhagen , Denmark"
-        ],
+        "Copenhagen , Denmark",
         [
           "/wiki/Copenhagen_Airport"
         ]
       ],
       [
-        [
-          "328,579"
-        ],
-        [
-          null
-        ]
+        "328,579",
+        []
       ],
       [
-        [
-          "Norwegian Air Shuttle",
-          "Scandinavian Airlines"
-        ],
+        "Norwegian Air Shuttle , Scandinavian Airlines",
         [
           "/wiki/Norwegian_Air_Shuttle",
           "/wiki/Scandinavian_Airlines"
@@ -114,33 +70,21 @@
     ],
     [
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "Amsterdam , Netherlands"
-        ],
+        "Amsterdam , Netherlands",
         [
           "/wiki/Schiphol_Airport"
         ]
       ],
       [
-        [
-          "258,859"
-        ],
-        [
-          null
-        ]
+        "258,859",
+        []
       ],
       [
-        [
-          "KLM"
-        ],
+        "KLM",
         [
           "/wiki/KLM"
         ]
@@ -148,34 +92,21 @@
     ],
     [
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "Frankfurt am Main , Germany"
-        ],
+        "Frankfurt am Main , Germany",
         [
           "/wiki/Frankfurt_Airport"
         ]
       ],
       [
-        [
-          "213,300"
-        ],
-        [
-          null
-        ]
+        "213,300",
+        []
       ],
       [
-        [
-          "Cityjet",
-          "Lufthansa"
-        ],
+        "Cityjet , Lufthansa",
         [
           "/wiki/Cityjet",
           "/wiki/Lufthansa"
@@ -184,34 +115,21 @@
     ],
     [
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "Stockholm-Arlanda , Sweden"
-        ],
+        "Stockholm-Arlanda , Sweden",
         [
           "/wiki/Stockholm-Arlanda_Airport"
         ]
       ],
       [
-        [
-          "115,830"
-        ],
-        [
-          null
-        ]
+        "115,830",
+        []
       ],
       [
-        [
-          "Norwegian Air Shuttle",
-          "Scandinavian Airlines"
-        ],
+        "Norwegian Air Shuttle , Scandinavian Airlines",
         [
           "/wiki/Norwegian_Air_Shuttle",
           "/wiki/Scandinavian_Airlines"
@@ -220,33 +138,21 @@
     ],
     [
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "Paris-Orly , France"
-        ],
+        "Paris-Orly , France",
         [
           "/wiki/Orly_Airport"
         ]
       ],
       [
-        [
-          "73,921"
-        ],
-        [
-          null
-        ]
+        "73,921",
+        []
       ],
       [
-        [
-          "Norwegian Air Shuttle"
-        ],
+        "Norwegian Air Shuttle",
         [
           "/wiki/Norwegian_Air_Shuttle"
         ]
@@ -254,35 +160,21 @@
     ],
     [
       [
-        [
-          "7"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ],
       [
-        [
-          "Barcelona , Spain"
-        ],
+        "Barcelona , Spain",
         [
           "/wiki/Barcelona_Airport"
         ]
       ],
       [
-        [
-          "69,534"
-        ],
-        [
-          null
-        ]
+        "69,534",
+        []
       ],
       [
-        [
-          "Norwegian Air Shuttle",
-          "Scandinavian Airlines",
-          "Vueling"
-        ],
+        "Norwegian Air Shuttle , Scandinavian Airlines , Vueling",
         [
           "/wiki/Norwegian_Air_Shuttle",
           "/wiki/Scandinavian_Airlines",
@@ -292,37 +184,22 @@
     ],
     [
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "Berlin-Sch\u00f6nefeld",
-          "Berlin-Tegel , Germany"
-        ],
+        "Berlin-Sch\u00f6nefeld and Berlin-Tegel , Germany",
         [
           "/wiki/Sch\u00f6nefeld_Airport",
           "/wiki/Berlin_Tegel_Airport"
         ]
       ],
       [
-        [
-          "54,827"
-        ],
-        [
-          null
-        ]
+        "54,827",
+        []
       ],
       [
-        [
-          "Air Berlin",
-          "Lufthansa",
-          "Norwegian Air Shuttle"
-        ],
+        "Air Berlin , Lufthansa , Norwegian Air Shuttle",
         [
           "/wiki/Air_Berlin",
           "/wiki/Lufthansa",
@@ -332,33 +209,21 @@
     ],
     [
       [
-        [
-          "9"
-        ],
-        [
-          null
-        ]
+        "9",
+        []
       ],
       [
-        [
-          "Aberdeen , United Kingdom"
-        ],
+        "Aberdeen , United Kingdom",
         [
           "/wiki/Aberdeen_Airport"
         ]
       ],
       [
-        [
-          "51,484"
-        ],
-        [
-          null
-        ]
+        "51,484",
+        []
       ],
       [
-        [
-          "Wider\u00f8e"
-        ],
+        "Wider\u00f8e",
         [
           "/wiki/Wider\u00f8e"
         ]
@@ -366,33 +231,21 @@
     ],
     [
       [
-        [
-          "10"
-        ],
-        [
-          null
-        ]
+        "10",
+        []
       ],
       [
-        [
-          "Reykjavik-Keflav\u00edk , Iceland"
-        ],
+        "Reykjavik-Keflav\u00edk , Iceland",
         [
           "/wiki/Keflav\u00edk_International_Airport"
         ]
       ],
       [
-        [
-          "40,721"
-        ],
-        [
-          null
-        ]
+        "40,721",
+        []
       ],
       [
-        [
-          "Icelandair"
-        ],
+        "Icelandair",
         [
           "/wiki/Icelandair"
         ]

@@ -3,469 +3,283 @@
   "title": "Paul the Octopus",
   "header": [
     [
-      [
-        "Match"
-      ],
-      [
-        null
-      ]
+      "Match",
+      []
     ],
     [
-      [
-        "Stage"
-      ],
-      [
-        null
-      ]
+      "Stage",
+      []
     ],
     [
-      [
-        "Date"
-      ],
-      [
-        null
-      ]
+      "Date",
+      []
     ],
     [
-      [
-        "Prediction"
-      ],
-      [
-        null
-      ]
+      "Prediction",
+      []
     ],
     [
-      [
-        "Result"
-      ],
-      [
-        null
-      ]
+      "Result",
+      []
     ],
     [
-      [
-        "Outcome"
-      ],
-      [
-        null
-      ]
+      "Outcome",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Germany",
-          "Australia"
-        ],
+        "Germany vs. Australia",
         [
           "/wiki/Germany_national_football_team",
           "/wiki/Australia_national_soccer_team"
         ]
       ],
       [
-        [
-          "group stage"
-        ],
+        "group stage",
         [
           "/wiki/2010_FIFA_World_Cup_Group_D"
         ]
       ],
       [
-        [
-          "13 June 2010"
-        ],
-        [
-          null
-        ]
+        "13 June 2010",
+        []
       ],
       [
-        [
-          "Germany"
-        ],
-        [
-          null
-        ]
+        "Germany",
+        []
       ],
       [
-        [
-          "4-0"
-        ],
+        "4-0",
         [
           "/wiki/2010_FIFA_World_Cup_Group_D"
         ]
       ],
       [
-        [
-          "Correct"
-        ],
-        [
-          null
-        ]
+        "Correct",
+        []
       ]
     ],
     [
       [
-        [
-          "Germany",
-          "Serbia"
-        ],
+        "Germany vs. Serbia",
         [
           "/wiki/Germany_national_football_team",
           "/wiki/Serbia_national_football_team"
         ]
       ],
       [
-        [
-          "group stage"
-        ],
-        [
-          null
-        ]
+        "group stage",
+        []
       ],
       [
-        [
-          "18 June 2010"
-        ],
-        [
-          null
-        ]
+        "18 June 2010",
+        []
       ],
       [
-        [
-          "Serbia"
-        ],
-        [
-          null
-        ]
+        "Serbia",
+        []
       ],
       [
-        [
-          "0-1"
-        ],
+        "0-1",
         [
           "/wiki/2010_FIFA_World_Cup_Group_D"
         ]
       ],
       [
-        [
-          "Correct"
-        ],
-        [
-          null
-        ]
+        "Correct",
+        []
       ]
     ],
     [
       [
-        [
-          "Ghana",
-          "Germany"
-        ],
+        "Ghana vs. Germany",
         [
           "/wiki/Ghana_national_football_team",
           "/wiki/Germany_national_football_team"
         ]
       ],
       [
-        [
-          "group stage"
-        ],
-        [
-          null
-        ]
+        "group stage",
+        []
       ],
       [
-        [
-          "23 June 2010"
-        ],
-        [
-          null
-        ]
+        "23 June 2010",
+        []
       ],
       [
-        [
-          "Germany"
-        ],
-        [
-          null
-        ]
+        "Germany",
+        []
       ],
       [
-        [
-          "0-1"
-        ],
+        "0-1",
         [
           "/wiki/2010_FIFA_World_Cup_Group_D"
         ]
       ],
       [
-        [
-          "Correct"
-        ],
-        [
-          null
-        ]
+        "Correct",
+        []
       ]
     ],
     [
       [
-        [
-          "Germany",
-          "England"
-        ],
+        "Germany vs. England",
         [
           "/wiki/Germany_national_football_team",
           "/wiki/England_national_football_team"
         ]
       ],
       [
-        [
-          "round of 16"
-        ],
+        "round of 16",
         [
           "/wiki/2010_FIFA_World_Cup_knockout_stage"
         ]
       ],
       [
-        [
-          "27 June 2010"
-        ],
-        [
-          null
-        ]
+        "27 June 2010",
+        []
       ],
       [
-        [
-          "Germany"
-        ],
-        [
-          null
-        ]
+        "Germany",
+        []
       ],
       [
-        [
-          "4-1"
-        ],
+        "4-1",
         [
           "/wiki/2010_FIFA_World_Cup_knockout_stage"
         ]
       ],
       [
-        [
-          "Correct"
-        ],
-        [
-          null
-        ]
+        "Correct",
+        []
       ]
     ],
     [
       [
-        [
-          "Argentina",
-          "Germany"
-        ],
+        "Argentina vs. Germany",
         [
           "/wiki/Argentina_national_football_team",
           "/wiki/Germany_national_football_team"
         ]
       ],
       [
-        [
-          "quarter-finals"
-        ],
-        [
-          null
-        ]
+        "quarter-finals",
+        []
       ],
       [
-        [
-          "3 July 2010"
-        ],
-        [
-          null
-        ]
+        "3 July 2010",
+        []
       ],
       [
-        [
-          "Germany"
-        ],
-        [
-          null
-        ]
+        "Germany",
+        []
       ],
       [
-        [
-          "0-4"
-        ],
+        "0-4",
         [
           "/wiki/2010_FIFA_World_Cup_knockout_stage"
         ]
       ],
       [
-        [
-          "Correct"
-        ],
-        [
-          null
-        ]
+        "Correct",
+        []
       ]
     ],
     [
       [
-        [
-          "Germany",
-          "Spain"
-        ],
+        "Germany vs. Spain",
         [
           "/wiki/Germany_national_football_team",
           "/wiki/Spain_national_football_team"
         ]
       ],
       [
-        [
-          "semi-finals"
-        ],
-        [
-          null
-        ]
+        "semi-finals",
+        []
       ],
       [
-        [
-          "7 July 2010"
-        ],
-        [
-          null
-        ]
+        "7 July 2010",
+        []
       ],
       [
-        [
-          "Spain"
-        ],
-        [
-          null
-        ]
+        "Spain",
+        []
       ],
       [
-        [
-          "0-1"
-        ],
+        "0-1",
         [
           "/wiki/2010_FIFA_World_Cup_knockout_stage"
         ]
       ],
       [
-        [
-          "Correct"
-        ],
-        [
-          null
-        ]
+        "Correct",
+        []
       ]
     ],
     [
       [
-        [
-          "Uruguay",
-          "Germany"
-        ],
+        "Uruguay vs. Germany",
         [
           "/wiki/Uruguay_national_football_team",
           "/wiki/Germany_national_football_team"
         ]
       ],
       [
-        [
-          "3rd place play-off"
-        ],
-        [
-          null
-        ]
+        "3rd place play-off",
+        []
       ],
       [
-        [
-          "10 July 2010"
-        ],
-        [
-          null
-        ]
+        "10 July 2010",
+        []
       ],
       [
-        [
-          "Germany"
-        ],
-        [
-          null
-        ]
+        "Germany",
+        []
       ],
       [
-        [
-          "2-3"
-        ],
+        "2-3",
         [
           "/wiki/2010_FIFA_World_Cup_knockout_stage"
         ]
       ],
       [
-        [
-          "Correct"
-        ],
-        [
-          null
-        ]
+        "Correct",
+        []
       ]
     ],
     [
       [
-        [
-          "Netherlands",
-          "Spain"
-        ],
+        "Netherlands vs. Spain",
         [
           "/wiki/Netherlands_national_football_team",
           "/wiki/Spain_national_football_team"
         ]
       ],
       [
-        [
-          "final"
-        ],
+        "final",
         [
           "/wiki/2010_FIFA_World_Cup_Final"
         ]
       ],
       [
-        [
-          "11 July 2010"
-        ],
-        [
-          null
-        ]
+        "11 July 2010",
+        []
       ],
       [
-        [
-          "Spain"
-        ],
-        [
-          null
-        ]
+        "Spain",
+        []
       ],
       [
-        [
-          "0-1"
-        ],
+        "0-1",
         [
           "/wiki/2010_FIFA_World_Cup_Final"
         ]
       ],
       [
-        [
-          "Correct"
-        ],
-        [
-          null
-        ]
+        "Correct",
+        []
       ]
     ]
   ],

@@ -3,69 +3,36 @@
   "title": "HP postcode area",
   "header": [
     [
-      [
-        "Postcode district"
-      ],
-      [
-        null
-      ]
+      "Postcode district",
+      []
     ],
     [
-      [
-        "Post town"
-      ],
+      "Post town",
       [
         "/wiki/Post_town"
       ]
     ],
     [
-      [
-        "Coverage"
-      ],
-      [
-        null
-      ]
+      "Coverage",
+      []
     ],
     [
-      [
-        "Local authority area"
-      ],
-      [
-        null
-      ]
+      "Local authority area",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "HP1"
-        ],
-        [
-          null
-        ]
+        "HP1",
+        []
       ],
       [
-        [
-          "HEMEL HEMPSTEAD"
-        ],
-        [
-          null
-        ]
+        "HEMEL HEMPSTEAD",
+        []
       ],
       [
-        [
-          "Bourne End",
-          "Boxmoor",
-          "Chaulden",
-          "Fields End",
-          "Gadebridge",
-          "Great Gaddesden",
-          "Nettleden",
-          "Piccotts End",
-          "Water End",
-          "Warner 's End"
-        ],
+        "Bourne End , Boxmoor , Chaulden , Fields End , Gadebridge , Great Gaddesden , Nettleden , Piccotts End , Water End , Warner 's End",
         [
           "/wiki/Bourne_End,_Hertfordshire",
           "/wiki/Boxmoor",
@@ -80,9 +47,7 @@
         ]
       ],
       [
-        [
-          "Dacorum"
-        ],
+        "Dacorum",
         [
           "/wiki/Dacorum"
         ]
@@ -90,71 +55,37 @@
     ],
     [
       [
-        [
-          "HP2"
-        ],
-        [
-          null
-        ]
+        "HP2",
+        []
       ],
       [
-        [
-          "HEMEL HEMPSTEAD"
-        ],
-        [
-          null
-        ]
+        "HEMEL HEMPSTEAD",
+        []
       ],
       [
+        "Gaddesden Row , Piccotts End , Grovehill , Adeyfield , Hemel Hempstead Industrial Estate",
         [
-          "Gaddesden Row",
-          "Piccotts End",
-          "Grovehill",
-          "Adeyfield",
-          "Hemel Hempstead Industrial Estate"
-        ],
-        [
-          null,
           "/wiki/Piccotts_End",
           "/wiki/Grovehill",
-          "/wiki/Adeyfield",
-          null
+          "/wiki/Adeyfield"
         ]
       ],
       [
-        [
-          "Dacorum"
-        ],
-        [
-          null
-        ]
+        "Dacorum",
+        []
       ]
     ],
     [
       [
-        [
-          "HP3"
-        ],
-        [
-          null
-        ]
+        "HP3",
+        []
       ],
       [
-        [
-          "HEMEL HEMPSTEAD"
-        ],
-        [
-          null
-        ]
+        "HEMEL HEMPSTEAD",
+        []
       ],
       [
-        [
-          "Apsley",
-          "Bovingdon",
-          "Felden",
-          "Flaunden",
-          "Leverstock Green"
-        ],
+        "Apsley , Bovingdon , Felden , Flaunden , Hemel Hempstead , Leverstock Green",
         [
           "/wiki/Apsley,_Hertfordshire",
           "/wiki/Bovingdon",
@@ -164,41 +95,21 @@
         ]
       ],
       [
-        [
-          "Dacorum"
-        ],
-        [
-          null
-        ]
+        "Dacorum",
+        []
       ]
     ],
     [
       [
-        [
-          "HP4"
-        ],
-        [
-          null
-        ]
+        "HP4",
+        []
       ],
       [
-        [
-          "BERKHAMSTED"
-        ],
-        [
-          null
-        ]
+        "BERKHAMSTED",
+        []
       ],
       [
-        [
-          "Berkhamsted",
-          "Dagnall",
-          "Dudswell",
-          "Little Gaddesden",
-          "Northchurch",
-          "Potten End",
-          "Ringshall"
-        ],
+        "Berkhamsted , Dagnall , Dudswell , Little Gaddesden , Northchurch , Potten End , Ringshall",
         [
           "/wiki/Berkhamsted",
           "/wiki/Dagnall",
@@ -210,9 +121,7 @@
         ]
       ],
       [
-        [
-          "Aylesbury Vale"
-        ],
+        "Dacorum , Aylesbury Vale",
         [
           "/wiki/Aylesbury_Vale"
         ]
@@ -220,35 +129,15 @@
     ],
     [
       [
-        [
-          "HP5"
-        ],
-        [
-          null
-        ]
+        "HP5",
+        []
       ],
       [
-        [
-          "CHESHAM"
-        ],
-        [
-          null
-        ]
+        "CHESHAM",
+        []
       ],
       [
-        [
-          "Chesham",
-          "Ashley Green",
-          "Bellingdon",
-          "Botley",
-          "Chartridge",
-          "Hawridge",
-          "Latimer",
-          "Lye Green",
-          "Newtown",
-          "Waterside",
-          "Whelpley Hill"
-        ],
+        "Chesham , Ashley Green , Bellingdon , Botley , Chartridge , Hawridge , Latimer , Lye Green , Newtown , Waterside , Whelpley Hill",
         [
           "/wiki/Chesham",
           "/wiki/Ashley_Green",
@@ -258,15 +147,12 @@
           "/wiki/Hawridge",
           "/wiki/Latimer,_Buckinghamshire",
           "/wiki/Lye_Green",
-          null,
           "/wiki/Waterside,_Buckinghamshire",
           "/wiki/Whelpley_Hill"
         ]
       ],
       [
-        [
-          "Chiltern"
-        ],
+        "Chiltern",
         [
           "/wiki/Chiltern_District"
         ]
@@ -274,28 +160,15 @@
     ],
     [
       [
-        [
-          "HP6"
-        ],
-        [
-          null
-        ]
+        "HP6",
+        []
       ],
       [
-        [
-          "AMERSHAM"
-        ],
-        [
-          null
-        ]
+        "AMERSHAM",
+        []
       ],
       [
-        [
-          "Amersham",
-          "Chesham Bois",
-          "Hyde Heath",
-          "Little Chalfont"
-        ],
+        "Amersham ( north ) , Chesham Bois , Hyde Heath , Little Chalfont ( north )",
         [
           "/wiki/Amersham",
           "/wiki/Chesham_Bois",
@@ -304,38 +177,21 @@
         ]
       ],
       [
-        [
-          "Chiltern"
-        ],
-        [
-          null
-        ]
+        "Chiltern",
+        []
       ]
     ],
     [
       [
-        [
-          "HP7"
-        ],
-        [
-          null
-        ]
+        "HP7",
+        []
       ],
       [
-        [
-          "AMERSHAM"
-        ],
-        [
-          null
-        ]
+        "AMERSHAM",
+        []
       ],
       [
-        [
-          "Coleshill",
-          "Little Missenden",
-          "Penn Street",
-          "Winchmore Hill"
-        ],
+        "Amersham ( south ) , Coleshill , Little Chalfont ( west and centre ) , Little Missenden , Penn Street , Winchmore Hill",
         [
           "/wiki/Coleshill,_Buckinghamshire",
           "/wiki/Little_Missenden",
@@ -344,74 +200,41 @@
         ]
       ],
       [
-        [
-          "Chiltern"
-        ],
-        [
-          null
-        ]
+        "Chiltern",
+        []
       ]
     ],
     [
       [
-        [
-          "HP8"
-        ],
-        [
-          null
-        ]
+        "HP8",
+        []
       ],
       [
-        [
-          "CHALFONT ST. GILES"
-        ],
-        [
-          null
-        ]
+        "CHALFONT ST. GILES",
+        []
       ],
       [
-        [
-          "Chalfont St Giles"
-        ],
+        "Chalfont St Giles , Little Chalfont ( south )",
         [
           "/wiki/Chalfont_St_Giles"
         ]
       ],
       [
-        [
-          "Chiltern"
-        ],
-        [
-          null
-        ]
+        "Chiltern",
+        []
       ]
     ],
     [
       [
-        [
-          "HP9"
-        ],
-        [
-          null
-        ]
+        "HP9",
+        []
       ],
       [
-        [
-          "BEACONSFIELD"
-        ],
-        [
-          null
-        ]
+        "BEACONSFIELD",
+        []
       ],
       [
-        [
-          "Beaconsfield",
-          "Forty Green",
-          "Holtspur",
-          "Jordans",
-          "Knotty Green",
-          "Seer Green"
-        ],
+        "Beaconsfield , Forty Green , Holtspur , Jordans , Knotty Green , Seer Green",
         [
           "/wiki/Beaconsfield",
           "/wiki/Forty_Green,_Penn",
@@ -422,9 +245,7 @@
         ]
       ],
       [
-        [
-          "South Bucks"
-        ],
+        "South Bucks , Chiltern",
         [
           "/wiki/South_Bucks"
         ]
@@ -432,34 +253,15 @@
     ],
     [
       [
-        [
-          "HP10"
-        ],
-        [
-          null
-        ]
+        "HP10",
+        []
       ],
       [
-        [
-          "HIGH WYCOMBE"
-        ],
-        [
-          null
-        ]
+        "HIGH WYCOMBE",
+        []
       ],
       [
-        [
-          "High Wycombe",
-          "Flackwell Heath",
-          "Handy Cross",
-          "Hedsor",
-          "Loudwater",
-          "Penn",
-          "Tylers Green",
-          "Wooburn",
-          "Wooburn Green",
-          "Wooburn Moor"
-        ],
+        "High Wycombe , Flackwell Heath , Handy Cross , Hedsor , Loudwater , Penn , Tylers Green , Wooburn , Wooburn Green , Wooburn Moor",
         [
           "/wiki/High_Wycombe",
           "/wiki/Flackwell_Heath",
@@ -474,9 +276,7 @@
         ]
       ],
       [
-        [
-          "Wycombe"
-        ],
+        "Wycombe , Chiltern",
         [
           "/wiki/Wycombe_District"
         ]
@@ -484,144 +284,76 @@
     ],
     [
       [
-        [
-          "HP11"
-        ],
-        [
-          null
-        ]
+        "HP11",
+        []
       ],
       [
-        [
-          "HIGH WYCOMBE"
-        ],
-        [
-          null
-        ]
+        "HIGH WYCOMBE",
+        []
       ],
       [
-        [
-          "Wycombe Marsh"
-        ],
+        "Wycombe Marsh",
         [
           "/wiki/Wycombe_Marsh"
         ]
       ],
       [
-        [
-          "Wycombe"
-        ],
-        [
-          null
-        ]
+        "Wycombe",
+        []
       ]
     ],
     [
       [
-        [
-          "HP12"
-        ],
-        [
-          null
-        ]
+        "HP12",
+        []
       ],
       [
-        [
-          "HIGH WYCOMBE"
-        ],
-        [
-          null
-        ]
+        "HIGH WYCOMBE",
+        []
       ],
       [
+        "High Wycombe , Booker , Sands",
         [
-          "Booker",
-          "Sands"
-        ],
-        [
-          null,
           "/wiki/Sands,_Buckinghamshire"
         ]
       ],
       [
-        [
-          "Wycombe"
-        ],
-        [
-          null
-        ]
+        "Wycombe",
+        []
       ]
     ],
     [
       [
-        [
-          "HP13"
-        ],
-        [
-          null
-        ]
+        "HP13",
+        []
       ],
       [
-        [
-          "HIGH WYCOMBE"
-        ],
-        [
-          null
-        ]
+        "HIGH WYCOMBE",
+        []
       ],
       [
-        [
-          "Downley",
-          "Totteridge"
-        ],
+        "High Wycombe , Downley , Totteridge",
         [
           "/wiki/Downley",
           "/wiki/Totteridge,_Buckinghamshire"
         ]
       ],
       [
-        [
-          "Wycombe"
-        ],
-        [
-          null
-        ]
+        "Wycombe",
+        []
       ]
     ],
     [
       [
-        [
-          "HP14"
-        ],
-        [
-          null
-        ]
+        "HP14",
+        []
       ],
       [
-        [
-          "HIGH WYCOMBE"
-        ],
-        [
-          null
-        ]
+        "HIGH WYCOMBE",
+        []
       ],
       [
-        [
-          "Beacon 's Bottom",
-          "Bledlow Ridge",
-          "Bolter End",
-          "Bradenham",
-          "Cadmore End",
-          "Hughenden Valley",
-          "Ibstone",
-          "Lane End",
-          "Naphill",
-          "Northend",
-          "Stokenchurch",
-          "The City",
-          "Upper North Dean",
-          "West Wycombe"
-        ],
+        "Beacon 's Bottom , Bledlow Ridge , Bolter End , Bradenham , Cadmore End , Hughenden Valley , Ibstone , Lane End , Naphill , Northend , Stokenchurch , The City , Upper North Dean , West Wycombe",
         [
           "/wiki/Beacon's_Bottom",
           "/wiki/Bledlow_Ridge",
@@ -640,39 +372,21 @@
         ]
       ],
       [
-        [
-          "Wycombe"
-        ],
-        [
-          null
-        ]
+        "Wycombe",
+        []
       ]
     ],
     [
       [
-        [
-          "HP15"
-        ],
-        [
-          null
-        ]
+        "HP15",
+        []
       ],
       [
-        [
-          "HIGH WYCOMBE"
-        ],
-        [
-          null
-        ]
+        "HIGH WYCOMBE",
+        []
       ],
       [
-        [
-          "Cryers Hill",
-          "Great Kingshill",
-          "Hazlemere",
-          "Holmer Green",
-          "Hughenden Valley"
-        ],
+        "Cryers Hill , Great Kingshill , Hazlemere , Holmer Green , Hughenden Valley",
         [
           "/wiki/Cryers_Hill",
           "/wiki/Great_Kingshill",
@@ -682,41 +396,21 @@
         ]
       ],
       [
-        [
-          "Wycombe , Chiltern"
-        ],
-        [
-          null
-        ]
+        "Wycombe , Chiltern",
+        []
       ]
     ],
     [
       [
-        [
-          "HP16"
-        ],
-        [
-          null
-        ]
+        "HP16",
+        []
       ],
       [
-        [
-          "GREAT MISSENDEN"
-        ],
-        [
-          null
-        ]
+        "GREAT MISSENDEN",
+        []
       ],
       [
-        [
-          "Great Missenden",
-          "Ballinger",
-          "The Lee",
-          "Little Hampden",
-          "Little Kingshill",
-          "Prestwood",
-          "South Heath"
-        ],
+        "Great Missenden , Ballinger , The Lee , Little Hampden , Little Kingshill , Prestwood , South Heath",
         [
           "/wiki/Great_Missenden",
           "/wiki/Ballinger,_Buckinghamshire",
@@ -728,49 +422,21 @@
         ]
       ],
       [
-        [
-          "Chiltern , Wycombe"
-        ],
-        [
-          null
-        ]
+        "Chiltern , Wycombe",
+        []
       ]
     ],
     [
       [
-        [
-          "HP17"
-        ],
-        [
-          null
-        ]
+        "HP17",
+        []
       ],
       [
-        [
-          "AYLESBURY"
-        ],
-        [
-          null
-        ]
+        "AYLESBURY",
+        []
       ],
       [
-        [
-          "Aston Sandford",
-          "Bishopstone",
-          "Butler 's Cross",
-          "Dinton",
-          "Dorton",
-          "Ellesborough",
-          "Ford",
-          "Great and Little Kimble",
-          "Kingsey",
-          "Haddenham",
-          "Meadle",
-          "Nash Lee",
-          "Stone",
-          "Upton",
-          "Westlington"
-        ],
+        "Aston Sandford , Bishopstone , Butler 's Cross , Dinton , Dorton , Ellesborough , Ford , Great and Little Kimble , Kingsey , Haddenham , Meadle , Nash Lee , Stone , Upton , Westlington",
         [
           "/wiki/Aston_Sandford",
           "/wiki/Bishopstone,_Buckinghamshire",
@@ -790,57 +456,21 @@
         ]
       ],
       [
-        [
-          "Aylesbury Vale , Wycombe"
-        ],
-        [
-          null
-        ]
+        "Aylesbury Vale , Wycombe",
+        []
       ]
     ],
     [
       [
-        [
-          "HP18"
-        ],
-        [
-          null
-        ]
+        "HP18",
+        []
       ],
       [
-        [
-          "AYLESBURY"
-        ],
-        [
-          null
-        ]
+        "AYLESBURY",
+        []
       ],
       [
-        [
-          "Ashendon",
-          "Berryfields",
-          "Boarstall",
-          "Brill",
-          "Chearsley",
-          "Chilton",
-          "Cuddington",
-          "Dorton",
-          "Easington",
-          "Edgcott",
-          "Grendon Underwood",
-          "Ickford",
-          "Kingswood",
-          "Long Crendon",
-          "Lower Winchendon",
-          "Ludgershall",
-          "Oakley",
-          "Shabbington",
-          "Upper Winchendon",
-          "Waddesdon",
-          "Westcott",
-          "Worminghall",
-          "Wotton Underwood"
-        ],
+        "Ashendon , Berryfields , Boarstall , Brill , Chearsley , Chilton , Cuddington , Dorton , Easington , Edgcott , Grendon Underwood , Ickford , Kingswood , Long Crendon , Lower Winchendon , Ludgershall , Oakley , Shabbington , Upper Winchendon , Waddesdon , Westcott , Worminghall , Wotton Underwood",
         [
           "/wiki/Ashendon",
           "/wiki/Berryfields",
@@ -868,41 +498,21 @@
         ]
       ],
       [
-        [
-          "Aylesbury Vale"
-        ],
-        [
-          null
-        ]
+        "Aylesbury Vale",
+        []
       ]
     ],
     [
       [
-        [
-          "HP19"
-        ],
-        [
-          null
-        ]
+        "HP19",
+        []
       ],
       [
-        [
-          "AYLESBURY"
-        ],
-        [
-          null
-        ]
+        "AYLESBURY",
+        []
       ],
       [
-        [
-          "Aylesbury",
-          "Berryfields",
-          "Buckingham Park",
-          "Fairford Leys",
-          "Prebendal Farm",
-          "Quarrendon",
-          "Watermead"
-        ],
+        "Aylesbury , Berryfields , Buckingham Park , Fairford Leys , Prebendal Farm , Quarrendon , Watermead",
         [
           "/wiki/Aylesbury",
           "/wiki/Berryfields",
@@ -914,48 +524,29 @@
         ]
       ],
       [
-        [
-          "Aylesbury Vale"
-        ],
-        [
-          null
-        ]
+        "Aylesbury Vale",
+        []
       ]
     ],
     [
       [
-        [
-          "HP20"
-        ],
-        [
-          null
-        ]
+        "HP20",
+        []
       ],
       [
-        [
-          "AYLESBURY"
-        ],
-        [
-          null
-        ]
+        "AYLESBURY",
+        []
       ],
       [
-        [
-          "Broughton",
-          "Elmhurst"
-        ],
+        "Aylesbury , Aylesbury Town Centre , Broughton , Elmhurst",
         [
           "/wiki/Broughton,_Aylesbury",
           "/wiki/Elmhurst,_Aylesbury"
         ]
       ],
       [
-        [
-          "Aylesbury Vale"
-        ],
-        [
-          null
-        ]
+        "Aylesbury Vale",
+        []
       ]
     ]
   ],

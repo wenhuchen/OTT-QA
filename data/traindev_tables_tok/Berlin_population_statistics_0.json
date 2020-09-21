@@ -3,70 +3,42 @@
   "title": "Berlin population statistics",
   "header": [
     [
-      [
-        "Borough"
-      ],
+      "Borough",
       [
         "/wiki/Borough"
       ]
     ],
     [
-      [
-        "Population 30 September 2010"
-      ],
-      [
-        null
-      ]
+      "Population 30 September 2010",
+      []
     ],
     [
-      [
-        "Area in km\u00b2"
-      ],
-      [
-        null
-      ]
+      "Area in km\u00b2",
+      []
     ],
     [
-      [
-        "Largest Non-German ethnic groups"
-      ],
-      [
-        null
-      ]
+      "Largest Non-German ethnic groups",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Mitte"
-        ],
+        "Mitte",
         [
           "/wiki/Mitte"
         ]
       ],
       [
-        [
-          "332,100"
-        ],
-        [
-          null
-        ]
+        "332,100",
+        []
       ],
       [
-        [
-          "39.47"
-        ],
-        [
-          null
-        ]
+        "39.47",
+        []
       ],
       [
-        [
-          "Turks",
-          "Arabs",
-          "Kurds"
-        ],
+        "Turks , Arabs , Kurds , many Asians , Africans and Western Europeans",
         [
           "/wiki/Turkish_people",
           "/wiki/Arabs",
@@ -76,37 +48,21 @@
     ],
     [
       [
-        [
-          "Friedrichshain-Kreuzberg"
-        ],
+        "Friedrichshain-Kreuzberg",
         [
           "/wiki/Friedrichshain-Kreuzberg"
         ]
       ],
       [
-        [
-          "268,831"
-        ],
-        [
-          null
-        ]
+        "268,831",
+        []
       ],
       [
-        [
-          "20.16"
-        ],
-        [
-          null
-        ]
+        "20.16",
+        []
       ],
       [
-        [
-          "Turks",
-          "Arabs",
-          "African",
-          "Kurds",
-          "Chinese"
-        ],
+        "Turks , Arabs , African , Kurds , Chinese",
         [
           "/wiki/Turkish_people",
           "/wiki/Arabs",
@@ -118,38 +74,21 @@
     ],
     [
       [
-        [
-          "Pankow"
-        ],
+        "Pankow",
         [
           "/wiki/Pankow"
         ]
       ],
       [
-        [
-          "368,956"
-        ],
-        [
-          null
-        ]
+        "368,956",
+        []
       ],
       [
-        [
-          "103.01"
-        ],
-        [
-          null
-        ]
+        "103.01",
+        []
       ],
       [
-        [
-          "Poles",
-          "Italians",
-          "French",
-          "Americans",
-          "Vietnamese",
-          "British"
-        ],
+        "Poles , Italians , French , Americans , Vietnamese , British",
         [
           "/wiki/Poles",
           "/wiki/Italians",
@@ -162,36 +101,21 @@
     ],
     [
       [
-        [
-          "Charlottenburg-Wilmersdorf"
-        ],
+        "Charlottenburg-Wilmersdorf",
         [
           "/wiki/Charlottenburg-Wilmersdorf"
         ]
       ],
       [
-        [
-          "320,014"
-        ],
-        [
-          null
-        ]
+        "320,014",
+        []
       ],
       [
-        [
-          "64.72"
-        ],
-        [
-          null
-        ]
+        "64.72",
+        []
       ],
       [
-        [
-          "Turks",
-          "Africans",
-          "Russians",
-          "Arabs"
-        ],
+        "Turks , Africans , Russians , Arabs , others",
         [
           "/wiki/Turkish_people",
           "/wiki/Africans",
@@ -202,36 +126,21 @@
     ],
     [
       [
-        [
-          "Spandau"
-        ],
+        "Spandau",
         [
           "/wiki/Spandau"
         ]
       ],
       [
-        [
-          "225,420"
-        ],
-        [
-          null
-        ]
+        "225,420",
+        []
       ],
       [
-        [
-          "91.91"
-        ],
-        [
-          null
-        ]
+        "91.91",
+        []
       ],
       [
-        [
-          "Turks",
-          "Africans",
-          "Russians",
-          "Arabs"
-        ],
+        "Turks , Africans , Russians , Arabs , others",
         [
           "/wiki/Turkish_people",
           "/wiki/Africans",
@@ -242,37 +151,21 @@
     ],
     [
       [
-        [
-          "Steglitz-Zehlendorf"
-        ],
+        "Steglitz-Zehlendorf",
         [
           "/wiki/Steglitz-Zehlendorf"
         ]
       ],
       [
-        [
-          "293,989"
-        ],
-        [
-          null
-        ]
+        "293,989",
+        []
       ],
       [
-        [
-          "102.50"
-        ],
-        [
-          null
-        ]
+        "102.50",
+        []
       ],
       [
-        [
-          "Poles",
-          "Turks",
-          "Croats",
-          "Serbs",
-          "Koreans"
-        ],
+        "Poles , Turks , Croats , Serbs , Koreans",
         [
           "/wiki/Poles",
           "/wiki/Turkish_people",
@@ -284,37 +177,21 @@
     ],
     [
       [
-        [
-          "Tempelhof-Sch\u00f6neberg"
-        ],
+        "Tempelhof-Sch\u00f6neberg",
         [
           "/wiki/Tempelhof-Sch\u00f6neberg"
         ]
       ],
       [
-        [
-          "335,060"
-        ],
-        [
-          null
-        ]
+        "335,060",
+        []
       ],
       [
-        [
-          "53.09"
-        ],
-        [
-          null
-        ]
+        "53.09",
+        []
       ],
       [
-        [
-          "Turks",
-          "Croats",
-          "Serbs",
-          "Koreans",
-          "Africans"
-        ],
+        "Turks , Croats , Serbs , Koreans , Africans",
         [
           "/wiki/Turkish_people",
           "/wiki/Croats",
@@ -326,38 +203,21 @@
     ],
     [
       [
-        [
-          "Neuk\u00f6lln"
-        ],
+        "Neuk\u00f6lln",
         [
           "/wiki/Neuk\u00f6lln"
         ]
       ],
       [
-        [
-          "310,283"
-        ],
-        [
-          null
-        ]
+        "310,283",
+        []
       ],
       [
-        [
-          "44.93"
-        ],
-        [
-          null
-        ]
+        "44.93",
+        []
       ],
       [
-        [
-          "Arabs",
-          "Turks",
-          "Kurds",
-          "Russians",
-          "Africans",
-          "Poles"
-        ],
+        "Arabs , Turks , Kurds , Russians , Africans , Poles",
         [
           "/wiki/Arabs",
           "/wiki/Turkish_people",
@@ -370,36 +230,21 @@
     ],
     [
       [
-        [
-          "Treptow-K\u00f6penick"
-        ],
+        "Treptow-K\u00f6penick",
         [
           "/wiki/Treptow-K\u00f6penick"
         ]
       ],
       [
-        [
-          "241,335"
-        ],
-        [
-          null
-        ]
+        "241,335",
+        []
       ],
       [
-        [
-          "168.42"
-        ],
-        [
-          null
-        ]
+        "168.42",
+        []
       ],
       [
-        [
-          "Russians",
-          "Poles",
-          "Ukrainians",
-          "Vietnamese"
-        ],
+        "Russians , Poles , Ukrainians , Vietnamese",
         [
           "/wiki/Russians",
           "/wiki/Poles",
@@ -410,34 +255,21 @@
     ],
     [
       [
-        [
-          "Marzahn-Hellersdorf"
-        ],
+        "Marzahn-Hellersdorf",
         [
           "/wiki/Marzahn-Hellersdorf"
         ]
       ],
       [
-        [
-          "248,264"
-        ],
-        [
-          null
-        ]
+        "248,264",
+        []
       ],
       [
-        [
-          "61.74"
-        ],
-        [
-          null
-        ]
+        "61.74",
+        []
       ],
       [
-        [
-          "Russians",
-          "Vietnamese"
-        ],
+        "Russians , Vietnamese , several other Eastern Europeans",
         [
           "/wiki/Russians",
           "/wiki/Vietnamese_people"
@@ -446,37 +278,21 @@
     ],
     [
       [
-        [
-          "Lichtenberg"
-        ],
+        "Lichtenberg",
         [
           "/wiki/Lichtenberg"
         ]
       ],
       [
-        [
-          "259,881"
-        ],
-        [
-          null
-        ]
+        "259,881",
+        []
       ],
       [
-        [
-          "52.29"
-        ],
-        [
-          null
-        ]
+        "52.29",
+        []
       ],
       [
-        [
-          "Vietnamese",
-          "Russians",
-          "Ukrainians",
-          "Poles",
-          "Chinese"
-        ],
+        "Vietnamese , Russians , Ukrainians , Poles , Chinese",
         [
           "/wiki/Vietnamese_people",
           "/wiki/Russians",
@@ -488,38 +304,21 @@
     ],
     [
       [
-        [
-          "Reinickendorf"
-        ],
+        "Reinickendorf",
         [
           "/wiki/Reinickendorf"
         ]
       ],
       [
-        [
-          "240,454"
-        ],
-        [
-          null
-        ]
+        "240,454",
+        []
       ],
       [
-        [
-          "89.46"
-        ],
-        [
-          null
-        ]
+        "89.46",
+        []
       ],
       [
-        [
-          "Turks",
-          "Poles",
-          "Serbs",
-          "Croats",
-          "Arabs",
-          "Italians"
-        ],
+        "Turks , Poles , Serbs , Croats , Arabs , Italians",
         [
           "/wiki/Turkish_people",
           "/wiki/Poles",
@@ -532,38 +331,21 @@
     ],
     [
       [
-        [
-          "Berlin"
-        ],
+        "Total Berlin",
         [
           "/wiki/Berlin"
         ]
       ],
       [
-        [
-          "3,450,889"
-        ],
-        [
-          null
-        ]
+        "3,450,889",
+        []
       ],
       [
-        [
-          "891.82"
-        ],
-        [
-          null
-        ]
+        "891.82",
+        []
       ],
       [
-        [
-          "Turks",
-          "Arabs",
-          "Russians",
-          "Vietnamese",
-          "Poles",
-          "Africans"
-        ],
+        "Turks , Arabs , Russians , Vietnamese , Poles , Africans",
         [
           "/wiki/Turkish_people",
           "/wiki/Arabs",

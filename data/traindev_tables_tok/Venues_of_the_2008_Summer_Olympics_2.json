@@ -3,46 +3,28 @@
   "title": "Venues of the 2008 Summer Olympics",
   "header": [
     [
-      [
-        "Venue"
-      ],
-      [
-        null
-      ]
+      "Venue",
+      []
     ],
     [
-      [
-        "Sports"
-      ],
-      [
-        null
-      ]
+      "Sports",
+      []
     ],
     [
-      [
-        "Capacity"
-      ],
-      [
-        null
-      ]
+      "Capacity",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Beijing National Aquatic Center"
-        ],
+        "Beijing National Aquatic Center",
         [
           "/wiki/Beijing_National_Aquatics_Center"
         ]
       ],
       [
-        [
-          "Swimming",
-          "Diving",
-          "Synchronized Swimming"
-        ],
+        "Swimming , Diving and Synchronized Swimming",
         [
           "/wiki/Swimming_at_the_2008_Summer_Olympics",
           "/wiki/Diving_at_the_2008_Summer_Olympics",
@@ -50,306 +32,210 @@
         ]
       ],
       [
-        [
-          "17,000"
-        ],
-        [
-          null
-        ]
+        "17,000",
+        []
       ]
     ],
     [
       [
-        [
-          "Beijing National Indoor Stadium"
-        ],
+        "Beijing National Indoor Stadium",
         [
           "/wiki/Beijing_National_Indoor_Stadium"
         ]
       ],
       [
-        [
-          "Gymnastics",
-          "Handball"
-        ],
+        "Gymnastics ( artistic , trampoline ) , Handball ( final )",
         [
           "/wiki/Gymnastics_at_the_2008_Summer_Olympics",
           "/wiki/Handball_at_the_2008_Summer_Olympics"
         ]
       ],
       [
-        [
-          "19,000"
-        ],
-        [
-          null
-        ]
+        "19,000",
+        []
       ]
     ],
     [
       [
-        [
-          "Beijing National Stadium"
-        ],
+        "Beijing National Stadium",
         [
           "/wiki/Beijing_National_Stadium"
         ]
       ],
       [
-        [
-          "Athletics",
-          "Football"
-        ],
+        "Athletics , Football ( final )",
         [
           "/wiki/Athletics_at_the_2008_Summer_Olympics",
           "/wiki/Football_at_the_2008_Summer_Olympics"
         ]
       ],
       [
-        [
-          "91,000"
-        ],
-        [
-          null
-        ]
+        "91,000",
+        []
       ]
     ],
     [
       [
-        [
-          "Beijing Science and Technology University Gymnasium"
-        ],
+        "Beijing Science and Technology University Gymnasium",
         [
           "/wiki/Beijing_Science_and_Technology_University_Gymnasium"
         ]
       ],
       [
-        [
-          "Judo",
-          "Taekwondo"
-        ],
+        "Judo , Taekwondo",
         [
           "/wiki/Judo_at_the_2008_Summer_Olympics",
           "/wiki/Taekwondo_at_the_2008_Summer_Olympics"
         ]
       ],
       [
-        [
-          "8,024"
-        ],
-        [
-          null
-        ]
+        "8,024",
+        []
       ]
     ],
     [
       [
-        [
-          "Beijing Shooting Range Hall"
-        ],
+        "Beijing Shooting Range Hall",
         [
           "/wiki/Beijing_Shooting_Range_Hall"
         ]
       ],
       [
-        [
-          "Shooting"
-        ],
+        "Shooting ( pistol , rifle )",
         [
           "/wiki/Shooting_at_the_2008_Summer_Olympics"
         ]
       ],
       [
-        [
-          "9,000"
-        ],
-        [
-          null
-        ]
+        "9,000",
+        []
       ]
     ],
     [
       [
-        [
-          "Beijing University of Technology Gymnasium"
-        ],
+        "Beijing University of Technology Gymnasium",
         [
           "/wiki/Beijing_University_of_Technology_Gymnasium"
         ]
       ],
       [
-        [
-          "Badminton"
-        ],
+        "Badminton , Gymnastics ( rhythmic )",
         [
           "/wiki/Badminton_at_the_2008_Summer_Olympics"
         ]
       ],
       [
-        [
-          "7,500"
-        ],
-        [
-          null
-        ]
+        "7,500",
+        []
       ]
     ],
     [
       [
-        [
-          "China Agricultural University Gymnasium"
-        ],
+        "China Agricultural University Gymnasium",
         [
           "/wiki/China_Agricultural_University_Gymnasium"
         ]
       ],
       [
-        [
-          "Wrestling"
-        ],
+        "Wrestling",
         [
           "/wiki/Wrestling_at_the_2008_Summer_Olympics"
         ]
       ],
       [
-        [
-          "8,000"
-        ],
-        [
-          null
-        ]
+        "8,000",
+        []
       ]
     ],
     [
       [
-        [
-          "Laoshan Velodrome"
-        ],
+        "Laoshan Velodrome",
         [
           "/wiki/Laoshan_Velodrome"
         ]
       ],
       [
-        [
-          "Cycling"
-        ],
+        "Cycling ( track )",
         [
           "/wiki/Cycling_at_the_2008_Summer_Olympics"
         ]
       ],
       [
-        [
-          "6,000"
-        ],
-        [
-          null
-        ]
+        "6,000",
+        []
       ]
     ],
     [
       [
-        [
-          "Olympic Green Tennis Center"
-        ],
+        "Olympic Green Tennis Center",
         [
           "/wiki/Olympic_Green_Tennis_Center"
         ]
       ],
       [
-        [
-          "Tennis"
-        ],
+        "Tennis",
         [
           "/wiki/Tennis_at_the_2008_Summer_Olympics"
         ]
       ],
       [
-        [
-          "17,400"
-        ],
-        [
-          null
-        ]
+        "17,400",
+        []
       ]
     ],
     [
       [
-        [
-          "Peking University Gymnasium"
-        ],
+        "Peking University Gymnasium",
         [
           "/wiki/Peking_University_Gymnasium"
         ]
       ],
       [
-        [
-          "Table tennis"
-        ],
+        "Table tennis",
         [
           "/wiki/Table_tennis_at_the_2008_Summer_Olympics"
         ]
       ],
       [
-        [
-          "8,000"
-        ],
-        [
-          null
-        ]
+        "8,000",
+        []
       ]
     ],
     [
       [
-        [
-          "Shunyi Olympic Rowing-Canoeing Park"
-        ],
+        "Shunyi Olympic Rowing-Canoeing Park",
         [
           "/wiki/Shunyi_Olympic_Rowing-Canoeing_Park"
         ]
       ],
       [
-        [
-          "Rowing",
-          "Canoeing"
-        ],
+        "Rowing , Canoeing , and Swimming ( marathon )",
         [
           "/wiki/Rowing_at_the_2008_Summer_Olympics",
           "/wiki/Canoeing_at_the_2008_Summer_Olympics"
         ]
       ],
       [
-        [
-          "37,000"
-        ],
-        [
-          null
-        ]
+        "37,000",
+        []
       ]
     ],
     [
       [
-        [
-          "Wukesong Indoor Stadium"
-        ],
+        "Wukesong Indoor Stadium",
         [
           "/wiki/Wukesong_Indoor_Stadium"
         ]
       ],
       [
-        [
-          "Basketball"
-        ],
+        "Basketball",
         [
           "/wiki/Basketball_at_the_2008_Summer_Olympics"
         ]
       ],
       [
-        [
-          "18,000"
-        ],
-        [
-          null
-        ]
+        "18,000",
+        []
       ]
     ]
   ],

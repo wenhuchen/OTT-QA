@@ -3,183 +3,106 @@
   "title": "List of busiest airports by international passenger traffic",
   "header": [
     [
-      [
-        "Rank"
-      ],
-      [
-        null
-      ]
+      "Rank",
+      []
     ],
     [
-      [
-        "Airport"
-      ],
-      [
-        null
-      ]
+      "Airport",
+      []
     ],
     [
-      [
-        "Location"
-      ],
-      [
-        null
-      ]
+      "Location",
+      []
     ],
     [
-      [
-        "Code ( IATA/ICAO )"
-      ],
-      [
-        null
-      ]
+      "Code ( IATA/ICAO )",
+      []
     ],
     [
-      [
-        "Total passengers"
-      ],
-      [
-        null
-      ]
+      "Total passengers",
+      []
     ],
     [
-      [
-        "% change"
-      ],
-      [
-        null
-      ]
+      "% change",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "London Heathrow Airport"
-        ],
+        "London Heathrow Airport",
         [
           "/wiki/London_Heathrow_Airport"
         ]
       ],
       [
-        [
-          "Hillingdon",
-          "Greater London"
-        ],
+        "Hillingdon , Greater London , United Kingdom",
         [
           "/wiki/London_Borough_of_Hillingdon",
           "/wiki/Greater_London"
         ]
       ],
       [
-        [
-          "LHR/EGLL"
-        ],
-        [
-          null
-        ]
+        "LHR/EGLL",
+        []
       ],
       [
-        [
-          "66,689,466"
-        ],
-        [
-          null
-        ]
+        "66,689,466",
+        []
       ],
       [
-        [
-          "3.5%"
-        ],
-        [
-          null
-        ]
+        "3.5%",
+        []
       ]
     ],
     [
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "Dubai International Airport"
-        ],
+        "Dubai International Airport",
         [
           "/wiki/Dubai_International_Airport"
         ]
       ],
       [
-        [
-          "Garhoud",
-          "Dubai"
-        ],
+        "Garhoud , Dubai , United Arab Emirates",
         [
           "/wiki/Garhoud",
           "/wiki/Dubai"
         ]
       ],
       [
-        [
-          "DXB/OMDB"
-        ],
-        [
-          null
-        ]
+        "DXB/OMDB",
+        []
       ],
       [
-        [
-          "65,872,250"
-        ],
-        [
-          null
-        ]
+        "65,872,250",
+        []
       ],
       [
-        [
-          "15.3%"
-        ],
-        [
-          null
-        ]
+        "15.3%",
+        []
       ]
     ],
     [
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "Hong Kong International Airport"
-        ],
+        "Hong Kong International Airport",
         [
           "/wiki/Hong_Kong_International_Airport"
         ]
       ],
       [
-        [
-          "Chek Lap Kok",
-          "Islands",
-          "New Territories",
-          "Hong Kong"
-        ],
+        "Chek Lap Kok , Islands , New Territories , Hong Kong",
         [
           "/wiki/Chek_Lap_Kok",
           "/wiki/Islands_District",
@@ -188,53 +111,31 @@
         ]
       ],
       [
-        [
-          "HKG/VHHH"
-        ],
-        [
-          null
-        ]
+        "HKG/VHHH",
+        []
       ],
       [
-        [
-          "59,294,439"
-        ],
-        [
-          null
-        ]
+        "59,294,439",
+        []
       ],
       [
-        [
-          "6.5%"
-        ],
-        [
-          null
-        ]
+        "6.5%",
+        []
       ]
     ],
     [
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "Paris-Charles de Gaulle Airport"
-        ],
+        "Paris-Charles de Gaulle Airport",
         [
           "/wiki/Paris-Charles_de_Gaulle_Airport"
         ]
       ],
       [
-        [
-          "Roissy-en-France",
-          "Val d'Oise",
-          "\u00cele-de-France"
-        ],
+        "Roissy-en-France , Val d'Oise , \u00cele-de-France , France",
         [
           "/wiki/Roissy-en-France",
           "/wiki/Val_d'Oise",
@@ -242,157 +143,93 @@
         ]
       ],
       [
-        [
-          "CDG/LFPG"
-        ],
-        [
-          null
-        ]
+        "CDG/LFPG",
+        []
       ],
       [
-        [
-          "56,767,748"
-        ],
-        [
-          null
-        ]
+        "56,767,748",
+        []
       ],
       [
-        [
-          "1.0%"
-        ],
-        [
-          null
-        ]
+        "1.0%",
+        []
       ]
     ],
     [
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "Singapore Changi Airport"
-        ],
+        "Singapore Changi Airport",
         [
           "/wiki/Singapore_Changi_Airport"
         ]
       ],
       [
-        [
-          "Changi",
-          "East Region"
-        ],
+        "Changi , East Region , Singapore",
         [
           "/wiki/Changi",
           "/wiki/East_Region,_Singapore"
         ]
       ],
       [
-        [
-          "SIN/WSSS"
-        ],
-        [
-          null
-        ]
+        "SIN/WSSS",
+        []
       ],
       [
-        [
-          "52,775,360"
-        ],
-        [
-          null
-        ]
+        "52,775,360",
+        []
       ],
       [
-        [
-          "5.7%"
-        ],
-        [
-          null
-        ]
+        "5.7%",
+        []
       ]
     ],
     [
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "Amsterdam Airport Schiphol"
-        ],
+        "Amsterdam Airport Schiphol",
         [
           "/wiki/Amsterdam_Airport_Schiphol"
         ]
       ],
       [
-        [
-          "Haarlemmermeer",
-          "North Holland"
-        ],
+        "Haarlemmermeer , North Holland , Netherlands",
         [
           "/wiki/Haarlemmermeer",
           "/wiki/North_Holland"
         ]
       ],
       [
-        [
-          "AMS/EHAM"
-        ],
-        [
-          null
-        ]
+        "AMS/EHAM",
+        []
       ],
       [
-        [
-          "52,527,699"
-        ],
-        [
-          null
-        ]
+        "52,527,699",
+        []
       ],
       [
-        [
-          "3.0%"
-        ],
-        [
-          null
-        ]
+        "3.0%",
+        []
       ]
     ],
     [
       [
-        [
-          "7"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ],
       [
-        [
-          "Frankfurt Airport"
-        ],
+        "Frankfurt Airport",
         [
           "/wiki/Frankfurt_Airport"
         ]
       ],
       [
-        [
-          "Flughafen",
-          "Frankfurt",
-          "Hesse"
-        ],
+        "Flughafen , Frankfurt , Hesse , Germany",
         [
           "/wiki/Flughafen_(Frankfurt_am_Main)",
           "/wiki/Frankfurt_am_Main",
@@ -400,54 +237,31 @@
         ]
       ],
       [
-        [
-          "FRA/EDDF"
-        ],
-        [
-          null
-        ]
+        "FRA/EDDF",
+        []
       ],
       [
-        [
-          "51,315,550"
-        ],
-        [
-          null
-        ]
+        "51,315,550",
+        []
       ],
       [
-        [
-          "1.1%"
-        ],
-        [
-          null
-        ]
+        "1.1%",
+        []
       ]
     ],
     [
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "Suvarnabhumi Airport"
-        ],
+        "Suvarnabhumi Airport",
         [
           "/wiki/Suvarnabhumi_Airport"
         ]
       ],
       [
-        [
-          "Racha Thewa",
-          "Bang Phli",
-          "Samut Prakan",
-          "Greater Bangkok"
-        ],
+        "Racha Thewa , Bang Phli , Samut Prakan , Greater Bangkok , Thailand",
         [
           "/wiki/Racha_Thewa",
           "/wiki/Amphoe_Bang_Phli",
@@ -456,53 +270,31 @@
         ]
       ],
       [
-        [
-          "BKK/VTBS"
-        ],
-        [
-          null
-        ]
+        "BKK/VTBS",
+        []
       ],
       [
-        [
-          "41,302,852"
-        ],
-        [
-          null
-        ]
+        "41,302,852",
+        []
       ],
       [
-        [
-          "4.9%"
-        ],
-        [
-          null
-        ]
+        "4.9%",
+        []
       ]
     ],
     [
       [
-        [
-          "9"
-        ],
-        [
-          null
-        ]
+        "9",
+        []
       ],
       [
-        [
-          "Seoul Incheon International Airport"
-        ],
+        "Seoul Incheon International Airport",
         [
           "/wiki/Seoul_Incheon_International_Airport"
         ]
       ],
       [
-        [
-          "Jung-gu",
-          "Incheon",
-          "Sudogwon"
-        ],
+        "Jung-gu , Incheon , Sudogwon , South Korea",
         [
           "/wiki/Jung-gu,_Incheon",
           "/wiki/Incheon",
@@ -510,53 +302,31 @@
         ]
       ],
       [
-        [
-          "ICN/RKSI"
-        ],
-        [
-          null
-        ]
+        "ICN/RKSI",
+        []
       ],
       [
-        [
-          "40,785,953"
-        ],
-        [
-          null
-        ]
+        "40,785,953",
+        []
       ],
       [
-        [
-          "6.4%"
-        ],
-        [
-          null
-        ]
+        "6.4%",
+        []
       ]
     ],
     [
       [
-        [
-          "10"
-        ],
-        [
-          null
-        ]
+        "10",
+        []
       ],
       [
-        [
-          "Atat\u00fcrk International Airport"
-        ],
+        "Atat\u00fcrk International Airport",
         [
           "/wiki/Atat\u00fcrk_International_Airport"
         ]
       ],
       [
-        [
-          "Ye\u015filk\u00f6y",
-          "Bak\u0131rk\u00f6y",
-          "Istanbul"
-        ],
+        "Ye\u015filk\u00f6y , Bak\u0131rk\u00f6y , Istanbul , Turkey",
         [
           "/wiki/Ye\u015filk\u00f6y",
           "/wiki/Bak\u0131rk\u00f6y",
@@ -564,158 +334,93 @@
         ]
       ],
       [
-        [
-          "IST/LTBA"
-        ],
-        [
-          null
-        ]
+        "IST/LTBA",
+        []
       ],
       [
-        [
-          "33,955,798"
-        ],
-        [
-          null
-        ]
+        "33,955,798",
+        []
       ],
       [
-        [
-          "14.2%"
-        ],
-        [
-          null
-        ]
+        "14.2%",
+        []
       ]
     ],
     [
       [
-        [
-          "11"
-        ],
-        [
-          null
-        ]
+        "11",
+        []
       ],
       [
-        [
-          "Kuala Lumpur International Airport"
-        ],
+        "Kuala Lumpur International Airport",
         [
           "/wiki/Kuala_Lumpur_International_Airport"
         ]
       ],
       [
-        [
-          "Sepang",
-          "Selangor"
-        ],
+        "Sepang , Selangor , Malaysia",
         [
           "/wiki/Sepang",
           "/wiki/Selangor"
         ]
       ],
       [
-        [
-          "KUL/WMKK"
-        ],
-        [
-          null
-        ]
+        "KUL/WMKK",
+        []
       ],
       [
-        [
-          "32,605,356"
-        ],
-        [
-          null
-        ]
+        "32,605,356",
+        []
       ],
       [
-        [
-          "18.1%"
-        ],
-        [
-          null
-        ]
+        "18.1%",
+        []
       ]
     ],
     [
       [
-        [
-          "12"
-        ],
-        [
-          null
-        ]
+        "12",
+        []
       ],
       [
-        [
-          "London Gatwick Airport"
-        ],
+        "London Gatwick Airport",
         [
           "/wiki/London_Gatwick_Airport"
         ]
       ],
       [
-        [
-          "Crawley",
-          "West Sussex"
-        ],
+        "Crawley , West Sussex , United Kingdom",
         [
           "/wiki/Crawley",
           "/wiki/West_Sussex"
         ]
       ],
       [
-        [
-          "LGW/EGKK"
-        ],
-        [
-          null
-        ]
+        "LGW/EGKK",
+        []
       ],
       [
-        [
-          "31,657,805"
-        ],
-        [
-          null
-        ]
+        "31,657,805",
+        []
       ],
       [
-        [
-          "4.2%"
-        ],
-        [
-          null
-        ]
+        "4.2%",
+        []
       ]
     ],
     [
       [
-        [
-          "13"
-        ],
-        [
-          null
-        ]
+        "13",
+        []
       ],
       [
-        [
-          "Narita International Airport"
-        ],
+        "Narita International Airport",
         [
           "/wiki/Narita_International_Airport"
         ]
       ],
       [
-        [
-          "Narita",
-          "Chiba",
-          "Kant\u014d",
-          "Honsh\u016b"
-        ],
+        "Narita , Chiba , Kant\u014d , Honsh\u016b , Japan",
         [
           "/wiki/Narita,_Chiba",
           "/wiki/Chiba,_Chiba",
@@ -724,56 +429,31 @@
         ]
       ],
       [
-        [
-          "NRT/RJAA"
-        ],
-        [
-          null
-        ]
+        "NRT/RJAA",
+        []
       ],
       [
-        [
-          "30,516,135"
-        ],
-        [
-          null
-        ]
+        "30,516,135",
+        []
       ],
       [
-        [
-          "3.0%"
-        ],
-        [
-          null
-        ]
+        "3.0%",
+        []
       ]
     ],
     [
       [
-        [
-          "14"
-        ],
-        [
-          null
-        ]
+        "14",
+        []
       ],
       [
-        [
-          "Munich Airport"
-        ],
+        "Munich Airport",
         [
           "/wiki/Munich_Airport"
         ]
       ],
       [
-        [
-          "Oberding",
-          "Hallbergmoos",
-          "Marzling",
-          "Erding",
-          "Freising",
-          "Bavaria"
-        ],
+        "Oberding / Hallbergmoos / Marzling , Erding / Freising , Bavaria , Germany",
         [
           "/wiki/Oberding",
           "/wiki/Hallbergmoos",
@@ -784,53 +464,31 @@
         ]
       ],
       [
-        [
-          "MUC/EDDM"
-        ],
-        [
-          null
-        ]
+        "MUC/EDDM",
+        []
       ],
       [
-        [
-          "29,216,808"
-        ],
-        [
-          null
-        ]
+        "29,216,808",
+        []
       ],
       [
-        [
-          "2.1%"
-        ],
-        [
-          null
-        ]
+        "2.1%",
+        []
       ]
     ],
     [
       [
-        [
-          "15"
-        ],
-        [
-          null
-        ]
+        "15",
+        []
       ],
       [
-        [
-          "Taoyuan International Airport"
-        ],
+        "Taoyuan International Airport",
         [
           "/wiki/Taiwan_Taoyuan_International_Airport"
         ]
       ],
       [
-        [
-          "Dayuan",
-          "Taoyuan",
-          "Taiwan"
-        ],
+        "Dayuan , Taoyuan , Taiwan",
         [
           "/wiki/Dayuan_District",
           "/wiki/Taoyuan_City",
@@ -838,105 +496,62 @@
         ]
       ],
       [
-        [
-          "TPE/RCTP"
-        ],
-        [
-          null
-        ]
+        "TPE/RCTP",
+        []
       ],
       [
-        [
-          "28,608,274"
-        ],
-        [
-          null
-        ]
+        "28,608,274",
+        []
       ],
       [
-        [
-          "10.2%"
-        ],
-        [
-          null
-        ]
+        "10.2%",
+        []
       ]
     ],
     [
       [
-        [
-          "16"
-        ],
-        [
-          null
-        ]
+        "16",
+        []
       ],
       [
-        [
-          "Madrid-Barajas Airport"
-        ],
+        "Madrid-Barajas Airport",
         [
           "/wiki/Madrid-Barajas_Airport"
         ]
       ],
       [
-        [
-          "Madrid",
-          "Comunidad de Madrid"
-        ],
+        "Madrid , Comunidad de Madrid , Spain",
         [
           "/wiki/Madrid",
           "/wiki/Comunidad_de_Madrid"
         ]
       ],
       [
-        [
-          "MAD/LEMD"
-        ],
-        [
-          null
-        ]
+        "MAD/LEMD",
+        []
       ],
       [
-        [
-          "27,711,197"
-        ],
-        [
-          null
-        ]
+        "27,711,197",
+        []
       ],
       [
-        [
-          "9.5%"
-        ],
-        [
-          null
-        ]
+        "9.5%",
+        []
       ]
     ],
     [
       [
-        [
-          "17"
-        ],
-        [
-          null
-        ]
+        "17",
+        []
       ],
       [
-        [
-          "John F. Kennedy International Airport"
-        ],
+        "John F. Kennedy International Airport",
         [
           "/wiki/John_F._Kennedy_International_Airport"
         ]
       ],
       [
-        [
-          "Queens",
-          "New York City",
-          "New York"
-        ],
+        "Queens , New York City , New York , United States",
         [
           "/wiki/Queens",
           "/wiki/New_York_City",
@@ -944,105 +559,62 @@
         ]
       ],
       [
-        [
-          "JFK/KJFK"
-        ],
-        [
-          null
-        ]
+        "JFK/KJFK",
+        []
       ],
       [
-        [
-          "26,530,698"
-        ],
-        [
-          null
-        ]
+        "26,530,698",
+        []
       ],
       [
-        [
-          "5.9%"
-        ],
-        [
-          null
-        ]
+        "5.9%",
+        []
       ]
     ],
     [
       [
-        [
-          "18"
-        ],
-        [
-          null
-        ]
+        "18",
+        []
       ],
       [
-        [
-          "Leonardo da Vinci-Fiumicino Airport"
-        ],
+        "Leonardo da Vinci-Fiumicino Airport",
         [
           "/wiki/Leonardo_da_Vinci\u2013Fiumicino_Airport"
         ]
       ],
       [
-        [
-          "Fiumicino",
-          "Rome"
-        ],
+        "Fiumicino , Rome , Italy",
         [
           "/wiki/Fiumicino",
           "/wiki/Rome"
         ]
       ],
       [
-        [
-          "FCO/LIRF"
-        ],
-        [
-          null
-        ]
+        "FCO/LIRF",
+        []
       ],
       [
-        [
-          "25,069,617"
-        ],
-        [
-          null
-        ]
+        "25,069,617",
+        []
       ],
       [
-        [
-          "0.6%"
-        ],
-        [
-          null
-        ]
+        "0.6%",
+        []
       ]
     ],
     [
       [
-        [
-          "19"
-        ],
-        [
-          null
-        ]
+        "19",
+        []
       ],
       [
-        [
-          "Barcelona-El Prat Airport"
-        ],
+        "Barcelona-El Prat Airport",
         [
           "/wiki/Barcelona\u2013El_Prat_Airport"
         ]
       ],
       [
-        [
-          "El Prat de Llobregat",
-          "Barcelona",
-          "Catalonia"
-        ],
+        "El Prat de Llobregat , Barcelona , Catalonia , Spain",
         [
           "/wiki/El_Prat_de_Llobregat",
           "/wiki/Barcelona",
@@ -1050,86 +622,48 @@
         ]
       ],
       [
-        [
-          "BCN/LEBL"
-        ],
-        [
-          null
-        ]
+        "BCN/LEBL",
+        []
       ],
       [
-        [
-          "25,003,256"
-        ],
-        [
-          null
-        ]
+        "25,003,256",
+        []
       ],
       [
-        [
-          "5.8%"
-        ],
-        [
-          null
-        ]
+        "5.8%",
+        []
       ]
     ],
     [
       [
-        [
-          "20"
-        ],
-        [
-          null
-        ]
+        "20",
+        []
       ],
       [
-        [
-          "Zurich Airport"
-        ],
+        "Zurich Airport",
         [
           "/wiki/Zurich_Airport"
         ]
       ],
       [
-        [
-          "R\u00fcmlang",
-          "Oberglatt",
-          "B\u00fclach",
-          "Dielsdorf",
-          "ZH"
-        ],
+        "R\u00fcmlang / Oberglatt , B\u00fclach / Dielsdorf , ZH , Switzerland",
         [
           "/wiki/R\u00fcmlang",
           "/wiki/Oberglatt",
-          null,
-          null,
           "/wiki/Canton_of_Z\u00fcrich"
         ]
       ],
       [
-        [
-          "ZRH/LSZH"
-        ],
-        [
-          null
-        ]
+        "ZRH/LSZH",
+        []
       ],
       [
-        [
-          "24,227,178"
-        ],
-        [
-          null
-        ]
+        "24,227,178",
+        []
       ],
       [
-        [
-          "0.4%"
-        ],
-        [
-          null
-        ]
+        "0.4%",
+        []
       ]
     ]
   ],

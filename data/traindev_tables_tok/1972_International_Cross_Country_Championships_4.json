@@ -3,62 +3,36 @@
   "title": "1972 International Cross Country Championships",
   "header": [
     [
-      [
-        "Rank"
-      ],
-      [
-        null
-      ]
+      "Rank",
+      []
     ],
     [
-      [
-        "Country"
-      ],
-      [
-        null
-      ]
+      "Country",
+      []
     ],
     [
-      [
-        "Team"
-      ],
-      [
-        null
-      ]
+      "Team",
+      []
     ],
     [
-      [
-        "Points"
-      ],
-      [
-        null
-      ]
+      "Points",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "Italy"
-        ],
+        "Italy",
         [
           "/wiki/Italy"
         ]
       ],
       [
-        [
-          "Aldo Tomasini",
-          "Franco Fava",
-          "Luca Bigatello"
-        ],
+        "Aldo Tomasini Franco Fava Luca Bigatello",
         [
           "/wiki/Aldo_Tomasini",
           "/wiki/Franco_Fava",
@@ -66,37 +40,23 @@
         ]
       ],
       [
-        [
-          "19"
-        ],
-        [
-          null
-        ]
+        "19",
+        []
       ]
     ],
     [
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "England"
-        ],
+        "England",
         [
           "/wiki/England"
         ]
       ],
       [
-        [
-          "David Black",
-          "Barry Smith",
-          "Dennis Coates"
-        ],
+        "David Black Barry Smith Dennis Coates",
         [
           "/wiki/Dave_Black_(athlete)",
           "/wiki/Barry_Smith_(athlete)",
@@ -104,366 +64,216 @@
         ]
       ],
       [
-        [
-          "22"
-        ],
-        [
-          null
-        ]
+        "22",
+        []
       ]
     ],
     [
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "Morocco"
-        ],
+        "Morocco",
         [
           "/wiki/Morocco"
         ]
       ],
       [
-        [
-          "Larbi M'Hidra"
-        ],
-        [
-          null
-        ]
+        "Larbi M'Hidra Ahmed Roubial Mohamed Chahin",
+        []
       ],
       [
-        [
-          "26"
-        ],
-        [
-          null
-        ]
+        "26",
+        []
       ]
     ],
     [
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "Spain"
-        ],
+        "Spain",
         [
           "/wiki/Spain"
         ]
       ],
       [
+        "Ricardo Ortega Fernando Cerrada Jos\u00e9 Haro",
         [
-          "Ricardo Ortega",
-          "Fernando Cerrada",
-          "Jos\u00e9 Haro"
-        ],
-        [
-          null,
-          "/wiki/Fernando_Cerrada",
-          null
+          "/wiki/Fernando_Cerrada"
         ]
       ],
       [
-        [
-          "27"
-        ],
-        [
-          null
-        ]
+        "27",
+        []
       ]
     ],
     [
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "Scotland"
-        ],
+        "Scotland",
         [
           "/wiki/Scotland"
         ]
       ],
       [
-        [
-          "Jim Brown",
-          "Laurence Reilly"
-        ],
-        [
-          null,
-          null
-        ]
+        "Jim Brown Paul Bannon Laurence Reilly",
+        []
       ],
       [
-        [
-          "35"
-        ],
-        [
-          null
-        ]
+        "35",
+        []
       ]
     ],
     [
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "Belgium"
-        ],
+        "Belgium",
         [
           "/wiki/Belgium"
         ]
       ],
       [
+        "L\u00e9on Schots Mark Broeckx Robert Lismont",
         [
-          "L\u00e9on Schots",
-          "Robert Lismont"
-        ],
-        [
-          "/wiki/L\u00e9on_Schots",
-          null
+          "/wiki/L\u00e9on_Schots"
         ]
       ],
       [
-        [
-          "63"
-        ],
-        [
-          null
-        ]
+        "63",
+        []
       ]
     ],
     [
       [
-        [
-          "7"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ],
       [
-        [
-          "Ireland"
-        ],
+        "Ireland",
         [
           "/wiki/Republic_of_Ireland"
         ]
       ],
       [
-        [
-          "Eamonn Coghlan"
-        ],
+        "Robin Walker Eamonn Coghlan Desmond O'Connor",
         [
           "/wiki/Eamonn_Coghlan"
         ]
       ],
       [
-        [
-          "77"
-        ],
-        [
-          null
-        ]
+        "77",
+        []
       ]
     ],
     [
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "Wales"
-        ],
+        "Wales",
         [
           "/wiki/Wales"
         ]
       ],
       [
-        [
-          "Peter Ratcliffe",
-          "Brian Donovan",
-          "John Davies"
-        ],
-        [
-          null,
-          null,
-          null
-        ]
+        "Peter Ratcliffe Brian Donovan John Davies",
+        []
       ],
       [
-        [
-          "78"
-        ],
-        [
-          null
-        ]
+        "78",
+        []
       ]
     ],
     [
       [
-        [
-          "9"
-        ],
-        [
-          null
-        ]
+        "9",
+        []
       ],
       [
-        [
-          "Algeria"
-        ],
+        "Algeria",
         [
           "/wiki/Algeria"
         ]
       ],
       [
+        "Kamel Guemar Lakhdar Boulkhoukh Abdelmadjid Mada",
         [
-          "Kamel Guemar",
-          "Abdelmadjid Mada"
-        ],
-        [
-          null,
           "/wiki/Abdelmadjid_Mada"
         ]
       ],
       [
-        [
-          "86"
-        ],
-        [
-          null
-        ]
+        "86",
+        []
       ]
     ],
     [
       [
-        [
-          "10"
-        ],
-        [
-          null
-        ]
+        "10",
+        []
       ],
       [
-        [
-          "Switzerland"
-        ],
+        "Switzerland",
         [
           "/wiki/Switzerland"
         ]
       ],
       [
-        [
-          "Hugo Wey"
-        ],
-        [
-          null
-        ]
+        "Franz B\u00fchler Hanspeter Stauffacher Hugo Wey",
+        []
       ],
       [
-        [
-          "87"
-        ],
-        [
-          null
-        ]
+        "87",
+        []
       ]
     ],
     [
       [
-        [
-          "11"
-        ],
-        [
-          null
-        ]
+        "11",
+        []
       ],
       [
-        [
-          "Tunisia"
-        ],
+        "Tunisia",
         [
           "/wiki/Tunisia"
         ]
       ],
       [
-        [
-          "Abdelkrim Djelassi"
-        ],
-        [
-          null
-        ]
+        "Abdelkrim Djelassi Taieb Merdassi Mohamed Moussa",
+        []
       ],
       [
-        [
-          "89"
-        ],
-        [
-          null
-        ]
+        "89",
+        []
       ]
     ],
     [
       [
-        [
-          "12"
-        ],
-        [
-          null
-        ]
+        "12",
+        []
       ],
       [
-        [
-          "Northern Ireland"
-        ],
+        "Northern Ireland",
         [
           "/wiki/Northern_Ireland"
         ]
       ],
       [
-        [
-          "Dessi Martin"
-        ],
-        [
-          null
-        ]
+        "Tom Hesketh Dessi Martin Paul Younger",
+        []
       ],
       [
-        [
-          "145"
-        ],
-        [
-          null
-        ]
+        "145",
+        []
       ]
     ]
   ],

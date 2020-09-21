@@ -3,102 +3,59 @@
   "title": "List of county routes in Delaware County, New York",
   "header": [
     [
-      [
-        "Route"
-      ],
-      [
-        null
-      ]
+      "Route",
+      []
     ],
     [
-      [
-        "Length ( mi )"
-      ],
-      [
-        null
-      ]
+      "Length ( mi )",
+      []
     ],
     [
-      [
-        "Length ( km )"
-      ],
-      [
-        null
-      ]
+      "Length ( km )",
+      []
     ],
     [
-      [
-        "From"
-      ],
-      [
-        null
-      ]
+      "From",
+      []
     ],
     [
-      [
-        "Via"
-      ],
-      [
-        null
-      ]
+      "Via",
+      []
     ],
     [
-      [
-        "To"
-      ],
-      [
-        null
-      ]
+      "To",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "CR 1"
-        ],
-        [
-          null
-        ]
+        "CR 1",
+        []
       ],
       [
-        [
-          "5.21"
-        ],
-        [
-          null
-        ]
+        "5.21",
+        []
       ],
       [
-        [
-          "8.38"
-        ],
-        [
-          null
-        ]
+        "8.38",
+        []
       ],
       [
-        [
-          "NYCDOT",
-          "NY 30"
-        ],
+        "NYCDOT -maintained connector to NY 30",
         [
           "/wiki/NYCDOT",
           "/wiki/NY_30"
         ]
       ],
       [
-        [
-          "Andes"
-        ],
+        "Tremper Kill Road in Andes",
         [
           "/wiki/Andes_(town),_New_York"
         ]
       ],
       [
-        [
-          "Andes village"
-        ],
+        "Former Andes village line",
         [
           "/wiki/Andes_(CDP),_New_York"
         ]
@@ -106,51 +63,30 @@
     ],
     [
       [
-        [
-          "CR 2"
-        ],
-        [
-          null
-        ]
+        "CR 2",
+        []
       ],
       [
-        [
-          "12.06"
-        ],
-        [
-          null
-        ]
+        "12.06",
+        []
       ],
       [
-        [
-          "19.41"
-        ],
-        [
-          null
-        ]
+        "19.41",
+        []
       ],
       [
-        [
-          "NY 10",
-          "Hamden"
-        ],
+        "NY 10 in Hamden",
         [
           "/wiki/NY_10",
           "/wiki/Hamden,_New_York"
         ]
       ],
       [
-        [
-          "Andes-Delancey Road"
-        ],
-        [
-          null
-        ]
+        "Andes-Delancey Road",
+        []
       ],
       [
-        [
-          "Andes"
-        ],
+        "Lower Main Street in Andes",
         [
           "/wiki/Andes_(town),_New_York"
         ]
@@ -158,49 +94,31 @@
     ],
     [
       [
-        [
-          "CR 3"
-        ],
-        [
-          null
-        ]
+        "CR 3",
+        []
       ],
       [
-        [
-          "2.63"
-        ],
-        [
-          null
-        ]
+        "2.63",
+        []
       ],
       [
-        [
-          "4.23"
-        ],
-        [
-          null
-        ]
+        "4.23",
+        []
       ],
       [
-        [
-          "NY 28"
-        ],
+        "NY 28",
         [
           "/wiki/NY_28"
         ]
       ],
       [
-        [
-          "Middletown"
-        ],
+        "Unnamed road in Middletown",
         [
           "/wiki/Middletown,_Delaware_County,_New_York"
         ]
       ],
       [
-        [
-          "Margaretville"
-        ],
+        "Margaretville village line",
         [
           "/wiki/Margaretville,_New_York"
         ]
@@ -208,52 +126,30 @@
     ],
     [
       [
-        [
-          "CR 4"
-        ],
-        [
-          null
-        ]
+        "CR 4",
+        []
       ],
       [
-        [
-          "2.19"
-        ],
-        [
-          null
-        ]
+        "2.19",
+        []
       ],
       [
-        [
-          "3.52"
-        ],
-        [
-          null
-        ]
+        "3.52",
+        []
       ],
       [
-        [
-          "NY 8",
-          "Masonville"
-        ],
+        "NY 8 in Masonville",
         [
           "/wiki/NY_8",
           "/wiki/Masonville,_New_York"
         ]
       ],
       [
-        [
-          "Old Route 8"
-        ],
-        [
-          null
-        ]
+        "Old Route 8",
+        []
       ],
       [
-        [
-          "Sidney village",
-          "Sidney"
-        ],
+        "Sidney village line in Sidney",
         [
           "/wiki/Sidney_(village),_New_York",
           "/wiki/Sidney_(town),_New_York"
@@ -262,49 +158,29 @@
     ],
     [
       [
-        [
-          "CR 5"
-        ],
-        [
-          null
-        ]
+        "CR 5",
+        []
       ],
       [
-        [
-          "6.25"
-        ],
-        [
-          null
-        ]
+        "6.25",
+        []
       ],
       [
-        [
-          "10.06"
-        ],
-        [
-          null
-        ]
+        "10.06",
+        []
       ],
       [
-        [
-          "Bovina"
-        ],
+        "CR 6 in Bovina",
         [
           "/wiki/Bovina,_New_York"
         ]
       ],
       [
-        [
-          "Pink Street"
-        ],
-        [
-          null
-        ]
+        "Pink Street",
+        []
       ],
       [
-        [
-          "Stamford"
-        ],
+        "CR 18 in Stamford",
         [
           "/wiki/Stamford_(town),_New_York"
         ]
@@ -312,51 +188,30 @@
     ],
     [
       [
-        [
-          "CR 6"
-        ],
-        [
-          null
-        ]
+        "CR 6",
+        []
       ],
       [
-        [
-          "10.63"
-        ],
-        [
-          null
-        ]
+        "10.63",
+        []
       ],
       [
-        [
-          "17.11"
-        ],
-        [
-          null
-        ]
+        "17.11",
+        []
       ],
       [
-        [
-          "NY 28",
-          "Bovina"
-        ],
+        "NY 28 in Bovina",
         [
           "/wiki/NY_28",
           "/wiki/Bovina,_New_York"
         ]
       ],
       [
-        [
-          "Bovina and New Kingston roads"
-        ],
-        [
-          null
-        ]
+        "Bovina and New Kingston roads",
+        []
       ],
       [
-        [
-          "Middletown"
-        ],
+        "NY 28 in Middletown",
         [
           "/wiki/Middletown,_Delaware_County,_New_York"
         ]
@@ -364,50 +219,33 @@
     ],
     [
       [
-        [
-          "CR 7"
-        ],
+        "CR 7",
         [
           "/wiki/County_Route_7_(Delaware_County,_New_York)"
         ]
       ],
       [
-        [
-          "9.23"
-        ],
-        [
-          null
-        ]
+        "9.23",
+        []
       ],
       [
-        [
-          "14.85"
-        ],
-        [
-          null
-        ]
+        "14.85",
+        []
       ],
       [
-        [
-          "NY 30"
-        ],
+        "NY 30",
         [
           "/wiki/NY_30"
         ]
       ],
       [
-        [
-          "Colchester"
-        ],
+        "Cat Hollow Road in Colchester",
         [
           "/wiki/Colchester,_New_York"
         ]
       ],
       [
-        [
-          "Sullivan County",
-          "CR 91"
-        ],
+        "Sullivan County line ( becomes CR 91 )",
         [
           "/wiki/Sullivan_County,_New_York",
           "/wiki/County_Route_91_(Sullivan_County,_New_York)"
@@ -416,100 +254,61 @@
     ],
     [
       [
-        [
-          "CR 8"
-        ],
-        [
-          null
-        ]
+        "CR 8",
+        []
       ],
       [
-        [
-          "2.40"
-        ],
-        [
-          null
-        ]
+        "2.40",
+        []
       ],
       [
-        [
-          "3.86"
-        ],
-        [
-          null
-        ]
+        "3.86",
+        []
       ],
       [
-        [
-          "NY 30"
-        ],
+        "NY 30",
         [
           "/wiki/NY_30"
         ]
       ],
       [
-        [
-          "Roxbury"
-        ],
+        "Roxbury Run Road in Roxbury",
         [
           "/wiki/Roxbury,_New_York"
         ]
       ],
       [
-        [
-          "CR 36"
-        ],
-        [
-          null
-        ]
+        "CR 36",
+        []
       ]
     ],
     [
       [
-        [
-          "CR 9"
-        ],
-        [
-          null
-        ]
+        "CR 9",
+        []
       ],
       [
-        [
-          "3.33"
-        ],
-        [
-          null
-        ]
+        "3.33",
+        []
       ],
       [
-        [
-          "5.36"
-        ],
-        [
-          null
-        ]
+        "5.36",
+        []
       ],
       [
-        [
-          "NY 23"
-        ],
+        "NY 23",
         [
           "/wiki/NY_23"
         ]
       ],
       [
-        [
-          "Davenport"
-        ],
+        "Butts Corners Road in Davenport",
         [
           "/wiki/Davenport,_New_York"
         ]
       ],
       [
-        [
-          "Otsego County",
-          "CR 40"
-        ],
+        "Otsego County line ( becomes CR 40 )",
         [
           "/wiki/Otsego_County,_New_York",
           "/wiki/County_Route_40_(Otsego_County,_New_York)"
@@ -518,52 +317,30 @@
     ],
     [
       [
-        [
-          "CR 10"
-        ],
-        [
-          null
-        ]
+        "CR 10",
+        []
       ],
       [
-        [
-          "8.01"
-        ],
-        [
-          null
-        ]
+        "8.01",
+        []
       ],
       [
-        [
-          "12.89"
-        ],
-        [
-          null
-        ]
+        "12.89",
+        []
       ],
       [
-        [
-          "NY 28",
-          "Meredith"
-        ],
+        "NY 28 in Meredith",
         [
           "/wiki/NY_28",
           "/wiki/Meredith,_New_York"
         ]
       ],
       [
-        [
-          "Davenport Center Road"
-        ],
-        [
-          null
-        ]
+        "Davenport Center Road",
+        []
       ],
       [
-        [
-          "NY 23",
-          "Davenport"
-        ],
+        "NY 23 in Davenport",
         [
           "/wiki/NY_23",
           "/wiki/Davenport,_New_York"
@@ -572,51 +349,32 @@
     ],
     [
       [
-        [
-          "CR 11"
-        ],
-        [
-          null
-        ]
+        "CR 11",
+        []
       ],
       [
-        [
-          "1.50"
-        ],
-        [
-          null
-        ]
+        "1.50",
+        []
       ],
       [
-        [
-          "2.41"
-        ],
-        [
-          null
-        ]
+        "2.41",
+        []
       ],
       [
-        [
-          "Otsego County",
-          "CR 47"
-        ],
+        "Otsego County line ( becomes CR 47 )",
         [
           "/wiki/Otsego_County,_New_York",
           "/wiki/County_Route_47_(Otsego_County,_New_York)"
         ]
       ],
       [
-        [
-          "Davenport"
-        ],
+        "Pindars Creek Road in Davenport",
         [
           "/wiki/Davenport,_New_York"
         ]
       ],
       [
-        [
-          "NY 23"
-        ],
+        "NY 23",
         [
           "/wiki/NY_23"
         ]
@@ -624,49 +382,29 @@
     ],
     [
       [
-        [
-          "CR 12"
-        ],
-        [
-          null
-        ]
+        "CR 12",
+        []
       ],
       [
-        [
-          "6.12"
-        ],
-        [
-          null
-        ]
+        "6.12",
+        []
       ],
       [
-        [
-          "9.85"
-        ],
-        [
-          null
-        ]
+        "9.85",
+        []
       ],
       [
-        [
-          "Meredith"
-        ],
+        "CR 10 in Meredith",
         [
           "/wiki/Meredith,_New_York"
         ]
       ],
       [
-        [
-          "Doonans Corners Road"
-        ],
-        [
-          null
-        ]
+        "Doonans Corners Road",
+        []
       ],
       [
-        [
-          "Kortright"
-        ],
+        "CR 33 in Kortright",
         [
           "/wiki/Kortright,_New_York"
         ]
@@ -674,52 +412,30 @@
     ],
     [
       [
-        [
-          "CR 14"
-        ],
-        [
-          null
-        ]
+        "CR 14",
+        []
       ],
       [
-        [
-          "13.82"
-        ],
-        [
-          null
-        ]
+        "13.82",
+        []
       ],
       [
-        [
-          "22.24"
-        ],
-        [
-          null
-        ]
+        "22.24",
+        []
       ],
       [
-        [
-          "NY 357",
-          "Franklin"
-        ],
+        "NY 357 in Franklin",
         [
           "/wiki/NY_357",
           "/wiki/Franklin_(town),_New_York"
         ]
       ],
       [
-        [
-          "Leonta Road"
-        ],
-        [
-          null
-        ]
+        "Leonta Road",
+        []
       ],
       [
-        [
-          "Delhi village",
-          "Delhi"
-        ],
+        "Delhi village line in Delhi",
         [
           "/wiki/Delhi_(village),_New_York",
           "/wiki/Delhi_(town),_New_York"
@@ -728,51 +444,30 @@
     ],
     [
       [
-        [
-          "CR 16"
-        ],
-        [
-          null
-        ]
+        "CR 16",
+        []
       ],
       [
-        [
-          "9.29"
-        ],
-        [
-          null
-        ]
+        "9.29",
+        []
       ],
       [
-        [
-          "14.95"
-        ],
-        [
-          null
-        ]
+        "14.95",
+        []
       ],
       [
-        [
-          "NY 10",
-          "Delhi"
-        ],
+        "NY 10 in Delhi",
         [
           "/wiki/NY_10",
           "/wiki/Delhi_(town),_New_York"
         ]
       ],
       [
-        [
-          "Treadwell Road"
-        ],
-        [
-          null
-        ]
+        "Treadwell Road",
+        []
       ],
       [
-        [
-          "Franklin"
-        ],
+        "CR 14 in Franklin",
         [
           "/wiki/Franklin_(town),_New_York"
         ]
@@ -780,53 +475,32 @@
     ],
     [
       [
-        [
-          "CR 17"
-        ],
+        "CR 17",
         [
           "/wiki/County_Route_17_(Delaware_County,_New_York)"
         ]
       ],
       [
-        [
-          "23.70"
-        ],
-        [
-          null
-        ]
+        "23.70",
+        []
       ],
       [
-        [
-          "38.14"
-        ],
-        [
-          null
-        ]
+        "38.14",
+        []
       ],
       [
-        [
-          "NY 268",
-          "Hancock"
-        ],
+        "NY 268 in Hancock",
         [
           "/wiki/NY_268",
           "/wiki/Hancock_(town),_New_York"
         ]
       ],
       [
-        [
-          "Old Route 17"
-        ],
-        [
-          null
-        ]
+        "Old Route 17",
+        []
       ],
       [
-        [
-          "Sullivan County",
-          "Colchester",
-          "CR 179A"
-        ],
+        "Sullivan County line in Colchester ( becomes CR 179A )",
         [
           "/wiki/Sullivan_County,_New_York",
           "/wiki/Colchester,_New_York",
@@ -836,52 +510,30 @@
     ],
     [
       [
-        [
-          "CR 18"
-        ],
-        [
-          null
-        ]
+        "CR 18",
+        []
       ],
       [
-        [
-          "18.02"
-        ],
-        [
-          null
-        ]
+        "18.02",
+        []
       ],
       [
-        [
-          "29.00"
-        ],
-        [
-          null
-        ]
+        "29.00",
+        []
       ],
       [
-        [
-          "Delhi village",
-          "Delhi"
-        ],
+        "Delhi village line in Delhi",
         [
           "/wiki/Delhi_(village),_New_York",
           "/wiki/Delhi_(town),_New_York"
         ]
       ],
       [
-        [
-          "Delhi-South Kortright Road"
-        ],
-        [
-          null
-        ]
+        "Delhi-South Kortright Road",
+        []
       ],
       [
-        [
-          "Stamford village",
-          "Stamford"
-        ],
+        "Stamford village line in Stamford",
         [
           "/wiki/Stamford_(village),_New_York",
           "/wiki/Stamford_(town),_New_York"
@@ -890,49 +542,31 @@
     ],
     [
       [
-        [
-          "CR 20"
-        ],
-        [
-          null
-        ]
+        "CR 20",
+        []
       ],
       [
-        [
-          "7.26"
-        ],
-        [
-          null
-        ]
+        "7.26",
+        []
       ],
       [
-        [
-          "11.68"
-        ],
-        [
-          null
-        ]
+        "11.68",
+        []
       ],
       [
-        [
-          "Deposit"
-        ],
+        "Deposit town line",
         [
           "/wiki/Deposit_(town),_New_York"
         ]
       ],
       [
-        [
-          "Masonville"
-        ],
+        "Masonville Road in Masonville",
         [
           "/wiki/Masonville,_New_York"
         ]
       ],
       [
-        [
-          "NY 206"
-        ],
+        "NY 206",
         [
           "/wiki/NY_206"
         ]
@@ -940,52 +574,30 @@
     ],
     [
       [
-        [
-          "CR 21"
-        ],
-        [
-          null
-        ]
+        "CR 21",
+        []
       ],
       [
-        [
-          "12.54"
-        ],
-        [
-          null
-        ]
+        "12.54",
+        []
       ],
       [
-        [
-          "20.18"
-        ],
-        [
-          null
-        ]
+        "20.18",
+        []
       ],
       [
-        [
-          "Walton village",
-          "Walton"
-        ],
+        "Walton village line in Walton",
         [
           "/wiki/Walton_(village),_New_York",
           "/wiki/Walton,_New_York"
         ]
       ],
       [
-        [
-          "Franklin Road"
-        ],
-        [
-          null
-        ]
+        "Franklin Road",
+        []
       ],
       [
-        [
-          "NY 357",
-          "Franklin"
-        ],
+        "NY 357 in Franklin",
         [
           "/wiki/NY_357",
           "/wiki/Franklin_(town),_New_York"
@@ -994,49 +606,31 @@
     ],
     [
       [
-        [
-          "CR 22"
-        ],
-        [
-          null
-        ]
+        "CR 22",
+        []
       ],
       [
-        [
-          "5.43"
-        ],
-        [
-          null
-        ]
+        "5.43",
+        []
       ],
       [
-        [
-          "8.74"
-        ],
-        [
-          null
-        ]
+        "8.74",
+        []
       ],
       [
-        [
-          "Walton village"
-        ],
+        "Walton village line",
         [
           "/wiki/Walton_(village),_New_York"
         ]
       ],
       [
-        [
-          "Walton"
-        ],
+        "East Brook Road in Walton",
         [
           "/wiki/Walton,_New_York"
         ]
       ],
       [
-        [
-          "Hamden"
-        ],
+        "Hamden town line",
         [
           "/wiki/Hamden,_New_York"
         ]
@@ -1044,51 +638,30 @@
     ],
     [
       [
-        [
-          "CR 23"
-        ],
-        [
-          null
-        ]
+        "CR 23",
+        []
       ],
       [
-        [
-          "17.60"
-        ],
-        [
-          null
-        ]
+        "17.60",
+        []
       ],
       [
-        [
-          "28.32"
-        ],
-        [
-          null
-        ]
+        "28.32",
+        []
       ],
       [
-        [
-          "Sidney village",
-          "Sidney"
-        ],
+        "Sidney village line in Sidney",
         [
           "/wiki/Sidney_(village),_New_York",
           "/wiki/Sidney_(town),_New_York"
         ]
       ],
       [
-        [
-          "Sidney Hill Road"
-        ],
-        [
-          null
-        ]
+        "Sidney Hill Road",
+        []
       ],
       [
-        [
-          "Walton"
-        ],
+        "CR 21 in Walton",
         [
           "/wiki/Walton,_New_York"
         ]

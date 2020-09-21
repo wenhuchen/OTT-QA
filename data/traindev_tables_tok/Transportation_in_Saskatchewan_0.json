@@ -3,54 +3,35 @@
   "title": "Transportation in Saskatchewan",
   "header": [
     [
-      [
-        "Ferry"
-      ],
-      [
-        null
-      ]
+      "Ferry",
+      []
     ],
     [
-      [
-        "Location"
-      ],
-      [
-        null
-      ]
+      "Location",
+      []
     ],
     [
-      [
-        "Waterway"
-      ],
-      [
-        null
-      ]
+      "Waterway",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Estuary"
-        ],
+        "Estuary",
         [
           "/wiki/Estuary_Ferry"
         ]
       ],
       [
-        [
-          "Estuary",
-          "Laporte"
-        ],
+        "connecting Estuary and Laporte",
         [
           "/wiki/Estuary,_Saskatchewan",
           "/wiki/Laporte,_Saskatchewan"
         ]
       ],
       [
-        [
-          "South Saskatchewan River"
-        ],
+        "South Saskatchewan River",
         [
           "/wiki/South_Saskatchewan_River"
         ]
@@ -58,19 +39,13 @@
     ],
     [
       [
-        [
-          "Lemsford"
-        ],
+        "Lemsford",
         [
           "/wiki/Lemsford_Ferry"
         ]
       ],
       [
-        [
-          "Lemsford",
-          "32",
-          "30"
-        ],
+        "North of Lemsford connecting 32 and 30",
         [
           "/wiki/Lemsford,_Saskatchewan",
           "/wiki/Saskatchewan_Highway_32",
@@ -78,9 +53,7 @@
         ]
       ],
       [
-        [
-          "South Saskatchewan River"
-        ],
+        "South Saskatchewan River",
         [
           "/wiki/South_Saskatchewan_River"
         ]
@@ -88,19 +61,13 @@
     ],
     [
       [
-        [
-          "Lancer"
-        ],
+        "Lancer",
         [
           "/wiki/Lancer_Ferry"
         ]
       ],
       [
-        [
-          "Lancer",
-          "32",
-          "30"
-        ],
+        "North of Lancer connecting 32 and 30",
         [
           "/wiki/Lancer,_Saskatchewan",
           "/wiki/Saskatchewan_Highway_32",
@@ -108,9 +75,7 @@
         ]
       ],
       [
-        [
-          "South Saskatchewan River"
-        ],
+        "South Saskatchewan River",
         [
           "/wiki/South_Saskatchewan_River"
         ]
@@ -118,27 +83,20 @@
     ],
     [
       [
-        [
-          "Riverhurst"
-        ],
+        "Riverhurst",
         [
           "/wiki/Riverhurst_Ferry"
         ]
       ],
       [
-        [
-          "Highway 42",
-          "Highway 373"
-        ],
+        "Highway 42 and Highway 373",
         [
           "/wiki/Saskatchewan_Highway_42",
           "/wiki/Saskatchewan_Highway_373"
         ]
       ],
       [
-        [
-          "Lake Diefenbaker"
-        ],
+        "Lake Diefenbaker",
         [
           "/wiki/Lake_Diefenbaker"
         ]
@@ -146,19 +104,13 @@
     ],
     [
       [
-        [
-          "Clarkboro"
-        ],
+        "Clarkboro",
         [
           "/wiki/Clarkboro_Ferry"
         ]
       ],
       [
-        [
-          "Warman",
-          "Aberdeen",
-          "784"
-        ],
+        "Between Warman and Aberdeen on 784",
         [
           "/wiki/Warman,_Saskatchewan",
           "/wiki/Aberdeen,_Saskatchewan",
@@ -166,9 +118,7 @@
         ]
       ],
       [
-        [
-          "South Saskatchewan River"
-        ],
+        "South Saskatchewan River",
         [
           "/wiki/South_Saskatchewan_River"
         ]
@@ -176,27 +126,20 @@
     ],
     [
       [
-        [
-          "Hague"
-        ],
+        "Hague",
         [
           "/wiki/Hague_Ferry"
         ]
       ],
       [
-        [
-          "Hague",
-          "Aberdeen"
-        ],
+        "Between Hague and Aberdeen",
         [
           "/wiki/Hague,_Saskatchewan",
           "/wiki/Aberdeen,_Saskatchewan"
         ]
       ],
       [
-        [
-          "South Saskatchewan River"
-        ],
+        "South Saskatchewan River",
         [
           "/wiki/South_Saskatchewan_River"
         ]
@@ -204,20 +147,13 @@
     ],
     [
       [
-        [
-          "St. Laurent"
-        ],
+        "St. Laurent",
         [
           "/wiki/St._Laurent_Ferry"
         ]
       ],
       [
-        [
-          "Duck Lake",
-          "11",
-          "Batoche",
-          "225"
-        ],
+        "East of Duck Lake , 11 and Batoche 225",
         [
           "/wiki/Duck_Lake,_Saskatchewan",
           "/wiki/Saskatchewan_Highway_11",
@@ -226,9 +162,7 @@
         ]
       ],
       [
-        [
-          "South Saskatchewan River"
-        ],
+        "South Saskatchewan River",
         [
           "/wiki/South_Saskatchewan_River"
         ]
@@ -236,27 +170,20 @@
     ],
     [
       [
-        [
-          "Fenton"
-        ],
+        "Fenton",
         [
           "/wiki/Fenton_Ferry"
         ]
       ],
       [
-        [
-          "25",
-          "3"
-        ],
+        "Between 25 and 3 on Grid Road",
         [
           "/wiki/Saskatchewan_Highway_25",
           "/wiki/Saskatchewan_Highway_3"
         ]
       ],
       [
-        [
-          "South Saskatchewan River"
-        ],
+        "South Saskatchewan River",
         [
           "/wiki/South_Saskatchewan_River"
         ]
@@ -264,21 +191,13 @@
     ],
     [
       [
-        [
-          "Weldon"
-        ],
+        "Weldon",
         [
           "/wiki/Weldon_Ferry"
         ]
       ],
       [
-        [
-          "3",
-          "Weldon",
-          "682",
-          "302",
-          "Prince Albert"
-        ],
+        "Between 3 , Weldon via 682 and 302 , Prince Albert",
         [
           "/wiki/Saskatchewan_Highway_3",
           "/wiki/Weldon,_Saskatchewan",
@@ -288,9 +207,7 @@
         ]
       ],
       [
-        [
-          "South Saskatchewan River"
-        ],
+        "South Saskatchewan River",
         [
           "/wiki/South_Saskatchewan_River"
         ]
@@ -298,19 +215,13 @@
     ],
     [
       [
-        [
-          "Paynton"
-        ],
+        "Paynton",
         [
           "/wiki/Paynton_Ferry"
         ]
       ],
       [
-        [
-          "16",
-          "26",
-          "764"
-        ],
+        "Between 16 and 26 via 764",
         [
           "/wiki/Saskatchewan_Highway_16",
           "/wiki/Saskatchewan_Highway_26",
@@ -318,9 +229,7 @@
         ]
       ],
       [
-        [
-          "North Saskatchewan River"
-        ],
+        "North Saskatchewan River",
         [
           "/wiki/North_Saskatchewan_River"
         ]
@@ -328,20 +237,13 @@
     ],
     [
       [
-        [
-          "Wingard"
-        ],
+        "Wingard",
         [
           "/wiki/Wingard_Ferry"
         ]
       ],
       [
-        [
-          "Marcelin",
-          "40",
-          "11",
-          "Wingard"
-        ],
+        "East of Marcelin , 40 connecting to 11 Wingard",
         [
           "/wiki/Marcelin,_Saskatchewan",
           "/wiki/Saskatchewan_Highway_40",
@@ -350,9 +252,7 @@
         ]
       ],
       [
-        [
-          "North Saskatchewan River"
-        ],
+        "North Saskatchewan River",
         [
           "/wiki/North_Saskatchewan_River"
         ]
@@ -360,19 +260,13 @@
     ],
     [
       [
-        [
-          "Cecil"
-        ],
+        "Cecil",
         [
           "/wiki/Cecil_Ferry"
         ]
       ],
       [
-        [
-          "302",
-          "55",
-          "Prince Albert"
-        ],
+        "Between 302 and 55 east of Prince Albert",
         [
           "/wiki/Saskatchewan_Highway_302",
           "/wiki/Saskatchewan_Highway_55",
@@ -380,9 +274,7 @@
         ]
       ],
       [
-        [
-          "North Saskatchewan River"
-        ],
+        "North Saskatchewan River",
         [
           "/wiki/North_Saskatchewan_River"
         ]

@@ -3,90 +3,53 @@
   "title": "Northwestern United States",
   "header": [
     [
-      [
-        "Rank"
-      ],
-      [
-        null
-      ]
+      "Rank",
+      []
     ],
     [
-      [
-        "Combined or Metropolitan Statistical Area"
-      ],
-      [
-        null
-      ]
+      "Combined or Metropolitan Statistical Area",
+      []
     ],
     [
-      [
-        "State ( s )"
-      ],
-      [
-        null
-      ]
+      "State ( s )",
+      []
     ],
     [
-      [
-        "Population ( 2016 )"
-      ],
-      [
-        null
-      ]
+      "Population ( 2016 )",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "Seattle",
-          "Tacoma"
-        ],
+        "Seattle - Tacoma",
         [
           "/wiki/Seattle",
           "/wiki/Tacoma,_Washington"
         ]
       ],
       [
-        [
-          "Washington"
-        ],
+        "Washington",
         [
           "/wiki/Washington_(state)"
         ]
       ],
       [
-        [
-          "4,684,516"
-        ],
-        [
-          null
-        ]
+        "4,684,516",
+        []
       ]
     ],
     [
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "Portland",
-          "Vancouver",
-          "Salem"
-        ],
+        "Portland - Vancouver - Salem",
         [
           "/wiki/Portland,_Oregon",
           "/wiki/Vancouver,_Washington",
@@ -94,39 +57,24 @@
         ]
       ],
       [
-        [
-          "Oregon",
-          "Washington"
-        ],
+        "Oregon Washington",
         [
           "/wiki/Oregon",
           "/wiki/Washington_(state)"
         ]
       ],
       [
-        [
-          "3,160,488"
-        ],
-        [
-          null
-        ]
+        "3,160,488",
+        []
       ]
     ],
     [
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "Boise",
-          "Mountain Home",
-          "Ontario"
-        ],
+        "Boise - Mountain Home - Ontario",
         [
           "/wiki/Boise,_Idaho",
           "/wiki/Mountain_Home,_Idaho",
@@ -134,39 +82,24 @@
         ]
       ],
       [
-        [
-          "Idaho",
-          "Oregon"
-        ],
+        "Idaho Oregon",
         [
           "/wiki/Idaho",
           "/wiki/Oregon"
         ]
       ],
       [
-        [
-          "770,906"
-        ],
-        [
-          null
-        ]
+        "770,906",
+        []
       ]
     ],
     [
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "Spokane",
-          "Spokane Valley",
-          "Coeur d'Alene"
-        ],
+        "Spokane - Spokane Valley - Coeur d'Alene",
         [
           "/wiki/Spokane,_Washington",
           "/wiki/Spokane_Valley,_Washington",
@@ -174,109 +107,69 @@
         ]
       ],
       [
-        [
-          "Washington",
-          "Idaho"
-        ],
+        "Washington Idaho",
         [
           "/wiki/Washington_(state)",
           "/wiki/Idaho"
         ]
       ],
       [
-        [
-          "710,945"
-        ],
-        [
-          null
-        ]
+        "710,945",
+        []
       ]
     ],
     [
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "Eugene"
-        ],
+        "Eugene",
         [
           "/wiki/Eugene,_OR_Metropolitan_Statistical_Area"
         ]
       ],
       [
-        [
-          "Oregon"
-        ],
+        "Oregon",
         [
           "/wiki/Oregon"
         ]
       ],
       [
-        [
-          "369,519"
-        ],
-        [
-          null
-        ]
+        "369,519",
+        []
       ]
     ],
     [
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "Medford",
-          "Grants Pass"
-        ],
+        "Medford - Grants Pass",
         [
           "/wiki/Medford,_Oregon",
           "/wiki/Grants_Pass,_Oregon"
         ]
       ],
       [
-        [
-          "Oregon"
-        ],
+        "Oregon",
         [
           "/wiki/Oregon"
         ]
       ],
       [
-        [
-          "302,431"
-        ],
-        [
-          null
-        ]
+        "302,431",
+        []
       ]
     ],
     [
       [
-        [
-          "7"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ],
       [
-        [
-          "Kennewick",
-          "Pasco",
-          "Richland"
-        ],
+        "Kennewick - Pasco - Richland",
         [
           "/wiki/Kennewick,_Washington",
           "/wiki/Pasco,_Washington",
@@ -284,71 +177,45 @@
         ]
       ],
       [
-        [
-          "Washington"
-        ],
+        "Washington",
         [
           "/wiki/Washington_(state)"
         ]
       ],
       [
-        [
-          "283,846"
-        ],
-        [
-          null
-        ]
+        "283,846",
+        []
       ]
     ],
     [
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "Yakima"
-        ],
+        "Yakima",
         [
           "/wiki/Yakima_County,_Washington"
         ]
       ],
       [
-        [
-          "Washington"
-        ],
+        "Washington",
         [
           "/wiki/Washington_(state)"
         ]
       ],
       [
-        [
-          "249,636"
-        ],
-        [
-          null
-        ]
+        "249,636",
+        []
       ]
     ],
     [
       [
-        [
-          "9"
-        ],
-        [
-          null
-        ]
+        "9",
+        []
       ],
       [
-        [
-          "Idaho Falls",
-          "Rexburg",
-          "Blackfoot"
-        ],
+        "Idaho Falls - Rexburg - Blackfoot",
         [
           "/wiki/Idaho_Falls,_Idaho",
           "/wiki/Rexburg,_Idaho",
@@ -356,71 +223,45 @@
         ]
       ],
       [
-        [
-          "Idaho"
-        ],
+        "Idaho",
         [
           "/wiki/Idaho"
         ]
       ],
       [
-        [
-          "239,764"
-        ],
-        [
-          null
-        ]
+        "239,764",
+        []
       ]
     ],
     [
       [
-        [
-          "10"
-        ],
-        [
-          null
-        ]
+        "10",
+        []
       ],
       [
-        [
-          "Bellingham"
-        ],
+        "Bellingham",
         [
           "/wiki/Bellingham,_Washington"
         ]
       ],
       [
-        [
-          "Washington"
-        ],
+        "Washington",
         [
           "/wiki/Washington_(state)"
         ]
       ],
       [
-        [
-          "216,800"
-        ],
-        [
-          null
-        ]
+        "216,800",
+        []
       ]
     ],
     [
       [
-        [
-          "11"
-        ],
-        [
-          null
-        ]
+        "11",
+        []
       ],
       [
-        [
-          "Bend",
-          "Redmond",
-          "Prineville"
-        ],
+        "Bend - Redmond - Prineville",
         [
           "/wiki/Bend,_Oregon",
           "/wiki/Redmond,_Oregon",
@@ -428,260 +269,169 @@
         ]
       ],
       [
-        [
-          "Oregon"
-        ],
+        "Oregon",
         [
           "/wiki/Oregon"
         ]
       ],
       [
-        [
-          "203,877"
-        ],
-        [
-          null
-        ]
+        "203,877",
+        []
       ]
     ],
     [
       [
-        [
-          "12"
-        ],
-        [
-          null
-        ]
+        "12",
+        []
       ],
       [
-        [
-          "Billings"
-        ],
+        "Billings",
         [
           "/wiki/Billings,_Montana"
         ]
       ],
       [
-        [
-          "Montana"
-        ],
+        "Montana",
         [
           "/wiki/Montana"
         ]
       ],
       [
-        [
-          "169,728"
-        ],
-        [
-          null
-        ]
+        "169,728",
+        []
       ]
     ],
     [
       [
-        [
-          "13"
-        ],
-        [
-          null
-        ]
+        "13",
+        []
       ],
       [
-        [
-          "Wenatchee"
-        ],
+        "Wenatchee",
         [
           "/wiki/Wenatchee,_Washington"
         ]
       ],
       [
-        [
-          "Washington"
-        ],
+        "Washington",
         [
           "/wiki/Washington_(state)"
         ]
       ],
       [
-        [
-          "117,665"
-        ],
-        [
-          null
-        ]
+        "117,665",
+        []
       ]
     ],
     [
       [
-        [
-          "14"
-        ],
-        [
-          null
-        ]
+        "14",
+        []
       ],
       [
-        [
-          "Missoula"
-        ],
+        "Missoula",
         [
           "/wiki/Missoula,_Montana"
         ]
       ],
       [
-        [
-          "Montana"
-        ],
+        "Montana",
         [
           "/wiki/Montana"
         ]
       ],
       [
-        [
-          "116,130"
-        ],
-        [
-          null
-        ]
+        "116,130",
+        []
       ]
     ],
     [
       [
-        [
-          "15"
-        ],
-        [
-          null
-        ]
+        "15",
+        []
       ],
       [
-        [
-          "Moses Lake",
-          "Othello"
-        ],
+        "Moses Lake - Othello",
         [
           "/wiki/Moses_Lake,_Washington",
           "/wiki/Othello,_Washington"
         ]
       ],
       [
-        [
-          "Washington"
-        ],
+        "Washington",
         [
           "/wiki/Washington_(state)"
         ]
       ],
       [
-        [
-          "112,784"
-        ],
-        [
-          null
-        ]
+        "112,784",
+        []
       ]
     ],
     [
       [
-        [
-          "16"
-        ],
-        [
-          null
-        ]
+        "16",
+        []
       ],
       [
-        [
-          "Roseburg"
-        ],
+        "Roseburg",
         [
           "/wiki/Roseburg,_Oregon"
         ]
       ],
       [
-        [
-          "Oregon"
-        ],
+        "Oregon",
         [
           "/wiki/Oregon"
         ]
       ],
       [
-        [
-          "108,457"
-        ],
-        [
-          null
-        ]
+        "108,457",
+        []
       ]
     ],
     [
       [
-        [
-          "17"
-        ],
-        [
-          null
-        ]
+        "17",
+        []
       ],
       [
-        [
-          "Twin Falls"
-        ],
+        "Twin Falls",
         [
           "/wiki/Twin_Falls,_Idaho"
         ]
       ],
       [
-        [
-          "Idaho"
-        ],
+        "Idaho",
         [
           "/wiki/Idaho"
         ]
       ],
       [
-        [
-          "106,508"
-        ],
-        [
-          null
-        ]
+        "106,508",
+        []
       ]
     ],
     [
       [
-        [
-          "18"
-        ],
-        [
-          null
-        ]
+        "18",
+        []
       ],
       [
-        [
-          "Bozeman"
-        ],
+        "Bozeman",
         [
           "/wiki/Bozeman,_Montana"
         ]
       ],
       [
-        [
-          "Montana"
-        ],
+        "Montana",
         [
           "/wiki/Montana"
         ]
       ],
       [
-        [
-          "104,502"
-        ],
-        [
-          null
-        ]
+        "104,502",
+        []
       ]
     ]
   ],

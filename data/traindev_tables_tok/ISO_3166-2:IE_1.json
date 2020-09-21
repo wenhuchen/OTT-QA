@@ -3,68 +3,44 @@
   "title": "ISO 3166-2:IE",
   "header": [
     [
-      [
-        "Code"
-      ],
-      [
-        null
-      ]
+      "Code",
+      []
     ],
     [
-      [
-        "en"
-      ],
+      "Subdivision name ( en )",
       [
         "/wiki/English_language"
       ]
     ],
     [
-      [
-        "ga"
-      ],
+      "Subdivision name ( ga )",
       [
         "/wiki/Irish_language"
       ]
     ],
     [
-      [
-        "In province"
-      ],
-      [
-        null
-      ]
+      "In province",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "IE-CW"
-        ],
-        [
-          null
-        ]
+        "IE-CW",
+        []
       ],
       [
-        [
-          "Carlow"
-        ],
+        "Carlow",
         [
           "/wiki/County_Carlow"
         ]
       ],
       [
-        [
-          "Ceatharlach"
-        ],
-        [
-          null
-        ]
+        "Ceatharlach",
+        []
       ],
       [
-        [
-          "L"
-        ],
+        "L",
         [
           "/wiki/Leinster"
         ]
@@ -72,33 +48,21 @@
     ],
     [
       [
-        [
-          "IE-CN"
-        ],
-        [
-          null
-        ]
+        "IE-CN",
+        []
       ],
       [
-        [
-          "Cavan"
-        ],
+        "Cavan",
         [
           "/wiki/County_Cavan"
         ]
       ],
       [
-        [
-          "An Cabh\u00e1n"
-        ],
-        [
-          null
-        ]
+        "An Cabh\u00e1n",
+        []
       ],
       [
-        [
-          "U"
-        ],
+        "U",
         [
           "/wiki/Ulster"
         ]
@@ -106,33 +70,21 @@
     ],
     [
       [
-        [
-          "IE-CE"
-        ],
-        [
-          null
-        ]
+        "IE-CE",
+        []
       ],
       [
-        [
-          "Clare"
-        ],
+        "Clare",
         [
           "/wiki/County_Clare"
         ]
       ],
       [
-        [
-          "An Cl\u00e1r"
-        ],
-        [
-          null
-        ]
+        "An Cl\u00e1r",
+        []
       ],
       [
-        [
-          "M"
-        ],
+        "M",
         [
           "/wiki/Munster"
         ]
@@ -140,33 +92,21 @@
     ],
     [
       [
-        [
-          "IE-CO"
-        ],
-        [
-          null
-        ]
+        "IE-CO",
+        []
       ],
       [
-        [
-          "Cork"
-        ],
+        "Cork",
         [
           "/wiki/County_Cork"
         ]
       ],
       [
-        [
-          "Corcaigh"
-        ],
-        [
-          null
-        ]
+        "Corcaigh",
+        []
       ],
       [
-        [
-          "M"
-        ],
+        "M",
         [
           "/wiki/Munster"
         ]
@@ -174,33 +114,21 @@
     ],
     [
       [
-        [
-          "IE-DL"
-        ],
-        [
-          null
-        ]
+        "IE-DL",
+        []
       ],
       [
-        [
-          "Donegal"
-        ],
+        "Donegal",
         [
           "/wiki/County_Donegal"
         ]
       ],
       [
-        [
-          "D\u00fan na nGall"
-        ],
-        [
-          null
-        ]
+        "D\u00fan na nGall",
+        []
       ],
       [
-        [
-          "U"
-        ],
+        "U",
         [
           "/wiki/Ulster"
         ]
@@ -208,33 +136,21 @@
     ],
     [
       [
-        [
-          "IE-D"
-        ],
-        [
-          null
-        ]
+        "IE-D",
+        []
       ],
       [
-        [
-          "Dublin"
-        ],
+        "Dublin",
         [
           "/wiki/County_Dublin"
         ]
       ],
       [
-        [
-          "Baile \u00c1tha Cliath"
-        ],
-        [
-          null
-        ]
+        "Baile \u00c1tha Cliath",
+        []
       ],
       [
-        [
-          "L"
-        ],
+        "L",
         [
           "/wiki/Leinster"
         ]
@@ -242,33 +158,21 @@
     ],
     [
       [
-        [
-          "IE-G"
-        ],
-        [
-          null
-        ]
+        "IE-G",
+        []
       ],
       [
-        [
-          "Galway"
-        ],
+        "Galway",
         [
           "/wiki/County_Galway"
         ]
       ],
       [
-        [
-          "Gaillimh"
-        ],
-        [
-          null
-        ]
+        "Gaillimh",
+        []
       ],
       [
-        [
-          "C"
-        ],
+        "C",
         [
           "/wiki/Connacht"
         ]
@@ -276,33 +180,21 @@
     ],
     [
       [
-        [
-          "IE-KY"
-        ],
-        [
-          null
-        ]
+        "IE-KY",
+        []
       ],
       [
-        [
-          "Kerry"
-        ],
+        "Kerry",
         [
           "/wiki/County_Kerry"
         ]
       ],
       [
-        [
-          "Ciarra\u00ed"
-        ],
-        [
-          null
-        ]
+        "Ciarra\u00ed",
+        []
       ],
       [
-        [
-          "M"
-        ],
+        "M",
         [
           "/wiki/Munster"
         ]
@@ -310,33 +202,21 @@
     ],
     [
       [
-        [
-          "IE-KE"
-        ],
-        [
-          null
-        ]
+        "IE-KE",
+        []
       ],
       [
-        [
-          "Kildare"
-        ],
+        "Kildare",
         [
           "/wiki/County_Kildare"
         ]
       ],
       [
-        [
-          "Cill Dara"
-        ],
-        [
-          null
-        ]
+        "Cill Dara",
+        []
       ],
       [
-        [
-          "L"
-        ],
+        "L",
         [
           "/wiki/Leinster"
         ]
@@ -344,33 +224,21 @@
     ],
     [
       [
-        [
-          "IE-KK"
-        ],
-        [
-          null
-        ]
+        "IE-KK",
+        []
       ],
       [
-        [
-          "Kilkenny"
-        ],
+        "Kilkenny",
         [
           "/wiki/County_Kilkenny"
         ]
       ],
       [
-        [
-          "Cill Chainnigh"
-        ],
-        [
-          null
-        ]
+        "Cill Chainnigh",
+        []
       ],
       [
-        [
-          "L"
-        ],
+        "L",
         [
           "/wiki/Leinster"
         ]
@@ -378,33 +246,21 @@
     ],
     [
       [
-        [
-          "IE-LS"
-        ],
-        [
-          null
-        ]
+        "IE-LS",
+        []
       ],
       [
-        [
-          "Laois"
-        ],
+        "Laois",
         [
           "/wiki/County_Laois"
         ]
       ],
       [
-        [
-          "Laois"
-        ],
-        [
-          null
-        ]
+        "Laois",
+        []
       ],
       [
-        [
-          "L"
-        ],
+        "L",
         [
           "/wiki/Leinster"
         ]
@@ -412,33 +268,21 @@
     ],
     [
       [
-        [
-          "IE-LM"
-        ],
-        [
-          null
-        ]
+        "IE-LM",
+        []
       ],
       [
-        [
-          "Leitrim"
-        ],
+        "Leitrim",
         [
           "/wiki/County_Leitrim"
         ]
       ],
       [
-        [
-          "Liatroim"
-        ],
-        [
-          null
-        ]
+        "Liatroim",
+        []
       ],
       [
-        [
-          "C"
-        ],
+        "C",
         [
           "/wiki/Connacht"
         ]
@@ -446,33 +290,21 @@
     ],
     [
       [
-        [
-          "IE-LK"
-        ],
-        [
-          null
-        ]
+        "IE-LK",
+        []
       ],
       [
-        [
-          "Limerick"
-        ],
+        "Limerick",
         [
           "/wiki/County_Limerick"
         ]
       ],
       [
-        [
-          "Luimneach"
-        ],
-        [
-          null
-        ]
+        "Luimneach",
+        []
       ],
       [
-        [
-          "M"
-        ],
+        "M",
         [
           "/wiki/Munster"
         ]
@@ -480,33 +312,21 @@
     ],
     [
       [
-        [
-          "IE-LD"
-        ],
-        [
-          null
-        ]
+        "IE-LD",
+        []
       ],
       [
-        [
-          "Longford"
-        ],
+        "Longford",
         [
           "/wiki/County_Longford"
         ]
       ],
       [
-        [
-          "An Longfort"
-        ],
-        [
-          null
-        ]
+        "An Longfort",
+        []
       ],
       [
-        [
-          "L"
-        ],
+        "L",
         [
           "/wiki/Leinster"
         ]
@@ -514,33 +334,21 @@
     ],
     [
       [
-        [
-          "IE-LH"
-        ],
-        [
-          null
-        ]
+        "IE-LH",
+        []
       ],
       [
-        [
-          "Louth"
-        ],
+        "Louth",
         [
           "/wiki/County_Louth"
         ]
       ],
       [
-        [
-          "L\u00fa"
-        ],
-        [
-          null
-        ]
+        "L\u00fa",
+        []
       ],
       [
-        [
-          "L"
-        ],
+        "L",
         [
           "/wiki/Leinster"
         ]
@@ -548,33 +356,21 @@
     ],
     [
       [
-        [
-          "IE-MO"
-        ],
-        [
-          null
-        ]
+        "IE-MO",
+        []
       ],
       [
-        [
-          "Mayo"
-        ],
+        "Mayo",
         [
           "/wiki/County_Mayo"
         ]
       ],
       [
-        [
-          "Maigh Eo"
-        ],
-        [
-          null
-        ]
+        "Maigh Eo",
+        []
       ],
       [
-        [
-          "C"
-        ],
+        "C",
         [
           "/wiki/Connacht"
         ]
@@ -582,33 +378,21 @@
     ],
     [
       [
-        [
-          "IE-MH"
-        ],
-        [
-          null
-        ]
+        "IE-MH",
+        []
       ],
       [
-        [
-          "Meath"
-        ],
+        "Meath",
         [
           "/wiki/County_Meath"
         ]
       ],
       [
-        [
-          "An Mh\u00ed"
-        ],
-        [
-          null
-        ]
+        "An Mh\u00ed",
+        []
       ],
       [
-        [
-          "L"
-        ],
+        "L",
         [
           "/wiki/Leinster"
         ]
@@ -616,33 +400,21 @@
     ],
     [
       [
-        [
-          "IE-MN"
-        ],
-        [
-          null
-        ]
+        "IE-MN",
+        []
       ],
       [
-        [
-          "Monaghan"
-        ],
+        "Monaghan",
         [
           "/wiki/County_Monaghan"
         ]
       ],
       [
-        [
-          "Muineach\u00e1n"
-        ],
-        [
-          null
-        ]
+        "Muineach\u00e1n",
+        []
       ],
       [
-        [
-          "U"
-        ],
+        "U",
         [
           "/wiki/Ulster"
         ]
@@ -650,33 +422,21 @@
     ],
     [
       [
-        [
-          "IE-OY"
-        ],
-        [
-          null
-        ]
+        "IE-OY",
+        []
       ],
       [
-        [
-          "Offaly"
-        ],
+        "Offaly",
         [
           "/wiki/County_Offaly"
         ]
       ],
       [
-        [
-          "U\u00edbh Fhail\u00ed"
-        ],
-        [
-          null
-        ]
+        "U\u00edbh Fhail\u00ed",
+        []
       ],
       [
-        [
-          "L"
-        ],
+        "L",
         [
           "/wiki/Leinster"
         ]
@@ -684,33 +444,21 @@
     ],
     [
       [
-        [
-          "IE-RN"
-        ],
-        [
-          null
-        ]
+        "IE-RN",
+        []
       ],
       [
-        [
-          "Roscommon"
-        ],
+        "Roscommon",
         [
           "/wiki/County_Roscommon"
         ]
       ],
       [
-        [
-          "Ros Com\u00e1in"
-        ],
-        [
-          null
-        ]
+        "Ros Com\u00e1in",
+        []
       ],
       [
-        [
-          "C"
-        ],
+        "C",
         [
           "/wiki/Connacht"
         ]

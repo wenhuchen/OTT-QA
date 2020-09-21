@@ -3,52 +3,36 @@
   "title": "NHL All-Star Skills Competition",
   "header": [
     [
-      [
-        "Season"
-      ],
+      "Season",
       [
         "/wiki/Season_(sports)"
       ]
     ],
     [
-      [
-        "Team"
-      ],
-      [
-        null
-      ]
+      "Team",
+      []
     ],
     [
-      [
-        "Player"
-      ],
-      [
-        null
-      ]
+      "Player",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "1991"
-        ],
+        "1991",
         [
           "/wiki/1990\u201391_NHL_season"
         ]
       ],
       [
-        [
-          "Campbell Conference"
-        ],
+        "Campbell Conference",
         [
           "/wiki/Campbell_Conference"
         ]
       ],
       [
-        [
-          "Mike Vernon"
-        ],
+        "Mike Vernon",
         [
           "/wiki/Mike_Vernon_(ice_hockey)"
         ]
@@ -56,26 +40,19 @@
     ],
     [
       [
-        [
-          "1992"
-        ],
+        "1992",
         [
           "/wiki/1991\u201392_NHL_season"
         ]
       ],
       [
-        [
-          "Wales Conference"
-        ],
+        "Wales Conference",
         [
           "/wiki/Wales_Conference"
         ]
       ],
       [
-        [
-          "Mike Richter",
-          "Don Beaupre"
-        ],
+        "Mike Richter Don Beaupre",
         [
           "/wiki/Mike_Richter",
           "/wiki/Don_Beaupre"
@@ -84,26 +61,17 @@
     ],
     [
       [
-        [
-          "1993"
-        ],
+        "1993",
         [
           "/wiki/1992\u201393_NHL_season"
         ]
       ],
       [
-        [
-          "Campbell Conference"
-        ],
-        [
-          null
-        ]
+        "Campbell Conference",
+        []
       ],
       [
-        [
-          "Jon Casey",
-          "Ed Belfour"
-        ],
+        "Jon Casey Mike Vernon Ed Belfour",
         [
           "/wiki/Jon_Casey",
           "/wiki/Ed_Belfour"
@@ -112,25 +80,17 @@
     ],
     [
       [
-        [
-          "1994"
-        ],
+        "1994",
         [
           "/wiki/1993\u201394_NHL_season"
         ]
       ],
       [
-        [
-          "Western Conference"
-        ],
-        [
-          null
-        ]
+        "Western Conference",
+        []
       ],
       [
-        [
-          "Curtis Joseph"
-        ],
+        "Curtis Joseph",
         [
           "/wiki/Curtis_Joseph"
         ]
@@ -138,25 +98,17 @@
     ],
     [
       [
-        [
-          "1996"
-        ],
+        "1996",
         [
           "/wiki/1995\u201396_NHL_season"
         ]
       ],
       [
-        [
-          "Eastern Conference"
-        ],
-        [
-          null
-        ]
+        "Eastern Conference",
+        []
       ],
       [
-        [
-          "Dominik Hasek"
-        ],
+        "Dominik Hasek",
         [
           "/wiki/Dominik_Ha\u0161ek"
         ]
@@ -164,25 +116,17 @@
     ],
     [
       [
-        [
-          "1997"
-        ],
+        "1997",
         [
           "/wiki/1996\u201397_NHL_season"
         ]
       ],
       [
-        [
-          "World"
-        ],
-        [
-          null
-        ]
+        "World",
+        []
       ],
       [
-        [
-          "Guy Hebert"
-        ],
+        "Dominik Hasek Guy Hebert",
         [
           "/wiki/Guy_Hebert"
         ]
@@ -190,51 +134,33 @@
     ],
     [
       [
-        [
-          "1998"
-        ],
+        "1998",
         [
           "/wiki/1997\u201398_NHL_season"
         ]
       ],
       [
-        [
-          "World North America"
-        ],
-        [
-          null
-        ]
+        "World North America",
+        []
       ],
       [
-        [
-          "Dominik Hasek"
-        ],
-        [
-          null
-        ]
+        "Dominik Hasek",
+        []
       ]
     ],
     [
       [
-        [
-          "1999"
-        ],
+        "1999",
         [
           "/wiki/1998\u201399_NHL_season"
         ]
       ],
       [
-        [
-          "World"
-        ],
-        [
-          null
-        ]
+        "World",
+        []
       ],
       [
-        [
-          "Arturs Irbe"
-        ],
+        "Dominik Hasek Arturs Irbe",
         [
           "/wiki/Art\u016brs_Irbe"
         ]
@@ -242,25 +168,17 @@
     ],
     [
       [
-        [
-          "2000"
-        ],
+        "2000",
         [
           "/wiki/1999\u20132000_NHL_season"
         ]
       ],
       [
-        [
-          "World"
-        ],
-        [
-          null
-        ]
+        "World",
+        []
       ],
       [
-        [
-          "Tommy Salo"
-        ],
+        "Tommy Salo",
         [
           "/wiki/Tommy_Salo"
         ]
@@ -268,26 +186,17 @@
     ],
     [
       [
-        [
-          "2001"
-        ],
+        "2001",
         [
           "/wiki/2000\u201301_NHL_season"
         ]
       ],
       [
-        [
-          "World"
-        ],
-        [
-          null
-        ]
+        "World",
+        []
       ],
       [
-        [
-          "Sean Burke",
-          "Evgeni Nabokov"
-        ],
+        "Sean Burke Evgeni Nabokov",
         [
           "/wiki/Sean_Burke",
           "/wiki/Evgeni_Nabokov"
@@ -296,77 +205,49 @@
     ],
     [
       [
-        [
-          "2002"
-        ],
+        "2002",
         [
           "/wiki/2001\u201302_NHL_season"
         ]
       ],
       [
-        [
-          "North America"
-        ],
-        [
-          null
-        ]
+        "North America",
+        []
       ],
       [
-        [
-          "Dominik Hasek Patrick Roy"
-        ],
-        [
-          null
-        ]
+        "Dominik Hasek Patrick Roy",
+        []
       ]
     ],
     [
       [
-        [
-          "2003"
-        ],
+        "2003",
         [
           "/wiki/2002\u201303_NHL_season"
         ]
       ],
       [
-        [
-          "Western Conference"
-        ],
-        [
-          null
-        ]
+        "Western Conference",
+        []
       ],
       [
-        [
-          "Patrick Roy"
-        ],
-        [
-          null
-        ]
+        "Patrick Roy",
+        []
       ]
     ],
     [
       [
-        [
-          "2004"
-        ],
+        "2004",
         [
           "/wiki/2003\u201304_NHL_season"
         ]
       ],
       [
-        [
-          "Eastern Conference"
-        ],
-        [
-          null
-        ]
+        "Eastern Conference",
+        []
       ],
       [
-        [
-          "Roberto Luongo"
-        ],
+        "Roberto Luongo",
         [
           "/wiki/Roberto_Luongo"
         ]
@@ -374,28 +255,18 @@
     ],
     [
       [
-        [
-          "2007"
-        ],
+        "2007",
         [
           "/wiki/2006\u201307_NHL_season"
         ]
       ],
       [
-        [
-          "Western Conference"
-        ],
-        [
-          null
-        ]
+        "Western Conference",
+        []
       ],
       [
-        [
-          "Roberto Luongo"
-        ],
-        [
-          null
-        ]
+        "Roberto Luongo",
+        []
       ]
     ]
   ],

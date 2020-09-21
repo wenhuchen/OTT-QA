@@ -3,393 +3,241 @@
   "title": "Premier Reserve League",
   "header": [
     [
-      [
-        "Team"
-      ],
-      [
-        null
-      ]
+      "Team",
+      []
     ],
     [
-      [
-        "Regional titles"
-      ],
-      [
-        null
-      ]
+      "Regional titles",
+      []
     ],
     [
-      [
-        "National titles"
-      ],
-      [
-        null
-      ]
+      "National titles",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Manchester United Reserves"
-        ],
+        "Manchester United Reserves",
         [
           "/wiki/Manchester_United_F.C._Reserves_and_Academy"
         ]
       ],
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ]
     ],
     [
       [
-        [
-          "Aston Villa Reserves"
-        ],
+        "Aston Villa Reserves",
         [
           "/wiki/Aston_Villa_F.C._Reserves_and_Academy"
         ]
       ],
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ]
     ],
     [
       [
-        [
-          "Liverpool Reserves"
-        ],
+        "Liverpool Reserves",
         [
           "/wiki/Liverpool_F.C._Reserves_and_Academy"
         ]
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ]
     ],
     [
       [
-        [
-          "Chelsea Reserves"
-        ],
+        "Chelsea Reserves",
         [
           "/wiki/Chelsea_F.C._Reserves_and_Academy"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ]
     ],
     [
       [
-        [
-          "Reading Reserves"
-        ],
+        "Reading Reserves",
         [
           "/wiki/Reading_F.C."
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ]
     ],
     [
       [
-        [
-          "Sunderland Reserves"
-        ],
+        "Sunderland Reserves",
         [
           "/wiki/Sunderland_A.F.C."
         ]
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ]
     ],
     [
       [
-        [
-          "Derby County Reserves"
-        ],
+        "Derby County Reserves",
         [
           "/wiki/Derby_County_F.C."
         ]
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ]
     ],
     [
       [
-        [
-          "Charlton Athletic Reserves"
-        ],
+        "Charlton Athletic Reserves",
         [
           "/wiki/Charlton_Athletic_F.C._Reserves"
         ]
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ]
     ],
     [
       [
-        [
-          "Blackburn Rovers Reserves"
-        ],
+        "Blackburn Rovers Reserves",
         [
           "/wiki/Blackburn_Rovers_F.C."
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ]
     ],
     [
       [
-        [
-          "Tottenham Hotspur Reserves"
-        ],
+        "Tottenham Hotspur Reserves",
         [
           "/wiki/Tottenham_Hotspur_F.C._Reserves_and_Academy"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ]
     ],
     [
       [
-        [
-          "Bolton Wanderers Reserves"
-        ],
+        "Bolton Wanderers Reserves",
         [
           "/wiki/Bolton_Wanderers_F.C._Reserves_and_Academy"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ]
     ],
     [
       [
-        [
-          "Everton Reserves"
-        ],
+        "Everton Reserves",
         [
           "/wiki/Everton_F.C."
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ]
     ],
     [
       [
-        [
-          "Ipswich Town Reserves"
-        ],
+        "Ipswich Town Reserves",
         [
           "/wiki/Ipswich_Town_F.C."
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ]
     ],
     [
       [
-        [
-          "Watford Reserves"
-        ],
+        "Watford Reserves",
         [
           "/wiki/Watford_F.C."
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ]
     ]
   ],

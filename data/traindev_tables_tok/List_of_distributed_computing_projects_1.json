@@ -3,49 +3,27 @@
   "title": "List of distributed computing projects",
   "header": [
     [
-      [
-        "Project"
-      ],
-      [
-        null
-      ]
+      "Project",
+      []
     ],
     [
-      [
-        "Launched"
-      ],
-      [
-        null
-      ]
+      "Launched",
+      []
     ],
     [
-      [
-        "Home"
-      ],
-      [
-        null
-      ]
+      "Home",
+      []
     ],
     [
-      [
-        "Category"
-      ],
-      [
-        null
-      ]
+      "Category",
+      []
     ],
     [
-      [
-        "Research focus"
-      ],
-      [
-        null
-      ]
+      "Research focus",
+      []
     ],
     [
-      [
-        "BOINC"
-      ],
+      "BOINC based",
       [
         "/wiki/BOINC"
       ]
@@ -54,194 +32,111 @@
   "data": [
     [
       [
-        [
-          "ABC @ home"
-        ],
+        "ABC @ home",
         [
           "/wiki/ABC@home"
         ]
       ],
       [
-        [
-          "2006-11-21"
-        ],
-        [
-          null
-        ]
+        "2006-11-21",
+        []
       ],
       [
-        [
-          "Leiden University"
-        ],
+        "Mathematical Institute of Leiden University , Kennislink",
         [
           "/wiki/Leiden_University"
         ]
       ],
       [
-        [
-          "Mathematics"
-        ],
+        "Mathematics",
         [
           "/wiki/Mathematics"
         ]
       ],
       [
-        [
-          "ABC conjecture"
-        ],
+        "Find triples related to the ABC conjecture , one of the greatest open problems in mathematics",
         [
           "/wiki/ABC_conjecture"
         ]
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ]
     ],
     [
       [
-        [
-          "AlmereGrid Grid"
-        ],
-        [
-          null
-        ]
+        "AlmereGrid Grid",
+        []
       ],
       [
-        [
-          "2006-09-27"
-        ],
-        [
-          null
-        ]
+        "2006-09-27",
+        []
       ],
       [
-        [
-          "Almere , the Netherlands"
-        ],
-        [
-          null
-        ]
+        "Almere , the Netherlands",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "A number of applications from local researchers"
-        ],
-        [
-          null
-        ]
+        "A number of applications from local researchers",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ]
     ],
     [
       [
-        [
-          "AlmereGrid TestGrid"
-        ],
-        [
-          null
-        ]
+        "AlmereGrid TestGrid",
+        []
       ],
       [
-        [
-          "2008-02-24"
-        ],
-        [
-          null
-        ]
+        "2008-02-24",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Test of the AlmereGrid project"
-        ],
-        [
-          null
-        ]
+        "Test of the AlmereGrid project",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ]
     ],
     [
       [
-        [
-          "AndrOINC"
-        ],
-        [
-          null
-        ]
+        "AndrOINC",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Private"
-        ],
-        [
-          null
-        ]
+        "Private",
+        []
       ],
       [
-        [
-          "Cryptography"
-        ],
+        "Cryptography",
         [
           "/wiki/Cryptography"
         ]
       ],
       [
-        [
-          "RSA",
-          "boot",
-          "recovery partition",
-          "Motorola Milestone"
-        ],
+        "Broke Motorola 's 1024-bit RSA key used to sign the boot and recovery partition partitions on the Motorola Milestone smartphone",
         [
           "/wiki/RSA_(algorithm)",
           "/wiki/System_partition_and_boot_partition",
@@ -250,56 +145,36 @@
         ]
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ]
     ],
     [
       [
-        [
-          "AQUA @ home"
-        ],
+        "AQUA @ home",
         [
           "/wiki/AQUA@home"
         ]
       ],
       [
-        [
-          "2008-12-10"
-        ],
-        [
-          null
-        ]
+        "2008-12-10",
+        []
       ],
       [
-        [
-          "D-Wave Systems",
-          "Canada"
-        ],
+        "D-Wave Systems , Canada",
         [
           "/wiki/D-Wave_Systems",
           "/wiki/Canada"
         ]
       ],
       [
-        [
-          "Quantum computing"
-        ],
+        "Quantum computing",
         [
           "/wiki/Quantum_computing"
         ]
       ],
       [
-        [
-          "Quantum Monte Carlo",
-          "superconducting",
-          "adiabatic",
-          "quantum computers"
-        ],
+        "Used Quantum Monte Carlo to predict the performance of superconducting adiabatic quantum computers on a variety of problems",
         [
           "/wiki/Quantum_Monte_Carlo",
           "/wiki/Superconductor",
@@ -308,409 +183,243 @@
         ]
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ]
     ],
     [
       [
-        [
-          "Background Pi"
-        ],
-        [
-          null
-        ]
+        "Background Pi",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "pi"
-        ],
+        "Computes decimal digits of pi using digit extraction method",
         [
           "/wiki/Pi"
         ]
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ]
     ],
     [
       [
-        [
-          "Biochemical Library"
-        ],
-        [
-          null
-        ]
+        "Biochemical Library",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Vanderbilt University"
-        ],
+        "Vanderbilt University",
         [
           "/wiki/Vanderbilt_University"
         ]
       ],
       [
-        [
-          "Molecular biology"
-        ],
+        "Molecular biology",
         [
           "/wiki/Molecular_biology"
         ]
       ],
       [
-        [
-          "Performed research using the Biochemical Algorithms Library into proteins and their interactions with small molecules for disease research"
-        ],
-        [
-          null
-        ]
+        "Performed research using the Biochemical Algorithms Library into proteins and their interactions with small molecules for disease research",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ]
     ],
     [
       [
-        [
-          "Chess960 @ home"
-        ],
-        [
-          null
-        ]
+        "Chess960 @ home",
+        []
       ],
       [
-        [
-          "2006-03-20"
-        ],
-        [
-          null
-        ]
+        "2006-03-20",
+        []
       ],
       [
-        [
-          "Private"
-        ],
-        [
-          null
-        ]
+        "Private",
+        []
       ],
       [
-        [
-          "Games and Puzzles"
-        ],
-        [
-          null
-        ]
+        "Games and Puzzles",
+        []
       ],
       [
-        [
-          "chess 960"
-        ],
+        "Analysis of chess 960",
         [
           "/wiki/Chess_960"
         ]
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ]
     ],
     [
       [
-        [
-          "Constellation"
-        ],
-        [
-          null
-        ]
+        "Constellation",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "University of Stuttgart",
-          "Germany"
-        ],
+        "Students at the University of Stuttgart , Germany",
         [
           "/wiki/University_of_Stuttgart",
           "/wiki/Germany"
         ]
       ],
       [
-        [
-          "Aerospace",
-          "Engineering"
-        ],
+        "Aerospace , Engineering",
         [
           "/wiki/Aerospace",
           "/wiki/Engineering"
         ]
       ],
       [
-        [
-          "aerospace"
-        ],
+        "Various aerospace -related science and engineering problems",
         [
           "/wiki/Aerospace"
         ]
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ]
     ],
     [
       [
-        [
-          "Correlizer"
-        ],
-        [
-          null
-        ]
+        "Correlizer",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "European Union"
-        ],
+        "EpiGenSys Consortium and EraSysBio+ , part of the Seventh Framework Program of the European Union",
         [
           "/wiki/European_Union"
         ]
       ],
       [
-        [
-          "Genetics"
-        ],
+        "Genetics",
         [
           "/wiki/Genetics"
         ]
       ],
       [
-        [
-          "The sequential organization of genomes , and its connection to their 3D architectural organization"
-        ],
-        [
-          null
-        ]
+        "The sequential organization of genomes , and its connection to their 3D architectural organization",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ]
     ],
     [
       [
-        [
-          "DistrRTgen"
-        ],
+        "DistrRTgen",
         [
           "/wiki/DistrRTgen"
         ]
       ],
       [
-        [
-          "2008-01-12"
-        ],
-        [
-          null
-        ]
+        "2008-01-12",
+        []
       ],
       [
-        [
-          "Private"
-        ],
-        [
-          null
-        ]
+        "Private",
+        []
       ],
       [
-        [
-          "Cryptography"
-        ],
+        "Cryptography",
         [
           "/wiki/Cryptography"
         ]
       ],
       [
-        [
-          "rainbow tables"
-        ],
+        "Analysis of hash strength for password security by developing rainbow tables",
         [
           "/wiki/Rainbow_table"
         ]
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ]
     ],
     [
       [
-        [
-          "DNA @ home"
-        ],
-        [
-          null
-        ]
+        "DNA @ home",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Rensselaer Polytechnic Institute"
-        ],
+        "Rensselaer Polytechnic Institute",
         [
           "/wiki/Rensselaer_Polytechnic_Institute"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "DNA"
-        ],
+        "Discovered what regulates the genes in DNA using statistical algorithms",
         [
           "/wiki/DNA"
         ]
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ]
     ],
     [
       [
-        [
-          "DrugDiscovery @ home"
-        ],
-        [
-          null
-        ]
+        "DrugDiscovery @ home",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Private"
-        ],
-        [
-          null
-        ]
+        "Private",
+        []
       ],
       [
-        [
-          "Drug design"
-        ],
+        "Drug design",
         [
           "/wiki/Drug_design"
         ]
       ],
       [
-        [
-          "in silico",
-          "chemical compounds",
-          "medicines",
-          "cancer",
-          "neurodegenerative diseases"
-        ],
+        "Supported in silico drug design of chemical compounds for medicines in the fields of cancer and neurodegenerative diseases",
         [
           "/wiki/In_silico",
           "/wiki/Chemical_compounds",
@@ -720,364 +429,221 @@
         ]
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ]
     ],
     [
       [
-        [
-          "eOn"
-        ],
+        "eOn",
         [
           "/wiki/EOn"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "University of Texas at Austin"
-        ],
+        "University of Texas at Austin",
         [
           "/wiki/University_of_Texas_at_Austin"
         ]
       ],
       [
-        [
-          "Chemistry"
-        ],
+        "Chemistry",
         [
           "/wiki/Chemistry"
         ]
       ],
       [
-        [
-          "Calculated the evolution of an atomic-scale system over time , such as a chemical reaction or diffusion"
-        ],
-        [
-          null
-        ]
+        "Calculated the evolution of an atomic-scale system over time , such as a chemical reaction or diffusion",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ]
     ],
     [
       [
-        [
-          "FreeHAL"
-        ],
+        "FreeHAL",
         [
           "/wiki/FreeHAL"
         ]
       ],
       [
-        [
-          "2006"
-        ],
-        [
-          null
-        ]
+        "2006",
+        []
       ],
       [
-        [
-          "Private"
-        ],
-        [
-          null
-        ]
+        "Private",
+        []
       ],
       [
-        [
-          "Artificial intelligence"
-        ],
+        "Artificial intelligence",
         [
           "/wiki/Artificial_intelligence"
         ]
       ],
       [
-        [
-          "Compute essential information for software which seeks to imitate human conversation"
-        ],
-        [
-          null
-        ]
+        "Compute essential information for software which seeks to imitate human conversation",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ]
     ],
     [
       [
-        [
-          "Genome @ home"
-        ],
+        "Genome @ home",
         [
           "/wiki/Genome@home"
         ]
       ],
       [
-        [
-          "2001-02-01"
-        ],
-        [
-          null
-        ]
+        "2001-02-01",
+        []
       ],
       [
-        [
-          "Stanford University"
-        ],
+        "Stanford University",
         [
           "/wiki/Stanford_University"
         ]
       ],
       [
-        [
-          "Molecular biology"
-        ],
+        "Molecular biology",
         [
           "/wiki/Molecular_biology"
         ]
       ],
       [
-        [
-          "Designed new genes that can form working proteins in the cell that have not been found in nature"
-        ],
-        [
-          null
-        ]
+        "Designed new genes that can form working proteins in the cell that have not been found in nature",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ]
     ],
     [
       [
-        [
-          "Golem @ home"
-        ],
-        [
-          null
-        ]
+        "Golem @ home",
+        []
       ],
       [
-        [
-          "2000"
-        ],
-        [
-          null
-        ]
+        "2000",
+        []
       ],
       [
-        [
-          "Brandeis University"
-        ],
+        "Brandeis University",
         [
           "/wiki/Brandeis_University"
         ]
       ],
       [
-        [
-          "Robotics"
-        ],
+        "Robotics",
         [
           "/wiki/Robotics"
         ]
       ],
       [
-        [
-          "Used evolutionary computation to design robotic locomotion systems"
-        ],
-        [
-          null
-        ]
+        "Used evolutionary computation to design robotic locomotion systems",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ]
     ],
     [
       [
-        [
-          "Graceful Tree Verification Project"
-        ],
-        [
-          null
-        ]
+        "Graceful Tree Verification Project",
+        []
       ],
       [
-        [
-          "2008-11-22"
-        ],
-        [
-          null
-        ]
+        "2008-11-22",
+        []
       ],
       [
-        [
-          "Private"
-        ],
-        [
-          null
-        ]
+        "Private",
+        []
       ],
       [
-        [
-          "Mathematics"
-        ],
+        "Mathematics",
         [
           "/wiki/Mathematics"
         ]
       ],
       [
-        [
-          "Used a computational approach to the Graceful Tree Conjecture , proving that every tree with at most 35 vertices is graceful"
-        ],
-        [
-          null
-        ]
+        "Used a computational approach to the Graceful Tree Conjecture , proving that every tree with at most 35 vertices is graceful",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ]
     ],
     [
       [
-        [
-          "Ideologias @ home"
-        ],
-        [
-          null
-        ]
+        "Ideologias @ home",
+        []
       ],
       [
-        [
-          "2011-05-19"
-        ],
-        [
-          null
-        ]
+        "2011-05-19",
+        []
       ],
       [
-        [
-          "Complutense University of Madrid"
-        ],
+        "Complutense University of Madrid , Spain",
         [
           "/wiki/Complutense_University_of_Madrid"
         ]
       ],
       [
-        [
-          "Society"
-        ],
-        [
-          null
-        ]
+        "Society",
+        []
       ],
       [
-        [
-          "Used social networking mathematical models to study the ideological evolution of a group of people over time"
-        ],
-        [
-          null
-        ]
+        "Used social networking mathematical models to study the ideological evolution of a group of people over time",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ]
     ],
     [
       [
-        [
-          "Magnetism @ home"
-        ],
-        [
-          null
-        ]
+        "Magnetism @ home",
+        []
       ],
       [
-        [
-          "2008-06-09"
-        ],
-        [
-          null
-        ]
+        "2008-06-09",
+        []
       ],
       [
-        [
-          "Ukraine"
-        ],
+        "Donetsk Institute for Physics and Technology , Ukraine",
         [
           "/wiki/Ukraine"
         ]
       ],
       [
-        [
-          "Magnetism",
-          "nanotechnology"
-        ],
+        "Magnetism , nanotechnology",
         [
           "/wiki/Magnetism",
           "/wiki/Nanotechnology"
         ]
       ],
       [
-        [
-          "magnetization"
-        ],
+        "Explored magnetization patterns",
         [
           "/wiki/Magnetization"
         ]
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ]
     ]
   ],

@@ -3,87 +3,50 @@
   "title": "List of long tunnels by type",
   "header": [
     [
-      [
-        "Name"
-      ],
-      [
-        null
-      ]
+      "Name",
+      []
     ],
     [
-      [
-        "Location"
-      ],
-      [
-        null
-      ]
+      "Location",
+      []
     ],
     [
-      [
-        "Length in km ( mi )"
-      ],
-      [
-        null
-      ]
+      "Length in km ( mi )",
+      []
     ],
     [
-      [
-        "Year Completed"
-      ],
-      [
-        null
-      ]
+      "Year Completed",
+      []
     ],
     [
-      [
-        "Line"
-      ],
-      [
-        null
-      ]
+      "Line",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Gotthard Base Tunnel"
-        ],
+        "Gotthard Base Tunnel",
         [
           "/wiki/Gotthard_Base_Tunnel"
         ]
       ],
       [
-        [
-          "Alps"
-        ],
+        "Switzerland ( Alps )",
         [
           "/wiki/Swiss_Alps"
         ]
       ],
       [
-        [
-          "57.1 km ( 35.5 mi )"
-        ],
-        [
-          null
-        ]
+        "57.1 km ( 35.5 mi )",
+        []
       ],
       [
-        [
-          "2016"
-        ],
-        [
-          null
-        ]
+        "2016",
+        []
       ],
       [
-        [
-          "Gotthardbahn",
-          "Luzern",
-          "Z\u00fcrich",
-          "Milan"
-        ],
+        "Gotthardbahn Luzern / Z\u00fcrich - Milan",
         [
           "/wiki/Gotthardbahn",
           "/wiki/Luzern",
@@ -94,42 +57,27 @@
     ],
     [
       [
-        [
-          "Seikan Tunnel"
-        ],
+        "Seikan Tunnel",
         [
           "/wiki/Seikan_Tunnel"
         ]
       ],
       [
-        [
-          "Tsugaru Strait"
-        ],
+        "Japan ( Tsugaru Strait )",
         [
           "/wiki/Tsugaru_Strait"
         ]
       ],
       [
-        [
-          "53.9 ( 33.5 )"
-        ],
-        [
-          null
-        ]
+        "53.9 ( 33.5 )",
+        []
       ],
       [
-        [
-          "1988"
-        ],
-        [
-          null
-        ]
+        "1988",
+        []
       ],
       [
-        [
-          "Kaikyo Line",
-          "Hokkaid\u014d Shinkansen"
-        ],
+        "Kaikyo Line ( Hokkaid\u014d Shinkansen )",
         [
           "/wiki/Kaikyo_Line",
           "/wiki/Hokkaid\u014d_Shinkansen"
@@ -138,41 +86,27 @@
     ],
     [
       [
-        [
-          "Channel Tunnel"
-        ],
+        "Channel Tunnel",
         [
           "/wiki/Channel_Tunnel"
         ]
       ],
       [
-        [
-          "English Channel"
-        ],
+        "France/United Kingdom ( English Channel )",
         [
           "/wiki/English_Channel"
         ]
       ],
       [
-        [
-          "50.5 ( 31.3 )"
-        ],
-        [
-          null
-        ]
+        "50.5 ( 31.3 )",
+        []
       ],
       [
-        [
-          "1994"
-        ],
-        [
-          null
-        ]
+        "1994",
+        []
       ],
       [
-        [
-          "Channel Tunnel"
-        ],
+        "Channel Tunnel",
         [
           "/wiki/Channel_Tunnel"
         ]
@@ -180,43 +114,28 @@
     ],
     [
       [
-        [
-          "Yulhyeon Tunnel"
-        ],
+        "Yulhyeon Tunnel",
         [
           "/wiki/Yulhyeon_Tunnel"
         ]
       ],
       [
-        [
-          "South Korea",
-          "Gyeonggi"
-        ],
+        "South Korea ( Gyeonggi )",
         [
           "/wiki/South_Korea",
           "/wiki/Gyeonggi"
         ]
       ],
       [
-        [
-          "50.3 km ( 31.3 mi )"
-        ],
-        [
-          null
-        ]
+        "50.3 km ( 31.3 mi )",
+        []
       ],
       [
-        [
-          "2016"
-        ],
-        [
-          null
-        ]
+        "2016",
+        []
       ],
       [
-        [
-          "Suseo High Speed Railway"
-        ],
+        "Suseo High Speed Railway",
         [
           "/wiki/Suseo_High_Speed_Railway"
         ]
@@ -224,41 +143,25 @@
     ],
     [
       [
-        [
-          "Songshan Lake Tunnel"
-        ],
-        [
-          null
-        ]
+        "Songshan Lake Tunnel",
+        []
       ],
       [
-        [
-          "Dongguan"
-        ],
+        "China ( Dongguan )",
         [
           "/wiki/Dongguan"
         ]
       ],
       [
-        [
-          "35.391 km ( 22.0 mi )"
-        ],
-        [
-          null
-        ]
+        "35.391 km ( 22.0 mi )",
+        []
       ],
       [
-        [
-          "2016"
-        ],
-        [
-          null
-        ]
+        "2016",
+        []
       ],
       [
-        [
-          "Dongguan-Huizhou Intercity Railway"
-        ],
+        "Dongguan-Huizhou Intercity Railway",
         [
           "/wiki/Dongguan\u2013Huizhou_Intercity_Railway"
         ]
@@ -266,45 +169,27 @@
     ],
     [
       [
-        [
-          "L\u00f6tschberg Base Tunnel"
-        ],
+        "L\u00f6tschberg Base Tunnel",
         [
           "/wiki/L\u00f6tschberg_Base_Tunnel"
         ]
       ],
       [
-        [
-          "Bernese Alps"
-        ],
+        "Switzerland ( Bernese Alps )",
         [
           "/wiki/Bernese_Alps"
         ]
       ],
       [
-        [
-          "34.5 ( 21.4 )"
-        ],
-        [
-          null
-        ]
+        "34.5 ( 21.4 )",
+        []
       ],
       [
-        [
-          "2007"
-        ],
-        [
-          null
-        ]
+        "2007",
+        []
       ],
       [
-        [
-          "L\u00f6tschbergbahn",
-          "Brig",
-          "Thun",
-          "Bern",
-          "Basel"
-        ],
+        "L\u00f6tschbergbahn Brig - Thun ( - Bern - Basel )",
         [
           "/wiki/L\u00f6tschbergbahn",
           "/wiki/Brig,_Switzerland",
@@ -316,41 +201,27 @@
     ],
     [
       [
-        [
-          "New Guanjiao Tunnel"
-        ],
+        "New Guanjiao Tunnel",
         [
           "/wiki/New_Guanjiao_Tunnel"
         ]
       ],
       [
-        [
-          "Qinghai"
-        ],
+        "China ( Qinghai )",
         [
           "/wiki/Qinghai"
         ]
       ],
       [
-        [
-          "32.645 km ( 20.3 mi ) , 2 tubes"
-        ],
-        [
-          null
-        ]
+        "32.645 km ( 20.3 mi ) , 2 tubes",
+        []
       ],
       [
-        [
-          "2014"
-        ],
-        [
-          null
-        ]
+        "2014",
+        []
       ],
       [
-        [
-          "Qinghai-Tibet Railway"
-        ],
+        "Qinghai-Tibet Railway",
         [
           "/wiki/Qinghai\u2013Tibet_Railway"
         ]
@@ -358,43 +229,27 @@
     ],
     [
       [
-        [
-          "Guadarrama Tunnel"
-        ],
+        "Guadarrama Tunnel",
         [
           "/wiki/Guadarrama_Tunnel"
         ]
       ],
       [
-        [
-          "Sierra de Guadarrama"
-        ],
+        "Spain ( Sierra de Guadarrama )",
         [
           "/wiki/Sierra_de_Guadarrama"
         ]
       ],
       [
-        [
-          "28.4 km ( 17.6 mi )"
-        ],
-        [
-          null
-        ]
+        "28.4 km ( 17.6 mi )",
+        []
       ],
       [
-        [
-          "2007"
-        ],
-        [
-          null
-        ]
+        "2007",
+        []
       ],
       [
-        [
-          "LAV",
-          "Madrid",
-          "Valladolid"
-        ],
+        "LAV Madrid - Valladolid",
         [
           "/wiki/AVE",
           "/wiki/Madrid",
@@ -404,41 +259,27 @@
     ],
     [
       [
-        [
-          "West Qinling Tunnel"
-        ],
+        "West Qinling Tunnel",
         [
           "/wiki/West_Qinling_Tunnel"
         ]
       ],
       [
-        [
-          "Gansu"
-        ],
+        "China ( Gansu )",
         [
           "/wiki/Gansu"
         ]
       ],
       [
-        [
-          "28.236 km ( 17.5 mi ) & 28.236 km ( 17.5 mi ) , 2 tubes"
-        ],
-        [
-          null
-        ]
+        "28.236 km ( 17.5 mi ) & 28.236 km ( 17.5 mi ) , 2 tubes",
+        []
       ],
       [
-        [
-          "2016"
-        ],
-        [
-          null
-        ]
+        "2016",
+        []
       ],
       [
-        [
-          "Qinghai-Tibet Railway"
-        ],
+        "Qinghai-Tibet Railway",
         [
           "/wiki/Qinghai\u2013Tibet_Railway"
         ]
@@ -446,41 +287,27 @@
     ],
     [
       [
-        [
-          "Taihang Tunnel"
-        ],
+        "Taihang Tunnel",
         [
           "/wiki/Taihang_Tunnel"
         ]
       ],
       [
-        [
-          "Shanxi"
-        ],
+        "China ( Shanxi )",
         [
           "/wiki/Shanxi"
         ]
       ],
       [
-        [
-          "27.848 km ( 17.304 mi ) & 27.839 km ( 17.298 mi ) , 2 tubes"
-        ],
-        [
-          null
-        ]
+        "27.848 km ( 17.304 mi ) & 27.839 km ( 17.298 mi ) , 2 tubes",
+        []
       ],
       [
-        [
-          "2007"
-        ],
-        [
-          null
-        ]
+        "2007",
+        []
       ],
       [
-        [
-          "Shijiazhuang-Taiyuan High-Speed Railway"
-        ],
+        "Shijiazhuang-Taiyuan High-Speed Railway",
         [
           "/wiki/Shijiazhuang\u2013Taiyuan_High-Speed_Railway"
         ]
@@ -488,41 +315,27 @@
     ],
     [
       [
-        [
-          "Hakk\u014dda Tunnel"
-        ],
+        "Hakk\u014dda Tunnel",
         [
           "/wiki/Hakk\u014dda_Tunnel"
         ]
       ],
       [
-        [
-          "Hakk\u014dda Mountains"
-        ],
+        "Japan ( Hakk\u014dda Mountains )",
         [
           "/wiki/Hakk\u014dda_Mountains"
         ]
       ],
       [
-        [
-          "26.5 km ( 16.5 mi )"
-        ],
-        [
-          null
-        ]
+        "26.5 km ( 16.5 mi )",
+        []
       ],
       [
-        [
-          "2010"
-        ],
-        [
-          null
-        ]
+        "2010",
+        []
       ],
       [
-        [
-          "T\u014dhoku Shinkansen"
-        ],
+        "T\u014dhoku Shinkansen",
         [
           "/wiki/T\u014dhoku_Shinkansen"
         ]
@@ -530,20 +343,13 @@
     ],
     [
       [
-        [
-          "XRL"
-        ],
+        "XRL",
         [
           "/wiki/Guangzhou-Shenzhen-Hong_Kong_Express_Rail_Link_Hong_Kong_Section"
         ]
       ],
       [
-        [
-          "Hong Kong",
-          "New Territories",
-          "New Kowloon",
-          "Kowloon"
-        ],
+        "Hong Kong ( New Territories , New Kowloon and Kowloon )",
         [
           "/wiki/Hong_Kong",
           "/wiki/New_Territories",
@@ -552,25 +358,15 @@
         ]
       ],
       [
-        [
-          "26 km ( 16 mi )"
-        ],
-        [
-          null
-        ]
+        "26 km ( 16 mi )",
+        []
       ],
       [
-        [
-          "2018"
-        ],
-        [
-          null
-        ]
+        "2018",
+        []
       ],
       [
-        [
-          "Guangzhou-Shenzhen-Hong Kong Express Rail Link Hong Kong Section"
-        ],
+        "Guangzhou-Shenzhen-Hong Kong Express Rail Link Hong Kong Section ( A further 4 km on the opposite side of the Hong Kong-China border . )",
         [
           "/wiki/Guangzhou-Shenzhen-Hong_Kong_Express_Rail_Link_Hong_Kong_Section"
         ]
@@ -578,41 +374,27 @@
     ],
     [
       [
-        [
-          "Iwate-Ichinohe Tunnel"
-        ],
+        "Iwate-Ichinohe Tunnel",
         [
           "/wiki/Iwate-Ichinohe_Tunnel"
         ]
       ],
       [
-        [
-          "\u014cu Mountains"
-        ],
+        "Japan ( \u014cu Mountains )",
         [
           "/wiki/\u014cu_Mountains"
         ]
       ],
       [
-        [
-          "25.8 ( 16.0 )"
-        ],
-        [
-          null
-        ]
+        "25.8 ( 16.0 )",
+        []
       ],
       [
-        [
-          "2002"
-        ],
-        [
-          null
-        ]
+        "2002",
+        []
       ],
       [
-        [
-          "T\u014dhoku Shinkansen"
-        ],
+        "T\u014dhoku Shinkansen",
         [
           "/wiki/T\u014dhoku_Shinkansen"
         ]
@@ -620,41 +402,27 @@
     ],
     [
       [
-        [
-          "Lainzer/Wienerwaldtunnel"
-        ],
+        "Lainzer/Wienerwaldtunnel",
         [
           "/wiki/Wienerwaldtunnel"
         ]
       ],
       [
-        [
-          "Vienna"
-        ],
+        "Austria ( Vienna )",
         [
           "/wiki/Vienna"
         ]
       ],
       [
-        [
-          "23.844 km ( 14.816 mi )"
-        ],
-        [
-          null
-        ]
+        "23.844 km ( 14.816 mi )",
+        []
       ],
       [
-        [
-          "2012"
-        ],
-        [
-          null
-        ]
+        "2012",
+        []
       ],
       [
-        [
-          "West railway"
-        ],
+        "West railway",
         [
           "/wiki/West_railway_(Austria)"
         ]
@@ -662,45 +430,26 @@
     ],
     [
       [
-        [
-          "South L\u00fcliangshan Tunnel",
-          "zh"
-        ],
-        [
-          null,
-          null
-        ]
+        "South L\u00fcliangshan Tunnel [ zh ]",
+        []
       ],
       [
-        [
-          "China",
-          "Shanxi"
-        ],
+        "China ( Shanxi )",
         [
           "/wiki/China",
           "/wiki/Shanxi"
         ]
       ],
       [
-        [
-          "23.470 km ( 14.6 mi ) & 23.440 km ( 14.6 mi ) , 2 tubes"
-        ],
-        [
-          null
-        ]
+        "23.470 km ( 14.6 mi ) & 23.440 km ( 14.6 mi ) , 2 tubes",
+        []
       ],
       [
-        [
-          "2014"
-        ],
-        [
-          null
-        ]
+        "2014",
+        []
       ],
       [
-        [
-          "Watang-Rizhao Railway"
-        ],
+        "Watang-Rizhao Railway",
         [
           "/wiki/Watang\u2013Rizhao_Railway"
         ]

@@ -3,1053 +3,629 @@
   "title": "List of the busiest airports in Brazil",
   "header": [
     [
-      [
-        "Rank"
-      ],
-      [
-        null
-      ]
+      "Rank",
+      []
     ],
     [
-      [
-        "Airport"
-      ],
-      [
-        null
-      ]
+      "Airport",
+      []
     ],
     [
-      [
-        "Location"
-      ],
-      [
-        null
-      ]
+      "Location",
+      []
     ],
     [
-      [
-        "Movements"
-      ],
-      [
-        null
-      ]
+      "Movements",
+      []
     ],
     [
-      [
-        "Annual change"
-      ],
-      [
-        null
-      ]
+      "Annual change",
+      []
     ],
     [
-      [
-        "Rank change"
-      ],
-      [
-        null
-      ]
+      "Rank change",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "Guarulhos International Airport"
-        ],
+        "Guarulhos International Airport",
         [
           "/wiki/Guarulhos_International_Airport"
         ]
       ],
       [
-        [
-          "S\u00e3o Paulo"
-        ],
+        "S\u00e3o Paulo",
         [
           "/wiki/S\u00e3o_Paulo"
         ]
       ],
       [
-        [
-          "273,882"
-        ],
-        [
-          null
-        ]
+        "273,882",
+        []
       ],
       [
-        [
-          "1.21%"
-        ],
-        [
-          null
-        ]
+        "1.21%",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "Congonhas Airport"
-        ],
+        "Congonhas Airport",
         [
           "/wiki/Congonhas_Airport"
         ]
       ],
       [
-        [
-          "S\u00e3o Paulo"
-        ],
+        "S\u00e3o Paulo",
         [
           "/wiki/S\u00e3o_Paulo"
         ]
       ],
       [
-        [
-          "213,164"
-        ],
-        [
-          null
-        ]
+        "213,164",
+        []
       ],
       [
-        [
-          "1.91%"
-        ],
-        [
-          null
-        ]
+        "1.91%",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "Presidente Juscelino Kubitschek International Airport"
-        ],
+        "Presidente Juscelino Kubitschek International Airport",
         [
           "/wiki/Bras\u00edlia_International_Airport"
         ]
       ],
       [
-        [
-          "Bras\u00edlia"
-        ],
+        "Bras\u00edlia",
         [
           "/wiki/Bras\u00edlia"
         ]
       ],
       [
-        [
-          "194,686"
-        ],
-        [
-          null
-        ]
+        "194,686",
+        []
       ],
       [
-        [
-          "2.69%"
-        ],
-        [
-          null
-        ]
+        "2.69%",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "Gale\u00e3o International Airport"
-        ],
+        "Gale\u00e3o International Airport",
         [
           "/wiki/Gale\u00e3o_International_Airport"
         ]
       ],
       [
-        [
-          "Rio de Janeiro"
-        ],
+        "Rio de Janeiro",
         [
           "/wiki/Rio_de_Janeiro"
         ]
       ],
       [
-        [
-          "154,318"
-        ],
-        [
-          null
-        ]
+        "154,318",
+        []
       ],
       [
-        [
-          "10.66%"
-        ],
-        [
-          null
-        ]
+        "10.66%",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "Campo de Marte Airport"
-        ],
+        "Campo de Marte Airport",
         [
           "/wiki/Campo_de_Marte_Airport"
         ]
       ],
       [
-        [
-          "S\u00e3o Paulo"
-        ],
+        "S\u00e3o Paulo",
         [
           "/wiki/S\u00e3o_Paulo"
         ]
       ],
       [
-        [
-          "143,540"
-        ],
-        [
-          null
-        ]
+        "143,540",
+        []
       ],
       [
-        [
-          "7.50%"
-        ],
-        [
-          null
-        ]
+        "7.50%",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "Santos Dumont Airport"
-        ],
+        "Santos Dumont Airport",
         [
           "/wiki/Santos_Dumont_Airport"
         ]
       ],
       [
-        [
-          "Rio de Janeiro"
-        ],
+        "Rio de Janeiro",
         [
           "/wiki/Rio_de_Janeiro"
         ]
       ],
       [
-        [
-          "135,373"
-        ],
-        [
-          null
-        ]
+        "135,373",
+        []
       ],
       [
-        [
-          "4.11%"
-        ],
-        [
-          null
-        ]
+        "4.11%",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "7"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ],
       [
-        [
-          "Deputado Lu\u00eds Eduardo Magalh\u00e3es International Airport"
-        ],
+        "Deputado Lu\u00eds Eduardo Magalh\u00e3es International Airport",
         [
           "/wiki/Deputado_Lu\u00eds_Eduardo_Magalh\u00e3es_International_Airport"
         ]
       ],
       [
-        [
-          "Salvador"
-        ],
+        "Salvador",
         [
           "/wiki/Salvador,_Bahia"
         ]
       ],
       [
-        [
-          "121,596"
-        ],
-        [
-          null
-        ]
+        "121,596",
+        []
       ],
       [
-        [
-          "3.48%"
-        ],
-        [
-          null
-        ]
+        "3.48%",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "Tancredo Neves International Airport"
-        ],
+        "Tancredo Neves International Airport",
         [
           "/wiki/Tancredo_Neves_International_Airport"
         ]
       ],
       [
-        [
-          "Belo Horizonte"
-        ],
+        "Belo Horizonte",
         [
           "/wiki/Belo_Horizonte"
         ]
       ],
       [
-        [
-          "120,149"
-        ],
-        [
-          null
-        ]
+        "120,149",
+        []
       ],
       [
-        [
-          "11.11%"
-        ],
-        [
-          null
-        ]
+        "11.11%",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "9"
-        ],
-        [
-          null
-        ]
+        "9",
+        []
       ],
       [
-        [
-          "Viracopos International Airport"
-        ],
+        "Viracopos International Airport",
         [
           "/wiki/Viracopos_International_Airport"
         ]
       ],
       [
-        [
-          "Campinas"
-        ],
+        "Campinas",
         [
           "/wiki/Campinas"
         ]
       ],
       [
-        [
-          "115,548"
-        ],
-        [
-          null
-        ]
+        "115,548",
+        []
       ],
       [
-        [
-          "15.56%"
-        ],
-        [
-          null
-        ]
+        "15.56%",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "10"
-        ],
-        [
-          null
-        ]
+        "10",
+        []
       ],
       [
-        [
-          "Rolim Adolfo Amaro Airport"
-        ],
+        "Rolim Adolfo Amaro Airport",
         [
           "/wiki/Jundia\u00ed_Airport"
         ]
       ],
       [
-        [
-          "Jundia\u00ed"
-        ],
+        "Jundia\u00ed",
         [
           "/wiki/Jundia\u00ed"
         ]
       ],
       [
-        [
-          "99,284"
-        ],
-        [
-          null
-        ]
+        "99,284",
+        []
       ],
       [
-        [
-          "23.18%"
-        ],
-        [
-          null
-        ]
+        "23.18%",
+        []
       ],
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ]
     ],
     [
       [
-        [
-          "11"
-        ],
-        [
-          null
-        ]
+        "11",
+        []
       ],
       [
-        [
-          "Salgado Filho International Airport"
-        ],
+        "Salgado Filho International Airport",
         [
           "/wiki/Salgado_Filho_International_Airport"
         ]
       ],
       [
-        [
-          "Porto Alegre"
-        ],
+        "Porto Alegre",
         [
           "/wiki/Porto_Alegre"
         ]
       ],
       [
-        [
-          "96,696"
-        ],
-        [
-          null
-        ]
+        "96,696",
+        []
       ],
       [
-        [
-          "2.90%"
-        ],
-        [
-          null
-        ]
+        "2.90%",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ]
     ],
     [
       [
-        [
-          "12"
-        ],
-        [
-          null
-        ]
+        "12",
+        []
       ],
       [
-        [
-          "Afonso Pena International Airport"
-        ],
+        "Afonso Pena International Airport",
         [
           "/wiki/Afonso_Pena_International_Airport"
         ]
       ],
       [
-        [
-          "Curitiba"
-        ],
+        "Curitiba",
         [
           "/wiki/Curitiba"
         ]
       ],
       [
-        [
-          "88,960"
-        ],
-        [
-          null
-        ]
+        "88,960",
+        []
       ],
       [
-        [
-          "5.50%"
-        ],
-        [
-          null
-        ]
+        "5.50%",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ]
     ],
     [
       [
-        [
-          "13"
-        ],
-        [
-          null
-        ]
+        "13",
+        []
       ],
       [
-        [
-          "Guararapes-Gilberto Freyre International Airport"
-        ],
+        "Guararapes-Gilberto Freyre International Airport",
         [
           "/wiki/Recife_Airport"
         ]
       ],
       [
-        [
-          "Recife"
-        ],
+        "Recife",
         [
           "/wiki/Recife"
         ]
       ],
       [
-        [
-          "82,997"
-        ],
-        [
-          null
-        ]
+        "82,997",
+        []
       ],
       [
-        [
-          "0.76%"
-        ],
-        [
-          null
-        ]
+        "0.76%",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ]
     ],
     [
       [
-        [
-          "14"
-        ],
-        [
-          null
-        ]
+        "14",
+        []
       ],
       [
-        [
-          "Sorocaba Airport"
-        ],
+        "Sorocaba Airport",
         [
           "/wiki/Sorocaba_Airport"
         ]
       ],
       [
-        [
-          "Sorocaba"
-        ],
+        "Sorocaba",
         [
           "/wiki/Sorocaba"
         ]
       ],
       [
-        [
-          "77,420"
-        ],
-        [
-          null
-        ]
+        "77,420",
+        []
       ],
       [
-        [
-          "18.38%"
-        ],
-        [
-          null
-        ]
+        "18.38%",
+        []
       ],
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ]
     ],
     [
       [
-        [
-          "15"
-        ],
-        [
-          null
-        ]
+        "15",
+        []
       ],
       [
-        [
-          "Jacarepagu\u00e1 Airport"
-        ],
+        "Jacarepagu\u00e1 Airport",
         [
           "/wiki/Jacarepagu\u00e1_Airport"
         ]
       ],
       [
-        [
-          "Rio de Janeiro"
-        ],
+        "Rio de Janeiro",
         [
           "/wiki/Rio_de_Janeiro"
         ]
       ],
       [
-        [
-          "75,990"
-        ],
-        [
-          null
-        ]
+        "75,990",
+        []
       ],
       [
-        [
-          "5.08%"
-        ],
-        [
-          null
-        ]
+        "5.08%",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ]
     ],
     [
       [
-        [
-          "16"
-        ],
-        [
-          null
-        ]
+        "16",
+        []
       ],
       [
-        [
-          "Pampulha - Carlos Drummond de Andrade Airport"
-        ],
+        "Pampulha - Carlos Drummond de Andrade Airport",
         [
           "/wiki/Pampulha_Regional_Airport"
         ]
       ],
       [
-        [
-          "Belo Horizonte"
-        ],
+        "Belo Horizonte",
         [
           "/wiki/Belo_Horizonte"
         ]
       ],
       [
-        [
-          "72,902"
-        ],
-        [
-          null
-        ]
+        "72,902",
+        []
       ],
       [
-        [
-          "10.68%"
-        ],
-        [
-          null
-        ]
+        "10.68%",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ]
     ],
     [
       [
-        [
-          "17"
-        ],
-        [
-          null
-        ]
+        "17",
+        []
       ],
       [
-        [
-          "Santa Genoveva Airport"
-        ],
+        "Santa Genoveva Airport",
         [
           "/wiki/Santa_Genoveva_Airport"
         ]
       ],
       [
-        [
-          "Goi\u00e2nia"
-        ],
+        "Goi\u00e2nia",
         [
           "/wiki/Goi\u00e2nia"
         ]
       ],
       [
-        [
-          "71,030"
-        ],
-        [
-          null
-        ]
+        "71,030",
+        []
       ],
       [
-        [
-          "1.28%"
-        ],
-        [
-          null
-        ]
+        "1.28%",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ]
     ],
     [
       [
-        [
-          "18"
-        ],
-        [
-          null
-        ]
+        "18",
+        []
       ],
       [
-        [
-          "Maca\u00e9 Airport"
-        ],
+        "Maca\u00e9 Airport",
         [
           "/wiki/Maca\u00e9_Airport"
         ]
       ],
       [
-        [
-          "Maca\u00e9"
-        ],
+        "Maca\u00e9",
         [
           "/wiki/Maca\u00e9"
         ]
       ],
       [
-        [
-          "68,238"
-        ],
-        [
-          null
-        ]
+        "68,238",
+        []
       ],
       [
-        [
-          "3.50%"
-        ],
-        [
-          null
-        ]
+        "3.50%",
+        []
       ],
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ]
     ],
     [
       [
-        [
-          "19"
-        ],
-        [
-          null
-        ]
+        "19",
+        []
       ],
       [
-        [
-          "Pinto Martins International Airport"
-        ],
+        "Pinto Martins International Airport",
         [
           "/wiki/Pinto_Martins_International_Airport"
         ]
       ],
       [
-        [
-          "Fortaleza"
-        ],
+        "Fortaleza",
         [
           "/wiki/Fortaleza"
         ]
       ],
       [
-        [
-          "65,388"
-        ],
-        [
-          null
-        ]
+        "65,388",
+        []
       ],
       [
-        [
-          "0.70%"
-        ],
-        [
-          null
-        ]
+        "0.70%",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ]
     ],
     [
       [
-        [
-          "20"
-        ],
-        [
-          null
-        ]
+        "20",
+        []
       ],
       [
-        [
-          "Eurico de Aguiar Salles Airport"
-        ],
+        "Eurico de Aguiar Salles Airport",
         [
           "/wiki/Eurico_de_Aguiar_Salles_Airport"
         ]
       ],
       [
-        [
-          "Vit\u00f3ria"
-        ],
+        "Vit\u00f3ria",
         [
           "/wiki/Vit\u00f3ria,_Brazil"
         ]
       ],
       [
-        [
-          "63,777"
-        ],
-        [
-          null
-        ]
+        "63,777",
+        []
       ],
       [
-        [
-          "11.31%"
-        ],
-        [
-          null
-        ]
+        "11.31%",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ]
     ]
   ],

@@ -3,129 +3,76 @@
   "title": "Historic Chapels Trust",
   "header": [
     [
-      [
-        "Name"
-      ],
-      [
-        null
-      ]
+      "Name",
+      []
     ],
     [
-      [
-        "Location"
-      ],
-      [
-        null
-      ]
+      "Location",
+      []
     ],
     [
-      [
-        "Date"
-      ],
-      [
-        null
-      ]
+      "Date",
+      []
     ],
     [
-      [
-        "Notes"
-      ],
-      [
-        null
-      ]
+      "Notes",
+      []
     ],
     [
-      [
-        "Grade"
-      ],
-      [
-        null
-      ]
+      "Grade",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Farfield Friends Meeting House"
-        ],
+        "Farfield Friends Meeting House",
         [
           "/wiki/Farfield_Friends_Meeting_House"
         ]
       ],
       [
-        [
-          "Addingham",
-          "West Yorkshire",
-          "53\u00b057\u203244\u2033N 1\u00b053\u203208\u2033W / 53.9621\u00b0N 1.8855\u00b0W / 53.9621 ; -1.8855 ( Farfield Friends Meeting House )"
-        ],
+        "Addingham , West Yorkshire 53\u00b057\u203244\u2033N 1\u00b053\u203208\u2033W / 53.9621\u00b0N 1.8855\u00b0W / 53.9621 ; -1.8855 ( Farfield Friends Meeting House )",
         [
           "/wiki/Addingham",
-          "/wiki/West_Yorkshire",
-          null
+          "/wiki/West_Yorkshire"
         ]
       ],
       [
-        [
-          "1689"
-        ],
-        [
-          null
-        ]
+        "1689",
+        []
       ],
       [
-        [
-          "Quaker",
-          "Act of Toleration"
-        ],
+        "This is a small , simple Quaker meeting house built immediately after the Act of Toleration , on land previously used as a burial ground . Outside the meeting house are five chest tombs of an unusual type for a Quaker burial ground",
         [
           "/wiki/Religious_Society_of_Friends",
           "/wiki/Act_of_Toleration_1689"
         ]
       ],
       [
-        [
-          "II*"
-        ],
-        [
-          null
-        ]
+        "II*",
+        []
       ]
     ],
     [
       [
-        [
-          "Walpole Old Chapel"
-        ],
+        "Walpole Old Chapel",
         [
           "/wiki/Walpole_Old_Chapel"
         ]
       ],
       [
+        "Walpole , Suffolk 52\u00b019\u203224\u2033N 1\u00b028\u203254\u2033E / 52.3232\u00b0N 1.4816\u00b0E / 52.3232 ; 1.4816 ( Walpole Old Chapel )",
         [
-          "Walpole",
-          "52\u00b019\u203224\u2033N 1\u00b028\u203254\u2033E / 52.3232\u00b0N 1.4816\u00b0E / 52.3232 ; 1.4816 ( Walpole Old Chapel )"
-        ],
-        [
-          "/wiki/Walpole,_Suffolk",
-          null
+          "/wiki/Walpole,_Suffolk"
         ]
       ],
       [
-        [
-          "1689"
-        ],
-        [
-          null
-        ]
+        "1689",
+        []
       ],
       [
-        [
-          "Act of Toleration",
-          "Independent",
-          "Congregational",
-          "Primitive Methodists"
-        ],
+        "Built as soon as allowed by the Act of Toleration , the chapel was converted from an existing farmhouse . Initially used by a group of Independent Christians , it later became a Congregational chapel . In the 1860s , it was taken over by the Primitive Methodists",
         [
           "/wiki/Act_of_Toleration_1689",
           "/wiki/Independent_(religion)",
@@ -134,93 +81,58 @@
         ]
       ],
       [
-        [
-          "II*"
-        ],
-        [
-          null
-        ]
+        "II*",
+        []
       ]
     ],
     [
       [
-        [
-          "Cote Baptist Chapel"
-        ],
+        "Cote Baptist Chapel",
         [
           "/wiki/Cote_Baptist_Church"
         ]
       ],
       [
+        "Bampton , Oxfordshire 51\u00b043\u203232\u2033N 1\u00b029\u203235\u2033W / 51.7255\u00b0N 1.4930\u00b0W / 51.7255 ; -1.4930 ( Cote Baptist Chapel )",
         [
-          "Bampton",
-          "51\u00b043\u203232\u2033N 1\u00b029\u203235\u2033W / 51.7255\u00b0N 1.4930\u00b0W / 51.7255 ; -1.4930 ( Cote Baptist Chapel )"
-        ],
-        [
-          "/wiki/Bampton,_Oxfordshire",
-          null
+          "/wiki/Bampton,_Oxfordshire"
         ]
       ],
       [
-        [
-          "1703-04"
-        ],
-        [
-          null
-        ]
+        "1703-04",
+        []
       ],
       [
-        [
-          "Baptists",
-          "River Thames"
-        ],
+        "The chapel was built for a group of Baptists originating on the other side of the River Thames . It was enlarged in the 1750s , and in the late 1850s underwent an extensive restoration . Following another restoration in the 1990s , it is now used for weddings , concerts , and other events",
         [
           "/wiki/Baptists",
           "/wiki/River_Thames"
         ]
       ],
       [
-        [
-          "II*"
-        ],
-        [
-          null
-        ]
+        "II*",
+        []
       ]
     ],
     [
       [
-        [
-          "Salem Chapel"
-        ],
+        "Salem Chapel",
         [
           "/wiki/Salem_Chapel,_East_Budleigh"
         ]
       ],
       [
+        "East Budleigh , Devon 50\u00b039\u203228\u2033N 3\u00b019\u203200\u2033W / 50.6577\u00b0N 3.3167\u00b0W / 50.6577 ; -3.3167 ( Salem Chapel , East Budleigh )",
         [
-          "East Budleigh",
-          "50\u00b039\u203228\u2033N 3\u00b019\u203200\u2033W / 50.6577\u00b0N 3.3167\u00b0W / 50.6577 ; -3.3167 ( Salem Chapel , East Budleigh )"
-        ],
-        [
-          "/wiki/East_Budleigh",
-          null
+          "/wiki/East_Budleigh"
         ]
       ],
       [
-        [
-          "1719"
-        ],
-        [
-          null
-        ]
+        "1719",
+        []
       ],
       [
-        [
-          "Presbyterian",
-          "Congregationalists",
-          "Assemblies of God"
-        ],
+        "Initially a Presbyterian chapel , it was later used by Congregationalists , and then by the Assemblies of God . Adjacent to it is a separate assembly room . It is now used for concerts and other events , weddings , and the occasional church service",
         [
           "/wiki/Presbyterianism",
           "/wiki/Congregational_church",
@@ -228,48 +140,29 @@
         ]
       ],
       [
-        [
-          "II*"
-        ],
-        [
-          null
-        ]
+        "II*",
+        []
       ]
     ],
     [
       [
-        [
-          "Coanwood Friends Meeting House"
-        ],
+        "Coanwood Friends Meeting House",
         [
           "/wiki/Coanwood_Friends_Meeting_House"
         ]
       ],
       [
+        "Haltwhistle , Northumberland 54\u00b055\u203227\u2033N 2\u00b027\u203215\u2033W / 54.9243\u00b0N 2.4541\u00b0W / 54.9243 ; -2.4541 ( Coanwood Friends Meeting House )",
         [
-          "Haltwhistle",
-          "54\u00b055\u203227\u2033N 2\u00b027\u203215\u2033W / 54.9243\u00b0N 2.4541\u00b0W / 54.9243 ; -2.4541 ( Coanwood Friends Meeting House )"
-        ],
-        [
-          "/wiki/Haltwhistle",
-          null
+          "/wiki/Haltwhistle"
         ]
       ],
       [
-        [
-          "1720"
-        ],
-        [
-          null
-        ]
+        "1720",
+        []
       ],
       [
-        [
-          "thatched",
-          "slates",
-          "elders",
-          "Quaker"
-        ],
+        "This meeting house stands in an isolated position and is unchanged since it was built , other than the replacement of its thatched roof with slates . The interior retains its original layout , with rows of benches for the congregation and elders still in place . In the burial ground are typical Quaker gravestones , some of which commemorate the Wigham family , who helped to found the meeting house",
         [
           "/wiki/Thatching",
           "/wiki/Slate",
@@ -278,47 +171,29 @@
         ]
       ],
       [
-        [
-          "II*"
-        ],
-        [
-          null
-        ]
+        "II*",
+        []
       ]
     ],
     [
       [
-        [
-          "Grittleton Strict Baptist Chapel"
-        ],
+        "Grittleton Strict Baptist Chapel",
         [
           "/wiki/Grittleton_Strict_Baptist_Chapel"
         ]
       ],
       [
+        "Grittleton , Wiltshire 51\u00b031\u203209\u2033N 2\u00b012\u203202\u2033W / 51.5193\u00b0N 2.2006\u00b0W / 51.5193 ; -2.2006 ( Grittleton Baptist Chapel )",
         [
-          "Grittleton",
-          "51\u00b031\u203209\u2033N 2\u00b012\u203202\u2033W / 51.5193\u00b0N 2.2006\u00b0W / 51.5193 ; -2.2006 ( Grittleton Baptist Chapel )"
-        ],
-        [
-          "/wiki/Grittleton",
-          null
+          "/wiki/Grittleton"
         ]
       ],
       [
-        [
-          "1720 c. 1720"
-        ],
-        [
-          null
-        ]
+        "1720 c. 1720",
+        []
       ],
       [
-        [
-          "vestry",
-          "pulpit",
-          "box pews"
-        ],
+        "The chapel opened in 1721 . It has a rectangular plan with a tiled roof . Inside there are galleries at each end . Under the north gallery is a vestry , in front of which is a pulpit with a staircase and preacher 's seat . In the body of the chapel are box pews and a child 's pew",
         [
           "/wiki/Vestry",
           "/wiki/Pulpit",
@@ -326,90 +201,55 @@
         ]
       ],
       [
-        [
-          "II*"
-        ],
-        [
-          null
-        ]
+        "II*",
+        []
       ]
     ],
     [
       [
-        [
-          "St George 's German Lutheran Church"
-        ],
+        "St George 's German Lutheran Church",
         [
           "/wiki/St_George's_German_Lutheran_Church"
         ]
       ],
       [
-        [
-          "51\u00b030\u203251\u2033N 0\u00b004\u203214\u2033W / 51.5142\u00b0N 0.0705\u00b0W / 51.5142 ; -0.0705 ( St George 's German Lutheran Church )"
-        ],
-        [
-          null
-        ]
+        "Alie Street , London 51\u00b030\u203251\u2033N 0\u00b004\u203214\u2033W / 51.5142\u00b0N 0.0705\u00b0W / 51.5142 ; -0.0705 ( St George 's German Lutheran Church )",
+        []
       ],
       [
-        [
-          "1762-63"
-        ],
-        [
-          null
-        ]
+        "1762-63",
+        []
       ],
       [
-        [
-          "Lutheran"
-        ],
+        "St George 's was the fifth Lutheran church to be built in London , and continued to be used by Lutherans until 1996 . It now contains the offices of the Historic Chapels Trust and is also used for concerts , organ recitals , and other events",
         [
           "/wiki/Lutheranism"
         ]
       ],
       [
-        [
-          "II*"
-        ],
-        [
-          null
-        ]
+        "II*",
+        []
       ]
     ],
     [
       [
-        [
-          "St Benet 's Chapel"
-        ],
+        "St Benet 's Chapel",
         [
           "/wiki/St_Benet's_Chapel,_Netherton"
         ]
       ],
       [
+        "Netherton , Merseyside 53\u00b029\u203241\u2033N 2\u00b058\u203204\u2033W / 53.4946\u00b0N 2.9678\u00b0W / 53.4946 ; -2.9678 ( St Benet 's Chapel , Netherton )",
         [
-          "Netherton",
-          "53\u00b029\u203241\u2033N 2\u00b058\u203204\u2033W / 53.4946\u00b0N 2.9678\u00b0W / 53.4946 ; -2.9678 ( St Benet 's Chapel , Netherton )"
-        ],
-        [
-          "/wiki/Netherton,_Merseyside",
-          null
+          "/wiki/Netherton,_Merseyside"
         ]
       ],
       [
-        [
-          "1793"
-        ],
-        [
-          null
-        ]
+        "1793",
+        []
       ],
       [
-        [
-          "Catholic Relief Acts",
-          "Roman Catholics",
-          "presbytery",
-          "Second Vatican Council"
-        ],
+        "Although it was built after the Catholic Relief Acts that allowed Roman Catholics to worship openly , the chapel is concealed behind the presbytery that appears from the road to be a standard two-bay house . It retains some of its original fittings , and as of 2010 it is being restored as it would have been before the Second Vatican Council . The presbytery is used as a residence for retired priests",
         [
           "/wiki/Roman_Catholic_Relief_Bills",
           "/wiki/Catholic_Church",
@@ -418,49 +258,30 @@
         ]
       ],
       [
-        [
-          "II*"
-        ],
-        [
-          null
-        ]
+        "II*",
+        []
       ]
     ],
     [
       [
-        [
-          "Bethesda Methodist Chapel"
-        ],
+        "Bethesda Methodist Chapel",
         [
           "/wiki/Bethesda_Methodist_Chapel,_Hanley"
         ]
       ],
       [
-        [
-          "Hanley",
-          "Stoke-on-Trent",
-          "53\u00b001\u203224\u2033N 2\u00b010\u203237\u2033W / 53.0233\u00b0N 2.1769\u00b0W / 53.0233 ; -2.1769 ( Bethesda Methodist Chapel , Hanley )"
-        ],
+        "Hanley , Stoke-on-Trent , Staffordshire 53\u00b001\u203224\u2033N 2\u00b010\u203237\u2033W / 53.0233\u00b0N 2.1769\u00b0W / 53.0233 ; -2.1769 ( Bethesda Methodist Chapel , Hanley )",
         [
           "/wiki/Hanley,_Staffordshire",
-          "/wiki/Stoke-on-Trent",
-          null
+          "/wiki/Stoke-on-Trent"
         ]
       ],
       [
-        [
-          "1819"
-        ],
-        [
-          null
-        ]
+        "1819",
+        []
       ],
       [
-        [
-          "Potteries",
-          "Methodist New Connexion",
-          "portico"
-        ],
+        "Once known as the Cathedral of the Potteries , it was built for the Methodist New Connexion . An elaborate portico was added to its frontage in 1859 . During the 20th century its congregation declined and its fabric deteriorated , leading to its closure in 1985 . Repairs costing \u00a32.5 million are under way as of 2010",
         [
           "/wiki/Staffordshire_Potteries",
           "/wiki/Methodist_New_Connexion",
@@ -468,47 +289,29 @@
         ]
       ],
       [
-        [
-          "II*"
-        ],
-        [
-          null
-        ]
+        "II*",
+        []
       ]
     ],
     [
       [
-        [
-          "Biddlestone Chapel"
-        ],
+        "Biddlestone Chapel",
         [
           "/wiki/Biddlestone_Chapel"
         ]
       ],
       [
+        "Biddlestone , Northumberland 55\u00b022\u203208\u2033N 2\u00b004\u203219\u2033W / 55.3688\u00b0N 2.0720\u00b0W / 55.3688 ; -2.0720 ( Biddlestone Chapel )",
         [
-          "Biddlestone",
-          "55\u00b022\u203208\u2033N 2\u00b004\u203219\u2033W / 55.3688\u00b0N 2.0720\u00b0W / 55.3688 ; -2.0720 ( Biddlestone Chapel )"
-        ],
-        [
-          "/wiki/Biddlestone",
-          null
+          "/wiki/Biddlestone"
         ]
       ],
       [
-        [
-          "1820 c. 1820"
-        ],
-        [
-          null
-        ]
+        "1820 c. 1820",
+        []
       ],
       [
-        [
-          "Roman Catholic",
-          "medieval",
-          "pele tower"
-        ],
+        "The chapel stands in a remote location and was built as a private chapel for Biddlestone Hall by the Roman Catholic Selby family . The hall has been demolished , but the chapel has been retained . It was built on the remains of a medieval pele tower , incorporating some of its fabric",
         [
           "/wiki/Catholic_church",
           "/wiki/Middle_Ages",
@@ -516,96 +319,55 @@
         ]
       ],
       [
-        [
-          "II*"
-        ],
-        [
-          null
-        ]
+        "II*",
+        []
       ]
     ],
     [
       [
-        [
-          "Dissenters ' Chapel"
-        ],
+        "Dissenters ' Chapel",
         [
           "/wiki/Dissenters'_Chapel,_Kensal_Green"
         ]
       ],
       [
+        "Kensal Green Cemetery , London 51\u00b031\u203237\u2033N 0\u00b012\u203257\u2033W / 51.5269\u00b0N 0.2159\u00b0W / 51.5269 ; -0.2159 ( Dissenters ' Chapel , Kensal Green Cemetery )",
         [
-          "Kensal Green Cemetery",
-          "51\u00b031\u203237\u2033N 0\u00b012\u203257\u2033W / 51.5269\u00b0N 0.2159\u00b0W / 51.5269 ; -0.2159 ( Dissenters ' Chapel , Kensal Green Cemetery )"
-        ],
-        [
-          "/wiki/Kensal_Green_Cemetery",
-          null
+          "/wiki/Kensal_Green_Cemetery"
         ]
       ],
       [
-        [
-          "1832"
-        ],
-        [
-          null
-        ]
+        "1832",
+        []
       ],
       [
-        [
-          "Nonconformist"
-        ],
-        [
-          null
-        ]
+        "The first purpose-built Nonconformist chapel to be built in a public cemetery , its condition had deteriorated so much that its wings were demolished in the 1970s . Later that decade , the chapel underwent a major restoration , including rebuilding the wings , and restoring the original painting scheme",
+        []
       ],
       [
-        [
-          "II*"
-        ],
-        [
-          null
-        ]
+        "II*",
+        []
       ]
     ],
     [
       [
-        [
-          "Thorndon Park Chapel"
-        ],
+        "Thorndon Park Chapel",
         [
           "/wiki/Thorndon_Park_Chapel"
         ]
       ],
       [
+        "Thorndon Park , Essex 51\u00b035\u203255\u2033N 0\u00b019\u203248\u2033E / 51.5987\u00b0N 0.3301\u00b0E / 51.5987 ; 0.3301 ( Thorndon Park Chapel )",
         [
-          "Thorndon Park",
-          "51\u00b035\u203255\u2033N 0\u00b019\u203248\u2033E / 51.5987\u00b0N 0.3301\u00b0E / 51.5987 ; 0.3301 ( Thorndon Park Chapel )"
-        ],
-        [
-          "/wiki/Thorndon_Hall",
-          null
+          "/wiki/Thorndon_Hall"
         ]
       ],
       [
-        [
-          "1850 c. 1850"
-        ],
-        [
-          null
-        ]
+        "1850 c. 1850",
+        []
       ],
       [
-        [
-          "Roman Catholic",
-          "chantry",
-          "mausoleum",
-          "Petre",
-          "Thorndon Hall",
-          "William Wardell",
-          "Decorated",
-          "reredos"
-        ],
+        "This was built as the private Roman Catholic chantry chapel and mausoleum for the Petre family in the grounds of Thorndon Hall . It was designed by William Wardell , and is in Decorated style . The interior has an elaborately decorated roof , including depictions of angels , and a richly carved reredos",
         [
           "/wiki/Catholic_church",
           "/wiki/Chantry",
@@ -618,192 +380,119 @@
         ]
       ],
       [
-        [
-          "II*"
-        ],
-        [
-          null
-        ]
+        "II*",
+        []
       ]
     ],
     [
       [
-        [
-          "Wainsgate Baptist Church"
-        ],
+        "Wainsgate Baptist Church",
         [
           "/wiki/Wainsgate_Baptist_Church"
         ]
       ],
       [
-        [
-          "Hebden Bridge",
-          "West Yorkshire",
-          "53\u00b045\u203220\u2033N 2\u00b000\u203215\u2033W / 53.7555\u00b0N 2.0041\u00b0W / 53.7555 ; -2.0041 ( Wainsgate Baptist Church )"
-        ],
+        "Hebden Bridge , West Yorkshire 53\u00b045\u203220\u2033N 2\u00b000\u203215\u2033W / 53.7555\u00b0N 2.0041\u00b0W / 53.7555 ; -2.0041 ( Wainsgate Baptist Church )",
         [
           "/wiki/Hebden_Bridge",
-          "/wiki/West_Yorkshire",
-          null
+          "/wiki/West_Yorkshire"
         ]
       ],
       [
-        [
-          "1859-60"
-        ],
-        [
-          null
-        ]
+        "1859-60",
+        []
       ],
       [
-        [
-          "manse"
-        ],
+        "The chapel stands in an elevated position overlooking Hebden Bridge . Attached to the rear of the chapel is the former manse , converted into a school in 1890 . The chapel closed in 2001 , and is now a venue for concerts and other events",
         [
           "/wiki/Manse"
         ]
       ],
       [
-        [
-          "II*"
-        ],
-        [
-          null
-        ]
+        "II*",
+        []
       ]
     ],
     [
       [
-        [
-          "Todmorden Unitarian Church"
-        ],
+        "Todmorden Unitarian Church",
         [
           "/wiki/Todmorden_Unitarian_Church"
         ]
       ],
       [
-        [
-          "Todmorden",
-          "West Yorkshire",
-          "53\u00b042\u203240\u2033N 2\u00b005\u203256\u2033W / 53.7111\u00b0N 2.0990\u00b0W / 53.7111 ; -2.0990 ( Todmorden Unitarian Church )"
-        ],
+        "Todmorden , West Yorkshire 53\u00b042\u203240\u2033N 2\u00b005\u203256\u2033W / 53.7111\u00b0N 2.0990\u00b0W / 53.7111 ; -2.0990 ( Todmorden Unitarian Church )",
         [
           "/wiki/Todmorden",
-          "/wiki/West_Yorkshire",
-          null
+          "/wiki/West_Yorkshire"
         ]
       ],
       [
-        [
-          "1865-69"
-        ],
-        [
-          null
-        ]
+        "1865-69",
+        []
       ],
       [
-        [
-          "John Gibson",
-          "Gothic"
-        ],
+        "The church was built by the Fielden family , local mill owners , and it is constructed using the best quality materials . It was designed by John Gibson in Gothic style with a large spire 196 feet ( 60 m ) high . Following a \u00a31 million programme of repairs , which included restoration of the surrounding landscape and burial ground , it is now used for occasional services , weddings and other events",
         [
           "/wiki/John_Gibson_(architect)",
           "/wiki/English_Gothic_architecture"
         ]
       ],
       [
-        [
-          "I"
-        ],
-        [
-          null
-        ]
+        "I",
+        []
       ]
     ],
     [
       [
-        [
-          "Westgate Methodist Chapel"
-        ],
+        "Westgate Methodist Chapel",
         [
           "/wiki/Westgate_Methodist_Chapel"
         ]
       ],
       [
-        [
-          "Bishop Auckland",
-          "County Durham",
-          "54\u00b044\u203214\u2033N 2\u00b008\u203254\u2033W / 54.7372\u00b0N 2.1482\u00b0W / 54.7372 ; -2.1482 ( Westgate Methodist Chapel )"
-        ],
+        "Bishop Auckland , County Durham 54\u00b044\u203214\u2033N 2\u00b008\u203254\u2033W / 54.7372\u00b0N 2.1482\u00b0W / 54.7372 ; -2.1482 ( Westgate Methodist Chapel )",
         [
           "/wiki/Bishop_Auckland",
-          "/wiki/County_Durham",
-          null
+          "/wiki/County_Durham"
         ]
       ],
       [
-        [
-          "1871"
-        ],
-        [
-          null
-        ]
+        "1871",
+        []
       ],
       [
-        [
-          "Primitive Methodists",
-          "Victorian"
-        ],
+        "Built for the Primitive Methodists , the chapel closed in 2007 . It retains its Victorian layout , complete with the original pews , gallery , windows , a magnificent organ , and much detailed decoration",
         [
           "/wiki/Primitive_Methodism",
           "/wiki/Victorian_era"
         ]
       ],
       [
-        [
-          "II*"
-        ],
-        [
-          null
-        ]
+        "II*",
+        []
       ]
     ],
     [
       [
-        [
-          "Umberslade Baptist Church"
-        ],
+        "Umberslade Baptist Church",
         [
           "/wiki/Umberslade_Baptist_Church"
         ]
       ],
       [
-        [
-          "Hockley Heath",
-          "West Midlands",
-          "52\u00b020\u203248\u2033N 1\u00b047\u203209\u2033W / 52.3467\u00b0N 1.7859\u00b0W / 52.3467 ; -1.7859 ( Umberslade Baptist Chapel )"
-        ],
+        "Hockley Heath , West Midlands 52\u00b020\u203248\u2033N 1\u00b047\u203209\u2033W / 52.3467\u00b0N 1.7859\u00b0W / 52.3467 ; -1.7859 ( Umberslade Baptist Chapel )",
         [
           "/wiki/Hockley_Heath",
-          "/wiki/West_Midlands_(region)",
-          null
+          "/wiki/West_Midlands_(region)"
         ]
       ],
       [
-        [
-          "1877"
-        ],
-        [
-          null
-        ]
+        "1877",
+        []
       ],
       [
-        [
-          "Baptist",
-          "Umberslade Hall",
-          "blue lias",
-          "Decorated"
-        ],
+        "George Ingall designed the church for the Baptist George Frederick Muntz , junior , of Umberslade Hall . It is constructed in blue lias stone in Decorated style with a spire , and has much elaborate detail . Repairs costing about \u00a3500,000 were completed in 2008",
         [
           "/wiki/Baptists",
           "/wiki/Umberslade_Hall",
@@ -812,93 +501,57 @@
         ]
       ],
       [
-        [
-          "II"
-        ],
-        [
-          null
-        ]
+        "II",
+        []
       ]
     ],
     [
       [
-        [
-          "Penrose Methodist Chapel"
-        ],
+        "Penrose Methodist Chapel",
         [
           "/wiki/Penrose_Methodist_Chapel"
         ]
       ],
       [
+        "St Ervan , Cornwall 50\u00b029\u203253\u2033N 4\u00b059\u203250\u2033W / 50.4980\u00b0N 4.9971\u00b0W / 50.4980 ; -4.9971 ( Penrose Methodist Chapel )",
         [
-          "St Ervan",
-          "50\u00b029\u203253\u2033N 4\u00b059\u203250\u2033W / 50.4980\u00b0N 4.9971\u00b0W / 50.4980 ; -4.9971 ( Penrose Methodist Chapel )"
-        ],
-        [
-          "/wiki/St_Ervan",
-          null
+          "/wiki/St_Ervan"
         ]
       ],
       [
-        [
-          "1861"
-        ],
-        [
-          null
-        ]
+        "1861",
+        []
       ],
       [
-        [
-          "box pews"
-        ],
+        "The chapel 's plan is a simple rectangle with a single storey . Its interior retains its original layout , with box pews , and benches in the area once occupied by the musicians and choir",
         [
           "/wiki/Box_pew"
         ]
       ],
       [
-        [
-          "II*"
-        ],
-        [
-          null
-        ]
+        "II*",
+        []
       ]
     ],
     [
       [
-        [
-          "Longworth Roman Catholic Chapel"
-        ],
+        "Longworth Roman Catholic Chapel",
         [
           "/wiki/Longworth_Roman_Catholic_Chapel"
         ]
       ],
       [
+        "Bartestree , Herefordshire 52\u00b003\u203243\u2033N 2\u00b037\u203251\u2033W / 52.0620\u00b0N 2.6308\u00b0W / 52.0620 ; -2.6308 ( Longworth RC Chapel )",
         [
-          "Bartestree",
-          "52\u00b003\u203243\u2033N 2\u00b037\u203251\u2033W / 52.0620\u00b0N 2.6308\u00b0W / 52.0620 ; -2.6308 ( Longworth RC Chapel )"
-        ],
-        [
-          "/wiki/Bartestree",
-          null
+          "/wiki/Bartestree"
         ]
       ],
       [
-        [
-          "1869-70"
-        ],
-        [
-          null
-        ]
+        "1869-70",
+        []
       ],
       [
-        [
-          "medieval",
-          "manor house",
-          "Reformation",
-          "convent",
-          "E. W. Pugin"
-        ],
+        "Originally the medieval chapel to the manor house at Old Longworth , it was used for agricultural purposes after the Reformation . The chapel was restored in 1851 , then moved to a site adjacent to convent at Bartestree in 1869-70 . It is probable that the move and rebuilding were supervised by E. W. Pugin",
         [
           "/wiki/Middle_Ages",
           "/wiki/Manor_house",
@@ -908,47 +561,29 @@
         ]
       ],
       [
-        [
-          "II*"
-        ],
-        [
-          null
-        ]
+        "II*",
+        []
       ]
     ],
     [
       [
-        [
-          "Wallasey Memorial Unitarian Church"
-        ],
+        "Wallasey Memorial Unitarian Church",
         [
           "/wiki/Wallasey_Memorial_Unitarian_Church"
         ]
       ],
       [
+        "Wallasey , Merseyside 53\u00b025\u203218\u2033N 3\u00b002\u203228\u2033W / 53.4216\u00b0N 3.0410\u00b0W / 53.4216 ; -3.0410 ( Wallasey Memorial Unitarian Church )",
         [
-          "Wallasey",
-          "53\u00b025\u203218\u2033N 3\u00b002\u203228\u2033W / 53.4216\u00b0N 3.0410\u00b0W / 53.4216 ; -3.0410 ( Wallasey Memorial Unitarian Church )"
-        ],
-        [
-          "/wiki/Wallasey",
-          null
+          "/wiki/Wallasey"
         ]
       ],
       [
-        [
-          "1899"
-        ],
-        [
-          null
-        ]
+        "1899",
+        []
       ],
       [
-        [
-          "Arts and Crafts",
-          "Art Nouveau",
-          "Bromsgrove Guild"
-        ],
+        "Designed by Edmund Waring and Edmund Rathbone in Arts and Crafts style , the church is constructed in brick with stone dressings . Many of the internal fittings were designed by Art Nouveau craftsmen from the Bromsgrove Guild",
         [
           "/wiki/Arts_and_Crafts_Movement",
           "/wiki/Art_Nouveau",
@@ -956,49 +591,29 @@
         ]
       ],
       [
-        [
-          "II*"
-        ],
-        [
-          null
-        ]
+        "II*",
+        []
       ]
     ],
     [
       [
-        [
-          "Shrine of Our Lady of Lourdes"
-        ],
+        "Shrine of Our Lady of Lourdes",
         [
           "/wiki/Shrine_of_Our_Lady_of_Lourdes,_Blackpool"
         ]
       ],
       [
+        "Blackpool , Lancashire 53\u00b049\u203222\u2033N 3\u00b000\u203259\u2033W / 53.8229\u00b0N 3.0165\u00b0W / 53.8229 ; -3.0165 ( Shrine of Our Lady of Lourdes )",
         [
-          "Blackpool",
-          "53\u00b049\u203222\u2033N 3\u00b000\u203259\u2033W / 53.8229\u00b0N 3.0165\u00b0W / 53.8229 ; -3.0165 ( Shrine of Our Lady of Lourdes )"
-        ],
-        [
-          "/wiki/Blackpool",
-          null
+          "/wiki/Blackpool"
         ]
       ],
       [
-        [
-          "1955-57"
-        ],
-        [
-          null
-        ]
+        "1955-57",
+        []
       ],
       [
-        [
-          "shrine",
-          "Roman Catholic Diocese of Lancaster",
-          "Francis Xavier Verlarde",
-          "Portland stone",
-          "fl\u00e8che"
-        ],
+        "The shrine was built as a thanksgiving for the relatively small amount of damage sustained by the Roman Catholic Diocese of Lancaster during the Second World War . It was designed by Francis Xavier Verlarde and is constructed in Portland stone with copper cladding to its roof and fl\u00e8che . As of 2010 the shrine is being converted into a community centre",
         [
           "/wiki/Shrine",
           "/wiki/Roman_Catholic_Diocese_of_Lancaster",
@@ -1008,12 +623,8 @@
         ]
       ],
       [
-        [
-          "II*"
-        ],
-        [
-          null
-        ]
+        "II*",
+        []
       ]
     ]
   ],

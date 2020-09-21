@@ -3,445 +3,299 @@
   "title": "2012 Damallsvenskan",
   "header": [
     [
-      [
-        "Team"
-      ],
-      [
-        null
-      ]
+      "Team",
+      []
     ],
     [
-      [
-        "Location"
-      ],
-      [
-        null
-      ]
+      "Location",
+      []
     ],
     [
-      [
-        "Stadium"
-      ],
-      [
-        null
-      ]
+      "Stadium",
+      []
     ],
     [
-      [
-        "Stadium capacity"
-      ],
-      [
-        null
-      ]
+      "Stadium capacity",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "AIK"
-        ],
+        "AIK",
         [
           "/wiki/AIK_Fotboll_Dam"
         ]
       ],
       [
-        [
-          "Stockholm"
-        ],
+        "Stockholm",
         [
           "/wiki/Stockholm"
         ]
       ],
       [
-        [
-          "Skytteholms IP"
-        ],
+        "Skytteholms IP",
         [
           "/wiki/Skytteholms_IP"
         ]
       ],
       [
-        [
-          "3,000"
-        ],
-        [
-          null
-        ]
+        "3,000",
+        []
       ]
     ],
     [
       [
-        [
-          "Djurg\u00e5rdens IF"
-        ],
+        "Djurg\u00e5rdens IF",
         [
           "/wiki/Djurg\u00e5rdens_IF_Dam"
         ]
       ],
       [
-        [
-          "Stockholm"
-        ],
-        [
-          null
-        ]
+        "Stockholm",
+        []
       ],
       [
-        [
-          "Kristinebergs IP"
-        ],
-        [
-          null
-        ]
+        "Kristinebergs IP",
+        []
       ],
       [
-        [
-          "930"
-        ],
-        [
-          null
-        ]
+        "930",
+        []
       ]
     ],
     [
       [
-        [
-          "Kopparbergs/G\u00f6teborg FC"
-        ],
+        "Kopparbergs/G\u00f6teborg FC",
         [
           "/wiki/Kopparbergs/G\u00f6teborg_FC"
         ]
       ],
       [
-        [
-          "Gothenburg"
-        ],
+        "Gothenburg",
         [
           "/wiki/Gothenburg"
         ]
       ],
       [
-        [
-          "Valhalla IP"
-        ],
+        "Valhalla IP",
         [
           "/wiki/Valhalla_IP"
         ]
       ],
       [
-        [
-          "3,000"
-        ],
-        [
-          null
-        ]
+        "3,000",
+        []
       ]
     ],
     [
       [
-        [
-          "Jitex BK"
-        ],
+        "Jitex BK",
         [
           "/wiki/Jitex_BK"
         ]
       ],
       [
-        [
-          "M\u00f6lndal"
-        ],
+        "M\u00f6lndal",
         [
           "/wiki/M\u00f6lndal"
         ]
       ],
       [
-        [
-          "\u00c5byvallen"
-        ],
-        [
-          null
-        ]
+        "\u00c5byvallen",
+        []
       ],
       [
-        [
-          "2,000"
-        ],
-        [
-          null
-        ]
+        "2,000",
+        []
       ]
     ],
     [
       [
-        [
-          "Kristianstads DFF"
-        ],
+        "Kristianstads DFF",
         [
           "/wiki/Kristianstads_DFF"
         ]
       ],
       [
-        [
-          "Kristianstad"
-        ],
+        "Kristianstad",
         [
           "/wiki/Kristianstad"
         ]
       ],
       [
-        [
-          "Vilans IP"
-        ],
-        [
-          null
-        ]
+        "Vilans IP",
+        []
       ],
       [
-        [
-          "5,000"
-        ],
-        [
-          null
-        ]
+        "5,000",
+        []
       ]
     ],
     [
       [
-        [
-          "Link\u00f6pings FC"
-        ],
+        "Link\u00f6pings FC",
         [
           "/wiki/Link\u00f6pings_FC"
         ]
       ],
       [
-        [
-          "Link\u00f6ping"
-        ],
+        "Link\u00f6ping",
         [
           "/wiki/Link\u00f6ping"
         ]
       ],
       [
-        [
-          "Folkungavallen"
-        ],
+        "Folkungavallen",
         [
           "/wiki/Folkungavallen"
         ]
       ],
       [
-        [
-          "8,000"
-        ],
-        [
-          null
-        ]
+        "8,000",
+        []
       ]
     ],
     [
       [
-        [
-          "LdB FC Malm\u00f6"
-        ],
+        "LdB FC Malm\u00f6",
         [
           "/wiki/FC_Roseng\u00e5rd"
         ]
       ],
       [
-        [
-          "Malm\u00f6"
-        ],
+        "Malm\u00f6",
         [
           "/wiki/Malm\u00f6"
         ]
       ],
       [
-        [
-          "Malm\u00f6 IP"
-        ],
+        "Malm\u00f6 IP",
         [
           "/wiki/Malm\u00f6_IP"
         ]
       ],
       [
-        [
-          "6,800"
-        ],
-        [
-          null
-        ]
+        "6,800",
+        []
       ]
     ],
     [
       [
-        [
-          "Pite\u00e5 IF"
-        ],
+        "Pite\u00e5 IF",
         [
           "/wiki/Pite\u00e5_IF"
         ]
       ],
       [
-        [
-          "Pite\u00e5"
-        ],
+        "Pite\u00e5",
         [
           "/wiki/Pite\u00e5"
         ]
       ],
       [
-        [
-          "LF Arena"
-        ],
+        "LF Arena",
         [
           "/wiki/LF_Arena"
         ]
       ],
       [
-        [
-          "3,000"
-        ],
-        [
-          null
-        ]
+        "3,000",
+        []
       ]
     ],
     [
       [
-        [
-          "Tyres\u00f6 FF"
-        ],
+        "Tyres\u00f6 FF",
         [
           "/wiki/Tyres\u00f6_FF"
         ]
       ],
       [
-        [
-          "Tyres\u00f6"
-        ],
+        "Tyres\u00f6",
         [
           "/wiki/Tyres\u00f6_Municipality"
         ]
       ],
       [
-        [
-          "Tyres\u00f6vallen"
-        ],
+        "Tyres\u00f6vallen",
         [
           "/wiki/Tyres\u00f6vallen"
         ]
       ],
       [
-        [
-          "3,500"
-        ],
-        [
-          null
-        ]
+        "3,500",
+        []
       ]
     ],
     [
       [
-        [
-          "Ume\u00e5 IK"
-        ],
+        "Ume\u00e5 IK",
         [
           "/wiki/Ume\u00e5_IK"
         ]
       ],
       [
-        [
-          "Ume\u00e5"
-        ],
+        "Ume\u00e5",
         [
           "/wiki/Ume\u00e5"
         ]
       ],
       [
-        [
-          "T3 Arena"
-        ],
+        "T3 Arena",
         [
           "/wiki/T3_Arena"
         ]
       ],
       [
-        [
-          "8,000"
-        ],
-        [
-          null
-        ]
+        "8,000",
+        []
       ]
     ],
     [
       [
-        [
-          "Vittsj\u00f6 GIK"
-        ],
+        "Vittsj\u00f6 GIK",
         [
           "/wiki/Vittsj\u00f6_GIK"
         ]
       ],
       [
-        [
-          "Vittsj\u00f6"
-        ],
+        "Vittsj\u00f6",
         [
           "/wiki/Vittsj\u00f6"
         ]
       ],
       [
-        [
-          "Vittsj\u00f6 IP"
-        ],
-        [
-          null
-        ]
+        "Vittsj\u00f6 IP",
+        []
       ],
       [
-        [
-          "1,500"
-        ],
-        [
-          null
-        ]
+        "1,500",
+        []
       ]
     ],
     [
       [
-        [
-          "KIF \u00d6rebro DFF"
-        ],
+        "KIF \u00d6rebro DFF",
         [
           "/wiki/KIF_\u00d6rebro_DFF"
         ]
       ],
       [
-        [
-          "\u00d6rebro"
-        ],
+        "\u00d6rebro",
         [
           "/wiki/\u00d6rebro"
         ]
       ],
       [
-        [
-          "Behrn Arena"
-        ],
+        "Behrn Arena",
         [
           "/wiki/Behrn_Arena"
         ]
       ],
       [
-        [
-          "13,500"
-        ],
-        [
-          null
-        ]
+        "13,500",
+        []
       ]
     ]
   ],

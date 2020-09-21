@@ -3,71 +3,43 @@
   "title": "Riverview Gold Cup",
   "header": [
     [
-      [
-        "Year"
-      ],
-      [
-        null
-      ]
+      "Year",
+      []
     ],
     [
-      [
-        "1st"
-      ],
-      [
-        null
-      ]
+      "1st",
+      []
     ],
     [
-      [
-        "2nd"
-      ],
-      [
-        null
-      ]
+      "2nd",
+      []
     ],
     [
-      [
-        "3rd"
-      ],
-      [
-        null
-      ]
+      "3rd",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "1999"
-        ],
-        [
-          null
-        ]
+        "1999",
+        []
       ],
       [
-        [
-          "Sydney RC"
-        ],
+        "Sydney RC",
         [
           "/wiki/Sydney_Rowing_Club"
         ]
       ],
       [
-        [
-          "Drummoyne",
-          "Mosman"
-        ],
+        "Drummoyne / Mosman",
         [
           "/wiki/Drummoyne_Rowing_Club",
           "/wiki/Mosman_Rowing_Club"
         ]
       ],
       [
-        [
-          "SUBC",
-          "Drummoyne"
-        ],
+        "SUBC / Drummoyne",
         [
           "/wiki/Sydney_University_Boat_Club",
           "/wiki/Drummoyne_Rowing_Club"
@@ -76,33 +48,23 @@
     ],
     [
       [
-        [
-          "2000"
-        ],
-        [
-          null
-        ]
+        "2000",
+        []
       ],
       [
-        [
-          "Drummoyne"
-        ],
+        "Drummoyne",
         [
           "/wiki/Drummoyne_Rowing_Club"
         ]
       ],
       [
-        [
-          "Sydney RC"
-        ],
+        "Sydney RC",
         [
           "/wiki/Sydney_Rowing_Club"
         ]
       ],
       [
-        [
-          "SUBC"
-        ],
+        "SUBC",
         [
           "/wiki/Sydney_University_Boat_Club"
         ]
@@ -110,33 +72,23 @@
     ],
     [
       [
-        [
-          "2001"
-        ],
-        [
-          null
-        ]
+        "2001",
+        []
       ],
       [
-        [
-          "King 's"
-        ],
+        "King 's",
         [
           "/wiki/The_King's_School,_Sydney"
         ]
       ],
       [
-        [
-          "Grammar"
-        ],
+        "Grammar",
         [
           "/wiki/Sydney_Grammar_School"
         ]
       ],
       [
-        [
-          "Sydney RC"
-        ],
+        "Sydney RC",
         [
           "/wiki/Sydney_Rowing_Club"
         ]
@@ -144,33 +96,23 @@
     ],
     [
       [
-        [
-          "2002"
-        ],
-        [
-          null
-        ]
+        "2002",
+        []
       ],
       [
-        [
-          "UTS Haberfield"
-        ],
+        "UTS Haberfield",
         [
           "/wiki/UTS_Haberfield_Rowing_Club"
         ]
       ],
       [
-        [
-          "St Ignatius '"
-        ],
+        "St Ignatius '",
         [
           "/wiki/Saint_Ignatius'_College,_Riverview"
         ]
       ],
       [
-        [
-          "Drummoyne"
-        ],
+        "Drummoyne",
         [
           "/wiki/Drummoyne_Rowing_Club"
         ]
@@ -178,35 +120,24 @@
     ],
     [
       [
-        [
-          "2003"
-        ],
-        [
-          null
-        ]
+        "2003",
+        []
       ],
       [
-        [
-          "SUBC",
-          "Drummoyne"
-        ],
+        "SUBC / Drummoyne",
         [
           "/wiki/Sydney_University_Boat_Club",
           "/wiki/Drummoyne_Rowing_Club"
         ]
       ],
       [
-        [
-          "St Ignatius '"
-        ],
+        "St Ignatius '",
         [
           "/wiki/Saint_Ignatius'_College,_Riverview"
         ]
       ],
       [
-        [
-          "Shore"
-        ],
+        "Shore",
         [
           "/wiki/Sydney_Church_of_England_Grammar_School"
         ]
@@ -214,33 +145,23 @@
     ],
     [
       [
-        [
-          "2004"
-        ],
-        [
-          null
-        ]
+        "2004",
+        []
       ],
       [
-        [
-          "Shore"
-        ],
+        "Shore",
         [
           "/wiki/Sydney_Church_of_England_Grammar_School"
         ]
       ],
       [
-        [
-          "SUBC"
-        ],
+        "SUBC",
         [
           "/wiki/Sydney_University_Boat_Club"
         ]
       ],
       [
-        [
-          "Drummoyne"
-        ],
+        "Drummoyne",
         [
           "/wiki/Drummoyne_Rowing_Club"
         ]
@@ -248,33 +169,23 @@
     ],
     [
       [
-        [
-          "2005"
-        ],
-        [
-          null
-        ]
+        "2005",
+        []
       ],
       [
-        [
-          "SUBC"
-        ],
+        "SUBC",
         [
           "/wiki/Sydney_University_Boat_Club"
         ]
       ],
       [
-        [
-          "King 's"
-        ],
+        "King 's",
         [
           "/wiki/The_King's_School,_Sydney"
         ]
       ],
       [
-        [
-          "Sydney Boys High"
-        ],
+        "Sydney Boys High",
         [
           "/wiki/Sydney_Boys_High_School"
         ]
@@ -282,19 +193,11 @@
     ],
     [
       [
-        [
-          "2006"
-        ],
-        [
-          null
-        ]
+        "2006",
+        []
       ],
       [
-        [
-          "SUBC",
-          "Mosman",
-          "UTS"
-        ],
+        "SUBC / Mosman / UTS",
         [
           "/wiki/Sydney_University_Boat_Club",
           "/wiki/Mosman_Rowing_Club",
@@ -302,17 +205,13 @@
         ]
       ],
       [
-        [
-          "Shore"
-        ],
+        "Shore",
         [
           "/wiki/Sydney_Church_of_England_Grammar_School"
         ]
       ],
       [
-        [
-          "Grammar"
-        ],
+        "Grammar",
         [
           "/wiki/Sydney_Grammar_School"
         ]
@@ -320,33 +219,23 @@
     ],
     [
       [
-        [
-          "2007"
-        ],
-        [
-          null
-        ]
+        "2007",
+        []
       ],
       [
-        [
-          "SUBC"
-        ],
+        "SUBC",
         [
           "/wiki/Sydney_University_Boat_Club"
         ]
       ],
       [
-        [
-          "King 's"
-        ],
+        "King 's",
         [
           "/wiki/The_King's_School,_Sydney"
         ]
       ],
       [
-        [
-          "Shore"
-        ],
+        "Shore",
         [
           "/wiki/Sydney_Church_of_England_Grammar_School"
         ]
@@ -354,33 +243,23 @@
     ],
     [
       [
-        [
-          "2008"
-        ],
-        [
-          null
-        ]
+        "2008",
+        []
       ],
       [
-        [
-          "Sydney RC"
-        ],
+        "Sydney RC",
         [
           "/wiki/Sydney_Rowing_Club"
         ]
       ],
       [
-        [
-          "Shore"
-        ],
+        "Shore",
         [
           "/wiki/Sydney_Church_of_England_Grammar_School"
         ]
       ],
       [
-        [
-          "St Joseph 's"
-        ],
+        "St Joseph 's",
         [
           "/wiki/St._Joseph's_College,_Hunters_Hill"
         ]
@@ -388,33 +267,23 @@
     ],
     [
       [
-        [
-          "2009"
-        ],
-        [
-          null
-        ]
+        "2009",
+        []
       ],
       [
-        [
-          "SUBC"
-        ],
+        "SUBC",
         [
           "/wiki/Sydney_University_Boat_Club"
         ]
       ],
       [
-        [
-          "Shore"
-        ],
+        "Shore",
         [
           "/wiki/Sydney_Church_of_England_Grammar_School"
         ]
       ],
       [
-        [
-          "St Joseph 's"
-        ],
+        "St Joseph 's",
         [
           "/wiki/St._Joseph's_College,_Hunters_Hill"
         ]
@@ -422,33 +291,23 @@
     ],
     [
       [
-        [
-          "2011"
-        ],
-        [
-          null
-        ]
+        "2011",
+        []
       ],
       [
-        [
-          "SUBC"
-        ],
+        "SUBC",
         [
           "/wiki/Sydney_University_Boat_Club"
         ]
       ],
       [
-        [
-          "Sydney RC"
-        ],
+        "Sydney RC",
         [
           "/wiki/Sydney_Rowing_Club"
         ]
       ],
       [
-        [
-          "King 's"
-        ],
+        "King 's",
         [
           "/wiki/The_King's_School,_Sydney"
         ]
@@ -456,33 +315,23 @@
     ],
     [
       [
-        [
-          "2016"
-        ],
-        [
-          null
-        ]
+        "2016",
+        []
       ],
       [
-        [
-          "Sydney RC"
-        ],
+        "Sydney RC",
         [
           "/wiki/Sydney_Rowing_Club"
         ]
       ],
       [
-        [
-          "SUBC"
-        ],
+        "SUBC",
         [
           "/wiki/Sydney_University_Boat_Club"
         ]
       ],
       [
-        [
-          "UTS Haberfield"
-        ],
+        "UTS Haberfield",
         [
           "/wiki/UTS_Haberfield_Rowing_Club"
         ]
@@ -490,70 +339,42 @@
     ],
     [
       [
-        [
-          "2017"
-        ],
-        [
-          null
-        ]
+        "2017",
+        []
       ],
       [
-        [
-          "Sydney Rowing Club"
-        ],
-        [
-          null
-        ]
+        "Sydney Rowing Club",
+        []
       ],
       [
-        [
-          "Sydney University Boat Club"
-        ],
-        [
-          null
-        ]
+        "Sydney University Boat Club",
+        []
       ],
       [
-        [
-          "UTS Rowing Club"
-        ],
-        [
-          null
-        ]
+        "UTS Rowing Club",
+        []
       ]
     ],
     [
       [
-        [
-          "2018"
-        ],
-        [
-          null
-        ]
+        "2018",
+        []
       ],
       [
-        [
-          "SUBC"
-        ],
+        "SUBC",
         [
           "/wiki/Sydney_University_Boat_Club"
         ]
       ],
       [
-        [
-          "Sydney RC"
-        ],
+        "Sydney RC",
         [
           "/wiki/Sydney_Rowing_Club"
         ]
       ],
       [
-        [
-          "scratched"
-        ],
-        [
-          null
-        ]
+        "scratched",
+        []
       ]
     ]
   ],

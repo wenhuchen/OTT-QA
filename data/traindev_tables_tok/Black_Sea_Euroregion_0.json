@@ -3,52 +3,32 @@
   "title": "Black Sea Euroregion",
   "header": [
     [
-      [
-        "City"
-      ],
-      [
-        null
-      ]
+      "City",
+      []
     ],
     [
-      [
-        "Population"
-      ],
-      [
-        null
-      ]
+      "Population",
+      []
     ],
     [
-      [
-        "Country"
-      ],
-      [
-        null
-      ]
+      "Country",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Varna"
-        ],
+        "Varna",
         [
           "/wiki/Varna"
         ]
       ],
       [
-        [
-          "343,486"
-        ],
-        [
-          null
-        ]
+        "343,486",
+        []
       ],
       [
-        [
-          "Bulgaria"
-        ],
+        "Bulgaria",
         [
           "/wiki/Bulgaria"
         ]
@@ -56,25 +36,17 @@
     ],
     [
       [
-        [
-          "Constan\u0163a"
-        ],
+        "Constan\u0163a",
         [
           "/wiki/Constan\u0163a"
         ]
       ],
       [
-        [
-          "310,471"
-        ],
-        [
-          null
-        ]
+        "310,471",
+        []
       ],
       [
-        [
-          "Romania"
-        ],
+        "Romania",
         [
           "/wiki/Romania"
         ]
@@ -82,25 +54,17 @@
     ],
     [
       [
-        [
-          "Burgas"
-        ],
+        "Burgas",
         [
           "/wiki/Burgas"
         ]
       ],
       [
-        [
-          "200.264"
-        ],
-        [
-          null
-        ]
+        "200.264",
+        []
       ],
       [
-        [
-          "Bulgaria"
-        ],
+        "Bulgaria",
         [
           "/wiki/Bulgaria"
         ]
@@ -108,25 +72,17 @@
     ],
     [
       [
-        [
-          "Tulcea"
-        ],
+        "Tulcea",
         [
           "/wiki/Tulcea"
         ]
       ],
       [
-        [
-          "92,379"
-        ],
-        [
-          null
-        ]
+        "92,379",
+        []
       ],
       [
-        [
-          "Romania"
-        ],
+        "Romania",
         [
           "/wiki/Romania"
         ]
@@ -134,25 +90,17 @@
     ],
     [
       [
-        [
-          "Dobrich"
-        ],
+        "Dobrich",
         [
           "/wiki/Dobrich"
         ]
       ],
       [
-        [
-          "89,472"
-        ],
-        [
-          null
-        ]
+        "89,472",
+        []
       ],
       [
-        [
-          "Bulgaria"
-        ],
+        "Bulgaria",
         [
           "/wiki/Bulgaria"
         ]
@@ -160,25 +108,17 @@
     ],
     [
       [
-        [
-          "Medgidia"
-        ],
+        "Medgidia",
         [
           "/wiki/Medgidia"
         ]
       ],
       [
-        [
-          "44,850"
-        ],
-        [
-          null
-        ]
+        "44,850",
+        []
       ],
       [
-        [
-          "Romania"
-        ],
+        "Romania",
         [
           "/wiki/Romania"
         ]
@@ -186,25 +126,17 @@
     ],
     [
       [
-        [
-          "Mangalia"
-        ],
+        "Mangalia",
         [
           "/wiki/Mangalia"
         ]
       ],
       [
-        [
-          "41,153"
-        ],
-        [
-          null
-        ]
+        "41,153",
+        []
       ],
       [
-        [
-          "Romania"
-        ],
+        "Romania",
         [
           "/wiki/Romania"
         ]
@@ -212,25 +144,17 @@
     ],
     [
       [
-        [
-          "N\u0103vodari"
-        ],
+        "N\u0103vodari",
         [
           "/wiki/N\u0103vodari"
         ]
       ],
       [
-        [
-          "34,669"
-        ],
-        [
-          null
-        ]
+        "34,669",
+        []
       ],
       [
-        [
-          "Romania"
-        ],
+        "Romania",
         [
           "/wiki/Romania"
         ]
@@ -238,25 +162,17 @@
     ],
     [
       [
-        [
-          "Cernavod\u0103"
-        ],
+        "Cernavod\u0103",
         [
           "/wiki/Cernavod\u0103"
         ]
       ],
       [
-        [
-          "19,890"
-        ],
-        [
-          null
-        ]
+        "19,890",
+        []
       ],
       [
-        [
-          "Romania"
-        ],
+        "Romania",
         [
           "/wiki/Romania"
         ]
@@ -264,25 +180,17 @@
     ],
     [
       [
-        [
-          "Aitos"
-        ],
+        "Aitos",
         [
           "/wiki/Aitos"
         ]
       ],
       [
-        [
-          "19,537"
-        ],
-        [
-          null
-        ]
+        "19,537",
+        []
       ],
       [
-        [
-          "Bulgaria"
-        ],
+        "Bulgaria",
         [
           "/wiki/Bulgaria"
         ]
@@ -290,25 +198,17 @@
     ],
     [
       [
-        [
-          "Karnobat"
-        ],
+        "Karnobat",
         [
           "/wiki/Karnobat"
         ]
       ],
       [
-        [
-          "18,394"
-        ],
-        [
-          null
-        ]
+        "18,394",
+        []
       ],
       [
-        [
-          "Bulgaria"
-        ],
+        "Bulgaria",
         [
           "/wiki/Bulgaria"
         ]
@@ -316,25 +216,17 @@
     ],
     [
       [
-        [
-          "Pomorie"
-        ],
+        "Pomorie",
         [
           "/wiki/Pomorie"
         ]
       ],
       [
-        [
-          "14,170"
-        ],
-        [
-          null
-        ]
+        "14,170",
+        []
       ],
       [
-        [
-          "Bulgaria"
-        ],
+        "Bulgaria",
         [
           "/wiki/Bulgaria"
         ]
@@ -342,25 +234,17 @@
     ],
     [
       [
-        [
-          "Ovidiu"
-        ],
+        "Ovidiu",
         [
           "/wiki/Ovidiu"
         ]
       ],
       [
-        [
-          "13,458"
-        ],
-        [
-          null
-        ]
+        "13,458",
+        []
       ],
       [
-        [
-          "Romania"
-        ],
+        "Romania",
         [
           "/wiki/Romania"
         ]
@@ -368,25 +252,17 @@
     ],
     [
       [
-        [
-          "Nesebar"
-        ],
+        "Nesebar",
         [
           "/wiki/Nesebar"
         ]
       ],
       [
-        [
-          "13,347"
-        ],
-        [
-          null
-        ]
+        "13,347",
+        []
       ],
       [
-        [
-          "Bulgaria"
-        ],
+        "Bulgaria",
         [
           "/wiki/Bulgaria"
         ]
@@ -394,25 +270,17 @@
     ],
     [
       [
-        [
-          "Provadiya"
-        ],
+        "Provadiya",
         [
           "/wiki/Provadiya"
         ]
       ],
       [
-        [
-          "13,090"
-        ],
-        [
-          null
-        ]
+        "13,090",
+        []
       ],
       [
-        [
-          "Bulgaria"
-        ],
+        "Bulgaria",
         [
           "/wiki/Bulgaria"
         ]
@@ -420,25 +288,17 @@
     ],
     [
       [
-        [
-          "Kavarna"
-        ],
+        "Kavarna",
         [
           "/wiki/Kavarna"
         ]
       ],
       [
-        [
-          "11,368"
-        ],
-        [
-          null
-        ]
+        "11,368",
+        []
       ],
       [
-        [
-          "Bulgaria"
-        ],
+        "Bulgaria",
         [
           "/wiki/Bulgaria"
         ]
@@ -446,25 +306,17 @@
     ],
     [
       [
-        [
-          "Balchik"
-        ],
+        "Balchik",
         [
           "/wiki/Balchik"
         ]
       ],
       [
-        [
-          "11,321"
-        ],
-        [
-          null
-        ]
+        "11,321",
+        []
       ],
       [
-        [
-          "Bulgaria"
-        ],
+        "Bulgaria",
         [
           "/wiki/Bulgaria"
         ]
@@ -472,25 +324,17 @@
     ],
     [
       [
-        [
-          "H\u00e2r\u015fova"
-        ],
+        "H\u00e2r\u015fova",
         [
           "/wiki/H\u00e2r\u015fova"
         ]
       ],
       [
-        [
-          "11,198"
-        ],
-        [
-          null
-        ]
+        "11,198",
+        []
       ],
       [
-        [
-          "Romania"
-        ],
+        "Romania",
         [
           "/wiki/Romania"
         ]
@@ -498,25 +342,17 @@
     ],
     [
       [
-        [
-          "Murfatlar"
-        ],
+        "Murfatlar",
         [
           "/wiki/Murfatlar"
         ]
       ],
       [
-        [
-          "10,857"
-        ],
-        [
-          null
-        ]
+        "10,857",
+        []
       ],
       [
-        [
-          "Romania"
-        ],
+        "Romania",
         [
           "/wiki/Romania"
         ]
@@ -524,25 +360,17 @@
     ],
     [
       [
-        [
-          "M\u0103cin"
-        ],
+        "M\u0103cin",
         [
           "/wiki/M\u0103cin"
         ]
       ],
       [
-        [
-          "10,625"
-        ],
-        [
-          null
-        ]
+        "10,625",
+        []
       ],
       [
-        [
-          "Romania"
-        ],
+        "Romania",
         [
           "/wiki/Romania"
         ]

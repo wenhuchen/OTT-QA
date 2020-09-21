@@ -3,70 +3,40 @@
   "title": "Premiership Rugby",
   "header": [
     [
-      [
-        "Rank"
-      ],
-      [
-        null
-      ]
+      "Rank",
+      []
     ],
     [
-      [
-        "Player"
-      ],
-      [
-        null
-      ]
+      "Player",
+      []
     ],
     [
-      [
-        "Club ( s )"
-      ],
-      [
-        null
-      ]
+      "Club ( s )",
+      []
     ],
     [
-      [
-        "Years"
-      ],
-      [
-        null
-      ]
+      "Years",
+      []
     ],
     [
-      [
-        "Tries"
-      ],
-      [
-        null
-      ]
+      "Tries",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "Tom Varndell"
-        ],
+        "Tom Varndell",
         [
           "/wiki/Tom_Varndell"
         ]
       ],
       [
-        [
-          "Leicester",
-          "Wasps",
-          "Bristol"
-        ],
+        "Leicester , Wasps , Bristol",
         [
           "/wiki/Leicester_Tigers",
           "/wiki/Wasps_RFC",
@@ -74,87 +44,53 @@
         ]
       ],
       [
-        [
-          "2004-2017"
-        ],
-        [
-          null
-        ]
+        "2004-2017",
+        []
       ],
       [
-        [
-          "92"
-        ],
-        [
-          null
-        ]
+        "92",
+        []
       ]
     ],
     [
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "Mark Cueto"
-        ],
+        "Mark Cueto",
         [
           "/wiki/Mark_Cueto"
         ]
       ],
       [
-        [
-          "Sale"
-        ],
+        "Sale",
         [
           "/wiki/Sale_Sharks"
         ]
       ],
       [
-        [
-          "2001-2015"
-        ],
-        [
-          null
-        ]
+        "2001-2015",
+        []
       ],
       [
-        [
-          "90"
-        ],
-        [
-          null
-        ]
+        "90",
+        []
       ]
     ],
     [
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "Chris Ashton"
-        ],
+        "Chris Ashton",
         [
           "/wiki/Chris_Ashton"
         ]
       ],
       [
-        [
-          "Northampton",
-          "Saracens",
-          "Sale"
-        ],
+        "Northampton , Saracens , Sale",
         [
           "/wiki/Northampton_Saints",
           "/wiki/Saracens_F.C.",
@@ -162,130 +98,79 @@
         ]
       ],
       [
-        [
-          "2008-"
-        ],
-        [
-          null
-        ]
+        "2008-",
+        []
       ],
       [
-        [
-          "85"
-        ],
-        [
-          null
-        ]
+        "85",
+        []
       ]
     ],
     [
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "Christian Wade"
-        ],
+        "Christian Wade",
         [
           "/wiki/Christian_Wade"
         ]
       ],
       [
-        [
-          "Wasps"
-        ],
+        "Wasps",
         [
           "/wiki/Wasps_RFC"
         ]
       ],
       [
-        [
-          "2011-2018"
-        ],
-        [
-          null
-        ]
+        "2011-2018",
+        []
       ],
       [
-        [
-          "82"
-        ],
-        [
-          null
-        ]
+        "82",
+        []
       ]
     ],
     [
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "Steve Hanley"
-        ],
+        "Steve Hanley",
         [
           "/wiki/Steve_Hanley_(rugby_union)"
         ]
       ],
       [
-        [
-          "Sale"
-        ],
+        "Sale",
         [
           "/wiki/Sale_Sharks"
         ]
       ],
       [
-        [
-          "1998-2007"
-        ],
-        [
-          null
-        ]
+        "1998-2007",
+        []
       ],
       [
-        [
-          "75"
-        ],
-        [
-          null
-        ]
+        "75",
+        []
       ]
     ],
     [
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "Paul Sackey"
-        ],
+        "Paul Sackey",
         [
           "/wiki/Paul_Sackey"
         ]
       ],
       [
-        [
-          "Bedford",
-          "London Irish",
-          "Wasps",
-          "Harlequins"
-        ],
+        "Bedford , London Irish , Wasps , Harlequins",
         [
           "/wiki/Bedford_Blues",
           "/wiki/London_Irish",
@@ -294,90 +179,54 @@
         ]
       ],
       [
-        [
-          "1999-2014"
-        ],
-        [
-          null
-        ]
+        "1999-2014",
+        []
       ],
       [
-        [
-          "69"
-        ],
-        [
-          null
-        ]
+        "69",
+        []
       ]
     ],
     [
       [
-        [
-          "7"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ],
       [
-        [
-          "Matt Banahan"
-        ],
+        "Matt Banahan",
         [
           "/wiki/Matt_Banahan"
         ]
       ],
       [
-        [
-          "Bath",
-          "Gloucester"
-        ],
+        "Bath , Gloucester",
         [
           "/wiki/Bath_Rugby",
           "/wiki/Gloucester_Rugby"
         ]
       ],
       [
-        [
-          "2007-"
-        ],
-        [
-          null
-        ]
+        "2007-",
+        []
       ],
       [
-        [
-          "68"
-        ],
-        [
-          null
-        ]
+        "68",
+        []
       ]
     ],
     [
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "Tom Voyce"
-        ],
+        "Tom Voyce",
         [
           "/wiki/Tom_Voyce"
         ]
       ],
       [
-        [
-          "Bath",
-          "Wasps",
-          "Gloucester",
-          "London Welsh"
-        ],
+        "Bath , Wasps , Gloucester , London Welsh",
         [
           "/wiki/Bath_Rugby",
           "/wiki/Wasps_RFC",
@@ -386,106 +235,65 @@
         ]
       ],
       [
-        [
-          "2000-2013"
-        ],
-        [
-          null
-        ]
+        "2000-2013",
+        []
       ],
       [
-        [
-          "66"
-        ],
-        [
-          null
-        ]
+        "66",
+        []
       ]
     ],
     [
       [
-        [
-          "9"
-        ],
-        [
-          null
-        ]
+        "9",
+        []
       ],
       [
-        [
-          "Jonny May"
-        ],
+        "Jonny May",
         [
           "/wiki/Jonny_May"
         ]
       ],
       [
-        [
-          "Gloucester",
-          "Leicester"
-        ],
+        "Gloucester , Leicester",
         [
           "/wiki/Gloucester_Rugby",
           "/wiki/Leicester_Tigers"
         ]
       ],
       [
-        [
-          "2010-"
-        ],
-        [
-          null
-        ]
+        "2010-",
+        []
       ],
       [
-        [
-          "65"
-        ],
-        [
-          null
-        ]
+        "65",
+        []
       ]
     ],
     [
       [
-        [
-          "10"
-        ],
-        [
-          null
-        ]
+        "10",
+        []
       ],
       [
-        [
-          "James Simpson-Daniel"
-        ],
+        "James Simpson-Daniel",
         [
           "/wiki/James_Simpson-Daniel"
         ]
       ],
       [
-        [
-          "Gloucester"
-        ],
+        "Gloucester",
         [
           "/wiki/Gloucester_Rugby"
         ]
       ],
       [
-        [
-          "2000-2013"
-        ],
-        [
-          null
-        ]
+        "2000-2013",
+        []
       ],
       [
-        [
-          "63"
-        ],
-        [
-          null
-        ]
+        "63",
+        []
       ]
     ]
   ],

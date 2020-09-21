@@ -3,172 +3,105 @@
   "title": "List of omics topics in biology",
   "header": [
     [
-      [
-        "-ome"
-      ],
-      [
-        null
-      ]
+      "-ome",
+      []
     ],
     [
-      [
-        "Field of study ( -omics )"
-      ],
-      [
-        null
-      ]
+      "Field of study ( -omics )",
+      []
     ],
     [
-      [
-        "Collection of"
-      ],
-      [
-        null
-      ]
+      "Collection of",
+      []
     ],
     [
-      [
-        "Parent subject"
-      ],
-      [
-        null
-      ]
+      "Parent subject",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Allergenome"
-        ],
-        [
-          null
-        ]
+        "Allergenome",
+        []
       ],
       [
-        [
-          "Allergenomics"
-        ],
-        [
-          null
-        ]
+        "Allergenomics",
+        []
       ],
       [
-        [
-          "Proteomics of allergens"
-        ],
-        [
-          null
-        ]
+        "Proteomics of allergens",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Bibliome"
-        ],
+        "Bibliome",
         [
           "/wiki/Bibliome"
         ]
       ],
       [
-        [
-          "Bibliomics"
-        ],
-        [
-          null
-        ]
+        "Bibliomics",
+        []
       ],
       [
-        [
-          "Scientific bibliographic data"
-        ],
-        [
-          null
-        ]
+        "Scientific bibliographic data",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Trialome"
-        ],
-        [
-          null
-        ]
+        "Trialome",
+        []
       ],
       [
-        [
-          "Medicine"
-        ],
+        "Medicine",
         [
           "/wiki/Medicine"
         ]
       ],
       [
-        [
-          "trials",
-          "clinical trial registries"
-        ],
+        "Human interventional trials data from clinical trial registries extended with trial results and links to resulting publications",
         [
           "/wiki/Clinical_trial",
           "/wiki/Clinical_trial_registry"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Connectome"
-        ],
+        "Connectome",
         [
           "/wiki/Connectome"
         ]
       ],
       [
-        [
-          "Connectomics"
-        ],
+        "Connectomics",
         [
           "/wiki/Connectomics"
         ]
       ],
       [
-        [
-          "brain"
-        ],
+        "Structural and functional brain connectivity at different spatiotemporal scales",
         [
           "/wiki/Brain"
         ]
       ],
       [
-        [
-          "Neuroscience"
-        ],
+        "Neuroscience",
         [
           "/wiki/Neuroscience"
         ]
@@ -176,35 +109,26 @@
     ],
     [
       [
-        [
-          "Cytome"
-        ],
+        "Cytome",
         [
           "/wiki/Cytome"
         ]
       ],
       [
-        [
-          "Cytomics"
-        ],
+        "Cytomics",
         [
           "/wiki/Cytomics"
         ]
       ],
       [
-        [
-          "Cellular",
-          "organism"
-        ],
+        "Cellular systems of an organism",
         [
           "/wiki/Cell_(biology)",
           "/wiki/Organism"
         ]
       ],
       [
-        [
-          "Cytology"
-        ],
+        "Cytology",
         [
           "/wiki/Cell_biology"
         ]
@@ -212,67 +136,43 @@
     ],
     [
       [
-        [
-          "Editome"
-        ],
-        [
-          null
-        ]
+        "Editome",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "RNA editing"
-        ],
+        "RNA editing sites",
         [
           "/wiki/RNA_editing"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Embryome"
-        ],
+        "Embryome",
         [
           "/wiki/Embryome"
         ]
       ],
       [
-        [
-          "Embryomics"
-        ],
+        "Embryomics",
         [
           "/wiki/Embryomics"
         ]
       ],
       [
-        [
-          "Cell lineages of embryonic cells , genes expressed and antigens present during development"
-        ],
-        [
-          null
-        ]
+        "Cell lineages of embryonic cells , genes expressed and antigens present during development",
+        []
       ],
       [
-        [
-          "Embryology"
-        ],
+        "Embryology",
         [
           "/wiki/Embryology"
         ]
@@ -280,67 +180,47 @@
     ],
     [
       [
-        [
-          "Envirome"
-        ],
+        "Envirome",
         [
           "/wiki/Envirome"
         ]
       ],
       [
-        [
-          "Enviromics"
-        ],
+        "Enviromics",
         [
           "/wiki/Enviromics"
         ]
       ],
       [
-        [
-          "Gene related environment factors ( envirome )"
-        ],
-        [
-          null
-        ]
+        "Gene related environment factors ( envirome )",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Epigenome"
-        ],
+        "Epigenome",
         [
           "/wiki/Epigenome"
         ]
       ],
       [
-        [
-          "Epigenomics"
-        ],
+        "Epigenomics",
         [
           "/wiki/Epigenomics"
         ]
       ],
       [
-        [
-          "Epigenetic modifications"
-        ],
+        "Epigenetic modifications",
         [
           "/wiki/Epigenetics"
         ]
       ],
       [
-        [
-          "Molecular genetics"
-        ],
+        "Molecular genetics",
         [
           "/wiki/Molecular_genetics"
         ]
@@ -348,35 +228,24 @@
     ],
     [
       [
-        [
-          "Exposome"
-        ],
+        "Exposome ( 2005 )",
         [
           "/wiki/Exposome"
         ]
       ],
       [
-        [
-          "Exposomics"
-        ],
-        [
-          null
-        ]
+        "Exposomics",
+        []
       ],
       [
-        [
-          "environmental exposures",
-          "prenatal"
-        ],
+        "An individual 's environmental exposures , including in the prenatal environment",
         [
           "/wiki/Gene-environment_correlation",
           "/wiki/Prenatal"
         ]
       ],
       [
-        [
-          "Molecular genetics"
-        ],
+        "Molecular genetics",
         [
           "/wiki/Molecular_genetics"
         ]
@@ -384,35 +253,23 @@
     ],
     [
       [
-        [
-          "Exposome"
-        ],
+        "Exposome ( 2009 )",
         [
           "/wiki/Exposome"
         ]
       ],
       [
+        "",
+        []
+      ],
+      [
+        "Composite occupational exposures and occupational health problems",
         [
-          ""
-        ],
-        [
-          null
+          "/wiki/Occupational_exposure"
         ]
       ],
       [
-        [
-          "occupational exposures",
-          "occupational health problems"
-        ],
-        [
-          "/wiki/Occupational_exposure",
-          null
-        ]
-      ],
-      [
-        [
-          "Occupational safety and health"
-        ],
+        "Occupational safety and health",
         [
           "/wiki/Occupational_safety_and_health"
         ]
@@ -420,33 +277,23 @@
     ],
     [
       [
-        [
-          "Exome"
-        ],
+        "Exome",
         [
           "/wiki/Exome"
         ]
       ],
       [
-        [
-          "Exomics"
-        ],
-        [
-          null
-        ]
+        "Exomics",
+        []
       ],
       [
-        [
-          "Exons"
-        ],
+        "Exons in a genome",
         [
           "/wiki/Exon"
         ]
       ],
       [
-        [
-          "Molecular Genetics"
-        ],
+        "Molecular Genetics",
         [
           "/wiki/Molecular_Genetics"
         ]
@@ -454,35 +301,26 @@
     ],
     [
       [
-        [
-          "Foodome"
-        ],
+        "Foodome",
         [
           "/wiki/Foodome"
         ]
       ],
       [
-        [
-          "Foodomics"
-        ],
+        "Foodomics",
         [
           "/wiki/Foodomics"
         ]
       ],
       [
-        [
-          "Food",
-          "Nutrition"
-        ],
+        "Food and Nutrition issues related to bioactivity , quality , safety and traceability of foods through the application and integration of advanced omics technologies to improve consumers well-being , health , and confidence",
         [
           "/wiki/Food",
           "/wiki/Nutrition"
         ]
       ],
       [
-        [
-          "Nutrition"
-        ],
+        "Nutrition",
         [
           "/wiki/Nutrition"
         ]
@@ -490,29 +328,20 @@
     ],
     [
       [
-        [
-          "Genome"
-        ],
+        "Genome",
         [
           "/wiki/Genome"
         ]
       ],
       [
-        [
-          "Genomics",
-          "Classical genetics"
-        ],
+        "Genomics ( Classical genetics )",
         [
           "/wiki/Genomics",
           "/wiki/Classical_genetics"
         ]
       ],
       [
-        [
-          "Genes",
-          "DNA sequences",
-          "Chromosomes"
-        ],
+        "Genes ( DNA sequences / Chromosomes )",
         [
           "/wiki/Gene",
           "/wiki/DNA_sequence",
@@ -520,9 +349,7 @@
         ]
       ],
       [
-        [
-          "Genetics"
-        ],
+        "Genetics",
         [
           "/wiki/Genetics"
         ]
@@ -530,33 +357,25 @@
     ],
     [
       [
-        [
-          "Glycome"
-        ],
+        "Glycome",
         [
           "/wiki/Glycome"
         ]
       ],
       [
-        [
-          "Glycomics"
-        ],
+        "Glycomics",
         [
           "/wiki/Glycomics"
         ]
       ],
       [
-        [
-          "Glycans"
-        ],
+        "Glycans",
         [
           "/wiki/Glycan"
         ]
       ],
       [
-        [
-          "Glycobiology"
-        ],
+        "Glycobiology",
         [
           "/wiki/Glycobiology"
         ]
@@ -564,33 +383,25 @@
     ],
     [
       [
-        [
-          "Hologenome"
-        ],
+        "Hologenome",
         [
           "/wiki/Hologenome_theory_of_evolution"
         ]
       ],
       [
-        [
-          "Hologenomics"
-        ],
+        "Hologenomics",
         [
           "/wiki/Hologenomics"
         ]
       ],
       [
-        [
-          "holobionts"
-        ],
+        "Genomes of community members ( i.e. , holobionts )",
         [
           "/wiki/Holobiont"
         ]
       ],
       [
-        [
-          "Metagenomics"
-        ],
+        "Metagenomics",
         [
           "/wiki/Metagenomics"
         ]
@@ -598,33 +409,25 @@
     ],
     [
       [
-        [
-          "Interferome"
-        ],
+        "Interferome",
         [
           "/wiki/Interferome"
         ]
       ],
       [
-        [
-          "Interferomics"
-        ],
+        "Interferomics",
         [
           "/wiki/Interferomics"
         ]
       ],
       [
-        [
-          "Interferons"
-        ],
+        "Interferons",
         [
           "/wiki/Interferon"
         ]
       ],
       [
-        [
-          "Immunology"
-        ],
+        "Immunology",
         [
           "/wiki/Immunology"
         ]
@@ -632,67 +435,43 @@
     ],
     [
       [
-        [
-          "Interactome"
-        ],
+        "Interactome",
         [
           "/wiki/Interactome"
         ]
       ],
       [
-        [
-          "Interactomics"
-        ],
+        "Interactomics",
         [
           "/wiki/Interactomics"
         ]
       ],
       [
-        [
-          "All interactions"
-        ],
-        [
-          null
-        ]
+        "All interactions",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Ionome"
-        ],
-        [
-          null
-        ]
+        "Ionome",
+        []
       ],
       [
-        [
-          "Ionomics"
-        ],
+        "Ionomics",
         [
           "/wiki/Ionomics"
         ]
       ],
       [
-        [
-          "Inorganic biomolecules"
-        ],
-        [
-          null
-        ]
+        "Inorganic biomolecules",
+        []
       ],
       [
-        [
-          "Molecular Biology"
-        ],
+        "Molecular Biology",
         [
           "/wiki/Molecular_Biology"
         ]
@@ -700,33 +479,23 @@
     ],
     [
       [
-        [
-          "Kinome"
-        ],
+        "Kinome",
         [
           "/wiki/Kinome"
         ]
       ],
       [
-        [
-          "Kinomics"
-        ],
-        [
-          null
-        ]
+        "Kinomics",
+        []
       ],
       [
-        [
-          "Kinases"
-        ],
+        "Kinases",
         [
           "/wiki/Kinase"
         ]
       ],
       [
-        [
-          "Molecular Biology"
-        ],
+        "Molecular Biology",
         [
           "/wiki/Molecular_Biology"
         ]

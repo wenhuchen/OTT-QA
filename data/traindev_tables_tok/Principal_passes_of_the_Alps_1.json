@@ -3,325 +3,203 @@
   "title": "Principal passes of the Alps",
   "header": [
     [
-      [
-        "name"
-      ],
-      [
-        null
-      ]
+      "name",
+      []
     ],
     [
-      [
-        "location"
-      ],
-      [
-        null
-      ]
+      "location",
+      []
     ],
     [
-      [
-        "countries"
-      ],
-      [
-        null
-      ]
+      "countries",
+      []
     ],
     [
-      [
-        "length ( km )"
-      ],
-      [
-        null
-      ]
+      "length ( km )",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Col de Tende Road Tunnel"
-        ],
+        "Col de Tende Road Tunnel",
         [
           "/wiki/Col_de_Tende_Road_Tunnel"
         ]
       ],
       [
-        [
-          "Tende",
-          "Cuneo"
-        ],
+        "Tende to Cuneo",
         [
           "/wiki/Tende",
           "/wiki/Cuneo"
         ]
       ],
       [
-        [
-          "France , Italy"
-        ],
-        [
-          null
-        ]
+        "France , Italy",
+        []
       ],
       [
-        [
-          "3.2"
-        ],
-        [
-          null
-        ]
+        "3.2",
+        []
       ]
     ],
     [
       [
-        [
-          "Fr\u00e9jus Road Tunnel"
-        ],
+        "Fr\u00e9jus Road Tunnel",
         [
           "/wiki/Fr\u00e9jus_Road_Tunnel"
         ]
       ],
       [
-        [
-          "Modane",
-          "Susa"
-        ],
+        "Modane to Susa",
         [
           "/wiki/Modane",
           "/wiki/Susa,_Italy"
         ]
       ],
       [
-        [
-          "France , Italy"
-        ],
-        [
-          null
-        ]
+        "France , Italy",
+        []
       ],
       [
-        [
-          "12.9"
-        ],
-        [
-          null
-        ]
+        "12.9",
+        []
       ]
     ],
     [
       [
-        [
-          "Mont Blanc Tunnel"
-        ],
+        "Mont Blanc Tunnel",
         [
           "/wiki/Mont_Blanc_Tunnel"
         ]
       ],
       [
-        [
-          "Chamonix",
-          "Courmayeur"
-        ],
+        "Chamonix to Courmayeur",
         [
           "/wiki/Chamonix",
           "/wiki/Courmayeur"
         ]
       ],
       [
-        [
-          "France , Italy"
-        ],
-        [
-          null
-        ]
+        "France , Italy",
+        []
       ],
       [
-        [
-          "11.6"
-        ],
-        [
-          null
-        ]
+        "11.6",
+        []
       ]
     ],
     [
       [
-        [
-          "Great St Bernard Tunnel"
-        ],
+        "Great St Bernard Tunnel",
         [
           "/wiki/Great_St_Bernard_Tunnel"
         ]
       ],
       [
-        [
-          "Martigny",
-          "Aosta"
-        ],
+        "Martigny to Aosta",
         [
           "/wiki/Martigny,_Switzerland",
           "/wiki/Aosta"
         ]
       ],
       [
-        [
-          "Switzerland , Italy"
-        ],
-        [
-          null
-        ]
+        "Switzerland , Italy",
+        []
       ],
       [
-        [
-          "5.9"
-        ],
-        [
-          null
-        ]
+        "5.9",
+        []
       ]
     ],
     [
       [
-        [
-          "St. Gotthard Tunnel"
-        ],
+        "St. Gotthard Tunnel",
         [
           "/wiki/Gotthard_Road_Tunnel"
         ]
       ],
       [
-        [
-          "G\u00f6schenen",
-          "Airolo"
-        ],
+        "G\u00f6schenen to Airolo",
         [
           "/wiki/G\u00f6schenen",
           "/wiki/Airolo"
         ]
       ],
       [
-        [
-          "Switzerland"
-        ],
-        [
-          null
-        ]
+        "Switzerland",
+        []
       ],
       [
-        [
-          "17"
-        ],
-        [
-          null
-        ]
+        "17",
+        []
       ]
     ],
     [
       [
-        [
-          "San Bernardino Tunnel"
-        ],
+        "San Bernardino Tunnel",
         [
           "/wiki/San_Bernardino_(road_tunnel)"
         ]
       ],
       [
-        [
-          "Spl\u00fcgen",
-          "Bellinzona"
-        ],
+        "Spl\u00fcgen to Bellinzona",
         [
           "/wiki/Spl\u00fcgen,_Switzerland",
           "/wiki/Bellinzona"
         ]
       ],
       [
-        [
-          "Switzerland"
-        ],
-        [
-          null
-        ]
+        "Switzerland",
+        []
       ],
       [
-        [
-          "7.7"
-        ],
-        [
-          null
-        ]
+        "7.7",
+        []
       ]
     ],
     [
       [
-        [
-          "Felbertauern Tunnel"
-        ],
-        [
-          null
-        ]
+        "Felbertauern Tunnel",
+        []
       ],
       [
-        [
-          "Mittersill",
-          "Lienz"
-        ],
+        "Mittersill to Lienz",
         [
           "/wiki/Mittersill",
           "/wiki/Lienz"
         ]
       ],
       [
-        [
-          "Austria"
-        ],
-        [
-          null
-        ]
+        "Austria",
+        []
       ],
       [
-        [
-          "5.3"
-        ],
-        [
-          null
-        ]
+        "5.3",
+        []
       ]
     ],
     [
       [
-        [
-          "Tauern Road Tunnel"
-        ],
+        "Tauern Road Tunnel",
         [
           "/wiki/Tauern_Road_Tunnel"
         ]
       ],
       [
-        [
-          "Eben im Pongau",
-          "Sankt Michael im Lungau"
-        ],
+        "Eben im Pongau to Sankt Michael im Lungau",
         [
           "/wiki/Eben_im_Pongau",
           "/wiki/Sankt_Michael_im_Lungau"
         ]
       ],
       [
-        [
-          "Austria"
-        ],
-        [
-          null
-        ]
+        "Austria",
+        []
       ],
       [
-        [
-          "6.4"
-        ],
-        [
-          null
-        ]
+        "6.4",
+        []
       ]
     ]
   ],

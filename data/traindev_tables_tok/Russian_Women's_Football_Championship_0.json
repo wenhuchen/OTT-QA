@@ -3,78 +3,52 @@
   "title": "Russian Women's Football Championship",
   "header": [
     [
-      [
-        "Team"
-      ],
-      [
-        null
-      ]
+      "Team",
+      []
     ],
     [
-      [
-        "Location"
-      ],
-      [
-        null
-      ]
+      "Location",
+      []
     ],
     [
-      [
-        "Ground"
-      ],
-      [
-        null
-      ]
+      "Ground",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Chertanovo Moscow"
-        ],
+        "Chertanovo Moscow",
         [
           "/wiki/FC_Chertanovo_Moscow"
         ]
       ],
       [
-        [
-          "Moscow"
-        ],
+        "Moscow",
         [
           "/wiki/Moscow"
         ]
       ],
       [
-        [
-          "Arena Chertanovo"
-        ],
-        [
-          null
-        ]
+        "Arena Chertanovo",
+        []
       ]
     ],
     [
       [
-        [
-          "WFC Krasnodar"
-        ],
+        "WFC Krasnodar",
         [
           "/wiki/WFC_Krasnodar"
         ]
       ],
       [
-        [
-          "Krasnodar"
-        ],
+        "Krasnodar",
         [
           "/wiki/Krasnodar"
         ]
       ],
       [
-        [
-          "Krasnodar Academy Stadium"
-        ],
+        "Krasnodar Academy Stadium",
         [
           "/wiki/Krasnodar_Academy_Stadium"
         ]
@@ -82,103 +56,73 @@
     ],
     [
       [
-        [
-          "CSKA Moscow"
-        ],
+        "CSKA Moscow",
         [
           "/wiki/ZFK_CSKA_Moscow"
         ]
       ],
       [
-        [
-          "Moscow"
-        ],
+        "Moscow",
         [
           "/wiki/Moscow"
         ]
       ],
       [
-        [
-          "Novye Khimki Stadium"
-        ],
-        [
-          null
-        ]
+        "Novye Khimki Stadium",
+        []
       ]
     ],
     [
       [
-        [
-          "Zenit Saint Petersburg"
-        ],
+        "Zenit Saint Petersburg",
         [
           "/wiki/ZFK_Zenit_Saint_Petersburg"
         ]
       ],
       [
-        [
-          "Saint Petersburg"
-        ],
+        "Saint Petersburg",
         [
           "/wiki/Saint_Petersburg"
         ]
       ],
       [
-        [
-          "Smena Stadium"
-        ],
-        [
-          null
-        ]
+        "Smena Stadium",
+        []
       ]
     ],
     [
       [
-        [
-          "Ryazan-VDV"
-        ],
+        "Ryazan-VDV",
         [
           "/wiki/Ryazan-VDV"
         ]
       ],
       [
-        [
-          "Ryazan"
-        ],
+        "Ryazan",
         [
           "/wiki/Ryazan"
         ]
       ],
       [
-        [
-          "Central'nyj Sportivn'yj Kompleks"
-        ],
-        [
-          null
-        ]
+        "Central'nyj Sportivn'yj Kompleks",
+        []
       ]
     ],
     [
       [
-        [
-          "Lokomotiv Moscow"
-        ],
+        "Lokomotiv Moscow",
         [
           "/wiki/WFC_Lokomotiv_Moscow"
         ]
       ],
       [
-        [
-          "Moscow"
-        ],
+        "Moscow",
         [
           "/wiki/Moscow"
         ]
       ],
       [
-        [
-          "Sapsan Arena"
-        ],
+        "Sapsan Arena",
         [
           "/wiki/Sapsan_Arena"
         ]
@@ -186,25 +130,19 @@
     ],
     [
       [
-        [
-          "Zvezda-2005 Perm"
-        ],
+        "Zvezda-2005 Perm",
         [
           "/wiki/Zvezda-2005_Perm"
         ]
       ],
       [
-        [
-          "Perm"
-        ],
+        "Perm",
         [
           "/wiki/Perm"
         ]
       ],
       [
-        [
-          "Zvezda Stadium"
-        ],
+        "Zvezda Stadium",
         [
           "/wiki/Zvezda_Stadium"
         ]
@@ -212,28 +150,18 @@
     ],
     [
       [
-        [
-          "Yenisey Krasnoyarsk"
-        ],
-        [
-          null
-        ]
+        "Yenisey Krasnoyarsk",
+        []
       ],
       [
-        [
-          "Krasnoyarsk"
-        ],
+        "Krasnoyarsk",
         [
           "/wiki/Krasnoyarsk"
         ]
       ],
       [
-        [
-          "Futbol-arena Enisey"
-        ],
-        [
-          null
-        ]
+        "Futbol-arena Enisey",
+        []
       ]
     ]
   ],

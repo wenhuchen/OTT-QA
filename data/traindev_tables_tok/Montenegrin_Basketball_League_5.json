@@ -3,445 +3,281 @@
   "title": "Prva A Liga",
   "header": [
     [
-      [
-        "Club"
-      ],
-      [
-        null
-      ]
+      "Club",
+      []
     ],
     [
-      [
-        "City"
-      ],
-      [
-        null
-      ]
+      "City",
+      []
     ],
     [
-      [
-        "Arena"
-      ],
-      [
-        null
-      ]
+      "Arena",
+      []
     ],
     [
-      [
-        "Capacity"
-      ],
-      [
-        null
-      ]
+      "Capacity",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Budu\u0107nost VOLI"
-        ],
+        "Budu\u0107nost VOLI",
         [
           "/wiki/KK_Budu\u0107nost"
         ]
       ],
       [
-        [
-          "Podgorica"
-        ],
+        "Podgorica",
         [
           "/wiki/Podgorica"
         ]
       ],
       [
-        [
-          "Mora\u010da"
-        ],
+        "Mora\u010da",
         [
           "/wiki/Mora\u010da_Sports_Center"
         ]
       ],
       [
-        [
-          "6,000"
-        ],
-        [
-          null
-        ]
+        "6,000",
+        []
       ]
     ],
     [
       [
-        [
-          "Danilovgrad"
-        ],
-        [
-          null
-        ]
+        "Danilovgrad",
+        []
       ],
       [
-        [
-          "Danilovgrad"
-        ],
+        "Danilovgrad",
         [
           "/wiki/Danilovgrad"
         ]
       ],
       [
-        [
-          "Gradska dvorana"
-        ],
-        [
-          null
-        ]
+        "Gradska dvorana",
+        []
       ],
       [
-        [
-          "1,200"
-        ],
-        [
-          null
-        ]
+        "1,200",
+        []
       ]
     ],
     [
       [
-        [
-          "Ibar"
-        ],
+        "Ibar",
         [
           "/wiki/KK_Ibar"
         ]
       ],
       [
-        [
-          "Ro\u017eaje"
-        ],
+        "Ro\u017eaje",
         [
           "/wiki/Ro\u017eaje"
         ]
       ],
       [
-        [
-          "Band\u017eovo Brdo"
-        ],
-        [
-          null
-        ]
+        "Band\u017eovo Brdo",
+        []
       ],
       [
-        [
-          "2,500"
-        ],
-        [
-          null
-        ]
+        "2,500",
+        []
       ]
     ],
     [
       [
-        [
-          "Jedintsvo"
-        ],
+        "Jedintsvo",
         [
           "/wiki/KK_Jedinstvo_Bijelo_Polje"
         ]
       ],
       [
-        [
-          "Bijelo Polje"
-        ],
+        "Bijelo Polje",
         [
           "/wiki/Bijelo_Polje"
         ]
       ],
       [
-        [
-          "SC Nikoljac"
-        ],
-        [
-          null
-        ]
+        "SC Nikoljac",
+        []
       ],
       [
-        [
-          "3,000"
-        ],
-        [
-          null
-        ]
+        "3,000",
+        []
       ]
     ],
     [
       [
-        [
-          "Lov\u0107en"
-        ],
+        "Lov\u0107en",
         [
           "/wiki/KK_Lov\u0107en"
         ]
       ],
       [
-        [
-          "Cetinje"
-        ],
+        "Cetinje",
         [
           "/wiki/Cetinje"
         ]
       ],
       [
-        [
-          "SRC Lov\u0107en"
-        ],
-        [
-          null
-        ]
+        "SRC Lov\u0107en",
+        []
       ],
       [
-        [
-          "1,500"
-        ],
-        [
-          null
-        ]
+        "1,500",
+        []
       ]
     ],
     [
       [
-        [
-          "Mornar"
-        ],
+        "Mornar",
         [
           "/wiki/KK_Mornar_Bar"
         ]
       ],
       [
-        [
-          "Bar"
-        ],
+        "Bar",
         [
           "/wiki/Bar,_Montenegro"
         ]
       ],
       [
-        [
-          "Topolica"
-        ],
+        "Topolica",
         [
           "/wiki/Topolica_Sport_Hall"
         ]
       ],
       [
-        [
-          "3,500"
-        ],
-        [
-          null
-        ]
+        "3,500",
+        []
       ]
     ],
     [
       [
-        [
-          "Primorje"
-        ],
-        [
-          null
-        ]
+        "Primorje",
+        []
       ],
       [
-        [
-          "Herceg Novi"
-        ],
+        "Herceg Novi",
         [
           "/wiki/Herceg_Novi"
         ]
       ],
       [
-        [
-          "SC Igalo"
-        ],
-        [
-          null
-        ]
+        "SC Igalo",
+        []
       ],
       [
-        [
-          "2,000"
-        ],
-        [
-          null
-        ]
+        "2,000",
+        []
       ]
     ],
     [
       [
-        [
-          "Studenski Centar"
-        ],
-        [
-          null
-        ]
+        "Studenski Centar",
+        []
       ],
       [
-        [
-          "Podgorica"
-        ],
+        "Podgorica",
         [
           "/wiki/Podgorica"
         ]
       ],
       [
-        [
-          "University Sports Center"
-        ],
-        [
-          null
-        ]
+        "University Sports Center",
+        []
       ],
       [
-        [
-          "1,500"
-        ],
-        [
-          null
-        ]
+        "1,500",
+        []
       ]
     ],
     [
       [
-        [
-          "Sutjeska"
-        ],
+        "Sutjeska",
         [
           "/wiki/KK_Sutjeska"
         ]
       ],
       [
-        [
-          "Nik\u0161i\u0107"
-        ],
+        "Nik\u0161i\u0107",
         [
           "/wiki/Nik\u0161i\u0107"
         ]
       ],
       [
-        [
-          "Nik\u0161i\u0107 Sports Center"
-        ],
-        [
-          null
-        ]
+        "Nik\u0161i\u0107 Sports Center",
+        []
       ],
       [
-        [
-          "3,000"
-        ],
-        [
-          null
-        ]
+        "3,000",
+        []
       ]
     ],
     [
       [
-        [
-          "All Star"
-        ],
-        [
-          null
-        ]
+        "All Star",
+        []
       ],
       [
-        [
-          "Spu\u017e"
-        ],
+        "Spu\u017e",
         [
           "/wiki/Spu\u017e"
         ]
       ],
       [
-        [
-          "Academy Danilovgrad"
-        ],
-        [
-          null
-        ]
+        "Academy Danilovgrad",
+        []
       ],
       [
-        [
-          "600"
-        ],
-        [
-          null
-        ]
+        "600",
+        []
       ]
     ],
     [
       [
-        [
-          "Teodo"
-        ],
+        "Teodo",
         [
           "/wiki/KK_Teodo"
         ]
       ],
       [
-        [
-          "Tivat"
-        ],
+        "Tivat",
         [
           "/wiki/Tivat"
         ]
       ],
       [
-        [
-          "\u017dupa SC"
-        ],
-        [
-          null
-        ]
+        "\u017dupa SC",
+        []
       ],
       [
-        [
-          "1,500"
-        ],
-        [
-          null
-        ]
+        "1,500",
+        []
       ]
     ],
     [
       [
-        [
-          "Zeta"
-        ],
+        "Zeta",
         [
           "/wiki/KK_Zeta_2011"
         ]
       ],
       [
-        [
-          "Golubovci"
-        ],
+        "Golubovci",
         [
           "/wiki/Golubovci"
         ]
       ],
       [
-        [
-          "House of basketball Donji Kokoti"
-        ],
-        [
-          null
-        ]
+        "House of basketball Donji Kokoti",
+        []
       ],
       [
-        [
-          "500"
-        ],
-        [
-          null
-        ]
+        "500",
+        []
       ]
     ]
   ],

@@ -3,100 +3,56 @@
   "title": "South Texas",
   "header": [
     [
-      [
-        "Region Rank"
-      ],
-      [
-        null
-      ]
+      "Region Rank",
+      []
     ],
     [
-      [
-        "City"
-      ],
-      [
-        null
-      ]
+      "City",
+      []
     ],
     [
-      [
-        "2017 Estimates"
-      ],
-      [
-        null
-      ]
+      "2017 Estimates",
+      []
     ],
     [
-      [
-        "2010 Census"
-      ],
-      [
-        null
-      ]
+      "2010 Census",
+      []
     ],
     [
-      [
-        "% change"
-      ],
-      [
-        null
-      ]
+      "% change",
+      []
     ],
     [
-      [
-        "County"
-      ],
-      [
-        null
-      ]
+      "County",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "San Antonio"
-        ],
+        "San Antonio",
         [
           "/wiki/San_Antonio"
         ]
       ],
       [
-        [
-          "1,511,946"
-        ],
-        [
-          null
-        ]
+        "1,511,946",
+        []
       ],
       [
-        [
-          "1,327,407"
-        ],
-        [
-          null
-        ]
+        "1,327,407",
+        []
       ],
       [
-        [
-          "+13.90%"
-        ],
-        [
-          null
-        ]
+        "+13.90%",
+        []
       ],
       [
-        [
-          "Bexar County"
-        ],
+        "Bexar County",
         [
           "/wiki/Bexar_County,_Texas"
         ]
@@ -104,49 +60,29 @@
     ],
     [
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "Corpus Christi"
-        ],
+        "Corpus Christi",
         [
           "/wiki/Corpus_Christi,_Texas"
         ]
       ],
       [
-        [
-          "325,605"
-        ],
-        [
-          null
-        ]
+        "325,605",
+        []
       ],
       [
-        [
-          "305,215"
-        ],
-        [
-          null
-        ]
+        "305,215",
+        []
       ],
       [
-        [
-          "+6.68%"
-        ],
-        [
-          null
-        ]
+        "+6.68%",
+        []
       ],
       [
-        [
-          "Nueces County"
-        ],
+        "Nueces County",
         [
           "/wiki/Nueces_County,_Texas"
         ]
@@ -154,49 +90,29 @@
     ],
     [
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "Laredo"
-        ],
+        "Laredo",
         [
           "/wiki/Laredo,_Texas"
         ]
       ],
       [
-        [
-          "260,654"
-        ],
-        [
-          null
-        ]
+        "260,654",
+        []
       ],
       [
-        [
-          "236,091"
-        ],
-        [
-          null
-        ]
+        "236,091",
+        []
       ],
       [
-        [
-          "+10.40%"
-        ],
-        [
-          null
-        ]
+        "+10.40%",
+        []
       ],
       [
-        [
-          "Webb County"
-        ],
+        "Webb County",
         [
           "/wiki/Webb_County,_Texas"
         ]
@@ -204,49 +120,29 @@
     ],
     [
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "Brownsville"
-        ],
+        "Brownsville",
         [
           "/wiki/Brownsville,_Texas"
         ]
       ],
       [
-        [
-          "183,299"
-        ],
-        [
-          null
-        ]
+        "183,299",
+        []
       ],
       [
-        [
-          "175,023"
-        ],
-        [
-          null
-        ]
+        "175,023",
+        []
       ],
       [
-        [
-          "+4.73%"
-        ],
-        [
-          null
-        ]
+        "+4.73%",
+        []
       ],
       [
-        [
-          "Cameron County"
-        ],
+        "Cameron County",
         [
           "/wiki/Cameron_County,_Texas"
         ]
@@ -254,49 +150,29 @@
     ],
     [
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "McAllen"
-        ],
+        "McAllen",
         [
           "/wiki/McAllen,_Texas"
         ]
       ],
       [
-        [
-          "142,696"
-        ],
-        [
-          null
-        ]
+        "142,696",
+        []
       ],
       [
-        [
-          "129,877"
-        ],
-        [
-          null
-        ]
+        "129,877",
+        []
       ],
       [
-        [
-          "+9.87%"
-        ],
-        [
-          null
-        ]
+        "+9.87%",
+        []
       ],
       [
-        [
-          "Hidalgo County"
-        ],
+        "Hidalgo County",
         [
           "/wiki/Hidalgo_County,_Texas"
         ]
@@ -304,49 +180,29 @@
     ],
     [
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "Edinburg"
-        ],
+        "Edinburg",
         [
           "/wiki/Edinburg,_Texas"
         ]
       ],
       [
-        [
-          "90,280"
-        ],
-        [
-          null
-        ]
+        "90,280",
+        []
       ],
       [
-        [
-          "77,100"
-        ],
-        [
-          null
-        ]
+        "77,100",
+        []
       ],
       [
-        [
-          "+17.09%"
-        ],
-        [
-          null
-        ]
+        "+17.09%",
+        []
       ],
       [
-        [
-          "Hidalgo County"
-        ],
+        "Hidalgo County",
         [
           "/wiki/Hidalgo_County,_Texas"
         ]
@@ -354,49 +210,29 @@
     ],
     [
       [
-        [
-          "7"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ],
       [
-        [
-          "Mission"
-        ],
+        "Mission",
         [
           "/wiki/Mission,_Texas"
         ]
       ],
       [
-        [
-          "84,424"
-        ],
-        [
-          null
-        ]
+        "84,424",
+        []
       ],
       [
-        [
-          "77,058"
-        ],
-        [
-          null
-        ]
+        "77,058",
+        []
       ],
       [
-        [
-          "+9.56%"
-        ],
-        [
-          null
-        ]
+        "+9.56%",
+        []
       ],
       [
-        [
-          "Hidalgo County"
-        ],
+        "Hidalgo County",
         [
           "/wiki/Hidalgo_County,_Texas"
         ]
@@ -404,49 +240,29 @@
     ],
     [
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "Pharr"
-        ],
+        "Pharr",
         [
           "/wiki/Pharr,_Texas"
         ]
       ],
       [
-        [
-          "79,487"
-        ],
-        [
-          null
-        ]
+        "79,487",
+        []
       ],
       [
-        [
-          "70,400"
-        ],
-        [
-          null
-        ]
+        "70,400",
+        []
       ],
       [
-        [
-          "+12.91%"
-        ],
-        [
-          null
-        ]
+        "+12.91%",
+        []
       ],
       [
-        [
-          "Hidalgo County"
-        ],
+        "Hidalgo County",
         [
           "/wiki/Hidalgo_County,_Texas"
         ]
@@ -454,49 +270,29 @@
     ],
     [
       [
-        [
-          "9"
-        ],
-        [
-          null
-        ]
+        "9",
+        []
       ],
       [
-        [
-          "Victoria"
-        ],
+        "Victoria",
         [
           "/wiki/Victoria,_Texas"
         ]
       ],
       [
-        [
-          "67,106"
-        ],
-        [
-          null
-        ]
+        "67,106",
+        []
       ],
       [
-        [
-          "62,592"
-        ],
-        [
-          null
-        ]
+        "62,592",
+        []
       ],
       [
-        [
-          "+7.21%"
-        ],
-        [
-          null
-        ]
+        "+7.21%",
+        []
       ],
       [
-        [
-          "Victoria County"
-        ],
+        "Victoria County",
         [
           "/wiki/Victoria_County,_Texas"
         ]
@@ -504,49 +300,29 @@
     ],
     [
       [
-        [
-          "10"
-        ],
-        [
-          null
-        ]
+        "10",
+        []
       ],
       [
-        [
-          "Harlingen"
-        ],
+        "Harlingen",
         [
           "/wiki/Harlingen,_Texas"
         ]
       ],
       [
-        [
-          "65,467"
-        ],
-        [
-          null
-        ]
+        "65,467",
+        []
       ],
       [
-        [
-          "64,849"
-        ],
-        [
-          null
-        ]
+        "64,849",
+        []
       ],
       [
-        [
-          "+0.95%"
-        ],
-        [
-          null
-        ]
+        "+0.95%",
+        []
       ],
       [
-        [
-          "Cameron County"
-        ],
+        "Cameron County",
         [
           "/wiki/Cameron_County,_Texas"
         ]
@@ -554,49 +330,29 @@
     ],
     [
       [
-        [
-          "11"
-        ],
-        [
-          null
-        ]
+        "11",
+        []
       ],
       [
-        [
-          "Weslaco"
-        ],
+        "Weslaco",
         [
           "/wiki/Weslaco,_Texas"
         ]
       ],
       [
-        [
-          "40,358"
-        ],
-        [
-          null
-        ]
+        "40,358",
+        []
       ],
       [
-        [
-          "35,670"
-        ],
-        [
-          null
-        ]
+        "35,670",
+        []
       ],
       [
-        [
-          "+13.14%"
-        ],
-        [
-          null
-        ]
+        "+13.14%",
+        []
       ],
       [
-        [
-          "Hidalgo County"
-        ],
+        "Hidalgo County",
         [
           "/wiki/Hidalgo_County,_Texas"
         ]
@@ -604,49 +360,29 @@
     ],
     [
       [
-        [
-          "12"
-        ],
-        [
-          null
-        ]
+        "12",
+        []
       ],
       [
-        [
-          "Schertz"
-        ],
+        "Schertz",
         [
           "/wiki/Schertz,_Texas"
         ]
       ],
       [
-        [
-          "40,092"
-        ],
-        [
-          null
-        ]
+        "40,092",
+        []
       ],
       [
-        [
-          "31,465"
-        ],
-        [
-          null
-        ]
+        "31,465",
+        []
       ],
       [
-        [
-          "+27.42%"
-        ],
-        [
-          null
-        ]
+        "+27.42%",
+        []
       ],
       [
-        [
-          "Bexar County"
-        ],
+        "Bexar County",
         [
           "/wiki/Bexar_County,_Texas"
         ]
@@ -654,49 +390,29 @@
     ],
     [
       [
-        [
-          "13"
-        ],
-        [
-          null
-        ]
+        "13",
+        []
       ],
       [
-        [
-          "San Juan"
-        ],
+        "San Juan",
         [
           "/wiki/San_Juan,_Texas"
         ]
       ],
       [
-        [
-          "36,981"
-        ],
-        [
-          null
-        ]
+        "36,981",
+        []
       ],
       [
-        [
-          "33,856"
-        ],
-        [
-          null
-        ]
+        "33,856",
+        []
       ],
       [
-        [
-          "+9.23%"
-        ],
-        [
-          null
-        ]
+        "+9.23%",
+        []
       ],
       [
-        [
-          "Hidalgo County"
-        ],
+        "Hidalgo County",
         [
           "/wiki/Hidalgo_County,_Texas"
         ]
@@ -704,49 +420,29 @@
     ],
     [
       [
-        [
-          "14"
-        ],
-        [
-          null
-        ]
+        "14",
+        []
       ],
       [
-        [
-          "Seguin"
-        ],
+        "Seguin",
         [
           "/wiki/Seguin,_Texas"
         ]
       ],
       [
-        [
-          "28,983"
-        ],
-        [
-          null
-        ]
+        "28,983",
+        []
       ],
       [
-        [
-          "25,175"
-        ],
-        [
-          null
-        ]
+        "25,175",
+        []
       ],
       [
-        [
-          "+15.13%"
-        ],
-        [
-          null
-        ]
+        "+15.13%",
+        []
       ],
       [
-        [
-          "Guadalupe County"
-        ],
+        "Guadalupe County",
         [
           "/wiki/Guadalupe_County,_Texas"
         ]
@@ -754,49 +450,29 @@
     ],
     [
       [
-        [
-          "15"
-        ],
-        [
-          null
-        ]
+        "15",
+        []
       ],
       [
-        [
-          "Eagle Pass"
-        ],
+        "Eagle Pass",
         [
           "/wiki/Eagle_Pass,_Texas"
         ]
       ],
       [
-        [
-          "28,945"
-        ],
-        [
-          null
-        ]
+        "28,945",
+        []
       ],
       [
-        [
-          "26,248"
-        ],
-        [
-          null
-        ]
+        "26,248",
+        []
       ],
       [
-        [
-          "+10.28%"
-        ],
-        [
-          null
-        ]
+        "+10.28%",
+        []
       ],
       [
-        [
-          "Maverick County"
-        ],
+        "Maverick County",
         [
           "/wiki/Maverick_County,_Texas"
         ]
@@ -804,49 +480,29 @@
     ],
     [
       [
-        [
-          "16"
-        ],
-        [
-          null
-        ]
+        "16",
+        []
       ],
       [
-        [
-          "Kingsville"
-        ],
+        "Kingsville",
         [
           "/wiki/Kingsville,_Texas"
         ]
       ],
       [
-        [
-          "25,482"
-        ],
-        [
-          null
-        ]
+        "25,482",
+        []
       ],
       [
-        [
-          "26,213"
-        ],
-        [
-          null
-        ]
+        "26,213",
+        []
       ],
       [
-        [
-          "-2.79%"
-        ],
-        [
-          null
-        ]
+        "-2.79%",
+        []
       ],
       [
-        [
-          "Kleberg County"
-        ],
+        "Kleberg County",
         [
           "/wiki/Kleberg_County,_Texas"
         ]
@@ -854,49 +510,29 @@
     ],
     [
       [
-        [
-          "17"
-        ],
-        [
-          null
-        ]
+        "17",
+        []
       ],
       [
-        [
-          "San Benito"
-        ],
+        "San Benito",
         [
           "/wiki/San_Benito,_Texas"
         ]
       ],
       [
-        [
-          "24,528"
-        ],
-        [
-          null
-        ]
+        "24,528",
+        []
       ],
       [
-        [
-          "24,250"
-        ],
-        [
-          null
-        ]
+        "24,250",
+        []
       ],
       [
-        [
-          "+1.15%"
-        ],
-        [
-          null
-        ]
+        "+1.15%",
+        []
       ],
       [
-        [
-          "Cameron County"
-        ],
+        "Cameron County",
         [
           "/wiki/Cameron_County,_Texas"
         ]
@@ -904,49 +540,29 @@
     ],
     [
       [
-        [
-          "18"
-        ],
-        [
-          null
-        ]
+        "18",
+        []
       ],
       [
-        [
-          "Converse"
-        ],
+        "Converse",
         [
           "/wiki/Converse,_Texas"
         ]
       ],
       [
-        [
-          "23,375"
-        ],
-        [
-          null
-        ]
+        "23,375",
+        []
       ],
       [
-        [
-          "18,198"
-        ],
-        [
-          null
-        ]
+        "18,198",
+        []
       ],
       [
-        [
-          "+28.45%"
-        ],
-        [
-          null
-        ]
+        "+28.45%",
+        []
       ],
       [
-        [
-          "Bexar County"
-        ],
+        "Bexar County",
         [
           "/wiki/Bexar_County,_Texas"
         ]
@@ -954,49 +570,29 @@
     ],
     [
       [
-        [
-          "19"
-        ],
-        [
-          null
-        ]
+        "19",
+        []
       ],
       [
-        [
-          "Universal City"
-        ],
+        "Universal City",
         [
           "/wiki/Universal_City,_Texas"
         ]
       ],
       [
-        [
-          "20,532"
-        ],
-        [
-          null
-        ]
+        "20,532",
+        []
       ],
       [
-        [
-          "18,530"
-        ],
-        [
-          null
-        ]
+        "18,530",
+        []
       ],
       [
-        [
-          "+10.80%"
-        ],
-        [
-          null
-        ]
+        "+10.80%",
+        []
       ],
       [
-        [
-          "Bexar County"
-        ],
+        "Bexar County",
         [
           "/wiki/Bexar_County,_Texas"
         ]
@@ -1004,49 +600,29 @@
     ],
     [
       [
-        [
-          "20"
-        ],
-        [
-          null
-        ]
+        "20",
+        []
       ],
       [
-        [
-          "Alamo"
-        ],
+        "Alamo",
         [
           "/wiki/Alamo,_Texas"
         ]
       ],
       [
-        [
-          "19,679"
-        ],
-        [
-          null
-        ]
+        "19,679",
+        []
       ],
       [
-        [
-          "18,353"
-        ],
-        [
-          null
-        ]
+        "18,353",
+        []
       ],
       [
-        [
-          "+7.23%"
-        ],
-        [
-          null
-        ]
+        "+7.23%",
+        []
       ],
       [
-        [
-          "Hidalgo County"
-        ],
+        "Hidalgo County",
         [
           "/wiki/Hidalgo_County,_Texas"
         ]

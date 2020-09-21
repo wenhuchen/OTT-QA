@@ -3,717 +3,463 @@
   "title": "Comparison of OLAP servers",
   "header": [
     [
-      [
-        "OLAP server"
-      ],
-      [
-        null
-      ]
+      "OLAP server",
+      []
     ],
     [
-      [
-        "Company"
-      ],
-      [
-        null
-      ]
+      "Company",
+      []
     ],
     [
-      [
-        "Latest stable version"
-      ],
-      [
-        null
-      ]
+      "Latest stable version",
+      []
     ],
     [
-      [
-        "Software license"
-      ],
+      "Software license",
       [
         "/wiki/Software_license"
       ]
     ],
     [
-      [
-        "License pricing"
-      ],
-      [
-        null
-      ]
+      "License pricing",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Apache Kylin"
-        ],
+        "Apache Kylin",
         [
           "/wiki/Apache_Kylin"
         ]
       ],
       [
-        [
-          "Apache Software Foundation"
-        ],
+        "Apache Software Foundation",
         [
           "/wiki/The_Apache_Software_Foundation"
         ]
       ],
       [
-        [
-          "2.5.1"
-        ],
-        [
-          null
-        ]
+        "2.5.1",
+        []
       ],
       [
-        [
-          "Apache 2.0"
-        ],
+        "Apache 2.0",
         [
           "/wiki/Apache_License"
         ]
       ],
       [
-        [
-          "free"
-        ],
-        [
-          null
-        ]
+        "free",
+        []
       ]
     ],
     [
       [
-        [
-          "Druid"
-        ],
+        "Druid",
         [
           "/wiki/Druid_(open-source_data_store)"
         ]
       ],
       [
-        [
-          "Open source community"
-        ],
+        "Open source community",
         [
           "/wiki/Open_source"
         ]
       ],
       [
-        [
-          "0.11.0"
-        ],
-        [
-          null
-        ]
+        "0.11.0",
+        []
       ],
       [
-        [
-          "Apache 2.0"
-        ],
+        "Apache 2.0",
         [
           "/wiki/Apache_License"
         ]
       ],
       [
-        [
-          "free"
-        ],
-        [
-          null
-        ]
+        "free",
+        []
       ]
     ],
     [
       [
-        [
-          "Apache Pinot ( Incubating )"
-        ],
-        [
-          null
-        ]
+        "Apache Pinot ( Incubating )",
+        []
       ],
       [
-        [
-          "Apache Software Foundation"
-        ],
+        "Apache Software Foundation",
         [
           "/wiki/The_Apache_Software_Foundation"
         ]
       ],
       [
-        [
-          "0.2.0"
-        ],
-        [
-          null
-        ]
+        "0.2.0",
+        []
       ],
       [
-        [
-          "Apache 2.0"
-        ],
+        "Apache 2.0",
         [
           "/wiki/Apache_License"
         ]
       ],
       [
-        [
-          "free"
-        ],
-        [
-          null
-        ]
+        "free",
+        []
       ]
     ],
     [
       [
-        [
-          "Essbase"
-        ],
+        "Essbase",
         [
           "/wiki/Essbase"
         ]
       ],
       [
-        [
-          "Oracle"
-        ],
+        "Oracle",
         [
           "/wiki/Oracle_Corporation"
         ]
       ],
       [
-        [
-          "11.1.2.4"
-        ],
-        [
-          null
-        ]
+        "11.1.2.4",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary",
         [
           "/wiki/Proprietary_software"
         ]
       ],
       [
-        [
-          "[ 1 ]"
-        ],
-        [
-          null
-        ]
+        "[ 1 ]",
+        []
       ]
     ],
     [
       [
-        [
-          "IBM Cognos TM1"
-        ],
+        "IBM Cognos TM1",
         [
           "/wiki/TM1"
         ]
       ],
       [
-        [
-          "IBM"
-        ],
+        "IBM",
         [
           "/wiki/IBM"
         ]
       ],
       [
-        [
-          "10.2.2 FP7"
-        ],
-        [
-          null
-        ]
+        "10.2.2 FP7",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary",
         [
           "/wiki/Proprietary_software"
         ]
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ]
     ],
     [
       [
-        [
-          "icCube"
-        ],
+        "icCube",
         [
           "/wiki/IcCube"
         ]
       ],
       [
-        [
-          "icCube"
-        ],
+        "icCube",
         [
           "/wiki/IcCube"
         ]
       ],
       [
-        [
-          "6.8.9"
-        ],
-        [
-          null
-        ]
+        "6.8.9",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary",
         [
           "/wiki/Proprietary_software"
         ]
       ],
       [
-        [
-          "[ 2 ]"
-        ],
-        [
-          null
-        ]
+        "community/ [ 2 ]",
+        []
       ]
     ],
     [
       [
-        [
-          "Infor BI OLAP Server"
-        ],
-        [
-          null
-        ]
+        "Infor BI OLAP Server",
+        []
       ],
       [
-        [
-          "Infor"
-        ],
+        "Infor",
         [
           "/wiki/Infor"
         ]
       ],
       [
-        [
-          "10.6.0"
-        ],
-        [
-          null
-        ]
+        "10.6.0",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary",
         [
           "/wiki/Proprietary_software"
         ]
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ]
     ],
     [
       [
-        [
-          "Jedox OLAP Server"
-        ],
+        "Jedox OLAP Server",
         [
           "/wiki/Jedox"
         ]
       ],
       [
-        [
-          "Jedox"
-        ],
+        "Jedox",
         [
           "/wiki/Jedox"
         ]
       ],
       [
-        [
-          "2019.3"
-        ],
-        [
-          null
-        ]
+        "2019.3",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary",
         [
           "/wiki/Proprietary_software"
         ]
       ],
       [
-        [
-          "[ 3 ]"
-        ],
-        [
-          null
-        ]
+        "[ 3 ]",
+        []
       ]
     ],
     [
       [
-        [
-          "Kyligence"
-        ],
-        [
-          null
-        ]
+        "Kyligence",
+        []
       ],
       [
-        [
-          "Kyligence"
-        ],
-        [
-          null
-        ]
+        "Kyligence",
+        []
       ],
       [
-        [
-          "3.2.1"
-        ],
-        [
-          null
-        ]
+        "3.2.1",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
-        [
-          null
-        ]
+        "Proprietary",
+        []
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ]
     ],
     [
       [
-        [
-          "Kyvos"
-        ],
+        "Kyvos",
         [
           "/wiki/Kyvos"
         ]
       ],
       [
-        [
-          "Kyvos Insights"
-        ],
+        "Kyvos Insights",
         [
           "/wiki/Kyvos_Insights"
         ]
       ],
       [
-        [
-          "5.3"
-        ],
-        [
-          null
-        ]
+        "5.3",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary",
         [
           "/wiki/Proprietary_software"
         ]
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ]
     ],
     [
       [
-        [
-          "Microsoft Analysis Services"
-        ],
+        "Microsoft Analysis Services",
         [
           "/wiki/Microsoft_Analysis_Services"
         ]
       ],
       [
-        [
-          "Microsoft"
-        ],
+        "Microsoft",
         [
           "/wiki/Microsoft"
         ]
       ],
       [
-        [
-          "2016"
-        ],
-        [
-          null
-        ]
+        "2016",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary",
         [
           "/wiki/Proprietary_software"
         ]
       ],
       [
-        [
-          "[ 4 ]"
-        ],
-        [
-          null
-        ]
+        "[ 4 ]",
+        []
       ]
     ],
     [
       [
-        [
-          "MicroStrategy Intelligence Server"
-        ],
-        [
-          null
-        ]
+        "MicroStrategy Intelligence Server",
+        []
       ],
       [
-        [
-          "MicroStrategy"
-        ],
+        "MicroStrategy",
         [
           "/wiki/MicroStrategy"
         ]
       ],
       [
-        [
-          "10.11"
-        ],
-        [
-          null
-        ]
+        "10.11",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary",
         [
           "/wiki/Proprietary_software"
         ]
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ]
     ],
     [
       [
-        [
-          "Mondrian OLAP server"
-        ],
+        "Mondrian OLAP server",
         [
           "/wiki/Mondrian_OLAP_server"
         ]
       ],
       [
-        [
-          "Pentaho"
-        ],
+        "Pentaho",
         [
           "/wiki/Pentaho"
         ]
       ],
       [
-        [
-          "3.7"
-        ],
-        [
-          null
-        ]
+        "3.7",
+        []
       ],
       [
-        [
-          "EPL"
-        ],
+        "EPL",
         [
           "/wiki/Eclipse_Public_License"
         ]
       ],
       [
-        [
-          "free"
-        ],
-        [
-          null
-        ]
+        "free",
+        []
       ]
     ],
     [
       [
-        [
-          "Oracle Database OLAP Option"
-        ],
+        "Oracle Database OLAP Option",
         [
           "/wiki/Oracle_OLAP"
         ]
       ],
       [
-        [
-          "Oracle"
-        ],
+        "Oracle",
         [
           "/wiki/Oracle_Corporation"
         ]
       ],
       [
-        [
-          "11g R2"
-        ],
-        [
-          null
-        ]
+        "11g R2",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary",
         [
           "/wiki/Proprietary_software"
         ]
       ],
       [
-        [
-          "[ 5 ]"
-        ],
-        [
-          null
-        ]
+        "[ 5 ]",
+        []
       ]
     ],
     [
       [
-        [
-          "SAP NetWeaver BW"
-        ],
+        "SAP NetWeaver BW",
         [
           "/wiki/SAP_NetWeaver_Business_Intelligence"
         ]
       ],
       [
-        [
-          "SAP"
-        ],
+        "SAP",
         [
           "/wiki/SAP_AG"
         ]
       ],
       [
-        [
-          "7.30"
-        ],
-        [
-          null
-        ]
+        "7.30",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary",
         [
           "/wiki/Proprietary_software"
         ]
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ]
     ],
     [
       [
-        [
-          "SAS OLAP Server"
-        ],
+        "SAS OLAP Server",
         [
           "/wiki/SAS_System"
         ]
       ],
       [
-        [
-          "SAS Institute"
-        ],
+        "SAS Institute",
         [
           "/wiki/SAS_Institute"
         ]
       ],
       [
-        [
-          "9.4"
-        ],
-        [
-          null
-        ]
+        "9.4",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary",
         [
           "/wiki/Proprietary_software"
         ]
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ]
     ]
   ],

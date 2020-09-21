@@ -3,104 +3,70 @@
   "title": "Scottish National League Division Two",
   "header": [
     [
-      [
-        "Club"
-      ],
-      [
-        null
-      ]
+      "Club",
+      []
     ],
     [
-      [
-        "Location"
-      ],
-      [
-        null
-      ]
+      "Location",
+      []
     ],
     [
-      [
-        "Home Ground"
-      ],
-      [
-        null
-      ]
+      "Home Ground",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Dumfries Saints"
-        ],
+        "Dumfries Saints",
         [
           "/wiki/Dumfries_Rugby_Club"
         ]
       ],
       [
-        [
-          "Dumfries"
-        ],
+        "Dumfries",
         [
           "/wiki/Dumfries"
         ]
       ],
       [
-        [
-          "Park Farm"
-        ],
-        [
-          null
-        ]
+        "Park Farm",
+        []
       ]
     ],
     [
       [
-        [
-          "Falkirk"
-        ],
+        "Falkirk",
         [
           "/wiki/Falkirk_RFC"
         ]
       ],
       [
-        [
-          "Falkirk"
-        ],
+        "Falkirk",
         [
           "/wiki/Falkirk"
         ]
       ],
       [
-        [
-          "Horne Park"
-        ],
-        [
-          null
-        ]
+        "Horne Park",
+        []
       ]
     ],
     [
       [
-        [
-          "Glasgow Academicals"
-        ],
+        "Glasgow Academicals",
         [
           "/wiki/Glasgow_Academicals_RFC"
         ]
       ],
       [
-        [
-          "Glasgow"
-        ],
+        "Glasgow",
         [
           "/wiki/Glasgow"
         ]
       ],
       [
-        [
-          "New Anniesland"
-        ],
+        "New Anniesland",
         [
           "/wiki/New_Anniesland"
         ]
@@ -108,25 +74,17 @@
     ],
     [
       [
-        [
-          "Glasgow High Kelvinside"
-        ],
+        "Glasgow High Kelvinside",
         [
           "/wiki/Glasgow_High_Kelvinside"
         ]
       ],
       [
-        [
-          "Glasgow"
-        ],
-        [
-          null
-        ]
+        "Glasgow",
+        []
       ],
       [
-        [
-          "Old Anniesland"
-        ],
+        "Old Anniesland",
         [
           "/wiki/Old_Anniesland"
         ]
@@ -134,155 +92,107 @@
     ],
     [
       [
-        [
-          "Gordonians"
-        ],
+        "Gordonians",
         [
           "/wiki/Gordonians_RFC"
         ]
       ],
       [
-        [
-          "Aberdeen"
-        ],
+        "Aberdeen",
         [
           "/wiki/Aberdeen"
         ]
       ],
       [
-        [
-          "Countesswells"
-        ],
-        [
-          null
-        ]
+        "Countesswells",
+        []
       ]
     ],
     [
       [
-        [
-          "Hamilton"
-        ],
+        "Hamilton",
         [
           "/wiki/Hamilton_RFC"
         ]
       ],
       [
-        [
-          "Hamilton"
-        ],
+        "Hamilton",
         [
           "/wiki/Hamilton,_South_Lanarkshire"
         ]
       ],
       [
-        [
-          "Laigh Bent"
-        ],
-        [
-          null
-        ]
+        "Laigh Bent",
+        []
       ]
     ],
     [
       [
-        [
-          "Kirkcaldy"
-        ],
+        "Kirkcaldy",
         [
           "/wiki/Kirkcaldy_RFC"
         ]
       ],
       [
-        [
-          "Kirkcaldy"
-        ],
+        "Kirkcaldy",
         [
           "/wiki/Kirkcaldy"
         ]
       ],
       [
-        [
-          "Beveridge Park"
-        ],
-        [
-          null
-        ]
+        "Beveridge Park",
+        []
       ]
     ],
     [
       [
-        [
-          "Newton Stewart"
-        ],
-        [
-          null
-        ]
+        "Newton Stewart",
+        []
       ],
       [
-        [
-          "Wigtown"
-        ],
+        "Wigtown",
         [
           "/wiki/Wigtown"
         ]
       ],
       [
-        [
-          "Bladnoch Park"
-        ],
-        [
-          null
-        ]
+        "Bladnoch Park",
+        []
       ]
     ],
     [
       [
-        [
-          "Peebles"
-        ],
+        "Peebles",
         [
           "/wiki/Peebles_RFC"
         ]
       ],
       [
-        [
-          "Peebles"
-        ],
+        "Peebles",
         [
           "/wiki/Peebles"
         ]
       ],
       [
-        [
-          "The Gytes"
-        ],
-        [
-          null
-        ]
+        "The Gytes",
+        []
       ]
     ],
     [
       [
-        [
-          "Preston Lodge"
-        ],
+        "Preston Lodge",
         [
           "/wiki/Preston_Lodge_RFC"
         ]
       ],
       [
-        [
-          "Prestonpans"
-        ],
+        "Prestonpans",
         [
           "/wiki/Prestonpans"
         ]
       ],
       [
-        [
-          "Pennypit Park"
-        ],
+        "Pennypit Park",
         [
           "/wiki/Pennypit_Park"
         ]
@@ -290,25 +200,19 @@
     ],
     [
       [
-        [
-          "Stewarts Melville"
-        ],
+        "Stewarts Melville",
         [
           "/wiki/Stewart's_Melville_RFC"
         ]
       ],
       [
-        [
-          "Edinburgh"
-        ],
+        "Edinburgh",
         [
           "/wiki/Edinburgh"
         ]
       ],
       [
-        [
-          "Inverleith"
-        ],
+        "Inverleith",
         [
           "/wiki/Inverleith"
         ]
@@ -316,28 +220,20 @@
     ],
     [
       [
-        [
-          "Whitecraigs"
-        ],
+        "Whitecraigs",
         [
           "/wiki/Whitecraigs_RFC"
         ]
       ],
       [
-        [
-          "Whitecraigs"
-        ],
+        "Whitecraigs",
         [
           "/wiki/Whitecraigs"
         ]
       ],
       [
-        [
-          "West Lodge"
-        ],
-        [
-          null
-        ]
+        "West Lodge",
+        []
       ]
     ]
   ],

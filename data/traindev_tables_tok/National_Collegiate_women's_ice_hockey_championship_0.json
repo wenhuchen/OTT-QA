@@ -3,100 +3,62 @@
   "title": "NCAA Women's Ice Hockey Tournament",
   "header": [
     [
-      [
-        "Year"
-      ],
-      [
-        null
-      ]
+      "Year",
+      []
     ],
     [
-      [
-        "Champion"
-      ],
-      [
-        null
-      ]
+      "Champion",
+      []
     ],
     [
-      [
-        "Score"
-      ],
-      [
-        null
-      ]
+      "Score",
+      []
     ],
     [
-      [
-        "Runner-up"
-      ],
-      [
-        null
-      ]
+      "Runner-up",
+      []
     ],
     [
-      [
-        "City"
-      ],
-      [
-        null
-      ]
+      "City",
+      []
     ],
     [
-      [
-        "Arena"
-      ],
-      [
-        null
-      ]
+      "Arena",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "2001"
-        ],
+        "2001",
         [
           "/wiki/2001_NCAA_Division_I_Women's_Ice_Hockey_Tournament"
         ]
       ],
       [
-        [
-          "Minnesota-Duluth"
-        ],
+        "Minnesota-Duluth",
         [
           "/wiki/Minnesota\u2013Duluth_Bulldogs_women's_ice_hockey"
         ]
       ],
       [
-        [
-          "4-2"
-        ],
-        [
-          null
-        ]
+        "4-2",
+        []
       ],
       [
-        [
-          "St. Lawrence"
-        ],
+        "St. Lawrence",
         [
           "/wiki/St._Lawrence_Saints_women's_ice_hockey"
         ]
       ],
       [
-        [
-          "Minneapolis , MN"
-        ],
+        "Minneapolis , MN",
         [
           "/wiki/Minneapolis"
         ]
       ],
       [
-        [
-          "Mariucci Arena"
-        ],
+        "Mariucci Arena",
         [
           "/wiki/Mariucci_Arena"
         ]
@@ -104,99 +66,69 @@
     ],
     [
       [
-        [
-          "2002"
-        ],
+        "2002",
         [
           "/wiki/2002_NCAA_Division_I_Women's_Ice_Hockey_Tournament"
         ]
       ],
       [
-        [
-          "Minnesota-Duluth ( 2 )"
-        ],
+        "Minnesota-Duluth ( 2 )",
         [
           "/wiki/Minnesota\u2013Duluth_Bulldogs_women's_ice_hockey"
         ]
       ],
       [
-        [
-          "3-2"
-        ],
-        [
-          null
-        ]
+        "3-2",
+        []
       ],
       [
-        [
-          "Brown"
-        ],
+        "Brown",
         [
           "/wiki/Brown_Bears_women's_ice_hockey"
         ]
       ],
       [
-        [
-          "Durham , NH"
-        ],
+        "Durham , NH",
         [
           "/wiki/Durham,_New_Hampshire"
         ]
       ],
       [
-        [
-          "Whittemore Center"
-        ],
-        [
-          null
-        ]
+        "Whittemore Center",
+        []
       ]
     ],
     [
       [
-        [
-          "2003"
-        ],
+        "2003",
         [
           "/wiki/2003_NCAA_Division_I_Women's_Ice_Hockey_Tournament"
         ]
       ],
       [
-        [
-          "Minnesota-Duluth ( 3 )"
-        ],
+        "Minnesota-Duluth ( 3 )",
         [
           "/wiki/Minnesota\u2013Duluth_Bulldogs_women's_ice_hockey"
         ]
       ],
       [
-        [
-          "4-3 ( 2OT )"
-        ],
-        [
-          null
-        ]
+        "4-3 ( 2OT )",
+        []
       ],
       [
-        [
-          "Harvard"
-        ],
+        "Harvard",
         [
           "/wiki/Harvard_Crimson_women's_ice_hockey"
         ]
       ],
       [
-        [
-          "Duluth , MN"
-        ],
+        "Duluth , MN",
         [
           "/wiki/Duluth,_Minnesota"
         ]
       ],
       [
-        [
-          "DECC Arena"
-        ],
+        "DECC Arena",
         [
           "/wiki/Duluth_Entertainment_Convention_Center"
         ]
@@ -204,49 +136,35 @@
     ],
     [
       [
-        [
-          "2004"
-        ],
+        "2004",
         [
           "/wiki/2004_NCAA_Division_I_Women's_Ice_Hockey_Tournament"
         ]
       ],
       [
-        [
-          "Minnesota"
-        ],
+        "Minnesota",
         [
           "/wiki/Minnesota_Golden_Gophers_women's_ice_hockey"
         ]
       ],
       [
-        [
-          "6-2"
-        ],
-        [
-          null
-        ]
+        "6-2",
+        []
       ],
       [
-        [
-          "Harvard"
-        ],
+        "Harvard",
         [
           "/wiki/Harvard_Crimson_women's_ice_hockey"
         ]
       ],
       [
-        [
-          "Providence , RI"
-        ],
+        "Providence , RI",
         [
           "/wiki/Providence,_Rhode_Island"
         ]
       ],
       [
-        [
-          "Dunkin ' Donuts Center"
-        ],
+        "Dunkin ' Donuts Center",
         [
           "/wiki/Dunkin'_Donuts_Center"
         ]
@@ -254,149 +172,99 @@
     ],
     [
       [
-        [
-          "2005"
-        ],
+        "2005",
         [
           "/wiki/2005_NCAA_Division_I_Women's_Ice_Hockey_Tournament"
         ]
       ],
       [
-        [
-          "Minnesota ( 2 )"
-        ],
+        "Minnesota ( 2 )",
         [
           "/wiki/Minnesota_Golden_Gophers_women's_ice_hockey"
         ]
       ],
       [
-        [
-          "4-3"
-        ],
-        [
-          null
-        ]
+        "4-3",
+        []
       ],
       [
-        [
-          "Harvard"
-        ],
+        "Harvard",
         [
           "/wiki/Harvard_Crimson_women's_ice_hockey"
         ]
       ],
       [
-        [
-          "Durham , NH"
-        ],
-        [
-          null
-        ]
+        "Durham , NH",
+        []
       ],
       [
-        [
-          "Whittemore Center"
-        ],
-        [
-          null
-        ]
+        "Whittemore Center",
+        []
       ]
     ],
     [
       [
-        [
-          "2006"
-        ],
+        "2006",
         [
           "/wiki/2006_NCAA_Division_I_Women's_Ice_Hockey_Tournament"
         ]
       ],
       [
-        [
-          "Wisconsin"
-        ],
+        "Wisconsin",
         [
           "/wiki/Wisconsin_Badgers_women's_ice_hockey"
         ]
       ],
       [
-        [
-          "3-0"
-        ],
-        [
-          null
-        ]
+        "3-0",
+        []
       ],
       [
-        [
-          "Minnesota"
-        ],
+        "Minnesota",
         [
           "/wiki/Minnesota_Golden_Gophers_women's_ice_hockey"
         ]
       ],
       [
-        [
-          "Minneapolis , MN"
-        ],
-        [
-          null
-        ]
+        "Minneapolis , MN",
+        []
       ],
       [
-        [
-          "Mariucci Arena"
-        ],
-        [
-          null
-        ]
+        "Mariucci Arena",
+        []
       ]
     ],
     [
       [
-        [
-          "2007"
-        ],
+        "2007",
         [
           "/wiki/2007_NCAA_Division_I_Women's_Ice_Hockey_Tournament"
         ]
       ],
       [
-        [
-          "Wisconsin ( 2 )"
-        ],
+        "Wisconsin ( 2 )",
         [
           "/wiki/Wisconsin_Badgers_women's_ice_hockey"
         ]
       ],
       [
-        [
-          "4-1"
-        ],
-        [
-          null
-        ]
+        "4-1",
+        []
       ],
       [
-        [
-          "Minnesota-Duluth"
-        ],
+        "Minnesota-Duluth",
         [
           "/wiki/Minnesota\u2013Duluth_Bulldogs_women's_ice_hockey"
         ]
       ],
       [
-        [
-          "Lake Placid , NY"
-        ],
+        "Lake Placid , NY",
         [
           "/wiki/Lake_Placid,_New_York"
         ]
       ],
       [
-        [
-          "Herb Brooks Arena"
-        ],
+        "Herb Brooks Arena",
         [
           "/wiki/Herb_Brooks_Arena"
         ]
@@ -404,99 +272,67 @@
     ],
     [
       [
-        [
-          "2008"
-        ],
+        "2008",
         [
           "/wiki/2008_NCAA_Division_I_Women's_Ice_Hockey_Tournament"
         ]
       ],
       [
-        [
-          "Minnesota-Duluth ( 4 )"
-        ],
+        "Minnesota-Duluth ( 4 )",
         [
           "/wiki/Minnesota\u2013Duluth_Bulldogs_women's_ice_hockey"
         ]
       ],
       [
-        [
-          "4-0"
-        ],
-        [
-          null
-        ]
+        "4-0",
+        []
       ],
       [
-        [
-          "Wisconsin"
-        ],
+        "Wisconsin",
         [
           "/wiki/Wisconsin_Badgers_women's_ice_hockey"
         ]
       ],
       [
-        [
-          "Duluth , MN"
-        ],
-        [
-          null
-        ]
+        "Duluth , MN",
+        []
       ],
       [
-        [
-          "DECC Arena"
-        ],
-        [
-          null
-        ]
+        "DECC Arena",
+        []
       ]
     ],
     [
       [
-        [
-          "2009"
-        ],
+        "2009",
         [
           "/wiki/2009_NCAA_Division_I_Women's_Ice_Hockey_Tournament"
         ]
       ],
       [
-        [
-          "Wisconsin ( 3 )"
-        ],
+        "Wisconsin ( 3 )",
         [
           "/wiki/Wisconsin_Badgers_women's_ice_hockey"
         ]
       ],
       [
-        [
-          "5-0"
-        ],
-        [
-          null
-        ]
+        "5-0",
+        []
       ],
       [
-        [
-          "Mercyhurst"
-        ],
+        "Mercyhurst",
         [
           "/wiki/Mercyhurst_Lakers_women's_ice_hockey"
         ]
       ],
       [
-        [
-          "Boston , MA"
-        ],
+        "Boston , MA",
         [
           "/wiki/Boston"
         ]
       ],
       [
-        [
-          "Agganis Arena"
-        ],
+        "Agganis Arena",
         [
           "/wiki/Agganis_Arena"
         ]
@@ -504,49 +340,33 @@
     ],
     [
       [
-        [
-          "2010"
-        ],
+        "2010",
         [
           "/wiki/2010_NCAA_Division_I_Women's_Ice_Hockey_Tournament"
         ]
       ],
       [
-        [
-          "Minnesota-Duluth ( 5 )"
-        ],
+        "Minnesota-Duluth ( 5 )",
         [
           "/wiki/Minnesota\u2013Duluth_Bulldogs_women's_ice_hockey"
         ]
       ],
       [
-        [
-          "3-2 ( 3OT )"
-        ],
-        [
-          null
-        ]
+        "3-2 ( 3OT )",
+        []
       ],
       [
-        [
-          "Cornell"
-        ],
+        "Cornell",
         [
           "/wiki/Cornell_Big_Red_women's_ice_hockey"
         ]
       ],
       [
-        [
-          "Minneapolis , MN"
-        ],
-        [
-          null
-        ]
+        "Minneapolis , MN",
+        []
       ],
       [
-        [
-          "Ridder Arena"
-        ],
+        "Ridder Arena",
         [
           "/wiki/Ridder_Arena"
         ]
@@ -554,49 +374,35 @@
     ],
     [
       [
-        [
-          "2011"
-        ],
+        "2011",
         [
           "/wiki/2011_NCAA_Division_I_Women's_Ice_Hockey_Tournament"
         ]
       ],
       [
-        [
-          "Wisconsin ( 4 )"
-        ],
+        "Wisconsin ( 4 )",
         [
           "/wiki/Wisconsin_Badgers_women's_ice_hockey"
         ]
       ],
       [
-        [
-          "4-1"
-        ],
-        [
-          null
-        ]
+        "4-1",
+        []
       ],
       [
-        [
-          "Boston University"
-        ],
+        "Boston University",
         [
           "/wiki/Boston_University_Terriers_women's_ice_hockey"
         ]
       ],
       [
-        [
-          "Erie , PA"
-        ],
+        "Erie , PA",
         [
           "/wiki/Erie,_Pennsylvania"
         ]
       ],
       [
-        [
-          "Erie Insurance Arena"
-        ],
+        "Erie Insurance Arena",
         [
           "/wiki/Erie_Insurance_Arena"
         ]
@@ -604,49 +410,33 @@
     ],
     [
       [
-        [
-          "2012"
-        ],
+        "2012",
         [
           "/wiki/2012_NCAA_Division_I_Women's_Ice_Hockey_Tournament"
         ]
       ],
       [
-        [
-          "Minnesota ( 3 )"
-        ],
+        "Minnesota ( 3 )",
         [
           "/wiki/Minnesota_Golden_Gophers_women's_ice_hockey"
         ]
       ],
       [
-        [
-          "4-2"
-        ],
-        [
-          null
-        ]
+        "4-2",
+        []
       ],
       [
-        [
-          "Wisconsin"
-        ],
+        "Wisconsin",
         [
           "/wiki/Wisconsin_Badgers_women's_ice_hockey"
         ]
       ],
       [
-        [
-          "Duluth , MN"
-        ],
-        [
-          null
-        ]
+        "Duluth , MN",
+        []
       ],
       [
-        [
-          "AMSOIL Arena"
-        ],
+        "AMSOIL Arena",
         [
           "/wiki/AMSOIL_Arena"
         ]
@@ -654,99 +444,67 @@
     ],
     [
       [
-        [
-          "2013"
-        ],
+        "2013",
         [
           "/wiki/2013_NCAA_Division_I_Women's_Ice_Hockey_Tournament"
         ]
       ],
       [
-        [
-          "Minnesota ( 4 )"
-        ],
+        "Minnesota ( 4 )",
         [
           "/wiki/Minnesota_Golden_Gophers_women's_ice_hockey"
         ]
       ],
       [
-        [
-          "6-3"
-        ],
-        [
-          null
-        ]
+        "6-3",
+        []
       ],
       [
-        [
-          "Boston University"
-        ],
+        "Boston University",
         [
           "/wiki/Boston_University_Terriers_women's_ice_hockey"
         ]
       ],
       [
-        [
-          "Minneapolis , MN"
-        ],
-        [
-          null
-        ]
+        "Minneapolis , MN",
+        []
       ],
       [
-        [
-          "Ridder Arena"
-        ],
-        [
-          null
-        ]
+        "Ridder Arena",
+        []
       ]
     ],
     [
       [
-        [
-          "2014"
-        ],
+        "2014",
         [
           "/wiki/2014_NCAA_Division_I_Women's_Ice_Hockey_Tournament"
         ]
       ],
       [
-        [
-          "Clarkson"
-        ],
+        "Clarkson",
         [
           "/wiki/Clarkson_Golden_Knights_women's_ice_hockey"
         ]
       ],
       [
-        [
-          "5-4"
-        ],
-        [
-          null
-        ]
+        "5-4",
+        []
       ],
       [
-        [
-          "Minnesota"
-        ],
+        "Minnesota",
         [
           "/wiki/Minnesota_Golden_Gophers_women's_ice_hockey"
         ]
       ],
       [
-        [
-          "Hamden , CT"
-        ],
+        "Hamden , CT",
         [
           "/wiki/Hamden,_Connecticut"
         ]
       ],
       [
-        [
-          "People 's United Center"
-        ],
+        "People 's United Center",
         [
           "/wiki/People's_United_Center"
         ]
@@ -754,149 +512,99 @@
     ],
     [
       [
-        [
-          "2015"
-        ],
+        "2015",
         [
           "/wiki/2015_NCAA_National_Collegiate_Women's_Ice_Hockey_Tournament"
         ]
       ],
       [
-        [
-          "Minnesota ( 5 )"
-        ],
+        "Minnesota ( 5 )",
         [
           "/wiki/Minnesota_Golden_Gophers_women's_ice_hockey"
         ]
       ],
       [
-        [
-          "4-1"
-        ],
-        [
-          null
-        ]
+        "4-1",
+        []
       ],
       [
-        [
-          "Harvard"
-        ],
+        "Harvard",
         [
           "/wiki/Harvard_Crimson_women's_ice_hockey"
         ]
       ],
       [
-        [
-          "Minneapolis , MN"
-        ],
-        [
-          null
-        ]
+        "Minneapolis , MN",
+        []
       ],
       [
-        [
-          "Ridder Arena"
-        ],
-        [
-          null
-        ]
+        "Ridder Arena",
+        []
       ]
     ],
     [
       [
-        [
-          "2016"
-        ],
+        "2016",
         [
           "/wiki/2016_NCAA_National_Collegiate_Women's_Ice_Hockey_Tournament"
         ]
       ],
       [
-        [
-          "Minnesota ( 6 )"
-        ],
+        "Minnesota ( 6 )",
         [
           "/wiki/Minnesota_Golden_Gophers_women's_ice_hockey"
         ]
       ],
       [
-        [
-          "3-1"
-        ],
-        [
-          null
-        ]
+        "3-1",
+        []
       ],
       [
-        [
-          "Boston College"
-        ],
+        "Boston College",
         [
           "/wiki/Boston_College_Eagles_women's_ice_hockey"
         ]
       ],
       [
-        [
-          "Durham , NH"
-        ],
-        [
-          null
-        ]
+        "Durham , NH",
+        []
       ],
       [
-        [
-          "Whittemore Center"
-        ],
-        [
-          null
-        ]
+        "Whittemore Center",
+        []
       ]
     ],
     [
       [
-        [
-          "2017"
-        ],
+        "2017",
         [
           "/wiki/2017_NCAA_National_Collegiate_Women's_Ice_Hockey_Tournament"
         ]
       ],
       [
-        [
-          "Clarkson ( 2 )"
-        ],
+        "Clarkson ( 2 )",
         [
           "/wiki/Clarkson_Golden_Knights_women's_ice_hockey"
         ]
       ],
       [
-        [
-          "3-0"
-        ],
-        [
-          null
-        ]
+        "3-0",
+        []
       ],
       [
-        [
-          "Wisconsin"
-        ],
+        "Wisconsin",
         [
           "/wiki/Wisconsin_Badgers_women's_ice_hockey"
         ]
       ],
       [
-        [
-          "St. Charles , MO"
-        ],
+        "St. Charles , MO",
         [
           "/wiki/St._Charles,_Missouri"
         ]
       ],
       [
-        [
-          "Family Arena"
-        ],
+        "Family Arena",
         [
           "/wiki/Family_Arena"
         ]
@@ -904,49 +612,33 @@
     ],
     [
       [
-        [
-          "2018"
-        ],
+        "2018",
         [
           "/wiki/2018_NCAA_National_Collegiate_Women's_Ice_Hockey_Tournament"
         ]
       ],
       [
-        [
-          "Clarkson ( 3 )"
-        ],
+        "Clarkson ( 3 )",
         [
           "/wiki/Clarkson_Golden_Knights_women's_ice_hockey"
         ]
       ],
       [
-        [
-          "2-1 ( OT )"
-        ],
-        [
-          null
-        ]
+        "2-1 ( OT )",
+        []
       ],
       [
-        [
-          "Colgate"
-        ],
+        "Colgate",
         [
           "/wiki/Colgate_Raiders_women's_ice_hockey"
         ]
       ],
       [
-        [
-          "Minneapolis , MN"
-        ],
-        [
-          null
-        ]
+        "Minneapolis , MN",
+        []
       ],
       [
-        [
-          "Ridder Arena"
-        ],
+        "Ridder Arena",
         [
           "/wiki/Ridder_Arena"
         ]
@@ -954,49 +646,33 @@
     ],
     [
       [
-        [
-          "2019"
-        ],
+        "2019",
         [
           "/wiki/2019_NCAA_National_Collegiate_Women's_Ice_Hockey_Tournament"
         ]
       ],
       [
-        [
-          "Wisconsin ( 5 )"
-        ],
+        "Wisconsin ( 5 )",
         [
           "/wiki/Wisconsin_Badgers_women's_ice_hockey"
         ]
       ],
       [
-        [
-          "2-0"
-        ],
-        [
-          null
-        ]
+        "2-0",
+        []
       ],
       [
-        [
-          "Minnesota"
-        ],
+        "Minnesota",
         [
           "/wiki/Minnesota_Golden_Gophers_women's_ice_hockey"
         ]
       ],
       [
-        [
-          "Hamden , CT"
-        ],
-        [
-          null
-        ]
+        "Hamden , CT",
+        []
       ],
       [
-        [
-          "People 's United Center"
-        ],
+        "People 's United Center",
         [
           "/wiki/People's_United_Center"
         ]
@@ -1004,52 +680,28 @@
     ],
     [
       [
-        [
-          "2020"
-        ],
-        [
-          null
-        ]
+        "2020",
+        []
       ],
       [
-        [
-          "TBD"
-        ],
-        [
-          null
-        ]
+        "TBD",
+        []
       ],
       [
-        [
-          "TBD"
-        ],
-        [
-          null
-        ]
+        "TBD",
+        []
       ],
       [
-        [
-          "TBD"
-        ],
-        [
-          null
-        ]
+        "TBD",
+        []
       ],
       [
-        [
-          "Boston , MA"
-        ],
-        [
-          null
-        ]
+        "Boston , MA",
+        []
       ],
       [
-        [
-          "Agganis Arena"
-        ],
-        [
-          null
-        ]
+        "Agganis Arena",
+        []
       ]
     ]
   ],

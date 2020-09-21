@@ -3,717 +3,437 @@
   "title": "Restriction enzyme",
   "header": [
     [
-      [
-        "Enzyme"
-      ],
-      [
-        null
-      ]
+      "Enzyme",
+      []
     ],
     [
-      [
-        "Source"
-      ],
-      [
-        null
-      ]
+      "Source",
+      []
     ],
     [
-      [
-        "Recognition Sequence"
-      ],
-      [
-        null
-      ]
+      "Recognition Sequence",
+      []
     ],
     [
-      [
-        "Cut"
-      ],
-      [
-        null
-      ]
+      "Cut",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "EcoRI"
-        ],
+        "EcoRI",
         [
           "/wiki/EcoRI"
         ]
       ],
       [
-        [
-          "Escherichia coli"
-        ],
+        "Escherichia coli",
         [
           "/wiki/Escherichia_coli"
         ]
       ],
       [
-        [
-          "5'GAATTC 3'CTTAAG"
-        ],
-        [
-          null
-        ]
+        "5'GAATTC 3'CTTAAG",
+        []
       ],
       [
-        [
-          "5 ' -- -G AATTC -- -3 ' 3 ' -- -CTTAA G -- -5 '"
-        ],
-        [
-          null
-        ]
+        "5 ' -- -G AATTC -- -3 ' 3 ' -- -CTTAA G -- -5 '",
+        []
       ]
     ],
     [
       [
-        [
-          "EcoRII"
-        ],
+        "EcoRII",
         [
           "/wiki/EcoRII"
         ]
       ],
       [
-        [
-          "Escherichia coli"
-        ],
+        "Escherichia coli",
         [
           "/wiki/Escherichia_coli"
         ]
       ],
       [
-        [
-          "5'CCWGG 3'GGWCC"
-        ],
-        [
-          null
-        ]
+        "5'CCWGG 3'GGWCC",
+        []
       ],
       [
-        [
-          "5 ' -- - CCWGG -- -3 ' 3 ' -- -GGWCC -- -5 '"
-        ],
-        [
-          null
-        ]
+        "5 ' -- - CCWGG -- -3 ' 3 ' -- -GGWCC -- -5 '",
+        []
       ]
     ],
     [
       [
-        [
-          "BamHI"
-        ],
+        "BamHI",
         [
           "/wiki/BamHI"
         ]
       ],
       [
-        [
-          "Bacillus amyloliquefaciens"
-        ],
+        "Bacillus amyloliquefaciens",
         [
           "/wiki/Bacillus_amyloliquefaciens"
         ]
       ],
       [
-        [
-          "5'GGATCC 3'CCTAGG"
-        ],
-        [
-          null
-        ]
+        "5'GGATCC 3'CCTAGG",
+        []
       ],
       [
-        [
-          "5 ' -- -G GATCC -- -3 ' 3 ' -- -CCTAG G -- -5 '"
-        ],
-        [
-          null
-        ]
+        "5 ' -- -G GATCC -- -3 ' 3 ' -- -CCTAG G -- -5 '",
+        []
       ]
     ],
     [
       [
-        [
-          "HindIII"
-        ],
+        "HindIII",
         [
           "/wiki/HindIII"
         ]
       ],
       [
-        [
-          "Haemophilus influenzae"
-        ],
+        "Haemophilus influenzae",
         [
           "/wiki/Haemophilus_influenzae"
         ]
       ],
       [
-        [
-          "5'AAGCTT 3'TTCGAA"
-        ],
-        [
-          null
-        ]
+        "5'AAGCTT 3'TTCGAA",
+        []
       ],
       [
-        [
-          "5 ' -- -A AGCTT -- -3 ' 3 ' -- -TTCGA A -- -5 '"
-        ],
-        [
-          null
-        ]
+        "5 ' -- -A AGCTT -- -3 ' 3 ' -- -TTCGA A -- -5 '",
+        []
       ]
     ],
     [
       [
-        [
-          "TaqI"
-        ],
+        "TaqI",
         [
           "/wiki/TaqI"
         ]
       ],
       [
-        [
-          "Thermus aquaticus"
-        ],
+        "Thermus aquaticus",
         [
           "/wiki/Thermus_aquaticus"
         ]
       ],
       [
-        [
-          "5'TCGA 3'AGCT"
-        ],
-        [
-          null
-        ]
+        "5'TCGA 3'AGCT",
+        []
       ],
       [
-        [
-          "5 ' -- -T CGA -- -3 ' 3 ' -- -AGC T -- -5 '"
-        ],
-        [
-          null
-        ]
+        "5 ' -- -T CGA -- -3 ' 3 ' -- -AGC T -- -5 '",
+        []
       ]
     ],
     [
       [
-        [
-          "NotI"
-        ],
+        "NotI",
         [
           "/wiki/NotI"
         ]
       ],
       [
-        [
-          "Nocardia otitidis"
-        ],
-        [
-          null
-        ]
+        "Nocardia otitidis",
+        []
       ],
       [
-        [
-          "5'GCGGCCGC 3'CGCCGGCG"
-        ],
-        [
-          null
-        ]
+        "5'GCGGCCGC 3'CGCCGGCG",
+        []
       ],
       [
-        [
-          "5 ' -- -GC GGCCGC -- -3 ' 3 ' -- -CGCCGG CG -- -5 '"
-        ],
-        [
-          null
-        ]
+        "5 ' -- -GC GGCCGC -- -3 ' 3 ' -- -CGCCGG CG -- -5 '",
+        []
       ]
     ],
     [
       [
-        [
-          "HinFI"
-        ],
-        [
-          null
-        ]
+        "HinFI",
+        []
       ],
       [
-        [
-          "Haemophilus influenzae"
-        ],
+        "Haemophilus influenzae",
         [
           "/wiki/Haemophilus_influenzae"
         ]
       ],
       [
-        [
-          "5'GANTC 3'CTNAG"
-        ],
-        [
-          null
-        ]
+        "5'GANTC 3'CTNAG",
+        []
       ],
       [
-        [
-          "5 ' -- -G ANTC -- -3 ' 3 ' -- -CTNA G -- -5 '"
-        ],
-        [
-          null
-        ]
+        "5 ' -- -G ANTC -- -3 ' 3 ' -- -CTNA G -- -5 '",
+        []
       ]
     ],
     [
       [
-        [
-          "Sau3AI"
-        ],
-        [
-          null
-        ]
+        "Sau3AI",
+        []
       ],
       [
-        [
-          "Staphylococcus aureus"
-        ],
+        "Staphylococcus aureus",
         [
           "/wiki/Staphylococcus_aureus"
         ]
       ],
       [
-        [
-          "5'GATC 3'CTAG"
-        ],
-        [
-          null
-        ]
+        "5'GATC 3'CTAG",
+        []
       ],
       [
-        [
-          "5 ' -- - GATC -- -3 ' 3 ' -- -CTAG -- -5 '"
-        ],
-        [
-          null
-        ]
+        "5 ' -- - GATC -- -3 ' 3 ' -- -CTAG -- -5 '",
+        []
       ]
     ],
     [
       [
-        [
-          "PvuII*"
-        ],
-        [
-          null
-        ]
+        "PvuII*",
+        []
       ],
       [
-        [
-          "Proteus vulgaris"
-        ],
+        "Proteus vulgaris",
         [
           "/wiki/Proteus_vulgaris"
         ]
       ],
       [
-        [
-          "5'CAGCTG 3'GTCGAC"
-        ],
-        [
-          null
-        ]
+        "5'CAGCTG 3'GTCGAC",
+        []
       ],
       [
-        [
-          "5 ' -- -CAG CTG -- -3 ' 3 ' -- -GTC GAC -- -5 '"
-        ],
-        [
-          null
-        ]
+        "5 ' -- -CAG CTG -- -3 ' 3 ' -- -GTC GAC -- -5 '",
+        []
       ]
     ],
     [
       [
-        [
-          "SmaI*"
-        ],
-        [
-          null
-        ]
+        "SmaI*",
+        []
       ],
       [
-        [
-          "Serratia marcescens"
-        ],
+        "Serratia marcescens",
         [
           "/wiki/Serratia_marcescens"
         ]
       ],
       [
-        [
-          "5'CCCGGG 3'GGGCCC"
-        ],
-        [
-          null
-        ]
+        "5'CCCGGG 3'GGGCCC",
+        []
       ],
       [
-        [
-          "5 ' -- -CCC GGG -- -3 ' 3 ' -- -GGG CCC -- -5 '"
-        ],
-        [
-          null
-        ]
+        "5 ' -- -CCC GGG -- -3 ' 3 ' -- -GGG CCC -- -5 '",
+        []
       ]
     ],
     [
       [
-        [
-          "HaeIII*"
-        ],
+        "HaeIII*",
         [
           "/wiki/HaeIII"
         ]
       ],
       [
-        [
-          "Haemophilus aegyptius"
-        ],
+        "Haemophilus aegyptius",
         [
           "/wiki/Haemophilus_influenzae_biogroup_aegyptius"
         ]
       ],
       [
-        [
-          "5'GGCC 3'CCGG"
-        ],
-        [
-          null
-        ]
+        "5'GGCC 3'CCGG",
+        []
       ],
       [
-        [
-          "5 ' -- -GG CC -- -3 ' 3 ' -- -CC GG -- -5 '"
-        ],
-        [
-          null
-        ]
+        "5 ' -- -GG CC -- -3 ' 3 ' -- -CC GG -- -5 '",
+        []
       ]
     ],
     [
       [
-        [
-          "HgaI"
-        ],
-        [
-          null
-        ]
+        "HgaI",
+        []
       ],
       [
-        [
-          "Haemophilus gallinarum"
-        ],
-        [
-          null
-        ]
+        "Haemophilus gallinarum",
+        []
       ],
       [
-        [
-          "5'GACGC 3'CTGCG"
-        ],
-        [
-          null
-        ]
+        "5'GACGC 3'CTGCG",
+        []
       ],
       [
-        [
-          "5 ' -- -NN NN -- -3 ' 3 ' -- -NN NN -- -5 '"
-        ],
-        [
-          null
-        ]
+        "5 ' -- -NN NN -- -3 ' 3 ' -- -NN NN -- -5 '",
+        []
       ]
     ],
     [
       [
-        [
-          "AluI*"
-        ],
-        [
-          null
-        ]
+        "AluI*",
+        []
       ],
       [
-        [
-          "Arthrobacter luteus"
-        ],
+        "Arthrobacter luteus",
         [
           "/wiki/Arthrobacter_luteus"
         ]
       ],
       [
-        [
-          "5'AGCT 3'TCGA"
-        ],
-        [
-          null
-        ]
+        "5'AGCT 3'TCGA",
+        []
       ],
       [
-        [
-          "5 ' -- -AG CT -- -3 ' 3 ' -- -TC GA -- -5 '"
-        ],
-        [
-          null
-        ]
+        "5 ' -- -AG CT -- -3 ' 3 ' -- -TC GA -- -5 '",
+        []
       ]
     ],
     [
       [
-        [
-          "EcoRV*"
-        ],
+        "EcoRV*",
         [
           "/wiki/EcoRV"
         ]
       ],
       [
-        [
-          "Escherichia coli"
-        ],
+        "Escherichia coli",
         [
           "/wiki/Escherichia_coli"
         ]
       ],
       [
-        [
-          "5'GATATC 3'CTATAG"
-        ],
-        [
-          null
-        ]
+        "5'GATATC 3'CTATAG",
+        []
       ],
       [
-        [
-          "5 ' -- -GAT ATC -- -3 ' 3 ' -- -CTA TAG -- -5 '"
-        ],
-        [
-          null
-        ]
+        "5 ' -- -GAT ATC -- -3 ' 3 ' -- -CTA TAG -- -5 '",
+        []
       ]
     ],
     [
       [
-        [
-          "EcoP15I"
-        ],
-        [
-          null
-        ]
+        "EcoP15I",
+        []
       ],
       [
-        [
-          "Escherichia coli"
-        ],
+        "Escherichia coli",
         [
           "/wiki/Escherichia_coli"
         ]
       ],
       [
-        [
-          "5'CAGCAGN 25 NN 3'GTCGTCN 25 NN"
-        ],
-        [
-          null
-        ]
+        "5'CAGCAGN 25 NN 3'GTCGTCN 25 NN",
+        []
       ],
       [
-        [
-          "5 ' -- -CAGCAGN 25 NN -- -3 ' 3 ' -- -GTCGTCN 25 NN -- -5 '"
-        ],
-        [
-          null
-        ]
+        "5 ' -- -CAGCAGN 25 NN -- -3 ' 3 ' -- -GTCGTCN 25 NN -- -5 '",
+        []
       ]
     ],
     [
       [
-        [
-          "KpnI"
-        ],
-        [
-          null
-        ]
+        "KpnI",
+        []
       ],
       [
-        [
-          "Klebsiella pneumoniae"
-        ],
+        "Klebsiella pneumoniae",
         [
           "/wiki/Klebsiella_pneumoniae"
         ]
       ],
       [
-        [
-          "5'GGTACC 3'CCATGG"
-        ],
-        [
-          null
-        ]
+        "5'GGTACC 3'CCATGG",
+        []
       ],
       [
-        [
-          "5 ' -- -GGTAC C -- -3 ' 3 ' -- -C CATGG -- -5 '"
-        ],
-        [
-          null
-        ]
+        "5 ' -- -GGTAC C -- -3 ' 3 ' -- -C CATGG -- -5 '",
+        []
       ]
     ],
     [
       [
-        [
-          "PstI"
-        ],
+        "PstI",
         [
           "/wiki/PstI"
         ]
       ],
       [
-        [
-          "Providencia stuartii"
-        ],
+        "Providencia stuartii",
         [
           "/wiki/Providencia_stuartii"
         ]
       ],
       [
-        [
-          "5'CTGCAG 3'GACGTC"
-        ],
-        [
-          null
-        ]
+        "5'CTGCAG 3'GACGTC",
+        []
       ],
       [
-        [
-          "5 ' -- -CTGCA G -- -3 ' 3 ' -- -G ACGTC -- -5 '"
-        ],
-        [
-          null
-        ]
+        "5 ' -- -CTGCA G -- -3 ' 3 ' -- -G ACGTC -- -5 '",
+        []
       ]
     ],
     [
       [
-        [
-          "SacI"
-        ],
+        "SacI",
         [
           "/wiki/SacI"
         ]
       ],
       [
-        [
-          "Streptomyces achromogenes"
-        ],
+        "Streptomyces achromogenes",
         [
           "/wiki/Streptomyces_achromogenes"
         ]
       ],
       [
-        [
-          "5'GAGCTC 3'CTCGAG"
-        ],
-        [
-          null
-        ]
+        "5'GAGCTC 3'CTCGAG",
+        []
       ],
       [
-        [
-          "5 ' -- -GAGCT C -- -3 ' 3 ' -- -C TCGAG -- -5 '"
-        ],
-        [
-          null
-        ]
+        "5 ' -- -GAGCT C -- -3 ' 3 ' -- -C TCGAG -- -5 '",
+        []
       ]
     ],
     [
       [
-        [
-          "SalI"
-        ],
-        [
-          null
-        ]
+        "SalI",
+        []
       ],
       [
-        [
-          "Streptomyces albus"
-        ],
+        "Streptomyces albus",
         [
           "/wiki/Streptomyces_albus"
         ]
       ],
       [
-        [
-          "5'GTCGAC 3'CAGCTG"
-        ],
-        [
-          null
-        ]
+        "5'GTCGAC 3'CAGCTG",
+        []
       ],
       [
-        [
-          "5 ' -- -G TCGAC -- -3 ' 3 ' -- -CAGCT G -- -5 '"
-        ],
-        [
-          null
-        ]
+        "5 ' -- -G TCGAC -- -3 ' 3 ' -- -CAGCT G -- -5 '",
+        []
       ]
     ],
     [
       [
-        [
-          "ScaI"
-        ],
-        [
-          null
-        ]
+        "ScaI *",
+        []
       ],
       [
-        [
-          "Streptomyces caespitosus"
-        ],
+        "Streptomyces caespitosus",
         [
           "/wiki/Streptomyces_caespitosus"
         ]
       ],
       [
-        [
-          "5'AGTACT 3'TCATGA"
-        ],
-        [
-          null
-        ]
+        "5'AGTACT 3'TCATGA",
+        []
       ],
       [
-        [
-          "5 ' -- -AGT ACT -- -3 ' 3 ' -- -TCA TGA -- -5 '"
-        ],
-        [
-          null
-        ]
+        "5 ' -- -AGT ACT -- -3 ' 3 ' -- -TCA TGA -- -5 '",
+        []
       ]
     ]
   ],

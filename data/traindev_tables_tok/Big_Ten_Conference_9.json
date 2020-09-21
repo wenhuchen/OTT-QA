@@ -3,437 +3,270 @@
   "title": "Big Ten Conference",
   "header": [
     [
-      [
-        "Pick"
-      ],
-      [
-        null
-      ]
+      "Pick",
+      []
     ],
     [
-      [
-        "Name"
-      ],
-      [
-        null
-      ]
+      "Name",
+      []
     ],
     [
-      [
-        "Location"
-      ],
-      [
-        null
-      ]
+      "Location",
+      []
     ],
     [
-      [
-        "Opposing Conference"
-      ],
-      [
-        null
-      ]
+      "Opposing Conference",
+      []
     ],
     [
-      [
-        "Opposing Pick"
-      ],
-      [
-        null
-      ]
+      "Opposing Pick",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "Rose Bowl"
-        ],
+        "Rose Bowl *",
         [
           "/wiki/Rose_Bowl_Game"
         ]
       ],
       [
-        [
-          "Pasadena , California"
-        ],
+        "Pasadena , California",
         [
           "/wiki/Pasadena,_California"
         ]
       ],
       [
-        [
-          "Pac-12"
-        ],
+        "Pac-12",
         [
           "/wiki/Pac-12_Conference"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ]
     ],
     [
       [
-        [
-          "2/3/4 or 2"
-        ],
-        [
-          null
-        ]
+        "2/3/4 or 2",
+        []
       ],
       [
-        [
-          "Citrus Bowl",
-          "Orange Bowl"
-        ],
+        "Citrus Bowl or Orange Bowl",
         [
           "/wiki/Citrus_Bowl_(game)",
           "/wiki/Orange_Bowl"
         ]
       ],
       [
-        [
-          "Orlando , Florida",
-          "Miami Gardens , Florida"
-        ],
+        "Orlando , Florida or Miami Gardens , Florida",
         [
           "/wiki/Orlando,_Florida",
           "/wiki/Miami_Gardens,_Florida"
         ]
       ],
       [
-        [
-          "SEC",
-          "ACC"
-        ],
+        "SEC or ACC",
         [
           "/wiki/Southeastern_Conference",
           "/wiki/Atlantic_Coast_Conference"
         ]
       ],
       [
-        [
-          "2 or 1"
-        ],
-        [
-          null
-        ]
+        "2 or 1",
+        []
       ]
     ],
     [
       [
-        [
-          "2/3/4"
-        ],
-        [
-          null
-        ]
+        "2/3/4",
+        []
       ],
       [
-        [
-          "Outback Bowl"
-        ],
+        "Outback Bowl",
         [
           "/wiki/Outback_Bowl"
         ]
       ],
       [
-        [
-          "Tampa , Florida"
-        ],
+        "Tampa , Florida",
         [
           "/wiki/Tampa,_Florida"
         ]
       ],
       [
-        [
-          "SEC"
-        ],
-        [
-          null
-        ]
+        "SEC",
+        []
       ],
       [
-        [
-          "4/5/6/7"
-        ],
-        [
-          null
-        ]
+        "4/5/6/7",
+        []
       ]
     ],
     [
       [
-        [
-          "2/3/4"
-        ],
-        [
-          null
-        ]
+        "2/3/4",
+        []
       ],
       [
-        [
-          "Holiday Bowl"
-        ],
+        "Holiday Bowl",
         [
           "/wiki/Holiday_Bowl"
         ]
       ],
       [
-        [
-          "San Diego"
-        ],
+        "San Diego",
         [
           "/wiki/San_Diego"
         ]
       ],
       [
-        [
-          "Pac-12"
-        ],
-        [
-          null
-        ]
+        "Pac-12",
+        []
       ],
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ]
     ],
     [
       [
-        [
-          "5/6/7"
-        ],
-        [
-          null
-        ]
+        "5/6/7",
+        []
       ],
       [
-        [
-          "Music City Bowl",
-          "Gator Bowl"
-        ],
+        "Music City Bowl or Gator Bowl \u2020",
         [
           "/wiki/Music_City_Bowl",
           "/wiki/Gator_Bowl"
         ]
       ],
       [
-        [
-          "Nashville , Tennessee",
-          "Jacksonville , Florida"
-        ],
+        "Nashville , Tennessee or Jacksonville , Florida",
         [
           "/wiki/Nashville,_Tennessee",
           "/wiki/Jacksonville,_Florida"
         ]
       ],
       [
-        [
-          "SEC"
-        ],
-        [
-          null
-        ]
+        "SEC",
+        []
       ],
       [
-        [
-          "4/5/6/7"
-        ],
-        [
-          null
-        ]
+        "4/5/6/7",
+        []
       ]
     ],
     [
       [
-        [
-          "5/6/7"
-        ],
-        [
-          null
-        ]
+        "5/6/7",
+        []
       ],
       [
-        [
-          "Redbox Bowl"
-        ],
+        "Redbox Bowl",
         [
           "/wiki/Redbox_Bowl"
         ]
       ],
       [
-        [
-          "Santa Clara , California"
-        ],
+        "Santa Clara , California",
         [
           "/wiki/Santa_Clara,_California"
         ]
       ],
       [
-        [
-          "Pac-12"
-        ],
-        [
-          null
-        ]
+        "Pac-12",
+        []
       ],
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ]
     ],
     [
       [
-        [
-          "5/6/7"
-        ],
-        [
-          null
-        ]
+        "5/6/7",
+        []
       ],
       [
-        [
-          "Pinstripe Bowl"
-        ],
+        "Pinstripe Bowl",
         [
           "/wiki/Pinstripe_Bowl"
         ]
       ],
       [
-        [
-          "New York City"
-        ],
-        [
-          null
-        ]
+        "New York City",
+        []
       ],
       [
-        [
-          "ACC"
-        ],
-        [
-          null
-        ]
+        "ACC",
+        []
       ],
       [
-        [
-          "3/4/5/6"
-        ],
-        [
-          null
-        ]
+        "3/4/5/6",
+        []
       ]
     ],
     [
       [
-        [
-          "8/9"
-        ],
-        [
-          null
-        ]
+        "8/9",
+        []
       ],
       [
-        [
-          "Quick Lane Bowl"
-        ],
+        "Quick Lane Bowl",
         [
           "/wiki/Quick_Lane_Bowl"
         ]
       ],
       [
-        [
-          "Detroit"
-        ],
+        "Detroit",
         [
           "/wiki/Detroit"
         ]
       ],
       [
-        [
-          "ACC"
-        ],
-        [
-          null
-        ]
+        "ACC",
+        []
       ],
       [
-        [
-          "7/8/9"
-        ],
-        [
-          null
-        ]
+        "7/8/9",
+        []
       ]
     ],
     [
       [
-        [
-          "8/9"
-        ],
-        [
-          null
-        ]
+        "8/9",
+        []
       ],
       [
-        [
-          "Heart of Dallas Bowl",
-          "Armed Forces Bowl"
-        ],
+        "Heart of Dallas Bowl or Armed Forces Bowl \u2021",
         [
           "/wiki/Heart_of_Dallas_Bowl",
           "/wiki/Armed_Forces_Bowl"
         ]
       ],
       [
-        [
-          "Dallas",
-          "Fort Worth , Texas"
-        ],
+        "Dallas or Fort Worth , Texas",
         [
           "/wiki/Dallas",
           "/wiki/Fort_Worth,_Texas"
         ]
       ],
       [
-        [
-          "C-USA"
-        ],
+        "C-USA",
         [
           "/wiki/Conference_USA"
         ]
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ]
     ]
   ],

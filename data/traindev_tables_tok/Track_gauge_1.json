@@ -3,101 +3,48 @@
   "title": "Track gauge",
   "header": [
     [
-      [
-        "Gauge"
-      ],
-      [
-        null
-      ]
+      "Gauge",
+      []
     ],
     [
-      [
-        "Name"
-      ],
-      [
-        null
-      ]
+      "Name",
+      []
     ],
     [
-      [
-        "Installation ( km )"
-      ],
-      [
-        null
-      ]
+      "Installation ( km )",
+      []
     ],
     [
-      [
-        "Installation ( miles )"
-      ],
-      [
-        null
-      ]
+      "Installation ( miles )",
+      []
     ],
     [
-      [
-        "Usage"
-      ],
-      [
-        null
-      ]
+      "Usage",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "1,000 mm ( 3 ft 3 \u2044 8 in )"
-        ],
-        [
-          null
-        ]
+        "1,000 mm ( 3 ft 3 \u2044 8 in )",
+        []
       ],
       [
-        [
-          "Metre gauge"
-        ],
+        "Metre gauge",
         [
           "/wiki/Metre_gauge"
         ]
       ],
       [
-        [
-          "95,000"
-        ],
-        [
-          null
-        ]
+        "95,000",
+        []
       ],
       [
-        [
-          "59,000"
-        ],
-        [
-          null
-        ]
+        "59,000",
+        []
       ],
       [
-        [
-          "Argentina",
-          "Brazil",
-          "Bolivia",
-          "Chile",
-          "Spain",
-          "Feve",
-          "FGC",
-          "Euskotren",
-          "FGV",
-          "SFM",
-          "Switzerland",
-          "RhB",
-          "MOB",
-          "BOB",
-          "MGB",
-          "Malaysia",
-          "Thailand",
-          "Indochina"
-        ],
+        "Argentina ( 11,000 km or 6,800 mi ) , Brazil ( 23,489 km or 14,595 mi ) , Bolivia , northern Chile , Spain ( Feve , FGC , Euskotren , FGV , SFM ) , Switzerland ( RhB , MOB , BOB , MGB ) , Malaysia , Thailand , Indochina , Bangladesh , East Africa ( approx . 7% of the world 's railways )",
         [
           "/wiki/Rail_transport_in_Argentina",
           "/wiki/Rail_transport_in_Brazil",
@@ -122,49 +69,25 @@
     ],
     [
       [
-        [
-          "1,067 mm ( 3 ft 6 in )"
-        ],
-        [
-          null
-        ]
+        "1,067 mm ( 3 ft 6 in )",
+        []
       ],
       [
-        [
-          "Three foot six inch gauge"
-        ],
+        "Three foot six inch gauge",
         [
           "/wiki/Three_foot_six_inch_gauge_railways"
         ]
       ],
       [
-        [
-          "112,000"
-        ],
-        [
-          null
-        ]
+        "112,000",
+        []
       ],
       [
-        [
-          "70,000"
-        ],
-        [
-          null
-        ]
+        "70,000",
+        []
       ],
       [
-        [
-          "Nigeria",
-          "Indonesia",
-          "Japan",
-          "Taiwan",
-          "Philippines",
-          "New Zealand",
-          "Queensland , Australia",
-          "Western Australia",
-          "South Australia"
-        ],
+        "Southern and Central Africa , Nigeria ( most ) , Indonesia , Japan , Taiwan , Philippines , New Zealand , Queensland , Australia , Western Australia and South Australia . ( approx . 9% of the world 's railways )",
         [
           "/wiki/Rail_transport_in_Nigeria",
           "/wiki/Rail_transport_in_Indonesia",
@@ -180,102 +103,25 @@
     ],
     [
       [
-        [
-          "1,435 mm ( 4 ft 8 \u2044 2 in )"
-        ],
-        [
-          null
-        ]
+        "1,435 mm ( 4 ft 8 \u2044 2 in )",
+        []
       ],
       [
-        [
-          "Standard gauge"
-        ],
+        "Standard gauge",
         [
           "/wiki/Standard_gauge"
         ]
       ],
       [
-        [
-          "720,000"
-        ],
-        [
-          null
-        ]
+        "720,000",
+        []
       ],
       [
-        [
-          "450,000"
-        ],
-        [
-          null
-        ]
+        "450,000",
+        []
       ],
       [
-        [
-          "Albania",
-          "Argentina",
-          "Australia",
-          "Austria",
-          "Belgium",
-          "Bosnia and Herzegovina",
-          "Brazil",
-          "Bulgaria",
-          "Canada",
-          "China",
-          "Croatia",
-          "Cuba",
-          "Czech Republic",
-          "Denmark",
-          "Djibouti",
-          "DR Congo",
-          "Ethiopia",
-          "France",
-          "Germany",
-          "Great Britain",
-          "United Kingdom",
-          "Greece",
-          "Hungary",
-          "India",
-          "rapid transit",
-          "Indonesia",
-          "Aceh",
-          "Sulawesi",
-          "Italy",
-          "Israel",
-          "Liechtenstein",
-          "Lithuania",
-          "Rail Baltica",
-          "Luxembourg",
-          "Macedonia",
-          "Mexico",
-          "Montenegro",
-          "Netherlands",
-          "North Korea",
-          "Norway",
-          "Panama",
-          "Peru",
-          "Philippines",
-          "Poland",
-          "Romania",
-          "Serbia",
-          "Slovakia",
-          "Slovenia",
-          "South Korea",
-          "Spain",
-          "AVE",
-          "Alvia",
-          "FGC",
-          "Sweden",
-          "Switzerland",
-          "Turkey",
-          "United States",
-          "Uruguay",
-          "Venezuela",
-          "Japan",
-          "Taiwan",
-          "Gautrain"
-        ],
+        "Albania , Argentina , Australia , Austria , Belgium , Bosnia and Herzegovina , Brazil ( 194 km or 121 mi ) , Bulgaria , Canada , China , Croatia , Cuba , Czech Republic , Denmark , Djibouti , DR Congo ( Kamina-Lubumbashi section , planned ) , Ethiopia , France , Germany , Great Britain ( United Kingdom ) , Greece , Hungary , India ( only used in rapid transit ) , Indonesia ( Aceh and Sulawesi ) , Italy , Israel , Liechtenstein , Lithuania ( Rail Baltica ) , Luxembourg , Macedonia , Mexico , Montenegro , Netherlands , North Korea , Norway , Panama , Peru , Philippines , Poland , Romania , Serbia , Slovakia , Slovenia , South Korea , Spain ( AVE , Alvia and FGC ) , Sweden , Switzerland , Turkey , United States , Uruguay , Venezuela , Also private companies ' lines and JR high-speed lines in Japan . High-speed lines in Taiwan . Gautrain commuter system in South Africa . ( approx . 55% of the world 's railways )",
         [
           "/wiki/Rail_transport_in_Albania",
           "/wiki/Rail_transport_in_Argentina",
@@ -344,57 +190,25 @@
     ],
     [
       [
-        [
-          "1,520 mm ( 4 ft 11 \u2044 32 in )"
-        ],
-        [
-          null
-        ]
+        "1,520 mm ( 4 ft 11 \u2044 32 in )",
+        []
       ],
       [
-        [
-          "Five foot and 1520 mm gauge"
-        ],
+        "Five foot and 1520 mm gauge",
         [
           "/wiki/5_ft_and_1520_mm_gauge_railways"
         ]
       ],
       [
-        [
-          "220,000"
-        ],
-        [
-          null
-        ]
+        "220,000",
+        []
       ],
       [
-        [
-          "140,000"
-        ],
-        [
-          null
-        ]
+        "140,000",
+        []
       ],
       [
-        [
-          "Armenia",
-          "Azerbaijan",
-          "Belarus",
-          "Finland",
-          "Estonia",
-          "Georgia",
-          "Kazakhstan",
-          "Kyrgyzstan",
-          "Latvia",
-          "Lithuania",
-          "Moldova",
-          "Mongolia",
-          "Russia",
-          "Tajikistan",
-          "Turkmenistan",
-          "Ukraine",
-          "Uzbekistan"
-        ],
+        "Armenia , Azerbaijan , Belarus , Finland , Estonia , Georgia , Kazakhstan , Kyrgyzstan , Latvia , Lithuania , Moldova , Mongolia , Russia , Tajikistan , Turkmenistan , Ukraine , Uzbekistan . ( approx . 17.2% of the world 's railways ; all contiguous - redefined from 1,524 mm ( 5 ft ) )",
         [
           "/wiki/Rail_transport_in_Armenia",
           "/wiki/Rail_transport_in_Azerbaijan",
@@ -418,41 +232,23 @@
     ],
     [
       [
-        [
-          "1,524 mm ( 5 ft )"
-        ],
-        [
-          null
-        ]
+        "1,524 mm ( 5 ft )",
+        []
       ],
       [
-        [
-          "Finnish gauge"
-        ],
-        [
-          null
-        ]
+        "Finnish gauge",
+        []
       ],
       [
-        [
-          "5,865"
-        ],
-        [
-          null
-        ]
+        "5,865",
+        []
       ],
       [
-        [
-          "3,644"
-        ],
-        [
-          null
-        ]
+        "3,644",
+        []
       ],
       [
-        [
-          "Finland"
-        ],
+        "Finland ( contiguous to and generally compatible with 1,520 mm ( 4 ft 11 \u2044 32 in ) )",
         [
           "/wiki/Rail_transport_in_Finland"
         ]
@@ -460,44 +256,25 @@
     ],
     [
       [
-        [
-          "1,600 mm ( 5 ft 3 in )"
-        ],
-        [
-          null
-        ]
+        "1,600 mm ( 5 ft 3 in )",
+        []
       ],
       [
-        [
-          "Five foot three inch gauge"
-        ],
+        "Five foot three inch gauge",
         [
           "/wiki/Five_foot_three_inch_gauge_railways"
         ]
       ],
       [
-        [
-          "9,800"
-        ],
-        [
-          null
-        ]
+        "9,800",
+        []
       ],
       [
-        [
-          "6,100"
-        ],
-        [
-          null
-        ]
+        "6,100",
+        []
       ],
       [
-        [
-          "Ireland",
-          "Northern Ireland",
-          "United Kingdom",
-          "Brazil"
-        ],
+        "Ireland , Northern Ireland ( United Kingdom ) ( 1,800 km or 1,100 mi ) , and in the Australian states of Victoria and South Australia ( 4,017 km or 2,496 mi ) , Brazil ( 4,057 km or 2,521 mi )",
         [
           "/wiki/Rail_transport_in_the_Republic_of_Ireland",
           "/wiki/Rail_transport_in_Northern_Ireland",
@@ -508,42 +285,25 @@
     ],
     [
       [
-        [
-          "1,668 mm ( 5 ft 5 \u2044 32 in )"
-        ],
-        [
-          null
-        ]
+        "1,668 mm ( 5 ft 5 \u2044 32 in )",
+        []
       ],
       [
-        [
-          "Iberian gauge"
-        ],
+        "Iberian gauge",
         [
           "/wiki/Iberian_gauge"
         ]
       ],
       [
-        [
-          "15,394"
-        ],
-        [
-          null
-        ]
+        "15,394",
+        []
       ],
       [
-        [
-          "9,565"
-        ],
-        [
-          null
-        ]
+        "9,565",
+        []
       ],
       [
-        [
-          "Portugal",
-          "Spain"
-        ],
+        "Portugal , Spain . Sometimes referred to as Iberian gauge . In Spain the Administrador de Infraestructuras Ferroviarias ( ADIF ) managed 11,683 km ( 7,259 mi ) of this gauge and 22 km ( 14 mi ) of mixed gauge at end of 2010 . The Portuguese Rede Ferrovi\u00e1ria Nacional ( REFER ) managed 2,650 km ( 1,650 mi ) of this gauge of this track at the same date",
         [
           "/wiki/Rail_transport_in_Portugal",
           "/wiki/Rail_transport_in_Spain"
@@ -552,48 +312,25 @@
     ],
     [
       [
-        [
-          "1,676 mm ( 5 ft 6 in )"
-        ],
-        [
-          null
-        ]
+        "1,676 mm ( 5 ft 6 in )",
+        []
       ],
       [
-        [
-          "Five foot six inch gauge"
-        ],
+        "Five foot six inch gauge",
         [
           "/wiki/Five_foot_six_inch_gauge_railways"
         ]
       ],
       [
-        [
-          "134,008"
-        ],
-        [
-          null
-        ]
+        "134,008",
+        []
       ],
       [
-        [
-          "83,269"
-        ],
-        [
-          null
-        ]
+        "83,269",
+        []
       ],
       [
-        [
-          "India",
-          "Pakistan",
-          "Bangladesh",
-          "Sri Lanka",
-          "Argentina",
-          "Chile",
-          "BART",
-          "San Francisco Bay Area"
-        ],
+        "India , Pakistan , Bangladesh , Sri Lanka , Argentina , Chile , BART in the United States San Francisco Bay Area ( approx . 11.37% of the world 's railways )",
         [
           "/wiki/Rail_transport_in_India",
           "/wiki/Rail_transport_in_Pakistan",

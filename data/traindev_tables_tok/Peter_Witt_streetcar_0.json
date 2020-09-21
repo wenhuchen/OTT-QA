@@ -3,68 +3,44 @@
   "title": "Peter Witt streetcar",
   "header": [
     [
-      [
-        "Operator"
-      ],
-      [
-        null
-      ]
+      "Operator",
+      []
     ],
     [
-      [
-        "City"
-      ],
-      [
-        null
-      ]
+      "City",
+      []
     ],
     [
-      [
-        "State/Province"
-      ],
-      [
-        null
-      ]
+      "State/Province",
+      []
     ],
     [
-      [
-        "Country"
-      ],
-      [
-        null
-      ]
+      "Country",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Gruppo Torinese Trasporti"
-        ],
+        "Azienda Municipalizzata Trasporti ( now Gruppo Torinese Trasporti )",
         [
           "/wiki/Gruppo_Torinese_Trasporti"
         ]
       ],
       [
-        [
-          "Turin"
-        ],
+        "Turin",
         [
           "/wiki/Turin"
         ]
       ],
       [
-        [
-          "Turin"
-        ],
+        "Turin",
         [
           "/wiki/Turin"
         ]
       ],
       [
-        [
-          "Italy"
-        ],
+        "Italy",
         [
           "/wiki/Italy"
         ]
@@ -72,101 +48,73 @@
     ],
     [
       [
-        [
-          "Azienda Napoletana Mobilit\u00e0"
-        ],
+        "Azienda Napoletana Mobilit\u00e0",
         [
           "/wiki/ANM_(Naples)"
         ]
       ],
       [
-        [
-          "Naples"
-        ],
+        "Naples",
         [
           "/wiki/Naples"
         ]
       ],
       [
-        [
-          "Naples"
-        ],
+        "Naples",
         [
           "/wiki/Naples"
         ]
       ],
       [
-        [
-          "Italy"
-        ],
-        [
-          null
-        ]
+        "Italy",
+        []
       ]
     ],
     [
       [
-        [
-          "Azienda Trasporti Milanesi"
-        ],
+        "Azienda Trasporti Milanesi",
         [
           "/wiki/Azienda_Trasporti_Milanesi"
         ]
       ],
       [
-        [
-          "Milan"
-        ],
+        "Milan",
         [
           "/wiki/Milan"
         ]
       ],
       [
-        [
-          "Milan"
-        ],
+        "Milan",
         [
           "/wiki/Milan"
         ]
       ],
       [
-        [
-          "Italy"
-        ],
-        [
-          null
-        ]
+        "Italy",
+        []
       ]
     ],
     [
       [
-        [
-          "Baltimore Transit Company"
-        ],
+        "Baltimore Transit Company",
         [
           "/wiki/Baltimore_Transit_Company"
         ]
       ],
       [
-        [
-          "Baltimore"
-        ],
+        "Baltimore",
         [
           "/wiki/Baltimore,_Maryland"
         ]
       ],
       [
-        [
-          "Maryland"
-        ],
+        "Maryland",
         [
           "/wiki/Maryland"
         ]
       ],
       [
-        [
-          "United States"
-        ],
+        "United States",
         [
           "/wiki/United_States"
         ]
@@ -174,203 +122,139 @@
     ],
     [
       [
-        [
-          "Brooklyn & Queens Transit"
-        ],
+        "Brooklyn & Queens Transit",
         [
           "/wiki/Brooklyn_&_Queens_Transit"
         ]
       ],
       [
-        [
-          "New York"
-        ],
+        "New York",
         [
           "/wiki/New_York,_New_York"
         ]
       ],
       [
-        [
-          "New York"
-        ],
+        "New York",
         [
           "/wiki/New_York_(state)"
         ]
       ],
       [
-        [
-          "United States"
-        ],
-        [
-          null
-        ]
+        "United States",
+        []
       ]
     ],
     [
       [
-        [
-          "Chicago Surface Lines"
-        ],
+        "Chicago Surface Lines",
         [
           "/wiki/Chicago_Surface_Lines"
         ]
       ],
       [
-        [
-          "Chicago"
-        ],
+        "Chicago",
         [
           "/wiki/Chicago,_Illinois"
         ]
       ],
       [
-        [
-          "Illinois"
-        ],
+        "Illinois",
         [
           "/wiki/Illinois"
         ]
       ],
       [
-        [
-          "United States"
-        ],
-        [
-          null
-        ]
+        "United States",
+        []
       ]
     ],
     [
       [
-        [
-          "Cleveland Railway"
-        ],
+        "Cleveland Railway",
         [
           "/wiki/Cleveland_Railway_(Ohio)"
         ]
       ],
       [
-        [
-          "Cleveland"
-        ],
+        "Cleveland",
         [
           "/wiki/Cleveland,_Ohio"
         ]
       ],
       [
-        [
-          "Ohio"
-        ],
+        "Ohio",
         [
           "/wiki/Ohio"
         ]
       ],
       [
-        [
-          "United States"
-        ],
-        [
-          null
-        ]
+        "United States",
+        []
       ]
     ],
     [
       [
-        [
-          "Dallas Railway & Terminal Co"
-        ],
-        [
-          null
-        ]
+        "Dallas Railway & Terminal Co",
+        []
       ],
       [
-        [
-          "Dallas"
-        ],
+        "Dallas",
         [
           "/wiki/Dallas,_Texas"
         ]
       ],
       [
-        [
-          "Texas"
-        ],
+        "Texas",
         [
           "/wiki/Texas"
         ]
       ],
       [
-        [
-          "United States"
-        ],
-        [
-          null
-        ]
+        "United States",
+        []
       ]
     ],
     [
       [
-        [
-          "Department of Street Railways"
-        ],
-        [
-          null
-        ]
+        "Department of Street Railways",
+        []
       ],
       [
-        [
-          "Detroit"
-        ],
+        "Detroit",
         [
           "/wiki/Detroit,_Michigan"
         ]
       ],
       [
-        [
-          "Michigan"
-        ],
+        "Michigan",
         [
           "/wiki/Michigan"
         ]
       ],
       [
-        [
-          "United States"
-        ],
-        [
-          null
-        ]
+        "United States",
+        []
       ]
     ],
     [
       [
-        [
-          "Empresa Municipal de Transportes"
-        ],
-        [
-          null
-        ]
+        "Empresa Municipal de Transportes",
+        []
       ],
       [
-        [
-          "Madrid"
-        ],
+        "Madrid",
         [
           "/wiki/Madrid"
         ]
       ],
       [
-        [
-          "Madrid"
-        ],
+        "Madrid",
         [
           "/wiki/Madrid"
         ]
       ],
       [
-        [
-          "Spain"
-        ],
+        "Spain",
         [
           "/wiki/Spain"
         ]
@@ -378,67 +262,45 @@
     ],
     [
       [
-        [
-          "International Railway Co"
-        ],
+        "International Railway Co",
         [
           "/wiki/International_Railway_(New_York_\u2013_Ontario)"
         ]
       ],
       [
-        [
-          "Buffalo"
-        ],
+        "Buffalo",
         [
           "/wiki/Buffalo,_New_York"
         ]
       ],
       [
-        [
-          "New York"
-        ],
-        [
-          null
-        ]
+        "New York",
+        []
       ],
       [
-        [
-          "United States"
-        ],
-        [
-          null
-        ]
+        "United States",
+        []
       ]
     ],
     [
       [
-        [
-          "Leningrad"
-        ],
-        [
-          null
-        ]
+        "Leningrad",
+        []
       ],
       [
-        [
-          "Leningrad"
-        ],
+        "Leningrad",
         [
           "/wiki/Saint_Petersburg"
         ]
       ],
       [
-        [
-          "Russian SFSR"
-        ],
+        "Russian SFSR",
         [
           "/wiki/Russian_Soviet_Federative_Socialist_Republic"
         ]
       ],
       [
-        [
-          "Soviet Union"
-        ],
+        "Soviet Union",
         [
           "/wiki/Soviet_Union"
         ]
@@ -446,33 +308,25 @@
     ],
     [
       [
-        [
-          "London Street Railway"
-        ],
+        "London Street Railway",
         [
           "/wiki/London_Street_Railway"
         ]
       ],
       [
-        [
-          "London"
-        ],
+        "London",
         [
           "/wiki/London,_Ontario"
         ]
       ],
       [
-        [
-          "Ontario"
-        ],
+        "Ontario",
         [
           "/wiki/Ontario"
         ]
       ],
       [
-        [
-          "Canada"
-        ],
+        "Canada",
         [
           "/wiki/Canada"
         ]
@@ -480,101 +334,73 @@
     ],
     [
       [
-        [
-          "Los Angeles Railway"
-        ],
+        "Los Angeles Railway",
         [
           "/wiki/Los_Angeles_Railway"
         ]
       ],
       [
-        [
-          "Los Angeles"
-        ],
+        "Los Angeles",
         [
           "/wiki/Los_Angeles,_California"
         ]
       ],
       [
-        [
-          "California"
-        ],
+        "California",
         [
           "/wiki/California"
         ]
       ],
       [
-        [
-          "United States"
-        ],
-        [
-          null
-        ]
+        "United States",
+        []
       ]
     ],
     [
       [
-        [
-          "Louisville Railway"
-        ],
+        "Louisville Railway",
         [
           "/wiki/Louisville_Railway"
         ]
       ],
       [
-        [
-          "Louisville"
-        ],
+        "Louisville",
         [
           "/wiki/Louisville,_Kentucky"
         ]
       ],
       [
-        [
-          "Kentucky"
-        ],
+        "Kentucky",
         [
           "/wiki/Kentucky"
         ]
       ],
       [
-        [
-          "United States"
-        ],
-        [
-          null
-        ]
+        "United States",
+        []
       ]
     ],
     [
       [
-        [
-          "Melbourne and Metropolitan Tramways Board"
-        ],
+        "Melbourne and Metropolitan Tramways Board",
         [
           "/wiki/Melbourne_and_Metropolitan_Tramways_Board"
         ]
       ],
       [
-        [
-          "Melbourne"
-        ],
+        "Melbourne",
         [
           "/wiki/Melbourne"
         ]
       ],
       [
-        [
-          "Victoria"
-        ],
+        "Victoria",
         [
           "/wiki/Victoria_(Australia)"
         ]
       ],
       [
-        [
-          "Australia"
-        ],
+        "Australia",
         [
           "/wiki/Australia"
         ]
@@ -582,139 +408,91 @@
     ],
     [
       [
-        [
-          "New York State Railways"
-        ],
+        "New York State Railways",
         [
           "/wiki/New_York_State_Railways"
         ]
       ],
       [
-        [
-          "Rochester",
-          "Syracuse"
-        ],
+        "Rochester & Syracuse",
         [
           "/wiki/Rochester,_New_York",
           "/wiki/Syracuse,_New_York"
         ]
       ],
       [
-        [
-          "New York"
-        ],
-        [
-          null
-        ]
+        "New York",
+        []
       ],
       [
-        [
-          "United States"
-        ],
-        [
-          null
-        ]
+        "United States",
+        []
       ]
     ],
     [
       [
-        [
-          "Ottawa Transportation Commission"
-        ],
+        "Ottawa Transportation Commission",
         [
           "/wiki/Ottawa_Transportation_Commission"
         ]
       ],
       [
-        [
-          "Ottawa"
-        ],
+        "Ottawa",
         [
           "/wiki/Ottawa"
         ]
       ],
       [
-        [
-          "Ontario"
-        ],
-        [
-          null
-        ]
+        "Ontario",
+        []
       ],
       [
-        [
-          "Canada"
-        ],
-        [
-          null
-        ]
+        "Canada",
+        []
       ]
     ],
     [
       [
-        [
-          "Philadelphia Rapid Transit",
-          "Philadelphia Transportation Company"
-        ],
+        "Philadelphia Rapid Transit & Philadelphia Transportation Company",
         [
           "/wiki/Philadelphia_Rapid_Transit",
           "/wiki/Philadelphia_Transportation_Company"
         ]
       ],
       [
-        [
-          "Philadelphia"
-        ],
+        "Philadelphia",
         [
           "/wiki/Philadelphia,_Pennsylvania"
         ]
       ],
       [
-        [
-          "Pennsylvania"
-        ],
+        "Pennsylvania",
         [
           "/wiki/Pennsylvania"
         ]
       ],
       [
-        [
-          "United States"
-        ],
-        [
-          null
-        ]
+        "United States",
+        []
       ]
     ],
     [
       [
-        [
-          "Porto Rico Railway , Light & Power Co"
-        ],
-        [
-          null
-        ]
+        "Porto Rico Railway , Light & Power Co",
+        []
       ],
       [
-        [
-          "San Juan"
-        ],
+        "San Juan",
         [
           "/wiki/San_Juan,_Puerto_Rico"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Puerto Rico"
-        ],
+        "Puerto Rico",
         [
           "/wiki/Puerto_Rico"
         ]

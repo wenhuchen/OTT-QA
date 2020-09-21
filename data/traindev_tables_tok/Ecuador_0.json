@@ -3,68 +3,48 @@
   "title": "Ecuador",
   "header": [
     [
-      [
-        "Province"
-      ],
-      [
-        null
-      ]
+      "",
+      []
     ],
     [
-      [
-        "Surface ( km )"
-      ],
-      [
-        null
-      ]
+      "Province",
+      []
     ],
     [
-      [
-        "Population ( 2010 )"
-      ],
-      [
-        null
-      ]
+      "Surface ( km )",
+      []
     ],
     [
-      [
-        "Capital"
-      ],
-      [
-        null
-      ]
+      "Population ( 2010 )",
+      []
+    ],
+    [
+      "Capital",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Azuay"
-        ],
+        "1",
+        []
+      ],
+      [
+        "Azuay",
         [
           "/wiki/Azuay_Province"
         ]
       ],
       [
-        [
-          "8,639"
-        ],
-        [
-          null
-        ]
+        "8,639",
+        []
       ],
       [
-        [
-          "702,893"
-        ],
-        [
-          null
-        ]
+        "702,893",
+        []
       ],
       [
-        [
-          "Cuenca"
-        ],
+        "Cuenca",
         [
           "/wiki/Cuenca,_Ecuador"
         ]
@@ -72,33 +52,25 @@
     ],
     [
       [
-        [
-          "Bol\u00edvar"
-        ],
+        "2",
+        []
+      ],
+      [
+        "Bol\u00edvar",
         [
           "/wiki/Bol\u00edvar_Province_(Ecuador)"
         ]
       ],
       [
-        [
-          "3,254"
-        ],
-        [
-          null
-        ]
+        "3,254",
+        []
       ],
       [
-        [
-          "182,744"
-        ],
-        [
-          null
-        ]
+        "182,744",
+        []
       ],
       [
-        [
-          "Guaranda"
-        ],
+        "Guaranda",
         [
           "/wiki/Guaranda"
         ]
@@ -106,33 +78,25 @@
     ],
     [
       [
-        [
-          "Ca\u00f1ar"
-        ],
+        "3",
+        []
+      ],
+      [
+        "Ca\u00f1ar",
         [
           "/wiki/Ca\u00f1ar_Province"
         ]
       ],
       [
-        [
-          "3,908"
-        ],
-        [
-          null
-        ]
+        "3,908",
+        []
       ],
       [
-        [
-          "223,463"
-        ],
-        [
-          null
-        ]
+        "223,463",
+        []
       ],
       [
-        [
-          "Azogues"
-        ],
+        "Azogues",
         [
           "/wiki/Azogues"
         ]
@@ -140,33 +104,25 @@
     ],
     [
       [
-        [
-          "Carchi"
-        ],
+        "4",
+        []
+      ],
+      [
+        "Carchi",
         [
           "/wiki/Carchi_Province"
         ]
       ],
       [
-        [
-          "3,699"
-        ],
-        [
-          null
-        ]
+        "3,699",
+        []
       ],
       [
-        [
-          "165,659"
-        ],
-        [
-          null
-        ]
+        "165,659",
+        []
       ],
       [
-        [
-          "Tulc\u00e1n"
-        ],
+        "Tulc\u00e1n",
         [
           "/wiki/Tulc\u00e1n"
         ]
@@ -174,33 +130,25 @@
     ],
     [
       [
-        [
-          "Chimborazo"
-        ],
+        "5",
+        []
+      ],
+      [
+        "Chimborazo",
         [
           "/wiki/Chimborazo_Province"
         ]
       ],
       [
-        [
-          "5,287"
-        ],
-        [
-          null
-        ]
+        "5,287",
+        []
       ],
       [
-        [
-          "452,352"
-        ],
-        [
-          null
-        ]
+        "452,352",
+        []
       ],
       [
-        [
-          "Riobamba"
-        ],
+        "Riobamba",
         [
           "/wiki/Riobamba"
         ]
@@ -208,33 +156,25 @@
     ],
     [
       [
-        [
-          "Cotopaxi"
-        ],
+        "6",
+        []
+      ],
+      [
+        "Cotopaxi",
         [
           "/wiki/Cotopaxi_Province"
         ]
       ],
       [
-        [
-          "6,569"
-        ],
-        [
-          null
-        ]
+        "6,569",
+        []
       ],
       [
-        [
-          "406,798"
-        ],
-        [
-          null
-        ]
+        "406,798",
+        []
       ],
       [
-        [
-          "Latacunga"
-        ],
+        "Latacunga",
         [
           "/wiki/Latacunga"
         ]
@@ -242,33 +182,25 @@
     ],
     [
       [
-        [
-          "El Oro"
-        ],
+        "7",
+        []
+      ],
+      [
+        "El Oro",
         [
           "/wiki/El_Oro_Province"
         ]
       ],
       [
-        [
-          "5,988"
-        ],
-        [
-          null
-        ]
+        "5,988",
+        []
       ],
       [
-        [
-          "588,546"
-        ],
-        [
-          null
-        ]
+        "588,546",
+        []
       ],
       [
-        [
-          "Machala"
-        ],
+        "Machala",
         [
           "/wiki/Machala"
         ]
@@ -276,33 +208,25 @@
     ],
     [
       [
-        [
-          "Esmeraldas"
-        ],
+        "8",
+        []
+      ],
+      [
+        "Esmeraldas",
         [
           "/wiki/Esmeraldas_Province"
         ]
       ],
       [
-        [
-          "15,216"
-        ],
-        [
-          null
-        ]
+        "15,216",
+        []
       ],
       [
-        [
-          "520,711"
-        ],
-        [
-          null
-        ]
+        "520,711",
+        []
       ],
       [
-        [
-          "Esmeraldas"
-        ],
+        "Esmeraldas",
         [
           "/wiki/Esmeraldas,_Ecuador"
         ]
@@ -310,33 +234,25 @@
     ],
     [
       [
-        [
-          "Gal\u00e1pagos"
-        ],
+        "9",
+        []
+      ],
+      [
+        "Gal\u00e1pagos",
         [
           "/wiki/Gal\u00e1pagos_Province"
         ]
       ],
       [
-        [
-          "8,010"
-        ],
-        [
-          null
-        ]
+        "8,010",
+        []
       ],
       [
-        [
-          "22,770"
-        ],
-        [
-          null
-        ]
+        "22,770",
+        []
       ],
       [
-        [
-          "Puerto Baquerizo Moreno"
-        ],
+        "Puerto Baquerizo Moreno",
         [
           "/wiki/Puerto_Baquerizo_Moreno"
         ]
@@ -344,33 +260,25 @@
     ],
     [
       [
-        [
-          "Guayas"
-        ],
+        "10",
+        []
+      ],
+      [
+        "Guayas",
         [
           "/wiki/Guayas_Province"
         ]
       ],
       [
-        [
-          "17,139"
-        ],
-        [
-          null
-        ]
+        "17,139",
+        []
       ],
       [
-        [
-          "3,573,003"
-        ],
-        [
-          null
-        ]
+        "3,573,003",
+        []
       ],
       [
-        [
-          "Guayaquil"
-        ],
+        "Guayaquil",
         [
           "/wiki/Guayaquil"
         ]
@@ -378,33 +286,25 @@
     ],
     [
       [
-        [
-          "Imbabura"
-        ],
+        "11",
+        []
+      ],
+      [
+        "Imbabura",
         [
           "/wiki/Imbabura_Province"
         ]
       ],
       [
-        [
-          "4,599"
-        ],
-        [
-          null
-        ]
+        "4,599",
+        []
       ],
       [
-        [
-          "400,359"
-        ],
-        [
-          null
-        ]
+        "400,359",
+        []
       ],
       [
-        [
-          "Ibarra"
-        ],
+        "Ibarra",
         [
           "/wiki/Ibarra,_Ecuador"
         ]
@@ -412,33 +312,25 @@
     ],
     [
       [
-        [
-          "Loja"
-        ],
+        "12",
+        []
+      ],
+      [
+        "Loja",
         [
           "/wiki/Loja_Province"
         ]
       ],
       [
-        [
-          "11,027"
-        ],
-        [
-          null
-        ]
+        "11,027",
+        []
       ],
       [
-        [
-          "446,743"
-        ],
-        [
-          null
-        ]
+        "446,743",
+        []
       ],
       [
-        [
-          "Loja"
-        ],
+        "Loja",
         [
           "/wiki/Loja,_Ecuador"
         ]
@@ -446,33 +338,25 @@
     ],
     [
       [
-        [
-          "Los R\u00edos"
-        ],
+        "13",
+        []
+      ],
+      [
+        "Los R\u00edos",
         [
           "/wiki/Los_R\u00edos_Province"
         ]
       ],
       [
-        [
-          "6,254"
-        ],
-        [
-          null
-        ]
+        "6,254",
+        []
       ],
       [
-        [
-          "765,274"
-        ],
-        [
-          null
-        ]
+        "765,274",
+        []
       ],
       [
-        [
-          "Babahoyo"
-        ],
+        "Babahoyo",
         [
           "/wiki/Babahoyo"
         ]
@@ -480,33 +364,25 @@
     ],
     [
       [
-        [
-          "Manab\u00ed"
-        ],
+        "14",
+        []
+      ],
+      [
+        "Manab\u00ed",
         [
           "/wiki/Manab\u00ed_Province"
         ]
       ],
       [
-        [
-          "18,400"
-        ],
-        [
-          null
-        ]
+        "18,400",
+        []
       ],
       [
-        [
-          "1,345,779"
-        ],
-        [
-          null
-        ]
+        "1,345,779",
+        []
       ],
       [
-        [
-          "Portoviejo"
-        ],
+        "Portoviejo",
         [
           "/wiki/Portoviejo"
         ]
@@ -514,33 +390,25 @@
     ],
     [
       [
-        [
-          "Morona-Santiago"
-        ],
+        "15",
+        []
+      ],
+      [
+        "Morona-Santiago",
         [
           "/wiki/Morona-Santiago_Province"
         ]
       ],
       [
-        [
-          "25,690"
-        ],
-        [
-          null
-        ]
+        "25,690",
+        []
       ],
       [
-        [
-          "147,886"
-        ],
-        [
-          null
-        ]
+        "147,886",
+        []
       ],
       [
-        [
-          "Macas"
-        ],
+        "Macas",
         [
           "/wiki/Macas_(city)"
         ]
@@ -548,33 +416,25 @@
     ],
     [
       [
-        [
-          "Napo"
-        ],
+        "16",
+        []
+      ],
+      [
+        "Napo",
         [
           "/wiki/Napo_Province"
         ]
       ],
       [
-        [
-          "13,271"
-        ],
-        [
-          null
-        ]
+        "13,271",
+        []
       ],
       [
-        [
-          "104,047"
-        ],
-        [
-          null
-        ]
+        "104,047",
+        []
       ],
       [
-        [
-          "Tena"
-        ],
+        "Tena",
         [
           "/wiki/Tena,_Ecuador"
         ]
@@ -582,33 +442,25 @@
     ],
     [
       [
-        [
-          "Orellana"
-        ],
+        "17",
+        []
+      ],
+      [
+        "Orellana",
         [
           "/wiki/Orellana_Province"
         ]
       ],
       [
-        [
-          "20,773"
-        ],
-        [
-          null
-        ]
+        "20,773",
+        []
       ],
       [
-        [
-          "137,848"
-        ],
-        [
-          null
-        ]
+        "137,848",
+        []
       ],
       [
-        [
-          "Puerto Francisco de Orellana"
-        ],
+        "Puerto Francisco de Orellana",
         [
           "/wiki/Puerto_Francisco_de_Orellana"
         ]
@@ -616,33 +468,25 @@
     ],
     [
       [
-        [
-          "Pastaza"
-        ],
+        "18",
+        []
+      ],
+      [
+        "Pastaza",
         [
           "/wiki/Pastaza_Province"
         ]
       ],
       [
-        [
-          "29,520"
-        ],
-        [
-          null
-        ]
+        "29,520",
+        []
       ],
       [
-        [
-          "84,329"
-        ],
-        [
-          null
-        ]
+        "84,329",
+        []
       ],
       [
-        [
-          "Puyo"
-        ],
+        "Puyo",
         [
           "/wiki/Puyo,_Pastaza"
         ]
@@ -650,33 +494,25 @@
     ],
     [
       [
-        [
-          "Pichincha"
-        ],
+        "19",
+        []
+      ],
+      [
+        "Pichincha",
         [
           "/wiki/Pichincha_Province"
         ]
       ],
       [
-        [
-          "9,494"
-        ],
-        [
-          null
-        ]
+        "9,494",
+        []
       ],
       [
-        [
-          "2,570,201"
-        ],
-        [
-          null
-        ]
+        "2,570,201",
+        []
       ],
       [
-        [
-          "Quito"
-        ],
+        "Quito",
         [
           "/wiki/Quito"
         ]
@@ -684,33 +520,25 @@
     ],
     [
       [
-        [
-          "Santa Elena"
-        ],
+        "20",
+        []
+      ],
+      [
+        "Santa Elena",
         [
           "/wiki/Santa_Elena_Province"
         ]
       ],
       [
-        [
-          "3,763"
-        ],
-        [
-          null
-        ]
+        "3,763",
+        []
       ],
       [
-        [
-          "301,168"
-        ],
-        [
-          null
-        ]
+        "301,168",
+        []
       ],
       [
-        [
-          "Santa Elena"
-        ],
+        "Santa Elena",
         [
           "/wiki/Santa_Elena,_Ecuador"
         ]

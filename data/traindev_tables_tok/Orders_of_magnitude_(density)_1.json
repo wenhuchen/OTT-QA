@@ -3,104 +3,64 @@
   "title": "Density",
   "header": [
     [
-      [
-        "Entity"
-      ],
-      [
-        null
-      ]
+      "Entity",
+      []
     ],
     [
-      [
-        "\u03c1 ( kg/m )"
-      ],
-      [
-        null
-      ]
+      "\u03c1 ( kg/m )",
+      []
     ],
     [
-      [
-        "Notes"
-      ],
-      [
-        null
-      ]
+      "Notes",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Interstellar medium"
-        ],
+        "Interstellar medium",
         [
           "/wiki/Interstellar_medium"
         ]
       ],
       [
-        [
-          "1 \u00d7 10"
-        ],
-        [
-          null
-        ]
+        "1 \u00d7 10",
+        []
       ],
       [
-        [
-          "Assuming 90% H , 10% He ; variable T"
-        ],
-        [
-          null
-        ]
+        "Assuming 90% H , 10% He ; variable T",
+        []
       ]
     ],
     [
       [
-        [
-          "Earth"
-        ],
+        "The Earth",
         [
           "/wiki/Earth"
         ]
       ],
       [
-        [
-          "5,515"
-        ],
-        [
-          null
-        ]
+        "5,515",
+        []
       ],
       [
-        [
-          "Mean density"
-        ],
-        [
-          null
-        ]
+        "Mean density",
+        []
       ]
     ],
     [
       [
-        [
-          "Earth 's inner core"
-        ],
+        "Earth 's inner core",
         [
           "/wiki/Earth's_inner_core"
         ]
       ],
       [
-        [
-          "13,000"
-        ],
-        [
-          null
-        ]
+        "13,000",
+        []
       ],
       [
-        [
-          "Earth"
-        ],
+        "Approx. , as listed in Earth",
         [
           "/wiki/Earth"
         ]
@@ -108,51 +68,33 @@
     ],
     [
       [
-        [
-          "Sun"
-        ],
+        "The core of the Sun",
         [
           "/wiki/Sun"
         ]
       ],
       [
-        [
-          "33,000-160,000"
-        ],
-        [
-          null
-        ]
+        "33,000-160,000",
+        []
       ],
       [
-        [
-          "Approx"
-        ],
-        [
-          null
-        ]
+        "Approx",
+        []
       ]
     ],
     [
       [
-        [
-          "Super-massive black hole"
-        ],
+        "Super-massive black hole",
         [
           "/wiki/Supermassive_black_hole"
         ]
       ],
       [
-        [
-          "9 \u00d7 10"
-        ],
-        [
-          null
-        ]
+        "9 \u00d7 10",
+        []
       ],
       [
-        [
-          "Event horizon"
-        ],
+        "Density of a 4.5-million-solar-mass black hole Event horizon radius is 13.5 million km",
         [
           "/wiki/Event_horizon"
         ]
@@ -160,103 +102,65 @@
     ],
     [
       [
-        [
-          "White dwarf"
-        ],
+        "White dwarf star",
         [
           "/wiki/White_dwarf"
         ]
       ],
       [
-        [
-          "2.1 \u00d7 10"
-        ],
-        [
-          null
-        ]
+        "2.1 \u00d7 10",
+        []
       ],
       [
-        [
-          "Approx"
-        ],
-        [
-          null
-        ]
+        "Approx",
+        []
       ]
     ],
     [
       [
-        [
-          "Atomic nuclei"
-        ],
+        "Atomic nuclei",
         [
           "/wiki/Atomic_nuclei"
         ]
       ],
       [
-        [
-          "2.3 \u00d7 10"
-        ],
-        [
-          null
-        ]
+        "2.3 \u00d7 10",
+        []
       ],
       [
-        [
-          "Does not depend strongly on size of nucleus"
-        ],
-        [
-          null
-        ]
+        "Does not depend strongly on size of nucleus",
+        []
       ]
     ],
     [
       [
-        [
-          "Neutron star"
-        ],
+        "Neutron star",
         [
           "/wiki/Neutron_star"
         ]
       ],
       [
-        [
-          "1 \u00d7 10"
-        ],
-        [
-          null
-        ]
+        "1 \u00d7 10",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "black hole"
-        ],
+        "Stellar-mass black hole",
         [
           "/wiki/Black_hole"
         ]
       ],
       [
-        [
-          "1 \u00d7 10"
-        ],
-        [
-          null
-        ]
+        "1 \u00d7 10",
+        []
       ],
       [
-        [
-          "Event horizon"
-        ],
+        "Density of a 4-solar-mass black hole Event horizon radius is 12 km",
         [
           "/wiki/Event_horizon"
         ]

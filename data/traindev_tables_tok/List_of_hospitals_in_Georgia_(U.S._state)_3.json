@@ -3,52 +3,32 @@
   "title": "List of hospitals in Georgia (U.S. state)",
   "header": [
     [
-      [
-        "Hospital name"
-      ],
-      [
-        null
-      ]
+      "Hospital name",
+      []
     ],
     [
-      [
-        "City"
-      ],
-      [
-        null
-      ]
+      "City",
+      []
     ],
     [
-      [
-        "County"
-      ],
-      [
-        null
-      ]
+      "County",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Anchor Hospital"
-        ],
-        [
-          null
-        ]
+        "Anchor Hospital",
+        []
       ],
       [
-        [
-          "College Park"
-        ],
+        "College Park",
         [
           "/wiki/College_Park,_Georgia"
         ]
       ],
       [
-        [
-          "Clayton"
-        ],
+        "Clayton",
         [
           "/wiki/Clayton_County,_Georgia"
         ]
@@ -56,25 +36,19 @@
     ],
     [
       [
-        [
-          "Central State Hospital"
-        ],
+        "Central State Hospital",
         [
           "/wiki/Central_State_Hospital_(Georgia)"
         ]
       ],
       [
-        [
-          "Milledgeville"
-        ],
+        "Milledgeville",
         [
           "/wiki/Milledgeville,_Georgia"
         ]
       ],
       [
-        [
-          "Baldwin"
-        ],
+        "Baldwin",
         [
           "/wiki/Baldwin_County,_Georgia"
         ]
@@ -82,25 +56,17 @@
     ],
     [
       [
-        [
-          "Coastal Behavioral Health"
-        ],
-        [
-          null
-        ]
+        "Coastal Behavioral Health",
+        []
       ],
       [
-        [
-          "Savannah"
-        ],
+        "Savannah",
         [
           "/wiki/Savannah,_Georgia"
         ]
       ],
       [
-        [
-          "Chatham"
-        ],
+        "Chatham",
         [
           "/wiki/Chatham_County,_Georgia"
         ]
@@ -108,25 +74,17 @@
     ],
     [
       [
-        [
-          "Coastal Harbor Treatment Center"
-        ],
-        [
-          null
-        ]
+        "Coastal Harbor Treatment Center",
+        []
       ],
       [
-        [
-          "Savannah"
-        ],
+        "Savannah",
         [
           "/wiki/Savannah,_Georgia"
         ]
       ],
       [
-        [
-          "Chatham"
-        ],
+        "Chatham",
         [
           "/wiki/Chatham_County,_Georgia"
         ]
@@ -134,25 +92,17 @@
     ],
     [
       [
-        [
-          "Coliseum Center for Behavioral Health"
-        ],
-        [
-          null
-        ]
+        "Coliseum Center for Behavioral Health",
+        []
       ],
       [
-        [
-          "Macon"
-        ],
+        "Macon",
         [
           "/wiki/Macon,_Georgia"
         ]
       ],
       [
-        [
-          "Bibb"
-        ],
+        "Bibb",
         [
           "/wiki/Bibb_County,_Georgia"
         ]
@@ -160,25 +110,17 @@
     ],
     [
       [
-        [
-          "Crescent Pines Hospital"
-        ],
-        [
-          null
-        ]
+        "Crescent Pines Hospital",
+        []
       ],
       [
-        [
-          "Stockbridge"
-        ],
+        "Stockbridge",
         [
           "/wiki/Stockbridge,_Georgia"
         ]
       ],
       [
-        [
-          "Henry"
-        ],
+        "Henry",
         [
           "/wiki/Henry_County,_Georgia"
         ]
@@ -186,25 +128,17 @@
     ],
     [
       [
-        [
-          "East Central Regional Hospital Augusta"
-        ],
-        [
-          null
-        ]
+        "East Central Regional Hospital Augusta",
+        []
       ],
       [
-        [
-          "Augusta"
-        ],
+        "Augusta",
         [
           "/wiki/Augusta,_Georgia"
         ]
       ],
       [
-        [
-          "Richmond"
-        ],
+        "Richmond",
         [
           "/wiki/Richmond_County,_Georgia"
         ]
@@ -212,51 +146,31 @@
     ],
     [
       [
-        [
-          "East Central Regional Hospital Gracewood"
-        ],
-        [
-          null
-        ]
+        "East Central Regional Hospital Gracewood",
+        []
       ],
       [
-        [
-          "Gracewood"
-        ],
-        [
-          null
-        ]
+        "Gracewood",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Emory Wesley Woods Hospital"
-        ],
-        [
-          null
-        ]
+        "Emory Wesley Woods Hospital",
+        []
       ],
       [
-        [
-          "Atlanta"
-        ],
+        "Atlanta",
         [
           "/wiki/Atlanta,_Georgia"
         ]
       ],
       [
-        [
-          "DeKalb"
-        ],
+        "DeKalb",
         [
           "/wiki/DeKalb_County,_Georgia"
         ]
@@ -264,25 +178,17 @@
     ],
     [
       [
-        [
-          "Georgia Regional Hospital Atlanta"
-        ],
-        [
-          null
-        ]
+        "Georgia Regional Hospital Atlanta",
+        []
       ],
       [
-        [
-          "Decatur"
-        ],
+        "Decatur",
         [
           "/wiki/Decatur,_Georgia"
         ]
       ],
       [
-        [
-          "DeKalb"
-        ],
+        "DeKalb",
         [
           "/wiki/DeKalb_County,_Georgia"
         ]
@@ -290,25 +196,17 @@
     ],
     [
       [
-        [
-          "Georgia Regional Hospital Savannah"
-        ],
-        [
-          null
-        ]
+        "Georgia Regional Hospital Savannah",
+        []
       ],
       [
-        [
-          "Savannah"
-        ],
+        "Savannah",
         [
           "/wiki/Savannah,_Georgia"
         ]
       ],
       [
-        [
-          "Chatham"
-        ],
+        "Chatham",
         [
           "/wiki/Chatham_County,_Georgia"
         ]
@@ -316,25 +214,17 @@
     ],
     [
       [
-        [
-          "Hillside Hospital"
-        ],
-        [
-          null
-        ]
+        "Hillside Hospital",
+        []
       ],
       [
-        [
-          "Atlanta"
-        ],
+        "Atlanta",
         [
           "/wiki/Atlanta"
         ]
       ],
       [
-        [
-          "Fulton"
-        ],
+        "Fulton",
         [
           "/wiki/Fulton_County,_Georgia"
         ]
@@ -342,25 +232,17 @@
     ],
     [
       [
-        [
-          "Laurel Heights Hospital"
-        ],
-        [
-          null
-        ]
+        "Laurel Heights Hospital",
+        []
       ],
       [
-        [
-          "Atlanta"
-        ],
+        "Atlanta",
         [
           "/wiki/Atlanta"
         ]
       ],
       [
-        [
-          "Fulton"
-        ],
+        "Fulton",
         [
           "/wiki/Fulton_County,_Georgia"
         ]
@@ -368,25 +250,17 @@
     ],
     [
       [
-        [
-          "Lighthouse Care Center of Augusta"
-        ],
-        [
-          null
-        ]
+        "Lighthouse Care Center of Augusta",
+        []
       ],
       [
-        [
-          "Augusta"
-        ],
+        "Augusta",
         [
           "/wiki/Augusta,_Georgia"
         ]
       ],
       [
-        [
-          "Richmond"
-        ],
+        "Richmond",
         [
           "/wiki/Richmond_County,_Georgia"
         ]
@@ -394,25 +268,17 @@
     ],
     [
       [
-        [
-          "Macon Behavioral Health System"
-        ],
-        [
-          null
-        ]
+        "Macon Behavioral Health System",
+        []
       ],
       [
-        [
-          "Macon"
-        ],
+        "Macon",
         [
           "/wiki/Macon,_Georgia"
         ]
       ],
       [
-        [
-          "Bibb"
-        ],
+        "Bibb",
         [
           "/wiki/Bibb_County,_Georgia"
         ]
@@ -420,25 +286,17 @@
     ],
     [
       [
-        [
-          "Peachford Hospital"
-        ],
-        [
-          null
-        ]
+        "Peachford Hospital",
+        []
       ],
       [
-        [
-          "Atlanta"
-        ],
+        "Atlanta",
         [
           "/wiki/Atlanta"
         ]
       ],
       [
-        [
-          "Dekalb"
-        ],
+        "Dekalb",
         [
           "/wiki/Dekalb_County,_Georgia"
         ]
@@ -446,25 +304,17 @@
     ],
     [
       [
-        [
-          "Ridgeview Institute"
-        ],
-        [
-          null
-        ]
+        "Ridgeview Institute",
+        []
       ],
       [
-        [
-          "Smyrna"
-        ],
+        "Smyrna",
         [
           "/wiki/Smyrna,_Georgia"
         ]
       ],
       [
-        [
-          "Cobb"
-        ],
+        "Cobb",
         [
           "/wiki/Cobb_County,_Georgia"
         ]
@@ -472,25 +322,17 @@
     ],
     [
       [
-        [
-          "RiverWoods Behavioral Health System"
-        ],
-        [
-          null
-        ]
+        "RiverWoods Behavioral Health System",
+        []
       ],
       [
-        [
-          "Riverdale"
-        ],
+        "Riverdale",
         [
           "/wiki/Riverdale,_Georgia"
         ]
       ],
       [
-        [
-          "Clayton"
-        ],
+        "Clayton",
         [
           "/wiki/Clayton_County,_Georgia"
         ]
@@ -498,25 +340,17 @@
     ],
     [
       [
-        [
-          "Saint Simons By-The-Sea"
-        ],
-        [
-          null
-        ]
+        "Saint Simons By-The-Sea",
+        []
       ],
       [
-        [
-          "Saint Simons Island"
-        ],
+        "Saint Simons Island",
         [
           "/wiki/Saint_Simons_Island,_Georgia"
         ]
       ],
       [
-        [
-          "Glynn"
-        ],
+        "Glynn",
         [
           "/wiki/Glynn_County,_Georgia"
         ]
@@ -524,25 +358,17 @@
     ],
     [
       [
-        [
-          "SummitRidge Hospital"
-        ],
-        [
-          null
-        ]
+        "SummitRidge Hospital",
+        []
       ],
       [
-        [
-          "Lawrenceville"
-        ],
+        "Lawrenceville",
         [
           "/wiki/Lawrenceville,_Georgia"
         ]
       ],
       [
-        [
-          "Gwinnett"
-        ],
+        "Gwinnett",
         [
           "/wiki/Gwinnett_County,_Georgia"
         ]

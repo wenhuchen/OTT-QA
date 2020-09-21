@@ -3,70 +3,43 @@
   "title": "LA postcode area",
   "header": [
     [
-      [
-        "Postcode district"
-      ],
-      [
-        null
-      ]
+      "Postcode district",
+      []
     ],
     [
-      [
-        "Post town"
-      ],
+      "Post town",
       [
         "/wiki/Post_town"
       ]
     ],
     [
-      [
-        "Coverage"
-      ],
-      [
-        null
-      ]
+      "Coverage",
+      []
     ],
     [
-      [
-        "Local authority area"
-      ],
-      [
-        null
-      ]
+      "Local authority area",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "LA1"
-        ],
-        [
-          null
-        ]
+        "LA1",
+        []
       ],
       [
-        [
-          "LANCASTER"
-        ],
-        [
-          null
-        ]
+        "LANCASTER",
+        []
       ],
       [
-        [
-          "Aldcliffe",
-          "Bailrigg"
-        ],
+        "Lancaster , Aldcliffe , Bailrigg",
         [
           "/wiki/Aldcliffe",
           "/wiki/Bailrigg"
         ]
       ],
       [
-        [
-          "City of Lancaster"
-        ],
+        "City of Lancaster",
         [
           "/wiki/City_of_Lancaster"
         ]
@@ -74,45 +47,15 @@
     ],
     [
       [
-        [
-          "LA2"
-        ],
-        [
-          null
-        ]
+        "LA2",
+        []
       ],
       [
-        [
-          "LANCASTER"
-        ],
-        [
-          null
-        ]
+        "LANCASTER",
+        []
       ],
       [
-        [
-          "Abbeystead",
-          "Aldcliffe",
-          "Aughton",
-          "Austwick",
-          "Bailrigg",
-          "Bay Horse",
-          "Caton",
-          "Clapham",
-          "Cockerham",
-          "Dolphinholme",
-          "Ellel",
-          "Farleton",
-          "Galgate",
-          "Glasson Dock",
-          "Halton",
-          "Hest Bank",
-          "High Bentham",
-          "Hornby",
-          "Quernmore",
-          "Tatham",
-          "Wharfe"
-        ],
+        "Lancaster , Abbeystead , Aldcliffe , Aughton , Austwick , Bailrigg , Bay Horse , Caton , Clapham , Cockerham , Dolphinholme , Ellel , Farleton , Galgate , Glasson Dock , Halton , Hest Bank , High Bentham , Hornby , Quernmore , Tatham , Wharfe",
         [
           "/wiki/Abbeystead",
           "/wiki/Aldcliffe",
@@ -138,10 +81,7 @@
         ]
       ],
       [
-        [
-          "Craven",
-          "Wyre"
-        ],
+        "City of Lancaster , Craven , Wyre",
         [
           "/wiki/Craven",
           "/wiki/Borough_of_Wyre"
@@ -150,29 +90,15 @@
     ],
     [
       [
-        [
-          "LA3"
-        ],
-        [
-          null
-        ]
+        "LA3",
+        []
       ],
       [
-        [
-          "MORECAMBE"
-        ],
-        [
-          null
-        ]
+        "MORECAMBE",
+        []
       ],
       [
-        [
-          "Morecambe",
-          "Heysham",
-          "Middleton",
-          "Overton",
-          "Sunderland Point"
-        ],
+        "Morecambe , Heysham , Middleton , Overton , Sunderland Point",
         [
           "/wiki/Morecambe",
           "/wiki/Heysham",
@@ -182,75 +108,42 @@
         ]
       ],
       [
-        [
-          "City of Lancaster"
-        ],
-        [
-          null
-        ]
+        "City of Lancaster",
+        []
       ]
     ],
     [
       [
-        [
-          "LA4"
-        ],
-        [
-          null
-        ]
+        "LA4",
+        []
       ],
       [
-        [
-          "MORECAMBE"
-        ],
-        [
-          null
-        ]
+        "MORECAMBE",
+        []
       ],
       [
-        [
-          "Morecambe",
-          "Torrisholme"
-        ],
+        "Morecambe , Torrisholme",
         [
           "/wiki/Morecambe",
           "/wiki/Torrisholme"
         ]
       ],
       [
-        [
-          "City of Lancaster"
-        ],
-        [
-          null
-        ]
+        "City of Lancaster",
+        []
       ]
     ],
     [
       [
-        [
-          "LA5"
-        ],
-        [
-          null
-        ]
+        "LA5",
+        []
       ],
       [
-        [
-          "CARNFORTH"
-        ],
-        [
-          null
-        ]
+        "CARNFORTH",
+        []
       ],
       [
-        [
-          "Carnforth",
-          "Arnside",
-          "Silverdale",
-          "Warton",
-          "Bolton-Le-Sands"
-        ],
+        "Carnforth , Arnside , Silverdale , Warton , Bolton-Le-Sands",
         [
           "/wiki/Carnforth",
           "/wiki/Arnside",
@@ -260,9 +153,7 @@
         ]
       ],
       [
-        [
-          "South Lakeland"
-        ],
+        "City of Lancaster , South Lakeland",
         [
           "/wiki/South_Lakeland"
         ]
@@ -270,35 +161,15 @@
     ],
     [
       [
-        [
-          "LA6"
-        ],
-        [
-          null
-        ]
+        "LA6",
+        []
       ],
       [
-        [
-          "CARNFORTH"
-        ],
-        [
-          null
-        ]
+        "CARNFORTH",
+        []
       ],
       [
-        [
-          "Arkholme",
-          "Burton-in-Kendal",
-          "Burton in Lonsdale",
-          "Cantsfield",
-          "Casterton",
-          "Ingleton",
-          "Ireby",
-          "Kirkby Lonsdale",
-          "Masongill",
-          "Tunstall",
-          "Whittington"
-        ],
+        "Arkholme , Burton-in-Kendal , Burton in Lonsdale , Cantsfield , Casterton , Ingleton , Ireby , Kirkby Lonsdale , Masongill , Tunstall , Whittington",
         [
           "/wiki/Arkholme",
           "/wiki/Burton-in-Kendal",
@@ -314,38 +185,21 @@
         ]
       ],
       [
-        [
-          "City of Lancaster , Craven , South Lakeland"
-        ],
-        [
-          null
-        ]
+        "City of Lancaster , Craven , South Lakeland",
+        []
       ]
     ],
     [
       [
-        [
-          "LA7"
-        ],
-        [
-          null
-        ]
+        "LA7",
+        []
       ],
       [
-        [
-          "MILNTHORPE"
-        ],
-        [
-          null
-        ]
+        "MILNTHORPE",
+        []
       ],
       [
-        [
-          "Milnthorpe",
-          "Beetham",
-          "Storth",
-          "Heversham"
-        ],
+        "Milnthorpe , Beetham , Storth , Heversham",
         [
           "/wiki/Milnthorpe",
           "/wiki/Beetham",
@@ -354,53 +208,31 @@
         ]
       ],
       [
-        [
-          "South Lakeland"
-        ],
-        [
-          null
-        ]
+        "South Lakeland",
+        []
       ]
     ],
     [
       [
-        [
-          "LA8"
-        ],
-        [
-          null
-        ]
+        "LA8",
+        []
       ],
       [
-        [
-          "KENDAL"
-        ],
-        [
-          null
-        ]
+        "KENDAL",
+        []
       ],
       [
-        [
-          "Kendal",
-          "Brigsteer",
-          "Grayrigg",
-          "Levens",
-          "Sedgwick",
-          "Sizergh"
-        ],
+        "Kendal , Brigsteer , Grayrigg , Levens , Sedgwick , Sizergh",
         [
           "/wiki/Kendal",
           "/wiki/Brigsteer",
           "/wiki/Grayrigg",
           "/wiki/Levens,_Cumbria",
-          "/wiki/Sedgwick,_Cumbria",
-          null
+          "/wiki/Sedgwick,_Cumbria"
         ]
       ],
       [
-        [
-          "Eden"
-        ],
+        "South Lakeland , Eden",
         [
           "/wiki/Eden_District"
         ]
@@ -408,27 +240,15 @@
     ],
     [
       [
-        [
-          "LA9"
-        ],
-        [
-          null
-        ]
+        "LA9",
+        []
       ],
       [
-        [
-          "KENDAL"
-        ],
-        [
-          null
-        ]
+        "KENDAL",
+        []
       ],
       [
-        [
-          "Burneside",
-          "Natland",
-          "Oxenholme"
-        ],
+        "Kendal , Burneside , Natland , Oxenholme",
         [
           "/wiki/Burneside",
           "/wiki/Natland",
@@ -436,80 +256,42 @@
         ]
       ],
       [
-        [
-          "South Lakeland"
-        ],
-        [
-          null
-        ]
+        "South Lakeland",
+        []
       ]
     ],
     [
       [
-        [
-          "LA10"
-        ],
-        [
-          null
-        ]
+        "LA10",
+        []
       ],
       [
-        [
-          "SEDBERGH"
-        ],
-        [
-          null
-        ]
+        "SEDBERGH",
+        []
       ],
       [
-        [
-          "Sedbergh",
-          "Dent"
-        ],
+        "Sedbergh , Dent",
         [
           "/wiki/Sedbergh",
           "/wiki/Dent_(Lonsdale)"
         ]
       ],
       [
-        [
-          "South Lakeland , Craven , Eden"
-        ],
-        [
-          null
-        ]
+        "South Lakeland , Craven , Eden",
+        []
       ]
     ],
     [
       [
-        [
-          "LA11"
-        ],
-        [
-          null
-        ]
+        "LA11",
+        []
       ],
       [
-        [
-          "GRANGE-OVER-SANDS"
-        ],
-        [
-          null
-        ]
+        "GRANGE-OVER-SANDS",
+        []
       ],
       [
-        [
-          "Grange-over-Sands",
-          "Allithwaite",
-          "Cark",
-          "Cartmel",
-          "Field Broughton",
-          "High Newton",
-          "Lindale",
-          "Low Newton",
-          "Meathop and Ulpha",
-          "Witherslack"
-        ],
+        "Grange-over-Sands , Allithwaite , Cark , Cartmel , Field Broughton , High Newton , Lindale , Low Newton , Meathop and Ulpha , Witherslack",
         [
           "/wiki/Grange-over-Sands",
           "/wiki/Allithwaite",
@@ -524,45 +306,21 @@
         ]
       ],
       [
-        [
-          "South Lakeland"
-        ],
-        [
-          null
-        ]
+        "South Lakeland",
+        []
       ]
     ],
     [
       [
-        [
-          "LA12"
-        ],
-        [
-          null
-        ]
+        "LA12",
+        []
       ],
       [
-        [
-          "ULVERSTON"
-        ],
-        [
-          null
-        ]
+        "ULVERSTON",
+        []
       ],
       [
-        [
-          "Ulverston",
-          "Aldingham",
-          "Backbarrow",
-          "Gleaston",
-          "Haverthwaite",
-          "Leece",
-          "Lindal-in-Furness",
-          "Newbiggin ( Furness )",
-          "Newby Bridge",
-          "Staveley-in-Cartmel",
-          "Urswick"
-        ],
+        "Ulverston , Aldingham , Backbarrow , Gleaston , Haverthwaite , Leece , Lindal-in-Furness , Newbiggin ( Furness ) , Newby Bridge , Staveley-in-Cartmel , Urswick",
         [
           "/wiki/Ulverston",
           "/wiki/Aldingham",
@@ -578,9 +336,7 @@
         ]
       ],
       [
-        [
-          "Barrow-in-Furness"
-        ],
+        "South Lakeland , Barrow-in-Furness",
         [
           "/wiki/Borough_of_Barrow-in-Furness"
         ]
@@ -588,30 +344,15 @@
     ],
     [
       [
-        [
-          "LA13"
-        ],
-        [
-          null
-        ]
+        "LA13",
+        []
       ],
       [
-        [
-          "BARROW-IN-FURNESS"
-        ],
-        [
-          null
-        ]
+        "BARROW-IN-FURNESS",
+        []
       ],
       [
-        [
-          "Barrow-in-Furness",
-          "Newton-in-Furness",
-          "Piel Island",
-          "Rampside",
-          "Roa Island",
-          "Stainton with Adgarley"
-        ],
+        "Barrow-in-Furness , Newton-in-Furness , Piel Island , Rampside , Roa Island , Stainton with Adgarley",
         [
           "/wiki/Barrow-in-Furness",
           "/wiki/Newton-in-Furness",
@@ -622,77 +363,45 @@
         ]
       ],
       [
-        [
-          "Barrow-in-Furness , South Lakeland"
-        ],
-        [
-          null
-        ]
+        "Barrow-in-Furness , South Lakeland",
+        []
       ]
     ],
     [
       [
-        [
-          "LA14"
-        ],
-        [
-          null
-        ]
+        "LA14",
+        []
       ],
       [
-        [
-          "BARROW-IN-FURNESS"
-        ],
-        [
-          null
-        ]
+        "BARROW-IN-FURNESS",
+        []
       ],
       [
-        [
-          "Walney Island"
-        ],
+        "Barrow-in-Furness , Walney Island",
         [
           "/wiki/Walney_Island"
         ]
       ],
       [
-        [
-          "Barrow-in-Furness"
-        ],
-        [
-          null
-        ]
+        "Barrow-in-Furness",
+        []
       ]
     ],
     [
       [
-        [
-          "LA14"
-        ],
-        [
-          null
-        ]
+        "LA14",
+        []
       ],
       [
-        [
-          "DALTON-IN-FURNESS"
-        ],
-        [
-          null
-        ]
+        "DALTON-IN-FURNESS",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "non-geographic"
-        ],
+        "non-geographic",
         [
           "/wiki/Non-geographic_postcodes"
         ]
@@ -700,135 +409,81 @@
     ],
     [
       [
-        [
-          "LA15"
-        ],
-        [
-          null
-        ]
+        "LA15",
+        []
       ],
       [
-        [
-          "DALTON-IN-FURNESS"
-        ],
-        [
-          null
-        ]
+        "DALTON-IN-FURNESS",
+        []
       ],
       [
-        [
-          "Dalton-in-Furness"
-        ],
+        "Dalton-in-Furness",
         [
           "/wiki/Dalton-in-Furness"
         ]
       ],
       [
-        [
-          "Barrow-in-Furness"
-        ],
-        [
-          null
-        ]
+        "Barrow-in-Furness",
+        []
       ]
     ],
     [
       [
-        [
-          "LA16"
-        ],
-        [
-          null
-        ]
+        "LA16",
+        []
       ],
       [
-        [
-          "ASKAM-IN-FURNESS"
-        ],
-        [
-          null
-        ]
+        "ASKAM-IN-FURNESS",
+        []
       ],
       [
-        [
-          "Askam-in-Furness"
-        ],
+        "Askam-in-Furness",
         [
           "/wiki/Askam-in-Furness"
         ]
       ],
       [
-        [
-          "Barrow-in-Furness"
-        ],
-        [
-          null
-        ]
+        "Barrow-in-Furness",
+        []
       ]
     ],
     [
       [
-        [
-          "LA17"
-        ],
-        [
-          null
-        ]
+        "LA17",
+        []
       ],
       [
-        [
-          "KIRKBY-IN-FURNESS"
-        ],
-        [
-          null
-        ]
+        "KIRKBY-IN-FURNESS",
+        []
       ],
       [
-        [
-          "Kirkby-in-Furness"
-        ],
+        "Kirkby-in-Furness",
         [
           "/wiki/Kirkby-in-Furness"
         ]
       ],
       [
-        [
-          "South Lakeland"
-        ],
-        [
-          null
-        ]
+        "South Lakeland",
+        []
       ]
     ],
     [
       [
-        [
-          "LA18"
-        ],
-        [
-          null
-        ]
+        "LA18",
+        []
       ],
       [
-        [
-          "MILLOM"
-        ],
-        [
-          null
-        ]
+        "MILLOM",
+        []
       ],
       [
-        [
-          "Millom"
-        ],
+        "Millom",
         [
           "/wiki/Millom"
         ]
       ],
       [
-        [
-          "Copeland"
-        ],
+        "Copeland",
         [
           "/wiki/Borough_of_Copeland"
         ]
@@ -836,38 +491,23 @@
     ],
     [
       [
-        [
-          "LA19"
-        ],
-        [
-          null
-        ]
+        "LA19",
+        []
       ],
       [
-        [
-          "MILLOM"
-        ],
-        [
-          null
-        ]
+        "MILLOM",
+        []
       ],
       [
-        [
-          "Waberthwaite",
-          "Bootle"
-        ],
+        "Millom , Waberthwaite , Bootle",
         [
           "/wiki/Waberthwaite,_Cumbria",
           "/wiki/Bootle,_Cumbria"
         ]
       ],
       [
-        [
-          "Copeland"
-        ],
-        [
-          null
-        ]
+        "Copeland",
+        []
       ]
     ]
   ],

@@ -3,84 +3,52 @@
   "title": "Molecule editor",
   "header": [
     [
-      [
-        "Program"
-      ],
-      [
-        null
-      ]
+      "Program",
+      []
     ],
     [
-      [
-        "Developer ( s )"
-      ],
-      [
-        null
-      ]
+      "Developer ( s )",
+      []
     ],
     [
-      [
-        "License"
-      ],
-      [
-        null
-      ]
+      "License",
+      []
     ],
     [
-      [
-        "Platforms"
-      ],
-      [
-        null
-      ]
+      "Platforms",
+      []
     ],
     [
-      [
-        "Info"
-      ],
-      [
-        null
-      ]
+      "Info",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Accelrys Draw"
-        ],
-        [
-          null
-        ]
+        "Accelrys Draw",
+        []
       ],
       [
-        [
-          "Accelrys"
-        ],
+        "Accelrys",
         [
           "/wiki/Accelrys"
         ]
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary",
         [
           "/wiki/Proprietary_software"
         ]
       ],
       [
-        [
-          "Windows"
-        ],
+        "Windows",
         [
           "/wiki/Microsoft_Windows"
         ]
       ],
       [
-        [
-          "freeware"
-        ],
+        "freeware version available ; includes name2structure and structure2name , InChI naming , and canonical SMILES",
         [
           "/wiki/Freeware"
         ]
@@ -88,41 +56,29 @@
     ],
     [
       [
-        [
-          "ACD/ChemSketch"
-        ],
+        "ACD/ChemSketch",
         [
           "/wiki/ACD/ChemSketch"
         ]
       ],
       [
-        [
-          "ACD/Labs"
-        ],
+        "ACD/Labs",
         [
           "/wiki/Advanced_Chemistry_Development"
         ]
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary",
         [
           "/wiki/Proprietary_software"
         ]
       ],
       [
-        [
-          "Windows"
-        ],
-        [
-          null
-        ]
+        "Windows",
+        []
       ],
       [
-        [
-          "freeware"
-        ],
+        "A chemically intelligent drawing interface that allows drawing almost any chemical structure including organics , organometallics , polymers , and Markush structures . freeware version available",
         [
           "/wiki/Freeware"
         ]
@@ -130,129 +86,82 @@
     ],
     [
       [
-        [
-          "Amira ( software )"
-        ],
+        "Amira ( software )",
         [
           "/wiki/Amira_(software)"
         ]
       ],
       [
+        "Visage Imaging Zuse Institute Berlin",
         [
-          "Visage Imaging",
-          "Zuse Institute Berlin"
-        ],
-        [
-          null,
           "/wiki/Zuse_Institute_Berlin"
         ]
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary",
         [
           "/wiki/Proprietary_software"
         ]
       ],
       [
-        [
-          "macOS",
-          "Linux"
-        ],
+        "Windows , macOS , Linux",
         [
           "/wiki/MacOS",
           "/wiki/Linux"
         ]
       ],
       [
-        [
-          "14-day trial version available"
-        ],
-        [
-          null
-        ]
+        "14-day trial version available",
+        []
       ]
     ],
     [
       [
-        [
-          "Ascalaph Designer"
-        ],
+        "Ascalaph Designer",
         [
           "/wiki/Ascalaph_Designer"
         ]
       ],
       [
-        [
-          "Agile Molecule"
-        ],
-        [
-          null
-        ]
+        "Agile Molecule",
+        []
       ],
       [
-        [
-          "GNU GPL"
-        ],
+        "GNU GPL",
         [
           "/wiki/GNU_General_Public_License"
         ]
       ],
       [
-        [
-          "Linux , Windows"
-        ],
-        [
-          null
-        ]
+        "Linux , Windows",
+        []
       ],
       [
-        [
-          "freeware"
-        ],
-        [
-          null
-        ]
+        "freeware",
+        []
       ]
     ],
     [
       [
-        [
-          "ArgusLab"
-        ],
-        [
-          null
-        ]
+        "ArgusLab",
+        []
       ],
       [
-        [
-          "Mark Thompson ( author )"
-        ],
-        [
-          null
-        ]
+        "Mark Thompson ( author )",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary",
         [
           "/wiki/Proprietary_software"
         ]
       ],
       [
-        [
-          "Windows"
-        ],
-        [
-          null
-        ]
+        "Windows",
+        []
       ],
       [
-        [
-          "freeware"
-        ],
+        "freeware",
         [
           "/wiki/Freeware"
         ]
@@ -260,128 +169,82 @@
     ],
     [
       [
-        [
-          "Avogadro"
-        ],
+        "Avogadro",
         [
           "/wiki/Avogadro_(software)"
         ]
       ],
       [
-        [
-          "Avogadro project team"
-        ],
-        [
-          null
-        ]
+        "Avogadro project team",
+        []
       ],
       [
-        [
-          "GNU GPL"
-        ],
+        "GNU GPL",
         [
           "/wiki/GNU_General_Public_License"
         ]
       ],
       [
-        [
-          "Linux , macOS , Windows"
-        ],
-        [
-          null
-        ]
+        "Linux , macOS , Windows",
+        []
       ],
       [
-        [
-          "3D molecule editor , visualizer"
-        ],
-        [
-          null
-        ]
+        "3D molecule editor , visualizer",
+        []
       ]
     ],
     [
       [
-        [
-          "BALLView"
-        ],
+        "BALLView",
         [
           "/wiki/BALLView"
         ]
       ],
       [
-        [
-          "BALL project team"
-        ],
-        [
-          null
-        ]
+        "BALL project team",
+        []
       ],
       [
-        [
-          "GNU GPL",
-          "LGPL"
-        ],
+        "GNU GPL - LGPL",
         [
           "/wiki/GNU_General_Public_License",
           "/wiki/GNU_Lesser_General_Public_License"
         ]
       ],
       [
-        [
-          "Linux , macOS , Windows"
-        ],
-        [
-          null
-        ]
+        "Linux , macOS , Windows",
+        []
       ],
       [
-        [
-          "viewer , editor , simulation tool"
-        ],
-        [
-          null
-        ]
+        "viewer , editor , simulation tool",
+        []
       ]
     ],
     [
       [
-        [
-          "Bioclipse"
-        ],
+        "Bioclipse",
         [
           "/wiki/Bioclipse"
         ]
       ],
       [
-        [
-          "Bioclipse Developers"
-        ],
-        [
-          null
-        ]
+        "Bioclipse Developers",
+        []
       ],
       [
-        [
-          "EPL"
-        ],
+        "EPL",
         [
           "/wiki/Eclipse_Public_License"
         ]
       ],
       [
-        [
-          "cross-platform"
-        ],
+        "cross-platform",
         [
           "/wiki/Cross-platform"
         ]
       ],
       [
-        [
-          "Java",
-          "Rich Client Platform"
-        ],
+        "Java , Eclipse Rich Client Platform ( RCP ) based",
         [
           "/wiki/Java_(programming_language)",
           "/wiki/Rich_Client_Platform"
@@ -390,41 +253,29 @@
     ],
     [
       [
-        [
-          "BKChem"
-        ],
+        "BKChem",
         [
           "/wiki/BKChem"
         ]
       ],
       [
-        [
-          "Beda Kosata"
-        ],
-        [
-          null
-        ]
+        "Beda Kosata",
+        []
       ],
       [
-        [
-          "GNU GPL"
-        ],
+        "GNU GPL",
         [
           "/wiki/GNU_General_Public_License"
         ]
       ],
       [
-        [
-          "cross-platform"
-        ],
+        "cross-platform",
         [
           "/wiki/Cross-platform"
         ]
       ],
       [
-        [
-          "Python"
-        ],
+        "2D molecule editor written in Python",
         [
           "/wiki/Python_(programming_language)"
         ]
@@ -432,167 +283,105 @@
     ],
     [
       [
-        [
-          "ChemDoodle"
-        ],
-        [
-          null
-        ]
+        "ChemDoodle",
+        []
       ],
       [
-        [
-          "iChemLabs"
-        ],
-        [
-          null
-        ]
+        "iChemLabs",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary",
         [
           "/wiki/Proprietary_software"
         ]
       ],
       [
-        [
-          "Linux , macOS , Windows"
-        ],
-        [
-          null
-        ]
+        "Linux , macOS , Windows",
+        []
       ],
       [
-        [
-          "Complete chemical publishing system for drawing chemical structures , reactions , spectra and more . Free trial available"
-        ],
-        [
-          null
-        ]
+        "Complete chemical publishing system for drawing chemical structures , reactions , spectra and more . Free trial available",
+        []
       ]
     ],
     [
       [
-        [
-          "ChemDraw"
-        ],
+        "ChemDraw",
         [
           "/wiki/ChemDraw"
         ]
       ],
       [
-        [
-          "PerkinElmer"
-        ],
-        [
-          null
-        ]
+        "PerkinElmer",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary",
         [
           "/wiki/Proprietary_software"
         ]
       ],
       [
-        [
-          "macOS , Windows"
-        ],
-        [
-          null
-        ]
+        "macOS , Windows",
+        []
       ],
       [
-        [
-          "Edit chemical structures and reactions"
-        ],
-        [
-          null
-        ]
+        "Edit chemical structures and reactions",
+        []
       ]
     ],
     [
       [
-        [
-          "Deneb"
-        ],
+        "Deneb",
         [
           "/wiki/Deneb"
         ]
       ],
       [
-        [
-          "AtelGraphics"
-        ],
-        [
-          null
-        ]
+        "AtelGraphics",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary",
         [
           "/wiki/Proprietary_software"
         ]
       ],
       [
-        [
-          "Linux , Windows"
-        ],
-        [
-          null
-        ]
+        "Linux , Windows",
+        []
       ],
       [
-        [
-          "Trial version available ; easy to use graphical user interface desktop for packages SIESTA , VASP , QE , etc"
-        ],
-        [
-          null
-        ]
+        "Trial version available ; easy to use graphical user interface desktop for packages SIESTA , VASP , QE , etc",
+        []
       ]
     ],
     [
       [
-        [
-          "Elemental ( software )"
-        ],
-        [
-          null
-        ]
+        "Elemental ( software )",
+        []
       ],
       [
-        [
-          "Dotmatics"
-        ],
+        "Dotmatics",
         [
           "/wiki/Dotmatics"
         ]
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary",
         [
           "/wiki/Proprietary_software"
         ]
       ],
       [
-        [
-          "iOS"
-        ],
+        "Windows , iOS",
         [
           "/wiki/IOS"
         ]
       ],
       [
-        [
-          "freeware"
-        ],
+        "freeware for PCs , iPhone , iPad",
         [
           "/wiki/Freeware"
         ]
@@ -600,251 +389,155 @@
     ],
     [
       [
-        [
-          "ICEdit"
-        ],
-        [
-          null
-        ]
+        "ICEdit",
+        []
       ],
       [
-        [
-          "InfoChem"
-        ],
-        [
-          null
-        ]
+        "InfoChem",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary",
         [
           "/wiki/Proprietary_software"
         ]
       ],
       [
-        [
-          "Windows"
-        ],
-        [
-          null
-        ]
+        "Windows",
+        []
       ],
       [
-        [
-          "Edit chemical structures and reactions"
-        ],
-        [
-          null
-        ]
+        "Edit chemical structures and reactions",
+        []
       ]
     ],
     [
       [
-        [
-          "Chemtool"
-        ],
-        [
-          null
-        ]
+        "Chemtool",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "GNU GPL"
-        ],
+        "GNU GPL",
         [
           "/wiki/GNU_General_Public_License"
         ]
       ],
       [
-        [
-          "Linux , Unix"
-        ],
-        [
-          null
-        ]
+        "Linux , Unix",
+        []
       ],
       [
-        [
-          "2D editor for chemical structural formulas , written in C using GTK"
-        ],
-        [
-          null
-        ]
+        "2D editor for chemical structural formulas , written in C using GTK",
+        []
       ]
     ],
     [
       [
-        [
-          "ChemWindow"
-        ],
+        "ChemWindow",
         [
           "/wiki/ChemWindow"
         ]
       ],
       [
-        [
-          "Bio-Rad"
-        ],
+        "Bio-Rad",
         [
           "/wiki/Bio-Rad"
         ]
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary",
         [
           "/wiki/Proprietary_software"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "available as part of the KnowItAll software environment ; Freeware for academic research and teaching"
-        ],
-        [
-          null
-        ]
+        "available as part of the KnowItAll software environment ; Freeware for academic research and teaching",
+        []
       ]
     ],
     [
       [
-        [
-          "Gabedit"
-        ],
+        "Gabedit",
         [
           "/wiki/Gabedit"
         ]
       ],
       [
-        [
-          "Abdulrahman Allouche"
-        ],
-        [
-          null
-        ]
+        "Abdulrahman Allouche",
+        []
       ],
       [
-        [
-          "BSD"
-        ],
+        "BSD",
         [
           "/wiki/BSD_licenses"
         ]
       ],
       [
-        [
-          "Linux , macOS , Windows"
-        ],
-        [
-          null
-        ]
+        "Linux , macOS , Windows",
+        []
       ],
       [
-        [
-          "3D molecule editor , visualizer"
-        ],
-        [
-          null
-        ]
+        "3D molecule editor , visualizer",
+        []
       ]
     ],
     [
       [
-        [
-          "ICM-Chemist"
-        ],
-        [
-          null
-        ]
+        "ICM-Chemist",
+        []
       ],
       [
-        [
-          "MolSoft"
-        ],
-        [
-          null
-        ]
+        "MolSoft",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary",
         [
           "/wiki/Proprietary_software"
         ]
       ],
       [
-        [
-          "Windows , macOS , Linux"
-        ],
-        [
-          null
-        ]
+        "Windows , macOS , Linux",
+        []
       ],
       [
-        [
-          "Easy to use graphical user interface desktop chemistry editor"
-        ],
-        [
-          null
-        ]
+        "Easy to use graphical user interface desktop chemistry editor",
+        []
       ]
     ],
     [
       [
-        [
-          "JChemPaint"
-        ],
+        "JChemPaint",
         [
           "/wiki/JChemPaint"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "GNU LGPL"
-        ],
+        "GNU LGPL",
         [
           "/wiki/GNU_Lesser_General_Public_License"
         ]
       ],
       [
-        [
-          "cross-platform"
-        ],
+        "cross-platform",
         [
           "/wiki/Cross-platform"
         ]
       ],
       [
-        [
-          "Java"
-        ],
+        "2D structural formula editor written in Java",
         [
           "/wiki/Java_(programming_language)"
         ]
@@ -852,44 +545,26 @@
     ],
     [
       [
-        [
-          "HyperChem"
-        ],
-        [
-          null
-        ]
+        "HyperChem",
+        []
       ],
       [
-        [
-          "Hypercube , Inc"
-        ],
-        [
-          null
-        ]
+        "Hypercube , Inc",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary",
         [
           "/wiki/Proprietary_software"
         ]
       ],
       [
-        [
-          "Windows"
-        ],
-        [
-          null
-        ]
+        "Windows",
+        []
       ],
       [
-        [
-          "3D molecule editor , visualizer"
-        ],
-        [
-          null
-        ]
+        "3D molecule editor , visualizer",
+        []
       ]
     ]
   ],

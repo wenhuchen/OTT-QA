@@ -3,86 +3,49 @@
   "title": "Fish kill",
   "header": [
     [
-      [
-        "Event/Location"
-      ],
-      [
-        null
-      ]
+      "Event/Location",
+      []
     ],
     [
-      [
-        "Date"
-      ],
-      [
-        null
-      ]
+      "Date",
+      []
     ],
     [
-      [
-        "Count"
-      ],
-      [
-        null
-      ]
+      "Count",
+      []
     ],
     [
-      [
-        "Species"
-      ],
-      [
-        null
-      ]
+      "Species",
+      []
     ],
     [
-      [
-        "Remarks"
-      ],
-      [
-        null
-      ]
+      "Remarks",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Gulf of Mexico",
-          "Corpus Christi"
-        ],
+        "Gulf of Mexico ( Corpus Christi )",
         [
           "/wiki/Gulf_of_Mexico",
           "/wiki/Corpus_Christi,_Texas"
         ]
       ],
       [
-        [
-          "1935"
-        ],
-        [
-          null
-        ]
+        "1935",
+        []
       ],
       [
-        [
-          "22,000,000"
-        ],
-        [
-          null
-        ]
+        "22,000,000",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "red tide"
-        ],
+        "Caused by red tide . This event caused coughing , sneezing and watery red eyes in humans",
         [
           "/wiki/Red_tide"
         ]
@@ -90,43 +53,28 @@
     ],
     [
       [
-        [
-          "River Aeron"
-        ],
+        "River Aeron",
         [
           "/wiki/River_Aeron"
         ]
       ],
       [
-        [
-          "1974"
-        ],
-        [
-          null
-        ]
+        "1974",
+        []
       ],
       [
-        [
-          "10,000"
-        ],
-        [
-          null
-        ]
+        "10,000",
+        []
       ],
       [
-        [
-          "salmon",
-          "trout"
-        ],
+        "salmon , trout",
         [
           "/wiki/Salmon",
           "/wiki/Trout"
         ]
       ],
       [
-        [
-          "creamery"
-        ],
+        "Discharge of creamery waste through poorly maintained sewer . Successful prosecution followed",
         [
           "/wiki/Creamery"
         ]
@@ -134,91 +82,56 @@
     ],
     [
       [
-        [
-          "River Neath"
-        ],
+        "River Neath",
         [
           "/wiki/River_Neath"
         ]
       ],
       [
-        [
-          "1976"
-        ],
-        [
-          null
-        ]
+        "1976",
+        []
       ],
       [
-        [
-          "50,000"
-        ],
-        [
-          null
-        ]
+        "50,000",
+        []
       ],
       [
-        [
-          "salmon",
-          "trout"
-        ],
+        "salmon , trout",
         [
           "/wiki/Salmon",
           "/wiki/Trout"
         ]
       ],
       [
-        [
-          "Extreme drought left fish stranded in stagnant pools into which sewers drained"
-        ],
-        [
-          null
-        ]
+        "Extreme drought left fish stranded in stagnant pools into which sewers drained",
+        []
       ]
     ],
     [
       [
-        [
-          "River Ogmore"
-        ],
+        "River Ogmore",
         [
           "/wiki/River_Ogmore"
         ]
       ],
       [
-        [
-          "1979"
-        ],
-        [
-          null
-        ]
+        "1979",
+        []
       ],
       [
-        [
-          "50,000"
-        ],
-        [
-          null
-        ]
+        "50,000",
+        []
       ],
       [
-        [
-          "salmon",
-          "trout"
-        ],
+        "salmon , trout",
         [
           "/wiki/Salmon",
           "/wiki/Trout"
         ]
       ],
       [
+        "Spillage of Kymene from a paper mill on the River Llynfi a tributary of the Ogmore . Successful prosecution followed and substantial compensation",
         [
-          "Kymene",
-          "paper mill",
-          "River Llynfi"
-        ],
-        [
-          null,
           "/wiki/Paper_mill",
           "/wiki/River_Llynfi"
         ]
@@ -226,43 +139,28 @@
     ],
     [
       [
-        [
-          "Gulf of Mexico"
-        ],
+        "Gulf of Mexico",
         [
           "/wiki/Gulf_of_Mexico"
         ]
       ],
       [
-        [
-          "1986"
-        ],
-        [
-          null
-        ]
+        "1986",
+        []
       ],
       [
-        [
-          "22,000,000"
-        ],
-        [
-          null
-        ]
+        "22,000,000",
+        []
       ],
       [
-        [
-          "Gulf menhaden",
-          "striped mullet"
-        ],
+        "Gulf menhaden , striped mullet , various other species",
         [
           "/wiki/Gulf_menhaden",
           "/wiki/Striped_mullet"
         ]
       ],
       [
-        [
-          "red tide"
-        ],
+        "Caused by red tide",
         [
           "/wiki/Red_tide"
         ]
@@ -270,83 +168,47 @@
     ],
     [
       [
-        [
-          "Rhine River"
-        ],
+        "Rhine River",
         [
           "/wiki/Rhine_River"
         ]
       ],
       [
-        [
-          "1986 01"
-        ],
-        [
-          null
-        ]
+        "1986 01",
+        []
       ],
       [
-        [
-          "500,000"
-        ],
-        [
-          null
-        ]
+        "500,000",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Caused by spill from Swiss chemical warehouse"
-        ],
-        [
-          null
-        ]
+        "Caused by spill from Swiss chemical warehouse",
+        []
       ]
     ],
     [
       [
-        [
-          "Texas coast"
-        ],
-        [
-          null
-        ]
+        "Texas coast",
+        []
       ],
       [
-        [
-          "1997-1998"
-        ],
-        [
-          null
-        ]
+        "1997-1998",
+        []
       ],
       [
-        [
-          "21,000,000"
-        ],
-        [
-          null
-        ]
+        "21,000,000",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Karenia brevis"
-        ],
+        "Caused by a bloom of Karenia brevis",
         [
           "/wiki/Karenia_brevis"
         ]
@@ -354,43 +216,26 @@
     ],
     [
       [
-        [
-          "White River",
-          "West Fork , Indiana"
-        ],
+        "White River ; West Fork , Indiana",
         [
           "/wiki/White_River_(Indiana)",
           "/wiki/West_Fork,_Indiana"
         ]
       ],
       [
-        [
-          "1999"
-        ],
-        [
-          null
-        ]
+        "1999",
+        []
       ],
       [
-        [
-          "4,800,000"
-        ],
-        [
-          null
-        ]
+        "4,800,000",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Anderson , Indiana"
-        ],
+        "Caused by an automotive parts maker in Anderson , Indiana , which had discharged 10,000 gallons of the chemical HMP 2000 into the river",
         [
           "/wiki/Anderson,_Indiana"
         ]
@@ -398,35 +243,21 @@
     ],
     [
       [
-        [
-          "River Dee ( United Kingdom )"
-        ],
+        "River Dee ( United Kingdom )",
         [
           "/wiki/River_Dee_(United_Kingdom)"
         ]
       ],
       [
-        [
-          "2000 07"
-        ],
-        [
-          null
-        ]
+        "2000 07",
+        []
       ],
       [
-        [
-          "100,000"
-        ],
-        [
-          null
-        ]
+        "100,000",
+        []
       ],
       [
-        [
-          "salmon",
-          "trout",
-          "perch"
-        ],
+        "salmon , trout , perch",
         [
           "/wiki/Salmon",
           "/wiki/Trout",
@@ -434,9 +265,7 @@
         ]
       ],
       [
-        [
-          "whey"
-        ],
+        "Unconfirmed link to release of whey into river",
         [
           "/wiki/Whey"
         ]
@@ -444,130 +273,81 @@
     ],
     [
       [
-        [
-          "Klamath River"
-        ],
+        "Klamath River",
         [
           "/wiki/2002_Klamath_River_fish_kill"
         ]
       ],
       [
-        [
-          "2002 09"
-        ],
-        [
-          null
-        ]
+        "2002 09",
+        []
       ],
       [
-        [
-          "70,000"
-        ],
-        [
-          null
-        ]
+        "70,000",
+        []
       ],
       [
-        [
-          "salmon"
-        ],
+        "salmon",
         [
           "/wiki/Salmon"
         ]
       ],
       [
-        [
-          "Low flow of water due to drought and water diversions for agriculture led to heated and shallow water , increasing vulnerability to a gill disease"
-        ],
-        [
-          null
-        ]
+        "Low flow of water due to drought and water diversions for agriculture led to heated and shallow water , increasing vulnerability to a gill disease",
+        []
       ]
     ],
     [
       [
-        [
-          "Neuse River",
-          "North Carolina"
-        ],
+        "Neuse River , North Carolina",
         [
           "/wiki/Neuse_River",
           "/wiki/North_Carolina"
         ]
       ],
       [
-        [
-          "2004 09"
-        ],
-        [
-          null
-        ]
+        "2004 09",
+        []
       ],
       [
-        [
-          "1,900,000"
-        ],
-        [
-          null
-        ]
+        "1,900,000",
+        []
       ],
       [
-        [
-          "menhaden"
-        ],
+        "menhaden",
         [
           "/wiki/Menhaden"
         ]
       ],
       [
-        [
-          "Natural upwelling of an acknowledged polluted river . Hydrogen sulfide smell reported"
-        ],
-        [
-          null
-        ]
+        "Natural upwelling of an acknowledged polluted river . Hydrogen sulfide smell reported",
+        []
       ]
     ],
     [
       [
-        [
-          "Taal Lake",
-          "Luzon"
-        ],
+        "Taal Lake , Luzon , Philippines",
         [
           "/wiki/Taal_Lake",
           "/wiki/Luzon"
         ]
       ],
       [
-        [
-          "2008 01 05"
-        ],
-        [
-          null
-        ]
+        "2008 01 05",
+        []
       ],
       [
-        [
-          "50 metric tons"
-        ],
-        [
-          null
-        ]
+        "50 metric tons",
+        []
       ],
       [
-        [
-          "tilapia"
-        ],
+        "tilapia",
         [
           "/wiki/Tilapia"
         ]
       ],
       [
-        [
-          "volcanic activity",
-          "fish farms"
-        ],
+        "May be linked to volcanic activity and large fish farms",
         [
           "/wiki/Volcanic_activity",
           "/wiki/Fish_farms"
@@ -576,85 +356,54 @@
     ],
     [
       [
-        [
-          "Liuxihe River",
-          "Guangzhou"
-        ],
+        "Liuxihe River Guangzhou People 's Republic of China",
         [
           "/wiki/Liuxihe_River",
           "/wiki/Guangzhou"
         ]
       ],
       [
-        [
-          "2008 09 09"
-        ],
-        [
-          null
-        ]
+        "2008 09 09",
+        []
       ],
       [
-        [
-          "10,000"
-        ],
-        [
-          null
-        ]
+        "10,000",
+        []
       ],
       [
-        [
-          "carp"
-        ],
+        "carp",
         [
           "/wiki/Carp"
         ]
       ],
       [
-        [
-          "Unknown"
-        ],
-        [
-          null
-        ]
+        "Unknown",
+        []
       ]
     ],
     [
       [
-        [
-          "Thanet"
-        ],
+        "Beaches at Thanet , Kent , England",
         [
           "/wiki/Thanet_District"
         ]
       ],
       [
-        [
-          "2010 01"
-        ],
-        [
-          null
-        ]
+        "2010 01",
+        []
       ],
       [
-        [
-          "20,000"
-        ],
-        [
-          null
-        ]
+        "20,000",
+        []
       ],
       [
-        [
-          "velvet crab"
-        ],
+        "velvet crab",
         [
           "/wiki/Velvet_crab"
         ]
       ],
       [
-        [
-          "hypothermia"
-        ],
+        "20000 + dead crabs - along with dead starfish , lobsters , sponges and anemones . Probably killed by hypothermia",
         [
           "/wiki/Hypothermia"
         ]
@@ -662,43 +411,26 @@
     ],
     [
       [
-        [
-          "Ting River",
-          "Fujian"
-        ],
+        "Ting River Fujian People 's Republic of China",
         [
           "/wiki/Ting_River",
           "/wiki/Fujian"
         ]
       ],
       [
-        [
-          "2010 07"
-        ],
-        [
-          null
-        ]
+        "2010 07",
+        []
       ],
       [
-        [
-          "> 1,000,000 Enough to feed 70,000 people a year"
-        ],
-        [
-          null
-        ]
+        "> 1,000,000 Enough to feed 70,000 people a year",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Zijin mining disaster"
-        ],
+        "Part of the Zijin mining disaster",
         [
           "/wiki/Zijin_Mining"
         ]
@@ -706,37 +438,22 @@
     ],
     [
       [
-        [
-          "Mississippi River",
-          "Plaquemines Parish , Louisiana"
-        ],
+        "Mississippi River ; Plaquemines Parish , Louisiana",
         [
           "/wiki/Mississippi_River",
           "/wiki/Plaquemines_Parish,_Louisiana"
         ]
       ],
       [
-        [
-          "2010 09"
-        ],
-        [
-          null
-        ]
+        "2010 09",
+        []
       ],
       [
-        [
-          "100,000"
-        ],
-        [
-          null
-        ]
+        "100,000",
+        []
       ],
       [
-        [
-          "redfish",
-          "trout",
-          "flounder"
-        ],
+        "redfish , trout , flounder",
         [
           "/wiki/Redfish",
           "/wiki/Trout",
@@ -744,53 +461,34 @@
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Arkansas River",
-          "Ozark , Arkansas"
-        ],
+        "Arkansas River ; Ozark , Arkansas",
         [
           "/wiki/Arkansas_River",
           "/wiki/Ozark,_Arkansas"
         ]
       ],
       [
-        [
-          "2010 12"
-        ],
-        [
-          null
-        ]
+        "2010 12",
+        []
       ],
       [
-        [
-          "100,000"
-        ],
-        [
-          null
-        ]
+        "100,000",
+        []
       ],
       [
-        [
-          "freshwater drum"
-        ],
+        "freshwater drum",
         [
           "/wiki/Freshwater_drum"
         ]
       ],
       [
-        [
-          "red-winged blackbirds"
-        ],
+        "Coincided with death of 5,000 red-winged blackbirds that fell from the sky",
         [
           "/wiki/Red-winged_blackbird"
         ]
@@ -798,41 +496,27 @@
     ],
     [
       [
-        [
-          "Chesapeake Bay"
-        ],
+        "Chesapeake Bay",
         [
           "/wiki/Chesapeake_Bay"
         ]
       ],
       [
-        [
-          "2011 01"
-        ],
-        [
-          null
-        ]
+        "2011 01",
+        []
       ],
       [
-        [
-          "2,000,000"
-        ],
-        [
-          null
-        ]
+        "2,000,000",
+        []
       ],
       [
-        [
-          "spot croakers"
-        ],
+        "spot croakers",
         [
           "/wiki/Spot_croaker"
         ]
       ],
       [
-        [
-          "croakers"
-        ],
+        "Included some juvenile croakers . Cold water stress was believed to be the cause",
         [
           "/wiki/Croakers"
         ]
@@ -840,39 +524,22 @@
     ],
     [
       [
-        [
-          "Jiaxing",
-          "Xiuzhou District"
-        ],
+        "Jiaxing Xiuzhou District People 's Republic of China",
         [
           "/wiki/Jiaxing",
           "/wiki/Xiuzhou_District"
         ]
       ],
       [
-        [
-          "2011 01 06"
-        ],
-        [
-          null
-        ]
+        "2011 01 06",
+        []
       ],
       [
-        [
-          "250,000"
-        ],
-        [
-          null
-        ]
+        "250,000",
+        []
       ],
       [
-        [
-          "bream",
-          "carp",
-          "murrel",
-          "silver carp",
-          "grass carp"
-        ],
+        "bream , carp , murrel , silver carp , grass carp",
         [
           "/wiki/Bream",
           "/wiki/Carp",
@@ -882,9 +549,7 @@
         ]
       ],
       [
-        [
-          "China National Highway 320"
-        ],
+        "Fish caught and transported to market held in large fish tanks fed with river water . Very rapid die-off and loss exceeded 100 tonnes . Only fish caught from a river under China National Highway 320 east died",
         [
           "/wiki/China_National_Highway_320"
         ]
@@ -892,35 +557,21 @@
     ],
     [
       [
-        [
-          "Redondo Beach , California"
-        ],
+        "Redondo Beach , California",
         [
           "/wiki/Redondo_Beach,_California"
         ]
       ],
       [
-        [
-          "2011 03"
-        ],
-        [
-          null
-        ]
+        "2011 03",
+        []
       ],
       [
-        [
-          "millions"
-        ],
-        [
-          null
-        ]
+        "millions",
+        []
       ],
       [
-        [
-          "anchovies",
-          "mackerel",
-          "sardines"
-        ],
+        "anchovies , mackerel , sardines and other small fish",
         [
           "/wiki/Anchovies",
           "/wiki/Mackerel",
@@ -928,12 +579,8 @@
         ]
       ],
       [
-        [
-          "Caused by oxygen deprivation"
-        ],
-        [
-          null
-        ]
+        "Caused by oxygen deprivation",
+        []
       ]
     ]
   ],

@@ -3,84 +3,50 @@
   "title": "Oxford transmitting station",
   "header": [
     [
-      [
-        "Frequency"
-      ],
-      [
-        null
-      ]
+      "Frequency",
+      []
     ],
     [
-      [
-        "UHF"
-      ],
-      [
-        null
-      ]
+      "UHF",
+      []
     ],
     [
-      [
-        "kW"
-      ],
-      [
-        null
-      ]
+      "kW",
+      []
     ],
     [
-      [
-        "Service"
-      ],
-      [
-        null
-      ]
+      "Service",
+      []
     ],
     [
-      [
-        "System"
-      ],
-      [
-        null
-      ]
+      "System",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "MHz"
-        ],
+        "538.000 MHz",
         [
           "/wiki/Hertz"
         ]
       ],
       [
-        [
-          "29"
-        ],
-        [
-          null
-        ]
+        "29",
+        []
       ],
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "Arqiva"
-        ],
+        "Arqiva ( Mux D )",
         [
           "/wiki/Arqiva"
         ]
       ],
       [
-        [
-          "DVB-T"
-        ],
+        "DVB-T",
         [
           "/wiki/DVB-T"
         ]
@@ -88,125 +54,77 @@
     ],
     [
       [
-        [
-          "MHz"
-        ],
+        "578.000 MHz",
         [
           "/wiki/Hertz"
         ]
       ],
       [
-        [
-          "34"
-        ],
-        [
-          null
-        ]
+        "34",
+        []
       ],
       [
-        [
-          "10"
-        ],
-        [
-          null
-        ]
+        "10",
+        []
       ],
       [
-        [
-          "BBC"
-        ],
+        "BBC ( Mux 1 )",
         [
           "/wiki/BBC"
         ]
       ],
       [
-        [
-          "DVB-T"
-        ],
-        [
-          null
-        ]
+        "DVB-T",
+        []
       ]
     ],
     [
       [
-        [
-          "MHz"
-        ],
+        "690.000 MHz",
         [
           "/wiki/Hertz"
         ]
       ],
       [
-        [
-          "48"
-        ],
-        [
-          null
-        ]
+        "48",
+        []
       ],
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "Arqiva ( Mux C )"
-        ],
-        [
-          null
-        ]
+        "Arqiva ( Mux C )",
+        []
       ],
       [
-        [
-          "DVB-T"
-        ],
-        [
-          null
-        ]
+        "DVB-T",
+        []
       ]
     ],
     [
       [
-        [
-          "MHz"
-        ],
+        "695.25 MHz",
         [
           "/wiki/Hertz"
         ]
       ],
       [
-        [
-          "49"
-        ],
-        [
-          null
-        ]
+        "49",
+        []
       ],
       [
-        [
-          "40"
-        ],
-        [
-          null
-        ]
+        "40",
+        []
       ],
       [
-        [
-          "Channel 5"
-        ],
+        "Channel 5",
         [
           "/wiki/Channel_5_(UK)"
         ]
       ],
       [
-        [
-          "PAL"
-        ],
+        "PAL System I",
         [
           "/wiki/PAL"
         ]
@@ -214,296 +132,184 @@
     ],
     [
       [
-        [
-          "MHz"
-        ],
+        "713.833 MHz",
         [
           "/wiki/Hertz"
         ]
       ],
       [
-        [
-          "51-"
-        ],
-        [
-          null
-        ]
+        "51-",
+        []
       ],
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "SDN"
-        ],
+        "SDN ( Mux A )",
         [
           "/wiki/S4C_Digital_Networks"
         ]
       ],
       [
-        [
-          "DVB-T"
-        ],
-        [
-          null
-        ]
+        "DVB-T",
+        []
       ]
     ],
     [
       [
-        [
-          "MHz"
-        ],
+        "721.833 MHz",
         [
           "/wiki/Hertz"
         ]
       ],
       [
-        [
-          "52-"
-        ],
-        [
-          null
-        ]
+        "52-",
+        []
       ],
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "BBC"
-        ],
+        "BBC ( Mux B )",
         [
           "/wiki/BBC"
         ]
       ],
       [
-        [
-          "DVB-T"
-        ],
-        [
-          null
-        ]
+        "DVB-T",
+        []
       ]
     ],
     [
       [
-        [
-          "MHz"
-        ],
+        "727.25 MHz",
         [
           "/wiki/Hertz"
         ]
       ],
       [
-        [
-          "53"
-        ],
-        [
-          null
-        ]
+        "53",
+        []
       ],
       [
-        [
-          "500"
-        ],
-        [
-          null
-        ]
+        "500",
+        []
       ],
       [
-        [
-          "Channel 4"
-        ],
+        "Channel 4",
         [
           "/wiki/Channel_4"
         ]
       ],
       [
-        [
-          "PAL System I"
-        ],
-        [
-          null
-        ]
+        "PAL System I",
+        []
       ]
     ],
     [
       [
-        [
-          "MHz"
-        ],
+        "759.25 MHz",
         [
           "/wiki/Hertz"
         ]
       ],
       [
-        [
-          "57"
-        ],
-        [
-          null
-        ]
+        "57",
+        []
       ],
       [
-        [
-          "500"
-        ],
-        [
-          null
-        ]
+        "500",
+        []
       ],
       [
-        [
-          "BBC One"
-        ],
+        "BBC One",
         [
           "/wiki/BBC_One"
         ]
       ],
       [
-        [
-          "PAL System I"
-        ],
-        [
-          null
-        ]
+        "PAL System I",
+        []
       ]
     ],
     [
       [
-        [
-          "MHz"
-        ],
+        "783.25 MHz",
         [
           "/wiki/Hertz"
         ]
       ],
       [
-        [
-          "60"
-        ],
-        [
-          null
-        ]
+        "60",
+        []
       ],
       [
-        [
-          "500"
-        ],
-        [
-          null
-        ]
+        "500",
+        []
       ],
       [
-        [
-          "ITV1"
-        ],
+        "ITV1",
         [
           "/wiki/ITV1"
         ]
       ],
       [
-        [
-          "PAL System I"
-        ],
-        [
-          null
-        ]
+        "PAL System I",
+        []
       ]
     ],
     [
       [
-        [
-          "MHz"
-        ],
+        "807.25 MHz",
         [
           "/wiki/Hertz"
         ]
       ],
       [
-        [
-          "63"
-        ],
-        [
-          null
-        ]
+        "63",
+        []
       ],
       [
-        [
-          "500"
-        ],
-        [
-          null
-        ]
+        "500",
+        []
       ],
       [
-        [
-          "BBC Two"
-        ],
+        "BBC Two",
         [
           "/wiki/BBC_Two"
         ]
       ],
       [
-        [
-          "PAL System I"
-        ],
-        [
-          null
-        ]
+        "PAL System I",
+        []
       ]
     ],
     [
       [
-        [
-          "MHz"
-        ],
+        "850.000 MHz",
         [
           "/wiki/Hertz"
         ]
       ],
       [
-        [
-          "68"
-        ],
-        [
-          null
-        ]
+        "68",
+        []
       ],
       [
-        [
-          "10"
-        ],
-        [
-          null
-        ]
+        "10",
+        []
       ],
       [
-        [
-          "Digital 3 & 4"
-        ],
+        "Digital 3 & 4 ( Mux 2 )",
         [
           "/wiki/Digital_3&4"
         ]
       ],
       [
-        [
-          "DVB-T"
-        ],
-        [
-          null
-        ]
+        "DVB-T",
+        []
       ]
     ]
   ],

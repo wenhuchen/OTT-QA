@@ -3,379 +3,230 @@
   "title": "List of busiest passenger air routes",
   "header": [
     [
-      [
-        "Rank"
-      ],
-      [
-        null
-      ]
+      "Rank",
+      []
     ],
     [
-      [
-        "City 1"
-      ],
-      [
-        null
-      ]
+      "City 1",
+      []
     ],
     [
-      [
-        "City 2"
-      ],
-      [
-        null
-      ]
+      "City 2",
+      []
     ],
     [
-      [
-        "Passengers ( 2016 )"
-      ],
-      [
-        null
-      ]
+      "Passengers ( 2016 )",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "London"
-        ],
+        "London",
         [
           "/wiki/London"
         ]
       ],
       [
-        [
-          "Dublin"
-        ],
+        "Dublin",
         [
           "/wiki/Dublin"
         ]
       ],
       [
-        [
-          "4,771,614"
-        ],
-        [
-          null
-        ]
+        "4,771,614",
+        []
       ]
     ],
     [
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "London"
-        ],
-        [
-          null
-        ]
+        "London",
+        []
       ],
       [
-        [
-          "Amsterdam"
-        ],
+        "Amsterdam",
         [
           "/wiki/Amsterdam"
         ]
       ],
       [
-        [
-          "4,344,935"
-        ],
-        [
-          null
-        ]
+        "4,344,935",
+        []
       ]
     ],
     [
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "London"
-        ],
-        [
-          null
-        ]
+        "London",
+        []
       ],
       [
-        [
-          "New York"
-        ],
+        "New York",
         [
           "/wiki/New_York_City"
         ]
       ],
       [
-        [
-          "4,243,687"
-        ],
-        [
-          null
-        ]
+        "4,243,687",
+        []
       ]
     ],
     [
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "London"
-        ],
-        [
-          null
-        ]
+        "London",
+        []
       ],
       [
-        [
-          "Dubai"
-        ],
+        "Dubai",
         [
           "/wiki/Dubai"
         ]
       ],
       [
-        [
-          "3,960,389"
-        ],
-        [
-          null
-        ]
+        "3,960,389",
+        []
       ]
     ],
     [
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "Moscow"
-        ],
+        "Moscow",
         [
           "/wiki/Moscow"
         ]
       ],
       [
-        [
-          "Saint Petersburg"
-        ],
+        "Saint Petersburg",
         [
           "/wiki/Saint_Petersburg"
         ]
       ],
       [
-        [
-          "3,836,588"
-        ],
-        [
-          null
-        ]
+        "3,836,588",
+        []
       ]
     ],
     [
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "London"
-        ],
-        [
-          null
-        ]
+        "London",
+        []
       ],
       [
-        [
-          "Edinburgh"
-        ],
+        "Edinburgh",
         [
           "/wiki/Edinburgh"
         ]
       ],
       [
-        [
-          "3,393,013"
-        ],
-        [
-          null
-        ]
+        "3,393,013",
+        []
       ]
     ],
     [
       [
-        [
-          "7"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ],
       [
-        [
-          "Paris"
-        ],
+        "Paris",
         [
           "/wiki/Paris"
         ]
       ],
       [
-        [
-          "Toulouse"
-        ],
+        "Toulouse",
         [
           "/wiki/Toulouse"
         ]
       ],
       [
-        [
-          "3,260,074"
-        ],
-        [
-          null
-        ]
+        "3,260,074",
+        []
       ]
     ],
     [
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "London"
-        ],
-        [
-          null
-        ]
+        "London",
+        []
       ],
       [
-        [
-          "Barcelona"
-        ],
+        "Barcelona",
         [
           "/wiki/Barcelona"
         ]
       ],
       [
-        [
-          "3,125,080"
-        ],
-        [
-          null
-        ]
+        "3,125,080",
+        []
       ]
     ],
     [
       [
-        [
-          "9"
-        ],
-        [
-          null
-        ]
+        "9",
+        []
       ],
       [
-        [
-          "Berlin"
-        ],
+        "Berlin",
         [
           "/wiki/Berlin"
         ]
       ],
       [
-        [
-          "Cologne",
-          "D\u00fcsseldorf"
-        ],
+        "Cologne + D\u00fcsseldorf",
         [
           "/wiki/Cologne",
           "/wiki/D\u00fcsseldorf"
         ]
       ],
       [
-        [
-          "3,017,845"
-        ],
-        [
-          null
-        ]
+        "3,017,845",
+        []
       ]
     ],
     [
       [
-        [
-          "10"
-        ],
-        [
-          null
-        ]
+        "10",
+        []
       ],
       [
-        [
-          "Paris"
-        ],
-        [
-          null
-        ]
+        "Paris",
+        []
       ],
       [
-        [
-          "Nice"
-        ],
+        "Nice",
         [
           "/wiki/Nice"
         ]
       ],
       [
-        [
-          "2,975,405"
-        ],
-        [
-          null
-        ]
+        "2,975,405",
+        []
       ]
     ]
   ],

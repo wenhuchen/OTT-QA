@@ -3,20 +3,11 @@
   "title": "List of airports in the Montreal area",
   "header": [
     [
-      [
-        "Airport name"
-      ],
-      [
-        null
-      ]
+      "Airport name",
+      []
     ],
     [
-      [
-        "ICAO",
-        "TC",
-        "LID",
-        "IATA"
-      ],
+      "ICAO / TC LID / IATA",
       [
         "/wiki/International_Civil_Aviation_Organization_airport_code",
         "/wiki/Transport_Canada",
@@ -25,36 +16,24 @@
       ]
     ],
     [
-      [
-        "Location"
-      ],
-      [
-        null
-      ]
+      "Location",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Cartierville Airport"
-        ],
+        "Cartierville Airport",
         [
           "/wiki/Cartierville_Airport"
         ]
       ],
       [
-        [
-          "CYCV ( YCV )"
-        ],
-        [
-          null
-        ]
+        "CYCV ( YCV )",
+        []
       ],
       [
-        [
-          "Saint-Laurent"
-        ],
+        "Saint-Laurent",
         [
           "/wiki/Saint-Laurent,_Quebec"
         ]
@@ -62,25 +41,17 @@
     ],
     [
       [
-        [
-          "Chambly Airport"
-        ],
+        "Chambly Airport",
         [
           "/wiki/Chambly_Airport"
         ]
       ],
       [
-        [
-          "CTT2"
-        ],
-        [
-          null
-        ]
+        "CTT2",
+        []
       ],
       [
-        [
-          "Chambly"
-        ],
+        "Chambly",
         [
           "/wiki/Chambly,_Quebec"
         ]
@@ -88,25 +59,17 @@
     ],
     [
       [
-        [
-          "Hawkesbury ( Windover Field ) Airport"
-        ],
+        "Hawkesbury ( Windover Field ) Airport",
         [
           "/wiki/Hawkesbury_(Windover_Field)_Airport"
         ]
       ],
       [
-        [
-          "CPD8"
-        ],
-        [
-          null
-        ]
+        "CPD8",
+        []
       ],
       [
-        [
-          "Hawkesbury , Ontario"
-        ],
+        "Hawkesbury , Ontario",
         [
           "/wiki/Hawkesbury,_Ontario"
         ]
@@ -114,25 +77,17 @@
     ],
     [
       [
-        [
-          "Montr\u00e9al/Boucherville Water Aerodrome"
-        ],
+        "Montr\u00e9al/Boucherville Water Aerodrome",
         [
           "/wiki/Montr\u00e9al/Boucherville_Water_Aerodrome"
         ]
       ],
       [
-        [
-          "CTA7"
-        ],
-        [
-          null
-        ]
+        "CTA7",
+        []
       ],
       [
-        [
-          "Boucherville"
-        ],
+        "Boucherville",
         [
           "/wiki/Boucherville"
         ]
@@ -140,26 +95,17 @@
     ],
     [
       [
-        [
-          "Montr\u00e9al/\u00cele Sainte-H\u00e9l\u00e8ne Water Airport"
-        ],
+        "Montr\u00e9al/\u00cele Sainte-H\u00e9l\u00e8ne Water Airport",
         [
           "/wiki/Montr\u00e9al/\u00cele_Sainte-H\u00e9l\u00e8ne_Water_Airport"
         ]
       ],
       [
-        [
-          "CVP2"
-        ],
-        [
-          null
-        ]
+        "CVP2",
+        []
       ],
       [
-        [
-          "Saint Helen 's Island",
-          "Montreal"
-        ],
+        "Saint Helen 's Island , Montreal",
         [
           "/wiki/Saint_Helen's_Island",
           "/wiki/Montreal"
@@ -168,25 +114,17 @@
     ],
     [
       [
-        [
-          "Montr\u00e9al/Mascouche Airport"
-        ],
+        "Montr\u00e9al/Mascouche Airport",
         [
           "/wiki/Montr\u00e9al/Mascouche_Airport"
         ]
       ],
       [
-        [
-          "CSK3"
-        ],
-        [
-          null
-        ]
+        "CSK3",
+        []
       ],
       [
-        [
-          "Mascouche"
-        ],
+        "Mascouche",
         [
           "/wiki/Mascouche"
         ]
@@ -194,25 +132,17 @@
     ],
     [
       [
-        [
-          "CFB St. Hubert"
-        ],
+        "CFB St. Hubert",
         [
           "/wiki/CFB_St._Hubert"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Montreal"
-        ],
+        "Montreal",
         [
           "/wiki/Montreal"
         ]
@@ -220,25 +150,17 @@
     ],
     [
       [
-        [
-          "Victoria STOLport"
-        ],
+        "Victoria STOLport",
         [
           "/wiki/Victoria_STOLport"
         ]
       ],
       [
-        [
-          "CYMY ( YMY )"
-        ],
-        [
-          null
-        ]
+        "CYMY ( YMY )",
+        []
       ],
       [
-        [
-          "Montreal"
-        ],
+        "Montreal",
         [
           "/wiki/Montreal"
         ]

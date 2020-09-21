@@ -3,247 +3,151 @@
   "title": "List of disasters in the United States by death toll",
   "header": [
     [
-      [
-        "Year"
-      ],
-      [
-        null
-      ]
+      "Year",
+      []
     ],
     [
-      [
-        "Type"
-      ],
-      [
-        null
-      ]
+      "Type",
+      []
     ],
     [
-      [
-        "Fatalities"
-      ],
-      [
-        null
-      ]
+      "Fatalities",
+      []
     ],
     [
-      [
-        "Article"
-      ],
-      [
-        null
-      ]
+      "Article",
+      []
     ],
     [
-      [
-        "Location"
-      ],
-      [
-        null
-      ]
+      "Location",
+      []
     ],
     [
-      [
-        "Comments"
-      ],
-      [
-        null
-      ]
+      "Comments",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "1857"
-        ],
-        [
-          null
-        ]
+        "1857",
+        []
       ],
       [
-        [
-          "Shipwreck"
-        ],
+        "Shipwreck",
         [
           "/wiki/Shipwreck"
         ]
       ],
       [
-        [
-          "400"
-        ],
-        [
-          null
-        ]
+        "400",
+        []
       ],
       [
-        [
-          "SS Central America"
-        ],
+        "SS Central America , 1857",
         [
           "/wiki/SS_Central_America"
         ]
       ],
       [
-        [
-          "Georgia"
-        ],
+        "Off the coast of Georgia",
         [
           "/wiki/Georgia_(U.S._state)"
         ]
       ],
       [
-        [
-          "Fatalities estimated"
-        ],
-        [
-          null
-        ]
+        "Fatalities estimated",
+        []
       ]
     ],
     [
       [
-        [
-          "1860"
-        ],
-        [
-          null
-        ]
+        "1860",
+        []
       ],
       [
-        [
-          "Accident",
-          "shipwreck"
-        ],
+        "Accident - shipwreck",
         [
           "/wiki/Accident",
           "/wiki/Shipwreck"
         ]
       ],
       [
-        [
-          "400"
-        ],
-        [
-          null
-        ]
+        "400",
+        []
       ],
       [
-        [
-          "PS Lady Elgin"
-        ],
+        "PS Lady Elgin",
         [
           "/wiki/PS_Lady_Elgin"
         ]
       ],
       [
-        [
-          "Chicago , Illinois"
-        ],
+        "Chicago , Illinois",
         [
           "/wiki/Chicago,_Illinois"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "1888"
-        ],
-        [
-          null
-        ]
+        "1888",
+        []
       ],
       [
-        [
-          "Blizzard"
-        ],
+        "Blizzard",
         [
           "/wiki/Blizzard"
         ]
       ],
       [
-        [
-          "400"
-        ],
-        [
-          null
-        ]
+        "400",
+        []
       ],
       [
-        [
-          "Great Blizzard of 1888"
-        ],
+        "Great Blizzard of 1888",
         [
           "/wiki/Great_Blizzard_of_1888"
         ]
       ],
       [
-        [
-          "Northeastern United States"
-        ],
+        "Northeastern United States",
         [
           "/wiki/Northeastern_United_States"
         ]
       ],
       [
-        [
-          "Fatalities estimated"
-        ],
-        [
-          null
-        ]
+        "Fatalities estimated",
+        []
       ]
     ],
     [
       [
-        [
-          "1937"
-        ],
-        [
-          null
-        ]
+        "1937",
+        []
       ],
       [
-        [
-          "Flood"
-        ],
+        "Flood",
         [
           "/wiki/Flood"
         ]
       ],
       [
-        [
-          "385"
-        ],
-        [
-          null
-        ]
+        "385",
+        []
       ],
       [
-        [
-          "Ohio River flood of 1937"
-        ],
+        "Ohio River flood of 1937",
         [
           "/wiki/Ohio_River_flood_of_1937"
         ]
       ],
       [
-        [
-          "Ohio",
-          "Kentucky",
-          "Indiana",
-          "Illinois"
-        ],
+        "Ohio , Kentucky , Indiana , Illinois",
         [
           "/wiki/Ohio",
           "/wiki/Kentucky",
@@ -252,257 +156,163 @@
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "1944"
-        ],
-        [
-          null
-        ]
+        "1944",
+        []
       ],
       [
-        [
-          "Accident",
-          "explosion"
-        ],
+        "Accident - explosion",
         [
           "/wiki/Accident",
           "/wiki/Explosion"
         ]
       ],
       [
-        [
-          "372"
-        ],
-        [
-          null
-        ]
+        "372",
+        []
       ],
       [
-        [
-          "USS Mount Hood"
-        ],
+        "USS Mount Hood",
         [
           "/wiki/USS_Mount_Hood_(AE-11)"
         ]
       ],
       [
-        [
-          "New Guinea"
-        ],
+        "New Guinea",
         [
           "/wiki/New_Guinea"
         ]
       ],
       [
-        [
-          "Ammunition ship explosion"
-        ],
-        [
-          null
-        ]
+        "Ammunition ship explosion",
+        []
       ]
     ],
     [
       [
-        [
-          "1907"
-        ],
-        [
-          null
-        ]
+        "1907",
+        []
       ],
       [
-        [
-          "Accident",
-          "coal mine"
-        ],
+        "Accident - coal mine",
         [
           "/wiki/Accident",
           "/wiki/Coal_mine"
         ]
       ],
       [
-        [
-          "362"
-        ],
-        [
-          null
-        ]
+        "362",
+        []
       ],
       [
-        [
-          "Monongah mining disaster"
-        ],
+        "Monongah mining disaster",
         [
           "/wiki/Monongah_mining_disaster"
         ]
       ],
       [
-        [
-          "Monongah , West Virginia"
-        ],
+        "Monongah , West Virginia",
         [
           "/wiki/Monongah,_West_Virginia"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "1913"
-        ],
-        [
-          null
-        ]
+        "1913",
+        []
       ],
       [
-        [
-          "Flood"
-        ],
+        "Flood",
         [
           "/wiki/Flood"
         ]
       ],
       [
-        [
-          "361"
-        ],
-        [
-          null
-        ]
+        "361",
+        []
       ],
       [
-        [
-          "Great Dayton Flood"
-        ],
+        "Great Dayton Flood",
         [
           "/wiki/Great_Dayton_Flood"
         ]
       ],
       [
-        [
-          "Dayton , Ohio"
-        ],
+        "Dayton , Ohio",
         [
           "/wiki/Dayton,_Ohio"
         ]
       ],
       [
-        [
-          "Flood was created by a series of three winter storms that hit the region in March , 1913"
-        ],
-        [
-          null
-        ]
+        "Flood was created by a series of three winter storms that hit the region in March , 1913",
+        []
       ]
     ],
     [
       [
-        [
-          "1950"
-        ],
-        [
-          null
-        ]
+        "1950",
+        []
       ],
       [
-        [
-          "Blizzard"
-        ],
+        "Blizzard",
         [
           "/wiki/Blizzard"
         ]
       ],
       [
-        [
-          "353"
-        ],
-        [
-          null
-        ]
+        "353",
+        []
       ],
       [
-        [
-          "Great Appalachian Storm of November 1950"
-        ],
+        "Great Appalachian Storm of November 1950",
         [
           "/wiki/Great_Appalachian_Storm_of_November_1950"
         ]
       ],
       [
-        [
-          "Eastern United States"
-        ],
+        "Eastern United States",
         [
           "/wiki/Eastern_United_States"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "2011"
-        ],
-        [
-          null
-        ]
+        "2011",
+        []
       ],
       [
-        [
-          "Tornado outbreak"
-        ],
+        "Tornado outbreak",
         [
           "/wiki/Tornado_outbreak"
         ]
       ],
       [
-        [
-          "348"
-        ],
-        [
-          null
-        ]
+        "348",
+        []
       ],
       [
-        [
-          "2011 Super Outbreak"
-        ],
+        "2011 Super Outbreak",
         [
           "/wiki/2011_Super_Outbreak"
         ]
       ],
       [
-        [
-          "Midwestern United States",
-          "Southern United States",
-          "Eastern United States"
-        ],
+        "Midwestern United States , Southern United States , Eastern United States",
         [
           "/wiki/Midwestern_United_States",
           "/wiki/Southern_United_States",
@@ -510,10 +320,7 @@
         ]
       ],
       [
-        [
-          "Tuscaloosa",
-          "Birmingham , Alabama"
-        ],
+        "360 tornadoes , with one of the deadliest in Tuscaloosa and Birmingham , Alabama . 324 tornadic deaths , with another 24 from related weather",
         [
           "/wiki/Tuscaloosa,_Alabama",
           "/wiki/Birmingham,_Alabama"
@@ -522,49 +329,33 @@
     ],
     [
       [
-        [
-          "1932"
-        ],
-        [
-          null
-        ]
+        "1932",
+        []
       ],
       [
-        [
-          "Tornado outbreak"
-        ],
+        "Tornado outbreak",
         [
           "/wiki/Tornado_outbreak"
         ]
       ],
       [
-        [
-          "330"
-        ],
-        [
-          null
-        ]
+        "330",
+        []
       ],
       [
-        [
-          "1932 Deep South tornado outbreak"
-        ],
+        "1932 Deep South tornado outbreak",
         [
           "/wiki/1932_Deep_South_tornado_outbreak"
         ]
       ],
       [
-        [
-          "Southern United States"
-        ],
+        "Southern United States",
         [
           "/wiki/Southern_United_States"
         ]
       ],
       [
-        [
-          "Alabama"
-        ],
+        "At least 36 tornadoes , including 10 violent ( F4 or F5 ) storms , resulting in 268 deaths in Alabama alone",
         [
           "/wiki/Alabama"
         ]
@@ -572,101 +363,66 @@
     ],
     [
       [
-        [
-          "1930"
-        ],
-        [
-          null
-        ]
+        "1930",
+        []
       ],
       [
-        [
-          "Fire"
-        ],
+        "Fire ( building )",
         [
           "/wiki/Fire"
         ]
       ],
       [
-        [
-          "322"
-        ],
-        [
-          null
-        ]
+        "322",
+        []
       ],
       [
-        [
-          "Ohio Penitentiary"
-        ],
+        "Ohio Penitentiary",
         [
           "/wiki/Ohio_Penitentiary"
         ]
       ],
       [
-        [
-          "Columbus , Ohio"
-        ],
+        "Columbus , Ohio",
         [
           "/wiki/Columbus,_Ohio"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "1944"
-        ],
-        [
-          null
-        ]
+        "1944",
+        []
       ],
       [
-        [
-          "Accident",
-          "explosion"
-        ],
+        "Accident - explosion",
         [
           "/wiki/Accident",
           "/wiki/Explosion"
         ]
       ],
       [
-        [
-          "320"
-        ],
-        [
-          null
-        ]
+        "320",
+        []
       ],
       [
-        [
-          "Port Chicago disaster"
-        ],
+        "Port Chicago disaster",
         [
           "/wiki/Port_Chicago_disaster"
         ]
       ],
       [
-        [
-          "Port Chicago , California"
-        ],
+        "Port Chicago , California",
         [
           "/wiki/Port_Chicago,_California"
         ]
       ],
       [
-        [
-          "World War II"
-        ],
+        "World War II ammunition ignited",
         [
           "/wiki/World_War_II"
         ]
@@ -674,54 +430,27 @@
     ],
     [
       [
-        [
-          "1974"
-        ],
-        [
-          null
-        ]
+        "1974",
+        []
       ],
       [
-        [
-          "Tornado outbreak"
-        ],
+        "Tornado outbreak",
         [
           "/wiki/Tornado_outbreak"
         ]
       ],
       [
-        [
-          "319"
-        ],
-        [
-          null
-        ]
+        "319",
+        []
       ],
       [
-        [
-          "1974 Super Outbreak"
-        ],
+        "1974 Super Outbreak",
         [
           "/wiki/1974_Super_Outbreak"
         ]
       ],
       [
-        [
-          "Ontario",
-          "Illinois",
-          "Indiana",
-          "Michigan",
-          "Ohio",
-          "Kentucky",
-          "Tennessee",
-          "Alabama",
-          "Mississippi",
-          "Georgia",
-          "North Carolina",
-          "Virginia",
-          "West Virginia",
-          "New York"
-        ],
+        "Ontario , Illinois , Indiana , Michigan , Ohio , Kentucky , Tennessee , Alabama , Mississippi , Georgia , North Carolina , Virginia , West Virginia and New York",
         [
           "/wiki/Ontario",
           "/wiki/Illinois",
@@ -740,217 +469,139 @@
         ]
       ],
       [
-        [
-          "148 tornadoes"
-        ],
-        [
-          null
-        ]
+        "148 tornadoes",
+        []
       ]
     ],
     [
       [
-        [
-          "1993"
-        ],
-        [
-          null
-        ]
+        "1993",
+        []
       ],
       [
-        [
-          "Cyclonic",
-          "blizzard"
-        ],
+        "Cyclonic blizzard",
         [
           "/wiki/Cyclonic",
           "/wiki/Blizzard"
         ]
       ],
       [
-        [
-          "318"
-        ],
-        [
-          null
-        ]
+        "318",
+        []
       ],
       [
-        [
-          "1993 Storm of the Century"
-        ],
+        "1993 Storm of the Century",
         [
           "/wiki/1993_Storm_of_the_Century"
         ]
       ],
       [
-        [
-          "Eastern United States"
-        ],
+        "Eastern United States",
         [
           "/wiki/Eastern_United_States"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "1865"
-        ],
-        [
-          null
-        ]
+        "1865",
+        []
       ],
       [
-        [
-          "Accident",
-          "explosion"
-        ],
+        "Accident - explosion",
         [
           "/wiki/Accident",
           "/wiki/Explosion"
         ]
       ],
       [
-        [
-          "300"
-        ],
-        [
-          null
-        ]
+        "300",
+        []
       ],
       [
-        [
-          "Mobile magazine explosion"
-        ],
+        "Mobile magazine explosion",
         [
           "/wiki/Mobile_magazine_explosion"
         ]
       ],
       [
-        [
-          "Mobile , Alabama"
-        ],
+        "Mobile , Alabama",
         [
           "/wiki/Mobile,_Alabama"
         ]
       ],
       [
-        [
-          "Civil War ammunition"
-        ],
-        [
-          null
-        ]
+        "Civil War ammunition",
+        []
       ]
     ],
     [
       [
-        [
-          "1921"
-        ],
-        [
-          null
-        ]
+        "1921",
+        []
       ],
       [
-        [
-          "Race riot"
-        ],
+        "Race riot",
         [
           "/wiki/Race_riot"
         ]
       ],
       [
-        [
-          "300"
-        ],
-        [
-          null
-        ]
+        "300",
+        []
       ],
       [
-        [
-          "Tulsa race riot"
-        ],
+        "Tulsa race riot",
         [
           "/wiki/Tulsa_race_riot"
         ]
       ],
       [
-        [
-          "Tulsa , Oklahoma"
-        ],
+        "Tulsa , Oklahoma",
         [
           "/wiki/Tulsa,_Oklahoma"
         ]
       ],
       [
-        [
-          "White mob attacks affluent black neighborhood"
-        ],
-        [
-          null
-        ]
+        "White mob attacks affluent black neighborhood",
+        []
       ]
     ],
     [
       [
-        [
-          "1890"
-        ],
-        [
-          null
-        ]
+        "1890",
+        []
       ],
       [
-        [
-          "Mass murder",
-          "Mass shooting"
-        ],
+        "Mass murder , Mass shooting",
         [
           "/wiki/Mass_murder",
           "/wiki/Mass_shooting"
         ]
       ],
       [
-        [
-          "150-300"
-        ],
-        [
-          null
-        ]
+        "150-300",
+        []
       ],
       [
-        [
-          "Wounded Knee Massacre"
-        ],
+        "Wounded Knee Massacre",
         [
           "/wiki/Wounded_Knee_Massacre"
         ]
       ],
       [
-        [
-          "Wounded Knee Creek",
-          "South Dakota"
-        ],
+        "Wounded Knee Creek , South Dakota",
         [
           "/wiki/Wounded_Knee_Creek",
           "/wiki/South_Dakota"
         ]
       ],
       [
-        [
-          "Native American"
-        ],
+        "White U.S. Cavalry troops went to a Native American reserve and shot and killed between 150-300 Native Americans",
         [
           "/wiki/Native_Americans_in_the_United_States"
         ]
@@ -958,154 +609,99 @@
     ],
     [
       [
-        [
-          "1937"
-        ],
-        [
-          null
-        ]
+        "1937",
+        []
       ],
       [
-        [
-          "Accident",
-          "explosion"
-        ],
+        "Accident - explosion",
         [
           "/wiki/Accident",
           "/wiki/Explosion"
         ]
       ],
       [
-        [
-          "296-319"
-        ],
-        [
-          null
-        ]
+        "296-319",
+        []
       ],
       [
-        [
-          "New London School explosion"
-        ],
+        "New London School explosion",
         [
           "/wiki/New_London_School_explosion"
         ]
       ],
       [
-        [
-          "New London , Texas"
-        ],
+        "New London , Texas",
         [
           "/wiki/New_London,_Texas"
         ]
       ],
       [
-        [
-          "Gas leak"
-        ],
-        [
-          null
-        ]
+        "Gas leak",
+        []
       ]
     ],
     [
       [
-        [
-          "1960"
-        ],
-        [
-          null
-        ]
+        "1960",
+        []
       ],
       [
-        [
-          "Blizzard"
-        ],
+        "Blizzard",
         [
           "/wiki/Blizzard"
         ]
       ],
       [
-        [
-          "286"
-        ],
-        [
-          null
-        ]
+        "286",
+        []
       ],
       [
-        [
-          "December 1960 nor'easter"
-        ],
+        "December 1960 nor'easter",
         [
           "/wiki/December_1960_nor'easter"
         ]
       ],
       [
-        [
-          "Northeastern United States"
-        ],
+        "Northeastern United States",
         [
           "/wiki/Northeastern_United_States"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "1881"
-        ],
-        [
-          null
-        ]
+        "1881",
+        []
       ],
       [
-        [
-          "Wildfire"
-        ],
+        "Wildfire ( rural )",
         [
           "/wiki/Wildfire"
         ]
       ],
       [
-        [
-          "282"
-        ],
-        [
-          null
-        ]
+        "282",
+        []
       ],
       [
-        [
-          "Thumb Fire"
-        ],
+        "Thumb Fire",
         [
           "/wiki/Thumb_Fire"
         ]
       ],
       [
-        [
-          "Michigan"
-        ],
+        "Michigan",
         [
           "/wiki/Michigan"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ]
   ],

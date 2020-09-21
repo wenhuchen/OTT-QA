@@ -3,84 +3,50 @@
   "title": "Divis transmitting station",
   "header": [
     [
-      [
-        "Frequency"
-      ],
-      [
-        null
-      ]
+      "Frequency",
+      []
     ],
     [
-      [
-        "UHF"
-      ],
-      [
-        null
-      ]
+      "UHF",
+      []
     ],
     [
-      [
-        "kW"
-      ],
-      [
-        null
-      ]
+      "kW",
+      []
     ],
     [
-      [
-        "Operator"
-      ],
-      [
-        null
-      ]
+      "Operator",
+      []
     ],
     [
-      [
-        "System"
-      ],
-      [
-        null
-      ]
+      "System",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "MHz"
-        ],
+        "474.166 MHz",
         [
           "/wiki/Hertz"
         ]
       ],
       [
-        [
-          "21+"
-        ],
-        [
-          null
-        ]
+        "21+",
+        []
       ],
       [
-        [
-          "100"
-        ],
-        [
-          null
-        ]
+        "100",
+        []
       ],
       [
-        [
-          "D3 & 4"
-        ],
+        "PSB2 ( D3 & 4 )",
         [
           "/wiki/Digital_3&4"
         ]
       ],
       [
-        [
-          "DVB-T"
-        ],
+        "DVB-T",
         [
           "/wiki/DVB-T"
         ]
@@ -88,83 +54,53 @@
     ],
     [
       [
-        [
-          "MHz"
-        ],
+        "490.000 MHz",
         [
           "/wiki/Hertz"
         ]
       ],
       [
-        [
-          "23"
-        ],
-        [
-          null
-        ]
+        "23",
+        []
       ],
       [
-        [
-          "50"
-        ],
-        [
-          null
-        ]
+        "50",
+        []
       ],
       [
-        [
-          "SDN"
-        ],
+        "COM4 ( SDN )",
         [
           "/wiki/S4C_Digital_Networks"
         ]
       ],
       [
-        [
-          "DVB-T"
-        ],
-        [
-          null
-        ]
+        "DVB-T",
+        []
       ]
     ],
     [
       [
-        [
-          "MHz"
-        ],
+        "498.000 MHz",
         [
           "/wiki/Hertz"
         ]
       ],
       [
-        [
-          "24"
-        ],
-        [
-          null
-        ]
+        "24",
+        []
       ],
       [
-        [
-          "100"
-        ],
-        [
-          null
-        ]
+        "100",
+        []
       ],
       [
-        [
-          "BBC"
-        ],
+        "PSB3 ( BBC B )",
         [
           "/wiki/BBC"
         ]
       ],
       [
-        [
-          "DVB-T2"
-        ],
+        "DVB-T2",
         [
           "/wiki/DVB-T2"
         ]
@@ -172,296 +108,172 @@
     ],
     [
       [
-        [
-          "MHz"
-        ],
+        "514.000 MHz",
         [
           "/wiki/Hertz"
         ]
       ],
       [
-        [
-          "26"
-        ],
-        [
-          null
-        ]
+        "26",
+        []
       ],
       [
-        [
-          "50"
-        ],
-        [
-          null
-        ]
+        "50",
+        []
       ],
       [
-        [
-          "ARQ"
-        ],
+        "COM5 ( ARQ A )",
         [
           "/wiki/Arqiva"
         ]
       ],
       [
-        [
-          "DVB-T"
-        ],
-        [
-          null
-        ]
+        "DVB-T",
+        []
       ]
     ],
     [
       [
-        [
-          "MHz"
-        ],
+        "522.000 MHz",
         [
           "/wiki/Hertz"
         ]
       ],
       [
-        [
-          "27"
-        ],
-        [
-          null
-        ]
+        "27",
+        []
       ],
       [
-        [
-          "100"
-        ],
-        [
-          null
-        ]
+        "100",
+        []
       ],
       [
-        [
-          "PSB1 ( BBC A )"
-        ],
-        [
-          null
-        ]
+        "PSB1 ( BBC A )",
+        []
       ],
       [
-        [
-          "DVB-T"
-        ],
-        [
-          null
-        ]
+        "DVB-T",
+        []
       ]
     ],
     [
       [
-        [
-          "MHz"
-        ],
+        "546.000 MHz",
         [
           "/wiki/Hertz"
         ]
       ],
       [
-        [
-          "30 ( was 29 )"
-        ],
-        [
-          null
-        ]
+        "30 ( was 29 )",
+        []
       ],
       [
-        [
-          "50"
-        ],
-        [
-          null
-        ]
+        "50",
+        []
       ],
       [
-        [
-          "COM6 ( ARQ B )"
-        ],
-        [
-          null
-        ]
+        "COM6 ( ARQ B )",
+        []
       ],
       [
-        [
-          "DVB-T"
-        ],
-        [
-          null
-        ]
+        "DVB-T",
+        []
       ]
     ],
     [
       [
-        [
-          "MHz"
-        ],
+        "594.000 MHz",
         [
           "/wiki/Hertz"
         ]
       ],
       [
-        [
-          "36 ( Was 30 )"
-        ],
-        [
-          null
-        ]
+        "36 ( Was 30 )",
+        []
       ],
       [
-        [
-          "19"
-        ],
-        [
-          null
-        ]
+        "19",
+        []
       ],
       [
-        [
-          "LTVmux"
-        ],
-        [
-          null
-        ]
+        "LTVmux",
+        []
       ],
       [
-        [
-          "DVB-T"
-        ],
-        [
-          null
-        ]
+        "DVB-T",
+        []
       ]
     ],
     [
       [
-        [
-          "MHz"
-        ],
+        "690.000 MHz",
         [
           "/wiki/Hertz"
         ]
       ],
       [
-        [
-          "48 ( From Sept 2019 )"
-        ],
-        [
-          null
-        ]
+        "48 ( From Sept 2019 )",
+        []
       ],
       [
-        [
-          "0.01"
-        ],
-        [
-          null
-        ]
+        "0.01",
+        []
       ],
       [
-        [
-          "NIMM ( RTE )"
-        ],
-        [
-          null
-        ]
+        "NIMM ( RTE )",
+        []
       ],
       [
-        [
-          "DVB-T"
-        ],
-        [
-          null
-        ]
+        "DVB-T",
+        []
       ]
     ],
     [
       [
-        [
-          "MHz"
-        ],
+        "714.000 MHz",
         [
           "/wiki/Hertz"
         ]
       ],
       [
-        [
-          "51 ( Was 33 )"
-        ],
-        [
-          null
-        ]
+        "51 ( Was 33 )",
+        []
       ],
       [
-        [
-          "12.4"
-        ],
-        [
-          null
-        ]
+        "12.4",
+        []
       ],
       [
-        [
-          "COM7 ( ARQ C )"
-        ],
-        [
-          null
-        ]
+        "COM7 ( ARQ C )",
+        []
       ],
       [
-        [
-          "DVB-T2"
-        ],
-        [
-          null
-        ]
+        "DVB-T2",
+        []
       ]
     ],
     [
       [
-        [
-          "MHz"
-        ],
+        "786.000 MHz",
         [
           "/wiki/Hertz"
         ]
       ],
       [
-        [
-          "60 ( Was 34 )"
-        ],
-        [
-          null
-        ]
+        "60 ( Was 34 )",
+        []
       ],
       [
-        [
-          "12.66"
-        ],
-        [
-          null
-        ]
+        "12.66",
+        []
       ],
       [
-        [
-          "COM8 ( ARQ D )"
-        ],
-        [
-          null
-        ]
+        "COM8 ( ARQ D )",
+        []
       ],
       [
-        [
-          "DVB-T2"
-        ],
-        [
-          null
-        ]
+        "DVB-T2",
+        []
       ]
     ]
   ],

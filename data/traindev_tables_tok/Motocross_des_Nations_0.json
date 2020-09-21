@@ -3,139 +3,113 @@
   "title": "Motocross des Nations",
   "header": [
     [
-      [
-        "Year"
-      ],
-      [
-        null
-      ]
+      "Year",
+      []
     ],
     [
-      [
-        "Location"
-      ],
-      [
-        null
-      ]
+      "Location",
+      []
     ],
     [
-      [
-        "Winning riders"
-      ],
-      [
-        null
-      ]
+      "Winning team",
+      []
+    ],
+    [
+      "Winning riders",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "2020"
-        ],
+        "2020",
         [
           "/wiki/2020_Motocross_des_Nations"
         ]
       ],
       [
-        [
-          "Ern\u00e9e"
-        ],
+        "Ern\u00e9e",
         [
           "/wiki/Ern\u00e9e"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
+      ],
+      [
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "2019"
-        ],
+        "2019",
         [
           "/wiki/2019_Motocross_des_Nations"
         ]
       ],
       [
-        [
-          "Assen"
-        ],
+        "Assen",
         [
           "/wiki/TT_Circuit_Assen"
         ]
       ],
       [
-        [
-          "Jeffrey Herlings",
-          "Calvin Vlaanderen",
-          "Glenn Coldenhoff"
-        ],
+        "Netherlands",
+        []
+      ],
+      [
+        "Jeffrey Herlings / Calvin Vlaanderen / Glenn Coldenhoff",
         [
           "/wiki/Jeffrey_Herlings",
-          null,
           "/wiki/Glenn_Coldenhoff"
         ]
       ]
     ],
     [
       [
-        [
-          "2018"
-        ],
+        "2018",
         [
           "/wiki/2018_Motocross_des_Nations"
         ]
       ],
       [
-        [
-          "Red Bud"
-        ],
+        "Red Bud",
         [
           "/wiki/Red_Bud_MX"
         ]
       ],
       [
+        "France",
+        []
+      ],
+      [
+        "Gautier Paulin / Dylan Ferrandis / Jordi Tixier",
         [
-          "Gautier Paulin",
-          "Dylan Ferrandis",
-          "Jordi Tixier"
-        ],
-        [
-          "/wiki/Gautier_Paulin",
-          null,
-          null
+          "/wiki/Gautier_Paulin"
         ]
       ]
     ],
     [
       [
-        [
-          "2017"
-        ],
+        "2017",
         [
           "/wiki/2017_Motocross_des_Nations"
         ]
       ],
       [
-        [
-          "Matterley Basin"
-        ],
+        "Matterley Basin",
         [
           "/wiki/Winchester"
         ]
       ],
       [
-        [
-          "Gautier Paulin",
-          "Romain Febvre"
-        ],
+        "France",
+        []
+      ],
+      [
+        "Gautier Paulin / Christophe Charlier / Romain Febvre",
         [
           "/wiki/Gautier_Paulin",
           "/wiki/Romain_Febvre"
@@ -144,26 +118,23 @@
     ],
     [
       [
-        [
-          "2016"
-        ],
+        "2016",
         [
           "/wiki/2016_Motocross_des_Nations"
         ]
       ],
       [
-        [
-          "Maggiora"
-        ],
+        "Maggiora",
         [
           "/wiki/Maggiora"
         ]
       ],
       [
-        [
-          "Gautier Paulin",
-          "Romain Febvre"
-        ],
+        "France",
+        []
+      ],
+      [
+        "Gautier Paulin / Beno\u00eet Paturel / Romain Febvre",
         [
           "/wiki/Gautier_Paulin",
           "/wiki/Romain_Febvre"
@@ -172,27 +143,21 @@
     ],
     [
       [
-        [
-          "2015"
-        ],
-        [
-          null
-        ]
+        "2015",
+        []
       ],
       [
-        [
-          "Ern\u00e9e"
-        ],
+        "Ern\u00e9e",
         [
           "/wiki/Ern\u00e9e"
         ]
       ],
       [
-        [
-          "Gautier Paulin",
-          "Marvin Musquin",
-          "Romain Febvre"
-        ],
+        "France",
+        []
+      ],
+      [
+        "Gautier Paulin / Marvin Musquin / Romain Febvre",
         [
           "/wiki/Gautier_Paulin",
           "/wiki/Marvin_Musquin",
@@ -202,84 +167,68 @@
     ],
     [
       [
-        [
-          "2014"
-        ],
-        [
-          null
-        ]
+        "2014",
+        []
       ],
       [
-        [
-          "\u0136egums"
-        ],
+        "\u0136egums",
         [
           "/wiki/\u0136egums"
         ]
       ],
       [
+        "France",
+        []
+      ],
+      [
+        "Gautier Paulin / Dylan Ferrandis / Steven Frossard",
         [
-          "Gautier Paulin",
-          "Dylan Ferrandis"
-        ],
-        [
-          "/wiki/Gautier_Paulin",
-          null
+          "/wiki/Gautier_Paulin"
         ]
       ]
     ],
     [
       [
-        [
-          "2013"
-        ],
-        [
-          null
-        ]
+        "2013",
+        []
       ],
       [
-        [
-          "Teutschenthal"
-        ],
+        "Teutschenthal",
         [
           "/wiki/Teutschenthal"
         ]
       ],
       [
-        [
-          "Ken De Dycker",
-          "Jeremy Van Horebeek",
-          "Cl\u00e9ment Desalle"
-        ],
+        "Belgium",
+        []
+      ],
+      [
+        "Ken De Dycker / Jeremy Van Horebeek / Cl\u00e9ment Desalle",
         [
           "/wiki/Ken_De_Dycker",
-          null,
           "/wiki/Cl\u00e9ment_Desalle"
         ]
       ]
     ],
     [
       [
-        [
-          "2012"
-        ],
+        "2012",
         [
           "/wiki/2012_Motocross_des_Nations"
         ]
       ],
       [
-        [
-          "Lommel"
-        ],
+        "Lommel",
         [
           "/wiki/Lommel"
         ]
       ],
       [
-        [
-          "Maximilian Nagl",
-          "Ken Roczen"
-        ],
+        "Germany",
+        []
+      ],
+      [
+        "Maximilian Nagl / Ken Roczen / Marcus Schiffer",
         [
           "/wiki/Maximilian_Nagl",
           "/wiki/Ken_Roczen"
@@ -288,26 +237,21 @@
     ],
     [
       [
-        [
-          "2011"
-        ],
-        [
-          null
-        ]
+        "2011",
+        []
       ],
       [
-        [
-          "Saint-Jean-d'Ang\u00e9ly"
-        ],
+        "Saint-Jean-d'Ang\u00e9ly",
         [
           "/wiki/Saint-Jean-d'Ang\u00e9ly"
         ]
       ],
       [
-        [
-          "Ryan Dungey",
-          "Ryan Villopoto"
-        ],
+        "USA",
+        []
+      ],
+      [
+        "Ryan Dungey / Blake Baggett / Ryan Villopoto",
         [
           "/wiki/Ryan_Dungey",
           "/wiki/Ryan_Villopoto"
@@ -316,25 +260,21 @@
     ],
     [
       [
-        [
-          "2010"
-        ],
-        [
-          null
-        ]
+        "2010",
+        []
       ],
       [
-        [
-          "Lakewood"
-        ],
+        "Lakewood",
         [
           "/wiki/Lakewood,_Colorado"
         ]
       ],
       [
-        [
-          "Ryan Dungey"
-        ],
+        "USA",
+        []
+      ],
+      [
+        "Ryan Dungey / Trey Canard / Andrew Short",
         [
           "/wiki/Ryan_Dungey"
         ]
@@ -342,26 +282,23 @@
     ],
     [
       [
-        [
-          "2009"
-        ],
+        "2009",
         [
           "/wiki/2009_Motocross_des_Nations"
         ]
       ],
       [
-        [
-          "Franciacorta"
-        ],
+        "Franciacorta",
         [
           "/wiki/Franciacorta"
         ]
       ],
       [
-        [
-          "Ryan Dungey",
-          "Ivan Tedesco"
-        ],
+        "USA",
+        []
+      ],
+      [
+        "Ryan Dungey / Jake Weimer / Ivan Tedesco",
         [
           "/wiki/Ryan_Dungey",
           "/wiki/Ivan_Tedesco"
@@ -370,27 +307,21 @@
     ],
     [
       [
-        [
-          "2008"
-        ],
-        [
-          null
-        ]
+        "2008",
+        []
       ],
       [
-        [
-          "Donington Park"
-        ],
+        "Donington Park",
         [
           "/wiki/Donington_Park"
         ]
       ],
       [
-        [
-          "James Stewart , Jr",
-          "Ryan Villopoto",
-          "Tim Ferry"
-        ],
+        "USA",
+        []
+      ],
+      [
+        "James Stewart , Jr. / Ryan Villopoto / Tim Ferry",
         [
           "/wiki/James_Stewart,_Jr.",
           "/wiki/Ryan_Villopoto",
@@ -400,27 +331,21 @@
     ],
     [
       [
-        [
-          "2007"
-        ],
-        [
-          null
-        ]
+        "2007",
+        []
       ],
       [
-        [
-          "Budds Creek"
-        ],
+        "Budds Creek",
         [
           "/wiki/Mechanicsville,_Maryland"
         ]
       ],
       [
-        [
-          "Ricky Carmichael",
-          "Ryan Villopoto",
-          "Tim Ferry"
-        ],
+        "USA",
+        []
+      ],
+      [
+        "Ricky Carmichael / Ryan Villopoto / Tim Ferry",
         [
           "/wiki/Ricky_Carmichael",
           "/wiki/Ryan_Villopoto",
@@ -430,27 +355,21 @@
     ],
     [
       [
-        [
-          "2006"
-        ],
-        [
-          null
-        ]
+        "2006",
+        []
       ],
       [
-        [
-          "Matterley Basin"
-        ],
+        "Matterley Basin",
         [
           "/wiki/Winchester"
         ]
       ],
       [
-        [
-          "James Stewart , Jr",
-          "Ryan Villopoto",
-          "Ivan Tedesco"
-        ],
+        "USA",
+        []
+      ],
+      [
+        "James Stewart , Jr. / Ryan Villopoto / Ivan Tedesco",
         [
           "/wiki/James_Stewart,_Jr.",
           "/wiki/Ryan_Villopoto",
@@ -460,27 +379,21 @@
     ],
     [
       [
-        [
-          "2005"
-        ],
-        [
-          null
-        ]
+        "2005",
+        []
       ],
       [
-        [
-          "Ern\u00e9e"
-        ],
+        "Ern\u00e9e",
         [
           "/wiki/Ern\u00e9e"
         ]
       ],
       [
-        [
-          "Ricky Carmichael",
-          "Kevin Windham",
-          "Ivan Tedesco"
-        ],
+        "USA",
+        []
+      ],
+      [
+        "Ricky Carmichael / Kevin Windham / Ivan Tedesco",
         [
           "/wiki/Ricky_Carmichael",
           "/wiki/Kevin_Windham",
@@ -490,27 +403,21 @@
     ],
     [
       [
-        [
-          "2004"
-        ],
-        [
-          null
-        ]
+        "2004",
+        []
       ],
       [
-        [
-          "Lierop"
-        ],
+        "Lierop",
         [
           "/wiki/Lierop"
         ]
       ],
       [
-        [
-          "Stefan Everts",
-          "Steve Ramon",
-          "Kevin Strijbos"
-        ],
+        "Belgium",
+        []
+      ],
+      [
+        "Stefan Everts / Steve Ramon / Kevin Strijbos",
         [
           "/wiki/Stefan_Everts",
           "/wiki/Steve_Ramon",
@@ -520,27 +427,21 @@
     ],
     [
       [
-        [
-          "2003"
-        ],
-        [
-          null
-        ]
+        "2003",
+        []
       ],
       [
-        [
-          "Zolder"
-        ],
+        "Zolder",
         [
           "/wiki/Zolder"
         ]
       ],
       [
-        [
-          "Stefan Everts",
-          "Steve Ramon",
-          "Jo\u00ebl Smets"
-        ],
+        "Belgium",
+        []
+      ],
+      [
+        "Stefan Everts / Steve Ramon / Jo\u00ebl Smets",
         [
           "/wiki/Stefan_Everts",
           "/wiki/Steve_Ramon",
@@ -550,27 +451,21 @@
     ],
     [
       [
-        [
-          "2002"
-        ],
-        [
-          null
-        ]
+        "2002",
+        []
       ],
       [
-        [
-          "Bellpuig"
-        ],
+        "Bellpuig",
         [
           "/wiki/Bellpuig"
         ]
       ],
       [
-        [
-          "Andrea Bartolini",
-          "Alessio Chiodi",
-          "Alessandro Puzar"
-        ],
+        "Italy",
+        []
+      ],
+      [
+        "Andrea Bartolini / Alessio Chiodi / Alessandro Puzar",
         [
           "/wiki/Andrea_Bartolini",
           "/wiki/Alessio_Chiodi",
@@ -580,26 +475,21 @@
     ],
     [
       [
-        [
-          "2001"
-        ],
-        [
-          null
-        ]
+        "2001",
+        []
       ],
       [
-        [
-          "Namur"
-        ],
+        "Namur",
         [
           "/wiki/Namur_(city)"
         ]
       ],
       [
-        [
-          "Yves Demaria",
-          "David Vuillemin"
-        ],
+        "France",
+        []
+      ],
+      [
+        "Yves Demaria / Luigi Seguy / David Vuillemin",
         [
           "/wiki/Yves_Demaria",
           "/wiki/David_Vuillemin"

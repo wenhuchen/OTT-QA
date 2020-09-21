@@ -3,1053 +3,657 @@
   "title": "List of schools in Greater Western Sydney",
   "header": [
     [
-      [
-        "Name"
-      ],
-      [
-        null
-      ]
+      "Name",
+      []
     ],
     [
-      [
-        "Suburb"
-      ],
-      [
-        null
-      ]
+      "Suburb",
+      []
     ],
     [
-      [
-        "LGA"
-      ],
-      [
-        null
-      ]
+      "LGA",
+      []
     ],
     [
-      [
-        "Opened"
-      ],
-      [
-        null
-      ]
+      "Opened",
+      []
     ],
     [
-      [
-        "Website"
-      ],
-      [
-        null
-      ]
+      "Website",
+      []
     ],
     [
-      [
-        "Notes"
-      ],
-      [
-        null
-      ]
+      "Notes",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Airds High School"
-        ],
-        [
-          null
-        ]
+        "Airds High School",
+        []
       ],
       [
-        [
-          "Airds"
-        ],
+        "Airds",
         [
           "/wiki/Airds,_New_South_Wales"
         ]
       ],
       [
-        [
-          "Campbelltown"
-        ],
+        "Campbelltown",
         [
           "/wiki/City_of_Campbelltown_(New_South_Wales)"
         ]
       ],
       [
-        [
-          "1974"
-        ],
-        [
-          null
-        ]
+        "1974",
+        []
       ],
       [
-        [
-          "Website"
-        ],
-        [
-          null
-        ]
+        "Website",
+        []
       ],
       [
-        [
-          "Intellectual disability support"
-        ],
-        [
-          null
-        ]
+        "Intellectual disability support",
+        []
       ]
     ],
     [
       [
-        [
-          "Ambarvale High School"
-        ],
-        [
-          null
-        ]
+        "Ambarvale High School",
+        []
       ],
       [
-        [
-          "Ambarvale"
-        ],
+        "Ambarvale",
         [
           "/wiki/Ambarvale,_New_South_Wales"
         ]
       ],
       [
-        [
-          "Campbelltown"
-        ],
+        "Campbelltown",
         [
           "/wiki/City_of_Campbelltown_(New_South_Wales)"
         ]
       ],
       [
-        [
-          "1984"
-        ],
-        [
-          null
-        ]
+        "1984",
+        []
       ],
       [
-        [
-          "Website"
-        ],
-        [
-          null
-        ]
+        "Website",
+        []
       ],
       [
-        [
-          "Intellectual disability support"
-        ],
-        [
-          null
-        ]
+        "Intellectual disability support",
+        []
       ]
     ],
     [
       [
-        [
-          "Arthur Phillip High School"
-        ],
+        "Arthur Phillip High School",
         [
           "/wiki/Arthur_Phillip_High_School"
         ]
       ],
       [
-        [
-          "Parramatta"
-        ],
+        "Parramatta",
         [
           "/wiki/Parramatta,_New_South_Wales"
         ]
       ],
       [
-        [
-          "Parramatta"
-        ],
+        "Parramatta",
         [
           "/wiki/City_of_Parramatta_Council"
         ]
       ],
       [
-        [
-          "1958"
-        ],
-        [
-          null
-        ]
+        "1958",
+        []
       ],
       [
-        [
-          "Website"
-        ],
-        [
-          null
-        ]
+        "Website",
+        []
       ],
       [
-        [
-          "Intellectual disability support . HS until Jan 2000"
-        ],
-        [
-          null
-        ]
+        "Intellectual disability support . HS until Jan 2000",
+        []
       ]
     ],
     [
       [
-        [
-          "Ashcroft High School"
-        ],
-        [
-          null
-        ]
+        "Ashcroft High School",
+        []
       ],
       [
-        [
-          "Ashcroft"
-        ],
+        "Ashcroft",
         [
           "/wiki/Ashcroft,_New_South_Wales"
         ]
       ],
       [
-        [
-          "Liverpool"
-        ],
+        "Liverpool",
         [
           "/wiki/City_of_Liverpool_(New_South_Wales)"
         ]
       ],
       [
-        [
-          "1964"
-        ],
-        [
-          null
-        ]
+        "1964",
+        []
       ],
       [
-        [
-          "Website"
-        ],
-        [
-          null
-        ]
+        "Website",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Auburn Girls High School"
-        ],
-        [
-          null
-        ]
+        "Auburn Girls High School",
+        []
       ],
       [
-        [
-          "Auburn"
-        ],
+        "Auburn",
         [
           "/wiki/Auburn,_New_South_Wales"
         ]
       ],
       [
-        [
-          "Cumberland"
-        ],
+        "Cumberland",
         [
           "/wiki/Cumberland_Council,_New_South_Wales"
         ]
       ],
       [
-        [
-          "1960"
-        ],
-        [
-          null
-        ]
+        "1960",
+        []
       ],
       [
-        [
-          "Website"
-        ],
-        [
-          null
-        ]
+        "Website",
+        []
       ],
       [
-        [
-          "Intellectual disability support"
-        ],
-        [
-          null
-        ]
+        "Intellectual disability support",
+        []
       ]
     ],
     [
       [
-        [
-          "Bankstown Girls High School"
-        ],
+        "Bankstown Girls High School",
         [
           "/wiki/Bankstown_Girls_High_School"
         ]
       ],
       [
-        [
-          "Bankstown"
-        ],
+        "Bankstown",
         [
           "/wiki/Bankstown,_New_South_Wales"
         ]
       ],
       [
-        [
-          "Canterbury-Bankstown"
-        ],
+        "Canterbury-Bankstown",
         [
           "/wiki/Canterbury-Bankstown_Council"
         ]
       ],
       [
-        [
-          "1960"
-        ],
-        [
-          null
-        ]
+        "1960",
+        []
       ],
       [
-        [
-          "Website"
-        ],
-        [
-          null
-        ]
+        "Website",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Bankstown Senior College"
-        ],
+        "Bankstown Senior College",
         [
           "/wiki/Bankstown_Senior_College"
         ]
       ],
       [
-        [
-          "Bankstown"
-        ],
+        "Bankstown",
         [
           "/wiki/Bankstown,_New_South_Wales"
         ]
       ],
       [
-        [
-          "Canterbury-Bankstown"
-        ],
+        "Canterbury-Bankstown",
         [
           "/wiki/Canterbury-Bankstown_Council"
         ]
       ],
       [
-        [
-          "1992"
-        ],
-        [
-          null
-        ]
+        "1992",
+        []
       ],
       [
-        [
-          "Website"
-        ],
-        [
-          null
-        ]
+        "Website",
+        []
       ],
       [
-        [
-          "Includes IEC"
-        ],
-        [
-          null
-        ]
+        "Includes IEC",
+        []
       ]
     ],
     [
       [
-        [
-          "Bass High School"
-        ],
+        "Bass High School",
         [
           "/wiki/Bass_High_School"
         ]
       ],
       [
-        [
-          "Bass Hill"
-        ],
+        "Bass Hill",
         [
           "/wiki/Bass_Hill,_New_South_Wales"
         ]
       ],
       [
-        [
-          "Canterbury-Bankstown"
-        ],
+        "Canterbury-Bankstown",
         [
           "/wiki/Canterbury-Bankstown_Council"
         ]
       ],
       [
-        [
-          "1959"
-        ],
-        [
-          null
-        ]
+        "1959",
+        []
       ],
       [
-        [
-          "Website"
-        ],
-        [
-          null
-        ]
+        "Website",
+        []
       ],
       [
-        [
-          "Intellectual disability support"
-        ],
-        [
-          null
-        ]
+        "Intellectual disability support",
+        []
       ]
     ],
     [
       [
-        [
-          "Baulkham Hills High School"
-        ],
+        "Baulkham Hills High School",
         [
           "/wiki/Baulkham_Hills_High_School"
         ]
       ],
       [
-        [
-          "Baulkham Hills"
-        ],
+        "Baulkham Hills",
         [
           "/wiki/Baulkham_Hills,_New_South_Wales"
         ]
       ],
       [
-        [
-          "The Hills"
-        ],
+        "The Hills",
         [
           "/wiki/The_Hills_Shire"
         ]
       ],
       [
-        [
-          "1971"
-        ],
-        [
-          null
-        ]
+        "1971",
+        []
       ],
       [
-        [
-          "Website"
-        ],
-        [
-          null
-        ]
+        "Website",
+        []
       ],
       [
-        [
-          "Fully selective . Autism and intellectual disability support"
-        ],
-        [
-          null
-        ]
+        "Fully selective . Autism and intellectual disability support",
+        []
       ]
     ],
     [
       [
-        [
-          "Birrong Boys High School"
-        ],
-        [
-          null
-        ]
+        "Birrong Boys High School",
+        []
       ],
       [
-        [
-          "Birrong"
-        ],
+        "Birrong",
         [
           "/wiki/Birrong,_New_South_Wales"
         ]
       ],
       [
-        [
-          "Canterbury-Bankstown"
-        ],
+        "Canterbury-Bankstown",
         [
           "/wiki/Canterbury-Bankstown_Council"
         ]
       ],
       [
-        [
-          "1958"
-        ],
-        [
-          null
-        ]
+        "1958",
+        []
       ],
       [
-        [
-          "Website"
-        ],
-        [
-          null
-        ]
+        "Website",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Birrong Girls High School"
-        ],
+        "Birrong Girls High School",
         [
           "/wiki/Birrong_Girls_High_School"
         ]
       ],
       [
-        [
-          "Birrong"
-        ],
+        "Birrong",
         [
           "/wiki/Birrong,_New_South_Wales"
         ]
       ],
       [
-        [
-          "Canterbury-Bankstown"
-        ],
+        "Canterbury-Bankstown",
         [
           "/wiki/Canterbury-Bankstown_Council"
         ]
       ],
       [
-        [
-          "1957"
-        ],
-        [
-          null
-        ]
+        "1957",
+        []
       ],
       [
-        [
-          "Website"
-        ],
-        [
-          null
-        ]
+        "Website",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Blacktown Boys High School"
-        ],
+        "Blacktown Boys High School",
         [
           "/wiki/Blacktown_Boys_High_School"
         ]
       ],
       [
-        [
-          "Blacktown"
-        ],
+        "Blacktown",
         [
           "/wiki/Blacktown,_New_South_Wales"
         ]
       ],
       [
-        [
-          "Blacktown"
-        ],
+        "Blacktown",
         [
           "/wiki/City_of_Blacktown"
         ]
       ],
       [
-        [
-          "1959"
-        ],
-        [
-          null
-        ]
+        "1959",
+        []
       ],
       [
-        [
-          "Website"
-        ],
-        [
-          null
-        ]
+        "Website",
+        []
       ],
       [
-        [
-          "Partially selective . Behaviour disorder support"
-        ],
-        [
-          null
-        ]
+        "Partially selective . Behaviour disorder support",
+        []
       ]
     ],
     [
       [
-        [
-          "Blacktown Girls High School"
-        ],
+        "Blacktown Girls High School",
         [
           "/wiki/Blacktown_Girls_High_School"
         ]
       ],
       [
-        [
-          "Blacktown"
-        ],
+        "Blacktown",
         [
           "/wiki/Blacktown,_New_South_Wales"
         ]
       ],
       [
-        [
-          "Blacktown"
-        ],
+        "Blacktown",
         [
           "/wiki/City_of_Blacktown"
         ]
       ],
       [
-        [
-          "1959"
-        ],
-        [
-          null
-        ]
+        "1959",
+        []
       ],
       [
-        [
-          "Website"
-        ],
-        [
-          null
-        ]
+        "Website",
+        []
       ],
       [
-        [
-          "Partially selective"
-        ],
-        [
-          null
-        ]
+        "Partially selective",
+        []
       ]
     ],
     [
       [
-        [
-          "Bonnyrigg High School"
-        ],
-        [
-          null
-        ]
+        "Bonnyrigg High School",
+        []
       ],
       [
-        [
-          "Bonnyrigg"
-        ],
+        "Bonnyrigg",
         [
           "/wiki/Bonnyrigg,_New_South_Wales"
         ]
       ],
       [
-        [
-          "Fairfield"
-        ],
+        "Fairfield",
         [
           "/wiki/City_of_Fairfield"
         ]
       ],
       [
-        [
-          "1961"
-        ],
-        [
-          null
-        ]
+        "1961",
+        []
       ],
       [
-        [
-          "Website"
-        ],
-        [
-          null
-        ]
+        "Website",
+        []
       ],
       [
-        [
-          "Partially selective"
-        ],
-        [
-          null
-        ]
+        "Partially selective",
+        []
       ]
     ],
     [
       [
-        [
-          "Bossley Park High School"
-        ],
+        "Bossley Park High School",
         [
           "/wiki/Bossley_Park_High_School"
         ]
       ],
       [
-        [
-          "Bossley Park"
-        ],
+        "Bossley Park",
         [
           "/wiki/Bossley_Park,_New_South_Wales"
         ]
       ],
       [
-        [
-          "Fairfield"
-        ],
+        "Fairfield",
         [
           "/wiki/City_of_Fairfield"
         ]
       ],
       [
-        [
-          "1988"
-        ],
-        [
-          null
-        ]
+        "1988",
+        []
       ],
       [
-        [
-          "Website"
-        ],
-        [
-          null
-        ]
+        "Website",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Cabramatta High School"
-        ],
+        "Cabramatta High School",
         [
           "/wiki/Cabramatta_High_School"
         ]
       ],
       [
-        [
-          "Cabramatta"
-        ],
+        "Cabramatta",
         [
           "/wiki/Cabramatta,_New_South_Wales"
         ]
       ],
       [
-        [
-          "Fairfield"
-        ],
+        "Fairfield",
         [
           "/wiki/City_of_Fairfield"
         ]
       ],
       [
-        [
-          "1958"
-        ],
-        [
-          null
-        ]
+        "1958",
+        []
       ],
       [
-        [
-          "Website"
-        ],
-        [
-          null
-        ]
+        "Website",
+        []
       ],
       [
-        [
-          "Includes IEC"
-        ],
-        [
-          null
-        ]
+        "Includes IEC",
+        []
       ]
     ],
     [
       [
-        [
-          "Cambridge Park High School"
-        ],
+        "Cambridge Park High School",
         [
           "/wiki/Cambridge_Park_High_School"
         ]
       ],
       [
-        [
-          "Cambridge Park"
-        ],
+        "Cambridge Park",
         [
           "/wiki/Cambridge_Park,_New_South_Wales"
         ]
       ],
       [
-        [
-          "Penrith"
-        ],
+        "Penrith",
         [
           "/wiki/City_of_Penrith"
         ]
       ],
       [
-        [
-          "1976"
-        ],
-        [
-          null
-        ]
+        "1976",
+        []
       ],
       [
-        [
-          "Website"
-        ],
-        [
-          null
-        ]
+        "Website",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Camden High School"
-        ],
+        "Camden High School",
         [
           "/wiki/Camden_High_School_(New_South_Wales)"
         ]
       ],
       [
-        [
-          "Camden"
-        ],
+        "Camden",
         [
           "/wiki/Camden,_New_South_Wales"
         ]
       ],
       [
-        [
-          "Camden"
-        ],
+        "Camden",
         [
           "/wiki/Camden_Council_(New_South_Wales)"
         ]
       ],
       [
-        [
-          "1956"
-        ],
-        [
-          null
-        ]
+        "1956",
+        []
       ],
       [
-        [
-          "Website"
-        ],
-        [
-          null
-        ]
+        "Website",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Campbelltown Performing Arts High School"
-        ],
+        "Campbelltown Performing Arts High School",
         [
           "/wiki/Campbelltown_Performing_Arts_High_School"
         ]
       ],
       [
-        [
-          "Campbelltown"
-        ],
+        "Campbelltown",
         [
           "/wiki/Campbelltown,_New_South_Wales"
         ]
       ],
       [
-        [
-          "Campbelltown"
-        ],
+        "Campbelltown",
         [
           "/wiki/City_of_Campbelltown_(New_South_Wales)"
         ]
       ],
       [
-        [
-          "1954"
-        ],
-        [
-          null
-        ]
+        "1954",
+        []
       ],
       [
-        [
-          "Website"
-        ],
-        [
-          null
-        ]
+        "Website",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Canley Vale High School"
-        ],
+        "Canley Vale High School",
         [
           "/wiki/Canley_Vale_High_School"
         ]
       ],
       [
-        [
-          "Canley Vale"
-        ],
+        "Canley Vale",
         [
           "/wiki/Canley_Vale,_New_South_Wales"
         ]
       ],
       [
-        [
-          "Fairfield"
-        ],
+        "Fairfield",
         [
           "/wiki/City_of_Fairfield"
         ]
       ],
       [
-        [
-          "1966"
-        ],
-        [
-          null
-        ]
+        "1966",
+        []
       ],
       [
-        [
-          "Website"
-        ],
-        [
-          null
-        ]
+        "Website",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ]
   ],

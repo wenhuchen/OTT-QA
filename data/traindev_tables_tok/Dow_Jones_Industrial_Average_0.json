@@ -3,921 +3,619 @@
   "title": "Dow Jones Industrial Average",
   "header": [
     [
-      [
-        "Company"
-      ],
-      [
-        null
-      ]
+      "Company",
+      []
     ],
     [
-      [
-        "Exchange"
-      ],
-      [
-        null
-      ]
+      "Exchange",
+      []
     ],
     [
-      [
-        "Symbol"
-      ],
-      [
-        null
-      ]
+      "Symbol",
+      []
     ],
     [
-      [
-        "Industry"
-      ],
-      [
-        null
-      ]
+      "Industry",
+      []
     ],
     [
-      [
-        "Date Added"
-      ],
-      [
-        null
-      ]
+      "Date Added",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "3M"
-        ],
+        "3M",
         [
           "/wiki/3M"
         ]
       ],
       [
-        [
-          "NYSE"
-        ],
+        "NYSE",
         [
           "/wiki/New_York_Stock_Exchange"
         ]
       ],
       [
+        "NYSE : MMM",
         [
-          "NYSE",
-          "MMM"
-        ],
-        [
-          "/wiki/New_York_Stock_Exchange",
-          null
+          "/wiki/New_York_Stock_Exchange"
         ]
       ],
       [
-        [
-          "Conglomerate"
-        ],
+        "Conglomerate",
         [
           "/wiki/Conglomerate_(company)"
         ]
       ],
       [
-        [
-          "1976-08-09"
-        ],
-        [
-          null
-        ]
+        "1976-08-09",
+        []
       ]
     ],
     [
       [
-        [
-          "American Express"
-        ],
+        "American Express",
         [
           "/wiki/American_Express"
         ]
       ],
       [
-        [
-          "NYSE"
-        ],
+        "NYSE",
         [
           "/wiki/New_York_Stock_Exchange"
         ]
       ],
       [
+        "NYSE : AXP",
         [
-          "NYSE",
-          "AXP"
-        ],
-        [
-          "/wiki/New_York_Stock_Exchange",
-          null
+          "/wiki/New_York_Stock_Exchange"
         ]
       ],
       [
-        [
-          "Financial services"
-        ],
+        "Financial services",
         [
           "/wiki/Financial_services"
         ]
       ],
       [
-        [
-          "1982-08-30"
-        ],
-        [
-          null
-        ]
+        "1982-08-30",
+        []
       ]
     ],
     [
       [
-        [
-          "Apple Inc"
-        ],
+        "Apple Inc",
         [
           "/wiki/Apple_Inc."
         ]
       ],
       [
-        [
-          "NASDAQ"
-        ],
+        "NASDAQ",
         [
           "/wiki/NASDAQ"
         ]
       ],
       [
-        [
-          "AAPL"
-        ],
-        [
-          null
-        ]
+        "AAPL",
+        []
       ],
       [
-        [
-          "Information technology"
-        ],
+        "Information technology",
         [
           "/wiki/Information_technology"
         ]
       ],
       [
-        [
-          "2015-03-19"
-        ],
-        [
-          null
-        ]
+        "2015-03-19",
+        []
       ]
     ],
     [
       [
-        [
-          "Boeing"
-        ],
+        "Boeing",
         [
           "/wiki/Boeing"
         ]
       ],
       [
-        [
-          "NYSE"
-        ],
+        "NYSE",
         [
           "/wiki/New_York_Stock_Exchange"
         ]
       ],
       [
+        "NYSE : BA",
         [
-          "NYSE",
-          "BA"
-        ],
-        [
-          "/wiki/New_York_Stock_Exchange",
-          null
+          "/wiki/New_York_Stock_Exchange"
         ]
       ],
       [
-        [
-          "Aerospace manufacturer",
-          "Arms industry"
-        ],
+        "Aerospace manufacturer and Arms industry",
         [
           "/wiki/Aerospace_manufacturer",
           "/wiki/Arms_industry"
         ]
       ],
       [
-        [
-          "1987-03-12"
-        ],
-        [
-          null
-        ]
+        "1987-03-12",
+        []
       ]
     ],
     [
       [
-        [
-          "Caterpillar Inc"
-        ],
+        "Caterpillar Inc",
         [
           "/wiki/Caterpillar_Inc."
         ]
       ],
       [
-        [
-          "NYSE"
-        ],
+        "NYSE",
         [
           "/wiki/New_York_Stock_Exchange"
         ]
       ],
       [
+        "NYSE : CAT",
         [
-          "NYSE",
-          "CAT"
-        ],
-        [
-          "/wiki/New_York_Stock_Exchange",
-          null
+          "/wiki/New_York_Stock_Exchange"
         ]
       ],
       [
-        [
-          "Construction",
-          "Mining"
-        ],
+        "Construction and Mining",
         [
           "/wiki/Heavy_equipment_(construction)",
           "/wiki/Mining"
         ]
       ],
       [
-        [
-          "1991-05-06"
-        ],
-        [
-          null
-        ]
+        "1991-05-06",
+        []
       ]
     ],
     [
       [
-        [
-          "Chevron Corporation"
-        ],
+        "Chevron Corporation",
         [
           "/wiki/Chevron_Corporation"
         ]
       ],
       [
-        [
-          "NYSE"
-        ],
+        "NYSE",
         [
           "/wiki/New_York_Stock_Exchange"
         ]
       ],
       [
+        "NYSE : CVX",
         [
-          "NYSE",
-          "CVX"
-        ],
-        [
-          "/wiki/New_York_Stock_Exchange",
-          null
+          "/wiki/New_York_Stock_Exchange"
         ]
       ],
       [
-        [
-          "Petroleum industry"
-        ],
+        "Petroleum industry",
         [
           "/wiki/Petroleum_industry"
         ]
       ],
       [
-        [
-          "2008-02-19"
-        ],
-        [
-          null
-        ]
+        "2008-02-19",
+        []
       ]
     ],
     [
       [
-        [
-          "Cisco Systems"
-        ],
+        "Cisco Systems",
         [
           "/wiki/Cisco_Systems"
         ]
       ],
       [
-        [
-          "NASDAQ"
-        ],
+        "NASDAQ",
         [
           "/wiki/NASDAQ"
         ]
       ],
       [
-        [
-          "CSCO"
-        ],
-        [
-          null
-        ]
+        "CSCO",
+        []
       ],
       [
-        [
-          "Information technology"
-        ],
+        "Information technology",
         [
           "/wiki/Information_technology"
         ]
       ],
       [
-        [
-          "2009-06-08"
-        ],
-        [
-          null
-        ]
+        "2009-06-08",
+        []
       ]
     ],
     [
       [
-        [
-          "The Coca-Cola Company"
-        ],
+        "The Coca-Cola Company",
         [
           "/wiki/The_Coca-Cola_Company"
         ]
       ],
       [
-        [
-          "NYSE"
-        ],
+        "NYSE",
         [
           "/wiki/New_York_Stock_Exchange"
         ]
       ],
       [
+        "NYSE : KO",
         [
-          "NYSE",
-          "KO"
-        ],
-        [
-          "/wiki/New_York_Stock_Exchange",
-          null
+          "/wiki/New_York_Stock_Exchange"
         ]
       ],
       [
-        [
-          "Food industry"
-        ],
+        "Food industry",
         [
           "/wiki/Food_industry"
         ]
       ],
       [
-        [
-          "1987-03-12"
-        ],
-        [
-          null
-        ]
+        "1987-03-12",
+        []
       ]
     ],
     [
       [
-        [
-          "Dow Inc"
-        ],
+        "Dow Inc",
         [
           "/wiki/Dow_Inc."
         ]
       ],
       [
-        [
-          "NYSE"
-        ],
+        "NYSE",
         [
           "/wiki/New_York_Stock_Exchange"
         ]
       ],
       [
+        "NYSE : DOW",
         [
-          "NYSE",
-          "DOW"
-        ],
-        [
-          "/wiki/New_York_Stock_Exchange",
-          null
+          "/wiki/New_York_Stock_Exchange"
         ]
       ],
       [
-        [
-          "Chemical industry"
-        ],
+        "Chemical industry",
         [
           "/wiki/Chemical_industry"
         ]
       ],
       [
-        [
-          "2019-04-02"
-        ],
-        [
-          null
-        ]
+        "2019-04-02",
+        []
       ]
     ],
     [
       [
-        [
-          "ExxonMobil"
-        ],
+        "ExxonMobil",
         [
           "/wiki/ExxonMobil"
         ]
       ],
       [
-        [
-          "NYSE"
-        ],
+        "NYSE",
         [
           "/wiki/New_York_Stock_Exchange"
         ]
       ],
       [
+        "NYSE : XOM",
         [
-          "NYSE",
-          "XOM"
-        ],
-        [
-          "/wiki/New_York_Stock_Exchange",
-          null
+          "/wiki/New_York_Stock_Exchange"
         ]
       ],
       [
-        [
-          "Petroleum industry"
-        ],
+        "Petroleum industry",
         [
           "/wiki/Petroleum_industry"
         ]
       ],
       [
-        [
-          "1928-10-01"
-        ],
-        [
-          null
-        ]
+        "1928-10-01",
+        []
       ]
     ],
     [
       [
-        [
-          "Goldman Sachs"
-        ],
+        "Goldman Sachs",
         [
           "/wiki/Goldman_Sachs"
         ]
       ],
       [
-        [
-          "NYSE"
-        ],
+        "NYSE",
         [
           "/wiki/New_York_Stock_Exchange"
         ]
       ],
       [
+        "NYSE : GS",
         [
-          "NYSE",
-          "GS"
-        ],
-        [
-          "/wiki/New_York_Stock_Exchange",
-          null
+          "/wiki/New_York_Stock_Exchange"
         ]
       ],
       [
-        [
-          "Financial services"
-        ],
+        "Financial services",
         [
           "/wiki/Financial_services"
         ]
       ],
       [
-        [
-          "2013-09-20"
-        ],
-        [
-          null
-        ]
+        "2013-09-20",
+        []
       ]
     ],
     [
       [
-        [
-          "The Home Depot"
-        ],
+        "The Home Depot",
         [
           "/wiki/The_Home_Depot"
         ]
       ],
       [
-        [
-          "NYSE"
-        ],
+        "NYSE",
         [
           "/wiki/New_York_Stock_Exchange"
         ]
       ],
       [
+        "NYSE : HD",
         [
-          "NYSE",
-          "HD"
-        ],
-        [
-          "/wiki/New_York_Stock_Exchange",
-          null
+          "/wiki/New_York_Stock_Exchange"
         ]
       ],
       [
-        [
-          "Retailing"
-        ],
+        "Retailing",
         [
           "/wiki/Retailing"
         ]
       ],
       [
-        [
-          "1999-11-01"
-        ],
-        [
-          null
-        ]
+        "1999-11-01",
+        []
       ]
     ],
     [
       [
-        [
-          "IBM"
-        ],
+        "IBM",
         [
           "/wiki/IBM"
         ]
       ],
       [
-        [
-          "NYSE"
-        ],
+        "NYSE",
         [
           "/wiki/New_York_Stock_Exchange"
         ]
       ],
       [
+        "NYSE : IBM",
         [
-          "NYSE",
-          "IBM"
-        ],
-        [
-          "/wiki/New_York_Stock_Exchange",
-          null
+          "/wiki/New_York_Stock_Exchange"
         ]
       ],
       [
-        [
-          "Information technology"
-        ],
+        "Information technology",
         [
           "/wiki/Information_technology"
         ]
       ],
       [
-        [
-          "1979-06-29"
-        ],
-        [
-          null
-        ]
+        "1979-06-29",
+        []
       ]
     ],
     [
       [
-        [
-          "Intel"
-        ],
+        "Intel",
         [
           "/wiki/Intel"
         ]
       ],
       [
-        [
-          "NASDAQ"
-        ],
+        "NASDAQ",
         [
           "/wiki/NASDAQ"
         ]
       ],
       [
-        [
-          "INTC"
-        ],
-        [
-          null
-        ]
+        "INTC",
+        []
       ],
       [
-        [
-          "Information technology"
-        ],
+        "Information technology",
         [
           "/wiki/Information_technology"
         ]
       ],
       [
-        [
-          "1999-11-01"
-        ],
-        [
-          null
-        ]
+        "1999-11-01",
+        []
       ]
     ],
     [
       [
-        [
-          "Johnson & Johnson"
-        ],
+        "Johnson & Johnson",
         [
           "/wiki/Johnson_&_Johnson"
         ]
       ],
       [
-        [
-          "NYSE"
-        ],
+        "NYSE",
         [
           "/wiki/New_York_Stock_Exchange"
         ]
       ],
       [
+        "NYSE : JNJ",
         [
-          "NYSE",
-          "JNJ"
-        ],
-        [
-          "/wiki/New_York_Stock_Exchange",
-          null
+          "/wiki/New_York_Stock_Exchange"
         ]
       ],
       [
-        [
-          "Pharmaceutical industry"
-        ],
+        "Pharmaceutical industry",
         [
           "/wiki/Pharmaceutical_industry"
         ]
       ],
       [
-        [
-          "1997-03-17"
-        ],
-        [
-          null
-        ]
+        "1997-03-17",
+        []
       ]
     ],
     [
       [
-        [
-          "JPMorgan Chase"
-        ],
+        "JPMorgan Chase",
         [
           "/wiki/JPMorgan_Chase"
         ]
       ],
       [
-        [
-          "NYSE"
-        ],
+        "NYSE",
         [
           "/wiki/New_York_Stock_Exchange"
         ]
       ],
       [
+        "NYSE : JPM",
         [
-          "NYSE",
-          "JPM"
-        ],
-        [
-          "/wiki/New_York_Stock_Exchange",
-          null
+          "/wiki/New_York_Stock_Exchange"
         ]
       ],
       [
-        [
-          "Financial services"
-        ],
+        "Financial services",
         [
           "/wiki/Financial_services"
         ]
       ],
       [
-        [
-          "1991-05-06"
-        ],
-        [
-          null
-        ]
+        "1991-05-06",
+        []
       ]
     ],
     [
       [
-        [
-          "McDonald 's"
-        ],
+        "McDonald 's",
         [
           "/wiki/McDonald's"
         ]
       ],
       [
-        [
-          "NYSE"
-        ],
+        "NYSE",
         [
           "/wiki/New_York_Stock_Exchange"
         ]
       ],
       [
+        "NYSE : MCD",
         [
-          "NYSE",
-          "MCD"
-        ],
-        [
-          "/wiki/New_York_Stock_Exchange",
-          null
+          "/wiki/New_York_Stock_Exchange"
         ]
       ],
       [
-        [
-          "Food industry"
-        ],
+        "Food industry",
         [
           "/wiki/Food_industry"
         ]
       ],
       [
-        [
-          "1985-10-30"
-        ],
-        [
-          null
-        ]
+        "1985-10-30",
+        []
       ]
     ],
     [
       [
-        [
-          "Merck & Co"
-        ],
+        "Merck & Co",
         [
           "/wiki/Merck_&_Co."
         ]
       ],
       [
-        [
-          "NYSE"
-        ],
+        "NYSE",
         [
           "/wiki/New_York_Stock_Exchange"
         ]
       ],
       [
+        "NYSE : MRK",
         [
-          "NYSE",
-          "MRK"
-        ],
-        [
-          "/wiki/New_York_Stock_Exchange",
-          null
+          "/wiki/New_York_Stock_Exchange"
         ]
       ],
       [
-        [
-          "Pharmaceutical industry"
-        ],
+        "Pharmaceutical industry",
         [
           "/wiki/Pharmaceutical_industry"
         ]
       ],
       [
-        [
-          "1979-06-29"
-        ],
-        [
-          null
-        ]
+        "1979-06-29",
+        []
       ]
     ],
     [
       [
-        [
-          "Microsoft"
-        ],
+        "Microsoft",
         [
           "/wiki/Microsoft"
         ]
       ],
       [
-        [
-          "NASDAQ"
-        ],
+        "NASDAQ",
         [
           "/wiki/NASDAQ"
         ]
       ],
       [
-        [
-          "MSFT"
-        ],
-        [
-          null
-        ]
+        "MSFT",
+        []
       ],
       [
-        [
-          "Information technology"
-        ],
+        "Information technology",
         [
           "/wiki/Information_technology"
         ]
       ],
       [
-        [
-          "1999-11-01"
-        ],
-        [
-          null
-        ]
+        "1999-11-01",
+        []
       ]
     ],
     [
       [
-        [
-          "Nike"
-        ],
+        "Nike",
         [
           "/wiki/Nike,_Inc."
         ]
       ],
       [
-        [
-          "NYSE"
-        ],
+        "NYSE",
         [
           "/wiki/New_York_Stock_Exchange"
         ]
       ],
       [
+        "NYSE : NKE",
         [
-          "NYSE",
-          "NKE"
-        ],
-        [
-          "/wiki/New_York_Stock_Exchange",
-          null
+          "/wiki/New_York_Stock_Exchange"
         ]
       ],
       [
-        [
-          "Apparel"
-        ],
+        "Apparel",
         [
           "/wiki/Apparel"
         ]
       ],
       [
-        [
-          "2013-09-20"
-        ],
-        [
-          null
-        ]
+        "2013-09-20",
+        []
       ]
     ]
   ],

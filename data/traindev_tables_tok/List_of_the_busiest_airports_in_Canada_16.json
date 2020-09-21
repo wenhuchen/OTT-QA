@@ -3,885 +3,545 @@
   "title": "List of the busiest airports in Canada",
   "header": [
     [
-      [
-        "Rank"
-      ],
-      [
-        null
-      ]
+      "Rank",
+      []
     ],
     [
-      [
-        "Airport"
-      ],
-      [
-        null
-      ]
+      "Airport",
+      []
     ],
     [
-      [
-        "Serves"
-      ],
-      [
-        null
-      ]
+      "Serves",
+      []
     ],
     [
-      [
-        "Total ( tonnes )"
-      ],
-      [
-        null
-      ]
+      "Total ( tonnes )",
+      []
     ],
     [
-      [
-        "Annual change"
-      ],
-      [
-        null
-      ]
+      "Annual change",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "Toronto Pearson International Airport"
-        ],
+        "Toronto Pearson International Airport",
         [
           "/wiki/Toronto_Pearson_International_Airport"
         ]
       ],
       [
-        [
-          "Greater Toronto Area"
-        ],
+        "Greater Toronto Area",
         [
           "/wiki/Greater_Toronto_Area"
         ]
       ],
       [
-        [
-          "345,825.5"
-        ],
-        [
-          null
-        ]
+        "345,825.5",
+        []
       ],
       [
-        [
-          "0.4%"
-        ],
-        [
-          null
-        ]
+        "0.4%",
+        []
       ]
     ],
     [
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "Vancouver International Airport"
-        ],
+        "Vancouver International Airport",
         [
           "/wiki/Vancouver_International_Airport"
         ]
       ],
       [
-        [
-          "Metro Vancouver"
-        ],
+        "Metro Vancouver",
         [
           "/wiki/Metro_Vancouver"
         ]
       ],
       [
-        [
-          "193,352.7"
-        ],
-        [
-          null
-        ]
+        "193,352.7",
+        []
       ],
       [
-        [
-          "1.5%"
-        ],
-        [
-          null
-        ]
+        "1.5%",
+        []
       ]
     ],
     [
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "John C. Munro Hamilton International Airport"
-        ],
+        "John C. Munro Hamilton International Airport",
         [
           "/wiki/John_C._Munro_Hamilton_International_Airport"
         ]
       ],
       [
-        [
-          "Hamilton"
-        ],
+        "Hamilton",
         [
           "/wiki/Hamilton,_Ontario"
         ]
       ],
       [
-        [
-          "89,563.1"
-        ],
-        [
-          null
-        ]
+        "89,563.1",
+        []
       ],
       [
-        [
-          "4.9%"
-        ],
-        [
-          null
-        ]
+        "4.9%",
+        []
       ]
     ],
     [
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "Calgary International Airport"
-        ],
+        "Calgary International Airport",
         [
           "/wiki/Calgary_International_Airport"
         ]
       ],
       [
-        [
-          "Calgary"
-        ],
+        "Calgary",
         [
           "/wiki/Calgary"
         ]
       ],
       [
-        [
-          "81,828.4"
-        ],
-        [
-          null
-        ]
+        "81,828.4",
+        []
       ],
       [
-        [
-          "-2.0%"
-        ],
-        [
-          null
-        ]
+        "-2.0%",
+        []
       ]
     ],
     [
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "Montr\u00e9al-Pierre Elliott Trudeau International Airport"
-        ],
+        "Montr\u00e9al-Pierre Elliott Trudeau International Airport",
         [
           "/wiki/Montr\u00e9al\u2013Pierre_Elliott_Trudeau_International_Airport"
         ]
       ],
       [
-        [
-          "Greater Montreal"
-        ],
+        "Greater Montreal",
         [
           "/wiki/Greater_Montreal"
         ]
       ],
       [
-        [
-          "78,555.4"
-        ],
-        [
-          null
-        ]
+        "78,555.4",
+        []
       ],
       [
-        [
-          "2.1%"
-        ],
-        [
-          null
-        ]
+        "2.1%",
+        []
       ]
     ],
     [
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "Montr\u00e9al-Mirabel International Airport"
-        ],
+        "Montr\u00e9al-Mirabel International Airport",
         [
           "/wiki/Montr\u00e9al\u2013Mirabel_International_Airport"
         ]
       ],
       [
-        [
-          "Montreal"
-        ],
+        "Montreal",
         [
           "/wiki/Montreal"
         ]
       ],
       [
-        [
-          "69,826.9"
-        ],
-        [
-          null
-        ]
+        "69,826.9",
+        []
       ],
       [
-        [
-          "4.3%"
-        ],
-        [
-          null
-        ]
+        "4.3%",
+        []
       ]
     ],
     [
       [
-        [
-          "7"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ],
       [
-        [
-          "Winnipeg James Armstrong Richardson International Airport"
-        ],
+        "Winnipeg James Armstrong Richardson International Airport",
         [
           "/wiki/Winnipeg_James_Armstrong_Richardson_International_Airport"
         ]
       ],
       [
-        [
-          "Winnipeg"
-        ],
+        "Winnipeg",
         [
           "/wiki/Winnipeg"
         ]
       ],
       [
-        [
-          "68,607.7"
-        ],
-        [
-          null
-        ]
+        "68,607.7",
+        []
       ],
       [
-        [
-          "5.1%"
-        ],
-        [
-          null
-        ]
+        "5.1%",
+        []
       ]
     ],
     [
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "Halifax Stanfield International Airport"
-        ],
+        "Halifax Stanfield International Airport",
         [
           "/wiki/Halifax_Stanfield_International_Airport"
         ]
       ],
       [
-        [
-          "Halifax"
-        ],
+        "Halifax",
         [
           "/wiki/Halifax,_Nova_Scotia"
         ]
       ],
       [
-        [
-          "30,070.1"
-        ],
-        [
-          null
-        ]
+        "30,070.1",
+        []
       ],
       [
-        [
-          "17.7%"
-        ],
-        [
-          null
-        ]
+        "17.7%",
+        []
       ]
     ],
     [
       [
-        [
-          "9"
-        ],
-        [
-          null
-        ]
+        "9",
+        []
       ],
       [
-        [
-          "Edmonton International Airport"
-        ],
+        "Edmonton International Airport",
         [
           "/wiki/Edmonton_International_Airport"
         ]
       ],
       [
-        [
-          "Edmonton Capital Region"
-        ],
+        "Edmonton Capital Region",
         [
           "/wiki/Edmonton_Capital_Region"
         ]
       ],
       [
-        [
-          "25,557.7"
-        ],
-        [
-          null
-        ]
+        "25,557.7",
+        []
       ],
       [
-        [
-          "11.3%"
-        ],
-        [
-          null
-        ]
+        "11.3%",
+        []
       ]
     ],
     [
       [
-        [
-          "10"
-        ],
-        [
-          null
-        ]
+        "10",
+        []
       ],
       [
-        [
-          "Greater Moncton International Airport"
-        ],
+        "Greater Moncton International Airport",
         [
           "/wiki/Greater_Moncton_International_Airport"
         ]
       ],
       [
-        [
-          "Moncton"
-        ],
+        "Moncton",
         [
           "/wiki/Moncton"
         ]
       ],
       [
-        [
-          "25,283.1"
-        ],
-        [
-          null
-        ]
+        "25,283.1",
+        []
       ],
       [
-        [
-          "6.5%"
-        ],
-        [
-          null
-        ]
+        "6.5%",
+        []
       ]
     ],
     [
       [
-        [
-          "11"
-        ],
-        [
-          null
-        ]
+        "11",
+        []
       ],
       [
-        [
-          "Ottawa Macdonald-Cartier International Airport"
-        ],
+        "Ottawa Macdonald-Cartier International Airport",
         [
           "/wiki/Ottawa_Macdonald\u2013Cartier_International_Airport"
         ]
       ],
       [
-        [
-          "Ottawa"
-        ],
+        "Ottawa",
         [
           "/wiki/Ottawa"
         ]
       ],
       [
-        [
-          "10,570.3"
-        ],
-        [
-          null
-        ]
+        "10,570.3",
+        []
       ],
       [
-        [
-          "2.7%"
-        ],
-        [
-          null
-        ]
+        "2.7%",
+        []
       ]
     ],
     [
       [
-        [
-          "12"
-        ],
-        [
-          null
-        ]
+        "12",
+        []
       ],
       [
-        [
-          "St. John 's International Airport"
-        ],
+        "St. John 's International Airport",
         [
           "/wiki/St._John's_International_Airport"
         ]
       ],
       [
-        [
-          "St. John 's"
-        ],
+        "St. John 's",
         [
           "/wiki/St._John's,_Newfoundland_and_Labrador"
         ]
       ],
       [
-        [
-          "10,514.5"
-        ],
-        [
-          null
-        ]
+        "10,514.5",
+        []
       ],
       [
-        [
-          "18.5%"
-        ],
-        [
-          null
-        ]
+        "18.5%",
+        []
       ]
     ],
     [
       [
-        [
-          "13"
-        ],
-        [
-          null
-        ]
+        "13",
+        []
       ],
       [
-        [
-          "Saskatoon John G. Diefenbaker International Airport"
-        ],
+        "Saskatoon John G. Diefenbaker International Airport",
         [
           "/wiki/Saskatoon_John_G._Diefenbaker_International_Airport"
         ]
       ],
       [
-        [
-          "Saskatoon"
-        ],
+        "Saskatoon",
         [
           "/wiki/Saskatoon"
         ]
       ],
       [
-        [
-          "5,740.0"
-        ],
-        [
-          null
-        ]
+        "5,740.0",
+        []
       ],
       [
-        [
-          "17.2%"
-        ],
-        [
-          null
-        ]
+        "17.2%",
+        []
       ]
     ],
     [
       [
-        [
-          "14"
-        ],
-        [
-          null
-        ]
+        "14",
+        []
       ],
       [
-        [
-          "Victoria International Airport"
-        ],
+        "Victoria International Airport",
         [
           "/wiki/Victoria_International_Airport"
         ]
       ],
       [
-        [
-          "Victoria"
-        ],
+        "Victoria",
         [
           "/wiki/Victoria,_British_Columbia"
         ]
       ],
       [
-        [
-          "4,188.7"
-        ],
-        [
-          null
-        ]
+        "4,188.7",
+        []
       ],
       [
-        [
-          "-7.8%"
-        ],
-        [
-          null
-        ]
+        "-7.8%",
+        []
       ]
     ],
     [
       [
-        [
-          "15"
-        ],
-        [
-          null
-        ]
+        "15",
+        []
       ],
       [
-        [
-          "Kelowna International Airport"
-        ],
+        "Kelowna International Airport",
         [
           "/wiki/Kelowna_International_Airport"
         ]
       ],
       [
-        [
-          "Kelowna"
-        ],
+        "Kelowna",
         [
           "/wiki/Kelowna"
         ]
       ],
       [
-        [
-          "2,713.9"
-        ],
-        [
-          null
-        ]
+        "2,713.9",
+        []
       ],
       [
-        [
-          "-1.9%"
-        ],
-        [
-          null
-        ]
+        "-1.9%",
+        []
       ]
     ],
     [
       [
-        [
-          "16"
-        ],
-        [
-          null
-        ]
+        "16",
+        []
       ],
       [
-        [
-          "Qu\u00e9bec City Jean Lesage International Airport"
-        ],
+        "Qu\u00e9bec City Jean Lesage International Airport",
         [
           "/wiki/Qu\u00e9bec_City_Jean_Lesage_International_Airport"
         ]
       ],
       [
-        [
-          "Quebec City"
-        ],
+        "Quebec City",
         [
           "/wiki/Quebec_City"
         ]
       ],
       [
-        [
-          "2,219.9"
-        ],
-        [
-          null
-        ]
+        "2,219.9",
+        []
       ],
       [
-        [
-          "40.0%"
-        ],
-        [
-          null
-        ]
+        "40.0%",
+        []
       ]
     ],
     [
       [
-        [
-          "17"
-        ],
-        [
-          null
-        ]
+        "17",
+        []
       ],
       [
-        [
-          "Thunder Bay International Airport"
-        ],
+        "Thunder Bay International Airport",
         [
           "/wiki/Thunder_Bay_International_Airport"
         ]
       ],
       [
-        [
-          "Thunder Bay"
-        ],
+        "Thunder Bay",
         [
           "/wiki/Thunder_Bay"
         ]
       ],
       [
-        [
-          "1,844.3"
-        ],
-        [
-          null
-        ]
+        "1,844.3",
+        []
       ],
       [
-        [
-          "-1.2%"
-        ],
-        [
-          null
-        ]
+        "-1.2%",
+        []
       ]
     ],
     [
       [
-        [
-          "18"
-        ],
-        [
-          null
-        ]
+        "18",
+        []
       ],
       [
-        [
-          "Yellowknife Airport"
-        ],
+        "Yellowknife Airport",
         [
           "/wiki/Yellowknife_Airport"
         ]
       ],
       [
-        [
-          "Yellowknife"
-        ],
+        "Yellowknife",
         [
           "/wiki/Yellowknife"
         ]
       ],
       [
-        [
-          "1,793.8"
-        ],
-        [
-          null
-        ]
+        "1,793.8",
+        []
       ],
       [
-        [
-          "95.0%"
-        ],
-        [
-          null
-        ]
+        "95.0%",
+        []
       ]
     ],
     [
       [
-        [
-          "19"
-        ],
-        [
-          null
-        ]
+        "19",
+        []
       ],
       [
-        [
-          "Prince George Airport"
-        ],
+        "Prince George Airport",
         [
           "/wiki/Prince_George_Airport"
         ]
       ],
       [
-        [
-          "Prince George"
-        ],
+        "Prince George",
         [
           "/wiki/Prince_George,_British_Columbia"
         ]
       ],
       [
-        [
-          "1,092.7"
-        ],
-        [
-          null
-        ]
+        "1,092.7",
+        []
       ],
       [
-        [
-          "-21.5%"
-        ],
-        [
-          null
-        ]
+        "-21.5%",
+        []
       ]
     ],
     [
       [
-        [
-          "20"
-        ],
-        [
-          null
-        ]
+        "20",
+        []
       ],
       [
-        [
-          "Fort McMurray International Airport"
-        ],
+        "Fort McMurray International Airport",
         [
           "/wiki/Fort_McMurray_International_Airport"
         ]
       ],
       [
-        [
-          "Fort McMurray"
-        ],
+        "Fort McMurray",
         [
           "/wiki/Fort_McMurray"
         ]
       ],
       [
-        [
-          "600.1"
-        ],
-        [
-          null
-        ]
+        "600.1",
+        []
       ],
       [
-        [
-          "6.7%"
-        ],
-        [
-          null
-        ]
+        "6.7%",
+        []
       ]
     ]
   ],

@@ -3,68 +3,42 @@
   "title": "NG postcode area",
   "header": [
     [
-      [
-        "Postcode district"
-      ],
-      [
-        null
-      ]
+      "Postcode district",
+      []
     ],
     [
-      [
-        "Post town"
-      ],
+      "Post town",
       [
         "/wiki/Post_town"
       ]
     ],
     [
-      [
-        "Coverage"
-      ],
-      [
-        null
-      ]
+      "Coverage",
+      []
     ],
     [
-      [
-        "Local authority area"
-      ],
-      [
-        null
-      ]
+      "Local authority area",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "NG1"
-        ],
-        [
-          null
-        ]
+        "NG1",
+        []
       ],
       [
-        [
-          "NOTTINGHAM"
-        ],
-        [
-          null
-        ]
+        "NOTTINGHAM",
+        []
       ],
       [
-        [
-          "Nottingham city centre"
-        ],
+        "Nottingham city centre",
         [
           "/wiki/Nottingham_city_centre"
         ]
       ],
       [
-        [
-          "Nottingham"
-        ],
+        "Nottingham",
         [
           "/wiki/Nottingham_City_Council"
         ]
@@ -72,39 +46,23 @@
     ],
     [
       [
-        [
-          "NG2"
-        ],
-        [
-          null
-        ]
+        "NG2",
+        []
       ],
       [
-        [
-          "NOTTINGHAM"
-        ],
-        [
-          null
-        ]
+        "NOTTINGHAM",
+        []
       ],
       [
+        "Nottingham city centre , Colwick Park , Sneinton , The Meadows , West Bridgford",
         [
-          "Colwick Park",
-          "Sneinton",
-          "The Meadows",
-          "West Bridgford"
-        ],
-        [
-          null,
           "/wiki/Sneinton",
           "/wiki/The_Meadows,_Nottingham",
           "/wiki/West_Bridgford"
         ]
       ],
       [
-        [
-          "Rushcliffe"
-        ],
+        "Nottingham , Rushcliffe ,",
         [
           "/wiki/Rushcliffe"
         ]
@@ -112,28 +70,15 @@
     ],
     [
       [
-        [
-          "NG3"
-        ],
-        [
-          null
-        ]
+        "NG3",
+        []
       ],
       [
-        [
-          "NOTTINGHAM"
-        ],
-        [
-          null
-        ]
+        "NOTTINGHAM",
+        []
       ],
       [
-        [
-          "Carlton",
-          "Sneinton",
-          "St Ann 's",
-          "Mapperley"
-        ],
+        "Carlton , Sneinton , St Ann 's , Mapperley",
         [
           "/wiki/Carlton,_Nottinghamshire",
           "/wiki/Sneinton",
@@ -142,9 +87,7 @@
         ]
       ],
       [
-        [
-          "Gedling"
-        ],
+        "Gedling , Nottingham",
         [
           "/wiki/Borough_of_Gedling"
         ]
@@ -152,67 +95,36 @@
     ],
     [
       [
-        [
-          "NG4"
-        ],
-        [
-          null
-        ]
+        "NG4",
+        []
       ],
       [
-        [
-          "NOTTINGHAM"
-        ],
-        [
-          null
-        ]
+        "NOTTINGHAM",
+        []
       ],
       [
-        [
-          "Gedling Village",
-          "Netherfield",
-          "Colwick"
-        ],
+        "Gedling Village , Netherfield , Carlton , Colwick",
         [
           "/wiki/Gedling,_Nottinghamshire",
-          "/wiki/Netherfield,_Nottinghamshire",
-          null
+          "/wiki/Netherfield,_Nottinghamshire"
         ]
       ],
       [
-        [
-          "Gedling"
-        ],
-        [
-          null
-        ]
+        "Gedling",
+        []
       ]
     ],
     [
       [
-        [
-          "NG5"
-        ],
-        [
-          null
-        ]
+        "NG5",
+        []
       ],
       [
-        [
-          "NOTTINGHAM"
-        ],
-        [
-          null
-        ]
+        "NOTTINGHAM",
+        []
       ],
       [
-        [
-          "Sherwood",
-          "Arnold",
-          "Carrington",
-          "Top Valley",
-          "Rise Park"
-        ],
+        "Sherwood , Arnold , Bestwood , Carrington , Top Valley , Rise Park",
         [
           "/wiki/Sherwood,_Nottingham",
           "/wiki/Arnold,_Nottinghamshire",
@@ -222,37 +134,21 @@
         ]
       ],
       [
-        [
-          "Nottingham , Gedling"
-        ],
-        [
-          null
-        ]
+        "Nottingham , Gedling",
+        []
       ]
     ],
     [
       [
-        [
-          "NG6"
-        ],
-        [
-          null
-        ]
+        "NG6",
+        []
       ],
       [
-        [
-          "NOTTINGHAM"
-        ],
-        [
-          null
-        ]
+        "NOTTINGHAM",
+        []
       ],
       [
-        [
-          "Bestwood Village",
-          "Bulwell",
-          "Old Basford"
-        ],
+        "Bestwood Village , Bulwell , Old Basford",
         [
           "/wiki/Bestwood_Village",
           "/wiki/Bulwell",
@@ -260,39 +156,21 @@
         ]
       ],
       [
-        [
-          "Nottingham , Gedling"
-        ],
-        [
-          null
-        ]
+        "Nottingham , Gedling",
+        []
       ]
     ],
     [
       [
-        [
-          "NG7"
-        ],
-        [
-          null
-        ]
+        "NG7",
+        []
       ],
       [
-        [
-          "NOTTINGHAM"
-        ],
-        [
-          null
-        ]
+        "NOTTINGHAM",
+        []
       ],
       [
-        [
-          "New Basford",
-          "Forest Fields",
-          "Hyson Green",
-          "Radford",
-          "Lenton"
-        ],
+        "New Basford , Forest Fields , Hyson Green , Radford , Lenton",
         [
           "/wiki/Basford,_Nottingham",
           "/wiki/Forest_Fields",
@@ -302,39 +180,21 @@
         ]
       ],
       [
-        [
-          "Nottingham"
-        ],
-        [
-          null
-        ]
+        "Nottingham",
+        []
       ]
     ],
     [
       [
-        [
-          "NG8"
-        ],
-        [
-          null
-        ]
+        "NG8",
+        []
       ],
       [
-        [
-          "NOTTINGHAM"
-        ],
-        [
-          null
-        ]
+        "NOTTINGHAM",
+        []
       ],
       [
-        [
-          "Aspley",
-          "Wollaton",
-          "Whitemoor",
-          "Bilborough",
-          "Strelley"
-        ],
+        "Aspley , Wollaton , Whitemoor , Bilborough , Strelley",
         [
           "/wiki/Aspley,_Nottingham",
           "/wiki/Wollaton",
@@ -344,9 +204,7 @@
         ]
       ],
       [
-        [
-          "Broxtowe"
-        ],
+        "Nottingham , Broxtowe",
         [
           "/wiki/Borough_of_Broxtowe"
         ]
@@ -354,30 +212,15 @@
     ],
     [
       [
-        [
-          "NG9"
-        ],
-        [
-          null
-        ]
+        "NG9",
+        []
       ],
       [
-        [
-          "NOTTINGHAM"
-        ],
-        [
-          null
-        ]
+        "NOTTINGHAM",
+        []
       ],
       [
-        [
-          "Beeston",
-          "Stapleford",
-          "Lenton Abbey",
-          "Chilwell",
-          "Trowell",
-          "Bramcote"
-        ],
+        "Beeston , Stapleford , Lenton Abbey , Chilwell , Trowell , Bramcote",
         [
           "/wiki/Beeston,_Nottinghamshire",
           "/wiki/Stapleford,_Nottinghamshire",
@@ -388,37 +231,21 @@
         ]
       ],
       [
-        [
-          "Broxtowe , Nottingham"
-        ],
-        [
-          null
-        ]
+        "Broxtowe , Nottingham",
+        []
       ]
     ],
     [
       [
-        [
-          "NG10"
-        ],
-        [
-          null
-        ]
+        "NG10",
+        []
       ],
       [
-        [
-          "NOTTINGHAM"
-        ],
-        [
-          null
-        ]
+        "NOTTINGHAM",
+        []
       ],
       [
-        [
-          "Long Eaton",
-          "Sawley",
-          "Sandiacre"
-        ],
+        "Long Eaton , Sawley , Sandiacre",
         [
           "/wiki/Long_Eaton",
           "/wiki/Sawley,_Derbyshire",
@@ -426,9 +253,7 @@
         ]
       ],
       [
-        [
-          "Erewash"
-        ],
+        "Erewash",
         [
           "/wiki/Borough_of_Erewash"
         ]
@@ -436,28 +261,15 @@
     ],
     [
       [
-        [
-          "NG11"
-        ],
-        [
-          null
-        ]
+        "NG11",
+        []
       ],
       [
-        [
-          "NOTTINGHAM"
-        ],
-        [
-          null
-        ]
+        "NOTTINGHAM",
+        []
       ],
       [
-        [
-          "Clifton",
-          "Ruddington",
-          "Gotham",
-          "Kingston on Soar"
-        ],
+        "Clifton , Ruddington , Gotham , Kingston on Soar",
         [
           "/wiki/Clifton,_Nottingham",
           "/wiki/Ruddington",
@@ -466,38 +278,21 @@
         ]
       ],
       [
-        [
-          "Nottingham , Rushcliffe"
-        ],
-        [
-          null
-        ]
+        "Nottingham , Rushcliffe",
+        []
       ]
     ],
     [
       [
-        [
-          "NG12"
-        ],
-        [
-          null
-        ]
+        "NG12",
+        []
       ],
       [
-        [
-          "NOTTINGHAM"
-        ],
-        [
-          null
-        ]
+        "NOTTINGHAM",
+        []
       ],
       [
-        [
-          "Cotgrave",
-          "Radcliffe on Trent",
-          "Keyworth",
-          "Edwalton"
-        ],
+        "Cotgrave , Radcliffe on Trent , Keyworth , Edwalton",
         [
           "/wiki/Cotgrave",
           "/wiki/Radcliffe_on_Trent",
@@ -506,38 +301,21 @@
         ]
       ],
       [
-        [
-          "Rushcliffe"
-        ],
-        [
-          null
-        ]
+        "Rushcliffe",
+        []
       ]
     ],
     [
       [
-        [
-          "NG13"
-        ],
-        [
-          null
-        ]
+        "NG13",
+        []
       ],
       [
-        [
-          "NOTTINGHAM"
-        ],
-        [
-          null
-        ]
+        "NOTTINGHAM",
+        []
       ],
       [
-        [
-          "Bingham",
-          "Whatton",
-          "Bottesford",
-          "Aslockton"
-        ],
+        "Bingham , Whatton , Bottesford , Aslockton",
         [
           "/wiki/Bingham,_Nottinghamshire",
           "/wiki/Whatton-in-the-Vale",
@@ -546,9 +324,7 @@
         ]
       ],
       [
-        [
-          "Melton"
-        ],
+        "Rushcliffe , Melton",
         [
           "/wiki/Melton_(borough)"
         ]
@@ -556,28 +332,15 @@
     ],
     [
       [
-        [
-          "NG14"
-        ],
-        [
-          null
-        ]
+        "NG14",
+        []
       ],
       [
-        [
-          "NOTTINGHAM"
-        ],
-        [
-          null
-        ]
+        "NOTTINGHAM",
+        []
       ],
       [
-        [
-          "Calverton",
-          "Lowdham",
-          "Burton Joyce",
-          "Gunthorpe"
-        ],
+        "Calverton , Lowdham , Burton Joyce , Gunthorpe",
         [
           "/wiki/Calverton,_Nottinghamshire",
           "/wiki/Lowdham",
@@ -586,37 +349,21 @@
         ]
       ],
       [
-        [
-          "Gedling"
-        ],
-        [
-          null
-        ]
+        "Gedling",
+        []
       ]
     ],
     [
       [
-        [
-          "NG15"
-        ],
-        [
-          null
-        ]
+        "NG15",
+        []
       ],
       [
-        [
-          "NOTTINGHAM"
-        ],
-        [
-          null
-        ]
+        "NOTTINGHAM",
+        []
       ],
       [
-        [
-          "Hucknall",
-          "Ravenshead",
-          "Newstead"
-        ],
+        "Hucknall , Ravenshead , Newstead",
         [
           "/wiki/Hucknall",
           "/wiki/Ravenshead",
@@ -624,9 +371,7 @@
         ]
       ],
       [
-        [
-          "Ashfield"
-        ],
+        "Ashfield , Gedling",
         [
           "/wiki/Ashfield,_Nottinghamshire"
         ]
@@ -634,37 +379,15 @@
     ],
     [
       [
-        [
-          "NG16"
-        ],
-        [
-          null
-        ]
+        "NG16",
+        []
       ],
       [
-        [
-          "NOTTINGHAM"
-        ],
-        [
-          null
-        ]
+        "NOTTINGHAM",
+        []
       ],
       [
-        [
-          "Kimberley",
-          "Eastwood",
-          "Nuthall",
-          "Langley Mill",
-          "Pinxton",
-          "Selston",
-          "Awsworth",
-          "Ironville",
-          "Jacksdale",
-          "Westwood",
-          "Underwood",
-          "Brinsley",
-          "Watnall"
-        ],
+        "Kimberley , Eastwood , Nuthall , Langley Mill , Pinxton , Selston , Awsworth , Ironville , Jacksdale , Westwood , Underwood , Brinsley , Watnall",
         [
           "/wiki/Kimberley,_Nottinghamshire",
           "/wiki/Eastwood,_Nottinghamshire",
@@ -675,17 +398,13 @@
           "/wiki/Awsworth",
           "/wiki/Ironville",
           "/wiki/Jacksdale",
-          null,
           "/wiki/Underwood,_Nottinghamshire",
           "/wiki/Brinsley",
           "/wiki/Watnall"
         ]
       ],
       [
-        [
-          "Amber Valley",
-          "Bolsover"
-        ],
+        "Amber Valley , Ashfield Bolsover , Broxtowe",
         [
           "/wiki/Amber_Valley",
           "/wiki/Bolsover_District"
@@ -694,28 +413,15 @@
     ],
     [
       [
-        [
-          "NG17"
-        ],
-        [
-          null
-        ]
+        "NG17",
+        []
       ],
       [
-        [
-          "NOTTINGHAM , SUTTON-IN-ASHFIELD"
-        ],
-        [
-          null
-        ]
+        "NOTTINGHAM , SUTTON-IN-ASHFIELD",
+        []
       ],
       [
-        [
-          "Sutton-in-Ashfield",
-          "Kirkby-in-Ashfield",
-          "Stanton Hill",
-          "Skegby"
-        ],
+        "Sutton-in-Ashfield , Kirkby-in-Ashfield , Stanton Hill , Skegby",
         [
           "/wiki/Sutton-in-Ashfield",
           "/wiki/Kirkby-in-Ashfield",
@@ -724,43 +430,27 @@
         ]
       ],
       [
-        [
-          "Ashfield"
-        ],
-        [
-          null
-        ]
+        "Ashfield",
+        []
       ]
     ],
     [
       [
-        [
-          "NG18"
-        ],
-        [
-          null
-        ]
+        "NG18",
+        []
       ],
       [
-        [
-          "MANSFIELD"
-        ],
-        [
-          null
-        ]
+        "MANSFIELD",
+        []
       ],
       [
-        [
-          "Mansfield"
-        ],
+        "Mansfield",
         [
           "/wiki/Mansfield"
         ]
       ],
       [
-        [
-          "Mansfield"
-        ],
+        "Mansfield",
         [
           "/wiki/Mansfield_(district)"
         ]
@@ -768,71 +458,43 @@
     ],
     [
       [
-        [
-          "NG19"
-        ],
-        [
-          null
-        ]
+        "NG19",
+        []
       ],
       [
-        [
-          "MANSFIELD"
-        ],
-        [
-          null
-        ]
+        "MANSFIELD",
+        []
       ],
       [
-        [
-          "Mansfield Woodhouse",
-          "Forest Town"
-        ],
+        "Mansfield Woodhouse , Forest Town",
         [
           "/wiki/Mansfield_Woodhouse",
           "/wiki/Forest_Town,_Nottinghamshire"
         ]
       ],
       [
-        [
-          "Mansfield"
-        ],
-        [
-          null
-        ]
+        "Mansfield",
+        []
       ]
     ],
     [
       [
-        [
-          "NG20"
-        ],
-        [
-          null
-        ]
+        "NG20",
+        []
       ],
       [
-        [
-          "MANSFIELD"
-        ],
-        [
-          null
-        ]
+        "MANSFIELD",
+        []
       ],
       [
-        [
-          "Shirebrook",
-          "Market Warsop"
-        ],
+        "Shirebrook , Market Warsop",
         [
           "/wiki/Shirebrook",
           "/wiki/Market_Warsop"
         ]
       ],
       [
-        [
-          "Bolsover"
-        ],
+        "Bolsover , Mansfield",
         [
           "/wiki/Bolsover_(district)"
         ]

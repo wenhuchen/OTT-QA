@@ -3,200 +3,120 @@
   "title": "List of MBTA subway stations",
   "header": [
     [
-      [
-        "Station"
-      ],
-      [
-        null
-      ]
+      "Station",
+      []
     ],
     [
-      [
-        "Line ( branch )"
-      ],
-      [
-        null
-      ]
+      "Line ( branch )",
+      []
     ],
     [
-      [
-        "Connections"
-      ],
-      [
-        null
-      ]
+      "Connections",
+      []
     ],
     [
-      [
-        "City/neighborhood"
-      ],
-      [
-        null
-      ]
+      "City/neighborhood",
+      []
     ],
     [
-      [
-        "Station info"
-      ],
-      [
-        null
-      ]
+      "Station info",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "23 Drydock Avenue",
+        []
       ],
       [
-        [
-          "Silver Line",
-          "SL2"
-        ],
+        "Silver Line ( SL2 )",
         [
           "/wiki/Silver_Line_(MBTA)",
           "/wiki/SL2_(MBTA_bus)"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Boston",
-          "South Boston"
-        ],
+        "Boston / South Boston",
         [
           "/wiki/Boston",
           "/wiki/South_Boston"
         ]
       ],
       [
-        [
-          "Link"
-        ],
-        [
-          null
-        ]
+        "Link",
+        []
       ]
     ],
     [
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "27 Drydock Avenue",
+        []
       ],
       [
-        [
-          "Silver Line",
-          "SL2"
-        ],
+        "Silver Line ( SL2 )",
         [
           "/wiki/Silver_Line_(MBTA)",
           "/wiki/SL2_(MBTA_bus)"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Boston",
-          "South Boston"
-        ],
+        "Boston / South Boston",
         [
           "/wiki/Boston",
           "/wiki/South_Boston"
         ]
       ],
       [
-        [
-          "Link"
-        ],
-        [
-          null
-        ]
+        "Link",
+        []
       ]
     ],
     [
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "88 Black Falcon Avenue",
+        []
       ],
       [
-        [
-          "Silver Line",
-          "SL2"
-        ],
+        "Silver Line ( SL2 )",
         [
           "/wiki/Silver_Line_(MBTA)",
           "/wiki/SL2_(MBTA_bus)"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Boston",
-          "South Boston"
-        ],
+        "Boston / South Boston",
         [
           "/wiki/Boston",
           "/wiki/South_Boston"
         ]
       ],
       [
-        [
-          "Link"
-        ],
-        [
-          null
-        ]
+        "Link",
+        []
       ]
     ],
     [
       [
-        [
-          "Airport"
-        ],
+        "Airport",
         [
           "/wiki/Airport_station_(MBTA)"
         ]
       ],
       [
-        [
-          "Blue Line",
-          "Silver Line",
-          "SL3"
-        ],
+        "Blue Line Silver Line ( SL3 )",
         [
           "/wiki/Blue_Line_(MBTA)",
           "/wiki/Silver_Line_(MBTA)",
@@ -204,11 +124,7 @@
         ]
       ],
       [
-        [
-          "MBTA Bus",
-          "171",
-          "Massport"
-        ],
+        "MBTA Bus ( 171 ) Massport shuttles",
         [
           "/wiki/MBTA_Bus",
           "/wiki/171_(MBTA_bus)",
@@ -216,53 +132,32 @@
         ]
       ],
       [
-        [
-          "Boston",
-          "East Boston"
-        ],
+        "Boston / East Boston",
         [
           "/wiki/Boston",
           "/wiki/East_Boston"
         ]
       ],
       [
-        [
-          "Link"
-        ],
-        [
-          null
-        ]
+        "Link",
+        []
       ]
     ],
     [
       [
-        [
-          "Alewife"
-        ],
+        "Alewife",
         [
           "/wiki/Alewife_station"
         ]
       ],
       [
-        [
-          "Red Line"
-        ],
+        "Red Line",
         [
           "/wiki/Red_Line_(MBTA)"
         ]
       ],
       [
-        [
-          "MBTA Bus",
-          "62",
-          "67",
-          "76",
-          "79",
-          "83",
-          "84",
-          "350",
-          "351"
-        ],
+        "MBTA Bus ( 62 , 67 , 76 , 79 , 83 , 84 , 350 , 351 )",
         [
           "/wiki/MBTA_Bus",
           "/wiki/62_(MBTA_bus)",
@@ -276,97 +171,62 @@
         ]
       ],
       [
-        [
-          "Cambridge",
-          "North Cambridge"
-        ],
+        "Cambridge / North Cambridge",
         [
           "/wiki/Cambridge,_Massachusetts",
           "/wiki/North_Cambridge,_Massachusetts"
         ]
       ],
       [
-        [
-          "Link"
-        ],
-        [
-          null
-        ]
+        "Link",
+        []
       ]
     ],
     [
       [
-        [
-          "Allston Street"
-        ],
+        "Allston Street",
         [
           "/wiki/Allston_Street_station"
         ]
       ],
       [
-        [
-          "Green Line",
-          "B"
-        ],
+        "Green Line ( B )",
         [
           "/wiki/Green_Line_(MBTA)",
           "/wiki/Green_Line_\"B\"_Branch"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Boston",
-          "Allston"
-        ],
+        "Boston / Allston",
         [
           "/wiki/Boston",
           "/wiki/Allston"
         ]
       ],
       [
-        [
-          "Link"
-        ],
-        [
-          null
-        ]
+        "Link",
+        []
       ]
     ],
     [
       [
-        [
-          "Andrew"
-        ],
+        "Andrew",
         [
           "/wiki/Andrew_station"
         ]
       ],
       [
-        [
-          "Red Line"
-        ],
+        "Red Line",
         [
           "/wiki/Red_Line_(MBTA)"
         ]
       ],
       [
-        [
-          "MBTA Bus",
-          "CT3",
-          "10",
-          "16",
-          "17",
-          "18",
-          "171"
-        ],
+        "MBTA Bus ( CT3 , 10 , 16 , 17 , 18 , 171 )",
         [
           "/wiki/MBTA_Bus",
           "/wiki/CT3_(MBTA_bus)",
@@ -378,50 +238,32 @@
         ]
       ],
       [
-        [
-          "Boston",
-          "South Boston"
-        ],
+        "Boston / South Boston",
         [
           "/wiki/Boston",
           "/wiki/South_Boston"
         ]
       ],
       [
-        [
-          "Link"
-        ],
-        [
-          null
-        ]
+        "Link",
+        []
       ]
     ],
     [
       [
-        [
-          "Aquarium"
-        ],
+        "Aquarium",
         [
           "/wiki/Aquarium_station_(MBTA)"
         ]
       ],
       [
-        [
-          "Blue Line"
-        ],
+        "Blue Line",
         [
           "/wiki/Blue_Line_(MBTA)"
         ]
       ],
       [
-        [
-          "MBTA Bus",
-          "4",
-          "Long Wharf",
-          "MBTA Boat",
-          "F2",
-          "F4"
-        ],
+        "MBTA Bus ( 4 ) At Long Wharf : MBTA Boat ( F2 , F4 )",
         [
           "/wiki/MBTA_Bus",
           "/wiki/4_(MBTA_bus)",
@@ -432,49 +274,32 @@
         ]
       ],
       [
-        [
-          "Boston",
-          "Downtown"
-        ],
+        "Boston / Downtown",
         [
           "/wiki/Boston",
           "/wiki/Downtown_Boston"
         ]
       ],
       [
-        [
-          "Link"
-        ],
-        [
-          null
-        ]
+        "Link",
+        []
       ]
     ],
     [
       [
-        [
-          "Arlington"
-        ],
+        "Arlington",
         [
           "/wiki/Arlington_station_(MBTA)"
         ]
       ],
       [
-        [
-          "Green Line"
-        ],
+        "Green Line",
         [
           "/wiki/Green_Line_(MBTA)"
         ]
       ],
       [
-        [
-          "MBTA Bus",
-          "9",
-          "55",
-          "192",
-          "193"
-        ],
+        "MBTA Bus ( 9 , 55 , 192 , 193 )",
         [
           "/wiki/MBTA_Bus",
           "/wiki/9_(MBTA_bus)",
@@ -484,40 +309,26 @@
         ]
       ],
       [
-        [
-          "Boston",
-          "Back Bay"
-        ],
+        "Boston / Back Bay",
         [
           "/wiki/Boston",
           "/wiki/Back_Bay,_Boston"
         ]
       ],
       [
-        [
-          "Link"
-        ],
-        [
-          null
-        ]
+        "Link",
+        []
       ]
     ],
     [
       [
-        [
-          "Ashmont"
-        ],
+        "Ashmont",
         [
           "/wiki/Ashmont_station"
         ]
       ],
       [
-        [
-          "Red Line",
-          "Ashmont",
-          "Red Line",
-          "Mattapan"
-        ],
+        "Red Line ( Ashmont ) Red Line ( Mattapan )",
         [
           "/wiki/Red_Line_(MBTA)",
           "/wiki/Red_Line_(MBTA)",
@@ -526,19 +337,7 @@
         ]
       ],
       [
-        [
-          "MBTA Bus",
-          "18",
-          "21",
-          "22",
-          "23",
-          "27",
-          "191",
-          "215",
-          "217",
-          "240",
-          "BAT"
-        ],
+        "MBTA Bus ( 18 , 21 , 22 , 23 , 27 , 191 , 215 , 217 , 240 ) BAT : 12",
         [
           "/wiki/MBTA_Bus",
           "/wiki/18_(MBTA_bus)",
@@ -554,94 +353,62 @@
         ]
       ],
       [
-        [
-          "Boston",
-          "Dorchester"
-        ],
+        "Boston / Dorchester",
         [
           "/wiki/Boston",
           "/wiki/Dorchester,_Boston"
         ]
       ],
       [
-        [
-          "Link"
-        ],
-        [
-          null
-        ]
+        "Link",
+        []
       ]
     ],
     [
       [
-        [
-          "Assembly"
-        ],
+        "Assembly",
         [
           "/wiki/Assembly_station"
         ]
       ],
       [
-        [
-          "Orange Line"
-        ],
+        "Orange Line",
         [
           "/wiki/Orange_Line_(MBTA)"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Somerville",
-          "Assembly Square"
-        ],
+        "Somerville / Assembly Square",
         [
           "/wiki/Somerville,_Massachusetts",
           "/wiki/Assembly_Square"
         ]
       ],
       [
-        [
-          "Link"
-        ],
-        [
-          null
-        ]
+        "Link",
+        []
       ]
     ],
     [
       [
-        [
-          "Babcock Street"
-        ],
+        "Babcock Street",
         [
           "/wiki/Babcock_Street_station"
         ]
       ],
       [
-        [
-          "Green Line",
-          "B"
-        ],
+        "Green Line ( B )",
         [
           "/wiki/Green_Line_(MBTA)",
           "/wiki/Green_Line_\"B\"_Branch"
         ]
       ],
       [
-        [
-          "MBTA Bus",
-          "57",
-          "57A",
-          "193"
-        ],
+        "MBTA Bus ( 57 , 57A , 193 )",
         [
           "/wiki/MBTA_Bus",
           "/wiki/57_(MBTA_bus)",
@@ -650,55 +417,32 @@
         ]
       ],
       [
-        [
-          "Boston",
-          "Fenway-Kenmore"
-        ],
+        "Boston / Fenway-Kenmore",
         [
           "/wiki/Boston",
           "/wiki/Fenway\u2013Kenmore"
         ]
       ],
       [
-        [
-          "Link"
-        ],
-        [
-          null
-        ]
+        "Link",
+        []
       ]
     ],
     [
       [
-        [
-          "Back Bay"
-        ],
+        "Back Bay",
         [
           "/wiki/Back_Bay_station"
         ]
       ],
       [
-        [
-          "Orange Line"
-        ],
+        "Orange Line",
         [
           "/wiki/Orange_Line_(MBTA)"
         ]
       ],
       [
-        [
-          "Framingham/\u200bWorcester Line",
-          "Franklin Line",
-          "Needham Line",
-          "Providence/\u200bStoughton Line",
-          "Acela Express",
-          "Lake Shore Limited",
-          "Northeast Regional",
-          "MBTA Bus",
-          "10",
-          "39",
-          "170"
-        ],
+        "Framingham/\u200bWorcester Line Franklin Line Needham Line Providence/\u200bStoughton Line Acela Express Lake Shore Limited Northeast Regional MBTA Bus ( 10 , 39 , 170 )",
         [
           "/wiki/Framingham/Worcester_Line",
           "/wiki/Franklin_Line",
@@ -714,49 +458,33 @@
         ]
       ],
       [
-        [
-          "Boston",
-          "Back Bay"
-        ],
+        "Boston / Back Bay",
         [
           "/wiki/Boston",
           "/wiki/Back_Bay,_Boston"
         ]
       ],
       [
-        [
-          "Link"
-        ],
-        [
-          null
-        ]
+        "Link",
+        []
       ]
     ],
     [
       [
-        [
-          "Back of the Hill"
-        ],
+        "Back of the Hill",
         [
           "/wiki/Back_of_the_Hill_station"
         ]
       ],
       [
-        [
-          "Green Line",
-          "E"
-        ],
+        "Green Line ( E )",
         [
           "/wiki/Green_Line_(MBTA)",
           "/wiki/Green_Line_\"E\"_Branch"
         ]
       ],
       [
-        [
-          "MBTA Bus",
-          "39",
-          "192"
-        ],
+        "MBTA Bus ( 39 , 192 )",
         [
           "/wiki/MBTA_Bus",
           "/wiki/39_(MBTA_bus)",
@@ -764,143 +492,94 @@
         ]
       ],
       [
-        [
-          "Boston",
-          "Mission Hill"
-        ],
+        "Boston / Mission Hill",
         [
           "/wiki/Boston",
           "/wiki/Mission_Hill,_Boston"
         ]
       ],
       [
-        [
-          "Link"
-        ],
-        [
-          null
-        ]
+        "Link",
+        []
       ]
     ],
     [
       [
-        [
-          "Beachmont"
-        ],
+        "Beachmont",
         [
           "/wiki/Beachmont_station"
         ]
       ],
       [
-        [
-          "Blue Line"
-        ],
+        "Blue Line",
         [
           "/wiki/Blue_Line_(MBTA)"
         ]
       ],
       [
-        [
-          "MBTA Bus",
-          "119"
-        ],
+        "MBTA Bus ( 119 )",
         [
           "/wiki/MBTA_Bus",
           "/wiki/119_(MBTA_bus)"
         ]
       ],
       [
-        [
-          "Revere",
-          "Beachmont"
-        ],
+        "Revere / Beachmont",
         [
           "/wiki/Revere,_Massachusetts",
           "/wiki/Beachmont,_Massachusetts"
         ]
       ],
       [
-        [
-          "Link"
-        ],
-        [
-          null
-        ]
+        "Link",
+        []
       ]
     ],
     [
       [
-        [
-          "Beaconsfield"
-        ],
+        "Beaconsfield",
         [
           "/wiki/Beaconsfield_station_(MBTA)"
         ]
       ],
       [
-        [
-          "Green Line",
-          "D"
-        ],
+        "Green Line ( D )",
         [
           "/wiki/Green_Line_(MBTA)",
           "/wiki/Green_Line_\"D\"_Branch"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Brookline"
-        ],
+        "Brookline",
         [
           "/wiki/Brookline,_Massachusetts"
         ]
       ],
       [
-        [
-          "Link"
-        ],
-        [
-          null
-        ]
+        "Link",
+        []
       ]
     ],
     [
       [
-        [
-          "Bellingham Square"
-        ],
+        "Bellingham Square",
         [
           "/wiki/Bellingham_Square_station"
         ]
       ],
       [
-        [
-          "Silver Line",
-          "SL3"
-        ],
+        "Silver Line ( SL3 )",
         [
           "/wiki/Silver_Line_(MBTA)",
           "/wiki/SL3_(MBTA_bus)"
         ]
       ],
       [
-        [
-          "Newburyport/\u200bRockport Line",
-          "MBTA Bus",
-          "111",
-          "112",
-          "114",
-          "116",
-          "117"
-        ],
+        "Newburyport/\u200bRockport Line MBTA Bus ( 111 , 112 , 114 , 116 , 117 )",
         [
           "/wiki/Newburyport/Rockport_Line",
           "/wiki/MBTA_Bus",
@@ -912,50 +591,33 @@
         ]
       ],
       [
-        [
-          "Chelsea",
-          "Bellingham Square"
-        ],
+        "Chelsea / Bellingham Square",
         [
           "/wiki/Chelsea,_Massachusetts",
           "/wiki/Bellingham_Square_Historic_District"
         ]
       ],
       [
-        [
-          "Link"
-        ],
-        [
-          null
-        ]
+        "Link",
+        []
       ]
     ],
     [
       [
-        [
-          "Blandford Street"
-        ],
+        "Blandford Street",
         [
           "/wiki/Blandford_Street_station"
         ]
       ],
       [
-        [
-          "Green Line",
-          "B"
-        ],
+        "Green Line ( B )",
         [
           "/wiki/Green_Line_(MBTA)",
           "/wiki/Green_Line_\"B\"_Branch"
         ]
       ],
       [
-        [
-          "MBTA Bus",
-          "57",
-          "57A",
-          "193"
-        ],
+        "MBTA Bus ( 57 , 57A , 193 )",
         [
           "/wiki/MBTA_Bus",
           "/wiki/57_(MBTA_bus)",
@@ -964,98 +626,63 @@
         ]
       ],
       [
-        [
-          "Boston",
-          "Fenway-Kenmore"
-        ],
+        "Boston / Fenway-Kenmore",
         [
           "/wiki/Boston",
           "/wiki/Fenway\u2013Kenmore"
         ]
       ],
       [
-        [
-          "Link"
-        ],
-        [
-          null
-        ]
+        "Link",
+        []
       ]
     ],
     [
       [
-        [
-          "Boston College"
-        ],
+        "Boston College",
         [
           "/wiki/Boston_College_station"
         ]
       ],
       [
-        [
-          "Green Line",
-          "B"
-        ],
+        "Green Line ( B )",
         [
           "/wiki/Green_Line_(MBTA)",
           "/wiki/Green_Line_\"B\"_Branch"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Boston",
-          "Brighton"
-        ],
+        "Boston / Brighton",
         [
           "/wiki/Boston",
           "/wiki/Brighton,_Boston"
         ]
       ],
       [
-        [
-          "Link"
-        ],
-        [
-          null
-        ]
+        "Link",
+        []
       ]
     ],
     [
       [
-        [
-          "Boston University Central"
-        ],
+        "Boston University Central",
         [
           "/wiki/Boston_University_Central_station"
         ]
       ],
       [
-        [
-          "Green Line",
-          "B"
-        ],
+        "Green Line ( B )",
         [
           "/wiki/Green_Line_(MBTA)",
           "/wiki/Green_Line_\"B\"_Branch"
         ]
       ],
       [
-        [
-          "MBTA Bus",
-          "CT2",
-          "47",
-          "57",
-          "57A",
-          "193"
-        ],
+        "MBTA Bus ( CT2 , 47 , 57 , 57A , 193 )",
         [
           "/wiki/MBTA_Bus",
           "/wiki/CT2_(MBTA_bus)",
@@ -1066,22 +693,15 @@
         ]
       ],
       [
-        [
-          "Boston",
-          "Fenway-Kenmore"
-        ],
+        "Boston / Fenway-Kenmore",
         [
           "/wiki/Boston",
           "/wiki/Fenway\u2013Kenmore"
         ]
       ],
       [
-        [
-          "Link"
-        ],
-        [
-          null
-        ]
+        "Link",
+        []
       ]
     ]
   ],

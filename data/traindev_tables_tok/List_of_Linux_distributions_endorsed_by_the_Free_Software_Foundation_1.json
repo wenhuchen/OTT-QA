@@ -3,51 +3,36 @@
   "title": "Comparison of Linux distributions",
   "header": [
     [
-      [
-        "Distribution"
-      ],
-      [
-        null
-      ]
+      "Distribution",
+      []
     ],
     [
-      [
-        "Linux kernel"
-      ],
+      "Default Linux kernel",
       [
         "/wiki/Linux_kernel"
       ]
     ],
     [
-      [
-        "file system"
-      ],
+      "Default file system",
       [
         "/wiki/File_system"
       ]
     ],
     [
-      [
-        "init system"
-      ],
+      "Default init system",
       [
         "/wiki/Init"
       ]
     ],
     [
-      [
-        "desktop environment",
-        "window manager"
-      ],
+      "Install-time desktop environment or window manager selection",
       [
         "/wiki/Desktop_environment",
         "/wiki/Window_manager"
       ]
     ],
     [
-      [
-        "Reproducible builds"
-      ],
+      "Reproducible builds",
       [
         "/wiki/Reproducible_builds"
       ]
@@ -56,645 +41,380 @@
   "data": [
     [
       [
-        [
-          "Alpine Linux"
-        ],
+        "Alpine Linux",
         [
           "/wiki/Alpine_Linux"
         ]
       ],
       [
-        [
-          "Binary blobs"
-        ],
-        [
-          null
-        ]
+        "Binary blobs",
+        []
       ],
       [
-        [
-          "ext4"
-        ],
-        [
-          null
-        ]
+        "ext4",
+        []
       ],
       [
-        [
-          "openrc"
-        ],
+        "openrc",
         [
           "/wiki/OpenRC"
         ]
       ],
       [
-        [
-          "none"
-        ],
-        [
-          null
-        ]
+        "none",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ]
     ],
     [
       [
-        [
-          "ALT Linux"
-        ],
+        "ALT Linux",
         [
           "/wiki/ALT_Linux"
         ]
       ],
       [
-        [
-          "Binary blobs"
-        ],
-        [
-          null
-        ]
+        "Binary blobs",
+        []
       ],
       [
-        [
-          "ext3"
-        ],
-        [
-          null
-        ]
+        "ext3",
+        []
       ],
       [
-        [
-          "systemd"
-        ],
+        "systemd",
         [
           "/wiki/Systemd"
         ]
       ],
       [
-        [
-          "Xfce"
-        ],
+        "KDE Plasma Workspaces , Xfce",
         [
           "/wiki/Xfce"
         ]
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ]
     ],
     [
       [
-        [
-          "Arch Linux"
-        ],
+        "Arch Linux",
         [
           "/wiki/Arch_Linux"
         ]
       ],
       [
-        [
-          "Binary blobs"
-        ],
-        [
-          null
-        ]
+        "Binary blobs",
+        []
       ],
       [
-        [
-          "none"
-        ],
-        [
-          null
-        ]
+        "none",
+        []
       ],
       [
-        [
-          "systemd"
-        ],
-        [
-          null
-        ]
+        "systemd",
+        []
       ],
       [
-        [
-          "none"
-        ],
-        [
-          null
-        ]
+        "none",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ]
     ],
     [
       [
-        [
-          "BLAG"
-        ],
+        "BLAG",
         [
           "/wiki/BLAG_Linux_and_GNU"
         ]
       ],
       [
-        [
-          "Linux-libre"
-        ],
+        "Linux-libre",
         [
           "/wiki/Linux-libre"
         ]
       ],
       [
-        [
-          "ext3"
-        ],
-        [
-          null
-        ]
+        "ext3",
+        []
       ],
       [
-        [
-          "sysvinit"
-        ],
-        [
-          null
-        ]
+        "sysvinit",
+        []
       ],
       [
-        [
-          "GNOME"
-        ],
-        [
-          null
-        ]
+        "GNOME",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ]
     ],
     [
       [
-        [
-          "Bodhi Linux"
-        ],
+        "Bodhi Linux",
         [
           "/wiki/Bodhi_Linux"
         ]
       ],
       [
-        [
-          "Binary blobs"
-        ],
-        [
-          null
-        ]
+        "Binary blobs",
+        []
       ],
       [
-        [
-          "ext4"
-        ],
-        [
-          null
-        ]
+        "ext4",
+        []
       ],
       [
-        [
-          "systemd"
-        ],
-        [
-          null
-        ]
+        "systemd",
+        []
       ],
       [
-        [
-          "Enlightenment"
-        ],
+        "Moksha ( Enlightenment fork )",
         [
           "/wiki/Enlightenment_(window_manager)"
         ]
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ]
     ],
     [
       [
-        [
-          "Canaima"
-        ],
+        "Canaima",
         [
           "/wiki/Canaima_(operating_system)"
         ]
       ],
       [
-        [
-          "Binary blobs"
-        ],
-        [
-          null
-        ]
+        "Binary blobs",
+        []
       ],
       [
-        [
-          "?"
-        ],
-        [
-          null
-        ]
+        "?",
+        []
       ],
       [
-        [
-          "systemd"
-        ],
-        [
-          null
-        ]
+        "systemd",
+        []
       ],
       [
-        [
-          "Cinnamon",
-          "MATE"
-        ],
+        "Cinnamon and MATE",
         [
           "/wiki/Cinnamon_(software)",
           "/wiki/MATE_(software)"
         ]
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ]
     ],
     [
       [
-        [
-          "CentOS"
-        ],
+        "CentOS",
         [
           "/wiki/CentOS"
         ]
       ],
       [
-        [
-          "Binary blobs"
-        ],
-        [
-          null
-        ]
+        "Binary blobs",
+        []
       ],
       [
-        [
-          "xfs"
-        ],
-        [
-          null
-        ]
+        "xfs",
+        []
       ],
       [
-        [
-          "systemd"
-        ],
-        [
-          null
-        ]
+        "systemd",
+        []
       ],
       [
-        [
-          "GNOME"
-        ],
-        [
-          null
-        ]
+        "GNOME",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ]
     ],
     [
       [
-        [
-          "Chakra"
-        ],
+        "Chakra",
         [
           "/wiki/Chakra_(operating_system)"
         ]
       ],
       [
-        [
-          "Binary blobs"
-        ],
-        [
-          null
-        ]
+        "Binary blobs",
+        []
       ],
       [
-        [
-          "ext4"
-        ],
-        [
-          null
-        ]
+        "ext4",
+        []
       ],
       [
-        [
-          "systemd"
-        ],
-        [
-          null
-        ]
+        "systemd",
+        []
       ],
       [
-        [
-          "KDE Plasma Workspaces"
-        ],
-        [
-          null
-        ]
+        "KDE Plasma Workspaces",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ]
     ],
     [
       [
-        [
-          "ClearOS"
-        ],
+        "ClearOS",
         [
           "/wiki/ClearOS"
         ]
       ],
       [
-        [
-          "Binary blobs"
-        ],
-        [
-          null
-        ]
+        "Binary blobs",
+        []
       ],
       [
-        [
-          "ext3"
-        ],
-        [
-          null
-        ]
+        "ext3",
+        []
       ],
       [
-        [
-          "systemd"
-        ],
-        [
-          null
-        ]
+        "systemd",
+        []
       ],
       [
-        [
-          "none ( Web based )"
-        ],
-        [
-          null
-        ]
+        "none ( Web based )",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ]
     ],
     [
       [
-        [
-          "CoreOS"
-        ],
+        "CoreOS",
         [
           "/wiki/CoreOS"
         ]
       ],
       [
-        [
-          "Binary blobs"
-        ],
-        [
-          null
-        ]
+        "Binary blobs",
+        []
       ],
       [
-        [
-          "ext4"
-        ],
-        [
-          null
-        ]
+        "ext4",
+        []
       ],
       [
-        [
-          "systemd"
-        ],
-        [
-          null
-        ]
+        "systemd",
+        []
       ],
       [
-        [
-          "None"
-        ],
-        [
-          null
-        ]
+        "None",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ]
     ],
     [
       [
-        [
-          "CrunchBang Linux"
-        ],
+        "CrunchBang Linux",
         [
           "/wiki/CrunchBang_Linux"
         ]
       ],
       [
-        [
-          "Binary blobs"
-        ],
-        [
-          null
-        ]
+        "Binary blobs",
+        []
       ],
       [
-        [
-          "ext4"
-        ],
-        [
-          null
-        ]
+        "ext4",
+        []
       ],
       [
-        [
-          "sysvinit"
-        ],
-        [
-          null
-        ]
+        "sysvinit",
+        []
       ],
       [
-        [
-          "Openbox"
-        ],
+        "Openbox",
         [
           "/wiki/Openbox"
         ]
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ]
     ],
     [
       [
-        [
-          "Damn Small Linux"
-        ],
+        "Damn Small Linux",
         [
           "/wiki/Damn_Small_Linux"
         ]
       ],
       [
-        [
-          "Binary blobs"
-        ],
-        [
-          null
-        ]
+        "Binary blobs",
+        []
       ],
       [
-        [
-          "ext3"
-        ],
-        [
-          null
-        ]
+        "ext3",
+        []
       ],
       [
-        [
-          "sysvinit"
-        ],
-        [
-          null
-        ]
+        "sysvinit",
+        []
       ],
       [
-        [
-          "JWM"
-        ],
+        "JWM",
         [
           "/wiki/JWM"
         ]
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ]
     ],
     [
       [
-        [
-          "Debian"
-        ],
+        "Debian",
         [
           "/wiki/Debian"
         ]
       ],
       [
-        [
-          "Linux-libre"
-        ],
+        "By default Linux-libre , but the Debian Project also hosts a non-free repository allowing blobs to be installed optionally . Built with Linux-libre tools",
         [
           "/wiki/Linux-libre"
         ]
       ],
       [
-        [
-          "ext4"
-        ],
-        [
-          null
-        ]
+        "ext4",
+        []
       ],
       [
-        [
-          "systemd"
-        ],
-        [
-          null
-        ]
+        "systemd",
+        []
       ],
       [
-        [
-          "KDE",
-          "Xfce",
-          "LXDE"
-        ],
+        "GNOME , KDE , Xfce , LXDE",
         [
           "/wiki/KDE",
           "/wiki/Xfce",
@@ -702,362 +422,220 @@
         ]
       ],
       [
-        [
-          "In progress"
-        ],
-        [
-          null
-        ]
+        "In progress",
+        []
       ]
     ],
     [
       [
-        [
-          "Devuan"
-        ],
+        "Devuan",
         [
           "/wiki/Devuan"
         ]
       ],
       [
-        [
-          "Binary blobs"
-        ],
-        [
-          null
-        ]
+        "Binary blobs",
+        []
       ],
       [
-        [
-          "ext4"
-        ],
+        "ext4",
         [
           "/wiki/Ext4"
         ]
       ],
       [
-        [
-          "sysvinit"
-        ],
+        "sysvinit",
         [
           "/wiki/Sysvinit"
         ]
       ],
       [
-        [
-          "Xfce"
-        ],
+        "Xfce",
         [
           "/wiki/Xfce"
         ]
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ]
     ],
     [
       [
-        [
-          "Dragora GNU/Linux-Libre"
-        ],
+        "Dragora GNU/Linux-Libre",
         [
           "/wiki/Dragora_GNU/Linux-Libre"
         ]
       ],
       [
-        [
-          "Linux-libre"
-        ],
+        "Linux-libre",
         [
           "/wiki/Linux-libre"
         ]
       ],
       [
-        [
-          "ext4"
-        ],
-        [
-          null
-        ]
+        "ext4",
+        []
       ],
       [
-        [
-          "runit"
-        ],
+        "runit",
         [
           "/wiki/Runit"
         ]
       ],
       [
-        [
-          "Xfce"
-        ],
-        [
-          null
-        ]
+        "Xfce",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ]
     ],
     [
       [
-        [
-          "dyne : bolic"
-        ],
+        "dyne : bolic",
         [
           "/wiki/Dyne:bolic"
         ]
       ],
       [
-        [
-          "Linux-libre"
-        ],
+        "Linux-libre",
         [
           "/wiki/Linux-libre"
         ]
       ],
       [
-        [
-          "?"
-        ],
-        [
-          null
-        ]
+        "?",
+        []
       ],
       [
-        [
-          "systemd"
-        ],
-        [
-          null
-        ]
+        "systemd",
+        []
       ],
       [
-        [
-          "GNOME"
-        ],
-        [
-          null
-        ]
+        "GNOME",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ]
     ],
     [
       [
-        [
-          "Fedora"
-        ],
+        "Fedora",
         [
           "/wiki/Fedora_(operating_system)"
         ]
       ],
       [
-        [
-          "Binary blobs"
-        ],
-        [
-          null
-        ]
+        "Binary blobs",
+        []
       ],
       [
-        [
-          "ext4"
-        ],
-        [
-          null
-        ]
+        "ext4",
+        []
       ],
       [
-        [
-          "systemd"
-        ],
-        [
-          null
-        ]
+        "systemd",
+        []
       ],
       [
-        [
-          "Sugar on a Stick"
-        ],
+        "GNOME ( default Workstation Edition ) , Spins for : KDE Plasma Workspaces , Xfce , LXDE , MATE ( with Compiz ) , Cinnamon , Sugar on a Stick",
         [
           "/wiki/Sugar_(software)"
         ]
       ],
       [
-        [
-          "In progress"
-        ],
-        [
-          null
-        ]
+        "In progress",
+        []
       ]
     ],
     [
       [
-        [
-          "Funtoo"
-        ],
+        "Funtoo",
         [
           "/wiki/Funtoo_Linux"
         ]
       ],
       [
-        [
-          "Binary blobs"
-        ],
-        [
-          null
-        ]
+        "Binary blobs",
+        []
       ],
       [
-        [
-          "none"
-        ],
-        [
-          null
-        ]
+        "none",
+        []
       ],
       [
-        [
-          "openrc"
-        ],
-        [
-          null
-        ]
+        "openrc",
+        []
       ],
       [
-        [
-          "None"
-        ],
-        [
-          null
-        ]
+        "None",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ]
     ],
     [
       [
-        [
-          "Gentoo"
-        ],
+        "Gentoo",
         [
           "/wiki/Gentoo_Linux"
         ]
       ],
       [
-        [
-          "Binary blobs"
-        ],
-        [
-          null
-        ]
+        "Binary blobs",
+        []
       ],
       [
-        [
-          "none"
-        ],
-        [
-          null
-        ]
+        "none",
+        []
       ],
       [
-        [
-          "openrc"
-        ],
-        [
-          null
-        ]
+        "openrc",
+        []
       ],
       [
-        [
-          "Awesome"
-        ],
+        "Awesome , Enlightenment , Fluxbox , GNOME , KDE , LXDE-Meta , Openbox , XBMC and Xfce ( live DVD )",
         [
           "/wiki/Awesome_(window_manager)"
         ]
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ]
     ],
     [
       [
-        [
-          "gNewSense"
-        ],
+        "gNewSense",
         [
           "/wiki/GNewSense"
         ]
       ],
       [
-        [
-          "Debian Linux kernel , and ( unlike Debian ) blobs can not be installed"
-        ],
-        [
-          null
-        ]
+        "Debian Linux kernel , and ( unlike Debian ) blobs can not be installed",
+        []
       ],
       [
-        [
-          "ext3"
-        ],
-        [
-          null
-        ]
+        "ext3",
+        []
       ],
       [
-        [
-          "sysvinit"
-        ],
-        [
-          null
-        ]
+        "sysvinit",
+        []
       ],
       [
-        [
-          "GNOME"
-        ],
-        [
-          null
-        ]
+        "GNOME",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ]
     ]
   ],

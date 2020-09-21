@@ -3,260 +3,178 @@
   "title": "Sita Air",
   "header": [
     [
-      [
-        "City"
-      ],
-      [
-        null
-      ]
+      "City",
+      []
     ],
     [
-      [
-        "Airport"
-      ],
-      [
-        null
-      ]
+      "Airport",
+      []
     ],
     [
-      [
-        "Notes"
-      ],
-      [
-        null
-      ]
+      "Notes",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Bajura"
-        ],
+        "Bajura",
         [
           "/wiki/Bajura"
         ]
       ],
       [
-        [
-          "Bajura Airport"
-        ],
+        "Bajura Airport",
         [
           "/wiki/Bajura_Airport"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Chainpur"
-        ],
+        "Chainpur",
         [
           "/wiki/Chainpur,_Seti"
         ]
       ],
       [
-        [
-          "Bajhang Airport"
-        ],
+        "Bajhang Airport",
         [
           "/wiki/Bajhang_Airport"
         ]
       ],
       [
-        [
-          "Terminated"
-        ],
-        [
-          null
-        ]
+        "Terminated",
+        []
       ]
     ],
     [
       [
-        [
-          "Chandannath"
-        ],
+        "Chandannath",
         [
           "/wiki/Chandannath"
         ]
       ],
       [
-        [
-          "Jumla Airport"
-        ],
+        "Jumla Airport",
         [
           "/wiki/Jumla_Airport"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Chaurjahari"
-        ],
+        "Chaurjahari",
         [
           "/wiki/Chaurjahari"
         ]
       ],
       [
-        [
-          "Chaurjahari Airport"
-        ],
+        "Chaurjahari Airport",
         [
           "/wiki/Chaurjahari_Airport"
         ]
       ],
       [
-        [
-          "Terminated"
-        ],
-        [
-          null
-        ]
+        "Terminated",
+        []
       ]
     ],
     [
       [
-        [
-          "Dhangadhi"
-        ],
+        "Dhangadhi",
         [
           "/wiki/Dhangadhi"
         ]
       ],
       [
-        [
-          "Dhangadhi Airport"
-        ],
+        "Dhangadhi Airport",
         [
           "/wiki/Dhangadhi_Airport"
         ]
       ],
       [
-        [
-          "Terminated"
-        ],
-        [
-          null
-        ]
+        "Terminated",
+        []
       ]
     ],
     [
       [
-        [
-          "Janakpur"
-        ],
+        "Janakpur",
         [
           "/wiki/Janakpur"
         ]
       ],
       [
-        [
-          "Janakpur Airport"
-        ],
+        "Janakpur Airport",
         [
           "/wiki/Janakpur_Airport"
         ]
       ],
       [
-        [
-          "Terminated"
-        ],
-        [
-          null
-        ]
+        "Terminated",
+        []
       ]
     ],
     [
       [
-        [
-          "Jomsom"
-        ],
+        "Jomsom",
         [
           "/wiki/Jomsom"
         ]
       ],
       [
-        [
-          "Jomsom Airport"
-        ],
+        "Jomsom Airport",
         [
           "/wiki/Jomsom_Airport"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Juphal"
-        ],
+        "Juphal",
         [
           "/wiki/Juphal"
         ]
       ],
       [
-        [
-          "Dolpa Airport"
-        ],
+        "Dolpa Airport",
         [
           "/wiki/Dolpa_Airport"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Kathmandu"
-        ],
+        "Kathmandu",
         [
           "/wiki/Kathmandu"
         ]
       ],
       [
-        [
-          "Tribhuvan International Airport"
-        ],
+        "Tribhuvan International Airport",
         [
           "/wiki/Tribhuvan_International_Airport"
         ]
       ],
       [
-        [
-          "Hub"
-        ],
+        "Hub",
         [
           "/wiki/Airline_hub"
         ]
@@ -264,236 +182,164 @@
     ],
     [
       [
-        [
-          "Lukla"
-        ],
+        "Lukla",
         [
           "/wiki/Lukla"
         ]
       ],
       [
-        [
-          "Tenzing-Hillary Airport"
-        ],
+        "Tenzing-Hillary Airport",
         [
           "/wiki/Tenzing\u2013Hillary_Airport"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Manthali"
-        ],
+        "Manthali",
         [
           "/wiki/Manthali,_Ramechhap"
         ]
       ],
       [
-        [
-          "Ramechhap Airport"
-        ],
+        "Ramechhap Airport",
         [
           "/wiki/Ramechhap_Airport"
         ]
       ],
       [
-        [
-          "Seasonal"
-        ],
-        [
-          null
-        ]
+        "Seasonal",
+        []
       ]
     ],
     [
       [
-        [
-          "Nepalgunj"
-        ],
+        "Nepalgunj",
         [
           "/wiki/Nepalgunj"
         ]
       ],
       [
-        [
-          "Nepalgunj Airport"
-        ],
+        "Nepalgunj Airport",
         [
           "/wiki/Nepalgunj_Airport"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Phaplu"
-        ],
+        "Phaplu",
         [
           "/wiki/Phaplu"
         ]
       ],
       [
-        [
-          "Phaplu Airport"
-        ],
+        "Phaplu Airport",
         [
           "/wiki/Phaplu_Airport"
         ]
       ],
       [
-        [
-          "Seasonal"
-        ],
-        [
-          null
-        ]
+        "Seasonal",
+        []
       ]
     ],
     [
       [
-        [
-          "Pokhara"
-        ],
+        "Pokhara",
         [
           "/wiki/Pokhara"
         ]
       ],
       [
-        [
-          "Pokhara Airport"
-        ],
+        "Pokhara Airport",
         [
           "/wiki/Pokhara_Airport"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Rara"
-        ],
+        "Rara",
         [
           "/wiki/Rara"
         ]
       ],
       [
-        [
-          "Talcha Airport"
-        ],
+        "Talcha Airport",
         [
           "/wiki/Talcha_Airport"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Simikot"
-        ],
+        "Simikot",
         [
           "/wiki/Simikot"
         ]
       ],
       [
-        [
-          "Simikot Airport"
-        ],
+        "Simikot Airport",
         [
           "/wiki/Simikot_Airport"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Tulsipur"
-        ],
+        "Tulsipur",
         [
           "/wiki/Tulsipur"
         ]
       ],
       [
-        [
-          "Dang Airport"
-        ],
+        "Dang Airport",
         [
           "/wiki/Dang_Airport"
         ]
       ],
       [
-        [
-          "Terminated"
-        ],
-        [
-          null
-        ]
+        "Terminated",
+        []
       ]
     ],
     [
       [
-        [
-          "Tumlingtar"
-        ],
+        "Tumlingtar",
         [
           "/wiki/Tumlingtar"
         ]
       ],
       [
-        [
-          "Tumlingtar Airport"
-        ],
+        "Tumlingtar Airport",
         [
           "/wiki/Tumlingtar_Airport"
         ]
       ],
       [
-        [
-          "Seasonal"
-        ],
-        [
-          null
-        ]
+        "Seasonal",
+        []
       ]
     ]
   ],

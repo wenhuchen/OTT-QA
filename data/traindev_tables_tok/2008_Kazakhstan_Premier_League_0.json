@@ -3,717 +3,483 @@
   "title": "2008 Kazakhstan Premier League",
   "header": [
     [
-      [
-        "Team"
-      ],
-      [
-        null
-      ]
+      "Team",
+      []
     ],
     [
-      [
-        "Manager"
-      ],
-      [
-        null
-      ]
+      "Manager",
+      []
     ],
     [
-      [
-        "Location"
-      ],
-      [
-        null
-      ]
+      "Location",
+      []
     ],
     [
-      [
-        "Venue"
-      ],
-      [
-        null
-      ]
+      "Venue",
+      []
     ],
     [
-      [
-        "Capacity"
-      ],
-      [
-        null
-      ]
+      "Capacity",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Aktobe"
-        ],
+        "Aktobe",
         [
           "/wiki/FC_Aktobe"
         ]
       ],
       [
-        [
-          "Vladimir Mukhanov"
-        ],
+        "Vladimir Mukhanov",
         [
           "/wiki/Vladimir_Mukhanov"
         ]
       ],
       [
-        [
-          "Aktobe"
-        ],
+        "Aktobe",
         [
           "/wiki/Aktobe"
         ]
       ],
       [
-        [
-          "Central Stadium"
-        ],
+        "Central Stadium",
         [
           "/wiki/Central_Stadium_(Aktobe)"
         ]
       ],
       [
-        [
-          "13,200"
-        ],
-        [
-          null
-        ]
+        "13,200",
+        []
       ]
     ],
     [
       [
-        [
-          "Almaty"
-        ],
+        "Almaty",
         [
           "/wiki/FC_Alma-Ata"
         ]
       ],
       [
-        [
-          "Bernd Storck"
-        ],
+        "Bernd Storck",
         [
           "/wiki/Bernd_Storck"
         ]
       ],
       [
-        [
-          "Almaty"
-        ],
-        [
-          null
-        ]
+        "Almaty",
+        []
       ],
       [
-        [
-          "Central Stadium"
-        ],
-        [
-          null
-        ]
+        "Central Stadium",
+        []
       ],
       [
-        [
-          "23,804"
-        ],
-        [
-          null
-        ]
+        "23,804",
+        []
       ]
     ],
     [
       [
-        [
-          "Astana"
-        ],
+        "Astana",
         [
           "/wiki/FC_Astana-1964"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "Vyacheslav Ledovskih",
+        []
       ],
       [
-        [
-          "Astana"
-        ],
+        "Astana",
         [
           "/wiki/Astana"
         ]
       ],
       [
-        [
-          "Kazhymukan Munaitpasov Stadium"
-        ],
+        "Kazhymukan Munaitpasov Stadium",
         [
           "/wiki/Kazhymukan_Munaitpasov_Stadium_(Astana)"
         ]
       ],
       [
-        [
-          "12,350"
-        ],
-        [
-          null
-        ]
+        "12,350",
+        []
       ]
     ],
     [
       [
-        [
-          "Atyrau"
-        ],
+        "Atyrau",
         [
           "/wiki/FC_Atyrau"
         ]
       ],
       [
-        [
-          "Sergey Andreyev"
-        ],
+        "Sergey Andreyev",
         [
           "/wiki/Sergey_Andreyev"
         ]
       ],
       [
-        [
-          "Atyrau"
-        ],
+        "Atyrau",
         [
           "/wiki/Atyrau"
         ]
       ],
       [
-        [
-          "Munaishy Stadium"
-        ],
+        "Munaishy Stadium",
         [
           "/wiki/Munaishy_Stadium"
         ]
       ],
       [
-        [
-          "9,500"
-        ],
-        [
-          null
-        ]
+        "9,500",
+        []
       ]
     ],
     [
       [
-        [
-          "Energetic-2"
-        ],
+        "Energetic-2",
         [
           "/wiki/FC_Ekibastuz"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "Vladimir Linchevskiy",
+        []
       ],
       [
-        [
-          "Ekibastuz"
-        ],
+        "Ekibastuz",
         [
           "/wiki/Ekibastuz"
         ]
       ],
       [
-        [
-          "Shakhter"
-        ],
-        [
-          null
-        ]
+        "Shakhter",
+        []
       ],
       [
-        [
-          "6,300"
-        ],
-        [
-          null
-        ]
+        "6,300",
+        []
       ]
     ],
     [
       [
-        [
-          "Esil Bogatyr"
-        ],
+        "Esil Bogatyr",
         [
           "/wiki/FC_Kyzylzhar"
         ]
       ],
       [
-        [
-          "Evgeny Yarovenko"
-        ],
+        "Evgeny Yarovenko",
         [
           "/wiki/Evgeny_Yarovenko"
         ]
       ],
       [
-        [
-          "Petropavl"
-        ],
+        "Petropavl",
         [
           "/wiki/Petropavl"
         ]
       ],
       [
-        [
-          "Karasai Stadium"
-        ],
+        "Karasai Stadium",
         [
           "/wiki/Avangard_Stadium"
         ]
       ],
       [
-        [
-          "11,000"
-        ],
-        [
-          null
-        ]
+        "11,000",
+        []
       ]
     ],
     [
       [
-        [
-          "Irtysh"
-        ],
+        "Irtysh",
         [
           "/wiki/FC_Irtysh_Pavlodar"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "Oirat Saduov",
+        []
       ],
       [
-        [
-          "Pavlodar"
-        ],
+        "Pavlodar",
         [
           "/wiki/Pavlodar"
         ]
       ],
       [
-        [
-          "Central Stadium"
-        ],
+        "Central Stadium",
         [
           "/wiki/Pavlodar_Central_Stadium"
         ]
       ],
       [
-        [
-          "15,000"
-        ],
-        [
-          null
-        ]
+        "15,000",
+        []
       ]
     ],
     [
       [
-        [
-          "Kairat"
-        ],
+        "Kairat",
         [
           "/wiki/FC_Kairat"
         ]
       ],
       [
-        [
-          "Vakhid Masudov"
-        ],
+        "Vakhid Masudov",
         [
           "/wiki/Vakhid_Masudov"
         ]
       ],
       [
-        [
-          "Almaty"
-        ],
+        "Almaty",
         [
           "/wiki/Almaty"
         ]
       ],
       [
-        [
-          "Central Stadium"
-        ],
+        "Central Stadium",
         [
           "/wiki/Central_Stadium_(Almaty)"
         ]
       ],
       [
-        [
-          "23,804"
-        ],
-        [
-          null
-        ]
+        "23,804",
+        []
       ]
     ],
     [
       [
-        [
-          "Kaisar"
-        ],
+        "Kaisar",
         [
           "/wiki/FC_Kaisar"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "Vladimir Nikitenko",
+        []
       ],
       [
-        [
-          "Kyzylorda"
-        ],
+        "Kyzylorda",
         [
           "/wiki/Kyzylorda"
         ]
       ],
       [
-        [
-          "Gani Muratbayev Stadium"
-        ],
+        "Gani Muratbayev Stadium",
         [
           "/wiki/Gani_Muratbayev_Stadium"
         ]
       ],
       [
-        [
-          "7,000"
-        ],
-        [
-          null
-        ]
+        "7,000",
+        []
       ]
     ],
     [
       [
-        [
-          "Megasport"
-        ],
+        "Megasport",
         [
           "/wiki/FC_Megasport"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "Vladimir Gulyamkhaidarov",
+        []
       ],
       [
-        [
-          "Almaty"
-        ],
+        "Almaty",
         [
           "/wiki/Almaty"
         ]
       ],
       [
-        [
-          "Central Stadium"
-        ],
+        "Central Stadium",
         [
           "/wiki/Central_Stadium_(Almaty)"
         ]
       ],
       [
-        [
-          "23,804"
-        ],
-        [
-          null
-        ]
+        "23,804",
+        []
       ]
     ],
     [
       [
-        [
-          "Okzhetpes"
-        ],
+        "Okzhetpes",
         [
           "/wiki/FC_Okzhetpes"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "Viktor Rymar",
+        []
       ],
       [
-        [
-          "Kokshetau"
-        ],
+        "Kokshetau",
         [
           "/wiki/Kokshetau"
         ]
       ],
       [
-        [
-          "Okzhetpes Stadium"
-        ],
+        "Okzhetpes Stadium",
         [
           "/wiki/Okzhetpes_Stadium"
         ]
       ],
       [
-        [
-          "4,158"
-        ],
-        [
-          null
-        ]
+        "4,158",
+        []
       ]
     ],
     [
       [
-        [
-          "Ordabasy"
-        ],
+        "Ordabasy",
         [
           "/wiki/FC_Ordabasy"
         ]
       ],
       [
-        [
-          "Jovica Nikoli\u0107"
-        ],
+        "Jovica Nikoli\u0107",
         [
           "/wiki/Jovica_Nikoli\u0107"
         ]
       ],
       [
-        [
-          "Shymkent"
-        ],
+        "Shymkent",
         [
           "/wiki/Shymkent"
         ]
       ],
       [
-        [
-          "Kazhimukan Munaitpasov Stadium"
-        ],
+        "Kazhimukan Munaitpasov Stadium",
         [
           "/wiki/Kazhymukan_Munaitpasov_Stadium_(Shymkent)"
         ]
       ],
       [
-        [
-          "20,000"
-        ],
-        [
-          null
-        ]
+        "20,000",
+        []
       ]
     ],
     [
       [
-        [
-          "Shakhter Karagandy"
-        ],
+        "Shakhter Karagandy",
         [
           "/wiki/FC_Shakhter_Karagandy"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "Ivan Azovskiy",
+        []
       ],
       [
-        [
-          "Karagandy"
-        ],
+        "Karagandy",
         [
           "/wiki/Karagandy"
         ]
       ],
       [
-        [
-          "Shakhter Stadium"
-        ],
+        "Shakhter Stadium",
         [
           "/wiki/Shakhter_Stadium_(Karagandy)"
         ]
       ],
       [
-        [
-          "20,000"
-        ],
-        [
-          null
-        ]
+        "20,000",
+        []
       ]
     ],
     [
       [
-        [
-          "Tobol"
-        ],
+        "Tobol",
         [
           "/wiki/FC_Tobol"
         ]
       ],
       [
-        [
-          "Dmitriy Ogai"
-        ],
+        "Dmitriy Ogai",
         [
           "/wiki/Dmitriy_Ogai"
         ]
       ],
       [
-        [
-          "Kostanay"
-        ],
+        "Kostanay",
         [
           "/wiki/Kostanay"
         ]
       ],
       [
-        [
-          "Central Stadium"
-        ],
+        "Central Stadium",
         [
           "/wiki/Kostanay_Central_Stadium"
         ]
       ],
       [
-        [
-          "8,323"
-        ],
-        [
-          null
-        ]
+        "8,323",
+        []
       ]
     ],
     [
       [
-        [
-          "Vostok"
-        ],
+        "Vostok",
         [
           "/wiki/FC_Vostok"
         ]
       ],
       [
-        [
-          "Oleksandr Holokolosov"
-        ],
+        "Oleksandr Holokolosov",
         [
           "/wiki/Oleksandr_Holokolosov_(football_manager)"
         ]
       ],
       [
-        [
-          "Oskemen"
-        ],
+        "Oskemen",
         [
           "/wiki/Oskemen"
         ]
       ],
       [
-        [
-          "Vostok Stadium"
-        ],
+        "Vostok Stadium",
         [
           "/wiki/Vostok_Stadium"
         ]
       ],
       [
-        [
-          "8,500"
-        ],
-        [
-          null
-        ]
+        "8,500",
+        []
       ]
     ],
     [
       [
-        [
-          "Zhetysu"
-        ],
+        "Zhetysu",
         [
           "/wiki/FC_Zhetysu"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "Ilie Karp",
+        []
       ],
       [
-        [
-          "Taldykorgan"
-        ],
+        "Taldykorgan",
         [
           "/wiki/Taldykorgan"
         ]
       ],
       [
-        [
-          "Zhetysu Stadium"
-        ],
+        "Zhetysu Stadium",
         [
           "/wiki/Zhetysu_Stadium"
         ]
       ],
       [
-        [
-          "4,000"
-        ],
-        [
-          null
-        ]
+        "4,000",
+        []
       ]
     ]
   ],

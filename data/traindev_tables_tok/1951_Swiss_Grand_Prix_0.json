@@ -3,1069 +3,637 @@
   "title": "1951 Swiss Grand Prix",
   "header": [
     [
-      [
-        "Pos"
-      ],
-      [
-        null
-      ]
+      "Pos",
+      []
     ],
     [
-      [
-        "No"
-      ],
-      [
-        null
-      ]
+      "No",
+      []
     ],
     [
-      [
-        "Driver"
-      ],
-      [
-        null
-      ]
+      "Driver",
+      []
     ],
     [
-      [
-        "Constructor"
-      ],
-      [
-        null
-      ]
+      "Constructor",
+      []
     ],
     [
-      [
-        "Time"
-      ],
-      [
-        null
-      ]
+      "Time",
+      []
     ],
     [
-      [
-        "Gap"
-      ],
-      [
-        null
-      ]
+      "Gap",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "24"
-        ],
-        [
-          null
-        ]
+        "24",
+        []
       ],
       [
-        [
-          "Juan Manuel Fangio"
-        ],
+        "Juan Manuel Fangio",
         [
           "/wiki/Juan_Manuel_Fangio"
         ]
       ],
       [
-        [
-          "Alfa Romeo"
-        ],
+        "Alfa Romeo",
         [
           "/wiki/Alfa_Romeo_in_Formula_One"
         ]
       ],
       [
-        [
-          "2:35.9"
-        ],
-        [
-          null
-        ]
+        "2:35.9",
+        []
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ]
     ],
     [
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "22"
-        ],
-        [
-          null
-        ]
+        "22",
+        []
       ],
       [
-        [
-          "Nino Farina"
-        ],
+        "Nino Farina",
         [
           "/wiki/Giuseppe_Farina"
         ]
       ],
       [
-        [
-          "Alfa Romeo"
-        ],
+        "Alfa Romeo",
         [
           "/wiki/Alfa_Romeo_in_Formula_One"
         ]
       ],
       [
-        [
-          "2:37.8"
-        ],
-        [
-          null
-        ]
+        "2:37.8",
+        []
       ],
       [
-        [
-          "+ 1.9"
-        ],
-        [
-          null
-        ]
+        "+ 1.9",
+        []
       ]
     ],
     [
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "18"
-        ],
-        [
-          null
-        ]
+        "18",
+        []
       ],
       [
-        [
-          "Luigi Villoresi"
-        ],
+        "Luigi Villoresi",
         [
           "/wiki/Luigi_Villoresi"
         ]
       ],
       [
-        [
-          "Ferrari"
-        ],
+        "Ferrari",
         [
           "/wiki/Scuderia_Ferrari"
         ]
       ],
       [
-        [
-          "2:39.3"
-        ],
-        [
-          null
-        ]
+        "2:39.3",
+        []
       ],
       [
-        [
-          "+ 3.4"
-        ],
-        [
-          null
-        ]
+        "+ 3.4",
+        []
       ]
     ],
     [
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "28"
-        ],
-        [
-          null
-        ]
+        "28",
+        []
       ],
       [
-        [
-          "Consalvo Sanesi"
-        ],
+        "Consalvo Sanesi",
         [
           "/wiki/Consalvo_Sanesi"
         ]
       ],
       [
-        [
-          "Alfa Romeo"
-        ],
+        "Alfa Romeo",
         [
           "/wiki/Alfa_Romeo_in_Formula_One"
         ]
       ],
       [
-        [
-          "2:40.3"
-        ],
-        [
-          null
-        ]
+        "2:40.3",
+        []
       ],
       [
-        [
-          "+ 4.4"
-        ],
-        [
-          null
-        ]
+        "+ 4.4",
+        []
       ]
     ],
     [
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "26"
-        ],
-        [
-          null
-        ]
+        "26",
+        []
       ],
       [
-        [
-          "Toulo de Graffenried"
-        ],
+        "Toulo de Graffenried",
         [
           "/wiki/Toulo_de_Graffenried"
         ]
       ],
       [
-        [
-          "Alfa Romeo"
-        ],
+        "Alfa Romeo",
         [
           "/wiki/Alfa_Romeo_in_Formula_One"
         ]
       ],
       [
-        [
-          "2:41.8"
-        ],
-        [
-          null
-        ]
+        "2:41.8",
+        []
       ],
       [
-        [
-          "+ 5.9"
-        ],
-        [
-          null
-        ]
+        "+ 5.9",
+        []
       ]
     ],
     [
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "44"
-        ],
-        [
-          null
-        ]
+        "44",
+        []
       ],
       [
-        [
-          "Piero Taruffi"
-        ],
+        "Piero Taruffi",
         [
           "/wiki/Piero_Taruffi"
         ]
       ],
       [
-        [
-          "Ferrari"
-        ],
+        "Ferrari",
         [
           "/wiki/Scuderia_Ferrari"
         ]
       ],
       [
-        [
-          "2:45.2"
-        ],
-        [
-          null
-        ]
+        "2:45.2",
+        []
       ],
       [
-        [
-          "+ 9.3"
-        ],
-        [
-          null
-        ]
+        "+ 9.3",
+        []
       ]
     ],
     [
       [
-        [
-          "7"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ],
       [
-        [
-          "20"
-        ],
-        [
-          null
-        ]
+        "20",
+        []
       ],
       [
-        [
-          "Alberto Ascari"
-        ],
+        "Alberto Ascari",
         [
           "/wiki/Alberto_Ascari"
         ]
       ],
       [
-        [
-          "Ferrari"
-        ],
+        "Ferrari",
         [
           "/wiki/Scuderia_Ferrari"
         ]
       ],
       [
-        [
-          "2:46.0"
-        ],
-        [
-          null
-        ]
+        "2:46.0",
+        []
       ],
       [
-        [
-          "+ 10.1"
-        ],
-        [
-          null
-        ]
+        "+ 10.1",
+        []
       ]
     ],
     [
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "Louis Rosier"
-        ],
+        "Louis Rosier",
         [
           "/wiki/Louis_Rosier"
         ]
       ],
       [
-        [
-          "Talbot-Lago",
-          "Talbot"
-        ],
+        "Talbot-Lago - Talbot",
         [
           "/wiki/Talbot-Lago",
           "/wiki/Talbot"
         ]
       ],
       [
-        [
-          "2:52.7"
-        ],
-        [
-          null
-        ]
+        "2:52.7",
+        []
       ],
       [
-        [
-          "+ 16.8"
-        ],
-        [
-          null
-        ]
+        "+ 16.8",
+        []
       ]
     ],
     [
       [
-        [
-          "9"
-        ],
-        [
-          null
-        ]
+        "9",
+        []
       ],
       [
-        [
-          "16"
-        ],
-        [
-          null
-        ]
+        "16",
+        []
       ],
       [
-        [
-          "Peter Whitehead"
-        ],
+        "Peter Whitehead",
         [
           "/wiki/Peter_Whitehead_(racing_driver)"
         ]
       ],
       [
-        [
-          "Ferrari"
-        ],
+        "Ferrari",
         [
           "/wiki/Scuderia_Ferrari"
         ]
       ],
       [
-        [
-          "2:52.9"
-        ],
-        [
-          null
-        ]
+        "2:52.9",
+        []
       ],
       [
-        [
-          "+ 17.0"
-        ],
-        [
-          null
-        ]
+        "+ 17.0",
+        []
       ]
     ],
     [
       [
-        [
-          "10"
-        ],
-        [
-          null
-        ]
+        "10",
+        []
       ],
       [
-        [
-          "38"
-        ],
-        [
-          null
-        ]
+        "38",
+        []
       ],
       [
-        [
-          "Rudi Fischer"
-        ],
+        "Rudi Fischer",
         [
           "/wiki/Rudi_Fischer"
         ]
       ],
       [
-        [
-          "Ferrari"
-        ],
+        "Ferrari",
         [
           "/wiki/Scuderia_Ferrari"
         ]
       ],
       [
-        [
-          "2:54.1"
-        ],
-        [
-          null
-        ]
+        "2:54.1",
+        []
       ],
       [
-        [
-          "+ 18.2"
-        ],
-        [
-          null
-        ]
+        "+ 18.2",
+        []
       ]
     ],
     [
       [
-        [
-          "11"
-        ],
-        [
-          null
-        ]
+        "11",
+        []
       ],
       [
-        [
-          "10"
-        ],
-        [
-          null
-        ]
+        "10",
+        []
       ],
       [
-        [
-          "Henri Louveau"
-        ],
+        "Henri Louveau",
         [
           "/wiki/Henri_Louveau"
         ]
       ],
       [
-        [
-          "Talbot-Lago",
-          "Talbot"
-        ],
+        "Talbot-Lago - Talbot",
         [
           "/wiki/Talbot-Lago",
           "/wiki/Talbot"
         ]
       ],
       [
-        [
-          "2:56.2"
-        ],
-        [
-          null
-        ]
+        "2:56.2",
+        []
       ],
       [
-        [
-          "+ 20.3"
-        ],
-        [
-          null
-        ]
+        "+ 20.3",
+        []
       ]
     ],
     [
       [
-        [
-          "12"
-        ],
-        [
-          null
-        ]
+        "12",
+        []
       ],
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "Philippe \u00c9tancelin"
-        ],
+        "Philippe \u00c9tancelin",
         [
           "/wiki/Philippe_\u00c9tancelin"
         ]
       ],
       [
-        [
-          "Talbot-Lago",
-          "Talbot"
-        ],
+        "Talbot-Lago - Talbot",
         [
           "/wiki/Talbot-Lago",
           "/wiki/Talbot"
         ]
       ],
       [
-        [
-          "2:57.3"
-        ],
-        [
-          null
-        ]
+        "2:57.3",
+        []
       ],
       [
-        [
-          "+ 21.4"
-        ],
-        [
-          null
-        ]
+        "+ 21.4",
+        []
       ]
     ],
     [
       [
-        [
-          "13"
-        ],
-        [
-          null
-        ]
+        "13",
+        []
       ],
       [
-        [
-          "42"
-        ],
-        [
-          null
-        ]
+        "42",
+        []
       ],
       [
-        [
-          "Jos\u00e9 Froil\u00e1n Gonz\u00e1lez"
-        ],
+        "Jos\u00e9 Froil\u00e1n Gonz\u00e1lez",
         [
           "/wiki/Jos\u00e9_Froil\u00e1n_Gonz\u00e1lez"
         ]
       ],
       [
-        [
-          "Talbot-Lago",
-          "Talbot"
-        ],
+        "Talbot-Lago - Talbot",
         [
           "/wiki/Talbot-Lago",
           "/wiki/Talbot"
         ]
       ],
       [
-        [
-          "2:57.3"
-        ],
-        [
-          null
-        ]
+        "2:57.3",
+        []
       ],
       [
-        [
-          "+ 21.4"
-        ],
-        [
-          null
-        ]
+        "+ 21.4",
+        []
       ]
     ],
     [
       [
-        [
-          "14"
-        ],
-        [
-          null
-        ]
+        "14",
+        []
       ],
       [
-        [
-          "14"
-        ],
-        [
-          null
-        ]
+        "14",
+        []
       ],
       [
-        [
-          "Stirling Moss"
-        ],
+        "Stirling Moss",
         [
           "/wiki/Stirling_Moss"
         ]
       ],
       [
-        [
-          "HWM",
-          "Alta"
-        ],
+        "HWM - Alta",
         [
           "/wiki/Hersham_and_Walton_Motors",
           "/wiki/Alta_Car_and_Engineering_Company"
         ]
       ],
       [
-        [
-          "2:58.4"
-        ],
-        [
-          null
-        ]
+        "2:58.4",
+        []
       ],
       [
-        [
-          "+ 22.5"
-        ],
-        [
-          null
-        ]
+        "+ 22.5",
+        []
       ]
     ],
     [
       [
-        [
-          "15"
-        ],
-        [
-          null
-        ]
+        "15",
+        []
       ],
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "Yves Giraud-Cabantous"
-        ],
+        "Yves Giraud-Cabantous",
         [
           "/wiki/Yves_Giraud-Cabantous"
         ]
       ],
       [
-        [
-          "Talbot-Lago",
-          "Talbot"
-        ],
+        "Talbot-Lago - Talbot",
         [
           "/wiki/Talbot-Lago",
           "/wiki/Talbot"
         ]
       ],
       [
-        [
-          "3:00.3"
-        ],
-        [
-          null
-        ]
+        "3:00.3",
+        []
       ],
       [
-        [
-          "+ 24.4"
-        ],
-        [
-          null
-        ]
+        "+ 24.4",
+        []
       ]
     ],
     [
       [
-        [
-          "16"
-        ],
-        [
-          null
-        ]
+        "16",
+        []
       ],
       [
-        [
-          "52"
-        ],
-        [
-          null
-        ]
+        "52",
+        []
       ],
       [
-        [
-          "Peter Hirt"
-        ],
+        "Peter Hirt",
         [
           "/wiki/Peter_Hirt"
         ]
       ],
       [
-        [
-          "Veritas"
-        ],
+        "Veritas",
         [
           "/wiki/Veritas_(automobile)"
         ]
       ],
       [
-        [
-          "3:01.6"
-        ],
-        [
-          null
-        ]
+        "3:01.6",
+        []
       ],
       [
-        [
-          "+ 25.7"
-        ],
-        [
-          null
-        ]
+        "+ 25.7",
+        []
       ]
     ],
     [
       [
-        [
-          "17"
-        ],
-        [
-          null
-        ]
+        "17",
+        []
       ],
       [
-        [
-          "32"
-        ],
-        [
-          null
-        ]
+        "32",
+        []
       ],
       [
-        [
-          "Harry Schell"
-        ],
+        "Harry Schell",
         [
           "/wiki/Harry_Schell"
         ]
       ],
       [
-        [
-          "Maserati"
-        ],
+        "Maserati",
         [
           "/wiki/Maserati_in_motorsport"
         ]
       ],
       [
-        [
-          "3:02.4"
-        ],
-        [
-          null
-        ]
+        "3:02.4",
+        []
       ],
       [
-        [
-          "+ 26.5"
-        ],
-        [
-          null
-        ]
+        "+ 26.5",
+        []
       ]
     ],
     [
       [
-        [
-          "18"
-        ],
-        [
-          null
-        ]
+        "18",
+        []
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "Johnny Claes"
-        ],
+        "Johnny Claes",
         [
           "/wiki/Johnny_Claes"
         ]
       ],
       [
-        [
-          "Talbot-Lago",
-          "Talbot"
-        ],
+        "Talbot-Lago - Talbot",
         [
           "/wiki/Talbot-Lago",
           "/wiki/Talbot"
         ]
       ],
       [
-        [
-          "3:02.5"
-        ],
-        [
-          null
-        ]
+        "3:02.5",
+        []
       ],
       [
-        [
-          "+ 26.6"
-        ],
-        [
-          null
-        ]
+        "+ 26.6",
+        []
       ]
     ],
     [
       [
-        [
-          "19"
-        ],
-        [
-          null
-        ]
+        "19",
+        []
       ],
       [
-        [
-          "30"
-        ],
-        [
-          null
-        ]
+        "30",
+        []
       ],
       [
-        [
-          "Louis Chiron"
-        ],
+        "Louis Chiron",
         [
           "/wiki/Louis_Chiron"
         ]
       ],
       [
-        [
-          "Maserati"
-        ],
+        "Maserati",
         [
           "/wiki/Maserati_in_motorsport"
         ]
       ],
       [
-        [
-          "3:03.8"
-        ],
-        [
-          null
-        ]
+        "3:03.8",
+        []
       ],
       [
-        [
-          "+ 27.9"
-        ],
-        [
-          null
-        ]
+        "+ 27.9",
+        []
       ]
     ],
     [
       [
-        [
-          "20"
-        ],
-        [
-          null
-        ]
+        "20",
+        []
       ],
       [
-        [
-          "12"
-        ],
-        [
-          null
-        ]
+        "12",
+        []
       ],
       [
-        [
-          "George Abecassis"
-        ],
+        "George Abecassis",
         [
           "/wiki/George_Abecassis"
         ]
       ],
       [
-        [
-          "HWM",
-          "Alta"
-        ],
+        "HWM - Alta",
         [
           "/wiki/Hersham_and_Walton_Motors",
           "/wiki/Alta_Car_and_Engineering_Company"
         ]
       ],
       [
-        [
-          "3:05.1"
-        ],
-        [
-          null
-        ]
+        "3:05.1",
+        []
       ],
       [
-        [
-          "+ 29.2"
-        ],
-        [
-          null
-        ]
+        "+ 29.2",
+        []
       ]
     ]
   ],

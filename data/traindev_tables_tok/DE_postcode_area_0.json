@@ -3,68 +3,42 @@
   "title": "DE postcode area",
   "header": [
     [
-      [
-        "Postcode district"
-      ],
-      [
-        null
-      ]
+      "Postcode district",
+      []
     ],
     [
-      [
-        "Post town"
-      ],
+      "Post town",
       [
         "/wiki/Post_town"
       ]
     ],
     [
-      [
-        "Coverage"
-      ],
-      [
-        null
-      ]
+      "Coverage",
+      []
     ],
     [
-      [
-        "Local authority area"
-      ],
-      [
-        null
-      ]
+      "Local authority area",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "DE1"
-        ],
-        [
-          null
-        ]
+        "DE1",
+        []
       ],
       [
-        [
-          "DERBY"
-        ],
-        [
-          null
-        ]
+        "DERBY",
+        []
       ],
       [
-        [
-          "Derby"
-        ],
+        "Derby city centre",
         [
           "/wiki/Derby"
         ]
       ],
       [
-        [
-          "Derby"
-        ],
+        "Derby",
         [
           "/wiki/Derby"
         ]
@@ -72,35 +46,22 @@
     ],
     [
       [
-        [
-          "DE3"
-        ],
-        [
-          null
-        ]
+        "DE3",
+        []
       ],
       [
-        [
-          "DERBY"
-        ],
-        [
-          null
-        ]
+        "DERBY",
+        []
       ],
       [
-        [
-          "Derby",
-          "Mickleover"
-        ],
+        "Derby ( Mickleover )",
         [
           "/wiki/Derby",
           "/wiki/Mickleover"
         ]
       ],
       [
-        [
-          "South Derbyshire"
-        ],
+        "Derby , South Derbyshire",
         [
           "/wiki/South_Derbyshire"
         ]
@@ -108,41 +69,15 @@
     ],
     [
       [
-        [
-          "DE4"
-        ],
-        [
-          null
-        ]
+        "DE4",
+        []
       ],
       [
-        [
-          "MATLOCK"
-        ],
-        [
-          null
-        ]
+        "MATLOCK",
+        []
       ],
       [
-        [
-          "Darley Dale",
-          "Beeley",
-          "Rowsley",
-          "Winster",
-          "Darley Bridge",
-          "Elton",
-          "Bonsall",
-          "Matlock",
-          "Matlock Bath",
-          "Cromford",
-          "Middleton-by-Wirksworth",
-          "Wirksworth",
-          "Bolehill",
-          "Crich",
-          "Holloway",
-          "Lea",
-          "Tansley"
-        ],
+        "Sector 2 : Darley Dale , Beeley , Rowsley , Winster , Darley Bridge , Elton , Bonsall Sector 3 : Matlock , Matlock Bath , Cromford Sector 4 : Middleton-by-Wirksworth , Wirksworth , Bolehill Sector 5 : Crich , Holloway , Lea , Tansley",
         [
           "/wiki/Darley_Dale",
           "/wiki/Beeley",
@@ -164,10 +99,7 @@
         ]
       ],
       [
-        [
-          "Derbyshire Dales",
-          "Amber Valley"
-        ],
+        "Derbyshire Dales , Amber Valley",
         [
           "/wiki/Derbyshire_Dales",
           "/wiki/Amber_Valley"
@@ -176,30 +108,15 @@
     ],
     [
       [
-        [
-          "DE5"
-        ],
-        [
-          null
-        ]
+        "DE5",
+        []
       ],
       [
-        [
-          "RIPLEY"
-        ],
-        [
-          null
-        ]
+        "RIPLEY",
+        []
       ],
       [
-        [
-          "Ripley",
-          "Codnor",
-          "Denby",
-          "Waingroves",
-          "Butterley",
-          "Pentrich"
-        ],
+        "Ripley , Codnor , Denby , Waingroves , Butterley , Pentrich",
         [
           "/wiki/Ripley,_Derbyshire",
           "/wiki/Codnor",
@@ -210,37 +127,21 @@
         ]
       ],
       [
-        [
-          "Amber Valley"
-        ],
-        [
-          null
-        ]
+        "Amber Valley",
+        []
       ]
     ],
     [
       [
-        [
-          "DE6"
-        ],
-        [
-          null
-        ]
+        "DE6",
+        []
       ],
       [
-        [
-          "ASHBOURNE"
-        ],
-        [
-          null
-        ]
+        "ASHBOURNE",
+        []
       ],
       [
-        [
-          "Ashbourne",
-          "Hulland Ward",
-          "Weston Underwood"
-        ],
+        "Ashbourne , Hulland Ward , Weston Underwood",
         [
           "/wiki/Ashbourne,_Derbyshire",
           "/wiki/Hulland_Ward",
@@ -248,9 +149,7 @@
         ]
       ],
       [
-        [
-          "East Staffordshire"
-        ],
+        "Derbyshire Dales , Amber Valley , South Derbyshire , Derby , East Staffordshire",
         [
           "/wiki/East_Staffordshire"
         ]
@@ -258,28 +157,15 @@
     ],
     [
       [
-        [
-          "DE7"
-        ],
-        [
-          null
-        ]
+        "DE7",
+        []
       ],
       [
-        [
-          "ILKESTON"
-        ],
-        [
-          null
-        ]
+        "ILKESTON",
+        []
       ],
       [
-        [
-          "Horsley Woodhouse",
-          "Ilkeston",
-          "Morley",
-          "West Hallam"
-        ],
+        "Horsley Woodhouse , Ilkeston , Morley , West Hallam",
         [
           "/wiki/Horsley_Woodhouse",
           "/wiki/Ilkeston",
@@ -288,10 +174,7 @@
         ]
       ],
       [
-        [
-          "Erewash",
-          "Broxtowe"
-        ],
+        "Erewash , Amber Valley , Broxtowe",
         [
           "/wiki/Borough_of_Erewash",
           "/wiki/Borough_of_Broxtowe"
@@ -300,32 +183,15 @@
     ],
     [
       [
-        [
-          "DE11"
-        ],
-        [
-          null
-        ]
+        "DE11",
+        []
       ],
       [
-        [
-          "SWADLINCOTE"
-        ],
-        [
-          null
-        ]
+        "SWADLINCOTE",
+        []
       ],
       [
-        [
-          "Swadlincote",
-          "Church Gresley",
-          "Woodville",
-          "Newhall",
-          "Hartshorne",
-          "Castle Gresley",
-          "Blackfordby",
-          "Albert Village"
-        ],
+        "Swadlincote , Church Gresley , Woodville , Newhall , Hartshorne , Castle Gresley , Blackfordby , Albert Village",
         [
           "/wiki/Swadlincote",
           "/wiki/Church_Gresley",
@@ -338,9 +204,7 @@
         ]
       ],
       [
-        [
-          "North West Leicestershire"
-        ],
+        "South Derbyshire , North West Leicestershire",
         [
           "/wiki/North_West_Leicestershire"
         ]
@@ -348,31 +212,15 @@
     ],
     [
       [
-        [
-          "DE12"
-        ],
-        [
-          null
-        ]
+        "DE12",
+        []
       ],
       [
-        [
-          "SWADLINCOTE"
-        ],
-        [
-          null
-        ]
+        "SWADLINCOTE",
+        []
       ],
       [
-        [
-          "Appleby Magna",
-          "Donisthorpe",
-          "Linton",
-          "Measham",
-          "Overseal",
-          "Rosliston",
-          "Walton-on-Trent"
-        ],
+        "Appleby Magna , Donisthorpe , Linton , Measham , Overseal , Rosliston , Walton-on-Trent",
         [
           "/wiki/Appleby_Magna",
           "/wiki/Donisthorpe",
@@ -384,38 +232,21 @@
         ]
       ],
       [
-        [
-          "North West Leicestershire , South Derbyshire"
-        ],
-        [
-          null
-        ]
+        "North West Leicestershire , South Derbyshire",
+        []
       ]
     ],
     [
       [
-        [
-          "DE13"
-        ],
-        [
-          null
-        ]
+        "DE13",
+        []
       ],
       [
-        [
-          "BURTON-ON-TRENT"
-        ],
-        [
-          null
-        ]
+        "BURTON-ON-TRENT",
+        []
       ],
       [
-        [
-          "Alrewas",
-          "Barton-under-Needwood",
-          "Rolleston on Dove",
-          "Tutbury"
-        ],
+        "Alrewas , Barton-under-Needwood , Rolleston on Dove , Tutbury",
         [
           "/wiki/Alrewas",
           "/wiki/Barton-under-Needwood",
@@ -424,9 +255,7 @@
         ]
       ],
       [
-        [
-          "Lichfield"
-        ],
+        "East Staffordshire , Lichfield",
         [
           "/wiki/Lichfield_District"
         ]
@@ -434,28 +263,15 @@
     ],
     [
       [
-        [
-          "DE14"
-        ],
-        [
-          null
-        ]
+        "DE14",
+        []
       ],
       [
-        [
-          "BURTON-ON-TRENT"
-        ],
-        [
-          null
-        ]
+        "BURTON-ON-TRENT",
+        []
       ],
       [
-        [
-          "Branston",
-          "Burton upon Trent",
-          "Newton Solney",
-          "Winshill"
-        ],
+        "Branston , Burton upon Trent , Newton Solney , Winshill",
         [
           "/wiki/Branston,_Staffordshire",
           "/wiki/Burton_upon_Trent",
@@ -464,77 +280,42 @@
         ]
       ],
       [
-        [
-          "East Staffordshire , South Derbyshire"
-        ],
-        [
-          null
-        ]
+        "East Staffordshire , South Derbyshire",
+        []
       ]
     ],
     [
       [
-        [
-          "DE15"
-        ],
-        [
-          null
-        ]
+        "DE15",
+        []
       ],
       [
-        [
-          "BURTON-ON-TRENT"
-        ],
-        [
-          null
-        ]
+        "BURTON-ON-TRENT",
+        []
       ],
       [
-        [
-          "Bretby",
-          "Stapenhill"
-        ],
+        "Bretby , Stapenhill",
         [
           "/wiki/Bretby",
           "/wiki/Stapenhill"
         ]
       ],
       [
-        [
-          "East Staffordshire , South Derbyshire"
-        ],
-        [
-          null
-        ]
+        "East Staffordshire , South Derbyshire",
+        []
       ]
     ],
     [
       [
-        [
-          "DE21"
-        ],
-        [
-          null
-        ]
+        "DE21",
+        []
       ],
       [
-        [
-          "DERBY"
-        ],
-        [
-          null
-        ]
+        "DERBY",
+        []
       ],
       [
-        [
-          "Derby",
-          "Chaddesden",
-          "Oakwood",
-          "Spondon",
-          "Breadsall",
-          "Horsley",
-          "Little Eaton"
-        ],
+        "Derby ( Chaddesden , Oakwood , Spondon ) ; Breadsall , Horsley , Little Eaton",
         [
           "/wiki/Derby",
           "/wiki/Chaddesden",
@@ -546,41 +327,21 @@
         ]
       ],
       [
-        [
-          "Derby , Erewash , Amber Valley"
-        ],
-        [
-          null
-        ]
+        "Derby , Erewash , Amber Valley",
+        []
       ]
     ],
     [
       [
-        [
-          "DE22"
-        ],
-        [
-          null
-        ]
+        "DE22",
+        []
       ],
       [
-        [
-          "DERBY"
-        ],
-        [
-          null
-        ]
+        "DERBY",
+        []
       ],
       [
-        [
-          "Derby",
-          "Allestree",
-          "Darley Abbey",
-          "Mackworth ( estate )",
-          "Kedleston",
-          "Mackworth ( village )",
-          "Quarndon"
-        ],
+        "Derby ( Allestree , Darley Abbey , Mackworth ( estate ) ) ; Kedleston , Mackworth ( village ) , Quarndon",
         [
           "/wiki/Derby",
           "/wiki/Allestree",
@@ -592,40 +353,21 @@
         ]
       ],
       [
-        [
-          "Derby , Amber Valley"
-        ],
-        [
-          null
-        ]
+        "Derby , Amber Valley",
+        []
       ]
     ],
     [
       [
-        [
-          "DE23"
-        ],
-        [
-          null
-        ]
+        "DE23",
+        []
       ],
       [
-        [
-          "DERBY"
-        ],
-        [
-          null
-        ]
+        "DERBY",
+        []
       ],
       [
-        [
-          "Derby",
-          "Heatherton Village",
-          "Littleover",
-          "Normanton",
-          "Pear Tree",
-          "Sunny Hill"
-        ],
+        "Derby ( Heatherton Village , Littleover , Normanton , Pear Tree , Sunny Hill )",
         [
           "/wiki/Derby",
           "/wiki/Heatherton_Village",
@@ -636,43 +378,21 @@
         ]
       ],
       [
-        [
-          "Derby , South Derbyshire"
-        ],
-        [
-          null
-        ]
+        "Derby , South Derbyshire",
+        []
       ]
     ],
     [
       [
-        [
-          "DE24"
-        ],
-        [
-          null
-        ]
+        "DE24",
+        []
       ],
       [
-        [
-          "DERBY"
-        ],
-        [
-          null
-        ]
+        "DERBY",
+        []
       ],
       [
-        [
-          "Derby",
-          "Allenton",
-          "Alvaston",
-          "Boulton",
-          "Osmaston",
-          "Shelton Lock",
-          "Sinfin",
-          "Wilmorton",
-          "Stenson Fields"
-        ],
+        "Derby ( Allenton , Alvaston , Boulton , Osmaston , Shelton Lock , Sinfin , Wilmorton ) ; Stenson Fields",
         [
           "/wiki/Derby",
           "/wiki/Allenton,_Derbyshire",
@@ -686,42 +406,21 @@
         ]
       ],
       [
-        [
-          "Derby , South Derbyshire"
-        ],
-        [
-          null
-        ]
+        "Derby , South Derbyshire",
+        []
       ]
     ],
     [
       [
-        [
-          "DE45"
-        ],
-        [
-          null
-        ]
+        "DE45",
+        []
       ],
       [
-        [
-          "BAKEWELL"
-        ],
-        [
-          null
-        ]
+        "BAKEWELL",
+        []
       ],
       [
-        [
-          "Ashford-in-the-Water",
-          "Bakewell",
-          "Baslow",
-          "Chatsworth",
-          "Edensor",
-          "Hassop",
-          "Monyash",
-          "Youlgreave"
-        ],
+        "Ashford-in-the-Water , Bakewell , Baslow , Chatsworth , Edensor , Hassop , Monyash , Youlgreave",
         [
           "/wiki/Ashford-in-the-Water",
           "/wiki/Bakewell",
@@ -734,52 +433,21 @@
         ]
       ],
       [
-        [
-          "Derbyshire Dales"
-        ],
-        [
-          null
-        ]
+        "Derbyshire Dales",
+        []
       ]
     ],
     [
       [
-        [
-          "DE55"
-        ],
-        [
-          null
-        ]
+        "DE55",
+        []
       ],
       [
-        [
-          "ALFRETON"
-        ],
-        [
-          null
-        ]
+        "ALFRETON",
+        []
       ],
       [
-        [
-          "Swanwick",
-          "Alfreton",
-          "South Normanton",
-          "Riddings",
-          "Greenhill Lane",
-          "Leabrooks",
-          "Somercotes",
-          "Tibshelf",
-          "Newton",
-          "Blackwell",
-          "Hilcote",
-          "Wessington",
-          "Higham",
-          "Stonebroom",
-          "Morton",
-          "Shirland",
-          "Alfreton",
-          "South Wingfield"
-        ],
+        "Sector 1 : Swanwick Sectors 2 and 3 : Alfreton , South Normanton Sector 4 : Riddings , Greenhill Lane , Leabrooks , Somercotes Sector 5 : Tibshelf , Newton , Blackwell , Hilcote Sector 6 : Wessington , Higham , Stonebroom , Morton , Shirland Sector 7 : Alfreton , South Wingfield",
         [
           "/wiki/Swanwick,_Derbyshire",
           "/wiki/Alfreton",
@@ -802,9 +470,7 @@
         ]
       ],
       [
-        [
-          "Bolsover"
-        ],
+        "Amber Valley , Bolsover",
         [
           "/wiki/Bolsover_District"
         ]
@@ -812,31 +478,15 @@
     ],
     [
       [
-        [
-          "DE56"
-        ],
-        [
-          null
-        ]
+        "DE56",
+        []
       ],
       [
-        [
-          "BELPER"
-        ],
-        [
-          null
-        ]
+        "BELPER",
+        []
       ],
       [
-        [
-          "Ambergate",
-          "Belper",
-          "Duffield",
-          "Heage",
-          "Holbrook",
-          "Kilburn",
-          "Milford"
-        ],
+        "Ambergate , Belper , Duffield , Heage , Holbrook , Kilburn , Milford",
         [
           "/wiki/Ambergate",
           "/wiki/Belper",
@@ -848,43 +498,21 @@
         ]
       ],
       [
-        [
-          "Amber Valley"
-        ],
-        [
-          null
-        ]
+        "Amber Valley",
+        []
       ]
     ],
     [
       [
-        [
-          "DE65"
-        ],
-        [
-          null
-        ]
+        "DE65",
+        []
       ],
       [
-        [
-          "DERBY"
-        ],
-        [
-          null
-        ]
+        "DERBY",
+        []
       ],
       [
-        [
-          "Burnaston",
-          "Egginton",
-          "Etwall",
-          "Findern",
-          "Hatton",
-          "Hilton",
-          "Milton",
-          "Repton",
-          "Willington"
-        ],
+        "Burnaston , Egginton , Etwall , Findern , Hatton , Hilton , Milton , Repton , Willington",
         [
           "/wiki/Burnaston",
           "/wiki/Egginton",
@@ -898,45 +526,21 @@
         ]
       ],
       [
-        [
-          "South Derbyshire"
-        ],
-        [
-          null
-        ]
+        "South Derbyshire",
+        []
       ]
     ],
     [
       [
-        [
-          "DE72"
-        ],
-        [
-          null
-        ]
+        "DE72",
+        []
       ],
       [
-        [
-          "DERBY"
-        ],
-        [
-          null
-        ]
+        "DERBY",
+        []
       ],
       [
-        [
-          "Ambaston",
-          "Aston-on-Trent",
-          "Borrowash",
-          "Breaston",
-          "Church Wilne",
-          "Draycott",
-          "Elvaston",
-          "Ockbrook",
-          "Risley",
-          "Shardlow",
-          "Weston-on-Trent"
-        ],
+        "Ambaston , Aston-on-Trent , Borrowash , Breaston , Church Wilne , Draycott , Elvaston , Ockbrook , Risley , Shardlow , Weston-on-Trent",
         [
           "/wiki/Ambaston",
           "/wiki/Aston-on-Trent",
@@ -952,12 +556,8 @@
         ]
       ],
       [
-        [
-          "Erewash , South Derbyshire , North West Leicestershire"
-        ],
-        [
-          null
-        ]
+        "Erewash , South Derbyshire , North West Leicestershire",
+        []
       ]
     ]
   ],

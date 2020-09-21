@@ -3,84 +3,50 @@
   "title": "ISO 3166-2:FR",
   "header": [
     [
-      [
-        "Code"
-      ],
-      [
-        null
-      ]
+      "Code",
+      []
     ],
     [
-      [
-        "Subdivision name"
-      ],
-      [
-        null
-      ]
+      "Subdivision name",
+      []
     ],
     [
-      [
-        "Subdivision category"
-      ],
-      [
-        null
-      ]
+      "Subdivision category",
+      []
     ],
     [
-      [
-        "In region ( since 2016 )"
-      ],
-      [
-        null
-      ]
+      "In region ( since 2016 )",
+      []
     ],
     [
-      [
-        "In metropolitan region ( before 2016 )"
-      ],
-      [
-        null
-      ]
+      "In metropolitan region ( before 2016 )",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "FR-01"
-        ],
-        [
-          null
-        ]
+        "FR-01",
+        []
       ],
       [
-        [
-          "Ain"
-        ],
+        "Ain",
         [
           "/wiki/Ain"
         ]
       ],
       [
-        [
-          "metropolitan department"
-        ],
-        [
-          null
-        ]
+        "metropolitan department",
+        []
       ],
       [
-        [
-          "ARA"
-        ],
+        "ARA",
         [
           "/wiki/Auvergne-Rh\u00f4ne-Alpes"
         ]
       ],
       [
-        [
-          "V"
-        ],
+        "V",
         [
           "/wiki/Rh\u00f4ne-Alpes"
         ]
@@ -88,41 +54,27 @@
     ],
     [
       [
-        [
-          "FR-02"
-        ],
-        [
-          null
-        ]
+        "FR-02",
+        []
       ],
       [
-        [
-          "Aisne"
-        ],
+        "Aisne",
         [
           "/wiki/Aisne"
         ]
       ],
       [
-        [
-          "metropolitan department"
-        ],
-        [
-          null
-        ]
+        "metropolitan department",
+        []
       ],
       [
-        [
-          "HDF"
-        ],
+        "HDF",
         [
           "/wiki/Hauts-de-France"
         ]
       ],
       [
-        [
-          "S"
-        ],
+        "S",
         [
           "/wiki/Picardy_(region)"
         ]
@@ -130,41 +82,27 @@
     ],
     [
       [
-        [
-          "FR-03"
-        ],
-        [
-          null
-        ]
+        "FR-03",
+        []
       ],
       [
-        [
-          "Allier"
-        ],
+        "Allier",
         [
           "/wiki/Allier"
         ]
       ],
       [
-        [
-          "metropolitan department"
-        ],
-        [
-          null
-        ]
+        "metropolitan department",
+        []
       ],
       [
-        [
-          "ARA"
-        ],
+        "ARA",
         [
           "/wiki/Auvergne-Rh\u00f4ne-Alpes"
         ]
       ],
       [
-        [
-          "C"
-        ],
+        "C",
         [
           "/wiki/Auvergne_(region)"
         ]
@@ -172,41 +110,27 @@
     ],
     [
       [
-        [
-          "FR-04"
-        ],
-        [
-          null
-        ]
+        "FR-04",
+        []
       ],
       [
-        [
-          "Alpes-de-Haute-Provence"
-        ],
+        "Alpes-de-Haute-Provence",
         [
           "/wiki/Alpes-de-Haute-Provence"
         ]
       ],
       [
-        [
-          "metropolitan department"
-        ],
-        [
-          null
-        ]
+        "metropolitan department",
+        []
       ],
       [
-        [
-          "PAC"
-        ],
+        "PAC",
         [
           "/wiki/Provence-Alpes-C\u00f4te_d'Azur"
         ]
       ],
       [
-        [
-          "U"
-        ],
+        "U",
         [
           "/wiki/Provence-Alpes-C\u00f4te_d'Azur"
         ]
@@ -214,41 +138,27 @@
     ],
     [
       [
-        [
-          "FR-06"
-        ],
-        [
-          null
-        ]
+        "FR-06",
+        []
       ],
       [
-        [
-          "Alpes-Maritimes"
-        ],
+        "Alpes-Maritimes",
         [
           "/wiki/Alpes-Maritimes"
         ]
       ],
       [
-        [
-          "metropolitan department"
-        ],
-        [
-          null
-        ]
+        "metropolitan department",
+        []
       ],
       [
-        [
-          "PAC"
-        ],
+        "PAC",
         [
           "/wiki/Provence-Alpes-C\u00f4te_d'Azur"
         ]
       ],
       [
-        [
-          "U"
-        ],
+        "U",
         [
           "/wiki/Provence-Alpes-C\u00f4te_d'Azur"
         ]
@@ -256,41 +166,27 @@
     ],
     [
       [
-        [
-          "FR-07"
-        ],
-        [
-          null
-        ]
+        "FR-07",
+        []
       ],
       [
-        [
-          "Ard\u00e8che"
-        ],
+        "Ard\u00e8che",
         [
           "/wiki/Ard\u00e8che"
         ]
       ],
       [
-        [
-          "metropolitan department"
-        ],
-        [
-          null
-        ]
+        "metropolitan department",
+        []
       ],
       [
-        [
-          "ARA"
-        ],
+        "ARA",
         [
           "/wiki/Auvergne-Rh\u00f4ne-Alpes"
         ]
       ],
       [
-        [
-          "V"
-        ],
+        "V",
         [
           "/wiki/Rh\u00f4ne-Alpes"
         ]
@@ -298,41 +194,27 @@
     ],
     [
       [
-        [
-          "FR-08"
-        ],
-        [
-          null
-        ]
+        "FR-08",
+        []
       ],
       [
-        [
-          "Ardennes"
-        ],
+        "Ardennes",
         [
           "/wiki/Ardennes_(department)"
         ]
       ],
       [
-        [
-          "metropolitan department"
-        ],
-        [
-          null
-        ]
+        "metropolitan department",
+        []
       ],
       [
-        [
-          "GES"
-        ],
+        "GES",
         [
           "/wiki/Grand_Est"
         ]
       ],
       [
-        [
-          "G"
-        ],
+        "G",
         [
           "/wiki/Champagne-Ardenne"
         ]
@@ -340,41 +222,27 @@
     ],
     [
       [
-        [
-          "FR-09"
-        ],
-        [
-          null
-        ]
+        "FR-09",
+        []
       ],
       [
-        [
-          "Ari\u00e8ge"
-        ],
+        "Ari\u00e8ge",
         [
           "/wiki/Ari\u00e8ge_(department)"
         ]
       ],
       [
-        [
-          "metropolitan department"
-        ],
-        [
-          null
-        ]
+        "metropolitan department",
+        []
       ],
       [
-        [
-          "OCC"
-        ],
+        "OCC",
         [
           "/wiki/Occitanie"
         ]
       ],
       [
-        [
-          "N"
-        ],
+        "N",
         [
           "/wiki/Midi-Pyr\u00e9n\u00e9es"
         ]
@@ -382,41 +250,27 @@
     ],
     [
       [
-        [
-          "FR-10"
-        ],
-        [
-          null
-        ]
+        "FR-10",
+        []
       ],
       [
-        [
-          "Aube"
-        ],
+        "Aube",
         [
           "/wiki/Aube"
         ]
       ],
       [
-        [
-          "metropolitan department"
-        ],
-        [
-          null
-        ]
+        "metropolitan department",
+        []
       ],
       [
-        [
-          "GES"
-        ],
+        "GES",
         [
           "/wiki/Grand_Est"
         ]
       ],
       [
-        [
-          "G"
-        ],
+        "G",
         [
           "/wiki/Champagne-Ardenne"
         ]
@@ -424,41 +278,27 @@
     ],
     [
       [
-        [
-          "FR-11"
-        ],
-        [
-          null
-        ]
+        "FR-11",
+        []
       ],
       [
-        [
-          "Aude"
-        ],
+        "Aude",
         [
           "/wiki/Aude"
         ]
       ],
       [
-        [
-          "metropolitan department"
-        ],
-        [
-          null
-        ]
+        "metropolitan department",
+        []
       ],
       [
-        [
-          "OCC"
-        ],
+        "OCC",
         [
           "/wiki/Occitanie"
         ]
       ],
       [
-        [
-          "K"
-        ],
+        "K",
         [
           "/wiki/Languedoc-Roussillon"
         ]
@@ -466,41 +306,27 @@
     ],
     [
       [
-        [
-          "FR-12"
-        ],
-        [
-          null
-        ]
+        "FR-12",
+        []
       ],
       [
-        [
-          "Aveyron"
-        ],
+        "Aveyron",
         [
           "/wiki/Aveyron"
         ]
       ],
       [
-        [
-          "metropolitan department"
-        ],
-        [
-          null
-        ]
+        "metropolitan department",
+        []
       ],
       [
-        [
-          "OCC"
-        ],
+        "OCC",
         [
           "/wiki/Occitanie"
         ]
       ],
       [
-        [
-          "N"
-        ],
+        "N",
         [
           "/wiki/Midi-Pyr\u00e9n\u00e9es"
         ]
@@ -508,41 +334,27 @@
     ],
     [
       [
-        [
-          "FR-67"
-        ],
-        [
-          null
-        ]
+        "FR-67",
+        []
       ],
       [
-        [
-          "Bas-Rhin"
-        ],
+        "Bas-Rhin",
         [
           "/wiki/Bas-Rhin"
         ]
       ],
       [
-        [
-          "metropolitan department"
-        ],
-        [
-          null
-        ]
+        "metropolitan department",
+        []
       ],
       [
-        [
-          "GES"
-        ],
+        "GES",
         [
           "/wiki/Grand_Est"
         ]
       ],
       [
-        [
-          "A"
-        ],
+        "A",
         [
           "/wiki/Alsace"
         ]
@@ -550,41 +362,27 @@
     ],
     [
       [
-        [
-          "FR-13"
-        ],
-        [
-          null
-        ]
+        "FR-13",
+        []
       ],
       [
-        [
-          "Bouches-du-Rh\u00f4ne"
-        ],
+        "Bouches-du-Rh\u00f4ne",
         [
           "/wiki/Bouches-du-Rh\u00f4ne"
         ]
       ],
       [
-        [
-          "metropolitan department"
-        ],
-        [
-          null
-        ]
+        "metropolitan department",
+        []
       ],
       [
-        [
-          "PAC"
-        ],
+        "PAC",
         [
           "/wiki/Provence-Alpes-C\u00f4te_d'Azur"
         ]
       ],
       [
-        [
-          "U"
-        ],
+        "U",
         [
           "/wiki/Provence-Alpes-C\u00f4te_d'Azur"
         ]
@@ -592,41 +390,27 @@
     ],
     [
       [
-        [
-          "FR-14"
-        ],
-        [
-          null
-        ]
+        "FR-14",
+        []
       ],
       [
-        [
-          "Calvados"
-        ],
+        "Calvados",
         [
           "/wiki/Calvados_(department)"
         ]
       ],
       [
-        [
-          "metropolitan department"
-        ],
-        [
-          null
-        ]
+        "metropolitan department",
+        []
       ],
       [
-        [
-          "NOR"
-        ],
+        "NOR",
         [
           "/wiki/Normandy"
         ]
       ],
       [
-        [
-          "P"
-        ],
+        "P",
         [
           "/wiki/Lower_Normandy"
         ]
@@ -634,41 +418,27 @@
     ],
     [
       [
-        [
-          "FR-15"
-        ],
-        [
-          null
-        ]
+        "FR-15",
+        []
       ],
       [
-        [
-          "Cantal"
-        ],
+        "Cantal",
         [
           "/wiki/Cantal"
         ]
       ],
       [
-        [
-          "metropolitan department"
-        ],
-        [
-          null
-        ]
+        "metropolitan department",
+        []
       ],
       [
-        [
-          "ARA"
-        ],
+        "ARA",
         [
           "/wiki/Auvergne-Rh\u00f4ne-Alpes"
         ]
       ],
       [
-        [
-          "C"
-        ],
+        "C",
         [
           "/wiki/Auvergne_(region)"
         ]
@@ -676,41 +446,27 @@
     ],
     [
       [
-        [
-          "FR-16"
-        ],
-        [
-          null
-        ]
+        "FR-16",
+        []
       ],
       [
-        [
-          "Charente"
-        ],
+        "Charente",
         [
           "/wiki/Charente"
         ]
       ],
       [
-        [
-          "metropolitan department"
-        ],
-        [
-          null
-        ]
+        "metropolitan department",
+        []
       ],
       [
-        [
-          "NAQ"
-        ],
+        "NAQ",
         [
           "/wiki/Nouvelle-Aquitaine"
         ]
       ],
       [
-        [
-          "T"
-        ],
+        "T",
         [
           "/wiki/Poitou-Charentes"
         ]
@@ -718,41 +474,27 @@
     ],
     [
       [
-        [
-          "FR-17"
-        ],
-        [
-          null
-        ]
+        "FR-17",
+        []
       ],
       [
-        [
-          "Charente-Maritime"
-        ],
+        "Charente-Maritime",
         [
           "/wiki/Charente-Maritime"
         ]
       ],
       [
-        [
-          "metropolitan department"
-        ],
-        [
-          null
-        ]
+        "metropolitan department",
+        []
       ],
       [
-        [
-          "NAQ"
-        ],
+        "NAQ",
         [
           "/wiki/Nouvelle-Aquitaine"
         ]
       ],
       [
-        [
-          "T"
-        ],
+        "T",
         [
           "/wiki/Poitou-Charentes"
         ]
@@ -760,41 +502,27 @@
     ],
     [
       [
-        [
-          "FR-18"
-        ],
-        [
-          null
-        ]
+        "FR-18",
+        []
       ],
       [
-        [
-          "Cher"
-        ],
+        "Cher",
         [
           "/wiki/Cher_(department)"
         ]
       ],
       [
-        [
-          "metropolitan department"
-        ],
-        [
-          null
-        ]
+        "metropolitan department",
+        []
       ],
       [
-        [
-          "CVL"
-        ],
+        "CVL",
         [
           "/wiki/Centre-Val_de_Loire"
         ]
       ],
       [
-        [
-          "F"
-        ],
+        "F",
         [
           "/wiki/Centre-Val_de_Loire"
         ]
@@ -802,41 +530,27 @@
     ],
     [
       [
-        [
-          "FR-19"
-        ],
-        [
-          null
-        ]
+        "FR-19",
+        []
       ],
       [
-        [
-          "Corr\u00e8ze"
-        ],
+        "Corr\u00e8ze",
         [
           "/wiki/Corr\u00e8ze"
         ]
       ],
       [
-        [
-          "metropolitan department"
-        ],
-        [
-          null
-        ]
+        "metropolitan department",
+        []
       ],
       [
-        [
-          "NAQ"
-        ],
+        "NAQ",
         [
           "/wiki/Nouvelle-Aquitaine"
         ]
       ],
       [
-        [
-          "L"
-        ],
+        "L",
         [
           "/wiki/Limousin_(region)"
         ]
@@ -844,41 +558,27 @@
     ],
     [
       [
-        [
-          "FR-2A"
-        ],
-        [
-          null
-        ]
+        "FR-2A",
+        []
       ],
       [
-        [
-          "Corse-du-Sud"
-        ],
+        "Corse-du-Sud",
         [
           "/wiki/Corse-du-Sud"
         ]
       ],
       [
-        [
-          "metropolitan department"
-        ],
-        [
-          null
-        ]
+        "metropolitan department",
+        []
       ],
       [
-        [
-          "COR"
-        ],
+        "COR",
         [
           "/wiki/Corse"
         ]
       ],
       [
-        [
-          "H"
-        ],
+        "H",
         [
           "/wiki/Corsica"
         ]

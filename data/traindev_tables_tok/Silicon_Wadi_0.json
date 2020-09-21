@@ -3,72 +3,40 @@
   "title": "Silicon Wadi",
   "header": [
     [
-      [
-        "Company"
-      ],
-      [
-        null
-      ]
+      "Company",
+      []
     ],
     [
-      [
-        "Year established in Israel"
-      ],
-      [
-        null
-      ]
+      "Year established in Israel",
+      []
     ],
     [
-      [
-        "No of employees in Israel"
-      ],
-      [
-        null
-      ]
+      "No of employees in Israel",
+      []
     ],
     [
-      [
-        "Major acquisitions in Israel"
-      ],
-      [
-        null
-      ]
+      "Major acquisitions in Israel",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "IBM"
-        ],
+        "IBM",
         [
           "/wiki/IBM"
         ]
       ],
       [
-        [
-          "1949"
-        ],
-        [
-          null
-        ]
+        "1949",
+        []
       ],
       [
-        [
-          "2,000"
-        ],
-        [
-          null
-        ]
+        "2,000",
+        []
       ],
       [
-        [
-          "Ubique",
-          "I-Logix",
-          "XIV",
-          "Storwize",
-          "Trusteer"
-        ],
+        "Ubique , I-Logix , XIV , Guardium , Diligent Technologies , Storwize , Worklight , Trusteer , EZSource Cloudigo",
         [
           "/wiki/Ubique_(company)",
           "/wiki/I-Logix",
@@ -80,33 +48,21 @@
     ],
     [
       [
-        [
-          "Motorola"
-        ],
+        "Motorola",
         [
           "/wiki/Motorola"
         ]
       ],
       [
-        [
-          "1964"
-        ],
-        [
-          null
-        ]
+        "1964",
+        []
       ],
       [
-        [
-          "1,500"
-        ],
-        [
-          null
-        ]
+        "1,500",
+        []
       ],
       [
-        [
-          "Terayon"
-        ],
+        "Terayon , Bitband",
         [
           "/wiki/Terayon"
         ]
@@ -114,33 +70,21 @@
     ],
     [
       [
-        [
-          "Intel"
-        ],
+        "Intel",
         [
           "/wiki/Intel"
         ]
       ],
       [
-        [
-          "1974"
-        ],
-        [
-          null
-        ]
+        "1974",
+        []
       ],
       [
-        [
-          "9,200"
-        ],
-        [
-          null
-        ]
+        "9,200",
+        []
       ],
       [
-        [
-          "Mobileye"
-        ],
+        "DSPC Envara , Comsys , InVision Biometrics , Telmap Mobileye",
         [
           "/wiki/Mobileye"
         ]
@@ -148,35 +92,21 @@
     ],
     [
       [
-        [
-          "Microsoft"
-        ],
+        "Microsoft",
         [
           "/wiki/Microsoft"
         ]
       ],
       [
-        [
-          "1989"
-        ],
-        [
-          null
-        ]
+        "1989",
+        []
       ],
       [
-        [
-          "750"
-        ],
-        [
-          null
-        ]
+        "750",
+        []
       ],
       [
-        [
-          "Whale Communications",
-          "3DV Systems",
-          "Secure Islands"
-        ],
+        "Maximal , Peach Networks , Whale Communications , Gteko , YaData , 3DV Systems Secure Islands",
         [
           "/wiki/Whale_Communications",
           "/wiki/ZCam",
@@ -186,33 +116,21 @@
     ],
     [
       [
-        [
-          "Applied Materials"
-        ],
+        "Applied Materials",
         [
           "/wiki/Applied_Materials"
         ]
       ],
       [
-        [
-          "1991"
-        ],
-        [
-          null
-        ]
+        "1991",
+        []
       ],
       [
-        [
-          "1,200"
-        ],
-        [
-          null
-        ]
+        "1,200",
+        []
       ],
       [
-        [
-          "Oramir Semiconductor"
-        ],
+        "Orbot Instruments , Opal Technologies , Oramir Semiconductor",
         [
           "/wiki/Oramir"
         ]
@@ -220,38 +138,21 @@
     ],
     [
       [
-        [
-          "Qualcomm"
-        ],
+        "Qualcomm",
         [
           "/wiki/Qualcomm"
         ]
       ],
       [
-        [
-          "1993"
-        ],
-        [
-          null
-        ]
+        "1993",
+        []
       ],
       [
-        [
-          "450"
-        ],
-        [
-          null
-        ]
+        "450",
+        []
       ],
       [
-        [
-          "femtocell",
-          "Wilocity",
-          "WiGig",
-          "CSR",
-          "Zoran",
-          "Qualcomm Ventures"
-        ],
+        "EPOS ( ultrasound positioning ) , DesignArt Networks ( femtocell ) , iSkoot , Wilocity ( WiGig ) , CSR / Zoran Israel imaging unit ; also invested in multiple Israeli startups via Qualcomm Ventures",
         [
           "/wiki/Femtocell",
           "/wiki/Wilocity",
@@ -264,39 +165,21 @@
     ],
     [
       [
-        [
-          "Cisco Systems"
-        ],
+        "Cisco Systems",
         [
           "/wiki/Cisco_Systems"
         ]
       ],
       [
-        [
-          "1997"
-        ],
-        [
-          null
-        ]
+        "1997",
+        []
       ],
       [
-        [
-          "1,500"
-        ],
-        [
-          null
-        ]
+        "1,500",
+        []
       ],
       [
-        [
-          "CLASS Data Systems",
-          "HyNEX",
-          "Seagull Semiconductor",
-          "PentaCom",
-          "P-Cube",
-          "Riverhead Networks",
-          "NDS Group"
-        ],
+        "CLASS Data Systems , HyNEX , Seagull Semiconductor , PentaCom , P-Cube , Riverhead Networks , Intucell , Sheer Networks , NDS Group",
         [
           "/wiki/CLASS_Data_Systems",
           "/wiki/HyNEX",
@@ -310,36 +193,21 @@
     ],
     [
       [
-        [
-          "Hewlett-Packard"
-        ],
+        "Hewlett-Packard",
         [
           "/wiki/Hewlett-Packard"
         ]
       ],
       [
-        [
-          "1998"
-        ],
-        [
-          null
-        ]
+        "1998",
+        []
       ],
       [
-        [
-          "6,000"
-        ],
-        [
-          null
-        ]
+        "6,000",
+        []
       ],
       [
-        [
-          "Indigo Digital Press",
-          "Scitex Vision",
-          "Mercury Interactive",
-          "Shunra"
-        ],
+        "Indigo Digital Press , Scitex Vision , Nur Macroprints , Mercury Interactive , Shunra",
         [
           "/wiki/Indigo_Digital_Press",
           "/wiki/Scitex_Vision",
@@ -350,68 +218,41 @@
     ],
     [
       [
-        [
-          "SAP AG"
-        ],
+        "SAP AG",
         [
           "/wiki/SAP_AG"
         ]
       ],
       [
-        [
-          "1998"
-        ],
-        [
-          null
-        ]
+        "1998",
+        []
       ],
       [
-        [
-          "800"
-        ],
-        [
-          null
-        ]
+        "800",
+        []
       ],
       [
-        [
-          "OFEK-Tech , TopTier Software , TopManage , A2i , Gigya"
-        ],
-        [
-          null
-        ]
+        "OFEK-Tech , TopTier Software , TopManage , A2i , Gigya",
+        []
       ]
     ],
     [
       [
-        [
-          "Alcatel Lucent"
-        ],
+        "Alcatel Lucent",
         [
           "/wiki/Alcatel_Lucent"
         ]
       ],
       [
-        [
-          "1998"
-        ],
-        [
-          null
-        ]
+        "1998",
+        []
       ],
       [
-        [
-          "250"
-        ],
-        [
-          null
-        ]
+        "250",
+        []
       ],
       [
-        [
-          "LANNET",
-          "Mobilitec"
-        ],
+        "LANNET , Chromatis Networks , Mobilitec",
         [
           "/wiki/Madge_Networks",
           "/wiki/Mobilitec"
@@ -420,33 +261,21 @@
     ],
     [
       [
-        [
-          "GE Healthcare"
-        ],
+        "GE Healthcare",
         [
           "/wiki/GE_Healthcare"
         ]
       ],
       [
-        [
-          "1998"
-        ],
-        [
-          null
-        ]
+        "1998",
+        []
       ],
       [
-        [
-          "400"
-        ],
-        [
-          null
-        ]
+        "400",
+        []
       ],
       [
-        [
-          "Elscint"
-        ],
+        "Nuclear and MR businesses of Elscint , Diasonics Vingmed",
         [
           "/wiki/Elscint"
         ]
@@ -454,67 +283,41 @@
     ],
     [
       [
-        [
-          "BMC Software"
-        ],
+        "BMC Software",
         [
           "/wiki/BMC_Software"
         ]
       ],
       [
-        [
-          "1999"
-        ],
-        [
-          null
-        ]
+        "1999",
+        []
       ],
       [
-        [
-          "450"
-        ],
-        [
-          null
-        ]
+        "450",
+        []
       ],
       [
-        [
-          "New Dimension Software , Identify Software"
-        ],
-        [
-          null
-        ]
+        "New Dimension Software , Identify Software",
+        []
       ]
     ],
     [
       [
-        [
-          "CA Technologies"
-        ],
+        "CA Technologies",
         [
           "/wiki/CA_Technologies"
         ]
       ],
       [
-        [
-          "1999"
-        ],
-        [
-          null
-        ]
+        "1999",
+        []
       ],
       [
-        [
-          "300"
-        ],
-        [
-          null
-        ]
+        "300",
+        []
       ],
       [
-        [
-          "Oblicore"
-        ],
+        "Security-7 , Abirnet , XOSoft , Oblicore , Nolio",
         [
           "/wiki/Oblicore"
         ]
@@ -522,33 +325,21 @@
     ],
     [
       [
-        [
-          "Philips Electronics"
-        ],
+        "Philips Electronics",
         [
           "/wiki/Philips_Electronics"
         ]
       ],
       [
-        [
-          "1999"
-        ],
-        [
-          null
-        ]
+        "1999",
+        []
       ],
       [
-        [
-          "700"
-        ],
-        [
-          null
-        ]
+        "700",
+        []
       ],
       [
-        [
-          "Elscint"
-        ],
+        "Elscint , Veon , CDP Medical",
         [
           "/wiki/Elscint"
         ]
@@ -556,102 +347,61 @@
     ],
     [
       [
-        [
-          "Broadcom"
-        ],
+        "Broadcom",
         [
           "/wiki/Broadcom"
         ]
       ],
       [
-        [
-          "2000"
-        ],
-        [
-          null
-        ]
+        "2000",
+        []
       ],
       [
-        [
-          "500"
-        ],
-        [
-          null
-        ]
+        "500",
+        []
       ],
       [
-        [
-          "VisionTech , M-Stream , Siliquent Technologies , Dune Networks , Percello , Provigent , SC Square"
-        ],
-        [
-          null
-        ]
+        "VisionTech , M-Stream , Siliquent Technologies , Dune Networks , Percello , Provigent , SC Square",
+        []
       ]
     ],
     [
       [
-        [
-          "Marvell Technology Group"
-        ],
+        "Marvell Technology Group",
         [
           "/wiki/Marvell_Technology_Group"
         ]
       ],
       [
-        [
-          "2000"
-        ],
-        [
-          null
-        ]
+        "2000",
+        []
       ],
       [
-        [
-          "1,600"
-        ],
-        [
-          null
-        ]
+        "1,600",
+        []
       ],
       [
-        [
-          "Galileo Technology"
-        ],
-        [
-          null
-        ]
+        "Galileo Technology",
+        []
       ]
     ],
     [
       [
-        [
-          "Siemens"
-        ],
+        "Siemens",
         [
           "/wiki/Siemens"
         ]
       ],
       [
-        [
-          "2000"
-        ],
-        [
-          null
-        ]
+        "2000",
+        []
       ],
       [
-        [
-          "900"
-        ],
-        [
-          null
-        ]
+        "900",
+        []
       ],
       [
-        [
-          "Tecnomatix Technologies",
-          "Solel Solar Systems"
-        ],
+        "eship-4u , Tecnomatix Technologies , Solel Solar Systems",
         [
           "/wiki/Tecnomatix",
           "/wiki/Solel"
@@ -660,33 +410,21 @@
     ],
     [
       [
-        [
-          "EMC Corporation"
-        ],
+        "EMC Corporation",
         [
           "/wiki/EMC_Corporation"
         ]
       ],
       [
-        [
-          "2004"
-        ],
-        [
-          null
-        ]
+        "2004",
+        []
       ],
       [
-        [
-          "1,000"
-        ],
-        [
-          null
-        ]
+        "1,000",
+        []
       ],
       [
-        [
-          "nLayers"
-        ],
+        "Kashya , nLayers , proActivity , Illuminator , ZettaPoint , Cyota , XtremIO",
         [
           "/wiki/NLayers"
         ]
@@ -694,33 +432,21 @@
     ],
     [
       [
-        [
-          "eBay"
-        ],
+        "eBay",
         [
           "/wiki/EBay"
         ]
       ],
       [
-        [
-          "2005"
-        ],
-        [
-          null
-        ]
+        "2005",
+        []
       ],
       [
-        [
-          "400"
-        ],
-        [
-          null
-        ]
+        "400",
+        []
       ],
       [
-        [
-          "Shopping.com"
-        ],
+        "Shopping.com , Fraud Sciences , The Gift Project , SalesPredict , Corrigon Ltd",
         [
           "/wiki/Shopping.com"
         ]
@@ -728,33 +454,21 @@
     ],
     [
       [
-        [
-          "SanDisk"
-        ],
+        "SanDisk",
         [
           "/wiki/SanDisk"
         ]
       ],
       [
-        [
-          "2006"
-        ],
-        [
-          null
-        ]
+        "2006",
+        []
       ],
       [
-        [
-          "650"
-        ],
-        [
-          null
-        ]
+        "650",
+        []
       ],
       [
-        [
-          "M-Systems"
-        ],
+        "M-Systems",
         [
           "/wiki/M-Systems"
         ]

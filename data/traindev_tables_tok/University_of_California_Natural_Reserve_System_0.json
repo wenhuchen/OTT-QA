@@ -3,85 +3,54 @@
   "title": "University of California Natural Reserve System",
   "header": [
     [
-      [
-        "Reserve"
-      ],
-      [
-        null
-      ]
+      "Reserve",
+      []
     ],
     [
-      [
-        "Campus"
-      ],
-      [
-        null
-      ]
+      "Campus",
+      []
     ],
     [
-      [
-        "ha"
-      ],
+      "Area ( ha )",
       [
         "/wiki/Hectare"
       ]
     ],
     [
-      [
-        "Acre"
-      ],
+      "Area ( Acre )",
       [
         "/wiki/Acre"
       ]
     ],
     [
-      [
-        "Notes"
-      ],
-      [
-        null
-      ]
+      "Notes",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Angelo Coast Range Reserve"
-        ],
+        "Angelo Coast Range Reserve",
         [
           "/wiki/Angelo_Coast_Range_Reserve"
         ]
       ],
       [
-        [
-          "Berkeley"
-        ],
+        "Berkeley",
         [
           "/wiki/University_of_California,_Berkeley"
         ]
       ],
       [
-        [
-          "3,166"
-        ],
-        [
-          null
-        ]
+        "3,166",
+        []
       ],
       [
-        [
-          "7,915"
-        ],
-        [
-          null
-        ]
+        "7,915",
+        []
       ],
       [
-        [
-          "Eel River",
-          "The Nature Conservancy"
-        ],
+        "On the South Fork of the Eel River . Protected by The Nature Conservancy ( TNC )",
         [
           "/wiki/Eel_River_(California)",
           "/wiki/The_Nature_Conservancy"
@@ -90,43 +59,27 @@
     ],
     [
       [
-        [
-          "A\u00f1o Nuevo Island Reserve"
-        ],
+        "A\u00f1o Nuevo Island Reserve",
         [
           "/wiki/A\u00f1o_Nuevo_Island_Reserve"
         ]
       ],
       [
-        [
-          "Santa Cruz"
-        ],
+        "Santa Cruz",
         [
           "/wiki/University_of_California,_Santa_Cruz"
         ]
       ],
       [
-        [
-          "10"
-        ],
-        [
-          null
-        ]
+        "10",
+        []
       ],
       [
-        [
-          "25"
-        ],
-        [
-          null
-        ]
+        "25",
+        []
       ],
       [
-        [
-          "A\u00f1o Nuevo Island",
-          "A\u00f1o Nuevo State Reserve",
-          "California State Parks"
-        ],
+        "On A\u00f1o Nuevo Island . UC manages site within the larger A\u00f1o Nuevo State Reserve , owned and operated by California State Parks",
         [
           "/wiki/A\u00f1o_Nuevo_Island",
           "/wiki/A\u00f1o_Nuevo_State_Reserve",
@@ -136,42 +89,27 @@
     ],
     [
       [
-        [
-          "Blue Oak Ranch Reserve"
-        ],
+        "Blue Oak Ranch Reserve",
         [
           "/wiki/Blue_Oak_Ranch_Reserve"
         ]
       ],
       [
-        [
-          "Berkeley"
-        ],
+        "Berkeley",
         [
           "/wiki/University_of_California,_Berkeley"
         ]
       ],
       [
-        [
-          "1,319"
-        ],
-        [
-          null
-        ]
+        "1,319",
+        []
       ],
       [
-        [
-          "3,260"
-        ],
-        [
-          null
-        ]
+        "3,260",
+        []
       ],
       [
-        [
-          "Diablo Range",
-          "Mount Hamilton"
-        ],
+        "In the Diablo Range , northwest of Mount Hamilton",
         [
           "/wiki/Diablo_Range",
           "/wiki/Mount_Hamilton_(California)"
@@ -180,41 +118,27 @@
     ],
     [
       [
-        [
-          "Bodega Marine Reserve"
-        ],
+        "Bodega Marine Reserve",
         [
           "/wiki/Bodega_Marine_Reserve"
         ]
       ],
       [
-        [
-          "Davis"
-        ],
+        "Davis",
         [
           "/wiki/University_of_California,_Davis"
         ]
       ],
       [
-        [
-          "176"
-        ],
-        [
-          null
-        ]
+        "176",
+        []
       ],
       [
-        [
-          "436"
-        ],
-        [
-          null
-        ]
+        "436",
+        []
       ],
       [
-        [
-          "Bodega Bay"
-        ],
+        "On Bodega Bay",
         [
           "/wiki/Bodega_Bay"
         ]
@@ -222,84 +146,51 @@
     ],
     [
       [
-        [
-          "Box Springs Reserve"
-        ],
-        [
-          null
-        ]
+        "Box Springs Reserve",
+        []
       ],
       [
-        [
-          "Riverside"
-        ],
+        "Riverside",
         [
           "/wiki/University_of_California,_Riverside"
         ]
       ],
       [
-        [
-          "65"
-        ],
-        [
-          null
-        ]
+        "65",
+        []
       ],
       [
-        [
-          "160"
-        ],
-        [
-          null
-        ]
+        "160",
+        []
       ],
       [
-        [
-          "Adjacent to the Riverside campus"
-        ],
-        [
-          null
-        ]
+        "Adjacent to the Riverside campus",
+        []
       ]
     ],
     [
       [
-        [
-          "Philip L. Boyd Deep Canyon Desert Research Center"
-        ],
+        "Philip L. Boyd Deep Canyon Desert Research Center",
         [
           "/wiki/Philip_L._Boyd_Deep_Canyon_Desert_Research_Center"
         ]
       ],
       [
-        [
-          "Riverside"
-        ],
+        "Riverside",
         [
           "/wiki/University_of_California,_Riverside"
         ]
       ],
       [
-        [
-          "6,749"
-        ],
-        [
-          null
-        ]
+        "6,749",
+        []
       ],
       [
-        [
-          "16,873"
-        ],
-        [
-          null
-        ]
+        "16,873",
+        []
       ],
       [
-        [
-          "Santa Rosa Mountains",
-          "Palm Desert"
-        ],
+        "In the Santa Rosa Mountains , near Palm Desert",
         [
           "/wiki/Santa_Rosa_Mountains_(California)",
           "/wiki/Palm_Desert,_California"
@@ -308,42 +199,27 @@
     ],
     [
       [
-        [
-          "Burns Pi\u00f1on Ridge Reserve"
-        ],
+        "Burns Pi\u00f1on Ridge Reserve",
         [
           "/wiki/Burns_Pi\u00f1on_Ridge_Reserve"
         ]
       ],
       [
-        [
-          "Irvine"
-        ],
+        "Irvine",
         [
           "/wiki/University_of_California,_Irvine"
         ]
       ],
       [
-        [
-          "124"
-        ],
-        [
-          null
-        ]
+        "124",
+        []
       ],
       [
-        [
-          "306"
-        ],
-        [
-          null
-        ]
+        "306",
+        []
       ],
       [
-        [
-          "Mojave Desert",
-          "Joshua Tree National Park"
-        ],
+        "In the Mojave Desert , near Joshua Tree National Park",
         [
           "/wiki/Mojave_Desert",
           "/wiki/Joshua_Tree_National_Park"
@@ -352,41 +228,25 @@
     ],
     [
       [
-        [
-          "Carpinteria Salt Marsh Reserve"
-        ],
-        [
-          null
-        ]
+        "Carpinteria Salt Marsh Reserve",
+        []
       ],
       [
-        [
-          "Santa Barbara"
-        ],
+        "Santa Barbara",
         [
           "/wiki/University_of_California,_Santa_Barbara"
         ]
       ],
       [
-        [
-          "93"
-        ],
-        [
-          null
-        ]
+        "93",
+        []
       ],
       [
-        [
-          "230"
-        ],
-        [
-          null
-        ]
+        "230",
+        []
       ],
       [
-        [
-          "Carpinteria"
-        ],
+        "In Carpinteria",
         [
           "/wiki/Carpinteria,_California"
         ]
@@ -394,42 +254,25 @@
     ],
     [
       [
-        [
-          "Chickering American River Reserve"
-        ],
-        [
-          null
-        ]
+        "Chickering American River Reserve",
+        []
       ],
       [
-        [
-          "Berkeley"
-        ],
+        "Berkeley",
         [
           "/wiki/University_of_California,_Berkeley"
         ]
       ],
       [
-        [
-          "695"
-        ],
-        [
-          null
-        ]
+        "695",
+        []
       ],
       [
-        [
-          "1,720"
-        ],
-        [
-          null
-        ]
+        "1,720",
+        []
       ],
       [
-        [
-          "American River",
-          "Sierra Nevada"
-        ],
+        "In the headwaters basin of the North Fork of the American River , Sierra Nevada",
         [
           "/wiki/American_River",
           "/wiki/Sierra_Nevada_(U.S.)"
@@ -438,83 +281,49 @@
     ],
     [
       [
-        [
-          "Coal Oil Point Natural Reserve"
-        ],
-        [
-          null
-        ]
+        "Coal Oil Point Natural Reserve",
+        []
       ],
       [
-        [
-          "Santa Barbara"
-        ],
+        "Santa Barbara",
         [
           "/wiki/University_of_California,_Santa_Barbara"
         ]
       ],
       [
-        [
-          "68"
-        ],
-        [
-          null
-        ]
+        "68",
+        []
       ],
       [
-        [
-          "170"
-        ],
-        [
-          null
-        ]
+        "170",
+        []
       ],
       [
-        [
-          "Adjacent to the Santa Barbara campus"
-        ],
-        [
-          null
-        ]
+        "Adjacent to the Santa Barbara campus",
+        []
       ]
     ],
     [
       [
-        [
-          "Dawson Los Monos Canyon Reserve"
-        ],
-        [
-          null
-        ]
+        "Dawson Los Monos Canyon Reserve",
+        []
       ],
       [
-        [
-          "San Diego"
-        ],
+        "San Diego",
         [
           "/wiki/University_of_California,_San_Diego"
         ]
       ],
       [
-        [
-          "93"
-        ],
-        [
-          null
-        ]
+        "93",
+        []
       ],
       [
-        [
-          "230"
-        ],
-        [
-          null
-        ]
+        "230",
+        []
       ],
       [
-        [
-          "Laguna Mountains"
-        ],
+        "In the northwestern Laguna Mountains",
         [
           "/wiki/Laguna_Mountains"
         ]
@@ -522,41 +331,25 @@
     ],
     [
       [
-        [
-          "Elliott Chaparral Reserve"
-        ],
-        [
-          null
-        ]
+        "Elliott Chaparral Reserve",
+        []
       ],
       [
-        [
-          "San Diego"
-        ],
+        "San Diego",
         [
           "/wiki/University_of_California,_San_Diego"
         ]
       ],
       [
-        [
-          "43"
-        ],
-        [
-          null
-        ]
+        "43",
+        []
       ],
       [
-        [
-          "107"
-        ],
-        [
-          null
-        ]
+        "107",
+        []
       ],
       [
-        [
-          "Camp Kearny"
-        ],
+        "At former Camp Kearny , on the Kearny Mesa",
         [
           "/wiki/Camp_Kearny"
         ]
@@ -564,83 +357,49 @@
     ],
     [
       [
-        [
-          "Emerson Oaks Reserve"
-        ],
-        [
-          null
-        ]
+        "Emerson Oaks Reserve",
+        []
       ],
       [
-        [
-          "Riverside"
-        ],
+        "Riverside",
         [
           "/wiki/University_of_California,_Riverside"
         ]
       ],
       [
-        [
-          "102"
-        ],
-        [
-          null
-        ]
+        "102",
+        []
       ],
       [
-        [
-          "255"
-        ],
-        [
-          null
-        ]
+        "255",
+        []
       ],
       [
-        [
-          "In the Temecula Valley , southern Riverside County . Protected by TNC"
-        ],
-        [
-          null
-        ]
+        "In the Temecula Valley , southern Riverside County . Protected by TNC",
+        []
       ]
     ],
     [
       [
-        [
-          "Fort Ord Natural Reserve"
-        ],
-        [
-          null
-        ]
+        "Fort Ord Natural Reserve",
+        []
       ],
       [
-        [
-          "Santa Cruz"
-        ],
+        "Santa Cruz",
         [
           "/wiki/University_of_California,_Santa_Cruz"
         ]
       ],
       [
-        [
-          "242"
-        ],
-        [
-          null
-        ]
+        "242",
+        []
       ],
       [
-        [
-          "606"
-        ],
-        [
-          null
-        ]
+        "606",
+        []
       ],
       [
-        [
-          "Fort Ord"
-        ],
+        "At the former Fort Ord , near Monterey Bay",
         [
           "/wiki/Fort_Ord"
         ]
@@ -648,41 +407,25 @@
     ],
     [
       [
-        [
-          "Hastings Natural History Reservation"
-        ],
-        [
-          null
-        ]
+        "Hastings Natural History Reservation",
+        []
       ],
       [
-        [
-          "Berkeley"
-        ],
+        "Berkeley",
         [
           "/wiki/University_of_California,_Berkeley"
         ]
       ],
       [
-        [
-          "932"
-        ],
-        [
-          null
-        ]
+        "932",
+        []
       ],
       [
-        [
-          "2,392"
-        ],
-        [
-          null
-        ]
+        "2,392",
+        []
       ],
       [
-        [
-          "Santa Lucia Mountains"
-        ],
+        "In the Santa Lucia Mountains , upper Carmel Valley",
         [
           "/wiki/Santa_Lucia_Mountains"
         ]
@@ -690,42 +433,27 @@
     ],
     [
       [
-        [
-          "James San Jacinto Mountains Reserve"
-        ],
+        "James San Jacinto Mountains Reserve",
         [
           "/wiki/James_San_Jacinto_Mountains_Reserve"
         ]
       ],
       [
-        [
-          "Riverside"
-        ],
+        "Riverside",
         [
           "/wiki/University_of_California,_Riverside"
         ]
       ],
       [
-        [
-          "12"
-        ],
-        [
-          null
-        ]
+        "12",
+        []
       ],
       [
-        [
-          "29"
-        ],
-        [
-          null
-        ]
+        "29",
+        []
       ],
       [
-        [
-          "San Jacinto Mountains",
-          "Coachella Valley"
-        ],
+        "In the San Jacinto Mountains . Satellite site Oasis de los Osos ( west end of the Coachella Valley ) protected by TNC",
         [
           "/wiki/San_Jacinto_Mountains",
           "/wiki/Coachella_Valley"
@@ -734,41 +462,25 @@
     ],
     [
       [
-        [
-          "Jenny Pygmy Forest Reserve"
-        ],
-        [
-          null
-        ]
+        "Jenny Pygmy Forest Reserve",
+        []
       ],
       [
-        [
-          "Berkeley"
-        ],
+        "Berkeley",
         [
           "/wiki/University_of_California,_Berkeley"
         ]
       ],
       [
-        [
-          "28"
-        ],
-        [
-          null
-        ]
+        "28",
+        []
       ],
       [
-        [
-          "70"
-        ],
-        [
-          null
-        ]
+        "70",
+        []
       ],
       [
-        [
-          "Mendocino County"
-        ],
+        "Above the coast in Mendocino County . Protected by TNC",
         [
           "/wiki/Mendocino_County,_California"
         ]
@@ -776,41 +488,25 @@
     ],
     [
       [
-        [
-          "Jepson Prairie Reserve"
-        ],
-        [
-          null
-        ]
+        "Jepson Prairie Reserve",
+        []
       ],
       [
-        [
-          "Davis"
-        ],
+        "Davis",
         [
           "/wiki/University_of_California,_Davis"
         ]
       ],
       [
-        [
-          "634"
-        ],
-        [
-          null
-        ]
+        "634",
+        []
       ],
       [
-        [
-          "1,566"
-        ],
-        [
-          null
-        ]
+        "1,566",
+        []
       ],
       [
-        [
-          "Central Valley"
-        ],
+        "In the Central Valley . Protected by TNC and the Solano Land Trust",
         [
           "/wiki/Central_Valley_of_California"
         ]
@@ -818,41 +514,27 @@
     ],
     [
       [
-        [
-          "Kendall-Frost Mission Bay Marsh Reserve"
-        ],
+        "Kendall-Frost Mission Bay Marsh Reserve",
         [
           "/wiki/Kendall-Frost_Mission_Bay_Marsh_Reserve"
         ]
       ],
       [
-        [
-          "San Diego"
-        ],
+        "San Diego",
         [
           "/wiki/University_of_California,_San_Diego"
         ]
       ],
       [
-        [
-          "7"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ],
       [
-        [
-          "16"
-        ],
-        [
-          null
-        ]
+        "16",
+        []
       ],
       [
-        [
-          "Mission Bay"
-        ],
+        "On Mission Bay",
         [
           "/wiki/Mission_Bay_(San_Diego)"
         ]
@@ -860,42 +542,27 @@
     ],
     [
       [
-        [
-          "Kenneth S. Norris Rancho Marino Reserve"
-        ],
+        "Kenneth S. Norris Rancho Marino Reserve",
         [
           "/wiki/Kenneth_S._Norris_Rancho_Marino_Reserve"
         ]
       ],
       [
-        [
-          "Santa Barbara"
-        ],
+        "Santa Barbara",
         [
           "/wiki/University_of_California,_Santa_Barbara"
         ]
       ],
       [
-        [
-          "200"
-        ],
-        [
-          null
-        ]
+        "200",
+        []
       ],
       [
-        [
-          "500"
-        ],
-        [
-          null
-        ]
+        "500",
+        []
       ],
       [
-        [
-          "Santa Lucia Mountains",
-          "Cambria"
-        ],
+        "In the Santa Lucia Mountains , near Cambria",
         [
           "/wiki/Santa_Lucia_Mountains",
           "/wiki/Cambria,_California"

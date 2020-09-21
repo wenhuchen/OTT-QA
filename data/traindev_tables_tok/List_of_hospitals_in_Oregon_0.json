@@ -3,49 +3,27 @@
   "title": "List of hospitals in Oregon",
   "header": [
     [
-      [
-        "City"
-      ],
-      [
-        null
-      ]
+      "City",
+      []
     ],
     [
-      [
-        "County"
-      ],
-      [
-        null
-      ]
+      "County",
+      []
     ],
     [
-      [
-        "Hospital"
-      ],
-      [
-        null
-      ]
+      "Hospital",
+      []
     ],
     [
-      [
-        "Beds available"
-      ],
-      [
-        null
-      ]
+      "Beds available",
+      []
     ],
     [
-      [
-        "Beds licensed"
-      ],
-      [
-        null
-      ]
+      "Beds licensed",
+      []
     ],
     [
-      [
-        "Trauma level"
-      ],
+      "Trauma level",
       [
         "/wiki/Trauma_center"
       ]
@@ -54,1002 +32,630 @@
   "data": [
     [
       [
-        [
-          "Albany"
-        ],
+        "Albany",
         [
           "/wiki/Albany,_Oregon"
         ]
       ],
       [
-        [
-          "Linn"
-        ],
+        "Linn",
         [
           "/wiki/Linn_County,_Oregon"
         ]
       ],
       [
-        [
-          "Samaritan Albany General Hospital"
-        ],
+        "Samaritan Albany General Hospital",
         [
           "/wiki/Samaritan_Albany_General_Hospital"
         ]
       ],
       [
-        [
-          "64"
-        ],
-        [
-          null
-        ]
+        "64",
+        []
       ],
       [
-        [
-          "76"
-        ],
-        [
-          null
-        ]
+        "76",
+        []
       ],
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ]
     ],
     [
       [
-        [
-          "Ashland"
-        ],
+        "Ashland",
         [
           "/wiki/Ashland,_Oregon"
         ]
       ],
       [
-        [
-          "Jackson"
-        ],
+        "Jackson",
         [
           "/wiki/Jackson_County,_Oregon"
         ]
       ],
       [
-        [
-          "Ashland Community Hospital"
-        ],
+        "Ashland Community Hospital",
         [
           "/wiki/Ashland_Community_Hospital_(Oregon)"
         ]
       ],
       [
-        [
-          "37"
-        ],
-        [
-          null
-        ]
+        "37",
+        []
       ],
       [
-        [
-          "49"
-        ],
-        [
-          null
-        ]
+        "49",
+        []
       ],
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ]
     ],
     [
       [
-        [
-          "Astoria"
-        ],
+        "Astoria",
         [
           "/wiki/Astoria,_Oregon"
         ]
       ],
       [
-        [
-          "Clatsop"
-        ],
+        "Clatsop",
         [
           "/wiki/Clatsop_County,_Oregon"
         ]
       ],
       [
-        [
-          "Columbia Memorial Hospital"
-        ],
+        "Columbia Memorial Hospital",
         [
           "/wiki/Columbia_Memorial_Hospital_(Oregon)"
         ]
       ],
       [
-        [
-          "25"
-        ],
-        [
-          null
-        ]
+        "25",
+        []
       ],
       [
-        [
-          "49"
-        ],
-        [
-          null
-        ]
+        "49",
+        []
       ],
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ]
     ],
     [
       [
-        [
-          "Baker City"
-        ],
+        "Baker City",
         [
           "/wiki/Baker_City,_Oregon"
         ]
       ],
       [
-        [
-          "Baker"
-        ],
+        "Baker",
         [
           "/wiki/Baker_County,_Oregon"
         ]
       ],
       [
-        [
-          "St. Elizabeth Health Services"
-        ],
+        "St. Elizabeth Health Services",
         [
           "/wiki/St._Elizabeth_Health_Services"
         ]
       ],
       [
-        [
-          "25"
-        ],
-        [
-          null
-        ]
+        "25",
+        []
       ],
       [
-        [
-          "36"
-        ],
-        [
-          null
-        ]
+        "36",
+        []
       ],
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ]
     ],
     [
       [
-        [
-          "Bandon"
-        ],
+        "Bandon",
         [
           "/wiki/Bandon,_Oregon"
         ]
       ],
       [
-        [
-          "Coos"
-        ],
+        "Coos",
         [
           "/wiki/Coos_County,_Oregon"
         ]
       ],
       [
-        [
-          "Southern Coos Hospital and Health Center"
-        ],
-        [
-          null
-        ]
+        "Southern Coos Hospital and Health Center",
+        []
       ],
       [
-        [
-          "19"
-        ],
-        [
-          null
-        ]
+        "19",
+        []
       ],
       [
-        [
-          "21"
-        ],
-        [
-          null
-        ]
+        "21",
+        []
       ],
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ]
     ],
     [
       [
-        [
-          "Bend"
-        ],
+        "Bend",
         [
           "/wiki/Bend,_Oregon"
         ]
       ],
       [
-        [
-          "Deschutes"
-        ],
+        "Deschutes",
         [
           "/wiki/Deschutes_County,_Oregon"
         ]
       ],
       [
-        [
-          "St. Charles Medical Center - Bend"
-        ],
+        "St. Charles Medical Center - Bend",
         [
           "/wiki/St._Charles_Medical_Center_-_Bend"
         ]
       ],
       [
-        [
-          "226"
-        ],
-        [
-          null
-        ]
+        "226",
+        []
       ],
       [
-        [
-          "231"
-        ],
-        [
-          null
-        ]
+        "231",
+        []
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ]
     ],
     [
       [
-        [
-          "Burns"
-        ],
+        "Burns",
         [
           "/wiki/Burns,_Oregon"
         ]
       ],
       [
-        [
-          "Harney"
-        ],
+        "Harney",
         [
           "/wiki/Harney_County,_Oregon"
         ]
       ],
       [
-        [
-          "Harney District Hospital"
-        ],
-        [
-          null
-        ]
+        "Harney District Hospital",
+        []
       ],
       [
-        [
-          "25"
-        ],
-        [
-          null
-        ]
+        "25",
+        []
       ],
       [
-        [
-          "25"
-        ],
-        [
-          null
-        ]
+        "25",
+        []
       ],
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ]
     ],
     [
       [
-        [
-          "Clackamas"
-        ],
+        "Clackamas",
         [
           "/wiki/Clackamas,_Oregon"
         ]
       ],
       [
-        [
-          "Clackamas"
-        ],
+        "Clackamas",
         [
           "/wiki/Clackamas_County,_Oregon"
         ]
       ],
       [
-        [
-          "Kaiser Sunnyside Medical Center"
-        ],
+        "Kaiser Sunnyside Medical Center",
         [
           "/wiki/Kaiser_Sunnyside_Medical_Center"
         ]
       ],
       [
-        [
-          "182"
-        ],
-        [
-          null
-        ]
+        "182",
+        []
       ],
       [
-        [
-          "196"
-        ],
-        [
-          null
-        ]
+        "196",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Coos Bay"
-        ],
+        "Coos Bay",
         [
           "/wiki/Coos_Bay,_Oregon"
         ]
       ],
       [
-        [
-          "Coos"
-        ],
+        "Coos",
         [
           "/wiki/Coos_County,_Oregon"
         ]
       ],
       [
-        [
-          "Bay Area Hospital"
-        ],
-        [
-          null
-        ]
+        "Bay Area Hospital",
+        []
       ],
       [
-        [
-          "129"
-        ],
-        [
-          null
-        ]
+        "129",
+        []
       ],
       [
-        [
-          "172"
-        ],
-        [
-          null
-        ]
+        "172",
+        []
       ],
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ]
     ],
     [
       [
-        [
-          "Coquille"
-        ],
+        "Coquille",
         [
           "/wiki/Coquille,_Oregon"
         ]
       ],
       [
-        [
-          "Coos"
-        ],
+        "Coos",
         [
           "/wiki/Coos_County,_Oregon"
         ]
       ],
       [
-        [
-          "Coquille Valley Hospital"
-        ],
-        [
-          null
-        ]
+        "Coquille Valley Hospital",
+        []
       ],
       [
-        [
-          "25"
-        ],
-        [
-          null
-        ]
+        "25",
+        []
       ],
       [
-        [
-          "25"
-        ],
-        [
-          null
-        ]
+        "25",
+        []
       ],
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ]
     ],
     [
       [
-        [
-          "Corvallis"
-        ],
+        "Corvallis",
         [
           "/wiki/Corvallis,_Oregon"
         ]
       ],
       [
-        [
-          "Benton"
-        ],
+        "Benton",
         [
           "/wiki/Benton_County,_Oregon"
         ]
       ],
       [
-        [
-          "Good Samaritan Regional Medical Center"
-        ],
+        "Good Samaritan Regional Medical Center",
         [
           "/wiki/Good_Samaritan_Regional_Medical_Center_(Oregon)"
         ]
       ],
       [
-        [
-          "134"
-        ],
-        [
-          null
-        ]
+        "134",
+        []
       ],
       [
-        [
-          "188"
-        ],
-        [
-          null
-        ]
+        "188",
+        []
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ]
     ],
     [
       [
-        [
-          "Cottage Grove"
-        ],
+        "Cottage Grove",
         [
           "/wiki/Cottage_Grove,_Oregon"
         ]
       ],
       [
-        [
-          "Lane"
-        ],
+        "Lane",
         [
           "/wiki/Lane_County,_Oregon"
         ]
       ],
       [
-        [
-          "Cottage Grove Community Hospital"
-        ],
+        "Cottage Grove Community Hospital",
         [
           "/wiki/Cottage_Grove_Community_Hospital"
         ]
       ],
       [
-        [
-          "14"
-        ],
-        [
-          null
-        ]
+        "14",
+        []
       ],
       [
-        [
-          "14"
-        ],
-        [
-          null
-        ]
+        "14",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Dallas"
-        ],
+        "Dallas",
         [
           "/wiki/Dallas,_Oregon"
         ]
       ],
       [
-        [
-          "Polk"
-        ],
+        "Polk",
         [
           "/wiki/Polk_County,_Oregon"
         ]
       ],
       [
-        [
-          "West Valley Hospital"
-        ],
+        "West Valley Hospital",
         [
           "/wiki/West_Valley_Hospital_(Oregon)"
         ]
       ],
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "15"
-        ],
-        [
-          null
-        ]
+        "15",
+        []
       ],
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ]
     ],
     [
       [
-        [
-          "Enterprise"
-        ],
+        "Enterprise",
         [
           "/wiki/Enterprise,_Oregon"
         ]
       ],
       [
-        [
-          "Wallowa"
-        ],
+        "Wallowa",
         [
           "/wiki/Wallowa_County,_Oregon"
         ]
       ],
       [
-        [
-          "Wallowa Memorial Hospital"
-        ],
-        [
-          null
-        ]
+        "Wallowa Memorial Hospital",
+        []
       ],
       [
-        [
-          "25"
-        ],
-        [
-          null
-        ]
+        "25",
+        []
       ],
       [
-        [
-          "25"
-        ],
-        [
-          null
-        ]
+        "25",
+        []
       ],
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ]
     ],
     [
       [
-        [
-          "Eugene"
-        ],
+        "Eugene",
         [
           "/wiki/Eugene,_Oregon"
         ]
       ],
       [
-        [
-          "Lane"
-        ],
+        "Lane",
         [
           "/wiki/Lane_County,_Oregon"
         ]
       ],
       [
-        [
-          "Sacred Heart Medical Center University District"
-        ],
+        "Sacred Heart Medical Center University District",
         [
           "/wiki/Sacred_Heart_Medical_Center_University_District"
         ]
       ],
       [
-        [
-          "412"
-        ],
-        [
-          null
-        ]
+        "412",
+        []
       ],
       [
-        [
-          "432"
-        ],
-        [
-          null
-        ]
+        "432",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Florence"
-        ],
+        "Florence",
         [
           "/wiki/Florence,_Oregon"
         ]
       ],
       [
-        [
-          "Lane"
-        ],
+        "Lane",
         [
           "/wiki/Lane_County,_Oregon"
         ]
       ],
       [
-        [
-          "Peace Harbor Hospital"
-        ],
+        "Peace Harbor Hospital",
         [
           "/wiki/Peace_Harbor_Hospital"
         ]
       ],
       [
-        [
-          "21"
-        ],
-        [
-          null
-        ]
+        "21",
+        []
       ],
       [
-        [
-          "21"
-        ],
-        [
-          null
-        ]
+        "21",
+        []
       ],
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ]
     ],
     [
       [
-        [
-          "Forest Grove"
-        ],
+        "Forest Grove",
         [
           "/wiki/Forest_Grove,_Oregon"
         ]
       ],
       [
-        [
-          "Washington"
-        ],
+        "Washington",
         [
           "/wiki/Washington_County,_Oregon"
         ]
       ],
       [
-        [
-          "Tuality Forest Grove Hospital"
-        ],
+        "Tuality Forest Grove Hospital",
         [
           "/wiki/Tuality_Forest_Grove_Hospital"
         ]
       ],
       [
-        [
-          "144"
-        ],
-        [
-          null
-        ]
+        "144",
+        []
       ],
       [
-        [
-          "215"
-        ],
-        [
-          null
-        ]
+        "215",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Gold Beach"
-        ],
+        "Gold Beach",
         [
           "/wiki/Gold_Beach,_Oregon"
         ]
       ],
       [
-        [
-          "Curry"
-        ],
+        "Curry",
         [
           "/wiki/Curry_County,_Oregon"
         ]
       ],
       [
-        [
-          "Curry General Hospital"
-        ],
-        [
-          null
-        ]
+        "Curry General Hospital",
+        []
       ],
       [
-        [
-          "24"
-        ],
-        [
-          null
-        ]
+        "24",
+        []
       ],
       [
-        [
-          "24"
-        ],
-        [
-          null
-        ]
+        "24",
+        []
       ],
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ]
     ],
     [
       [
-        [
-          "Grants Pass"
-        ],
+        "Grants Pass",
         [
           "/wiki/Grants_Pass,_Oregon"
         ]
       ],
       [
-        [
-          "Josephine"
-        ],
+        "Josephine",
         [
           "/wiki/Josephine_County,_Oregon"
         ]
       ],
       [
-        [
-          "Three Rivers Medical Center"
-        ],
+        "Three Rivers Medical Center",
         [
           "/wiki/Three_Rivers_Medical_Center"
         ]
       ],
       [
-        [
-          "98"
-        ],
-        [
-          null
-        ]
+        "98",
+        []
       ],
       [
-        [
-          "125"
-        ],
-        [
-          null
-        ]
+        "125",
+        []
       ],
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ]
     ],
     [
       [
-        [
-          "Gresham"
-        ],
+        "Gresham",
         [
           "/wiki/Gresham,_Oregon"
         ]
       ],
       [
-        [
-          "Multnomah"
-        ],
+        "Multnomah",
         [
           "/wiki/Multnomah_County,_Oregon"
         ]
       ],
       [
-        [
-          "Legacy Mount Hood Medical Center"
-        ],
+        "Legacy Mount Hood Medical Center",
         [
           "/wiki/Legacy_Mount_Hood_Medical_Center"
         ]
       ],
       [
-        [
-          "80"
-        ],
-        [
-          null
-        ]
+        "80",
+        []
       ],
       [
-        [
-          "115"
-        ],
-        [
-          null
-        ]
+        "115",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ]
   ],

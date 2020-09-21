@@ -3,84 +3,52 @@
   "title": "Baltic Men Volleyball League",
   "header": [
     [
-      [
-        "Team"
-      ],
-      [
-        null
-      ]
+      "Team",
+      []
     ],
     [
-      [
-        "Head Coach"
-      ],
-      [
-        null
-      ]
+      "Head Coach",
+      []
     ],
     [
-      [
-        "Captain"
-      ],
-      [
-        null
-      ]
+      "Captain",
+      []
     ],
     [
-      [
-        "Location"
-      ],
-      [
-        null
-      ]
+      "Location",
+      []
     ],
     [
-      [
-        "Arena"
-      ],
-      [
-        null
-      ]
+      "Arena",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Bigbank Tartu"
-        ],
+        "Bigbank Tartu",
         [
           "/wiki/Tartu_Volleyball"
         ]
       ],
       [
-        [
-          "Andrei Ojamets"
-        ],
-        [
-          null
-        ]
+        "Andrei Ojamets",
+        []
       ],
       [
-        [
-          "Kert Toobal"
-        ],
+        "Kert Toobal",
         [
           "/wiki/Kert_Toobal"
         ]
       ],
       [
-        [
-          "Tartu"
-        ],
+        "Tartu",
         [
           "/wiki/Tartu"
         ]
       ],
       [
-        [
-          "University of Tartu Sports Hall"
-        ],
+        "University of Tartu Sports Hall",
         [
           "/wiki/University_of_Tartu_Sports_Hall"
         ]
@@ -88,41 +56,29 @@
     ],
     [
       [
-        [
-          "P\u00e4rnu"
-        ],
+        "P\u00e4rnu",
         [
           "/wiki/P\u00e4rnu_VK"
         ]
       ],
       [
-        [
-          "Avo Keel"
-        ],
+        "Avo Keel",
         [
           "/wiki/Avo_Keel"
         ]
       ],
       [
-        [
-          "Martti Keel"
-        ],
-        [
-          null
-        ]
+        "Martti Keel",
+        []
       ],
       [
-        [
-          "P\u00e4rnu"
-        ],
+        "P\u00e4rnu",
         [
           "/wiki/P\u00e4rnu"
         ]
       ],
       [
-        [
-          "P\u00e4rnu Sports Hall"
-        ],
+        "P\u00e4rnu Sports Hall",
         [
           "/wiki/P\u00e4rnu_Sports_Hall"
         ]
@@ -130,83 +86,53 @@
     ],
     [
       [
-        [
-          "Saaremaa"
-        ],
+        "Saaremaa",
         [
           "/wiki/Saaremaa_VK"
         ]
       ],
       [
-        [
-          "Urmas Tali"
-        ],
-        [
-          null
-        ]
+        "Urmas Tali",
+        []
       ],
       [
-        [
-          "Daniel Maciel"
-        ],
-        [
-          null
-        ]
+        "Daniel Maciel",
+        []
       ],
       [
-        [
-          "Kuressaare"
-        ],
+        "Kuressaare",
         [
           "/wiki/Kuressaare"
         ]
       ],
       [
-        [
-          "Kuressaare Sports Centre"
-        ],
-        [
-          null
-        ]
+        "Kuressaare Sports Centre",
+        []
       ]
     ],
     [
       [
-        [
-          "Selver Tallinn"
-        ],
+        "Selver Tallinn",
         [
           "/wiki/VK_Selver_Tallinn"
         ]
       ],
       [
-        [
-          "Alessandro Piroli"
-        ],
-        [
-          null
-        ]
+        "Alessandro Piroli",
+        []
       ],
       [
-        [
-          "Karli Allik"
-        ],
-        [
-          null
-        ]
+        "Karli Allik",
+        []
       ],
       [
-        [
-          "Tallinn"
-        ],
+        "Tallinn",
         [
           "/wiki/Tallinn"
         ]
       ],
       [
-        [
-          "Audentes Sports Centre"
-        ],
+        "Audentes Sports Centre",
         [
           "/wiki/Audentes_Sports_Centre"
         ]
@@ -214,41 +140,29 @@
     ],
     [
       [
-        [
-          "TalTech"
-        ],
+        "TalTech",
         [
           "/wiki/TalTech_Volleyball"
         ]
       ],
       [
-        [
-          "Janis Sirelpuu"
-        ],
+        "Janis Sirelpuu",
         [
           "/wiki/Janis_Sirelpuu"
         ]
       ],
       [
-        [
-          "Mihkel Nuut"
-        ],
-        [
-          null
-        ]
+        "Mihkel Nuut",
+        []
       ],
       [
-        [
-          "Tallinn"
-        ],
+        "Tallinn",
         [
           "/wiki/Tallinn"
         ]
       ],
       [
-        [
-          "TalTech Sports Hall"
-        ],
+        "TalTech Sports Hall",
         [
           "/wiki/TalTech_Sports_Hall"
         ]
@@ -256,41 +170,25 @@
     ],
     [
       [
-        [
-          "Biolars/Jelgava"
-        ],
-        [
-          null
-        ]
+        "Biolars/Jelgava",
+        []
       ],
       [
-        [
-          "Austris \u0160t\u0101ls"
-        ],
-        [
-          null
-        ]
+        "Austris \u0160t\u0101ls",
+        []
       ],
       [
-        [
-          "Aleksandrs Kudrja\u0161ovs"
-        ],
-        [
-          null
-        ]
+        "Aleksandrs Kudrja\u0161ovs",
+        []
       ],
       [
-        [
-          "Jelgava"
-        ],
+        "Jelgava",
         [
           "/wiki/Jelgava"
         ]
       ],
       [
-        [
-          "Zemgale Olympic Center"
-        ],
+        "Zemgale Olympic Center",
         [
           "/wiki/Zemgale_Olympic_Center"
         ]
@@ -298,128 +196,76 @@
     ],
     [
       [
-        [
-          "J\u0113kabpils L\u016b\u0161i"
-        ],
-        [
-          null
-        ]
+        "J\u0113kabpils L\u016b\u0161i",
+        []
       ],
       [
-        [
-          "M\u0101rcis Obrumans"
-        ],
-        [
-          null
-        ]
+        "M\u0101rcis Obrumans",
+        []
       ],
       [
-        [
-          "Rihards Pukitis"
-        ],
-        [
-          null
-        ]
+        "Rihards Pukitis",
+        []
       ],
       [
-        [
-          "J\u0113kabpils"
-        ],
+        "J\u0113kabpils",
         [
           "/wiki/J\u0113kabpils"
         ]
       ],
       [
-        [
-          "J\u0113kabpils Sporta nams"
-        ],
-        [
-          null
-        ]
+        "J\u0113kabpils Sporta nams",
+        []
       ]
     ],
     [
       [
-        [
-          "OC Limba\u017ei/MSG"
-        ],
-        [
-          null
-        ]
+        "OC Limba\u017ei/MSG",
+        []
       ],
       [
-        [
-          "Lauris Iecelnieks"
-        ],
-        [
-          null
-        ]
+        "Lauris Iecelnieks",
+        []
       ],
       [
-        [
-          "J\u0101nis Jansons"
-        ],
-        [
-          null
-        ]
+        "J\u0101nis Jansons",
+        []
       ],
       [
-        [
-          "Limba\u017ei"
-        ],
+        "Limba\u017ei",
         [
           "/wiki/Limba\u017ei"
         ]
       ],
       [
-        [
-          "Limba\u017ei 3rd Secondary School"
-        ],
-        [
-          null
-        ]
+        "Limba\u017ei 3rd Secondary School",
+        []
       ]
     ],
     [
       [
-        [
-          "RTU/Robe\u017esardze"
-        ],
-        [
-          null
-        ]
+        "RTU/Robe\u017esardze",
+        []
       ],
       [
-        [
-          "Raimonds Vilde"
-        ],
+        "Raimonds Vilde",
         [
           "/wiki/Raimonds_Vilde"
         ]
       ],
       [
-        [
-          "Andrejs Zavorotnijs"
-        ],
-        [
-          null
-        ]
+        "Andrejs Zavorotnijs",
+        []
       ],
       [
-        [
-          "Riga"
-        ],
+        "Riga",
         [
           "/wiki/Riga"
         ]
       ],
       [
-        [
-          "Me\u017eaparks Sporta centrs"
-        ],
-        [
-          null
-        ]
+        "Me\u017eaparks Sporta centrs",
+        []
       ]
     ]
   ],

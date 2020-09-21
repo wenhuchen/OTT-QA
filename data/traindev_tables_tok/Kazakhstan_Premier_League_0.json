@@ -3,445 +3,309 @@
   "title": "Kazakhstan Premier League",
   "header": [
     [
-      [
-        "Team"
-      ],
-      [
-        null
-      ]
+      "Team",
+      []
     ],
     [
-      [
-        "Home city"
-      ],
-      [
-        null
-      ]
+      "Home city",
+      []
     ],
     [
-      [
-        "Stadium"
-      ],
-      [
-        null
-      ]
+      "Stadium",
+      []
     ],
     [
-      [
-        "Capacity"
-      ],
-      [
-        null
-      ]
+      "Capacity",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Aktobe"
-        ],
+        "Aktobe",
         [
           "/wiki/FC_Aktobe"
         ]
       ],
       [
-        [
-          "Aktobe"
-        ],
+        "Aktobe",
         [
           "/wiki/Aktobe"
         ]
       ],
       [
-        [
-          "Central Stadium ( Aktobe )"
-        ],
+        "Central Stadium ( Aktobe )",
         [
           "/wiki/Central_Stadium_(Aktobe)"
         ]
       ],
       [
-        [
-          "13,200"
-        ],
-        [
-          null
-        ]
+        "13,200",
+        []
       ]
     ],
     [
       [
-        [
-          "Astana"
-        ],
+        "Astana",
         [
           "/wiki/FC_Astana"
         ]
       ],
       [
-        [
-          "Nur-Sultan"
-        ],
+        "Nur-Sultan",
         [
           "/wiki/Nur-Sultan"
         ]
       ],
       [
-        [
-          "Astana Arena"
-        ],
+        "Astana Arena",
         [
           "/wiki/Astana_Arena"
         ]
       ],
       [
-        [
-          "30,244"
-        ],
-        [
-          null
-        ]
+        "30,244",
+        []
       ]
     ],
     [
       [
-        [
-          "Atyrau"
-        ],
+        "Atyrau",
         [
           "/wiki/FC_Atyrau"
         ]
       ],
       [
-        [
-          "Atyrau"
-        ],
+        "Atyrau",
         [
           "/wiki/Atyrau"
         ]
       ],
       [
-        [
-          "Munayshy Stadium"
-        ],
+        "Munayshy Stadium",
         [
           "/wiki/Munayshy_Stadium"
         ]
       ],
       [
-        [
-          "8,690"
-        ],
-        [
-          null
-        ]
+        "8,690",
+        []
       ]
     ],
     [
       [
-        [
-          "Irtysh Pavlodar"
-        ],
+        "Irtysh Pavlodar",
         [
           "/wiki/FC_Irtysh_Pavlodar"
         ]
       ],
       [
-        [
-          "Pavlodar"
-        ],
+        "Pavlodar",
         [
           "/wiki/Pavlodar"
         ]
       ],
       [
-        [
-          "Pavlodar Central Stadium"
-        ],
+        "Pavlodar Central Stadium",
         [
           "/wiki/Pavlodar_Central_Stadium"
         ]
       ],
       [
-        [
-          "15,000"
-        ],
-        [
-          null
-        ]
+        "15,000",
+        []
       ]
     ],
     [
       [
-        [
-          "Kairat"
-        ],
+        "Kairat",
         [
           "/wiki/FC_Kairat"
         ]
       ],
       [
-        [
-          "Almaty"
-        ],
+        "Almaty",
         [
           "/wiki/Almaty"
         ]
       ],
       [
-        [
-          "Central Stadium ( Almaty )"
-        ],
+        "Central Stadium ( Almaty )",
         [
           "/wiki/Central_Stadium_(Almaty)"
         ]
       ],
       [
-        [
-          "23,804"
-        ],
-        [
-          null
-        ]
+        "23,804",
+        []
       ]
     ],
     [
       [
-        [
-          "Kaisar"
-        ],
+        "Kaisar",
         [
           "/wiki/FC_Kaisar"
         ]
       ],
       [
-        [
-          "Kyzylorda"
-        ],
+        "Kyzylorda",
         [
           "/wiki/Kyzylorda"
         ]
       ],
       [
-        [
-          "Gany Muratbayev Stadium"
-        ],
+        "Gany Muratbayev Stadium",
         [
           "/wiki/Gany_Muratbayev_Stadium"
         ]
       ],
       [
-        [
-          "7,500"
-        ],
-        [
-          null
-        ]
+        "7,500",
+        []
       ]
     ],
     [
       [
-        [
-          "Okzhetpes"
-        ],
+        "Okzhetpes",
         [
           "/wiki/FC_Okzhetpes"
         ]
       ],
       [
-        [
-          "Kokshetau"
-        ],
+        "Kokshetau",
         [
           "/wiki/Kokshetau"
         ]
       ],
       [
-        [
-          "Okzhetpes Stadium"
-        ],
+        "Okzhetpes Stadium",
         [
           "/wiki/Okzhetpes_Stadium"
         ]
       ],
       [
-        [
-          "4,158"
-        ],
-        [
-          null
-        ]
+        "4,158",
+        []
       ]
     ],
     [
       [
-        [
-          "Ordabasy"
-        ],
+        "Ordabasy",
         [
           "/wiki/FC_Ordabasy"
         ]
       ],
       [
-        [
-          "Shymkent"
-        ],
+        "Shymkent",
         [
           "/wiki/Shymkent"
         ]
       ],
       [
-        [
-          "Kazhymukan Munaitpasov Stadium"
-        ],
+        "Kazhymukan Munaitpasov Stadium",
         [
           "/wiki/Kazhymukan_Munaitpasov_Stadium_(Shymkent)"
         ]
       ],
       [
-        [
-          "37,000"
-        ],
-        [
-          null
-        ]
+        "37,000",
+        []
       ]
     ],
     [
       [
-        [
-          "Shakhter Karagandy"
-        ],
+        "Shakhter Karagandy",
         [
           "/wiki/FC_Shakhter_Karagandy"
         ]
       ],
       [
-        [
-          "Karaganda"
-        ],
+        "Karaganda",
         [
           "/wiki/Karaganda"
         ]
       ],
       [
-        [
-          "Shakhter Stadium ( Karagandy )"
-        ],
+        "Shakhter Stadium ( Karagandy )",
         [
           "/wiki/Shakhter_Stadium_(Karagandy)"
         ]
       ],
       [
-        [
-          "19,000"
-        ],
-        [
-          null
-        ]
+        "19,000",
+        []
       ]
     ],
     [
       [
-        [
-          "Taraz"
-        ],
+        "Taraz",
         [
           "/wiki/FC_Taraz"
         ]
       ],
       [
-        [
-          "Taraz"
-        ],
+        "Taraz",
         [
           "/wiki/Taraz"
         ]
       ],
       [
-        [
-          "Taraz Central Stadium"
-        ],
+        "Taraz Central Stadium",
         [
           "/wiki/Taraz_Central_Stadium"
         ]
       ],
       [
-        [
-          "12,525"
-        ],
-        [
-          null
-        ]
+        "12,525",
+        []
       ]
     ],
     [
       [
-        [
-          "Tobol"
-        ],
+        "Tobol",
         [
           "/wiki/FC_Tobol"
         ]
       ],
       [
-        [
-          "Kostanay"
-        ],
+        "Kostanay",
         [
           "/wiki/Kostanay"
         ]
       ],
       [
-        [
-          "Kostanay Central Stadium"
-        ],
+        "Kostanay Central Stadium",
         [
           "/wiki/Kostanay_Central_Stadium"
         ]
       ],
       [
-        [
-          "10,500"
-        ],
-        [
-          null
-        ]
+        "10,500",
+        []
       ]
     ],
     [
       [
-        [
-          "Zhetysu"
-        ],
+        "Zhetysu",
         [
           "/wiki/FC_Zhetysu"
         ]
       ],
       [
-        [
-          "Taldykorgan"
-        ],
+        "Taldykorgan",
         [
           "/wiki/Taldykorgan"
         ]
       ],
       [
-        [
-          "Zhetysu Stadium"
-        ],
+        "Zhetysu Stadium",
         [
           "/wiki/Zhetysu_Stadium"
         ]
       ],
       [
-        [
-          "4,000"
-        ],
-        [
-          null
-        ]
+        "4,000",
+        []
       ]
     ]
   ],

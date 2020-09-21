@@ -3,84 +3,50 @@
   "title": "List of Copa CONMEBOL finals",
   "header": [
     [
-      [
-        "City"
-      ],
-      [
-        null
-      ]
+      "City",
+      []
     ],
     [
-      [
-        "Won"
-      ],
-      [
-        null
-      ]
+      "Won",
+      []
     ],
     [
-      [
-        "Runners-Up"
-      ],
-      [
-        null
-      ]
+      "Runners-Up",
+      []
     ],
     [
-      [
-        "Winning Clubs"
-      ],
-      [
-        null
-      ]
+      "Winning Clubs",
+      []
     ],
     [
-      [
-        "Runners-Up"
-      ],
-      [
-        null
-      ]
+      "Runners-Up",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Belo Horizonte"
-        ],
+        "Belo Horizonte",
         [
           "/wiki/Belo_Horizonte"
         ]
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "Atl\u00e9tico Mineiro"
-        ],
+        "Atl\u00e9tico Mineiro ( 2 )",
         [
           "/wiki/Clube_Atl\u00e9tico_Mineiro"
         ]
       ],
       [
-        [
-          "Atl\u00e9tico Mineiro"
-        ],
+        "Atl\u00e9tico Mineiro ( 1 )",
         [
           "/wiki/Clube_Atl\u00e9tico_Mineiro"
         ]
@@ -88,41 +54,27 @@
     ],
     [
       [
-        [
-          "Lan\u00fas"
-        ],
+        "Lan\u00fas",
         [
           "/wiki/Lan\u00fas"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "Lan\u00fas"
-        ],
+        "Lan\u00fas ( 1 )",
         [
           "/wiki/Club_Atl\u00e9tico_Lan\u00fas"
         ]
       ],
       [
-        [
-          "Lan\u00fas"
-        ],
+        "Lan\u00fas ( 1 )",
         [
           "/wiki/Club_Atl\u00e9tico_Lan\u00fas"
         ]
@@ -130,41 +82,27 @@
     ],
     [
       [
-        [
-          "Rosario"
-        ],
+        "Rosario",
         [
           "/wiki/Rosario"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "Rosario Central"
-        ],
+        "Rosario Central ( 1 )",
         [
           "/wiki/Rosario_Central"
         ]
       ],
       [
-        [
-          "Rosario Central"
-        ],
+        "Rosario Central ( 1 )",
         [
           "/wiki/Rosario_Central"
         ]
@@ -172,209 +110,129 @@
     ],
     [
       [
-        [
-          "S\u00e3o Paulo"
-        ],
+        "S\u00e3o Paulo",
         [
           "/wiki/S\u00e3o_Paulo"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "S\u00e3o Paulo"
-        ],
+        "S\u00e3o Paulo ( 1 )",
         [
           "/wiki/S\u00e3o_Paulo_FC"
         ]
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ]
     ],
     [
       [
-        [
-          "Santos"
-        ],
+        "Santos",
         [
           "/wiki/Santos,_S\u00e3o_Paulo"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "Santos"
-        ],
+        "Santos ( 1 )",
         [
           "/wiki/Santos_FC"
         ]
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ]
     ],
     [
       [
-        [
-          "C\u00f3rdoba"
-        ],
+        "C\u00f3rdoba",
         [
           "/wiki/C\u00f3rdoba,_Argentina"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "Talleres"
-        ],
+        "Talleres ( 1 )",
         [
           "/wiki/Talleres_de_C\u00f3rdoba"
         ]
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ]
     ],
     [
       [
-        [
-          "Rio de Janeiro"
-        ],
+        "Rio de Janeiro",
         [
           "/wiki/Rio_de_Janeiro"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "Botafogo"
-        ],
+        "Botafogo ( 1 )",
         [
           "/wiki/Botafogo"
         ]
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ]
     ],
     [
       [
-        [
-          "Montevideo"
-        ],
+        "Montevideo",
         [
           "/wiki/Montevideo"
         ]
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "Pe\u00f1arol"
-        ],
+        "Pe\u00f1arol ( 2 )",
         [
           "/wiki/CA_Pe\u00f1arol"
         ]
@@ -382,41 +240,25 @@
     ],
     [
       [
-        [
-          "Macei\u00f3"
-        ],
+        "Macei\u00f3",
         [
           "/wiki/Macei\u00f3"
         ]
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "CSA"
-        ],
+        "CSA ( 1 )",
         [
           "/wiki/Centro_Sportivo_Alagoano"
         ]
@@ -424,41 +266,25 @@
     ],
     [
       [
-        [
-          "Asunci\u00f3n"
-        ],
+        "Asunci\u00f3n",
         [
           "/wiki/Asunci\u00f3n"
         ]
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "Olimpia"
-        ],
+        "Olimpia ( 1 )",
         [
           "/wiki/Club_Olimpia"
         ]
@@ -466,41 +292,25 @@
     ],
     [
       [
-        [
-          "Bogot\u00e1"
-        ],
+        "Bogot\u00e1",
         [
           "/wiki/Bogot\u00e1"
         ]
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "Santa Fe"
-        ],
+        "Santa Fe ( 1 )",
         [
           "/wiki/Club_Santa_Fe"
         ]

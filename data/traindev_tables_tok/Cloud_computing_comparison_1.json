@@ -3,732 +3,435 @@
   "title": "Cloud-computing comparison",
   "header": [
     [
-      [
-        "SaaS ( Software as a Service )"
-      ],
-      [
-        null
-      ]
+      "SaaS ( Software as a Service )",
+      []
     ],
     [
-      [
-        "Initial release date"
-      ],
-      [
-        null
-      ]
+      "Initial release date",
+      []
     ],
     [
-      [
-        "License ( s )"
-      ],
-      [
-        null
-      ]
+      "License ( s )",
+      []
     ],
     [
-      [
-        "Written in"
-      ],
-      [
-        null
-      ]
+      "Written in",
+      []
     ],
     [
-      [
-        "As a service"
-      ],
-      [
-        null
-      ]
+      "As a service",
+      []
     ],
     [
-      [
-        "Local installations"
-      ],
-      [
-        null
-      ]
+      "Local installations",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "fluid Operations eCloudManager"
-        ],
+        "fluid Operations eCloudManager",
         [
           "/wiki/Fluid_Operations"
         ]
       ],
       [
-        [
-          "2009-03-01"
-        ],
-        [
-          null
-        ]
+        "2009-03-01",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary",
         [
           "/wiki/Proprietary_software"
         ]
       ],
       [
-        [
-          "Java , Groovy"
-        ],
-        [
-          null
-        ]
+        "Java , Groovy",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ]
     ],
     [
       [
-        [
-          "AppScale"
-        ],
+        "AppScale",
         [
           "/wiki/AppScale"
         ]
       ],
       [
-        [
-          "2009-03-07"
-        ],
-        [
-          null
-        ]
+        "2009-03-07",
+        []
       ],
       [
-        [
-          "Apache License",
-          "[ 1 ]"
-        ],
-        [
-          "/wiki/Apache_License",
-          null
-        ]
-      ],
-      [
-        [
-          "Python , Ruby , Go"
-        ],
-        [
-          null
-        ]
-      ],
-      [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
-      ],
-      [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
-      ]
-    ],
-    [
-      [
-        [
-          "Cloud Foundry"
-        ],
-        [
-          "/wiki/Cloud_Foundry"
-        ]
-      ],
-      [
-        [
-          "2011-04-12"
-        ],
-        [
-          null
-        ]
-      ],
-      [
-        [
-          "Apache License"
-        ],
+        "Apache License [ 1 ]",
         [
           "/wiki/Apache_License"
         ]
       ],
       [
-        [
-          "Ruby , C , Java , Go"
-        ],
-        [
-          null
-        ]
+        "Python , Ruby , Go",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ]
     ],
     [
       [
+        "Cloud Foundry",
         [
-          "Cloud.com"
-        ],
+          "/wiki/Cloud_Foundry"
+        ]
+      ],
+      [
+        "2011-04-12",
+        []
+      ],
+      [
+        "Apache License",
+        [
+          "/wiki/Apache_License"
+        ]
+      ],
+      [
+        "Ruby , C , Java , Go",
+        []
+      ],
+      [
+        "Yes",
+        []
+      ],
+      [
+        "Yes",
+        []
+      ]
+    ],
+    [
+      [
+        "Cloud.com / CloudStack",
         [
           "/wiki/Cloud.com"
         ]
       ],
       [
-        [
-          "2010-05-04"
-        ],
-        [
-          null
-        ]
+        "2010-05-04",
+        []
       ],
       [
-        [
-          "Apache license"
-        ],
+        "Apache license",
         [
           "/wiki/Apache_license"
         ]
       ],
       [
-        [
-          "Java , C"
-        ],
-        [
-          null
-        ]
+        "Java , C",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ]
     ],
     [
       [
-        [
-          "Eucalyptus"
-        ],
+        "Eucalyptus",
         [
           "/wiki/Eucalyptus_(computing)"
         ]
       ],
       [
-        [
-          "2008-05-29"
-        ],
-        [
-          null
-        ]
+        "2008-05-29",
+        []
       ],
       [
-        [
-          "Proprietary",
-          "GPL v3"
-        ],
+        "Proprietary , GPL v3",
         [
           "/wiki/Proprietary_software",
           "/wiki/GPL_v3"
         ]
       ],
       [
-        [
-          "Java , C"
-        ],
-        [
-          null
-        ]
+        "Java , C",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ]
     ],
     [
       [
-        [
-          "Flexiant Limited"
-        ],
+        "Flexiant Limited",
         [
           "/wiki/Flexiant_Limited"
         ]
       ],
       [
-        [
-          "2007-01-15"
-        ],
-        [
-          null
-        ]
+        "2007-01-15",
+        []
       ],
       [
-        [
-          "Proprietary software"
-        ],
+        "Proprietary software",
         [
           "/wiki/Proprietary_software"
         ]
       ],
       [
-        [
-          "Java , C"
-        ],
-        [
-          null
-        ]
+        "Java , C",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ]
     ],
     [
       [
-        [
-          "Nimbus"
-        ],
+        "Nimbus",
         [
           "/wiki/Nimbus_(cloud_computing)"
         ]
       ],
       [
-        [
-          "2009-01-09"
-        ],
-        [
-          null
-        ]
+        "2009-01-09",
+        []
       ],
       [
-        [
-          "Apache License"
-        ],
+        "Apache License",
         [
           "/wiki/Apache_License"
         ]
       ],
       [
-        [
-          "Java , Python"
-        ],
-        [
-          null
-        ]
+        "Java , Python",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ]
     ],
     [
       [
-        [
-          "OpenNebula"
-        ],
+        "OpenNebula",
         [
           "/wiki/OpenNebula"
         ]
       ],
       [
-        [
-          "2008-03- ? ?"
-        ],
-        [
-          null
-        ]
+        "2008-03- ? ?",
+        []
       ],
       [
-        [
-          "Apache License"
-        ],
+        "Apache License",
         [
           "/wiki/Apache_License"
         ]
       ],
       [
-        [
-          "C++ , C , Ruby , Java , Shell script , lex , yacc"
-        ],
-        [
-          null
-        ]
+        "C++ , C , Ruby , Java , Shell script , lex , yacc",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ]
     ],
     [
       [
-        [
-          "OpenQRM"
-        ],
+        "OpenQRM",
         [
           "/wiki/OpenQRM"
         ]
       ],
       [
-        [
-          "2008-03- ? ?"
-        ],
-        [
-          null
-        ]
+        "2008-03- ? ?",
+        []
       ],
       [
-        [
-          "GPL License"
-        ],
+        "GPL License",
         [
           "/wiki/GPL_License"
         ]
       ],
       [
-        [
-          "C++ , PHP , Shell script"
-        ],
-        [
-          null
-        ]
+        "C++ , PHP , Shell script",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ]
     ],
     [
       [
-        [
-          "OpenShift"
-        ],
+        "OpenShift",
         [
           "/wiki/OpenShift"
         ]
       ],
       [
-        [
-          "2011-05-04"
-        ],
-        [
-          null
-        ]
+        "2011-05-04",
+        []
       ],
       [
-        [
-          "Apache License"
-        ],
+        "Apache License",
         [
           "/wiki/Apache_License"
         ]
       ],
       [
-        [
-          "Go"
-        ],
-        [
-          null
-        ]
+        "Go",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ]
     ],
     [
       [
-        [
-          "OpenStack"
-        ],
+        "OpenStack",
         [
           "/wiki/OpenStack"
         ]
       ],
       [
-        [
-          "2010-10-21"
-        ],
-        [
-          null
-        ]
+        "2010-10-21",
+        []
       ],
       [
-        [
-          "Apache License"
-        ],
+        "Apache License",
         [
           "/wiki/Apache_License"
         ]
       ],
       [
-        [
-          "Python"
-        ],
-        [
-          null
-        ]
+        "Python",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ]
     ],
     [
       [
-        [
-          "OnApp"
-        ],
+        "OnApp",
         [
           "/wiki/OnApp"
         ]
       ],
       [
-        [
-          "2010-07-01"
-        ],
-        [
-          null
-        ]
+        "2010-07-01",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary",
         [
           "/wiki/Proprietary_software"
         ]
       ],
       [
-        [
-          "Java , Ruby , C++"
-        ],
-        [
-          null
-        ]
+        "Java , Ruby , C++",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ]
     ],
     [
       [
-        [
-          "oVirt"
-        ],
+        "oVirt",
         [
           "/wiki/OVirt"
         ]
       ],
       [
-        [
-          "2012-08-09"
-        ],
-        [
-          null
-        ]
+        "2012-08-09",
+        []
       ],
       [
-        [
-          "Apache License"
-        ],
+        "Apache License",
         [
           "/wiki/Apache_License"
         ]
       ],
       [
-        [
-          "Java , Python"
-        ],
-        [
-          null
-        ]
+        "Java , Python",
+        []
       ],
       [
-        [
-          "?"
-        ],
-        [
-          null
-        ]
+        "?",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ]
     ],
     [
       [
-        [
-          "Jelastic"
-        ],
+        "Jelastic",
         [
           "/wiki/Jelastic"
         ]
       ],
       [
-        [
-          "2011-01-27"
-        ],
-        [
-          null
-        ]
+        "2011-01-27",
+        []
       ],
       [
-        [
-          "GPL License",
-          "Apache License",
-          "BSD License"
-        ],
+        "GPL License , Apache License , BSD License",
         [
           "/wiki/GPL_License",
           "/wiki/Apache_License",
@@ -736,28 +439,16 @@
         ]
       ],
       [
-        [
-          "Java , JavaScript , Perl , Shell script"
-        ],
-        [
-          null
-        ]
+        "Java , JavaScript , Perl , Shell script",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ]
     ]
   ],

@@ -3,41 +3,25 @@
   "title": "List of airports in South Australia",
   "header": [
     [
-      [
-        "Community"
-      ],
-      [
-        null
-      ]
+      "Community",
+      []
     ],
     [
-      [
-        "Airport name"
-      ],
-      [
-        null
-      ]
+      "Airport name",
+      []
     ],
     [
-      [
-        "Type"
-      ],
-      [
-        null
-      ]
+      "Type",
+      []
     ],
     [
-      [
-        "ICAO"
-      ],
+      "ICAO",
       [
         "/wiki/International_Civil_Aviation_Organization_airport_code"
       ]
     ],
     [
-      [
-        "IATA"
-      ],
+      "IATA",
       [
         "/wiki/International_Air_Transport_Association_airport_code"
       ]
@@ -46,842 +30,514 @@
   "data": [
     [
       [
-        [
-          "Adelaide"
-        ],
+        "Adelaide",
         [
           "/wiki/Adelaide"
         ]
       ],
       [
-        [
-          "Adelaide Airport"
-        ],
+        "Adelaide Airport",
         [
           "/wiki/Adelaide_Airport"
         ]
       ],
       [
-        [
-          "Public"
-        ],
-        [
-          null
-        ]
+        "Public",
+        []
       ],
       [
-        [
-          "YPAD"
-        ],
-        [
-          null
-        ]
+        "YPAD",
+        []
       ],
       [
-        [
-          "ADL"
-        ],
-        [
-          null
-        ]
+        "ADL",
+        []
       ]
     ],
     [
       [
-        [
-          "Aldinga"
-        ],
+        "Aldinga",
         [
           "/wiki/Aldinga,_South_Australia"
         ]
       ],
       [
-        [
-          "Aldinga Airfield"
-        ],
+        "Aldinga Airfield",
         [
           "/wiki/Aldinga_Airfield"
         ]
       ],
       [
-        [
-          "Public"
-        ],
-        [
-          null
-        ]
+        "Public",
+        []
       ],
       [
-        [
-          "YADG"
-        ],
-        [
-          null
-        ]
+        "YADG",
+        []
       ],
       [
-        [
-          "ADG"
-        ],
-        [
-          null
-        ]
+        "ADG",
+        []
       ]
     ],
     [
       [
-        [
-          "Alton Downs"
-        ],
+        "Alton Downs",
         [
           "/wiki/Alton_Downs_Station"
         ]
       ],
       [
-        [
-          "Alton Downs Airport"
-        ],
+        "Alton Downs Airport",
         [
           "/wiki/Alton_Downs_Airport"
         ]
       ],
       [
-        [
-          "Private"
-        ],
-        [
-          null
-        ]
+        "Private",
+        []
       ],
       [
-        [
-          "YADS"
-        ],
-        [
-          null
-        ]
+        "YADS",
+        []
       ],
       [
-        [
-          "AWN"
-        ],
-        [
-          null
-        ]
+        "AWN",
+        []
       ]
     ],
     [
       [
-        [
-          "Amata"
-        ],
+        "Amata",
         [
           "/wiki/Amata,_South_Australia"
         ]
       ],
       [
-        [
-          "Amata Airport"
-        ],
+        "Amata Airport",
         [
           "/wiki/Amata_Airport"
         ]
       ],
       [
-        [
-          "Private"
-        ],
-        [
-          null
-        ]
+        "Private",
+        []
       ],
       [
-        [
-          "YAMT"
-        ],
-        [
-          null
-        ]
+        "YAMT",
+        []
       ],
       [
-        [
-          "AMT"
-        ],
-        [
-          null
-        ]
+        "AMT",
+        []
       ]
     ],
     [
       [
-        [
-          "American River"
-        ],
+        "American River",
         [
           "/wiki/American_River,_South_Australia"
         ]
       ],
       [
-        [
-          "American River Airpark"
-        ],
+        "American River Airpark",
         [
           "/wiki/American_River_Airpark"
         ]
       ],
       [
-        [
-          "Private"
-        ],
-        [
-          null
-        ]
+        "Private",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "RCN"
-        ],
-        [
-          null
-        ]
+        "RCN",
+        []
       ]
     ],
     [
       [
-        [
-          "Andamooka"
-        ],
+        "Andamooka",
         [
           "/wiki/Andamooka,_South_Australia"
         ]
       ],
       [
-        [
-          "Andamooka Airport"
-        ],
+        "Andamooka Airport",
         [
           "/wiki/Andamooka_Airport"
         ]
       ],
       [
-        [
-          "Public"
-        ],
-        [
-          null
-        ]
+        "Public",
+        []
       ],
       [
-        [
-          "YAMK"
-        ],
-        [
-          null
-        ]
+        "YAMK",
+        []
       ],
       [
-        [
-          "ADO"
-        ],
-        [
-          null
-        ]
+        "ADO",
+        []
       ]
     ],
     [
       [
-        [
-          "Balcanoona"
-        ],
+        "Balcanoona",
         [
           "/wiki/Balcanoona"
         ]
       ],
       [
-        [
-          "Balcanoona Airport"
-        ],
+        "Balcanoona Airport",
         [
           "/wiki/Balcanoona_Airport"
         ]
       ],
       [
-        [
-          "Private"
-        ],
-        [
-          null
-        ]
+        "Private",
+        []
       ],
       [
-        [
-          "YBLC"
-        ],
-        [
-          null
-        ]
+        "YBLC",
+        []
       ],
       [
-        [
-          "LCN"
-        ],
-        [
-          null
-        ]
+        "LCN",
+        []
       ]
     ],
     [
       [
-        [
-          "Brukunga"
-        ],
+        "Brukunga",
         [
           "/wiki/Brukunga,_South_Australia"
         ]
       ],
       [
-        [
-          "Claremont Airbase"
-        ],
+        "Claremont Airbase",
         [
           "/wiki/Claremont_Airbase"
         ]
       ],
       [
-        [
-          "Private"
-        ],
-        [
-          null
-        ]
+        "Private",
+        []
       ],
       [
-        [
-          "YCLB"
-        ],
-        [
-          null
-        ]
+        "YCLB",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Carrapateena mine"
-        ],
+        "Carrapateena mine",
         [
           "/wiki/Carrapateena_mine"
         ]
       ],
       [
-        [
-          "Carrapateena Airport"
-        ],
+        "Carrapateena Airport",
         [
           "/wiki/Carrapateena_Airport"
         ]
       ],
       [
-        [
-          "Private"
-        ],
-        [
-          null
-        ]
+        "Private",
+        []
       ],
       [
-        [
-          "YCPT"
-        ],
-        [
-          null
-        ]
+        "YCPT",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Ceduna"
-        ],
+        "Ceduna",
         [
           "/wiki/Ceduna,_South_Australia"
         ]
       ],
       [
-        [
-          "Ceduna Airport"
-        ],
+        "Ceduna Airport",
         [
           "/wiki/Ceduna_Airport"
         ]
       ],
       [
-        [
-          "Public"
-        ],
-        [
-          null
-        ]
+        "Public",
+        []
       ],
       [
-        [
-          "YCDU"
-        ],
-        [
-          null
-        ]
+        "YCDU",
+        []
       ],
       [
-        [
-          "CED"
-        ],
-        [
-          null
-        ]
+        "CED",
+        []
       ]
     ],
     [
       [
-        [
-          "Cleve"
-        ],
+        "Cleve",
         [
           "/wiki/Cleve,_South_Australia"
         ]
       ],
       [
-        [
-          "Cleve Airport"
-        ],
+        "Cleve Airport",
         [
           "/wiki/Cleve_Airport"
         ]
       ],
       [
-        [
-          "Public"
-        ],
-        [
-          null
-        ]
+        "Public",
+        []
       ],
       [
-        [
-          "YCEE"
-        ],
-        [
-          null
-        ]
+        "YCEE",
+        []
       ],
       [
-        [
-          "CVC"
-        ],
-        [
-          null
-        ]
+        "CVC",
+        []
       ]
     ],
     [
       [
-        [
-          "Clifton Hills"
-        ],
+        "Clifton Hills",
         [
           "/wiki/Clifton_Hills_Station"
         ]
       ],
       [
-        [
-          "Clifton Hills Landing Strip"
-        ],
+        "Clifton Hills Landing Strip",
         [
           "/wiki/Clifton_Hills_Landing_Strip"
         ]
       ],
       [
-        [
-          "Public"
-        ],
-        [
-          null
-        ]
+        "Public",
+        []
       ],
       [
-        [
-          "YCFH"
-        ],
-        [
-          null
-        ]
+        "YCFH",
+        []
       ],
       [
-        [
-          "CFH"
-        ],
-        [
-          null
-        ]
+        "CFH",
+        []
       ]
     ],
     [
       [
-        [
-          "Coober Pedy"
-        ],
+        "Coober Pedy",
         [
           "/wiki/Coober_Pedy"
         ]
       ],
       [
-        [
-          "Coober Pedy Airport"
-        ],
+        "Coober Pedy Airport",
         [
           "/wiki/Coober_Pedy_Airport"
         ]
       ],
       [
-        [
-          "Public"
-        ],
-        [
-          null
-        ]
+        "Public",
+        []
       ],
       [
-        [
-          "YCBP"
-        ],
-        [
-          null
-        ]
+        "YCBP",
+        []
       ],
       [
-        [
-          "CPD"
-        ],
-        [
-          null
-        ]
+        "CPD",
+        []
       ]
     ],
     [
       [
-        [
-          "Coorabie"
-        ],
+        "Coorabie",
         [
           "/wiki/Coorabie"
         ]
       ],
       [
-        [
-          "Coorabie Airport"
-        ],
-        [
-          null
-        ]
+        "Coorabie Airport",
+        []
       ],
       [
-        [
-          "Public"
-        ],
-        [
-          null
-        ]
+        "Public",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "CRJ"
-        ],
-        [
-          null
-        ]
+        "CRJ",
+        []
       ]
     ],
     [
       [
-        [
-          "Cordillo Downs"
-        ],
+        "Cordillo Downs",
         [
           "/wiki/Cordillo_Downs"
         ]
       ],
       [
-        [
-          "Cordillo Downs Airport"
-        ],
-        [
-          null
-        ]
+        "Cordillo Downs Airport",
+        []
       ],
       [
-        [
-          "Private"
-        ],
-        [
-          null
-        ]
+        "Private",
+        []
       ],
       [
-        [
-          "YCOD"
-        ],
-        [
-          null
-        ]
+        "YCOD",
+        []
       ],
       [
-        [
-          "ODL"
-        ],
-        [
-          null
-        ]
+        "ODL",
+        []
       ]
     ],
     [
       [
-        [
-          "Cowarie"
-        ],
+        "Cowarie",
         [
           "/wiki/Cowarie_Station"
         ]
       ],
       [
-        [
-          "Cowarie Airport"
-        ],
-        [
-          null
-        ]
+        "Cowarie Airport",
+        []
       ],
       [
-        [
-          "Public"
-        ],
-        [
-          null
-        ]
+        "Public",
+        []
       ],
       [
-        [
-          "YCWI"
-        ],
-        [
-          null
-        ]
+        "YCWI",
+        []
       ],
       [
-        [
-          "CWR"
-        ],
-        [
-          null
-        ]
+        "CWR",
+        []
       ]
     ],
     [
       [
-        [
-          "Cowell"
-        ],
+        "Cowell",
         [
           "/wiki/Cowell,_South_Australia"
         ]
       ],
       [
-        [
-          "Cowell Airport"
-        ],
+        "Cowell Airport",
         [
           "/wiki/Cowell_Airport"
         ]
       ],
       [
-        [
-          "Public"
-        ],
-        [
-          null
-        ]
+        "Public",
+        []
       ],
       [
-        [
-          "YCWL"
-        ],
-        [
-          null
-        ]
+        "YCWL",
+        []
       ],
       [
-        [
-          "CCW"
-        ],
-        [
-          null
-        ]
+        "CCW",
+        []
       ]
     ],
     [
       [
-        [
-          "Dulkaninna"
-        ],
+        "Dulkaninna",
         [
           "/wiki/Dulkaninna"
         ]
       ],
       [
-        [
-          "Dulkaninna Airport"
-        ],
-        [
-          null
-        ]
+        "Dulkaninna Airport",
+        []
       ],
       [
-        [
-          "Public"
-        ],
-        [
-          null
-        ]
+        "Public",
+        []
       ],
       [
-        [
-          "YDLK"
-        ],
-        [
-          null
-        ]
+        "YDLK",
+        []
       ],
       [
-        [
-          "DLK"
-        ],
-        [
-          null
-        ]
+        "DLK",
+        []
       ]
     ],
     [
       [
-        [
-          "Edinburgh"
-        ],
+        "Edinburgh",
         [
           "/wiki/Edinburgh,_South_Australia"
         ]
       ],
       [
-        [
-          "RAAF Base Edinburgh"
-        ],
+        "RAAF Base Edinburgh",
         [
           "/wiki/RAAF_Base_Edinburgh"
         ]
       ],
       [
-        [
-          "Military"
-        ],
-        [
-          null
-        ]
+        "Military",
+        []
       ],
       [
-        [
-          "YPED"
-        ],
-        [
-          null
-        ]
+        "YPED",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Etadunna"
-        ],
+        "Etadunna",
         [
           "/wiki/Etadunna,_South_Australia"
         ]
       ],
       [
-        [
-          "Etadunna Airstrip"
-        ],
+        "Etadunna Airstrip",
         [
           "/wiki/Etadunna_Airstrip"
         ]
       ],
       [
-        [
-          "Public"
-        ],
-        [
-          null
-        ]
+        "Public",
+        []
       ],
       [
-        [
-          "YEDA"
-        ],
-        [
-          null
-        ]
+        "YEDA",
+        []
       ],
       [
-        [
-          "ETD"
-        ],
-        [
-          null
-        ]
+        "ETD",
+        []
       ]
     ]
   ],

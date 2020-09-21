@@ -3,102 +3,57 @@
   "title": "List of county routes in Sullivan County, New York",
   "header": [
     [
-      [
-        "Route"
-      ],
-      [
-        null
-      ]
+      "Route",
+      []
     ],
     [
-      [
-        "Length ( mi )"
-      ],
-      [
-        null
-      ]
+      "Length ( mi )",
+      []
     ],
     [
-      [
-        "Length ( km )"
-      ],
-      [
-        null
-      ]
+      "Length ( km )",
+      []
     ],
     [
-      [
-        "From"
-      ],
-      [
-        null
-      ]
+      "From",
+      []
     ],
     [
-      [
-        "Via"
-      ],
-      [
-        null
-      ]
+      "Via",
+      []
     ],
     [
-      [
-        "To"
-      ],
-      [
-        null
-      ]
+      "To",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "CR 141"
-        ],
-        [
-          null
-        ]
+        "CR 141",
+        []
       ],
       [
-        [
-          "6.83"
-        ],
-        [
-          null
-        ]
+        "6.83",
+        []
       ],
       [
-        [
-          "10.99"
-        ],
-        [
-          null
-        ]
+        "10.99",
+        []
       ],
       [
-        [
-          "NY 55",
-          "Bethel"
-        ],
+        "NY 55 / CR 14 in Bethel",
         [
           "/wiki/NY_55",
           "/wiki/Bethel,_New_York"
         ]
       ],
       [
-        [
-          "Horseshoe Lake and White Lake roads"
-        ],
-        [
-          null
-        ]
+        "Horseshoe Lake and White Lake roads",
+        []
       ],
       [
-        [
-          "Liberty"
-        ],
+        "CR 142 / CR 143 in Liberty",
         [
           "/wiki/Liberty_(town),_New_York"
         ]
@@ -106,49 +61,29 @@
     ],
     [
       [
-        [
-          "CR 142"
-        ],
-        [
-          null
-        ]
+        "CR 142",
+        []
       ],
       [
-        [
-          "2.15"
-        ],
-        [
-          null
-        ]
+        "2.15",
+        []
       ],
       [
-        [
-          "3.46"
-        ],
-        [
-          null
-        ]
+        "3.46",
+        []
       ],
       [
-        [
-          "CR 141 / CR 143"
-        ],
-        [
-          null
-        ]
+        "CR 141 / CR 143",
+        []
       ],
       [
-        [
-          "Liberty"
-        ],
+        "Swan Lake Road in Liberty",
         [
           "/wiki/Liberty_(town),_New_York"
         ]
       ],
       [
-        [
-          "NY 55"
-        ],
+        "NY 55 / CR 15",
         [
           "/wiki/NY_55"
         ]
@@ -156,49 +91,29 @@
     ],
     [
       [
-        [
-          "CR 143"
-        ],
-        [
-          null
-        ]
+        "CR 143",
+        []
       ],
       [
-        [
-          "4.96"
-        ],
-        [
-          null
-        ]
+        "4.96",
+        []
       ],
       [
-        [
-          "7.98"
-        ],
-        [
-          null
-        ]
+        "7.98",
+        []
       ],
       [
-        [
-          "CR 141 / CR 142"
-        ],
-        [
-          null
-        ]
+        "CR 141 / CR 142",
+        []
       ],
       [
-        [
-          "Liberty"
-        ],
+        "Briscoe and White Sulphur roads in Liberty",
         [
           "/wiki/Liberty_(town),_New_York"
         ]
       ],
       [
-        [
-          "NY 52"
-        ],
+        "NY 52",
         [
           "/wiki/NY_52"
         ]
@@ -206,101 +121,58 @@
     ],
     [
       [
-        [
-          "CR 143A"
-        ],
-        [
-          null
-        ]
+        "CR 143A",
+        []
       ],
       [
-        [
-          "0.05"
-        ],
-        [
-          null
-        ]
+        "0.05",
+        []
       ],
       [
-        [
-          "0.08"
-        ],
-        [
-          null
-        ]
+        "0.08",
+        []
       ],
       [
-        [
-          "CR 141"
-        ],
-        [
-          null
-        ]
+        "CR 141",
+        []
       ],
       [
-        [
-          "Liberty"
-        ],
+        "Briscoe Road in Liberty",
         [
           "/wiki/Liberty_(town),_New_York"
         ]
       ],
       [
-        [
-          "CR 143"
-        ],
-        [
-          null
-        ]
+        "CR 143",
+        []
       ]
     ],
     [
       [
-        [
-          "CR 144"
-        ],
-        [
-          null
-        ]
+        "CR 144",
+        []
       ],
       [
-        [
-          "3.76"
-        ],
-        [
-          null
-        ]
+        "3.76",
+        []
       ],
       [
-        [
-          "6.05"
-        ],
-        [
-          null
-        ]
+        "6.05",
+        []
       ],
       [
-        [
-          "NY 52",
-          "Callicoon"
-        ],
+        "NY 52 in Callicoon",
         [
           "/wiki/NY_52",
           "/wiki/Callicoon_(town),_New_York"
         ]
       ],
       [
-        [
-          "Briscoe Road"
-        ],
-        [
-          null
-        ]
+        "Briscoe Road",
+        []
       ],
       [
-        [
-          "Liberty"
-        ],
+        "CR 143 in Liberty",
         [
           "/wiki/Liberty_(town),_New_York"
         ]
@@ -308,99 +180,59 @@
     ],
     [
       [
-        [
-          "CR 145"
-        ],
-        [
-          null
-        ]
+        "CR 145",
+        []
       ],
       [
-        [
-          "2.14"
-        ],
-        [
-          null
-        ]
+        "2.14",
+        []
       ],
       [
-        [
-          "3.44"
-        ],
-        [
-          null
-        ]
+        "3.44",
+        []
       ],
       [
-        [
-          "NY 52"
-        ],
+        "NY 52",
         [
           "/wiki/NY_52"
         ]
       ],
       [
-        [
-          "Liberty"
-        ],
+        "Dahlia Road in Liberty",
         [
           "/wiki/Liberty_(town),_New_York"
         ]
       ],
       [
-        [
-          "CR 146"
-        ],
-        [
-          null
-        ]
+        "CR 146",
+        []
       ]
     ],
     [
       [
-        [
-          "CR 146"
-        ],
-        [
-          null
-        ]
+        "CR 146",
+        []
       ],
       [
-        [
-          "4.01"
-        ],
-        [
-          null
-        ]
+        "4.01",
+        []
       ],
       [
-        [
-          "6.45"
-        ],
-        [
-          null
-        ]
+        "6.45",
+        []
       ],
       [
-        [
-          "Liberty"
-        ],
+        "CR 145 in Liberty",
         [
           "/wiki/Liberty_(town),_New_York"
         ]
       ],
       [
-        [
-          "Dalhia Road"
-        ],
-        [
-          null
-        ]
+        "Dalhia Road",
+        []
       ],
       [
-        [
-          "Rockland"
-        ],
+        "CR 178 in Rockland",
         [
           "/wiki/Rockland,_New_York"
         ]
@@ -408,51 +240,32 @@
     ],
     [
       [
-        [
-          "CR 149"
-        ],
+        "CR 149",
         [
           "/wiki/County_Route_149_(Sullivan_County,_New_York)"
         ]
       ],
       [
-        [
-          "8.69"
-        ],
-        [
-          null
-        ]
+        "8.69",
+        []
       ],
       [
-        [
-          "13.99"
-        ],
-        [
-          null
-        ]
+        "13.99",
+        []
       ],
       [
-        [
-          "NY 52",
-          "Callicoon"
-        ],
+        "NY 52 in Callicoon",
         [
           "/wiki/NY_52",
           "/wiki/Callicoon_(town),_New_York"
         ]
       ],
       [
-        [
-          "Shandelee Road and Main Street"
-        ],
-        [
-          null
-        ]
+        "Shandelee Road and Main Street",
+        []
       ],
       [
-        [
-          "Rockland"
-        ],
+        "CR 178 in Rockland",
         [
           "/wiki/Rockland,_New_York"
         ]

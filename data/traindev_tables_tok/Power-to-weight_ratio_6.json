@@ -3,81 +3,46 @@
   "title": "Power-to-weight ratio",
   "header": [
     [
-      [
-        "Vehicle"
-      ],
-      [
-        null
-      ]
+      "Vehicle",
+      []
     ],
     [
-      [
-        "Power"
-      ],
-      [
-        null
-      ]
+      "Power",
+      []
     ],
     [
-      [
-        "Vehicle Weight"
-      ],
-      [
-        null
-      ]
+      "Vehicle Weight",
+      []
     ],
     [
-      [
-        "Power to Weight ratio"
-      ],
-      [
-        null
-      ]
+      "Power to Weight ratio",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Benz Patent Motorwagen"
-        ],
+        "Benz Patent Motorwagen 954 cc 1886",
         [
           "/wiki/Benz_Patent_Motorwagen"
         ]
       ],
       [
-        [
-          "560 W / 0.75 bhp"
-        ],
-        [
-          null
-        ]
+        "560 W / 0.75 bhp",
+        []
       ],
       [
-        [
-          "265 kg / 584 lb"
-        ],
-        [
-          null
-        ]
+        "265 kg / 584 lb",
+        []
       ],
       [
-        [
-          "2.1 W/kg / 779 lb/hp"
-        ],
-        [
-          null
-        ]
+        "2.1 W/kg / 779 lb/hp",
+        []
       ]
     ],
     [
       [
-        [
-          "Stephenson 's Rocket",
-          "0-2-2",
-          "steam locomotive",
-          "tender"
-        ],
+        "Stephenson 's Rocket 0-2-2 steam locomotive with tender 1829",
         [
           "/wiki/Stephenson's_Rocket",
           "/wiki/0-2-2",
@@ -86,39 +51,21 @@
         ]
       ],
       [
-        [
-          "15 kW / 20 bhp"
-        ],
-        [
-          null
-        ]
+        "15 kW / 20 bhp",
+        []
       ],
       [
-        [
-          "4,320 kg / 9524 lb"
-        ],
-        [
-          null
-        ]
+        "4,320 kg / 9524 lb",
+        []
       ],
       [
-        [
-          "3.5 W/kg / 476 lb/hp"
-        ],
-        [
-          null
-        ]
+        "3.5 W/kg / 476 lb/hp",
+        []
       ]
     ],
     [
       [
-        [
-          "CBQ",
-          "Zephyr",
-          "streamliner",
-          "diesel locomotive",
-          "railcars"
-        ],
+        "CBQ Zephyr streamliner diesel locomotive with railcars 1934",
         [
           "/wiki/Chicago,_Burlington_and_Quincy_Railroad",
           "/wiki/Pioneer_Zephyr",
@@ -128,38 +75,23 @@
         ]
       ],
       [
-        [
-          "492 kW / 660 bhp"
-        ],
-        [
-          null
-        ]
+        "492 kW / 660 bhp",
+        []
       ],
       [
-        [
-          "t"
-        ],
+        "94 t / 208,000 lb",
         [
           "/wiki/Tonne"
         ]
       ],
       [
-        [
-          "5.21 W/kg / 315 lb/hp"
-        ],
-        [
-          null
-        ]
+        "5.21 W/kg / 315 lb/hp",
+        []
       ]
     ],
     [
       [
-        [
-          "Alberto Contador",
-          "Verbier climb",
-          "2009 Tour de France",
-          "Specialized"
-        ],
+        "Alberto Contador 's Verbier climb 2009 Tour de France on Specialized bike",
         [
           "/wiki/Alberto_Contador",
           "/wiki/Alberto_Contador",
@@ -168,74 +100,42 @@
         ]
       ],
       [
-        [
-          "420 W / 0.56 bhp"
-        ],
-        [
-          null
-        ]
+        "420 W / 0.56 bhp",
+        []
       ],
       [
-        [
-          "62 kg / 137 lb"
-        ],
-        [
-          null
-        ]
+        "62 kg / 137 lb",
+        []
       ],
       [
-        [
-          "6.7 W/kg / 245 lb/hp"
-        ],
-        [
-          null
-        ]
+        "6.7 W/kg / 245 lb/hp",
+        []
       ]
     ],
     [
       [
-        [
-          "Force Motors",
-          "auto rickshaw"
-        ],
+        "Force Motors Minidor Diesel 499 cc auto rickshaw",
         [
           "/wiki/Force_Motors",
           "/wiki/Auto_rickshaw"
         ]
       ],
       [
-        [
-          "6.6 kW / 8.8 bhp"
-        ],
-        [
-          null
-        ]
+        "6.6 kW / 8.8 bhp",
+        []
       ],
       [
-        [
-          "700 kg / 1543 lb"
-        ],
-        [
-          null
-        ]
+        "700 kg / 1543 lb",
+        []
       ],
       [
-        [
-          "9 W/kg / 175 lb/hp"
-        ],
-        [
-          null
-        ]
+        "9 W/kg / 175 lb/hp",
+        []
       ]
     ],
     [
       [
-        [
-          "PRR Q2",
-          "4-4-6-4",
-          "steam locomotive",
-          "tender"
-        ],
+        "PRR Q2 4-4-6-4 steam locomotive with tender 1944",
         [
           "/wiki/PRR_Q2",
           "/wiki/4-4-6-4",
@@ -244,38 +144,23 @@
         ]
       ],
       [
-        [
-          "5,956 kW / 7,987 bhp"
-        ],
-        [
-          null
-        ]
+        "5,956 kW / 7,987 bhp",
+        []
       ],
       [
-        [
-          "t"
-        ],
+        "475.9 t / 1,049,100 lb",
         [
           "/wiki/Tonne"
         ]
       ],
       [
-        [
-          "12.5 W/kg / 131 lb/hp"
-        ],
-        [
-          null
-        ]
+        "12.5 W/kg / 131 lb/hp",
+        []
       ]
     ],
     [
       [
-        [
-          "Mercedes-Benz",
-          "Citaro O530BZ",
-          "H 2",
-          "fuel cell bus"
-        ],
+        "Mercedes-Benz Citaro O530BZ H 2 fuel cell bus 2002",
         [
           "/wiki/Mercedes-Benz",
           "/wiki/Mercedes-Benz_Citaro",
@@ -284,38 +169,21 @@
         ]
       ],
       [
-        [
-          "205 kW / 275 bhp"
-        ],
-        [
-          null
-        ]
+        "205 kW / 275 bhp",
+        []
       ],
       [
-        [
-          "14,500 kg / 32,000 lb"
-        ],
-        [
-          null
-        ]
+        "14,500 kg / 32,000 lb",
+        []
       ],
       [
-        [
-          "14.1 W/kg / 116 lb/hp"
-        ],
-        [
-          null
-        ]
+        "14.1 W/kg / 116 lb/hp",
+        []
       ]
     ],
     [
       [
-        [
-          "TGV",
-          "BR Class 373",
-          "high-speed",
-          "Eurostar"
-        ],
+        "TGV BR Class 373 high-speed Eurostar Trainset 1993",
         [
           "/wiki/TGV",
           "/wiki/British_Rail_Class_373",
@@ -324,37 +192,23 @@
         ]
       ],
       [
-        [
-          "12,240 kW / 16,414 bhp"
-        ],
-        [
-          null
-        ]
+        "12,240 kW / 16,414 bhp",
+        []
       ],
       [
-        [
-          "t"
-        ],
+        "816 t / 1,798,972 lb",
         [
           "/wiki/Tonne"
         ]
       ],
       [
-        [
-          "15 W/kg / 110 lb/hp"
-        ],
-        [
-          null
-        ]
+        "15 W/kg / 110 lb/hp",
+        []
       ]
     ],
     [
       [
-        [
-          "General Dynamics",
-          "M1 Abrams",
-          "Main battle tank"
-        ],
+        "General Dynamics M1 Abrams Main battle tank 1980",
         [
           "/wiki/General_Dynamics",
           "/wiki/M1_Abrams",
@@ -362,37 +216,23 @@
         ]
       ],
       [
-        [
-          "1,119 kW / 1500 bhp"
-        ],
-        [
-          null
-        ]
+        "1,119 kW / 1500 bhp",
+        []
       ],
       [
-        [
-          "t"
-        ],
+        "55.7 t / 122,800 lb",
         [
           "/wiki/Tonne"
         ]
       ],
       [
-        [
-          "20.1 W/kg / 81.9 lb/hp"
-        ],
-        [
-          null
-        ]
+        "20.1 W/kg / 81.9 lb/hp",
+        []
       ]
     ],
     [
       [
-        [
-          "BR Class 43",
-          "high-speed",
-          "diesel electric locomotive"
-        ],
+        "BR Class 43 high-speed diesel electric locomotive 1975",
         [
           "/wiki/British_Rail_Class_43_(HST)",
           "/wiki/High-speed_rail",
@@ -400,37 +240,23 @@
         ]
       ],
       [
-        [
-          "1,678 kW / 2,250 bhp"
-        ],
-        [
-          null
-        ]
+        "1,678 kW / 2,250 bhp",
+        []
       ],
       [
-        [
-          "t"
-        ],
+        "70.25 t / 154,875 lb",
         [
           "/wiki/Tonne"
         ]
       ],
       [
-        [
-          "23.9 W/kg / 69 lb/hp"
-        ],
-        [
-          null
-        ]
+        "23.9 W/kg / 69 lb/hp",
+        []
       ]
     ],
     [
       [
-        [
-          "GE",
-          "AC6000CW",
-          "diesel electric locomotive"
-        ],
+        "GE AC6000CW diesel electric locomotive 1996",
         [
           "/wiki/GE_Transportation_Systems",
           "/wiki/GE_AC6000CW",
@@ -438,37 +264,23 @@
         ]
       ],
       [
-        [
-          "4,660 kW / 6,250 bhp"
-        ],
-        [
-          null
-        ]
+        "4,660 kW / 6,250 bhp",
+        []
       ],
       [
-        [
-          "t"
-        ],
+        "192 t / 423,000 lb",
         [
           "/wiki/Tonne"
         ]
       ],
       [
-        [
-          "24.3 W/kg / 68 lb/hp"
-        ],
-        [
-          null
-        ]
+        "24.3 W/kg / 68 lb/hp",
+        []
       ]
     ],
     [
       [
-        [
-          "BR Class 55",
-          "Napier Deltic",
-          "diesel electric locomotive"
-        ],
+        "BR Class 55 Napier Deltic diesel electric locomotive 1961",
         [
           "/wiki/British_Rail_Class_55",
           "/wiki/Napier_Deltic",
@@ -476,244 +288,144 @@
         ]
       ],
       [
-        [
-          "2,460 kW / 3,300 bhp"
-        ],
-        [
-          null
-        ]
+        "2,460 kW / 3,300 bhp",
+        []
       ],
       [
-        [
-          "t"
-        ],
+        "101 t / 222,667 lb",
         [
           "/wiki/Tonne"
         ]
       ],
       [
-        [
-          "24.4 W/kg / 68 lb/hp"
-        ],
-        [
-          null
-        ]
+        "24.4 W/kg / 68 lb/hp",
+        []
       ]
     ],
     [
       [
-        [
-          "International CXT"
-        ],
+        "International CXT 2004",
         [
           "/wiki/International_CXT"
         ]
       ],
       [
-        [
-          "164 kW / 220 bhp"
-        ],
-        [
-          null
-        ]
+        "164 kW / 220 bhp",
+        []
       ],
       [
-        [
-          "6,577 kg / 14500 lb"
-        ],
-        [
-          null
-        ]
+        "6,577 kg / 14500 lb",
+        []
       ],
       [
-        [
-          "25 W/kg / 66 lb/hp"
-        ],
-        [
-          null
-        ]
+        "25 W/kg / 66 lb/hp",
+        []
       ]
     ],
     [
       [
-        [
-          "Ford Model T",
-          "flex-fuel"
-        ],
+        "Ford Model T 2.9 L flex-fuel 1908",
         [
           "/wiki/Ford_Model_T",
           "/wiki/Flexible_fuel_vehicle"
         ]
       ],
       [
-        [
-          "15 kW / 20 bhp"
-        ],
-        [
-          null
-        ]
+        "15 kW / 20 bhp",
+        []
       ],
       [
-        [
-          "540 kg / 1,200 lb"
-        ],
-        [
-          null
-        ]
+        "540 kg / 1,200 lb",
+        []
       ],
       [
-        [
-          "28 W/kg / 60 lb/hp"
-        ],
-        [
-          null
-        ]
+        "28 W/kg / 60 lb/hp",
+        []
       ]
     ],
     [
       [
-        [
-          "TH ! NK City"
-        ],
+        "TH ! NK City 2008",
         [
           "/wiki/Th!nk_City"
         ]
       ],
       [
-        [
-          "30 kW / 40 bhp"
-        ],
-        [
-          null
-        ]
+        "30 kW / 40 bhp",
+        []
       ],
       [
-        [
-          "1038 kg / 2,288 lb"
-        ],
-        [
-          null
-        ]
+        "1038 kg / 2,288 lb",
+        []
       ],
       [
-        [
-          "28.9 W/kg / 56.9 lb/hp"
-        ],
-        [
-          null
-        ]
+        "28.9 W/kg / 56.9 lb/hp",
+        []
       ]
     ],
     [
       [
-        [
-          "Messerschmitt KR200"
-        ],
+        "Messerschmitt KR200 Kabinenroller 191 cc 1955",
         [
           "/wiki/Messerschmitt_KR200"
         ]
       ],
       [
-        [
-          "6 kW / 8.2 bhp"
-        ],
-        [
-          null
-        ]
+        "6 kW / 8.2 bhp",
+        []
       ],
       [
-        [
-          "230 kg / 506 lb"
-        ],
-        [
-          null
-        ]
+        "230 kg / 506 lb",
+        []
       ],
       [
-        [
-          "30 W/kg / 50 lb/hp"
-        ],
-        [
-          null
-        ]
+        "30 W/kg / 50 lb/hp",
+        []
       ]
     ],
     [
       [
-        [
-          "Wright Flyer"
-        ],
+        "Wright Flyer 1903",
         [
           "/wiki/Wright_Flyer"
         ]
       ],
       [
-        [
-          "9 kW / 12 bhp"
-        ],
-        [
-          null
-        ]
+        "9 kW / 12 bhp",
+        []
       ],
       [
-        [
-          "274 kg / 605 lb"
-        ],
-        [
-          null
-        ]
+        "274 kg / 605 lb",
+        []
       ],
       [
-        [
-          "33 W/kg / 50 lb/hp"
-        ],
-        [
-          null
-        ]
+        "33 W/kg / 50 lb/hp",
+        []
       ]
     ],
     [
       [
-        [
-          "Tata Nano"
-        ],
+        "Tata Nano 624 cc 2008",
         [
           "/wiki/Tata_Nano"
         ]
       ],
       [
-        [
-          "26 kW / 35 bhp"
-        ],
-        [
-          null
-        ]
+        "26 kW / 35 bhp",
+        []
       ],
       [
-        [
-          "635 kg / 1,400 lb"
-        ],
-        [
-          null
-        ]
+        "635 kg / 1,400 lb",
+        []
       ],
       [
-        [
-          "41.0 W/kg / 40 lb/hp"
-        ],
-        [
-          null
-        ]
+        "41.0 W/kg / 40 lb/hp",
+        []
       ]
     ],
     [
       [
-        [
-          "Bombardier",
-          "JetTrain",
-          "high-speed",
-          "gas turbine-electric locomotive"
-        ],
+        "Bombardier JetTrain high-speed gas turbine-electric locomotive 2000",
         [
           "/wiki/Bombardier_Transportation",
           "/wiki/JetTrain",
@@ -722,62 +434,36 @@
         ]
       ],
       [
-        [
-          "3,750 kW / 5,029 bhp"
-        ],
-        [
-          null
-        ]
+        "3,750 kW / 5,029 bhp",
+        []
       ],
       [
-        [
-          "90,750 kg / 200,000 lb"
-        ],
-        [
-          null
-        ]
+        "90,750 kg / 200,000 lb",
+        []
       ],
       [
-        [
-          "41.2 W/kg / 39.8 lb/hp"
-        ],
-        [
-          null
-        ]
+        "41.2 W/kg / 39.8 lb/hp",
+        []
       ]
     ],
     [
       [
-        [
-          "Suzuki MightyBoy"
-        ],
+        "Suzuki MightyBoy 543 cc 1988",
         [
           "/wiki/Suzuki_MightyBoy"
         ]
       ],
       [
-        [
-          "23 kW / 31 bhp"
-        ],
-        [
-          null
-        ]
+        "23 kW / 31 bhp",
+        []
       ],
       [
-        [
-          "550 kg / 1,213 lb"
-        ],
-        [
-          null
-        ]
+        "550 kg / 1,213 lb",
+        []
       ],
       [
-        [
-          "42 W/kg / 39 lb/hp"
-        ],
-        [
-          null
-        ]
+        "42 W/kg / 39 lb/hp",
+        []
       ]
     ]
   ],

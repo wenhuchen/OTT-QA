@@ -3,81 +3,51 @@
   "title": "List of power stations in Malaysia",
   "header": [
     [
-      [
-        "Plant"
-      ],
-      [
-        null
-      ]
+      "Plant",
+      []
     ],
     [
-      [
-        "State"
-      ],
+      "State",
       [
         "/wiki/States_of_Malaysia"
       ]
     ],
     [
-      [
-        "MW"
-      ],
+      "MW",
       [
         "/wiki/Megawatt"
       ]
     ],
     [
-      [
-        "Type"
-      ],
-      [
-        null
-      ]
+      "Type",
+      []
     ],
     [
-      [
-        "Owner/operator"
-      ],
-      [
-        null
-      ]
+      "Owner/operator",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Connaught Bridge Power Station"
-        ],
+        "Connaught Bridge Power Station",
         [
           "/wiki/Connaught_Bridge_Power_Station"
         ]
       ],
       [
-        [
-          "Selangor",
-          "Klang"
-        ],
+        "Selangor at Klang",
         [
           "/wiki/Selangor",
           "/wiki/Klang,_Malaysia"
         ]
       ],
       [
-        [
-          "832"
-        ],
-        [
-          null
-        ]
+        "832",
+        []
       ],
       [
-        [
-          "Combined cycle",
-          "ST",
-          "GT",
-          "open cycle"
-        ],
+        "Combined cycle ( 1 ST , 2 GT ) , open cycle ( 4 GT )",
         [
           "/wiki/Combined_cycle",
           "/wiki/Steam_Turbine",
@@ -86,9 +56,7 @@
         ]
       ],
       [
-        [
-          "Tenaga Nasional Berhad"
-        ],
+        "Tenaga Nasional Berhad",
         [
           "/wiki/Tenaga_Nasional_Berhad"
         ]
@@ -96,85 +64,50 @@
     ],
     [
       [
-        [
-          "Genting Sanyen Kuala Langat Power Plant"
-        ],
-        [
-          null
-        ]
+        "Genting Sanyen Kuala Langat Power Plant",
+        []
       ],
       [
-        [
-          "Selangor",
-          "Kuala Langat"
-        ],
+        "Selangor at Kuala Langat",
         [
           "/wiki/Selangor",
           "/wiki/Kuala_Langat"
         ]
       ],
       [
-        [
-          "720"
-        ],
-        [
-          null
-        ]
+        "720",
+        []
       ],
       [
-        [
-          "Combined cycle"
-        ],
-        [
-          null
-        ]
+        "Combined cycle",
+        []
       ],
       [
-        [
-          "Genting Sanyen Power Sdn Bhd"
-        ],
-        [
-          null
-        ]
+        "Genting Sanyen Power Sdn Bhd",
+        []
       ]
     ],
     [
       [
-        [
-          "Karambunai Power Station"
-        ],
-        [
-          null
-        ]
+        "Karambunai Power Station",
+        []
       ],
       [
-        [
-          "Sabah"
-        ],
+        "Sabah at Karambunai",
         [
           "/wiki/Sabah"
         ]
       ],
       [
-        [
-          "120"
-        ],
-        [
-          null
-        ]
+        "120",
+        []
       ],
       [
-        [
-          "Combined Cycle ( 4 GT + 2 GT )"
-        ],
-        [
-          null
-        ]
+        "Combined Cycle ( 4 GT + 2 GT )",
+        []
       ],
       [
-        [
-          "Ranhill Berhad"
-        ],
+        "Ranhill Powertron Sdn Bhd , a subsidiary of Ranhill Berhad",
         [
           "/wiki/Ranhill_Berhad"
         ]
@@ -182,43 +115,26 @@
     ],
     [
       [
-        [
-          "Lumut GB3 Power Station"
-        ],
-        [
-          null
-        ]
+        "Lumut GB3 Power Station",
+        []
       ],
       [
-        [
-          "Perak",
-          "Pantai Remis"
-        ],
+        "Perak at Pantai Remis",
         [
           "/wiki/Perak",
           "/wiki/Pantai_Remis"
         ]
       ],
       [
-        [
-          "651"
-        ],
-        [
-          null
-        ]
+        "651",
+        []
       ],
       [
-        [
-          "Combined cycle ( 1 ST ) , open cycle ( 3 GT )"
-        ],
-        [
-          null
-        ]
+        "Combined cycle ( 1 ST ) , open cycle ( 3 GT )",
+        []
       ],
       [
-        [
-          "Malakoff"
-        ],
+        "GB3 Sdn Bhd , a subsidiary of Malakoff",
         [
           "/wiki/Malakoff_(power_company)"
         ]
@@ -226,43 +142,26 @@
     ],
     [
       [
-        [
-          "Lumut Power Station"
-        ],
-        [
-          null
-        ]
+        "Lumut Power Station",
+        []
       ],
       [
-        [
-          "Perak",
-          "Pantai Remis"
-        ],
+        "Perak at Pantai Remis",
         [
           "/wiki/Perak",
           "/wiki/Pantai_Remis"
         ]
       ],
       [
-        [
-          "1,303"
-        ],
-        [
-          null
-        ]
+        "1,303",
+        []
       ],
       [
-        [
-          "Combined cycle ( 6 GT , 2 ST )"
-        ],
-        [
-          null
-        ]
+        "Combined cycle ( 6 GT , 2 ST )",
+        []
       ],
       [
-        [
-          "Malakoff"
-        ],
+        "Segari Energy Ventures Sdn Bhd , a subsidiary of Malakoff",
         [
           "/wiki/Malakoff_(power_company)"
         ]
@@ -270,87 +169,51 @@
     ],
     [
       [
-        [
-          "Nur Generation Plants"
-        ],
-        [
-          null
-        ]
+        "Nur Generation Plants",
+        []
       ],
       [
-        [
-          "Kedah",
-          "Kulim"
-        ],
+        "Kedah in Kulim High-Tech Industrial Park",
         [
           "/wiki/Kedah",
           "/wiki/Kulim"
         ]
       ],
       [
-        [
-          "220"
-        ],
-        [
-          null
-        ]
+        "220",
+        []
       ],
       [
-        [
-          "Combined cycle ( 4 GT , 2 ST )"
-        ],
-        [
-          null
-        ]
+        "Combined cycle ( 4 GT , 2 ST )",
+        []
       ],
       [
-        [
-          "Nur Generation Sdn Bhd"
-        ],
-        [
-          null
-        ]
+        "Nur Generation Sdn Bhd",
+        []
       ]
     ],
     [
       [
-        [
-          "Paka power station"
-        ],
-        [
-          null
-        ]
+        "Paka power station",
+        []
       ],
       [
-        [
-          "Terengganu",
-          "Paka"
-        ],
+        "Terengganu at Paka",
         [
           "/wiki/Terengganu",
           "/wiki/Paka,_Malaysia"
         ]
       ],
       [
-        [
-          "808"
-        ],
-        [
-          null
-        ]
+        "808",
+        []
       ],
       [
-        [
-          "Combined cycle ( 4 GT , 2 ST )"
-        ],
-        [
-          null
-        ]
+        "Combined cycle ( 4 GT , 2 ST )",
+        []
       ],
       [
-        [
-          "YTL Power International Berhad"
-        ],
+        "YTL Power International Berhad",
         [
           "/wiki/YTL_Power"
         ]
@@ -358,43 +221,26 @@
     ],
     [
       [
-        [
-          "Southern Power Generation Sdn Bhd"
-        ],
-        [
-          null
-        ]
+        "Southern Power Generation Sdn Bhd",
+        []
       ],
       [
-        [
-          "Johor",
-          "Pasir Gudang"
-        ],
+        "Johor at Pasir Gudang",
         [
           "/wiki/Johor",
           "/wiki/Pasir_Gudang"
         ]
       ],
       [
-        [
-          "1,440"
-        ],
-        [
-          null
-        ]
+        "1,440",
+        []
       ],
       [
-        [
-          "Combined cycle ( 2 GT , 1ST )"
-        ],
-        [
-          null
-        ]
+        "Combined cycle ( 2 GT , 1ST )",
+        []
       ],
       [
-        [
-          "Tenaga Nasional Berhad"
-        ],
+        "Tenaga Nasional Berhad",
         [
           "/wiki/Tenaga_Nasional_Berhad"
         ]
@@ -402,19 +248,13 @@
     ],
     [
       [
-        [
-          "Petronas Gas"
-        ],
+        "Petronas Gas Centralised Utilities Facilities ( CUF )",
         [
           "/wiki/Petronas"
         ]
       ],
       [
-        [
-          "Pahang",
-          "Gebeng",
-          "Kerteh"
-        ],
+        "Pahang ( Gebeng - Kerteh )",
         [
           "/wiki/Pahang",
           "/wiki/Gebeng",
@@ -422,69 +262,42 @@
         ]
       ],
       [
-        [
-          "324"
-        ],
-        [
-          null
-        ]
+        "324",
+        []
       ],
       [
-        [
-          "Cogen"
-        ],
+        "Cogen ( 9 GT )",
         [
           "/wiki/Cogeneration"
         ]
       ],
       [
-        [
-          "Petronas Gas Berhad"
-        ],
-        [
-          null
-        ]
+        "Petronas Gas Berhad",
+        []
       ]
     ],
     [
       [
-        [
-          "Port Dickson Power Station"
-        ],
-        [
-          null
-        ]
+        "Port Dickson Power Station",
+        []
       ],
       [
-        [
-          "Negeri Sembilan",
-          "Port Dickson"
-        ],
+        "Negeri Sembilan in Port Dickson",
         [
           "/wiki/Negeri_Sembilan",
           "/wiki/Port_Dickson"
         ]
       ],
       [
-        [
-          "440"
-        ],
-        [
-          null
-        ]
+        "440",
+        []
       ],
       [
-        [
-          "Open cycle ( 4 GT )"
-        ],
-        [
-          null
-        ]
+        "Open cycle ( 4 GT )",
+        []
       ],
       [
-        [
-          "Malakoff Berhad"
-        ],
+        "Malakoff Berhad",
         [
           "/wiki/Malakoff_(power_company)"
         ]
@@ -492,43 +305,26 @@
     ],
     [
       [
-        [
-          "Prai power station"
-        ],
-        [
-          null
-        ]
+        "Prai power station",
+        []
       ],
       [
-        [
-          "Penang",
-          "Perai"
-        ],
+        "Penang at Perai",
         [
           "/wiki/Penang",
           "/wiki/Perai"
         ]
       ],
       [
-        [
-          "1071"
-        ],
-        [
-          null
-        ]
+        "1071",
+        []
       ],
       [
-        [
-          "Combined cycle ( 2 GT , 1ST )"
-        ],
-        [
-          null
-        ]
+        "Combined cycle ( 2 GT , 1ST )",
+        []
       ],
       [
-        [
-          "Tenaga Nasional Berhad"
-        ],
+        "Tenaga Nasional Berhad",
         [
           "/wiki/Tenaga_Nasional_Berhad"
         ]
@@ -536,43 +332,28 @@
     ],
     [
       [
-        [
-          "Putrajaya Power Station"
-        ],
+        "Putrajaya Power Station",
         [
           "/wiki/Putrajaya_Power_Station"
         ]
       ],
       [
-        [
-          "Selangor",
-          "Serdang"
-        ],
+        "Selangor at Serdang",
         [
           "/wiki/Selangor",
           "/wiki/Serdang,_Selangor"
         ]
       ],
       [
-        [
-          "625"
-        ],
-        [
-          null
-        ]
+        "625",
+        []
       ],
       [
-        [
-          "Open cycle ( 5 GT )"
-        ],
-        [
-          null
-        ]
+        "Open cycle ( 5 GT )",
+        []
       ],
       [
-        [
-          "Tenaga Nasional Berhad"
-        ],
+        "Tenaga Nasional Berhad",
         [
           "/wiki/Tenaga_Nasional"
         ]
@@ -580,43 +361,26 @@
     ],
     [
       [
-        [
-          "Pujut Power Station"
-        ],
-        [
-          null
-        ]
+        "Pujut Power Station",
+        []
       ],
       [
-        [
-          "Sarawak",
-          "Pujut"
-        ],
+        "Sarawak at Pujut",
         [
           "/wiki/Sarawak",
           "/wiki/Miri,_Malaysia"
         ]
       ],
       [
-        [
-          "104"
-        ],
-        [
-          null
-        ]
+        "104",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Sarawak Energy Berhad"
-        ],
+        "Sarawak Power Generation Sdn Bhd , a subsidiary of Sarawak Energy Berhad",
         [
           "/wiki/Sarawak_Energy"
         ]
@@ -624,43 +388,26 @@
     ],
     [
       [
-        [
-          "Sarawak Power Generation Plant"
-        ],
-        [
-          null
-        ]
+        "Sarawak Power Generation Plant",
+        []
       ],
       [
-        [
-          "Sarawak",
-          "Bintulu"
-        ],
+        "Sarawak at Bintulu",
         [
           "/wiki/Sarawak",
           "/wiki/Bintulu"
         ]
       ],
       [
-        [
-          "515"
-        ],
-        [
-          null
-        ]
+        "515",
+        []
       ],
       [
-        [
-          "Open cycle ( 2 GT )"
-        ],
-        [
-          null
-        ]
+        "Open cycle ( 2 GT )",
+        []
       ],
       [
-        [
-          "Sarawak Energy Berhad"
-        ],
+        "Sarawak Power Generation Sdn Bhd , a subsidiary of Sarawak Energy Berhad",
         [
           "/wiki/Sarawak_Energy"
         ]
@@ -668,87 +415,55 @@
     ],
     [
       [
-        [
-          "Sepanggar"
-        ],
+        "Sepanggar Bay Power Plant",
         [
           "/wiki/Sepanggar"
         ]
       ],
       [
-        [
-          "Sabah",
-          "Kota Kinabalu"
-        ],
+        "Sabah at Kota Kinabalu Industrial Park",
         [
           "/wiki/Sabah",
           "/wiki/Kota_Kinabalu"
         ]
       ],
       [
-        [
-          "100"
-        ],
-        [
-          null
-        ]
+        "100",
+        []
       ],
       [
-        [
-          "Combined cycle"
-        ],
-        [
-          null
-        ]
+        "Combined cycle",
+        []
       ],
       [
-        [
-          "Sepangar Bay Power Corporation Sdn Bhd"
-        ],
-        [
-          null
-        ]
+        "Sepangar Bay Power Corporation Sdn Bhd",
+        []
       ]
     ],
     [
       [
-        [
-          "Pasir Gudang Energy"
-        ],
+        "Pasir Gudang Energy",
         [
           "/wiki/Sultan_Iskandar_Power_Station"
         ]
       ],
       [
-        [
-          "Johor",
-          "Pasir Gudang"
-        ],
+        "Johor at Pasir Gudang",
         [
           "/wiki/Johor",
           "/wiki/Pasir_Gudang"
         ]
       ],
       [
-        [
-          "729"
-        ],
-        [
-          null
-        ]
+        "729",
+        []
       ],
       [
-        [
-          "Thermal ( 2 ST ) , combined cycle ( 2 GT , 1 ST ) , open cycle ( 2 GT )"
-        ],
-        [
-          null
-        ]
+        "Thermal ( 2 ST ) , combined cycle ( 2 GT , 1 ST ) , open cycle ( 2 GT )",
+        []
       ],
       [
-        [
-          "Tenaga Nasional Berhad"
-        ],
+        "Tenaga Nasional Berhad",
         [
           "/wiki/Tenaga_Nasional"
         ]
@@ -756,43 +471,28 @@
     ],
     [
       [
-        [
-          "Sultan Ismail Power Station"
-        ],
+        "Sultan Ismail Power Station",
         [
           "/wiki/Sultan_Ismail_Power_Station"
         ]
       ],
       [
-        [
-          "Terengganu",
-          "Paka"
-        ],
+        "Terengganu at Paka",
         [
           "/wiki/Terengganu",
           "/wiki/Paka,_Malaysia"
         ]
       ],
       [
-        [
-          "1,136"
-        ],
-        [
-          null
-        ]
+        "1,136",
+        []
       ],
       [
-        [
-          "Combined cycle ( 8 GT , 4 ST )"
-        ],
-        [
-          null
-        ]
+        "Combined cycle ( 8 GT , 4 ST )",
+        []
       ],
       [
-        [
-          "Tenaga Nasional Berhad"
-        ],
+        "Tenaga Nasional Berhad",
         [
           "/wiki/Tenaga_Nasional"
         ]
@@ -800,43 +500,28 @@
     ],
     [
       [
-        [
-          "Tanjung Kling Power Station"
-        ],
+        "Tanjung Kling Power Station",
         [
           "/wiki/Tanjung_Kling_Power_Station"
         ]
       ],
       [
-        [
-          "Malacca",
-          "Tanjung Kling"
-        ],
+        "Malacca at Tanjung Kling",
         [
           "/wiki/Malacca",
           "/wiki/Tanjung_Kling"
         ]
       ],
       [
-        [
-          "330"
-        ],
-        [
-          null
-        ]
+        "330",
+        []
       ],
       [
-        [
-          "Combined cycle ( 2 GT , 1 ST )"
-        ],
-        [
-          null
-        ]
+        "Combined cycle ( 2 GT , 1 ST )",
+        []
       ],
       [
-        [
-          "Powertek"
-        ],
+        "Pahlawan Power , a subsidiary of Powertek",
         [
           "/wiki/Powertek"
         ]
@@ -844,43 +529,26 @@
     ],
     [
       [
-        [
-          "Telok Gong Power Station 1"
-        ],
-        [
-          null
-        ]
+        "Telok Gong Power Station 1",
+        []
       ],
       [
-        [
-          "Malacca",
-          "Telok Gong"
-        ],
+        "Malacca at Telok Gong",
         [
           "/wiki/Malacca",
           "/wiki/Telok_Gong"
         ]
       ],
       [
-        [
-          "440"
-        ],
-        [
-          null
-        ]
+        "440",
+        []
       ],
       [
-        [
-          "Open cycle ( 4 GT )"
-        ],
-        [
-          null
-        ]
+        "Open cycle ( 4 GT )",
+        []
       ],
       [
-        [
-          "Powertek"
-        ],
+        "Powertek",
         [
           "/wiki/Powertek"
         ]
@@ -888,43 +556,26 @@
     ],
     [
       [
-        [
-          "Telok Gong Power Station 2"
-        ],
-        [
-          null
-        ]
+        "Telok Gong Power Station 2",
+        []
       ],
       [
-        [
-          "Malacca",
-          "Telok Gong"
-        ],
+        "Malacca at Telok Gong",
         [
           "/wiki/Malacca",
           "/wiki/Telok_Gong"
         ]
       ],
       [
-        [
-          "720"
-        ],
-        [
-          null
-        ]
+        "720",
+        []
       ],
       [
-        [
-          "Combined cycle ( 2 GT , 1ST )"
-        ],
-        [
-          null
-        ]
+        "Combined cycle ( 2 GT , 1ST )",
+        []
       ],
       [
-        [
-          "Powertek"
-        ],
+        "Panglima Power , a subsidiary of Powertek",
         [
           "/wiki/Powertek"
         ]

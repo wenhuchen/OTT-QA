@@ -3,52 +3,32 @@
   "title": "Performance Ranking of Scientific Papers for World Universities",
   "header": [
     [
-      [
-        "2010"
-      ],
-      [
-        null
-      ]
+      "2010",
+      []
     ],
     [
-      [
-        "University"
-      ],
-      [
-        null
-      ]
+      "University",
+      []
     ],
     [
-      [
-        "Country"
-      ],
-      [
-        null
-      ]
+      "Country",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "01"
-        ],
-        [
-          null
-        ]
+        "01",
+        []
       ],
       [
-        [
-          "Massachusetts Institute of Technology"
-        ],
+        "Massachusetts Institute of Technology",
         [
           "/wiki/Massachusetts_Institute_of_Technology"
         ]
       ],
       [
-        [
-          "US"
-        ],
+        "US",
         [
           "/wiki/US"
         ]
@@ -56,25 +36,17 @@
     ],
     [
       [
-        [
-          "02"
-        ],
-        [
-          null
-        ]
+        "02",
+        []
       ],
       [
-        [
-          "Tohoku University"
-        ],
+        "Tohoku University",
         [
           "/wiki/Tohoku_University"
         ]
       ],
       [
-        [
-          "Japan"
-        ],
+        "Japan",
         [
           "/wiki/Japan"
         ]
@@ -82,25 +54,17 @@
     ],
     [
       [
-        [
-          "03"
-        ],
-        [
-          null
-        ]
+        "03",
+        []
       ],
       [
-        [
-          "National University of Singapore"
-        ],
+        "National University of Singapore",
         [
           "/wiki/National_University_of_Singapore"
         ]
       ],
       [
-        [
-          "Singapore"
-        ],
+        "Singapore",
         [
           "/wiki/Singapore"
         ]
@@ -108,25 +72,17 @@
     ],
     [
       [
-        [
-          "04"
-        ],
-        [
-          null
-        ]
+        "04",
+        []
       ],
       [
-        [
-          "University of California- Berkeley"
-        ],
+        "University of California- Berkeley",
         [
           "/wiki/University_of_California,_Berkeley"
         ]
       ],
       [
-        [
-          "US"
-        ],
+        "US",
         [
           "/wiki/US"
         ]
@@ -134,25 +90,17 @@
     ],
     [
       [
-        [
-          "05"
-        ],
-        [
-          null
-        ]
+        "05",
+        []
       ],
       [
-        [
-          "Tsinghua University"
-        ],
+        "Tsinghua University",
         [
           "/wiki/Tsinghua_University"
         ]
       ],
       [
-        [
-          "China"
-        ],
+        "China",
         [
           "/wiki/China"
         ]
@@ -160,25 +108,17 @@
     ],
     [
       [
-        [
-          "06"
-        ],
-        [
-          null
-        ]
+        "06",
+        []
       ],
       [
-        [
-          "University of Cambridge"
-        ],
+        "University of Cambridge",
         [
           "/wiki/University_of_Cambridge"
         ]
       ],
       [
-        [
-          "United Kingdom"
-        ],
+        "United Kingdom",
         [
           "/wiki/United_Kingdom"
         ]
@@ -186,25 +126,17 @@
     ],
     [
       [
-        [
-          "07"
-        ],
-        [
-          null
-        ]
+        "07",
+        []
       ],
       [
-        [
-          "Northwestern University"
-        ],
+        "Northwestern University",
         [
           "/wiki/Northwestern_University"
         ]
       ],
       [
-        [
-          "US"
-        ],
+        "US",
         [
           "/wiki/US"
         ]
@@ -212,25 +144,17 @@
     ],
     [
       [
-        [
-          "08"
-        ],
-        [
-          null
-        ]
+        "08",
+        []
       ],
       [
-        [
-          "Seoul National University"
-        ],
+        "Seoul National University",
         [
           "/wiki/Seoul_National_University"
         ]
       ],
       [
-        [
-          "South Korea"
-        ],
+        "South Korea",
         [
           "/wiki/South_Korea"
         ]
@@ -238,25 +162,17 @@
     ],
     [
       [
-        [
-          "09"
-        ],
-        [
-          null
-        ]
+        "09",
+        []
       ],
       [
-        [
-          "Harvard University"
-        ],
+        "Harvard University",
         [
           "/wiki/Harvard_University"
         ]
       ],
       [
-        [
-          "US"
-        ],
+        "US",
         [
           "/wiki/US"
         ]
@@ -264,25 +180,17 @@
     ],
     [
       [
-        [
-          "10"
-        ],
-        [
-          null
-        ]
+        "10",
+        []
       ],
       [
-        [
-          "Georgia Institute of Technology"
-        ],
+        "Georgia Institute of Technology",
         [
           "/wiki/Georgia_Institute_of_Technology"
         ]
       ],
       [
-        [
-          "US"
-        ],
+        "US",
         [
           "/wiki/US"
         ]
@@ -290,25 +198,17 @@
     ],
     [
       [
-        [
-          "11"
-        ],
-        [
-          null
-        ]
+        "11",
+        []
       ],
       [
-        [
-          "University of California- Santa Barbara"
-        ],
+        "University of California- Santa Barbara",
         [
           "/wiki/University_of_California,_Santa_Barbara"
         ]
       ],
       [
-        [
-          "US"
-        ],
+        "US",
         [
           "/wiki/US"
         ]
@@ -316,25 +216,17 @@
     ],
     [
       [
-        [
-          "12"
-        ],
-        [
-          null
-        ]
+        "12",
+        []
       ],
       [
-        [
-          "Pennsylvania State University- University Park"
-        ],
+        "Pennsylvania State University- University Park",
         [
           "/wiki/The_Pennsylvania_State_University"
         ]
       ],
       [
-        [
-          "US"
-        ],
+        "US",
         [
           "/wiki/US"
         ]
@@ -342,25 +234,17 @@
     ],
     [
       [
-        [
-          "13"
-        ],
-        [
-          null
-        ]
+        "13",
+        []
       ],
       [
-        [
-          "The University of Tokyo"
-        ],
+        "The University of Tokyo",
         [
           "/wiki/The_University_of_Tokyo"
         ]
       ],
       [
-        [
-          "Japan"
-        ],
+        "Japan",
         [
           "/wiki/Japan"
         ]
@@ -368,25 +252,17 @@
     ],
     [
       [
-        [
-          "14"
-        ],
-        [
-          null
-        ]
+        "14",
+        []
       ],
       [
-        [
-          "Nanyang Technological University"
-        ],
+        "Nanyang Technological University",
         [
           "/wiki/Nanyang_Technological_University"
         ]
       ],
       [
-        [
-          "Singapore"
-        ],
+        "Singapore",
         [
           "/wiki/Singapore"
         ]
@@ -394,25 +270,17 @@
     ],
     [
       [
-        [
-          "15"
-        ],
-        [
-          null
-        ]
+        "15",
+        []
       ],
       [
-        [
-          "Stanford University"
-        ],
+        "Stanford University",
         [
           "/wiki/Stanford_University"
         ]
       ],
       [
-        [
-          "US"
-        ],
+        "US",
         [
           "/wiki/US"
         ]
@@ -420,25 +288,17 @@
     ],
     [
       [
-        [
-          "16"
-        ],
-        [
-          null
-        ]
+        "16",
+        []
       ],
       [
-        [
-          "University of Washington- Seattle"
-        ],
+        "University of Washington- Seattle",
         [
           "/wiki/University_of_Washington"
         ]
       ],
       [
-        [
-          "US"
-        ],
+        "US",
         [
           "/wiki/US"
         ]
@@ -446,25 +306,17 @@
     ],
     [
       [
-        [
-          "17"
-        ],
-        [
-          null
-        ]
+        "17",
+        []
       ],
       [
-        [
-          "Osaka University"
-        ],
+        "Osaka University",
         [
           "/wiki/Osaka_University"
         ]
       ],
       [
-        [
-          "Japan"
-        ],
+        "Japan",
         [
           "/wiki/Japan"
         ]
@@ -472,25 +324,17 @@
     ],
     [
       [
-        [
-          "18"
-        ],
-        [
-          null
-        ]
+        "18",
+        []
       ],
       [
-        [
-          "University of Michigan- Ann Arbor"
-        ],
+        "University of Michigan- Ann Arbor",
         [
           "/wiki/University_of_Michigan"
         ]
       ],
       [
-        [
-          "US"
-        ],
+        "US",
         [
           "/wiki/US"
         ]
@@ -498,25 +342,17 @@
     ],
     [
       [
-        [
-          "19"
-        ],
-        [
-          null
-        ]
+        "19",
+        []
       ],
       [
-        [
-          "University of Illinois- Urbana-Champaign"
-        ],
+        "University of Illinois- Urbana-Champaign",
         [
           "/wiki/University_of_Illinois_at_Urbana\u2013Champaign"
         ]
       ],
       [
-        [
-          "US"
-        ],
+        "US",
         [
           "/wiki/US"
         ]
@@ -524,25 +360,17 @@
     ],
     [
       [
-        [
-          "20"
-        ],
-        [
-          null
-        ]
+        "20",
+        []
       ],
       [
-        [
-          "Imperial College London"
-        ],
+        "Imperial College London",
         [
           "/wiki/Imperial_College_London"
         ]
       ],
       [
-        [
-          "United Kingdom"
-        ],
+        "United Kingdom",
         [
           "/wiki/United_Kingdom"
         ]

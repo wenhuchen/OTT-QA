@@ -3,52 +3,34 @@
   "title": "Yeti Airlines",
   "header": [
     [
-      [
-        "Destination"
-      ],
-      [
-        null
-      ]
+      "Destination",
+      []
     ],
     [
-      [
-        "Airport"
-      ],
-      [
-        null
-      ]
+      "Airport",
+      []
     ],
     [
-      [
-        "Notes"
-      ],
-      [
-        null
-      ]
+      "Notes",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Kathmandu"
-        ],
+        "Kathmandu",
         [
           "/wiki/Kathmandu"
         ]
       ],
       [
-        [
-          "Tribhuvan International Airport"
-        ],
+        "Tribhuvan International Airport",
         [
           "/wiki/Tribhuvan_International_Airport"
         ]
       ],
       [
-        [
-          "Hub"
-        ],
+        "Hub",
         [
           "/wiki/Airline_hub"
         ]
@@ -56,496 +38,344 @@
     ],
     [
       [
-        [
-          "Bajhang"
-        ],
+        "Bajhang",
         [
           "/wiki/Bajhang"
         ]
       ],
       [
-        [
-          "Bajhang Airport"
-        ],
+        "Bajhang Airport",
         [
           "/wiki/Bajhang_Airport"
         ]
       ],
       [
-        [
-          "Terminated"
-        ],
-        [
-          null
-        ]
+        "Terminated",
+        []
       ]
     ],
     [
       [
-        [
-          "Bajura"
-        ],
+        "Bajura",
         [
           "/wiki/Bajura"
         ]
       ],
       [
-        [
-          "Bajura Airport"
-        ],
+        "Bajura Airport",
         [
           "/wiki/Bajura_Airport"
         ]
       ],
       [
-        [
-          "Terminated"
-        ],
-        [
-          null
-        ]
+        "Terminated",
+        []
       ]
     ],
     [
       [
-        [
-          "Bhadrapur"
-        ],
+        "Bhadrapur",
         [
           "/wiki/Bhadrapur,_Mechi"
         ]
       ],
       [
-        [
-          "Bhadrapur Airport"
-        ],
+        "Bhadrapur Airport",
         [
           "/wiki/Bhadrapur_Airport"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Bhairahawa"
-        ],
+        "Bhairahawa",
         [
           "/wiki/Bhairahawa"
         ]
       ],
       [
-        [
-          "Gautam Buddha Airport"
-        ],
+        "Gautam Buddha Airport",
         [
           "/wiki/Gautam_Buddha_Airport"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Bharatpur"
-        ],
+        "Bharatpur",
         [
           "/wiki/Bharatpur,_Nepal"
         ]
       ],
       [
-        [
-          "Bharatpur Airport"
-        ],
+        "Bharatpur Airport",
         [
           "/wiki/Bharatpur_Airport"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Biratnagar"
-        ],
+        "Biratnagar",
         [
           "/wiki/Biratnagar"
         ]
       ],
       [
-        [
-          "Biratnagar Airport"
-        ],
+        "Biratnagar Airport",
         [
           "/wiki/Biratnagar_Airport"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Birendranagar"
-        ],
+        "Birendranagar",
         [
           "/wiki/Birendranagar"
         ]
       ],
       [
-        [
-          "Surkhet Airport"
-        ],
+        "Surkhet Airport",
         [
           "/wiki/Surkhet_Airport"
         ]
       ],
       [
-        [
-          "Terminated"
-        ],
-        [
-          null
-        ]
+        "Terminated",
+        []
       ]
     ],
     [
       [
-        [
-          "Dang"
-        ],
+        "Dang",
         [
           "/wiki/Dang_District,_Nepal"
         ]
       ],
       [
-        [
-          "Dang Airport"
-        ],
+        "Dang Airport",
         [
           "/wiki/Dang_Airport"
         ]
       ],
       [
-        [
-          "Terminated"
-        ],
-        [
-          null
-        ]
+        "Terminated",
+        []
       ]
     ],
     [
       [
-        [
-          "Dhangadhi"
-        ],
+        "Dhangadhi",
         [
           "/wiki/Dhangadhi"
         ]
       ],
       [
-        [
-          "Dhangadhi Airport"
-        ],
+        "Dhangadhi Airport",
         [
           "/wiki/Dhangadhi_Airport"
         ]
       ],
       [
-        [
-          "Terminated"
-        ],
-        [
-          null
-        ]
+        "Terminated",
+        []
       ]
     ],
     [
       [
-        [
-          "Janakpur"
-        ],
+        "Janakpur",
         [
           "/wiki/Janakpur"
         ]
       ],
       [
-        [
-          "Janakpur Airport"
-        ],
+        "Janakpur Airport",
         [
           "/wiki/Janakpur_Airport"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Jomsom"
-        ],
+        "Jomsom",
         [
           "/wiki/Jomsom"
         ]
       ],
       [
-        [
-          "Jomsom Airport"
-        ],
+        "Jomsom Airport",
         [
           "/wiki/Jomsom_Airport"
         ]
       ],
       [
-        [
-          "Terminated"
-        ],
-        [
-          null
-        ]
+        "Terminated",
+        []
       ]
     ],
     [
       [
-        [
-          "Jumla"
-        ],
+        "Jumla",
         [
           "/wiki/Jumla_(town)"
         ]
       ],
       [
-        [
-          "Jumla Airport"
-        ],
+        "Jumla Airport",
         [
           "/wiki/Jumla_Airport"
         ]
       ],
       [
-        [
-          "Terminated"
-        ],
-        [
-          null
-        ]
+        "Terminated",
+        []
       ]
     ],
     [
       [
-        [
-          "Lamidanda"
-        ],
+        "Lamidanda",
         [
           "/wiki/Lamidanda,_Khotang"
         ]
       ],
       [
-        [
-          "Lamidanda Airport"
-        ],
+        "Lamidanda Airport",
         [
           "/wiki/Lamidanda_Airport"
         ]
       ],
       [
-        [
-          "Terminated"
-        ],
-        [
-          null
-        ]
+        "Terminated",
+        []
       ]
     ],
     [
       [
-        [
-          "Lukla"
-        ],
+        "Lukla",
         [
           "/wiki/Lukla"
         ]
       ],
       [
-        [
-          "Lukla Airport"
-        ],
+        "Lukla Airport",
         [
           "/wiki/Lukla_Airport"
         ]
       ],
       [
-        [
-          "Terminated"
-        ],
-        [
-          null
-        ]
+        "Terminated",
+        []
       ]
     ],
     [
       [
-        [
-          "Manang"
-        ],
+        "Manang",
         [
           "/wiki/Manang"
         ]
       ],
       [
-        [
-          "Manang Airport"
-        ],
+        "Manang Airport",
         [
           "/wiki/Manang_Airport"
         ]
       ],
       [
-        [
-          "Terminated"
-        ],
-        [
-          null
-        ]
+        "Terminated",
+        []
       ]
     ],
     [
       [
-        [
-          "Meghauli"
-        ],
+        "Meghauli",
         [
           "/wiki/Meghauli"
         ]
       ],
       [
-        [
-          "Meghauli Airport"
-        ],
+        "Meghauli Airport",
         [
           "/wiki/Meghauli_Airport"
         ]
       ],
       [
-        [
-          "Terminated"
-        ],
-        [
-          null
-        ]
+        "Terminated",
+        []
       ]
     ],
     [
       [
-        [
-          "Nepalgunj"
-        ],
+        "Nepalgunj",
         [
           "/wiki/Nepalgunj"
         ]
       ],
       [
-        [
-          "Nepalgunj Airport"
-        ],
+        "Nepalgunj Airport",
         [
           "/wiki/Nepalgunj_Airport"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Phaplu"
-        ],
+        "Phaplu",
         [
           "/wiki/Phaplu"
         ]
       ],
       [
-        [
-          "Phaplu Airport"
-        ],
+        "Phaplu Airport",
         [
           "/wiki/Phaplu_Airport"
         ]
       ],
       [
-        [
-          "Terminated"
-        ],
-        [
-          null
-        ]
+        "Terminated",
+        []
       ]
     ],
     [
       [
-        [
-          "Pokhara"
-        ],
+        "Pokhara",
         [
           "/wiki/Pokhara"
         ]
       ],
       [
-        [
-          "Pokhara Airport"
-        ],
+        "Pokhara Airport",
         [
           "/wiki/Pokhara_Airport"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ]
   ],

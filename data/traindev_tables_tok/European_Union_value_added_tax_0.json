@@ -3,126 +3,72 @@
   "title": "European Union value added tax",
   "header": [
     [
-      [
-        "Jurisdiction"
-      ],
-      [
-        null
-      ]
+      "Jurisdiction",
+      []
     ],
     [
-      [
-        "Rate ( Standard )"
-      ],
-      [
-        null
-      ]
+      "Rate ( Standard )",
+      []
     ],
     [
-      [
-        "Rate ( Reduced )"
-      ],
-      [
-        null
-      ]
+      "Rate ( Reduced )",
+      []
     ],
     [
-      [
-        "Abbr"
-      ],
-      [
-        null
-      ]
+      "Abbr",
+      []
     ],
     [
-      [
-        "Name"
-      ],
-      [
-        null
-      ]
+      "Name",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Austria"
-        ],
+        "Austria",
         [
           "/wiki/Austria"
         ]
       ],
       [
-        [
-          "20%"
-        ],
-        [
-          null
-        ]
+        "20%",
+        []
       ],
       [
-        [
-          "13% or 10%"
-        ],
-        [
-          null
-        ]
+        "13% or 10%",
+        []
       ],
       [
-        [
-          "MwSt . ; USt"
-        ],
-        [
-          null
-        ]
+        "MwSt . ; USt",
+        []
       ],
       [
-        [
-          "German : Mehrwertsteuer / Umsatzsteuer"
-        ],
-        [
-          null
-        ]
+        "German : Mehrwertsteuer / Umsatzsteuer",
+        []
       ]
     ],
     [
       [
-        [
-          "Belgium"
-        ],
+        "Belgium",
         [
           "/wiki/Belgium"
         ]
       ],
       [
-        [
-          "21%"
-        ],
-        [
-          null
-        ]
+        "21%",
+        []
       ],
       [
-        [
-          "12% or 6%"
-        ],
-        [
-          null
-        ]
+        "12% or 6%",
+        []
       ],
       [
-        [
-          "BTW ; TVA ; MWSt"
-        ],
-        [
-          null
-        ]
+        "BTW ; TVA ; MWSt",
+        []
       ],
       [
-        [
-          "Dutch"
-        ],
+        "Dutch : Belasting over de toegevoegde waarde ; French : Taxe sur la Valeur Ajout\u00e9e ; German : Mehrwertsteuer",
         [
           "/wiki/Dutch_language"
         ]
@@ -130,41 +76,25 @@
     ],
     [
       [
-        [
-          "Bulgaria"
-        ],
+        "Bulgaria",
         [
           "/wiki/Bulgaria"
         ]
       ],
       [
-        [
-          "20%"
-        ],
-        [
-          null
-        ]
+        "20%",
+        []
       ],
       [
-        [
-          "9%"
-        ],
-        [
-          null
-        ]
+        "9%",
+        []
       ],
       [
-        [
-          "\u0414\u0414\u0421"
-        ],
-        [
-          null
-        ]
+        "\u0414\u0414\u0421",
+        []
       ],
       [
-        [
-          "Bulgarian"
-        ],
+        "Bulgarian : \u0414\u0430\u043d\u044a\u043a \u0432\u044a\u0440\u0445\u0443 \u0434\u043e\u0431\u0430\u0432\u0435\u043d\u0430\u0442\u0430 \u0441\u0442\u043e\u0439\u043d\u043e\u0441\u0442 ( Dan\u0103k v\u0103rhu dobavenata stojnost )",
         [
           "/wiki/Bulgarian_language"
         ]
@@ -172,43 +102,26 @@
     ],
     [
       [
-        [
-          "Cyprus",
-          "Akrotiri and Dhekelia"
-        ],
+        "Cyprus \u221f Akrotiri and Dhekelia",
         [
           "/wiki/Cyprus",
           "/wiki/Akrotiri_and_Dhekelia"
         ]
       ],
       [
-        [
-          "19%"
-        ],
-        [
-          null
-        ]
+        "19%",
+        []
       ],
       [
-        [
-          "9% or 5%"
-        ],
-        [
-          null
-        ]
+        "9% or 5%",
+        []
       ],
       [
-        [
-          "\u03a6\u03a0\u0391"
-        ],
-        [
-          null
-        ]
+        "\u03a6\u03a0\u0391",
+        []
       ],
       [
-        [
-          "Greek"
-        ],
+        "Greek : \u03a6\u03cc\u03c1\u03bf\u03c2 \u03a0\u03c1\u03bf\u03c3\u03c4\u03b9\u03b8\u03ad\u03bc\u03b5\u03bd\u03b7\u03c2 \u0391\u03be\u03af\u03b1\u03c2 ( F\u00f3ros Prastith\u00e9menes Ax\u00edas )",
         [
           "/wiki/Greek_language"
         ]
@@ -216,41 +129,25 @@
     ],
     [
       [
-        [
-          "Czech Republic"
-        ],
+        "Czech Republic",
         [
           "/wiki/Czech_Republic"
         ]
       ],
       [
-        [
-          "21%"
-        ],
-        [
-          null
-        ]
+        "21%",
+        []
       ],
       [
-        [
-          "15% or 10%"
-        ],
-        [
-          null
-        ]
+        "15% or 10%",
+        []
       ],
       [
-        [
-          "DPH"
-        ],
-        [
-          null
-        ]
+        "DPH",
+        []
       ],
       [
-        [
-          "Czech"
-        ],
+        "Czech : Da\u0148 z p\u0159idan\u00e9 hodnoty",
         [
           "/wiki/Czech_language"
         ]
@@ -258,41 +155,25 @@
     ],
     [
       [
-        [
-          "Croatia"
-        ],
+        "Croatia",
         [
           "/wiki/Croatia"
         ]
       ],
       [
-        [
-          "25%"
-        ],
-        [
-          null
-        ]
+        "25%",
+        []
       ],
       [
-        [
-          "13% or 5%"
-        ],
-        [
-          null
-        ]
+        "13% or 5%",
+        []
       ],
       [
-        [
-          "PDV"
-        ],
-        [
-          null
-        ]
+        "PDV",
+        []
       ],
       [
-        [
-          "Croatian"
-        ],
+        "Croatian : Porez na dodanu vrijednost",
         [
           "/wiki/Croatian_language"
         ]
@@ -300,41 +181,25 @@
     ],
     [
       [
-        [
-          "Denmark"
-        ],
+        "Denmark",
         [
           "/wiki/Denmark"
         ]
       ],
       [
-        [
-          "25%"
-        ],
-        [
-          null
-        ]
+        "25%",
+        []
       ],
       [
-        [
-          "none"
-        ],
-        [
-          null
-        ]
+        "none",
+        []
       ],
       [
-        [
-          "moms"
-        ],
-        [
-          null
-        ]
+        "moms",
+        []
       ],
       [
-        [
-          "Danish"
-        ],
+        "Danish : Meroms\u00e6tningsafgift",
         [
           "/wiki/Danish_language"
         ]
@@ -342,41 +207,25 @@
     ],
     [
       [
-        [
-          "Estonia"
-        ],
+        "Estonia",
         [
           "/wiki/Estonia"
         ]
       ],
       [
-        [
-          "20%"
-        ],
-        [
-          null
-        ]
+        "20%",
+        []
       ],
       [
-        [
-          "9%"
-        ],
-        [
-          null
-        ]
+        "9%",
+        []
       ],
       [
-        [
-          "km"
-        ],
-        [
-          null
-        ]
+        "km",
+        []
       ],
       [
-        [
-          "Estonian"
-        ],
+        "Estonian : k\u00e4ibemaks",
         [
           "/wiki/Estonian_language"
         ]
@@ -384,42 +233,25 @@
     ],
     [
       [
-        [
-          "Finland"
-        ],
+        "Finland",
         [
           "/wiki/Finland"
         ]
       ],
       [
-        [
-          "24%"
-        ],
-        [
-          null
-        ]
+        "24%",
+        []
       ],
       [
-        [
-          "14% or 10%"
-        ],
-        [
-          null
-        ]
+        "14% or 10%",
+        []
       ],
       [
-        [
-          "ALV ; Moms"
-        ],
-        [
-          null
-        ]
+        "ALV ; Moms",
+        []
       ],
       [
-        [
-          "Finnish",
-          "Swedish"
-        ],
+        "Finnish : Arvonlis\u00e4vero ; Swedish : Merv\u00e4rdesskatt",
         [
           "/wiki/Finnish_language",
           "/wiki/Swedish_language"
@@ -428,127 +260,74 @@
     ],
     [
       [
-        [
-          "France",
-          "Monaco"
-        ],
+        "France \u221f Monaco",
         [
           "/wiki/France",
           "/wiki/Monaco"
         ]
       ],
       [
-        [
-          "20%"
-        ],
-        [
-          null
-        ]
+        "20%",
+        []
       ],
       [
-        [
-          "10% , 5.5% or 2.1%"
-        ],
-        [
-          null
-        ]
+        "10% , 5.5% or 2.1%",
+        []
       ],
       [
-        [
-          "TVA"
-        ],
-        [
-          null
-        ]
+        "TVA",
+        []
       ],
       [
-        [
-          "French : Taxe sur la valeur ajout\u00e9e"
-        ],
-        [
-          null
-        ]
+        "French : Taxe sur la valeur ajout\u00e9e",
+        []
       ]
     ],
     [
       [
-        [
-          "Germany"
-        ],
+        "Germany",
         [
           "/wiki/Germany"
         ]
       ],
       [
-        [
-          "19%"
-        ],
-        [
-          null
-        ]
+        "19%",
+        []
       ],
       [
-        [
-          "7%"
-        ],
-        [
-          null
-        ]
+        "7%",
+        []
       ],
       [
-        [
-          "MwSt . ; USt"
-        ],
-        [
-          null
-        ]
+        "MwSt . ; USt",
+        []
       ],
       [
-        [
-          "German : Mehrwertsteuer / Umsatzsteuer"
-        ],
-        [
-          null
-        ]
+        "German : Mehrwertsteuer / Umsatzsteuer",
+        []
       ]
     ],
     [
       [
-        [
-          "Greece"
-        ],
+        "Greece",
         [
           "/wiki/Greece"
         ]
       ],
       [
-        [
-          "24%"
-        ],
-        [
-          null
-        ]
+        "24%",
+        []
       ],
       [
-        [
-          "13% or 6%"
-        ],
-        [
-          null
-        ]
+        "13% or 6%",
+        []
       ],
       [
-        [
-          "\u03a6\u03a0\u0391"
-        ],
-        [
-          null
-        ]
+        "\u03a6\u03a0\u0391",
+        []
       ],
       [
-        [
-          "Greek"
-        ],
+        "Greek : \u03a6\u03cc\u03c1\u03bf\u03c2 \u03a0\u03c1\u03bf\u03c3\u03c4\u03b9\u03b8\u03ad\u03bc\u03b5\u03bd\u03b7\u03c2 \u0391\u03be\u03af\u03b1\u03c2 ( F\u00f3ros Prostith\u00e9menis Ax\u00edas )",
         [
           "/wiki/Greek_language"
         ]
@@ -556,41 +335,25 @@
     ],
     [
       [
-        [
-          "Hungary"
-        ],
+        "Hungary",
         [
           "/wiki/Hungary"
         ]
       ],
       [
-        [
-          "27%"
-        ],
-        [
-          null
-        ]
+        "27%",
+        []
       ],
       [
-        [
-          "18% or 5%"
-        ],
-        [
-          null
-        ]
+        "18% or 5%",
+        []
       ],
       [
-        [
-          "\u00c1FA"
-        ],
-        [
-          null
-        ]
+        "\u00c1FA",
+        []
       ],
       [
-        [
-          "Hungarian"
-        ],
+        "Hungarian : \u00e1ltal\u00e1nos forgalmi ad\u00f3",
         [
           "/wiki/Hungarian_language"
         ]
@@ -598,42 +361,25 @@
     ],
     [
       [
-        [
-          "Ireland"
-        ],
+        "Ireland",
         [
           "/wiki/Republic_of_Ireland"
         ]
       ],
       [
-        [
-          "23%"
-        ],
-        [
-          null
-        ]
+        "23%",
+        []
       ],
       [
-        [
-          "13.5% , 9% , 4.8% or 0%"
-        ],
-        [
-          null
-        ]
+        "13.5% , 9% , 4.8% or 0%",
+        []
       ],
       [
-        [
-          "VAT ; CBL"
-        ],
-        [
-          null
-        ]
+        "VAT ; CBL",
+        []
       ],
       [
-        [
-          "English",
-          "Irish"
-        ],
+        "English : Value Added Tax ; Irish : C\u00e1in Bhreisluacha",
         [
           "/wiki/English_language",
           "/wiki/Irish_language"
@@ -642,41 +388,25 @@
     ],
     [
       [
-        [
-          "Italy"
-        ],
+        "Italy",
         [
           "/wiki/Italy"
         ]
       ],
       [
-        [
-          "22%"
-        ],
-        [
-          null
-        ]
+        "22%",
+        []
       ],
       [
-        [
-          "10% , 5% , or 4%"
-        ],
-        [
-          null
-        ]
+        "10% , 5% , or 4%",
+        []
       ],
       [
-        [
-          "IVA"
-        ],
-        [
-          null
-        ]
+        "IVA",
+        []
       ],
       [
-        [
-          "Italian"
-        ],
+        "Italian : Imposta sul Valore Aggiunto",
         [
           "/wiki/Italian_language"
         ]
@@ -684,41 +414,25 @@
     ],
     [
       [
-        [
-          "Latvia"
-        ],
+        "Latvia",
         [
           "/wiki/Latvia"
         ]
       ],
       [
-        [
-          "21%"
-        ],
-        [
-          null
-        ]
+        "21%",
+        []
       ],
       [
-        [
-          "12% or 5%"
-        ],
-        [
-          null
-        ]
+        "12% or 5%",
+        []
       ],
       [
-        [
-          "PVN"
-        ],
-        [
-          null
-        ]
+        "PVN",
+        []
       ],
       [
-        [
-          "Latvian"
-        ],
+        "Latvian : Pievienot\u0101s v\u0113rt\u012bbas nodoklis",
         [
           "/wiki/Latvian_language"
         ]
@@ -726,41 +440,25 @@
     ],
     [
       [
-        [
-          "Lithuania"
-        ],
+        "Lithuania",
         [
           "/wiki/Lithuania"
         ]
       ],
       [
-        [
-          "21%"
-        ],
-        [
-          null
-        ]
+        "21%",
+        []
       ],
       [
-        [
-          "9% or 5%"
-        ],
-        [
-          null
-        ]
+        "9% or 5%",
+        []
       ],
       [
-        [
-          "PVM"
-        ],
-        [
-          null
-        ]
+        "PVM",
+        []
       ],
       [
-        [
-          "Lithuanian"
-        ],
+        "Lithuanian : Prid\u0117tin\u0117s vert\u0117s mokestis",
         [
           "/wiki/Lithuanian_language"
         ]
@@ -768,83 +466,49 @@
     ],
     [
       [
-        [
-          "Luxembourg"
-        ],
+        "Luxembourg",
         [
           "/wiki/Luxembourg"
         ]
       ],
       [
-        [
-          "[ 1 ]"
-        ],
-        [
-          null
-        ]
+        "17% [ 1 ]",
+        []
       ],
       [
-        [
-          "14% , 8% , or 3%"
-        ],
-        [
-          null
-        ]
+        "14% , 8% , or 3%",
+        []
       ],
       [
-        [
-          "TVA"
-        ],
-        [
-          null
-        ]
+        "TVA",
+        []
       ],
       [
-        [
-          "French : Taxe sur la Valeur Ajout\u00e9e"
-        ],
-        [
-          null
-        ]
+        "French : Taxe sur la Valeur Ajout\u00e9e",
+        []
       ]
     ],
     [
       [
-        [
-          "Malta"
-        ],
+        "Malta",
         [
           "/wiki/Malta"
         ]
       ],
       [
-        [
-          "18%"
-        ],
-        [
-          null
-        ]
+        "18%",
+        []
       ],
       [
-        [
-          "7% , 5% or 0%"
-        ],
-        [
-          null
-        ]
+        "7% , 5% or 0%",
+        []
       ],
       [
-        [
-          "VAT"
-        ],
-        [
-          null
-        ]
+        "VAT",
+        []
       ],
       [
-        [
-          "Maltese"
-        ],
+        "Maltese : Taxxa fuq il-Valur Mi\u017cjud ; English : Value Added Tax",
         [
           "/wiki/Maltese_language"
         ]
@@ -852,41 +516,25 @@
     ],
     [
       [
-        [
-          "Netherlands"
-        ],
+        "Netherlands",
         [
           "/wiki/Netherlands"
         ]
       ],
       [
-        [
-          "21%"
-        ],
-        [
-          null
-        ]
+        "21%",
+        []
       ],
       [
-        [
-          "9% or 0%"
-        ],
-        [
-          null
-        ]
+        "9% or 0%",
+        []
       ],
       [
-        [
-          "BTW"
-        ],
-        [
-          null
-        ]
+        "BTW",
+        []
       ],
       [
-        [
-          "Dutch"
-        ],
+        "Dutch : Belasting toegevoegde waarde / Omzetbelasting",
         [
           "/wiki/Dutch_language"
         ]

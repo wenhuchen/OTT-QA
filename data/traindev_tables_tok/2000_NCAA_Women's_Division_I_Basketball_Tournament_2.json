@@ -3,100 +3,60 @@
   "title": "2000 NCAA Division I Women's Basketball Tournament",
   "header": [
     [
-      [
-        "Region"
-      ],
-      [
-        null
-      ]
+      "Region",
+      []
     ],
     [
-      [
-        "Rnd"
-      ],
-      [
-        null
-      ]
+      "Rnd",
+      []
     ],
     [
-      [
-        "Host"
-      ],
-      [
-        null
-      ]
+      "Host",
+      []
     ],
     [
-      [
-        "Venue"
-      ],
-      [
-        null
-      ]
+      "Venue",
+      []
     ],
     [
-      [
-        "City"
-      ],
-      [
-        null
-      ]
+      "City",
+      []
     ],
     [
-      [
-        "State"
-      ],
-      [
-        null
-      ]
+      "State",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "East"
-        ],
-        [
-          null
-        ]
+        "East",
+        []
       ],
       [
-        [
-          "1 & 2"
-        ],
-        [
-          null
-        ]
+        "1 & 2",
+        []
       ],
       [
-        [
-          "Louisiana State University"
-        ],
+        "Louisiana State University",
         [
           "/wiki/Louisiana_State_University"
         ]
       ],
       [
-        [
-          "LSU Assembly Center ( Pete Maravich Assembly Center )"
-        ],
+        "LSU Assembly Center ( Pete Maravich Assembly Center )",
         [
           "/wiki/Pete_Maravich_Assembly_Center"
         ]
       ],
       [
-        [
-          "Baton Rouge"
-        ],
+        "Baton Rouge",
         [
           "/wiki/Baton_Rouge"
         ]
       ],
       [
-        [
-          "Louisiana"
-        ],
+        "Louisiana",
         [
           "/wiki/Louisiana"
         ]
@@ -104,49 +64,33 @@
     ],
     [
       [
-        [
-          "East"
-        ],
-        [
-          null
-        ]
+        "East",
+        []
       ],
       [
-        [
-          "1 & 2"
-        ],
-        [
-          null
-        ]
+        "1 & 2",
+        []
       ],
       [
-        [
-          "Purdue University"
-        ],
+        "Purdue University",
         [
           "/wiki/Purdue_University"
         ]
       ],
       [
-        [
-          "Mackey Arena"
-        ],
+        "Mackey Arena",
         [
           "/wiki/Mackey_Arena"
         ]
       ],
       [
-        [
-          "West Lafayette"
-        ],
+        "West Lafayette",
         [
           "/wiki/West_Lafayette"
         ]
       ],
       [
-        [
-          "Indiana"
-        ],
+        "Indiana",
         [
           "/wiki/Indiana"
         ]
@@ -154,49 +98,33 @@
     ],
     [
       [
-        [
-          "East"
-        ],
-        [
-          null
-        ]
+        "East",
+        []
       ],
       [
-        [
-          "1 & 2"
-        ],
-        [
-          null
-        ]
+        "1 & 2",
+        []
       ],
       [
-        [
-          "University of Connecticut"
-        ],
+        "University of Connecticut",
         [
           "/wiki/University_of_Connecticut"
         ]
       ],
       [
-        [
-          "Harry A. Gampel Pavilion"
-        ],
+        "Harry A. Gampel Pavilion",
         [
           "/wiki/Harry_A._Gampel_Pavilion"
         ]
       ],
       [
-        [
-          "Storrs"
-        ],
+        "Storrs",
         [
           "/wiki/Storrs,_Connecticut"
         ]
       ],
       [
-        [
-          "Connecticut"
-        ],
+        "Connecticut",
         [
           "/wiki/Connecticut"
         ]
@@ -204,49 +132,33 @@
     ],
     [
       [
-        [
-          "East"
-        ],
-        [
-          null
-        ]
+        "East",
+        []
       ],
       [
-        [
-          "1 & 2"
-        ],
-        [
-          null
-        ]
+        "1 & 2",
+        []
       ],
       [
-        [
-          "Duke University"
-        ],
+        "Duke University",
         [
           "/wiki/Duke_University"
         ]
       ],
       [
-        [
-          "Cameron Indoor Stadium"
-        ],
+        "Cameron Indoor Stadium",
         [
           "/wiki/Cameron_Indoor_Stadium"
         ]
       ],
       [
-        [
-          "Durham"
-        ],
+        "Durham",
         [
           "/wiki/Durham,_North_Carolina"
         ]
       ],
       [
-        [
-          "North Carolina"
-        ],
+        "North Carolina",
         [
           "/wiki/North_Carolina"
         ]
@@ -254,49 +166,33 @@
     ],
     [
       [
-        [
-          "Mideast"
-        ],
-        [
-          null
-        ]
+        "Mideast",
+        []
       ],
       [
-        [
-          "1 & 2"
-        ],
-        [
-          null
-        ]
+        "1 & 2",
+        []
       ],
       [
-        [
-          "University of Notre Dame"
-        ],
+        "University of Notre Dame",
         [
           "/wiki/University_of_Notre_Dame"
         ]
       ],
       [
-        [
-          "Edmund P. Joyce Center"
-        ],
+        "Edmund P. Joyce Center",
         [
           "/wiki/Edmund_P._Joyce_Center"
         ]
       ],
       [
-        [
-          "Notre Dame"
-        ],
+        "Notre Dame",
         [
           "/wiki/Notre_Dame,_Indiana"
         ]
       ],
       [
-        [
-          "Indiana"
-        ],
+        "Indiana",
         [
           "/wiki/Indiana"
         ]
@@ -304,49 +200,33 @@
     ],
     [
       [
-        [
-          "Mideast"
-        ],
-        [
-          null
-        ]
+        "Mideast",
+        []
       ],
       [
-        [
-          "1 & 2"
-        ],
-        [
-          null
-        ]
+        "1 & 2",
+        []
       ],
       [
-        [
-          "University of Tennessee"
-        ],
+        "University of Tennessee",
         [
           "/wiki/University_of_Tennessee"
         ]
       ],
       [
-        [
-          "Thompson-Boling Arena"
-        ],
+        "Thompson-Boling Arena",
         [
           "/wiki/Thompson\u2013Boling_Arena"
         ]
       ],
       [
-        [
-          "Knoxville"
-        ],
+        "Knoxville",
         [
           "/wiki/Knoxville"
         ]
       ],
       [
-        [
-          "Tennessee"
-        ],
+        "Tennessee",
         [
           "/wiki/Tennessee"
         ]
@@ -354,49 +234,33 @@
     ],
     [
       [
-        [
-          "Mideast"
-        ],
-        [
-          null
-        ]
+        "Mideast",
+        []
       ],
       [
-        [
-          "1 & 2"
-        ],
-        [
-          null
-        ]
+        "1 & 2",
+        []
       ],
       [
-        [
-          "Texas Tech University"
-        ],
+        "Texas Tech University",
         [
           "/wiki/Texas_Tech_University"
         ]
       ],
       [
-        [
-          "United Spirit Arena"
-        ],
+        "United Spirit Arena",
         [
           "/wiki/United_Spirit_Arena"
         ]
       ],
       [
-        [
-          "Lubbock"
-        ],
+        "Lubbock",
         [
           "/wiki/Lubbock"
         ]
       ],
       [
-        [
-          "Texas"
-        ],
+        "Texas",
         [
           "/wiki/Texas"
         ]
@@ -404,49 +268,33 @@
     ],
     [
       [
-        [
-          "Mideast"
-        ],
-        [
-          null
-        ]
+        "Mideast",
+        []
       ],
       [
-        [
-          "1 & 2"
-        ],
-        [
-          null
-        ]
+        "1 & 2",
+        []
       ],
       [
-        [
-          "University of Virginia"
-        ],
+        "University of Virginia",
         [
           "/wiki/University_of_Virginia"
         ]
       ],
       [
-        [
-          "University Hall ( University of Virginia )"
-        ],
+        "University Hall ( University of Virginia )",
         [
           "/wiki/University_Hall_(University_of_Virginia)"
         ]
       ],
       [
-        [
-          "Charlottesville"
-        ],
+        "Charlottesville",
         [
           "/wiki/Charlottesville"
         ]
       ],
       [
-        [
-          "Virginia"
-        ],
+        "Virginia",
         [
           "/wiki/Virginia"
         ]
@@ -454,49 +302,33 @@
     ],
     [
       [
-        [
-          "Midwest"
-        ],
-        [
-          null
-        ]
+        "Midwest",
+        []
       ],
       [
-        [
-          "1 & 2"
-        ],
-        [
-          null
-        ]
+        "1 & 2",
+        []
       ],
       [
-        [
-          "Old Dominion University"
-        ],
+        "Old Dominion University",
         [
           "/wiki/Old_Dominion_University"
         ]
       ],
       [
-        [
-          "Old Dominion University Fieldhouse"
-        ],
+        "Old Dominion University Fieldhouse",
         [
           "/wiki/Old_Dominion_University_Fieldhouse"
         ]
       ],
       [
-        [
-          "Norfolk"
-        ],
+        "Norfolk",
         [
           "/wiki/Norfolk,_Virginia"
         ]
       ],
       [
-        [
-          "Virginia"
-        ],
+        "Virginia",
         [
           "/wiki/Virginia"
         ]
@@ -504,49 +336,33 @@
     ],
     [
       [
-        [
-          "Midwest"
-        ],
-        [
-          null
-        ]
+        "Midwest",
+        []
       ],
       [
-        [
-          "1 & 2"
-        ],
-        [
-          null
-        ]
+        "1 & 2",
+        []
       ],
       [
-        [
-          "Louisiana Tech University"
-        ],
+        "Louisiana Tech University",
         [
           "/wiki/Louisiana_Tech_University"
         ]
       ],
       [
-        [
-          "Thomas Assembly Center"
-        ],
+        "Thomas Assembly Center",
         [
           "/wiki/Thomas_Assembly_Center"
         ]
       ],
       [
-        [
-          "Ruston"
-        ],
+        "Ruston",
         [
           "/wiki/Ruston,_Louisiana"
         ]
       ],
       [
-        [
-          "Louisiana"
-        ],
+        "Louisiana",
         [
           "/wiki/Louisiana"
         ]
@@ -554,49 +370,33 @@
     ],
     [
       [
-        [
-          "Midwest"
-        ],
-        [
-          null
-        ]
+        "Midwest",
+        []
       ],
       [
-        [
-          "1 & 2"
-        ],
-        [
-          null
-        ]
+        "1 & 2",
+        []
       ],
       [
-        [
-          "Iowa State University"
-        ],
+        "Iowa State University",
         [
           "/wiki/Iowa_State_University"
         ]
       ],
       [
-        [
-          "Hilton Coliseum"
-        ],
+        "Hilton Coliseum",
         [
           "/wiki/Hilton_Coliseum"
         ]
       ],
       [
-        [
-          "Ames"
-        ],
+        "Ames",
         [
           "/wiki/Ames,_Iowa"
         ]
       ],
       [
-        [
-          "Iowa"
-        ],
+        "Iowa",
         [
           "/wiki/Iowa"
         ]
@@ -604,49 +404,33 @@
     ],
     [
       [
-        [
-          "Midwest"
-        ],
-        [
-          null
-        ]
+        "Midwest",
+        []
       ],
       [
-        [
-          "1 & 2"
-        ],
-        [
-          null
-        ]
+        "1 & 2",
+        []
       ],
       [
-        [
-          "Pennsylvania State University"
-        ],
+        "Pennsylvania State University",
         [
           "/wiki/Pennsylvania_State_University"
         ]
       ],
       [
-        [
-          "Bryce Jordan Center"
-        ],
+        "Bryce Jordan Center",
         [
           "/wiki/Bryce_Jordan_Center"
         ]
       ],
       [
-        [
-          "University Park"
-        ],
+        "University Park",
         [
           "/wiki/University_Park,_Pennsylvania"
         ]
       ],
       [
-        [
-          "Pennsylvania"
-        ],
+        "Pennsylvania",
         [
           "/wiki/Pennsylvania"
         ]
@@ -654,49 +438,33 @@
     ],
     [
       [
-        [
-          "West"
-        ],
-        [
-          null
-        ]
+        "West",
+        []
       ],
       [
-        [
-          "1 & 2"
-        ],
-        [
-          null
-        ]
+        "1 & 2",
+        []
       ],
       [
-        [
-          "University of Georgia"
-        ],
+        "University of Georgia",
         [
           "/wiki/University_of_Georgia"
         ]
       ],
       [
-        [
-          "Georgia Coliseum ( Stegeman Coliseum )"
-        ],
+        "Georgia Coliseum ( Stegeman Coliseum )",
         [
           "/wiki/Stegeman_Coliseum"
         ]
       ],
       [
-        [
-          "Athens"
-        ],
+        "Athens",
         [
           "/wiki/Athens,_Georgia"
         ]
       ],
       [
-        [
-          "Georgia"
-        ],
+        "Georgia",
         [
           "/wiki/Georgia_(U.S._state)"
         ]
@@ -704,49 +472,33 @@
     ],
     [
       [
-        [
-          "West"
-        ],
-        [
-          null
-        ]
+        "West",
+        []
       ],
       [
-        [
-          "1 & 2"
-        ],
-        [
-          null
-        ]
+        "1 & 2",
+        []
       ],
       [
-        [
-          "Rutgers University"
-        ],
+        "Rutgers University",
         [
           "/wiki/Rutgers_University"
         ]
       ],
       [
-        [
-          "Louis Brown Athletic Center"
-        ],
+        "Louis Brown Athletic Center",
         [
           "/wiki/Louis_Brown_Athletic_Center"
         ]
       ],
       [
-        [
-          "Piscataway"
-        ],
+        "Piscataway",
         [
           "/wiki/Piscataway_Township,_New_Jersey"
         ]
       ],
       [
-        [
-          "New Jersey"
-        ],
+        "New Jersey",
         [
           "/wiki/New_Jersey"
         ]
@@ -754,49 +506,33 @@
     ],
     [
       [
-        [
-          "West"
-        ],
-        [
-          null
-        ]
+        "West",
+        []
       ],
       [
-        [
-          "1 & 2"
-        ],
-        [
-          null
-        ]
+        "1 & 2",
+        []
       ],
       [
-        [
-          "University of Oregon"
-        ],
+        "University of Oregon",
         [
           "/wiki/University_of_Oregon"
         ]
       ],
       [
-        [
-          "McArthur Court"
-        ],
+        "McArthur Court",
         [
           "/wiki/McArthur_Court"
         ]
       ],
       [
-        [
-          "Eugene"
-        ],
+        "Eugene",
         [
           "/wiki/Eugene,_Oregon"
         ]
       ],
       [
-        [
-          "Oregon"
-        ],
+        "Oregon",
         [
           "/wiki/Oregon"
         ]
@@ -804,49 +540,33 @@
     ],
     [
       [
-        [
-          "West"
-        ],
-        [
-          null
-        ]
+        "West",
+        []
       ],
       [
-        [
-          "1 & 2"
-        ],
-        [
-          null
-        ]
+        "1 & 2",
+        []
       ],
       [
-        [
-          "University of California , Santa Barbara"
-        ],
+        "University of California , Santa Barbara",
         [
           "/wiki/University_of_California,_Santa_Barbara"
         ]
       ],
       [
-        [
-          "UC Santa Barbara Events Center"
-        ],
+        "UC Santa Barbara Events Center",
         [
           "/wiki/UC_Santa_Barbara_Events_Center"
         ]
       ],
       [
-        [
-          "Santa Barbara"
-        ],
+        "Santa Barbara",
         [
           "/wiki/Santa_Barbara,_California"
         ]
       ],
       [
-        [
-          "California"
-        ],
+        "California",
         [
           "/wiki/California"
         ]

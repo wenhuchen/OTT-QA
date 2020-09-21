@@ -3,57 +3,34 @@
   "title": "List of cheeses",
   "header": [
     [
-      [
-        "Name"
-      ],
-      [
-        null
-      ]
+      "Name",
+      []
     ],
     [
-      [
-        "Region"
-      ],
-      [
-        null
-      ]
+      "Region",
+      []
     ],
     [
-      [
-        "Description"
-      ],
-      [
-        null
-      ]
+      "Description",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Castelo Branco cheese"
-        ],
+        "Castelo Branco cheese ( PDO )",
         [
           "/wiki/Castelo_Branco_cheese"
         ]
       ],
       [
-        [
-          "Beira Baixa"
-        ],
+        "Beira Baixa",
         [
           "/wiki/Beira_Baixa_Province"
         ]
       ],
       [
-        [
-          "the same name",
-          "Portugal",
-          "district",
-          "milk",
-          "goat",
-          "ewe"
-        ],
+        "a cheese named after the city of the same name in Portugal , the main city of the district where it is produced . The cheese is made from milk produced by either a goat or a ewe , and has a soft texture",
         [
           "/wiki/Castelo_Branco,_Portugal",
           "/wiki/Portugal",
@@ -66,29 +43,19 @@
     ],
     [
       [
-        [
-          "Queijo de Nisa"
-        ],
+        "Queijo de Nisa ( PDO )",
         [
           "/wiki/Queijo_de_Nisa"
         ]
       ],
       [
-        [
-          "Alto Alentejo"
-        ],
+        "Alto Alentejo",
         [
           "/wiki/Alto_Alentejo_Subregion"
         ]
       ],
       [
-        [
-          "sheep 's milk",
-          "cheese",
-          "Nisa",
-          "curdled",
-          "thistle"
-        ],
+        "a semi-hard sheep 's milk cheese from the municipality of Nisa . It is created from raw milk , which is coagulated , then curdled using an infusion of thistle",
         [
           "/wiki/Sheep_milk",
           "/wiki/Cheese",
@@ -100,25 +67,19 @@
     ],
     [
       [
-        [
-          "Queijo do Pico"
-        ],
+        "Queijo do Pico ( PDO )",
         [
           "/wiki/Queijo_do_Pico"
         ]
       ],
       [
-        [
-          "Azores"
-        ],
+        "Azores",
         [
           "/wiki/Azores"
         ]
       ],
       [
-        [
-          "Pico"
-        ],
+        "Originating from the island of Pico , this cured cheese is produced in cylindrical formats from cow milk It is considered a fatty cheese and the ripening of the cheese forms a yellow exterior irregular crust and yellowish-white , soft and pasty interior . Pico cheese has a salty taste and a , characteristically , intense aroma",
         [
           "/wiki/Pico_Island"
         ]
@@ -126,27 +87,20 @@
     ],
     [
       [
-        [
-          "Queijo de Azeit\u00e3o"
-        ],
+        "Queijo de Azeit\u00e3o ( PDO )",
         [
           "/wiki/Queijo_de_Azeit\u00e3o"
         ]
       ],
       [
-        [
-          "Azeit\u00e3o",
-          "Set\u00fabal"
-        ],
+        "Azeit\u00e3o , Set\u00fabal",
         [
           "/wiki/Azeit\u00e3o_(S\u00e3o_Louren\u00e7o_e_S\u00e3o_Sim\u00e3o)",
           "/wiki/Set\u00fabal_District"
         ]
       ],
       [
-        [
-          "Azeit\u00e3o"
-        ],
+        "Sheep 's milk cheese originating from the town of Azeit\u00e3o",
         [
           "/wiki/Azeit\u00e3o_(S\u00e3o_Louren\u00e7o_e_S\u00e3o_Sim\u00e3o)"
         ]
@@ -154,28 +108,19 @@
     ],
     [
       [
-        [
-          "S\u00e3o Jorge"
-        ],
+        "S\u00e3o Jorge ( PDO )",
         [
           "/wiki/S\u00e3o_Jorge_cheese"
         ]
       ],
       [
-        [
-          "Azores"
-        ],
+        "Azores",
         [
           "/wiki/Azores"
         ]
       ],
       [
-        [
-          "S\u00e3o Jorge Island",
-          "cheese",
-          "unpasteurised",
-          "cow 's milk"
-        ],
+        "Produced in the S\u00e3o Jorge Island , this is a hard/semi-hard cheese made from unpasteurised cow 's milk , and the p\u00e2te has small eyes",
         [
           "/wiki/S\u00e3o_Jorge_Island",
           "/wiki/Cheese",
@@ -186,26 +131,19 @@
     ],
     [
       [
-        [
-          "Serra da Estrela"
-        ],
+        "Serra da Estrela ( PDO )",
         [
           "/wiki/Serra_da_Estrela_cheese"
         ]
       ],
       [
-        [
-          "Serra da Estrela"
-        ],
+        "Serra da Estrela",
         [
           "/wiki/Serra_da_Estrela"
         ]
       ],
       [
-        [
-          "sheep 's milk",
-          "artisanal"
-        ],
+        "Produced in a mountainous region this cheeses is made from sheep 's milk , mostly during the months of November to March . The texture of the paste varies depending on its age , from a very soft semi-liquid when young , to a soft but sliceable solid when older . It is a cured cheese created by artisanal producers with a white or slightly yellow color and a uniform creamy consistency with at most a few small holes in it",
         [
           "/wiki/Sheep's_milk",
           "/wiki/Artisan_cheese"
@@ -214,29 +152,17 @@
     ],
     [
       [
-        [
-          "Requeij\u00e3o"
-        ],
+        "Requeij\u00e3o",
         [
           "/wiki/Requeij\u00e3o"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Portugal",
-          "Brazil",
-          "ricotta",
-          "ricotta",
-          "cheese"
-        ],
+        "A milk-derived product produced in Portugal and Brazil , it is sometimes called reques\u00f3n ( the Spanish word for ricotta ) in English-speaking countries . It is a loose , ricotta -like cheese used to make cheese spreads",
         [
           "/wiki/Portugal",
           "/wiki/Brazil",

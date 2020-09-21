@@ -3,68 +3,40 @@
   "title": "Biharia Euroregion",
   "header": [
     [
-      [
-        "City"
-      ],
-      [
-        null
-      ]
+      "City",
+      []
     ],
     [
-      [
-        "Population"
-      ],
-      [
-        null
-      ]
+      "Population",
+      []
     ],
     [
-      [
-        "Metro"
-      ],
-      [
-        null
-      ]
+      "Metro",
+      []
     ],
     [
-      [
-        "Country"
-      ],
-      [
-        null
-      ]
+      "Country",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Oradea"
-        ],
+        "Oradea",
         [
           "/wiki/Oradea"
         ]
       ],
       [
-        [
-          "206,614"
-        ],
-        [
-          null
-        ]
+        "206,614",
+        []
       ],
       [
-        [
-          "260,000"
-        ],
-        [
-          null
-        ]
+        "260,000",
+        []
       ],
       [
-        [
-          "Romania"
-        ],
+        "Romania",
         [
           "/wiki/Romania"
         ]
@@ -72,33 +44,21 @@
     ],
     [
       [
-        [
-          "Debrecen"
-        ],
+        "Debrecen",
         [
           "/wiki/Debrecen"
         ]
       ],
       [
-        [
-          "205,084"
-        ],
-        [
-          null
-        ]
+        "205,084",
+        []
       ],
       [
-        [
-          "237,888"
-        ],
-        [
-          null
-        ]
+        "237,888",
+        []
       ],
       [
-        [
-          "Hungary"
-        ],
+        "Hungary",
         [
           "/wiki/Hungary"
         ]
@@ -106,33 +66,21 @@
     ],
     [
       [
-        [
-          "Hajd\u00fab\u00f6sz\u00f6rm\u00e9ny"
-        ],
+        "Hajd\u00fab\u00f6sz\u00f6rm\u00e9ny",
         [
           "/wiki/Hajd\u00fab\u00f6sz\u00f6rm\u00e9ny"
         ]
       ],
       [
-        [
-          "32,228"
-        ],
-        [
-          null
-        ]
+        "32,228",
+        []
       ],
       [
-        [
-          "N/A"
-        ],
-        [
-          null
-        ]
+        "N/A",
+        []
       ],
       [
-        [
-          "Hungary"
-        ],
+        "Hungary",
         [
           "/wiki/Hungary"
         ]
@@ -140,33 +88,21 @@
     ],
     [
       [
-        [
-          "Hajd\u00faszoboszl\u00f3"
-        ],
+        "Hajd\u00faszoboszl\u00f3",
         [
           "/wiki/Hajd\u00faszoboszl\u00f3"
         ]
       ],
       [
-        [
-          "23,695"
-        ],
-        [
-          null
-        ]
+        "23,695",
+        []
       ],
       [
-        [
-          "N/A"
-        ],
-        [
-          null
-        ]
+        "N/A",
+        []
       ],
       [
-        [
-          "Hungary"
-        ],
+        "Hungary",
         [
           "/wiki/Hungary"
         ]
@@ -174,33 +110,21 @@
     ],
     [
       [
-        [
-          "Balmaz\u00fajv\u00e1ros"
-        ],
+        "Balmaz\u00fajv\u00e1ros",
         [
           "/wiki/Balmaz\u00fajv\u00e1ros"
         ]
       ],
       [
-        [
-          "18,615"
-        ],
-        [
-          null
-        ]
+        "18,615",
+        []
       ],
       [
-        [
-          "N/A"
-        ],
-        [
-          null
-        ]
+        "N/A",
+        []
       ],
       [
-        [
-          "Hungary"
-        ],
+        "Hungary",
         [
           "/wiki/Hungary"
         ]
@@ -208,33 +132,21 @@
     ],
     [
       [
-        [
-          "Hajd\u00fan\u00e1n\u00e1s"
-        ],
+        "Hajd\u00fan\u00e1n\u00e1s",
         [
           "/wiki/Hajd\u00fan\u00e1n\u00e1s"
         ]
       ],
       [
-        [
-          "18,185"
-        ],
-        [
-          null
-        ]
+        "18,185",
+        []
       ],
       [
-        [
-          "N/A"
-        ],
-        [
-          null
-        ]
+        "N/A",
+        []
       ],
       [
-        [
-          "Hungary"
-        ],
+        "Hungary",
         [
           "/wiki/Hungary"
         ]
@@ -242,33 +154,21 @@
     ],
     [
       [
-        [
-          "Salonta"
-        ],
+        "Salonta",
         [
           "/wiki/Salonta"
         ]
       ],
       [
-        [
-          "18,137"
-        ],
-        [
-          null
-        ]
+        "18,137",
+        []
       ],
       [
-        [
-          "N/A"
-        ],
-        [
-          null
-        ]
+        "N/A",
+        []
       ],
       [
-        [
-          "Romania"
-        ],
+        "Romania",
         [
           "/wiki/Romania"
         ]
@@ -276,33 +176,21 @@
     ],
     [
       [
-        [
-          "Marghita"
-        ],
+        "Marghita",
         [
           "/wiki/Marghita"
         ]
       ],
       [
-        [
-          "17,291"
-        ],
-        [
-          null
-        ]
+        "17,291",
+        []
       ],
       [
-        [
-          "N/A"
-        ],
-        [
-          null
-        ]
+        "N/A",
+        []
       ],
       [
-        [
-          "Romania"
-        ],
+        "Romania",
         [
           "/wiki/Romania"
         ]
@@ -310,33 +198,21 @@
     ],
     [
       [
-        [
-          "Beretty\u00f3\u00fajfalu"
-        ],
+        "Beretty\u00f3\u00fajfalu",
         [
           "/wiki/Beretty\u00f3\u00fajfalu"
         ]
       ],
       [
-        [
-          "16,227"
-        ],
-        [
-          null
-        ]
+        "16,227",
+        []
       ],
       [
-        [
-          "N/A"
-        ],
-        [
-          null
-        ]
+        "N/A",
+        []
       ],
       [
-        [
-          "Hungary"
-        ],
+        "Hungary",
         [
           "/wiki/Hungary"
         ]
@@ -344,33 +220,21 @@
     ],
     [
       [
-        [
-          "P\u00fcsp\u00f6klad\u00e1ny"
-        ],
+        "P\u00fcsp\u00f6klad\u00e1ny",
         [
           "/wiki/P\u00fcsp\u00f6klad\u00e1ny"
         ]
       ],
       [
-        [
-          "16,126"
-        ],
-        [
-          null
-        ]
+        "16,126",
+        []
       ],
       [
-        [
-          "N/A"
-        ],
-        [
-          null
-        ]
+        "N/A",
+        []
       ],
       [
-        [
-          "Hungary"
-        ],
+        "Hungary",
         [
           "/wiki/Hungary"
         ]
@@ -378,33 +242,21 @@
     ],
     [
       [
-        [
-          "Hajd\u00fahadh\u00e1z"
-        ],
+        "Hajd\u00fahadh\u00e1z",
         [
           "/wiki/Hajd\u00fahadh\u00e1z"
         ]
       ],
       [
-        [
-          "13,001"
-        ],
-        [
-          null
-        ]
+        "13,001",
+        []
       ],
       [
-        [
-          "N/A"
-        ],
-        [
-          null
-        ]
+        "N/A",
+        []
       ],
       [
-        [
-          "Hungary"
-        ],
+        "Hungary",
         [
           "/wiki/Hungary"
         ]
@@ -412,33 +264,21 @@
     ],
     [
       [
-        [
-          "Beiu\u015f"
-        ],
+        "Beiu\u015f",
         [
           "/wiki/Beiu\u015f"
         ]
       ],
       [
-        [
-          "12,089"
-        ],
-        [
-          null
-        ]
+        "12,089",
+        []
       ],
       [
-        [
-          "N/A"
-        ],
-        [
-          null
-        ]
+        "N/A",
+        []
       ],
       [
-        [
-          "Romania"
-        ],
+        "Romania",
         [
           "/wiki/Romania"
         ]
@@ -446,33 +286,21 @@
     ],
     [
       [
-        [
-          "S\u0103cueni"
-        ],
+        "S\u0103cueni",
         [
           "/wiki/S\u0103cueni"
         ]
       ],
       [
-        [
-          "11,665"
-        ],
-        [
-          null
-        ]
+        "11,665",
+        []
       ],
       [
-        [
-          "N/A"
-        ],
-        [
-          null
-        ]
+        "N/A",
+        []
       ],
       [
-        [
-          "Romania"
-        ],
+        "Romania",
         [
           "/wiki/Romania"
         ]
@@ -480,33 +308,21 @@
     ],
     [
       [
-        [
-          "Hajd\u00fas\u00e1mson"
-        ],
+        "Hajd\u00fas\u00e1mson",
         [
           "/wiki/Hajd\u00fas\u00e1mson"
         ]
       ],
       [
-        [
-          "10,946"
-        ],
-        [
-          null
-        ]
+        "10,946",
+        []
       ],
       [
-        [
-          "N/A"
-        ],
-        [
-          null
-        ]
+        "N/A",
+        []
       ],
       [
-        [
-          "Hungary"
-        ],
+        "Hungary",
         [
           "/wiki/Hungary"
         ]
@@ -514,33 +330,21 @@
     ],
     [
       [
-        [
-          "Ale\u015fd"
-        ],
+        "Ale\u015fd",
         [
           "/wiki/Ale\u015fd"
         ]
       ],
       [
-        [
-          "10,852"
-        ],
-        [
-          null
-        ]
+        "10,852",
+        []
       ],
       [
-        [
-          "N/A"
-        ],
-        [
-          null
-        ]
+        "N/A",
+        []
       ],
       [
-        [
-          "Romania"
-        ],
+        "Romania",
         [
           "/wiki/Romania"
         ]
@@ -548,33 +352,21 @@
     ],
     [
       [
-        [
-          "Valea lui Mihai"
-        ],
+        "Valea lui Mihai",
         [
           "/wiki/Valea_lui_Mihai"
         ]
       ],
       [
-        [
-          "10,317"
-        ],
-        [
-          null
-        ]
+        "10,317",
+        []
       ],
       [
-        [
-          "N/A"
-        ],
-        [
-          null
-        ]
+        "N/A",
+        []
       ],
       [
-        [
-          "Romania"
-        ],
+        "Romania",
         [
           "/wiki/Romania"
         ]
@@ -582,33 +374,21 @@
     ],
     [
       [
-        [
-          "\u015etei"
-        ],
+        "\u015etei",
         [
           "/wiki/\u015etei"
         ]
       ],
       [
-        [
-          "9,466"
-        ],
-        [
-          null
-        ]
+        "9,466",
+        []
       ],
       [
-        [
-          "N/A"
-        ],
-        [
-          null
-        ]
+        "N/A",
+        []
       ],
       [
-        [
-          "Romania"
-        ],
+        "Romania",
         [
           "/wiki/Romania"
         ]
@@ -616,33 +396,21 @@
     ],
     [
       [
-        [
-          "Derecske"
-        ],
+        "Derecske",
         [
           "/wiki/Derecske"
         ]
       ],
       [
-        [
-          "9,086"
-        ],
-        [
-          null
-        ]
+        "9,086",
+        []
       ],
       [
-        [
-          "N/A"
-        ],
-        [
-          null
-        ]
+        "N/A",
+        []
       ],
       [
-        [
-          "Hungary"
-        ],
+        "Hungary",
         [
           "/wiki/Hungary"
         ]

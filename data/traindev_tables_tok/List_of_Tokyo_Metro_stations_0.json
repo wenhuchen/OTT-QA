@@ -3,637 +3,391 @@
   "title": "List of Tokyo Metro stations",
   "header": [
     [
-      [
-        "Station"
-      ],
-      [
-        null
-      ]
+      "Station",
+      []
     ],
     [
-      [
-        "Ward or City"
-      ],
-      [
-        null
-      ]
+      "Ward or City",
+      []
     ],
     [
-      [
-        "Opening date"
-      ],
-      [
-        null
-      ]
+      "Opening date",
+      []
     ],
     [
-      [
-        "Design"
-      ],
-      [
-        null
-      ]
+      "Design",
+      []
     ],
     [
-      [
-        "Daily ridership ( FY2017 )"
-      ],
-      [
-        null
-      ]
+      "Daily ridership ( FY2017 )",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Shibuya"
-        ],
+        "Shibuya",
         [
           "/wiki/Shibuya_Station"
         ]
       ],
       [
-        [
-          "Shibuya"
-        ],
+        "Shibuya",
         [
           "/wiki/Shibuya,_Tokyo"
         ]
       ],
       [
-        [
-          "1977.04.07 2008.06.14"
-        ],
-        [
-          null
-        ]
+        "1977.04.07 2008.06.14",
+        []
       ],
       [
-        [
-          "Underground"
-        ],
-        [
-          null
-        ]
+        "Underground",
+        []
       ],
       [
-        [
-          "829,947"
-        ],
-        [
-          null
-        ]
+        "829,947",
+        []
       ]
     ],
     [
       [
-        [
-          "Ayase"
-        ],
+        "Ayase",
         [
           "/wiki/Ayase_Station"
         ]
       ],
       [
-        [
-          "Adachi"
-        ],
+        "Adachi",
         [
           "/wiki/Adachi,_Tokyo"
         ]
       ],
       [
-        [
-          "1971.04.20"
-        ],
-        [
-          null
-        ]
+        "1971.04.20",
+        []
       ],
       [
-        [
-          "Elevated"
-        ],
-        [
-          null
-        ]
+        "Elevated",
+        []
       ],
       [
-        [
-          "451,413"
-        ],
-        [
-          null
-        ]
+        "451,413",
+        []
       ]
     ],
     [
       [
-        [
-          "Kita-Senju"
-        ],
+        "Kita-Senju",
         [
           "/wiki/Kita-Senju_Station"
         ]
       ],
       [
-        [
-          "Adachi"
-        ],
+        "Adachi",
         [
           "/wiki/Adachi,_Tokyo"
         ]
       ],
       [
-        [
-          "1962.05.31"
-        ],
-        [
-          null
-        ]
+        "1962.05.31",
+        []
       ],
       [
-        [
-          "At-grade , elevated"
-        ],
-        [
-          null
-        ]
+        "At-grade , elevated",
+        []
       ],
       [
-        [
-          "299,219"
-        ],
-        [
-          null
-        ]
+        "299,219",
+        []
       ]
     ],
     [
       [
-        [
-          "Nishi-Funabashi"
-        ],
+        "Nishi-Funabashi",
         [
           "/wiki/Nishi-Funabashi_Station"
         ]
       ],
       [
-        [
-          "Funabashi",
-          "Chiba"
-        ],
+        "Funabashi ( Chiba )",
         [
           "/wiki/Funabashi,_Chiba",
           "/wiki/Chiba_Prefecture"
         ]
       ],
       [
-        [
-          "1969.03.29"
-        ],
-        [
-          null
-        ]
+        "1969.03.29",
+        []
       ],
       [
-        [
-          "At-grade"
-        ],
-        [
-          null
-        ]
+        "At-grade",
+        []
       ],
       [
-        [
-          "293,332"
-        ],
-        [
-          null
-        ]
+        "293,332",
+        []
       ]
     ],
     [
       [
-        [
-          "Yoyogi-Uehara"
-        ],
+        "Yoyogi-Uehara",
         [
           "/wiki/Yoyogi-Uehara_Station"
         ]
       ],
       [
-        [
-          "Shibuya"
-        ],
+        "Shibuya",
         [
           "/wiki/Shibuya,_Tokyo"
         ]
       ],
       [
-        [
-          "1978.03.31"
-        ],
-        [
-          null
-        ]
+        "1978.03.31",
+        []
       ],
       [
-        [
-          "Elevated"
-        ],
-        [
-          null
-        ]
+        "Elevated",
+        []
       ],
       [
-        [
-          "278,836"
-        ],
-        [
-          null
-        ]
+        "278,836",
+        []
       ]
     ],
     [
       [
-        [
-          "Naka-Meguro"
-        ],
+        "Naka-Meguro",
         [
           "/wiki/Naka-Meguro_Station"
         ]
       ],
       [
-        [
-          "Meguro"
-        ],
+        "Meguro",
         [
           "/wiki/Meguro,_Tokyo"
         ]
       ],
       [
-        [
-          "1964.07.22"
-        ],
-        [
-          null
-        ]
+        "1964.07.22",
+        []
       ],
       [
-        [
-          "Elevated"
-        ],
-        [
-          null
-        ]
+        "Elevated",
+        []
       ],
       [
-        [
-          "229,306"
-        ],
-        [
-          null
-        ]
+        "229,306",
+        []
       ]
     ],
     [
       [
-        [
-          "Wak\u014d-shi"
-        ],
+        "Wak\u014d-shi",
         [
           "/wiki/Wak\u014d-shi_Station"
         ]
       ],
       [
-        [
-          "Wak\u014d",
-          "Saitama"
-        ],
+        "Wak\u014d ( Saitama )",
         [
           "/wiki/Wak\u014d,_Saitama",
           "/wiki/Saitama_Prefecture"
         ]
       ],
       [
-        [
-          "1987.08.25"
-        ],
-        [
-          null
-        ]
+        "1987.08.25",
+        []
       ],
       [
-        [
-          "Elevated"
-        ],
-        [
-          null
-        ]
+        "Elevated",
+        []
       ],
       [
-        [
-          "185,865"
-        ],
-        [
-          null
-        ]
+        "185,865",
+        []
       ]
     ],
     [
       [
-        [
-          "Kotake-Mukaihara"
-        ],
+        "Kotake-Mukaihara",
         [
           "/wiki/Kotake-Mukaihara_Station"
         ]
       ],
       [
-        [
-          "Nerima"
-        ],
+        "Nerima",
         [
           "/wiki/Nerima,_Tokyo"
         ]
       ],
       [
-        [
-          "1983.06.24"
-        ],
-        [
-          null
-        ]
+        "1983.06.24",
+        []
       ],
       [
-        [
-          "Underground"
-        ],
-        [
-          null
-        ]
+        "Underground",
+        []
       ],
       [
-        [
-          "180,429"
-        ],
-        [
-          null
-        ]
+        "180,429",
+        []
       ]
     ],
     [
       [
-        [
-          "Oshiage"
-        ],
+        "Oshiage",
         [
           "/wiki/Oshiage_Station"
         ]
       ],
       [
-        [
-          "Sumida"
-        ],
+        "Sumida",
         [
           "/wiki/Sumida,_Tokyo"
         ]
       ],
       [
-        [
-          "2003.03.19"
-        ],
-        [
-          null
-        ]
+        "2003.03.19",
+        []
       ],
       [
-        [
-          "Underground"
-        ],
-        [
-          null
-        ]
+        "Underground",
+        []
       ],
       [
-        [
-          "177,297"
-        ],
-        [
-          null
-        ]
+        "177,297",
+        []
       ]
     ],
     [
       [
-        [
-          "Nakano"
-        ],
+        "Nakano",
         [
           "/wiki/Nakano_Station_(Tokyo)"
         ]
       ],
       [
-        [
-          "Nakano"
-        ],
+        "Nakano",
         [
           "/wiki/Nakano,_Tokyo"
         ]
       ],
       [
-        [
-          "1966.03.16"
-        ],
-        [
-          null
-        ]
+        "1966.03.16",
+        []
       ],
       [
-        [
-          "Elevated"
-        ],
-        [
-          null
-        ]
+        "Elevated",
+        []
       ],
       [
-        [
-          "160,270"
-        ],
-        [
-          null
-        ]
+        "160,270",
+        []
       ]
     ],
     [
       [
-        [
-          "Meguro"
-        ],
+        "Meguro",
         [
           "/wiki/Meguro_Station"
         ]
       ],
       [
-        [
-          "Shinagawa"
-        ],
+        "Shinagawa",
         [
           "/wiki/Shinagawa,_Tokyo"
         ]
       ],
       [
-        [
-          "2000.09.26"
-        ],
-        [
-          null
-        ]
+        "2000.09.26",
+        []
       ],
       [
-        [
-          "Underground"
-        ],
-        [
-          null
-        ]
+        "Underground",
+        []
       ],
       [
-        [
-          "118,326"
-        ],
-        [
-          null
-        ]
+        "118,326",
+        []
       ]
     ],
     [
       [
-        [
-          "Akabane Iwabuchi"
-        ],
+        "Akabane Iwabuchi",
         [
           "/wiki/Akabane_Iwabuchi_Station"
         ]
       ],
       [
-        [
-          "Kita"
-        ],
+        "Kita",
         [
           "/wiki/Kita,_Tokyo"
         ]
       ],
       [
-        [
-          "1991.11.29"
-        ],
-        [
-          null
-        ]
+        "1991.11.29",
+        []
       ],
       [
-        [
-          "Underground"
-        ],
-        [
-          null
-        ]
+        "Underground",
+        []
       ],
       [
-        [
-          "92,093"
-        ],
-        [
-          null
-        ]
+        "92,093",
+        []
       ]
     ],
     [
       [
-        [
-          "Shirokane-Takanawa"
-        ],
+        "Shirokane-Takanawa",
         [
           "/wiki/Shirokane-Takanawa_Station"
         ]
       ],
       [
-        [
-          "Minato"
-        ],
+        "Minato",
         [
           "/wiki/Minato,_Tokyo"
         ]
       ],
       [
-        [
-          "2000.09.26"
-        ],
-        [
-          null
-        ]
+        "2000.09.26",
+        []
       ],
       [
-        [
-          "Underground"
-        ],
-        [
-          null
-        ]
+        "Underground",
+        []
       ],
       [
-        [
-          "42,541"
-        ],
-        [
-          null
-        ]
+        "42,541",
+        []
       ]
     ],
     [
       [
-        [
-          "Shirokanedai"
-        ],
+        "Shirokanedai",
         [
           "/wiki/Shirokanedai_Station"
         ]
       ],
       [
-        [
-          "Minato"
-        ],
+        "Minato",
         [
           "/wiki/Minato,_Tokyo"
         ]
       ],
       [
-        [
-          "2000.09.26"
-        ],
-        [
-          null
-        ]
+        "2000.09.26",
+        []
       ],
       [
-        [
-          "Underground"
-        ],
-        [
-          null
-        ]
+        "Underground",
+        []
       ],
       [
-        [
-          "18,193"
-        ],
-        [
-          null
-        ]
+        "18,193",
+        []
       ]
     ]
   ],

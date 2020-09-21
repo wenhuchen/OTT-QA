@@ -3,104 +3,60 @@
   "title": "List of black superheroes",
   "header": [
     [
-      [
-        "Name"
-      ],
-      [
-        null
-      ]
+      "Name",
+      []
     ],
     [
-      [
-        "Teams/Associations"
-      ],
-      [
-        null
-      ]
+      "Teams/Associations",
+      []
     ],
     [
-      [
-        "First Appearance"
-      ],
-      [
-        null
-      ]
+      "First Appearance",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Action Hank"
-        ],
-        [
-          null
-        ]
+        "Action Hank",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Dexter 's Laboratory"
-        ],
-        [
-          null
-        ]
+        "Dexter 's Laboratory",
+        []
       ]
     ],
     [
       [
-        [
-          "Afro Samurai"
-        ],
-        [
-          null
-        ]
+        "Afro Samurai",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Afro Samurai"
-        ],
-        [
-          null
-        ]
+        "Afro Samurai",
+        []
       ]
     ],
     [
       [
-        [
-          "Anansi the Spider"
-        ],
+        "Anansi the Spider",
         [
           "/wiki/Static_Shock"
         ]
       ],
       [
-        [
-          "Static ( ally )"
-        ],
-        [
-          null
-        ]
+        "Static ( ally )",
+        []
       ],
       [
-        [
-          "Static Shock"
-        ],
+        "Static Shock",
         [
           "/wiki/Static_Shock"
         ]
@@ -108,25 +64,15 @@
     ],
     [
       [
-        [
-          "Agent Antoine Triplett"
-        ],
-        [
-          null
-        ]
+        "Agent Antoine Triplett",
+        []
       ],
       [
-        [
-          "S.H.I.E.L.D"
-        ],
-        [
-          null
-        ]
+        "S.H.I.E.L.D",
+        []
       ],
       [
-        [
-          "Agents of S.H.I.E.L.D"
-        ],
+        "Agents of S.H.I.E.L.D",
         [
           "/wiki/Agents_of_S.H.I.E.L.D."
         ]
@@ -134,25 +80,15 @@
     ],
     [
       [
-        [
-          "Benny Sherwood"
-        ],
-        [
-          null
-        ]
+        "Benny Sherwood",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Wizards vs Aliens"
-        ],
+        "Wizards vs Aliens",
         [
           "/wiki/Wizards_vs_Aliens"
         ]
@@ -160,25 +96,19 @@
     ],
     [
       [
-        [
-          "Big Lob"
-        ],
+        "Big Lob",
         [
           "/wiki/Big_Lob"
         ]
       ],
       [
-        [
-          "G.I . Joe"
-        ],
+        "G.I . Joe",
         [
           "/wiki/G.I._Joe:_A_Real_American_Hero"
         ]
       ],
       [
-        [
-          "G.I . Joe : The Movie"
-        ],
+        "G.I . Joe : The Movie",
         [
           "/wiki/G.I._Joe:_The_Movie"
         ]
@@ -186,259 +116,175 @@
     ],
     [
       [
-        [
-          "Black Ranger"
-        ],
+        "Black Ranger",
         [
           "/wiki/Operation_Overdrive_Power_Rangers"
         ]
       ],
       [
-        [
-          "Power Rangers : Operation Overdrive"
-        ],
+        "Power Rangers : Operation Overdrive",
         [
           "/wiki/Power_Rangers:_Operation_Overdrive"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Black Ranger"
-        ],
+        "Black Ranger",
         [
           "/wiki/Zack_Taylor"
         ]
       ],
       [
-        [
-          "Mighty Morphin Power Rangers"
-        ],
+        "Mighty Morphin Power Rangers",
         [
           "/wiki/Mighty_Morphin_Power_Rangers"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Black Vulcan"
-        ],
+        "Black Vulcan",
         [
           "/wiki/Black_Vulcan"
         ]
       ],
       [
-        [
-          "Super Friends"
-        ],
+        "Super Friends",
         [
           "/wiki/Super_Friends"
         ]
       ],
       [
-        [
-          "Super Friends Animated Cartoon"
-        ],
-        [
-          null
-        ]
+        "Super Friends Animated Cartoon",
+        []
       ]
     ],
     [
       [
-        [
-          "Blade"
-        ],
+        "Blade",
         [
           "/wiki/Blade:_The_Series"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Blade ( TV show )"
-        ],
-        [
-          null
-        ]
+        "Blade ( TV show )",
+        []
       ]
     ],
     [
       [
-        [
-          "Blue Ranger"
-        ],
+        "Blue Ranger",
         [
           "/wiki/Dino_Thunder_Power_Rangers"
         ]
       ],
       [
-        [
-          "Power Rangers : Dino Thunder"
-        ],
+        "Power Rangers : Dino Thunder",
         [
           "/wiki/Power_Rangers:_Dino_Thunder"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Blue Ranger"
-        ],
-        [
-          null
-        ]
+        "Blue Ranger",
+        []
       ],
       [
-        [
-          "Power Rangers : Wild Force"
-        ],
+        "Power Rangers : Wild Force",
         [
           "/wiki/Power_Rangers:_Wild_Force"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Blue Ranger"
-        ],
+        "Blue Ranger",
         [
           "/wiki/TJ_Johnson"
         ]
       ],
       [
-        [
-          "Power Rangers in Space"
-        ],
+        "Power Rangers in Space",
         [
           "/wiki/Power_Rangers_in_Space"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Blue Ranger"
-        ],
+        "Blue Ranger",
         [
           "/wiki/Kevin"
         ]
       ],
       [
-        [
-          "Power Rangers Samurai"
-        ],
+        "Power Rangers Samurai",
         [
           "/wiki/Power_Rangers_Samurai"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Blue Ranger"
-        ],
+        "Blue Ranger",
         [
           "/wiki/Blue_Ranger"
         ]
       ],
       [
-        [
-          "Power Rangers Megaforce"
-        ],
+        "Power Rangers Megaforce",
         [
           "/wiki/Power_Rangers_Megaforce"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "The Brown Hornet"
-        ],
+        "The Brown Hornet",
         [
           "/wiki/The_Brown_Hornet"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Fat Albert"
-        ],
+        "Fat Albert",
         [
           "/wiki/Fat_Albert_and_the_Cosby_Kids"
         ]
@@ -446,51 +292,31 @@
     ],
     [
       [
-        [
-          "Bulletproof"
-        ],
-        [
-          null
-        ]
+        "Bulletproof",
+        []
       ],
       [
-        [
-          "C.O.P.S"
-        ],
-        [
-          null
-        ]
+        "C.O.P.S",
+        []
       ],
       [
-        [
-          "C.O.P.S"
-        ],
-        [
-          null
-        ]
+        "C.O.P.S",
+        []
       ]
     ],
     [
       [
-        [
-          "Bumblebee"
-        ],
+        "Bumblebee",
         [
           "/wiki/Bumblebee_(comics)"
         ]
       ],
       [
-        [
-          "Teen Titans ( East )"
-        ],
-        [
-          null
-        ]
+        "Teen Titans ( East )",
+        []
       ],
       [
-        [
-          "Teen Titans"
-        ],
+        "Teen Titans",
         [
           "/wiki/Teen_Titans_(TV_series)"
         ]
@@ -498,25 +324,17 @@
     ],
     [
       [
-        [
-          "Capital G"
-        ],
-        [
-          null
-        ]
+        "Capital G",
+        []
       ],
       [
-        [
-          "Justice Friends"
-        ],
+        "Justice Friends",
         [
           "/wiki/Dexter's_Laboratory"
         ]
       ],
       [
-        [
-          "Dexter 's Laboratory"
-        ],
+        "Dexter 's Laboratory",
         [
           "/wiki/Dexter's_Laboratory"
         ]
@@ -524,25 +342,17 @@
     ],
     [
       [
-        [
-          "Cassie"
-        ],
+        "Cassie",
         [
           "/wiki/Cassie_(Animorphs)"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Animorphs"
-        ],
+        "Animorphs",
         [
           "/wiki/Animorphs"
         ]

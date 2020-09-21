@@ -3,721 +3,439 @@
   "title": "List of power stations in Oregon",
   "header": [
     [
-      [
-        "Station"
-      ],
-      [
-        null
-      ]
+      "Station",
+      []
     ],
     [
-      [
-        "Location"
-      ],
-      [
-        null
-      ]
+      "Location",
+      []
     ],
     [
-      [
-        "MW"
-      ],
+      "Capacity ( MW )",
       [
         "/wiki/Megawatt"
       ]
     ],
     [
-      [
-        "Status"
-      ],
-      [
-        null
-      ]
+      "Status",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Klondike Wind Farm"
-        ],
+        "Klondike Wind Farm",
         [
           "/wiki/Klondike_Wind_Farm"
         ]
       ],
       [
-        [
-          "Sherman County"
-        ],
+        "Sherman County",
         [
           "/wiki/Sherman_County,_Oregon"
         ]
       ],
       [
-        [
-          "399"
-        ],
-        [
-          null
-        ]
+        "399",
+        []
       ],
       [
-        [
-          "Operational"
-        ],
-        [
-          null
-        ]
+        "Operational",
+        []
       ]
     ],
     [
       [
-        [
-          "Biglow Canyon Wind Farm"
-        ],
+        "Biglow Canyon Wind Farm",
         [
           "/wiki/Biglow_Canyon_Wind_Farm"
         ]
       ],
       [
-        [
-          "Sherman County"
-        ],
+        "Sherman County",
         [
           "/wiki/Sherman_County,_Oregon"
         ]
       ],
       [
-        [
-          "450"
-        ],
-        [
-          null
-        ]
+        "450",
+        []
       ],
       [
-        [
-          "Operational"
-        ],
-        [
-          null
-        ]
+        "Operational",
+        []
       ]
     ],
     [
       [
-        [
-          "Vansycle Wind Project"
-        ],
+        "Vansycle Wind Project",
         [
           "/wiki/Vansycle_Wind_Project"
         ]
       ],
       [
-        [
-          "Umatilla County"
-        ],
+        "Umatilla County",
         [
           "/wiki/Umatilla_County,_Oregon"
         ]
       ],
       [
-        [
-          "124"
-        ],
-        [
-          null
-        ]
+        "124",
+        []
       ],
       [
-        [
-          "Operational"
-        ],
-        [
-          null
-        ]
+        "Operational",
+        []
       ]
     ],
     [
       [
-        [
-          "Stateline Wind Project"
-        ],
+        "Stateline Wind Project",
         [
           "/wiki/Stateline_Wind_Project"
         ]
       ],
       [
-        [
-          "Umatilla County"
-        ],
+        "Umatilla County",
         [
           "/wiki/Umatilla_County,_Oregon"
         ]
       ],
       [
-        [
-          "123"
-        ],
-        [
-          null
-        ]
+        "123",
+        []
       ],
       [
-        [
-          "Operational"
-        ],
-        [
-          null
-        ]
+        "Operational",
+        []
       ]
     ],
     [
       [
-        [
-          "Rattlesnake Road Wind Farm"
-        ],
-        [
-          null
-        ]
+        "Rattlesnake Road Wind Farm",
+        []
       ],
       [
-        [
-          "Gilliam County"
-        ],
+        "Gilliam County",
         [
           "/wiki/Gilliam_County,_Oregon"
         ]
       ],
       [
-        [
-          "103"
-        ],
-        [
-          null
-        ]
+        "103",
+        []
       ],
       [
-        [
-          "Operational"
-        ],
-        [
-          null
-        ]
+        "Operational",
+        []
       ]
     ],
     [
       [
-        [
-          "Hay Canyon Wind Farm"
-        ],
+        "Hay Canyon Wind Farm",
         [
           "/wiki/Hay_Canyon_Wind_Farm"
         ]
       ],
       [
-        [
-          "Sherman County"
-        ],
+        "Sherman County",
         [
           "/wiki/Sherman_County,_Oregon"
         ]
       ],
       [
-        [
-          "101"
-        ],
-        [
-          null
-        ]
+        "101",
+        []
       ],
       [
-        [
-          "Operational"
-        ],
-        [
-          null
-        ]
+        "Operational",
+        []
       ]
     ],
     [
       [
-        [
-          "Elkhorn Valley Wind Farm"
-        ],
-        [
-          null
-        ]
+        "Elkhorn Valley Wind Farm",
+        []
       ],
       [
-        [
-          "Union County"
-        ],
+        "Union County",
         [
           "/wiki/Union_County,_Oregon"
         ]
       ],
       [
-        [
-          "101"
-        ],
-        [
-          null
-        ]
+        "101",
+        []
       ],
       [
-        [
-          "Operational"
-        ],
-        [
-          null
-        ]
+        "Operational",
+        []
       ]
     ],
     [
       [
-        [
-          "Leaning Juniper Wind Project"
-        ],
+        "Leaning Juniper Wind Project",
         [
           "/wiki/Leaning_Juniper_Wind_Project"
         ]
       ],
       [
-        [
-          "Gilliam County"
-        ],
+        "Gilliam County",
         [
           "/wiki/Gilliam_County,_Oregon"
         ]
       ],
       [
-        [
-          "302.3"
-        ],
-        [
-          null
-        ]
+        "302.3",
+        []
       ],
       [
-        [
-          "Operational"
-        ],
-        [
-          null
-        ]
+        "Operational",
+        []
       ]
     ],
     [
       [
-        [
-          "Pebble Springs Wind Farm"
-        ],
-        [
-          null
-        ]
+        "Pebble Springs Wind Farm",
+        []
       ],
       [
-        [
-          "Gilliam County"
-        ],
+        "Gilliam County",
         [
           "/wiki/Gilliam_County,_Oregon"
         ]
       ],
       [
-        [
-          "99"
-        ],
-        [
-          null
-        ]
+        "99",
+        []
       ],
       [
-        [
-          "Operational"
-        ],
-        [
-          null
-        ]
+        "Operational",
+        []
       ]
     ],
     [
       [
-        [
-          "Wheatfield Wind Farm"
-        ],
-        [
-          null
-        ]
+        "Wheatfield Wind Farm",
+        []
       ],
       [
-        [
-          "Gilliam County"
-        ],
+        "Gilliam County",
         [
           "/wiki/Gilliam_County,_Oregon"
         ]
       ],
       [
-        [
-          "97"
-        ],
-        [
-          null
-        ]
+        "97",
+        []
       ],
       [
-        [
-          "Operational"
-        ],
-        [
-          null
-        ]
+        "Operational",
+        []
       ]
     ],
     [
       [
-        [
-          "Willow Creek Wind Farm"
-        ],
-        [
-          null
-        ]
+        "Willow Creek Wind Farm",
+        []
       ],
       [
-        [
-          "Gilliam County",
-          "Morrow County"
-        ],
+        "Gilliam County and Morrow County",
         [
           "/wiki/Gilliam_County,_Oregon",
           "/wiki/Morrow_County,_Oregon"
         ]
       ],
       [
-        [
-          "72"
-        ],
-        [
-          null
-        ]
+        "72",
+        []
       ],
       [
-        [
-          "Operational"
-        ],
-        [
-          null
-        ]
+        "Operational",
+        []
       ]
     ],
     [
       [
-        [
-          "Echo Wind Farm"
-        ],
-        [
-          null
-        ]
+        "Echo Wind Farm",
+        []
       ],
       [
-        [
-          "Umatilla County"
-        ],
+        "Umatilla County",
         [
           "/wiki/Umatilla,_Oregon"
         ]
       ],
       [
-        [
-          "65"
-        ],
-        [
-          null
-        ]
+        "65",
+        []
       ],
       [
-        [
-          "Operational"
-        ],
-        [
-          null
-        ]
+        "Operational",
+        []
       ]
     ],
     [
       [
-        [
-          "Condon Wind Project"
-        ],
-        [
-          null
-        ]
+        "Condon Wind Project",
+        []
       ],
       [
-        [
-          "Gilliam County"
-        ],
+        "Gilliam County",
         [
           "/wiki/Gilliam_County,_Oregon"
         ]
       ],
       [
-        [
-          "50"
-        ],
-        [
-          null
-        ]
+        "50",
+        []
       ],
       [
-        [
-          "Operational"
-        ],
-        [
-          null
-        ]
+        "Operational",
+        []
       ]
     ],
     [
       [
-        [
-          "Combine Hills Wind Farm"
-        ],
-        [
-          null
-        ]
+        "Combine Hills Wind Farm",
+        []
       ],
       [
-        [
-          "Umatilla County"
-        ],
+        "Umatilla County",
         [
           "/wiki/Umatilla_County,_Oregon"
         ]
       ],
       [
-        [
-          "104"
-        ],
-        [
-          null
-        ]
+        "104",
+        []
       ],
       [
-        [
-          "Operational"
-        ],
-        [
-          null
-        ]
+        "Operational",
+        []
       ]
     ],
     [
       [
-        [
-          "Threemile Canyon Wind Farm"
-        ],
-        [
-          null
-        ]
+        "Threemile Canyon Wind Farm",
+        []
       ],
       [
-        [
-          "Morrow County"
-        ],
+        "Morrow County",
         [
           "/wiki/Morrow_County,_Oregon"
         ]
       ],
       [
-        [
-          "10"
-        ],
-        [
-          null
-        ]
+        "10",
+        []
       ],
       [
-        [
-          "Operational"
-        ],
-        [
-          null
-        ]
+        "Operational",
+        []
       ]
     ],
     [
       [
-        [
-          "Shepherds Flat Wind Farm"
-        ],
+        "Shepherds Flat Wind Farm",
         [
           "/wiki/Shepherds_Flat_Wind_Farm"
         ]
       ],
       [
-        [
-          "Gilliam County",
-          "Morrow County"
-        ],
+        "Gilliam County and Morrow County",
         [
           "/wiki/Gilliam_County,_Oregon",
           "/wiki/Morrow_County,_Oregon"
         ]
       ],
       [
-        [
-          "845"
-        ],
-        [
-          null
-        ]
+        "845",
+        []
       ],
       [
-        [
-          "Operational"
-        ],
-        [
-          null
-        ]
+        "Operational",
+        []
       ]
     ],
     [
       [
-        [
-          "P\u00e1Tu Wind Farm"
-        ],
-        [
-          null
-        ]
+        "P\u00e1Tu Wind Farm",
+        []
       ],
       [
-        [
-          "Sherman"
-        ],
+        "Sherman",
         [
           "/wiki/Sherman_County,_Oregon"
         ]
       ],
       [
-        [
-          "9"
-        ],
-        [
-          null
-        ]
+        "9",
+        []
       ],
       [
-        [
-          "Operational"
-        ],
-        [
-          null
-        ]
+        "Operational",
+        []
       ]
     ],
     [
       [
-        [
-          "Star Point"
-        ],
-        [
-          null
-        ]
+        "Star Point",
+        []
       ],
       [
-        [
-          "Sherman"
-        ],
+        "Sherman",
         [
           "/wiki/Sherman_County,_Oregon"
         ]
       ],
       [
-        [
-          "98.7"
-        ],
-        [
-          null
-        ]
+        "98.7",
+        []
       ],
       [
-        [
-          "Operational"
-        ],
-        [
-          null
-        ]
+        "Operational",
+        []
       ]
     ],
     [
       [
-        [
-          "Montague Wind Power Facility"
-        ],
-        [
-          null
-        ]
+        "Montague Wind Power Facility",
+        []
       ],
       [
-        [
-          "Gilliam County"
-        ],
+        "Gilliam County",
         [
           "/wiki/Gilliam_County,_Oregon"
         ]
       ],
       [
-        [
-          "404"
-        ],
-        [
-          null
-        ]
+        "404",
+        []
       ],
       [
-        [
-          "Proposed"
-        ],
-        [
-          null
-        ]
+        "Proposed",
+        []
       ]
     ],
     [
       [
-        [
-          "Golden Hills Wind Farm"
-        ],
-        [
-          null
-        ]
+        "Golden Hills Wind Farm",
+        []
       ],
       [
-        [
-          "Sherman County"
-        ],
+        "Sherman County",
         [
           "/wiki/Sherman_County,_Oregon"
         ]
       ],
       [
-        [
-          "400"
-        ],
-        [
-          null
-        ]
+        "400",
+        []
       ],
       [
-        [
-          "Proposed"
-        ],
-        [
-          null
-        ]
+        "Proposed",
+        []
       ]
     ]
   ],

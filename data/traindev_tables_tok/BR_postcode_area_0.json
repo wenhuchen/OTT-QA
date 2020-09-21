@@ -3,63 +3,36 @@
   "title": "BR postcode area",
   "header": [
     [
-      [
-        "Postcode district"
-      ],
-      [
-        null
-      ]
+      "Postcode district",
+      []
     ],
     [
-      [
-        "Post town"
-      ],
+      "Post town",
       [
         "/wiki/Post_town"
       ]
     ],
     [
-      [
-        "Coverage"
-      ],
-      [
-        null
-      ]
+      "Coverage",
+      []
     ],
     [
-      [
-        "Local authority area"
-      ],
-      [
-        null
-      ]
+      "Local authority area",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "BR1"
-        ],
-        [
-          null
-        ]
+        "BR1",
+        []
       ],
       [
-        [
-          "BROMLEY"
-        ],
-        [
-          null
-        ]
+        "BROMLEY",
+        []
       ],
       [
-        [
-          "Bromley",
-          "Bickley",
-          "Downham",
-          "Sundridge"
-        ],
+        "Bromley , Bickley , Downham , Sundridge",
         [
           "/wiki/Bromley",
           "/wiki/Bickley",
@@ -68,10 +41,7 @@
         ]
       ],
       [
-        [
-          "Bromley",
-          "Lewisham"
-        ],
+        "Bromley , Lewisham",
         [
           "/wiki/London_Borough_of_Bromley",
           "/wiki/London_Borough_of_Lewisham"
@@ -80,29 +50,15 @@
     ],
     [
       [
-        [
-          "BR2"
-        ],
-        [
-          null
-        ]
+        "BR2",
+        []
       ],
       [
-        [
-          "BROMLEY , KESTON"
-        ],
-        [
-          null
-        ]
+        "BROMLEY , KESTON",
+        []
       ],
       [
-        [
-          "Hayes",
-          "Shortlands",
-          "Bromley Common",
-          "Keston",
-          "Leaves Green"
-        ],
+        "Hayes , Shortlands , Bickley , Bromley Common , Keston , Leaves Green",
         [
           "/wiki/Hayes,_Bromley",
           "/wiki/Shortlands",
@@ -112,38 +68,21 @@
         ]
       ],
       [
-        [
-          "Bromley"
-        ],
-        [
-          null
-        ]
+        "Bromley",
+        []
       ]
     ],
     [
       [
-        [
-          "BR3"
-        ],
-        [
-          null
-        ]
+        "BR3",
+        []
       ],
       [
-        [
-          "BECKENHAM"
-        ],
-        [
-          null
-        ]
+        "BECKENHAM",
+        []
       ],
       [
-        [
-          "Beckenham",
-          "Elmers End",
-          "Eden Park",
-          "Park Langley"
-        ],
+        "Beckenham , Elmers End , Shortlands , Eden Park , Park Langley",
         [
           "/wiki/Beckenham",
           "/wiki/Elmers_End",
@@ -152,9 +91,7 @@
         ]
       ],
       [
-        [
-          "Croydon"
-        ],
+        "Bromley , Lewisham , Croydon",
         [
           "/wiki/London_Borough_of_Croydon"
         ]
@@ -162,62 +99,35 @@
     ],
     [
       [
-        [
-          "BR4"
-        ],
-        [
-          null
-        ]
+        "BR4",
+        []
       ],
       [
-        [
-          "WEST WICKHAM"
-        ],
-        [
-          null
-        ]
+        "WEST WICKHAM",
+        []
       ],
       [
-        [
-          "West Wickham"
-        ],
+        "West Wickham",
         [
           "/wiki/West_Wickham"
         ]
       ],
       [
-        [
-          "Bromley"
-        ],
-        [
-          null
-        ]
+        "Bromley",
+        []
       ]
     ],
     [
       [
-        [
-          "BR5"
-        ],
-        [
-          null
-        ]
+        "BR5",
+        []
       ],
       [
-        [
-          "ORPINGTON"
-        ],
-        [
-          null
-        ]
+        "ORPINGTON",
+        []
       ],
       [
-        [
-          "Petts Wood",
-          "St Mary Cray",
-          "St Paul 's Cray",
-          "Ruxley"
-        ],
+        "Petts Wood , St Mary Cray , St Paul 's Cray , Ruxley",
         [
           "/wiki/Petts_Wood",
           "/wiki/St_Mary_Cray",
@@ -226,42 +136,21 @@
         ]
       ],
       [
-        [
-          "Bromley"
-        ],
-        [
-          null
-        ]
+        "Bromley",
+        []
       ]
     ],
     [
       [
-        [
-          "BR6"
-        ],
-        [
-          null
-        ]
+        "BR6",
+        []
       ],
       [
-        [
-          "ORPINGTON"
-        ],
-        [
-          null
-        ]
+        "ORPINGTON",
+        []
       ],
       [
-        [
-          "Orpington",
-          "Locksbottom",
-          "Farnborough",
-          "Green Street Green",
-          "Chelsfield",
-          "Downe",
-          "Pratt 's Bottom",
-          "Well Hill"
-        ],
+        "Orpington , Locksbottom , Farnborough , Green Street Green , Chelsfield , Downe , Pratt 's Bottom , Well Hill",
         [
           "/wiki/Orpington",
           "/wiki/Locksbottom",
@@ -274,9 +163,7 @@
         ]
       ],
       [
-        [
-          "Sevenoaks"
-        ],
+        "Bromley , Sevenoaks",
         [
           "/wiki/Sevenoaks_District"
         ]
@@ -284,35 +171,22 @@
     ],
     [
       [
-        [
-          "BR7"
-        ],
-        [
-          null
-        ]
+        "BR7",
+        []
       ],
       [
-        [
-          "CHISLEHURST"
-        ],
-        [
-          null
-        ]
+        "CHISLEHURST",
+        []
       ],
       [
-        [
-          "Chislehurst",
-          "Elmstead"
-        ],
+        "Chislehurst , Elmstead",
         [
           "/wiki/Chislehurst",
           "/wiki/Elmstead,_London"
         ]
       ],
       [
-        [
-          "Greenwich"
-        ],
+        "Bromley , Greenwich",
         [
           "/wiki/Royal_Borough_of_Greenwich"
         ]
@@ -320,29 +194,15 @@
     ],
     [
       [
-        [
-          "BR8"
-        ],
-        [
-          null
-        ]
+        "BR8",
+        []
       ],
       [
-        [
-          "SWANLEY"
-        ],
-        [
-          null
-        ]
+        "SWANLEY",
+        []
       ],
       [
-        [
-          "Swanley",
-          "Hextable",
-          "Crockenhill",
-          "Swanley Village",
-          "Hockenden"
-        ],
+        "Swanley , Hextable , Crockenhill , Swanley Village , Hockenden",
         [
           "/wiki/Swanley",
           "/wiki/Hextable",
@@ -352,9 +212,7 @@
         ]
       ],
       [
-        [
-          "Dartford"
-        ],
+        "Sevenoaks , Bromley , Dartford",
         [
           "/wiki/Borough_of_Dartford"
         ]

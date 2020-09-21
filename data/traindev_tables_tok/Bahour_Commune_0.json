@@ -3,56 +3,33 @@
   "title": "Bahour Commune",
   "header": [
     [
-      [
-        "Ward Number"
-      ],
-      [
-        null
-      ]
+      "Ward Number",
+      []
     ],
     [
-      [
-        "Ward Name"
-      ],
-      [
-        null
-      ]
+      "Ward Name",
+      []
     ],
     [
-      [
-        "Jurisdiction"
-      ],
-      [
-        null
-      ]
+      "Jurisdiction",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "Karaiyamputhur",
-          "Panayadikuppam"
-        ],
+        "Karaiyamputhur - Panayadikuppam",
         [
           "/wiki/Karaiyamputhur",
           "/wiki/Panayadikuppam"
         ]
       ],
       [
-        [
-          "Karaiyamputhur",
-          "Chinna Karaiyamputhur",
-          "Panayadikuppam"
-        ],
+        "Karaiyamputhur , Chinna Karaiyamputhur , Panayadikuppam ,",
         [
           "/wiki/Karaiyamputhur",
           "/wiki/Chinna_Karaiyamputhur",
@@ -62,26 +39,17 @@
     ],
     [
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "Manamedu"
-        ],
+        "Manamedu",
         [
           "/wiki/Manamedu"
         ]
       ],
       [
-        [
-          "Manamedu",
-          "Kaduvanur"
-        ],
+        "Manamedu , Kaduvanur ,",
         [
           "/wiki/Manamedu",
           "/wiki/Kaduvanur"
@@ -90,25 +58,17 @@
     ],
     [
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "Kuruvinatham"
-        ],
+        "Kuruvinatham",
         [
           "/wiki/Kuruvinatham"
         ]
       ],
       [
-        [
-          "Kuruvinatham"
-        ],
+        "Kuruvinatham",
         [
           "/wiki/Kuruvinatham"
         ]
@@ -116,25 +76,17 @@
     ],
     [
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "Soriankuppam"
-        ],
+        "Soriankuppam",
         [
           "/wiki/Soriankuppam"
         ]
       ],
       [
-        [
-          "Soriankuppam"
-        ],
+        "Soriankuppam",
         [
           "/wiki/Soriankuppam"
         ]
@@ -142,77 +94,49 @@
     ],
     [
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "Parikkalpattu"
-        ],
+        "Parikkalpattu",
         [
           "/wiki/Parikkalpattu"
         ]
       ],
       [
-        [
-          "Mel Parikkalpattu Keezh Parikkalpattu Periya Archatchikuppam Chinna Archatchikuppam Kumandhanmedu"
-        ],
-        [
-          null
-        ]
+        "Mel Parikkalpattu Keezh Parikkalpattu Periya Archatchikuppam Chinna Archatchikuppam Kumandhanmedu",
+        []
       ]
     ],
     [
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "Bahour ( East )"
-        ],
+        "Bahour ( East )",
         [
           "/wiki/Bahour_(East)"
         ]
       ],
       [
-        [
-          "Bahourpet Kamaraj Nagar"
-        ],
-        [
-          null
-        ]
+        "Bahourpet Kamaraj Nagar",
+        []
       ]
     ],
     [
       [
-        [
-          "7"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ],
       [
-        [
-          "Bahour ( West )"
-        ],
+        "Bahour ( West )",
         [
           "/wiki/Bahour_(West)"
         ]
       ],
       [
-        [
-          "Bahour"
-        ],
+        "Bahour",
         [
           "/wiki/Bahour"
         ]
@@ -220,26 +144,17 @@
     ],
     [
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "Seliamedu"
-        ],
+        "Seliamedu",
         [
           "/wiki/Seliamedu"
         ]
       ],
       [
-        [
-          "Seliamedu",
-          "Aranganur"
-        ],
+        "Seliamedu Aranganur",
         [
           "/wiki/Seliamedu",
           "/wiki/Aranganur"
@@ -248,25 +163,17 @@
     ],
     [
       [
-        [
-          "9"
-        ],
-        [
-          null
-        ]
+        "9",
+        []
       ],
       [
-        [
-          "Kudiyiruppupalayam"
-        ],
+        "Kudiyiruppupalayam",
         [
           "/wiki/Kudiyiruppupalayam"
         ]
       ],
       [
-        [
-          "Kudiyiruppupalayam"
-        ],
+        "Kudiyiruppupalayam Pinatchikuppam",
         [
           "/wiki/Kudiyiruppupalayam"
         ]
@@ -274,25 +181,17 @@
     ],
     [
       [
-        [
-          "10"
-        ],
-        [
-          null
-        ]
+        "10",
+        []
       ],
       [
-        [
-          "Kirumampakkam"
-        ],
+        "Kirumampakkam",
         [
           "/wiki/Kirumampakkam"
         ]
       ],
       [
-        [
-          "Kirumampakkam"
-        ],
+        "Kirumampakkam",
         [
           "/wiki/Kirumampakkam"
         ]
@@ -300,25 +199,17 @@
     ],
     [
       [
-        [
-          "11"
-        ],
-        [
-          null
-        ]
+        "11",
+        []
       ],
       [
-        [
-          "Pannithittu"
-        ],
+        "Pannithittu",
         [
           "/wiki/Pannithittu"
         ]
       ],
       [
-        [
-          "Pannithittu"
-        ],
+        "Pannithittu",
         [
           "/wiki/Pannithittu"
         ]
@@ -326,25 +217,17 @@
     ],
     [
       [
-        [
-          "12"
-        ],
-        [
-          null
-        ]
+        "12",
+        []
       ],
       [
-        [
-          "Pillaiyarkuppam"
-        ],
+        "Pillaiyarkuppam",
         [
           "/wiki/Pillaiyarkuppam,_Bahour"
         ]
       ],
       [
-        [
-          "Pillaiyarkuppam"
-        ],
+        "Pillaiyarkuppam Narambai Valluvarmedu",
         [
           "/wiki/Pillaiyarkuppam,_Bahour"
         ]
@@ -352,25 +235,17 @@
     ],
     [
       [
-        [
-          "13"
-        ],
-        [
-          null
-        ]
+        "13",
+        []
       ],
       [
-        [
-          "Manapet"
-        ],
+        "Manapet",
         [
           "/wiki/Manapet"
         ]
       ],
       [
-        [
-          "Manapet"
-        ],
+        "Manapet Kanniakoil Kattukuppam",
         [
           "/wiki/Manapet"
         ]
@@ -378,25 +253,17 @@
     ],
     [
       [
-        [
-          "14"
-        ],
-        [
-          null
-        ]
+        "14",
+        []
       ],
       [
-        [
-          "Krishnavaram"
-        ],
+        "Krishnavaram",
         [
           "/wiki/Krishnavaram,_Puducherry"
         ]
       ],
       [
-        [
-          "Krishnavaram"
-        ],
+        "Krishnavaram Koravallimedu Sulliyankuppam Utchimedu",
         [
           "/wiki/Krishnavaram,_Puducherry"
         ]
@@ -404,26 +271,17 @@
     ],
     [
       [
-        [
-          "15"
-        ],
-        [
-          null
-        ]
+        "15",
+        []
       ],
       [
-        [
-          "Pudukuppam"
-        ],
+        "Pudukuppam",
         [
           "/wiki/Pudukuppam,_Bahour"
         ]
       ],
       [
-        [
-          "Moorthikuppam",
-          "Pudukuppam"
-        ],
+        "Moorthikuppam Pudukuppam",
         [
           "/wiki/Moorthikuppam",
           "/wiki/Pudukuppam,_Bahour"

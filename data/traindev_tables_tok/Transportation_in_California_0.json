@@ -3,72 +3,42 @@
   "title": "Transportation in California",
   "header": [
     [
-      [
-        "System"
-      ],
-      [
-        null
-      ]
+      "System",
+      []
     ],
     [
-      [
-        "Type"
-      ],
-      [
-        null
-      ]
+      "Type",
+      []
     ],
     [
-      [
-        "No . of lines"
-      ],
-      [
-        null
-      ]
+      "No . of lines",
+      []
     ],
     [
-      [
-        "Description"
-      ],
-      [
-        null
-      ]
+      "Description",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Altamont Corridor Express"
-        ],
+        "Altamont Corridor Express",
         [
           "/wiki/Altamont_Corridor_Express"
         ]
       ],
       [
-        [
-          "Commuter rail"
-        ],
+        "Commuter rail",
         [
           "/wiki/Commuter_rail"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "San Jose",
-          "Stockton",
-          "Silicon Valley",
-          "Alameda County",
-          "San Joaquin County"
-        ],
+        "The Altamont Commuter Express , also known as ACE , runs from San Jose northeast to Stockton , providing service from the Silicon Valley to Eastern Alameda County and San Joaquin County",
         [
           "/wiki/San_Jose,_California",
           "/wiki/Stockton,_California",
@@ -80,19 +50,13 @@
     ],
     [
       [
-        [
-          "Bay Area Rapid Transit"
-        ],
+        "Bay Area Rapid Transit",
         [
           "/wiki/Bay_Area_Rapid_Transit"
         ]
       ],
       [
-        [
-          "Heavy rail",
-          "light rail",
-          "automated guideway transit"
-        ],
+        "Heavy rail , light rail , automated guideway transit",
         [
           "/wiki/Heavy_rail_transit",
           "/wiki/Light_rail",
@@ -100,20 +64,11 @@
         ]
       ],
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "San Francisco Bay Area",
-          "San Francisco",
-          "East Bay",
-          "San Mateo County"
-        ],
+        "Bay Area Rapid Transit ( BART ) operates in the San Francisco Bay Area , connecting San Francisco with cities in the East Bay and suburbs in northern San Mateo County",
         [
           "/wiki/San_Francisco_Bay_Area",
           "/wiki/San_Francisco",
@@ -124,35 +79,21 @@
     ],
     [
       [
-        [
-          "Caltrain"
-        ],
+        "Caltrain",
         [
           "/wiki/Caltrain"
         ]
       ],
       [
-        [
-          "Commuter rail"
-        ],
-        [
-          null
-        ]
+        "Commuter rail",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "San Francisco",
-          "San Francisco Peninsula",
-          "Silicon Valley"
-        ],
+        "Caltrain runs from San Francisco south down the San Francisco Peninsula to the Silicon Valley",
         [
           "/wiki/San_Francisco",
           "/wiki/San_Francisco_Peninsula",
@@ -162,36 +103,21 @@
     ],
     [
       [
-        [
-          "COASTER"
-        ],
+        "COASTER",
         [
           "/wiki/Coaster_(San_Diego)"
         ]
       ],
       [
-        [
-          "Commuter rail"
-        ],
-        [
-          null
-        ]
+        "Commuter rail",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "northern coastal",
-          "San Diego County",
-          "San Diego",
-          "Oceanside"
-        ],
+        "The San Diego Coast Express Rail ( COASTER ) operates in the central and northern coastal regions of San Diego County , running from San Diego north to Oceanside",
         [
           "/wiki/North_County,_San_Diego",
           "/wiki/San_Diego_County,_California",
@@ -202,33 +128,23 @@
     ],
     [
       [
-        [
-          "Metro Rail"
-        ],
+        "Metro Rail",
         [
           "/wiki/Metro_Rail_(Los_Angeles_County)"
         ]
       ],
       [
-        [
-          "light rail"
-        ],
+        "Heavy and light rail",
         [
           "/wiki/Light_rail"
         ]
       ],
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "Los Angeles County"
-        ],
+        "Metro Rail is an integrated subway and light rail system serving Los Angeles County",
         [
           "/wiki/Los_Angeles_County"
         ]
@@ -236,40 +152,21 @@
     ],
     [
       [
-        [
-          "Metrolink"
-        ],
+        "Metrolink",
         [
           "/wiki/Metrolink_(Southern_California)"
         ]
       ],
       [
-        [
-          "Commuter rail"
-        ],
-        [
-          null
-        ]
+        "Commuter rail",
+        []
       ],
       [
-        [
-          "7"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ],
       [
-        [
-          "Los Angeles",
-          "Southern California",
-          "Los Angeles",
-          "San Diego",
-          "Orange",
-          "Riverside",
-          "San Bernardino",
-          "Ventura"
-        ],
+        "Metrolink serves Los Angeles and the surrounding area of Southern California , connecting Los Angeles , San Diego , Orange , Riverside , San Bernardino and Ventura Counties",
         [
           "/wiki/Los_Angeles",
           "/wiki/Southern_California",
@@ -284,33 +181,21 @@
     ],
     [
       [
-        [
-          "Muni Metro"
-        ],
+        "Muni Metro",
         [
           "/wiki/Muni_Metro"
         ]
       ],
       [
-        [
-          "Light rail"
-        ],
-        [
-          null
-        ]
+        "Light rail",
+        []
       ],
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "San Francisco"
-        ],
+        "Muni Metro is a premetro/light rail system connecting various neighborhoods and districts of San Francisco",
         [
           "/wiki/San_Francisco"
         ]
@@ -318,33 +203,21 @@
     ],
     [
       [
-        [
-          "Sacramento RT Light Rail"
-        ],
+        "Sacramento RT Light Rail",
         [
           "/wiki/Sacramento_RT_Light_Rail"
         ]
       ],
       [
-        [
-          "Light rail"
-        ],
-        [
-          null
-        ]
+        "Light rail",
+        []
       ],
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "Sacramento"
-        ],
+        "The Sacramento Regional Transit District ( RT ) light rail system serves Sacramento and vicinity",
         [
           "/wiki/Sacramento,_California"
         ]
@@ -352,33 +225,21 @@
     ],
     [
       [
-        [
-          "San Diego Trolley"
-        ],
+        "San Diego Trolley",
         [
           "/wiki/San_Diego_Trolley"
         ]
       ],
       [
-        [
-          "Light rail"
-        ],
-        [
-          null
-        ]
+        "Light rail",
+        []
       ],
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "San Diego"
-        ],
+        "The San Diego Trolley serves the metropolitan area of San Diego",
         [
           "/wiki/San_Diego"
         ]
@@ -386,33 +247,23 @@
     ],
     [
       [
-        [
-          "San Francisco cable car system"
-        ],
+        "San Francisco cable car system",
         [
           "/wiki/San_Francisco_cable_car_system"
         ]
       ],
       [
-        [
-          "Streetcar"
-        ],
+        "Streetcar",
         [
           "/wiki/Streetcar"
         ]
       ],
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "San Francisco"
-        ],
+        "The world 's last manually operated cable car system continues to operate in northeast San Francisco , but the system 's small service area and premium fares for single rides currently make the cable cars used more as a tourist attraction",
         [
           "/wiki/San_Francisco"
         ]
@@ -420,34 +271,21 @@
     ],
     [
       [
-        [
-          "Sonoma-Marin Area Rail Transit"
-        ],
+        "Sonoma-Marin Area Rail Transit",
         [
           "/wiki/Sonoma\u2013Marin_Area_Rail_Transit"
         ]
       ],
       [
-        [
-          "Commuter rail"
-        ],
-        [
-          null
-        ]
+        "Commuter rail",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "Sonoma",
-          "Marin"
-        ],
+        "Sonoma-Marin Area Rail Transit ( SMART ) runs through Sonoma and Marin counties",
         [
           "/wiki/Sonoma_County,_California",
           "/wiki/Marin_County,_California"
@@ -456,36 +294,21 @@
     ],
     [
       [
-        [
-          "SPRINTER"
-        ],
+        "SPRINTER",
         [
           "/wiki/Sprinter_(North_County_Transit_District)"
         ]
       ],
       [
-        [
-          "Diesel light rail"
-        ],
-        [
-          null
-        ]
+        "Diesel light rail",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "north region",
-          "San Diego County",
-          "Oceanside",
-          "Escondido"
-        ],
+        "The SPRINTER operates in north region of San Diego County , running from Oceanside east to Escondido",
         [
           "/wiki/North_County,_San_Diego",
           "/wiki/San_Diego_County,_California",
@@ -496,34 +319,21 @@
     ],
     [
       [
-        [
-          "VTA Light Rail"
-        ],
+        "VTA Light Rail",
         [
           "/wiki/Santa_Clara_Valley_Transportation_Authority_light_rail"
         ]
       ],
       [
-        [
-          "Light Rail"
-        ],
-        [
-          null
-        ]
+        "Light Rail",
+        []
       ],
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "San Jose",
-          "Silicon Valley"
-        ],
+        "The Santa Clara Valley Transportation Authority ( VTA ) Light Rail system serves San Jose and its suburbs in the Silicon Valley",
         [
           "/wiki/San_Jose,_California",
           "/wiki/Silicon_Valley"

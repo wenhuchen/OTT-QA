@@ -3,52 +3,42 @@
   "title": "Timeline of space exploration",
   "header": [
     [
-      [
-        "Date"
-      ],
-      [
-        null
-      ]
+      "Date",
+      []
     ],
     [
-      [
-        "Mission achievements"
-      ],
-      [
-        null
-      ]
+      "Mission achievements",
+      []
     ],
     [
-      [
-        "Mission name"
-      ],
-      [
-        null
-      ]
+      "Country/organization",
+      []
+    ],
+    [
+      "Mission name",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "21 August 1957"
-        ],
-        [
-          null
-        ]
+        "21 August 1957",
+        []
       ],
       [
-        [
-          "intercontinental ballistic missile"
-        ],
+        "First intercontinental ballistic missile ( ICBM )",
         [
           "/wiki/Intercontinental_ballistic_missile"
         ]
       ],
       [
+        "USSR",
         [
-          "R-7 Semyorka/SS-6 Sapwood"
-        ],
+          "/wiki/Soviet_space_program"
+        ]
+      ],
+      [
+        "R-7 Semyorka/SS-6 Sapwood",
         [
           "/wiki/R-7_Semyorka"
         ]
@@ -56,25 +46,21 @@
     ],
     [
       [
-        [
-          "4 October 1957"
-        ],
-        [
-          null
-        ]
+        "4 October 1957",
+        []
       ],
       [
-        [
-          "satellite"
-        ],
+        "First artificial satellite First signals from space",
         [
           "/wiki/Satellite"
         ]
       ],
       [
-        [
-          "Sputnik 1"
-        ],
+        "USSR",
+        []
+      ],
+      [
+        "Sputnik 1",
         [
           "/wiki/Sputnik_1"
         ]
@@ -82,27 +68,22 @@
     ],
     [
       [
-        [
-          "3 November 1957"
-        ],
-        [
-          null
-        ]
+        "3 November 1957",
+        []
       ],
       [
-        [
-          "orbit",
-          "Laika"
-        ],
+        "First mammal in orbit , the dog Laika",
         [
           "/wiki/Orbit",
           "/wiki/Laika"
         ]
       ],
       [
-        [
-          "Sputnik 2"
-        ],
+        "USSR",
+        []
+      ],
+      [
+        "Sputnik 2",
         [
           "/wiki/Sputnik_2"
         ]
@@ -110,25 +91,23 @@
     ],
     [
       [
-        [
-          "31 January 1958"
-        ],
-        [
-          null
-        ]
+        "31 January 1958",
+        []
       ],
       [
-        [
-          "Van Allen radiation belt"
-        ],
+        "Confirmed existence of the Van Allen radiation belt",
         [
           "/wiki/Van_Allen_radiation_belt"
         ]
       ],
       [
+        "USA ( ABMA )",
         [
-          "Explorer 1"
-        ],
+          "/wiki/Army_Ballistic_Missile_Agency"
+        ]
+      ],
+      [
+        "Explorer 1",
         [
           "/wiki/Explorer_1"
         ]
@@ -136,19 +115,11 @@
     ],
     [
       [
-        [
-          "4 January 1959"
-        ],
-        [
-          null
-        ]
+        "4 January 1959",
+        []
       ],
       [
-        [
-          "escape velocity",
-          "heliocentric orbit",
-          "solar wind"
-        ],
+        "First rocket to reach Earth escape velocity ; attempt to impact the Moon 's surface ; missed by 5,995 kilometers ( 3,237 nmi ) First artificial object in heliocentric orbit First detection of solar wind",
         [
           "/wiki/Escape_velocity",
           "/wiki/Heliocentric_orbit",
@@ -156,9 +127,11 @@
         ]
       ],
       [
-        [
-          "Luna 1"
-        ],
+        "USSR",
+        []
+      ],
+      [
+        "Luna 1",
         [
           "/wiki/Luna_1"
         ]
@@ -166,25 +139,21 @@
     ],
     [
       [
+        "7 August 1959",
+        []
+      ],
+      [
+        "First photograph of Earth from orbit",
+        []
+      ],
+      [
+        "USA ( NASA )",
         [
-          "7 August 1959"
-        ],
-        [
-          null
+          "/wiki/NASA"
         ]
       ],
       [
-        [
-          "First photograph of Earth from orbit"
-        ],
-        [
-          null
-        ]
-      ],
-      [
-        [
-          "Explorer 6"
-        ],
+        "Explorer 6",
         [
           "/wiki/Explorer_6"
         ]
@@ -192,25 +161,21 @@
     ],
     [
       [
-        [
-          "13 September 1959"
-        ],
-        [
-          null
-        ]
+        "13 September 1959",
+        []
       ],
       [
-        [
-          "Moon"
-        ],
+        "First impact into the Moon First delivery of national pennants to a celestial body",
         [
           "/wiki/Moon"
         ]
       ],
       [
-        [
-          "Luna 2"
-        ],
+        "USSR",
+        []
+      ],
+      [
+        "Luna 2",
         [
           "/wiki/Luna_2"
         ]
@@ -218,25 +183,21 @@
     ],
     [
       [
-        [
-          "4 October 1959"
-        ],
-        [
-          null
-        ]
+        "4 October 1959",
+        []
       ],
       [
-        [
-          "far side of the Moon"
-        ],
+        "First photos of another world from space : the far side of the Moon",
         [
           "/wiki/Far_side_of_the_Moon"
         ]
       ],
       [
-        [
-          "Luna 3"
-        ],
+        "USSR",
+        []
+      ],
+      [
+        "Luna 3",
         [
           "/wiki/Luna_3"
         ]

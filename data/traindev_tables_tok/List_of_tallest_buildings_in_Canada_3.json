@@ -3,895 +3,575 @@
   "title": "List of tallest buildings in Canada",
   "header": [
     [
-      [
-        "City"
-      ],
-      [
-        null
-      ]
+      "City",
+      []
     ],
     [
-      [
-        "Province/Territory"
-      ],
-      [
-        null
-      ]
+      "Province/Territory",
+      []
     ],
     [
-      [
-        "Building"
-      ],
-      [
-        null
-      ]
+      "Building",
+      []
     ],
     [
-      [
-        "Height"
-      ],
-      [
-        null
-      ]
+      "Height",
+      []
     ],
     [
-      [
-        "Floors"
-      ],
-      [
-        null
-      ]
+      "Floors",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Toronto"
-        ],
+        "Toronto",
         [
           "/wiki/Toronto"
         ]
       ],
       [
-        [
-          "Ontario"
-        ],
+        "Ontario",
         [
           "/wiki/Ontario"
         ]
       ],
       [
+        "The One *",
         [
-          "The One",
-          "*"
-        ],
-        [
-          "/wiki/The_One_(Toronto)",
-          null
+          "/wiki/The_One_(Toronto)"
         ]
       ],
       [
-        [
-          "306.8 m ( 1,007 ft )"
-        ],
-        [
-          null
-        ]
+        "306.8 m ( 1,007 ft )",
+        []
       ],
       [
-        [
-          "83"
-        ],
-        [
-          null
-        ]
+        "83",
+        []
       ]
     ],
     [
       [
-        [
-          "Edmonton"
-        ],
+        "Edmonton",
         [
           "/wiki/Edmonton"
         ]
       ],
       [
-        [
-          "Alberta"
-        ],
+        "Alberta",
         [
           "/wiki/Alberta"
         ]
       ],
       [
-        [
-          "Stantec Tower"
-        ],
+        "Stantec Tower",
         [
           "/wiki/Stantec_Tower"
         ]
       ],
       [
-        [
-          "250.8 m ( 823 ft )"
-        ],
-        [
-          null
-        ]
+        "250.8 m ( 823 ft )",
+        []
       ],
       [
-        [
-          "66"
-        ],
-        [
-          null
-        ]
+        "66",
+        []
       ]
     ],
     [
       [
-        [
-          "Calgary"
-        ],
+        "Calgary",
         [
           "/wiki/Calgary"
         ]
       ],
       [
-        [
-          "Alberta"
-        ],
+        "Alberta",
         [
           "/wiki/Alberta"
         ]
       ],
       [
-        [
-          "Brookfield Place East"
-        ],
+        "Brookfield Place East",
         [
           "/wiki/Brookfield_Place_(Calgary)"
         ]
       ],
       [
-        [
-          "247 m ( 810 ft )"
-        ],
-        [
-          null
-        ]
+        "247 m ( 810 ft )",
+        []
       ],
       [
-        [
-          "56"
-        ],
-        [
-          null
-        ]
+        "56",
+        []
       ]
     ],
     [
       [
+        "Montreal **",
         [
-          "Montreal",
-          "**"
-        ],
-        [
-          "/wiki/Montreal",
-          null
+          "/wiki/Montreal"
         ]
       ],
       [
-        [
-          "Quebec"
-        ],
+        "Quebec",
         [
           "/wiki/Quebec"
         ]
       ],
       [
-        [
-          "1250 Ren\u00e9-L\u00e9vesque"
-        ],
+        "1250 Ren\u00e9-L\u00e9vesque",
         [
           "/wiki/1250_Ren\u00e9-L\u00e9vesque"
         ]
       ],
       [
-        [
-          "226.5 m ( 743 ft )"
-        ],
-        [
-          null
-        ]
+        "226.5 m ( 743 ft )",
+        []
       ],
       [
-        [
-          "47"
-        ],
-        [
-          null
-        ]
+        "47",
+        []
       ]
     ],
     [
       [
-        [
-          "Mississauga"
-        ],
+        "Mississauga",
         [
           "/wiki/Mississauga"
         ]
       ],
       [
-        [
-          "Ontario"
-        ],
+        "Ontario",
         [
           "/wiki/Ontario"
         ]
       ],
       [
-        [
-          "*"
-        ],
-        [
-          null
-        ]
+        "M City Tower 1 *",
+        []
       ],
       [
-        [
-          "201 m ( 659 ft )"
-        ],
-        [
-          null
-        ]
+        "201 m ( 659 ft )",
+        []
       ],
       [
-        [
-          "56"
-        ],
-        [
-          null
-        ]
+        "56",
+        []
       ]
     ],
     [
       [
+        "Vancouver **",
         [
-          "Vancouver",
-          "**"
-        ],
-        [
-          "/wiki/Vancouver",
-          null
+          "/wiki/Vancouver"
         ]
       ],
       [
-        [
-          "British Columbia"
-        ],
+        "British Columbia",
         [
           "/wiki/British_Columbia"
         ]
       ],
       [
-        [
-          "Living Shangri-La"
-        ],
+        "Living Shangri-La",
         [
           "/wiki/Living_Shangri-La"
         ]
       ],
       [
-        [
-          "200.9 m ( 659 ft )"
-        ],
-        [
-          null
-        ]
+        "200.9 m ( 659 ft )",
+        []
       ],
       [
-        [
-          "59"
-        ],
-        [
-          null
-        ]
+        "59",
+        []
       ]
     ],
     [
       [
-        [
-          "Burnaby"
-        ],
+        "Burnaby",
         [
           "/wiki/Burnaby"
         ]
       ],
       [
-        [
-          "British Columbia"
-        ],
+        "British Columbia",
         [
           "/wiki/British_Columbia"
         ]
       ],
       [
-        [
-          "Altus"
-        ],
-        [
-          null
-        ]
+        "Altus",
+        []
       ],
       [
-        [
-          "187.8 m ( 616 ft )"
-        ],
-        [
-          null
-        ]
+        "187.8 m ( 616 ft )",
+        []
       ],
       [
-        [
-          "49"
-        ],
-        [
-          null
-        ]
+        "49",
+        []
       ]
     ],
     [
       [
-        [
-          "New Westminster"
-        ],
+        "New Westminster",
         [
           "/wiki/New_Westminster"
         ]
       ],
       [
-        [
-          "British Columbia"
-        ],
+        "British Columbia",
         [
           "/wiki/British_Columbia"
         ]
       ],
       [
-        [
-          "*"
-        ],
-        [
-          null
-        ]
+        "660 Quayside One *",
+        []
       ],
       [
-        [
-          "178 m ( 584 ft )"
-        ],
-        [
-          null
-        ]
+        "178 m ( 584 ft )",
+        []
       ],
       [
-        [
-          "53"
-        ],
-        [
-          null
-        ]
+        "53",
+        []
       ]
     ],
     [
       [
-        [
-          "Niagara Falls"
-        ],
+        "Niagara Falls",
         [
           "/wiki/Niagara_Falls,_Ontario"
         ]
       ],
       [
-        [
-          "Ontario"
-        ],
+        "Ontario",
         [
           "/wiki/Ontario"
         ]
       ],
       [
-        [
-          "Hilton Niagara Falls Tower 2"
-        ],
+        "Hilton Niagara Falls Tower 2",
         [
           "/wiki/Hilton_Niagara_Falls_Tower_2"
         ]
       ],
       [
-        [
-          "177.1 m ( 581 ft )"
-        ],
-        [
-          null
-        ]
+        "177.1 m ( 581 ft )",
+        []
       ],
       [
-        [
-          "53"
-        ],
-        [
-          null
-        ]
+        "53",
+        []
       ]
     ],
     [
       [
-        [
-          "Surrey"
-        ],
+        "Surrey",
         [
           "/wiki/Surrey,_British_Columbia"
         ]
       ],
       [
-        [
-          "British Columbia"
-        ],
+        "British Columbia",
         [
           "/wiki/British_Columbia"
         ]
       ],
       [
-        [
-          "3 Civic Plaza"
-        ],
+        "3 Civic Plaza",
         [
           "/wiki/3_Civic_Plaza"
         ]
       ],
       [
-        [
-          "157.3 m ( 516 ft )"
-        ],
-        [
-          null
-        ]
+        "157.3 m ( 516 ft )",
+        []
       ],
       [
-        [
-          "54"
-        ],
-        [
-          null
-        ]
+        "54",
+        []
       ]
     ],
     [
       [
+        "Ottawa **",
         [
-          "Ottawa",
-          "**"
-        ],
-        [
-          "/wiki/Ottawa",
-          null
+          "/wiki/Ottawa"
         ]
       ],
       [
-        [
-          "Ontario"
-        ],
+        "Ontario",
         [
           "/wiki/Ontario"
         ]
       ],
       [
+        "Claridge Icon *",
         [
-          "Claridge Icon",
-          "*"
-        ],
-        [
-          "/wiki/Claridge_Icon",
-          null
+          "/wiki/Claridge_Icon"
         ]
       ],
       [
-        [
-          "143 m ( 469 ft )"
-        ],
-        [
-          null
-        ]
+        "143 m ( 469 ft )",
+        []
       ],
       [
-        [
-          "45"
-        ],
-        [
-          null
-        ]
+        "45",
+        []
       ]
     ],
     [
       [
-        [
-          "Hamilton"
-        ],
+        "Hamilton",
         [
           "/wiki/Hamilton,_Ontario"
         ]
       ],
       [
-        [
-          "Ontario"
-        ],
+        "Ontario",
         [
           "/wiki/Ontario"
         ]
       ],
       [
-        [
-          "Landmark Place"
-        ],
+        "Landmark Place",
         [
           "/wiki/Landmark_Place"
         ]
       ],
       [
-        [
-          "130 m ( 427 ft )"
-        ],
-        [
-          null
-        ]
+        "130 m ( 427 ft )",
+        []
       ],
       [
-        [
-          "43"
-        ],
-        [
-          null
-        ]
+        "43",
+        []
       ]
     ],
     [
       [
-        [
-          "Coquitlam"
-        ],
+        "Coquitlam",
         [
           "/wiki/Coquitlam"
         ]
       ],
       [
-        [
-          "British Columbia"
-        ],
+        "British Columbia",
         [
           "/wiki/British_Columbia"
         ]
       ],
       [
-        [
-          "MThree"
-        ],
+        "MThree",
         [
           "/wiki/MThree_(Coquitlam)"
         ]
       ],
       [
-        [
-          "129.8 m ( 426 ft )"
-        ],
-        [
-          null
-        ]
+        "129.8 m ( 426 ft )",
+        []
       ],
       [
-        [
-          "42"
-        ],
-        [
-          null
-        ]
+        "42",
+        []
       ]
     ],
     [
       [
-        [
-          "Winnipeg"
-        ],
+        "Winnipeg",
         [
           "/wiki/Winnipeg"
         ]
       ],
       [
-        [
-          "Manitoba"
-        ],
+        "Manitoba",
         [
           "/wiki/Manitoba"
         ]
       ],
       [
-        [
-          "201 Portage"
-        ],
+        "201 Portage",
         [
           "/wiki/Canwest_Place"
         ]
       ],
       [
-        [
-          "128.0 m ( 420 ft )"
-        ],
-        [
-          null
-        ]
+        "128.0 m ( 420 ft )",
+        []
       ],
       [
-        [
-          "33"
-        ],
-        [
-          null
-        ]
+        "33",
+        []
       ]
     ],
     [
       [
-        [
-          "Quebec City"
-        ],
+        "Quebec City",
         [
           "/wiki/Quebec_City"
         ]
       ],
       [
-        [
-          "Quebec"
-        ],
+        "Quebec",
         [
           "/wiki/Quebec"
         ]
       ],
       [
-        [
-          "\u00c9difice Marie-Guyart"
-        ],
+        "\u00c9difice Marie-Guyart",
         [
           "/wiki/\u00c9difice_Marie-Guyart"
         ]
       ],
       [
-        [
-          "126.5 m ( 415 ft ) ( 176.5 m ( 579 ft ) tip )"
-        ],
-        [
-          null
-        ]
+        "126.5 m ( 415 ft ) ( 176.5 m ( 579 ft ) tip )",
+        []
       ],
       [
-        [
-          "33"
-        ],
-        [
-          null
-        ]
+        "33",
+        []
       ]
     ],
     [
       [
-        [
-          "Gatineau"
-        ],
+        "Gatineau",
         [
           "/wiki/Gatineau"
         ]
       ],
       [
-        [
-          "Quebec"
-        ],
+        "Quebec",
         [
           "/wiki/Quebec"
         ]
       ],
       [
-        [
-          "Terrasses de la Chaudi\u00e8re"
-        ],
+        "Terrasses de la Chaudi\u00e8re",
         [
           "/wiki/Terrasses_de_la_Chaudi\u00e8re"
         ]
       ],
       [
-        [
-          "124 m ( 407 ft )"
-        ],
-        [
-          null
-        ]
+        "124 m ( 407 ft )",
+        []
       ],
       [
-        [
-          "29"
-        ],
-        [
-          null
-        ]
+        "29",
+        []
       ]
     ],
     [
       [
-        [
-          "Vaughan"
-        ],
+        "Vaughan",
         [
           "/wiki/Vaughan"
         ]
       ],
       [
-        [
-          "Ontario"
-        ],
+        "Ontario",
         [
           "/wiki/Ontario"
         ]
       ],
       [
-        [
-          "Expo Condos II"
-        ],
-        [
-          null
-        ]
+        "Expo Condos II",
+        []
       ],
       [
-        [
-          "117.64 m ( 386 ft )"
-        ],
-        [
-          null
-        ]
+        "117.64 m ( 386 ft )",
+        []
       ],
       [
-        [
-          "37"
-        ],
-        [
-          null
-        ]
+        "37",
+        []
       ]
     ],
     [
       [
-        [
-          "London"
-        ],
+        "London",
         [
           "/wiki/London,_Ontario"
         ]
       ],
       [
-        [
-          "Ontario"
-        ],
+        "Ontario",
         [
           "/wiki/Ontario"
         ]
       ],
       [
-        [
-          "One London Place"
-        ],
+        "One London Place",
         [
           "/wiki/One_London_Place"
         ]
       ],
       [
-        [
-          "113.4 m ( 372 ft )"
-        ],
-        [
-          null
-        ]
+        "113.4 m ( 372 ft )",
+        []
       ],
       [
-        [
-          "24"
-        ],
-        [
-          null
-        ]
+        "24",
+        []
       ]
     ],
     [
       [
-        [
-          "Windsor"
-        ],
+        "Windsor",
         [
           "/wiki/Windsor,_Ontario"
         ]
       ],
       [
-        [
-          "Ontario"
-        ],
+        "Ontario",
         [
           "/wiki/Ontario"
         ]
       ],
       [
-        [
-          "Augustus Tower"
-        ],
+        "Augustus Tower",
         [
           "/wiki/Caesars_Windsor"
         ]
       ],
       [
-        [
-          "111 m ( 364 ft )"
-        ],
-        [
-          null
-        ]
+        "111 m ( 364 ft )",
+        []
       ],
       [
-        [
-          "27"
-        ],
-        [
-          null
-        ]
+        "27",
+        []
       ]
     ],
     [
       [
-        [
-          "Markham"
-        ],
+        "Markham",
         [
           "/wiki/Markham,_Ontario"
         ]
       ],
       [
-        [
-          "Ontario"
-        ],
+        "Ontario",
         [
           "/wiki/Ontario"
         ]
       ],
       [
-        [
-          "World on Yonge Tower I"
-        ],
-        [
-          null
-        ]
+        "World on Yonge Tower I",
+        []
       ],
       [
-        [
-          "105.5 m ( 346 ft )"
-        ],
-        [
-          null
-        ]
+        "105.5 m ( 346 ft )",
+        []
       ],
       [
-        [
-          "32"
-        ],
-        [
-          null
-        ]
+        "32",
+        []
       ]
     ]
   ],

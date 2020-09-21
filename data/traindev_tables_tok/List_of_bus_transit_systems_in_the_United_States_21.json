@@ -3,184 +3,123 @@
   "title": "List of bus transit systems in the United States",
   "header": [
     [
-      [
-        "System"
-      ],
-      [
-        null
-      ]
+      "System",
+      []
     ],
     [
-      [
-        "Locale"
-      ],
-      [
-        null
-      ]
+      "Locale",
+      []
     ],
     [
-      [
-        "Major city ( s )"
-      ],
-      [
-        null
-      ]
+      "Major city ( s )",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Brockton Area Transit Authority"
-        ],
+        "Brockton Area Transit Authority",
         [
           "/wiki/Brockton_Area_Transit_Authority"
         ]
       ],
       [
-        [
-          "Brockton"
-        ],
+        "Brockton area",
         [
           "/wiki/Brockton,_Massachusetts"
         ]
       ],
       [
-        [
-          "Brockton"
-        ],
-        [
-          null
-        ]
+        "Brockton",
+        []
       ]
     ],
     [
       [
-        [
-          "Cape Ann Transportation Authority"
-        ],
+        "Cape Ann Transportation Authority",
         [
           "/wiki/Cape_Ann_Transportation_Authority"
         ]
       ],
       [
-        [
-          "Cape Ann"
-        ],
-        [
-          null
-        ]
+        "Cape Ann",
+        []
       ],
       [
-        [
-          "Gloucester"
-        ],
-        [
-          null
-        ]
+        "Gloucester",
+        []
       ]
     ],
     [
       [
-        [
-          "Cape Cod Regional Transit Authority"
-        ],
+        "Cape Cod Regional Transit Authority",
         [
           "/wiki/Cape_Cod_Regional_Transit_Authority"
         ]
       ],
       [
-        [
-          "Barnstable County"
-        ],
+        "Barnstable County",
         [
           "/wiki/Barnstable_County,_Massachusetts"
         ]
       ],
       [
-        [
-          "Barnstable"
-        ],
-        [
-          null
-        ]
+        "Barnstable",
+        []
       ]
     ],
     [
       [
-        [
-          "Greater Attleboro Taunton Regional Transit Authority"
-        ],
+        "Greater Attleboro Taunton Regional Transit Authority",
         [
           "/wiki/Greater_Attleboro_Taunton_Regional_Transit_Authority"
         ]
       ],
       [
-        [
-          "Attleboro",
-          "Taunton"
-        ],
+        "Attleboro , Taunton , and nearby cities",
         [
           "/wiki/Attleboro,_Massachusetts",
           "/wiki/Taunton,_Massachusetts"
         ]
       ],
       [
-        [
-          "Attleboro and Taunton"
-        ],
-        [
-          null
-        ]
+        "Attleboro and Taunton",
+        []
       ]
     ],
     [
       [
-        [
-          "Lowell Regional Transit Authority"
-        ],
+        "Lowell Regional Transit Authority",
         [
           "/wiki/Lowell_Regional_Transit_Authority"
         ]
       ],
       [
-        [
-          "Lowell"
-        ],
+        "Greater Lowell",
         [
           "/wiki/Lowell,_Massachusetts"
         ]
       ],
       [
-        [
-          "Lowell"
-        ],
-        [
-          null
-        ]
+        "Lowell",
+        []
       ]
     ],
     [
       [
-        [
-          "Massachusetts Bay Transportation Authority"
-        ],
+        "Massachusetts Bay Transportation Authority",
         [
           "/wiki/MBTA_Bus"
         ]
       ],
       [
-        [
-          "Boston"
-        ],
+        "Boston and immediate suburbs",
         [
           "/wiki/Boston"
         ]
       ],
       [
-        [
-          "Boston"
-        ],
+        "Boston",
         [
           "/wiki/Boston"
         ]
@@ -188,123 +127,81 @@
     ],
     [
       [
-        [
-          "Merrimack Valley Regional Transit Authority"
-        ],
+        "Merrimack Valley Regional Transit Authority",
         [
           "/wiki/Merrimack_Valley_Regional_Transit_Authority"
         ]
       ],
       [
-        [
-          "Merrimack River"
-        ],
+        "Greater Merrimack River Valley",
         [
           "/wiki/Merrimack_River"
         ]
       ],
       [
-        [
-          "Lawrence and Haverhill"
-        ],
-        [
-          null
-        ]
+        "Lawrence and Haverhill",
+        []
       ]
     ],
     [
       [
-        [
-          "MetroWest Regional Transit Authority"
-        ],
+        "MetroWest Regional Transit Authority",
         [
           "/wiki/MetroWest_Regional_Transit_Authority"
         ]
       ],
       [
-        [
-          "MetroWest Region"
-        ],
-        [
-          null
-        ]
+        "MetroWest Region",
+        []
       ],
       [
-        [
-          "Framingham"
-        ],
-        [
-          null
-        ]
+        "Framingham",
+        []
       ]
     ],
     [
       [
-        [
-          "Montachusett Regional Transit Authority"
-        ],
+        "Montachusett Regional Transit Authority",
         [
           "/wiki/Montachusett_Regional_Transit_Authority"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Fitchburg , Leominster , and Gardner"
-        ],
-        [
-          null
-        ]
+        "Fitchburg , Leominster , and Gardner",
+        []
       ]
     ],
     [
       [
-        [
-          "Nantucket Regional Transit Authority"
-        ],
+        "Nantucket Regional Transit Authority",
         [
           "/wiki/Nantucket_Regional_Transit_Authority"
         ]
       ],
       [
-        [
-          "Nantucket"
-        ],
+        "Nantucket",
         [
           "/wiki/Nantucket"
         ]
       ],
       [
-        [
-          "Nantucket"
-        ],
-        [
-          null
-        ]
+        "Nantucket",
+        []
       ]
     ],
     [
       [
-        [
-          "Pioneer Valley Transit Authority"
-        ],
+        "Pioneer Valley Transit Authority",
         [
           "/wiki/Pioneer_Valley_Transit_Authority"
         ]
       ],
       [
-        [
-          "Hampden",
-          "Hampshire",
-          "Franklin"
-        ],
+        "Hampden , Hampshire , and Franklin counties",
         [
           "/wiki/Hampden_County,_Massachusetts",
           "/wiki/Hampshire_County,_Massachusetts",
@@ -312,9 +209,7 @@
         ]
       ],
       [
-        [
-          "Springfield"
-        ],
+        "Springfield",
         [
           "/wiki/Springfield,_MA"
         ]
@@ -322,52 +217,35 @@
     ],
     [
       [
-        [
-          "Southeastern Regional Transit Authority"
-        ],
+        "Southeastern Regional Transit Authority",
         [
           "/wiki/Southeastern_Regional_Transit_Authority"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Fall River and New Bedford"
-        ],
-        [
-          null
-        ]
+        "Fall River and New Bedford",
+        []
       ]
     ],
     [
       [
-        [
-          "Worcester Regional Transit Authority"
-        ],
+        "Worcester Regional Transit Authority",
         [
           "/wiki/Worcester_Regional_Transit_Authority"
         ]
       ],
       [
-        [
-          "Worcester"
-        ],
+        "Worcester and immediate suburbs",
         [
           "/wiki/Worcester,_MA"
         ]
       ],
       [
-        [
-          "Worcester",
-          "Auburn"
-        ],
+        "Worcester and Auburn",
         [
           "/wiki/Worcester,_MA",
           "/wiki/Auburn,_MA"

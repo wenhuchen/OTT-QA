@@ -3,78 +3,44 @@
   "title": "List of herbaria",
   "header": [
     [
-      [
-        "Name"
-      ],
-      [
-        null
-      ]
+      "Name",
+      []
     ],
     [
-      [
-        "No . Specimens"
-      ],
-      [
-        null
-      ]
+      "No . Specimens",
+      []
     ],
     [
-      [
-        "Abbr"
-      ],
-      [
-        null
-      ]
+      "Abbr",
+      []
     ],
     [
-      [
-        "Location"
-      ],
-      [
-        null
-      ]
+      "Location",
+      []
     ],
     [
-      [
-        "Website"
-      ],
-      [
-        null
-      ]
+      "Website",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "New York Botanical Garden"
-        ],
+        "New York Botanical Garden",
         [
           "/wiki/New_York_Botanical_Garden"
         ]
       ],
       [
-        [
-          "7,800,000"
-        ],
-        [
-          null
-        ]
+        "7,800,000",
+        []
       ],
       [
-        [
-          "NY"
-        ],
-        [
-          null
-        ]
+        "NY",
+        []
       ],
       [
-        [
-          "The Bronx",
-          "New York City",
-          "New York"
-        ],
+        "United States ; The Bronx , New York City , New York",
         [
           "/wiki/The_Bronx",
           "/wiki/New_York_City",
@@ -82,846 +48,517 @@
         ]
       ],
       [
-        [
-          "[ 94 ]"
-        ],
-        [
-          null
-        ]
+        "[ 94 ]",
+        []
       ]
     ],
     [
       [
-        [
-          "Missouri Botanical Garden"
-        ],
+        "Missouri Botanical Garden",
         [
           "/wiki/Missouri_Botanical_Garden"
         ]
       ],
       [
-        [
-          "6,600,000"
-        ],
-        [
-          null
-        ]
+        "6,600,000",
+        []
       ],
       [
-        [
-          "MO"
-        ],
-        [
-          null
-        ]
+        "MO",
+        []
       ],
       [
-        [
-          "St. Louis",
-          "Missouri"
-        ],
+        "United States ; St. Louis , Missouri",
         [
           "/wiki/St._Louis,_Missouri",
           "/wiki/Missouri"
         ]
       ],
       [
-        [
-          "[ 95 ]"
-        ],
-        [
-          null
-        ]
+        "[ 95 ]",
+        []
       ]
     ],
     [
       [
-        [
-          "Harvard University Herbaria"
-        ],
+        "Harvard University Herbaria",
         [
           "/wiki/Harvard_University_Herbaria"
         ]
       ],
       [
-        [
-          "5,005,000"
-        ],
-        [
-          null
-        ]
+        "5,005,000",
+        []
       ],
       [
-        [
-          "A , AMES , ECON , FH , GH , NEBC"
-        ],
-        [
-          null
-        ]
+        "A , AMES , ECON , FH , GH , NEBC",
+        []
       ],
       [
-        [
-          "Cambridge",
-          "Massachusetts"
-        ],
+        "United States ; Cambridge , Massachusetts",
         [
           "/wiki/Cambridge,_Massachusetts",
           "/wiki/Massachusetts"
         ]
       ],
       [
-        [
-          "[ 96 ]"
-        ],
-        [
-          null
-        ]
+        "[ 96 ]",
+        []
       ]
     ],
     [
       [
-        [
-          "United States National Herbarium",
-          "Smithsonian Institution"
-        ],
+        "United States National Herbarium , Smithsonian Institution",
         [
           "/wiki/United_States_National_Herbarium",
           "/wiki/Smithsonian_Institution"
         ]
       ],
       [
-        [
-          "5,000,000"
-        ],
-        [
-          null
-        ]
+        "5,000,000",
+        []
       ],
       [
-        [
-          "US"
-        ],
-        [
-          null
-        ]
+        "US",
+        []
       ],
       [
-        [
-          "Washington , D.C"
-        ],
+        "United States ; Washington , D.C",
         [
           "/wiki/Washington,_D.C."
         ]
       ],
       [
-        [
-          "[ 97 ]"
-        ],
-        [
-          null
-        ]
+        "[ 97 ]",
+        []
       ]
     ],
     [
       [
-        [
-          "Field Museum"
-        ],
+        "Field Museum",
         [
           "/wiki/Field_Museum"
         ]
       ],
       [
-        [
-          "2,700,000"
-        ],
-        [
-          null
-        ]
+        "2,700,000",
+        []
       ],
       [
-        [
-          "F"
-        ],
-        [
-          null
-        ]
+        "F",
+        []
       ],
       [
-        [
-          "Chicago",
-          "Illinois"
-        ],
+        "United States ; Chicago , Illinois",
         [
           "/wiki/Chicago",
           "/wiki/Illinois"
         ]
       ],
       [
-        [
-          "[ 98 ]"
-        ],
-        [
-          null
-        ]
+        "[ 98 ]",
+        []
       ]
     ],
     [
       [
-        [
-          "University and Jepson Herbaria",
-          "University of California , Berkeley"
-        ],
+        "University and Jepson Herbaria , University of California , Berkeley",
         [
           "/wiki/University_and_Jepson_Herbaria",
           "/wiki/University_of_California,_Berkeley"
         ]
       ],
       [
-        [
-          "2,200,000"
-        ],
-        [
-          null
-        ]
+        "2,200,000",
+        []
       ],
       [
-        [
-          "UC/JEPS"
-        ],
-        [
-          null
-        ]
+        "UC/JEPS",
+        []
       ],
       [
-        [
-          "Berkeley",
-          "California"
-        ],
+        "United States ; Berkeley , California",
         [
           "/wiki/Berkeley,_California",
           "/wiki/California"
         ]
       ],
       [
-        [
-          "[ 99 ]"
-        ],
-        [
-          null
-        ]
+        "[ 99 ]",
+        []
       ]
     ],
     [
       [
-        [
-          "California Academy of Sciences"
-        ],
+        "California Academy of Sciences , Herbarium",
         [
           "/wiki/California_Academy_of_Sciences"
         ]
       ],
       [
-        [
-          "2,000,000"
-        ],
-        [
-          null
-        ]
+        "2,000,000",
+        []
       ],
       [
-        [
-          "CAS/DS"
-        ],
-        [
-          null
-        ]
+        "CAS/DS",
+        []
       ],
       [
-        [
-          "San Francisco , California"
-        ],
+        "United States ; San Francisco , California",
         [
           "/wiki/San_Francisco,_California"
         ]
       ],
       [
-        [
-          "[ 100 ]"
-        ],
-        [
-          null
-        ]
+        "[ 100 ]",
+        []
       ]
     ],
     [
       [
-        [
-          "University of Michigan Herbarium"
-        ],
+        "University of Michigan Herbarium",
         [
           "/wiki/University_of_Michigan_Herbarium"
         ]
       ],
       [
-        [
-          "1,750,000"
-        ],
-        [
-          null
-        ]
+        "1,750,000",
+        []
       ],
       [
-        [
-          "MICH"
-        ],
-        [
-          null
-        ]
+        "MICH",
+        []
       ],
       [
-        [
-          "Ann Arbor",
-          "Michigan"
-        ],
+        "United States ; Ann Arbor , Michigan",
         [
           "/wiki/Ann_Arbor",
           "/wiki/Michigan"
         ]
       ],
       [
-        [
-          "[ 101 ]"
-        ],
-        [
-          null
-        ]
+        "[ 101 ]",
+        []
       ]
     ],
     [
       [
-        [
-          "Academy of Natural Sciences"
-        ],
+        "Academy of Natural Sciences",
         [
           "/wiki/Academy_of_Natural_Sciences"
         ]
       ],
       [
-        [
-          "1,430,000"
-        ],
-        [
-          null
-        ]
+        "1,430,000",
+        []
       ],
       [
-        [
-          "PH"
-        ],
-        [
-          null
-        ]
+        "PH",
+        []
       ],
       [
-        [
-          "Philadelphia",
-          "Pennsylvania"
-        ],
+        "United States ; Philadelphia , Pennsylvania",
         [
           "/wiki/Philadelphia",
           "/wiki/Pennsylvania"
         ]
       ],
       [
-        [
-          "[ 102 ]"
-        ],
-        [
-          null
-        ]
+        "[ 102 ]",
+        []
       ]
     ],
     [
       [
-        [
-          "Agriculture and Agri-Food Canada"
-        ],
+        "Agriculture and Agri-Food Canada , Vascular Plant Herbarium",
         [
           "/wiki/Agriculture_and_Agri-Food_Canada"
         ]
       ],
       [
-        [
-          "1,335,000"
-        ],
-        [
-          null
-        ]
+        "1,335,000",
+        []
       ],
       [
-        [
-          "DAO , DAOM"
-        ],
-        [
-          null
-        ]
+        "DAO , DAOM",
+        []
       ],
       [
-        [
-          "Ottawa",
-          "Ontario"
-        ],
+        "Canada ; Ottawa , Ontario",
         [
           "/wiki/Ottawa",
           "/wiki/Ontario"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
+        "Wisconsin State Herbarium ( @ University of Wisconsin-Madison",
         [
-          "Wisconsin State Herbarium",
-          "University of Wisconsin-Madison"
-        ],
-        [
-          null,
           "/wiki/University_of_Wisconsin\u2013Madison"
         ]
       ],
       [
-        [
-          "1,200,750"
-        ],
-        [
-          null
-        ]
+        "1,200,750",
+        []
       ],
       [
-        [
-          "WIS"
-        ],
-        [
-          null
-        ]
+        "WIS",
+        []
       ],
       [
-        [
-          "Madison",
-          "Wisconsin"
-        ],
+        "United States ; Madison , Wisconsin",
         [
           "/wiki/Madison,_Wisconsin",
           "/wiki/Wisconsin"
         ]
       ],
       [
-        [
-          "[ 103 ]"
-        ],
-        [
-          null
-        ]
+        "[ 103 ]",
+        []
       ]
     ],
     [
       [
-        [
-          "Universidad Nacional Aut\u00f3noma de M\u00e9xico"
-        ],
+        "Universidad Nacional Aut\u00f3noma de M\u00e9xico",
         [
           "/wiki/National_Autonomous_University_of_Mexico"
         ]
       ],
       [
-        [
-          "1,120,000"
-        ],
-        [
-          null
-        ]
+        "1,120,000",
+        []
       ],
       [
-        [
-          "MEXU"
-        ],
-        [
-          null
-        ]
+        "MEXU",
+        []
       ],
       [
-        [
-          "Mexico City"
-        ],
+        "Mexico ; Mexico City",
         [
           "/wiki/Mexico_City"
         ]
       ],
       [
-        [
-          "[ 104 ]"
-        ],
-        [
-          null
-        ]
+        "[ 104 ]",
+        []
       ]
     ],
     [
       [
-        [
-          "Rancho Santa Ana Botanic Garden"
-        ],
+        "Rancho Santa Ana Botanic Garden",
         [
           "/wiki/Rancho_Santa_Ana_Botanic_Garden"
         ]
       ],
       [
-        [
-          "1,100,000"
-        ],
-        [
-          null
-        ]
+        "1,100,000",
+        []
       ],
       [
-        [
-          "RSA/POM"
-        ],
-        [
-          null
-        ]
+        "RSA/POM",
+        []
       ],
       [
-        [
-          "Claremont",
-          "California"
-        ],
+        "United States ; Claremont , California",
         [
           "/wiki/Claremont,_California",
           "/wiki/California"
         ]
       ],
       [
-        [
-          "[ 105 ]"
-        ],
-        [
-          null
-        ]
+        "[ 105 ]",
+        []
       ]
     ],
     [
       [
-        [
-          "University of Texas at Austin"
-        ],
+        "University of Texas at Austin",
         [
           "/wiki/University_of_Texas_at_Austin"
         ]
       ],
       [
-        [
-          "1,006,000"
-        ],
-        [
-          null
-        ]
+        "1,006,000",
+        []
       ],
       [
-        [
-          "TEX"
-        ],
-        [
-          null
-        ]
+        "TEX",
+        []
       ],
       [
-        [
-          "Austin",
-          "Texas"
-        ],
+        "United States ; Austin , Texas",
         [
           "/wiki/Austin,_Texas",
           "/wiki/Texas"
         ]
       ],
       [
-        [
-          "[ 106 ]"
-        ],
-        [
-          null
-        ]
+        "[ 106 ]",
+        []
       ]
     ],
     [
       [
-        [
-          "Botanical Research Institute of Texas"
-        ],
+        "Botanical Research Institute of Texas",
         [
           "/wiki/Botanical_Research_Institute_of_Texas"
         ]
       ],
       [
-        [
-          "1,001,000"
-        ],
-        [
-          null
-        ]
+        "1,001,000",
+        []
       ],
       [
-        [
-          "BRIT-SMU-VDB"
-        ],
-        [
-          null
-        ]
+        "BRIT-SMU-VDB",
+        []
       ],
       [
-        [
-          "Fort Worth",
-          "Texas"
-        ],
+        "United States ; Fort Worth , Texas",
         [
           "/wiki/Fort_Worth",
           "/wiki/Texas"
         ]
       ],
       [
-        [
-          "[ 107 ]"
-        ],
-        [
-          null
-        ]
+        "[ 107 ]",
+        []
       ]
     ],
     [
       [
-        [
-          "Instituto Polit\u00e9cnico Nacional , Mexico"
-        ],
+        "Instituto Polit\u00e9cnico Nacional , Mexico",
         [
           "/wiki/National_Polytechnic_Institute"
         ]
       ],
       [
-        [
-          "950,000"
-        ],
-        [
-          null
-        ]
+        "950,000",
+        []
       ],
       [
-        [
-          "ENCB"
-        ],
-        [
-          null
-        ]
+        "ENCB",
+        []
       ],
       [
-        [
-          "Mexico City"
-        ],
+        "Mexico ; Mexico City",
         [
           "/wiki/Mexico_City"
         ]
       ],
       [
-        [
-          "[ 108 ]"
-        ],
-        [
-          null
-        ]
+        "[ 108 ]",
+        []
       ]
     ],
     [
       [
-        [
-          "L.H . Bailey Hortorium Herbarium"
-        ],
-        [
-          null
-        ]
+        "L.H . Bailey Hortorium Herbarium",
+        []
       ],
       [
-        [
-          "860,000"
-        ],
-        [
-          null
-        ]
+        "860,000",
+        []
       ],
       [
-        [
-          "BH"
-        ],
-        [
-          null
-        ]
+        "BH",
+        []
       ],
       [
-        [
-          "Ithaca",
-          "New York"
-        ],
+        "United States ; Ithaca , New York",
         [
           "/wiki/Ithaca",
           "/wiki/New_York_(state)"
         ]
       ],
       [
-        [
-          "[ 109 ]"
-        ],
-        [
-          null
-        ]
+        "[ 109 ]",
+        []
       ]
     ],
     [
       [
-        [
-          "Royal Ontario Museum"
-        ],
+        "Royal Ontario Museum",
         [
           "/wiki/Royal_Ontario_Museum"
         ]
       ],
       [
-        [
-          "860,000"
-        ],
-        [
-          null
-        ]
+        "860,000",
+        []
       ],
       [
-        [
-          "TRT , TRTC"
-        ],
-        [
-          null
-        ]
+        "TRT , TRTC",
+        []
       ],
       [
-        [
-          "Toronto",
-          "Ontario"
-        ],
+        "Canada ; Toronto , Ontario",
         [
           "/wiki/Toronto",
           "/wiki/Ontario"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Universit\u00e9 de Montr\u00e9al"
-        ],
+        "Herbier Marie-Victorin , Universit\u00e9 de Montr\u00e9al",
         [
           "/wiki/Universit\u00e9_de_Montr\u00e9al"
         ]
       ],
       [
-        [
-          "850,000"
-        ],
-        [
-          null
-        ]
+        "850,000",
+        []
       ],
       [
-        [
-          "MT"
-        ],
-        [
-          null
-        ]
+        "MT",
+        []
       ],
       [
-        [
-          "Montreal",
-          "Quebec"
-        ],
+        "Canada ; Montreal , Quebec",
         [
           "/wiki/Montreal",
           "/wiki/Quebec"
         ]
       ],
       [
-        [
-          "[ 110 ]"
-        ],
-        [
-          null
-        ]
+        "[ 110 ]",
+        []
       ]
     ],
     [
       [
-        [
-          "Canadian Museum of Nature"
-        ],
+        "National Herbarium of Canada , Canadian Museum of Nature",
         [
           "/wiki/Canadian_Museum_of_Nature"
         ]
       ],
       [
-        [
-          "838,000"
-        ],
-        [
-          null
-        ]
+        "838,000",
+        []
       ],
       [
-        [
-          "CAN , CANM"
-        ],
-        [
-          null
-        ]
+        "CAN , CANM",
+        []
       ],
       [
-        [
-          "Ottawa",
-          "Ontario"
-        ],
+        "Canada ; Ottawa , Ontario",
         [
           "/wiki/Ottawa",
           "/wiki/Ontario"
         ]
       ],
       [
-        [
-          "[ 111 ]"
-        ],
-        [
-          null
-        ]
+        "[ 111 ]",
+        []
       ]
     ]
   ],

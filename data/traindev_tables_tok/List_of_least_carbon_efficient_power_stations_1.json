@@ -3,41 +3,23 @@
   "title": "List of least carbon efficient power stations",
   "header": [
     [
-      [
-        "CO 2 intensity ( kg/kWh )"
-      ],
-      [
-        null
-      ]
+      "CO 2 intensity ( kg/kWh )",
+      []
     ],
     [
-      [
-        "Power Station , Location"
-      ],
-      [
-        null
-      ]
+      "Power Station , Location",
+      []
     ],
     [
-      [
-        "Country"
-      ],
-      [
-        null
-      ]
+      "Country",
+      []
     ],
     [
-      [
-        "Fuel"
-      ],
-      [
-        null
-      ]
+      "Fuel",
+      []
     ],
     [
-      [
-        "CO 2"
-      ],
+      "Emissions ( Mt CO 2 )",
       [
         "/wiki/Carbon_dioxide"
       ]
@@ -46,882 +28,573 @@
   "data": [
     [
       [
-        [
-          "1.350"
-        ],
-        [
-          null
-        ]
+        "1.350",
+        []
       ],
       [
-        [
-          "Agios Dimitrios Power Station",
-          "Agios Dimitrios , Kozani"
-        ],
+        "Agios Dimitrios Power Station , Agios Dimitrios , Kozani",
         [
           "/wiki/Agios_Dimitrios_Power_Station",
           "/wiki/Agios_Dimitrios,_Kozani"
         ]
       ],
       [
-        [
-          "Greece"
-        ],
+        "Greece",
         [
           "/wiki/Greece"
         ]
       ],
       [
-        [
-          "Lignite"
-        ],
+        "Lignite",
         [
           "/wiki/Lignite"
         ]
       ],
       [
-        [
-          "12.4"
-        ],
-        [
-          null
-        ]
+        "12.4",
+        []
       ]
     ],
     [
       [
-        [
-          "1.250"
-        ],
-        [
-          null
-        ]
+        "1.250",
+        []
       ],
       [
-        [
-          "Kardia Power Station",
-          "Kardia Kozanis"
-        ],
-        [
-          null,
-          null
-        ]
+        "Kardia Power Station , Kardia Kozanis",
+        []
       ],
       [
-        [
-          "Greece"
-        ],
+        "Greece",
         [
           "/wiki/Greece"
         ]
       ],
       [
-        [
-          "Lignite"
-        ],
+        "Lignite",
         [
           "/wiki/Lignite"
         ]
       ],
       [
-        [
-          "8.8"
-        ],
-        [
-          null
-        ]
+        "8.8",
+        []
       ]
     ],
     [
       [
-        [
-          "1.200"
-        ],
-        [
-          null
-        ]
+        "1.200",
+        []
       ],
       [
-        [
-          "Niederaussem Power Station",
-          "Niederaussem"
-        ],
+        "Niederaussem Power Station , Niederaussem",
         [
           "/wiki/Niederaussem_Power_Station",
           "/wiki/Niederaussem"
         ]
       ],
       [
-        [
-          "Germany"
-        ],
+        "Germany",
         [
           "/wiki/Germany"
         ]
       ],
       [
-        [
-          "Lignite"
-        ],
+        "Lignite",
         [
           "/wiki/Lignite"
         ]
       ],
       [
-        [
-          "27.4"
-        ],
-        [
-          null
-        ]
+        "27.4",
+        []
       ]
     ],
     [
       [
-        [
-          "1.200"
-        ],
-        [
-          null
-        ]
+        "1.200",
+        []
       ],
       [
-        [
-          "J\u00e4nschwalde Power Station",
-          "J\u00e4nschwalde"
-        ],
+        "J\u00e4nschwalde Power Station , J\u00e4nschwalde",
         [
           "/wiki/J\u00e4nschwalde_Power_Station",
           "/wiki/J\u00e4nschwalde"
         ]
       ],
       [
-        [
-          "Germany"
-        ],
+        "Germany",
         [
           "/wiki/Germany"
         ]
       ],
       [
-        [
-          "Lignite"
-        ],
+        "Lignite",
         [
           "/wiki/Lignite"
         ]
       ],
       [
-        [
-          "23.7"
-        ],
-        [
-          null
-        ]
+        "23.7",
+        []
       ]
     ],
     [
       [
-        [
-          "1.187"
-        ],
-        [
-          null
-        ]
+        "1.187",
+        []
       ],
       [
-        [
-          "Frimmersdorf Power Station",
-          "Grevenbroich"
-        ],
+        "Frimmersdorf Power Station , Grevenbroich",
         [
           "/wiki/Frimmersdorf_Power_Station",
           "/wiki/Grevenbroich"
         ]
       ],
       [
-        [
-          "Germany"
-        ],
+        "Germany",
         [
           "/wiki/Germany"
         ]
       ],
       [
-        [
-          "Lignite"
-        ],
+        "Lignite",
         [
           "/wiki/Lignite"
         ]
       ],
       [
-        [
-          "19.3"
-        ],
-        [
-          null
-        ]
+        "19.3",
+        []
       ]
     ],
     [
       [
-        [
-          "1.180"
-        ],
-        [
-          null
-        ]
+        "1.180",
+        []
       ],
       [
+        "Weisweiler Power Station , Eschweiler",
         [
-          "Weisweiler Power Station",
-          "Eschweiler"
-        ],
-        [
-          null,
           "/wiki/Eschweiler"
         ]
       ],
       [
-        [
-          "Germany"
-        ],
+        "Germany",
         [
           "/wiki/Germany"
         ]
       ],
       [
-        [
-          "Lignite"
-        ],
+        "Lignite",
         [
           "/wiki/Lignite"
         ]
       ],
       [
-        [
-          "18.8"
-        ],
-        [
-          null
-        ]
+        "18.8",
+        []
       ]
     ],
     [
       [
-        [
-          "1.150"
-        ],
-        [
-          null
-        ]
+        "1.150",
+        []
       ],
       [
-        [
-          "Neurath Power Station",
-          "Grevenbroich"
-        ],
+        "Neurath Power Station , Grevenbroich",
         [
           "/wiki/Neurath_Power_Station",
           "/wiki/Grevenbroich"
         ]
       ],
       [
-        [
-          "Germany"
-        ],
+        "Germany",
         [
           "/wiki/Germany"
         ]
       ],
       [
-        [
-          "Lignite"
-        ],
+        "Lignite",
         [
           "/wiki/Lignite"
         ]
       ],
       [
-        [
-          "17.9"
-        ],
-        [
-          null
-        ]
+        "17.9",
+        []
       ]
     ],
     [
       [
-        [
-          "1.150"
-        ],
-        [
-          null
-        ]
+        "1.150",
+        []
       ],
       [
+        "Tur\u00f3w Power Station , Bogatynia",
         [
-          "Tur\u00f3w Power Station",
-          "Bogatynia"
-        ],
-        [
-          null,
           "/wiki/Bogatynia"
         ]
       ],
       [
-        [
-          "Poland"
-        ],
+        "Poland",
         [
           "/wiki/Poland"
         ]
       ],
       [
-        [
-          "Lignite"
-        ],
+        "Lignite",
         [
           "/wiki/Lignite"
         ]
       ],
       [
-        [
-          "13.0"
-        ],
-        [
-          null
-        ]
+        "13.0",
+        []
       ]
     ],
     [
       [
-        [
-          "1.150"
-        ],
-        [
-          null
-        ]
+        "1.150",
+        []
       ],
       [
+        "As Pontes Power Station , Ferrol",
         [
-          "As Pontes Power Station",
-          "Ferrol"
-        ],
-        [
-          null,
           "/wiki/Ferrol,_Spain"
         ]
       ],
       [
-        [
-          "Spain"
-        ],
+        "Spain",
         [
           "/wiki/Spain"
         ]
       ],
       [
-        [
-          "Lignite"
-        ],
+        "Lignite",
         [
           "/wiki/Lignite"
         ]
       ],
       [
-        [
-          "9.1"
-        ],
-        [
-          null
-        ]
+        "9.1",
+        []
       ]
     ],
     [
       [
-        [
-          "1.100"
-        ],
-        [
-          null
-        ]
+        "1.100",
+        []
       ],
       [
-        [
-          "Boxberg Power Station",
-          "Boxberg , Saxony"
-        ],
+        "Boxberg Power Station , Boxberg , Saxony",
         [
           "/wiki/Boxberg_Power_Station",
           "/wiki/Boxberg,_Saxony"
         ]
       ],
       [
-        [
-          "Germany"
-        ],
+        "Germany",
         [
           "/wiki/Germany"
         ]
       ],
       [
-        [
-          "Lignite"
-        ],
+        "Lignite",
         [
           "/wiki/Lignite"
         ]
       ],
       [
-        [
-          "15.5"
-        ],
-        [
-          null
-        ]
+        "15.5",
+        []
       ]
     ],
     [
       [
-        [
-          "1.090"
-        ],
-        [
-          null
-        ]
+        "1.090",
+        []
       ],
       [
-        [
-          "Be\u0142chat\u00f3w Power Station",
-          "Be\u0142chat\u00f3w"
-        ],
+        "Be\u0142chat\u00f3w Power Station , Be\u0142chat\u00f3w",
         [
           "/wiki/Be\u0142chat\u00f3w_Power_Station",
           "/wiki/Be\u0142chat\u00f3w"
         ]
       ],
       [
-        [
-          "Poland"
-        ],
+        "Poland",
         [
           "/wiki/Poland"
         ]
       ],
       [
-        [
-          "Lignite"
-        ],
+        "Lignite",
         [
           "/wiki/Lignite"
         ]
       ],
       [
-        [
-          "30.1"
-        ],
-        [
-          null
-        ]
+        "30.1",
+        []
       ]
     ],
     [
       [
+        "1.070",
+        []
+      ],
+      [
+        "Prun\u00e9\u0159ov Power Station , Prun\u00e9\u0159ov",
         [
-          "1.070"
-        ],
-        [
-          null
+          "/wiki/Prun\u00e9\u0159ov_Power_Station"
         ]
       ],
       [
-        [
-          "Prun\u00e9\u0159ov Power Station",
-          "Prun\u00e9\u0159ov"
-        ],
-        [
-          "/wiki/Prun\u00e9\u0159ov_Power_Station",
-          null
-        ]
-      ],
-      [
-        [
-          "Czech Republic"
-        ],
+        "Czech Republic",
         [
           "/wiki/Czech_Republic"
         ]
       ],
       [
-        [
-          "Lignite"
-        ],
+        "Lignite",
         [
           "/wiki/Lignite"
         ]
       ],
       [
-        [
-          "8.9"
-        ],
-        [
-          null
-        ]
+        "8.9",
+        []
       ]
     ],
     [
       [
-        [
-          "1.050"
-        ],
-        [
-          null
-        ]
+        "1.050",
+        []
       ],
       [
+        "Sines Power Station , Sines",
         [
-          "Sines Power Station",
-          "Sines"
-        ],
-        [
-          null,
           "/wiki/Sines"
         ]
       ],
       [
-        [
-          "Portugal"
-        ],
+        "Portugal",
         [
           "/wiki/Portugal"
         ]
       ],
       [
-        [
-          "Hard Coal"
-        ],
+        "Hard Coal",
         [
           "/wiki/Hard_Coal"
         ]
       ],
       [
-        [
-          "8.7"
-        ],
-        [
-          null
-        ]
+        "8.7",
+        []
       ]
     ],
     [
       [
-        [
-          "1.000"
-        ],
-        [
-          null
-        ]
+        "1.000",
+        []
       ],
       [
-        [
-          "Schwarze Pumpe power station",
-          "Spremberg"
-        ],
+        "Schwarze Pumpe power station , Spremberg",
         [
           "/wiki/Schwarze_Pumpe_power_station",
           "/wiki/Spremberg"
         ]
       ],
       [
-        [
-          "Germany"
-        ],
+        "Germany",
         [
           "/wiki/Germany"
         ]
       ],
       [
-        [
-          "Lignite"
-        ],
+        "Lignite",
         [
           "/wiki/Lignite"
         ]
       ],
       [
-        [
-          "12.2"
-        ],
-        [
-          null
-        ]
+        "12.2",
+        []
       ]
     ],
     [
       [
-        [
-          "0.970"
-        ],
-        [
-          null
-        ]
+        "0.970",
+        []
       ],
       [
-        [
-          "Longannet power station",
-          "Longannet"
-        ],
+        "Longannet power station , Longannet",
         [
           "/wiki/Longannet_power_station",
           "/wiki/Longannet"
         ]
       ],
       [
-        [
-          "United Kingdom"
-        ],
+        "United Kingdom",
         [
           "/wiki/United_Kingdom"
         ]
       ],
       [
-        [
-          "Hard Coal"
-        ],
+        "Hard Coal",
         [
           "/wiki/Hard_Coal"
         ]
       ],
       [
-        [
-          "10.1"
-        ],
-        [
-          null
-        ]
+        "10.1",
+        []
       ]
     ],
     [
       [
-        [
-          "0.950"
-        ],
-        [
-          null
-        ]
+        "0.950",
+        []
       ],
       [
-        [
-          "Lippendorf Power Station",
-          "Lippendorf"
-        ],
+        "Lippendorf Power Station , Lippendorf",
         [
           "/wiki/Lippendorf_Power_Station",
           "/wiki/Lippendorf"
         ]
       ],
       [
-        [
-          "Germany"
-        ],
+        "Germany",
         [
           "/wiki/Germany"
         ]
       ],
       [
-        [
-          "Lignite"
-        ],
+        "Lignite",
         [
           "/wiki/Lignite"
         ]
       ],
       [
-        [
-          "12.4"
-        ],
-        [
-          null
-        ]
+        "12.4",
+        []
       ]
     ],
     [
       [
-        [
-          "0.940"
-        ],
-        [
-          null
-        ]
+        "0.940",
+        []
       ],
       [
-        [
-          "Cottam power stations",
-          "Cottam"
-        ],
+        "Cottam power stations , Cottam",
         [
           "/wiki/Cottam_power_stations",
           "/wiki/Cottam,_Nottinghamshire"
         ]
       ],
       [
-        [
-          "United Kingdom"
-        ],
+        "United Kingdom",
         [
           "/wiki/United_Kingdom"
         ]
       ],
       [
-        [
-          "Hard Coal"
-        ],
+        "Hard Coal",
         [
           "/wiki/Hard_Coal"
         ]
       ],
       [
-        [
-          "10.0"
-        ],
-        [
-          null
-        ]
+        "10.0",
+        []
       ]
     ],
     [
       [
-        [
-          "0.930"
-        ],
-        [
-          null
-        ]
+        "0.930",
+        []
       ],
       [
-        [
-          "Rybnik Power Station",
-          "Rybnik"
-        ],
+        "Rybnik Power Station , Rybnik",
         [
           "/wiki/Rybnik_Power_Station",
           "/wiki/Rybnik"
         ]
       ],
       [
-        [
-          "Poland"
-        ],
+        "Poland",
         [
           "/wiki/Poland"
         ]
       ],
       [
-        [
-          "Hard Coal"
-        ],
+        "Hard Coal",
         [
           "/wiki/Hard_Coal"
         ]
       ],
       [
-        [
-          "8.6"
-        ],
-        [
-          null
-        ]
+        "8.6",
+        []
       ]
     ],
     [
       [
-        [
-          "0.915"
-        ],
-        [
-          null
-        ]
+        "0.915",
+        []
       ],
       [
-        [
-          "Kozienice Power Station",
-          "Kozienice"
-        ],
+        "Kozienice Power Station , Kozienice",
         [
           "/wiki/Kozienice_Power_Station",
           "/wiki/Kozienice"
         ]
       ],
       [
-        [
-          "Poland"
-        ],
+        "Poland",
         [
           "/wiki/Poland"
         ]
       ],
       [
-        [
-          "Hard Coal"
-        ],
+        "Hard Coal",
         [
           "/wiki/Hard_Coal"
         ]
       ],
       [
-        [
-          "10.8"
-        ],
-        [
-          null
-        ]
+        "10.8",
+        []
       ]
     ],
     [
       [
+        "0.900",
+        []
+      ],
+      [
+        "Scholven Power Station , Scholven",
         [
-          "0.900"
-        ],
-        [
-          null
+          "/wiki/Scholven_Power_Station"
         ]
       ],
       [
-        [
-          "Scholven Power Station",
-          "Scholven"
-        ],
-        [
-          "/wiki/Scholven_Power_Station",
-          null
-        ]
-      ],
-      [
-        [
-          "Germany"
-        ],
+        "Germany",
         [
           "/wiki/Germany"
         ]
       ],
       [
-        [
-          "Hard Coal"
-        ],
+        "Hard Coal",
         [
           "/wiki/Hard_Coal"
         ]
       ],
       [
-        [
-          "10.7"
-        ],
-        [
-          null
-        ]
+        "10.7",
+        []
       ]
     ]
   ],

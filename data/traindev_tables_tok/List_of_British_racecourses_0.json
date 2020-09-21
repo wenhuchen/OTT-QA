@@ -3,100 +3,68 @@
   "title": "List of British racecourses",
   "header": [
     [
-      [
-        "Racecourse"
-      ],
-      [
-        null
-      ]
+      "Racecourse",
+      []
     ],
     [
-      [
-        "Location"
-      ],
-      [
-        null
-      ]
+      "Location",
+      []
     ],
     [
-      [
-        "Code"
-      ],
-      [
-        null
-      ]
+      "Country",
+      []
     ],
     [
-      [
-        "Opened"
-      ],
-      [
-        null
-      ]
+      "Code",
+      []
     ],
     [
-      [
-        "Surface"
-      ],
-      [
-        null
-      ]
+      "Opened",
+      []
     ],
     [
-      [
-        "Owner"
-      ],
-      [
-        null
-      ]
+      "Surface",
+      []
+    ],
+    [
+      "Owner",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Aintree Racecourse"
-        ],
+        "Aintree Racecourse",
         [
           "/wiki/Aintree_Racecourse"
         ]
       ],
       [
-        [
-          "Merseyside"
-        ],
+        "Merseyside",
         [
           "/wiki/Merseyside"
         ]
       ],
       [
-        [
-          "National Hunt"
-        ],
+        "England",
+        []
+      ],
+      [
+        "National Hunt",
         [
           "/wiki/National_Hunt"
         ]
       ],
       [
-        [
-          "1829"
-        ],
-        [
-          null
-        ]
+        "1829",
+        []
       ],
       [
-        [
-          "Turf"
-        ],
-        [
-          null
-        ]
+        "Turf",
+        []
       ],
       [
-        [
-          "Jockey Club"
-        ],
+        "Jockey Club",
         [
           "/wiki/Jockey_Club"
         ]
@@ -104,199 +72,141 @@
     ],
     [
       [
-        [
-          "Ascot Racecourse"
-        ],
+        "Ascot Racecourse",
         [
           "/wiki/Ascot_Racecourse"
         ]
       ],
       [
-        [
-          "Berkshire"
-        ],
+        "Berkshire",
         [
           "/wiki/Berkshire"
         ]
       ],
       [
-        [
-          "Mixed"
-        ],
-        [
-          null
-        ]
+        "England",
+        []
       ],
       [
-        [
-          "1711"
-        ],
-        [
-          null
-        ]
+        "Mixed",
+        []
       ],
       [
-        [
-          "Turf"
-        ],
-        [
-          null
-        ]
+        "1711",
+        []
       ],
       [
-        [
-          "Independent"
-        ],
-        [
-          null
-        ]
+        "Turf",
+        []
+      ],
+      [
+        "Independent",
+        []
       ]
     ],
     [
       [
-        [
-          "Ayr Racecourse"
-        ],
+        "Ayr Racecourse",
         [
           "/wiki/Ayr_Racecourse"
         ]
       ],
       [
-        [
-          "Ayrshire"
-        ],
+        "Ayrshire",
         [
           "/wiki/Ayrshire"
         ]
       ],
       [
-        [
-          "Mixed"
-        ],
-        [
-          null
-        ]
+        "Scotland",
+        []
       ],
       [
-        [
-          "1907"
-        ],
-        [
-          null
-        ]
+        "Mixed",
+        []
       ],
       [
-        [
-          "Turf"
-        ],
-        [
-          null
-        ]
+        "1907",
+        []
       ],
       [
-        [
-          "Independent"
-        ],
-        [
-          null
-        ]
+        "Turf",
+        []
+      ],
+      [
+        "Independent",
+        []
       ]
     ],
     [
       [
-        [
-          "Bangor on Dee Racecourse"
-        ],
+        "Bangor on Dee Racecourse",
         [
           "/wiki/Bangor_on_Dee_Racecourse"
         ]
       ],
       [
-        [
-          "Wrexham"
-        ],
+        "Wrexham",
         [
           "/wiki/Wrexham"
         ]
       ],
       [
-        [
-          "National Hunt"
-        ],
+        "Wales",
+        []
+      ],
+      [
+        "National Hunt",
         [
           "/wiki/National_Hunt"
         ]
       ],
       [
-        [
-          "1859"
-        ],
-        [
-          null
-        ]
+        "1859",
+        []
       ],
       [
-        [
-          "Turf"
-        ],
-        [
-          null
-        ]
+        "Turf",
+        []
       ],
       [
-        [
-          "Chester Race Company"
-        ],
-        [
-          null
-        ]
+        "Chester Race Company",
+        []
       ]
     ],
     [
       [
-        [
-          "Bath Racecourse"
-        ],
+        "Bath Racecourse",
         [
           "/wiki/Bath_Racecourse"
         ]
       ],
       [
-        [
-          "Somerset"
-        ],
+        "Somerset",
         [
           "/wiki/Somerset"
         ]
       ],
       [
-        [
-          "Flat"
-        ],
+        "England",
+        []
+      ],
+      [
+        "Flat",
         [
           "/wiki/Flat_racing"
         ]
       ],
       [
-        [
-          "by 1728"
-        ],
-        [
-          null
-        ]
+        "by 1728",
+        []
       ],
       [
-        [
-          "Turf"
-        ],
-        [
-          null
-        ]
+        "Turf",
+        []
       ],
       [
-        [
-          "Arena Racing Company"
-        ],
+        "Arena Racing Company",
         [
           "/wiki/Arena_Racing_Company"
         ]
@@ -304,99 +214,73 @@
     ],
     [
       [
-        [
-          "Beverley Racecourse"
-        ],
+        "Beverley Racecourse",
         [
           "/wiki/Beverley_Racecourse"
         ]
       ],
       [
-        [
-          "East Riding of Yorkshire"
-        ],
+        "East Riding of Yorkshire",
         [
           "/wiki/East_Riding_of_Yorkshire"
         ]
       ],
       [
-        [
-          "Flat"
-        ],
+        "England",
+        []
+      ],
+      [
+        "Flat",
         [
           "/wiki/Flat_racing"
         ]
       ],
       [
-        [
-          "by 1767"
-        ],
-        [
-          null
-        ]
+        "by 1767",
+        []
       ],
       [
-        [
-          "Turf"
-        ],
-        [
-          null
-        ]
+        "Turf",
+        []
       ],
       [
-        [
-          "Independent"
-        ],
-        [
-          null
-        ]
+        "Independent",
+        []
       ]
     ],
     [
       [
-        [
-          "Brighton Racecourse"
-        ],
+        "Brighton Racecourse",
         [
           "/wiki/Brighton_Racecourse"
         ]
       ],
       [
-        [
-          "East Sussex"
-        ],
+        "East Sussex",
         [
           "/wiki/East_Sussex"
         ]
       ],
       [
-        [
-          "Flat"
-        ],
+        "England",
+        []
+      ],
+      [
+        "Flat",
         [
           "/wiki/Flat_racing"
         ]
       ],
       [
-        [
-          "1783"
-        ],
-        [
-          null
-        ]
+        "1783",
+        []
       ],
       [
-        [
-          "Turf"
-        ],
-        [
-          null
-        ]
+        "Turf",
+        []
       ],
       [
-        [
-          "Arena Racing Company"
-        ],
+        "Arena Racing Company",
         [
           "/wiki/Arena_Racing_Company"
         ]
@@ -404,49 +288,35 @@
     ],
     [
       [
-        [
-          "Carlisle Racecourse"
-        ],
+        "Carlisle Racecourse",
         [
           "/wiki/Carlisle_Racecourse"
         ]
       ],
       [
-        [
-          "Cumbria"
-        ],
+        "Cumbria",
         [
           "/wiki/Cumbria"
         ]
       ],
       [
-        [
-          "Mixed"
-        ],
-        [
-          null
-        ]
+        "England",
+        []
       ],
       [
-        [
-          "1904"
-        ],
-        [
-          null
-        ]
+        "Mixed",
+        []
       ],
       [
-        [
-          "Turf"
-        ],
-        [
-          null
-        ]
+        "1904",
+        []
       ],
       [
-        [
-          "Jockey Club"
-        ],
+        "Turf",
+        []
+      ],
+      [
+        "Jockey Club",
         [
           "/wiki/Jockey_Club"
         ]
@@ -454,199 +324,145 @@
     ],
     [
       [
-        [
-          "Cartmel Racecourse"
-        ],
+        "Cartmel Racecourse",
         [
           "/wiki/Cartmel_Racecourse"
         ]
       ],
       [
-        [
-          "Cumbria"
-        ],
+        "Cumbria",
         [
           "/wiki/Cumbria"
         ]
       ],
       [
-        [
-          "National Hunt"
-        ],
+        "England",
+        []
+      ],
+      [
+        "National Hunt",
         [
           "/wiki/National_Hunt"
         ]
       ],
       [
-        [
-          "by 1856"
-        ],
-        [
-          null
-        ]
+        "by 1856",
+        []
       ],
       [
-        [
-          "Turf"
-        ],
-        [
-          null
-        ]
+        "Turf",
+        []
       ],
       [
-        [
-          "Independent"
-        ],
-        [
-          null
-        ]
+        "Independent",
+        []
       ]
     ],
     [
       [
-        [
-          "Catterick Racecourse"
-        ],
+        "Catterick Racecourse",
         [
           "/wiki/Catterick_Racecourse"
         ]
       ],
       [
-        [
-          "North Yorkshire"
-        ],
+        "North Yorkshire",
         [
           "/wiki/North_Yorkshire"
         ]
       ],
       [
-        [
-          "Mixed"
-        ],
-        [
-          null
-        ]
+        "England",
+        []
       ],
       [
-        [
-          "1783"
-        ],
-        [
-          null
-        ]
+        "Mixed",
+        []
       ],
       [
-        [
-          "Turf"
-        ],
-        [
-          null
-        ]
+        "1783",
+        []
       ],
       [
-        [
-          "Independent"
-        ],
-        [
-          null
-        ]
+        "Turf",
+        []
+      ],
+      [
+        "Independent",
+        []
       ]
     ],
     [
       [
-        [
-          "Chelmsford City Racecourse"
-        ],
+        "Chelmsford City Racecourse",
         [
           "/wiki/Chelmsford_City_Racecourse"
         ]
       ],
       [
-        [
-          "Essex"
-        ],
+        "Essex",
         [
           "/wiki/Essex"
         ]
       ],
       [
-        [
-          "Flat"
-        ],
+        "England",
+        []
+      ],
+      [
+        "Flat",
         [
           "/wiki/Flat_racing"
         ]
       ],
       [
-        [
-          "2008"
-        ],
-        [
-          null
-        ]
+        "2008",
+        []
       ],
       [
-        [
-          "Polytrack"
-        ],
+        "Polytrack",
         [
           "/wiki/Polytrack"
         ]
       ],
       [
-        [
-          "Independent"
-        ],
-        [
-          null
-        ]
+        "Independent",
+        []
       ]
     ],
     [
       [
-        [
-          "Cheltenham Racecourse"
-        ],
+        "Cheltenham Racecourse",
         [
           "/wiki/Cheltenham_Racecourse"
         ]
       ],
       [
-        [
-          "Gloucestershire"
-        ],
+        "Gloucestershire",
         [
           "/wiki/Gloucestershire"
         ]
       ],
       [
-        [
-          "National Hunt"
-        ],
+        "England",
+        []
+      ],
+      [
+        "National Hunt",
         [
           "/wiki/National_Hunt"
         ]
       ],
       [
-        [
-          "1831"
-        ],
-        [
-          null
-        ]
+        "1831",
+        []
       ],
       [
-        [
-          "Turf"
-        ],
-        [
-          null
-        ]
+        "Turf",
+        []
       ],
       [
-        [
-          "Jockey Club"
-        ],
+        "Jockey Club",
         [
           "/wiki/Jockey_Club"
         ]
@@ -654,49 +470,35 @@
     ],
     [
       [
-        [
-          "Chepstow Racecourse"
-        ],
+        "Chepstow Racecourse",
         [
           "/wiki/Chepstow_Racecourse"
         ]
       ],
       [
-        [
-          "Monmouthshire"
-        ],
+        "Monmouthshire",
         [
           "/wiki/Monmouthshire"
         ]
       ],
       [
-        [
-          "Mixed"
-        ],
-        [
-          null
-        ]
+        "Wales",
+        []
       ],
       [
-        [
-          "1926"
-        ],
-        [
-          null
-        ]
+        "Mixed",
+        []
       ],
       [
-        [
-          "Turf"
-        ],
-        [
-          null
-        ]
+        "1926",
+        []
       ],
       [
-        [
-          "Arena Racing Company"
-        ],
+        "Turf",
+        []
+      ],
+      [
+        "Arena Racing Company",
         [
           "/wiki/Arena_Racing_Company"
         ]
@@ -704,99 +506,71 @@
     ],
     [
       [
-        [
-          "Chester Racecourse"
-        ],
+        "Chester Racecourse",
         [
           "/wiki/Chester_Racecourse"
         ]
       ],
       [
-        [
-          "Cheshire"
-        ],
+        "Cheshire",
         [
           "/wiki/Cheshire"
         ]
       ],
       [
-        [
-          "Flat"
-        ],
+        "England",
+        []
+      ],
+      [
+        "Flat",
         [
           "/wiki/Flat_racing"
         ]
       ],
       [
-        [
-          "1539"
-        ],
-        [
-          null
-        ]
+        "1539",
+        []
       ],
       [
-        [
-          "Turf"
-        ],
-        [
-          null
-        ]
+        "Turf",
+        []
       ],
       [
-        [
-          "Chester Race Company"
-        ],
-        [
-          null
-        ]
+        "Chester Race Company",
+        []
       ]
     ],
     [
       [
-        [
-          "Doncaster Racecourse"
-        ],
+        "Doncaster Racecourse",
         [
           "/wiki/Doncaster_Racecourse"
         ]
       ],
       [
-        [
-          "South Yorkshire"
-        ],
+        "South Yorkshire",
         [
           "/wiki/South_Yorkshire"
         ]
       ],
       [
-        [
-          "Mixed"
-        ],
-        [
-          null
-        ]
+        "England",
+        []
       ],
       [
-        [
-          "by 1595"
-        ],
-        [
-          null
-        ]
+        "Mixed",
+        []
       ],
       [
-        [
-          "Turf"
-        ],
-        [
-          null
-        ]
+        "by 1595",
+        []
       ],
       [
-        [
-          "Arena Racing Company"
-        ],
+        "Turf",
+        []
+      ],
+      [
+        "Arena Racing Company",
         [
           "/wiki/Arena_Racing_Company"
         ]
@@ -804,49 +578,37 @@
     ],
     [
       [
-        [
-          "Epsom Downs Racecourse"
-        ],
+        "Epsom Downs Racecourse",
         [
           "/wiki/Epsom_Downs_Racecourse"
         ]
       ],
       [
-        [
-          "Surrey"
-        ],
+        "Surrey",
         [
           "/wiki/Surrey"
         ]
       ],
       [
-        [
-          "Flat"
-        ],
+        "England",
+        []
+      ],
+      [
+        "Flat",
         [
           "/wiki/Flat_racing"
         ]
       ],
       [
-        [
-          "by 1661"
-        ],
-        [
-          null
-        ]
+        "by 1661",
+        []
       ],
       [
-        [
-          "Turf"
-        ],
-        [
-          null
-        ]
+        "Turf",
+        []
       ],
       [
-        [
-          "Jockey Club"
-        ],
+        "Jockey Club",
         [
           "/wiki/Jockey_Club"
         ]
@@ -854,49 +616,37 @@
     ],
     [
       [
-        [
-          "Exeter Racecourse"
-        ],
+        "Exeter Racecourse",
         [
           "/wiki/Exeter_Racecourse"
         ]
       ],
       [
-        [
-          "Devon"
-        ],
+        "Devon",
         [
           "/wiki/Devon"
         ]
       ],
       [
-        [
-          "National Hunt"
-        ],
+        "England",
+        []
+      ],
+      [
+        "National Hunt",
         [
           "/wiki/National_Hunt"
         ]
       ],
       [
-        [
-          "by 1804"
-        ],
-        [
-          null
-        ]
+        "by 1804",
+        []
       ],
       [
-        [
-          "Turf"
-        ],
-        [
-          null
-        ]
+        "Turf",
+        []
       ],
       [
-        [
-          "Jockey Club"
-        ],
+        "Jockey Club",
         [
           "/wiki/Jockey_Club"
         ]
@@ -904,99 +654,71 @@
     ],
     [
       [
-        [
-          "Fakenham Racecourse"
-        ],
+        "Fakenham Racecourse",
         [
           "/wiki/Fakenham_Racecourse"
         ]
       ],
       [
-        [
-          "Norfolk"
-        ],
+        "Norfolk",
         [
           "/wiki/Norfolk"
         ]
       ],
       [
-        [
-          "National Hunt"
-        ],
+        "England",
+        []
+      ],
+      [
+        "National Hunt",
         [
           "/wiki/National_Hunt"
         ]
       ],
       [
-        [
-          "1905"
-        ],
-        [
-          null
-        ]
+        "1905",
+        []
       ],
       [
-        [
-          "Turf"
-        ],
-        [
-          null
-        ]
+        "Turf",
+        []
       ],
       [
-        [
-          "Independent"
-        ],
-        [
-          null
-        ]
+        "Independent",
+        []
       ]
     ],
     [
       [
-        [
-          "Ffos Las Racecourse"
-        ],
+        "Ffos Las Racecourse",
         [
           "/wiki/Ffos_Las_Racecourse"
         ]
       ],
       [
-        [
-          "Carmarthenshire"
-        ],
+        "Carmarthenshire",
         [
           "/wiki/Carmarthenshire"
         ]
       ],
       [
-        [
-          "Mixed"
-        ],
-        [
-          null
-        ]
+        "Wales",
+        []
       ],
       [
-        [
-          "2009"
-        ],
-        [
-          null
-        ]
+        "Mixed",
+        []
       ],
       [
-        [
-          "Turf"
-        ],
-        [
-          null
-        ]
+        "2009",
+        []
       ],
       [
-        [
-          "Arena Racing Company"
-        ],
+        "Turf",
+        []
+      ],
+      [
+        "Arena Racing Company",
         [
           "/wiki/Arena_Racing_Company"
         ]
@@ -1004,49 +726,37 @@
     ],
     [
       [
-        [
-          "Fontwell Park Racecourse"
-        ],
+        "Fontwell Park Racecourse",
         [
           "/wiki/Fontwell_Park_Racecourse"
         ]
       ],
       [
-        [
-          "West Sussex"
-        ],
+        "West Sussex",
         [
           "/wiki/West_Sussex"
         ]
       ],
       [
-        [
-          "National Hunt"
-        ],
+        "England",
+        []
+      ],
+      [
+        "National Hunt",
         [
           "/wiki/National_Hunt"
         ]
       ],
       [
-        [
-          "1924"
-        ],
-        [
-          null
-        ]
+        "1924",
+        []
       ],
       [
-        [
-          "Turf"
-        ],
-        [
-          null
-        ]
+        "Turf",
+        []
       ],
       [
-        [
-          "Arena Racing Company"
-        ],
+        "Arena Racing Company",
         [
           "/wiki/Arena_Racing_Company"
         ]

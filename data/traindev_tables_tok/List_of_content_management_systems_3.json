@@ -3,130 +3,81 @@
   "title": "List of content management systems",
   "header": [
     [
-      [
-        "Name"
-      ],
-      [
-        null
-      ]
+      "Name",
+      []
     ],
     [
-      [
-        "Platform"
-      ],
-      [
-        null
-      ]
+      "Platform",
+      []
     ],
     [
-      [
-        "Supported databases"
-      ],
-      [
-        null
-      ]
+      "Supported databases",
+      []
     ],
     [
-      [
-        "Latest stable release"
-      ],
-      [
-        null
-      ]
+      "Latest stable release",
+      []
     ],
     [
-      [
-        "Licenses"
-      ],
-      [
-        null
-      ]
+      "Licenses",
+      []
     ],
     [
-      [
-        "Latest release date"
-      ],
-      [
-        null
-      ]
+      "Latest release date",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "blosxom"
-        ],
+        "blosxom",
         [
           "/wiki/Blosxom"
         ]
       ],
       [
-        [
-          "Perl"
-        ],
+        "Perl",
         [
           "/wiki/Perl"
         ]
       ],
       [
-        [
-          "Flat-file database"
-        ],
+        "Flat-file database",
         [
           "/wiki/Flat-file_database"
         ]
       ],
       [
-        [
-          "2.1.2"
-        ],
-        [
-          null
-        ]
+        "2.1.2",
+        []
       ],
       [
-        [
-          "MIT"
-        ],
+        "MIT",
         [
           "/wiki/MIT_License"
         ]
       ],
       [
-        [
-          "2008-10-02"
-        ],
-        [
-          null
-        ]
+        "2008-10-02",
+        []
       ]
     ],
     [
       [
-        [
-          "Bricolage"
-        ],
+        "Bricolage",
         [
           "/wiki/Bricolage_(software)"
         ]
       ],
       [
-        [
-          "Perl",
-          "mod perl"
-        ],
+        "Perl on mod perl",
         [
           "/wiki/Perl",
           "/wiki/Mod_perl"
         ]
       ],
       [
-        [
-          "MySQL",
-          "PostgreSQL",
-          "Oracle"
-        ],
+        "MySQL , PostgreSQL , Oracle",
         [
           "/wiki/MySQL",
           "/wiki/PostgreSQL",
@@ -134,157 +85,105 @@
         ]
       ],
       [
-        [
-          "2.0.1"
-        ],
-        [
-          null
-        ]
+        "2.0.1",
+        []
       ],
       [
-        [
-          "BSD"
-        ],
+        "BSD",
         [
           "/wiki/BSD_licenses"
         ]
       ],
       [
-        [
-          "2011-02-09"
-        ],
-        [
-          null
-        ]
+        "2011-02-09",
+        []
       ]
     ],
     [
       [
-        [
-          "EPrints"
-        ],
+        "EPrints",
         [
           "/wiki/EPrints"
         ]
       ],
       [
-        [
-          "Perl",
-          "mod perl"
-        ],
+        "Perl on mod perl",
         [
           "/wiki/Perl",
           "/wiki/Mod_perl"
         ]
       ],
       [
-        [
-          "MySQL",
-          "PostgreSQL"
-        ],
+        "MySQL , PostgreSQL",
         [
           "/wiki/MySQL",
           "/wiki/PostgreSQL"
         ]
       ],
       [
-        [
-          "3.4.1"
-        ],
-        [
-          null
-        ]
+        "3.4.1",
+        []
       ],
       [
-        [
-          "GPL"
-        ],
+        "GPL",
         [
           "/wiki/GPL"
         ]
       ],
       [
-        [
-          "[ \u00b1 ]"
-        ],
-        [
-          null
-        ]
+        "2019-04-05 [ \u00b1 ]",
+        []
       ]
     ],
     [
       [
-        [
-          "Foswiki"
-        ],
+        "Foswiki",
         [
           "/wiki/Foswiki"
         ]
       ],
       [
-        [
-          "Perl"
-        ],
+        "Perl",
         [
           "/wiki/Perl"
         ]
       ],
       [
-        [
-          "Flat-file database"
-        ],
+        "Flat-file database",
         [
           "/wiki/Flat-file_database"
         ]
       ],
       [
-        [
-          "2.1.6"
-        ],
-        [
-          null
-        ]
+        "2.1.6",
+        []
       ],
       [
-        [
-          "GPL"
-        ],
+        "GPL",
         [
           "/wiki/GPL"
         ]
       ],
       [
-        [
-          "[ \u00b1 ]"
-        ],
-        [
-          null
-        ]
+        "2018-03-02 [ \u00b1 ]",
+        []
       ]
     ],
     [
       [
-        [
-          "Ikiwiki"
-        ],
+        "Ikiwiki",
         [
           "/wiki/Ikiwiki"
         ]
       ],
       [
-        [
-          "Perl"
-        ],
+        "Perl",
         [
           "/wiki/Perl"
         ]
       ],
       [
-        [
-          "Git ( software )",
-          "Apache Subversion",
-          "Mercurial"
-        ],
+        "Git ( software ) , Apache Subversion , Mercurial",
         [
           "/wiki/Git_(software)",
           "/wiki/Apache_Subversion",
@@ -292,46 +191,29 @@
         ]
       ],
       [
-        [
-          "3.20190228"
-        ],
-        [
-          null
-        ]
+        "3.20190228",
+        []
       ],
       [
-        [
-          "GPL"
-        ],
+        "GPL",
         [
           "/wiki/GPL"
         ]
       ],
       [
-        [
-          "[ \u00b1 ]"
-        ],
-        [
-          null
-        ]
+        "2019-02-28 [ \u00b1 ]",
+        []
       ]
     ],
     [
       [
-        [
-          "Movable Type"
-        ],
+        "Movable Type Open Source",
         [
           "/wiki/Movable_Type"
         ]
       ],
       [
-        [
-          "Perl",
-          "mod perl",
-          "FastCGI",
-          "PHP"
-        ],
+        "Perl , mod perl , FastCGI , w/ PHP",
         [
           "/wiki/Perl",
           "/wiki/Mod_perl",
@@ -340,244 +222,162 @@
         ]
       ],
       [
-        [
-          "MySQL"
-        ],
+        "MySQL",
         [
           "/wiki/MySQL"
         ]
       ],
       [
-        [
-          "5.2.13"
-        ],
-        [
-          null
-        ]
+        "5.2.13",
+        []
       ],
       [
-        [
-          "GPL"
-        ],
+        "GPL",
         [
           "/wiki/GPL"
         ]
       ],
       [
-        [
-          "2015-04-14"
-        ],
-        [
-          null
-        ]
+        "2015-04-14",
+        []
       ]
     ],
     [
       [
-        [
-          "Sellerdeck"
-        ],
+        "Sellerdeck eCommerce",
         [
           "/wiki/Sellerdeck"
         ]
       ],
       [
-        [
-          "Perl"
-        ],
+        "Perl",
         [
           "/wiki/Perl"
         ]
       ],
       [
-        [
-          "Flat-file database",
-          "Flat-file database"
-        ],
+        "Flat-file database , Flat-file database",
         [
           "/wiki/Flat-file_database",
           "/wiki/Flat-file_database"
         ]
       ],
       [
-        [
-          "16.0.3"
-        ],
-        [
-          null
-        ]
+        "16.0.3",
+        []
       ],
       [
-        [
-          "GPL"
-        ],
+        "GPL",
         [
           "/wiki/GPL"
         ]
       ],
       [
-        [
-          "2017-02-20"
-        ],
-        [
-          null
-        ]
+        "2017-02-20",
+        []
       ]
     ],
     [
       [
-        [
-          "SPINE"
-        ],
+        "SPINE",
         [
           "/wiki/SPINE_(software)"
         ]
       ],
       [
-        [
-          "Perl",
-          "mod perl"
-        ],
+        "Perl , mod perl",
         [
           "/wiki/Perl",
           "/wiki/Mod_perl"
         ]
       ],
       [
-        [
-          "MySQL",
-          "PostgreSQL"
-        ],
+        "MySQL , PostgreSQL",
         [
           "/wiki/MySQL",
           "/wiki/PostgreSQL"
         ]
       ],
       [
-        [
-          "1.2.2"
-        ],
-        [
-          null
-        ]
+        "1.2.2",
+        []
       ],
       [
-        [
-          "GPL"
-        ],
+        "GPL",
         [
           "/wiki/GPL"
         ]
       ],
       [
-        [
-          "2006-12-27"
-        ],
-        [
-          null
-        ]
+        "2006-12-27",
+        []
       ]
     ],
     [
       [
-        [
-          "TWiki"
-        ],
+        "TWiki",
         [
           "/wiki/TWiki"
         ]
       ],
       [
-        [
-          "Perl"
-        ],
+        "Perl",
         [
           "/wiki/Perl"
         ]
       ],
       [
-        [
-          "Plain files ( under version control )"
-        ],
-        [
-          null
-        ]
+        "Plain files ( under version control )",
+        []
       ],
       [
-        [
-          "6.1.0"
-        ],
-        [
-          null
-        ]
+        "6.1.0",
+        []
       ],
       [
-        [
-          "GPL"
-        ],
+        "GPL",
         [
           "/wiki/GPL"
         ]
       ],
       [
-        [
-          "[ \u00b1 ]"
-        ],
-        [
-          null
-        ]
+        "2018-07-16 [ \u00b1 ]",
+        []
       ]
     ],
     [
       [
-        [
-          "WebGUI"
-        ],
+        "WebGUI",
         [
           "/wiki/WebGUI"
         ]
       ],
       [
-        [
-          "Perl",
-          "mod perl"
-        ],
+        "Perl on mod perl",
         [
           "/wiki/Perl",
           "/wiki/Mod_perl"
         ]
       ],
       [
-        [
-          "MySQL"
-        ],
+        "MySQL",
         [
           "/wiki/MySQL"
         ]
       ],
       [
-        [
-          "7.10.30"
-        ],
-        [
-          null
-        ]
+        "7.10.30",
+        []
       ],
       [
-        [
-          "GPL"
-        ],
+        "GPL",
         [
           "/wiki/GPL"
         ]
       ],
       [
-        [
-          "2016-01-06"
-        ],
-        [
-          null
-        ]
+        "2016-01-06",
+        []
       ]
     ]
   ],

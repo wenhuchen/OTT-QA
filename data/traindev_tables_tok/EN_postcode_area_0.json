@@ -3,64 +3,36 @@
   "title": "EN postcode area",
   "header": [
     [
-      [
-        "Postcode district"
-      ],
-      [
-        null
-      ]
+      "Postcode district",
+      []
     ],
     [
-      [
-        "Post town"
-      ],
+      "Post town",
       [
         "/wiki/Post_town"
       ]
     ],
     [
-      [
-        "Coverage"
-      ],
-      [
-        null
-      ]
+      "Coverage",
+      []
     ],
     [
-      [
-        "Local authority area"
-      ],
-      [
-        null
-      ]
+      "Local authority area",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "EN1"
-        ],
-        [
-          null
-        ]
+        "EN1",
+        []
       ],
       [
-        [
-          "ENFIELD"
-        ],
-        [
-          null
-        ]
+        "ENFIELD",
+        []
       ],
       [
-        [
-          "Bush Hill Park",
-          "Bulls Cross",
-          "Enfield Town",
-          "Forty Hill",
-          "Lower Edmonton"
-        ],
+        "Bush Hill Park ; eastern parts of Bulls Cross , Enfield Town , Forty Hill , outskirts of Lower Edmonton",
         [
           "/wiki/Bush_Hill_Park",
           "/wiki/Bulls_Cross,_Enfield",
@@ -70,9 +42,7 @@
         ]
       ],
       [
-        [
-          "Enfield"
-        ],
+        "Enfield",
         [
           "/wiki/London_Borough_of_Enfield"
         ]
@@ -80,32 +50,15 @@
     ],
     [
       [
-        [
-          "EN2"
-        ],
-        [
-          null
-        ]
+        "EN2",
+        []
       ],
       [
-        [
-          "ENFIELD"
-        ],
-        [
-          null
-        ]
+        "ENFIELD",
+        []
       ],
       [
-        [
-          "Botany Bay",
-          "Clay Hill",
-          "Crews Hill",
-          "Bulls Cross",
-          "Enfield Chase",
-          "Enfield Town",
-          "Forty Hill",
-          "Gordon Hill"
-        ],
+        "Botany Bay , Clay Hill , Crews Hill ; western parts of Bulls Cross , Enfield Chase , Enfield Town , Forty Hill , Gordon Hill",
         [
           "/wiki/Botany_Bay,_London",
           "/wiki/Clay_Hill,_London",
@@ -118,39 +71,21 @@
         ]
       ],
       [
-        [
-          "Enfield"
-        ],
-        [
-          null
-        ]
+        "Enfield",
+        []
       ]
     ],
     [
       [
-        [
-          "EN3"
-        ],
-        [
-          null
-        ]
+        "EN3",
+        []
       ],
       [
-        [
-          "ENFIELD"
-        ],
-        [
-          null
-        ]
+        "ENFIELD",
+        []
       ],
       [
-        [
-          "Enfield Highway",
-          "Enfield Island Village",
-          "Enfield Lock",
-          "Enfield Wash",
-          "Ponders End"
-        ],
+        "Enfield Highway , Enfield Island Village , Enfield Lock , Enfield Wash , Ponders End",
         [
           "/wiki/Enfield_Highway",
           "/wiki/Enfield_Island_Village",
@@ -160,38 +95,21 @@
         ]
       ],
       [
-        [
-          "Enfield"
-        ],
-        [
-          null
-        ]
+        "Enfield",
+        []
       ]
     ],
     [
       [
-        [
-          "EN4"
-        ],
-        [
-          null
-        ]
+        "EN4",
+        []
       ],
       [
-        [
-          "BARNET"
-        ],
-        [
-          null
-        ]
+        "BARNET",
+        []
       ],
       [
-        [
-          "Hadley Wood",
-          "Cockfosters",
-          "East Barnet",
-          "New Barnet"
-        ],
+        "Hadley Wood , Cockfosters , East Barnet , New Barnet",
         [
           "/wiki/Hadley_Wood",
           "/wiki/Cockfosters",
@@ -200,9 +118,7 @@
         ]
       ],
       [
-        [
-          "Barnet"
-        ],
+        "Barnet , Enfield",
         [
           "/wiki/London_Borough_of_Barnet"
         ]
@@ -210,35 +126,22 @@
     ],
     [
       [
-        [
-          "EN5"
-        ],
-        [
-          null
-        ]
+        "EN5",
+        []
       ],
       [
-        [
-          "BARNET"
-        ],
-        [
-          null
-        ]
+        "BARNET",
+        []
       ],
       [
-        [
-          "High Barnet",
-          "Arkley"
-        ],
+        "High Barnet , Arkley",
         [
           "/wiki/High_Barnet",
           "/wiki/Arkley"
         ]
       ],
       [
-        [
-          "Hertsmere"
-        ],
+        "Barnet , Hertsmere",
         [
           "/wiki/Hertsmere"
         ]
@@ -246,28 +149,15 @@
     ],
     [
       [
-        [
-          "EN6"
-        ],
-        [
-          null
-        ]
+        "EN6",
+        []
       ],
       [
-        [
-          "POTTERS BAR"
-        ],
-        [
-          null
-        ]
+        "POTTERS BAR",
+        []
       ],
       [
-        [
-          "Potters Bar",
-          "South Mimms",
-          "Cuffley",
-          "Northaw"
-        ],
+        "Potters Bar , South Mimms , Cuffley , Northaw",
         [
           "/wiki/Potters_Bar",
           "/wiki/South_Mimms",
@@ -276,9 +166,7 @@
         ]
       ],
       [
-        [
-          "Welwyn Hatfield"
-        ],
+        "Hertsmere , Welwyn Hatfield",
         [
           "/wiki/Welwyn_Hatfield"
         ]
@@ -286,27 +174,15 @@
     ],
     [
       [
-        [
-          "EN7"
-        ],
-        [
-          null
-        ]
+        "EN7",
+        []
       ],
       [
-        [
-          "WALTHAM CROSS"
-        ],
-        [
-          null
-        ]
+        "WALTHAM CROSS",
+        []
       ],
       [
-        [
-          "Cheshunt",
-          "Goffs Oak",
-          "Capel Manor College"
-        ],
+        "Cheshunt , Goffs Oak , Capel Manor College",
         [
           "/wiki/Cheshunt",
           "/wiki/Goffs_Oak",
@@ -314,9 +190,7 @@
         ]
       ],
       [
-        [
-          "Broxbourne"
-        ],
+        "Broxbourne , Enfield",
         [
           "/wiki/Borough_of_Broxbourne"
         ]
@@ -324,27 +198,15 @@
     ],
     [
       [
-        [
-          "EN8"
-        ],
-        [
-          null
-        ]
+        "EN8",
+        []
       ],
       [
-        [
-          "WALTHAM CROSS"
-        ],
-        [
-          null
-        ]
+        "WALTHAM CROSS",
+        []
       ],
       [
-        [
-          "Waltham Cross",
-          "Cheshunt",
-          "Bullsmoor"
-        ],
+        "Waltham Cross , Cheshunt , Bullsmoor",
         [
           "/wiki/Waltham_Cross",
           "/wiki/Cheshunt",
@@ -352,37 +214,21 @@
         ]
       ],
       [
-        [
-          "Broxbourne , Enfield"
-        ],
-        [
-          null
-        ]
+        "Broxbourne , Enfield",
+        []
       ]
     ],
     [
       [
-        [
-          "EN9"
-        ],
-        [
-          null
-        ]
+        "EN9",
+        []
       ],
       [
-        [
-          "WALTHAM ABBEY"
-        ],
-        [
-          null
-        ]
+        "WALTHAM ABBEY",
+        []
       ],
       [
-        [
-          "Waltham Abbey",
-          "Nazeing",
-          "Upshire"
-        ],
+        "Waltham Abbey , Nazeing , Upshire",
         [
           "/wiki/Waltham_Abbey_(town)",
           "/wiki/Nazeing",
@@ -390,9 +236,7 @@
         ]
       ],
       [
-        [
-          "Epping Forest"
-        ],
+        "Epping Forest",
         [
           "/wiki/Epping_Forest_District"
         ]
@@ -400,27 +244,15 @@
     ],
     [
       [
-        [
-          "EN10"
-        ],
-        [
-          null
-        ]
+        "EN10",
+        []
       ],
       [
-        [
-          "BROXBOURNE"
-        ],
-        [
-          null
-        ]
+        "BROXBOURNE",
+        []
       ],
       [
-        [
-          "Broxbourne",
-          "Wormley",
-          "Turnford"
-        ],
+        "Broxbourne , Wormley , Turnford",
         [
           "/wiki/Broxbourne",
           "/wiki/Wormley,_Hertfordshire",
@@ -428,48 +260,29 @@
         ]
       ],
       [
-        [
-          "Broxbourne , Epping Forest"
-        ],
-        [
-          null
-        ]
+        "Broxbourne , Epping Forest",
+        []
       ]
     ],
     [
       [
-        [
-          "EN11"
-        ],
-        [
-          null
-        ]
+        "EN11",
+        []
       ],
       [
-        [
-          "HODDESDON"
-        ],
-        [
-          null
-        ]
+        "HODDESDON",
+        []
       ],
       [
-        [
-          "Hoddesdon",
-          "Dobbs Weir"
-        ],
+        "Hoddesdon , Dobbs Weir",
         [
           "/wiki/Hoddesdon",
           "/wiki/Dobbs_Weir"
         ]
       ],
       [
-        [
-          "Broxbourne , Epping Forest"
-        ],
-        [
-          null
-        ]
+        "Broxbourne , Epping Forest",
+        []
       ]
     ]
   ],

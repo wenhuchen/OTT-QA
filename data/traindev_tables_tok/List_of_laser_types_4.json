@@ -3,69 +3,40 @@
   "title": "List of laser types",
   "header": [
     [
-      [
-        "Laser gain medium and type"
-      ],
-      [
-        null
-      ]
+      "Laser gain medium and type",
+      []
     ],
     [
-      [
-        "Operation wavelength ( s )"
-      ],
-      [
-        null
-      ]
+      "Operation wavelength ( s )",
+      []
     ],
     [
-      [
-        "Pump source"
-      ],
-      [
-        null
-      ]
+      "Pump source",
+      []
     ],
     [
-      [
-        "Applications and notes"
-      ],
-      [
-        null
-      ]
+      "Applications and notes",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Ruby laser"
-        ],
+        "Ruby laser",
         [
           "/wiki/Ruby_laser"
         ]
       ],
       [
-        [
-          "694.3 nm"
-        ],
-        [
-          null
-        ]
+        "694.3 nm",
+        []
       ],
       [
-        [
-          "Flashlamp"
-        ],
-        [
-          null
-        ]
+        "Flashlamp",
+        []
       ],
       [
-        [
-          "Holography",
-          "tattoo removal"
-        ],
+        "Holography , tattoo removal . The first type of visible light laser invented ; May 1960",
         [
           "/wiki/Holography",
           "/wiki/Tattoo_removal"
@@ -74,37 +45,23 @@
     ],
     [
       [
-        [
-          "Nd : YAG laser"
-        ],
+        "Nd : YAG laser",
         [
           "/wiki/Nd:YAG_laser"
         ]
       ],
       [
-        [
-          "1.064 \u03bcm , ( 1.32 \u03bcm )"
-        ],
-        [
-          null
-        ]
+        "1.064 \u03bcm , ( 1.32 \u03bcm )",
+        []
       ],
       [
-        [
-          "laser diode"
-        ],
+        "Flashlamp , laser diode",
         [
           "/wiki/Laser_diode"
         ]
       ],
       [
-        [
-          "rangefinding",
-          "tattoo removal",
-          "frequency doubling",
-          "nanosecond",
-          "dental laser"
-        ],
+        "Material processing , rangefinding , laser target designation , surgery , tattoo removal , hair removal , research , pumping other lasers ( combined with frequency doubling to produce a green 532 nm beam ) . One of the most common high-power lasers . Usually pulsed ( down to fractions of a nanosecond ) , dental laser",
         [
           "/wiki/Laser_rangefinder",
           "/wiki/Tattoo_removal",
@@ -116,67 +73,45 @@
     ],
     [
       [
-        [
-          "Nd : Cr : YAG"
-        ],
+        "Nd : Cr : YAG laser",
         [
           "/wiki/Yttrium_aluminium_garnet"
         ]
       ],
       [
-        [
-          "1.064 \u03bcm , ( 1.32 \u03bcm )"
-        ],
-        [
-          null
-        ]
+        "1.064 \u03bcm , ( 1.32 \u03bcm )",
+        []
       ],
       [
-        [
-          "solar radiation"
-        ],
+        "solar radiation",
         [
           "/wiki/Solar_radiation"
         ]
       ],
       [
-        [
-          "Experimental production of nanopowders"
-        ],
-        [
-          null
-        ]
+        "Experimental production of nanopowders",
+        []
       ]
     ],
     [
       [
-        [
-          "Er : YAG laser"
-        ],
+        "Er : YAG laser",
         [
           "/wiki/Er:YAG_laser"
         ]
       ],
       [
-        [
-          "2.94 \u03bcm"
-        ],
-        [
-          null
-        ]
+        "2.94 \u03bcm",
+        []
       ],
       [
-        [
-          "laser diode"
-        ],
+        "Flashlamp , laser diode",
         [
           "/wiki/Laser_diode"
         ]
       ],
       [
-        [
-          "Dental laser"
-        ],
+        "Periodontal scaling , Dental laser , Skin Resurfacing",
         [
           "/wiki/Dental_laser"
         ]
@@ -184,36 +119,22 @@
     ],
     [
       [
-        [
-          "Neodymium",
-          "Nd : YLF"
-        ],
+        "Neodymium YLF ( Nd : YLF ) solid-state laser",
         [
           "/wiki/Neodymium",
           "/wiki/Neodymium-doped_yttrium_lithium_fluoride"
         ]
       ],
       [
-        [
-          "1.047 and 1.053 \u03bcm"
-        ],
-        [
-          null
-        ]
+        "1.047 and 1.053 \u03bcm",
+        []
       ],
       [
-        [
-          "Flashlamp , laser diode"
-        ],
-        [
-          null
-        ]
+        "Flashlamp , laser diode",
+        []
       ],
       [
-        [
-          "Ti : sapphire lasers",
-          "frequency doubling"
-        ],
+        "Mostly used for pulsed pumping of certain types of pulsed Ti : sapphire lasers , combined with frequency doubling",
         [
           "/wiki/Ti-sapphire_laser",
           "/wiki/Nonlinear_optics"
@@ -222,11 +143,7 @@
     ],
     [
       [
-        [
-          "Neodymium",
-          "yttrium orthovanadate",
-          "Nd : YVO 4"
-        ],
+        "Neodymium -doped yttrium orthovanadate ( Nd : YVO 4 ) laser",
         [
           "/wiki/Neodymium",
           "/wiki/Yttrium_orthovanadate",
@@ -234,27 +151,15 @@
         ]
       ],
       [
-        [
-          "1.064 \u03bcm"
-        ],
-        [
-          null
-        ]
+        "1.064 \u03bcm",
+        []
       ],
       [
-        [
-          "laser diode"
-        ],
-        [
-          null
-        ]
+        "laser diode",
+        []
       ],
       [
-        [
-          "mode-locked",
-          "frequency doubling",
-          "green laser pointer"
-        ],
+        "Mostly used for continuous pumping of mode-locked Ti : sapphire or dye lasers , in combination with frequency doubling . Also used pulsed for marking and micromachining . A frequency doubled nd : YVO 4 laser is also the normal way of making a green laser pointer",
         [
           "/wiki/Mode-locking",
           "/wiki/Nonlinear_optics",
@@ -264,14 +169,7 @@
     ],
     [
       [
-        [
-          "Neodymium doped yttrium calcium oxoborate",
-          "Nd",
-          "Y",
-          "Ca",
-          "O",
-          "B"
-        ],
+        "Neodymium doped yttrium calcium oxoborate Nd : Y Ca 4 O ( B O 3 ) 3 or simply Nd : YCOB",
         [
           "/wiki/Nd:YCOB",
           "/wiki/Neodymium",
@@ -282,25 +180,15 @@
         ]
       ],
       [
-        [
-          "~1.060 \u03bcm ( ~530 nm at second harmonic )"
-        ],
-        [
-          null
-        ]
+        "~1.060 \u03bcm ( ~530 nm at second harmonic )",
+        []
       ],
       [
-        [
-          "laser diode"
-        ],
-        [
-          null
-        ]
+        "laser diode",
+        []
       ],
       [
-        [
-          "second harmonic generation"
-        ],
+        "Nd : YCOB is a so-called self-frequency doubling or SFD laser material which is both capable of lasing and which has nonlinear characteristics suitable for second harmonic generation . Such materials have the potential to simplify the design of high brightness green lasers",
         [
           "/wiki/Second_harmonic_generation"
         ]
@@ -308,39 +196,24 @@
     ],
     [
       [
-        [
-          "Neodymium glass"
-        ],
+        "Neodymium glass ( Nd : Glass ) laser",
         [
           "/wiki/Neodymium"
         ]
       ],
       [
-        [
-          "silicate glasses",
-          "phosphate glasses"
-        ],
+        "~1.062 \u03bcm ( silicate glasses ) , ~1.054 \u03bcm ( phosphate glasses )",
         [
           "/wiki/Silicate_glass",
           "/wiki/Phosphate_glass"
         ]
       ],
       [
-        [
-          "Flashlamp , laser diode"
-        ],
-        [
-          null
-        ]
+        "Flashlamp , laser diode",
+        []
       ],
       [
-        [
-          "terawatt",
-          "megajoules",
-          "inertial confinement fusion",
-          "frequency tripled",
-          "third harmonic"
-        ],
+        "Used in extremely high-power ( terawatt scale ) , high-energy ( megajoules ) multiple beam systems for inertial confinement fusion . Nd : Glass lasers are usually frequency tripled to the third harmonic at 351 nm in laser fusion devices",
         [
           "/wiki/Orders_of_magnitude_(power)",
           "/wiki/Megajoule",
@@ -352,11 +225,7 @@
     ],
     [
       [
-        [
-          "Titanium",
-          "sapphire",
-          "Ti : sapphire"
-        ],
+        "Titanium sapphire ( Ti : sapphire ) laser",
         [
           "/wiki/Titanium",
           "/wiki/Sapphire",
@@ -364,28 +233,15 @@
         ]
       ],
       [
-        [
-          "650-1100 nm"
-        ],
-        [
-          null
-        ]
+        "650-1100 nm",
+        []
       ],
       [
-        [
-          "Other laser"
-        ],
-        [
-          null
-        ]
+        "Other laser",
+        []
       ],
       [
-        [
-          "LIDAR",
-          "mode-locked",
-          "infrared",
-          "ultrashort pulses"
-        ],
+        "Spectroscopy , LIDAR , research . This material is often used in highly-tunable mode-locked infrared lasers to produce ultrashort pulses and in amplifier lasers to produce ultrashort and ultra-intense pulses",
         [
           "/wiki/LIDAR",
           "/wiki/Mode-locking",
@@ -396,33 +252,21 @@
     ],
     [
       [
-        [
-          "Thulium"
-        ],
+        "Thulium YAG ( Tm : YAG ) laser",
         [
           "/wiki/Thulium"
         ]
       ],
       [
-        [
-          "2.0 \u03bcm"
-        ],
-        [
-          null
-        ]
+        "2.0 \u03bcm",
+        []
       ],
       [
-        [
-          "Laser diode"
-        ],
-        [
-          null
-        ]
+        "Laser diode",
+        []
       ],
       [
-        [
-          "LIDAR"
-        ],
+        "LIDAR",
         [
           "/wiki/LIDAR"
         ]
@@ -430,34 +274,21 @@
     ],
     [
       [
-        [
-          "Ytterbium"
-        ],
+        "Ytterbium YAG ( Yb : YAG ) laser",
         [
           "/wiki/Ytterbium"
         ]
       ],
       [
-        [
-          "1.03 \u03bcm"
-        ],
-        [
-          null
-        ]
+        "1.03 \u03bcm",
+        []
       ],
       [
-        [
-          "Laser diode , flashlamp"
-        ],
-        [
-          null
-        ]
+        "Laser diode , flashlamp",
+        []
       ],
       [
-        [
-          "Laser cooling",
-          "LIDAR"
-        ],
+        "Laser cooling , materials processing , ultrashort pulse research , multiphoton microscopy , LIDAR",
         [
           "/wiki/Laser_cooling",
           "/wiki/LIDAR"
@@ -466,68 +297,41 @@
     ],
     [
       [
-        [
-          "Ytterbium"
-        ],
+        "Ytterbium : 2 O 3 ( glass or ceramics ) laser",
         [
           "/wiki/Ytterbium"
         ]
       ],
       [
-        [
-          "1.03 \u03bcm"
-        ],
-        [
-          null
-        ]
+        "1.03 \u03bcm",
+        []
       ],
       [
-        [
-          "Laser diode"
-        ],
-        [
-          null
-        ]
+        "Laser diode",
+        []
       ],
       [
-        [
-          "Ultrashort pulse research ,"
-        ],
-        [
-          null
-        ]
+        "Ultrashort pulse research ,",
+        []
       ]
     ],
     [
       [
-        [
-          "Ytterbium"
-        ],
+        "Ytterbium -doped glass laser ( rod , plate/chip , and fiber )",
         [
           "/wiki/Ytterbium"
         ]
       ],
       [
-        [
-          "1. \u03bcm"
-        ],
-        [
-          null
-        ]
+        "1. \u03bcm",
+        []
       ],
       [
-        [
-          "Laser diode"
-        ],
-        [
-          null
-        ]
+        "Laser diode",
+        []
       ],
       [
-        [
-          "Raman lasers",
-          "telecommunications"
-        ],
+        "Fiber version is capable of producing several-kilowatt continuous power , having ~70-80% optical-to-optical and ~25% electrical-to-optical efficiency . Material processing : cutting , welding , marking ; nonlinear fiber optics : broadband fiber-nonlinearity based sources , pump for fiber Raman lasers ; distributed Raman amplification pump for telecommunications",
         [
           "/wiki/Raman_laser",
           "/wiki/Telecommunication"
@@ -536,34 +340,21 @@
     ],
     [
       [
-        [
-          "Holmium"
-        ],
+        "Holmium YAG ( Ho : YAG ) laser",
         [
           "/wiki/Holmium"
         ]
       ],
       [
-        [
-          "2.1 \u03bcm"
-        ],
-        [
-          null
-        ]
+        "2.1 \u03bcm",
+        []
       ],
       [
-        [
-          "Laser diode"
-        ],
-        [
-          null
-        ]
+        "Laser diode",
+        []
       ],
       [
-        [
-          "kidney stone",
-          "dentistry"
-        ],
+        "Tissue ablation , kidney stone removal , dentistry",
         [
           "/wiki/Kidney_stone",
           "/wiki/Dentistry"
@@ -572,48 +363,27 @@
     ],
     [
       [
-        [
-          "Chromium"
-        ],
+        "Chromium ZnSe ( Cr : ZnSe ) laser",
         [
           "/wiki/Chromium"
         ]
       ],
       [
-        [
-          "2.2 - 2.8 \u03bcm"
-        ],
-        [
-          null
-        ]
+        "2.2 - 2.8 \u03bcm",
+        []
       ],
       [
-        [
-          "Other laser ( Tm fiber )"
-        ],
-        [
-          null
-        ]
+        "Other laser ( Tm fiber )",
+        []
       ],
       [
-        [
-          "MWIR laser radar , countermeasure against heat-seeking missiles etc"
-        ],
-        [
-          null
-        ]
+        "MWIR laser radar , countermeasure against heat-seeking missiles etc",
+        []
       ]
     ],
     [
       [
-        [
-          "Cerium",
-          "lithium",
-          "strontium",
-          "calcium",
-          "aluminum",
-          "fluoride"
-        ],
+        "Cerium -doped lithium strontium ( or calcium ) aluminum fluoride ( Ce : LiSAF , Ce : LiCAF )",
         [
           "/wiki/Cerium",
           "/wiki/Lithium",
@@ -624,27 +394,18 @@
         ]
       ],
       [
-        [
-          "~280 to 316 nm"
-        ],
-        [
-          null
-        ]
+        "~280 to 316 nm",
+        []
       ],
       [
-        [
-          "excimer",
-          "copper vapor laser"
-        ],
+        "Frequency quadrupled Nd : YAG laser pumped , excimer laser pumped , copper vapor laser pumped",
         [
           "/wiki/Excimer",
           "/wiki/Copper_vapor_laser"
         ]
       ],
       [
-        [
-          "LIDAR"
-        ],
+        "Remote atmospheric sensing , LIDAR , optics research",
         [
           "/wiki/LIDAR"
         ]
@@ -652,37 +413,22 @@
     ],
     [
       [
-        [
-          "Promethium",
-          "phosphate glass"
-        ],
+        "Promethium 147 doped phosphate glass ( Pm : Glass ) solid-state laser",
         [
           "/wiki/Promethium",
           "/wiki/Phosphate_glass"
         ]
       ],
       [
-        [
-          "933 nm , 1098 nm"
-        ],
-        [
-          null
-        ]
+        "933 nm , 1098 nm",
+        []
       ],
       [
-        [
-          "? ?"
-        ],
-        [
-          null
-        ]
+        "? ?",
+        []
       ],
       [
-        [
-          "LLNL",
-          "indium",
-          "\u00e9talon"
-        ],
+        "Laser material is radioactive . Once demonstrated in use at LLNL in 1987 , room temperature 4 level lasing in Pm doped into a lead- indium -phosphate glass \u00e9talon",
         [
           "/wiki/LLNL",
           "/wiki/Indium",
@@ -692,11 +438,7 @@
     ],
     [
       [
-        [
-          "Chromium",
-          "chrysoberyl",
-          "alexandrite"
-        ],
+        "Chromium -doped chrysoberyl ( alexandrite ) laser",
         [
           "/wiki/Chromium",
           "/wiki/Chrysoberyl",
@@ -704,28 +446,18 @@
         ]
       ],
       [
-        [
-          "Typically tuned in the range of 700 to 820 nm"
-        ],
-        [
-          null
-        ]
+        "Typically tuned in the range of 700 to 820 nm",
+        []
       ],
       [
-        [
-          "mercury",
-          "CW"
-        ],
+        "Flashlamp , laser diode , mercury arc ( for CW mode operation )",
         [
           "/wiki/Mercury_(element)",
           "/wiki/Continuous_wave"
         ]
       ],
       [
-        [
-          "Dermatological",
-          "LIDAR"
-        ],
+        "Dermatological uses , LIDAR , laser machining",
         [
           "/wiki/Dermatology",
           "/wiki/LIDAR"
@@ -734,11 +466,7 @@
     ],
     [
       [
-        [
-          "Erbium",
-          "erbium",
-          "ytterbium"
-        ],
+        "Erbium -doped and erbium - ytterbium codoped glass lasers",
         [
           "/wiki/Erbium",
           "/wiki/Erbium",
@@ -746,26 +474,15 @@
         ]
       ],
       [
-        [
-          "1.53-1.56 \u03bcm"
-        ],
-        [
-          null
-        ]
+        "1.53-1.56 \u03bcm",
+        []
       ],
       [
-        [
-          "Laser diode"
-        ],
-        [
-          null
-        ]
+        "Laser diode",
+        []
       ],
       [
-        [
-          "optical amplifiers",
-          "telecommunications"
-        ],
+        "These are made in rod , plate/chip , and optical fiber form . Erbium doped fibers are commonly used as optical amplifiers for telecommunications",
         [
           "/wiki/Optical_amplifier",
           "/wiki/Telecommunications"
@@ -774,43 +491,26 @@
     ],
     [
       [
-        [
-          "uranium",
-          "calcium fluoride"
-        ],
+        "Trivalent uranium -doped calcium fluoride ( U : CaF 2 ) solid-state laser",
         [
           "/wiki/Uranium",
           "/wiki/Calcium_fluoride"
         ]
       ],
       [
-        [
-          "2.5 \u03bcm"
-        ],
-        [
-          null
-        ]
+        "2.5 \u03bcm",
+        []
       ],
       [
-        [
-          "Flashlamp"
-        ],
-        [
-          null
-        ]
+        "Flashlamp",
+        []
       ],
       [
-        [
-          "Peter Sorokin",
-          "IBM",
-          "liquid helium",
-          "[ 1 ]"
-        ],
+        "First 4-level solid state laser ( November 1960 ) developed by Peter Sorokin and Mirek Stevenson at IBM research labs , second laser invented overall ( after Maiman 's ruby laser ) , liquid helium cooled , unused today . [ 1 ]",
         [
           "/wiki/P._P._Sorokin",
           "/wiki/IBM",
-          "/wiki/Liquid_helium",
-          null
+          "/wiki/Liquid_helium"
         ]
       ]
     ]

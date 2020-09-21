@@ -3,64 +3,41 @@
   "title": "List of National Roads in Latvia",
   "header": [
     [
-      [
-        "Number"
-      ],
-      [
-        null
-      ]
+      "Number",
+      []
     ],
     [
-      [
-        "E-road"
-      ],
+      "E-road",
       [
         "/wiki/International_E-road_network"
       ]
     ],
     [
-      [
-        "Route"
-      ],
-      [
-        null
-      ]
+      "Route",
+      []
     ],
     [
-      [
-        "Length ( km )"
-      ],
-      [
-        null
-      ]
+      "Length ( km )",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "A1",
-          "A1"
-        ],
+        "A1 A1",
         [
           "/wiki/A1_road_(Latvia)",
           "/wiki/A1_road_(Latvia)"
         ]
       ],
       [
-        [
-          "E67"
-        ],
+        "E67",
         [
           "/wiki/European_route_E67"
         ]
       ],
       [
-        [
-          "R\u012bga",
-          "Aina\u017ei",
-          "EE"
-        ],
+        "R\u012bga - Aina\u017ei ( EE border )",
         [
           "/wiki/R\u012bga",
           "/wiki/Aina\u017ei",
@@ -68,40 +45,26 @@
         ]
       ],
       [
-        [
-          "101"
-        ],
-        [
-          null
-        ]
+        "101",
+        []
       ]
     ],
     [
       [
-        [
-          "A2",
-          "A2"
-        ],
+        "A2 A2",
         [
           "/wiki/A2_road_(Latvia)",
           "/wiki/A2_road_(Latvia)"
         ]
       ],
       [
-        [
-          "E77"
-        ],
+        "E77",
         [
           "/wiki/European_route_E77"
         ]
       ],
       [
-        [
-          "R\u012bga",
-          "Sigulda",
-          "Veclaicene",
-          "EE"
-        ],
+        "R\u012bga - Sigulda - Veclaicene ( EE border )",
         [
           "/wiki/R\u012bga",
           "/wiki/Sigulda",
@@ -110,40 +73,26 @@
         ]
       ],
       [
-        [
-          "196"
-        ],
-        [
-          null
-        ]
+        "196",
+        []
       ]
     ],
     [
       [
-        [
-          "A3",
-          "A3"
-        ],
+        "A3 A3",
         [
           "/wiki/A3_road_(Latvia)",
           "/wiki/A3_road_(Latvia)"
         ]
       ],
       [
-        [
-          "E264"
-        ],
+        "E264",
         [
           "/wiki/European_route_E264"
         ]
       ],
       [
-        [
-          "In\u010dukalns",
-          "Valmiera",
-          "Valka",
-          "EE"
-        ],
+        "In\u010dukalns - Valmiera - Valka ( EE border )",
         [
           "/wiki/In\u010dukalns",
           "/wiki/Valmiera",
@@ -152,83 +101,54 @@
         ]
       ],
       [
-        [
-          "101"
-        ],
-        [
-          null
-        ]
+        "101",
+        []
       ]
     ],
     [
       [
-        [
-          "A4",
-          "A4"
-        ],
+        "A4 A4",
         [
           "/wiki/A4_road_(Latvia)",
           "/wiki/A4_road_(Latvia)"
         ]
       ],
       [
-        [
-          "E67",
-          "E77"
-        ],
+        "E67 E77",
         [
           "/wiki/European_route_E67",
           "/wiki/European_route_E77"
         ]
       ],
       [
-        [
-          "R\u012bga",
-          "Baltezers",
-          "Saulkalne"
-        ],
+        "R\u012bga ring road ( Baltezers - Saulkalne )",
         [
           "/wiki/R\u012bga",
-          "/wiki/Baltezers,_\u0100da\u017ei_Municipality",
-          null
+          "/wiki/Baltezers,_\u0100da\u017ei_Municipality"
         ]
       ],
       [
-        [
-          "20"
-        ],
-        [
-          null
-        ]
+        "20",
+        []
       ]
     ],
     [
       [
-        [
-          "A5",
-          "A5"
-        ],
+        "A5 A5",
         [
           "/wiki/A5_road_(Latvia)",
           "/wiki/A5_road_(Latvia)"
         ]
       ],
       [
-        [
-          "E67",
-          "E77"
-        ],
+        "E67 E77",
         [
           "/wiki/European_route_E67",
           "/wiki/European_route_E77"
         ]
       ],
       [
-        [
-          "R\u012bga",
-          "Salaspils",
-          "Bab\u012bte"
-        ],
+        "R\u012bga ring road ( Salaspils - Bab\u012bte )",
         [
           "/wiki/R\u012bga",
           "/wiki/Salaspils",
@@ -236,247 +156,154 @@
         ]
       ],
       [
-        [
-          "40"
-        ],
-        [
-          null
-        ]
+        "40",
+        []
       ]
     ],
     [
       [
-        [
-          "A6",
-          "A6"
-        ],
+        "A6 A6",
         [
           "/wiki/A6_road_(Latvia)",
           "/wiki/A6_road_(Latvia)"
         ]
       ],
       [
-        [
-          "E22",
-          "E262"
-        ],
+        "E22 E262",
         [
           "/wiki/European_route_E22",
           "/wiki/European_route_E262"
         ]
       ],
       [
-        [
-          "R\u012bga",
-          "Daugavpils",
-          "Kr\u0101slava",
-          "P\u0101ternieki",
-          "BY"
-        ],
+        "R\u012bga - Daugavpils - Kr\u0101slava - P\u0101ternieki ( BY border )",
         [
           "/wiki/R\u012bga",
           "/wiki/Daugavpils",
           "/wiki/Kr\u0101slava",
-          null,
           "/wiki/Belarus"
         ]
       ],
       [
-        [
-          "307"
-        ],
-        [
-          null
-        ]
+        "307",
+        []
       ]
     ],
     [
       [
-        [
-          "A7",
-          "A7"
-        ],
+        "A7 A7",
         [
           "/wiki/A7_road_(Latvia)",
           "/wiki/A7_road_(Latvia)"
         ]
       ],
       [
-        [
-          "E67"
-        ],
+        "E67",
         [
           "/wiki/European_route_E67"
         ]
       ],
       [
-        [
-          "R\u012bga",
-          "Bauska",
-          "Grenct\u0101le",
-          "LT"
-        ],
+        "R\u012bga - Bauska - Grenct\u0101le ( LT border )",
         [
           "/wiki/R\u012bga",
           "/wiki/Bauska",
-          null,
           "/wiki/Lithuania"
         ]
       ],
       [
-        [
-          "85"
-        ],
-        [
-          null
-        ]
+        "85",
+        []
       ]
     ],
     [
       [
-        [
-          "A8",
-          "A8"
-        ],
-        [
-          null,
-          null
-        ]
+        "A8 A8",
+        []
       ],
       [
-        [
-          "E77"
-        ],
+        "E77",
         [
           "/wiki/European_route_E77"
         ]
       ],
       [
-        [
-          "R\u012bga",
-          "Jelgava",
-          "Meitene",
-          "LT"
-        ],
+        "R\u012bga - Jelgava - Meitene ( LT border )",
         [
           "/wiki/R\u012bga",
           "/wiki/Jelgava",
-          null,
           "/wiki/Lithuania"
         ]
       ],
       [
-        [
-          "76"
-        ],
-        [
-          null
-        ]
+        "76",
+        []
       ]
     ],
     [
       [
-        [
-          "A9",
-          "A9"
-        ],
+        "A9 A9",
         [
           "/wiki/A9_road_(Latvia)",
           "/wiki/A9_road_(Latvia)"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "R\u012bga",
-          "Skulte",
-          "Liep\u0101ja"
-        ],
+        "R\u012bga - Skulte - Liep\u0101ja",
         [
           "/wiki/R\u012bga",
-          null,
           "/wiki/Liep\u0101ja"
         ]
       ],
       [
-        [
-          "199"
-        ],
-        [
-          null
-        ]
+        "199",
+        []
       ]
     ],
     [
       [
-        [
-          "A10",
-          "A10"
-        ],
+        "A10 A10",
         [
           "/wiki/A10_road_(Latvia)",
           "/wiki/A10_road_(Latvia)"
         ]
       ],
       [
-        [
-          "E22"
-        ],
+        "E22",
         [
           "/wiki/European_route_E22"
         ]
       ],
       [
-        [
-          "R\u012bga",
-          "Ventspils"
-        ],
+        "R\u012bga - Ventspils",
         [
           "/wiki/R\u012bga",
           "/wiki/Ventspils"
         ]
       ],
       [
-        [
-          "190"
-        ],
-        [
-          null
-        ]
+        "190",
+        []
       ]
     ],
     [
       [
-        [
-          "A11",
-          "A11"
-        ],
+        "A11 A11",
         [
           "/wiki/A11_road_(Latvia)",
           "/wiki/A11_road_(Latvia)"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Liep\u0101ja",
-          "Rucava",
-          "LT"
-        ],
+        "Liep\u0101ja - Rucava ( LT border )",
         [
           "/wiki/Liep\u0101ja",
           "/wiki/Rucava",
@@ -484,90 +311,56 @@
         ]
       ],
       [
-        [
-          "57"
-        ],
-        [
-          null
-        ]
+        "57",
+        []
       ]
     ],
     [
       [
-        [
-          "A12",
-          "A12"
-        ],
+        "A12 A12",
         [
           "/wiki/A12_road_(Latvia)",
           "/wiki/A12_road_(Latvia)"
         ]
       ],
       [
-        [
-          "E22",
-          "E262"
-        ],
+        "E22 E262",
         [
           "/wiki/European_route_E22",
           "/wiki/European_route_E262"
         ]
       ],
       [
-        [
-          "J\u0113kabpils",
-          "R\u0113zekne",
-          "Ludza",
-          "Terehova",
-          "RU"
-        ],
+        "J\u0113kabpils - R\u0113zekne - Ludza - Terehova ( RU border )",
         [
           "/wiki/J\u0113kabpils",
           "/wiki/R\u0113zekne",
           "/wiki/Ludza",
-          null,
           "/wiki/Russia"
         ]
       ],
       [
-        [
-          "166"
-        ],
-        [
-          null
-        ]
+        "166",
+        []
       ]
     ],
     [
       [
-        [
-          "A13",
-          "A13"
-        ],
+        "A13 A13",
         [
           "/wiki/A13_road_(Latvia)",
           "/wiki/A13_road_(Latvia)"
         ]
       ],
       [
-        [
-          "E262"
-        ],
+        "E262",
         [
           "/wiki/European_route_E262"
         ]
       ],
       [
+        "Greb\u0146eva ( RU border ) - R\u0113zekne - Daugavpils - Medumi ( LT border )",
         [
-          "Greb\u0146eva",
-          "RU",
-          "R\u0113zekne",
-          "Daugavpils",
-          "Medumi",
-          "LT"
-        ],
-        [
-          null,
           "/wiki/Russia",
           "/wiki/R\u0113zekne",
           "/wiki/Daugavpils",
@@ -576,88 +369,59 @@
         ]
       ],
       [
-        [
-          "163"
-        ],
-        [
-          null
-        ]
+        "163",
+        []
       ]
     ],
     [
       [
-        [
-          "A14",
-          "A14"
-        ],
+        "A14 A14",
         [
           "/wiki/A14_road_(Latvia)",
           "/wiki/A14_road_(Latvia)"
         ]
       ],
       [
-        [
-          "E262"
-        ],
+        "E262",
         [
           "/wiki/European_route_E262"
         ]
       ],
       [
-        [
-          "Daugavpils",
-          "Tilti",
-          "Kalk\u016bne"
-        ],
+        "Daugavpils ring road ( Tilti - Kalk\u016bne )",
         [
           "/wiki/Daugavpils",
-          null,
           "/wiki/Kalk\u016bne"
         ]
       ],
       [
-        [
-          "15"
-        ],
-        [
-          null
-        ]
+        "15",
+        []
       ]
     ],
     [
       [
-        [
-          "A15",
-          "A15"
-        ],
+        "A15 A15",
         [
           "/wiki/A15_road_(Latvia)",
           "/wiki/A15_road_(Latvia)"
         ]
       ],
       [
-        [
-          "E262"
-        ],
+        "E262",
         [
           "/wiki/European_route_E262"
         ]
       ],
       [
-        [
-          "R\u0113zekne"
-        ],
+        "R\u0113zekne ring road",
         [
           "/wiki/R\u0113zekne"
         ]
       ],
       [
-        [
-          "7"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ]
     ]
   ],

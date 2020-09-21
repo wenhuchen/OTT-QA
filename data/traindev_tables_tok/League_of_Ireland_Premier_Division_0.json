@@ -3,377 +3,261 @@
   "title": "League of Ireland Premier Division",
   "header": [
     [
-      [
-        "Team"
-      ],
-      [
-        null
-      ]
+      "Team",
+      []
     ],
     [
-      [
-        "Home city/suburb"
-      ],
-      [
-        null
-      ]
+      "Home city/suburb",
+      []
     ],
     [
-      [
-        "Stadium"
-      ],
-      [
-        null
-      ]
+      "Stadium",
+      []
     ],
     [
-      [
-        "Capacity"
-      ],
-      [
-        null
-      ]
+      "Capacity",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Bohemians"
-        ],
+        "Bohemians",
         [
           "/wiki/Bohemian_F.C."
         ]
       ],
       [
-        [
-          "Phibsborough"
-        ],
+        "Phibsborough",
         [
           "/wiki/Phibsborough"
         ]
       ],
       [
-        [
-          "Dalymount Park"
-        ],
+        "Dalymount Park",
         [
           "/wiki/Dalymount_Park"
         ]
       ],
       [
-        [
-          "3,400"
-        ],
-        [
-          null
-        ]
+        "3,400",
+        []
       ]
     ],
     [
       [
-        [
-          "Cork City"
-        ],
+        "Cork City",
         [
           "/wiki/Cork_City_F.C."
         ]
       ],
       [
-        [
-          "Cork"
-        ],
+        "Cork",
         [
           "/wiki/Cork_(city)"
         ]
       ],
       [
-        [
-          "Turners Cross"
-        ],
+        "Turners Cross",
         [
           "/wiki/Turners_Cross_(stadium)"
         ]
       ],
       [
-        [
-          "6,900"
-        ],
-        [
-          null
-        ]
+        "6,900",
+        []
       ]
     ],
     [
       [
-        [
-          "Derry City"
-        ],
+        "Derry City",
         [
           "/wiki/Derry_City_F.C."
         ]
       ],
       [
-        [
-          "Derry"
-        ],
+        "Derry",
         [
           "/wiki/Derry"
         ]
       ],
       [
-        [
-          "Brandywell"
-        ],
+        "Brandywell",
         [
           "/wiki/Brandywell_Stadium"
         ]
       ],
       [
-        [
-          "3,700"
-        ],
-        [
-          null
-        ]
+        "3,700",
+        []
       ]
     ],
     [
       [
-        [
-          "Dundalk"
-        ],
+        "Dundalk",
         [
           "/wiki/Dundalk_F.C."
         ]
       ],
       [
-        [
-          "Dundalk"
-        ],
+        "Dundalk",
         [
           "/wiki/Dundalk"
         ]
       ],
       [
-        [
-          "Oriel Park"
-        ],
+        "Oriel Park",
         [
           "/wiki/Oriel_Park"
         ]
       ],
       [
-        [
-          "4,500"
-        ],
-        [
-          null
-        ]
+        "4,500",
+        []
       ]
     ],
     [
       [
-        [
-          "Finn Harps"
-        ],
+        "Finn Harps",
         [
           "/wiki/Finn_Harps_F.C."
         ]
       ],
       [
-        [
-          "Ballybofey"
-        ],
+        "Ballybofey",
         [
           "/wiki/Ballybofey"
         ]
       ],
       [
-        [
-          "Finn Park"
-        ],
+        "Finn Park",
         [
           "/wiki/Finn_Park"
         ]
       ],
       [
-        [
-          "4,500"
-        ],
-        [
-          null
-        ]
+        "4,500",
+        []
       ]
     ],
     [
       [
-        [
-          "St Patrick 's Athletic"
-        ],
+        "St Patrick 's Athletic",
         [
           "/wiki/St_Patrick's_Athletic_F.C."
         ]
       ],
       [
-        [
-          "Inchicore"
-        ],
+        "Inchicore",
         [
           "/wiki/Inchicore"
         ]
       ],
       [
-        [
-          "Richmond Park"
-        ],
+        "Richmond Park",
         [
           "/wiki/Richmond_Park_(football_ground)"
         ]
       ],
       [
-        [
-          "5,350"
-        ],
-        [
-          null
-        ]
+        "5,350",
+        []
       ]
     ],
     [
       [
-        [
-          "Shamrock Rovers"
-        ],
+        "Shamrock Rovers",
         [
           "/wiki/Shamrock_Rovers_F.C."
         ]
       ],
       [
-        [
-          "Tallaght"
-        ],
+        "Tallaght",
         [
           "/wiki/Tallaght"
         ]
       ],
       [
-        [
-          "Tallaght Stadium"
-        ],
+        "Tallaght Stadium",
         [
           "/wiki/Tallaght_Stadium"
         ]
       ],
       [
-        [
-          "8,000"
-        ],
-        [
-          null
-        ]
+        "8,000",
+        []
       ]
     ],
     [
       [
-        [
-          "Shelbourne"
-        ],
+        "Shelbourne",
         [
           "/wiki/Shelbourne_F.C."
         ]
       ],
       [
-        [
-          "Dublin"
-        ],
+        "Dublin",
         [
           "/wiki/Drumcondra,_Dublin"
         ]
       ],
       [
-        [
-          "Tolka Park"
-        ],
+        "Tolka Park",
         [
           "/wiki/Tolka_Park"
         ]
       ],
       [
-        [
-          "3,600"
-        ],
-        [
-          null
-        ]
+        "3,600",
+        []
       ]
     ],
     [
       [
-        [
-          "Sligo Rovers"
-        ],
+        "Sligo Rovers",
         [
           "/wiki/Sligo_Rovers_F.C."
         ]
       ],
       [
-        [
-          "Sligo"
-        ],
+        "Sligo",
         [
           "/wiki/Sligo"
         ]
       ],
       [
-        [
-          "The Showgrounds"
-        ],
+        "The Showgrounds",
         [
           "/wiki/The_Showgrounds_(Sligo)"
         ]
       ],
       [
-        [
-          "4,000"
-        ],
-        [
-          null
-        ]
+        "4,000",
+        []
       ]
     ],
     [
       [
-        [
-          "Waterford"
-        ],
+        "Waterford",
         [
           "/wiki/Waterford_F.C."
         ]
       ],
       [
-        [
-          "Waterford"
-        ],
+        "Waterford",
         [
           "/wiki/Waterford"
         ]
       ],
       [
-        [
-          "RSC"
-        ],
+        "RSC",
         [
           "/wiki/Waterford_Regional_Sports_Centre"
         ]
       ],
       [
-        [
-          "5,500"
-        ],
-        [
-          null
-        ]
+        "5,500",
+        []
       ]
     ]
   ],

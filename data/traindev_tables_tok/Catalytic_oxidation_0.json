@@ -3,128 +3,87 @@
   "title": "Catalytic oxidation",
   "header": [
     [
-      [
-        "Substrate"
-      ],
-      [
-        null
-      ]
+      "Substrate",
+      []
     ],
     [
-      [
-        "Process"
-      ],
-      [
-        null
-      ]
+      "Process",
+      []
     ],
     [
-      [
-        "homogeneous",
-        "heterogeneous"
-      ],
+      "Catalyst ( homogeneous or heterogeneous",
       [
         "/wiki/Homogeneous_catalysis",
         "/wiki/Heterogeneous_catalysis"
       ]
     ],
     [
-      [
-        "Product"
-      ],
-      [
-        null
-      ]
+      "Product",
+      []
     ],
     [
-      [
-        "Application"
-      ],
-      [
-        null
-      ]
+      "Application",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "sulfur dioxide"
-        ],
+        "sulfur dioxide",
         [
           "/wiki/Sulfur_dioxide"
         ]
       ],
       [
-        [
-          "contact process"
-        ],
+        "contact process",
         [
           "/wiki/Contact_process"
         ]
       ],
       [
-        [
-          "vanadium pentoxide"
-        ],
+        "vanadium pentoxide ( heterogeneous )",
         [
           "/wiki/Vanadium_pentoxide"
         ]
       ],
       [
-        [
-          "sulfuric acid"
-        ],
+        "sulfuric acid",
         [
           "/wiki/Sulfuric_acid"
         ]
       ],
       [
-        [
-          "fertilizer production"
-        ],
-        [
-          null
-        ]
+        "fertilizer production",
+        []
       ]
     ],
     [
       [
-        [
-          "ammonia"
-        ],
+        "ammonia",
         [
           "/wiki/Ammonia"
         ]
       ],
       [
-        [
-          "Ostwald process"
-        ],
+        "Ostwald process",
         [
           "/wiki/Ostwald_process"
         ]
       ],
       [
-        [
-          "platinum"
-        ],
+        "platinum ( heterogeneous )",
         [
           "/wiki/Platinum"
         ]
       ],
       [
-        [
-          "nitric acid"
-        ],
+        "nitric acid",
         [
           "/wiki/Nitric_acid"
         ]
       ],
       [
-        [
-          "TNT"
-        ],
+        "basic chemicals , TNT",
         [
           "/wiki/TNT"
         ]
@@ -132,41 +91,31 @@
     ],
     [
       [
-        [
-          "hydrogen sulfide"
-        ],
+        "hydrogen sulfide",
         [
           "/wiki/Hydrogen_sulfide"
         ]
       ],
       [
-        [
-          "Claus process"
-        ],
+        "Claus process",
         [
           "/wiki/Claus_process"
         ]
       ],
       [
-        [
-          "vanadium pentoxide"
-        ],
+        "vanadium pentoxide ( heterogeneous )",
         [
           "/wiki/Vanadium_pentoxide"
         ]
       ],
       [
-        [
-          "sulfur"
-        ],
+        "sulfur",
         [
           "/wiki/Sulfur"
         ]
       ],
       [
-        [
-          "oil refinery"
-        ],
+        "remediation of byproduct of oil refinery",
         [
           "/wiki/Oil_refinery"
         ]
@@ -174,428 +123,281 @@
     ],
     [
       [
-        [
-          "methane",
-          "ammonia"
-        ],
+        "methane , ammonia",
         [
           "/wiki/Methane",
           "/wiki/Ammonia"
         ]
       ],
       [
-        [
-          "Andrussow process"
-        ],
+        "Andrussow process",
         [
           "/wiki/Andrussow_process"
         ]
       ],
       [
-        [
-          "platinum"
-        ],
+        "platinum ( heterogeneous )",
         [
           "/wiki/Platinum"
         ]
       ],
       [
-        [
-          "hydrogen cyanide"
-        ],
+        "hydrogen cyanide",
         [
           "/wiki/Hydrogen_cyanide"
         ]
       ],
       [
-        [
-          "basic chemicals , gold mining extractant"
-        ],
-        [
-          null
-        ]
+        "basic chemicals , gold mining extractant",
+        []
       ]
     ],
     [
       [
-        [
-          "ethylene"
-        ],
+        "ethylene",
         [
           "/wiki/Ethylene"
         ]
       ],
       [
-        [
-          "epoxidation"
-        ],
+        "epoxidation",
         [
           "/wiki/Epoxidation"
         ]
       ],
       [
-        [
-          "mixed Ag oxides ( heterogeneous )"
-        ],
-        [
-          null
-        ]
+        "mixed Ag oxides ( heterogeneous )",
+        []
       ],
       [
-        [
-          "ethylene oxide"
-        ],
+        "ethylene oxide",
         [
           "/wiki/Ethylene_oxide"
         ]
       ],
       [
-        [
-          "basic chemicals , surfactants"
-        ],
-        [
-          null
-        ]
+        "basic chemicals , surfactants",
+        []
       ]
     ],
     [
       [
-        [
-          "cyclohexane"
-        ],
+        "cyclohexane",
         [
           "/wiki/Cyclohexane"
         ]
       ],
       [
-        [
-          "K-A process"
-        ],
-        [
-          null
-        ]
+        "K-A process",
+        []
       ],
       [
-        [
-          "Co and Mn salts ( homogeneous )"
-        ],
-        [
-          null
-        ]
+        "Co and Mn salts ( homogeneous )",
+        []
       ],
       [
-        [
-          "cyclohexanol",
-          "cyclohexanone"
-        ],
+        "cyclohexanol cyclohexanone",
         [
           "/wiki/Cyclohexanol",
           "/wiki/Cyclohexanone"
         ]
       ],
       [
-        [
-          "nylon precursor"
-        ],
-        [
-          null
-        ]
+        "nylon precursor",
+        []
       ]
     ],
     [
       [
-        [
-          "ethylene"
-        ],
+        "ethylene",
         [
           "/wiki/Ethylene"
         ]
       ],
       [
-        [
-          "Wacker process"
-        ],
+        "Wacker process",
         [
           "/wiki/Wacker_process"
         ]
       ],
       [
-        [
-          "Pd and Cu salts ( homogeneous )"
-        ],
-        [
-          null
-        ]
+        "Pd and Cu salts ( homogeneous )",
+        []
       ],
       [
-        [
-          "acetaldehyde"
-        ],
+        "acetaldehyde",
         [
           "/wiki/Acetaldehyde"
         ]
       ],
       [
-        [
-          "basic chemicals"
-        ],
-        [
-          null
-        ]
+        "basic chemicals",
+        []
       ]
     ],
     [
       [
-        [
-          "para-xylene"
-        ],
+        "para-xylene",
         [
           "/wiki/Para-xylene"
         ]
       ],
       [
-        [
-          "terephthalic acid synthesis"
-        ],
-        [
-          null
-        ]
+        "terephthalic acid synthesis",
+        []
       ],
       [
-        [
-          "Mn and Co salts ( homogeneous )"
-        ],
-        [
-          null
-        ]
+        "Mn and Co salts ( homogeneous )",
+        []
       ],
       [
-        [
-          "terephthalic acid"
-        ],
+        "terephthalic acid",
         [
           "/wiki/Terephthalic_acid"
         ]
       ],
       [
-        [
-          "plastic precursor"
-        ],
-        [
-          null
-        ]
+        "plastic precursor",
+        []
       ]
     ],
     [
       [
-        [
-          "propylene"
-        ],
+        "propylene",
         [
           "/wiki/Propylene"
         ]
       ],
       [
-        [
-          "allylic oxidation"
-        ],
+        "allylic oxidation",
         [
           "/wiki/Allylic_oxidation"
         ]
       ],
       [
-        [
-          "Mo-oxides ( heterogeneous )"
-        ],
-        [
-          null
-        ]
+        "Mo-oxides ( heterogeneous )",
+        []
       ],
       [
-        [
-          "acrylic acid"
-        ],
+        "acrylic acid",
         [
           "/wiki/Acrylic_acid"
         ]
       ],
       [
-        [
-          "plastic precursor"
-        ],
-        [
-          null
-        ]
+        "plastic precursor",
+        []
       ]
     ],
     [
       [
-        [
-          "propylene",
-          "ammonia"
-        ],
+        "propylene , ammonia",
         [
           "/wiki/Propylene",
           "/wiki/Ammonia"
         ]
       ],
       [
-        [
-          "SOHIO process"
-        ],
+        "SOHIO process",
         [
           "/wiki/Ammoxidation"
         ]
       ],
       [
-        [
-          "Bi-Mo-oxides ( heterogeneous )"
-        ],
-        [
-          null
-        ]
+        "Bi-Mo-oxides ( heterogeneous )",
+        []
       ],
       [
-        [
-          "acrylonitrile"
-        ],
+        "acrylonitrile",
         [
           "/wiki/Acrylonitrile"
         ]
       ],
       [
-        [
-          "plastic precursor"
-        ],
-        [
-          null
-        ]
+        "plastic precursor",
+        []
       ]
     ],
     [
       [
-        [
-          "methanol"
-        ],
+        "methanol",
         [
           "/wiki/Methanol"
         ]
       ],
       [
-        [
-          "Formox process"
-        ],
+        "Formox process",
         [
           "/wiki/Formox_process"
         ]
       ],
       [
-        [
-          "Fe-Mo-oxides ( heterogeneous )"
-        ],
-        [
-          null
-        ]
+        "Fe-Mo-oxides ( heterogeneous )",
+        []
       ],
       [
-        [
-          "formaldehyde"
-        ],
+        "formaldehyde",
         [
           "/wiki/Formaldehyde"
         ]
       ],
       [
-        [
-          "basic chemicals , alkyd resins"
-        ],
-        [
-          null
-        ]
+        "basic chemicals , alkyd resins",
+        []
       ]
     ],
     [
       [
-        [
-          "butane"
-        ],
+        "butane",
         [
           "/wiki/Butane"
         ]
       ],
       [
-        [
-          "Maleic anhydride process"
-        ],
-        [
-          null
-        ]
+        "Maleic anhydride process",
+        []
       ],
       [
-        [
-          "vanadium phosphates ( heterogeneous )"
-        ],
-        [
-          null
-        ]
+        "vanadium phosphates ( heterogeneous )",
+        []
       ],
       [
-        [
-          "maleic anhydride"
-        ],
+        "maleic anhydride",
         [
           "/wiki/Maleic_anhydride"
         ]
       ],
       [
-        [
-          "plastics , alkyd resins"
-        ],
-        [
-          null
-        ]
+        "plastics , alkyd resins",
+        []
       ]
     ],
     [
       [
-        [
-          "ethylene"
-        ],
+        "ethylene",
         [
           "/wiki/Ethylene"
         ]
       ],
       [
-        [
-          "OMEGA process"
-        ],
+        "OMEGA process",
         [
           "/wiki/OMEGA_process"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "ethylene glycol"
-        ],
+        "ethylene glycol",
         [
           "/wiki/Ethylene_glycol"
         ]
       ],
       [
-        [
-          "Coolant , antifreeze , plastics"
-        ],
-        [
-          null
-        ]
+        "Coolant , antifreeze , plastics",
+        []
       ]
     ]
   ],

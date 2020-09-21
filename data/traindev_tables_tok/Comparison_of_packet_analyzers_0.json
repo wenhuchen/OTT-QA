@@ -3,885 +3,633 @@
   "title": "Comparison of packet analyzers",
   "header": [
     [
-      [
-        "Creator"
-      ],
-      [
-        null
-      ]
+      "",
+      []
     ],
     [
-      [
-        "Latest release"
-      ],
-      [
-        null
-      ]
+      "Creator",
+      []
     ],
     [
-      [
-        "User interface"
-      ],
-      [
-        null
-      ]
+      "Latest release",
+      []
     ],
     [
-      [
-        "Software license"
-      ],
+      "User interface",
+      []
+    ],
+    [
+      "Software license",
       [
         "/wiki/Software_license"
       ]
     ],
     [
-      [
-        "Cost"
-      ],
-      [
-        null
-      ]
+      "Cost",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Comoe Networks"
-        ],
-        [
-          null
-        ]
+        "Analyze This",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "Comoe Networks",
+        []
       ],
       [
-        [
-          "Web GUI"
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "N/A"
-        ],
-        [
-          null
-        ]
+        "Web GUI",
+        []
       ],
       [
-        [
-          "?"
-        ],
-        [
-          null
-        ]
+        "N/A",
+        []
+      ],
+      [
+        "?",
+        []
       ]
     ],
     [
       [
+        "Cain and Abel",
         [
-          "Massimiliano Montoro"
-        ],
-        [
-          null
+          "/wiki/Cain_and_Abel_(software)"
         ]
       ],
       [
-        [
-          "4.9.56 / April 7 , 2014"
-        ],
-        [
-          null
-        ]
+        "Massimiliano Montoro",
+        []
       ],
       [
-        [
-          "GUI"
-        ],
-        [
-          null
-        ]
+        "4.9.56 / April 7 , 2014",
+        []
       ],
       [
-        [
-          "Freeware"
-        ],
-        [
-          null
-        ]
+        "GUI",
+        []
       ],
       [
-        [
-          "Free"
-        ],
-        [
-          null
-        ]
+        "Freeware",
+        []
+      ],
+      [
+        "Free",
+        []
       ]
     ],
     [
       [
+        "Capsa",
         [
-          "Colasoft"
-        ],
-        [
-          null
+          "/wiki/Capsa_(software)"
         ]
       ],
       [
-        [
-          "11.1 / April 24 , 2018 ( 2018-04-24 )"
-        ],
-        [
-          null
-        ]
+        "Colasoft",
+        []
       ],
       [
-        [
-          "GUI"
-        ],
-        [
-          null
-        ]
+        "11.1 / April 24 , 2018 ( 2018-04-24 )",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "GUI",
+        []
+      ],
+      [
+        "Proprietary",
         [
           "/wiki/Proprietary_software"
         ]
       ],
       [
-        [
-          "$ 0- $ 995 , depending on version"
-        ],
-        [
-          null
-        ]
+        "$ 0- $ 995 , depending on version",
+        []
       ]
     ],
     [
       [
+        "Carnivore",
         [
-          "Federal Bureau of Investigation"
-        ],
+          "/wiki/Carnivore_(software)"
+        ]
+      ],
+      [
+        "Federal Bureau of Investigation",
         [
           "/wiki/Federal_Bureau_of_Investigation"
         ]
       ],
       [
-        [
-          "?"
-        ],
-        [
-          null
-        ]
+        "?",
+        []
       ],
       [
-        [
-          "?"
-        ],
-        [
-          null
-        ]
+        "?",
+        []
       ],
       [
-        [
-          "N/A"
-        ],
-        [
-          null
-        ]
+        "N/A",
+        []
       ],
       [
-        [
-          "?"
-        ],
-        [
-          null
-        ]
+        "?",
+        []
       ]
     ],
     [
       [
+        "Charles Web Debugging Proxy",
         [
-          "Karl van Randow"
-        ],
-        [
-          null
+          "/wiki/Charles_Proxy"
         ]
       ],
       [
-        [
-          "4.1.4 / July 10 , 2017"
-        ],
-        [
-          null
-        ]
+        "Karl van Randow",
+        []
       ],
       [
-        [
-          "GUI"
-        ],
-        [
-          null
-        ]
+        "4.1.4 / July 10 , 2017",
+        []
       ],
       [
-        [
-          "?"
-        ],
-        [
-          null
-        ]
+        "GUI",
+        []
       ],
       [
-        [
-          "$ 30- $ 50 ( Free Trial )"
-        ],
-        [
-          null
-        ]
+        "?",
+        []
+      ],
+      [
+        "$ 30- $ 50 ( Free Trial )",
+        []
       ]
     ],
     [
       [
-        [
-          "Clarified Networks"
-        ],
+        "Clarified Analyzer",
+        []
+      ],
+      [
+        "Clarified Networks",
         [
           "/wiki/Clarified_Networks"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "GUI"
-        ],
-        [
-          null
-        ]
+        "GUI",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary",
         [
           "/wiki/Proprietary_software"
         ]
       ],
       [
-        [
-          "Non-free"
-        ],
-        [
-          null
-        ]
+        "Non-free",
+        []
       ]
     ],
     [
       [
-        [
-          "Clusterpoint"
-        ],
+        "Clusterpoint Network Traffic Surveillance System",
+        []
+      ],
+      [
+        "Clusterpoint",
         [
           "/wiki/Clusterpoint"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "web GUI"
-        ],
-        [
-          null
-        ]
+        "web GUI",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary",
         [
           "/wiki/Proprietary_software"
         ]
       ],
       [
-        [
-          "?"
-        ],
-        [
-          null
-        ]
+        "?",
+        []
       ]
     ],
     [
       [
+        "CommView",
         [
-          "TamoSoft"
-        ],
-        [
-          null
+          "/wiki/CommView"
         ]
       ],
       [
-        [
-          "6.5"
-        ],
-        [
-          null
-        ]
+        "TamoSoft",
+        []
       ],
       [
-        [
-          "GUI"
-        ],
-        [
-          null
-        ]
+        "6.5",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "GUI",
+        []
+      ],
+      [
+        "Proprietary",
         [
           "/wiki/Proprietary_software"
         ]
       ],
       [
-        [
-          "$ 299- $ 599 , $ 149 1 year subscription"
-        ],
-        [
-          null
-        ]
+        "$ 299- $ 599 , $ 149 1 year subscription",
+        []
       ]
     ],
     [
       [
+        "dSniff",
         [
-          "Dug Song"
-        ],
-        [
-          null
+          "/wiki/DSniff"
         ]
       ],
       [
-        [
-          "2.3 / December 17 , 2000"
-        ],
-        [
-          null
-        ]
+        "Dug Song",
+        []
       ],
       [
-        [
-          "CLI"
-        ],
+        "2.3 / December 17 , 2000",
+        []
+      ],
+      [
+        "CLI",
         [
           "/wiki/Command-line_interface"
         ]
       ],
       [
-        [
-          "BSD License"
-        ],
+        "BSD License",
         [
           "/wiki/BSD_licenses"
         ]
       ],
       [
-        [
-          "Free"
-        ],
-        [
-          null
-        ]
+        "Free",
+        []
       ]
     ],
     [
       [
+        "EtherApe",
         [
-          "Juan Toledo"
-        ],
-        [
-          null
+          "/wiki/EtherApe"
         ]
       ],
       [
-        [
-          "0.9.14 / February 6 , 2016"
-        ],
-        [
-          null
-        ]
+        "Juan Toledo",
+        []
       ],
       [
-        [
-          "GUI"
-        ],
-        [
-          null
-        ]
+        "0.9.14 / February 6 , 2016",
+        []
       ],
       [
-        [
-          "GNU General Public License"
-        ],
+        "GUI",
+        []
+      ],
+      [
+        "GNU General Public License",
         [
           "/wiki/GNU_General_Public_License"
         ]
       ],
       [
-        [
-          "Free"
-        ],
-        [
-          null
-        ]
+        "Free",
+        []
       ]
     ],
     [
       [
+        "Ettercap",
         [
-          "ALoR and NaGA"
-        ],
-        [
-          null
+          "/wiki/Ettercap_(computing)"
         ]
       ],
       [
-        [
-          "0.8.2-Ferri / March 14 , 2015"
-        ],
-        [
-          null
-        ]
+        "ALoR and NaGA",
+        []
       ],
       [
-        [
-          "Both"
-        ],
-        [
-          null
-        ]
+        "0.8.2-Ferri / March 14 , 2015",
+        []
       ],
       [
-        [
-          "GNU General Public License"
-        ],
+        "Both",
+        []
+      ],
+      [
+        "GNU General Public License",
         [
           "/wiki/GNU_General_Public_License"
         ]
       ],
       [
-        [
-          "Free"
-        ],
-        [
-          null
-        ]
+        "Free",
+        []
       ]
     ],
     [
       [
+        "Fiddler",
         [
-          "Telerik"
-        ],
+          "/wiki/Fiddler_(software)"
+        ]
+      ],
+      [
+        "Eric Lawrence / Telerik",
         [
           "/wiki/Telerik"
         ]
       ],
       [
-        [
-          "5.0.20194 / October 3 , 2019"
-        ],
-        [
-          null
-        ]
+        "5.0.20194 / October 3 , 2019",
+        []
       ],
       [
-        [
-          "GUI"
-        ],
-        [
-          null
-        ]
+        "GUI",
+        []
       ],
       [
-        [
-          "Freeware"
-        ],
-        [
-          null
-        ]
+        "Freeware",
+        []
       ],
       [
-        [
-          "Free"
-        ],
-        [
-          null
-        ]
+        "Free",
+        []
       ]
     ],
     [
       [
+        "justniffer",
         [
-          "The Justniffer team"
-        ],
-        [
-          null
+          "/wiki/Justniffer"
         ]
       ],
       [
-        [
-          "0.5.15 / March 21 , 2016"
-        ],
-        [
-          null
-        ]
+        "The Justniffer team",
+        []
       ],
       [
-        [
-          "CLI"
-        ],
+        "0.5.15 / March 21 , 2016",
+        []
+      ],
+      [
+        "CLI",
         [
           "/wiki/Command-line_interface"
         ]
       ],
       [
-        [
-          "GNU General Public License"
-        ],
+        "GNU General Public License",
         [
           "/wiki/GNU_General_Public_License"
         ]
       ],
       [
-        [
-          "Free"
-        ],
-        [
-          null
-        ]
+        "Free",
+        []
       ]
     ],
     [
       [
+        "Kismet",
         [
-          "Mike Kershaw ( dragorn )"
-        ],
-        [
-          null
+          "/wiki/Kismet_(software)"
         ]
       ],
       [
-        [
-          "2016-01-R1 / January 31 , 2016"
-        ],
-        [
-          null
-        ]
+        "Mike Kershaw ( dragorn )",
+        []
       ],
       [
-        [
-          "CLI"
-        ],
+        "2016-01-R1 / January 31 , 2016",
+        []
+      ],
+      [
+        "CLI",
         [
           "/wiki/Command-line_interface"
         ]
       ],
       [
-        [
-          "GNU General Public License"
-        ],
+        "GNU General Public License",
         [
           "/wiki/GNU_General_Public_License"
         ]
       ],
       [
-        [
-          "Free"
-        ],
-        [
-          null
-        ]
+        "Free",
+        []
       ]
     ],
     [
       [
-        [
-          "Microsoft"
-        ],
+        "Microsoft Message Analyzer",
+        []
+      ],
+      [
+        "Microsoft",
         [
           "/wiki/Microsoft"
         ]
       ],
       [
-        [
-          "1.4 / October 28 , 2016"
-        ],
-        [
-          null
-        ]
+        "1.4 / October 28 , 2016",
+        []
       ],
       [
-        [
-          "GUI"
-        ],
-        [
-          null
-        ]
+        "GUI",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary",
         [
           "/wiki/Proprietary_software"
         ]
       ],
       [
-        [
-          "Free"
-        ],
-        [
-          null
-        ]
+        "Free",
+        []
       ]
     ],
     [
       [
+        "Microsoft Network Monitor",
         [
-          "Microsoft"
-        ],
+          "/wiki/Microsoft_Network_Monitor"
+        ]
+      ],
+      [
+        "Microsoft",
         [
           "/wiki/Microsoft"
         ]
       ],
       [
-        [
-          "3.4 / June 24 , 2010"
-        ],
-        [
-          null
-        ]
+        "3.4 / June 24 , 2010",
+        []
       ],
       [
-        [
-          "GUI"
-        ],
-        [
-          null
-        ]
+        "GUI",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary",
         [
           "/wiki/Proprietary_software"
         ]
       ],
       [
-        [
-          "Free"
-        ],
-        [
-          null
-        ]
+        "Free",
+        []
       ]
     ],
     [
       [
+        "netsniff-ng",
         [
-          "Daniel Borkmann"
-        ],
-        [
-          null
+          "/wiki/Netsniff-ng"
         ]
       ],
       [
-        [
-          "0.6.2 / November 7 , 2016"
-        ],
-        [
-          null
-        ]
+        "Daniel Borkmann",
+        []
       ],
       [
-        [
-          "CLI"
-        ],
+        "0.6.2 / November 7 , 2016",
+        []
+      ],
+      [
+        "CLI",
         [
           "/wiki/Command-line_interface"
         ]
       ],
       [
-        [
-          "GNU General Public License"
-        ],
+        "GNU General Public License",
         [
           "/wiki/GNU_General_Public_License"
         ]
       ],
       [
-        [
-          "Free"
-        ],
-        [
-          null
-        ]
+        "Free",
+        []
       ]
     ],
     [
       [
+        "ngrep",
         [
-          "Jordan Ritter"
-        ],
-        [
-          null
+          "/wiki/Ngrep"
         ]
       ],
       [
-        [
-          "1.45 ( 11/18/06 )"
-        ],
-        [
-          null
-        ]
+        "Jordan Ritter",
+        []
       ],
       [
-        [
-          "CLI"
-        ],
+        "1.45 ( 11/18/06 )",
+        []
+      ],
+      [
+        "CLI",
         [
           "/wiki/Command-line_interface"
         ]
       ],
       [
-        [
-          "BSD-style"
-        ],
-        [
-          null
-        ]
+        "BSD-style",
+        []
       ],
       [
-        [
-          "Free"
-        ],
-        [
-          null
-        ]
+        "Free",
+        []
       ]
     ],
     [
       [
-        [
-          "Viavi Solutions"
-        ],
+        "Observer",
+        []
+      ],
+      [
+        "Viavi Solutions ( formerly Network Instruments )",
         [
           "/wiki/JDSU"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "GUI"
-        ],
-        [
-          null
-        ]
+        "GUI",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary",
         [
           "/wiki/Proprietary_software"
         ]
       ],
       [
-        [
-          "Price on request"
-        ],
-        [
-          null
-        ]
+        "Price on request",
+        []
       ]
     ],
     [
       [
+        "OmniPeek ( formerly AiroPeek , EtherPeek )",
         [
-          "Savvius ( formerly WildPackets )"
-        ],
-        [
-          null
+          "/wiki/OmniPeek"
         ]
       ],
       [
-        [
-          "11.1 / November , 2017"
-        ],
-        [
-          null
-        ]
+        "Savvius ( formerly WildPackets )",
+        []
       ],
       [
-        [
-          "GUI"
-        ],
-        [
-          null
-        ]
+        "11.1 / November , 2017",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "GUI",
+        []
+      ],
+      [
+        "Proprietary",
         [
           "/wiki/Proprietary_software"
         ]
       ],
       [
-        [
-          "$ 1194- $ 5994 , depending on version"
-        ],
-        [
-          null
-        ]
+        "$ 1194- $ 5994 , depending on version",
+        []
       ]
     ]
   ],

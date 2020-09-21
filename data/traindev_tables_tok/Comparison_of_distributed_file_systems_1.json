@@ -3,68 +3,40 @@
   "title": "Comparison of distributed file systems",
   "header": [
     [
-      [
-        "Client"
-      ],
-      [
-        null
-      ]
+      "Client",
+      []
     ],
     [
-      [
-        "Written in"
-      ],
-      [
-        null
-      ]
+      "Written in",
+      []
     ],
     [
-      [
-        "License"
-      ],
-      [
-        null
-      ]
+      "License",
+      []
     ],
     [
-      [
-        "Access API"
-      ],
-      [
-        null
-      ]
+      "Access API",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "BeeGFS"
-        ],
+        "BeeGFS",
         [
           "/wiki/BeeGFS"
         ]
       ],
       [
-        [
-          "C / C++"
-        ],
-        [
-          null
-        ]
+        "C / C++",
+        []
       ],
       [
-        [
-          "FRAUNHOFER FS ( FhGFS ) EULA , GPLv2 client"
-        ],
-        [
-          null
-        ]
+        "FRAUNHOFER FS ( FhGFS ) EULA , GPLv2 client",
+        []
       ],
       [
-        [
-          "POSIX"
-        ],
+        "POSIX",
         [
           "/wiki/Posix"
         ]
@@ -72,34 +44,23 @@
     ],
     [
       [
-        [
-          "ObjectiveFS"
-        ],
+        "ObjectiveFS",
         [
           "/wiki/ObjectiveFS"
         ]
       ],
       [
-        [
-          "C"
-        ],
-        [
-          null
-        ]
+        "C",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary",
         [
           "/wiki/Proprietary_software"
         ]
       ],
       [
-        [
-          "POSIX",
-          "FUSE"
-        ],
+        "POSIX , FUSE",
         [
           "/wiki/Posix",
           "/wiki/Filesystem_in_Userspace"
@@ -108,34 +69,23 @@
     ],
     [
       [
-        [
-          "Spectrum Scale ( GPFS )"
-        ],
+        "Spectrum Scale ( GPFS )",
         [
           "/wiki/GPFS"
         ]
       ],
       [
-        [
-          "C , C++"
-        ],
-        [
-          null
-        ]
+        "C , C++",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary",
         [
           "/wiki/Proprietary_software"
         ]
       ],
       [
-        [
-          "POSIX",
-          "SMB"
-        ],
+        "POSIX , NFS , SMB , Swift",
         [
           "/wiki/POSIX",
           "/wiki/Server_Message_Block"
@@ -144,36 +94,23 @@
     ],
     [
       [
-        [
-          "MapR-FS"
-        ],
+        "MapR-FS",
         [
           "/wiki/MapR_FS"
         ]
       ],
       [
-        [
-          "C , C++"
-        ],
-        [
-          null
-        ]
+        "C , C++",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary",
         [
           "/wiki/Proprietary_software"
         ]
       ],
       [
-        [
-          "POSIX",
-          "NFS",
-          "FUSE",
-          "S3"
-        ],
+        "POSIX , NFS , FUSE , S3",
         [
           "/wiki/Posix",
           "/wiki/Network_File_System",
@@ -184,38 +121,21 @@
     ],
     [
       [
-        [
-          "PanFS"
-        ],
-        [
-          null
-        ]
+        "PanFS",
+        []
       ],
       [
-        [
-          "C , C++"
-        ],
-        [
-          null
-        ]
+        "C , C++",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary",
         [
           "/wiki/Proprietary_software"
         ]
       ],
       [
-        [
-          "DirectFlow",
-          "POSIX",
-          "NFS",
-          "SMB/CIFS",
-          "HTTP",
-          "CLI"
-        ],
+        "DirectFlow , POSIX , NFS , SMB/CIFS , HTTP , CLI",
         [
           "/wiki/Panasas",
           "/wiki/POSIX",
@@ -228,39 +148,21 @@
     ],
     [
       [
-        [
-          "Infinit"
-        ],
-        [
-          null
-        ]
+        "Infinit",
+        []
       ],
       [
-        [
-          "C++"
-        ],
-        [
-          null
-        ]
+        "C++",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary ( to be open sourced )",
         [
           "/wiki/Proprietary_software"
         ]
       ],
       [
-        [
-          "FUSE",
-          "Installable File System",
-          "NFS",
-          "SMB",
-          "POSIX",
-          "CLI",
-          "SDK"
-        ],
+        "FUSE , Installable File System , NFS / SMB , POSIX , CLI , SDK ( libinfinit )",
         [
           "/wiki/Filesystem_in_Userspace",
           "/wiki/Installable_File_System",
@@ -274,39 +176,23 @@
     ],
     [
       [
-        [
-          "Isilon OneFS"
-        ],
+        "Isilon OneFS",
         [
           "/wiki/OneFS_distributed_file_system"
         ]
       ],
       [
-        [
-          "C/C++"
-        ],
-        [
-          null
-        ]
+        "C/C++",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary",
         [
           "/wiki/Proprietary_software"
         ]
       ],
       [
-        [
-          "POSIX",
-          "NFS",
-          "SMB/CIFS",
-          "HDFS",
-          "HTTP",
-          "FTP",
-          "CLI"
-        ],
+        "POSIX , NFS , SMB/CIFS , HDFS , HTTP , FTP , SWIFT Object , CLI , Rest API",
         [
           "/wiki/Posix",
           "/wiki/Network_File_System",
@@ -320,36 +206,23 @@
     ],
     [
       [
-        [
-          "Scality"
-        ],
+        "Scality",
         [
           "/wiki/Scality"
         ]
       ],
       [
-        [
-          "C"
-        ],
-        [
-          null
-        ]
+        "C",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary",
         [
           "/wiki/Proprietary_software"
         ]
       ],
       [
-        [
-          "FUSE",
-          "NFS file system",
-          "REST",
-          "AWS S3"
-        ],
+        "FUSE , NFS file system , REST , AWS S3",
         [
           "/wiki/Filesystem_in_Userspace",
           "/wiki/NFS_file_system",
@@ -360,40 +233,21 @@
     ],
     [
       [
-        [
-          "Quobyte"
-        ],
-        [
-          null
-        ]
+        "Quobyte",
+        []
       ],
       [
-        [
-          "Java , C++"
-        ],
-        [
-          null
-        ]
+        "Java , C++",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary",
         [
           "/wiki/Proprietary_software"
         ]
       ],
       [
-        [
-          "POSIX",
-          "FUSE",
-          "NFS",
-          "SMB/CIFS",
-          "HDFS",
-          "AWS S3",
-          "Tensorflow Plugin",
-          "CLI"
-        ],
+        "POSIX , FUSE , NFS , SMB/CIFS , HDFS , AWS S3 , Tensorflow Plugin , CLI , Rest API",
         [
           "/wiki/Posix",
           "/wiki/Filesystem_in_Userspace",

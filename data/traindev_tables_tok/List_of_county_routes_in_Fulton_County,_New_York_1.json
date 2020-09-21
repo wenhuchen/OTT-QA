@@ -3,150 +3,86 @@
   "title": "List of county routes in Fulton County, New York",
   "header": [
     [
-      [
-        "Route"
-      ],
-      [
-        null
-      ]
+      "Route",
+      []
     ],
     [
-      [
-        "Length ( mi )"
-      ],
-      [
-        null
-      ]
+      "Length ( mi )",
+      []
     ],
     [
-      [
-        "Length ( km )"
-      ],
-      [
-        null
-      ]
+      "Length ( km )",
+      []
     ],
     [
-      [
-        "From"
-      ],
-      [
-        null
-      ]
+      "From",
+      []
     ],
     [
-      [
-        "Via"
-      ],
-      [
-        null
-      ]
+      "Via",
+      []
     ],
     [
-      [
-        "To"
-      ],
-      [
-        null
-      ]
+      "To",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "CR 131"
-        ],
-        [
-          null
-        ]
+        "CR 131",
+        []
       ],
       [
-        [
-          "2.09"
-        ],
-        [
-          null
-        ]
+        "2.09",
+        []
       ],
       [
-        [
-          "3.36"
-        ],
-        [
-          null
-        ]
+        "3.36",
+        []
       ],
       [
-        [
-          "NY 29"
-        ],
+        "NY 29",
         [
           "/wiki/NY_29"
         ]
       ],
       [
-        [
-          "Johnstown"
-        ],
+        "Meco Road in Johnstown",
         [
           "/wiki/Johnstown_(town),_New_York"
         ]
       ],
       [
-        [
-          "CR 101 at West Fulton Street Extension"
-        ],
-        [
-          null
-        ]
+        "CR 101 at West Fulton Street Extension",
+        []
       ]
     ],
     [
       [
-        [
-          "CR 131A"
-        ],
-        [
-          null
-        ]
+        "CR 131A",
+        []
       ],
       [
-        [
-          "1.59"
-        ],
-        [
-          null
-        ]
+        "1.59",
+        []
       ],
       [
-        [
-          "2.56"
-        ],
-        [
-          null
-        ]
+        "2.56",
+        []
       ],
       [
-        [
-          "CR 131"
-        ],
-        [
-          null
-        ]
+        "CR 131",
+        []
       ],
       [
-        [
-          "Johnstown"
-        ],
+        "O'Neil Avenue in Johnstown",
         [
           "/wiki/Johnstown_(town),_New_York"
         ]
       ],
       [
-        [
-          "Johnstown city"
-        ],
+        "Johnstown city line",
         [
           "/wiki/Johnstown_(city),_New_York"
         ]
@@ -154,99 +90,59 @@
     ],
     [
       [
-        [
-          "CR 132"
-        ],
-        [
-          null
-        ]
+        "CR 132",
+        []
       ],
       [
-        [
-          "3.03"
-        ],
-        [
-          null
-        ]
+        "3.03",
+        []
       ],
       [
-        [
-          "4.88"
-        ],
-        [
-          null
-        ]
+        "4.88",
+        []
       ],
       [
-        [
-          "Montgomery County"
-        ],
+        "Montgomery County line",
         [
           "/wiki/Montgomery_County,_New_York"
         ]
       ],
       [
-        [
-          "Perth"
-        ],
+        "Hagaman-West Galway Road in Perth",
         [
           "/wiki/Perth,_New_York"
         ]
       ],
       [
-        [
-          "CR 107 at West Galway Road"
-        ],
-        [
-          null
-        ]
+        "CR 107 at West Galway Road",
+        []
       ]
     ],
     [
       [
-        [
-          "CR 137"
-        ],
-        [
-          null
-        ]
+        "CR 137",
+        []
       ],
       [
-        [
-          "3.79"
-        ],
-        [
-          null
-        ]
+        "3.79",
+        []
       ],
       [
-        [
-          "6.10"
-        ],
-        [
-          null
-        ]
+        "6.10",
+        []
       ],
       [
-        [
-          "Cape Horn Road"
-        ],
-        [
-          null
-        ]
+        "Cape Horn Road",
+        []
       ],
       [
-        [
-          "Caroga"
-        ],
+        "Beech Ridge Road in Caroga",
         [
           "/wiki/Caroga,_New_York"
         ]
       ],
       [
-        [
-          "NY 29A"
-        ],
+        "NY 29A",
         [
           "/wiki/NY_29A"
         ]
@@ -254,102 +150,62 @@
     ],
     [
       [
-        [
-          "CR 138"
-        ],
-        [
-          null
-        ]
+        "CR 138",
+        []
       ],
       [
-        [
-          "4.65"
-        ],
-        [
-          null
-        ]
+        "4.65",
+        []
       ],
       [
-        [
-          "7.48"
-        ],
-        [
-          null
-        ]
+        "7.48",
+        []
       ],
       [
-        [
-          "NY 29"
-        ],
+        "NY 29",
         [
           "/wiki/NY_29"
         ]
       ],
       [
-        [
-          "Broadalbin"
-        ],
+        "Union Mills Road in Broadalbin",
         [
           "/wiki/Broadalbin_(town),_New_York"
         ]
       ],
       [
-        [
-          "CR 110"
-        ],
-        [
-          null
-        ]
+        "CR 110",
+        []
       ]
     ],
     [
       [
-        [
-          "CR 140"
-        ],
-        [
-          null
-        ]
+        "CR 140",
+        []
       ],
       [
-        [
-          "2.40"
-        ],
-        [
-          null
-        ]
+        "2.40",
+        []
       ],
       [
-        [
-          "3.86"
-        ],
-        [
-          null
-        ]
+        "3.86",
+        []
       ],
       [
-        [
-          "Montgomery County",
-          "CR 53"
-        ],
+        "Montgomery County line ( becomes CR 53 )",
         [
           "/wiki/Montgomery_County,_New_York",
           "/wiki/County_Route_53_(Montgomery_County,_New_York)"
         ]
       ],
       [
-        [
-          "Ephratah"
-        ],
+        "Unnamed road in Ephratah",
         [
           "/wiki/Ephratah,_New_York"
         ]
       ],
       [
-        [
-          "NY 10",
-          "NY 67"
-        ],
+        "NY 10 / NY 67",
         [
           "/wiki/New_York_State_Route_10",
           "/wiki/New_York_State_Route_67"
@@ -358,152 +214,92 @@
     ],
     [
       [
-        [
-          "CR 142"
-        ],
-        [
-          null
-        ]
+        "CR 142",
+        []
       ],
       [
-        [
-          "2.62"
-        ],
-        [
-          null
-        ]
+        "2.62",
+        []
       ],
       [
-        [
-          "4.22"
-        ],
-        [
-          null
-        ]
+        "4.22",
+        []
       ],
       [
-        [
-          "Montgomery County",
-          "CR 24"
-        ],
+        "Montgomery County line ( becomes CR 24 )",
         [
           "/wiki/Montgomery_County,_New_York",
           "/wiki/County_Route_24_(Montgomery_County,_New_York)"
         ]
       ],
       [
-        [
-          "Johnstown"
-        ],
+        "Millers Corners Road in Johnstown",
         [
           "/wiki/Johnstown_(town),_New_York"
         ]
       ],
       [
-        [
-          "CR 107"
-        ],
-        [
-          null
-        ]
+        "CR 107",
+        []
       ]
     ],
     [
       [
-        [
-          "CR 142A"
-        ],
-        [
-          null
-        ]
+        "CR 142A",
+        []
       ],
       [
-        [
-          "0.95"
-        ],
-        [
-          null
-        ]
+        "0.95",
+        []
       ],
       [
-        [
-          "1.53"
-        ],
-        [
-          null
-        ]
+        "1.53",
+        []
       ],
       [
-        [
-          "NY 67"
-        ],
+        "NY 67",
         [
           "/wiki/NY_67"
         ]
       ],
       [
-        [
-          "Johnstown"
-        ],
+        "Albany Bush Road in Johnstown",
         [
           "/wiki/Johnstown_(town),_New_York"
         ]
       ],
       [
-        [
-          "CR 142"
-        ],
-        [
-          null
-        ]
+        "CR 142",
+        []
       ]
     ],
     [
       [
-        [
-          "CR 143"
-        ],
-        [
-          null
-        ]
+        "CR 143",
+        []
       ],
       [
-        [
-          "1.59"
-        ],
-        [
-          null
-        ]
+        "1.59",
+        []
       ],
       [
-        [
-          "2.56"
-        ],
-        [
-          null
-        ]
+        "2.56",
+        []
       ],
       [
-        [
-          "Northville"
-        ],
+        "Northville village line",
         [
           "/wiki/Northville,_Fulton_County,_New_York"
         ]
       ],
       [
-        [
-          "Northampton"
-        ],
+        "Maple Grove Road in Northampton",
         [
           "/wiki/Northampton,_Fulton_County,_New_York"
         ]
       ],
       [
-        [
-          "Hamilton County",
-          "CR 21"
-        ],
+        "Hamilton County line ( becomes CR 21 )",
         [
           "/wiki/Hamilton_County,_New_York",
           "/wiki/County_Route_21_(Hamilton_County,_New_York)"
@@ -512,100 +308,57 @@
     ],
     [
       [
-        [
-          "CR 145"
-        ],
-        [
-          null
-        ]
+        "CR 145",
+        []
       ],
       [
-        [
-          "1.35"
-        ],
-        [
-          null
-        ]
+        "1.35",
+        []
       ],
       [
-        [
-          "2.17"
-        ],
-        [
-          null
-        ]
+        "2.17",
+        []
       ],
       [
-        [
-          "CR 112"
-        ],
-        [
-          null
-        ]
+        "CR 112",
+        []
       ],
       [
-        [
-          "Bleecker"
-        ],
+        "Bowler Road in Bleecker",
         [
           "/wiki/Bleecker,_New_York"
         ]
       ],
       [
-        [
-          "Barlow Road"
-        ],
-        [
-          null
-        ]
+        "Barlow Road",
+        []
       ]
     ],
     [
       [
-        [
-          "CR 146"
-        ],
-        [
-          null
-        ]
+        "CR 146",
+        []
       ],
       [
-        [
-          "3.47"
-        ],
-        [
-          null
-        ]
+        "3.47",
+        []
       ],
       [
-        [
-          "5.58"
-        ],
-        [
-          null
-        ]
+        "5.58",
+        []
       ],
       [
-        [
-          "Johnstown"
-        ],
+        "CR 102 in Johnstown",
         [
           "/wiki/Johnstown_(town),_New_York"
         ]
       ],
       [
-        [
-          "West Main Street"
-        ],
-        [
-          null
-        ]
+        "West Main Street",
+        []
       ],
       [
-        [
-          "NY 30",
-          "Mayfield"
-        ],
+        "NY 30 in Mayfield",
         [
           "/wiki/NY_30",
           "/wiki/Mayfield_(town),_New_York"
@@ -614,51 +367,32 @@
     ],
     [
       [
-        [
-          "CR 148"
-        ],
-        [
-          null
-        ]
+        "CR 148",
+        []
       ],
       [
-        [
-          "0.65"
-        ],
-        [
-          null
-        ]
+        "0.65",
+        []
       ],
       [
-        [
-          "1.05"
-        ],
-        [
-          null
-        ]
+        "1.05",
+        []
       ],
       [
-        [
-          "Montgomery County",
-          "CR 31"
-        ],
+        "Montgomery County line ( becomes CR 31 )",
         [
           "/wiki/Montgomery_County,_New_York",
           "/wiki/County_Route_31_(Montgomery_County,_New_York)"
         ]
       ],
       [
-        [
-          "Johnstown"
-        ],
+        "Glebe Street in Johnstown",
         [
           "/wiki/Johnstown_(town),_New_York"
         ]
       ],
       [
-        [
-          "Johnstown city"
-        ],
+        "Johnstown city line",
         [
           "/wiki/Johnstown_(city),_New_York"
         ]
@@ -666,49 +400,29 @@
     ],
     [
       [
-        [
-          "CR 149"
-        ],
-        [
-          null
-        ]
+        "CR 149",
+        []
       ],
       [
-        [
-          "1.19"
-        ],
-        [
-          null
-        ]
+        "1.19",
+        []
       ],
       [
-        [
-          "1.92"
-        ],
-        [
-          null
-        ]
+        "1.92",
+        []
       ],
       [
-        [
-          "CR 113"
-        ],
-        [
-          null
-        ]
+        "CR 113",
+        []
       ],
       [
-        [
-          "Northampton"
-        ],
+        "Ridge Road in Northampton",
         [
           "/wiki/Northampton,_Fulton_County,_New_York"
         ]
       ],
       [
-        [
-          "Northville"
-        ],
+        "Northville village line",
         [
           "/wiki/Northville,_Fulton_County,_New_York"
         ]
@@ -716,49 +430,29 @@
     ],
     [
       [
-        [
-          "CR 150"
-        ],
-        [
-          null
-        ]
+        "CR 150",
+        []
       ],
       [
-        [
-          "1.17"
-        ],
-        [
-          null
-        ]
+        "1.17",
+        []
       ],
       [
-        [
-          "1.88"
-        ],
-        [
-          null
-        ]
+        "1.88",
+        []
       ],
       [
-        [
-          "CR 108"
-        ],
-        [
-          null
-        ]
+        "CR 108",
+        []
       ],
       [
-        [
-          "Oppenheim"
-        ],
+        "Unnamed road in Oppenheim",
         [
           "/wiki/Oppenheim,_New_York"
         ]
       ],
       [
-        [
-          "NY 331"
-        ],
+        "NY 331",
         [
           "/wiki/NY_331"
         ]
@@ -766,49 +460,29 @@
     ],
     [
       [
-        [
-          "CR 151"
-        ],
-        [
-          null
-        ]
+        "CR 151",
+        []
       ],
       [
-        [
-          "2.20"
-        ],
-        [
-          null
-        ]
+        "2.20",
+        []
       ],
       [
-        [
-          "3.54"
-        ],
-        [
-          null
-        ]
+        "3.54",
+        []
       ],
       [
-        [
-          "CR 108"
-        ],
-        [
-          null
-        ]
+        "CR 108",
+        []
       ],
       [
-        [
-          "Oppenheim"
-        ],
+        "Johnson Lane in Oppenheim",
         [
           "/wiki/Oppenheim,_New_York"
         ]
       ],
       [
-        [
-          "NY 29"
-        ],
+        "NY 29",
         [
           "/wiki/NY_29"
         ]
@@ -816,49 +490,31 @@
     ],
     [
       [
-        [
-          "CR 152"
-        ],
-        [
-          null
-        ]
+        "CR 152",
+        []
       ],
       [
-        [
-          "3.04"
-        ],
-        [
-          null
-        ]
+        "3.04",
+        []
       ],
       [
-        [
-          "4.89"
-        ],
-        [
-          null
-        ]
+        "4.89",
+        []
       ],
       [
-        [
-          "NY 30"
-        ],
+        "NY 30",
         [
           "/wiki/NY_30"
         ]
       ],
       [
-        [
-          "Northampton"
-        ],
+        "Old Route 30 in Northampton",
         [
           "/wiki/Northampton,_Fulton_County,_New_York"
         ]
       ],
       [
-        [
-          "NY 920H"
-        ],
+        "Bridge Street ( NY 920H )",
         [
           "/wiki/NY_920H"
         ]
@@ -866,49 +522,31 @@
     ],
     [
       [
-        [
-          "CR 153"
-        ],
-        [
-          null
-        ]
+        "CR 153",
+        []
       ],
       [
-        [
-          "0.36"
-        ],
-        [
-          null
-        ]
+        "0.36",
+        []
       ],
       [
-        [
-          "0.58"
-        ],
-        [
-          null
-        ]
+        "0.58",
+        []
       ],
       [
-        [
-          "NY 67"
-        ],
+        "NY 67",
         [
           "/wiki/NY_67"
         ]
       ],
       [
-        [
-          "Johnstown"
-        ],
+        "Airport Road in Johnstown",
         [
           "/wiki/Johnstown_(town),_New_York"
         ]
       ],
       [
-        [
-          "Fulton County Airport"
-        ],
+        "Fulton County Airport",
         [
           "/wiki/Fulton_County_Airport_(New_York)"
         ]
@@ -916,52 +554,32 @@
     ],
     [
       [
-        [
-          "CR 154"
-        ],
+        "CR 154",
         [
           "/wiki/County_Route_154_(Fulton_County,_New_York)"
         ]
       ],
       [
-        [
-          "1.46"
-        ],
-        [
-          null
-        ]
+        "1.46",
+        []
       ],
       [
-        [
-          "2.35"
-        ],
-        [
-          null
-        ]
+        "2.35",
+        []
       ],
       [
-        [
-          "Gloversville",
-          "Johnstown"
-        ],
+        "Gloversville city line in Johnstown",
         [
           "/wiki/Gloversville,_New_York",
           "/wiki/Johnstown_(town),_New_York"
         ]
       ],
       [
-        [
-          "East State Street"
-        ],
-        [
-          null
-        ]
+        "East State Street",
+        []
       ],
       [
-        [
-          "NY 30A",
-          "Mayfield"
-        ],
+        "NY 30A in Mayfield",
         [
           "/wiki/NY_30A",
           "/wiki/Mayfield_(town),_New_York"
@@ -970,51 +588,32 @@
     ],
     [
       [
-        [
-          "CR 155"
-        ],
+        "CR 155",
         [
           "/wiki/County_Route_155_(Fulton_County,_New_York)"
         ]
       ],
       [
-        [
-          "1.31"
-        ],
-        [
-          null
-        ]
+        "1.31",
+        []
       ],
       [
-        [
-          "2.11"
-        ],
-        [
-          null
-        ]
+        "2.11",
+        []
       ],
       [
-        [
-          "NY 29",
-          "Mayfield"
-        ],
+        "NY 29 in Mayfield",
         [
           "/wiki/NY_29",
           "/wiki/Mayfield_(town),_New_York"
         ]
       ],
       [
-        [
-          "West Main Street and Saratoga Avenue"
-        ],
-        [
-          null
-        ]
+        "West Main Street and Saratoga Avenue",
+        []
       ],
       [
-        [
-          "Broadalbin"
-        ],
+        "NY 29 in Broadalbin",
         [
           "/wiki/Broadalbin_(town),_New_York"
         ]
@@ -1022,49 +621,31 @@
     ],
     [
       [
-        [
-          "CR 156"
-        ],
-        [
-          null
-        ]
+        "CR 156",
+        []
       ],
       [
-        [
-          "1.28"
-        ],
-        [
-          null
-        ]
+        "1.28",
+        []
       ],
       [
-        [
-          "2.06"
-        ],
-        [
-          null
-        ]
+        "2.06",
+        []
       ],
       [
-        [
-          "NY 67"
-        ],
+        "NY 67",
         [
           "/wiki/NY_67"
         ]
       ],
       [
-        [
-          "Johnstown"
-        ],
+        "Fire Road in Johnstown",
         [
           "/wiki/Johnstown_(town),_New_York"
         ]
       ],
       [
-        [
-          "NY 29"
-        ],
+        "NY 29",
         [
           "/wiki/NY_29"
         ]

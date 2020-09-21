@@ -3,603 +3,359 @@
   "title": "Tetratricopeptide repeat 39A",
   "header": [
     [
-      [
-        "Species"
-      ],
-      [
-        null
-      ]
+      "Species",
+      []
     ],
     [
-      [
-        "Common name"
-      ],
-      [
-        null
-      ]
+      "Common name",
+      []
     ],
     [
-      [
-        "Accession number"
-      ],
-      [
-        null
-      ]
+      "Accession number",
+      []
     ],
     [
-      [
-        "Length"
-      ],
-      [
-        null
-      ]
+      "Length",
+      []
     ],
     [
-      [
-        "Protein identity"
-      ],
-      [
-        null
-      ]
+      "Protein identity",
+      []
     ],
     [
-      [
-        "Protein similarity"
-      ],
-      [
-        null
-      ]
+      "Protein similarity",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Homo sapiens"
-        ],
+        "Homo sapiens",
         [
           "/wiki/Homo_sapiens"
         ]
       ],
       [
-        [
-          "Human"
-        ],
+        "Human",
         [
           "/wiki/Human"
         ]
       ],
       [
-        [
-          "NP_001073963.1"
-        ],
-        [
-          null
-        ]
+        "NP_001073963.1",
+        []
       ],
       [
-        [
-          "613aa"
-        ],
-        [
-          null
-        ]
+        "613aa",
+        []
       ],
       [
-        [
-          "100%"
-        ],
-        [
-          null
-        ]
+        "100%",
+        []
       ],
       [
-        [
-          "100%"
-        ],
-        [
-          null
-        ]
+        "100%",
+        []
       ]
     ],
     [
       [
-        [
-          "Mus musculus"
-        ],
+        "Mus musculus",
         [
           "/wiki/Mus_musculus"
         ]
       ],
       [
-        [
-          "Mouse"
-        ],
+        "Mouse",
         [
           "/wiki/Mouse"
         ]
       ],
       [
-        [
-          "NP_001139420.1"
-        ],
-        [
-          null
-        ]
+        "NP_001139420.1",
+        []
       ],
       [
-        [
-          "578aa"
-        ],
-        [
-          null
-        ]
+        "578aa",
+        []
       ],
       [
-        [
-          "87.9%"
-        ],
-        [
-          null
-        ]
+        "87.9%",
+        []
       ],
       [
-        [
-          "91.0%"
-        ],
-        [
-          null
-        ]
+        "91.0%",
+        []
       ]
     ],
     [
       [
-        [
-          "Macaca mulatta"
-        ],
+        "Macaca mulatta",
         [
           "/wiki/Macaca_mulatta"
         ]
       ],
       [
-        [
-          "Rhesus monkey"
-        ],
+        "Rhesus monkey",
         [
           "/wiki/Rhesus_monkey"
         ]
       ],
       [
-        [
-          "XP_002801613.1"
-        ],
-        [
-          null
-        ]
+        "XP_002801613.1",
+        []
       ],
       [
-        [
-          "550aa"
-        ],
-        [
-          null
-        ]
+        "550aa",
+        []
       ],
       [
-        [
-          "92.0%"
-        ],
-        [
-          null
-        ]
+        "92.0%",
+        []
       ],
       [
-        [
-          "93.0%"
-        ],
-        [
-          null
-        ]
+        "93.0%",
+        []
       ]
     ],
     [
       [
-        [
-          "Gallus gallus"
-        ],
+        "Gallus gallus",
         [
           "/wiki/Gallus_gallus"
         ]
       ],
       [
-        [
-          "Chicken"
-        ],
+        "Chicken",
         [
           "/wiki/Chicken"
         ]
       ],
       [
-        [
-          "XP_422466.3"
-        ],
-        [
-          null
-        ]
+        "XP_422466.3",
+        []
       ],
       [
-        [
-          "575aa"
-        ],
-        [
-          null
-        ]
+        "575aa",
+        []
       ],
       [
-        [
-          "71.3%"
-        ],
-        [
-          null
-        ]
+        "71.3%",
+        []
       ],
       [
-        [
-          "81.0%"
-        ],
-        [
-          null
-        ]
+        "81.0%",
+        []
       ]
     ],
     [
       [
-        [
-          "Taeniopygia guttata"
-        ],
+        "Taeniopygia guttata",
         [
           "/wiki/Taeniopygia_guttata"
         ]
       ],
       [
-        [
-          "Zebra finch"
-        ],
+        "Zebra finch",
         [
           "/wiki/Zebra_finch"
         ]
       ],
       [
-        [
-          "XP_002193183"
-        ],
-        [
-          null
-        ]
+        "XP_002193183",
+        []
       ],
       [
-        [
-          "575aa"
-        ],
-        [
-          null
-        ]
+        "575aa",
+        []
       ],
       [
-        [
-          "73.0%"
-        ],
-        [
-          null
-        ]
+        "73.0%",
+        []
       ],
       [
-        [
-          "82.0%"
-        ],
-        [
-          null
-        ]
+        "82.0%",
+        []
       ]
     ],
     [
       [
-        [
-          "Anolis carolinensis"
-        ],
+        "Anolis carolinensis",
         [
           "/wiki/Anolis_carolinensis"
         ]
       ],
       [
-        [
-          "Green anole"
-        ],
+        "Green anole",
         [
           "/wiki/Green_anole"
         ]
       ],
       [
-        [
-          "XP_003216860.1"
-        ],
-        [
-          null
-        ]
+        "XP_003216860.1",
+        []
       ],
       [
-        [
-          "570aa"
-        ],
-        [
-          null
-        ]
+        "570aa",
+        []
       ],
       [
-        [
-          "58.8%"
-        ],
-        [
-          null
-        ]
+        "58.8%",
+        []
       ],
       [
-        [
-          "74.0%"
-        ],
-        [
-          null
-        ]
+        "74.0%",
+        []
       ]
     ],
     [
       [
-        [
-          "Danio rerio"
-        ],
+        "Danio rerio",
         [
           "/wiki/Danio_rerio"
         ]
       ],
       [
-        [
-          "Zebra fish"
-        ],
+        "Zebra fish",
         [
           "/wiki/Zebra_fish"
         ]
       ],
       [
-        [
-          "XP_002663143.1"
-        ],
-        [
-          null
-        ]
+        "XP_002663143.1",
+        []
       ],
       [
-        [
-          "598aa"
-        ],
-        [
-          null
-        ]
+        "598aa",
+        []
       ],
       [
-        [
-          "60.8%"
-        ],
-        [
-          null
-        ]
+        "60.8%",
+        []
       ],
       [
-        [
-          "76.0%"
-        ],
-        [
-          null
-        ]
+        "76.0%",
+        []
       ]
     ],
     [
       [
-        [
-          "Branchiostoma floridae"
-        ],
+        "Branchiostoma floridae",
         [
           "/wiki/Branchiostoma_floridae"
         ]
       ],
       [
-        [
-          "Lancelet"
-        ],
+        "Lancelet",
         [
           "/wiki/Lancelet"
         ]
       ],
       [
-        [
-          "XP_002591442.1"
-        ],
-        [
-          null
-        ]
+        "XP_002591442.1",
+        []
       ],
       [
-        [
-          "544aa"
-        ],
-        [
-          null
-        ]
+        "544aa",
+        []
       ],
       [
-        [
-          "41.1%"
-        ],
-        [
-          null
-        ]
+        "41.1%",
+        []
       ],
       [
-        [
-          "61.0%"
-        ],
-        [
-          null
-        ]
+        "61.0%",
+        []
       ]
     ],
     [
       [
-        [
-          "Physcomitrella patens"
-        ],
+        "Physcomitrella patens",
         [
           "/wiki/Physcomitrella_patens"
         ]
       ],
       [
-        [
-          "Moss"
-        ],
+        "Moss",
         [
           "/wiki/Moss"
         ]
       ],
       [
-        [
-          "XP_001766901.1"
-        ],
-        [
-          null
-        ]
+        "XP_001766901.1",
+        []
       ],
       [
-        [
-          "601aa"
-        ],
-        [
-          null
-        ]
+        "601aa",
+        []
       ],
       [
-        [
-          "24.2%"
-        ],
-        [
-          null
-        ]
+        "24.2%",
+        []
       ],
       [
-        [
-          "41.0%"
-        ],
-        [
-          null
-        ]
+        "41.0%",
+        []
       ]
     ],
     [
       [
-        [
-          "Leishmania braziliensis"
-        ],
+        "Leishmania braziliensis",
         [
           "/wiki/Leishmania_braziliensis"
         ]
       ],
       [
-        [
-          "Euglenozoa"
-        ],
+        "Euglenozoa",
         [
           "/wiki/Euglenozoa"
         ]
       ],
       [
-        [
-          "XP_001566995.1"
-        ],
-        [
-          null
-        ]
+        "XP_001566995.1",
+        []
       ],
       [
-        [
-          "584aa"
-        ],
-        [
-          null
-        ]
+        "584aa",
+        []
       ],
       [
-        [
-          "21.8%"
-        ],
-        [
-          null
-        ]
+        "21.8%",
+        []
       ],
       [
-        [
-          "40.0%"
-        ],
-        [
-          null
-        ]
+        "40.0%",
+        []
       ]
     ],
     [
       [
-        [
-          "Aster yellows"
-        ],
+        "Aster yellows",
         [
           "/wiki/Aster_yellows"
         ]
       ],
       [
-        [
-          "Phytoplasma"
-        ],
+        "Phytoplasma",
         [
           "/wiki/Phytoplasma"
         ]
       ],
       [
-        [
-          "AAO61940.1"
-        ],
-        [
-          null
-        ]
+        "AAO61940.1",
+        []
       ],
       [
-        [
-          "299aa"
-        ],
-        [
-          null
-        ]
+        "299aa",
+        []
       ],
       [
-        [
-          "15.1%"
-        ],
-        [
-          null
-        ]
+        "15.1%",
+        []
       ],
       [
-        [
-          "42.0%"
-        ],
-        [
-          null
-        ]
+        "42.0%",
+        []
       ]
     ]
   ],

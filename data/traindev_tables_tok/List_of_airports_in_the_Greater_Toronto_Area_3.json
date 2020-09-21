@@ -3,20 +3,11 @@
   "title": "List of airports in the Greater Toronto Area",
   "header": [
     [
-      [
-        "Airport name"
-      ],
-      [
-        null
-      ]
+      "Airport name",
+      []
     ],
     [
-      [
-        "ICAO",
-        "TC",
-        "LID",
-        "IATA"
-      ],
+      "ICAO / TC LID / IATA",
       [
         "/wiki/ICAO_airport_code",
         "/wiki/Transport_Canada",
@@ -25,36 +16,24 @@
       ]
     ],
     [
-      [
-        "Location"
-      ],
-      [
-        null
-      ]
+      "Location",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Brampton ( National D ) Heliport"
-        ],
+        "Brampton ( National D ) Heliport",
         [
           "/wiki/List_of_heliports_in_Canada"
         ]
       ],
       [
-        [
-          "CPC4"
-        ],
-        [
-          null
-        ]
+        "CPC4",
+        []
       ],
       [
-        [
-          "Brampton"
-        ],
+        "Brampton",
         [
           "/wiki/Brampton"
         ]
@@ -62,25 +41,17 @@
     ],
     [
       [
-        [
-          "Toronto ( Hospital For Sick Children ) Heliport"
-        ],
+        "Toronto ( Hospital For Sick Children ) Heliport",
         [
           "/wiki/The_Hospital_for_Sick_Children_(Toronto)"
         ]
       ],
       [
-        [
-          "CNW8"
-        ],
-        [
-          null
-        ]
+        "CNW8",
+        []
       ],
       [
-        [
-          "Toronto"
-        ],
+        "Toronto",
         [
           "/wiki/Toronto"
         ]
@@ -88,25 +59,17 @@
     ],
     [
       [
-        [
-          "Toronto/Markham Stouffville Heliport"
-        ],
+        "Toronto/Markham Stouffville Heliport",
         [
           "/wiki/Markham_Stouffville_Hospital"
         ]
       ],
       [
-        [
-          "CPH7"
-        ],
-        [
-          null
-        ]
+        "CPH7",
+        []
       ],
       [
-        [
-          "Markham"
-        ],
+        "Markham",
         [
           "/wiki/Markham,_Ontario"
         ]
@@ -114,25 +77,17 @@
     ],
     [
       [
-        [
-          "Toronto ( Mississauga Credit Valley Hospital ) Heliport"
-        ],
+        "Toronto ( Mississauga Credit Valley Hospital ) Heliport",
         [
           "/wiki/Credit_Valley_Hospital"
         ]
       ],
       [
-        [
-          "CPK6"
-        ],
-        [
-          null
-        ]
+        "CPK6",
+        []
       ],
       [
-        [
-          "Mississauga"
-        ],
+        "Mississauga",
         [
           "/wiki/Mississauga"
         ]
@@ -140,25 +95,17 @@
     ],
     [
       [
-        [
-          "Toronto ( St. Michael 's Hospital ) Heliport"
-        ],
+        "Toronto ( St. Michael 's Hospital ) Heliport",
         [
           "/wiki/St._Michael's_Hospital_(Toronto)"
         ]
       ],
       [
-        [
-          "CTM4"
-        ],
-        [
-          null
-        ]
+        "CTM4",
+        []
       ],
       [
-        [
-          "Toronto"
-        ],
+        "Toronto",
         [
           "/wiki/Toronto"
         ]
@@ -166,25 +113,17 @@
     ],
     [
       [
-        [
-          "Toronto ( Sunnybrook Medical Centre ) Heliport"
-        ],
+        "Toronto ( Sunnybrook Medical Centre ) Heliport",
         [
           "/wiki/Sunnybrook_Health_Sciences_Centre"
         ]
       ],
       [
-        [
-          "CNY8"
-        ],
-        [
-          null
-        ]
+        "CNY8",
+        []
       ],
       [
-        [
-          "Toronto"
-        ],
+        "Toronto",
         [
           "/wiki/Toronto"
         ]
@@ -192,25 +131,17 @@
     ],
     [
       [
-        [
-          "Tarten Heliport"
-        ],
+        "Tarten Heliport",
         [
           "/wiki/List_of_heliports_in_Canada"
         ]
       ],
       [
-        [
-          "CPA5"
-        ],
-        [
-          null
-        ]
+        "CPA5",
+        []
       ],
       [
-        [
-          "Mississauga"
-        ],
+        "Mississauga",
         [
           "/wiki/Mississauga"
         ]
@@ -218,26 +149,17 @@
     ],
     [
       [
-        [
-          "Wilson 's Heliport"
-        ],
+        "Wilson 's Heliport",
         [
           "/wiki/List_of_heliports_in_Canada"
         ]
       ],
       [
-        [
-          "CPY5"
-        ],
-        [
-          null
-        ]
+        "CPY5",
+        []
       ],
       [
-        [
-          "Toronto",
-          "Etobicoke"
-        ],
+        "Toronto ( Etobicoke )",
         [
           "/wiki/Toronto",
           "/wiki/Etobicoke"

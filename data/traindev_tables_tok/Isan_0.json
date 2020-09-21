@@ -3,68 +3,42 @@
   "title": "Isan",
   "header": [
     [
-      [
-        "Language"
-      ],
-      [
-        null
-      ]
+      "Language",
+      []
     ],
     [
-      [
-        "Family"
-      ],
-      [
-        null
-      ]
+      "Family",
+      []
     ],
     [
-      [
-        "Speakers"
-      ],
-      [
-        null
-      ]
+      "Speakers",
+      []
     ],
     [
-      [
-        "Distribution"
-      ],
-      [
-        null
-      ]
+      "Distribution",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Aheu"
-        ],
+        "Aheu",
         [
           "/wiki/Aheu_language"
         ]
       ],
       [
-        [
-          "Mon-Khmer"
-        ],
+        "Mon-Khmer",
         [
           "/wiki/Mon\u2013Khmer"
         ]
       ],
       [
-        [
-          "750"
-        ],
-        [
-          null
-        ]
+        "750",
+        []
       ],
       [
-        [
-          "Sakhon Nakhon"
-        ],
+        "Sakhon Nakhon",
         [
           "/wiki/Sakhon_Nakhon"
         ]
@@ -72,407 +46,243 @@
     ],
     [
       [
-        [
-          "Eastern Bru"
-        ],
+        "Eastern Bru",
         [
           "/wiki/Eastern_Bru_language"
         ]
       ],
       [
-        [
-          "Mon-Khmer"
-        ],
-        [
-          null
-        ]
+        "Mon-Khmer",
+        []
       ],
       [
-        [
-          "5,000"
-        ],
-        [
-          null
-        ]
+        "5,000",
+        []
       ],
       [
-        [
-          "Sakhon Nakhon"
-        ],
-        [
-          null
-        ]
+        "Sakhon Nakhon",
+        []
       ]
     ],
     [
       [
-        [
-          "Western Bru"
-        ],
+        "Western Bru",
         [
           "/wiki/Western_Bru_language"
         ]
       ],
       [
-        [
-          "Mon-Khmer"
-        ],
-        [
-          null
-        ]
+        "Mon-Khmer",
+        []
       ],
       [
-        [
-          "20,000"
-        ],
-        [
-          null
-        ]
+        "20,000",
+        []
       ],
       [
-        [
-          "Mukdahan , Amnatcharoen , Ubon"
-        ],
-        [
-          null
-        ]
+        "Mukdahan , Amnatcharoen , Ubon",
+        []
       ]
     ],
     [
       [
-        [
-          "Khmer Surin"
-        ],
+        "Khmer Surin",
         [
           "/wiki/Northern_Khmer_dialect"
         ]
       ],
       [
-        [
-          "Mon-Khmer"
-        ],
-        [
-          null
-        ]
+        "Mon-Khmer",
+        []
       ],
       [
-        [
-          "1,000,000"
-        ],
-        [
-          null
-        ]
+        "1,000,000",
+        []
       ],
       [
-        [
-          "Surin , Sisaket , Buriram , Khorat"
-        ],
-        [
-          null
-        ]
+        "Surin , Sisaket , Buriram , Khorat",
+        []
       ]
     ],
     [
       [
-        [
-          "Kuy"
-        ],
+        "Kuy",
         [
           "/wiki/Kuy_language"
         ]
       ],
       [
-        [
-          "Mon-Khmer"
-        ],
-        [
-          null
-        ]
+        "Mon-Khmer",
+        []
       ],
       [
-        [
-          "300,000"
-        ],
-        [
-          null
-        ]
+        "300,000",
+        []
       ],
       [
-        [
-          "Buriram , Surin , Sisaket , Ubon , Roi Et"
-        ],
-        [
-          null
-        ]
+        "Buriram , Surin , Sisaket , Ubon , Roi Et",
+        []
       ]
     ],
     [
       [
-        [
-          "Nyah Kur"
-        ],
+        "Nyah Kur",
         [
           "/wiki/Nyah_Kur_language"
         ]
       ],
       [
-        [
-          "Mon-Khmer"
-        ],
-        [
-          null
-        ]
+        "Mon-Khmer",
+        []
       ],
       [
-        [
-          "1,500"
-        ],
-        [
-          null
-        ]
+        "1,500",
+        []
       ],
       [
-        [
-          "Khorat , Chaiyaphum"
-        ],
-        [
-          null
-        ]
+        "Khorat , Chaiyaphum",
+        []
       ]
     ],
     [
       [
-        [
-          "Nyaw"
-        ],
+        "Nyaw",
         [
           "/wiki/Nyaw_language"
         ]
       ],
       [
-        [
-          "Tai-Kadai"
-        ],
+        "Tai-Kadai",
         [
           "/wiki/Tai\u2013Kadai_languages"
         ]
       ],
       [
-        [
-          "50,000"
-        ],
-        [
-          null
-        ]
+        "50,000",
+        []
       ],
       [
-        [
-          "Sakon Nakhon , Nong Khai , Nakhon Phanom"
-        ],
-        [
-          null
-        ]
+        "Sakon Nakhon , Nong Khai , Nakhon Phanom",
+        []
       ]
     ],
     [
       [
-        [
-          "Nyeu"
-        ],
+        "Nyeu",
         [
           "/wiki/Nyeu_language"
         ]
       ],
       [
-        [
-          "Mon-Khmer"
-        ],
-        [
-          null
-        ]
+        "Mon-Khmer",
+        []
       ],
       [
-        [
-          "200"
-        ],
-        [
-          null
-        ]
+        "200",
+        []
       ],
       [
-        [
-          "Sisaket"
-        ],
-        [
-          null
-        ]
+        "Sisaket",
+        []
       ]
     ],
     [
       [
-        [
-          "Phu Thai"
-        ],
+        "Phu Thai",
         [
           "/wiki/Phu_Thai_language"
         ]
       ],
       [
-        [
-          "Tai-Kadai"
-        ],
-        [
-          null
-        ]
+        "Tai-Kadai",
+        []
       ],
       [
-        [
-          "156,000"
-        ],
-        [
-          null
-        ]
+        "156,000",
+        []
       ],
       [
-        [
-          "Nakhon Phanom , Ubon , Kalasin , Sakhon Nakhon"
-        ],
-        [
-          null
-        ]
+        "Nakhon Phanom , Ubon , Kalasin , Sakhon Nakhon",
+        []
       ]
     ],
     [
       [
-        [
-          "Phuan"
-        ],
+        "Phuan",
         [
           "/wiki/Phuan_language"
         ]
       ],
       [
-        [
-          "Tai-Kadai"
-        ],
-        [
-          null
-        ]
+        "Tai-Kadai",
+        []
       ],
       [
-        [
-          "200,000"
-        ],
-        [
-          null
-        ]
+        "200,000",
+        []
       ],
       [
-        [
-          "Udon , Loei"
-        ],
-        [
-          null
-        ]
+        "Udon , Loei",
+        []
       ]
     ],
     [
       [
-        [
-          "Saek"
-        ],
+        "Saek",
         [
           "/wiki/Saek_language"
         ]
       ],
       [
-        [
-          "Tai-Kadai"
-        ],
-        [
-          null
-        ]
+        "Tai-Kadai",
+        []
       ],
       [
-        [
-          "11,000"
-        ],
-        [
-          null
-        ]
+        "11,000",
+        []
       ],
       [
-        [
-          "Nakhon Phanom"
-        ],
-        [
-          null
-        ]
+        "Nakhon Phanom",
+        []
       ]
     ],
     [
       [
-        [
-          "So"
-        ],
+        "So",
         [
           "/wiki/S\u00f4_language"
         ]
       ],
       [
-        [
-          "Mon-Khmer"
-        ],
-        [
-          null
-        ]
+        "Mon-Khmer",
+        []
       ],
       [
-        [
-          "55,000"
-        ],
-        [
-          null
-        ]
+        "55,000",
+        []
       ],
       [
-        [
-          "Nakhon Phanom , Sakhon Nakhon , Nong Khai , Kalasin"
-        ],
-        [
-          null
-        ]
+        "Nakhon Phanom , Sakhon Nakhon , Nong Khai , Kalasin",
+        []
       ]
     ],
     [
       [
-        [
-          "Tai Dam"
-        ],
+        "Tai Dam",
         [
           "/wiki/Tai_Dam_language"
         ]
       ],
       [
-        [
-          "Tai-Kadai"
-        ],
-        [
-          null
-        ]
+        "Tai-Kadai",
+        []
       ],
       [
-        [
-          "20,000"
-        ],
-        [
-          null
-        ]
+        "20,000",
+        []
       ],
       [
-        [
-          "Saraburi"
-        ],
+        "Nong Khai , Khorat , Loei ( plus Saraburi )",
         [
           "/wiki/Saraburi_Province"
         ]
@@ -480,36 +290,22 @@
     ],
     [
       [
-        [
-          "Yoy"
-        ],
+        "Yoy",
         [
           "/wiki/Yoy_language"
         ]
       ],
       [
-        [
-          "Tai-Kadai"
-        ],
-        [
-          null
-        ]
+        "Tai-Kadai",
+        []
       ],
       [
-        [
-          "5,000"
-        ],
-        [
-          null
-        ]
+        "5,000",
+        []
       ],
       [
-        [
-          "Sakhon Nakhon"
-        ],
-        [
-          null
-        ]
+        "Sakhon Nakhon",
+        []
       ]
     ]
   ],

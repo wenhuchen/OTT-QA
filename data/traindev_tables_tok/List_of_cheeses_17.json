@@ -3,52 +3,32 @@
   "title": "List of cheeses",
   "header": [
     [
-      [
-        "Name"
-      ],
-      [
-        null
-      ]
+      "Name",
+      []
     ],
     [
-      [
-        "Region"
-      ],
-      [
-        null
-      ]
+      "Region",
+      []
     ],
     [
-      [
-        "Description"
-      ],
-      [
-        null
-      ]
+      "Description",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Brussels cheese"
-        ],
+        "Brussels cheese",
         [
           "/wiki/Brussels_cheese"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "milk"
-        ],
+        "Made from cow 's milk , it has a smooth texture and a sharp and citrus flavor , along with a strong and salty bite",
         [
           "/wiki/Milk"
         ]
@@ -56,25 +36,17 @@
     ],
     [
       [
-        [
-          "Chimay cheeses"
-        ],
+        "Chimay cheeses",
         [
           "/wiki/Chimay_Brewery"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Chimay Brewery"
-        ],
+        "Brands , and varieties , of cheeses produced by Chimay Brewery , some soaked in Chimay Ale",
         [
           "/wiki/Chimay_Brewery"
         ]
@@ -82,25 +54,17 @@
     ],
     [
       [
-        [
-          "Herve cheese"
-        ],
+        "Herve cheese",
         [
           "/wiki/Herve_cheese"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "caves"
-        ],
+        "An aged cheese made from unpasteurized cow 's milk . It is traditionally aged in humid caves",
         [
           "/wiki/Cave"
         ]
@@ -108,54 +72,33 @@
     ],
     [
       [
-        [
-          "Le Wavreumont"
-        ],
-        [
-          null
-        ]
+        "Le Wavreumont",
+        []
       ],
       [
-        [
-          "Ferri\u00e8res , Belgium"
-        ],
+        "Made by Fromagerie des Ardennes , which is in Ferri\u00e8res , Belgium",
         [
           "/wiki/Ferri\u00e8res,_Belgium"
         ]
       ],
       [
-        [
-          "Produced from cow 's milk , this cheese is semi-soft and its coloration varies from yellow to ivory depending upon the season in which its produced"
-        ],
-        [
-          null
-        ]
+        "Produced from cow 's milk , this cheese is semi-soft and its coloration varies from yellow to ivory depending upon the season in which its produced",
+        []
       ]
     ],
     [
       [
-        [
-          "Limburger cheese"
-        ],
+        "Limburger cheese",
         [
           "/wiki/Limburger_cheese"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Duchy of Limburg",
-          "Belgium",
-          "Germany",
-          "Netherlands"
-        ],
+        "Originated during the 19th century in the historical Duchy of Limburg , which is now divided among modern-day Belgium , Germany , and Netherlands . The cheese is especially known for its pungent odor . One of the most traditional forms of eating Limburger is the Limburger sandwich",
         [
           "/wiki/Duchy_of_Limburg",
           "/wiki/Limburg_(Belgium)",
@@ -166,85 +109,58 @@
     ],
     [
       [
-        [
-          "Maredsous cheese"
-        ],
+        "Maredsous cheese",
         [
           "/wiki/Maredsous_cheese"
         ]
       ],
       [
-        [
-          "Maredsous Abbey",
-          "Den\u00e9e , Belgium"
-        ],
+        "Produced at Maredsous Abbey in Den\u00e9e , Belgium",
         [
           "/wiki/Maredsous_Abbey",
           "/wiki/Den\u00e9e,_Belgium"
         ]
       ],
       [
-        [
-          "A loaf-shaped cheese made from cow 's milk . The cheese is lightly pressed , then washed in brine to create the firm , orange crust and pungent aroma"
-        ],
-        [
-          null
-        ]
+        "A loaf-shaped cheese made from cow 's milk . The cheese is lightly pressed , then washed in brine to create the firm , orange crust and pungent aroma",
+        []
       ]
     ],
     [
       [
-        [
-          "Passendale cheese"
-        ],
+        "Passendale cheese",
         [
           "/wiki/Passendale_cheese"
         ]
       ],
       [
-        [
-          "Passendale",
-          "Belgium"
-        ],
+        "Passendale , Belgium",
         [
           "/wiki/Passendale",
           "/wiki/Belgium"
         ]
       ],
       [
-        [
-          "Named after Passendale , the village where it originated , it is one of the best-known cheeses in Belgium . It resembles a loaf of bread and has a round shape and a hard , but edible brown rind with spots of white . Inside , the flesh is golden , dotted with small holes and very creamy . It has a firm and damp consistency , slightly sweet bouquet and mild flavor . The regular Passendale cheese exists in two variations called Passendale Classic and Passendale Prelude"
-        ],
-        [
-          null
-        ]
+        "Named after Passendale , the village where it originated , it is one of the best-known cheeses in Belgium . It resembles a loaf of bread and has a round shape and a hard , but edible brown rind with spots of white . Inside , the flesh is golden , dotted with small holes and very creamy . It has a firm and damp consistency , slightly sweet bouquet and mild flavor . The regular Passendale cheese exists in two variations called Passendale Classic and Passendale Prelude",
+        []
       ]
     ],
     [
       [
-        [
-          "Remoudou"
-        ],
+        "Remoudou",
         [
           "/wiki/Remoudou"
         ]
       ],
       [
-        [
-          "Land of Herve",
-          "Belgium"
-        ],
+        "Land of Herve , Belgium",
         [
           "/wiki/Land_of_Herve",
           "/wiki/Belgium"
         ]
       ],
       [
-        [
-          "milking",
-          "wallon",
-          "verb"
-        ],
+        "It derives its name from the use of milk removed 15 minutes after the usual milking . Hence the wallon verb rimo\u00fbd meaning to re-milk . This cheese weighs 200 to 500g . When it is washed with salt it gets a strong taste , and when it is washed with milk it keeps a mild taste . It is often sold in pieces",
         [
           "/wiki/Milking",
           "/wiki/Walloon_language",
@@ -254,30 +170,19 @@
     ],
     [
       [
-        [
-          "Rodoric"
-        ],
-        [
-          null
-        ]
+        "Rodoric",
+        []
       ],
       [
-        [
-          "Li\u00e8ge",
-          "Belgium"
-        ],
+        "Li\u00e8ge , Belgium",
         [
           "/wiki/Li\u00e8ge_(city)",
           "/wiki/Belgium"
         ]
       ],
       [
-        [
-          "An aged cheese made from unpasteurized goat milk that is traditionally aged in humid caves . When young , the interior is sweet , with age the flavor becomes spicy"
-        ],
-        [
-          null
-        ]
+        "An aged cheese made from unpasteurized goat milk that is traditionally aged in humid caves . When young , the interior is sweet , with age the flavor becomes spicy",
+        []
       ]
     ]
   ],

@@ -3,1053 +3,641 @@
   "title": "Football in Berlin",
   "header": [
     [
-      [
-        "Club"
-      ],
-      [
-        null
-      ]
+      "Club",
+      []
     ],
     [
-      [
-        "Club founded"
-      ],
-      [
-        null
-      ]
+      "Club founded",
+      []
     ],
     [
-      [
-        "League"
-      ],
-      [
-        null
-      ]
+      "League",
+      []
     ],
     [
-      [
-        "Level"
-      ],
-      [
-        null
-      ]
+      "Level",
+      []
     ],
     [
-      [
-        "Home Ground"
-      ],
-      [
-        null
-      ]
+      "Home Ground",
+      []
     ],
     [
-      [
-        "Capacity"
-      ],
-      [
-        null
-      ]
+      "Capacity",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Hertha BSC"
-        ],
+        "Hertha BSC",
         [
           "/wiki/Hertha_BSC"
         ]
       ],
       [
-        [
-          "1892"
-        ],
-        [
-          null
-        ]
+        "1892",
+        []
       ],
       [
-        [
-          "Bundesliga"
-        ],
+        "Bundesliga",
         [
           "/wiki/Bundesliga"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "Olympiastadion"
-        ],
+        "Olympiastadion",
         [
           "/wiki/Olympiastadion_(Berlin)"
         ]
       ],
       [
-        [
-          "74,475"
-        ],
-        [
-          null
-        ]
+        "74,475",
+        []
       ]
     ],
     [
       [
-        [
-          "1 . FC Union Berlin"
-        ],
+        "1 . FC Union Berlin",
         [
           "/wiki/1._FC_Union_Berlin"
         ]
       ],
       [
-        [
-          "1966"
-        ],
-        [
-          null
-        ]
+        "1966",
+        []
       ],
       [
-        [
-          "Bundesliga"
-        ],
+        "Bundesliga",
         [
           "/wiki/Bundesliga"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "Stadion An der Alten F\u00f6rsterei"
-        ],
+        "Stadion An der Alten F\u00f6rsterei",
         [
           "/wiki/Stadion_An_der_Alten_F\u00f6rsterei"
         ]
       ],
       [
-        [
-          "22,012"
-        ],
-        [
-          null
-        ]
+        "22,012",
+        []
       ]
     ],
     [
       [
-        [
-          "BFC Dynamo"
-        ],
+        "BFC Dynamo",
         [
           "/wiki/BFC_Dynamo"
         ]
       ],
       [
-        [
-          "1966"
-        ],
-        [
-          null
-        ]
+        "1966",
+        []
       ],
       [
-        [
-          "Regionalliga Nordost"
-        ],
+        "Regionalliga Nordost",
         [
           "/wiki/Regionalliga_Nordost"
         ]
       ],
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "Friedrich-Ludwig-Jahn-Sportpark"
-        ],
+        "Friedrich-Ludwig-Jahn-Sportpark",
         [
           "/wiki/Friedrich-Ludwig-Jahn-Sportpark"
         ]
       ],
       [
-        [
-          "19,708"
-        ],
-        [
-          null
-        ]
+        "19,708",
+        []
       ]
     ],
     [
       [
-        [
-          "FC Viktoria 1889 Berlin"
-        ],
+        "FC Viktoria 1889 Berlin",
         [
           "/wiki/FC_Viktoria_1889_Berlin"
         ]
       ],
       [
-        [
-          "1889"
-        ],
-        [
-          null
-        ]
+        "1889",
+        []
       ],
       [
-        [
-          "Regionalliga Nordost"
-        ],
+        "Regionalliga Nordost",
         [
           "/wiki/Regionalliga_Nordost"
         ]
       ],
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "Stadion Lichterfelde"
-        ],
-        [
-          null
-        ]
+        "Stadion Lichterfelde",
+        []
       ],
       [
-        [
-          "4,300"
-        ],
-        [
-          null
-        ]
+        "4,300",
+        []
       ]
     ],
     [
       [
-        [
-          "Berliner AK 07"
-        ],
+        "Berliner AK 07",
         [
           "/wiki/Berliner_AK_07"
         ]
       ],
       [
-        [
-          "1907"
-        ],
-        [
-          null
-        ]
+        "1907",
+        []
       ],
       [
-        [
-          "Regionalliga Nordost"
-        ],
+        "Regionalliga Nordost",
         [
           "/wiki/Regionalliga_Nordost"
         ]
       ],
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "Poststadion"
-        ],
+        "Poststadion",
         [
           "/wiki/Poststadion"
         ]
       ],
       [
-        [
-          "10,000"
-        ],
-        [
-          null
-        ]
+        "10,000",
+        []
       ]
     ],
     [
       [
-        [
-          "VSG Altglienicke"
-        ],
+        "VSG Altglienicke",
         [
           "/wiki/VSG_Altglienicke"
         ]
       ],
       [
-        [
-          "1946"
-        ],
-        [
-          null
-        ]
+        "1946",
+        []
       ],
       [
-        [
-          "Regionalliga Nordost"
-        ],
+        "Regionalliga Nordost",
         [
           "/wiki/Regionalliga_Nordost"
         ]
       ],
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "Friedrich-Ludwig-Jahn-Sportpark"
-        ],
+        "Friedrich-Ludwig-Jahn-Sportpark",
         [
           "/wiki/Friedrich-Ludwig-Jahn-Sportpark"
         ]
       ],
       [
-        [
-          "19,708"
-        ],
-        [
-          null
-        ]
+        "19,708",
+        []
       ]
     ],
     [
       [
-        [
-          "SV Lichtenberg 47"
-        ],
+        "SV Lichtenberg 47",
         [
           "/wiki/SV_Lichtenberg_47"
         ]
       ],
       [
-        [
-          "1947"
-        ],
-        [
-          null
-        ]
+        "1947",
+        []
       ],
       [
-        [
-          "Regionalliga Nordost"
-        ],
+        "Regionalliga Nordost",
         [
           "/wiki/Regionalliga_Nordost"
         ]
       ],
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "Hans-Zoschke-Stadion"
-        ],
-        [
-          null
-        ]
+        "Hans-Zoschke-Stadion",
+        []
       ],
       [
-        [
-          "10,000"
-        ],
-        [
-          null
-        ]
+        "10,000",
+        []
       ]
     ],
     [
       [
-        [
-          "Tennis Borussia Berlin"
-        ],
+        "Tennis Borussia Berlin",
         [
           "/wiki/Tennis_Borussia_Berlin"
         ]
       ],
       [
-        [
-          "1902"
-        ],
-        [
-          null
-        ]
+        "1902",
+        []
       ],
       [
-        [
-          "NOFV-Oberliga Nord"
-        ],
+        "NOFV-Oberliga Nord",
         [
           "/wiki/NOFV-Oberliga_Nord"
         ]
       ],
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "Mommsenstadion"
-        ],
+        "Mommsenstadion",
         [
           "/wiki/Mommsenstadion"
         ]
       ],
       [
-        [
-          "15,005"
-        ],
-        [
-          null
-        ]
+        "15,005",
+        []
       ]
     ],
     [
       [
-        [
-          "SpVg Blau-Wei\u00df 90 Berlin"
-        ],
+        "SpVg Blau-Wei\u00df 90 Berlin",
         [
           "/wiki/SpVg_Blau-Wei\u00df_90_Berlin"
         ]
       ],
       [
-        [
-          "1992"
-        ],
-        [
-          null
-        ]
+        "1992",
+        []
       ],
       [
-        [
-          "NOFV-Oberliga Nord"
-        ],
+        "NOFV-Oberliga Nord",
         [
           "/wiki/NOFV-Oberliga_Nord"
         ]
       ],
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "Sportplatz an der Rathausstra\u00dfe ( Union-Platz )"
-        ],
-        [
-          null
-        ]
+        "Sportplatz an der Rathausstra\u00dfe ( Union-Platz )",
+        []
       ],
       [
-        [
-          "3,000"
-        ],
-        [
-          null
-        ]
+        "3,000",
+        []
       ]
     ],
     [
       [
-        [
-          "FC Hertha 03 Zehlendorf"
-        ],
+        "FC Hertha 03 Zehlendorf",
         [
           "/wiki/Hertha_Zehlendorf"
         ]
       ],
       [
-        [
-          "1903"
-        ],
-        [
-          null
-        ]
+        "1903",
+        []
       ],
       [
-        [
-          "NOFV-Oberliga Nord"
-        ],
+        "NOFV-Oberliga Nord",
         [
           "/wiki/NOFV-Oberliga_Nord"
         ]
       ],
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "Ernst-Reuter-Sportanlage"
-        ],
-        [
-          null
-        ]
+        "Ernst-Reuter-Sportanlage",
+        []
       ],
       [
-        [
-          "4,000"
-        ],
-        [
-          null
-        ]
+        "4,000",
+        []
       ]
     ],
     [
       [
-        [
-          "CFC Hertha 06"
-        ],
+        "CFC Hertha 06",
         [
           "/wiki/CFC_Hertha_06"
         ]
       ],
       [
-        [
-          "1903"
-        ],
-        [
-          null
-        ]
+        "1903",
+        []
       ],
       [
-        [
-          "NOFV-Oberliga Nord"
-        ],
+        "NOFV-Oberliga Nord",
         [
           "/wiki/NOFV-Oberliga_Nord"
         ]
       ],
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "Sportplatz S\u00f6mmeringstra\u00dfe"
-        ],
-        [
-          null
-        ]
+        "Sportplatz S\u00f6mmeringstra\u00dfe",
+        []
       ],
       [
-        [
-          "3,000"
-        ],
-        [
-          null
-        ]
+        "3,000",
+        []
       ]
     ],
     [
       [
-        [
-          "SC Staaken"
-        ],
-        [
-          null
-        ]
+        "SC Staaken",
+        []
       ],
       [
-        [
-          "1919"
-        ],
-        [
-          null
-        ]
+        "1919",
+        []
       ],
       [
-        [
-          "NOFV-Oberliga Nord"
-        ],
+        "NOFV-Oberliga Nord",
         [
           "/wiki/NOFV-Oberliga_Nord"
         ]
       ],
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "Sportpark Staaken"
-        ],
-        [
-          null
-        ]
+        "Sportpark Staaken",
+        []
       ],
       [
-        [
-          "1,500"
-        ],
-        [
-          null
-        ]
+        "1,500",
+        []
       ]
     ],
     [
       [
-        [
-          "SV Tasmania Berlin"
-        ],
+        "SV Tasmania Berlin",
         [
           "/wiki/SV_Tasmania_Berlin"
         ]
       ],
       [
-        [
-          "1973"
-        ],
-        [
-          null
-        ]
+        "1973",
+        []
       ],
       [
-        [
-          "Berlin-Liga"
-        ],
+        "Berlin-Liga",
         [
           "/wiki/Berlin-Liga"
         ]
       ],
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "Sportpark Neuk\u00f6lln"
-        ],
-        [
-          null
-        ]
+        "Sportpark Neuk\u00f6lln",
+        []
       ],
       [
-        [
-          "3,500"
-        ],
-        [
-          null
-        ]
+        "3,500",
+        []
       ]
     ],
     [
       [
-        [
-          "BFC Preussen"
-        ],
+        "BFC Preussen",
         [
           "/wiki/BFC_Preussen"
         ]
       ],
       [
-        [
-          "1894"
-        ],
-        [
-          null
-        ]
+        "1894",
+        []
       ],
       [
-        [
-          "Berlin-Liga"
-        ],
+        "Berlin-Liga",
         [
           "/wiki/Berlin-Liga"
         ]
       ],
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "Preussen-Stadion Malteserstra\u00dfe"
-        ],
-        [
-          null
-        ]
+        "Preussen-Stadion Malteserstra\u00dfe",
+        []
       ],
       [
-        [
-          "3,000"
-        ],
-        [
-          null
-        ]
+        "3,000",
+        []
       ]
     ],
     [
       [
-        [
-          "Berliner Sport-Club"
-        ],
+        "Berliner Sport-Club",
         [
           "/wiki/Berliner_Sport-Club"
         ]
       ],
       [
-        [
-          "1892"
-        ],
-        [
-          null
-        ]
+        "1892",
+        []
       ],
       [
-        [
-          "Berlin-Liga"
-        ],
+        "Berlin-Liga",
         [
           "/wiki/Berlin-Liga"
         ]
       ],
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "Hubertussportplatz"
-        ],
-        [
-          null
-        ]
+        "Hubertussportplatz",
+        []
       ],
       [
-        [
-          "3,000"
-        ],
-        [
-          null
-        ]
+        "3,000",
+        []
       ]
     ],
     [
       [
-        [
-          "SC Charlottenburg"
-        ],
+        "SC Charlottenburg",
         [
           "/wiki/SCC_Berlin"
         ]
       ],
       [
-        [
-          "1898"
-        ],
-        [
-          null
-        ]
+        "1898",
+        []
       ],
       [
-        [
-          "Berlin-Liga"
-        ],
+        "Berlin-Liga",
         [
           "/wiki/Berlin-Liga"
         ]
       ],
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "Mommsenstadion"
-        ],
+        "Mommsenstadion",
         [
           "/wiki/Mommsenstadion"
         ]
       ],
       [
-        [
-          "15,005"
-        ],
-        [
-          null
-        ]
+        "15,005",
+        []
       ]
     ],
     [
       [
-        [
-          "SFC Stern 1900"
-        ],
+        "SFC Stern 1900",
         [
           "/wiki/SFC_Stern_1900"
         ]
       ],
       [
-        [
-          "1900"
-        ],
-        [
-          null
-        ]
+        "1900",
+        []
       ],
       [
-        [
-          "Berlin-Liga"
-        ],
+        "Berlin-Liga",
         [
           "/wiki/Berlin-Liga"
         ]
       ],
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "Sportplatz Schildhornstra\u00dfe"
-        ],
-        [
-          null
-        ]
+        "Sportplatz Schildhornstra\u00dfe",
+        []
       ],
       [
-        [
-          "1,000"
-        ],
-        [
-          null
-        ]
+        "1,000",
+        []
       ]
     ],
     [
       [
-        [
-          "TuS Makkabi Berlin"
-        ],
+        "TuS Makkabi Berlin",
         [
           "/wiki/TuS_Makkabi_Berlin"
         ]
       ],
       [
-        [
-          "1970"
-        ],
-        [
-          null
-        ]
+        "1970",
+        []
       ],
       [
-        [
-          "Berlin-Liga"
-        ],
+        "Berlin-Liga",
         [
           "/wiki/Berlin-Liga"
         ]
       ],
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "Julius-Hirsch-Sportanlage"
-        ],
-        [
-          null
-        ]
+        "Julius-Hirsch-Sportanlage",
+        []
       ],
       [
-        [
-          "1,000"
-        ],
-        [
-          null
-        ]
+        "1,000",
+        []
       ]
     ],
     [
       [
-        [
-          "SV Empor Berlin"
-        ],
-        [
-          null
-        ]
+        "SV Empor Berlin",
+        []
       ],
       [
-        [
-          "1949"
-        ],
-        [
-          null
-        ]
+        "1949",
+        []
       ],
       [
-        [
-          "Berlin-Liga"
-        ],
+        "Berlin-Liga",
         [
           "/wiki/Berlin-Liga"
         ]
       ],
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "Friedrich-Ludwig-Jahn-Sportpark"
-        ],
+        "Friedrich-Ludwig-Jahn-Sportpark",
         [
           "/wiki/Friedrich-Ludwig-Jahn-Sportpark"
         ]
       ],
       [
-        [
-          "19,708"
-        ],
-        [
-          null
-        ]
+        "19,708",
+        []
       ]
     ],
     [
       [
-        [
-          "T\u00fcrkiyemspor Berlin"
-        ],
+        "T\u00fcrkiyemspor Berlin",
         [
           "/wiki/T\u00fcrkiyemspor_Berlin"
         ]
       ],
       [
-        [
-          "1978"
-        ],
-        [
-          null
-        ]
+        "1978",
+        []
       ],
       [
-        [
-          "Berlin-Liga"
-        ],
+        "Berlin-Liga",
         [
           "/wiki/Berlin-Liga"
         ]
       ],
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "Willy-Kressmann-Stadion"
-        ],
-        [
-          null
-        ]
+        "Willy-Kressmann-Stadion",
+        []
       ],
       [
-        [
-          "5,000"
-        ],
-        [
-          null
-        ]
+        "5,000",
+        []
       ]
     ]
   ],

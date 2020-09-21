@@ -3,62 +3,38 @@
   "title": "List of British films of 1980",
   "header": [
     [
-      [
-        "Title"
-      ],
-      [
-        null
-      ]
+      "Title",
+      []
     ],
     [
-      [
-        "Director"
-      ],
-      [
-        null
-      ]
+      "Director",
+      []
     ],
     [
-      [
-        "Cast"
-      ],
-      [
-        null
-      ]
+      "Cast",
+      []
     ],
     [
-      [
-        "Genre"
-      ],
-      [
-        null
-      ]
+      "Genre",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "The Awakening"
-        ],
+        "The Awakening",
         [
           "/wiki/The_Awakening_(1980_film)"
         ]
       ],
       [
-        [
-          "Mike Newell"
-        ],
+        "Mike Newell",
         [
           "/wiki/Mike_Newell_(director)"
         ]
       ],
       [
-        [
-          "Charlton Heston",
-          "Susannah York",
-          "Jill Townsend"
-        ],
+        "Charlton Heston , Susannah York , Jill Townsend",
         [
           "/wiki/Charlton_Heston",
           "/wiki/Susannah_York",
@@ -66,37 +42,25 @@
         ]
       ],
       [
-        [
-          "Horror"
-        ],
-        [
-          null
-        ]
+        "Horror",
+        []
       ]
     ],
     [
       [
-        [
-          "Babylon"
-        ],
+        "Babylon",
         [
           "/wiki/Babylon_(film)"
         ]
       ],
       [
-        [
-          "Franco Rosso"
-        ],
+        "Franco Rosso",
         [
           "/wiki/Franco_Rosso"
         ]
       ],
       [
-        [
-          "Brinsley Forde",
-          "Karl Howman",
-          "Trevor Laird"
-        ],
+        "Brinsley Forde , Karl Howman , Trevor Laird",
         [
           "/wiki/Brinsley_Forde",
           "/wiki/Karl_Howman",
@@ -104,37 +68,25 @@
         ]
       ],
       [
-        [
-          "Crime/drama"
-        ],
-        [
-          null
-        ]
+        "Crime/drama",
+        []
       ]
     ],
     [
       [
-        [
-          "Bad Timing"
-        ],
+        "Bad Timing",
         [
           "/wiki/Bad_Timing"
         ]
       ],
       [
-        [
-          "Nicolas Roeg"
-        ],
+        "Nicolas Roeg",
         [
           "/wiki/Nicolas_Roeg"
         ]
       ],
       [
-        [
-          "Art Garfunkel",
-          "Theresa Russell",
-          "Harvey Keitel"
-        ],
+        "Art Garfunkel , Theresa Russell , Harvey Keitel",
         [
           "/wiki/Art_Garfunkel",
           "/wiki/Theresa_Russell",
@@ -142,111 +94,74 @@
         ]
       ],
       [
-        [
-          "Mystery"
-        ],
-        [
-          null
-        ]
+        "Mystery",
+        []
       ]
     ],
     [
       [
-        [
-          "Brothers and Sisters"
-        ],
+        "Brothers and Sisters",
         [
           "/wiki/Brothers_and_Sisters_(1980_film)"
         ]
       ],
       [
-        [
-          "Richard Woolley"
-        ],
+        "Richard Woolley",
         [
           "/wiki/Richard_Woolley_(filmmaker)"
         ]
       ],
       [
+        "Sam Dale , Carolyn Pickles , Jennifer Armitage",
         [
-          "Sam Dale",
-          "Carolyn Pickles",
-          "Jennifer Armitage"
-        ],
-        [
-          null,
-          "/wiki/Carolyn_Pickles",
-          null
+          "/wiki/Carolyn_Pickles"
         ]
       ],
       [
-        [
-          "Crime"
-        ],
-        [
-          null
-        ]
+        "Crime",
+        []
       ]
     ],
     [
       [
-        [
-          "The Dogs of War"
-        ],
+        "The Dogs of War",
         [
           "/wiki/The_Dogs_of_War_(film)"
         ]
       ],
       [
-        [
-          "John Irvin"
-        ],
+        "John Irvin",
         [
           "/wiki/John_Irvin"
         ]
       ],
       [
-        [
-          "Christopher Walken",
-          "Tom Berenger"
-        ],
+        "Christopher Walken , Tom Berenger",
         [
           "/wiki/Christopher_Walken",
           "/wiki/Tom_Berenger"
         ]
       ],
       [
-        [
-          "Action"
-        ],
-        [
-          null
-        ]
+        "Action",
+        []
       ]
     ],
     [
       [
-        [
-          "The Elephant Man"
-        ],
+        "The Elephant Man",
         [
           "/wiki/The_Elephant_Man_(film)"
         ]
       ],
       [
-        [
-          "David Lynch"
-        ],
+        "David Lynch",
         [
           "/wiki/David_Lynch"
         ]
       ],
       [
-        [
-          "Anthony Hopkins",
-          "John Hurt",
-          "Anne Bancroft"
-        ],
+        "Anthony Hopkins , John Hurt , Anne Bancroft",
         [
           "/wiki/Anthony_Hopkins",
           "/wiki/John_Hurt",
@@ -254,217 +169,142 @@
         ]
       ],
       [
-        [
-          "Historical drama"
-        ],
-        [
-          null
-        ]
+        "Historical drama",
+        []
       ]
     ],
     [
       [
-        [
-          "The Falls"
-        ],
+        "The Falls",
         [
           "/wiki/The_Falls"
         ]
       ],
       [
-        [
-          "Peter Greenaway"
-        ],
+        "Peter Greenaway",
         [
           "/wiki/Peter_Greenaway"
         ]
       ],
       [
-        [
-          "Peter Westley",
-          "Aad Wirtz",
-          "Michael Murray"
-        ],
-        [
-          null,
-          null,
-          null
-        ]
+        "Peter Westley , Aad Wirtz , Michael Murray",
+        []
       ],
       [
-        [
-          "Mockumentary"
-        ],
-        [
-          null
-        ]
+        "Mockumentary",
+        []
       ]
     ],
     [
       [
-        [
-          "The Fiendish Plot of Dr. Fu Manchu"
-        ],
+        "The Fiendish Plot of Dr. Fu Manchu",
         [
           "/wiki/The_Fiendish_Plot_of_Dr._Fu_Manchu"
         ]
       ],
       [
-        [
-          "Piers Haggard"
-        ],
+        "Piers Haggard",
         [
           "/wiki/Piers_Haggard"
         ]
       ],
       [
-        [
-          "Peter Sellers",
-          "Helen Mirren"
-        ],
+        "Peter Sellers , Helen Mirren",
         [
           "/wiki/Peter_Sellers",
           "/wiki/Helen_Mirren"
         ]
       ],
       [
-        [
-          "Comedy"
-        ],
-        [
-          null
-        ]
+        "Comedy",
+        []
       ]
     ],
     [
       [
-        [
-          "Flash Gordon"
-        ],
+        "Flash Gordon",
         [
           "/wiki/Flash_Gordon_(film)"
         ]
       ],
       [
-        [
-          "Mike Hodges"
-        ],
+        "Mike Hodges",
         [
           "/wiki/Mike_Hodges"
         ]
       ],
       [
-        [
-          "Sam J. Jones",
-          "Melody Anderson"
-        ],
+        "Sam J. Jones , Melody Anderson",
         [
           "/wiki/Sam_J._Jones",
           "/wiki/Melody_Anderson"
         ]
       ],
       [
-        [
-          "Sci-fi/fantasy"
-        ],
-        [
-          null
-        ]
+        "Sci-fi/fantasy",
+        []
       ]
     ],
     [
       [
-        [
-          "The Gamekeeper"
-        ],
+        "The Gamekeeper",
         [
           "/wiki/The_Gamekeeper_(film)"
         ]
       ],
       [
-        [
-          "Ken Loach"
-        ],
+        "Ken Loach",
         [
           "/wiki/Ken_Loach"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "George and Mildred"
-        ],
+        "George and Mildred",
         [
           "/wiki/George_and_Mildred_(film)"
         ]
       ],
       [
-        [
-          "Peter Frazer-Jones"
-        ],
-        [
-          null
-        ]
+        "Peter Frazer-Jones",
+        []
       ],
       [
-        [
-          "Yootha Joyce",
-          "Brian Murphy"
-        ],
+        "Yootha Joyce , Brian Murphy",
         [
           "/wiki/Yootha_Joyce",
           "/wiki/Brian_Murphy_(actor)"
         ]
       ],
       [
-        [
-          "Comedy"
-        ],
-        [
-          null
-        ]
+        "Comedy",
+        []
       ]
     ],
     [
       [
-        [
-          "The Great Rock ' n ' Roll Swindle"
-        ],
+        "The Great Rock ' n ' Roll Swindle",
         [
           "/wiki/The_Great_Rock_'n'_Roll_Swindle"
         ]
       ],
       [
-        [
-          "Julien Temple"
-        ],
+        "Julien Temple",
         [
           "/wiki/Julien_Temple"
         ]
       ],
       [
-        [
-          "Malcolm McLaren",
-          "Steve Jones",
-          "Sid Vicious"
-        ],
+        "Malcolm McLaren , Steve Jones , Sid Vicious",
         [
           "/wiki/Malcolm_McLaren",
           "/wiki/Steve_Jones_(musician)",
@@ -472,145 +312,100 @@
         ]
       ],
       [
-        [
-          "Mockumentary"
-        ],
-        [
-          null
-        ]
+        "Mockumentary",
+        []
       ]
     ],
     [
       [
-        [
-          "Hawk the Slayer"
-        ],
+        "Hawk the Slayer",
         [
           "/wiki/Hawk_the_Slayer"
         ]
       ],
       [
-        [
-          "Terry Marcel"
-        ],
+        "Terry Marcel",
         [
           "/wiki/Terry_Marcel"
         ]
       ],
       [
-        [
-          "Jack Palance",
-          "John Terry"
-        ],
+        "Jack Palance , John Terry",
         [
           "/wiki/Jack_Palance",
           "/wiki/John_Terry_(actor)"
         ]
       ],
       [
-        [
-          "Adventure"
-        ],
-        [
-          null
-        ]
+        "Adventure",
+        []
       ]
     ],
     [
       [
-        [
-          "Hussy"
-        ],
+        "Hussy",
         [
           "/wiki/Hussy"
         ]
       ],
       [
-        [
-          "Matthew Chapman"
-        ],
+        "Matthew Chapman",
         [
           "/wiki/Matthew_Chapman_(author)"
         ]
       ],
       [
-        [
-          "Helen Mirren",
-          "John Shea"
-        ],
+        "Helen Mirren , John Shea",
         [
           "/wiki/Helen_Mirren",
           "/wiki/John_Shea"
         ]
       ],
       [
-        [
-          "Drama"
-        ],
-        [
-          null
-        ]
+        "Drama",
+        []
       ]
     ],
     [
       [
-        [
-          "The Long Good Friday"
-        ],
+        "The Long Good Friday",
         [
           "/wiki/The_Long_Good_Friday"
         ]
       ],
       [
-        [
-          "John Mackenzie"
-        ],
+        "John Mackenzie",
         [
           "/wiki/John_Mackenzie_(film_director)"
         ]
       ],
       [
-        [
-          "Bob Hoskins",
-          "Helen Mirren"
-        ],
+        "Bob Hoskins , Helen Mirren",
         [
           "/wiki/Bob_Hoskins",
           "/wiki/Helen_Mirren"
         ]
       ],
       [
-        [
-          "Crime drama"
-        ],
-        [
-          null
-        ]
+        "Crime drama",
+        []
       ]
     ],
     [
       [
-        [
-          "McVicar"
-        ],
+        "McVicar",
         [
           "/wiki/McVicar_(film)"
         ]
       ],
       [
-        [
-          "Tom Clegg"
-        ],
+        "Tom Clegg",
         [
           "/wiki/Tom_Clegg_(director)"
         ]
       ],
       [
-        [
-          "Roger Daltrey",
-          "Adam Faith",
-          "Cheryl Campbell"
-        ],
+        "Roger Daltrey , Adam Faith , Cheryl Campbell",
         [
           "/wiki/Roger_Daltrey",
           "/wiki/Adam_Faith",
@@ -618,38 +413,25 @@
         ]
       ],
       [
-        [
-          "Crime biopic"
-        ],
-        [
-          null
-        ]
+        "Crime biopic",
+        []
       ]
     ],
     [
       [
-        [
-          "The Mirror Crack 'd"
-        ],
+        "The Mirror Crack 'd",
         [
           "/wiki/The_Mirror_Crack'd"
         ]
       ],
       [
-        [
-          "Guy Hamilton"
-        ],
+        "Guy Hamilton",
         [
           "/wiki/Guy_Hamilton"
         ]
       ],
       [
-        [
-          "Angela Lansbury",
-          "Edward Fox",
-          "Kim Novak",
-          "Elizabeth Taylor"
-        ],
+        "Angela Lansbury , Edward Fox , Kim Novak , Elizabeth Taylor",
         [
           "/wiki/Angela_Lansbury",
           "/wiki/Edward_Fox_(actor)",
@@ -658,120 +440,83 @@
         ]
       ],
       [
-        [
-          "Mystery"
-        ],
-        [
-          null
-        ]
+        "Mystery",
+        []
       ]
     ],
     [
       [
-        [
-          "The Monster Club"
-        ],
+        "The Monster Club",
         [
           "/wiki/The_Monster_Club"
         ]
       ],
       [
-        [
-          "Roy Ward Baker"
-        ],
+        "Roy Ward Baker",
         [
           "/wiki/Roy_Ward_Baker"
         ]
       ],
       [
-        [
-          "Vincent Price",
-          "John Carradine"
-        ],
+        "Vincent Price , John Carradine",
         [
           "/wiki/Vincent_Price",
           "/wiki/John_Carradine"
         ]
       ],
       [
-        [
-          "Horror"
-        ],
-        [
-          null
-        ]
+        "Horror",
+        []
       ]
     ],
     [
       [
-        [
-          "Never Never Land"
-        ],
+        "Never Never Land",
         [
           "/wiki/Never_Never_Land_(film)"
         ]
       ],
       [
-        [
-          "Paul Annett"
-        ],
+        "Paul Annett",
         [
           "/wiki/Paul_Annett"
         ]
       ],
       [
-        [
-          "Petula Clark",
-          "Cathleen Nesbitt"
-        ],
+        "Petula Clark , Cathleen Nesbitt",
         [
           "/wiki/Petula_Clark",
           "/wiki/Cathleen_Nesbitt"
         ]
       ],
       [
-        [
-          "Drama"
-        ],
-        [
-          null
-        ]
+        "Drama",
+        []
       ]
     ],
     [
       [
-        [
-          "North Sea Hijack"
-        ],
+        "North Sea Hijack",
         [
           "/wiki/North_Sea_Hijack"
         ]
       ],
       [
-        [
-          "Andrew V. McLaglen"
-        ],
+        "Andrew V. McLaglen",
         [
           "/wiki/Andrew_V._McLaglen"
         ]
       ],
       [
-        [
-          "Roger Moore",
-          "James Mason"
-        ],
+        "Roger Moore , James Mason",
         [
           "/wiki/Roger_Moore",
           "/wiki/James_Mason"
         ]
       ],
       [
-        [
-          "Adventure"
-        ],
-        [
-          null
-        ]
+        "Adventure",
+        []
       ]
     ]
   ],

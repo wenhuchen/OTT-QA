@@ -3,67 +3,36 @@
   "title": "NW postcode area",
   "header": [
     [
-      [
-        "Postcode district"
-      ],
-      [
-        null
-      ]
+      "Postcode district",
+      []
     ],
     [
-      [
-        "Post town"
-      ],
+      "Post town",
       [
         "/wiki/Post_town"
       ]
     ],
     [
-      [
-        "Coverage"
-      ],
-      [
-        null
-      ]
+      "Coverage",
+      []
     ],
     [
-      [
-        "Local authority area"
-      ],
-      [
-        null
-      ]
+      "Local authority area",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "NW1"
-        ],
-        [
-          null
-        ]
+        "NW1",
+        []
       ],
       [
-        [
-          "LONDON"
-        ],
-        [
-          null
-        ]
+        "LONDON",
+        []
       ],
       [
-        [
-          "Marylebone",
-          "Euston",
-          "Regent 's Park",
-          "Baker Street",
-          "Camden Town",
-          "Somers Town",
-          "Primrose Hill",
-          "Lisson Grove"
-        ],
+        "North Western head district : Marylebone ( part ) , Euston , Regent 's Park , Baker Street , Camden Town , Somers Town , Primrose Hill ( part ) and Lisson Grove ( part )",
         [
           "/wiki/Marylebone",
           "/wiki/Euston,_London",
@@ -76,10 +45,7 @@
         ]
       ],
       [
-        [
-          "Camden",
-          "Westminster"
-        ],
+        "Camden , Westminster",
         [
           "/wiki/London_Borough_of_Camden",
           "/wiki/City_of_Westminster"
@@ -88,33 +54,19 @@
     ],
     [
       [
-        [
-          "NW1W"
-        ],
-        [
-          null
-        ]
+        "NW1W",
+        []
       ],
       [
-        [
-          "LONDON"
-        ],
-        [
-          null
-        ]
+        "LONDON",
+        []
       ],
       [
-        [
-          "PO boxes in NW1"
-        ],
-        [
-          null
-        ]
+        "PO boxes in NW1",
+        []
       ],
       [
-        [
-          "non-geographic"
-        ],
+        "non-geographic",
         [
           "/wiki/Non-geographic_postcodes"
         ]
@@ -122,31 +74,15 @@
     ],
     [
       [
-        [
-          "NW2"
-        ],
-        [
-          null
-        ]
+        "NW2",
+        []
       ],
       [
-        [
-          "LONDON"
-        ],
-        [
-          null
-        ]
+        "LONDON",
+        []
       ],
       [
-        [
-          "Cricklewood",
-          "Dollis Hill",
-          "Childs Hill",
-          "Golders Green",
-          "Brent Cross",
-          "Willesden",
-          "Neasden"
-        ],
+        "Cricklewood district : Cricklewood , Dollis Hill , Childs Hill , Golders Green ( part ) , Brent Cross ( part ) , Willesden ( north ) , Neasden ( north )",
         [
           "/wiki/Cricklewood",
           "/wiki/Dollis_Hill",
@@ -158,10 +94,7 @@
         ]
       ],
       [
-        [
-          "Barnet",
-          "Brent"
-        ],
+        "Barnet , Brent , Camden",
         [
           "/wiki/London_Borough_of_Barnet",
           "/wiki/London_Borough_of_Brent"
@@ -170,33 +103,15 @@
     ],
     [
       [
-        [
-          "NW3"
-        ],
-        [
-          null
-        ]
+        "NW3",
+        []
       ],
       [
-        [
-          "LONDON"
-        ],
-        [
-          null
-        ]
+        "LONDON",
+        []
       ],
       [
-        [
-          "Hampstead",
-          "Belsize Park",
-          "Frognal",
-          "Childs Hill",
-          "South Hampstead",
-          "Swiss Cottage",
-          "Primrose Hill",
-          "Chalk Farm",
-          "Gospel Oak"
-        ],
+        "Hampstead district : Hampstead , Belsize Park , Frognal , Childs Hill ( east ) , South Hampstead ( north ) , Swiss Cottage ( east ) , Primrose Hill ( north ) , Chalk Farm ( west ) , Gospel Oak",
         [
           "/wiki/Hampstead",
           "/wiki/Belsize_Park",
@@ -210,76 +125,42 @@
         ]
       ],
       [
-        [
-          "Camden , Barnet"
-        ],
-        [
-          null
-        ]
+        "Camden , Barnet",
+        []
       ]
     ],
     [
       [
-        [
-          "NW4"
-        ],
-        [
-          null
-        ]
+        "NW4",
+        []
       ],
       [
-        [
-          "LONDON"
-        ],
-        [
-          null
-        ]
+        "LONDON",
+        []
       ],
       [
-        [
-          "Hendon",
-          "Brent Cross"
-        ],
+        "Hendon district : Hendon , Brent Cross ( part )",
         [
           "/wiki/Hendon",
           "/wiki/Brent_Cross"
         ]
       ],
       [
-        [
-          "Barnet"
-        ],
-        [
-          null
-        ]
+        "Barnet",
+        []
       ]
     ],
     [
       [
-        [
-          "NW5"
-        ],
-        [
-          null
-        ]
+        "NW5",
+        []
       ],
       [
-        [
-          "LONDON"
-        ],
-        [
-          null
-        ]
+        "LONDON",
+        []
       ],
       [
-        [
-          "Kentish Town",
-          "Camden Town",
-          "Gospel Oak",
-          "Dartmouth Park",
-          "Chalk Farm",
-          "Tufnell Park"
-        ],
+        "Kentish Town district : Kentish Town , Camden Town ( part ) , Gospel Oak ( part ) , Dartmouth Park , Chalk Farm ( east ) , Tufnell Park ( west )",
         [
           "/wiki/Kentish_Town",
           "/wiki/Camden_Town",
@@ -290,9 +171,7 @@
         ]
       ],
       [
-        [
-          "Islington"
-        ],
+        "Camden , Islington",
         [
           "/wiki/London_Borough_of_Islington"
         ]
@@ -300,31 +179,15 @@
     ],
     [
       [
-        [
-          "NW6"
-        ],
-        [
-          null
-        ]
+        "NW6",
+        []
       ],
       [
-        [
-          "LONDON"
-        ],
-        [
-          null
-        ]
+        "LONDON",
+        []
       ],
       [
-        [
-          "Kilburn",
-          "Brondesbury",
-          "West Hampstead",
-          "Queen 's Park",
-          "Kensal Green",
-          "South Hampstead",
-          "Swiss Cottage"
-        ],
+        "Kilburn district : Kilburn , Brondesbury , West Hampstead , Queen 's Park , Kensal Green ( part ) , South Hampstead ( south ) , Swiss Cottage ( west )",
         [
           "/wiki/Kilburn,_London",
           "/wiki/Brondesbury",
@@ -336,37 +199,21 @@
         ]
       ],
       [
-        [
-          "Brent , Camden , Westminster"
-        ],
-        [
-          null
-        ]
+        "Brent , Camden , Westminster",
+        []
       ]
     ],
     [
       [
-        [
-          "NW7"
-        ],
-        [
-          null
-        ]
+        "NW7",
+        []
       ],
       [
-        [
-          "LONDON"
-        ],
-        [
-          null
-        ]
+        "LONDON",
+        []
       ],
       [
-        [
-          "Mill Hill",
-          "Arkley",
-          "Edgware"
-        ],
+        "Mill Hill district : Mill Hill , Arkley ( part ) , Edgware ( part )",
         [
           "/wiki/Mill_Hill",
           "/wiki/Arkley",
@@ -374,38 +221,21 @@
         ]
       ],
       [
-        [
-          "Barnet"
-        ],
-        [
-          null
-        ]
+        "Barnet",
+        []
       ]
     ],
     [
       [
-        [
-          "NW8"
-        ],
-        [
-          null
-        ]
+        "NW8",
+        []
       ],
       [
-        [
-          "LONDON"
-        ],
-        [
-          null
-        ]
+        "LONDON",
+        []
       ],
       [
-        [
-          "St John 's Wood",
-          "Primrose Hill",
-          "Marylebone",
-          "Lisson Grove"
-        ],
+        "St John 's Wood district : St John 's Wood , Primrose Hill ( south ) , Marylebone ( north ) , Lisson Grove ( north )",
         [
           "/wiki/St_John's_Wood",
           "/wiki/Primrose_Hill",
@@ -414,40 +244,21 @@
         ]
       ],
       [
-        [
-          "Westminster , Camden"
-        ],
-        [
-          null
-        ]
+        "Westminster , Camden",
+        []
       ]
     ],
     [
       [
-        [
-          "NW9"
-        ],
-        [
-          null
-        ]
+        "NW9",
+        []
       ],
       [
-        [
-          "LONDON"
-        ],
-        [
-          null
-        ]
+        "LONDON",
+        []
       ],
       [
-        [
-          "The Hyde",
-          "Colindale",
-          "Kingsbury",
-          "West Hendon",
-          "Wembley Park",
-          "Queensbury"
-        ],
+        "The Hyde district : The Hyde , Colindale , Kingsbury , West Hendon , Wembley Park ( part ) , Queensbury ( part )",
         [
           "/wiki/The_Hyde",
           "/wiki/Colindale",
@@ -458,9 +269,7 @@
         ]
       ],
       [
-        [
-          "Harrow"
-        ],
+        "Barnet , Brent , Harrow",
         [
           "/wiki/London_Borough_of_Harrow"
         ]
@@ -468,35 +277,15 @@
     ],
     [
       [
-        [
-          "NW10"
-        ],
-        [
-          null
-        ]
+        "NW10",
+        []
       ],
       [
-        [
-          "LONDON"
-        ],
-        [
-          null
-        ]
+        "LONDON",
+        []
       ],
       [
-        [
-          "Willesden",
-          "Harlesden",
-          "Kensal Green",
-          "Brent Park",
-          "College Park",
-          "Stonebridge",
-          "North Acton",
-          "West Twyford",
-          "Neasden",
-          "Old Oak Common",
-          "Park Royal"
-        ],
+        "Willesden district : Willesden , Harlesden , Kensal Green , Brent Park , College Park , Stonebridge , North Acton ( part ) , West Twyford , Neasden ( south ) , Old Oak Common , Park Royal ( north )",
         [
           "/wiki/Willesden",
           "/wiki/Harlesden",
@@ -512,12 +301,7 @@
         ]
       ],
       [
-        [
-          "Brent",
-          "Ealing",
-          "Hammersmith and Fulham",
-          "Kensington and Chelsea"
-        ],
+        "Brent , Ealing , Hammersmith and Fulham , Kensington and Chelsea",
         [
           "/wiki/London_Borough_of_Brent",
           "/wiki/London_Borough_of_Ealing",
@@ -528,29 +312,15 @@
     ],
     [
       [
-        [
-          "NW11"
-        ],
-        [
-          null
-        ]
+        "NW11",
+        []
       ],
       [
-        [
-          "LONDON"
-        ],
-        [
-          null
-        ]
+        "LONDON",
+        []
       ],
       [
-        [
-          "Golders Green",
-          "Temple Fortune",
-          "Hampstead Garden Suburb",
-          "Hendon",
-          "Brent Cross"
-        ],
+        "Golders Green district : Golders Green , Temple Fortune , Hampstead Garden Suburb ( west ) , Hendon ( part ) , Brent Cross ( part )",
         [
           "/wiki/Golders_Green",
           "/wiki/Temple_Fortune",
@@ -560,46 +330,26 @@
         ]
       ],
       [
-        [
-          "Barnet"
-        ],
-        [
-          null
-        ]
+        "Barnet",
+        []
       ]
     ],
     [
       [
-        [
-          "NW26"
-        ],
-        [
-          null
-        ]
+        "NW26",
+        []
       ],
       [
-        [
-          "LONDON"
-        ],
-        [
-          null
-        ]
+        "LONDON",
+        []
       ],
       [
-        [
-          "PO boxes in NW10"
-        ],
-        [
-          null
-        ]
+        "PO boxes in NW10",
+        []
       ],
       [
-        [
-          "non-geographic"
-        ],
-        [
-          null
-        ]
+        "non-geographic",
+        []
       ]
     ]
   ],

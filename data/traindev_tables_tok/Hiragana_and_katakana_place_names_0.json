@@ -3,68 +3,40 @@
   "title": "Hiragana and katakana place names",
   "header": [
     [
-      [
-        "Romaji"
-      ],
-      [
-        null
-      ]
+      "Romaji",
+      []
     ],
     [
-      [
-        "Hiragana"
-      ],
-      [
-        null
-      ]
+      "Hiragana",
+      []
     ],
     [
-      [
-        "Kanji"
-      ],
-      [
-        null
-      ]
+      "Kanji",
+      []
     ],
     [
-      [
-        "Prefecture"
-      ],
-      [
-        null
-      ]
+      "Prefecture",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Ama"
-        ],
+        "Ama",
         [
           "/wiki/Ama,_Aichi"
         ]
       ],
       [
-        [
-          "\u3042\u307e\u5e02"
-        ],
-        [
-          null
-        ]
+        "\u3042\u307e\u5e02",
+        []
       ],
       [
-        [
-          "\u6d77\u90e8"
-        ],
-        [
-          null
-        ]
+        "\u6d77\u90e8",
+        []
       ],
       [
-        [
-          "Aichi"
-        ],
+        "Aichi",
         [
           "/wiki/Aichi_Prefecture"
         ]
@@ -72,33 +44,21 @@
     ],
     [
       [
-        [
-          "Awara"
-        ],
+        "Awara",
         [
           "/wiki/Awara,_Fukui"
         ]
       ],
       [
-        [
-          "\u3042\u308f\u3089\u5e02"
-        ],
-        [
-          null
-        ]
+        "\u3042\u308f\u3089\u5e02",
+        []
       ],
       [
-        [
-          "\u82a6\u539f"
-        ],
-        [
-          null
-        ]
+        "\u82a6\u539f",
+        []
       ],
       [
-        [
-          "Fukui"
-        ],
+        "Fukui",
         [
           "/wiki/Fukui_Prefecture"
         ]
@@ -106,33 +66,21 @@
     ],
     [
       [
-        [
-          "Ebino"
-        ],
+        "Ebino",
         [
           "/wiki/Ebino"
         ]
       ],
       [
-        [
-          "\u3048\u3073\u306e\u5e02"
-        ],
-        [
-          null
-        ]
+        "\u3048\u3073\u306e\u5e02",
+        []
       ],
       [
-        [
-          "\u8766\u91ce"
-        ],
-        [
-          null
-        ]
+        "\u8766\u91ce",
+        []
       ],
       [
-        [
-          "Miyazaki"
-        ],
+        "Miyazaki",
         [
           "/wiki/Miyazaki_Prefecture"
         ]
@@ -140,33 +88,21 @@
     ],
     [
       [
-        [
-          "Erimo"
-        ],
+        "Erimo",
         [
           "/wiki/Erimo,_Hokkaido"
         ]
       ],
       [
-        [
-          "\u3048\u308a\u3082\u753a"
-        ],
-        [
-          null
-        ]
+        "\u3048\u308a\u3082\u753a",
+        []
       ],
       [
-        [
-          "\u895f\u88f3"
-        ],
-        [
-          null
-        ]
+        "\u895f\u88f3",
+        []
       ],
       [
-        [
-          "Hokkaid\u014d"
-        ],
+        "Hokkaid\u014d",
         [
           "/wiki/Hokkaid\u014d"
         ]
@@ -174,33 +110,21 @@
     ],
     [
       [
-        [
-          "Hitachinaka"
-        ],
+        "Hitachinaka",
         [
           "/wiki/Hitachinaka"
         ]
       ],
       [
-        [
-          "\u3072\u305f\u3061\u306a\u304b\u5e02"
-        ],
-        [
-          null
-        ]
+        "\u3072\u305f\u3061\u306a\u304b\u5e02",
+        []
       ],
       [
-        [
-          "\u5e38\u9678\u90a3\u73c2"
-        ],
-        [
-          null
-        ]
+        "\u5e38\u9678\u90a3\u73c2",
+        []
       ],
       [
-        [
-          "Ibaraki"
-        ],
+        "Ibaraki",
         [
           "/wiki/Ibaraki_Prefecture"
         ]
@@ -208,33 +132,21 @@
     ],
     [
       [
-        [
-          "Inabe"
-        ],
+        "Inabe",
         [
           "/wiki/Inabe,_Mie"
         ]
       ],
       [
-        [
-          "\u3044\u306a\u3079\u5e02"
-        ],
-        [
-          null
-        ]
+        "\u3044\u306a\u3079\u5e02",
+        []
       ],
       [
-        [
-          "\u54e1\u5f01"
-        ],
-        [
-          null
-        ]
+        "\u54e1\u5f01",
+        []
       ],
       [
-        [
-          "Mie"
-        ],
+        "Mie",
         [
           "/wiki/Mie_Prefecture"
         ]
@@ -242,33 +154,21 @@
     ],
     [
       [
-        [
-          "Ino"
-        ],
+        "Ino",
         [
           "/wiki/Ino,_K\u014dchi"
         ]
       ],
       [
-        [
-          "\u3044\u306e\u753a"
-        ],
-        [
-          null
-        ]
+        "\u3044\u306e\u753a",
+        []
       ],
       [
-        [
-          "\u4f0a\u91ce"
-        ],
-        [
-          null
-        ]
+        "\u4f0a\u91ce",
+        []
       ],
       [
-        [
-          "K\u014dchi"
-        ],
+        "K\u014dchi",
         [
           "/wiki/K\u014dchi_Prefecture"
         ]
@@ -276,33 +176,21 @@
     ],
     [
       [
-        [
-          "Isumi"
-        ],
+        "Isumi",
         [
           "/wiki/Isumi,_Chiba"
         ]
       ],
       [
-        [
-          "\u3044\u3059\u307f\u5e02"
-        ],
-        [
-          null
-        ]
+        "\u3044\u3059\u307f\u5e02",
+        []
       ],
       [
-        [
-          "\u5937\u9685"
-        ],
-        [
-          null
-        ]
+        "\u5937\u9685",
+        []
       ],
       [
-        [
-          "Chiba"
-        ],
+        "Chiba",
         [
           "/wiki/Chiba_Prefecture"
         ]
@@ -310,33 +198,21 @@
     ],
     [
       [
-        [
-          "Iwaki"
-        ],
+        "Iwaki",
         [
           "/wiki/Iwaki,_Fukushima"
         ]
       ],
       [
-        [
-          "\u3044\u308f\u304d\u5e02"
-        ],
-        [
-          null
-        ]
+        "\u3044\u308f\u304d\u5e02",
+        []
       ],
       [
-        [
-          "\u78d0\u57ce"
-        ],
-        [
-          null
-        ]
+        "\u78d0\u57ce",
+        []
       ],
       [
-        [
-          "Fukushima"
-        ],
+        "Fukushima",
         [
           "/wiki/Fukushima_Prefecture"
         ]
@@ -344,33 +220,21 @@
     ],
     [
       [
-        [
-          "Kahoku"
-        ],
+        "Kahoku",
         [
           "/wiki/Kahoku"
         ]
       ],
       [
-        [
-          "\u304b\u307b\u304f\u5e02"
-        ],
-        [
-          null
-        ]
+        "\u304b\u307b\u304f\u5e02",
+        []
       ],
       [
-        [
-          "\u6cb3\u5317"
-        ],
-        [
-          null
-        ]
+        "\u6cb3\u5317",
+        []
       ],
       [
-        [
-          "Ishikawa"
-        ],
+        "Ishikawa",
         [
           "/wiki/Ishikawa_Prefecture"
         ]
@@ -378,33 +242,21 @@
     ],
     [
       [
-        [
-          "Kasumigaura"
-        ],
+        "Kasumigaura",
         [
           "/wiki/Kasumigaura"
         ]
       ],
       [
-        [
-          "\u304b\u3059\u307f\u304c\u3046\u3089\u5e02"
-        ],
-        [
-          null
-        ]
+        "\u304b\u3059\u307f\u304c\u3046\u3089\u5e02",
+        []
       ],
       [
-        [
-          "\u971e\u30f6\u6d66"
-        ],
-        [
-          null
-        ]
+        "\u971e\u30f6\u6d66",
+        []
       ],
       [
-        [
-          "Ibaraki"
-        ],
+        "Ibaraki",
         [
           "/wiki/Ibaraki_Prefecture"
         ]
@@ -412,33 +264,21 @@
     ],
     [
       [
-        [
-          "Katsuragi"
-        ],
+        "Katsuragi",
         [
           "/wiki/Katsuragi,_Wakayama"
         ]
       ],
       [
-        [
-          "\u304b\u3064\u3089\u304e\u753a"
-        ],
-        [
-          null
-        ]
+        "\u304b\u3064\u3089\u304e\u753a",
+        []
       ],
       [
-        [
-          "\u845b\u57ce"
-        ],
-        [
-          null
-        ]
+        "\u845b\u57ce",
+        []
       ],
       [
-        [
-          "Wakayama"
-        ],
+        "Wakayama",
         [
           "/wiki/Wakayama_Prefecture"
         ]
@@ -446,33 +286,21 @@
     ],
     [
       [
-        [
-          "Midori"
-        ],
+        "Midori",
         [
           "/wiki/Midori,_Gunma"
         ]
       ],
       [
-        [
-          "\u307f\u3069\u308a\u5e02"
-        ],
-        [
-          null
-        ]
+        "\u307f\u3069\u308a\u5e02",
+        []
       ],
       [
-        [
-          "\u7dd1"
-        ],
-        [
-          null
-        ]
+        "\u7dd1",
+        []
       ],
       [
-        [
-          "Gunma"
-        ],
+        "Gunma",
         [
           "/wiki/Gunma_Prefecture"
         ]
@@ -480,33 +308,21 @@
     ],
     [
       [
-        [
-          "Minabe"
-        ],
+        "Minabe",
         [
           "/wiki/Minabe,_Wakayama"
         ]
       ],
       [
-        [
-          "\u307f\u306a\u3079\u753a"
-        ],
-        [
-          null
-        ]
+        "\u307f\u306a\u3079\u753a",
+        []
       ],
       [
-        [
-          "\u5357\u90e8"
-        ],
-        [
-          null
-        ]
+        "\u5357\u90e8",
+        []
       ],
       [
-        [
-          "Wakayama"
-        ],
+        "Wakayama",
         [
           "/wiki/Wakayama_Prefecture"
         ]
@@ -514,33 +330,21 @@
     ],
     [
       [
-        [
-          "Minakami"
-        ],
+        "Minakami",
         [
           "/wiki/Minakami,_Gunma"
         ]
       ],
       [
-        [
-          "\u307f\u306a\u304b\u307f\u753a"
-        ],
-        [
-          null
-        ]
+        "\u307f\u306a\u304b\u307f\u753a",
+        []
       ],
       [
-        [
-          "\u6c34\u4e0a"
-        ],
-        [
-          null
-        ]
+        "\u6c34\u4e0a",
+        []
       ],
       [
-        [
-          "Gunma"
-        ],
+        "Gunma",
         [
           "/wiki/Gunma_Prefecture"
         ]
@@ -548,33 +352,21 @@
     ],
     [
       [
-        [
-          "Miyoshi"
-        ],
+        "Miyoshi",
         [
           "/wiki/Miyoshi,_Aichi"
         ]
       ],
       [
-        [
-          "\u307f\u3088\u3057\u5e02"
-        ],
-        [
-          null
-        ]
+        "\u307f\u3088\u3057\u5e02",
+        []
       ],
       [
-        [
-          "\u4e09\u597d"
-        ],
-        [
-          null
-        ]
+        "\u4e09\u597d",
+        []
       ],
       [
-        [
-          "Aichi"
-        ],
+        "Aichi",
         [
           "/wiki/Aichi_Prefecture"
         ]
@@ -582,33 +374,21 @@
     ],
     [
       [
-        [
-          "Mukawa"
-        ],
+        "Mukawa",
         [
           "/wiki/Mukawa,_Hokkaido"
         ]
       ],
       [
-        [
-          "\u3080\u304b\u308f\u753a"
-        ],
-        [
-          null
-        ]
+        "\u3080\u304b\u308f\u753a",
+        []
       ],
       [
-        [
-          "\u9d61\u5ddd"
-        ],
-        [
-          null
-        ]
+        "\u9d61\u5ddd",
+        []
       ],
       [
-        [
-          "Hokkaid\u014d"
-        ],
+        "Hokkaid\u014d",
         [
           "/wiki/Hokkaid\u014d"
         ]
@@ -616,33 +396,21 @@
     ],
     [
       [
-        [
-          "Mutsu"
-        ],
+        "Mutsu",
         [
           "/wiki/Mutsu,_Aomori"
         ]
       ],
       [
-        [
-          "\u3080\u3064\u5e02"
-        ],
-        [
-          null
-        ]
+        "\u3080\u3064\u5e02",
+        []
       ],
       [
-        [
-          "\u9678\u5965"
-        ],
-        [
-          null
-        ]
+        "\u9678\u5965",
+        []
       ],
       [
-        [
-          "Aomori"
-        ],
+        "Aomori",
         [
           "/wiki/Aomori_Prefecture"
         ]
@@ -650,33 +418,21 @@
     ],
     [
       [
-        [
-          "Nikaho"
-        ],
+        "Nikaho",
         [
           "/wiki/Nikaho,_Akita"
         ]
       ],
       [
-        [
-          "\u306b\u304b\u307b\u5e02"
-        ],
-        [
-          null
-        ]
+        "\u306b\u304b\u307b\u5e02",
+        []
       ],
       [
-        [
-          "\u4ec1\u8cc0\u4fdd"
-        ],
-        [
-          null
-        ]
+        "\u4ec1\u8cc0\u4fdd",
+        []
       ],
       [
-        [
-          "Akita"
-        ],
+        "Akita",
         [
           "/wiki/Akita_Prefecture"
         ]
@@ -684,33 +440,21 @@
     ],
     [
       [
-        [
-          "Oirase"
-        ],
+        "Oirase",
         [
           "/wiki/Oirase,_Aomori"
         ]
       ],
       [
-        [
-          "\u304a\u3044\u3089\u305b\u753a"
-        ],
-        [
-          null
-        ]
+        "\u304a\u3044\u3089\u305b\u753a",
+        []
       ],
       [
-        [
-          "\u5965\u5165\u702c"
-        ],
-        [
-          null
-        ]
+        "\u5965\u5165\u702c",
+        []
       ],
       [
-        [
-          "Aomori"
-        ],
+        "Aomori",
         [
           "/wiki/Aomori_Prefecture"
         ]

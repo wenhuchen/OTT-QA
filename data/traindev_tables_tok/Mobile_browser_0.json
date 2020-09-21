@@ -3,256 +3,173 @@
   "title": "Mobile browser",
   "header": [
     [
-      [
-        "Browser"
-      ],
-      [
-        null
-      ]
+      "Browser",
+      []
     ],
     [
-      [
-        "Creator"
-      ],
-      [
-        null
-      ]
+      "Creator",
+      []
     ],
     [
-      [
-        "FOSS"
-      ],
+      "FOSS",
       [
         "/wiki/Free_and_open_source_software"
       ]
     ],
     [
-      [
-        "layout engine"
-      ],
+      "Current layout engine",
       [
         "/wiki/Browser_engine"
       ]
     ],
     [
-      [
-        "Software license"
-      ],
+      "Software license",
       [
         "/wiki/Software_license"
       ]
     ],
     [
-      [
-        "Notes"
-      ],
-      [
-        null
-      ]
+      "Notes",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Amazon Silk"
-        ],
+        "Amazon Silk",
         [
           "/wiki/Amazon_Silk"
         ]
       ],
       [
-        [
-          "Amazon.com"
-        ],
+        "Amazon.com",
         [
           "/wiki/Amazon.com"
         ]
       ],
       [
-        [
-          "Some"
-        ],
-        [
-          null
-        ]
+        "Some",
+        []
       ],
       [
-        [
-          "Blink"
-        ],
+        "Blink",
         [
           "/wiki/Blink_(layout_engine)"
         ]
       ],
       [
-        [
-          "proprietary",
-          "LGPL"
-        ],
+        "proprietary and LGPL",
         [
           "/wiki/Proprietary_software",
           "/wiki/GNU_Lesser_General_Public_License"
         ]
       ],
       [
-        [
-          "Uses split architecture whereby all processing is performed on Amazon 's servers"
-        ],
-        [
-          null
-        ]
+        "Uses split architecture whereby all processing is performed on Amazon 's servers",
+        []
       ]
     ],
     [
       [
-        [
-          "Android"
-        ],
+        "Android browser",
         [
           "/wiki/Android_(operating_system)"
         ]
       ],
       [
-        [
-          "Google"
-        ],
+        "Google",
         [
           "/wiki/Google"
         ]
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "WebKit"
-        ],
+        "WebKit",
         [
           "/wiki/WebKit"
         ]
       ],
       [
-        [
-          "BSD",
-          "LGPL"
-        ],
+        "BSD and LGPL",
         [
           "/wiki/BSD_licenses",
           "/wiki/GNU_Lesser_General_Public_License"
         ]
       ],
       [
-        [
-          "Browser included with Android version 1.5 to version 4.1"
-        ],
-        [
-          null
-        ]
+        "Browser included with Android version 1.5 to version 4.1",
+        []
       ]
     ],
     [
       [
-        [
-          "BlackBerry"
-        ],
+        "BlackBerry Browser",
         [
           "/wiki/BlackBerry"
         ]
       ],
       [
-        [
-          "BlackBerry Ltd"
-        ],
+        "BlackBerry Ltd",
         [
           "/wiki/BlackBerry_Limited"
         ]
       ],
       [
-        [
-          "Some"
-        ],
-        [
-          null
-        ]
+        "Some",
+        []
       ],
       [
-        [
-          "Webkit"
-        ],
+        "Mango ( ver 4.5 , 4.6 , 4.7 , 5.0 ) Webkit ( ver 6.0+ )",
         [
           "/wiki/Webkit"
         ]
       ],
       [
-        [
-          "proprietary",
-          "LGPL"
-        ],
+        "proprietary and LGPL",
         [
           "/wiki/Proprietary_software",
           "/wiki/GNU_Lesser_General_Public_License"
         ]
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ]
     ],
     [
       [
-        [
-          "Blazer"
-        ],
+        "Blazer",
         [
           "/wiki/Blazer_(web_browser)"
         ]
       ],
       [
-        [
-          "Palm"
-        ],
+        "Palm",
         [
           "/wiki/Palm,_Inc."
         ]
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ],
       [
-        [
-          "NetFront"
-        ],
+        "NetFront",
         [
           "/wiki/NetFront"
         ]
       ],
       [
-        [
-          "proprietary"
-        ],
+        "proprietary",
         [
           "/wiki/Proprietary_software"
         ]
       ],
       [
-        [
-          "Treos"
-        ],
+        "installed on all newer Palm Treos and PDAs",
         [
           "/wiki/Palm_Treo"
         ]
@@ -260,54 +177,37 @@
     ],
     [
       [
-        [
-          "Chrome"
-        ],
+        "Chrome",
         [
           "/wiki/Google_Chrome"
         ]
       ],
       [
-        [
-          "Google"
-        ],
+        "Google",
         [
           "/wiki/Google"
         ]
       ],
       [
-        [
-          "Some"
-        ],
-        [
-          null
-        ]
+        "Some",
+        []
       ],
       [
-        [
-          "WebKit",
-          "Blink"
-        ],
+        "WebKit , Blink ( versions 28+ )",
         [
           "/wiki/WebKit",
           "/wiki/Blink_(web_engine)"
         ]
       ],
       [
-        [
-          "Freeware",
-          "Chromium ( web browser )"
-        ],
+        "Freeware under Google Chrome Terms of Service , but uses components from the Chromium ( web browser ) project",
         [
           "/wiki/Freeware",
           "/wiki/Chromium_(web_browser)"
         ]
       ],
       [
-        [
-          "Android",
-          "Jelly Bean"
-        ],
+        "Installed as default on Google devices shipping with Android versions 4.1 ( Jelly Bean ) or higher",
         [
           "/wiki/Android_(operating_system)",
           "/wiki/Android_Jelly_Bean"
@@ -316,49 +216,33 @@
     ],
     [
       [
-        [
-          "Dolphin Browser"
-        ],
+        "Dolphin Browser",
         [
           "/wiki/Dolphin_Browser"
         ]
       ],
       [
-        [
-          "MoboTap"
-        ],
-        [
-          null
-        ]
+        "MoboTap",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ],
       [
-        [
-          "WebKit"
-        ],
+        "WebKit",
         [
           "/wiki/WebKit"
         ]
       ],
       [
-        [
-          "proprietary"
-        ],
+        "proprietary",
         [
           "/wiki/Proprietary_software"
         ]
       ],
       [
-        [
-          "Bada"
-        ],
+        "installed on all Bada",
         [
           "/wiki/Bada"
         ]
@@ -366,51 +250,36 @@
     ],
     [
       [
-        [
-          "Firefox for Mobile"
-        ],
+        "Firefox for Mobile",
         [
           "/wiki/Firefox_for_Mobile"
         ]
       ],
       [
-        [
-          "Mozilla"
-        ],
+        "Mozilla",
         [
           "/wiki/Mozilla"
         ]
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "Gecko",
-          "WebKit"
-        ],
+        "Gecko , WebKit ( iOS version only )",
         [
           "/wiki/Gecko_(software)",
           "/wiki/WebKit"
         ]
       ],
       [
-        [
-          "MPL"
-        ],
+        "MPL",
         [
           "/wiki/Mozilla_Public_License"
         ]
       ],
       [
-        [
-          "Firefox OS"
-        ],
+        "Currently released for Android and iOS , but default browser for Firefox OS devices ( now discontinued )",
         [
           "/wiki/Firefox_OS"
         ]
@@ -418,50 +287,35 @@
     ],
     [
       [
-        [
-          "Internet Explorer Mobile"
-        ],
+        "Internet Explorer Mobile",
         [
           "/wiki/Internet_Explorer_Mobile"
         ]
       ],
       [
-        [
-          "Microsoft"
-        ],
+        "Microsoft",
         [
           "/wiki/Microsoft"
         ]
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ],
       [
-        [
-          "Trident"
-        ],
+        "Trident",
         [
           "/wiki/Trident_(layout_engine)"
         ]
       ],
       [
-        [
-          "proprietary"
-        ],
+        "proprietary",
         [
           "/wiki/Proprietary_software"
         ]
       ],
       [
-        [
-          "Windows Phone",
-          "Windows Mobile"
-        ],
+        "on Windows Phone and Windows Mobile only",
         [
           "/wiki/Windows_Phone",
           "/wiki/Windows_Mobile"
@@ -470,53 +324,36 @@
     ],
     [
       [
-        [
-          "Iris Browser"
-        ],
+        "Iris Browser",
         [
           "/wiki/Iris_Browser"
         ]
       ],
       [
-        [
-          "Torch Mobile"
-        ],
+        "Torch Mobile",
         [
           "/wiki/Torch_Mobile"
         ]
       ],
       [
-        [
-          "Some"
-        ],
-        [
-          null
-        ]
+        "Some",
+        []
       ],
       [
-        [
-          "WebKit"
-        ],
+        "WebKit",
         [
           "/wiki/WebKit"
         ]
       ],
       [
-        [
-          "proprietary",
-          "LGPL"
-        ],
+        "proprietary and LGPL",
         [
           "/wiki/Proprietary_software",
           "/wiki/GNU_Lesser_General_Public_License"
         ]
       ],
       [
-        [
-          "Research in Motion",
-          "Windows Mobile",
-          "Linux"
-        ],
+        "Acquired by Research in Motion - No longer supports Windows Mobile or Linux",
         [
           "/wiki/Research_in_Motion",
           "/wiki/Windows_Mobile",
@@ -526,99 +363,69 @@
     ],
     [
       [
-        [
-          "Kindle"
-        ],
+        "Kindle web browser",
         [
           "/wiki/Amazon_Kindle"
         ]
       ],
       [
-        [
-          "Amazon.com"
-        ],
+        "Amazon.com",
         [
           "/wiki/Amazon.com"
         ]
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ],
       [
-        [
-          "NetFront"
-        ],
+        "NetFront",
         [
           "/wiki/NetFront"
         ]
       ],
       [
-        [
-          "proprietary"
-        ],
+        "proprietary",
         [
           "/wiki/Proprietary_software"
         ]
       ],
       [
-        [
-          "Labeled experimental"
-        ],
-        [
-          null
-        ]
+        "Labeled experimental",
+        []
       ]
     ],
     [
       [
-        [
-          "Microsoft Edge"
-        ],
+        "Microsoft Edge",
         [
           "/wiki/Microsoft_Edge"
         ]
       ],
       [
-        [
-          "Microsoft"
-        ],
+        "Microsoft",
         [
           "/wiki/Microsoft"
         ]
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ],
       [
-        [
-          "EdgeHTML"
-        ],
+        "EdgeHTML",
         [
           "/wiki/EdgeHTML"
         ]
       ],
       [
-        [
-          "proprietary"
-        ],
+        "proprietary",
         [
           "/wiki/Proprietary_software"
         ]
       ],
       [
-        [
-          "Windows 10 Mobile"
-        ],
+        "on Windows 10 Mobile",
         [
           "/wiki/Windows_10_Mobile"
         ]
@@ -626,51 +433,36 @@
     ],
     [
       [
-        [
-          "Myriad Browser"
-        ],
+        "Myriad Browser",
         [
           "/wiki/Myriad_Group"
         ]
       ],
       [
-        [
-          "Myriad Group"
-        ],
+        "Myriad Group",
         [
           "/wiki/Myriad_Group"
         ]
       ],
       [
-        [
-          "Some"
-        ],
-        [
-          null
-        ]
+        "Some",
+        []
       ],
       [
-        [
-          "WebKit"
-        ],
+        "Magellan ( ver . 6.x ) Fugu ( ver 7.x ) WebKit ( ver 9 )",
         [
           "/wiki/WebKit"
         ]
       ],
       [
-        [
-          "proprietary",
-          "LGPL"
-        ],
+        "proprietary and LGPL",
         [
           "/wiki/Proprietary_software",
           "/wiki/GNU_Lesser_General_Public_License"
         ]
       ],
       [
-        [
-          "Openwave"
-        ],
+        "Acquired from Openwave in 2008",
         [
           "/wiki/Openwave"
         ]
@@ -678,355 +470,240 @@
     ],
     [
       [
-        [
-          "NetFront"
-        ],
+        "NetFront",
         [
           "/wiki/NetFront"
         ]
       ],
       [
-        [
-          "ACCESS Co. , Ltd"
-        ],
+        "ACCESS Co. , Ltd",
         [
           "/wiki/Access_Co._Ltd."
         ]
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "NetFront"
-        ],
+        "NetFront",
         [
           "/wiki/NetFront"
         ]
       ],
       [
-        [
-          "proprietary"
-        ],
+        "proprietary",
         [
           "/wiki/Proprietary_software"
         ]
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ]
     ],
     [
       [
-        [
-          "Nokia Series 40"
-        ],
+        "Nokia Series 40 Browser",
         [
           "/wiki/Nokia_Series_40"
         ]
       ],
       [
-        [
-          "Nokia"
-        ],
+        "Nokia",
         [
           "/wiki/Nokia"
         ]
       ],
       [
-        [
-          "Some"
-        ],
-        [
-          null
-        ]
+        "Some",
+        []
       ],
       [
-        [
-          "WebKit"
-        ],
+        "WebKit",
         [
           "/wiki/WebKit"
         ]
       ],
       [
-        [
-          "proprietary",
-          "LGPL"
-        ],
+        "proprietary and LGPL",
         [
           "/wiki/Proprietary_software",
           "/wiki/GNU_Lesser_General_Public_License"
         ]
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ]
     ],
     [
       [
-        [
-          "Opera Mini"
-        ],
+        "Opera Mini",
         [
           "/wiki/Opera_Mini"
         ]
       ],
       [
-        [
-          "Opera Software"
-        ],
+        "Opera Software",
         [
           "/wiki/Opera_Software"
         ]
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ],
       [
-        [
-          "Presto"
-        ],
+        "Presto",
         [
           "/wiki/Presto_(layout_engine)"
         ]
       ],
       [
-        [
-          "proprietary"
-        ],
+        "proprietary",
         [
           "/wiki/Proprietary_software"
         ]
       ],
       [
-        [
-          "Capable of pre-processing web pages and formatting for small screens"
-        ],
-        [
-          null
-        ]
+        "Capable of pre-processing web pages and formatting for small screens",
+        []
       ]
     ],
     [
       [
-        [
-          "Opera Mobile"
-        ],
+        "Opera Mobile",
         [
           "/wiki/Opera_Mobile"
         ]
       ],
       [
-        [
-          "Opera Software"
-        ],
+        "Opera Software",
         [
           "/wiki/Opera_Software"
         ]
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ],
       [
-        [
-          "Presto",
-          "Blink"
-        ],
+        "Presto , Blink ( versions 15+ )",
         [
           "/wiki/Presto_(layout_engine)",
           "/wiki/Blink_(web_engine)"
         ]
       ],
       [
-        [
-          "proprietary"
-        ],
+        "proprietary",
         [
           "/wiki/Proprietary_software"
         ]
       ],
       [
-        [
-          "Capable of reading HTML and can reformat for small screens"
-        ],
-        [
-          null
-        ]
+        "Capable of reading HTML and can reformat for small screens",
+        []
       ]
     ],
     [
       [
-        [
-          "PlayStation Portable web browser"
-        ],
+        "PlayStation Portable web browser",
         [
           "/wiki/PSP_browser"
         ]
       ],
       [
-        [
-          "Sony"
-        ],
+        "Sony",
         [
           "/wiki/Sony"
         ]
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "NetFront"
-        ],
+        "NetFront",
         [
           "/wiki/NetFront"
         ]
       ],
       [
-        [
-          "proprietary"
-        ],
+        "proprietary",
         [
           "/wiki/Proprietary_software"
         ]
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ]
     ],
     [
       [
-        [
-          "Polaris Browser"
-        ],
+        "Polaris Browser",
         [
           "/wiki/Polaris_Browser"
         ]
       ],
       [
-        [
-          "Infraware Inc"
-        ],
-        [
-          null
-        ]
+        "Infraware Inc",
+        []
       ],
       [
-        [
-          "Some"
-        ],
-        [
-          null
-        ]
+        "Some",
+        []
       ],
       [
-        [
-          "WebKit"
-        ],
+        "Lumi ( Ver . 6.x ) WebKit ( Ver . 7.x )",
         [
           "/wiki/WebKit"
         ]
       ],
       [
-        [
-          "proprietary",
-          "LGPL"
-        ],
+        "proprietary and LGPL",
         [
           "/wiki/Proprietary_software",
           "/wiki/GNU_Lesser_General_Public_License"
         ]
       ],
       [
-        [
-          "Nokia , Samsung , Kyocera and other phones sold in the US , China , South Korea , etc"
-        ],
-        [
-          null
-        ]
+        "Nokia , Samsung , Kyocera and other phones sold in the US , China , South Korea , etc",
+        []
       ]
     ],
     [
       [
-        [
-          "S60 web browser"
-        ],
+        "S60 web browser",
         [
           "/wiki/Web_Browser_for_S60"
         ]
       ],
       [
-        [
-          "Nokia"
-        ],
+        "Nokia",
         [
           "/wiki/Nokia"
         ]
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "WebKit"
-        ],
+        "WebKit",
         [
           "/wiki/WebKit"
         ]
       ],
       [
-        [
-          "LGPL"
-        ],
+        "LGPL",
         [
           "/wiki/GNU_General_Public_License"
         ]
       ],
       [
-        [
-          "S60 phones"
-        ],
+        "on S60 phones ( predominantly Nokia )",
         [
           "/wiki/S60_(software_platform)"
         ]
@@ -1034,56 +711,37 @@
     ],
     [
       [
-        [
-          "Safari"
-        ],
+        "Safari",
         [
           "/wiki/Safari_(web_browser)"
         ]
       ],
       [
-        [
-          "Apple Inc"
-        ],
+        "Apple Inc",
         [
           "/wiki/Apple_Inc."
         ]
       ],
       [
-        [
-          "Some"
-        ],
-        [
-          null
-        ]
+        "Some",
+        []
       ],
       [
-        [
-          "WebKit",
-          "WebCore"
-        ],
+        "WebKit ( WebCore )",
         [
           "/wiki/WebKit",
           "/wiki/WebCore"
         ]
       ],
       [
-        [
-          "proprietary",
-          "LGPL"
-        ],
+        "proprietary and LGPL",
         [
           "/wiki/Proprietary_software",
           "/wiki/GNU_Lesser_General_Public_License"
         ]
       ],
       [
-        [
-          "iOS",
-          "iPhone",
-          "iPod Touch",
-          "iPad"
-        ],
+        "on iOS ( iPhone , iPod Touch and iPad )",
         [
           "/wiki/IOS",
           "/wiki/IPhone",

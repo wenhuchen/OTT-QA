@@ -3,1053 +3,637 @@
   "title": "List of tallest hotels",
   "header": [
     [
-      [
-        "Building"
-      ],
-      [
-        null
-      ]
+      "Building",
+      []
     ],
     [
-      [
-        "City"
-      ],
-      [
-        null
-      ]
+      "City",
+      []
     ],
     [
-      [
-        "Country"
-      ],
-      [
-        null
-      ]
+      "Country",
+      []
     ],
     [
-      [
-        "Height metres / feet"
-      ],
-      [
-        null
-      ]
+      "Height metres / feet",
+      []
     ],
     [
-      [
-        "Floors"
-      ],
-      [
-        null
-      ]
+      "Floors",
+      []
     ],
     [
-      [
-        "Built"
-      ],
-      [
-        null
-      ]
+      "Built",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Ciel Tower"
-        ],
-        [
-          null
-        ]
+        "Ciel Tower",
+        []
       ],
       [
-        [
-          "Dubai"
-        ],
+        "Dubai",
         [
           "/wiki/Dubai"
         ]
       ],
       [
-        [
-          "United Arab Emirates"
-        ],
+        "United Arab Emirates",
         [
           "/wiki/United_Arab_Emirates"
         ]
       ],
       [
-        [
-          "366 metres ( 1,201 ft )"
-        ],
-        [
-          null
-        ]
+        "366 metres ( 1,201 ft )",
+        []
       ],
       [
-        [
-          "77"
-        ],
-        [
-          null
-        ]
+        "77",
+        []
       ],
       [
-        [
-          "2023"
-        ],
-        [
-          null
-        ]
+        "2023",
+        []
       ]
     ],
     [
       [
-        [
-          "Ryugyong Hotel"
-        ],
+        "Ryugyong Hotel",
         [
           "/wiki/Ryugyong"
         ]
       ],
       [
-        [
-          "Pyongyang"
-        ],
+        "Pyongyang",
         [
           "/wiki/Pyongyang"
         ]
       ],
       [
-        [
-          "North Korea"
-        ],
+        "North Korea",
         [
           "/wiki/North_Korea"
         ]
       ],
       [
-        [
-          "330 metres ( 1,080 ft )"
-        ],
-        [
-          null
-        ]
+        "330 metres ( 1,080 ft )",
+        []
       ],
       [
-        [
-          "105"
-        ],
-        [
-          null
-        ]
+        "105",
+        []
       ],
       [
-        [
-          "TBA"
-        ],
-        [
-          null
-        ]
+        "TBA",
+        []
       ]
     ],
     [
       [
-        [
-          "Jumeirah Gate"
-        ],
-        [
-          null
-        ]
+        "Jumeirah Gate",
+        []
       ],
       [
-        [
-          "Dubai"
-        ],
+        "Dubai",
         [
           "/wiki/Dubai"
         ]
       ],
       [
-        [
-          "United Arab Emirates"
-        ],
+        "United Arab Emirates",
         [
           "/wiki/United_Arab_Emirates"
         ]
       ],
       [
-        [
-          "301 metres ( 988 ft )"
-        ],
-        [
-          null
-        ]
+        "301 metres ( 988 ft )",
+        []
       ],
       [
-        [
-          "77"
-        ],
-        [
-          null
-        ]
+        "77",
+        []
       ],
       [
-        [
-          "2020"
-        ],
-        [
-          null
-        ]
+        "2020",
+        []
       ]
     ],
     [
       [
-        [
-          "DAMAC Paramount Hotel & Residences"
-        ],
+        "DAMAC Paramount Hotel & Residences",
         [
           "/wiki/DAMAC_Paramount_Hotel_&_Residences"
         ]
       ],
       [
-        [
-          "Dubai"
-        ],
+        "Dubai",
         [
           "/wiki/Dubai"
         ]
       ],
       [
-        [
-          "United Arab Emirates"
-        ],
+        "United Arab Emirates",
         [
           "/wiki/United_Arab_Emirates"
         ]
       ],
       [
-        [
-          "270 metres ( 890 ft )"
-        ],
-        [
-          null
-        ]
+        "270 metres ( 890 ft )",
+        []
       ],
       [
-        [
-          "68"
-        ],
-        [
-          null
-        ]
+        "68",
+        []
       ],
       [
-        [
-          "2016"
-        ],
-        [
-          null
-        ]
+        "2016",
+        []
       ]
     ],
     [
       [
-        [
-          "Sail Tower"
-        ],
-        [
-          null
-        ]
+        "Sail Tower",
+        []
       ],
       [
-        [
-          "Jeddah"
-        ],
+        "Jeddah",
         [
           "/wiki/Jeddah"
         ]
       ],
       [
-        [
-          "Saudi Arabia"
-        ],
+        "Saudi Arabia",
         [
           "/wiki/Saudi_Arabia"
         ]
       ],
       [
-        [
-          "240 metres ( 790 ft )"
-        ],
-        [
-          null
-        ]
+        "240 metres ( 790 ft )",
+        []
       ],
       [
-        [
-          "64"
-        ],
-        [
-          null
-        ]
+        "64",
+        []
       ],
       [
-        [
-          "2019"
-        ],
-        [
-          null
-        ]
+        "2019",
+        []
       ]
     ],
     [
       [
-        [
-          "Ciputra World Hotel Tower"
-        ],
-        [
-          null
-        ]
+        "Ciputra World Hotel Tower",
+        []
       ],
       [
-        [
-          "Jakarta"
-        ],
+        "Jakarta",
         [
           "/wiki/Jakarta"
         ]
       ],
       [
-        [
-          "Indonesia"
-        ],
+        "Indonesia",
         [
           "/wiki/Indonesia"
         ]
       ],
       [
-        [
-          "257 metres ( 843 ft )"
-        ],
-        [
-          null
-        ]
+        "257 metres ( 843 ft )",
+        []
       ],
       [
-        [
-          "49"
-        ],
-        [
-          null
-        ]
+        "49",
+        []
       ],
       [
-        [
-          "2013"
-        ],
-        [
-          null
-        ]
+        "2013",
+        []
       ]
     ],
     [
       [
-        [
-          "Central Market Hotel Tower"
-        ],
+        "Central Market Hotel Tower",
         [
           "/wiki/Central_Market_Hotel_Tower"
         ]
       ],
       [
-        [
-          "Abu Dhabi"
-        ],
+        "Abu Dhabi",
         [
           "/wiki/Abu_Dhabi"
         ]
       ],
       [
-        [
-          "United Arab Emirates"
-        ],
+        "United Arab Emirates",
         [
           "/wiki/United_Arab_Emirates"
         ]
       ],
       [
-        [
-          "255 metres ( 837 ft )"
-        ],
-        [
-          null
-        ]
+        "255 metres ( 837 ft )",
+        []
       ],
       [
-        [
-          "58"
-        ],
-        [
-          null
-        ]
+        "58",
+        []
       ],
       [
-        [
-          "2014"
-        ],
-        [
-          null
-        ]
+        "2014",
+        []
       ]
     ],
     [
       [
-        [
-          "Paramount Tower Hotel & Residences"
-        ],
+        "Paramount Tower Hotel & Residences",
         [
           "/wiki/Paramount_Tower_Hotel_&_Residences"
         ]
       ],
       [
-        [
-          "Dubai"
-        ],
+        "Dubai",
         [
           "/wiki/Dubai"
         ]
       ],
       [
-        [
-          "United Arab Emirates"
-        ],
+        "United Arab Emirates",
         [
           "/wiki/United_Arab_Emirates"
         ]
       ],
       [
-        [
-          "250 metres ( 820 ft )"
-        ],
-        [
-          null
-        ]
+        "250 metres ( 820 ft )",
+        []
       ],
       [
-        [
-          "65"
-        ],
-        [
-          null
-        ]
+        "65",
+        []
       ],
       [
-        [
-          "2020"
-        ],
-        [
-          null
-        ]
+        "2020",
+        []
       ]
     ],
     [
       [
-        [
-          "VietinBank Business Center Hotel Tower"
-        ],
-        [
-          null
-        ]
+        "VietinBank Business Center Hotel Tower",
+        []
       ],
       [
-        [
-          "Hanoi"
-        ],
+        "Hanoi",
         [
           "/wiki/Hanoi"
         ]
       ],
       [
-        [
-          "Vietnam"
-        ],
+        "Vietnam",
         [
           "/wiki/Vietnam"
         ]
       ],
       [
-        [
-          "249 metres ( 817 ft )"
-        ],
-        [
-          null
-        ]
+        "249 metres ( 817 ft )",
+        []
       ],
       [
-        [
-          "48"
-        ],
-        [
-          null
-        ]
+        "48",
+        []
       ],
       [
-        [
-          "2015"
-        ],
-        [
-          null
-        ]
+        "2015",
+        []
       ]
     ],
     [
       [
-        [
-          "Yuanda Central Plaza - St. Regis Hotel"
-        ],
-        [
-          null
-        ]
+        "Yuanda Central Plaza - St. Regis Hotel",
+        []
       ],
       [
-        [
-          "Changsha"
-        ],
+        "Changsha",
         [
           "/wiki/Changsha"
         ]
       ],
       [
-        [
-          "China"
-        ],
+        "China",
         [
           "/wiki/China"
         ]
       ],
       [
-        [
-          "248 metres ( 814 ft )"
-        ],
-        [
-          null
-        ]
+        "248 metres ( 814 ft )",
+        []
       ],
       [
-        [
-          "63"
-        ],
-        [
-          null
-        ]
+        "63",
+        []
       ],
       [
-        [
-          "2015"
-        ],
-        [
-          null
-        ]
+        "2015",
+        []
       ]
     ],
     [
       [
-        [
-          "Ritz-Carlton Mexico City"
-        ],
-        [
-          null
-        ]
+        "Ritz-Carlton Mexico City",
+        []
       ],
       [
-        [
-          "Mexico City"
-        ],
+        "Mexico City",
         [
           "/wiki/Mexico_City"
         ]
       ],
       [
-        [
-          "Mexico"
-        ],
+        "Mexico",
         [
           "/wiki/Mexico"
         ]
       ],
       [
-        [
-          "241 metres ( 791 ft )"
-        ],
-        [
-          null
-        ]
+        "241 metres ( 791 ft )",
+        []
       ],
       [
-        [
-          "60"
-        ],
-        [
-          null
-        ]
+        "60",
+        []
       ],
       [
-        [
-          "2018"
-        ],
-        [
-          null
-        ]
+        "2018",
+        []
       ]
     ],
     [
       [
-        [
-          "Western International Finance Center Conrad Hotel"
-        ],
-        [
-          null
-        ]
+        "Western International Finance Center Conrad Hotel",
+        []
       ],
       [
-        [
-          "Chengdu"
-        ],
+        "Chengdu",
         [
           "/wiki/Chengdu"
         ]
       ],
       [
-        [
-          "China"
-        ],
+        "China",
         [
           "/wiki/China"
         ]
       ],
       [
-        [
-          "240 metres ( 790 ft )"
-        ],
-        [
-          null
-        ]
+        "240 metres ( 790 ft )",
+        []
       ],
       [
-        [
-          "65"
-        ],
-        [
-          null
-        ]
+        "65",
+        []
       ],
       [
-        [
-          "2014"
-        ],
-        [
-          null
-        ]
+        "2014",
+        []
       ]
     ],
     [
       [
-        [
-          "Oberoi Oasis Commercial Tower"
-        ],
-        [
-          null
-        ]
+        "Oberoi Oasis Commercial Tower",
+        []
       ],
       [
-        [
-          "Mumbai"
-        ],
+        "Mumbai",
         [
           "/wiki/Mumbai"
         ]
       ],
       [
-        [
-          "India"
-        ],
+        "India",
         [
           "/wiki/India"
         ]
       ],
       [
-        [
-          "239 metres ( 784 ft )"
-        ],
-        [
-          null
-        ]
+        "239 metres ( 784 ft )",
+        []
       ],
       [
-        [
-          "49"
-        ],
-        [
-          null
-        ]
+        "49",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "World Trade Center Hotel"
-        ],
-        [
-          null
-        ]
+        "World Trade Center Hotel",
+        []
       ],
       [
-        [
-          "Yingkou"
-        ],
+        "Yingkou",
         [
           "/wiki/Yingkou"
         ]
       ],
       [
-        [
-          "China"
-        ],
+        "China",
         [
           "/wiki/China"
         ]
       ],
       [
-        [
-          "236 metres ( 774 ft )"
-        ],
-        [
-          null
-        ]
+        "236 metres ( 774 ft )",
+        []
       ],
       [
-        [
-          "40"
-        ],
-        [
-          null
-        ]
+        "40",
+        []
       ],
       [
-        [
-          "2015"
-        ],
-        [
-          null
-        ]
+        "2015",
+        []
       ]
     ],
     [
       [
-        [
-          "Financial Street Westin Hotel"
-        ],
-        [
-          null
-        ]
+        "Financial Street Westin Hotel",
+        []
       ],
       [
-        [
-          "Chongqing"
-        ],
+        "Chongqing",
         [
           "/wiki/Chongqing"
         ]
       ],
       [
-        [
-          "China"
-        ],
+        "China",
         [
           "/wiki/China"
         ]
       ],
       [
-        [
-          "231 metres ( 758 ft )"
-        ],
-        [
-          null
-        ]
+        "231 metres ( 758 ft )",
+        []
       ],
       [
-        [
-          "54"
-        ],
-        [
-          null
-        ]
+        "54",
+        []
       ],
       [
-        [
-          "2013"
-        ],
-        [
-          null
-        ]
+        "2013",
+        []
       ]
     ],
     [
       [
-        [
-          "The Palm Tower"
-        ],
-        [
-          null
-        ]
+        "The Palm Tower",
+        []
       ],
       [
-        [
-          "Dubai"
-        ],
+        "Dubai",
         [
           "/wiki/Dubai"
         ]
       ],
       [
-        [
-          "United Arab Emirates"
-        ],
+        "United Arab Emirates",
         [
           "/wiki/United_Arab_Emirates"
         ]
       ],
       [
-        [
-          "230 metres ( 750 ft )"
-        ],
-        [
-          null
-        ]
+        "230 metres ( 750 ft )",
+        []
       ],
       [
-        [
-          "52"
-        ],
-        [
-          null
-        ]
+        "52",
+        []
       ],
       [
-        [
-          "2019"
-        ],
-        [
-          null
-        ]
+        "2019",
+        []
       ]
     ],
     [
       [
-        [
-          "Kula Belgrade"
-        ],
-        [
-          null
-        ]
+        "Kula Belgrade",
+        []
       ],
       [
-        [
-          "Belgrade"
-        ],
+        "Belgrade",
         [
           "/wiki/Belgrade"
         ]
       ],
       [
-        [
-          "Serbia"
-        ],
+        "Serbia",
         [
           "/wiki/Serbia"
         ]
       ],
       [
-        [
-          "220 metres ( 720 ft )"
-        ],
-        [
-          null
-        ]
+        "220 metres ( 720 ft )",
+        []
       ],
       [
-        [
-          "70"
-        ],
-        [
-          null
-        ]
+        "70",
+        []
       ],
       [
-        [
-          "2017"
-        ],
-        [
-          null
-        ]
+        "2017",
+        []
       ]
     ],
     [
       [
-        [
-          "Furama Hotel Phase 3"
-        ],
-        [
-          null
-        ]
+        "Furama Hotel Phase 3",
+        []
       ],
       [
-        [
-          "Dalian"
-        ],
+        "Dalian",
         [
           "/wiki/Dalian"
         ]
       ],
       [
-        [
-          "China"
-        ],
+        "China",
         [
           "/wiki/China"
         ]
       ],
       [
-        [
-          "218 metres ( 715 ft )"
-        ],
-        [
-          null
-        ]
+        "218 metres ( 715 ft )",
+        []
       ],
       [
-        [
-          "55"
-        ],
-        [
-          null
-        ]
+        "55",
+        []
       ],
       [
-        [
-          "2014"
-        ],
-        [
-          null
-        ]
+        "2014",
+        []
       ]
     ],
     [
       [
-        [
-          "Jeju Dream Hotel Tower"
-        ],
-        [
-          null
-        ]
+        "Jeju Dream Hotel Tower",
+        []
       ],
       [
-        [
-          "Jeju"
-        ],
+        "Jeju",
         [
           "/wiki/Jeju_City"
         ]
       ],
       [
-        [
-          "South Korea"
-        ],
+        "South Korea",
         [
           "/wiki/South_Korea"
         ]
       ],
       [
-        [
-          "213 metres ( 699 ft )"
-        ],
-        [
-          null
-        ]
+        "213 metres ( 699 ft )",
+        []
       ],
       [
-        [
-          "62"
-        ],
-        [
-          null
-        ]
+        "62",
+        []
       ],
       [
-        [
-          "2015"
-        ],
-        [
-          null
-        ]
+        "2015",
+        []
       ]
     ],
     [
       [
-        [
-          "Liqin Hotel"
-        ],
-        [
-          null
-        ]
+        "Liqin Hotel",
+        []
       ],
       [
-        [
-          "Tianjin"
-        ],
+        "Tianjin",
         [
           "/wiki/Tianjin"
         ]
       ],
       [
-        [
-          "China"
-        ],
+        "China",
         [
           "/wiki/China"
         ]
       ],
       [
-        [
-          "211 metres ( 692 ft )"
-        ],
-        [
-          null
-        ]
+        "211 metres ( 692 ft )",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "2014"
-        ],
-        [
-          null
-        ]
+        "2014",
+        []
       ]
     ]
   ],

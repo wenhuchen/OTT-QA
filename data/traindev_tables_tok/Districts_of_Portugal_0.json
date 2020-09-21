@@ -3,103 +3,61 @@
   "title": "Districts of Portugal",
   "header": [
     [
-      [
-        "District"
-      ],
-      [
-        null
-      ]
+      "District",
+      []
     ],
     [
-      [
-        "Population"
-      ],
-      [
-        null
-      ]
+      "Population",
+      []
     ],
     [
-      [
-        "Municipalities"
-      ],
-      [
-        null
-      ]
+      "Municipalities",
+      []
     ],
     [
-      [
-        "Parishes"
-      ],
-      [
-        null
-      ]
+      "Parishes",
+      []
     ],
     [
-      [
-        "Province of 1936"
-      ],
-      [
-        null
-      ]
+      "Province of 1936",
+      []
     ],
     [
-      [
-        "Region"
-      ],
-      [
-        null
-      ]
+      "Region",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Aveiro"
-        ],
+        "Aveiro",
         [
           "/wiki/Aveiro_District"
         ]
       ],
       [
-        [
-          "714,200"
-        ],
-        [
-          null
-        ]
+        "714,200",
+        []
       ],
       [
-        [
-          "19"
-        ],
+        "19",
         [
           "/wiki/Aveiro_District"
         ]
       ],
       [
-        [
-          "147"
-        ],
-        [
-          null
-        ]
+        "147",
+        []
       ],
       [
-        [
-          "Beira Litoral Province",
-          "Douro Litoral Province"
-        ],
+        "Beira Litoral Province + Douro Litoral Province",
         [
           "/wiki/Beira_Litoral_Province",
           "/wiki/Douro_Litoral_Province"
         ]
       ],
       [
-        [
-          "Norte",
-          "Centro"
-        ],
+        "Norte , Centro",
         [
           "/wiki/Norte_Region,_Portugal",
           "/wiki/Centro_Region,_Portugal"
@@ -108,49 +66,33 @@
     ],
     [
       [
-        [
-          "Beja"
-        ],
+        "Beja",
         [
           "/wiki/Beja_District"
         ]
       ],
       [
-        [
-          "152,758"
-        ],
-        [
-          null
-        ]
+        "152,758",
+        []
       ],
       [
-        [
-          "14"
-        ],
+        "14",
         [
           "/wiki/Beja_District"
         ]
       ],
       [
-        [
-          "75"
-        ],
-        [
-          null
-        ]
+        "75",
+        []
       ],
       [
-        [
-          "Baixo Alentejo"
-        ],
+        "Baixo Alentejo",
         [
           "/wiki/Baixo_Alentejo_Province"
         ]
       ],
       [
-        [
-          "Alentejo"
-        ],
+        "Alentejo",
         [
           "/wiki/Alentejo"
         ]
@@ -158,49 +100,33 @@
     ],
     [
       [
-        [
-          "Braga"
-        ],
+        "Braga",
         [
           "/wiki/Braga_District"
         ]
       ],
       [
-        [
-          "848,185"
-        ],
-        [
-          null
-        ]
+        "848,185",
+        []
       ],
       [
-        [
-          "14"
-        ],
+        "14",
         [
           "/wiki/Braga_District"
         ]
       ],
       [
-        [
-          "347"
-        ],
-        [
-          null
-        ]
+        "347",
+        []
       ],
       [
-        [
-          "Minho"
-        ],
+        "Minho",
         [
           "/wiki/Minho_Province"
         ]
       ],
       [
-        [
-          "Norte"
-        ],
+        "Norte",
         [
           "/wiki/Norte_Region,_Portugal"
         ]
@@ -208,49 +134,33 @@
     ],
     [
       [
-        [
-          "Bragan\u00e7a"
-        ],
+        "Bragan\u00e7a",
         [
           "/wiki/Bragan\u00e7a_District"
         ]
       ],
       [
-        [
-          "136,252"
-        ],
-        [
-          null
-        ]
+        "136,252",
+        []
       ],
       [
-        [
-          "12"
-        ],
+        "12",
         [
           "/wiki/Bragan\u00e7a_District"
         ]
       ],
       [
-        [
-          "226"
-        ],
-        [
-          null
-        ]
+        "226",
+        []
       ],
       [
-        [
-          "Tr\u00e1s-os-Montes e Alto Douro Province"
-        ],
+        "Tr\u00e1s-os-Montes e Alto Douro Province",
         [
           "/wiki/Tr\u00e1s-os-Montes_e_Alto_Douro_Province"
         ]
       ],
       [
-        [
-          "Norte"
-        ],
+        "Norte",
         [
           "/wiki/Norte_Region,_Portugal"
         ]
@@ -258,201 +168,130 @@
     ],
     [
       [
-        [
-          "Castelo Branco"
-        ],
+        "Castelo Branco",
         [
           "/wiki/Castelo_Branco_District"
         ]
       ],
       [
-        [
-          "196,264"
-        ],
-        [
-          null
-        ]
+        "196,264",
+        []
       ],
       [
-        [
-          "11"
-        ],
+        "11",
         [
           "/wiki/Castelo_Branco_District"
         ]
       ],
       [
-        [
-          "120"
-        ],
-        [
-          null
-        ]
+        "120",
+        []
       ],
       [
-        [
-          "Beira Baixa Province"
-        ],
+        "Beira Baixa Province",
         [
           "/wiki/Beira_Baixa_Province"
         ]
       ],
       [
-        [
-          "Centro"
-        ],
-        [
-          null
-        ]
+        "Centro",
+        []
       ]
     ],
     [
       [
-        [
-          "Coimbra"
-        ],
+        "Coimbra",
         [
           "/wiki/Coimbra_District"
         ]
       ],
       [
-        [
-          "430,104"
-        ],
-        [
-          null
-        ]
+        "430,104",
+        []
       ],
       [
-        [
-          "17"
-        ],
+        "17",
         [
           "/wiki/Coimbra_District"
         ]
       ],
       [
-        [
-          "155"
-        ],
-        [
-          null
-        ]
+        "155",
+        []
       ],
       [
-        [
-          "Beira Baixa Province",
-          "Beira Litoral"
-        ],
+        "Beira Baixa Province , Beira Litoral",
         [
           "/wiki/Beira_Baixa_Province",
           "/wiki/Beira_Litoral_Province"
         ]
       ],
       [
-        [
-          "Centro"
-        ],
-        [
-          null
-        ]
+        "Centro",
+        []
       ]
     ],
     [
       [
-        [
-          "\u00c9vora"
-        ],
+        "\u00c9vora",
         [
           "/wiki/\u00c9vora_District"
         ]
       ],
       [
-        [
-          "166,706"
-        ],
-        [
-          null
-        ]
+        "166,706",
+        []
       ],
       [
-        [
-          "14"
-        ],
+        "14",
         [
           "/wiki/\u00c9vora_District"
         ]
       ],
       [
-        [
-          "69"
-        ],
-        [
-          null
-        ]
+        "69",
+        []
       ],
       [
-        [
-          "Alto Alentejo"
-        ],
+        "Alto Alentejo",
         [
           "/wiki/Alto_Alentejo_Province"
         ]
       ],
       [
-        [
-          "Alentejo"
-        ],
-        [
-          null
-        ]
+        "Alentejo",
+        []
       ]
     ],
     [
       [
-        [
-          "Faro"
-        ],
+        "Faro",
         [
           "/wiki/Faro_District"
         ]
       ],
       [
-        [
-          "451,006"
-        ],
-        [
-          null
-        ]
+        "451,006",
+        []
       ],
       [
-        [
-          "16"
-        ],
+        "16",
         [
           "/wiki/Faro_District"
         ]
       ],
       [
-        [
-          "67"
-        ],
-        [
-          null
-        ]
+        "67",
+        []
       ],
       [
-        [
-          "Algarve Province"
-        ],
+        "Algarve Province",
         [
           "/wiki/Algarve_Province"
         ]
       ],
       [
-        [
-          "Algarve"
-        ],
+        "Algarve",
         [
           "/wiki/Algarve"
         ]
@@ -460,151 +299,96 @@
     ],
     [
       [
-        [
-          "Guarda"
-        ],
+        "Guarda",
         [
           "/wiki/Guarda_District"
         ]
       ],
       [
-        [
-          "160,939"
-        ],
-        [
-          null
-        ]
+        "160,939",
+        []
       ],
       [
-        [
-          "14"
-        ],
+        "14",
         [
           "/wiki/Guarda_District"
         ]
       ],
       [
-        [
-          "242"
-        ],
-        [
-          null
-        ]
+        "242",
+        []
       ],
       [
-        [
-          "Beira Alta Province"
-        ],
+        "Beira Alta Province ( partly Tr\u00e1s-os-Montes e Alto Douro )",
         [
           "/wiki/Beira_Alta_Province"
         ]
       ],
       [
-        [
-          "Centro ( partly Norte , only Vila Nova de Foz C\u00f4a )"
-        ],
-        [
-          null
-        ]
+        "Centro ( partly Norte , only Vila Nova de Foz C\u00f4a )",
+        []
       ]
     ],
     [
       [
-        [
-          "Leiria"
-        ],
+        "Leiria",
         [
           "/wiki/Leiria_District"
         ]
       ],
       [
-        [
-          "470,930"
-        ],
-        [
-          null
-        ]
+        "470,930",
+        []
       ],
       [
-        [
-          "16"
-        ],
+        "16",
         [
           "/wiki/Leiria_District"
         ]
       ],
       [
-        [
-          "110"
-        ],
-        [
-          null
-        ]
+        "110",
+        []
       ],
       [
-        [
-          "Beira Litoral Province",
-          "Estremadura"
-        ],
+        "Beira Litoral Province , Estremadura",
         [
           "/wiki/Beira_Litoral_Province",
           "/wiki/Estremadura_Province_(1936-1976)"
         ]
       ],
       [
-        [
-          "Centro"
-        ],
-        [
-          null
-        ]
+        "Centro",
+        []
       ]
     ],
     [
       [
-        [
-          "Lisbon"
-        ],
+        "Lisbon",
         [
           "/wiki/Lisbon_District"
         ]
       ],
       [
-        [
-          "2,250,533"
-        ],
-        [
-          null
-        ]
+        "2,250,533",
+        []
       ],
       [
-        [
-          "16"
-        ],
+        "16",
         [
           "/wiki/Lisbon_District"
         ]
       ],
       [
-        [
-          "134"
-        ],
-        [
-          null
-        ]
+        "134",
+        []
       ],
       [
-        [
-          "Estremadura ( partly Ribatejo )"
-        ],
-        [
-          null
-        ]
+        "Estremadura ( partly Ribatejo )",
+        []
       ],
       [
-        [
-          "Lisbon"
-        ],
+        "Lisbon ( partly Alentejo )",
         [
           "/wiki/Lisboa_Region"
         ]
@@ -612,99 +396,65 @@
     ],
     [
       [
-        [
-          "Portalegre"
-        ],
+        "Portalegre",
         [
           "/wiki/Portalegre_District"
         ]
       ],
       [
-        [
-          "118,506"
-        ],
-        [
-          null
-        ]
+        "118,506",
+        []
       ],
       [
-        [
-          "15"
-        ],
+        "15",
         [
           "/wiki/Portalegre_District"
         ]
       ],
       [
-        [
-          "69"
-        ],
-        [
-          null
-        ]
+        "69",
+        []
       ],
       [
-        [
-          "Alto Alentejo Province"
-        ],
+        "Alto Alentejo Province ( partly Ribatejo )",
         [
           "/wiki/Alto_Alentejo_Province"
         ]
       ],
       [
-        [
-          "Alentejo"
-        ],
-        [
-          null
-        ]
+        "Alentejo",
+        []
       ]
     ],
     [
       [
-        [
-          "Porto"
-        ],
+        "Porto",
         [
           "/wiki/Porto_District"
         ]
       ],
       [
-        [
-          "1,817,117"
-        ],
-        [
-          null
-        ]
+        "1,817,117",
+        []
       ],
       [
-        [
-          "18"
-        ],
+        "18",
         [
           "/wiki/Porto_District"
         ]
       ],
       [
-        [
-          "243"
-        ],
-        [
-          null
-        ]
+        "243",
+        []
       ],
       [
-        [
-          "Douro Litoral Province"
-        ],
+        "Douro Litoral Province",
         [
           "/wiki/Douro_Litoral_Province"
         ]
       ],
       [
-        [
-          "Norte"
-        ],
+        "Norte",
         [
           "/wiki/Norte_Region,_Portugal"
         ]
@@ -712,151 +462,98 @@
     ],
     [
       [
-        [
-          "Santar\u00e9m"
-        ],
+        "Santar\u00e9m",
         [
           "/wiki/Santar\u00e9m_District"
         ]
       ],
       [
-        [
-          "453,638"
-        ],
-        [
-          null
-        ]
+        "453,638",
+        []
       ],
       [
-        [
-          "21"
-        ],
+        "21",
         [
           "/wiki/Santar\u00e9m_District"
         ]
       ],
       [
-        [
-          "141"
-        ],
-        [
-          null
-        ]
+        "141",
+        []
       ],
       [
-        [
-          "Ribatejo Province"
-        ],
+        "Ribatejo Province ( partly Beira Baixa and Beira Litoral )",
         [
           "/wiki/Ribatejo_Province"
         ]
       ],
       [
-        [
-          "Centro , Alentejo"
-        ],
-        [
-          null
-        ]
+        "Centro , Alentejo",
+        []
       ]
     ],
     [
       [
-        [
-          "Set\u00fabal"
-        ],
+        "Set\u00fabal",
         [
           "/wiki/Set\u00fabal_District"
         ]
       ],
       [
-        [
-          "851,258"
-        ],
-        [
-          null
-        ]
+        "851,258",
+        []
       ],
       [
-        [
-          "13"
-        ],
+        "13",
         [
           "/wiki/Set\u00fabal_District"
         ]
       ],
       [
-        [
-          "55"
-        ],
-        [
-          null
-        ]
+        "55",
+        []
       ],
       [
-        [
-          "Estremadura Province",
-          "Baixo Alentejo Province"
-        ],
+        "Estremadura Province , Baixo Alentejo Province",
         [
           "/wiki/Estremadura_Province_(1936-1976)",
           "/wiki/Baixo_Alentejo_Province"
         ]
       ],
       [
-        [
-          "Lisbon , Alentejo"
-        ],
-        [
-          null
-        ]
+        "Lisbon , Alentejo",
+        []
       ]
     ],
     [
       [
-        [
-          "Viana do Castelo"
-        ],
+        "Viana do Castelo",
         [
           "/wiki/Viana_do_Castelo_District"
         ]
       ],
       [
-        [
-          "244,836"
-        ],
-        [
-          null
-        ]
+        "244,836",
+        []
       ],
       [
-        [
-          "10"
-        ],
+        "10",
         [
           "/wiki/Viana_do_Castelo_District"
         ]
       ],
       [
-        [
-          "208"
-        ],
-        [
-          null
-        ]
+        "208",
+        []
       ],
       [
-        [
-          "Minho"
-        ],
+        "Minho",
         [
           "/wiki/Minho_Province"
         ]
       ],
       [
-        [
-          "Norte"
-        ],
+        "Norte",
         [
           "/wiki/Norte_Region,_Portugal"
         ]
@@ -864,49 +561,31 @@
     ],
     [
       [
-        [
-          "Vila Real"
-        ],
+        "Vila Real",
         [
           "/wiki/Vila_Real_District"
         ]
       ],
       [
-        [
-          "206,661"
-        ],
-        [
-          null
-        ]
+        "206,661",
+        []
       ],
       [
-        [
-          "14"
-        ],
+        "14",
         [
           "/wiki/Vila_Real_District"
         ]
       ],
       [
-        [
-          "197"
-        ],
-        [
-          null
-        ]
+        "197",
+        []
       ],
       [
-        [
-          "Tr\u00e1s-os-Montes e Alto Douro"
-        ],
-        [
-          null
-        ]
+        "Tr\u00e1s-os-Montes e Alto Douro",
+        []
       ],
       [
-        [
-          "Norte"
-        ],
+        "Norte",
         [
           "/wiki/Norte_Region,_Portugal"
         ]
@@ -914,49 +593,31 @@
     ],
     [
       [
-        [
-          "Viseu"
-        ],
+        "Viseu",
         [
           "/wiki/Viseu_District"
         ]
       ],
       [
-        [
-          "377,653"
-        ],
-        [
-          null
-        ]
+        "377,653",
+        []
       ],
       [
-        [
-          "24"
-        ],
+        "24",
         [
           "/wiki/Viseu_District"
         ]
       ],
       [
-        [
-          "277"
-        ],
-        [
-          null
-        ]
+        "277",
+        []
       ],
       [
-        [
-          "Beira Alta , ( partly Douro Litoral )"
-        ],
-        [
-          null
-        ]
+        "Beira Alta , ( partly Douro Litoral )",
+        []
       ],
       [
-        [
-          "Norte"
-        ],
+        "Centro , Norte",
         [
           "/wiki/Norte_Region,_Portugal"
         ]

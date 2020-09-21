@@ -3,68 +3,42 @@
   "title": "List of WestJet destinations",
   "header": [
     [
-      [
-        "Country"
-      ],
-      [
-        null
-      ]
+      "Country",
+      []
     ],
     [
-      [
-        "Province / State"
-      ],
-      [
-        null
-      ]
+      "Province / State",
+      []
     ],
     [
-      [
-        "City"
-      ],
-      [
-        null
-      ]
+      "City",
+      []
     ],
     [
-      [
-        "Airport"
-      ],
-      [
-        null
-      ]
+      "Airport",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Bahamas"
-        ],
+        "Bahamas",
         [
           "/wiki/Bahamas"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Freeport"
-        ],
+        "Freeport",
         [
           "/wiki/Freeport,_Bahamas"
         ]
       ],
       [
-        [
-          "Grand Bahama International Airport"
-        ],
+        "Grand Bahama International Airport",
         [
           "/wiki/Grand_Bahama_International_Airport"
         ]
@@ -72,33 +46,25 @@
     ],
     [
       [
-        [
-          "Canada"
-        ],
+        "Canada",
         [
           "/wiki/Canada"
         ]
       ],
       [
-        [
-          "Manitoba"
-        ],
+        "Manitoba",
         [
           "/wiki/Manitoba"
         ]
       ],
       [
-        [
-          "Thompson"
-        ],
+        "Thompson",
         [
           "/wiki/Thompson,_Manitoba"
         ]
       ],
       [
-        [
-          "Thompson Airport"
-        ],
+        "Thompson Airport",
         [
           "/wiki/Thompson_Airport"
         ]
@@ -106,33 +72,25 @@
     ],
     [
       [
-        [
-          "Canada"
-        ],
+        "Canada",
         [
           "/wiki/Canada"
         ]
       ],
       [
-        [
-          "New Brunswick"
-        ],
+        "New Brunswick",
         [
           "/wiki/New_Brunswick"
         ]
       ],
       [
-        [
-          "Saint John"
-        ],
+        "Saint John",
         [
           "/wiki/Saint_John,_New_Brunswick"
         ]
       ],
       [
-        [
-          "Saint John Airport"
-        ],
+        "Saint John Airport",
         [
           "/wiki/Saint_John_Airport"
         ]
@@ -140,33 +98,25 @@
     ],
     [
       [
-        [
-          "Canada"
-        ],
+        "Canada",
         [
           "/wiki/Canada"
         ]
       ],
       [
-        [
-          "Ontario"
-        ],
+        "Ontario",
         [
           "/wiki/Ontario"
         ]
       ],
       [
-        [
-          "Sault Ste . Marie"
-        ],
+        "Sault Ste . Marie",
         [
           "/wiki/Sault_Ste._Marie,_Ontario"
         ]
       ],
       [
-        [
-          "Sault Ste . Marie Airport"
-        ],
+        "Sault Ste . Marie Airport",
         [
           "/wiki/Sault_Ste._Marie_Airport"
         ]
@@ -174,33 +124,25 @@
     ],
     [
       [
-        [
-          "Canada"
-        ],
+        "Canada",
         [
           "/wiki/Canada"
         ]
       ],
       [
-        [
-          "Ontario"
-        ],
+        "Ontario",
         [
           "/wiki/Ontario"
         ]
       ],
       [
-        [
-          "Sudbury"
-        ],
+        "Sudbury",
         [
           "/wiki/Greater_Sudbury"
         ]
       ],
       [
-        [
-          "Sudbury Airport"
-        ],
+        "Sudbury Airport",
         [
           "/wiki/Sudbury_Airport"
         ]
@@ -208,33 +150,25 @@
     ],
     [
       [
-        [
-          "Dominican Republic"
-        ],
+        "Dominican Republic",
         [
           "/wiki/Dominican_Republic"
         ]
       ],
       [
-        [
-          "La Romana"
-        ],
+        "La Romana",
         [
           "/wiki/La_Romana_Province"
         ]
       ],
       [
-        [
-          "La Romana"
-        ],
+        "La Romana",
         [
           "/wiki/La_Romana,_La_Romana"
         ]
       ],
       [
-        [
-          "La Romana International Airport"
-        ],
+        "La Romana International Airport",
         [
           "/wiki/La_Romana_International_Airport"
         ]
@@ -242,33 +176,25 @@
     ],
     [
       [
-        [
-          "Mexico"
-        ],
+        "Mexico",
         [
           "/wiki/Mexico"
         ]
       ],
       [
-        [
-          "Mexico City"
-        ],
+        "Mexico City",
         [
           "/wiki/Mexico_City"
         ]
       ],
       [
-        [
-          "Mexico City"
-        ],
+        "Mexico City",
         [
           "/wiki/Mexico_City"
         ]
       ],
       [
-        [
-          "Mexico City International Airport"
-        ],
+        "Mexico City International Airport",
         [
           "/wiki/Mexico_City_International_Airport"
         ]
@@ -276,33 +202,25 @@
     ],
     [
       [
-        [
-          "United States"
-        ],
+        "United States",
         [
           "/wiki/United_States"
         ]
       ],
       [
-        [
-          "Florida"
-        ],
+        "Florida",
         [
           "/wiki/Florida"
         ]
       ],
       [
-        [
-          "Sarasota"
-        ],
+        "Sarasota",
         [
           "/wiki/Sarasota"
         ]
       ],
       [
-        [
-          "Sarasota-Bradenton International Airport"
-        ],
+        "Sarasota-Bradenton International Airport",
         [
           "/wiki/Sarasota-Bradenton_International_Airport"
         ]
@@ -310,33 +228,25 @@
     ],
     [
       [
-        [
-          "United States"
-        ],
+        "United States",
         [
           "/wiki/United_States"
         ]
       ],
       [
-        [
-          "Florida"
-        ],
+        "Florida",
         [
           "/wiki/Florida"
         ]
       ],
       [
-        [
-          "West Palm Beach"
-        ],
+        "West Palm Beach",
         [
           "/wiki/West_Palm_Beach"
         ]
       ],
       [
-        [
-          "Palm Beach International Airport"
-        ],
+        "Palm Beach International Airport",
         [
           "/wiki/Palm_Beach_International_Airport"
         ]
@@ -344,33 +254,25 @@
     ],
     [
       [
-        [
-          "United States"
-        ],
+        "United States",
         [
           "/wiki/United_States"
         ]
       ],
       [
-        [
-          "Illinois"
-        ],
+        "Illinois",
         [
           "/wiki/Illinois"
         ]
       ],
       [
-        [
-          "Chicago"
-        ],
+        "Chicago",
         [
           "/wiki/Chicago"
         ]
       ],
       [
-        [
-          "O'Hare International Airport"
-        ],
+        "O'Hare International Airport",
         [
           "/wiki/O'Hare_International_Airport"
         ]
@@ -378,33 +280,25 @@
     ],
     [
       [
-        [
-          "United States"
-        ],
+        "United States",
         [
           "/wiki/United_States"
         ]
       ],
       [
-        [
-          "Louisiana"
-        ],
+        "Louisiana",
         [
           "/wiki/Louisiana"
         ]
       ],
       [
-        [
-          "New Orleans"
-        ],
+        "New Orleans",
         [
           "/wiki/New_Orleans"
         ]
       ],
       [
-        [
-          "Louis Armstrong New Orleans International Airport"
-        ],
+        "Louis Armstrong New Orleans International Airport",
         [
           "/wiki/Louis_Armstrong_New_Orleans_International_Airport"
         ]
@@ -412,33 +306,25 @@
     ],
     [
       [
-        [
-          "United States"
-        ],
+        "United States",
         [
           "/wiki/United_States"
         ]
       ],
       [
-        [
-          "New Jersey"
-        ],
+        "New Jersey",
         [
           "/wiki/New_Jersey"
         ]
       ],
       [
-        [
-          "Atlantic City"
-        ],
+        "Atlantic City",
         [
           "/wiki/Atlantic_City"
         ]
       ],
       [
-        [
-          "Atlantic City International Airport"
-        ],
+        "Atlantic City International Airport",
         [
           "/wiki/Atlantic_City_International_Airport"
         ]
@@ -446,33 +332,25 @@
     ],
     [
       [
-        [
-          "United States"
-        ],
+        "United States",
         [
           "/wiki/United_States"
         ]
       ],
       [
-        [
-          "New Jersey"
-        ],
+        "New Jersey",
         [
           "/wiki/New_Jersey"
         ]
       ],
       [
-        [
-          "Newark"
-        ],
+        "Newark",
         [
           "/wiki/Newark,_New_Jersey"
         ]
       ],
       [
-        [
-          "Newark Liberty International Airport"
-        ],
+        "Newark Liberty International Airport",
         [
           "/wiki/Newark_Liberty_International_Airport"
         ]
@@ -480,33 +358,25 @@
     ],
     [
       [
-        [
-          "United States"
-        ],
+        "United States",
         [
           "/wiki/United_States"
         ]
       ],
       [
-        [
-          "Texas"
-        ],
+        "Texas",
         [
           "/wiki/Texas"
         ]
       ],
       [
-        [
-          "Dallas"
-        ],
+        "Dallas",
         [
           "/wiki/Dallas"
         ]
       ],
       [
-        [
-          "Dallas/Fort Worth International Airport"
-        ],
+        "Dallas/Fort Worth International Airport",
         [
           "/wiki/Dallas/Fort_Worth_International_Airport"
         ]

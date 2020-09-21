@@ -3,101 +3,60 @@
   "title": "Turboprop",
   "header": [
     [
-      [
-        "Manufacturer"
-      ],
-      [
-        null
-      ]
+      "Manufacturer",
+      []
     ],
     [
-      [
-        "Country"
-      ],
-      [
-        null
-      ]
+      "Country",
+      []
     ],
     [
-      [
-        "Designation"
-      ],
-      [
-        null
-      ]
+      "Designation",
+      []
     ],
     [
-      [
-        "Dry weight ( kg )"
-      ],
-      [
-        null
-      ]
+      "Dry weight ( kg )",
+      []
     ],
     [
-      [
-        "Takeoff rating ( kW )"
-      ],
-      [
-        null
-      ]
+      "Takeoff rating ( kW )",
+      []
     ],
     [
-      [
-        "Application"
-      ],
-      [
-        null
-      ]
+      "Application",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "DEMC"
-        ],
+        "DEMC",
         [
           "/wiki/Dongan_Engine_Manufacturing_Company"
         ]
       ],
       [
-        [
-          "People 's Republic of China"
-        ],
+        "People 's Republic of China",
         [
           "/wiki/China"
         ]
       ],
       [
-        [
-          "WJ5E"
-        ],
+        "WJ5E",
         [
           "/wiki/Dongan_WJ5"
         ]
       ],
       [
-        [
-          "720"
-        ],
-        [
-          null
-        ]
+        "720",
+        []
       ],
       [
-        [
-          "2130"
-        ],
-        [
-          null
-        ]
+        "2130",
+        []
       ],
       [
-        [
-          "Harbin SH-5",
-          "Xi'an Y-7"
-        ],
+        "Harbin SH-5 , Xi'an Y-7",
         [
           "/wiki/Harbin_SH-5",
           "/wiki/Xi'an_Y-7"
@@ -106,49 +65,33 @@
     ],
     [
       [
-        [
-          "Europrop International"
-        ],
+        "Europrop International",
         [
           "/wiki/Europrop_International"
         ]
       ],
       [
-        [
-          "European Union"
-        ],
+        "European Union",
         [
           "/wiki/European_Union"
         ]
       ],
       [
-        [
-          "TP400-D6"
-        ],
+        "TP400-D6",
         [
           "/wiki/Europrop_TP400"
         ]
       ],
       [
-        [
-          "1800"
-        ],
-        [
-          null
-        ]
+        "1800",
+        []
       ],
       [
-        [
-          "8203"
-        ],
-        [
-          null
-        ]
+        "8203",
+        []
       ],
       [
-        [
-          "Airbus A400M"
-        ],
+        "Airbus A400M",
         [
           "/wiki/Airbus_A400M"
         ]
@@ -156,102 +99,65 @@
     ],
     [
       [
-        [
-          "General Electric"
-        ],
+        "General Electric",
         [
           "/wiki/General_Electric"
         ]
       ],
       [
-        [
-          "United States"
-        ],
+        "United States",
         [
           "/wiki/United_States"
         ]
       ],
       [
-        [
-          "CT7"
-        ],
+        "CT7 -5A",
         [
           "/wiki/General_Electric_T700"
         ]
       ],
       [
-        [
-          "365"
-        ],
-        [
-          null
-        ]
+        "365",
+        []
       ],
       [
-        [
-          "1294"
-        ],
-        [
-          null
-        ]
+        "1294",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "General Electric"
-        ],
+        "General Electric",
         [
           "/wiki/General_Electric"
         ]
       ],
       [
-        [
-          "United States"
-        ],
+        "United States",
         [
           "/wiki/United_States"
         ]
       ],
       [
-        [
-          "CT7"
-        ],
+        "CT7 -9",
         [
           "/wiki/General_Electric_T700"
         ]
       ],
       [
-        [
-          "365"
-        ],
-        [
-          null
-        ]
+        "365",
+        []
       ],
       [
-        [
-          "1447"
-        ],
-        [
-          null
-        ]
+        "1447",
+        []
       ],
       [
-        [
-          "CASA/IPTN CN-235",
-          "Let L-610",
-          "Saab 340",
-          "Sukhoi Su-80"
-        ],
+        "CASA/IPTN CN-235 , Let L-610 , Saab 340 , Sukhoi Su-80",
         [
           "/wiki/CASA/IPTN_CN-235",
           "/wiki/Let_L-610",
@@ -262,55 +168,34 @@
     ],
     [
       [
-        [
-          "General Electric"
-        ],
+        "General Electric",
         [
           "/wiki/General_Electric"
         ]
       ],
       [
-        [
-          "United States",
-          "Czech Republic"
-        ],
+        "United States Czech Republic",
         [
           "/wiki/United_States",
           "/wiki/Czech_Republic"
         ]
       ],
       [
-        [
-          "H80 Series"
-        ],
+        "H80 Series",
         [
           "/wiki/General_Electric_H80"
         ]
       ],
       [
-        [
-          "200"
-        ],
-        [
-          null
-        ]
+        "200",
+        []
       ],
       [
-        [
-          "550 - 625"
-        ],
-        [
-          null
-        ]
+        "550 - 625",
+        []
       ],
       [
-        [
-          "Thrush Model 510",
-          "Let 410NG",
-          "Let L-410 Turbolet",
-          "CAIGA Primus 150",
-          "Nextant G90XT"
-        ],
+        "Thrush Model 510 , Let 410NG , Let L-410 Turbolet UVP-E , CAIGA Primus 150 , Nextant G90XT",
         [
           "/wiki/Ayres_Thrush",
           "/wiki/Let_L-410_Turbolet",
@@ -322,51 +207,33 @@
     ],
     [
       [
-        [
-          "General Electric"
-        ],
+        "General Electric",
         [
           "/wiki/General_Electric"
         ]
       ],
       [
-        [
-          "United States"
-        ],
+        "United States",
         [
           "/wiki/United_States"
         ]
       ],
       [
-        [
-          "T64"
-        ],
+        "T64 -P4D",
         [
           "/wiki/General_Electric_T64"
         ]
       ],
       [
-        [
-          "538"
-        ],
-        [
-          null
-        ]
+        "538",
+        []
       ],
       [
-        [
-          "2535"
-        ],
-        [
-          null
-        ]
+        "2535",
+        []
       ],
       [
-        [
-          "Aeritalia G.222",
-          "de Havilland Canada DHC-5 Buffalo",
-          "Kawasaki P-2J"
-        ],
+        "Aeritalia G.222 , de Havilland Canada DHC-5 Buffalo , Kawasaki P-2J",
         [
           "/wiki/Aeritalia_G.222",
           "/wiki/De_Havilland_Canada_DHC-5_Buffalo",
@@ -376,69 +243,33 @@
     ],
     [
       [
-        [
-          "Honeywell"
-        ],
+        "Honeywell",
         [
           "/wiki/Honeywell"
         ]
       ],
       [
-        [
-          "United States"
-        ],
+        "United States",
         [
           "/wiki/United_States"
         ]
       ],
       [
-        [
-          "TPE331"
-        ],
+        "TPE331 Series",
         [
           "/wiki/TPE331"
         ]
       ],
       [
-        [
-          "150 - 275"
-        ],
-        [
-          null
-        ]
+        "150 - 275",
+        []
       ],
       [
-        [
-          "478 - 1650"
-        ],
-        [
-          null
-        ]
+        "478 - 1650",
+        []
       ],
       [
-        [
-          "Aero/Rockwell Turbo Commander 680/690/840/960/1000",
-          "Antonov An-38",
-          "Ayres Thrush",
-          "BAe Jetstream 31/32",
-          "BAe Jetstream 41",
-          "CASA C-212 Aviocar",
-          "Cessna 441",
-          "Dornier Do 228",
-          "Fairchild Swearingen Metroliner",
-          "General Atomics MQ-9 Reaper",
-          "Grum",
-          "Ge",
-          "man",
-          "Mitsubishi MU-2",
-          "North American Rockwell OV-10 Bronco",
-          "Piper PA-42 Cheyenne",
-          "RUAG Do 228NG",
-          "Short SC.7 Skyvan",
-          "Short Tucano",
-          "Swearingen Merlin",
-          "Fairchild Swearingen Metroliner"
-        ],
+        "Aero/Rockwell Turbo Commander 680/690/840/960/1000 , Antonov An-38 , Ayres Thrush , BAe Jetstream 31/32 , BAe Jetstream 41 , CASA C-212 Aviocar , Cessna 441 Conquest II , Dornier Do 228 , Fairchild Swearingen Metroliner , General Atomics MQ-9 Reaper , Grum Ge man , Mitsubishi MU-2 , North American Rockwell OV-10 Bronco , Piper PA-42 Cheyenne , RUAG Do 228NG , Short SC.7 Skyvan , Short Tucano , Swearingen Merlin , Fairchild Swearingen Metroliner",
         [
           "/wiki/Aero_Commander_500",
           "/wiki/Antonov_An-38",
@@ -466,50 +297,33 @@
     ],
     [
       [
-        [
-          "Honeywell"
-        ],
+        "Honeywell",
         [
           "/wiki/Honeywell"
         ]
       ],
       [
-        [
-          "United States"
-        ],
+        "United States",
         [
           "/wiki/United_States"
         ]
       ],
       [
-        [
-          "LTP 101"
-        ],
+        "LTP 101 -700",
         [
           "/wiki/Lycoming_LTS101"
         ]
       ],
       [
-        [
-          "147"
-        ],
-        [
-          null
-        ]
+        "147",
+        []
       ],
       [
-        [
-          "522"
-        ],
-        [
-          null
-        ]
+        "522",
+        []
       ],
       [
-        [
-          "Air Tractor AT-302",
-          "Piaggio P.166"
-        ],
+        "Air Tractor AT-302 , Piaggio P.166",
         [
           "/wiki/Air_Tractor_AT-302",
           "/wiki/Piaggio_P.166"
@@ -518,51 +332,33 @@
     ],
     [
       [
-        [
-          "KKBM"
-        ],
+        "KKBM",
         [
           "/wiki/Aviakor"
         ]
       ],
       [
-        [
-          "Russia"
-        ],
+        "Russia",
         [
           "/wiki/Russia"
         ]
       ],
       [
-        [
-          "NK-12MV"
-        ],
+        "NK-12MV",
         [
           "/wiki/Kuznetsov_NK-12"
         ]
       ],
       [
-        [
-          "1900"
-        ],
-        [
-          null
-        ]
+        "1900",
+        []
       ],
       [
-        [
-          "11033"
-        ],
-        [
-          null
-        ]
+        "11033",
+        []
       ],
       [
-        [
-          "Antonov An-22",
-          "Tupolev Tu-95",
-          "Tupolev Tu-114"
-        ],
+        "Antonov An-22 , Tupolev Tu-95 , Tupolev Tu-114",
         [
           "/wiki/Antonov_An-22",
           "/wiki/Tupolev_Tu-95",
@@ -572,49 +368,33 @@
     ],
     [
       [
-        [
-          "Progress"
-        ],
+        "Progress",
         [
           "/wiki/Ivchenko-Progress"
         ]
       ],
       [
-        [
-          "Ukraine"
-        ],
+        "Ukraine",
         [
           "/wiki/Ukraine"
         ]
       ],
       [
-        [
-          "TV3-117"
-        ],
+        "TV3-117 VMA-SB2",
         [
           "/wiki/Klimov_TV3-117"
         ]
       ],
       [
-        [
-          "560"
-        ],
-        [
-          null
-        ]
+        "560",
+        []
       ],
       [
-        [
-          "1864"
-        ],
-        [
-          null
-        ]
+        "1864",
+        []
       ],
       [
-        [
-          "Antonov An-140"
-        ],
+        "Antonov An-140",
         [
           "/wiki/Antonov_An-140"
         ]
@@ -622,50 +402,33 @@
     ],
     [
       [
-        [
-          "Klimov"
-        ],
+        "Klimov",
         [
           "/wiki/Klimov"
         ]
       ],
       [
-        [
-          "Russia"
-        ],
+        "Russia",
         [
           "/wiki/Russia"
         ]
       ],
       [
-        [
-          "TV7-117"
-        ],
+        "TV7-117 S",
         [
           "/wiki/Klimov_TV7-117"
         ]
       ],
       [
-        [
-          "530"
-        ],
-        [
-          null
-        ]
+        "530",
+        []
       ],
       [
-        [
-          "2100"
-        ],
-        [
-          null
-        ]
+        "2100",
+        []
       ],
       [
-        [
-          "Ilyushin Il-112",
-          "Ilyushin Il-114"
-        ],
+        "Ilyushin Il-112 , Ilyushin Il-114",
         [
           "/wiki/Ilyushin_Il-112",
           "/wiki/Ilyushin_Il-114"
@@ -674,51 +437,33 @@
     ],
     [
       [
-        [
-          "Progress"
-        ],
+        "Progress",
         [
           "/wiki/Ivchenko-Progress"
         ]
       ],
       [
-        [
-          "Ukraine"
-        ],
+        "Ukraine",
         [
           "/wiki/Ukraine"
         ]
       ],
       [
-        [
-          "AI20"
-        ],
+        "AI20 M",
         [
           "/wiki/Ivchenko_AI-20"
         ]
       ],
       [
-        [
-          "1040"
-        ],
-        [
-          null
-        ]
+        "1040",
+        []
       ],
       [
-        [
-          "2940"
-        ],
-        [
-          null
-        ]
+        "2940",
+        []
       ],
       [
-        [
-          "Antonov An-12",
-          "Antonov An-32",
-          "Ilyushin Il-18"
-        ],
+        "Antonov An-12 , Antonov An-32 , Ilyushin Il-18",
         [
           "/wiki/Antonov_An-12",
           "/wiki/Antonov_An-32",
@@ -728,51 +473,33 @@
     ],
     [
       [
-        [
-          "Progress"
-        ],
+        "Progress",
         [
           "/wiki/Ivchenko-Progress"
         ]
       ],
       [
-        [
-          "Ukraine"
-        ],
+        "Ukraine",
         [
           "/wiki/Ukraine"
         ]
       ],
       [
-        [
-          "AI24"
-        ],
+        "AI24 T",
         [
           "/wiki/Ivchenko_AI-24"
         ]
       ],
       [
-        [
-          "600"
-        ],
-        [
-          null
-        ]
+        "600",
+        []
       ],
       [
-        [
-          "1880"
-        ],
-        [
-          null
-        ]
+        "1880",
+        []
       ],
       [
-        [
-          "Antonov An-24",
-          "Antonov An-26",
-          "Antonov An-30"
-        ],
+        "Antonov An-24 , Antonov An-26 , Antonov An-30",
         [
           "/wiki/Antonov_An-24",
           "/wiki/Antonov_An-26",
@@ -782,53 +509,33 @@
     ],
     [
       [
-        [
-          "LHTEC"
-        ],
+        "LHTEC",
         [
           "/wiki/LHTEC"
         ]
       ],
       [
-        [
-          "United States"
-        ],
+        "United States",
         [
           "/wiki/United_States"
         ]
       ],
       [
-        [
-          "LHTEC T800"
-        ],
+        "LHTEC T800",
         [
           "/wiki/LHTEC_T800"
         ]
       ],
       [
-        [
-          "517"
-        ],
-        [
-          null
-        ]
+        "517",
+        []
       ],
       [
-        [
-          "2013"
-        ],
-        [
-          null
-        ]
+        "2013",
+        []
       ],
       [
-        [
-          "AgustaWestland Super Lynx 300",
-          "AgustaWestland AW159 Lynx Wildcat",
-          "Ayres LM200 Loadmaster",
-          "Sikorsky X2",
-          "TAI/AgustaWestland T-129"
-        ],
+        "AgustaWestland Super Lynx 300 ( CTS800-4N ) , AgustaWestland AW159 Lynx Wildcat ( CTS800-4N ) , Ayres LM200 Loadmaster ( LHTEC CTP800-4T ) ( aircraft not built ) , Sikorsky X2 ( T800-LHT-801 ) , TAI/AgustaWestland T-129 ( CTS800-4A )",
         [
           "/wiki/Westland_Lynx",
           "/wiki/AgustaWestland_AW159",
@@ -840,50 +547,31 @@
     ],
     [
       [
-        [
-          "OMKB"
-        ],
+        "OMKB",
         [
           "/wiki/Omsk_Engine_Design_Bureau"
         ]
       ],
       [
-        [
-          "Russia"
-        ],
+        "Russia",
         [
           "/wiki/Russia"
         ]
       ],
       [
-        [
-          "TVD-20"
-        ],
-        [
-          null
-        ]
+        "TVD-20",
+        []
       ],
       [
-        [
-          "240"
-        ],
-        [
-          null
-        ]
+        "240",
+        []
       ],
       [
-        [
-          "1081"
-        ],
-        [
-          null
-        ]
+        "1081",
+        []
       ],
       [
-        [
-          "Antonov An-3",
-          "Antonov An-38"
-        ],
+        "Antonov An-3 , Antonov An-38",
         [
           "/wiki/Antonov_An-3",
           "/wiki/Antonov_An-38"
@@ -892,71 +580,33 @@
     ],
     [
       [
-        [
-          "Pratt & Whitney Canada"
-        ],
+        "Pratt & Whitney Canada",
         [
           "/wiki/Pratt_&_Whitney_Canada"
         ]
       ],
       [
-        [
-          "Canada"
-        ],
+        "Canada",
         [
           "/wiki/Canada"
         ]
       ],
       [
-        [
-          "PT-6"
-        ],
+        "PT-6 Series",
         [
           "/wiki/PT-6"
         ]
       ],
       [
-        [
-          "149 - 260"
-        ],
-        [
-          null
-        ]
+        "149 - 260",
+        []
       ],
       [
-        [
-          "430 - 1500"
-        ],
-        [
-          null
-        ]
+        "430 - 1500",
+        []
       ],
       [
-        [
-          "Air Tractor AT-502",
-          "Air Tractor AT-602",
-          "Air Tractor AT-802",
-          "Beechcraft Model 99",
-          "Beechcraft Super King Air",
-          "Beechcraft 1900",
-          "Beechcraft T-6 Texan II",
-          "Cessna 208 Caravan",
-          "Cessna 425 Corsair/Conquest I",
-          "de Havilland Canada DHC-6 Twin Otter",
-          "Harbin Y-12",
-          "Embraer EMB 110 Bandeirante",
-          "Let L-410 Turbolet",
-          "Piaggio P.180 Avanti",
-          "Pilatus PC-6 Porter",
-          "Pilatus PC-12",
-          "Piper PA-42 Cheyenne",
-          "Piper PA-46-500TP Meridian",
-          "Shorts 360",
-          "Daher TBM 700",
-          "Daher TBM 850",
-          "Daher TBM 900",
-          "Embraer EMB 314 Super Tucano"
-        ],
+        "Air Tractor AT-502 , Air Tractor AT-602 , Air Tractor AT-802 , Beechcraft Model 99 , Beechcraft King Air , Beechcraft Super King Air , Beechcraft 1900 , Beechcraft T-6 Texan II , Cessna 208 Caravan , Cessna 425 Corsair/Conquest I , de Havilland Canada DHC-6 Twin Otter , Harbin Y-12 , Embraer EMB 110 Bandeirante , Let L-410 Turbolet , Piaggio P.180 Avanti , Pilatus PC-6 Porter , Pilatus PC-12 , Piper PA-42 Cheyenne , Piper PA-46-500TP Meridian , Shorts 360 , Daher TBM 700 , Daher TBM 850 , Daher TBM 900 , Embraer EMB 314 Super Tucano",
         [
           "/wiki/Air_Tractor_AT-502",
           "/wiki/Air_Tractor_AT-602",
@@ -986,49 +636,33 @@
     ],
     [
       [
-        [
-          "Pratt & Whitney Canada"
-        ],
+        "Pratt & Whitney Canada",
         [
           "/wiki/Pratt_&_Whitney_Canada"
         ]
       ],
       [
-        [
-          "Canada"
-        ],
+        "Canada",
         [
           "/wiki/Canada"
         ]
       ],
       [
-        [
-          "PW120"
-        ],
+        "PW120",
         [
           "/wiki/Pratt_&_Whitney_Canada_PW100"
         ]
       ],
       [
-        [
-          "418"
-        ],
-        [
-          null
-        ]
+        "418",
+        []
       ],
       [
-        [
-          "1491"
-        ],
-        [
-          null
-        ]
+        "1491",
+        []
       ],
       [
-        [
-          "ATR 42"
-        ],
+        "ATR 42 -300/320",
         [
           "/wiki/ATR_42"
         ]
@@ -1036,50 +670,33 @@
     ],
     [
       [
-        [
-          "Pratt & Whitney Canada"
-        ],
+        "Pratt & Whitney Canada",
         [
           "/wiki/Pratt_&_Whitney_Canada"
         ]
       ],
       [
-        [
-          "Canada"
-        ],
+        "Canada",
         [
           "/wiki/Canada"
         ]
       ],
       [
-        [
-          "PW121"
-        ],
+        "PW121",
         [
           "/wiki/Pratt_&_Whitney_Canada_PW100"
         ]
       ],
       [
-        [
-          "425"
-        ],
-        [
-          null
-        ]
+        "425",
+        []
       ],
       [
-        [
-          "1603"
-        ],
-        [
-          null
-        ]
+        "1603",
+        []
       ],
       [
-        [
-          "ATR 42",
-          "Bombardier Dash 8"
-        ],
+        "ATR 42 -300/320 , Bombardier Dash 8 Q100",
         [
           "/wiki/ATR_42",
           "/wiki/Bombardier_Dash_8"
@@ -1088,49 +705,33 @@
     ],
     [
       [
-        [
-          "Pratt & Whitney Canada"
-        ],
+        "Pratt & Whitney Canada",
         [
           "/wiki/Pratt_&_Whitney_Canada"
         ]
       ],
       [
-        [
-          "Canada"
-        ],
+        "Canada",
         [
           "/wiki/Canada"
         ]
       ],
       [
-        [
-          "PW123"
-        ],
+        "PW123 C/D",
         [
           "/wiki/Pratt_&_Whitney_Canada_PW100"
         ]
       ],
       [
-        [
-          "450"
-        ],
-        [
-          null
-        ]
+        "450",
+        []
       ],
       [
-        [
-          "1603"
-        ],
-        [
-          null
-        ]
+        "1603",
+        []
       ],
       [
-        [
-          "Bombardier Dash 8"
-        ],
+        "Bombardier Dash 8 Q300",
         [
           "/wiki/Bombardier_Dash_8"
         ]
@@ -1138,49 +739,33 @@
     ],
     [
       [
-        [
-          "Pratt & Whitney Canada"
-        ],
+        "Pratt & Whitney Canada",
         [
           "/wiki/Pratt_&_Whitney_Canada"
         ]
       ],
       [
-        [
-          "Canada"
-        ],
+        "Canada",
         [
           "/wiki/Canada"
         ]
       ],
       [
-        [
-          "PW126"
-        ],
+        "PW126 C/D",
         [
           "/wiki/Pratt_&_Whitney_Canada_PW100"
         ]
       ],
       [
-        [
-          "450"
-        ],
-        [
-          null
-        ]
+        "450",
+        []
       ],
       [
-        [
-          "1950"
-        ],
-        [
-          null
-        ]
+        "1950",
+        []
       ],
       [
-        [
-          "BAe ATP"
-        ],
+        "BAe ATP",
         [
           "/wiki/BAe_ATP"
         ]

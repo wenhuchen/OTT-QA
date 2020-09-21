@@ -3,137 +3,82 @@
   "title": "Ampang and Sri Petaling lines",
   "header": [
     [
-      [
-        "Code"
-      ],
-      [
-        null
-      ]
+      "Code",
+      []
     ],
     [
-      [
-        "Name"
-      ],
-      [
-        null
-      ]
+      "Name",
+      []
     ],
     [
-      [
-        "Platform type"
-      ],
-      [
-        null
-      ]
+      "Platform type",
+      []
     ],
     [
-      [
-        "Interchange/Notes"
-      ],
-      [
-        null
-      ]
+      "Interchange/Notes",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "AG1 SP1"
-        ],
-        [
-          null
-        ]
+        "AG1 SP1",
+        []
       ],
       [
-        [
-          "Sentul Timur"
-        ],
+        "Sentul Timur",
         [
           "/wiki/Sentul_Timur_LRT_station"
         ]
       ],
       [
-        [
-          "Terminus"
-        ],
+        "Terminus ( Side )",
         [
           "/wiki/Terminus_station"
         ]
       ],
       [
-        [
-          "Northern terminus"
-        ],
-        [
-          null
-        ]
+        "Northern terminus",
+        []
       ]
     ],
     [
       [
-        [
-          "AG2 SP2"
-        ],
-        [
-          null
-        ]
+        "AG2 SP2",
+        []
       ],
       [
-        [
-          "Sentul"
-        ],
+        "Sentul",
         [
           "/wiki/Sentul_LRT_station"
         ]
       ],
       [
-        [
-          "Side"
-        ],
-        [
-          null
-        ]
+        "Side",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "AG3 SP3"
-        ],
-        [
-          null
-        ]
+        "AG3 SP3",
+        []
       ],
       [
-        [
-          "Titiwangsa"
-        ],
+        "Titiwangsa",
         [
           "/wiki/Titiwangsa_station"
         ]
       ],
       [
-        [
-          "Side"
-        ],
-        [
-          null
-        ]
+        "Side",
+        []
       ],
       [
-        [
-          "KL Monorail",
-          "MRT Sungai Buloh-Serdang-Putrajaya Line"
-        ],
+        "Interchange station with MR11 KL Monorail as well as future interchange with SSP13 MRT Sungai Buloh-Serdang-Putrajaya Line . ( Opening 2022 )",
         [
           "/wiki/KL_Monorail",
           "/wiki/MRT_Sungai_Buloh_Serdang_Putrajaya_Line"
@@ -142,35 +87,21 @@
     ],
     [
       [
-        [
-          "AG4 SP4"
-        ],
-        [
-          null
-        ]
+        "AG4 SP4",
+        []
       ],
       [
-        [
-          "PWTC"
-        ],
+        "PWTC",
         [
           "/wiki/PWTC_LRT_station"
         ]
       ],
       [
-        [
-          "Side"
-        ],
-        [
-          null
-        ]
+        "Side",
+        []
       ],
       [
-        [
-          "Putra",
-          "KTM Seremban Line",
-          "KTM Port Klang Line"
-        ],
+        "Pedestrian access to KA04 Putra for KTM Seremban Line and KTM Port Klang Line walking a distance of 600 metres",
         [
           "/wiki/Putra_Komuter_station",
           "/wiki/Seremban_Line",
@@ -180,34 +111,21 @@
     ],
     [
       [
-        [
-          "AG5 SP5"
-        ],
-        [
-          null
-        ]
+        "AG5 SP5",
+        []
       ],
       [
-        [
-          "Sultan Ismail"
-        ],
+        "Sultan Ismail",
         [
           "/wiki/Sultan_Ismail_LRT_station"
         ]
       ],
       [
-        [
-          "Side"
-        ],
-        [
-          null
-        ]
+        "Side",
+        []
       ],
       [
-        [
-          "Medan Tuanku",
-          "KL Monorail"
-        ],
+        "Pedestrian access to MR9 Medan Tuanku for KL Monorail",
         [
           "/wiki/Medan_Tuanku_Monorail_station",
           "/wiki/KL_Monorail"
@@ -216,35 +134,21 @@
     ],
     [
       [
-        [
-          "AG6 SP6"
-        ],
-        [
-          null
-        ]
+        "AG6 SP6",
+        []
       ],
       [
-        [
-          "Bandaraya"
-        ],
+        "Bandaraya",
         [
           "/wiki/Bandaraya_LRT_station"
         ]
       ],
       [
-        [
-          "Side"
-        ],
-        [
-          null
-        ]
+        "Side",
+        []
       ],
       [
-        [
-          "Bank Negara",
-          "KTM Seremban Line",
-          "KTM Port Klang Line"
-        ],
+        "Connecting station to KA03 Bank Negara or KTM Seremban Line and KTM Port Klang Line via a 250-meter pedestrian access",
         [
           "/wiki/Bank_Negara_Komuter_station",
           "/wiki/Seremban_Line",
@@ -254,33 +158,21 @@
     ],
     [
       [
-        [
-          "AG7 SP7"
-        ],
-        [
-          null
-        ]
+        "AG7 SP7",
+        []
       ],
       [
-        [
-          "Masjid Jamek"
-        ],
+        "Masjid Jamek",
         [
           "/wiki/Masjid_Jamek_LRT_station"
         ]
       ],
       [
-        [
-          "Side"
-        ],
-        [
-          null
-        ]
+        "Side",
+        []
       ],
       [
-        [
-          "LRT Kelana Jaya Line"
-        ],
+        "Interchange station with KJ13 LRT Kelana Jaya Line",
         [
           "/wiki/LRT_Kelana_Jaya_Line"
         ]
@@ -288,34 +180,21 @@
     ],
     [
       [
-        [
-          "AG8 SP8"
-        ],
-        [
-          null
-        ]
+        "AG8 SP8",
+        []
       ],
       [
-        [
-          "Plaza Rakyat"
-        ],
+        "Plaza Rakyat",
         [
           "/wiki/Plaza_Rakyat_station"
         ]
       ],
       [
-        [
-          "Side"
-        ],
-        [
-          null
-        ]
+        "Side",
+        []
       ],
       [
-        [
-          "Merdeka",
-          "MRT Sungai Buloh-Kajang Line"
-        ],
+        "Interchange station to SBK17 Merdeka for MRT Sungai Buloh-Kajang Line via 180-metre air-conditioned covered walkway",
         [
           "/wiki/Merdeka_station",
           "/wiki/MRT_Sungai_Buloh\u2013Kajang_line"
@@ -324,33 +203,21 @@
     ],
     [
       [
-        [
-          "AG9 SP9"
-        ],
-        [
-          null
-        ]
+        "AG9 SP9",
+        []
       ],
       [
-        [
-          "Hang Tuah"
-        ],
+        "Hang Tuah",
         [
           "/wiki/Hang_Tuah_station"
         ]
       ],
       [
-        [
-          "Side"
-        ],
-        [
-          null
-        ]
+        "Side",
+        []
       ],
       [
-        [
-          "KL Monorail"
-        ],
+        "Interchange station with MR4 KL Monorail",
         [
           "/wiki/KL_Monorail"
         ]
@@ -358,67 +225,41 @@
     ],
     [
       [
-        [
-          "AG10 SP10"
-        ],
-        [
-          null
-        ]
+        "AG10 SP10",
+        []
       ],
       [
-        [
-          "Pudu"
-        ],
+        "Pudu",
         [
           "/wiki/Pudu_LRT_station"
         ]
       ],
       [
-        [
-          "Side"
-        ],
-        [
-          null
-        ]
+        "Side",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "AG11 SP11"
-        ],
-        [
-          null
-        ]
+        "AG11 SP11",
+        []
       ],
       [
-        [
-          "Chan Sow Lin"
-        ],
+        "Chan Sow Lin",
         [
           "/wiki/Chan_Sow_Lin_LRT_station"
         ]
       ],
       [
-        [
-          "Island"
-        ],
-        [
-          null
-        ]
+        "Island",
+        []
       ],
       [
-        [
-          "MRT Sungai Buloh-Serdang-Putrajaya Line"
-        ],
+        "Future interchange SSP20 with the MRT Sungai Buloh-Serdang-Putrajaya Line ( Opening 2022 )",
         [
           "/wiki/MRT_Sungai_Buloh_Serdang_Putrajaya_Line"
         ]
@@ -426,67 +267,41 @@
     ],
     [
       [
-        [
-          "AG12"
-        ],
-        [
-          null
-        ]
+        "AG12",
+        []
       ],
       [
-        [
-          "Miharja"
-        ],
+        "Miharja",
         [
           "/wiki/Miharja_LRT_station"
         ]
       ],
       [
-        [
-          "Side"
-        ],
-        [
-          null
-        ]
+        "Side",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "AG13"
-        ],
-        [
-          null
-        ]
+        "AG13",
+        []
       ],
       [
-        [
-          "Maluri"
-        ],
+        "Maluri",
         [
           "/wiki/Maluri_LRT_station"
         ]
       ],
       [
-        [
-          "Side"
-        ],
-        [
-          null
-        ]
+        "Side",
+        []
       ],
       [
-        [
-          "MRT Sungai Buloh-Kajang Line"
-        ],
+        "Interchange station with the SBK22 MRT Sungai Buloh-Kajang Line",
         [
           "/wiki/MRT_Sungai_Buloh-Kajang_Line"
         ]
@@ -494,169 +309,101 @@
     ],
     [
       [
-        [
-          "AG14"
-        ],
-        [
-          null
-        ]
+        "AG14",
+        []
       ],
       [
-        [
-          "Pandan Jaya"
-        ],
+        "Pandan Jaya",
         [
           "/wiki/Pandan_Jaya_LRT_station"
         ]
       ],
       [
-        [
-          "Side"
-        ],
-        [
-          null
-        ]
+        "Side",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "AG15"
-        ],
-        [
-          null
-        ]
+        "AG15",
+        []
       ],
       [
-        [
-          "Pandan Indah"
-        ],
+        "Pandan Indah",
         [
           "/wiki/Pandan_Indah_LRT_station"
         ]
       ],
       [
-        [
-          "Side"
-        ],
-        [
-          null
-        ]
+        "Side",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "AG16"
-        ],
-        [
-          null
-        ]
+        "AG16",
+        []
       ],
       [
-        [
-          "Cempaka"
-        ],
+        "Cempaka",
         [
           "/wiki/Cempaka_LRT_station"
         ]
       ],
       [
-        [
-          "Side"
-        ],
-        [
-          null
-        ]
+        "Side",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "AG17"
-        ],
-        [
-          null
-        ]
+        "AG17",
+        []
       ],
       [
-        [
-          "Cahaya"
-        ],
+        "Cahaya",
         [
           "/wiki/Cahaya_LRT_station"
         ]
       ],
       [
-        [
-          "Side"
-        ],
-        [
-          null
-        ]
+        "Side",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "AG18"
-        ],
-        [
-          null
-        ]
+        "AG18",
+        []
       ],
       [
-        [
-          "Ampang"
-        ],
+        "Ampang",
         [
           "/wiki/Ampang_LRT_station"
         ]
       ],
       [
-        [
-          "Terminus ( Island )"
-        ],
-        [
-          null
-        ]
+        "Terminus ( Island )",
+        []
       ],
       [
-        [
-          "MRT Circle Line"
-        ],
+        "Eastern terminus as well as the proposed interchange for the MRT Circle Line ( shelved )",
         [
           "/wiki/MRT_Circle_Line"
         ]

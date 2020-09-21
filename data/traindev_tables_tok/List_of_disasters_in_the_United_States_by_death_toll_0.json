@@ -3,205 +3,126 @@
   "title": "List of disasters in the United States by death toll",
   "header": [
     [
-      [
-        "Year"
-      ],
-      [
-        null
-      ]
+      "Year",
+      []
     ],
     [
-      [
-        "Type"
-      ],
-      [
-        null
-      ]
+      "Type",
+      []
     ],
     [
-      [
-        "Fatalities"
-      ],
-      [
-        null
-      ]
+      "Fatalities",
+      []
     ],
     [
-      [
-        "Article"
-      ],
-      [
-        null
-      ]
+      "Article",
+      []
     ],
     [
-      [
-        "Location"
-      ],
-      [
-        null
-      ]
+      "Location",
+      []
     ],
     [
-      [
-        "Comments"
-      ],
-      [
-        null
-      ]
+      "Comments",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "1900"
-        ],
-        [
-          null
-        ]
+        "1900",
+        []
       ],
       [
-        [
-          "Tropical cyclone"
-        ],
+        "Tropical cyclone",
         [
           "/wiki/Tropical_cyclone"
         ]
       ],
       [
-        [
-          "6,000 to 12,000"
-        ],
-        [
-          null
-        ]
+        "6,000 to 12,000",
+        []
       ],
       [
-        [
-          "1900 Galveston hurricane"
-        ],
+        "1900 Galveston hurricane",
         [
           "/wiki/1900_Galveston_hurricane"
         ]
       ],
       [
-        [
-          "Texas"
-        ],
+        "Texas",
         [
           "/wiki/Texas"
         ]
       ],
       [
-        [
-          "Fatalities estimated . Remains the deadliest natural disaster in United States history"
-        ],
-        [
-          null
-        ]
+        "Fatalities estimated . Remains the deadliest natural disaster in United States history",
+        []
       ]
     ],
     [
       [
-        [
-          "1899"
-        ],
-        [
-          null
-        ]
+        "1899",
+        []
       ],
       [
-        [
-          "Tropical cyclone"
-        ],
+        "Tropical cyclone",
         [
           "/wiki/Tropical_cyclone"
         ]
       ],
       [
-        [
-          "3,389"
-        ],
-        [
-          null
-        ]
+        "3,389",
+        []
       ],
       [
-        [
-          "1899 San Ciriaco hurricane"
-        ],
+        "1899 San Ciriaco hurricane",
         [
           "/wiki/1899_San_Ciriaco_hurricane"
         ]
       ],
       [
-        [
-          "Puerto Rico",
-          "East Coast of the United States"
-        ],
+        "Puerto Rico , East Coast of the United States",
         [
           "/wiki/Puerto_Rico",
           "/wiki/East_Coast_of_the_United_States"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "1906"
-        ],
-        [
-          null
-        ]
+        "1906",
+        []
       ],
       [
-        [
-          "Earthquake",
-          "fire"
-        ],
+        "Earthquake and fire ( urban conflagration )",
         [
           "/wiki/Earthquake",
           "/wiki/Fire"
         ]
       ],
       [
-        [
-          "3,000+"
-        ],
-        [
-          null
-        ]
+        "3,000+",
+        []
       ],
       [
-        [
-          "1906 San Francisco earthquake"
-        ],
+        "1906 San Francisco earthquake",
         [
           "/wiki/1906_San_Francisco_earthquake"
         ]
       ],
       [
-        [
-          "San Francisco , California"
-        ],
+        "San Francisco , California",
         [
           "/wiki/San_Francisco,_California"
         ]
       ],
       [
-        [
-          "Santa Rosa",
-          "San Jose"
-        ],
+        "Conflagration followed quake ; fatalities estimated ; also major casualties in Santa Rosa and San Jose . Deadliest earthquake in U.S. history",
         [
           "/wiki/Santa_Rosa,_California",
           "/wiki/San_Jose,_California"
@@ -210,44 +131,27 @@
     ],
     [
       [
-        [
-          "2001"
-        ],
-        [
-          null
-        ]
+        "2001",
+        []
       ],
       [
-        [
-          "Terrorism"
-        ],
+        "Terrorism",
         [
           "/wiki/Terrorism"
         ]
       ],
       [
-        [
-          "2,996"
-        ],
-        [
-          null
-        ]
+        "2,996",
+        []
       ],
       [
-        [
-          "September 11 attacks"
-        ],
+        "September 11 attacks",
         [
           "/wiki/September_11_attacks"
         ]
       ],
       [
-        [
-          "New York City",
-          "Arlington County , Virginia",
-          "Stonycreek Township",
-          "Shanksville , Pennsylvania"
-        ],
+        "New York City , Arlington County , Virginia , and Stonycreek Township near Shanksville , Pennsylvania",
         [
           "/wiki/New_York_City",
           "/wiki/Arlington_County,_Virginia",
@@ -256,53 +160,33 @@
         ]
       ],
       [
-        [
-          "2,977 victims and 19 hijackers . Deadliest in New York City and the Washington DC metropolitan area . Deadliest terrorist attack in world history"
-        ],
-        [
-          null
-        ]
+        "2,977 victims and 19 hijackers . Deadliest in New York City and the Washington DC metropolitan area . Deadliest terrorist attack in world history",
+        []
       ]
     ],
     [
       [
-        [
-          "2017"
-        ],
-        [
-          null
-        ]
+        "2017",
+        []
       ],
       [
-        [
-          "Tropical cyclone"
-        ],
+        "Tropical cyclone",
         [
           "/wiki/Tropical_cyclone"
         ]
       ],
       [
-        [
-          "2,982 ( estimated )"
-        ],
-        [
-          null
-        ]
+        "2,982 ( estimated )",
+        []
       ],
       [
-        [
-          "Hurricane Maria"
-        ],
+        "Hurricane Maria",
         [
           "/wiki/Hurricane_Maria"
         ]
       ],
       [
-        [
-          "Puerto Rico",
-          "United States Virgin Islands",
-          "East Coast of the United States"
-        ],
+        "Puerto Rico , United States Virgin Islands , East Coast of the United States",
         [
           "/wiki/Puerto_Rico",
           "/wiki/United_States_Virgin_Islands",
@@ -310,10 +194,7 @@
         ]
       ],
       [
-        [
-          "Puerto Rico",
-          "U.S. Virgin Islands"
-        ],
+        "Total includes at least 2,975 deaths based on a study by GWU on the estimated excess mortality . The official death count was previously 64 . The storm caused $ 90 billion ( 2017 USD ) in damage in Puerto Rico , and three deaths in the U.S. Virgin Islands , as well as an additional 75 deaths and $ 1.6 billion in damage across the rest of the Caribbean",
         [
           "/wiki/Puerto_Rico",
           "/wiki/United_States_Virgin_Islands"
@@ -322,52 +203,34 @@
     ],
     [
       [
-        [
-          "1928"
-        ],
-        [
-          null
-        ]
+        "1928",
+        []
       ],
       [
-        [
-          "Tropical cyclone"
-        ],
+        "Tropical cyclone",
         [
           "/wiki/Tropical_cyclone"
         ]
       ],
       [
-        [
-          "2,823"
-        ],
-        [
-          null
-        ]
+        "2,823",
+        []
       ],
       [
-        [
-          "1928 Okeechobee hurricane"
-        ],
+        "1928 Okeechobee hurricane",
         [
           "/wiki/1928_Okeechobee_hurricane"
         ]
       ],
       [
-        [
-          "Florida",
-          "Puerto Rico"
-        ],
+        "Florida , Puerto Rico",
         [
           "/wiki/Florida",
           "/wiki/Puerto_Rico"
         ]
       ],
       [
-        [
-          "United States",
-          "Puerto Rico"
-        ],
+        "4,000+ believed dead total . Includes 2,511+ in the contiguous United States , 312 in Puerto Rico",
         [
           "/wiki/United_States",
           "/wiki/Puerto_Rico"
@@ -376,359 +239,223 @@
     ],
     [
       [
-        [
-          "1941"
-        ],
-        [
-          null
-        ]
+        "1941",
+        []
       ],
       [
-        [
-          "Military strike",
-          "bombing"
-        ],
+        "Military strike - bombing",
         [
           "/wiki/Military_strike",
           "/wiki/Bomb"
         ]
       ],
       [
-        [
-          "2,467"
-        ],
-        [
-          null
-        ]
+        "2,467",
+        []
       ],
       [
-        [
-          "Attack on Pearl Harbor"
-        ],
+        "Attack on Pearl Harbor",
         [
           "/wiki/Attack_on_Pearl_Harbor"
         ]
       ],
       [
-        [
-          "Honolulu",
-          "Territory of Hawaii"
-        ],
+        "Honolulu , Territory of Hawaii and nearby military installations",
         [
           "/wiki/Honolulu",
           "/wiki/Territory_of_Hawaii"
         ]
       ],
       [
-        [
-          "2,403 U.S. victims and 64 Japanese attackers . Deadliest attack on U.S. soil by a foreign government to date"
-        ],
-        [
-          null
-        ]
+        "2,403 U.S. victims and 64 Japanese attackers . Deadliest attack on U.S. soil by a foreign government to date",
+        []
       ]
     ],
     [
       [
-        [
-          "1889"
-        ],
-        [
-          null
-        ]
+        "1889",
+        []
       ],
       [
-        [
-          "Accident",
-          "dam burst"
-        ],
+        "Accident - dam burst",
         [
           "/wiki/Accident",
           "/wiki/Dam_failure"
         ]
       ],
       [
-        [
-          "2,209"
-        ],
-        [
-          null
-        ]
+        "2,209",
+        []
       ],
       [
-        [
-          "Johnstown Flood"
-        ],
+        "Johnstown Flood",
         [
           "/wiki/Johnstown_Flood"
         ]
       ],
       [
-        [
-          "Pennsylvania"
-        ],
+        "Pennsylvania",
         [
           "/wiki/Pennsylvania"
         ]
       ],
       [
-        [
-          "Much rain , deforestation ; dam failed"
-        ],
-        [
-          null
-        ]
+        "Much rain , deforestation ; dam failed",
+        []
       ]
     ],
     [
       [
-        [
-          "1893"
-        ],
-        [
-          null
-        ]
+        "1893",
+        []
       ],
       [
-        [
-          "Tropical cyclone"
-        ],
+        "Tropical cyclone",
         [
           "/wiki/Tropical_cyclone"
         ]
       ],
       [
-        [
-          "2,000"
-        ],
-        [
-          null
-        ]
+        "2,000",
+        []
       ],
       [
-        [
-          "1893 Cheniere Caminada hurricane"
-        ],
+        "1893 Cheniere Caminada hurricane",
         [
           "/wiki/1893_Cheniere_Caminada_hurricane"
         ]
       ],
       [
-        [
-          "Louisiana"
-        ],
+        "Louisiana",
         [
           "/wiki/Louisiana"
         ]
       ],
       [
-        [
-          "Fatalities estimated"
-        ],
-        [
-          null
-        ]
+        "Fatalities estimated",
+        []
       ]
     ],
     [
       [
-        [
-          "1865"
-        ],
-        [
-          null
-        ]
+        "1865",
+        []
       ],
       [
-        [
-          "Accident",
-          "shipwreck"
-        ],
+        "Accident - shipwreck",
         [
           "/wiki/Accident",
           "/wiki/Shipwreck"
         ]
       ],
       [
-        [
-          "1,700"
-        ],
-        [
-          null
-        ]
+        "1,700",
+        []
       ],
       [
-        [
-          "Sultana"
-        ],
+        "Sultana",
         [
           "/wiki/Sultana_(steamboat)"
         ]
       ],
       [
-        [
-          "Marion , Arkansas",
-          "Helena , Arkansas"
-        ],
+        "Marion , Arkansas / Helena , Arkansas",
         [
           "/wiki/Marion,_Arkansas",
           "/wiki/Helena,_Arkansas"
         ]
       ],
       [
-        [
-          "Steamboat sank due to boiler explosion ; fatalities estimated . Deadliest maritime disaster in U.S. history"
-        ],
-        [
-          null
-        ]
+        "Steamboat sank due to boiler explosion ; fatalities estimated . Deadliest maritime disaster in U.S. history",
+        []
       ]
     ],
     [
       [
-        [
-          "1980"
-        ],
-        [
-          null
-        ]
+        "1980",
+        []
       ],
       [
-        [
-          "Heat wave"
-        ],
+        "Heat wave",
         [
           "/wiki/Heat_wave"
         ]
       ],
       [
-        [
-          "1,700"
-        ],
-        [
-          null
-        ]
+        "1,700",
+        []
       ],
       [
-        [
-          "1980 United States heat wave"
-        ],
+        "1980 United States heat wave",
         [
           "/wiki/1980_United_States_heat_wave"
         ]
       ],
       [
-        [
-          "Central and southern states"
-        ],
-        [
-          null
-        ]
+        "Central and southern states",
+        []
       ],
       [
-        [
-          "Official death toll , may have been higher"
-        ],
-        [
-          null
-        ]
+        "Official death toll , may have been higher",
+        []
       ]
     ],
     [
       [
-        [
-          "1871"
-        ],
-        [
-          null
-        ]
+        "1871",
+        []
       ],
       [
-        [
-          "Wildfire"
-        ],
+        "Wildfire",
         [
           "/wiki/Wildfire"
         ]
       ],
       [
-        [
-          "1,500-2,500"
-        ],
-        [
-          null
-        ]
+        "1,500-2,500",
+        []
       ],
       [
-        [
-          "Peshtigo Fire"
-        ],
+        "Peshtigo Fire",
         [
           "/wiki/Peshtigo_Fire"
         ]
       ],
       [
-        [
-          "Peshtigo , Wisconsin",
-          "Upper Peninsula of Michigan"
-        ],
+        "Peshtigo , Wisconsin , Upper Peninsula of Michigan",
         [
           "/wiki/Peshtigo,_Wisconsin",
           "/wiki/Upper_Peninsula_of_Michigan"
         ]
       ],
       [
-        [
-          "Fatalities estimated ; most deaths in single fire in U.S. history"
-        ],
-        [
-          null
-        ]
+        "Fatalities estimated ; most deaths in single fire in U.S. history",
+        []
       ]
     ],
     [
       [
-        [
-          "2005"
-        ],
-        [
-          null
-        ]
+        "2005",
+        []
       ],
       [
-        [
-          "Tropical cyclone"
-        ],
+        "Tropical cyclone",
         [
           "/wiki/Tropical_cyclone"
         ]
       ],
       [
-        [
-          "1,245-1,836"
-        ],
-        [
-          null
-        ]
+        "1,245-1,836",
+        []
       ],
       [
-        [
-          "Hurricane Katrina"
-        ],
+        "Hurricane Katrina",
         [
           "/wiki/Hurricane_Katrina"
         ]
       ],
       [
-        [
-          "Florida",
-          "Louisiana",
-          "Mississippi",
-          "Alabama",
-          "Georgia",
-          "Kentucky",
-          "Ohio"
-        ],
+        "Florida , Louisiana , Mississippi , Alabama , Georgia , Kentucky , and Ohio",
         [
           "/wiki/Florida",
           "/wiki/Louisiana",
@@ -740,9 +467,7 @@
         ]
       ],
       [
-        [
-          "Hurricane Harvey"
-        ],
+        "Tied with Hurricane Harvey as the costliest natural disaster in U.S. history",
         [
           "/wiki/Hurricane_Harvey"
         ]
@@ -750,19 +475,11 @@
     ],
     [
       [
-        [
-          "1915"
-        ],
-        [
-          null
-        ]
+        "1915",
+        []
       ],
       [
-        [
-          "shipwreck",
-          "Military strike",
-          "Submarine"
-        ],
+        "shipwreck , Military strike - Submarine",
         [
           "/wiki/Shipwreck",
           "/wiki/Military_strike",
@@ -770,27 +487,17 @@
         ]
       ],
       [
-        [
-          "1,198"
-        ],
-        [
-          null
-        ]
+        "1,198",
+        []
       ],
       [
-        [
-          "Sinking of the RMS Lusitania"
-        ],
+        "Sinking of the RMS Lusitania",
         [
           "/wiki/Sinking_of_the_RMS_Lusitania"
         ]
       ],
       [
-        [
-          "Atlantic Sea",
-          "Old head of Kinsale",
-          "Ireland"
-        ],
+        "North Atlantic Sea near the Old head of Kinsale Ireland",
         [
           "/wiki/Atlantic_Sea",
           "/wiki/Old_head_of_Kinsale",
@@ -798,10 +505,7 @@
         ]
       ],
       [
-        [
-          "ocean liner",
-          "World War One"
-        ],
+        "The RMS Lusitania was an ocean liner sunk by a German torpedo fired from a submarine during World War One",
         [
           "/wiki/Ocean_liner",
           "/wiki/World_War_One"
@@ -810,51 +514,34 @@
     ],
     [
       [
-        [
-          "1943"
-        ],
-        [
-          null
-        ]
+        "1943",
+        []
       ],
       [
-        [
-          "Military strike",
-          "bombing"
-        ],
+        "Military strike - bombing",
         [
           "/wiki/Military_strike",
           "/wiki/Bomb"
         ]
       ],
       [
-        [
-          "1,173"
-        ],
-        [
-          null
-        ]
+        "1,173",
+        []
       ],
       [
-        [
-          "HMT Rohna"
-        ],
+        "HMT Rohna",
         [
           "/wiki/HMT_Rohna"
         ]
       ],
       [
-        [
-          "Mediterranean Sea"
-        ],
+        "Mediterranean Sea",
         [
           "/wiki/Mediterranean_Sea"
         ]
       ],
       [
-        [
-          "glide bomb"
-        ],
+        "Luftwaffe glide bomb hit troopship causing the largest loss of U.S. soldiers ( 1,050 ) at sea due to enemy action in a single incident",
         [
           "/wiki/Glide_bomb"
         ]
@@ -862,209 +549,132 @@
     ],
     [
       [
-        [
-          "1904"
-        ],
-        [
-          null
-        ]
+        "1904",
+        []
       ],
       [
-        [
-          "Accident",
-          "shipwreck"
-        ],
+        "Accident - shipwreck",
         [
           "/wiki/Accident",
           "/wiki/Shipwreck"
         ]
       ],
       [
-        [
-          "1,021"
-        ],
-        [
-          null
-        ]
+        "1,021",
+        []
       ],
       [
-        [
-          "PS General Slocum"
-        ],
+        "PS General Slocum",
         [
           "/wiki/PS_General_Slocum"
         ]
       ],
       [
-        [
-          "East River",
-          "New York City"
-        ],
+        "East River near New York City",
         [
           "/wiki/East_River",
           "/wiki/New_York_City"
         ]
       ],
       [
-        [
-          "Steamship sank due to fire on board . Deadliest maritime disaster in New York City , and deadliest in city 's history until 2001"
-        ],
-        [
-          null
-        ]
+        "Steamship sank due to fire on board . Deadliest maritime disaster in New York City , and deadliest in city 's history until 2001",
+        []
       ]
     ],
     [
       [
-        [
-          "1893"
-        ],
-        [
-          null
-        ]
+        "1893",
+        []
       ],
       [
-        [
-          "Tropical cyclone"
-        ],
+        "Tropical cyclone",
         [
           "/wiki/Tropical_cyclone"
         ]
       ],
       [
-        [
-          "1,000-2,000"
-        ],
-        [
-          null
-        ]
+        "1,000-2,000",
+        []
       ],
       [
-        [
-          "1893 Sea Islands hurricane"
-        ],
+        "1893 Sea Islands hurricane",
         [
           "/wiki/1893_Sea_Islands_hurricane"
         ]
       ],
       [
-        [
-          "Georgia",
-          "South Carolina"
-        ],
+        "Georgia , South Carolina",
         [
           "/wiki/Georgia_(U.S._state)",
           "/wiki/South_Carolina"
         ]
       ],
       [
-        [
-          "Fatalities estimated"
-        ],
-        [
-          null
-        ]
+        "Fatalities estimated",
+        []
       ]
     ],
     [
       [
-        [
-          "1918"
-        ],
-        [
-          null
-        ]
+        "1918",
+        []
       ],
       [
-        [
-          "Wildfire"
-        ],
+        "Wildfire ( rural )",
         [
           "/wiki/Wildfire"
         ]
       ],
       [
-        [
-          "1,000"
-        ],
-        [
-          null
-        ]
+        "1,000",
+        []
       ],
       [
-        [
-          "1918 Cloquet fire"
-        ],
+        "1918 Cloquet fire",
         [
           "/wiki/1918_Cloquet_fire"
         ]
       ],
       [
-        [
-          "Minnesota"
-        ],
+        "Minnesota",
         [
           "/wiki/Minnesota"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "1978"
-        ],
-        [
-          null
-        ]
+        "1978",
+        []
       ],
       [
-        [
-          "Mass murder - suicide"
-        ],
+        "Mass murder - suicide",
         [
           "/wiki/Murder\u2013suicide"
         ]
       ],
       [
-        [
-          "918"
-        ],
-        [
-          null
-        ]
+        "918",
+        []
       ],
       [
-        [
-          "Jonestown"
-        ],
+        "Jonestown",
         [
           "/wiki/Jonestown"
         ]
       ],
       [
-        [
-          "Jonestown , Guyana"
-        ],
+        "Jonestown , Guyana",
         [
           "/wiki/Jonestown,_Guyana"
         ]
       ],
       [
-        [
-          "Jim Jones",
-          "Flavor Aid",
-          "cyanide",
-          "Georgetown",
-          "Leo Ryan"
-        ],
+        "Jim Jones , cult leader of the Peoples Temple Agricultural Project , convinced most of the group to drink grape Flavor Aid poisoned with cyanide or to inject themselves and their children with cyanide , totaling 909 deaths of U.S. nationals . A family of four other Temple members committed murder/suicide by knife in Georgetown . Five others were shot and killed while trying to escape from Jonestown , including U.S . Congressman Leo Ryan",
         [
           "/wiki/Jim_Jones",
           "/wiki/Flavor_Aid",
@@ -1076,54 +686,35 @@
     ],
     [
       [
-        [
-          "1945"
-        ],
-        [
-          null
-        ]
+        "1945",
+        []
       ],
       [
-        [
-          "Military strike",
-          "submarine"
-        ],
+        "Military strike - submarine",
         [
           "/wiki/Military_strike",
           "/wiki/Submarine"
         ]
       ],
       [
-        [
-          "879"
-        ],
-        [
-          null
-        ]
+        "879",
+        []
       ],
       [
-        [
-          "USS Indianapolis"
-        ],
+        "USS Indianapolis",
         [
           "/wiki/USS_Indianapolis_(CA-35)"
         ]
       ],
       [
-        [
-          "Philippine Sea"
-        ],
+        "Philippine Sea",
         [
           "/wiki/Philippine_Sea"
         ]
       ],
       [
-        [
-          "Largest loss of life in the history of the U.S. Navy at sea"
-        ],
-        [
-          null
-        ]
+        "Largest loss of life in the history of the U.S. Navy at sea",
+        []
       ]
     ]
   ],

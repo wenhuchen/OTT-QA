@@ -3,885 +3,545 @@
   "title": "Balkans",
   "header": [
     [
-      [
-        "City"
-      ],
-      [
-        null
-      ]
+      "City",
+      []
     ],
     [
-      [
-        "Country"
-      ],
-      [
-        null
-      ]
+      "Country",
+      []
     ],
     [
-      [
-        "Population"
-      ],
-      [
-        null
-      ]
+      "Population",
+      []
     ],
     [
-      [
-        "Agglomeration"
-      ],
-      [
-        null
-      ]
+      "Agglomeration",
+      []
     ],
     [
-      [
-        "Year"
-      ],
-      [
-        null
-      ]
+      "Year",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Istanbul"
-        ],
+        "Istanbul",
         [
           "/wiki/Istanbul"
         ]
       ],
       [
-        [
-          "Turkey"
-        ],
+        "Turkey",
         [
           "/wiki/Turkey"
         ]
       ],
       [
-        [
-          "9,000,000"
-        ],
-        [
-          null
-        ]
+        "9,000,000",
+        []
       ],
       [
-        [
-          "10,000,000"
-        ],
-        [
-          null
-        ]
+        "10,000,000",
+        []
       ],
       [
-        [
-          "2018"
-        ],
-        [
-          null
-        ]
+        "2018",
+        []
       ]
     ],
     [
       [
-        [
-          "Bucharest"
-        ],
+        "Bucharest",
         [
           "/wiki/Bucharest"
         ]
       ],
       [
-        [
-          "Romania"
-        ],
+        "Romania",
         [
           "/wiki/Romania"
         ]
       ],
       [
-        [
-          "1,887,485"
-        ],
-        [
-          null
-        ]
+        "1,887,485",
+        []
       ],
       [
-        [
-          "2,272,163"
-        ],
-        [
-          null
-        ]
+        "2,272,163",
+        []
       ],
       [
-        [
-          "2018"
-        ],
-        [
-          null
-        ]
+        "2018",
+        []
       ]
     ],
     [
       [
-        [
-          "Sofia"
-        ],
+        "Sofia",
         [
           "/wiki/Sofia"
         ]
       ],
       [
-        [
-          "Bulgaria"
-        ],
+        "Bulgaria",
         [
           "/wiki/Bulgaria"
         ]
       ],
       [
-        [
-          "1,313,595"
-        ],
-        [
-          null
-        ]
+        "1,313,595",
+        []
       ],
       [
-        [
-          "1,995,950"
-        ],
-        [
-          null
-        ]
+        "1,995,950",
+        []
       ],
       [
-        [
-          "2018"
-        ],
-        [
-          null
-        ]
+        "2018",
+        []
       ]
     ],
     [
       [
-        [
-          "Belgrade"
-        ],
+        "Belgrade",
         [
           "/wiki/Belgrade"
         ]
       ],
       [
-        [
-          "Serbia"
-        ],
+        "Serbia",
         [
           "/wiki/Serbia"
         ]
       ],
       [
-        [
-          "1,119,696"
-        ],
-        [
-          null
-        ]
+        "1,119,696",
+        []
       ],
       [
-        [
-          "1,659,440"
-        ],
-        [
-          null
-        ]
+        "1,659,440",
+        []
       ],
       [
-        [
-          "2018"
-        ],
-        [
-          null
-        ]
+        "2018",
+        []
       ]
     ],
     [
       [
-        [
-          "Zagreb"
-        ],
+        "Zagreb",
         [
           "/wiki/Zagreb"
         ]
       ],
       [
-        [
-          "Croatia"
-        ],
+        "Croatia",
         [
           "/wiki/Croatia"
         ]
       ],
       [
-        [
-          "792,875"
-        ],
-        [
-          null
-        ]
+        "792,875",
+        []
       ],
       [
-        [
-          "1,113,111"
-        ],
-        [
-          null
-        ]
+        "1,113,111",
+        []
       ],
       [
-        [
-          "2011"
-        ],
-        [
-          null
-        ]
+        "2011",
+        []
       ]
     ],
     [
       [
-        [
-          "Athens"
-        ],
+        "Athens",
         [
           "/wiki/Athens"
         ]
       ],
       [
-        [
-          "Greece"
-        ],
+        "Greece",
         [
           "/wiki/Greece"
         ]
       ],
       [
-        [
-          "664,046"
-        ],
-        [
-          null
-        ]
+        "664,046",
+        []
       ],
       [
-        [
-          "3,753,783"
-        ],
-        [
-          null
-        ]
+        "3,753,783",
+        []
       ],
       [
-        [
-          "2018"
-        ],
-        [
-          null
-        ]
+        "2018",
+        []
       ]
     ],
     [
       [
-        [
-          "Skopje"
-        ],
+        "Skopje",
         [
           "/wiki/Skopje"
         ]
       ],
       [
-        [
-          "North Macedonia"
-        ],
+        "North Macedonia",
         [
           "/wiki/North_Macedonia"
         ]
       ],
       [
-        [
-          "444,800"
-        ],
-        [
-          null
-        ]
+        "444,800",
+        []
       ],
       [
-        [
-          "506,926"
-        ],
-        [
-          null
-        ]
+        "506,926",
+        []
       ],
       [
-        [
-          "2018"
-        ],
-        [
-          null
-        ]
+        "2018",
+        []
       ]
     ],
     [
       [
-        [
-          "Tirana"
-        ],
+        "Tirana",
         [
           "/wiki/Tirana"
         ]
       ],
       [
-        [
-          "Albania"
-        ],
+        "Albania",
         [
           "/wiki/Albania"
         ]
       ],
       [
-        [
-          "418,495"
-        ],
-        [
-          null
-        ]
+        "418,495",
+        []
       ],
       [
-        [
-          "800,986"
-        ],
-        [
-          null
-        ]
+        "800,986",
+        []
       ],
       [
-        [
-          "2018"
-        ],
-        [
-          null
-        ]
+        "2018",
+        []
       ]
     ],
     [
       [
-        [
-          "Plovdiv"
-        ],
+        "Plovdiv",
         [
           "/wiki/Plovdiv"
         ]
       ],
       [
-        [
-          "Bulgaria"
-        ],
+        "Bulgaria",
         [
           "/wiki/Bulgaria"
         ]
       ],
       [
-        [
-          "411,567"
-        ],
-        [
-          null
-        ]
+        "411,567",
+        []
       ],
       [
-        [
-          "396,092"
-        ],
-        [
-          null
-        ]
+        "396,092",
+        []
       ],
       [
-        [
-          "2018"
-        ],
-        [
-          null
-        ]
+        "2018",
+        []
       ]
     ],
     [
       [
-        [
-          "Varna"
-        ],
+        "Varna",
         [
           "/wiki/Varna"
         ]
       ],
       [
-        [
-          "Bulgaria"
-        ],
+        "Bulgaria",
         [
           "/wiki/Bulgaria"
         ]
       ],
       [
-        [
-          "395,949"
-        ],
-        [
-          null
-        ]
+        "395,949",
+        []
       ],
       [
-        [
-          "383,075"
-        ],
-        [
-          null
-        ]
+        "383,075",
+        []
       ],
       [
-        [
-          "2018"
-        ],
-        [
-          null
-        ]
+        "2018",
+        []
       ]
     ],
     [
       [
-        [
-          "Thessaloniki"
-        ],
+        "Thessaloniki",
         [
           "/wiki/Thessaloniki"
         ]
       ],
       [
-        [
-          "Greece"
-        ],
+        "Greece",
         [
           "/wiki/Greece"
         ]
       ],
       [
-        [
-          "325,182"
-        ],
-        [
-          null
-        ]
+        "325,182",
+        []
       ],
       [
-        [
-          "1,012,297"
-        ],
-        [
-          null
-        ]
+        "1,012,297",
+        []
       ],
       [
-        [
-          "2018"
-        ],
-        [
-          null
-        ]
+        "2018",
+        []
       ]
     ],
     [
       [
-        [
-          "Cluj-Napoca"
-        ],
+        "Cluj-Napoca",
         [
           "/wiki/Cluj-Napoca"
         ]
       ],
       [
-        [
-          "Romania"
-        ],
+        "Romania",
         [
           "/wiki/Romania"
         ]
       ],
       [
-        [
-          "324,576"
-        ],
-        [
-          null
-        ]
+        "324,576",
+        []
       ],
       [
-        [
-          "411,379"
-        ],
-        [
-          null
-        ]
+        "411,379",
+        []
       ],
       [
-        [
-          "2018"
-        ],
-        [
-          null
-        ]
+        "2018",
+        []
       ]
     ],
     [
       [
-        [
-          "Timi\u0219oara"
-        ],
+        "Timi\u0219oara",
         [
           "/wiki/Timi\u0219oara"
         ]
       ],
       [
-        [
-          "Romania"
-        ],
+        "Romania",
         [
           "/wiki/Romania"
         ]
       ],
       [
-        [
-          "319,279"
-        ],
-        [
-          null
-        ]
+        "319,279",
+        []
       ],
       [
-        [
-          "356,443"
-        ],
-        [
-          null
-        ]
+        "356,443",
+        []
       ],
       [
-        [
-          "2018"
-        ],
-        [
-          null
-        ]
+        "2018",
+        []
       ]
     ],
     [
       [
-        [
-          "Ljubljana"
-        ],
+        "Ljubljana",
         [
           "/wiki/Ljubljana"
         ]
       ],
       [
-        [
-          "Slovenia"
-        ],
+        "Slovenia",
         [
           "/wiki/Slovenia"
         ]
       ],
       [
-        [
-          "292,988"
-        ],
-        [
-          null
-        ]
+        "292,988",
+        []
       ],
       [
-        [
-          "537,712"
-        ],
-        [
-          null
-        ]
+        "537,712",
+        []
       ],
       [
-        [
-          "2018"
-        ],
-        [
-          null
-        ]
+        "2018",
+        []
       ]
     ],
     [
       [
-        [
-          "Ia\u0219i"
-        ],
+        "Ia\u0219i",
         [
           "/wiki/Ia\u0219i"
         ]
       ],
       [
-        [
-          "Romania"
-        ],
+        "Romania",
         [
           "/wiki/Romania"
         ]
       ],
       [
-        [
-          "290,422"
-        ],
-        [
-          null
-        ]
+        "290,422",
+        []
       ],
       [
-        [
-          "382,484"
-        ],
-        [
-          null
-        ]
+        "382,484",
+        []
       ],
       [
-        [
-          "2018"
-        ],
-        [
-          null
-        ]
+        "2018",
+        []
       ]
     ],
     [
       [
-        [
-          "Constan\u021ba"
-        ],
+        "Constan\u021ba",
         [
           "/wiki/Constan\u021ba"
         ]
       ],
       [
-        [
-          "Romania"
-        ],
+        "Romania",
         [
           "/wiki/Romania"
         ]
       ],
       [
-        [
-          "283,872"
-        ],
-        [
-          null
-        ]
+        "283,872",
+        []
       ],
       [
-        [
-          "425,916"
-        ],
-        [
-          null
-        ]
+        "425,916",
+        []
       ],
       [
-        [
-          "2018"
-        ],
-        [
-          null
-        ]
+        "2018",
+        []
       ]
     ],
     [
       [
-        [
-          "Novi Sad"
-        ],
+        "Novi Sad",
         [
           "/wiki/Novi_Sad"
         ]
       ],
       [
-        [
-          "Serbia"
-        ],
+        "Serbia",
         [
           "/wiki/Serbia"
         ]
       ],
       [
-        [
-          "277,522"
-        ],
-        [
-          null
-        ]
+        "277,522",
+        []
       ],
       [
-        [
-          "341,625"
-        ],
-        [
-          null
-        ]
+        "341,625",
+        []
       ],
       [
-        [
-          "2018"
-        ],
-        [
-          null
-        ]
+        "2018",
+        []
       ]
     ],
     [
       [
-        [
-          "Sarajevo"
-        ],
+        "Sarajevo",
         [
           "/wiki/Sarajevo"
         ]
       ],
       [
-        [
-          "Bosnia and Herzegovina"
-        ],
+        "Bosnia and Herzegovina",
         [
           "/wiki/Bosnia_and_Herzegovina"
         ]
       ],
       [
-        [
-          "275,524"
-        ],
-        [
-          null
-        ]
+        "275,524",
+        []
       ],
       [
-        [
-          "413,593"
-        ],
-        [
-          null
-        ]
+        "413,593",
+        []
       ],
       [
-        [
-          "2018"
-        ],
-        [
-          null
-        ]
+        "2018",
+        []
       ]
     ],
     [
       [
-        [
-          "Craiova"
-        ],
+        "Craiova",
         [
           "/wiki/Craiova"
         ]
       ],
       [
-        [
-          "Romania"
-        ],
+        "Romania",
         [
           "/wiki/Romania"
         ]
       ],
       [
-        [
-          "269,506"
-        ],
-        [
-          null
-        ]
+        "269,506",
+        []
       ],
       [
-        [
-          "420,000"
-        ],
-        [
-          null
-        ]
+        "420,000",
+        []
       ],
       [
-        [
-          "2018"
-        ],
-        [
-          null
-        ]
+        "2018",
+        []
       ]
     ],
     [
       [
-        [
-          "\u00c7orlu"
-        ],
+        "\u00c7orlu",
         [
           "/wiki/\u00c7orlu"
         ]
       ],
       [
-        [
-          "Turkey"
-        ],
+        "Turkey",
         [
           "/wiki/Turkey"
         ]
       ],
       [
-        [
-          "253,500"
-        ],
-        [
-          null
-        ]
+        "253,500",
+        []
       ],
       [
-        [
-          "273,362"
-        ],
-        [
-          null
-        ]
+        "273,362",
+        []
       ],
       [
-        [
-          "2018"
-        ],
-        [
-          null
-        ]
+        "2018",
+        []
       ]
     ]
   ],

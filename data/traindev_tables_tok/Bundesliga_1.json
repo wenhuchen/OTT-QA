@@ -3,649 +3,451 @@
   "title": "Bundesliga",
   "header": [
     [
-      [
-        "Team"
-      ],
-      [
-        null
-      ]
+      "Team",
+      []
     ],
     [
-      [
-        "Location"
-      ],
-      [
-        null
-      ]
+      "Location",
+      []
     ],
     [
-      [
-        "Stadium"
-      ],
-      [
-        null
-      ]
+      "Stadium",
+      []
     ],
     [
-      [
-        "Capacity"
-      ],
-      [
-        null
-      ]
+      "Capacity",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "FC Augsburg"
-        ],
+        "FC Augsburg",
         [
           "/wiki/FC_Augsburg"
         ]
       ],
       [
-        [
-          "Augsburg"
-        ],
+        "Augsburg",
         [
           "/wiki/Augsburg"
         ]
       ],
       [
-        [
-          "WWK ARENA"
-        ],
+        "WWK ARENA",
         [
           "/wiki/WWK_Arena"
         ]
       ],
       [
-        [
-          "30,660"
-        ],
-        [
-          null
-        ]
+        "30,660",
+        []
       ]
     ],
     [
       [
-        [
-          "Bayer Leverkusen"
-        ],
+        "Bayer Leverkusen",
         [
           "/wiki/Bayer_04_Leverkusen"
         ]
       ],
       [
-        [
-          "Leverkusen"
-        ],
+        "Leverkusen",
         [
           "/wiki/Leverkusen"
         ]
       ],
       [
-        [
-          "BayArena"
-        ],
+        "BayArena",
         [
           "/wiki/BayArena"
         ]
       ],
       [
-        [
-          "30,210"
-        ],
-        [
-          null
-        ]
+        "30,210",
+        []
       ]
     ],
     [
       [
-        [
-          "Bayern Munich"
-        ],
+        "Bayern Munich",
         [
           "/wiki/FC_Bayern_Munich"
         ]
       ],
       [
-        [
-          "Munich"
-        ],
+        "Munich",
         [
           "/wiki/Munich"
         ]
       ],
       [
-        [
-          "Allianz Arena"
-        ],
+        "Allianz Arena",
         [
           "/wiki/Allianz_Arena"
         ]
       ],
       [
-        [
-          "75,000"
-        ],
-        [
-          null
-        ]
+        "75,000",
+        []
       ]
     ],
     [
       [
-        [
-          "Borussia Dortmund"
-        ],
+        "Borussia Dortmund",
         [
           "/wiki/Borussia_Dortmund"
         ]
       ],
       [
-        [
-          "Dortmund"
-        ],
+        "Dortmund",
         [
           "/wiki/Dortmund"
         ]
       ],
       [
-        [
-          "Signal Iduna Park"
-        ],
+        "Signal Iduna Park",
         [
           "/wiki/Westfalenstadion"
         ]
       ],
       [
-        [
-          "81,359"
-        ],
-        [
-          null
-        ]
+        "81,359",
+        []
       ]
     ],
     [
       [
-        [
-          "Borussia M\u00f6nchengladbach"
-        ],
+        "Borussia M\u00f6nchengladbach",
         [
           "/wiki/Borussia_M\u00f6nchengladbach"
         ]
       ],
       [
-        [
-          "M\u00f6nchengladbach"
-        ],
+        "M\u00f6nchengladbach",
         [
           "/wiki/M\u00f6nchengladbach"
         ]
       ],
       [
-        [
-          "Stadion im Borussia-Park"
-        ],
+        "Stadion im Borussia-Park",
         [
           "/wiki/Borussia-Park"
         ]
       ],
       [
-        [
-          "59,724"
-        ],
-        [
-          null
-        ]
+        "59,724",
+        []
       ]
     ],
     [
       [
-        [
-          "Eintracht Frankfurt"
-        ],
+        "Eintracht Frankfurt",
         [
           "/wiki/Eintracht_Frankfurt"
         ]
       ],
       [
-        [
-          "Frankfurt"
-        ],
+        "Frankfurt",
         [
           "/wiki/Frankfurt"
         ]
       ],
       [
-        [
-          "Commerzbank-Arena"
-        ],
+        "Commerzbank-Arena",
         [
           "/wiki/Commerzbank-Arena"
         ]
       ],
       [
-        [
-          "51,500"
-        ],
-        [
-          null
-        ]
+        "51,500",
+        []
       ]
     ],
     [
       [
-        [
-          "Fortuna D\u00fcsseldorf"
-        ],
+        "Fortuna D\u00fcsseldorf",
         [
           "/wiki/Fortuna_D\u00fcsseldorf"
         ]
       ],
       [
-        [
-          "D\u00fcsseldorf"
-        ],
+        "D\u00fcsseldorf",
         [
           "/wiki/D\u00fcsseldorf"
         ]
       ],
       [
-        [
-          "Merkur Spiel-Arena"
-        ],
+        "Merkur Spiel-Arena",
         [
           "/wiki/Merkur_Spiel-Arena"
         ]
       ],
       [
-        [
-          "54,600"
-        ],
-        [
-          null
-        ]
+        "54,600",
+        []
       ]
     ],
     [
       [
-        [
-          "SC Freiburg"
-        ],
+        "SC Freiburg",
         [
           "/wiki/SC_Freiburg"
         ]
       ],
       [
-        [
-          "Freiburg im Breisgau"
-        ],
+        "Freiburg im Breisgau",
         [
           "/wiki/Freiburg_im_Breisgau"
         ]
       ],
       [
-        [
-          "Schwarzwald-Stadion"
-        ],
+        "Schwarzwald-Stadion",
         [
           "/wiki/Schwarzwald-Stadion"
         ]
       ],
       [
-        [
-          "24,000"
-        ],
-        [
-          null
-        ]
+        "24,000",
+        []
       ]
     ],
     [
       [
-        [
-          "Hertha BSC"
-        ],
+        "Hertha BSC",
         [
           "/wiki/Hertha_BSC"
         ]
       ],
       [
-        [
-          "Berlin"
-        ],
+        "Berlin",
         [
           "/wiki/Berlin"
         ]
       ],
       [
-        [
-          "Olympiastadion"
-        ],
+        "Olympiastadion",
         [
           "/wiki/Olympiastadion_(Berlin)"
         ]
       ],
       [
-        [
-          "74,649"
-        ],
-        [
-          null
-        ]
+        "74,649",
+        []
       ]
     ],
     [
       [
-        [
-          "TSG Hoffenheim"
-        ],
+        "TSG Hoffenheim",
         [
           "/wiki/TSG_1899_Hoffenheim"
         ]
       ],
       [
-        [
-          "Sinsheim"
-        ],
+        "Sinsheim",
         [
           "/wiki/Sinsheim"
         ]
       ],
       [
-        [
-          "Wirsol Rhein-Neckar-Arena"
-        ],
+        "Wirsol Rhein-Neckar-Arena",
         [
           "/wiki/Rhein-Neckar-Arena"
         ]
       ],
       [
-        [
-          "30,164"
-        ],
-        [
-          null
-        ]
+        "30,164",
+        []
       ]
     ],
     [
       [
-        [
-          "1 . FC K\u00f6ln"
-        ],
+        "1 . FC K\u00f6ln",
         [
           "/wiki/1._FC_K\u00f6ln"
         ]
       ],
       [
-        [
-          "Cologne"
-        ],
+        "Cologne",
         [
           "/wiki/Cologne"
         ]
       ],
       [
-        [
-          "RheinEnergieStadion"
-        ],
+        "RheinEnergieStadion",
         [
           "/wiki/RheinEnergieStadion"
         ]
       ],
       [
-        [
-          "49,698"
-        ],
-        [
-          null
-        ]
+        "49,698",
+        []
       ]
     ],
     [
       [
-        [
-          "RB Leipzig"
-        ],
+        "RB Leipzig",
         [
           "/wiki/RB_Leipzig"
         ]
       ],
       [
-        [
-          "Leipzig"
-        ],
+        "Leipzig",
         [
           "/wiki/Leipzig"
         ]
       ],
       [
-        [
-          "Red Bull Arena"
-        ],
+        "Red Bull Arena",
         [
           "/wiki/Red_Bull_Arena_(Leipzig)"
         ]
       ],
       [
-        [
-          "42,558"
-        ],
-        [
-          null
-        ]
+        "42,558",
+        []
       ]
     ],
     [
       [
-        [
-          "Mainz 05"
-        ],
+        "Mainz 05",
         [
           "/wiki/1._FSV_Mainz_05"
         ]
       ],
       [
-        [
-          "Mainz"
-        ],
+        "Mainz",
         [
           "/wiki/Mainz"
         ]
       ],
       [
-        [
-          "Coface Arena"
-        ],
+        "Coface Arena",
         [
           "/wiki/Coface_Arena"
         ]
       ],
       [
-        [
-          "34,000"
-        ],
-        [
-          null
-        ]
+        "34,000",
+        []
       ]
     ],
     [
       [
-        [
-          "SC Paderborn"
-        ],
+        "SC Paderborn",
         [
           "/wiki/SC_Paderborn_07"
         ]
       ],
       [
-        [
-          "Paderborn"
-        ],
+        "Paderborn",
         [
           "/wiki/Paderborn"
         ]
       ],
       [
-        [
-          "Benteler-Arena"
-        ],
+        "Benteler-Arena",
         [
           "/wiki/Benteler-Arena"
         ]
       ],
       [
-        [
-          "15,000"
-        ],
-        [
-          null
-        ]
+        "15,000",
+        []
       ]
     ],
     [
       [
-        [
-          "Schalke 04"
-        ],
+        "Schalke 04",
         [
           "/wiki/FC_Schalke_04"
         ]
       ],
       [
-        [
-          "Gelsenkirchen"
-        ],
+        "Gelsenkirchen",
         [
           "/wiki/Gelsenkirchen"
         ]
       ],
       [
-        [
-          "Veltins-Arena"
-        ],
+        "Veltins-Arena",
         [
           "/wiki/Veltins-Arena"
         ]
       ],
       [
-        [
-          "62,271"
-        ],
-        [
-          null
-        ]
+        "62,271",
+        []
       ]
     ],
     [
       [
-        [
-          "Union Berlin"
-        ],
+        "Union Berlin",
         [
           "/wiki/1._FC_Union_Berlin"
         ]
       ],
       [
-        [
-          "Berlin"
-        ],
-        [
-          null
-        ]
+        "Berlin",
+        []
       ],
       [
-        [
-          "Stadion An der Alten F\u00f6rsterei"
-        ],
+        "Stadion An der Alten F\u00f6rsterei",
         [
           "/wiki/Stadion_An_der_Alten_F\u00f6rsterei"
         ]
       ],
       [
-        [
-          "22,012"
-        ],
-        [
-          null
-        ]
+        "22,012",
+        []
       ]
     ],
     [
       [
-        [
-          "Werder Bremen"
-        ],
+        "Werder Bremen",
         [
           "/wiki/SV_Werder_Bremen"
         ]
       ],
       [
-        [
-          "Bremen"
-        ],
+        "Bremen",
         [
           "/wiki/Bremen"
         ]
       ],
       [
-        [
-          "Weserstadion"
-        ],
+        "Weserstadion",
         [
           "/wiki/Weserstadion"
         ]
       ],
       [
-        [
-          "42,354"
-        ],
-        [
-          null
-        ]
+        "42,354",
+        []
       ]
     ],
     [
       [
-        [
-          "VfL Wolfsburg"
-        ],
+        "VfL Wolfsburg",
         [
           "/wiki/VfL_Wolfsburg"
         ]
       ],
       [
-        [
-          "Wolfsburg"
-        ],
+        "Wolfsburg",
         [
           "/wiki/Wolfsburg"
         ]
       ],
       [
-        [
-          "Volkswagen Arena"
-        ],
+        "Volkswagen Arena",
         [
           "/wiki/Volkswagen_Arena"
         ]
       ],
       [
-        [
-          "30,000"
-        ],
-        [
-          null
-        ]
+        "30,000",
+        []
       ]
     ]
   ],

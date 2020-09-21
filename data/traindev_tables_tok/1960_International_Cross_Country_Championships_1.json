@@ -3,63 +3,36 @@
   "title": "1960 International Cross Country Championships",
   "header": [
     [
-      [
-        "Rank"
-      ],
-      [
-        null
-      ]
+      "Rank",
+      []
     ],
     [
-      [
-        "Country"
-      ],
-      [
-        null
-      ]
+      "Country",
+      []
     ],
     [
-      [
-        "Team"
-      ],
-      [
-        null
-      ]
+      "Team",
+      []
     ],
     [
-      [
-        "Points"
-      ],
-      [
-        null
-      ]
+      "Points",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "England"
-        ],
+        "England",
         [
           "/wiki/England"
         ]
       ],
       [
-        [
-          "Basil Heatley",
-          "Fred Norris",
-          "Frank Sando",
-          "Stanley Eldon"
-        ],
+        "Basil Heatley Fred Norris Frank Sando Harry Minshall Stanley Eldon Gerry North",
         [
           "/wiki/Basil_Heatley",
           "/wiki/Fred_Norris_(athlete)",
@@ -68,38 +41,23 @@
         ]
       ],
       [
-        [
-          "52"
-        ],
-        [
-          null
-        ]
+        "52",
+        []
       ]
     ],
     [
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "Belgium"
-        ],
+        "Belgium",
         [
           "/wiki/Belgium"
         ]
       ],
       [
-        [
-          "Gaston Roelants",
-          "Hedwig Leenaert",
-          "Eug\u00e8ne Allonsius",
-          "Marcel Vandewattyne"
-        ],
+        "Gaston Roelants Henri Clerckx Hedwig Leenaert Eug\u00e8ne Allonsius Georges Fromont Marcel Vandewattyne",
         [
           "/wiki/Gaston_Roelants",
           "/wiki/Hedwig_Leenaert",
@@ -108,228 +66,141 @@
         ]
       ],
       [
-        [
-          "61"
-        ],
-        [
-          null
-        ]
+        "61",
+        []
       ]
     ],
     [
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "France"
-        ],
+        "France",
         [
           "/wiki/France"
         ]
       ],
       [
-        [
-          "Hamoud Ameur",
-          "Salah Beddiaf",
-          "Alain Mimoun"
-        ],
+        "Hamoud Ameur Salah Beddiaf Alain Mimoun Francis Duleau Paul Gen\u00e8ve Henri Lucas",
         [
           "/wiki/Hamoud_Ameur",
-          null,
           "/wiki/Alain_Mimoun"
         ]
       ],
       [
-        [
-          "125"
-        ],
-        [
-          null
-        ]
+        "125",
+        []
       ]
     ],
     [
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "Morocco"
-        ],
+        "Morocco",
         [
           "/wiki/Morocco"
         ]
       ],
       [
-        [
-          "Rhadi Ben Abdesselam",
-          "Abdallah Ould Lamine",
-          "Abdeslem Bouchta"
-        ],
+        "Rhadi Ben Abdesselam Abdallah Ould Lamine Mohamed Ben Hassan Bakir Benaissa Abdeslem Bouchta Lahcen Benaissa",
         [
           "/wiki/Rhadi_Ben_Abdesselam",
-          "/wiki/Ould_Lamine_Abdallah",
-          null
+          "/wiki/Ould_Lamine_Abdallah"
         ]
       ],
       [
-        [
-          "159"
-        ],
-        [
-          null
-        ]
+        "159",
+        []
       ]
     ],
     [
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "Scotland"
-        ],
+        "Scotland",
         [
           "/wiki/Scotland"
         ]
       ],
       [
+        "Alastair Wood Graham Everett Bruce Tulloh Andy Brown Bert Irving Joe Connolly",
         [
-          "Alastair Wood",
-          "Bruce Tulloh"
-        ],
-        [
-          null,
           "/wiki/Bruce_Tulloh"
         ]
       ],
       [
-        [
-          "171"
-        ],
-        [
-          null
-        ]
+        "171",
+        []
       ]
     ],
     [
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "Spain"
-        ],
+        "Spain",
         [
           "/wiki/Spain"
         ]
       ],
       [
-        [
-          "Antonio Amoros"
-        ],
-        [
-          null
-        ]
+        "Carlos P\u00e9rez Alfonso Vidal Luis Garc\u00eda Jos\u00e9 Fern\u00e1ndez Enrique Moreno Antonio Amoros",
+        []
       ],
       [
-        [
-          "243"
-        ],
-        [
-          null
-        ]
+        "243",
+        []
       ]
     ],
     [
       [
-        [
-          "7"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ],
       [
-        [
-          "Ireland"
-        ],
+        "Ireland",
         [
           "/wiki/Ireland"
         ]
       ],
       [
-        [
-          "Bertie Messitt",
-          "Gerald McIntyre"
-        ],
+        "Bertie Messitt Willie Dunne Peter Good Tommy Dunne Gerald McIntyre Mick Connolly",
         [
           "/wiki/Bertie_Messitt",
           "/wiki/Gerry_McIntyre"
         ]
       ],
       [
-        [
-          "279"
-        ],
-        [
-          null
-        ]
+        "279",
+        []
       ]
     ],
     [
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "Wales"
-        ],
+        "Wales",
         [
           "/wiki/Wales"
         ]
       ],
       [
-        [
-          "John Merriman"
-        ],
+        "John Merriman David Richards Jun . Tony Pumfrey Harry Wilson Bob Roath Roger Harrison-Jones",
         [
           "/wiki/John_Merriman_(athlete)"
         ]
       ],
       [
-        [
-          "279"
-        ],
-        [
-          null
-        ]
+        "279",
+        []
       ]
     ]
   ],

@@ -3,167 +3,106 @@
   "title": "List of private spaceflight companies",
   "header": [
     [
-      [
-        "Company name"
-      ],
-      [
-        null
-      ]
+      "Company name",
+      []
     ],
     [
-      [
-        "Engine"
-      ],
-      [
-        null
-      ]
+      "Engine",
+      []
     ],
     [
-      [
-        "Engine type"
-      ],
-      [
-        null
-      ]
+      "Engine type",
+      []
     ],
     [
-      [
-        "Applications"
-      ],
-      [
-        null
-      ]
+      "Applications",
+      []
     ],
     [
-      [
-        "Status"
-      ],
-      [
-        null
-      ]
+      "Status",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Accion Systems Inc"
-        ],
-        [
-          null
-        ]
+        "Accion Systems Inc",
+        []
       ],
       [
-        [
-          "MAX-1 , TILE"
-        ],
-        [
-          null
-        ]
+        "MAX-1 , TILE",
+        []
       ],
       [
-        [
-          "electrospray ion"
-        ],
+        "electrospray ion",
         [
           "/wiki/Colloid_thruster"
         ]
       ],
       [
-        [
-          "small satellite",
-          "CubeSat"
-        ],
+        "small satellite / CubeSat",
         [
           "/wiki/Small_satellite",
           "/wiki/CubeSat"
         ]
       ],
       [
-        [
-          "Development"
-        ],
-        [
-          null
-        ]
+        "Development",
+        []
       ]
     ],
     [
       [
-        [
-          "Ad Astra Rocket Company"
-        ],
+        "Ad Astra Rocket Company",
         [
           "/wiki/Ad_Astra_Rocket_Company"
         ]
       ],
       [
-        [
-          "VASIMR"
-        ],
+        "VASIMR",
         [
           "/wiki/VASIMR"
         ]
       ],
       [
-        [
-          "plasma propulsion"
-        ],
+        "plasma propulsion",
         [
           "/wiki/Plasma_propulsion_engine"
         ]
       ],
       [
-        [
-          "space tug/orbital transfer vehicle"
-        ],
+        "space tug/orbital transfer vehicle",
         [
           "/wiki/Variable_Specific_Impulse_Magnetoplasma_Rocket"
         ]
       ],
       [
-        [
-          "Development"
-        ],
-        [
-          null
-        ]
+        "Development",
+        []
       ]
     ],
     [
       [
-        [
-          "ARCA"
-        ],
+        "ARCA",
         [
           "/wiki/ARCA_(NGO)"
         ]
       ],
       [
-        [
-          "Executor"
-        ],
+        "Executor",
         [
           "/wiki/Executor_(rocket_engine)"
         ]
       ],
       [
-        [
-          "LOX",
-          "RP-1"
-        ],
+        "LOX / RP-1",
         [
           "/wiki/Liquid_oxygen",
           "/wiki/RP-1"
         ]
       ],
       [
-        [
-          "IAR 111",
-          "Haas 2",
-          "Haas 2b",
-          "Super Haas"
-        ],
+        "IAR 111 , Haas 2 , Haas 2b , Super Haas",
         [
           "/wiki/IAR_111",
           "/wiki/Haas_(rocket)",
@@ -172,397 +111,267 @@
         ]
       ],
       [
-        [
-          "Development"
-        ],
-        [
-          null
-        ]
+        "Development",
+        []
       ]
     ],
     [
       [
-        [
-          "Blue Origin"
-        ],
+        "Blue Origin",
         [
           "/wiki/Blue_Origin"
         ]
       ],
       [
-        [
-          "BE-3"
-        ],
+        "BE-3",
         [
           "/wiki/BE-3"
         ]
       ],
       [
-        [
-          "LH2",
-          "LOX"
-        ],
+        "LH2 / LOX",
         [
           "/wiki/LH2",
           "/wiki/LOX"
         ]
       ],
       [
-        [
-          "New Shepard"
-        ],
+        "New Shepard",
         [
           "/wiki/New_Shepard"
         ]
       ],
       [
-        [
-          "Operational"
-        ],
-        [
-          null
-        ]
+        "Operational",
+        []
       ]
     ],
     [
       [
-        [
-          "Blue Origin"
-        ],
+        "Blue Origin",
         [
           "/wiki/Blue_Origin"
         ]
       ],
       [
-        [
-          "BE-4"
-        ],
+        "BE-4",
         [
           "/wiki/BE-4"
         ]
       ],
       [
-        [
-          "LOX",
-          "CH 4"
-        ],
+        "LOX / CH 4",
         [
           "/wiki/Liquid_oxygen",
           "/wiki/Liquid_methane"
         ]
       ],
       [
-        [
-          "Vulcan",
-          "New Glenn"
-        ],
+        "Vulcan , New Glenn",
         [
           "/wiki/Vulcan_(rocket)",
           "/wiki/New_Glenn"
         ]
       ],
       [
-        [
-          "Development"
-        ],
-        [
-          null
-        ]
+        "Development",
+        []
       ]
     ],
     [
       [
-        [
-          "CU Aerospace"
-        ],
-        [
-          null
-        ]
+        "CU Aerospace",
+        []
       ],
       [
-        [
-          "PUC"
-        ],
-        [
-          null
-        ]
+        "PUC",
+        []
       ],
       [
-        [
-          "microcavity discharge"
-        ],
+        "microcavity discharge",
         [
           "/wiki/Electrothermal_propulsion"
         ]
       ],
       [
-        [
-          "small satellite",
-          "CubeSat"
-        ],
+        "small satellite / CubeSat",
         [
           "/wiki/Small_satellite",
           "/wiki/CubeSat"
         ]
       ],
       [
-        [
-          "Development"
-        ],
-        [
-          null
-        ]
+        "Development",
+        []
       ]
     ],
     [
       [
-        [
-          "CU Aerospace"
-        ],
-        [
-          null
-        ]
+        "CU Aerospace",
+        []
       ],
       [
-        [
-          "CHIPS"
-        ],
-        [
-          null
-        ]
+        "CHIPS",
+        []
       ],
       [
-        [
-          "resistojet"
-        ],
+        "resistojet",
         [
           "/wiki/Resistojet_rocket"
         ]
       ],
       [
-        [
-          "small satellite",
-          "CubeSat"
-        ],
+        "small satellite / CubeSat",
         [
           "/wiki/Small_satellite",
           "/wiki/CubeSat"
         ]
       ],
       [
-        [
-          "Development"
-        ],
-        [
-          null
-        ]
+        "Development",
+        []
       ]
     ],
     [
       [
-        [
-          "CU Aerospace"
-        ],
-        [
-          null
-        ]
+        "CU Aerospace",
+        []
       ],
       [
-        [
-          "PPT-11"
-        ],
-        [
-          null
-        ]
+        "PPT-11",
+        []
       ],
       [
-        [
-          "pulsed plasma"
-        ],
+        "pulsed plasma",
         [
           "/wiki/Pulsed_plasma_thruster"
         ]
       ],
       [
-        [
-          "small satellite",
-          "CubeSat"
-        ],
+        "small satellite / CubeSat",
         [
           "/wiki/Small_satellite",
           "/wiki/CubeSat"
         ]
       ],
       [
-        [
-          "Development"
-        ],
-        [
-          null
-        ]
+        "Development",
+        []
       ]
     ],
     [
       [
-        [
-          "Reaction Engines Ltd"
-        ],
+        "Reaction Engines Ltd",
         [
           "/wiki/Reaction_Engines_Limited"
         ]
       ],
       [
-        [
-          "SABRE"
-        ],
+        "SABRE",
         [
           "/wiki/Reaction_Engines_SABRE"
         ]
       ],
       [
-        [
-          "air-breathing"
-        ],
+        "hybrid air-breathing /chemical",
         [
           "/wiki/Precooled_jet_engine"
         ]
       ],
       [
-        [
-          "Skylon"
-        ],
+        "Skylon",
         [
           "/wiki/Reaction_Engines_Skylon"
         ]
       ],
       [
-        [
-          "Development"
-        ],
-        [
-          null
-        ]
+        "Development",
+        []
       ]
     ],
     [
       [
-        [
-          "SpaceDev"
-        ],
+        "SpaceDev",
         [
           "/wiki/SpaceDev"
         ]
       ],
       [
-        [
-          "RocketMotorOne"
-        ],
+        "RocketMotorOne",
         [
           "/wiki/RocketMotorOne"
         ]
       ],
       [
-        [
-          "hybrid"
-        ],
+        "hybrid",
         [
           "/wiki/Hybrid_rocket"
         ]
       ],
       [
-        [
-          "SpaceShipOne"
-        ],
+        "SpaceShipOne",
         [
           "/wiki/SpaceShipOne"
         ]
       ],
       [
-        [
-          "Retired"
-        ],
-        [
-          null
-        ]
+        "Retired",
+        []
       ]
     ],
     [
       [
-        [
-          "SpaceX"
-        ],
+        "SpaceX",
         [
           "/wiki/SpaceX"
         ]
       ],
       [
-        [
-          "Kestrel"
-        ],
+        "Kestrel",
         [
           "/wiki/Kestrel_(rocket_engine)"
         ]
       ],
       [
-        [
-          "LOX",
-          "RP-1"
-        ],
+        "LOX / RP-1",
         [
           "/wiki/Liquid_oxygen",
           "/wiki/RP-1"
         ]
       ],
       [
-        [
-          "Falcon 1"
-        ],
+        "Falcon 1 second stage",
         [
           "/wiki/Falcon_1"
         ]
       ],
       [
-        [
-          "Retired"
-        ],
-        [
-          null
-        ]
+        "Retired",
+        []
       ]
     ],
     [
       [
-        [
-          "SpaceX"
-        ],
+        "SpaceX",
         [
           "/wiki/SpaceX"
         ]
       ],
       [
-        [
-          "Merlin"
-        ],
+        "Merlin",
         [
           "/wiki/Merlin_1D"
         ]
       ],
       [
-        [
-          "LOX",
-          "RP-1"
-        ],
+        "LOX / RP-1",
         [
           "/wiki/Liquid_oxygen",
           "/wiki/RP-1"
         ]
       ],
       [
-        [
-          "Falcon 1",
-          "Falcon 9",
-          "Falcon Heavy"
-        ],
+        "Falcon 1 , Falcon 9 , Falcon Heavy first stage/boosters",
         [
           "/wiki/Falcon_1",
           "/wiki/Falcon_9",
@@ -570,188 +379,126 @@
         ]
       ],
       [
-        [
-          "Operational"
-        ],
-        [
-          null
-        ]
+        "Operational",
+        []
       ]
     ],
     [
       [
-        [
-          "SpaceX"
-        ],
+        "SpaceX",
         [
           "/wiki/SpaceX"
         ]
       ],
       [
-        [
-          "Merlin Vacuum"
-        ],
+        "Merlin Vacuum",
         [
           "/wiki/Merlin_1D_Vacuum"
         ]
       ],
       [
-        [
-          "LOX",
-          "RP-1"
-        ],
+        "LOX / RP-1",
         [
           "/wiki/Liquid_oxygen",
           "/wiki/RP-1"
         ]
       ],
       [
-        [
-          "Falcon 9",
-          "Falcon Heavy"
-        ],
+        "Falcon 9 second stage , Falcon Heavy second stage",
         [
           "/wiki/Falcon_9",
           "/wiki/Falcon_Heavy"
         ]
       ],
       [
-        [
-          "Operational"
-        ],
-        [
-          null
-        ]
+        "Operational",
+        []
       ]
     ],
     [
       [
-        [
-          "SpaceX"
-        ],
+        "SpaceX",
         [
           "/wiki/SpaceX"
         ]
       ],
       [
-        [
-          "Raptor"
-        ],
+        "Raptor",
         [
           "/wiki/Raptor_(rocket_engine_family)"
         ]
       ],
       [
-        [
-          "LOX",
-          "CH 4"
-        ],
+        "LOX / CH 4",
         [
           "/wiki/Liquid_oxygen",
           "/wiki/Liquid_methane"
         ]
       ],
       [
-        [
-          "SpaceX Mars transportation infrastructure"
-        ],
+        "SpaceX Mars transportation infrastructure",
         [
           "/wiki/SpaceX_Mars_transportation_infrastructure"
         ]
       ],
       [
-        [
-          "Testing"
-        ],
-        [
-          null
-        ]
+        "Testing",
+        []
       ]
     ],
     [
       [
-        [
-          "TGV Rockets"
-        ],
-        [
-          null
-        ]
+        "TGV Rockets",
+        []
       ],
       [
-        [
-          "RT30"
-        ],
-        [
-          null
-        ]
+        "RT30",
+        []
       ],
       [
-        [
-          "LOX",
-          "JP-8"
-        ],
+        "LOX / JP-8",
         [
           "/wiki/Liquid_Oxygen",
           "/wiki/JP-8"
         ]
       ],
       [
-        [
-          "Michelle B"
-        ],
-        [
-          null
-        ]
+        "Michelle B",
+        []
       ],
       [
-        [
-          "Development"
-        ],
-        [
-          null
-        ]
+        "Development",
+        []
       ]
     ],
     [
       [
-        [
-          "Virgin Galactic"
-        ],
+        "Virgin Galactic",
         [
           "/wiki/Virgin_Galactic"
         ]
       ],
       [
-        [
-          "RocketMotorTwo"
-        ],
+        "RocketMotorTwo",
         [
           "/wiki/RocketMotorTwo"
         ]
       ],
       [
-        [
-          "hybrid"
-        ],
+        "hybrid",
         [
           "/wiki/Hybrid_rocket"
         ]
       ],
       [
-        [
-          "SpaceShipTwo"
-        ],
+        "SpaceShipTwo",
         [
           "/wiki/SpaceShipTwo"
         ]
       ],
       [
-        [
-          "Development"
-        ],
-        [
-          null
-        ]
+        "Development",
+        []
       ]
     ]
   ],

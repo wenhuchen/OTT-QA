@@ -3,895 +3,550 @@
   "title": "List of space telescopes",
   "header": [
     [
-      [
-        "Name"
-      ],
-      [
-        null
-      ]
+      "Name",
+      []
     ],
     [
-      [
-        "Space Agency"
-      ],
-      [
-        null
-      ]
+      "Space Agency",
+      []
     ],
     [
-      [
-        "Launch Date"
-      ],
-      [
-        null
-      ]
+      "Launch Date",
+      []
     ],
     [
-      [
-        "Terminated"
-      ],
-      [
-        null
-      ]
+      "Terminated",
+      []
     ],
     [
-      [
-        "Location"
-      ],
-      [
-        null
-      ]
+      "Location",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Uhuru"
-        ],
+        "Uhuru",
         [
           "/wiki/Uhuru_(satellite)"
         ]
       ],
       [
-        [
-          "NASA"
-        ],
+        "NASA",
         [
           "/wiki/NASA"
         ]
       ],
       [
-        [
-          "12 Dec 1970"
-        ],
-        [
-          null
-        ]
+        "12 Dec 1970",
+        []
       ],
       [
-        [
-          "Mar 1973"
-        ],
-        [
-          null
-        ]
+        "Mar 1973",
+        []
       ],
       [
-        [
-          "Earth orbit ( 531-572 km )"
-        ],
-        [
-          null
-        ]
+        "Earth orbit ( 531-572 km )",
+        []
       ]
     ],
     [
       [
-        [
-          "Astronomical Netherlands Satellite"
-        ],
+        "Astronomical Netherlands Satellite ( ANS )",
         [
           "/wiki/Astronomical_Netherlands_Satellite"
         ]
       ],
       [
-        [
-          "SRON"
-        ],
+        "SRON",
         [
           "/wiki/Netherlands_Institute_for_Space_Research"
         ]
       ],
       [
-        [
-          "30 Aug 1974"
-        ],
-        [
-          null
-        ]
+        "30 Aug 1974",
+        []
       ],
       [
-        [
-          "Jun 1976"
-        ],
-        [
-          null
-        ]
+        "Jun 1976",
+        []
       ],
       [
-        [
-          "Earth orbit ( 266-1176 km )"
-        ],
-        [
-          null
-        ]
+        "Earth orbit ( 266-1176 km )",
+        []
       ]
     ],
     [
       [
-        [
-          "Ariel V"
-        ],
+        "Ariel V",
         [
           "/wiki/Ariel_V"
         ]
       ],
       [
-        [
-          "SRC",
-          "NASA"
-        ],
+        "SRC & NASA",
         [
           "/wiki/Science_and_Engineering_Research_Council",
           "/wiki/NASA"
         ]
       ],
       [
-        [
-          "15 Oct 1974"
-        ],
-        [
-          null
-        ]
+        "15 Oct 1974",
+        []
       ],
       [
-        [
-          "14 Mar 1980"
-        ],
-        [
-          null
-        ]
+        "14 Mar 1980",
+        []
       ],
       [
-        [
-          "Earth orbit ( 520 km )"
-        ],
-        [
-          null
-        ]
+        "Earth orbit ( 520 km )",
+        []
       ]
     ],
     [
       [
-        [
-          "Aryabhata"
-        ],
+        "Aryabhata",
         [
           "/wiki/Aryabhata_(satellite)"
         ]
       ],
       [
-        [
-          "ISRO"
-        ],
+        "ISRO",
         [
           "/wiki/Indian_Space_Research_Organisation"
         ]
       ],
       [
-        [
-          "19 Apr 1975"
-        ],
-        [
-          null
-        ]
+        "19 Apr 1975",
+        []
       ],
       [
-        [
-          "23 Apr 1975"
-        ],
-        [
-          null
-        ]
+        "23 Apr 1975",
+        []
       ],
       [
-        [
-          "Earth orbit ( 563-619 km )"
-        ],
-        [
-          null
-        ]
+        "Earth orbit ( 563-619 km )",
+        []
       ]
     ],
     [
       [
-        [
-          "Third Small Astronomy Satellite"
-        ],
+        "Third Small Astronomy Satellite ( SAS-C )",
         [
           "/wiki/Third_Small_Astronomy_Satellite"
         ]
       ],
       [
-        [
-          "NASA"
-        ],
+        "NASA",
         [
           "/wiki/NASA"
         ]
       ],
       [
-        [
-          "7 May 1975"
-        ],
-        [
-          null
-        ]
+        "7 May 1975",
+        []
       ],
       [
-        [
-          "Apr 1979"
-        ],
-        [
-          null
-        ]
+        "Apr 1979",
+        []
       ],
       [
-        [
-          "Earth orbit ( 509-516 km )"
-        ],
-        [
-          null
-        ]
+        "Earth orbit ( 509-516 km )",
+        []
       ]
     ],
     [
       [
-        [
-          "Cos-B"
-        ],
+        "Cos-B",
         [
           "/wiki/Cos-B"
         ]
       ],
       [
-        [
-          "ESA"
-        ],
+        "ESA",
         [
           "/wiki/ESA"
         ]
       ],
       [
-        [
-          "9 Aug 1975"
-        ],
-        [
-          null
-        ]
+        "9 Aug 1975",
+        []
       ],
       [
-        [
-          "25 Apr 1982"
-        ],
-        [
-          null
-        ]
+        "25 Apr 1982",
+        []
       ],
       [
-        [
-          "Earth orbit ( 339.6-99,876 km )"
-        ],
-        [
-          null
-        ]
+        "Earth orbit ( 339.6-99,876 km )",
+        []
       ]
     ],
     [
       [
-        [
-          "Cosmic Radiation Satellite"
-        ],
+        "Cosmic Radiation Satellite ( CORSA )",
         [
           "/wiki/Cosmic_Radiation_Satellite"
         ]
       ],
       [
-        [
-          "ISAS"
-        ],
+        "ISAS",
         [
           "/wiki/Institute_of_Space_and_Astronautical_Science"
         ]
       ],
       [
-        [
-          "6 Feb 1976"
-        ],
-        [
-          null
-        ]
+        "6 Feb 1976",
+        []
       ],
       [
-        [
-          "6 Feb 1976"
-        ],
-        [
-          null
-        ]
+        "6 Feb 1976",
+        []
       ],
       [
-        [
-          "Failed launch"
-        ],
-        [
-          null
-        ]
+        "Failed launch",
+        []
       ]
     ],
     [
       [
-        [
-          "1st High Energy Astronomy Observatory"
-        ],
+        "1st High Energy Astronomy Observatory ( HEAO 1 )",
         [
           "/wiki/1st_High_Energy_Astronomy_Observatory"
         ]
       ],
       [
-        [
-          "NASA"
-        ],
+        "NASA",
         [
           "/wiki/NASA"
         ]
       ],
       [
-        [
-          "12 Aug 1977"
-        ],
-        [
-          null
-        ]
+        "12 Aug 1977",
+        []
       ],
       [
-        [
-          "9 Jan 1979"
-        ],
-        [
-          null
-        ]
+        "9 Jan 1979",
+        []
       ],
       [
-        [
-          "Earth orbit ( 445 km )"
-        ],
-        [
-          null
-        ]
+        "Earth orbit ( 445 km )",
+        []
       ]
     ],
     [
       [
-        [
-          "Einstein Observatory",
-          "HEAO 2"
-        ],
+        "Einstein Observatory ( HEAO 2 )",
         [
           "/wiki/Einstein_Observatory",
           "/wiki/HEAO_2"
         ]
       ],
       [
-        [
-          "NASA"
-        ],
+        "NASA",
         [
           "/wiki/NASA"
         ]
       ],
       [
-        [
-          "13 Nov 1978"
-        ],
-        [
-          null
-        ]
+        "13 Nov 1978",
+        []
       ],
       [
-        [
-          "26 Apr 1981"
-        ],
-        [
-          null
-        ]
+        "26 Apr 1981",
+        []
       ],
       [
-        [
-          "Earth orbit ( 465-476 km )"
-        ],
-        [
-          null
-        ]
+        "Earth orbit ( 465-476 km )",
+        []
       ]
     ],
     [
       [
-        [
-          "Hakucho"
-        ],
+        "Hakucho ( CORSA-b )",
         [
           "/wiki/Hakucho"
         ]
       ],
       [
-        [
-          "ISAS"
-        ],
+        "ISAS",
         [
           "/wiki/Institute_of_Space_and_Astronautical_Science"
         ]
       ],
       [
-        [
-          "21 Feb 1979"
-        ],
-        [
-          null
-        ]
+        "21 Feb 1979",
+        []
       ],
       [
-        [
-          "16 Apr 1985"
-        ],
-        [
-          null
-        ]
+        "16 Apr 1985",
+        []
       ],
       [
-        [
-          "Earth orbit ( 421-433 km )"
-        ],
-        [
-          null
-        ]
+        "Earth orbit ( 421-433 km )",
+        []
       ]
     ],
     [
       [
-        [
-          "3rd High Energy Astronomy Observatory"
-        ],
+        "3rd High Energy Astronomy Observatory ( HEAO 3 )",
         [
           "/wiki/3rd_High_Energy_Astronomy_Observatory"
         ]
       ],
       [
-        [
-          "NASA"
-        ],
+        "NASA",
         [
           "/wiki/NASA"
         ]
       ],
       [
-        [
-          "20 Sep 1979"
-        ],
-        [
-          null
-        ]
+        "20 Sep 1979",
+        []
       ],
       [
-        [
-          "29 May 1981"
-        ],
-        [
-          null
-        ]
+        "29 May 1981",
+        []
       ],
       [
-        [
-          "Earth orbit ( 486.4-504.9 km )"
-        ],
-        [
-          null
-        ]
+        "Earth orbit ( 486.4-504.9 km )",
+        []
       ]
     ],
     [
       [
-        [
-          "Tenma"
-        ],
+        "Tenma ( Astro-B )",
         [
           "/wiki/Tenma"
         ]
       ],
       [
-        [
-          "ISAS"
-        ],
+        "ISAS",
         [
           "/wiki/Institute_of_Space_and_Astronautical_Science"
         ]
       ],
       [
-        [
-          "20 Feb 1983"
-        ],
-        [
-          null
-        ]
+        "20 Feb 1983",
+        []
       ],
       [
-        [
-          "19 Jan 1989"
-        ],
-        [
-          null
-        ]
+        "19 Jan 1989",
+        []
       ],
       [
-        [
-          "Earth orbit ( 489-503 km )"
-        ],
-        [
-          null
-        ]
+        "Earth orbit ( 489-503 km )",
+        []
       ]
     ],
     [
       [
-        [
-          "Astron"
-        ],
+        "Astron",
         [
           "/wiki/Astron_(spacecraft)"
         ]
       ],
       [
-        [
-          "IKI"
-        ],
+        "IKI",
         [
           "/wiki/Russian_Space_Research_Institute"
         ]
       ],
       [
-        [
-          "23 Mar 1983"
-        ],
-        [
-          null
-        ]
+        "23 Mar 1983",
+        []
       ],
       [
-        [
-          "Jun 1989"
-        ],
-        [
-          null
-        ]
+        "Jun 1989",
+        []
       ],
       [
-        [
-          "Earth orbit ( 2,000-200,000 km )"
-        ],
-        [
-          null
-        ]
+        "Earth orbit ( 2,000-200,000 km )",
+        []
       ]
     ],
     [
       [
-        [
-          "EXOSAT"
-        ],
+        "EXOSAT",
         [
           "/wiki/EXOSAT"
         ]
       ],
       [
-        [
-          "ESA"
-        ],
+        "ESA",
         [
           "/wiki/ESA"
         ]
       ],
       [
-        [
-          "26 May 1983"
-        ],
-        [
-          null
-        ]
+        "26 May 1983",
+        []
       ],
       [
-        [
-          "8 Apr 1986"
-        ],
-        [
-          null
-        ]
+        "8 Apr 1986",
+        []
       ],
       [
-        [
-          "Earth orbit ( 347-191,709 km )"
-        ],
-        [
-          null
-        ]
+        "Earth orbit ( 347-191,709 km )",
+        []
       ]
     ],
     [
       [
-        [
-          "Ginga"
-        ],
+        "Ginga ( Astro-C )",
         [
           "/wiki/Ginga_(satellite)"
         ]
       ],
       [
-        [
-          "ISAS"
-        ],
+        "ISAS",
         [
           "/wiki/Institute_of_Space_and_Astronautical_Science"
         ]
       ],
       [
-        [
-          "5 Feb 1987"
-        ],
-        [
-          null
-        ]
+        "5 Feb 1987",
+        []
       ],
       [
-        [
-          "1 Nov 1991"
-        ],
-        [
-          null
-        ]
+        "1 Nov 1991",
+        []
       ],
       [
-        [
-          "Earth orbit ( 517-708 km )"
-        ],
-        [
-          null
-        ]
+        "Earth orbit ( 517-708 km )",
+        []
       ]
     ],
     [
       [
-        [
-          "Granat"
-        ],
+        "Granat",
         [
           "/wiki/Granat"
         ]
       ],
       [
-        [
-          "CNRS",
-          "IKI"
-        ],
+        "CNRS & IKI",
         [
           "/wiki/CNRS",
           "/wiki/Russian_Space_Research_Institute"
         ]
       ],
       [
-        [
-          "1 Dec 1989"
-        ],
-        [
-          null
-        ]
+        "1 Dec 1989",
+        []
       ],
       [
-        [
-          "25 May 1999"
-        ],
-        [
-          null
-        ]
+        "25 May 1999",
+        []
       ],
       [
-        [
-          "Earth orbit ( 2,000-200,000 km )"
-        ],
-        [
-          null
-        ]
+        "Earth orbit ( 2,000-200,000 km )",
+        []
       ]
     ],
     [
       [
-        [
-          "ROSAT"
-        ],
+        "ROSAT",
         [
           "/wiki/ROSAT"
         ]
       ],
       [
-        [
-          "NASA",
-          "DLR"
-        ],
+        "NASA & DLR",
         [
           "/wiki/NASA",
           "/wiki/German_Aerospace_Center"
         ]
       ],
       [
-        [
-          "1 Jun 1990"
-        ],
-        [
-          null
-        ]
+        "1 Jun 1990",
+        []
       ],
       [
-        [
-          "12 Feb 1999"
-        ],
-        [
-          null
-        ]
+        "12 Feb 1999",
+        []
       ],
       [
-        [
-          "Re-entry 23 October 2011 . Formerly Earth orbit ( 580 km )"
-        ],
-        [
-          null
-        ]
+        "Re-entry 23 October 2011 . Formerly Earth orbit ( 580 km )",
+        []
       ]
     ],
     [
       [
-        [
-          "Broad Band X-ray Telescope"
-        ],
+        "Broad Band X-ray Telescope / Astro 1",
         [
           "/wiki/Broad_Band_X-ray_Telescope"
         ]
       ],
       [
-        [
-          "NASA"
-        ],
+        "NASA",
         [
           "/wiki/NASA"
         ]
       ],
       [
-        [
-          "2 Dec 1990"
-        ],
-        [
-          null
-        ]
+        "2 Dec 1990",
+        []
       ],
       [
-        [
-          "11 Dec 1990"
-        ],
-        [
-          null
-        ]
+        "11 Dec 1990",
+        []
       ],
       [
-        [
-          "Earth orbit ( 500 km )"
-        ],
-        [
-          null
-        ]
+        "Earth orbit ( 500 km )",
+        []
       ]
     ],
     [
       [
-        [
-          "Advanced Satellite for Cosmology and Astrophysics"
-        ],
+        "Advanced Satellite for Cosmology and Astrophysics ( ASCA , Astro-D )",
         [
           "/wiki/Advanced_Satellite_for_Cosmology_and_Astrophysics"
         ]
       ],
       [
-        [
-          "ISAS",
-          "NASA"
-        ],
+        "ISAS & NASA",
         [
           "/wiki/Institute_of_Space_and_Astronautical_Science",
           "/wiki/NASA"
         ]
       ],
       [
-        [
-          "20 Feb 1993"
-        ],
-        [
-          null
-        ]
+        "20 Feb 1993",
+        []
       ],
       [
-        [
-          "2 Mar 2001"
-        ],
-        [
-          null
-        ]
+        "2 Mar 2001",
+        []
       ],
       [
-        [
-          "Earth orbit ( 523.6-615.3 km )"
-        ],
-        [
-          null
-        ]
+        "Earth orbit ( 523.6-615.3 km )",
+        []
       ]
     ],
     [
       [
-        [
-          "Array of Low Energy X-ray Imaging Sensors"
-        ],
+        "Array of Low Energy X-ray Imaging Sensors ( Alexis )",
         [
           "/wiki/Array_of_Low_Energy_X-ray_Imaging_Sensors"
         ]
       ],
       [
-        [
-          "LANL"
-        ],
+        "LANL",
         [
           "/wiki/Los_Alamos_National_Laboratory"
         ]
       ],
       [
-        [
-          "25 Apr 1993"
-        ],
-        [
-          null
-        ]
+        "25 Apr 1993",
+        []
       ],
       [
-        [
-          "2005"
-        ],
-        [
-          null
-        ]
+        "2005",
+        []
       ],
       [
-        [
-          "Earth orbit ( 749-844 km )"
-        ],
-        [
-          null
-        ]
+        "Earth orbit ( 749-844 km )",
+        []
       ]
     ]
   ],

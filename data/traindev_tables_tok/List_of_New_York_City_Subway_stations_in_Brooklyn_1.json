@@ -3,204 +3,129 @@
   "title": "List of New York City Subway stations in Brooklyn",
   "header": [
     [
-      [
-        "Station"
-      ],
-      [
-        null
-      ]
+      "Station",
+      []
     ],
     [
-      [
-        ""
-      ],
-      [
-        null
-      ]
+      "",
+      []
     ],
     [
-      [
-        "Division"
-      ],
-      [
-        null
-      ]
+      "Division",
+      []
     ],
     [
-      [
-        "Line"
-      ],
-      [
-        null
-      ]
+      "Line",
+      []
     ],
     [
-      [
-        "Services"
-      ],
-      [
-        null
-      ]
+      "Services",
+      []
     ],
     [
-      [
-        "Opened"
-      ],
-      [
-        null
-      ]
+      "Opened",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "004 Fourth Avenue"
-        ],
+        "004 Fourth Avenue *",
         [
           "/wiki/Fourth_Avenue_(IND_Culver_Line)"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "B",
-          "IND"
-        ],
+        "B ( IND )",
         [
           "/wiki/B_Division_(New_York_City_Subway)",
           "/wiki/Independent_Subway_System"
         ]
       ],
       [
-        [
-          "Culver Line"
-        ],
+        "Culver Line",
         [
           "/wiki/IND_Culver_Line"
         ]
       ],
       [
-        [
-          "F",
-          "G"
-        ],
+        "F \u200b G",
         [
           "/wiki/F_(New_York_City_Subway_service)",
           "/wiki/G_(New_York_City_Subway_service)"
         ]
       ],
       [
-        [
-          "October 7 , 1933"
-        ],
-        [
-          null
-        ]
+        "October 7 , 1933",
+        []
       ]
     ],
     [
       [
-        [
-          "007 Seventh Avenue"
-        ],
+        "007 Seventh Avenue",
         [
           "/wiki/Seventh_Avenue_(BMT_Brighton_Line)"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "B",
-          "BMT"
-        ],
+        "B ( BMT )",
         [
           "/wiki/B_Division_(New_York_City_Subway)",
           "/wiki/Brooklyn\u2013Manhattan_Transit_Corporation"
         ]
       ],
       [
-        [
-          "Brighton Line"
-        ],
+        "Brighton Line",
         [
           "/wiki/BMT_Brighton_Line"
         ]
       ],
       [
-        [
-          "B",
-          "Q"
-        ],
+        "B \u200b Q",
         [
           "/wiki/B_(New_York_City_Subway_service)",
           "/wiki/Q_(New_York_City_Subway_service)"
         ]
       ],
       [
-        [
-          "August 1 , 1920"
-        ],
-        [
-          null
-        ]
+        "August 1 , 1920",
+        []
       ]
     ],
     [
       [
-        [
-          "007 Seventh Avenue"
-        ],
+        "007 Seventh Avenue",
         [
           "/wiki/Seventh_Avenue_(IND_Culver_Line)"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "B",
-          "IND"
-        ],
+        "B ( IND )",
         [
           "/wiki/B_Division_(New_York_City_Subway)",
           "/wiki/Independent_Subway_System"
         ]
       ],
       [
-        [
-          "Culver Line"
-        ],
+        "Culver Line",
         [
           "/wiki/IND_Culver_Line"
         ]
       ],
       [
-        [
-          "F",
-          "< F >",
-          "G"
-        ],
+        "F < F > \u200b G",
         [
           "/wiki/F_(New_York_City_Subway_service)",
           "/wiki/Fd_(New_York_City_Subway_service)",
@@ -208,162 +133,107 @@
         ]
       ],
       [
-        [
-          "October 7 , 1933"
-        ],
-        [
-          null
-        ]
+        "October 7 , 1933",
+        []
       ]
     ],
     [
       [
-        [
-          "008 Eighth Avenue"
-        ],
+        "008 Eighth Avenue",
         [
           "/wiki/Eighth_Avenue_(BMT_Sea_Beach_Line)"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "B",
-          "BMT"
-        ],
+        "B ( BMT )",
         [
           "/wiki/B_Division_(New_York_City_Subway)",
           "/wiki/Brooklyn\u2013Manhattan_Transit_Corporation"
         ]
       ],
       [
-        [
-          "Sea Beach Line"
-        ],
+        "Sea Beach Line",
         [
           "/wiki/BMT_Sea_Beach_Line"
         ]
       ],
       [
-        [
-          "N",
-          "W"
-        ],
+        "N \u200b W",
         [
           "/wiki/N_(New_York_City_Subway_service)",
           "/wiki/W_(New_York_City_Subway_service)"
         ]
       ],
       [
-        [
-          "June 22 , 1915"
-        ],
-        [
-          null
-        ]
+        "June 22 , 1915",
+        []
       ]
     ],
     [
       [
-        [
-          "009 Ninth Avenue"
-        ],
+        "009 Ninth Avenue",
         [
           "/wiki/Ninth_Avenue_(BMT_West_End_Line)"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "B",
-          "BMT"
-        ],
+        "B ( BMT )",
         [
           "/wiki/B_Division_(New_York_City_Subway)",
           "/wiki/Brooklyn\u2013Manhattan_Transit_Corporation"
         ]
       ],
       [
-        [
-          "West End Line"
-        ],
+        "West End Line",
         [
           "/wiki/BMT_West_End_Line"
         ]
       ],
       [
-        [
-          "D"
-        ],
+        "D",
         [
           "/wiki/D_(New_York_City_Subway_service)"
         ]
       ],
       [
-        [
-          "June 24 , 1916"
-        ],
-        [
-          null
-        ]
+        "June 24 , 1916",
+        []
       ]
     ],
     [
       [
-        [
-          "009 Ninth Street"
-        ],
+        "009 Ninth Street *",
         [
           "/wiki/Ninth_Street_(BMT_Fourth_Avenue_Line)"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "B",
-          "BMT"
-        ],
+        "B ( BMT )",
         [
           "/wiki/B_Division_(New_York_City_Subway)",
           "/wiki/Brooklyn\u2013Manhattan_Transit_Corporation"
         ]
       ],
       [
-        [
-          "Fourth Avenue Line"
-        ],
+        "Fourth Avenue Line",
         [
           "/wiki/BMT_Fourth_Avenue_Line"
         ]
       ],
       [
-        [
-          "D",
-          "N",
-          "R",
-          "W"
-        ],
+        "D \u200b N \u200b R \u200b W",
         [
           "/wiki/D_(New_York_City_Subway_service)",
           "/wiki/N_(New_York_City_Subway_service)",
@@ -372,428 +242,285 @@
         ]
       ],
       [
-        [
-          "June 22 , 1915"
-        ],
-        [
-          null
-        ]
+        "June 22 , 1915",
+        []
       ]
     ],
     [
       [
-        [
-          "0 15th Street-Prospect Park"
-        ],
+        "0 15th Street-Prospect Park",
         [
           "/wiki/15th_Street\u2013Prospect_Park_(IND_Culver_Line)"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "B",
-          "IND"
-        ],
+        "B ( IND )",
         [
           "/wiki/B_Division_(New_York_City_Subway)",
           "/wiki/Independent_Subway_System"
         ]
       ],
       [
-        [
-          "Culver Line"
-        ],
+        "Culver Line",
         [
           "/wiki/IND_Culver_Line"
         ]
       ],
       [
-        [
-          "F",
-          "G"
-        ],
+        "F \u200b G",
         [
           "/wiki/F_(New_York_City_Subway_service)",
           "/wiki/G_(New_York_City_Subway_service)"
         ]
       ],
       [
-        [
-          "October 7 , 1933"
-        ],
-        [
-          null
-        ]
+        "October 7 , 1933",
+        []
       ]
     ],
     [
       [
-        [
-          "0 18th Avenue"
-        ],
+        "0 18th Avenue",
         [
           "/wiki/18th_Avenue_(IND_Culver_Line)"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "B",
-          "IND"
-        ],
+        "B ( IND )",
         [
           "/wiki/B_Division_(New_York_City_Subway)",
           "/wiki/Independent_Subway_System"
         ]
       ],
       [
-        [
-          "Culver Line"
-        ],
+        "Culver Line",
         [
           "/wiki/IND_Culver_Line"
         ]
       ],
       [
-        [
-          "F",
-          "< F >"
-        ],
+        "F < F > \u200b",
         [
           "/wiki/F_(New_York_City_Subway_service)",
           "/wiki/Fd_(New_York_City_Subway_service)"
         ]
       ],
       [
-        [
-          "March 16 , 1919"
-        ],
-        [
-          null
-        ]
+        "March 16 , 1919",
+        []
       ]
     ],
     [
       [
-        [
-          "0 18th Avenue"
-        ],
+        "0 18th Avenue",
         [
           "/wiki/18th_Avenue_(BMT_Sea_Beach_Line)"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "B",
-          "BMT"
-        ],
+        "B ( BMT )",
         [
           "/wiki/B_Division_(New_York_City_Subway)",
           "/wiki/Brooklyn\u2013Manhattan_Transit_Corporation"
         ]
       ],
       [
-        [
-          "Sea Beach Line"
-        ],
+        "Sea Beach Line",
         [
           "/wiki/BMT_Sea_Beach_Line"
         ]
       ],
       [
-        [
-          "N",
-          "W"
-        ],
+        "N \u200b W",
         [
           "/wiki/N_(New_York_City_Subway_service)",
           "/wiki/W_(New_York_City_Subway_service)"
         ]
       ],
       [
-        [
-          "June 22 , 1915"
-        ],
-        [
-          null
-        ]
+        "June 22 , 1915",
+        []
       ]
     ],
     [
       [
-        [
-          "0 18th Avenue"
-        ],
+        "0 18th Avenue",
         [
           "/wiki/18th_Avenue_(BMT_West_End_Line)"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "B",
-          "BMT"
-        ],
+        "B ( BMT )",
         [
           "/wiki/B_Division_(New_York_City_Subway)",
           "/wiki/Brooklyn\u2013Manhattan_Transit_Corporation"
         ]
       ],
       [
-        [
-          "West End Line"
-        ],
+        "West End Line",
         [
           "/wiki/BMT_West_End_Line"
         ]
       ],
       [
-        [
-          "D"
-        ],
+        "D",
         [
           "/wiki/D_(New_York_City_Subway_service)"
         ]
       ],
       [
-        [
-          "June 24 , 1916"
-        ],
-        [
-          null
-        ]
+        "June 24 , 1916",
+        []
       ]
     ],
     [
       [
-        [
-          "0 20th Avenue"
-        ],
+        "0 20th Avenue",
         [
           "/wiki/20th_Avenue_(BMT_Sea_Beach_Line)"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "B",
-          "BMT"
-        ],
+        "B ( BMT )",
         [
           "/wiki/B_Division_(New_York_City_Subway)",
           "/wiki/Brooklyn\u2013Manhattan_Transit_Corporation"
         ]
       ],
       [
-        [
-          "Sea Beach Line"
-        ],
+        "Sea Beach Line",
         [
           "/wiki/BMT_Sea_Beach_Line"
         ]
       ],
       [
-        [
-          "N",
-          "W"
-        ],
+        "N \u200b W",
         [
           "/wiki/N_(New_York_City_Subway_service)",
           "/wiki/W_(New_York_City_Subway_service)"
         ]
       ],
       [
-        [
-          "June 22 , 1915"
-        ],
-        [
-          null
-        ]
+        "June 22 , 1915",
+        []
       ]
     ],
     [
       [
-        [
-          "0 20th Avenue"
-        ],
+        "0 20th Avenue",
         [
           "/wiki/20th_Avenue_(BMT_West_End_Line)"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "B",
-          "BMT"
-        ],
+        "B ( BMT )",
         [
           "/wiki/B_Division_(New_York_City_Subway)",
           "/wiki/Brooklyn\u2013Manhattan_Transit_Corporation"
         ]
       ],
       [
-        [
-          "West End Line"
-        ],
+        "West End Line",
         [
           "/wiki/BMT_West_End_Line"
         ]
       ],
       [
-        [
-          "D"
-        ],
+        "D",
         [
           "/wiki/D_(New_York_City_Subway_service)"
         ]
       ],
       [
-        [
-          "June 29 , 1916"
-        ],
-        [
-          null
-        ]
+        "June 29 , 1916",
+        []
       ]
     ],
     [
       [
-        [
-          "0 25th Avenue"
-        ],
+        "0 25th Avenue",
         [
           "/wiki/25th_Avenue_(BMT_West_End_Line)"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "B",
-          "BMT"
-        ],
+        "B ( BMT )",
         [
           "/wiki/B_Division_(New_York_City_Subway)",
           "/wiki/Brooklyn\u2013Manhattan_Transit_Corporation"
         ]
       ],
       [
-        [
-          "West End Line"
-        ],
+        "West End Line",
         [
           "/wiki/BMT_West_End_Line"
         ]
       ],
       [
-        [
-          "D"
-        ],
+        "D",
         [
           "/wiki/D_(New_York_City_Subway_service)"
         ]
       ],
       [
-        [
-          "June 29 , 1916"
-        ],
-        [
-          null
-        ]
+        "June 29 , 1916",
+        []
       ]
     ],
     [
       [
-        [
-          "0 25th Street"
-        ],
+        "0 25th Street",
         [
           "/wiki/25th_Street_(BMT_Fourth_Avenue_Line)"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "B",
-          "BMT"
-        ],
+        "B ( BMT )",
         [
           "/wiki/B_Division_(New_York_City_Subway)",
           "/wiki/Brooklyn\u2013Manhattan_Transit_Corporation"
         ]
       ],
       [
-        [
-          "Fourth Avenue Line"
-        ],
+        "Fourth Avenue Line",
         [
           "/wiki/BMT_Fourth_Avenue_Line"
         ]
       ],
       [
-        [
-          "D",
-          "N",
-          "R",
-          "W"
-        ],
+        "D \u200b N \u200b R \u200b W",
         [
           "/wiki/D_(New_York_City_Subway_service)",
           "/wiki/N_(New_York_City_Subway_service)",
@@ -802,56 +529,36 @@
         ]
       ],
       [
-        [
-          "June 22 , 1915"
-        ],
-        [
-          null
-        ]
+        "June 22 , 1915",
+        []
       ]
     ],
     [
       [
-        [
-          "0 36th Street"
-        ],
+        "0 36th Street **",
         [
           "/wiki/36th_Street_(BMT_Fourth_Avenue_Line)"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "B",
-          "BMT"
-        ],
+        "B ( BMT )",
         [
           "/wiki/B_Division_(New_York_City_Subway)",
           "/wiki/Brooklyn\u2013Manhattan_Transit_Corporation"
         ]
       ],
       [
-        [
-          "Fourth Avenue Line"
-        ],
+        "Fourth Avenue Line",
         [
           "/wiki/BMT_Fourth_Avenue_Line"
         ]
       ],
       [
-        [
-          "D",
-          "N",
-          "R",
-          "W"
-        ],
+        "D \u200b N \u200b R \u200b W",
         [
           "/wiki/D_(New_York_City_Subway_service)",
           "/wiki/N_(New_York_City_Subway_service)",
@@ -860,55 +567,36 @@
         ]
       ],
       [
-        [
-          "June 22 , 1915"
-        ],
-        [
-          null
-        ]
+        "June 22 , 1915",
+        []
       ]
     ],
     [
       [
-        [
-          "0 45th Street"
-        ],
+        "0 45th Street",
         [
           "/wiki/45th_Street_(BMT_Fourth_Avenue_Line)"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "B",
-          "BMT"
-        ],
+        "B ( BMT )",
         [
           "/wiki/B_Division_(New_York_City_Subway)",
           "/wiki/Brooklyn\u2013Manhattan_Transit_Corporation"
         ]
       ],
       [
-        [
-          "Fourth Avenue Line"
-        ],
+        "Fourth Avenue Line",
         [
           "/wiki/BMT_Fourth_Avenue_Line"
         ]
       ],
       [
-        [
-          "N",
-          "R",
-          "W"
-        ],
+        "N \u200b R \u200b W",
         [
           "/wiki/N_(New_York_City_Subway_service)",
           "/wiki/R_(New_York_City_Subway_service)",
@@ -916,107 +604,71 @@
         ]
       ],
       [
-        [
-          "June 22 , 1915"
-        ],
-        [
-          null
-        ]
+        "June 22 , 1915",
+        []
       ]
     ],
     [
       [
-        [
-          "0 50th Street"
-        ],
+        "0 50th Street",
         [
           "/wiki/50th_Street_(BMT_West_End_Line)"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "B",
-          "BMT"
-        ],
+        "B ( BMT )",
         [
           "/wiki/B_Division_(New_York_City_Subway)",
           "/wiki/Brooklyn\u2013Manhattan_Transit_Corporation"
         ]
       ],
       [
-        [
-          "West End Line"
-        ],
+        "West End Line",
         [
           "/wiki/BMT_West_End_Line"
         ]
       ],
       [
-        [
-          "D"
-        ],
+        "D",
         [
           "/wiki/D_(New_York_City_Subway_service)"
         ]
       ],
       [
-        [
-          "June 24 , 1916"
-        ],
-        [
-          null
-        ]
+        "June 24 , 1916",
+        []
       ]
     ],
     [
       [
-        [
-          "0 53rd Street"
-        ],
+        "0 53rd Street",
         [
           "/wiki/53rd_Street_(BMT_Fourth_Avenue_Line)"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "B",
-          "BMT"
-        ],
+        "B ( BMT )",
         [
           "/wiki/B_Division_(New_York_City_Subway)",
           "/wiki/Brooklyn\u2013Manhattan_Transit_Corporation"
         ]
       ],
       [
-        [
-          "Fourth Avenue Line"
-        ],
+        "Fourth Avenue Line",
         [
           "/wiki/BMT_Fourth_Avenue_Line"
         ]
       ],
       [
-        [
-          "N",
-          "R",
-          "W"
-        ],
+        "N \u200b R \u200b W",
         [
           "/wiki/N_(New_York_City_Subway_service)",
           "/wiki/R_(New_York_City_Subway_service)",
@@ -1024,107 +676,71 @@
         ]
       ],
       [
-        [
-          "June 22 , 1915"
-        ],
-        [
-          null
-        ]
+        "June 22 , 1915",
+        []
       ]
     ],
     [
       [
-        [
-          "0 55th Street"
-        ],
+        "0 55th Street",
         [
           "/wiki/55th_Street_(BMT_West_End_Line)"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "B",
-          "BMT"
-        ],
+        "B ( BMT )",
         [
           "/wiki/B_Division_(New_York_City_Subway)",
           "/wiki/Brooklyn\u2013Manhattan_Transit_Corporation"
         ]
       ],
       [
-        [
-          "West End Line"
-        ],
+        "West End Line",
         [
           "/wiki/BMT_West_End_Line"
         ]
       ],
       [
-        [
-          "D"
-        ],
+        "D",
         [
           "/wiki/D_(New_York_City_Subway_service)"
         ]
       ],
       [
-        [
-          "June 24 , 1916"
-        ],
-        [
-          null
-        ]
+        "June 24 , 1916",
+        []
       ]
     ],
     [
       [
-        [
-          "0 59th Street"
-        ],
+        "0 59th Street **",
         [
           "/wiki/59th_Street_(BMT_Fourth_Avenue_Line)"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "B",
-          "BMT"
-        ],
+        "B ( BMT )",
         [
           "/wiki/B_Division_(New_York_City_Subway)",
           "/wiki/Brooklyn\u2013Manhattan_Transit_Corporation"
         ]
       ],
       [
-        [
-          "Fourth Avenue Line"
-        ],
+        "Fourth Avenue Line",
         [
           "/wiki/BMT_Fourth_Avenue_Line"
         ]
       ],
       [
-        [
-          "N",
-          "R",
-          "W"
-        ],
+        "N \u200b R \u200b W",
         [
           "/wiki/N_(New_York_City_Subway_service)",
           "/wiki/R_(New_York_City_Subway_service)",
@@ -1132,12 +748,8 @@
         ]
       ],
       [
-        [
-          "June 22 , 1915"
-        ],
-        [
-          null
-        ]
+        "June 22 , 1915",
+        []
       ]
     ]
   ],

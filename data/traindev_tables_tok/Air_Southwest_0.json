@@ -3,84 +3,48 @@
   "title": "Air Southwest",
   "header": [
     [
-      [
-        "City"
-      ],
-      [
-        null
-      ]
+      "City",
+      []
     ],
     [
-      [
-        "Country"
-      ],
-      [
-        null
-      ]
+      "Country",
+      []
     ],
     [
-      [
-        "IATA"
-      ],
-      [
-        null
-      ]
+      "IATA",
+      []
     ],
     [
-      [
-        "ICAO"
-      ],
-      [
-        null
-      ]
+      "ICAO",
+      []
     ],
     [
-      [
-        "Airport"
-      ],
-      [
-        null
-      ]
+      "Airport",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Aberdeen"
-        ],
+        "Aberdeen",
         [
           "/wiki/Aberdeen"
         ]
       ],
       [
-        [
-          "United Kingdom Scotland"
-        ],
-        [
-          null
-        ]
+        "United Kingdom Scotland",
+        []
       ],
       [
-        [
-          "ABZ"
-        ],
-        [
-          null
-        ]
+        "ABZ",
+        []
       ],
       [
-        [
-          "EGPD"
-        ],
-        [
-          null
-        ]
+        "EGPD",
+        []
       ],
       [
-        [
-          "Aberdeen Airport"
-        ],
+        "Aberdeen Airport",
         [
           "/wiki/Aberdeen_Airport"
         ]
@@ -88,41 +52,25 @@
     ],
     [
       [
-        [
-          "Bristol"
-        ],
+        "Bristol",
         [
           "/wiki/Bristol"
         ]
       ],
       [
-        [
-          "United Kingdom England"
-        ],
-        [
-          null
-        ]
+        "United Kingdom England",
+        []
       ],
       [
-        [
-          "BRS"
-        ],
-        [
-          null
-        ]
+        "BRS",
+        []
       ],
       [
-        [
-          "EGGD"
-        ],
-        [
-          null
-        ]
+        "EGGD",
+        []
       ],
       [
-        [
-          "Bristol Airport"
-        ],
+        "Bristol Airport",
         [
           "/wiki/Bristol_Airport"
         ]
@@ -130,41 +78,25 @@
     ],
     [
       [
-        [
-          "Cardiff"
-        ],
+        "Cardiff",
         [
           "/wiki/Cardiff"
         ]
       ],
       [
-        [
-          "United Kingdom Wales"
-        ],
-        [
-          null
-        ]
+        "United Kingdom Wales",
+        []
       ],
       [
-        [
-          "CWL"
-        ],
-        [
-          null
-        ]
+        "CWL",
+        []
       ],
       [
-        [
-          "EGFF"
-        ],
-        [
-          null
-        ]
+        "EGFF",
+        []
       ],
       [
-        [
-          "Cardiff Airport"
-        ],
+        "Cardiff Airport",
         [
           "/wiki/Cardiff_Airport"
         ]
@@ -172,41 +104,25 @@
     ],
     [
       [
-        [
-          "Cork"
-        ],
+        "Cork",
         [
           "/wiki/Cork_(city)"
         ]
       ],
       [
-        [
-          "Ireland"
-        ],
-        [
-          null
-        ]
+        "Ireland",
+        []
       ],
       [
-        [
-          "ORK"
-        ],
-        [
-          null
-        ]
+        "ORK",
+        []
       ],
       [
-        [
-          "EICK"
-        ],
-        [
-          null
-        ]
+        "EICK",
+        []
       ],
       [
-        [
-          "Cork Airport"
-        ],
+        "Cork Airport",
         [
           "/wiki/Cork_Airport"
         ]
@@ -214,41 +130,25 @@
     ],
     [
       [
-        [
-          "Dublin"
-        ],
+        "Dublin",
         [
           "/wiki/Dublin"
         ]
       ],
       [
-        [
-          "Ireland"
-        ],
-        [
-          null
-        ]
+        "Ireland",
+        []
       ],
       [
-        [
-          "DUB"
-        ],
-        [
-          null
-        ]
+        "DUB",
+        []
       ],
       [
-        [
-          "EIDW"
-        ],
-        [
-          null
-        ]
+        "EIDW",
+        []
       ],
       [
-        [
-          "Dublin Airport"
-        ],
+        "Dublin Airport",
         [
           "/wiki/Dublin_Airport"
         ]
@@ -256,41 +156,25 @@
     ],
     [
       [
-        [
-          "Dundee"
-        ],
+        "Dundee",
         [
           "/wiki/Dundee"
         ]
       ],
       [
-        [
-          "United Kingdom Scotland"
-        ],
-        [
-          null
-        ]
+        "United Kingdom Scotland",
+        []
       ],
       [
-        [
-          "DND"
-        ],
-        [
-          null
-        ]
+        "DND",
+        []
       ],
       [
-        [
-          "EGPN"
-        ],
-        [
-          null
-        ]
+        "EGPN",
+        []
       ],
       [
-        [
-          "Dundee Airport"
-        ],
+        "Dundee Airport",
         [
           "/wiki/Dundee_Airport"
         ]
@@ -298,41 +182,25 @@
     ],
     [
       [
-        [
-          "Glasgow"
-        ],
+        "Glasgow",
         [
           "/wiki/Glasgow"
         ]
       ],
       [
-        [
-          "United Kingdom Scotland"
-        ],
-        [
-          null
-        ]
+        "United Kingdom Scotland",
+        []
       ],
       [
-        [
-          "GLA"
-        ],
-        [
-          null
-        ]
+        "GLA",
+        []
       ],
       [
-        [
-          "EGPF"
-        ],
-        [
-          null
-        ]
+        "EGPF",
+        []
       ],
       [
-        [
-          "Glasgow International Airport"
-        ],
+        "Glasgow International Airport",
         [
           "/wiki/Glasgow_International_Airport"
         ]
@@ -340,41 +208,25 @@
     ],
     [
       [
-        [
-          "Guernsey"
-        ],
+        "Guernsey",
         [
           "/wiki/Guernsey"
         ]
       ],
       [
-        [
-          "Guernsey"
-        ],
-        [
-          null
-        ]
+        "Guernsey",
+        []
       ],
       [
-        [
-          "GCI"
-        ],
-        [
-          null
-        ]
+        "GCI",
+        []
       ],
       [
-        [
-          "EGJB"
-        ],
-        [
-          null
-        ]
+        "EGJB",
+        []
       ],
       [
-        [
-          "Guernsey Airport"
-        ],
+        "Guernsey Airport",
         [
           "/wiki/Guernsey_Airport"
         ]
@@ -382,41 +234,25 @@
     ],
     [
       [
-        [
-          "Jersey"
-        ],
+        "Jersey",
         [
           "/wiki/Jersey"
         ]
       ],
       [
-        [
-          "Jersey"
-        ],
-        [
-          null
-        ]
+        "Jersey",
+        []
       ],
       [
-        [
-          "JER"
-        ],
-        [
-          null
-        ]
+        "JER",
+        []
       ],
       [
-        [
-          "EGJJ"
-        ],
-        [
-          null
-        ]
+        "EGJJ",
+        []
       ],
       [
-        [
-          "Jersey Airport"
-        ],
+        "Jersey Airport",
         [
           "/wiki/Jersey_Airport"
         ]
@@ -424,43 +260,26 @@
     ],
     [
       [
-        [
-          "Leeds",
-          "Bradford"
-        ],
+        "Leeds / Bradford",
         [
           "/wiki/Leeds",
           "/wiki/Bradford"
         ]
       ],
       [
-        [
-          "United Kingdom England"
-        ],
-        [
-          null
-        ]
+        "United Kingdom England",
+        []
       ],
       [
-        [
-          "LBA"
-        ],
-        [
-          null
-        ]
+        "LBA",
+        []
       ],
       [
-        [
-          "EGNM"
-        ],
-        [
-          null
-        ]
+        "EGNM",
+        []
       ],
       [
-        [
-          "Leeds Bradford International Airport"
-        ],
+        "Leeds Bradford International Airport",
         [
           "/wiki/Leeds_Bradford_International_Airport"
         ]
@@ -468,41 +287,25 @@
     ],
     [
       [
-        [
-          "Manchester"
-        ],
+        "Manchester",
         [
           "/wiki/Manchester"
         ]
       ],
       [
-        [
-          "United Kingdom England"
-        ],
-        [
-          null
-        ]
+        "United Kingdom England",
+        []
       ],
       [
-        [
-          "MAN"
-        ],
-        [
-          null
-        ]
+        "MAN",
+        []
       ],
       [
-        [
-          "EGCC"
-        ],
-        [
-          null
-        ]
+        "EGCC",
+        []
       ],
       [
-        [
-          "Manchester Airport"
-        ],
+        "Manchester Airport",
         [
           "/wiki/Manchester_Airport"
         ]
@@ -510,41 +313,25 @@
     ],
     [
       [
-        [
-          "Newquay"
-        ],
+        "Newquay",
         [
           "/wiki/Newquay"
         ]
       ],
       [
-        [
-          "United Kingdom England"
-        ],
-        [
-          null
-        ]
+        "United Kingdom England",
+        []
       ],
       [
-        [
-          "NQY"
-        ],
-        [
-          null
-        ]
+        "NQY",
+        []
       ],
       [
-        [
-          "EGHQ"
-        ],
-        [
-          null
-        ]
+        "EGHQ",
+        []
       ],
       [
-        [
-          "Newquay Cornwall Airport"
-        ],
+        "Newquay Cornwall Airport",
         [
           "/wiki/Newquay_Cornwall_Airport"
         ]
@@ -552,41 +339,25 @@
     ],
     [
       [
-        [
-          "Norwich"
-        ],
+        "Norwich",
         [
           "/wiki/Norwich"
         ]
       ],
       [
-        [
-          "United Kingdom England"
-        ],
-        [
-          null
-        ]
+        "United Kingdom England",
+        []
       ],
       [
-        [
-          "NWI"
-        ],
-        [
-          null
-        ]
+        "NWI",
+        []
       ],
       [
-        [
-          "EGSH"
-        ],
-        [
-          null
-        ]
+        "EGSH",
+        []
       ],
       [
-        [
-          "Norwich International Airport"
-        ],
+        "Norwich International Airport",
         [
           "/wiki/Norwich_Airport"
         ]
@@ -594,41 +365,25 @@
     ],
     [
       [
-        [
-          "Plymouth"
-        ],
+        "Plymouth",
         [
           "/wiki/Plymouth"
         ]
       ],
       [
-        [
-          "United Kingdom England"
-        ],
-        [
-          null
-        ]
+        "United Kingdom England",
+        []
       ],
       [
-        [
-          "PLH"
-        ],
-        [
-          null
-        ]
+        "PLH",
+        []
       ],
       [
-        [
-          "EGHD"
-        ],
-        [
-          null
-        ]
+        "EGHD",
+        []
       ],
       [
-        [
-          "Plymouth City Airport"
-        ],
+        "Plymouth City Airport",
         [
           "/wiki/Plymouth_City_Airport"
         ]

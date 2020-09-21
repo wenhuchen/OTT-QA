@@ -3,1053 +3,629 @@
   "title": "FIS Alpine World Ski Championships",
   "header": [
     [
-      [
-        "Name"
-      ],
-      [
-        null
-      ]
+      "Name",
+      []
     ],
     [
-      [
-        "Country"
-      ],
-      [
-        null
-      ]
+      "Country",
+      []
     ],
     [
-      [
-        "Total"
-      ],
-      [
-        null
-      ]
+      "Total",
+      []
     ],
     [
-      [
-        "Gold"
-      ],
-      [
-        null
-      ]
+      "Gold",
+      []
     ],
     [
-      [
-        "Silver"
-      ],
-      [
-        null
-      ]
+      "Silver",
+      []
     ],
     [
-      [
-        "Bronze"
-      ],
-      [
-        null
-      ]
+      "Bronze",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Christl Cranz"
-        ],
+        "Christl Cranz",
         [
           "/wiki/Christl_Cranz"
         ]
       ],
       [
-        [
-          "Germany"
-        ],
+        "Germany",
         [
           "/wiki/Germany"
         ]
       ],
       [
-        [
-          "15"
-        ],
-        [
-          null
-        ]
+        "15",
+        []
       ],
       [
-        [
-          "12"
-        ],
-        [
-          null
-        ]
+        "12",
+        []
       ],
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ]
     ],
     [
       [
-        [
-          "Marielle Goitschel"
-        ],
+        "Marielle Goitschel",
         [
           "/wiki/Marielle_Goitschel"
         ]
       ],
       [
-        [
-          "France"
-        ],
+        "France",
         [
           "/wiki/France"
         ]
       ],
       [
-        [
-          "11"
-        ],
-        [
-          null
-        ]
+        "11",
+        []
       ],
       [
-        [
-          "7"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ],
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ]
     ],
     [
       [
-        [
-          "Anja P\u00e4rson"
-        ],
+        "Anja P\u00e4rson",
         [
           "/wiki/Anja_P\u00e4rson"
         ]
       ],
       [
-        [
-          "Sweden"
-        ],
+        "Sweden",
         [
           "/wiki/Sweden"
         ]
       ],
       [
-        [
-          "11"
-        ],
-        [
-          null
-        ]
+        "11",
+        []
       ],
       [
-        [
-          "7"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ]
     ],
     [
       [
-        [
-          "Annemarie Moser-Pr\u00f6ll"
-        ],
+        "Annemarie Moser-Pr\u00f6ll",
         [
           "/wiki/Annemarie_Moser-Pr\u00f6ll"
         ]
       ],
       [
-        [
-          "Austria"
-        ],
+        "Austria",
         [
           "/wiki/Austria"
         ]
       ],
       [
-        [
-          "9"
-        ],
-        [
-          null
-        ]
+        "9",
+        []
       ],
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ]
     ],
     [
       [
-        [
-          "Tina Maze"
-        ],
+        "Tina Maze",
         [
           "/wiki/Tina_Maze"
         ]
       ],
       [
-        [
-          "Slovenia"
-        ],
+        "Slovenia",
         [
           "/wiki/Slovenia"
         ]
       ],
       [
-        [
-          "9"
-        ],
-        [
-          null
-        ]
+        "9",
+        []
       ],
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ]
     ],
     [
       [
-        [
-          "Hanni Wenzel"
-        ],
+        "Hanni Wenzel",
         [
           "/wiki/Hanni_Wenzel"
         ]
       ],
       [
-        [
-          "Liechtenstein"
-        ],
+        "Liechtenstein",
         [
           "/wiki/Liechtenstein"
         ]
       ],
       [
-        [
-          "9"
-        ],
-        [
-          null
-        ]
+        "9",
+        []
       ],
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ]
     ],
     [
       [
-        [
-          "Lindsey Vonn"
-        ],
+        "Lindsey Vonn",
         [
           "/wiki/Lindsey_Vonn"
         ]
       ],
       [
-        [
-          "United States"
-        ],
+        "United States",
         [
           "/wiki/United_States"
         ]
       ],
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ]
     ],
     [
       [
-        [
-          "Lisa Resch"
-        ],
+        "Lisa Resch",
         [
           "/wiki/Lisa_Resch"
         ]
       ],
       [
-        [
-          "Germany"
-        ],
+        "Germany",
         [
           "/wiki/Germany"
         ]
       ],
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ]
     ],
     [
       [
-        [
-          "Erika Hess"
-        ],
+        "Erika Hess",
         [
           "/wiki/Erika_Hess"
         ]
       ],
       [
-        [
-          "Switzerland"
-        ],
+        "Switzerland",
         [
           "/wiki/Switzerland"
         ]
       ],
       [
-        [
-          "7"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ],
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ]
     ],
     [
       [
-        [
-          "Mikaela Shiffrin"
-        ],
+        "Mikaela Shiffrin",
         [
           "/wiki/Mikaela_Shiffrin"
         ]
       ],
       [
-        [
-          "United States"
-        ],
+        "United States",
         [
           "/wiki/United_States"
         ]
       ],
       [
-        [
-          "7"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ],
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ]
     ],
     [
       [
-        [
-          "Renate G\u00f6tschl"
-        ],
+        "Renate G\u00f6tschl",
         [
           "/wiki/Renate_G\u00f6tschl"
         ]
       ],
       [
-        [
-          "Austria"
-        ],
+        "Austria",
         [
           "/wiki/Austria"
         ]
       ],
       [
-        [
-          "7"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ]
     ],
     [
       [
-        [
-          "K\u00e4the Grasegger"
-        ],
+        "K\u00e4the Grasegger",
         [
           "/wiki/K\u00e4the_Grasegger"
         ]
       ],
       [
-        [
-          "Germany"
-        ],
+        "Germany",
         [
           "/wiki/Germany"
         ]
       ],
       [
-        [
-          "7"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ]
     ],
     [
       [
-        [
-          "Pernilla Wiberg"
-        ],
+        "Pernilla Wiberg",
         [
           "/wiki/Pernilla_Wiberg"
         ]
       ],
       [
-        [
-          "Sweden"
-        ],
+        "Sweden",
         [
           "/wiki/Sweden"
         ]
       ],
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ]
     ],
     [
       [
-        [
-          "Inge Wersin-Lantschner"
-        ],
+        "Inge Wersin-Lantschner",
         [
           "/wiki/Inge_Wersin-Lantschner"
         ]
       ],
       [
-        [
-          "Austria"
-        ],
+        "Austria",
         [
           "/wiki/Austria"
         ]
       ],
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ]
     ],
     [
       [
-        [
-          "Vreni Schneider"
-        ],
+        "Vreni Schneider",
         [
           "/wiki/Vreni_Schneider"
         ]
       ],
       [
-        [
-          "Switzerland"
-        ],
+        "Switzerland",
         [
           "/wiki/Switzerland"
         ]
       ],
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ]
     ],
     [
       [
-        [
-          "Annie Famose"
-        ],
+        "Annie Famose",
         [
           "/wiki/Annie_Famose"
         ]
       ],
       [
-        [
-          "France"
-        ],
+        "France",
         [
           "/wiki/France"
         ]
       ],
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ]
     ],
     [
       [
-        [
-          "Nicole Hosp"
-        ],
+        "Nicole Hosp",
         [
           "/wiki/Nicole_Hosp"
         ]
       ],
       [
-        [
-          "Austria"
-        ],
+        "Austria",
         [
           "/wiki/Austria"
         ]
       ],
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ]
     ],
     [
       [
-        [
-          "Janica Kosteli\u0107"
-        ],
+        "Janica Kosteli\u0107",
         [
           "/wiki/Janica_Kosteli\u0107"
         ]
       ],
       [
-        [
-          "Croatia"
-        ],
+        "Croatia",
         [
           "/wiki/Croatia"
         ]
       ],
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ]
     ],
     [
       [
-        [
-          "Trude Jochum-Beiser"
-        ],
+        "Trude Jochum-Beiser",
         [
           "/wiki/Trude_Jochum-Beiser"
         ]
       ],
       [
-        [
-          "Austria"
-        ],
+        "Austria",
         [
           "/wiki/Austria"
         ]
       ],
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ]
     ],
     [
       [
-        [
-          "Anna Fenninger"
-        ],
+        "Anna Fenninger",
         [
           "/wiki/Anna_Veith"
         ]
       ],
       [
-        [
-          "Austria"
-        ],
+        "Austria",
         [
           "/wiki/Austria"
         ]
       ],
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ]
     ]
   ],

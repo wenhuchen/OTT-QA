@@ -3,68 +3,42 @@
   "title": "List of bus routes in London",
   "header": [
     [
-      [
-        "Route"
-      ],
-      [
-        null
-      ]
+      "Route",
+      []
     ],
     [
-      [
-        "Start"
-      ],
-      [
-        null
-      ]
+      "Start",
+      []
     ],
     [
-      [
-        "End"
-      ],
-      [
-        null
-      ]
+      "End",
+      []
     ],
     [
-      [
-        "Operator"
-      ],
-      [
-        null
-      ]
+      "Operator",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "N1"
-        ],
-        [
-          null
-        ]
+        "N1",
+        []
       ],
       [
-        [
-          "Thamesmead"
-        ],
+        "Thamesmead",
         [
           "/wiki/Thamesmead"
         ]
       ],
       [
-        [
-          "Tottenham Court Road station"
-        ],
+        "Tottenham Court Road station",
         [
           "/wiki/Tottenham_Court_Road_station"
         ]
       ],
       [
-        [
-          "London General"
-        ],
+        "London General",
         [
           "/wiki/London_General"
         ]
@@ -72,33 +46,23 @@
     ],
     [
       [
-        [
-          "N2"
-        ],
-        [
-          null
-        ]
+        "N2",
+        []
       ],
       [
-        [
-          "Crystal Palace"
-        ],
+        "Crystal Palace",
         [
           "/wiki/Crystal_Palace,_London"
         ]
       ],
       [
-        [
-          "Marylebone station"
-        ],
+        "Marylebone station",
         [
           "/wiki/Marylebone_station"
         ]
       ],
       [
-        [
-          "Arriva London"
-        ],
+        "Arriva London",
         [
           "/wiki/Arriva_London"
         ]
@@ -106,33 +70,23 @@
     ],
     [
       [
-        [
-          "N3"
-        ],
-        [
-          null
-        ]
+        "N3",
+        []
       ],
       [
-        [
-          "Bromley North"
-        ],
+        "Bromley North",
         [
           "/wiki/Bromley_North"
         ]
       ],
       [
-        [
-          "Oxford Circus"
-        ],
+        "Oxford Circus",
         [
           "/wiki/Oxford_Circus"
         ]
       ],
       [
-        [
-          "Abellio London"
-        ],
+        "Abellio London",
         [
           "/wiki/Abellio_London"
         ]
@@ -140,33 +94,23 @@
     ],
     [
       [
-        [
-          "N5"
-        ],
-        [
-          null
-        ]
+        "N5",
+        []
       ],
       [
-        [
-          "Edgware"
-        ],
+        "Edgware",
         [
           "/wiki/Edgware"
         ]
       ],
       [
-        [
-          "Trafalgar Square"
-        ],
+        "Trafalgar Square",
         [
           "/wiki/Trafalgar_Square"
         ]
       ],
       [
-        [
-          "Metroline"
-        ],
+        "Metroline",
         [
           "/wiki/Metroline"
         ]
@@ -174,33 +118,23 @@
     ],
     [
       [
-        [
-          "N7"
-        ],
-        [
-          null
-        ]
+        "N7",
+        []
       ],
       [
-        [
-          "Northolt"
-        ],
+        "Northolt",
         [
           "/wiki/Northolt"
         ]
       ],
       [
-        [
-          "Oxford Circus"
-        ],
+        "Oxford Circus",
         [
           "/wiki/Oxford_Circus"
         ]
       ],
       [
-        [
-          "Metroline"
-        ],
+        "Metroline",
         [
           "/wiki/Metroline"
         ]
@@ -208,33 +142,23 @@
     ],
     [
       [
-        [
-          "N8"
-        ],
-        [
-          null
-        ]
+        "N8",
+        []
       ],
       [
-        [
-          "Hainault"
-        ],
+        "Hainault",
         [
           "/wiki/Hainault,_London"
         ]
       ],
       [
-        [
-          "Oxford Circus"
-        ],
+        "Oxford Circus",
         [
           "/wiki/Oxford_Circus"
         ]
       ],
       [
-        [
-          "Stagecoach London"
-        ],
+        "Stagecoach London",
         [
           "/wiki/Stagecoach_London"
         ]
@@ -242,33 +166,23 @@
     ],
     [
       [
-        [
-          "N9"
-        ],
-        [
-          null
-        ]
+        "N9",
+        []
       ],
       [
-        [
-          "Heathrow Terminal 5"
-        ],
+        "Heathrow Terminal 5",
         [
           "/wiki/Heathrow_Terminal_5"
         ]
       ],
       [
-        [
-          "Aldwych"
-        ],
+        "Aldwych",
         [
           "/wiki/Aldwych"
         ]
       ],
       [
-        [
-          "London United"
-        ],
+        "London United",
         [
           "/wiki/London_United_Busways"
         ]
@@ -276,33 +190,23 @@
     ],
     [
       [
-        [
-          "N11"
-        ],
-        [
-          null
-        ]
+        "N11",
+        []
       ],
       [
-        [
-          "Ealing Broadway"
-        ],
+        "Ealing Broadway",
         [
           "/wiki/Ealing_Broadway"
         ]
       ],
       [
-        [
-          "Liverpool Street bus station"
-        ],
+        "Liverpool Street bus station",
         [
           "/wiki/Liverpool_Street_bus_station"
         ]
       ],
       [
-        [
-          "London General"
-        ],
+        "London General",
         [
           "/wiki/London_General"
         ]
@@ -310,33 +214,23 @@
     ],
     [
       [
-        [
-          "N15"
-        ],
-        [
-          null
-        ]
+        "N15",
+        []
       ],
       [
-        [
-          "Romford"
-        ],
+        "Romford",
         [
           "/wiki/Romford"
         ]
       ],
       [
-        [
-          "Oxford Circus"
-        ],
+        "Oxford Circus",
         [
           "/wiki/Oxford_Circus"
         ]
       ],
       [
-        [
-          "Blue Triangle"
-        ],
+        "Blue Triangle",
         [
           "/wiki/Blue_Triangle"
         ]
@@ -344,33 +238,23 @@
     ],
     [
       [
-        [
-          "N16"
-        ],
-        [
-          null
-        ]
+        "N16",
+        []
       ],
       [
-        [
-          "Edgware"
-        ],
+        "Edgware",
         [
           "/wiki/Edgware"
         ]
       ],
       [
-        [
-          "Victoria bus station"
-        ],
+        "Victoria bus station",
         [
           "/wiki/Victoria_bus_station"
         ]
       ],
       [
-        [
-          "Metroline"
-        ],
+        "Metroline",
         [
           "/wiki/Metroline"
         ]
@@ -378,33 +262,23 @@
     ],
     [
       [
-        [
-          "N18"
-        ],
-        [
-          null
-        ]
+        "N18",
+        []
       ],
       [
-        [
-          "Harrow Weald"
-        ],
+        "Harrow Weald",
         [
           "/wiki/Harrow_Weald"
         ]
       ],
       [
-        [
-          "Trafalgar Square"
-        ],
+        "Trafalgar Square",
         [
           "/wiki/Trafalgar_Square"
         ]
       ],
       [
-        [
-          "London United"
-        ],
+        "London United",
         [
           "/wiki/London_United_Busways"
         ]
@@ -412,33 +286,23 @@
     ],
     [
       [
-        [
-          "N19"
-        ],
-        [
-          null
-        ]
+        "N19",
+        []
       ],
       [
-        [
-          "Clapham Junction"
-        ],
+        "Clapham Junction",
         [
           "/wiki/Clapham_Junction"
         ]
       ],
       [
-        [
-          "Finsbury Park bus station"
-        ],
+        "Finsbury Park bus station",
         [
           "/wiki/Finsbury_Park_bus_station"
         ]
       ],
       [
-        [
-          "Arriva London"
-        ],
+        "Arriva London",
         [
           "/wiki/Arriva_London"
         ]
@@ -446,33 +310,23 @@
     ],
     [
       [
-        [
-          "N20"
-        ],
-        [
-          null
-        ]
+        "N20",
+        []
       ],
       [
-        [
-          "Barnet"
-        ],
+        "Barnet",
         [
           "/wiki/Chipping_Barnet"
         ]
       ],
       [
-        [
-          "Trafalgar Square"
-        ],
+        "Trafalgar Square",
         [
           "/wiki/Trafalgar_Square"
         ]
       ],
       [
-        [
-          "Metroline"
-        ],
+        "Metroline",
         [
           "/wiki/Metroline"
         ]
@@ -480,33 +334,23 @@
     ],
     [
       [
-        [
-          "N21"
-        ],
-        [
-          null
-        ]
+        "N21",
+        []
       ],
       [
-        [
-          "Bexleyheath"
-        ],
+        "Bexleyheath",
         [
           "/wiki/Bexleyheath"
         ]
       ],
       [
-        [
-          "Trafalgar Square"
-        ],
+        "Trafalgar Square",
         [
           "/wiki/Trafalgar_Square"
         ]
       ],
       [
-        [
-          "London Central"
-        ],
+        "London Central",
         [
           "/wiki/London_Central"
         ]
@@ -514,33 +358,23 @@
     ],
     [
       [
-        [
-          "N22"
-        ],
-        [
-          null
-        ]
+        "N22",
+        []
       ],
       [
-        [
-          "Fulwell"
-        ],
+        "Fulwell",
         [
           "/wiki/Fulwell,_London"
         ]
       ],
       [
-        [
-          "Oxford Circus"
-        ],
+        "Oxford Circus",
         [
           "/wiki/Oxford_Circus"
         ]
       ],
       [
-        [
-          "London General"
-        ],
+        "London General",
         [
           "/wiki/London_General"
         ]
@@ -548,33 +382,23 @@
     ],
     [
       [
-        [
-          "N25"
-        ],
-        [
-          null
-        ]
+        "N25",
+        []
       ],
       [
-        [
-          "Ilford"
-        ],
+        "Ilford",
         [
           "/wiki/Ilford"
         ]
       ],
       [
-        [
-          "Oxford Circus"
-        ],
+        "Oxford Circus",
         [
           "/wiki/Oxford_Circus"
         ]
       ],
       [
-        [
-          "Tower Transit"
-        ],
+        "Tower Transit",
         [
           "/wiki/Tower_Transit"
         ]
@@ -582,33 +406,23 @@
     ],
     [
       [
-        [
-          "N26"
-        ],
-        [
-          null
-        ]
+        "N26",
+        []
       ],
       [
-        [
-          "Chingford"
-        ],
+        "Chingford",
         [
           "/wiki/Chingford"
         ]
       ],
       [
-        [
-          "Trafalgar Square"
-        ],
+        "Trafalgar Square",
         [
           "/wiki/Trafalgar_Square"
         ]
       ],
       [
-        [
-          "HCT Group"
-        ],
+        "HCT Group",
         [
           "/wiki/HCT_Group"
         ]
@@ -616,33 +430,23 @@
     ],
     [
       [
-        [
-          "N27"
-        ],
-        [
-          null
-        ]
+        "N27",
+        []
       ],
       [
-        [
-          "Hammersmith"
-        ],
+        "Hammersmith",
         [
           "/wiki/Hammersmith"
         ]
       ],
       [
-        [
-          "Chalk Farm"
-        ],
+        "Chalk Farm",
         [
           "/wiki/Chalk_Farm"
         ]
       ],
       [
-        [
-          "Abellio London"
-        ],
+        "Abellio London",
         [
           "/wiki/Abellio_London"
         ]
@@ -650,33 +454,23 @@
     ],
     [
       [
-        [
-          "N28"
-        ],
-        [
-          null
-        ]
+        "N28",
+        []
       ],
       [
-        [
-          "Camden Town"
-        ],
+        "Camden Town",
         [
           "/wiki/Camden_Town"
         ]
       ],
       [
-        [
-          "Wandsworth"
-        ],
+        "Wandsworth",
         [
           "/wiki/Wandsworth"
         ]
       ],
       [
-        [
-          "Tower Transit"
-        ],
+        "Tower Transit",
         [
           "/wiki/Tower_Transit"
         ]
@@ -684,33 +478,23 @@
     ],
     [
       [
-        [
-          "N29"
-        ],
-        [
-          null
-        ]
+        "N29",
+        []
       ],
       [
-        [
-          "Enfield Town"
-        ],
+        "Enfield Town",
         [
           "/wiki/Enfield_Town"
         ]
       ],
       [
-        [
-          "Trafalgar Square"
-        ],
+        "Trafalgar Square",
         [
           "/wiki/Trafalgar_Square"
         ]
       ],
       [
-        [
-          "Arriva London"
-        ],
+        "Arriva London",
         [
           "/wiki/Arriva_London"
         ]

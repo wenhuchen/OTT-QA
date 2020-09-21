@@ -3,717 +3,457 @@
   "title": "CROBEX",
   "header": [
     [
-      [
-        "Company"
-      ],
-      [
-        null
-      ]
+      "Company",
+      []
     ],
     [
-      [
-        "Headquarters"
-      ],
-      [
-        null
-      ]
+      "Headquarters",
+      []
     ],
     [
-      [
-        "ICB"
-      ],
+      "ICB Sector",
       [
         "/wiki/Industry_Classification_Benchmark"
       ]
     ],
     [
-      [
-        "Ticker"
-      ],
-      [
-        null
-      ]
+      "Ticker",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "AD Plastik"
-        ],
-        [
-          null
-        ]
+        "AD Plastik",
+        []
       ],
       [
-        [
-          "Solin"
-        ],
+        "Solin",
         [
           "/wiki/Solin"
         ]
       ],
       [
-        [
-          "Chemicals"
-        ],
-        [
-          null
-        ]
+        "Chemicals",
+        []
       ],
       [
-        [
-          "ADPL"
-        ],
-        [
-          null
-        ]
+        "ADPL",
+        []
       ]
     ],
     [
       [
-        [
-          "Adris Group"
-        ],
+        "Adris Group",
         [
           "/wiki/Adris_grupa"
         ]
       ],
       [
-        [
-          "Rovinj"
-        ],
+        "Rovinj",
         [
           "/wiki/Rovinj"
         ]
       ],
       [
-        [
-          "Tobacco"
-        ],
-        [
-          null
-        ]
+        "Tobacco",
+        []
       ],
       [
-        [
-          "ADRS"
-        ],
-        [
-          null
-        ]
+        "ADRS",
+        []
       ]
     ],
     [
       [
-        [
-          "Atlantic Group"
-        ],
+        "Atlantic Group",
         [
           "/wiki/Atlantic_grupa"
         ]
       ],
       [
-        [
-          "Zagreb"
-        ],
+        "Zagreb",
         [
           "/wiki/Zagreb"
         ]
       ],
       [
-        [
-          "Conglomerate"
-        ],
-        [
-          null
-        ]
+        "Conglomerate",
+        []
       ],
       [
-        [
-          "ATGR"
-        ],
-        [
-          null
-        ]
+        "ATGR",
+        []
       ]
     ],
     [
       [
-        [
-          "Atlantska plovidba"
-        ],
+        "Atlantska plovidba",
         [
           "/wiki/Atlantska_plovidba"
         ]
       ],
       [
-        [
-          "Dubrovnik"
-        ],
+        "Dubrovnik",
         [
           "/wiki/Dubrovnik"
         ]
       ],
       [
-        [
-          "Marine transportation"
-        ],
-        [
-          null
-        ]
+        "Marine transportation",
+        []
       ],
       [
-        [
-          "ATPL"
-        ],
-        [
-          null
-        ]
+        "ATPL",
+        []
       ]
     ],
     [
       [
-        [
-          "Belje"
-        ],
-        [
-          null
-        ]
+        "Belje",
+        []
       ],
       [
-        [
-          "Darda"
-        ],
+        "Darda",
         [
           "/wiki/Darda,_Croatia"
         ]
       ],
       [
-        [
-          "Food products"
-        ],
-        [
-          null
-        ]
+        "Food products",
+        []
       ],
       [
-        [
-          "BLJE"
-        ],
-        [
-          null
-        ]
+        "BLJE",
+        []
       ]
     ],
     [
       [
-        [
-          "\u0110uro \u0110akovi\u0107 Holding"
-        ],
+        "\u0110uro \u0110akovi\u0107 Holding",
         [
           "/wiki/\u0110uro_\u0110akovi\u0107_(factory)"
         ]
       ],
       [
-        [
-          "Slavonski Brod"
-        ],
+        "Slavonski Brod",
         [
           "/wiki/Slavonski_Brod"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "DDJH"
-        ],
-        [
-          null
-        ]
+        "DDJH",
+        []
       ]
     ],
     [
       [
-        [
-          "Dalekovod"
-        ],
+        "Dalekovod",
         [
           "/wiki/Dalekovod"
         ]
       ],
       [
-        [
-          "Zagreb"
-        ],
+        "Zagreb",
         [
           "/wiki/Zagreb"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "DLKV"
-        ],
-        [
-          null
-        ]
+        "DLKV",
+        []
       ]
     ],
     [
       [
-        [
-          "Ericsson Nikola Tesla"
-        ],
+        "Ericsson Nikola Tesla",
         [
           "/wiki/Ericsson_Nikola_Tesla"
         ]
       ],
       [
-        [
-          "Zagreb"
-        ],
+        "Zagreb",
         [
           "/wiki/Zagreb"
         ]
       ],
       [
-        [
-          "Telecommunications equipment"
-        ],
-        [
-          null
-        ]
+        "Telecommunications equipment",
+        []
       ],
       [
-        [
-          "ERNT"
-        ],
-        [
-          null
-        ]
+        "ERNT",
+        []
       ]
     ],
     [
       [
-        [
-          "HT"
-        ],
+        "HT",
         [
           "/wiki/T-Hrvatski_Telekom"
         ]
       ],
       [
-        [
-          "Zagreb"
-        ],
+        "Zagreb",
         [
           "/wiki/Zagreb"
         ]
       ],
       [
-        [
-          "Telecommunications"
-        ],
-        [
-          null
-        ]
+        "Telecommunications",
+        []
       ],
       [
-        [
-          "HT"
-        ],
-        [
-          null
-        ]
+        "HT",
+        []
       ]
     ],
     [
       [
-        [
-          "INA"
-        ],
+        "INA",
         [
           "/wiki/INA_(company)"
         ]
       ],
       [
-        [
-          "Zagreb"
-        ],
+        "Zagreb",
         [
           "/wiki/Zagreb"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "INA"
-        ],
-        [
-          null
-        ]
+        "INA",
+        []
       ]
     ],
     [
       [
-        [
-          "INGRA"
-        ],
+        "INGRA",
         [
           "/wiki/INGRA_(construction_company)"
         ]
       ],
       [
-        [
-          "Zagreb"
-        ],
+        "Zagreb",
         [
           "/wiki/Zagreb"
         ]
       ],
       [
-        [
-          "Heavy construction"
-        ],
-        [
-          null
-        ]
+        "Heavy construction",
+        []
       ],
       [
-        [
-          "INGR"
-        ],
-        [
-          null
-        ]
+        "INGR",
+        []
       ]
     ],
     [
       [
-        [
-          "Kon\u010dar"
-        ],
+        "Kon\u010dar",
         [
           "/wiki/KON\u010cAR_Group"
         ]
       ],
       [
-        [
-          "Zagreb"
-        ],
+        "Zagreb",
         [
           "/wiki/Zagreb"
         ]
       ],
       [
-        [
-          "Industrial machinery"
-        ],
-        [
-          null
-        ]
+        "Industrial machinery",
+        []
       ],
       [
-        [
-          "KOEI"
-        ],
-        [
-          null
-        ]
+        "KOEI",
+        []
       ]
     ],
     [
       [
-        [
-          "Valamar Adria Holding"
-        ],
-        [
-          null
-        ]
+        "Valamar Adria Holding",
+        []
       ],
       [
-        [
-          "Zagreb"
-        ],
+        "Zagreb",
         [
           "/wiki/Zagreb"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "KORF"
-        ],
-        [
-          null
-        ]
+        "KORF",
+        []
       ]
     ],
     [
       [
-        [
-          "Kra\u0161"
-        ],
+        "Kra\u0161",
         [
           "/wiki/Kra\u0161"
         ]
       ],
       [
-        [
-          "Zagreb"
-        ],
+        "Zagreb",
         [
           "/wiki/Zagreb"
         ]
       ],
       [
-        [
-          "Food products"
-        ],
-        [
-          null
-        ]
+        "Food products",
+        []
       ],
       [
-        [
-          "KRAS"
-        ],
-        [
-          null
-        ]
+        "KRAS",
+        []
       ]
     ],
     [
       [
-        [
-          "Ledo"
-        ],
+        "Ledo",
         [
           "/wiki/Ledo_(company)"
         ]
       ],
       [
-        [
-          "Zagreb"
-        ],
+        "Zagreb",
         [
           "/wiki/Zagreb"
         ]
       ],
       [
-        [
-          "Food products"
-        ],
-        [
-          null
-        ]
+        "Food products",
+        []
       ],
       [
-        [
-          "LEDO"
-        ],
-        [
-          null
-        ]
+        "LEDO",
+        []
       ]
     ],
     [
       [
-        [
-          "Luka Rijeka"
-        ],
+        "Luka Rijeka",
         [
           "/wiki/Luka_Rijeka"
         ]
       ],
       [
-        [
-          "Rijeka"
-        ],
+        "Rijeka",
         [
           "/wiki/Rijeka"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "LKRI"
-        ],
-        [
-          null
-        ]
+        "LKRI",
+        []
       ]
     ],
     [
       [
-        [
-          "Podravka"
-        ],
+        "Podravka",
         [
           "/wiki/Podravka"
         ]
       ],
       [
-        [
-          "Koprivnica"
-        ],
+        "Koprivnica",
         [
           "/wiki/Koprivnica"
         ]
       ],
       [
-        [
-          "Food products"
-        ],
-        [
-          null
-        ]
+        "Food products",
+        []
       ],
       [
-        [
-          "PODR"
-        ],
-        [
-          null
-        ]
+        "PODR",
+        []
       ]
     ],
     [
       [
-        [
-          "Petrokemija"
-        ],
+        "Petrokemija",
         [
           "/wiki/Petrokemija"
         ]
       ],
       [
-        [
-          "Kutina"
-        ],
+        "Kutina",
         [
           "/wiki/Kutina"
         ]
       ],
       [
-        [
-          "Specialty chemicals"
-        ],
-        [
-          null
-        ]
+        "Specialty chemicals",
+        []
       ],
       [
-        [
-          "PTKM"
-        ],
-        [
-          null
-        ]
+        "PTKM",
+        []
       ]
     ],
     [
       [
-        [
-          "Tehnika"
-        ],
+        "Tehnika",
         [
           "/wiki/Tehnika"
         ]
       ],
       [
-        [
-          "Zagreb"
-        ],
+        "Zagreb",
         [
           "/wiki/Zagreb"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "THNK"
-        ],
-        [
-          null
-        ]
+        "THNK",
+        []
       ]
     ],
     [
       [
-        [
-          "Uljanik plovidba"
-        ],
+        "Uljanik plovidba",
         [
           "/wiki/Uljanik_plovidba"
         ]
       ],
       [
-        [
-          "Pula"
-        ],
+        "Pula",
         [
           "/wiki/Pula"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "ULPL"
-        ],
-        [
-          null
-        ]
+        "ULPL",
+        []
       ]
     ]
   ],

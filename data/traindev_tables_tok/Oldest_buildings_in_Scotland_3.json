@@ -3,101 +3,60 @@
   "title": "List of oldest buildings in Scotland",
   "header": [
     [
-      [
-        "Building"
-      ],
-      [
-        null
-      ]
+      "Building",
+      []
     ],
     [
-      [
-        "Location"
-      ],
-      [
-        null
-      ]
+      "Location",
+      []
     ],
     [
-      [
-        "Council area"
-      ],
-      [
-        null
-      ]
+      "Council area",
+      []
     ],
     [
-      [
-        "First built"
-      ],
-      [
-        null
-      ]
+      "First built",
+      []
     ],
     [
-      [
-        "Use"
-      ],
-      [
-        null
-      ]
+      "Use",
+      []
     ],
     [
-      [
-        "Notes"
-      ],
-      [
-        null
-      ]
+      "Notes",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "St Rule 's Tower"
-        ],
+        "St Rule 's Tower",
         [
           "/wiki/St_Andrews_Cathedral"
         ]
       ],
       [
-        [
-          "St Andrews"
-        ],
+        "St Andrews",
         [
           "/wiki/St_Andrews"
         ]
       ],
       [
-        [
-          "Fife"
-        ],
+        "Fife",
         [
           "/wiki/Fife"
         ]
       ],
       [
-        [
-          "1123"
-        ],
-        [
-          null
-        ]
+        "1123",
+        []
       ],
       [
-        [
-          "Priory"
-        ],
-        [
-          null
-        ]
+        "Priory",
+        []
       ],
       [
-        [
-          "Culdees",
-          "Augustinian"
-        ],
+        "Constructed by the Culdees prior to the granting of the church to the Augustinian order",
         [
           "/wiki/Culdees",
           "/wiki/Augustinians"
@@ -106,99 +65,65 @@
     ],
     [
       [
-        [
-          "Inchcolm Abbey"
-        ],
+        "Inchcolm Abbey",
         [
           "/wiki/Inchcolm_Abbey"
         ]
       ],
       [
-        [
-          "Inchcolm"
-        ],
+        "Inchcolm",
         [
           "/wiki/Inchcolm"
         ]
       ],
       [
-        [
-          "Fife"
-        ],
+        "Fife",
         [
           "/wiki/Fife"
         ]
       ],
       [
-        [
-          "Founded 1123"
-        ],
-        [
-          null
-        ]
+        "Founded 1123",
+        []
       ],
       [
-        [
-          "Abbey"
-        ],
-        [
-          null
-        ]
+        "Abbey",
+        []
       ],
       [
-        [
-          "The substantial ruins date from the 12th century onwards"
-        ],
-        [
-          null
-        ]
+        "The substantial ruins date from the 12th century onwards",
+        []
       ]
     ],
     [
       [
-        [
-          "Holyrood Abbey"
-        ],
+        "Holyrood Abbey",
         [
           "/wiki/Holyrood_Abbey"
         ]
       ],
       [
-        [
-          "Holyrood Palace"
-        ],
+        "Holyrood Palace",
         [
           "/wiki/Holyrood_Palace"
         ]
       ],
       [
-        [
-          "Edinburgh"
-        ],
+        "Edinburgh",
         [
           "/wiki/Edinburgh"
         ]
       ],
       [
-        [
-          "c. 1130"
-        ],
-        [
-          null
-        ]
+        "c. 1130",
+        []
       ],
       [
-        [
-          "Abbey"
-        ],
-        [
-          null
-        ]
+        "Abbey",
+        []
       ],
       [
-        [
-          "David I"
-        ],
+        "Founded in 1128 by David I but all that remains above ground of the original structure is the ruined nave . The rest of the building was replaced by the mid 13th century",
         [
           "/wiki/David_I_of_Scotland"
         ]
@@ -206,300 +131,191 @@
     ],
     [
       [
-        [
-          "St Margaret 's Chapel"
-        ],
+        "St Margaret 's Chapel",
         [
           "/wiki/St_Margaret's_Chapel"
         ]
       ],
       [
-        [
-          "Edinburgh Castle"
-        ],
+        "Edinburgh Castle",
         [
           "/wiki/Edinburgh_Castle"
         ]
       ],
       [
-        [
-          "Edinburgh"
-        ],
+        "Edinburgh",
         [
           "/wiki/Edinburgh"
         ]
       ],
       [
-        [
-          "1130"
-        ],
-        [
-          null
-        ]
+        "1130",
+        []
       ],
       [
-        [
-          "Chapel"
-        ],
-        [
-          null
-        ]
+        "Chapel",
+        []
       ],
       [
-        [
-          "The oldest building in Edinburgh"
-        ],
-        [
-          null
-        ]
+        "The oldest building in Edinburgh",
+        []
       ]
     ],
     [
       [
-        [
-          "Cubbie Roo 's Castle"
-        ],
-        [
-          null
-        ]
+        "Cubbie Roo 's Castle",
+        []
       ],
       [
-        [
-          "Wyre"
-        ],
+        "Wyre",
         [
           "/wiki/Wyre,_Orkney"
         ]
       ],
       [
-        [
-          "Orkney"
-        ],
+        "Orkney",
         [
           "/wiki/Orkney"
         ]
       ],
       [
-        [
-          "c. 1145"
-        ],
-        [
-          null
-        ]
+        "c. 1145",
+        []
       ],
       [
-        [
-          "Castle"
-        ],
-        [
-          null
-        ]
+        "Castle",
+        []
       ],
       [
-        [
-          "The ruins include a small square keep still extant to 2.4 metres ( 8 ft ) in height"
-        ],
-        [
-          null
-        ]
+        "The ruins include a small square keep still extant to 2.4 metres ( 8 ft ) in height",
+        []
       ]
     ],
     [
       [
-        [
-          "Castle Sween"
-        ],
+        "Castle Sween",
         [
           "/wiki/Castle_Sween"
         ]
       ],
       [
-        [
-          "Knapdale"
-        ],
+        "Knapdale",
         [
           "/wiki/Knapdale"
         ]
       ],
       [
-        [
-          "Argyll and Bute"
-        ],
+        "Argyll and Bute",
         [
           "/wiki/Argyll_and_Bute"
         ]
       ],
       [
-        [
-          "c. 1150"
-        ],
-        [
-          null
-        ]
+        "c. 1150",
+        []
       ],
       [
-        [
-          "Castle"
-        ],
-        [
-          null
-        ]
+        "Castle",
+        []
       ],
       [
-        [
-          "The main structure is a mid-12th-century quadrangle with later towers"
-        ],
-        [
-          null
-        ]
+        "The main structure is a mid-12th-century quadrangle with later towers",
+        []
       ]
     ],
     [
       [
-        [
-          "St Serf 's Inch Priory"
-        ],
+        "St Serf 's Inch Priory",
         [
           "/wiki/St_Serf's_Inch_Priory"
         ]
       ],
       [
-        [
-          "St Serf 's Inch"
-        ],
+        "St Serf 's Inch",
         [
           "/wiki/St_Serf's_Inch"
         ]
       ],
       [
-        [
-          "Perth and Kinross"
-        ],
+        "Perth and Kinross",
         [
           "/wiki/Perth_and_Kinross"
         ]
       ],
       [
-        [
-          "Post 1150"
-        ],
-        [
-          null
-        ]
+        "Post 1150",
+        []
       ],
       [
-        [
-          "Priory"
-        ],
-        [
-          null
-        ]
+        "Priory",
+        []
       ],
       [
-        [
-          "The remaining oblong structure dates from 12th century"
-        ],
-        [
-          null
-        ]
+        "The remaining oblong structure dates from 12th century",
+        []
       ]
     ],
     [
       [
-        [
-          "Jedburgh Abbey"
-        ],
+        "Jedburgh Abbey",
         [
           "/wiki/Jedburgh_Abbey"
         ]
       ],
       [
-        [
-          "Jedburgh"
-        ],
+        "Jedburgh",
         [
           "/wiki/Jedburgh"
         ]
       ],
       [
-        [
-          "Scottish Borders"
-        ],
+        "Scottish Borders",
         [
           "/wiki/Scottish_Borders"
         ]
       ],
       [
-        [
-          "Post 1150"
-        ],
-        [
-          null
-        ]
+        "Post 1150",
+        []
       ],
       [
-        [
-          "Abbey"
-        ],
-        [
-          null
-        ]
+        "Abbey",
+        []
       ],
       [
-        [
-          "The choir dates to the second quarter of the 12th century and the church was complete by the middle of the 13th century"
-        ],
-        [
-          null
-        ]
+        "The choir dates to the second quarter of the 12th century and the church was complete by the middle of the 13th century",
+        []
       ]
     ],
     [
       [
-        [
-          "St. Magnus Cathedral"
-        ],
+        "St. Magnus Cathedral",
         [
           "/wiki/St._Magnus_Cathedral"
         ]
       ],
       [
-        [
-          "Kirkwall"
-        ],
+        "Kirkwall",
         [
           "/wiki/Kirkwall"
         ]
       ],
       [
-        [
-          "Orkney"
-        ],
+        "Orkney",
         [
           "/wiki/Orkney"
         ]
       ],
       [
-        [
-          "Commenced 1167"
-        ],
-        [
-          null
-        ]
+        "Commenced 1167",
+        []
       ],
       [
-        [
-          "Cathedral"
-        ],
-        [
-          null
-        ]
+        "Cathedral",
+        []
       ],
       [
-        [
-          "Magnus Erlendsson , Earl of Orkney",
-          "R\u00f6gnvald Kali"
-        ],
+        "The building was raised in honour of Magnus Erlendsson , Earl of Orkney by Earl R\u00f6gnvald Kali",
         [
           "/wiki/Magnus_Erlendsson,_Earl_of_Orkney",
           "/wiki/R\u00f6gnvald_Kali_Kolsson"
@@ -508,51 +324,33 @@
     ],
     [
       [
-        [
-          "Bishop 's Palace , Kirkwall"
-        ],
+        "Bishop 's Palace , Kirkwall",
         [
           "/wiki/Bishop's_Palace,_Kirkwall"
         ]
       ],
       [
-        [
-          "Kirkwall"
-        ],
+        "Kirkwall",
         [
           "/wiki/Kirkwall"
         ]
       ],
       [
-        [
-          "Orkney"
-        ],
+        "Orkney",
         [
           "/wiki/Orkney"
         ]
       ],
       [
-        [
-          "c. 1167"
-        ],
-        [
-          null
-        ]
+        "c. 1167",
+        []
       ],
       [
-        [
-          "Residence"
-        ],
-        [
-          null
-        ]
+        "Residence",
+        []
       ],
       [
-        [
-          "William the Old",
-          "Bishop of Orkney",
-          "Haakon IV of Norway"
-        ],
+        "Built for William the Old , Bishop of Orkney , Haakon IV of Norway died here in 1263",
         [
           "/wiki/William_the_Old",
           "/wiki/Bishop_of_Orkney",
@@ -562,199 +360,127 @@
     ],
     [
       [
-        [
-          "Kilwinning Abbey"
-        ],
+        "Kilwinning Abbey",
         [
           "/wiki/Kilwinning_Abbey"
         ]
       ],
       [
-        [
-          "Kilwinning"
-        ],
+        "Kilwinning",
         [
           "/wiki/Kilwinning"
         ]
       ],
       [
-        [
-          "North Ayrshire"
-        ],
+        "North Ayrshire",
         [
           "/wiki/North_Ayrshire"
         ]
       ],
       [
-        [
-          "1190"
-        ],
-        [
-          null
-        ]
+        "1190",
+        []
       ],
       [
-        [
-          "Abbey"
-        ],
-        [
-          null
-        ]
+        "Abbey",
+        []
       ],
       [
-        [
-          "An arch has a Norman style capital bearing two carved figures"
-        ],
-        [
-          null
-        ]
+        "An arch has a Norman style capital bearing two carved figures",
+        []
       ]
     ],
     [
       [
-        [
-          "St Magnus 's Church"
-        ],
-        [
-          null
-        ]
+        "St Magnus 's Church",
+        []
       ],
       [
-        [
-          "Egilsay"
-        ],
+        "Egilsay",
         [
           "/wiki/Egilsay"
         ]
       ],
       [
-        [
-          "Orkney"
-        ],
+        "Orkney",
         [
           "/wiki/Orkney"
         ]
       ],
       [
-        [
-          "Late 12th century"
-        ],
-        [
-          null
-        ]
+        "Late 12th century",
+        []
       ],
       [
-        [
-          "Church"
-        ],
-        [
-          null
-        ]
+        "Church",
+        []
       ],
       [
-        [
-          "A church existed here in 1116 , but the current building , with its distinctive round tower , may date from later that century"
-        ],
-        [
-          null
-        ]
+        "A church existed here in 1116 , but the current building , with its distinctive round tower , may date from later that century",
+        []
       ]
     ],
     [
       [
-        [
-          "Kildalton Chapel"
-        ],
+        "Kildalton Chapel",
         [
           "/wiki/Kildalton_Cross"
         ]
       ],
       [
-        [
-          "Islay"
-        ],
+        "Islay",
         [
           "/wiki/Islay"
         ]
       ],
       [
-        [
-          "Argyll and Bute"
-        ],
+        "Argyll and Bute",
         [
           "/wiki/Argyll_and_Bute"
         ]
       ],
       [
-        [
-          "Late 12th century"
-        ],
-        [
-          null
-        ]
+        "Late 12th century",
+        []
       ],
       [
-        [
-          "Church"
-        ],
-        [
-          null
-        ]
+        "Church",
+        []
       ],
       [
-        [
-          "The churchyard has a collection of grave slabs and contains the 8th-century Kildalton Cross"
-        ],
-        [
-          null
-        ]
+        "The churchyard has a collection of grave slabs and contains the 8th-century Kildalton Cross",
+        []
       ]
     ],
     [
       [
-        [
-          "St Blane 's Church , Kingarth"
-        ],
+        "St Blane 's Church , Kingarth",
         [
           "/wiki/St_Blane's_Church,_Kingarth"
         ]
       ],
       [
-        [
-          "Kingarth"
-        ],
+        "Kingarth",
         [
           "/wiki/Kingarth"
         ]
       ],
       [
-        [
-          "Argyll and Bute"
-        ],
+        "Argyll and Bute",
         [
           "/wiki/Argyll_and_Bute"
         ]
       ],
       [
-        [
-          "12th century"
-        ],
-        [
-          null
-        ]
+        "12th century",
+        []
       ],
       [
-        [
-          "Church"
-        ],
-        [
-          null
-        ]
+        "Church",
+        []
       ],
       [
-        [
-          "Romanesque"
-        ],
+        "A 12th-century Romanesque building consisting of a nave and chancel , the enclosing wall and parts of the church may be pre-Norse",
         [
           "/wiki/Romanesque_architecture"
         ]

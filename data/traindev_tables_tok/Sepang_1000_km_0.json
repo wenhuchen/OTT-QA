@@ -3,443 +3,262 @@
   "title": "Sepang 1000 km",
   "header": [
     [
-      [
-        "Year"
-      ],
-      [
-        null
-      ]
+      "Year",
+      []
     ],
     [
-      [
-        "Team"
-      ],
-      [
-        null
-      ]
+      "Team",
+      []
     ],
     [
-      [
-        "Drivers"
-      ],
-      [
-        null
-      ]
+      "Drivers",
+      []
     ],
     [
-      [
-        "Car"
-      ],
-      [
-        null
-      ]
+      "Car",
+      []
     ],
     [
-      [
-        "Laps"
-      ],
-      [
-        null
-      ]
+      "Laps",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "2009"
-        ],
-        [
-          null
-        ]
+        "2009",
+        []
       ],
       [
-        [
-          "Type R Racing Team"
-        ],
-        [
-          null
-        ]
+        "Type R Racing Team",
+        []
       ],
       [
-        [
-          "KK Soh",
-          "YC Wong",
-          "KK Tek"
-        ],
-        [
-          null,
-          null,
-          null
-        ]
+        "KK Soh YC Wong KK Tek",
+        []
       ],
       [
-        [
-          "Honda Integra"
-        ],
+        "Honda Integra",
         [
           "/wiki/Honda_Integra"
         ]
       ],
       [
-        [
-          "182"
-        ],
-        [
-          null
-        ]
+        "182",
+        []
       ]
     ],
     [
       [
+        "2010",
+        []
+      ],
+      [
+        "Ultra Racing-Kegani",
+        []
+      ],
+      [
+        "Kenny Lee Chris O'Shannessy Tung Wei Hsiao",
         [
-          "2010"
-        ],
-        [
-          null
+          "/wiki/Kenny_Lee"
         ]
       ],
       [
-        [
-          "Ultra Racing-Kegani"
-        ],
-        [
-          null
-        ]
-      ],
-      [
-        [
-          "Kenny Lee",
-          "Chris O'Shannessy",
-          "Tung Wei Hsiao"
-        ],
-        [
-          "/wiki/Kenny_Lee",
-          null,
-          null
-        ]
-      ],
-      [
-        [
-          "Toyota Levin"
-        ],
+        "Toyota Levin",
         [
           "/wiki/Toyota_Levin"
         ]
       ],
       [
-        [
-          "181"
-        ],
-        [
-          null
-        ]
+        "181",
+        []
       ]
     ],
     [
       [
-        [
-          "2011"
-        ],
-        [
-          null
-        ]
+        "2011",
+        []
       ],
       [
-        [
-          "Type R Racing Team"
-        ],
-        [
-          null
-        ]
+        "Type R Racing Team",
+        []
       ],
       [
-        [
-          "WS Lai",
-          "KK Soh",
-          "YC Wong"
-        ],
-        [
-          null,
-          null,
-          null
-        ]
+        "WS Lai KK Soh YC Wong",
+        []
       ],
       [
-        [
-          "Toyota Altis"
-        ],
+        "Toyota Altis",
         [
           "/wiki/Toyota_Altis"
         ]
       ],
       [
-        [
-          "181"
-        ],
-        [
-          null
-        ]
+        "181",
+        []
       ]
     ],
     [
       [
-        [
-          "2012"
-        ],
-        [
-          null
-        ]
+        "2012",
+        []
       ],
       [
-        [
-          "Proton R3"
-        ],
+        "Proton R3",
         [
           "/wiki/Proton_Motorsports"
         ]
       ],
       [
-        [
-          "Syafiq Ali",
-          "Morio Nitta"
-        ],
-        [
-          null,
-          null
-        ]
+        "Syafiq Ali Morio Nitta",
+        []
       ],
       [
-        [
-          "Proton Satria Neo"
-        ],
+        "Proton Satria Neo",
         [
           "/wiki/Proton_Satria_Neo"
         ]
       ],
       [
-        [
-          "181"
-        ],
-        [
-          null
-        ]
+        "181",
+        []
       ]
     ],
     [
       [
-        [
-          "2013"
-        ],
-        [
-          null
-        ]
+        "2013",
+        []
       ],
       [
-        [
-          "Honda Malaysia Racing Team"
-        ],
+        "Honda Malaysia Racing Team",
         [
           "/wiki/Honda_Malaysia_Racing_Team"
         ]
       ],
       [
-        [
-          "Aaron Lim",
-          "Eddie Liew"
-        ],
-        [
-          "/wiki/Aaron_Lim",
-          null
-        ]
-      ],
-      [
-        [
-          "Honda Jazz"
-        ],
-        [
-          "/wiki/Honda_Jazz"
-        ]
-      ],
-      [
-        [
-          "181"
-        ],
-        [
-          null
-        ]
-      ]
-    ],
-    [
-      [
-        [
-          "2014"
-        ],
-        [
-          null
-        ]
-      ],
-      [
-        [
-          "Proton R3"
-        ],
-        [
-          "/wiki/Proton_Motorsports"
-        ]
-      ],
-      [
-        [
-          "Tengku Djan Ley",
-          "Syafiq Ali"
-        ],
-        [
-          "/wiki/Tengku_Djan_Ley",
-          null
-        ]
-      ],
-      [
-        [
-          "Proton Prev\u00e9"
-        ],
-        [
-          "/wiki/Proton_Prev\u00e9"
-        ]
-      ],
-      [
-        [
-          "181"
-        ],
-        [
-          null
-        ]
-      ]
-    ],
-    [
-      [
-        [
-          "2015"
-        ],
-        [
-          null
-        ]
-      ],
-      [
-        [
-          "Honda Malaysia Racing Team"
-        ],
-        [
-          "/wiki/Honda_Malaysia_Racing_Team"
-        ]
-      ],
-      [
-        [
-          "Aaron Lim"
-        ],
+        "Aaron Lim Eddie Liew",
         [
           "/wiki/Aaron_Lim"
         ]
       ],
       [
+        "Honda Jazz",
         [
-          "Honda City"
-        ],
+          "/wiki/Honda_Jazz"
+        ]
+      ],
+      [
+        "181",
+        []
+      ]
+    ],
+    [
+      [
+        "2014",
+        []
+      ],
+      [
+        "Proton R3",
+        [
+          "/wiki/Proton_Motorsports"
+        ]
+      ],
+      [
+        "Tengku Djan Ley Syafiq Ali",
+        [
+          "/wiki/Tengku_Djan_Ley"
+        ]
+      ],
+      [
+        "Proton Prev\u00e9",
+        [
+          "/wiki/Proton_Prev\u00e9"
+        ]
+      ],
+      [
+        "181",
+        []
+      ]
+    ],
+    [
+      [
+        "2015",
+        []
+      ],
+      [
+        "Honda Malaysia Racing Team",
+        [
+          "/wiki/Honda_Malaysia_Racing_Team"
+        ]
+      ],
+      [
+        "Aaron Lim Farriz Fauzy",
+        [
+          "/wiki/Aaron_Lim"
+        ]
+      ],
+      [
+        "Honda City",
         [
           "/wiki/Honda_City"
         ]
       ],
       [
-        [
-          "181"
-        ],
-        [
-          null
-        ]
+        "181",
+        []
       ]
     ],
     [
       [
-        [
-          "2016"
-        ],
-        [
-          null
-        ]
+        "2016",
+        []
       ],
       [
-        [
-          "Mayhem - FX Tune Racing Team"
-        ],
-        [
-          null
-        ]
+        "Mayhem - FX Tune Racing Team",
+        []
       ],
       [
-        [
-          "Tengku Djan Ley",
-          "Zizan Razak"
-        ],
+        "Tengku Djan Ley Keifli Othman Zizan Razak Faye Kusairi",
         [
           "/wiki/Tengku_Djan_Ley",
           "/wiki/Zizan_Razak"
         ]
       ],
       [
-        [
-          "Proton Suprima S"
-        ],
+        "Proton Suprima S",
         [
           "/wiki/Proton_Suprima_S"
         ]
       ],
       [
-        [
-          "181"
-        ],
-        [
-          null
-        ]
+        "181",
+        []
       ]
     ],
     [
       [
-        [
-          "2017"
-        ],
-        [
-          null
-        ]
+        "2017",
+        []
       ],
       [
-        [
-          "Proton R3"
-        ],
+        "Proton R3",
         [
           "/wiki/Proton_Motorsports"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "Admi Shahrul James Veerapen",
+        []
       ],
       [
-        [
-          "Proton Suprima S"
-        ],
+        "Proton Suprima S",
         [
           "/wiki/Proton_Suprima_S"
         ]
       ],
       [
-        [
-          "181"
-        ],
-        [
-          null
-        ]
+        "181",
+        []
       ]
     ]
   ],

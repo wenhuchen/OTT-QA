@@ -3,33 +3,19 @@
   "title": "List of banks in Croatia",
   "header": [
     [
-      [
-        "Bank"
-      ],
-      [
-        null
-      ]
+      "Bank",
+      []
     ],
     [
-      [
-        "HQ"
-      ],
-      [
-        null
-      ]
+      "HQ",
+      []
     ],
     [
-      [
-        "Website"
-      ],
-      [
-        null
-      ]
+      "Website",
+      []
     ],
     [
-      [
-        "SWIFT"
-      ],
+      "SWIFT Code",
       [
         "/wiki/Society_for_Worldwide_Interbank_Financial_Telecommunication"
       ]
@@ -38,682 +24,414 @@
   "data": [
     [
       [
-        [
-          "Addiko Bank"
-        ],
+        "Addiko Bank",
         [
           "/wiki/Addiko_Bank"
         ]
       ],
       [
-        [
-          "Zagreb"
-        ],
+        "Zagreb",
         [
           "/wiki/Zagreb"
         ]
       ],
       [
-        [
-          "www.addiko.hr"
-        ],
-        [
-          null
-        ]
+        "www.addiko.hr",
+        []
       ],
       [
-        [
-          "HAAB HR 22"
-        ],
-        [
-          null
-        ]
+        "HAAB HR 22",
+        []
       ]
     ],
     [
       [
-        [
-          "Banka Kovanica"
-        ],
-        [
-          null
-        ]
+        "Banka Kovanica",
+        []
       ],
       [
-        [
-          "Vara\u017edin"
-        ],
+        "Vara\u017edin",
         [
           "/wiki/Vara\u017edin"
         ]
       ],
       [
-        [
-          "www.kovanica.hr"
-        ],
-        [
-          null
-        ]
+        "www.kovanica.hr",
+        []
       ],
       [
-        [
-          "SKOV HR 22"
-        ],
-        [
-          null
-        ]
+        "SKOV HR 22",
+        []
       ]
     ],
     [
       [
-        [
-          "Croatia banka"
-        ],
-        [
-          null
-        ]
+        "Croatia banka",
+        []
       ],
       [
-        [
-          "Zagreb"
-        ],
+        "Zagreb",
         [
           "/wiki/Zagreb"
         ]
       ],
       [
-        [
-          "www.croatiabanka.hr"
-        ],
-        [
-          null
-        ]
+        "www.croatiabanka.hr",
+        []
       ],
       [
-        [
-          "CROA HR 2X"
-        ],
-        [
-          null
-        ]
+        "CROA HR 2X",
+        []
       ]
     ],
     [
       [
-        [
-          "Erste & Steierm\u00e4rkische Bank"
-        ],
-        [
-          null
-        ]
+        "Erste & Steierm\u00e4rkische Bank",
+        []
       ],
       [
-        [
-          "Rijeka"
-        ],
+        "Rijeka",
         [
           "/wiki/Rijeka"
         ]
       ],
       [
-        [
-          "www.erstebank.hr"
-        ],
-        [
-          null
-        ]
+        "www.erstebank.hr",
+        []
       ],
       [
-        [
-          "ESBC HR 22"
-        ],
-        [
-          null
-        ]
+        "ESBC HR 22",
+        []
       ]
     ],
     [
       [
-        [
-          "Hrvatska po\u0161tanska banka"
-        ],
+        "Hrvatska po\u0161tanska banka",
         [
           "/wiki/Hrvatska_po\u0161tanska_banka"
         ]
       ],
       [
-        [
-          "Zagreb"
-        ],
+        "Zagreb",
         [
           "/wiki/Zagreb"
         ]
       ],
       [
-        [
-          "www.hpb.hr"
-        ],
-        [
-          null
-        ]
+        "www.hpb.hr",
+        []
       ],
       [
-        [
-          "HPBZ HR 2X"
-        ],
-        [
-          null
-        ]
+        "HPBZ HR 2X",
+        []
       ]
     ],
     [
       [
-        [
-          "Imex banka"
-        ],
-        [
-          null
-        ]
+        "Imex banka",
+        []
       ],
       [
-        [
-          "Split"
-        ],
+        "Split",
         [
           "/wiki/Split_(city)"
         ]
       ],
       [
-        [
-          "www.imexbanka.hr"
-        ],
-        [
-          null
-        ]
+        "www.imexbanka.hr",
+        []
       ],
       [
-        [
-          "IMXX HR 22"
-        ],
-        [
-          null
-        ]
+        "IMXX HR 22",
+        []
       ]
     ],
     [
       [
-        [
-          "Istarska kreditna banka Umag"
-        ],
-        [
-          null
-        ]
+        "Istarska kreditna banka Umag",
+        []
       ],
       [
-        [
-          "Umag"
-        ],
+        "Umag",
         [
           "/wiki/Umag"
         ]
       ],
       [
-        [
-          "www.ikb.hr"
-        ],
-        [
-          null
-        ]
+        "www.ikb.hr",
+        []
       ],
       [
-        [
-          "ISKB HR 2X"
-        ],
-        [
-          null
-        ]
+        "ISKB HR 2X",
+        []
       ]
     ],
     [
       [
-        [
-          "Jadranska banka"
-        ],
-        [
-          null
-        ]
+        "Jadranska banka",
+        []
       ],
       [
-        [
-          "\u0160ibenik"
-        ],
+        "\u0160ibenik",
         [
           "/wiki/\u0160ibenik"
         ]
       ],
       [
-        [
-          "www.jadranska-banka.hr"
-        ],
-        [
-          null
-        ]
+        "www.jadranska-banka.hr",
+        []
       ],
       [
-        [
-          "JADR HR 2X"
-        ],
-        [
-          null
-        ]
+        "JADR HR 2X",
+        []
       ]
     ],
     [
       [
-        [
-          "Karlova\u010dka banka"
-        ],
-        [
-          null
-        ]
+        "Karlova\u010dka banka",
+        []
       ],
       [
-        [
-          "Karlovac"
-        ],
+        "Karlovac",
         [
           "/wiki/Karlovac"
         ]
       ],
       [
-        [
-          "www.kaba.hr"
-        ],
-        [
-          null
-        ]
+        "www.kaba.hr",
+        []
       ],
       [
-        [
-          "KALC HR 2X"
-        ],
-        [
-          null
-        ]
+        "KALC HR 2X",
+        []
       ]
     ],
     [
       [
-        [
-          "KentBank"
-        ],
-        [
-          null
-        ]
+        "KentBank",
+        []
       ],
       [
-        [
-          "Zagreb"
-        ],
+        "Zagreb",
         [
           "/wiki/Zagreb"
         ]
       ],
       [
-        [
-          "www.kentbank.hr"
-        ],
-        [
-          null
-        ]
+        "www.kentbank.hr",
+        []
       ],
       [
-        [
-          "KENB HR 22"
-        ],
-        [
-          null
-        ]
+        "KENB HR 22",
+        []
       ]
     ],
     [
       [
-        [
-          "Kreditna banka Zagreb"
-        ],
-        [
-          null
-        ]
+        "Kreditna banka Zagreb",
+        []
       ],
       [
-        [
-          "Zagreb"
-        ],
+        "Zagreb",
         [
           "/wiki/Zagreb"
         ]
       ],
       [
-        [
-          "www.kbz.hr"
-        ],
-        [
-          null
-        ]
+        "www.kbz.hr",
+        []
       ],
       [
-        [
-          "KREZ HR 2X"
-        ],
-        [
-          null
-        ]
+        "KREZ HR 2X",
+        []
       ]
     ],
     [
       [
-        [
-          "OTP Bank"
-        ],
+        "OTP Bank ( as OTP Banka Hrvatska )",
         [
           "/wiki/OTP_Bank"
         ]
       ],
       [
-        [
-          "Split"
-        ],
+        "Split",
         [
           "/wiki/Split,_Croatia"
         ]
       ],
       [
-        [
-          "www.otpbanka.hr"
-        ],
-        [
-          null
-        ]
+        "www.otpbanka.hr",
+        []
       ],
       [
-        [
-          "OTPV HR 2X"
-        ],
-        [
-          null
-        ]
+        "OTPV HR 2X",
+        []
       ]
     ],
     [
       [
-        [
-          "Partner banka"
-        ],
-        [
-          null
-        ]
+        "Partner banka",
+        []
       ],
       [
-        [
-          "Zagreb"
-        ],
+        "Zagreb",
         [
           "/wiki/Zagreb"
         ]
       ],
       [
-        [
-          "www.paba.hr"
-        ],
-        [
-          null
-        ]
+        "www.paba.hr",
+        []
       ],
       [
-        [
-          "PAZG HR 2X"
-        ],
-        [
-          null
-        ]
+        "PAZG HR 2X",
+        []
       ]
     ],
     [
       [
-        [
-          "Podravska banka"
-        ],
-        [
-          null
-        ]
+        "Podravska banka",
+        []
       ],
       [
-        [
-          "Koprivnica"
-        ],
+        "Koprivnica",
         [
           "/wiki/Koprivnica"
         ]
       ],
       [
-        [
-          "www.poba.hr"
-        ],
-        [
-          null
-        ]
+        "www.poba.hr",
+        []
       ],
       [
-        [
-          "PDKC HR 2X"
-        ],
-        [
-          null
-        ]
+        "PDKC HR 2X",
+        []
       ]
     ],
     [
       [
-        [
-          "Primorska banka"
-        ],
+        "Primorska banka",
         [
           "/wiki/Primorska_banka"
         ]
       ],
       [
-        [
-          "Rijeka"
-        ],
+        "Rijeka",
         [
           "/wiki/Rijeka"
         ]
       ],
       [
-        [
-          "www.primorska.hr"
-        ],
-        [
-          null
-        ]
+        "www.primorska.hr",
+        []
       ],
       [
-        [
-          "SPRM HR 22"
-        ],
-        [
-          null
-        ]
+        "SPRM HR 22",
+        []
       ]
     ],
     [
       [
-        [
-          "Privredna banka Zagreb"
-        ],
+        "Privredna banka Zagreb",
         [
           "/wiki/Privredna_banka_Zagreb"
         ]
       ],
       [
-        [
-          "Zagreb"
-        ],
+        "Zagreb",
         [
           "/wiki/Zagreb"
         ]
       ],
       [
-        [
-          "www.pbz.hr"
-        ],
-        [
-          null
-        ]
+        "www.pbz.hr",
+        []
       ],
       [
-        [
-          "PBZG HR 2X"
-        ],
-        [
-          null
-        ]
+        "PBZG HR 2X",
+        []
       ]
     ],
     [
       [
-        [
-          "Raiffeisenbank Austria"
-        ],
-        [
-          null
-        ]
+        "Raiffeisenbank Austria",
+        []
       ],
       [
-        [
-          "Zagreb"
-        ],
+        "Zagreb",
         [
           "/wiki/Zagreb"
         ]
       ],
       [
-        [
-          "www.rba.hr"
-        ],
-        [
-          null
-        ]
+        "www.rba.hr",
+        []
       ],
       [
-        [
-          "RZBH HR 2X"
-        ],
-        [
-          null
-        ]
+        "RZBH HR 2X",
+        []
       ]
     ],
     [
       [
-        [
-          "Samoborska banka"
-        ],
-        [
-          null
-        ]
+        "Samoborska banka",
+        []
       ],
       [
-        [
-          "Samobor"
-        ],
+        "Samobor",
         [
           "/wiki/Samobor"
         ]
       ],
       [
-        [
-          "www.sabank.hr"
-        ],
-        [
-          null
-        ]
+        "www.sabank.hr",
+        []
       ],
       [
-        [
-          "SMBR HR 22"
-        ],
-        [
-          null
-        ]
+        "SMBR HR 22",
+        []
       ]
     ],
     [
       [
-        [
-          "Sberbank"
-        ],
+        "Sberbank",
         [
           "/wiki/Sberbank"
         ]
       ],
       [
-        [
-          "Zagreb"
-        ],
+        "Zagreb",
         [
           "/wiki/Zagreb"
         ]
       ],
       [
-        [
-          "www.sberbank.hr"
-        ],
-        [
-          null
-        ]
+        "www.sberbank.hr",
+        []
       ],
       [
-        [
-          "VBCR HR 22"
-        ],
-        [
-          null
-        ]
+        "VBCR HR 22",
+        []
       ]
     ],
     [
       [
-        [
-          "Slatinska banka"
-        ],
-        [
-          null
-        ]
+        "Slatinska banka",
+        []
       ],
       [
-        [
-          "Slatina"
-        ],
+        "Slatina",
         [
           "/wiki/Slatina,_Croatia"
         ]
       ],
       [
-        [
-          "www.slatinska-banka.hr"
-        ],
-        [
-          null
-        ]
+        "www.slatinska-banka.hr",
+        []
       ],
       [
-        [
-          "SBSL HR 2X"
-        ],
-        [
-          null
-        ]
+        "SBSL HR 2X",
+        []
       ]
     ]
   ],

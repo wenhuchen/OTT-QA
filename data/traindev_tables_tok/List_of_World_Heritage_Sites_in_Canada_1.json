@@ -3,100 +3,61 @@
   "title": "List of World Heritage Sites in Canada",
   "header": [
     [
-      [
-        "Site"
-      ],
-      [
-        null
-      ]
+      "Site",
+      []
     ],
     [
-      [
-        "Location"
-      ],
-      [
-        null
-      ]
+      "Location",
+      []
     ],
     [
-      [
-        "Criteria"
-      ],
+      "Criteria",
       [
         "/wiki/World_Heritage_Site"
       ]
     ],
     [
-      [
-        "ha",
-        "acre"
-      ],
+      "Area ha ( acre )",
       [
         "/wiki/Hectare",
         "/wiki/Acre"
       ]
     ],
     [
-      [
-        "Year of submission"
-      ],
-      [
-        null
-      ]
+      "Year of submission",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Gwaii Haanas"
-        ],
+        "Gwaii Haanas",
         [
           "/wiki/Gwaii_Haanas_National_Park_Reserve_and_Haida_Heritage_Site"
         ]
       ],
       [
+        "Canada British Columbia 52\u00b023\u203221\u2033N 131\u00b028\u203216\u2033W / 52.38917\u00b0N 131.47111\u00b0W / 52.38917 ; -131.47111 ( Gwaii Haanas )",
         [
-          "British Columbia",
-          "52\u00b023\u203221\u2033N 131\u00b028\u203216\u2033W / 52.38917\u00b0N 131.47111\u00b0W / 52.38917 ; -131.47111 ( Gwaii Haanas )"
-        ],
-        [
-          "/wiki/British_Columbia",
-          null
+          "/wiki/British_Columbia"
         ]
       ],
       [
-        [
-          "Mixed : ( iii ) , ( v ) , ( vi ) , ( vii ) , ( ix ) , ( x )"
-        ],
-        [
-          null
-        ]
+        "Mixed : ( iii ) , ( v ) , ( vi ) , ( vii ) , ( ix ) , ( x )",
+        []
       ],
       [
-        [
-          "147,000 ( 360,000 )"
-        ],
-        [
-          null
-        ]
+        "147,000 ( 360,000 )",
+        []
       ],
       [
-        [
-          "2004"
-        ],
-        [
-          null
-        ]
+        "2004",
+        []
       ]
     ],
     [
       [
-        [
-          "Ivvavik",
-          "Vuntut",
-          "Herschel Island"
-        ],
+        "Ivvavik / Vuntut / Herschel Island ( Qikiqtaruk )",
         [
           "/wiki/Ivvavik_National_Park",
           "/wiki/Vuntut_National_Park",
@@ -104,135 +65,79 @@
         ]
       ],
       [
+        "Canada Yukon 69\u00b031\u203211\u2033N 139\u00b031\u203230\u2033W / 69.51972\u00b0N 139.52500\u00b0W / 69.51972 ; -139.52500 ( Ivvavik / Vuntut / Herschel Island ( Qikiqtaruk ) )",
         [
-          "Yukon",
-          "69\u00b031\u203211\u2033N 139\u00b031\u203230\u2033W / 69.51972\u00b0N 139.52500\u00b0W / 69.51972 ; -139.52500 ( Ivvavik / Vuntut / Herschel Island ( Qikiqtaruk ) )"
-        ],
-        [
-          "/wiki/Yukon",
-          null
+          "/wiki/Yukon"
         ]
       ],
       [
-        [
-          "Mixed : ( iv ) , ( v ) , ( vii ) , ( viii ) , ( x )"
-        ],
-        [
-          null
-        ]
+        "Mixed : ( iv ) , ( v ) , ( vii ) , ( viii ) , ( x )",
+        []
       ],
       [
-        [
-          "1,550,000 ( 3,800,000 )"
-        ],
-        [
-          null
-        ]
+        "1,550,000 ( 3,800,000 )",
+        []
       ],
       [
-        [
-          "2004"
-        ],
-        [
-          null
-        ]
+        "2004",
+        []
       ]
     ],
     [
       [
-        [
-          "Quttinirpaaq"
-        ],
+        "Quttinirpaaq",
         [
           "/wiki/Quttinirpaaq_National_Park"
         ]
       ],
       [
+        "Canada Nunavut 82\u00b013\u2032N 72\u00b013\u2032W / 82.217\u00b0N 72.217\u00b0W / 82.217 ; -72.217 ( Quttinirpaaq )",
         [
-          "Nunavut",
-          "82\u00b013\u2032N 72\u00b013\u2032W / 82.217\u00b0N 72.217\u00b0W / 82.217 ; -72.217 ( Quttinirpaaq )"
-        ],
-        [
-          "/wiki/Nunavut",
-          null
+          "/wiki/Nunavut"
         ]
       ],
       [
-        [
-          "Mixed : ( iii ) , ( vii ) , ( viii ) , ( x )"
-        ],
-        [
-          null
-        ]
+        "Mixed : ( iii ) , ( vii ) , ( viii ) , ( x )",
+        []
       ],
       [
-        [
-          "3,777,500 ( 9,334,000 )"
-        ],
-        [
-          null
-        ]
+        "3,777,500 ( 9,334,000 )",
+        []
       ],
       [
-        [
-          "2004"
-        ],
-        [
-          null
-        ]
+        "2004",
+        []
       ]
     ],
     [
       [
-        [
-          "Trond\u00ebk-Klondike"
-        ],
+        "Trond\u00ebk-Klondike",
         [
           "/wiki/Klondike_Gold_Rush"
         ]
       ],
       [
+        "Canada Yukon 64\u00b0N 139\u00b0W / 64\u00b0N 139\u00b0W / 64 ; -139 ( The Klondike )",
         [
-          "Yukon",
-          "64\u00b0N 139\u00b0W / 64\u00b0N 139\u00b0W / 64 ; -139 ( The Klondike )"
-        ],
-        [
-          "/wiki/Yukon",
-          null
+          "/wiki/Yukon"
         ]
       ],
       [
-        [
-          "Cultural : ( iv ) , ( v )"
-        ],
-        [
-          null
-        ]
+        "Cultural : ( iv ) , ( v )",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "2004"
-        ],
-        [
-          null
-        ]
+        "2004",
+        []
       ]
     ],
     [
       [
-        [
-          "Hecate Strait",
-          "Queen Charlotte Sound",
-          "Glass Sponge Reefs"
-        ],
+        "Hecate Strait and Queen Charlotte Sound Glass Sponge Reefs",
         [
           "/wiki/Hecate_Strait",
           "/wiki/Queen_Charlotte_Sound_(Canada)",
@@ -240,344 +145,204 @@
         ]
       ],
       [
-        [
-          "British Columbia"
-        ],
+        "Canada British Columbia",
         [
           "/wiki/British_Columbia"
         ]
       ],
       [
-        [
-          "Natural : ( viii ) , ( ix ) , ( x )"
-        ],
-        [
-          null
-        ]
+        "Natural : ( viii ) , ( ix ) , ( x )",
+        []
       ],
       [
-        [
-          "100,000 ( 250,000 )"
-        ],
-        [
-          null
-        ]
+        "100,000 ( 250,000 )",
+        []
       ],
       [
-        [
-          "2018"
-        ],
-        [
-          null
-        ]
+        "2018",
+        []
       ]
     ],
     [
       [
-        [
-          "Stein Valley"
-        ],
+        "Stein Valley",
         [
           "/wiki/Stein_Valley_Nlaka'pamux_Heritage_Park"
         ]
       ],
       [
+        "Canada British Columbia 50\u00b015\u203226\u2033N 122\u00b00\u203212\u2033W / 50.25722\u00b0N 122.00333\u00b0W / 50.25722 ; -122.00333 ( Stein Valley )",
         [
-          "British Columbia",
-          "50\u00b015\u203226\u2033N 122\u00b00\u203212\u2033W / 50.25722\u00b0N 122.00333\u00b0W / 50.25722 ; -122.00333 ( Stein Valley )"
-        ],
-        [
-          "/wiki/British_Columbia",
-          null
+          "/wiki/British_Columbia"
         ]
       ],
       [
-        [
-          "Cultural : ( iii ) , ( vi )"
-        ],
-        [
-          null
-        ]
+        "Cultural : ( iii ) , ( vi )",
+        []
       ],
       [
-        [
-          "107,191 ( 264,870 )"
-        ],
-        [
-          null
-        ]
+        "107,191 ( 264,870 )",
+        []
       ],
       [
-        [
-          "2018"
-        ],
-        [
-          null
-        ]
+        "2018",
+        []
       ]
     ],
     [
       [
-        [
-          "Wanuskewin"
-        ],
+        "Wanuskewin",
         [
           "/wiki/Wanuskewin_Heritage_Park"
         ]
       ],
       [
+        "Canada Saskatchewan 52\u00b013\u203239\u2033N 106\u00b035\u203247.54\u2033W / 52.22750\u00b0N 106.5965389\u00b0W / 52.22750 ; -106.5965389 ( Wanuskewin )",
         [
-          "Saskatchewan",
-          "52\u00b013\u203239\u2033N 106\u00b035\u203247.54\u2033W / 52.22750\u00b0N 106.5965389\u00b0W / 52.22750 ; -106.5965389 ( Wanuskewin )"
-        ],
-        [
-          "/wiki/Saskatchewan",
-          null
+          "/wiki/Saskatchewan"
         ]
       ],
       [
-        [
-          "Cultural : ( iii )"
-        ],
-        [
-          null
-        ]
+        "Cultural : ( iii )",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "2018"
-        ],
-        [
-          null
-        ]
+        "2018",
+        []
       ]
     ],
     [
       [
-        [
-          "Anticosti Island"
-        ],
+        "Anticosti Island",
         [
           "/wiki/Anticosti_Island"
         ]
       ],
       [
+        "Canada Quebec 49\u00b051\u203242.05\u2033N 64\u00b031\u203220.01\u2033W / 49.8616806\u00b0N 64.5222250\u00b0W / 49.8616806 ; -64.5222250 ( Anticosti Island )",
         [
-          "Quebec",
-          "49\u00b051\u203242.05\u2033N 64\u00b031\u203220.01\u2033W / 49.8616806\u00b0N 64.5222250\u00b0W / 49.8616806 ; -64.5222250 ( Anticosti Island )"
-        ],
-        [
-          "/wiki/Quebec",
-          null
+          "/wiki/Quebec"
         ]
       ],
       [
-        [
-          "Natural : ( viii )"
-        ],
-        [
-          null
-        ]
+        "Natural : ( viii )",
+        []
       ],
       [
-        [
-          "928,900 ( 2,295,000 ) ( includes littoral area )"
-        ],
-        [
-          null
-        ]
+        "928,900 ( 2,295,000 ) ( includes littoral area )",
+        []
       ],
       [
-        [
-          "2018"
-        ],
-        [
-          null
-        ]
+        "2018",
+        []
       ]
     ],
     [
       [
-        [
-          "Heart 's Content Cable Station Provincial Historic Site"
-        ],
+        "Heart 's Content Cable Station Provincial Historic Site",
         [
           "/wiki/Heart's_Content_Cable_Station"
         ]
       ],
       [
+        "Canada Newfoundland and Labrador 47\u00b052\u203221.1\u2033N 53\u00b022\u20327.1\u2033W / 47.872528\u00b0N 53.368639\u00b0W / 47.872528 ; -53.368639 ( Heart 's Content Cable Station )",
         [
-          "Newfoundland and Labrador",
-          "47\u00b052\u203221.1\u2033N 53\u00b022\u20327.1\u2033W / 47.872528\u00b0N 53.368639\u00b0W / 47.872528 ; -53.368639 ( Heart 's Content Cable Station )"
-        ],
-        [
-          "/wiki/Newfoundland_and_Labrador",
-          null
+          "/wiki/Newfoundland_and_Labrador"
         ]
       ],
       [
-        [
-          "Cultural : ( ii ) , ( iv )"
-        ],
-        [
-          null
-        ]
+        "Cultural : ( ii ) , ( iv )",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Qajartalik"
-        ],
+        "Qajartalik",
         [
           "/wiki/Qajartalik"
         ]
       ],
       [
+        "Canada Nunavut 61\u00b019\u203253.66\u2033N 71\u00b029\u203258.72\u2033W / 61.3315722\u00b0N 71.4996444\u00b0W / 61.3315722 ; -71.4996444 ( Qajartalik )",
         [
-          "Nunavut",
-          "61\u00b019\u203253.66\u2033N 71\u00b029\u203258.72\u2033W / 61.3315722\u00b0N 71.4996444\u00b0W / 61.3315722 ; -71.4996444 ( Qajartalik )"
-        ],
-        [
-          "/wiki/Nunavut",
-          null
+          "/wiki/Nunavut"
         ]
       ],
       [
-        [
-          "Cultural : ( iii )"
-        ],
-        [
-          null
-        ]
+        "Cultural : ( iii )",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "2018"
-        ],
-        [
-          null
-        ]
+        "2018",
+        []
       ]
     ],
     [
       [
-        [
-          "Sirmilik National Park"
-        ],
+        "Sirmilik National Park and the proposed Tallurutiup Imanga National Marine Conservation Area",
         [
           "/wiki/Sirmilik_National_Park"
         ]
       ],
       [
+        "Canada Nunavut 73\u00b051\u20327.69\u2033N 83\u00b04\u203250.128\u2033W / 73.8521361\u00b0N 83.08059111\u00b0W / 73.8521361 ; -83.08059111 ( Sirmilik National Park and the proposed Tallurutiup Imanga National Marine Conservation Area )",
         [
-          "Nunavut",
-          "73\u00b051\u20327.69\u2033N 83\u00b04\u203250.128\u2033W / 73.8521361\u00b0N 83.08059111\u00b0W / 73.8521361 ; -83.08059111 ( Sirmilik National Park and the proposed Tallurutiup Imanga National Marine Conservation Area )"
-        ],
-        [
-          "/wiki/Nunavut",
-          null
+          "/wiki/Nunavut"
         ]
       ],
       [
-        [
-          "Mixed : ( v ) , ( ix )"
-        ],
-        [
-          null
-        ]
+        "Mixed : ( v ) , ( ix )",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "2018"
-        ],
-        [
-          null
-        ]
+        "2018",
+        []
       ]
     ],
     [
       [
-        [
-          "Yukon Ice Patches"
-        ],
+        "Yukon Ice Patches",
         [
           "/wiki/Yukon_Ice_Patches"
         ]
       ],
       [
+        "Canada Yukon 60\u00b016\u203249.6\u2033N 135\u00b041\u203236.6\u2033W / 60.280444\u00b0N 135.693500\u00b0W / 60.280444 ; -135.693500 ( Yukon Ice Patches )",
         [
-          "Yukon",
-          "60\u00b016\u203249.6\u2033N 135\u00b041\u203236.6\u2033W / 60.280444\u00b0N 135.693500\u00b0W / 60.280444 ; -135.693500 ( Yukon Ice Patches )"
-        ],
-        [
-          "/wiki/Yukon",
-          null
+          "/wiki/Yukon"
         ]
       ],
       [
-        [
-          "Cultural : ( iii ) , ( v )"
-        ],
-        [
-          null
-        ]
+        "Cultural : ( iii ) , ( v )",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "2018"
-        ],
-        [
-          null
-        ]
+        "2018",
+        []
       ]
     ]
   ],

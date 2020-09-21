@@ -3,103 +3,58 @@
   "title": "Case citation",
   "header": [
     [
-      [
-        "Abbreviation ( s )"
-      ],
-      [
-        null
-      ]
+      "Abbreviation ( s )",
+      []
     ],
     [
-      [
-        "Full name"
-      ],
-      [
-        null
-      ]
+      "Full name",
+      []
     ],
     [
-      [
-        "Translated title"
-      ],
-      [
-        null
-      ]
+      "Translated title",
+      []
     ],
     [
-      [
-        "Topic area"
-      ],
-      [
-        null
-      ]
+      "Topic area",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "U , UfR"
-        ],
-        [
-          null
-        ]
+        "U , UfR",
+        []
       ],
       [
-        [
-          "Ugeskrift for Retsv\u00e6sen"
-        ],
-        [
-          null
-        ]
+        "Ugeskrift for Retsv\u00e6sen",
+        []
       ],
       [
-        [
-          "European Court of Human Rights"
-        ],
+        "Weekly Reporter of the Judiciary ( translated varyingly as the Danish Weekly Law Reports , the Weekly Law Journal , and the Weekly Law Review by the European Court of Human Rights )",
         [
           "/wiki/European_Court_of_Human_Rights"
         ]
       ],
       [
-        [
-          "The most broad of the reporters . Publishes all decisions of the Supreme Court , principal decisions from the High Courts and , in special cases , decisions from municipal courts or other bodies , regardless of topic area"
-        ],
-        [
-          null
-        ]
+        "The most broad of the reporters . Publishes all decisions of the Supreme Court , principal decisions from the High Courts and , in special cases , decisions from municipal courts or other bodies , regardless of topic area",
+        []
       ]
     ],
     [
       [
-        [
-          "FED"
-        ],
-        [
-          null
-        ]
+        "FED",
+        []
       ],
       [
-        [
-          "Forsikrings- og Erstatningsretlig Domssamling"
-        ],
-        [
-          null
-        ]
+        "Forsikrings- og Erstatningsretlig Domssamling",
+        []
       ],
       [
-        [
-          "Reporter of Insurance and Tort Law"
-        ],
-        [
-          null
-        ]
+        "Reporter of Insurance and Tort Law",
+        []
       ],
       [
-        [
-          "insurance",
-          "tort law"
-        ],
+        "Publishes decisions from the courts and the Insurance Complaints Board relevant to the areas of insurance and tort law",
         [
           "/wiki/Insurance_law",
           "/wiki/Tort_law"
@@ -108,38 +63,20 @@
     ],
     [
       [
-        [
-          "FM"
-        ],
-        [
-          null
-        ]
+        "FM",
+        []
       ],
       [
-        [
-          "Fuldm\u00e6gtigen"
-        ],
-        [
-          null
-        ]
+        "Fuldm\u00e6gtigen",
+        []
       ],
       [
-        [
-          "The Agent"
-        ],
-        [
-          null
-        ]
+        "The Agent",
+        []
       ],
       [
+        "Publishes decisions relevant to the areas of enforcement , probate , and bankruptcy law as well as registration of property and civil procedure",
         [
-          "enforcement",
-          "probate",
-          "bankruptcy law",
-          "civil procedure"
-        ],
-        [
-          null,
           "/wiki/Probate_law",
           "/wiki/Bankruptcy_law",
           "/wiki/Civil_procedure"
@@ -148,34 +85,19 @@
     ],
     [
       [
-        [
-          "KFE"
-        ],
-        [
-          null
-        ]
+        "KFE",
+        []
       ],
       [
-        [
-          "Kendelser om Fast Ejendom"
-        ],
-        [
-          null
-        ]
+        "Kendelser om Fast Ejendom",
+        []
       ],
       [
-        [
-          "Orders regarding Real Estate"
-        ],
-        [
-          null
-        ]
+        "Orders regarding Real Estate",
+        []
       ],
       [
-        [
-          "real estate",
-          "land law"
-        ],
+        "Publishes decisions from administrative and arbitration bodies relevant to the areas of real estate and land law",
         [
           "/wiki/Real_estate_law",
           "/wiki/Land_law"
@@ -184,33 +106,19 @@
     ],
     [
       [
-        [
-          "MAD"
-        ],
-        [
-          null
-        ]
+        "MAD",
+        []
       ],
       [
-        [
-          "Milj\u00f8retlige Afg\u00f8relser og Domme"
-        ],
-        [
-          null
-        ]
+        "Milj\u00f8retlige Afg\u00f8relser og Domme",
+        []
       ],
       [
-        [
-          "Decisions and Judgments in Environmental Law"
-        ],
-        [
-          null
-        ]
+        "Decisions and Judgments in Environmental Law",
+        []
       ],
       [
-        [
-          "environmental law"
-        ],
+        "Publishes decisions from courts and administrative bodies , both national and international , relevant to the area of environmental law",
         [
           "/wiki/Environmental_law"
         ]
@@ -218,34 +126,19 @@
     ],
     [
       [
-        [
-          "TBB , T : BB"
-        ],
-        [
-          null
-        ]
+        "TBB , T : BB",
+        []
       ],
       [
-        [
-          "Tidsskrift for Bolig- og Byggeret"
-        ],
-        [
-          null
-        ]
+        "Tidsskrift for Bolig- og Byggeret",
+        []
       ],
       [
-        [
-          "Reporter of Housing and Construction Law"
-        ],
-        [
-          null
-        ]
+        "Reporter of Housing and Construction Law",
+        []
       ],
       [
-        [
-          "housing",
-          "construction"
-        ],
+        "Publishes decisions from the courts as well as principal decisions from arbitration bodies relevant to the area of housing and construction",
         [
           "/wiki/Housing_law",
           "/wiki/Construction_law"
@@ -254,34 +147,19 @@
     ],
     [
       [
-        [
-          "TFA"
-        ],
-        [
-          null
-        ]
+        "TFA",
+        []
       ],
       [
-        [
-          "Tidsskrift for Familie- og Arveret"
-        ],
-        [
-          null
-        ]
+        "Tidsskrift for Familie- og Arveret",
+        []
       ],
       [
-        [
-          "Reporter of Family- and Inheritance Law"
-        ],
-        [
-          null
-        ]
+        "Reporter of Family- and Inheritance Law",
+        []
       ],
       [
-        [
-          "family",
-          "inheritance law"
-        ],
+        "Publishes decisions from the courts and administrative bodies relevant to the area of family and inheritance law",
         [
           "/wiki/Family_law",
           "/wiki/Inheritance_law"
@@ -290,34 +168,19 @@
     ],
     [
       [
-        [
-          "TfK"
-        ],
-        [
-          null
-        ]
+        "TfK",
+        []
       ],
       [
-        [
-          "Tidsskrift for Kriminalret"
-        ],
-        [
-          null
-        ]
+        "Tidsskrift for Kriminalret",
+        []
       ],
       [
-        [
-          "Reporter of Criminal Law"
-        ],
-        [
-          null
-        ]
+        "Reporter of Criminal Law",
+        []
       ],
       [
-        [
-          "criminal law",
-          "criminal procedure"
-        ],
+        "Publishes decisions from the High Courts and the Special Court of Indictment and Revision relevant to the areas of criminal law and criminal procedure . Also publishes summaries of criminal law and criminal procedure cases published in Ugeskrift for Retsv\u00e6sen",
         [
           "/wiki/Criminal_law",
           "/wiki/Criminal_procedure"
@@ -326,33 +189,19 @@
     ],
     [
       [
-        [
-          "TfL"
-        ],
-        [
-          null
-        ]
+        "TfL",
+        []
       ],
       [
-        [
-          "Tidsskrift for Landbrugsret"
-        ],
-        [
-          null
-        ]
+        "Tidsskrift for Landbrugsret",
+        []
       ],
       [
-        [
-          "Reporter of Agricultural Law"
-        ],
-        [
-          null
-        ]
+        "Reporter of Agricultural Law",
+        []
       ],
       [
-        [
-          "agricultural law"
-        ],
+        "Publishes decisions relevant to the area of agricultural law",
         [
           "/wiki/Agricultural_law"
         ]
@@ -360,33 +209,19 @@
     ],
     [
       [
-        [
-          "TfS"
-        ],
-        [
-          null
-        ]
+        "TfS",
+        []
       ],
       [
-        [
-          "Tidsskrift for Skatter og Afgifter"
-        ],
-        [
-          null
-        ]
+        "Tidsskrift for Skatter og Afgifter",
+        []
       ],
       [
-        [
-          "Reporter of Taxes and Fees"
-        ],
-        [
-          null
-        ]
+        "Reporter of Taxes and Fees",
+        []
       ],
       [
-        [
-          "tax law"
-        ],
+        "Reports decisions and new legislation in the area of tax law",
         [
           "/wiki/Tax_law"
         ]

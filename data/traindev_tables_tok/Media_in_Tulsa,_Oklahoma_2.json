@@ -3,85 +3,54 @@
   "title": "Media in Tulsa, Oklahoma",
   "header": [
     [
-      [
-        "Channel ( Analog/HD )"
-      ],
-      [
-        null
-      ]
+      "Channel ( Analog/HD )",
+      []
     ],
     [
-      [
-        "Callsign"
-      ],
+      "Callsign",
       [
         "/wiki/Callsign"
       ]
     ],
     [
-      [
-        "Network"
-      ],
-      [
-        null
-      ]
+      "Network",
+      []
     ],
     [
-      [
-        "Owner"
-      ],
-      [
-        null
-      ]
+      "Owner",
+      []
     ],
     [
-      [
-        "Subchannels"
-      ],
-      [
-        null
-      ]
+      "Subchannels",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "2/8"
-        ],
-        [
-          null
-        ]
+        "2/8",
+        []
       ],
       [
-        [
-          "KJRH-TV"
-        ],
+        "KJRH-TV",
         [
           "/wiki/KJRH-TV"
         ]
       ],
       [
-        [
-          "NBC"
-        ],
+        "NBC",
         [
           "/wiki/NBC"
         ]
       ],
       [
-        [
-          "E.W . Scripps Company"
-        ],
+        "E.W . Scripps Company",
         [
           "/wiki/E.W._Scripps_Company"
         ]
       ],
       [
-        [
-          "Bounce TV",
-          "Laff"
-        ],
+        "Bounce TV on DT2 , Laff on DT3",
         [
           "/wiki/Bounce_TV",
           "/wiki/Laff_(TV_network)"
@@ -90,43 +59,29 @@
     ],
     [
       [
-        [
-          "6/55"
-        ],
-        [
-          null
-        ]
+        "6/55",
+        []
       ],
       [
-        [
-          "KOTV"
-        ],
+        "KOTV -TV/DT",
         [
           "/wiki/KOTV-DT"
         ]
       ],
       [
-        [
-          "CBS"
-        ],
+        "CBS",
         [
           "/wiki/CBS"
         ]
       ],
       [
-        [
-          "Griffin Communications"
-        ],
+        "Griffin Communications",
         [
           "/wiki/Griffin_Communications"
         ]
       ],
       [
-        [
-          "The CW",
-          "KQCW-DT",
-          "News on 6 Now"
-        ],
+        "The CW ( Simulcast of KQCW-DT on DT2 , News on 6 Now on DT3",
         [
           "/wiki/The_CW",
           "/wiki/KQCW-DT",
@@ -136,43 +91,29 @@
     ],
     [
       [
-        [
-          "8/10"
-        ],
-        [
-          null
-        ]
+        "8/10",
+        []
       ],
       [
-        [
-          "KTUL"
-        ],
+        "KTUL -TV/DT",
         [
           "/wiki/KTUL"
         ]
       ],
       [
-        [
-          "ABC"
-        ],
+        "ABC",
         [
           "/wiki/American_Broadcasting_Company"
         ]
       ],
       [
-        [
-          "Sinclair Broadcast Group"
-        ],
+        "Sinclair Broadcast Group",
         [
           "/wiki/Sinclair_Broadcast_Group"
         ]
       ],
       [
-        [
-          "Comet TV",
-          "Antenna TV",
-          "TBD"
-        ],
+        "Comet TV on DT2 , Antenna TV on DT3 , TBD on DT4",
         [
           "/wiki/Comet_TV",
           "/wiki/Antenna_TV",
@@ -182,42 +123,29 @@
     ],
     [
       [
-        [
-          "11/38"
-        ],
-        [
-          null
-        ]
+        "11/38",
+        []
       ],
       [
-        [
-          "KOED-TV"
-        ],
+        "KOED-TV",
         [
           "/wiki/KOED-TV"
         ]
       ],
       [
-        [
-          "PBS"
-        ],
+        "PBS",
         [
           "/wiki/Public_Broadcasting_Service"
         ]
       ],
       [
-        [
-          "Oklahoma Educational Television Authority"
-        ],
+        "Oklahoma Educational Television Authority",
         [
           "/wiki/Oklahoma_Educational_Television_Authority"
         ]
       ],
       [
-        [
-          "Create",
-          "PBS Kids"
-        ],
+        "WORLD on DT2 , Create on DT3 , PBS Kids on DT4",
         [
           "/wiki/Create_(TV_network)",
           "/wiki/PBS_Kids"
@@ -226,87 +154,55 @@
     ],
     [
       [
-        [
-          "14"
-        ],
-        [
-          null
-        ]
+        "14",
+        []
       ],
       [
-        [
-          "KXAP-LD"
-        ],
+        "KXAP-LD -LD/DT",
         [
           "/wiki/KXAP-LD"
         ]
       ],
       [
-        [
-          "Estrella TV"
-        ],
+        "Estrella TV",
         [
           "/wiki/Estrella_TV"
         ]
       ],
       [
-        [
-          "Las Americas Supermercado"
-        ],
-        [
-          null
-        ]
+        "Las Americas Supermercado",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "17/15"
-        ],
-        [
-          null
-        ]
+        "17/15",
+        []
       ],
       [
-        [
-          "KDOR-TV"
-        ],
+        "KDOR-TV",
         [
           "/wiki/KDOR-TV"
         ]
       ],
       [
-        [
-          "TBN"
-        ],
+        "TBN",
         [
           "/wiki/Trinity_Broadcasting_Network"
         ]
       ],
       [
-        [
-          "Trinity Broadcasting Network"
-        ],
+        "Trinity Broadcasting Network",
         [
           "/wiki/Trinity_Broadcasting_Network"
         ]
       ],
       [
-        [
-          "Hillsong Channel",
-          "JUCE TV",
-          "Smile",
-          "Enlace",
-          "Trinity Broadcasting Network"
-        ],
+        "Hillsong Channel on DT2 , JUCE TV / Smile on DT3 , Enlace on DT4 , Trinity Broadcasting Network on DT5",
         [
           "/wiki/Hillsong_Channel",
           "/wiki/JUCE_TV",
@@ -318,84 +214,57 @@
     ],
     [
       [
-        [
-          "19"
-        ],
-        [
-          null
-        ]
+        "19",
+        []
       ],
       [
-        [
-          "KQCW-DT"
-        ],
+        "KQCW-DT",
         [
           "/wiki/KQCW-DT"
         ]
       ],
       [
-        [
-          "The CW"
-        ],
+        "The CW",
         [
           "/wiki/The_CW"
         ]
       ],
       [
-        [
-          "Griffin Communications"
-        ],
+        "Griffin Communications",
         [
           "/wiki/Griffin_Communications"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "23/22"
-        ],
-        [
-          null
-        ]
+        "23/22",
+        []
       ],
       [
-        [
-          "KOKI"
-        ],
+        "KOKI -TV/DT",
         [
           "/wiki/KOKI"
         ]
       ],
       [
-        [
-          "FOX"
-        ],
+        "FOX",
         [
           "/wiki/Fox_Broadcasting_Company"
         ]
       ],
       [
-        [
-          "Cox Media Group"
-        ],
+        "Cox Media Group",
         [
           "/wiki/Cox_Media_Group"
         ]
       ],
       [
-        [
-          "MeTV",
-          "Escape"
-        ],
+        "MeTV on DT2 , Escape on DT3",
         [
           "/wiki/MeTV",
           "/wiki/Escape_(TV_network)"
@@ -404,41 +273,27 @@
     ],
     [
       [
-        [
-          "25"
-        ],
-        [
-          null
-        ]
+        "25",
+        []
       ],
       [
-        [
-          "KUTU-CD"
-        ],
+        "KUTU-CD",
         [
           "/wiki/KUTU-CD"
         ]
       ],
       [
-        [
-          "Univision"
-        ],
+        "Univision",
         [
           "/wiki/Univision"
         ]
       ],
       [
-        [
-          "Tyler Media Group"
-        ],
-        [
-          null
-        ]
+        "Tyler Media Group",
+        []
       ],
       [
-        [
-          "Telemundo"
-        ],
+        "Telemundo on DT2",
         [
           "/wiki/Telemundo"
         ]
@@ -446,83 +301,53 @@
     ],
     [
       [
-        [
-          "29"
-        ],
-        [
-          null
-        ]
+        "29",
+        []
       ],
       [
-        [
-          "KTZT-CD"
-        ],
-        [
-          null
-        ]
+        "KTZT-CD",
+        []
       ],
       [
-        [
-          "Daystar"
-        ],
+        "Daystar",
         [
           "/wiki/Daystar_(TV_network)"
         ]
       ],
       [
-        [
-          "World of God Fellowship"
-        ],
-        [
-          null
-        ]
+        "World of God Fellowship",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "35/36"
-        ],
-        [
-          null
-        ]
+        "35/36",
+        []
       ],
       [
-        [
-          "KRSU-TV"
-        ],
+        "KRSU-TV",
         [
           "/wiki/KRSU-TV"
         ]
       ],
       [
-        [
-          "Educational"
-        ],
+        "Educational",
         [
           "/wiki/Educational"
         ]
       ],
       [
-        [
-          "Rogers State University"
-        ],
+        "Rogers State University",
         [
           "/wiki/Rogers_State_University"
         ]
       ],
       [
-        [
-          "Educational"
-        ],
+        "Educational on DT2",
         [
           "/wiki/Educational"
         ]
@@ -530,85 +355,51 @@
     ],
     [
       [
-        [
-          "40"
-        ],
-        [
-          null
-        ]
+        "40",
+        []
       ],
       [
-        [
-          "K40KC-D"
-        ],
-        [
-          null
-        ]
+        "K40KC-D",
+        []
       ],
       [
-        [
-          "3ABN"
-        ],
-        [
-          null
-        ]
+        "3ABN",
+        []
       ],
       [
-        [
-          "Edge Spectrum"
-        ],
-        [
-          null
-        ]
+        "Edge Spectrum",
+        []
       ],
       [
-        [
-          "3ABN Proclaim on DT2 , 3ABN Dare to Dream on DT3 , 3ABN Latino on DT4 , 3ABN Radio on DT5 , 3ABN Radio Latino on DT6 , Radio 74 on DT7"
-        ],
-        [
-          null
-        ]
+        "3ABN Proclaim on DT2 , 3ABN Dare to Dream on DT3 , 3ABN Latino on DT4 , 3ABN Radio on DT5 , 3ABN Radio Latino on DT6 , Radio 74 on DT7",
+        []
       ]
     ],
     [
       [
-        [
-          "41/42"
-        ],
-        [
-          null
-        ]
+        "41/42",
+        []
       ],
       [
-        [
-          "KMYT-TV"
-        ],
+        "KMYT-TV /DT",
         [
           "/wiki/KMYT-TV"
         ]
       ],
       [
-        [
-          "MyNetworkTV"
-        ],
+        "MyNetworkTV",
         [
           "/wiki/MyNetworkTV"
         ]
       ],
       [
-        [
-          "Cox Media Group"
-        ],
+        "Cox Media Group",
         [
           "/wiki/Cox_Media_Group"
         ]
       ],
       [
-        [
-          "GetTV",
-          "Grit",
-          "Heroes & Icons"
-        ],
+        "GetTV on DT2 , Grit on DT3 , Heroes & Icons on DT4",
         [
           "/wiki/GetTV",
           "/wiki/Grit_(TV_network)",
@@ -618,45 +409,29 @@
     ],
     [
       [
-        [
-          "44/28"
-        ],
-        [
-          null
-        ]
+        "44/28",
+        []
       ],
       [
-        [
-          "KTPX-TV"
-        ],
+        "KTPX-TV",
         [
           "/wiki/KTPX-TV"
         ]
       ],
       [
-        [
-          "ION Television"
-        ],
+        "ION Television",
         [
           "/wiki/ION_Television"
         ]
       ],
       [
-        [
-          "ION Media Networks"
-        ],
+        "ION Media Networks",
         [
           "/wiki/ION_Media_Networks"
         ]
       ],
       [
-        [
-          "Qubo",
-          "Ion Life",
-          "Infomercials",
-          "QVC",
-          "HSN"
-        ],
+        "Qubo on DT2 , Ion Life on DT3 , Infomercials on DT4 , QVC on DT5 , HSN on DT6",
         [
           "/wiki/Qubo",
           "/wiki/Ion_Life",
@@ -668,84 +443,53 @@
     ],
     [
       [
-        [
-          "46"
-        ],
-        [
-          null
-        ]
+        "46",
+        []
       ],
       [
-        [
-          "K30OK-D"
-        ],
-        [
-          null
-        ]
+        "K30OK-D",
+        []
       ],
       [
-        [
-          "HSN"
-        ],
+        "HSN",
         [
           "/wiki/Home_Shopping_Network"
         ]
       ],
       [
-        [
-          "Ventana Television"
-        ],
-        [
-          null
-        ]
+        "Ventana Television",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "47/48"
-        ],
-        [
-          null
-        ]
+        "47/48",
+        []
       ],
       [
-        [
-          "KWHB"
-        ],
+        "KWHB -TV/DT",
         [
           "/wiki/KWHB"
         ]
       ],
       [
-        [
-          "Religious"
-        ],
+        "Religious",
         [
           "/wiki/Religious_broadcasting"
         ]
       ],
       [
-        [
-          "LeSEA Broadcasting"
-        ],
+        "LeSEA Broadcasting",
         [
           "/wiki/Lester_Sumrall"
         ]
       ],
       [
-        [
-          "Light TV",
-          "HSN"
-        ],
+        "Light TV on DT2 , HSN on DT3",
         [
           "/wiki/Light_TV",
           "/wiki/Home_Shopping_Network"
@@ -754,44 +498,29 @@
     ],
     [
       [
-        [
-          "48"
-        ],
-        [
-          null
-        ]
+        "48",
+        []
       ],
       [
-        [
-          "KUOC-LD"
-        ],
+        "KUOC-LD",
         [
           "/wiki/KUOC-LD"
         ]
       ],
       [
-        [
-          "Buzzr"
-        ],
+        "Buzzr",
         [
           "/wiki/Buzzr"
         ]
       ],
       [
-        [
-          "DTV America"
-        ],
+        "DTV America",
         [
           "/wiki/DTV_America"
         ]
       ],
       [
-        [
-          "Decades",
-          "Movies !",
-          "Jewelry Television",
-          "Cozi TV"
-        ],
+        "Somlife Broadcasting Network on DT2 , Decades on DT3 , Movies ! on DT4 , Unknown on DT5 , Jewelry Television on DT6 , Cozi TV on DT7",
         [
           "/wiki/Decades_(TV_network)",
           "/wiki/Movies!",
@@ -802,44 +531,30 @@
     ],
     [
       [
-        [
-          "53/49"
-        ],
-        [
-          null
-        ]
+        "53/49",
+        []
       ],
       [
-        [
-          "KGEB"
-        ],
+        "KGEB -TV/DT",
         [
           "/wiki/KGEB"
         ]
       ],
       [
-        [
-          "Religious"
-        ],
+        "Religious",
         [
           "/wiki/Religious_broadcasting"
         ]
       ],
       [
-        [
-          "Oral Roberts University"
-        ],
+        "Oral Roberts University",
         [
           "/wiki/Oral_Roberts_University"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ]
   ],

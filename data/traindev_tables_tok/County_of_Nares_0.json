@@ -3,53 +3,32 @@
   "title": "County of Nares",
   "header": [
     [
-      [
-        "Parish"
-      ],
-      [
-        null
-      ]
+      "Parish",
+      []
     ],
     [
-      [
-        "LGA"
-      ],
-      [
-        null
-      ]
+      "LGA",
+      []
     ],
     [
-      [
-        "Towns"
-      ],
-      [
-        null
-      ]
+      "Towns",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Barron"
-        ],
-        [
-          null
-        ]
+        "Barron",
+        []
       ],
       [
-        [
-          "Tablelands"
-        ],
+        "Tablelands",
         [
           "/wiki/Tablelands_Region"
         ]
       ],
       [
-        [
-          "Atherton",
-          "Tolga"
-        ],
+        "Atherton , Tolga",
         [
           "/wiki/Atherton,_Queensland",
           "/wiki/Tolga,_Queensland"
@@ -58,53 +37,33 @@
     ],
     [
       [
-        [
-          "Bartle Frere"
-        ],
-        [
-          null
-        ]
+        "Bartle Frere",
+        []
       ],
       [
-        [
-          "Tablelands"
-        ],
+        "Tablelands",
         [
           "/wiki/Tablelands_Region"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Bellenden Ker"
-        ],
-        [
-          null
-        ]
+        "Bellenden Ker",
+        []
       ],
       [
-        [
-          "Cairns"
-        ],
+        "Cairns",
         [
           "/wiki/Cairns_Region"
         ]
       ],
       [
-        [
-          "Babinda",
-          "Bellenden Ker",
-          "Miriwinni"
-        ],
+        "Babinda , Bellenden Ker , Miriwinni",
         [
           "/wiki/Babinda,_Queensland",
           "/wiki/Bellenden_Ker,_Queensland",
@@ -114,26 +73,17 @@
     ],
     [
       [
-        [
-          "Cairns"
-        ],
-        [
-          null
-        ]
+        "Cairns",
+        []
       ],
       [
-        [
-          "Cairns"
-        ],
+        "Cairns",
         [
           "/wiki/Cairns_Region"
         ]
       ],
       [
-        [
-          "Cairns",
-          "Kuranda"
-        ],
+        "Cairns , Kuranda",
         [
           "/wiki/Cairns",
           "/wiki/Kuranda,_Queensland"
@@ -142,78 +92,51 @@
     ],
     [
       [
-        [
-          "Danbulla"
-        ],
+        "Danbulla",
         [
           "/wiki/Danbulla,_Queensland"
         ]
       ],
       [
-        [
-          "Tablelands"
-        ],
+        "Tablelands",
         [
           "/wiki/Tablelands_Region"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Dinden"
-        ],
-        [
-          null
-        ]
+        "Dinden",
+        []
       ],
       [
-        [
-          "Mareeba"
-        ],
+        "Mareeba",
         [
           "/wiki/Shire_of_Mareeba"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Dirran"
-        ],
-        [
-          null
-        ]
+        "Dirran",
+        []
       ],
       [
-        [
-          "Tablelands"
-        ],
+        "Tablelands",
         [
           "/wiki/Tablelands_Region"
         ]
       ],
       [
-        [
-          "Tarzali",
-          "Millaa Millaa"
-        ],
+        "Tarzali , Millaa Millaa",
         [
           "/wiki/Tarzali,_Queensland",
           "/wiki/Millaa_Millaa,_Queensland"
@@ -222,51 +145,33 @@
     ],
     [
       [
-        [
-          "Dulanban"
-        ],
-        [
-          null
-        ]
+        "Dulanban",
+        []
       ],
       [
-        [
-          "Cairns"
-        ],
+        "Cairns",
         [
           "/wiki/Cairns_Region"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "East Barron"
-        ],
-        [
-          null
-        ]
+        "East Barron",
+        []
       ],
       [
-        [
-          "Tablelands"
-        ],
+        "Tablelands",
         [
           "/wiki/Tablelands_Region"
         ]
       ],
       [
-        [
-          "Yungaburra"
-        ],
+        "Yungaburra",
         [
           "/wiki/Yungaburra,_Queensland"
         ]
@@ -274,77 +179,49 @@
     ],
     [
       [
-        [
-          "Formartine"
-        ],
-        [
-          null
-        ]
+        "Formartine",
+        []
       ],
       [
-        [
-          "Mareeba"
-        ],
+        "Mareeba",
         [
           "/wiki/Shire_of_Mareeba"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Gadgarra"
-        ],
-        [
-          null
-        ]
+        "Gadgarra",
+        []
       ],
       [
-        [
-          "Tablelands"
-        ],
+        "Tablelands",
         [
           "/wiki/Tablelands_Region"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Glady"
-        ],
-        [
-          null
-        ]
+        "Glady",
+        []
       ],
       [
-        [
-          "Cassowary Coast"
-        ],
+        "Cassowary Coast",
         [
           "/wiki/Cassowary_Coast_Region"
         ]
       ],
       [
-        [
-          "Flying Fish Point"
-        ],
+        "Flying Fish Point",
         [
           "/wiki/Flying_Fish_Point,_Queensland"
         ]
@@ -352,26 +229,17 @@
     ],
     [
       [
-        [
-          "Grafton"
-        ],
-        [
-          null
-        ]
+        "Grafton",
+        []
       ],
       [
-        [
-          "Cairns"
-        ],
+        "Cairns",
         [
           "/wiki/Cairns_Region"
         ]
       ],
       [
-        [
-          "Edmonton",
-          "Gordonvale"
-        ],
+        "Edmonton , Gordonvale",
         [
           "/wiki/Edmonton,_Queensland",
           "/wiki/Gordonvale,_Queensland"
@@ -380,27 +248,17 @@
     ],
     [
       [
-        [
-          "Hull"
-        ],
-        [
-          null
-        ]
+        "Hull",
+        []
       ],
       [
-        [
-          "Cassowary Coast"
-        ],
+        "Cassowary Coast",
         [
           "/wiki/Cassowary_Coast_Region"
         ]
       ],
       [
-        [
-          "Silkwood",
-          "South Mission Beach",
-          "El Arish"
-        ],
+        "Silkwood , South Mission Beach , El Arish",
         [
           "/wiki/Silkwood,_Queensland",
           "/wiki/South_Mission_Beach,_Queensland",
@@ -410,25 +268,17 @@
     ],
     [
       [
-        [
-          "Japoon"
-        ],
-        [
-          null
-        ]
+        "Japoon",
+        []
       ],
       [
-        [
-          "Cassowary Coast"
-        ],
+        "Cassowary Coast",
         [
           "/wiki/Cassowary_Coast_Region"
         ]
       ],
       [
-        [
-          "Japoon"
-        ],
+        "Japoon",
         [
           "/wiki/Japoonvale,_Queensland"
         ]
@@ -436,26 +286,17 @@
     ],
     [
       [
-        [
-          "Johnstone"
-        ],
-        [
-          null
-        ]
+        "Johnstone",
+        []
       ],
       [
-        [
-          "Cassowary Coast"
-        ],
+        "Cassowary Coast",
         [
           "/wiki/Cassowary_Coast_Region"
         ]
       ],
       [
-        [
-          "Innisfail",
-          "South Johnstone"
-        ],
+        "Innisfail , South Johnstone",
         [
           "/wiki/Innisfail,_Queensland",
           "/wiki/South_Johnstone,_Queensland"
@@ -464,51 +305,33 @@
     ],
     [
       [
-        [
-          "Jordan"
-        ],
-        [
-          null
-        ]
+        "Jordan",
+        []
       ],
       [
-        [
-          "Cassowary Coast"
-        ],
+        "Cassowary Coast",
         [
           "/wiki/Cassowary_Coast_Region"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Malanda"
-        ],
-        [
-          null
-        ]
+        "Malanda",
+        []
       ],
       [
-        [
-          "Tablelands"
-        ],
+        "Tablelands",
         [
           "/wiki/Tablelands_Region"
         ]
       ],
       [
-        [
-          "Malanda"
-        ],
+        "Malanda",
         [
           "/wiki/Malanda,_Queensland"
         ]
@@ -516,51 +339,33 @@
     ],
     [
       [
-        [
-          "Monamona"
-        ],
-        [
-          null
-        ]
+        "Monamona",
+        []
       ],
       [
-        [
-          "Mareeba"
-        ],
+        "Mareeba",
         [
           "/wiki/Shire_of_Mareeba"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Mourilyan"
-        ],
-        [
-          null
-        ]
+        "Mourilyan",
+        []
       ],
       [
-        [
-          "Cassowary Coast"
-        ],
+        "Cassowary Coast",
         [
           "/wiki/Cassowary_Coast_Region"
         ]
       ],
       [
-        [
-          "Mourilyan"
-        ],
+        "Mourilyan , parts of Innisfail",
         [
           "/wiki/Mourilyan,_Queensland"
         ]

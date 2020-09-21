@@ -3,49 +3,37 @@
   "title": "Comparison of integrated development environments",
   "header": [
     [
-      [
-        "IDE"
-      ],
+      "IDE",
       [
         "/wiki/Integrated_development_environment"
       ]
     ],
     [
-      [
-        "Developer"
-      ],
+      "Developer",
       [
         "/wiki/Software_developer"
       ]
     ],
     [
-      [
-        "release"
-      ],
+      "Latest stable release",
       [
         "/wiki/Software_release"
       ]
     ],
     [
-      [
-        "Platform"
-      ],
+      "Platform",
       [
         "/wiki/Platform_(computing)"
       ]
     ],
     [
-      [
-        "License"
-      ],
+      "License",
       [
         "/wiki/Software_license"
       ]
     ],
     [
-      [
-        "Written in"
-      ],
+      "Written in",
       [
         "/wiki/Programming_language"
       ]
@@ -54,49 +42,33 @@
   "data": [
     [
       [
-        [
-          "Anjuta"
-        ],
+        "Anjuta",
         [
           "/wiki/Anjuta"
         ]
       ],
       [
-        [
-          "Anjuta Team"
-        ],
-        [
-          null
-        ]
+        "Anjuta Team",
+        []
       ],
       [
-        [
-          "June 2013"
-        ],
-        [
-          null
-        ]
+        "June 2013",
+        []
       ],
       [
-        [
-          "Unix-like"
-        ],
+        "Unix-like",
         [
           "/wiki/Unix-like"
         ]
       ],
       [
-        [
-          "GPL"
-        ],
+        "GPL",
         [
           "/wiki/GNU_General_Public_License"
         ]
       ],
       [
-        [
-          "C"
-        ],
+        "C",
         [
           "/wiki/C_(programming_language)"
         ]
@@ -104,49 +76,33 @@
     ],
     [
       [
-        [
-          "Atom"
-        ],
+        "Atom",
         [
           "/wiki/Atom_(text_editor)"
         ]
       ],
       [
-        [
-          "GitHub"
-        ],
-        [
-          null
-        ]
+        "GitHub",
+        []
       ],
       [
-        [
-          "1.33.1 / December 19 , 2018"
-        ],
-        [
-          null
-        ]
+        "1.33.1 / December 19 , 2018",
+        []
       ],
       [
-        [
-          "Cross-platform"
-        ],
+        "Cross-platform",
         [
           "/wiki/Cross-platform"
         ]
       ],
       [
-        [
-          "MIT License"
-        ],
+        "MIT License",
         [
           "/wiki/MIT_License"
         ]
       ],
       [
-        [
-          "JavaScript"
-        ],
+        "JavaScript",
         [
           "/wiki/JavaScript"
         ]
@@ -154,51 +110,35 @@
     ],
     [
       [
-        [
-          "Brackets"
-        ],
+        "Brackets",
         [
           "/wiki/Brackets_(text_editor)"
         ]
       ],
       [
-        [
-          "Adobe"
-        ],
+        "Adobe",
         [
           "/wiki/Adobe_Systems"
         ]
       ],
       [
-        [
-          "September 2017"
-        ],
-        [
-          null
-        ]
+        "September 2017",
+        []
       ],
       [
-        [
-          "Cross-platform"
-        ],
+        "Cross-platform",
         [
           "/wiki/Cross-platform"
         ]
       ],
       [
-        [
-          "MIT License"
-        ],
+        "MIT License",
         [
           "/wiki/MIT_License"
         ]
       ],
       [
-        [
-          "JavaScript",
-          "HTML",
-          "CSS"
-        ],
+        "JavaScript , HTML , CSS",
         [
           "/wiki/JavaScript",
           "/wiki/HTML",
@@ -208,50 +148,35 @@
     ],
     [
       [
-        [
-          "Aptana Studio"
-        ],
+        "Aptana Studio",
         [
           "/wiki/Aptana"
         ]
       ],
       [
-        [
-          "Aptana , Inc"
-        ],
+        "Aptana , Inc",
         [
           "/wiki/Aptana"
         ]
       ],
       [
-        [
-          "December 2013"
-        ],
-        [
-          null
-        ]
+        "December 2013",
+        []
       ],
       [
-        [
-          "Cross-platform"
-        ],
+        "Cross-platform",
         [
           "/wiki/Cross-platform"
         ]
       ],
       [
-        [
-          "GPL"
-        ],
+        "GPL , proprietary",
         [
           "/wiki/GNU_General_Public_License"
         ]
       ],
       [
-        [
-          "Java",
-          "JavaScript"
-        ],
+        "Java , JavaScript",
         [
           "/wiki/Java_(programming_language)",
           "/wiki/JavaScript"
@@ -260,49 +185,33 @@
     ],
     [
       [
-        [
-          "Codeanywhere"
-        ],
+        "Codeanywhere",
         [
           "/wiki/Codeanywhere"
         ]
       ],
       [
-        [
-          "Codeanywhere , Inc"
-        ],
-        [
-          null
-        ]
+        "Codeanywhere , Inc",
+        []
       ],
       [
-        [
-          "August 2015"
-        ],
-        [
-          null
-        ]
+        "August 2015",
+        []
       ],
       [
-        [
-          "Cloud IDE"
-        ],
+        "Cloud IDE",
         [
           "/wiki/Cloud_IDE"
         ]
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary",
         [
           "/wiki/Proprietary_software"
         ]
       ],
       [
-        [
-          "JavaScript"
-        ],
+        "JavaScript",
         [
           "/wiki/JavaScript"
         ]
@@ -310,49 +219,35 @@
     ],
     [
       [
-        [
-          "CodeLite"
-        ],
+        "CodeLite",
         [
           "/wiki/CodeLite"
         ]
       ],
       [
-        [
-          "CodeLite"
-        ],
+        "CodeLite",
         [
           "/wiki/CodeLite"
         ]
       ],
       [
-        [
-          "October 2015"
-        ],
-        [
-          null
-        ]
+        "October 2015",
+        []
       ],
       [
-        [
-          "Cross-platform"
-        ],
+        "Cross-platform",
         [
           "/wiki/Cross-platform"
         ]
       ],
       [
-        [
-          "GPL"
-        ],
+        "GPL",
         [
           "/wiki/GNU_General_Public_License"
         ]
       ],
       [
-        [
-          "C++"
-        ],
+        "C++",
         [
           "/wiki/C++"
         ]
@@ -360,38 +255,23 @@
     ],
     [
       [
-        [
-          "Eclipse"
-        ],
+        "Eclipse Web Tools",
         [
           "/wiki/Eclipse_(software)"
         ]
       ],
       [
-        [
-          "IBM"
-        ],
+        "IBM",
         [
           "/wiki/IBM"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Windows",
-          "Linux",
-          "macOS",
-          "FreeBSD",
-          "JVM",
-          "Solaris"
-        ],
+        "Windows , Linux , macOS , FreeBSD , JVM , Solaris",
         [
           "/wiki/Microsoft_Windows",
           "/wiki/Linux",
@@ -402,18 +282,13 @@
         ]
       ],
       [
-        [
-          "EPL"
-        ],
+        "EPL",
         [
           "/wiki/Eclipse_Public_License"
         ]
       ],
       [
-        [
-          "C",
-          "Java"
-        ],
+        "C , Java",
         [
           "/wiki/C_(programming_language)",
           "/wiki/Java_(programming_language)"
@@ -422,57 +297,36 @@
     ],
     [
       [
-        [
-          "Komodo IDE / Edit"
-        ],
+        "Komodo IDE / Edit",
         [
           "/wiki/ActiveState_Komodo"
         ]
       ],
       [
-        [
-          "ActiveState"
-        ],
+        "ActiveState",
         [
           "/wiki/ActiveState"
         ]
       ],
       [
-        [
-          "November 19 , 2013"
-        ],
-        [
-          null
-        ]
+        "November 19 , 2013",
+        []
       ],
       [
-        [
-          "Cross-platform"
-        ],
+        "Cross-platform",
         [
           "/wiki/Cross-platform"
         ]
       ],
       [
-        [
-          "Proprietary",
-          "MPL"
-        ],
+        "IDE : Proprietary , Edit : MPL 1.1",
         [
           "/wiki/Proprietary_software",
           "/wiki/Mozilla_Public_License"
         ]
       ],
       [
-        [
-          "C",
-          "C++",
-          "JavaScript",
-          "Perl",
-          "Python",
-          "Tcl",
-          "XUL"
-        ],
+        "C , C++ , JavaScript , Perl , Python , Tcl , XUL",
         [
           "/wiki/C_(programming_language)",
           "/wiki/C++",
@@ -486,51 +340,36 @@
     ],
     [
       [
-        [
-          "NetBeans"
-        ],
+        "NetBeans",
         [
           "/wiki/NetBeans"
         ]
       ],
       [
-        [
-          "Oracle"
-        ],
+        "Oracle",
         [
           "/wiki/Oracle_Corporation"
         ]
       ],
       [
-        [
-          "9.0 / July 29 , 2018 ; 18 months ago ( 2018-07-29 )"
-        ],
-        [
-          null
-        ]
+        "9.0 / July 29 , 2018 ; 18 months ago ( 2018-07-29 )",
+        []
       ],
       [
-        [
-          "Cross-platform"
-        ],
+        "Cross-platform",
         [
           "/wiki/Cross-platform"
         ]
       ],
       [
-        [
-          "CDDL",
-          "GPL2"
-        ],
+        "CDDL , GPL2",
         [
           "/wiki/CDDL",
           "/wiki/GPL2"
         ]
       ],
       [
-        [
-          "Java"
-        ],
+        "Java",
         [
           "/wiki/Java_(programming_language)"
         ]
@@ -538,38 +377,23 @@
     ],
     [
       [
-        [
-          "Nodeclipse"
-        ],
+        "Nodeclipse NTS",
         [
           "/wiki/Nodeclipse"
         ]
       ],
       [
-        [
-          "Nodeclipse"
-        ],
+        "Nodeclipse",
         [
           "/wiki/Nodeclipse"
         ]
       ],
       [
-        [
-          "March 31 , 2014"
-        ],
-        [
-          null
-        ]
+        "March 31 , 2014",
+        []
       ],
       [
-        [
-          "Windows",
-          "Linux",
-          "macOS",
-          "FreeBSD",
-          "JVM",
-          "Solaris"
-        ],
+        "Windows , Linux , macOS , FreeBSD , JVM , Solaris",
         [
           "/wiki/Microsoft_Windows",
           "/wiki/Linux",
@@ -580,17 +404,13 @@
         ]
       ],
       [
-        [
-          "EPL"
-        ],
+        "EPL",
         [
           "/wiki/Eclipse_Public_License"
         ]
       ],
       [
-        [
-          "Java"
-        ],
+        "Java",
         [
           "/wiki/Java_(programming_language)"
         ]
@@ -598,85 +418,57 @@
     ],
     [
       [
-        [
-          "NuSphere PhpED"
-        ],
+        "NuSphere PhpED",
         [
           "/wiki/PHPEd"
         ]
       ],
       [
-        [
-          "NuSphere"
-        ],
+        "NuSphere",
         [
           "/wiki/NuSphere"
         ]
       ],
       [
-        [
-          "June 2011"
-        ],
-        [
-          null
-        ]
+        "June 2011",
+        []
       ],
       [
-        [
-          "Windows"
-        ],
+        "Windows",
         [
           "/wiki/Microsoft_Windows"
         ]
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary",
         [
           "/wiki/Proprietary_software"
         ]
       ],
       [
-        [
-          "N/A"
-        ],
-        [
-          null
-        ]
+        "N/A",
+        []
       ]
     ],
     [
       [
-        [
-          "Oracle JDeveloper"
-        ],
+        "Oracle JDeveloper",
         [
           "/wiki/Oracle_JDeveloper"
         ]
       ],
       [
-        [
-          "Oracle Corporation"
-        ],
+        "Oracle Corporation",
         [
           "/wiki/Oracle_Corporation"
         ]
       ],
       [
-        [
-          "July 2013"
-        ],
-        [
-          null
-        ]
+        "July 2013",
+        []
       ],
       [
-        [
-          "Windows",
-          "Linux",
-          "macOS"
-        ],
+        "Windows , Linux , macOS",
         [
           "/wiki/Microsoft_Windows",
           "/wiki/Linux",
@@ -684,17 +476,13 @@
         ]
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary - free",
         [
           "/wiki/Proprietary_software"
         ]
       ],
       [
-        [
-          "Java"
-        ],
+        "Java",
         [
           "/wiki/Java_(programming_language)"
         ]
@@ -702,49 +490,31 @@
     ],
     [
       [
-        [
-          "Servoy"
-        ],
+        "Servoy",
         [
           "/wiki/Servoy"
         ]
       ],
       [
-        [
-          "Servoy Developer Team"
-        ],
-        [
-          null
-        ]
+        "Servoy Developer Team",
+        []
       ],
       [
-        [
-          "June 2011"
-        ],
-        [
-          null
-        ]
+        "June 2011",
+        []
       ],
       [
-        [
-          "Cross-platform"
-        ],
+        "Cross-platform",
         [
           "/wiki/Cross-platform"
         ]
       ],
       [
-        [
-          "Servoy License"
-        ],
-        [
-          null
-        ]
+        "Servoy License",
+        []
       ],
       [
-        [
-          "Java"
-        ],
+        "Java",
         [
           "/wiki/Java_(programming_language)"
         ]
@@ -752,38 +522,23 @@
     ],
     [
       [
-        [
-          "SlickEdit"
-        ],
+        "SlickEdit",
         [
           "/wiki/SlickEdit"
         ]
       ],
       [
-        [
-          "SlickEdit"
-        ],
+        "SlickEdit",
         [
           "/wiki/SlickEdit"
         ]
       ],
       [
-        [
-          "October 2016"
-        ],
-        [
-          null
-        ]
+        "October 2016",
+        []
       ],
       [
-        [
-          "Windows",
-          "Linux",
-          "macOS",
-          "Solaris",
-          "AIX",
-          "HP-UX"
-        ],
+        "Windows , Linux , macOS , Solaris , AIX , HP-UX",
         [
           "/wiki/Windows",
           "/wiki/Linux",
@@ -794,17 +549,13 @@
         ]
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary",
         [
           "/wiki/Proprietary_software"
         ]
       ],
       [
-        [
-          "C++"
-        ],
+        "C++",
         [
           "/wiki/C++"
         ]
@@ -812,50 +563,33 @@
     ],
     [
       [
-        [
-          "Visual Studio"
-        ],
+        "Visual Studio",
         [
           "/wiki/Visual_Studio"
         ]
       ],
       [
-        [
-          "Microsoft"
-        ],
-        [
-          null
-        ]
+        "Microsoft",
+        []
       ],
       [
-        [
-          "March 31 , 2016"
-        ],
-        [
-          null
-        ]
+        "March 31 , 2016",
+        []
       ],
       [
-        [
-          "Windows"
-        ],
+        "Windows",
         [
           "/wiki/Windows"
         ]
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary",
         [
           "/wiki/Proprietary_software"
         ]
       ],
       [
-        [
-          "C++",
-          "C #"
-        ],
+        "C++ , C #",
         [
           "/wiki/C++",
           "/wiki/C_Sharp_(programming_language)"
@@ -864,49 +598,33 @@
     ],
     [
       [
-        [
-          "Visual Studio Code"
-        ],
+        "Visual Studio Code",
         [
           "/wiki/Visual_Studio_Code"
         ]
       ],
       [
-        [
-          "Microsoft"
-        ],
-        [
-          null
-        ]
+        "Microsoft",
+        []
       ],
       [
-        [
-          "1.30.2 / January 8 , 2019"
-        ],
-        [
-          null
-        ]
+        "1.30.2 / January 8 , 2019",
+        []
       ],
       [
-        [
-          "Cross-platform"
-        ],
+        "Cross-platform",
         [
           "/wiki/Cross-platform"
         ]
       ],
       [
-        [
-          "MIT License"
-        ],
+        "MIT License",
         [
           "/wiki/MIT_License"
         ]
       ],
       [
-        [
-          "JavaScript"
-        ],
+        "JavaScript",
         [
           "/wiki/JavaScript"
         ]
@@ -914,49 +632,35 @@
     ],
     [
       [
-        [
-          "WebStorm"
-        ],
+        "WebStorm",
         [
           "/wiki/WebStorm"
         ]
       ],
       [
-        [
-          "JetBrains"
-        ],
+        "JetBrains",
         [
           "/wiki/JetBrains"
         ]
       ],
       [
-        [
-          "2019.1/ 25 March 2019"
-        ],
-        [
-          null
-        ]
+        "2019.1/ 25 March 2019",
+        []
       ],
       [
-        [
-          "Cross-platform"
-        ],
+        "Cross-platform",
         [
           "/wiki/Cross-platform"
         ]
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary",
         [
           "/wiki/Proprietary_software"
         ]
       ],
       [
-        [
-          "Java"
-        ],
+        "Java",
         [
           "/wiki/Java_(programming_language)"
         ]

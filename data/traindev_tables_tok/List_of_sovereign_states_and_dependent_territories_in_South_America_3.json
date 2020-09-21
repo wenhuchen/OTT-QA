@@ -3,27 +3,17 @@
   "title": "List of sovereign states and dependent territories in South America",
   "header": [
     [
-      [
-        "Name"
-      ],
-      [
-        null
-      ]
+      "Name",
+      []
     ],
     [
-      [
-        "Currency"
-      ],
+      "Currency",
       [
         "/wiki/Currency"
       ]
     ],
     [
-      [
-        "GDP",
-        "PPP",
-        "U.S. dollars"
-      ],
+      "GDP ( PPP ) per capita ( 2008 est . in U.S. dollars )",
       [
         "/wiki/Gross_domestic_product",
         "/wiki/Purchasing_power_parity",
@@ -34,370 +24,254 @@
   "data": [
     [
       [
-        [
-          "Argentina"
-        ],
+        "Argentina",
         [
           "/wiki/Argentina"
         ]
       ],
       [
-        [
-          "Argentine peso"
-        ],
+        "Argentine peso",
         [
           "/wiki/Argentine_peso"
         ]
       ],
       [
-        [
-          "14,200"
-        ],
-        [
-          null
-        ]
+        "14,200",
+        []
       ]
     ],
     [
       [
-        [
-          "Bolivia"
-        ],
+        "Bolivia",
         [
           "/wiki/Bolivia"
         ]
       ],
       [
-        [
-          "Boliviano"
-        ],
+        "Boliviano",
         [
           "/wiki/Boliviano"
         ]
       ],
       [
-        [
-          "4,500"
-        ],
-        [
-          null
-        ]
+        "4,500",
+        []
       ]
     ],
     [
       [
-        [
-          "Brazil"
-        ],
+        "Brazil",
         [
           "/wiki/Brazil"
         ]
       ],
       [
-        [
-          "Brazilian real"
-        ],
+        "Brazilian real",
         [
           "/wiki/Brazilian_real"
         ]
       ],
       [
-        [
-          "10,100"
-        ],
-        [
-          null
-        ]
+        "10,100",
+        []
       ]
     ],
     [
       [
-        [
-          "Chile"
-        ],
+        "Chile",
         [
           "/wiki/Chile"
         ]
       ],
       [
-        [
-          "Chilean peso"
-        ],
+        "Chilean peso",
         [
           "/wiki/Chilean_peso"
         ]
       ],
       [
-        [
-          "14,900"
-        ],
-        [
-          null
-        ]
+        "14,900",
+        []
       ]
     ],
     [
       [
-        [
-          "Colombia"
-        ],
+        "Colombia",
         [
           "/wiki/Colombia"
         ]
       ],
       [
-        [
-          "Colombian peso"
-        ],
+        "Colombian peso",
         [
           "/wiki/Colombian_peso"
         ]
       ],
       [
-        [
-          "8,900"
-        ],
-        [
-          null
-        ]
+        "8,900",
+        []
       ]
     ],
     [
       [
-        [
-          "Ecuador"
-        ],
+        "Ecuador",
         [
           "/wiki/Ecuador"
         ]
       ],
       [
-        [
-          "United States dollar"
-        ],
+        "United States dollar",
         [
           "/wiki/United_States_dollar"
         ]
       ],
       [
-        [
-          "7,500"
-        ],
-        [
-          null
-        ]
+        "7,500",
+        []
       ]
     ],
     [
       [
-        [
-          "Falkland Islands",
-          "UK"
-        ],
+        "Falkland Islands ( UK )",
         [
           "/wiki/Falkland_Islands",
           "/wiki/United_Kingdom"
         ]
       ],
       [
-        [
-          "Falkland Islands pound"
-        ],
+        "Falkland Islands pound",
         [
           "/wiki/Falkland_Islands_pound"
         ]
       ],
       [
-        [
-          "35,400 ( 2002 est . )"
-        ],
-        [
-          null
-        ]
+        "35,400 ( 2002 est . )",
+        []
       ]
     ],
     [
       [
-        [
-          "French Guiana",
-          "France"
-        ],
+        "French Guiana ( France )",
         [
           "/wiki/French_Guiana",
           "/wiki/France"
         ]
       ],
       [
-        [
-          "Euro"
-        ],
+        "Euro",
         [
           "/wiki/Euro"
         ]
       ],
       [
-        [
-          "6,000 ( 2001 est . )"
-        ],
-        [
-          null
-        ]
+        "6,000 ( 2001 est . )",
+        []
       ]
     ],
     [
       [
-        [
-          "Guyana"
-        ],
+        "Guyana",
         [
           "/wiki/Guyana"
         ]
       ],
       [
-        [
-          "Guyanese dollar"
-        ],
+        "Guyanese dollar",
         [
           "/wiki/Guyanese_dollar"
         ]
       ],
       [
-        [
-          "3,900"
-        ],
-        [
-          null
-        ]
+        "3,900",
+        []
       ]
     ],
     [
       [
-        [
-          "Paraguay"
-        ],
+        "Paraguay",
         [
           "/wiki/Paraguay"
         ]
       ],
       [
-        [
-          "Paraguayan guaran\u00ed"
-        ],
-        [
-          null
-        ]
+        "Paraguayan guaran\u00ed",
+        []
       ],
       [
-        [
-          "4,200"
-        ],
-        [
-          null
-        ]
+        "4,200",
+        []
       ]
     ],
     [
       [
-        [
-          "Peru"
-        ],
+        "Peru",
         [
           "/wiki/Peru"
         ]
       ],
       [
-        [
-          "Peruvian nuevo sol"
-        ],
+        "Peruvian nuevo sol",
         [
           "/wiki/Peruvian_nuevo_sol"
         ]
       ],
       [
-        [
-          "8,400"
-        ],
-        [
-          null
-        ]
+        "8,400",
+        []
       ]
     ],
     [
       [
-        [
-          "Suriname"
-        ],
+        "Suriname",
         [
           "/wiki/Suriname"
         ]
       ],
       [
-        [
-          "Surinamese dollar"
-        ],
+        "Surinamese dollar",
         [
           "/wiki/Surinamese_dollar"
         ]
       ],
       [
-        [
-          "8,900"
-        ],
-        [
-          null
-        ]
+        "8,900",
+        []
       ]
     ],
     [
       [
-        [
-          "Uruguay"
-        ],
+        "Uruguay",
         [
           "/wiki/Uruguay"
         ]
       ],
       [
-        [
-          "Uruguayan peso"
-        ],
+        "Uruguayan peso",
         [
           "/wiki/Uruguayan_peso"
         ]
       ],
       [
-        [
-          "12,200"
-        ],
-        [
-          null
-        ]
+        "12,200",
+        []
       ]
     ],
     [
       [
-        [
-          "Venezuela"
-        ],
+        "Venezuela",
         [
           "/wiki/Venezuela"
         ]
       ],
       [
-        [
-          "Venezuelan bol\u00edvar"
-        ],
+        "Venezuelan bol\u00edvar",
         [
           "/wiki/Venezuelan_bol\u00edvar"
         ]
       ],
       [
-        [
-          "13,500"
-        ],
-        [
-          null
-        ]
+        "13,500",
+        []
       ]
     ]
   ],

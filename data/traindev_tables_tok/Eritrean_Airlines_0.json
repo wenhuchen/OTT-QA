@@ -3,136 +3,92 @@
   "title": "Eritrean Airlines",
   "header": [
     [
-      [
-        "Country"
-      ],
-      [
-        null
-      ]
+      "Country",
+      []
     ],
     [
-      [
-        "City"
-      ],
-      [
-        null
-      ]
+      "City",
+      []
     ],
     [
-      [
-        "Airport Name"
-      ],
-      [
-        null
-      ]
+      "Airport Name",
+      []
     ],
     [
-      [
-        "Notes"
-      ],
-      [
-        null
-      ]
+      "Notes",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Egypt"
-        ],
+        "Egypt",
         [
           "/wiki/Egypt"
         ]
       ],
       [
-        [
-          "Cairo"
-        ],
+        "Cairo",
         [
           "/wiki/Cairo"
         ]
       ],
       [
-        [
-          "Cairo International Airport"
-        ],
+        "Cairo International Airport",
         [
           "/wiki/Cairo_International_Airport"
         ]
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ]
     ],
     [
       [
-        [
-          "Ethiopia"
-        ],
+        "Ethiopia",
         [
           "/wiki/Ethiopia"
         ]
       ],
       [
-        [
-          "Addis Ababa"
-        ],
+        "Addis Ababa",
         [
           "/wiki/Addis_Ababa"
         ]
       ],
       [
-        [
-          "Bole International Airport"
-        ],
+        "Bole International Airport",
         [
           "/wiki/Bole_International_Airport"
         ]
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ]
     ],
     [
       [
-        [
-          "Eritrea"
-        ],
+        "Eritrea",
         [
           "/wiki/Eritrea"
         ]
       ],
       [
-        [
-          "Asmara"
-        ],
+        "Asmara",
         [
           "/wiki/Asmara"
         ]
       ],
       [
-        [
-          "Asmara International Airport"
-        ],
+        "Asmara International Airport",
         [
           "/wiki/Asmara_International_Airport"
         ]
       ],
       [
-        [
-          "Hub"
-        ],
+        "Hub",
         [
           "/wiki/Airline_hub"
         ]
@@ -140,410 +96,290 @@
     ],
     [
       [
-        [
-          "Germany"
-        ],
+        "Germany",
         [
           "/wiki/Germany"
         ]
       ],
       [
-        [
-          "Frankfurt"
-        ],
+        "Frankfurt",
         [
           "/wiki/Frankfurt"
         ]
       ],
       [
-        [
-          "Frankfurt Airport"
-        ],
+        "Frankfurt Airport",
         [
           "/wiki/Frankfurt_Airport"
         ]
       ],
       [
-        [
-          "Terminated"
-        ],
-        [
-          null
-        ]
+        "Terminated",
+        []
       ]
     ],
     [
       [
-        [
-          "Italy"
-        ],
+        "Italy",
         [
           "/wiki/Italy"
         ]
       ],
       [
-        [
-          "Milan"
-        ],
+        "Milan",
         [
           "/wiki/Milan"
         ]
       ],
       [
-        [
-          "Malpensa International Airport"
-        ],
+        "Malpensa International Airport",
         [
           "/wiki/Malpensa_International_Airport"
         ]
       ],
       [
-        [
-          "No scheduled service"
-        ],
-        [
-          null
-        ]
+        "No scheduled service",
+        []
       ]
     ],
     [
       [
-        [
-          "Italy"
-        ],
+        "Italy",
         [
           "/wiki/Italy"
         ]
       ],
       [
-        [
-          "Rome"
-        ],
+        "Rome",
         [
           "/wiki/Rome"
         ]
       ],
       [
-        [
-          "Leonardo da Vinci-Fiumicino Airport"
-        ],
+        "Leonardo da Vinci-Fiumicino Airport",
         [
           "/wiki/Leonardo_da_Vinci-Fiumicino_Airport"
         ]
       ],
       [
-        [
-          "Terminated"
-        ],
-        [
-          null
-        ]
+        "Terminated",
+        []
       ]
     ],
     [
       [
-        [
-          "Nigeria"
-        ],
+        "Nigeria",
         [
           "/wiki/Nigeria"
         ]
       ],
       [
-        [
-          "Kano"
-        ],
+        "Kano",
         [
           "/wiki/Kano"
         ]
       ],
       [
-        [
-          "Mallam Aminu Kano International Airport"
-        ],
+        "Mallam Aminu Kano International Airport",
         [
           "/wiki/Mallam_Aminu_Kano_International_Airport"
         ]
       ],
       [
-        [
-          "No scheduled service"
-        ],
-        [
-          null
-        ]
+        "No scheduled service",
+        []
       ]
     ],
     [
       [
-        [
-          "Pakistan"
-        ],
+        "Pakistan",
         [
           "/wiki/Pakistan"
         ]
       ],
       [
-        [
-          "Karachi"
-        ],
+        "Karachi",
         [
           "/wiki/Karachi"
         ]
       ],
       [
-        [
-          "Jinnah International Airport"
-        ],
+        "Jinnah International Airport",
         [
           "/wiki/Jinnah_International_Airport"
         ]
       ],
       [
-        [
-          "Terminated"
-        ],
-        [
-          null
-        ]
+        "Terminated",
+        []
       ]
     ],
     [
       [
-        [
-          "Pakistan"
-        ],
+        "Pakistan",
         [
           "/wiki/Pakistan"
         ]
       ],
       [
-        [
-          "Lahore"
-        ],
+        "Lahore",
         [
           "/wiki/Lahore"
         ]
       ],
       [
-        [
-          "Allama Iqbal International Airport"
-        ],
+        "Allama Iqbal International Airport",
         [
           "/wiki/Allama_Iqbal_International_Airport"
         ]
       ],
       [
-        [
-          "Terminated"
-        ],
-        [
-          null
-        ]
+        "Terminated",
+        []
       ]
     ],
     [
       [
-        [
-          "Saudi Arabia"
-        ],
+        "Saudi Arabia",
         [
           "/wiki/Saudi_Arabia"
         ]
       ],
       [
-        [
-          "Jeddah"
-        ],
+        "Jeddah",
         [
           "/wiki/Jeddah"
         ]
       ],
       [
-        [
-          "King Abdulaziz International Airport"
-        ],
+        "King Abdulaziz International Airport",
         [
           "/wiki/King_Abdulaziz_International_Airport"
         ]
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ]
     ],
     [
       [
-        [
-          "South Africa"
-        ],
+        "South Africa",
         [
           "/wiki/South_Africa"
         ]
       ],
       [
-        [
-          "Cape Town"
-        ],
+        "Cape Town",
         [
           "/wiki/Cape_Town"
         ]
       ],
       [
-        [
-          "Cape Town International Airport"
-        ],
+        "Cape Town International Airport",
         [
           "/wiki/Cape_Town_International_Airport"
         ]
       ],
       [
-        [
-          "Terminated"
-        ],
-        [
-          null
-        ]
+        "Terminated",
+        []
       ]
     ],
     [
       [
-        [
-          "South Africa"
-        ],
+        "South Africa",
         [
           "/wiki/South_Africa"
         ]
       ],
       [
-        [
-          "Johannesburg"
-        ],
+        "Johannesburg",
         [
           "/wiki/Johannesburg"
         ]
       ],
       [
-        [
-          "OR Tambo International Airport"
-        ],
+        "OR Tambo International Airport",
         [
           "/wiki/OR_Tambo_International_Airport"
         ]
       ],
       [
-        [
-          "Terminated"
-        ],
-        [
-          null
-        ]
+        "Terminated",
+        []
       ]
     ],
     [
       [
-        [
-          "Sudan"
-        ],
+        "Sudan",
         [
           "/wiki/Sudan"
         ]
       ],
       [
-        [
-          "Khartoum"
-        ],
+        "Khartoum",
         [
           "/wiki/Khartoum"
         ]
       ],
       [
-        [
-          "Khartoum International Airport"
-        ],
+        "Khartoum International Airport",
         [
           "/wiki/Khartoum_International_Airport"
         ]
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ]
     ],
     [
       [
-        [
-          "Sudan"
-        ],
+        "Sudan",
         [
           "/wiki/Sudan"
         ]
       ],
       [
-        [
-          "Port Sudan"
-        ],
+        "Port Sudan",
         [
           "/wiki/Port_Sudan"
         ]
       ],
       [
-        [
-          "Port Sudan New International Airport"
-        ],
+        "Port Sudan New International Airport",
         [
           "/wiki/Port_Sudan_New_International_Airport"
         ]
       ],
       [
-        [
-          "Terminated"
-        ],
-        [
-          null
-        ]
+        "Terminated",
+        []
       ]
     ],
     [
       [
-        [
-          "United Arab Emirates"
-        ],
+        "United Arab Emirates",
         [
           "/wiki/United_Arab_Emirates"
         ]
       ],
       [
-        [
-          "Dubai"
-        ],
+        "Dubai",
         [
           "/wiki/Dubai"
         ]
       ],
       [
-        [
-          "Dubai International Airport"
-        ],
+        "Dubai International Airport",
         [
           "/wiki/Dubai_International_Airport"
         ]
       ],
       [
-        [
-          "No scheduled service"
-        ],
-        [
-          null
-        ]
+        "No scheduled service",
+        []
       ]
     ]
   ],

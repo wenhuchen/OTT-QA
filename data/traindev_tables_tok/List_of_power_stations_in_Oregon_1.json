@@ -3,1053 +3,661 @@
   "title": "List of power stations in Oregon",
   "header": [
     [
-      [
-        "Name"
-      ],
-      [
-        null
-      ]
+      "Name",
+      []
     ],
     [
-      [
-        "Location"
-      ],
-      [
-        null
-      ]
+      "Location",
+      []
     ],
     [
-      [
-        "Type"
-      ],
-      [
-        null
-      ]
+      "Type",
+      []
     ],
     [
-      [
-        "MW"
-      ],
+      "Capacity ( MW )",
       [
         "/wiki/Megawatt"
       ]
     ],
     [
-      [
-        "Operator"
-      ],
-      [
-        null
-      ]
+      "Operator",
+      []
     ],
     [
-      [
-        "Year opened"
-      ],
-      [
-        null
-      ]
+      "Year opened",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "John Day Dam"
-        ],
+        "John Day Dam",
         [
           "/wiki/John_Day_Dam"
         ]
       ],
       [
-        [
-          "Columbia River"
-        ],
+        "Columbia River ( also WA )",
         [
           "/wiki/Columbia_River"
         ]
       ],
       [
-        [
-          "Hydro"
-        ],
-        [
-          null
-        ]
+        "Hydro",
+        []
       ],
       [
-        [
-          "2,160"
-        ],
-        [
-          null
-        ]
+        "2,160",
+        []
       ],
       [
-        [
-          "United States Army Corps of Engineers"
-        ],
+        "United States Army Corps of Engineers",
         [
           "/wiki/United_States_Army_Corps_of_Engineers"
         ]
       ],
       [
-        [
-          "1971"
-        ],
-        [
-          null
-        ]
+        "1971",
+        []
       ]
     ],
     [
       [
-        [
-          "The Dalles Dam"
-        ],
+        "The Dalles Dam",
         [
           "/wiki/The_Dalles_Dam"
         ]
       ],
       [
-        [
-          "Columbia River"
-        ],
+        "Columbia River ( also WA )",
         [
           "/wiki/Columbia_River"
         ]
       ],
       [
-        [
-          "Hydro"
-        ],
-        [
-          null
-        ]
+        "Hydro",
+        []
       ],
       [
-        [
-          "2,100"
-        ],
-        [
-          null
-        ]
+        "2,100",
+        []
       ],
       [
-        [
-          "United States Army Corps of Engineers"
-        ],
+        "United States Army Corps of Engineers",
         [
           "/wiki/United_States_Army_Corps_of_Engineers"
         ]
       ],
       [
-        [
-          "1957"
-        ],
-        [
-          null
-        ]
+        "1957",
+        []
       ]
     ],
     [
       [
-        [
-          "Bonneville Dam"
-        ],
+        "Bonneville Dam",
         [
           "/wiki/Bonneville_Dam"
         ]
       ],
       [
-        [
-          "Columbia River"
-        ],
+        "Columbia River ( also WA )",
         [
           "/wiki/Columbia_River"
         ]
       ],
       [
-        [
-          "Hydro"
-        ],
-        [
-          null
-        ]
+        "Hydro",
+        []
       ],
       [
-        [
-          "1,218"
-        ],
-        [
-          null
-        ]
+        "1,218",
+        []
       ],
       [
-        [
-          "United States Army Corps of Engineers"
-        ],
+        "United States Army Corps of Engineers",
         [
           "/wiki/United_States_Army_Corps_of_Engineers"
         ]
       ],
       [
-        [
-          "1937"
-        ],
-        [
-          null
-        ]
+        "1937",
+        []
       ]
     ],
     [
       [
-        [
-          "McNary Dam"
-        ],
+        "McNary Dam",
         [
           "/wiki/McNary_Dam"
         ]
       ],
       [
-        [
-          "Columbia River"
-        ],
+        "Columbia River ( also WA )",
         [
           "/wiki/Columbia_River"
         ]
       ],
       [
-        [
-          "Hydro"
-        ],
-        [
-          null
-        ]
+        "Hydro",
+        []
       ],
       [
-        [
-          "980"
-        ],
-        [
-          null
-        ]
+        "980",
+        []
       ],
       [
-        [
-          "United States Army Corps of Engineers"
-        ],
+        "United States Army Corps of Engineers",
         [
           "/wiki/United_States_Army_Corps_of_Engineers"
         ]
       ],
       [
-        [
-          "1954"
-        ],
-        [
-          null
-        ]
+        "1954",
+        []
       ]
     ],
     [
       [
-        [
-          "Brownlee Dam"
-        ],
+        "Brownlee Dam",
         [
           "/wiki/Brownlee_Dam"
         ]
       ],
       [
-        [
-          "Snake River"
-        ],
+        "Snake River",
         [
           "/wiki/Snake_River"
         ]
       ],
       [
-        [
-          "Hydro"
-        ],
-        [
-          null
-        ]
+        "Hydro",
+        []
       ],
       [
-        [
-          "585"
-        ],
-        [
-          null
-        ]
+        "585",
+        []
       ],
       [
-        [
-          "Idaho Power Company"
-        ],
+        "Idaho Power Company",
         [
           "/wiki/Idaho_Power_Company"
         ]
       ],
       [
-        [
-          "1958"
-        ],
-        [
-          null
-        ]
+        "1958",
+        []
       ]
     ],
     [
       [
-        [
-          "Hells Canyon Dam"
-        ],
+        "Hells Canyon Dam",
         [
           "/wiki/Hells_Canyon_Dam"
         ]
       ],
       [
-        [
-          "Snake River"
-        ],
+        "Snake River",
         [
           "/wiki/Snake_River"
         ]
       ],
       [
-        [
-          "Hydro"
-        ],
-        [
-          null
-        ]
+        "Hydro",
+        []
       ],
       [
-        [
-          "391"
-        ],
-        [
-          null
-        ]
+        "391",
+        []
       ],
       [
-        [
-          "Idaho Power Company"
-        ],
+        "Idaho Power Company",
         [
           "/wiki/Idaho_Power_Company"
         ]
       ],
       [
-        [
-          "1967"
-        ],
-        [
-          null
-        ]
+        "1967",
+        []
       ]
     ],
     [
       [
-        [
-          "Round Butte Dam"
-        ],
+        "Round Butte Dam",
         [
           "/wiki/Round_Butte_Dam"
         ]
       ],
       [
-        [
-          "Deschutes River"
-        ],
+        "Deschutes River",
         [
           "/wiki/Deschutes_River_(Oregon)"
         ]
       ],
       [
-        [
-          "Hydro"
-        ],
-        [
-          null
-        ]
+        "Hydro",
+        []
       ],
       [
-        [
-          "225"
-        ],
-        [
-          null
-        ]
+        "225",
+        []
       ],
       [
-        [
-          "Portland General Electric"
-        ],
+        "Portland General Electric",
         [
           "/wiki/Portland_General_Electric"
         ]
       ],
       [
-        [
-          "1964"
-        ],
-        [
-          null
-        ]
+        "1964",
+        []
       ]
     ],
     [
       [
-        [
-          "North Umpqua River System"
-        ],
-        [
-          null
-        ]
+        "North Umpqua River System",
+        []
       ],
       [
-        [
-          "Umpqua River"
-        ],
+        "Umpqua River",
         [
           "/wiki/Umpqua_River"
         ]
       ],
       [
-        [
-          "Hydro"
-        ],
-        [
-          null
-        ]
+        "Hydro",
+        []
       ],
       [
-        [
-          "200"
-        ],
-        [
-          null
-        ]
+        "200",
+        []
       ],
       [
-        [
-          "PacifiCorp"
-        ],
+        "PacifiCorp",
         [
           "/wiki/PacifiCorp"
         ]
       ],
       [
-        [
-          "1950 to 1956"
-        ],
-        [
-          null
-        ]
+        "1950 to 1956",
+        []
       ]
     ],
     [
       [
-        [
-          "Oxbow power station"
-        ],
+        "Oxbow power station",
         [
           "/wiki/Oxbow_power_station"
         ]
       ],
       [
-        [
-          "Snake River"
-        ],
+        "Snake River ( also ID )",
         [
           "/wiki/Snake_River"
         ]
       ],
       [
-        [
-          "Hydro"
-        ],
-        [
-          null
-        ]
+        "Hydro",
+        []
       ],
       [
-        [
-          "190"
-        ],
-        [
-          null
-        ]
+        "190",
+        []
       ],
       [
-        [
-          "Idaho Power Company"
-        ],
+        "Idaho Power Company",
         [
           "/wiki/Idaho_Power_Company"
         ]
       ],
       [
-        [
-          "1961"
-        ],
-        [
-          null
-        ]
+        "1961",
+        []
       ]
     ],
     [
       [
-        [
-          "Link River Dam"
-        ],
+        "Link River Dam",
         [
           "/wiki/Link_River_Dam"
         ]
       ],
       [
-        [
-          "Link River"
-        ],
+        "Link River",
         [
           "/wiki/Link_River"
         ]
       ],
       [
-        [
-          "Hydro"
-        ],
-        [
-          null
-        ]
+        "Hydro",
+        []
       ],
       [
-        [
-          "151"
-        ],
-        [
-          null
-        ]
+        "151",
+        []
       ],
       [
-        [
-          "PacifiCorp"
-        ],
+        "PacifiCorp",
         [
           "/wiki/PacifiCorp"
         ]
       ],
       [
-        [
-          "1921"
-        ],
-        [
-          null
-        ]
+        "1921",
+        []
       ]
     ],
     [
       [
-        [
-          "Lookout Point Dam"
-        ],
+        "Lookout Point Dam",
         [
           "/wiki/Lookout_Point_Dam"
         ]
       ],
       [
-        [
-          "Middle Fork Willamette River"
-        ],
+        "Middle Fork Willamette River",
         [
           "/wiki/Middle_Fork_Willamette_River"
         ]
       ],
       [
-        [
-          "Hydro"
-        ],
-        [
-          null
-        ]
+        "Hydro",
+        []
       ],
       [
-        [
-          "120"
-        ],
-        [
-          null
-        ]
+        "120",
+        []
       ],
       [
-        [
-          "United States Army Corps of Engineers"
-        ],
+        "United States Army Corps of Engineers",
         [
           "/wiki/United_States_Army_Corps_of_Engineers"
         ]
       ],
       [
-        [
-          "1953"
-        ],
-        [
-          null
-        ]
+        "1953",
+        []
       ]
     ],
     [
       [
-        [
-          "Detroit Dam"
-        ],
+        "Detroit Dam",
         [
           "/wiki/Detroit_Dam"
         ]
       ],
       [
-        [
-          "North Santiam River"
-        ],
+        "North Santiam River",
         [
           "/wiki/North_Santiam_River"
         ]
       ],
       [
-        [
-          "Hydro"
-        ],
-        [
-          null
-        ]
+        "Hydro",
+        []
       ],
       [
-        [
-          "100"
-        ],
-        [
-          null
-        ]
+        "100",
+        []
       ],
       [
-        [
-          "United States Army Corps of Engineers"
-        ],
+        "United States Army Corps of Engineers",
         [
           "/wiki/United_States_Army_Corps_of_Engineers"
         ]
       ],
       [
-        [
-          "1953"
-        ],
-        [
-          null
-        ]
+        "1953",
+        []
       ]
     ],
     [
       [
-        [
-          "Green Peter Dam"
-        ],
+        "Green Peter Dam",
         [
           "/wiki/Green_Peter_Dam"
         ]
       ],
       [
-        [
-          "Middle Santiam River"
-        ],
+        "Middle Santiam River",
         [
           "/wiki/Middle_Santiam_River"
         ]
       ],
       [
-        [
-          "Hydro"
-        ],
-        [
-          null
-        ]
+        "Hydro",
+        []
       ],
       [
-        [
-          "80"
-        ],
-        [
-          null
-        ]
+        "80",
+        []
       ],
       [
-        [
-          "United States Army Corps of Engineers"
-        ],
+        "United States Army Corps of Engineers",
         [
           "/wiki/United_States_Army_Corps_of_Engineers"
         ]
       ],
       [
-        [
-          "1967"
-        ],
-        [
-          null
-        ]
+        "1967",
+        []
       ]
     ],
     [
       [
-        [
-          "Pelton Dam"
-        ],
+        "Pelton Dam",
         [
           "/wiki/Pelton_Dam"
         ]
       ],
       [
-        [
-          "Deschutes River"
-        ],
+        "Deschutes River",
         [
           "/wiki/Deschutes_River_(Oregon)"
         ]
       ],
       [
-        [
-          "Hydro"
-        ],
-        [
-          null
-        ]
+        "Hydro",
+        []
       ],
       [
-        [
-          "73"
-        ],
-        [
-          null
-        ]
+        "73",
+        []
       ],
       [
-        [
-          "Portland General Electric"
-        ],
+        "Portland General Electric",
         [
           "/wiki/Portland_General_Electric"
         ]
       ],
       [
-        [
-          "1958"
-        ],
-        [
-          null
-        ]
+        "1958",
+        []
       ]
     ],
     [
       [
-        [
-          "North Fork"
-        ],
-        [
-          null
-        ]
+        "North Fork",
+        []
       ],
       [
-        [
-          "Clackamas River"
-        ],
+        "Clackamas River",
         [
           "/wiki/Clackamas_River"
         ]
       ],
       [
-        [
-          "Hydro"
-        ],
-        [
-          null
-        ]
+        "Hydro",
+        []
       ],
       [
-        [
-          "58"
-        ],
-        [
-          null
-        ]
+        "58",
+        []
       ],
       [
-        [
-          "Portland General Electric"
-        ],
+        "Portland General Electric",
         [
           "/wiki/Portland_General_Electric"
         ]
       ],
       [
-        [
-          "1958"
-        ],
-        [
-          null
-        ]
+        "1958",
+        []
       ]
     ],
     [
       [
-        [
-          "Prospect Hydroelectric System"
-        ],
-        [
-          null
-        ]
+        "Prospect Hydroelectric System",
+        []
       ],
       [
-        [
-          "Rogue River"
-        ],
+        "Rogue River",
         [
           "/wiki/Rogue_River_(Oregon)"
         ]
       ],
       [
-        [
-          "Hydro"
-        ],
-        [
-          null
-        ]
+        "Hydro",
+        []
       ],
       [
-        [
-          "52"
-        ],
-        [
-          null
-        ]
+        "52",
+        []
       ],
       [
-        [
-          "PacifiCorp"
-        ],
+        "PacifiCorp",
         [
           "/wiki/PacifiCorp"
         ]
       ],
       [
-        [
-          "1912 to 1957"
-        ],
-        [
-          null
-        ]
+        "1912 to 1957",
+        []
       ]
     ],
     [
       [
-        [
-          "Lost Creek Dam"
-        ],
+        "Lost Creek Dam",
         [
           "/wiki/Lost_Creek_Lake"
         ]
       ],
       [
-        [
-          "Rogue River"
-        ],
+        "Rogue River",
         [
           "/wiki/Rogue_River_(Oregon)"
         ]
       ],
       [
-        [
-          "Hydro"
-        ],
-        [
-          null
-        ]
+        "Hydro",
+        []
       ],
       [
-        [
-          "49"
-        ],
-        [
-          null
-        ]
+        "49",
+        []
       ],
       [
-        [
-          "United States Army Corps of Engineers"
-        ],
+        "United States Army Corps of Engineers",
         [
           "/wiki/United_States_Army_Corps_of_Engineers"
         ]
       ],
       [
-        [
-          "1977"
-        ],
-        [
-          null
-        ]
+        "1977",
+        []
       ]
     ],
     [
       [
-        [
-          "Faraday"
-        ],
-        [
-          null
-        ]
+        "Faraday",
+        []
       ],
       [
-        [
-          "Clackamas River"
-        ],
+        "Clackamas River",
         [
           "/wiki/Clackamas_River"
         ]
       ],
       [
-        [
-          "Hydro"
-        ],
-        [
-          null
-        ]
+        "Hydro",
+        []
       ],
       [
-        [
-          "46"
-        ],
-        [
-          null
-        ]
+        "46",
+        []
       ],
       [
-        [
-          "Portland General Electric"
-        ],
+        "Portland General Electric",
         [
           "/wiki/Portland_General_Electric"
         ]
       ],
       [
-        [
-          "1907"
-        ],
-        [
-          null
-        ]
+        "1907",
+        []
       ]
     ],
     [
       [
-        [
-          "T. W. Sullivan"
-        ],
-        [
-          null
-        ]
+        "T. W. Sullivan",
+        []
       ],
       [
-        [
-          "Willamette River"
-        ],
+        "Willamette River",
         [
           "/wiki/Willamette_River"
         ]
       ],
       [
-        [
-          "Hydro"
-        ],
-        [
-          null
-        ]
+        "Hydro",
+        []
       ],
       [
-        [
-          "46"
-        ],
-        [
-          null
-        ]
+        "46",
+        []
       ],
       [
-        [
-          "Portland General Electric"
-        ],
+        "Portland General Electric",
         [
           "/wiki/Portland_General_Electric"
         ]
       ],
       [
-        [
-          "1895"
-        ],
-        [
-          null
-        ]
+        "1895",
+        []
       ]
     ],
     [
       [
-        [
-          "Oak Grove Hydroelectric Project"
-        ],
+        "Oak Grove Hydroelectric Project",
         [
           "/wiki/Oak_Grove_Hydroelectric_Project"
         ]
       ],
       [
-        [
-          "Clackamas River"
-        ],
+        "Clackamas River",
         [
           "/wiki/Clackamas_River"
         ]
       ],
       [
-        [
-          "Hydro"
-        ],
-        [
-          null
-        ]
+        "Hydro",
+        []
       ],
       [
-        [
-          "44"
-        ],
-        [
-          null
-        ]
+        "44",
+        []
       ],
       [
-        [
-          "Portland General Electric"
-        ],
+        "Portland General Electric",
         [
           "/wiki/Portland_General_Electric"
         ]
       ],
       [
-        [
-          "1924"
-        ],
-        [
-          null
-        ]
+        "1924",
+        []
       ]
     ]
   ],

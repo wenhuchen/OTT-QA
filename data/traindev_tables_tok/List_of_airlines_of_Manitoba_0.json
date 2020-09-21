@@ -3,101 +3,64 @@
   "title": "List of airlines of Manitoba",
   "header": [
     [
-      [
-        "Airline"
-      ],
-      [
-        null
-      ]
+      "Airline",
+      []
     ],
     [
-      [
-        "IATA"
-      ],
+      "IATA",
       [
         "/wiki/Airline_codes"
       ]
     ],
     [
-      [
-        "ICAO"
-      ],
+      "ICAO",
       [
         "/wiki/Airline_codes"
       ]
     ],
     [
-      [
-        "Callsign"
-      ],
+      "Callsign",
       [
         "/wiki/Call_sign"
       ]
     ],
     [
-      [
-        "Hub Airport ( s ) or headquarters"
-      ],
-      [
-        null
-      ]
+      "Hub Airport ( s ) or headquarters",
+      []
     ],
     [
-      [
-        "Notes"
-      ],
-      [
-        null
-      ]
+      "Notes",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Calm Air"
-        ],
+        "Calm Air",
         [
           "/wiki/Calm_Air"
         ]
       ],
       [
-        [
-          "MO"
-        ],
-        [
-          null
-        ]
+        "MO",
+        []
       ],
       [
-        [
-          "CAV"
-        ],
-        [
-          null
-        ]
+        "CAV",
+        []
       ],
       [
-        [
-          "CALM AIR"
-        ],
-        [
-          null
-        ]
+        "CALM AIR",
+        []
       ],
       [
-        [
-          "Thompson"
-        ],
+        "Thompson",
         [
           "/wiki/Thompson_Airport"
         ]
       ],
       [
-        [
-          "charters",
-          "cargo"
-        ],
+        "Scheduled passenger service , charters , cargo",
         [
           "/wiki/Air_charter",
           "/wiki/Cargo_airline"
@@ -106,101 +69,57 @@
     ],
     [
       [
-        [
-          "Fast Air"
-        ],
-        [
-          null
-        ]
+        "Fast Air",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "PRB"
-        ],
-        [
-          null
-        ]
+        "PRB",
+        []
       ],
       [
-        [
-          "POLAR BEAR"
-        ],
-        [
-          null
-        ]
+        "POLAR BEAR",
+        []
       ],
       [
-        [
-          "Winnipeg"
-        ],
+        "Winnipeg",
         [
           "/wiki/Winnipeg_James_Armstrong_Richardson_International_Airport"
         ]
       ],
       [
-        [
-          "Air ambulance services , charter , helicopters"
-        ],
-        [
-          null
-        ]
+        "Air ambulance services , charter , helicopters",
+        []
       ]
     ],
     [
       [
-        [
-          "Harv 's Air Service"
-        ],
-        [
-          null
-        ]
+        "Harv 's Air Service",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Steinbach ( South )"
-        ],
+        "Steinbach ( South )",
         [
           "/wiki/Steinbach_(South)_Airport"
         ]
       ],
       [
-        [
-          "Charters",
-          "flight training",
-          "air taxi"
-        ],
+        "Charters , flight training , air taxi",
         [
           "/wiki/Air_charter",
           "/wiki/Flight_training",
@@ -210,49 +129,31 @@
     ],
     [
       [
-        [
-          "Keystone Air Service"
-        ],
+        "Keystone Air Service",
         [
           "/wiki/Keystone_Air_Service"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "KEE"
-        ],
-        [
-          null
-        ]
+        "KEE",
+        []
       ],
       [
-        [
-          "KEYSTONE"
-        ],
-        [
-          null
-        ]
+        "KEYSTONE",
+        []
       ],
       [
-        [
-          "Winnipeg/St . Andrews"
-        ],
+        "Winnipeg/St . Andrews",
         [
           "/wiki/St._Andrews_Airport"
         ]
       ],
       [
-        [
-          "Charters"
-        ],
+        "Charters",
         [
           "/wiki/Air_charter"
         ]
@@ -260,105 +161,59 @@
     ],
     [
       [
-        [
-          "Kivalliq Air"
-        ],
+        "Kivalliq Air",
         [
           "/wiki/Kivalliq_Air"
         ]
       ],
       [
-        [
-          "FK"
-        ],
-        [
-          null
-        ]
+        "FK",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Winnipeg James Armstrong Richardson"
-        ],
+        "Winnipeg James Armstrong Richardson",
         [
           "/wiki/Winnipeg_James_Armstrong_Richardson_International_Airport"
         ]
       ],
       [
-        [
-          "Scheduled passenger service"
-        ],
-        [
-          null
-        ]
+        "Scheduled passenger service",
+        []
       ]
     ],
     [
       [
-        [
-          "Missinippi Airways"
-        ],
-        [
-          null
-        ]
+        "Missinippi Airways",
+        []
       ],
       [
-        [
-          "MA"
-        ],
-        [
-          null
-        ]
+        "MA",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Missinippi"
-        ],
-        [
-          null
-        ]
+        "Missinippi",
+        []
       ],
       [
-        [
-          "The Pas/Grace Lake"
-        ],
+        "The Pas/Grace Lake",
         [
           "/wiki/The_Pas/Grace_Lake_Airport"
         ]
       ],
       [
-        [
-          "Charters",
-          "MEDIVAC",
-          "air ambulance",
-          "Thompson",
-          "Norway House",
-          "Pukatawagan",
-          "Winnipeg"
-        ],
+        "Charters , MEDIVAC ( air ambulance ) , and scheduled services . Bases at Thompson , Norway House , Pukatawagan and Winnipeg",
         [
           "/wiki/Air_charter",
           "/wiki/Medical_evacuation",
@@ -372,52 +227,31 @@
     ],
     [
       [
-        [
-          "Perimeter Aviation"
-        ],
+        "Perimeter Aviation",
         [
           "/wiki/Perimeter_Aviation"
         ]
       ],
       [
-        [
-          "4B"
-        ],
-        [
-          null
-        ]
+        "4B",
+        []
       ],
       [
-        [
-          "PAG"
-        ],
-        [
-          null
-        ]
+        "PAG",
+        []
       ],
       [
-        [
-          "PERIMETER"
-        ],
-        [
-          null
-        ]
+        "PERIMETER",
+        []
       ],
       [
-        [
-          "Winnipeg James Armstrong Richardson"
-        ],
+        "Winnipeg James Armstrong Richardson",
         [
           "/wiki/Winnipeg_James_Armstrong_Richardson_International_Airport"
         ]
       ],
       [
-        [
-          "charters",
-          "MEDIVAC",
-          "air ambulance",
-          "flight training"
-        ],
+        "Scheduled passenger service , charters , MEDIVAC ( air ambulance ) , flight training",
         [
           "/wiki/Air_charter",
           "/wiki/Medical_evacuation",
@@ -428,49 +262,29 @@
     ],
     [
       [
-        [
-          "SkyNorth Air"
-        ],
-        [
-          null
-        ]
+        "SkyNorth Air",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Winnipeg James Armstrong Richardson"
-        ],
+        "Winnipeg James Armstrong Richardson",
         [
           "/wiki/Winnipeg_James_Armstrong_Richardson_International_Airport"
         ]
       ],
       [
-        [
-          "charters"
-        ],
+        "Scheduled passenger service , charters",
         [
           "/wiki/Air_charter"
         ]

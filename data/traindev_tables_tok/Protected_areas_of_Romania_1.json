@@ -3,70 +3,40 @@
   "title": "Protected areas of Romania",
   "header": [
     [
-      [
-        "Name"
-      ],
-      [
-        null
-      ]
+      "Name",
+      []
     ],
     [
-      [
-        "Location ( county )"
-      ],
-      [
-        null
-      ]
+      "Location ( county )",
+      []
     ],
     [
-      [
-        "Area ( ha )"
-      ],
-      [
-        null
-      ]
+      "Area ( ha )",
+      []
     ],
     [
-      [
-        "Year of establishment"
-      ],
-      [
-        null
-      ]
+      "Year of establishment",
+      []
     ],
     [
-      [
-        "Year of declaration"
-      ],
-      [
-        null
-      ]
+      "Year of declaration",
+      []
     ],
     [
-      [
-        "Website"
-      ],
-      [
-        null
-      ]
+      "Website",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Apuseni"
-        ],
+        "Apuseni",
         [
           "/wiki/Apuseni_Natural_Park"
         ]
       ],
       [
-        [
-          "Alba",
-          "Bihor",
-          "Cluj"
-        ],
+        "Alba , Bihor , Cluj",
         [
           "/wiki/Alba_County",
           "/wiki/Bihor_County",
@@ -74,103 +44,61 @@
         ]
       ],
       [
-        [
-          "75,784"
-        ],
-        [
-          null
-        ]
+        "75,784",
+        []
       ],
       [
-        [
-          "1990"
-        ],
-        [
-          null
-        ]
+        "1990",
+        []
       ],
       [
-        [
-          "2000"
-        ],
-        [
-          null
-        ]
+        "2000",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Br\u0103ila Small Puddle"
-        ],
+        "Br\u0103ila Small Puddle",
         [
           "/wiki/Balta_Mic\u0103_a_Br\u0103ilei_Natural_Park"
         ]
       ],
       [
-        [
-          "Br\u0103ila"
-        ],
+        "Br\u0103ila",
         [
           "/wiki/Br\u0103ila_County"
         ]
       ],
       [
-        [
-          "17,529"
-        ],
-        [
-          null
-        ]
+        "17,529",
+        []
       ],
       [
-        [
-          "1978"
-        ],
-        [
-          null
-        ]
+        "1978",
+        []
       ],
       [
-        [
-          "2000"
-        ],
-        [
-          null
-        ]
+        "2000",
+        []
       ],
       [
-        [
-          "bmb.ro"
-        ],
-        [
-          null
-        ]
+        "bmb.ro",
+        []
       ]
     ],
     [
       [
-        [
-          "Bucegi"
-        ],
+        "Bucegi",
         [
           "/wiki/Bucegi_Natural_Park"
         ]
       ],
       [
-        [
-          "Bra\u0219ov",
-          "D\u00e2mbovi\u021ba",
-          "Prahova"
-        ],
+        "Bra\u0219ov , D\u00e2mbovi\u021ba , Prahova",
         [
           "/wiki/Bra\u0219ov_County",
           "/wiki/D\u00e2mbovi\u021ba_County",
@@ -178,740 +106,442 @@
         ]
       ],
       [
-        [
-          "32,663"
-        ],
-        [
-          null
-        ]
+        "32,663",
+        []
       ],
       [
-        [
-          "1974"
-        ],
-        [
-          null
-        ]
+        "1974",
+        []
       ],
       [
-        [
-          "2000"
-        ],
-        [
-          null
-        ]
+        "2000",
+        []
       ],
       [
-        [
-          "bucegipark.ro"
-        ],
-        [
-          null
-        ]
+        "bucegipark.ro",
+        []
       ]
     ],
     [
       [
-        [
-          "Cefa"
-        ],
+        "Cefa",
         [
           "/wiki/Cefa_Natural_Park"
         ]
       ],
       [
-        [
-          "Bihor"
-        ],
+        "Bihor",
         [
           "/wiki/Bihor_County"
         ]
       ],
       [
-        [
-          "5,002"
-        ],
-        [
-          null
-        ]
+        "5,002",
+        []
       ],
       [
-        [
-          "2010"
-        ],
-        [
-          null
-        ]
+        "2010",
+        []
       ],
       [
-        [
-          "2010"
-        ],
-        [
-          null
-        ]
+        "2010",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Cindrel"
-        ],
+        "Cindrel",
         [
           "/wiki/Cindrel_Natural_Park"
         ]
       ],
       [
-        [
-          "Sibiu"
-        ],
+        "Sibiu",
         [
           "/wiki/Sibiu_County"
         ]
       ],
       [
-        [
-          "9,873"
-        ],
-        [
-          null
-        ]
+        "9,873",
+        []
       ],
       [
-        [
-          "2000"
-        ],
-        [
-          null
-        ]
+        "2000",
+        []
       ],
       [
-        [
-          "2000"
-        ],
-        [
-          null
-        ]
+        "2000",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Comana"
-        ],
+        "Comana",
         [
           "/wiki/Comana_Natural_Park"
         ]
       ],
       [
-        [
-          "Giurgiu"
-        ],
+        "Giurgiu",
         [
           "/wiki/Giurgiu_County"
         ]
       ],
       [
-        [
-          "24,963"
-        ],
-        [
-          null
-        ]
+        "24,963",
+        []
       ],
       [
-        [
-          "2005"
-        ],
-        [
-          null
-        ]
+        "2005",
+        []
       ],
       [
-        [
-          "2005"
-        ],
-        [
-          null
-        ]
+        "2005",
+        []
       ],
       [
-        [
-          "comanaparc.ro"
-        ],
-        [
-          null
-        ]
+        "comanaparc.ro",
+        []
       ]
     ],
     [
       [
-        [
-          "Dumbrava Sibiului"
-        ],
+        "Dumbrava Sibiului",
         [
           "/wiki/Dumbrava_Sibiului_Natural_Park"
         ]
       ],
       [
-        [
-          "Sibiu"
-        ],
+        "Sibiu",
         [
           "/wiki/Sibiu_County"
         ]
       ],
       [
-        [
-          "993"
-        ],
-        [
-          null
-        ]
+        "993",
+        []
       ],
       [
-        [
-          "1963"
-        ],
-        [
-          null
-        ]
+        "1963",
+        []
       ],
       [
-        [
-          "2000"
-        ],
-        [
-          null
-        ]
+        "2000",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Gr\u0103di\u0219tea Muncelului-Cioclovina"
-        ],
+        "Gr\u0103di\u0219tea Muncelului-Cioclovina",
         [
           "/wiki/Gr\u0103di\u0219tea_Muncelului-Cioclovina_Natural_Park"
         ]
       ],
       [
-        [
-          "Hunedoara"
-        ],
+        "Hunedoara",
         [
           "/wiki/Hunedoara_County"
         ]
       ],
       [
-        [
-          "38,184"
-        ],
-        [
-          null
-        ]
+        "38,184",
+        []
       ],
       [
-        [
-          "1979"
-        ],
-        [
-          null
-        ]
+        "1979",
+        []
       ],
       [
-        [
-          "2000"
-        ],
-        [
-          null
-        ]
+        "2000",
+        []
       ],
       [
-        [
-          "gradiste.ro"
-        ],
-        [
-          null
-        ]
+        "gradiste.ro",
+        []
       ]
     ],
     [
       [
-        [
-          "Ha\u021beg Country Dinosaur Geopark"
-        ],
+        "Ha\u021beg Country Dinosaur Geopark",
         [
           "/wiki/Hateg_Country_Dinosaur_Geopark"
         ]
       ],
       [
-        [
-          "Hunedoara"
-        ],
+        "Hunedoara",
         [
           "/wiki/Hunedoara_County"
         ]
       ],
       [
-        [
-          "1,023.92"
-        ],
-        [
-          null
-        ]
+        "1,023.92",
+        []
       ],
       [
-        [
-          "2005"
-        ],
-        [
-          null
-        ]
+        "2005",
+        []
       ],
       [
-        [
-          "2005"
-        ],
-        [
-          null
-        ]
+        "2005",
+        []
       ],
       [
-        [
-          "hateggeoparc.ro"
-        ],
-        [
-          null
-        ]
+        "hateggeoparc.ro",
+        []
       ]
     ],
     [
       [
-        [
-          "Iron Gates"
-        ],
+        "Iron Gates",
         [
           "/wiki/Iron_Gates_Natural_Park"
         ]
       ],
       [
-        [
-          "Cara\u0219-Severin",
-          "Mehedin\u021bi"
-        ],
+        "Cara\u0219-Severin , Mehedin\u021bi",
         [
           "/wiki/Cara\u0219-Severin_County",
           "/wiki/Mehedin\u021bi_County"
         ]
       ],
       [
-        [
-          "115,665.8"
-        ],
-        [
-          null
-        ]
+        "115,665.8",
+        []
       ],
       [
-        [
-          "1990"
-        ],
-        [
-          null
-        ]
+        "1990",
+        []
       ],
       [
-        [
-          "2000"
-        ],
-        [
-          null
-        ]
+        "2000",
+        []
       ],
       [
-        [
-          "portiledefier.ro"
-        ],
-        [
-          null
-        ]
+        "portiledefier.ro",
+        []
       ]
     ],
     [
       [
-        [
-          "Lower Prut Floodplain"
-        ],
+        "Lower Prut Floodplain",
         [
           "/wiki/Lunca_Joas\u0103_a_Prutului_Inferior_Natural_Park"
         ]
       ],
       [
-        [
-          "Gala\u021bi"
-        ],
+        "Gala\u021bi",
         [
           "/wiki/Gala\u021bi_County"
         ]
       ],
       [
-        [
-          "8,247"
-        ],
-        [
-          null
-        ]
+        "8,247",
+        []
       ],
       [
-        [
-          "2005"
-        ],
-        [
-          null
-        ]
+        "2005",
+        []
       ],
       [
-        [
-          "2005"
-        ],
-        [
-          null
-        ]
+        "2005",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Maramure\u0219 Mountains"
-        ],
+        "Maramure\u0219 Mountains",
         [
           "/wiki/Maramure\u0219_Mountains_Natural_Park"
         ]
       ],
       [
-        [
-          "Maramure\u0219"
-        ],
+        "Maramure\u0219",
         [
           "/wiki/Maramure\u0219_County"
         ]
       ],
       [
-        [
-          "148,850"
-        ],
-        [
-          null
-        ]
+        "148,850",
+        []
       ],
       [
-        [
-          "2004"
-        ],
-        [
-          null
-        ]
+        "2004",
+        []
       ],
       [
-        [
-          "2004"
-        ],
-        [
-          null
-        ]
+        "2004",
+        []
       ],
       [
-        [
-          "muntiimaramuresului.ro"
-        ],
-        [
-          null
-        ]
+        "muntiimaramuresului.ro",
+        []
       ]
     ],
     [
       [
-        [
-          "Mehedin\u021bi Plateau Geopark"
-        ],
+        "Mehedin\u021bi Plateau Geopark",
         [
           "/wiki/Mehedin\u021bi_Plateau_Geopark"
         ]
       ],
       [
-        [
-          "Gorj",
-          "Mehedin\u021bi"
-        ],
+        "Gorj , Mehedin\u021bi",
         [
           "/wiki/Gorj_County",
           "/wiki/Mehedin\u021bi_County"
         ]
       ],
       [
-        [
-          "106.5"
-        ],
-        [
-          null
-        ]
+        "106.5",
+        []
       ],
       [
-        [
-          "2005"
-        ],
-        [
-          null
-        ]
+        "2005",
+        []
       ],
       [
-        [
-          "2005"
-        ],
-        [
-          null
-        ]
+        "2005",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Mure\u0219 Floodplain"
-        ],
+        "Mure\u0219 Floodplain",
         [
           "/wiki/Mure\u015f_Floodplain_Natural_Park"
         ]
       ],
       [
-        [
-          "Arad"
-        ],
+        "Arad",
         [
           "/wiki/Arad_County"
         ]
       ],
       [
-        [
-          "171.66"
-        ],
-        [
-          null
-        ]
+        "171.66",
+        []
       ],
       [
-        [
-          "2005"
-        ],
-        [
-          null
-        ]
+        "2005",
+        []
       ],
       [
-        [
-          "2005"
-        ],
-        [
-          null
-        ]
+        "2005",
+        []
       ],
       [
-        [
-          "luncamuresului.ro"
-        ],
-        [
-          null
-        ]
+        "luncamuresului.ro",
+        []
       ]
     ],
     [
       [
-        [
-          "Putna-Vrancea"
-        ],
+        "Putna-Vrancea",
         [
           "/wiki/Putna-Vrancea_Natural_Park"
         ]
       ],
       [
-        [
-          "Vrancea"
-        ],
+        "Vrancea",
         [
           "/wiki/Vrancea_County"
         ]
       ],
       [
-        [
-          "30,204"
-        ],
-        [
-          null
-        ]
+        "30,204",
+        []
       ],
       [
-        [
-          "2004"
-        ],
-        [
-          null
-        ]
+        "2004",
+        []
       ],
       [
-        [
-          "2004"
-        ],
-        [
-          null
-        ]
+        "2004",
+        []
       ],
       [
-        [
-          "putnavrancea.ro"
-        ],
-        [
-          null
-        ]
+        "putnavrancea.ro",
+        []
       ]
     ],
     [
       [
-        [
-          "Upper Mure\u0219 Defile"
-        ],
+        "Upper Mure\u0219 Defile",
         [
           "/wiki/Defileul_Mure\u0219ului_Superior_Natural_Park"
         ]
       ],
       [
-        [
-          "Mure\u0219"
-        ],
+        "Mure\u0219",
         [
           "/wiki/Mure\u0219_County"
         ]
       ],
       [
-        [
-          "9,156"
-        ],
-        [
-          null
-        ]
+        "9,156",
+        []
       ],
       [
-        [
-          "2007"
-        ],
-        [
-          null
-        ]
+        "2007",
+        []
       ],
       [
-        [
-          "2007"
-        ],
-        [
-          null
-        ]
+        "2007",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "V\u00e2n\u0103tori-Neam\u021b"
-        ],
+        "V\u00e2n\u0103tori-Neam\u021b",
         [
           "/wiki/V\u00e2n\u0103tori-Neam\u021b_Natural_Park"
         ]
       ],
       [
-        [
-          "Neam\u021b"
-        ],
+        "Neam\u021b",
         [
           "/wiki/Neam\u021b_County"
         ]
       ],
       [
-        [
-          "30,818"
-        ],
-        [
-          null
-        ]
+        "30,818",
+        []
       ],
       [
-        [
-          "1999"
-        ],
-        [
-          null
-        ]
+        "1999",
+        []
       ],
       [
-        [
-          "2000"
-        ],
-        [
-          null
-        ]
+        "2000",
+        []
       ],
       [
-        [
-          "vanatoripark.ro"
-        ],
-        [
-          null
-        ]
+        "vanatoripark.ro",
+        []
       ]
     ]
   ],

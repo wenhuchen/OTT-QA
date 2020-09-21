@@ -3,84 +3,48 @@
   "title": "Trentino",
   "header": [
     [
-      [
-        "#"
-      ],
-      [
-        null
-      ]
+      "#",
+      []
     ],
     [
-      [
-        "Name"
-      ],
-      [
-        null
-      ]
+      "Name",
+      []
     ],
     [
-      [
-        "Municipalities"
-      ],
-      [
-        null
-      ]
+      "Municipalities",
+      []
     ],
     [
-      [
-        "Inhabitants"
-      ],
-      [
-        null
-      ]
+      "Inhabitants",
+      []
     ],
     [
-      [
-        "Capital"
-      ],
-      [
-        null
-      ]
+      "Capital",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "Comunit\u00e0 territoriale della Val di Fiemme"
-        ],
+        "Comunit\u00e0 territoriale della Val di Fiemme",
         [
           "/wiki/Val_di_Fiemme_(district)"
         ]
       ],
       [
-        [
-          "11"
-        ],
-        [
-          null
-        ]
+        "11",
+        []
       ],
       [
-        [
-          "18,567"
-        ],
-        [
-          null
-        ]
+        "18,567",
+        []
       ],
       [
-        [
-          "Cavalese"
-        ],
+        "Cavalese",
         [
           "/wiki/Cavalese"
         ]
@@ -88,41 +52,25 @@
     ],
     [
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "Comunit\u00e0 di Primiero"
-        ],
+        "Comunit\u00e0 di Primiero",
         [
           "/wiki/Primiero_(district)"
         ]
       ],
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "9,836"
-        ],
-        [
-          null
-        ]
+        "9,836",
+        []
       ],
       [
-        [
-          "Tonadico"
-        ],
+        "Tonadico",
         [
           "/wiki/Tonadico"
         ]
@@ -130,41 +78,25 @@
     ],
     [
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "Comunit\u00e0 Valsugana e Tesino"
-        ],
+        "Comunit\u00e0 Valsugana e Tesino",
         [
           "/wiki/Valsugana_e_Tesino"
         ]
       ],
       [
-        [
-          "21"
-        ],
-        [
-          null
-        ]
+        "21",
+        []
       ],
       [
-        [
-          "25,694"
-        ],
-        [
-          null
-        ]
+        "25,694",
+        []
       ],
       [
-        [
-          "Borgo Valsugana"
-        ],
+        "Borgo Valsugana",
         [
           "/wiki/Borgo_Valsugana"
         ]
@@ -172,41 +104,25 @@
     ],
     [
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "Comunit\u00e0 Alta Valsugana e Bersntol"
-        ],
+        "Comunit\u00e0 Alta Valsugana e Bersntol",
         [
           "/wiki/Alta_Valsugana_e_Bersntol"
         ]
       ],
       [
-        [
-          "18"
-        ],
-        [
-          null
-        ]
+        "18",
+        []
       ],
       [
-        [
-          "45,228"
-        ],
-        [
-          null
-        ]
+        "45,228",
+        []
       ],
       [
-        [
-          "Pergine Valsugana"
-        ],
+        "Pergine Valsugana",
         [
           "/wiki/Pergine_Valsugana"
         ]
@@ -214,41 +130,25 @@
     ],
     [
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "Comunit\u00e0 della Valle di Cembra"
-        ],
+        "Comunit\u00e0 della Valle di Cembra",
         [
           "/wiki/Valle_di_Cembra"
         ]
       ],
       [
-        [
-          "11"
-        ],
-        [
-          null
-        ]
+        "11",
+        []
       ],
       [
-        [
-          "10,854"
-        ],
-        [
-          null
-        ]
+        "10,854",
+        []
       ],
       [
-        [
-          "Altavalle"
-        ],
+        "Altavalle",
         [
           "/wiki/Altavalle"
         ]
@@ -256,41 +156,25 @@
     ],
     [
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "Comunit\u00e0 della Val di Non"
-        ],
+        "Comunit\u00e0 della Val di Non",
         [
           "/wiki/Val_di_Non_(district)"
         ]
       ],
       [
-        [
-          "38"
-        ],
-        [
-          null
-        ]
+        "38",
+        []
       ],
       [
-        [
-          "37,143"
-        ],
-        [
-          null
-        ]
+        "37,143",
+        []
       ],
       [
-        [
-          "Cles"
-        ],
+        "Cles",
         [
           "/wiki/Cles"
         ]
@@ -298,41 +182,25 @@
     ],
     [
       [
-        [
-          "7"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ],
       [
-        [
-          "Comunit\u00e0 della Valle di Sole"
-        ],
+        "Comunit\u00e0 della Valle di Sole",
         [
           "/wiki/Valle_di_Sole_(district)"
         ]
       ],
       [
-        [
-          "14"
-        ],
-        [
-          null
-        ]
+        "14",
+        []
       ],
       [
-        [
-          "15,020"
-        ],
-        [
-          null
-        ]
+        "15,020",
+        []
       ],
       [
-        [
-          "Mal\u00e8"
-        ],
+        "Mal\u00e8",
         [
           "/wiki/Mal\u00e8"
         ]
@@ -340,41 +208,25 @@
     ],
     [
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "Comunit\u00e0 delle Giudicarie"
-        ],
+        "Comunit\u00e0 delle Giudicarie",
         [
           "/wiki/Giudicarie_(district)"
         ]
       ],
       [
-        [
-          "39"
-        ],
-        [
-          null
-        ]
+        "39",
+        []
       ],
       [
-        [
-          "35,647"
-        ],
-        [
-          null
-        ]
+        "35,647",
+        []
       ],
       [
-        [
-          "Tione di Trento"
-        ],
+        "Tione di Trento",
         [
           "/wiki/Tione_di_Trento"
         ]
@@ -382,41 +234,25 @@
     ],
     [
       [
-        [
-          "9"
-        ],
-        [
-          null
-        ]
+        "9",
+        []
       ],
       [
-        [
-          "Comunit\u00e0 Alto Garda e Ledro"
-        ],
+        "Comunit\u00e0 Alto Garda e Ledro",
         [
           "/wiki/Alto_Garda_e_Ledro"
         ]
       ],
       [
-        [
-          "7"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ],
       [
-        [
-          "42,955"
-        ],
-        [
-          null
-        ]
+        "42,955",
+        []
       ],
       [
-        [
-          "Riva del Garda"
-        ],
+        "Riva del Garda",
         [
           "/wiki/Riva_del_Garda"
         ]
@@ -424,41 +260,25 @@
     ],
     [
       [
-        [
-          "10"
-        ],
-        [
-          null
-        ]
+        "10",
+        []
       ],
       [
-        [
-          "Comunit\u00e0 della Vallagarina"
-        ],
+        "Comunit\u00e0 della Vallagarina",
         [
           "/wiki/Vallagarina_(district)"
         ]
       ],
       [
-        [
-          "17"
-        ],
-        [
-          null
-        ]
+        "17",
+        []
       ],
       [
-        [
-          "78,482"
-        ],
-        [
-          null
-        ]
+        "78,482",
+        []
       ],
       [
-        [
-          "Rovereto"
-        ],
+        "Rovereto",
         [
           "/wiki/Rovereto"
         ]
@@ -466,41 +286,25 @@
     ],
     [
       [
-        [
-          "11"
-        ],
-        [
-          null
-        ]
+        "11",
+        []
       ],
       [
-        [
-          "Comun General de Fascia"
-        ],
+        "Comun General de Fascia",
         [
           "/wiki/Fascia_(district)"
         ]
       ],
       [
-        [
-          "7"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ],
       [
-        [
-          "9,195"
-        ],
-        [
-          null
-        ]
+        "9,195",
+        []
       ],
       [
-        [
-          "S\u00e8n Jan di Fassa"
-        ],
+        "S\u00e8n Jan di Fassa",
         [
           "/wiki/S\u00e8n_Jan_di_Fassa"
         ]
@@ -508,41 +312,25 @@
     ],
     [
       [
-        [
-          "12"
-        ],
-        [
-          null
-        ]
+        "12",
+        []
       ],
       [
-        [
-          "Magnifica Comunit\u00e0 degli Altipiani Cimbri"
-        ],
+        "Magnifica Comunit\u00e0 degli Altipiani Cimbri",
         [
           "/wiki/Altipiani_Cimbri"
         ]
       ],
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "4,442"
-        ],
-        [
-          null
-        ]
+        "4,442",
+        []
       ],
       [
-        [
-          "Lavarone"
-        ],
+        "Lavarone",
         [
           "/wiki/Lavarone"
         ]
@@ -550,41 +338,25 @@
     ],
     [
       [
-        [
-          "13"
-        ],
-        [
-          null
-        ]
+        "13",
+        []
       ],
       [
-        [
-          "Comunit\u00e0 Rotaliana-K\u00f6nigsberg"
-        ],
+        "Comunit\u00e0 Rotaliana-K\u00f6nigsberg",
         [
           "/wiki/Rotaliana-K\u00f6nigsberg"
         ]
       ],
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "25,953"
-        ],
-        [
-          null
-        ]
+        "25,953",
+        []
       ],
       [
-        [
-          "Mezzocorona"
-        ],
+        "Mezzocorona",
         [
           "/wiki/Mezzocorona"
         ]
@@ -592,41 +364,25 @@
     ],
     [
       [
-        [
-          "14"
-        ],
-        [
-          null
-        ]
+        "14",
+        []
       ],
       [
-        [
-          "Comunit\u00e0 della Paganella"
-        ],
+        "Comunit\u00e0 della Paganella",
         [
           "/wiki/Paganella_(district)"
         ]
       ],
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "4,731"
-        ],
-        [
-          null
-        ]
+        "4,731",
+        []
       ],
       [
-        [
-          "Andalo"
-        ],
+        "Andalo",
         [
           "/wiki/Andalo"
         ]
@@ -634,83 +390,49 @@
     ],
     [
       [
-        [
-          "15"
-        ],
-        [
-          null
-        ]
+        "15",
+        []
       ],
       [
-        [
-          "Val d'Adige territory"
-        ],
+        "Val d'Adige territory",
         [
           "/wiki/Val_d'Adige_(territory)"
         ]
       ],
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "110,061"
-        ],
-        [
-          null
-        ]
+        "110,061",
+        []
       ],
       [
-        [
-          "none"
-        ],
-        [
-          null
-        ]
+        "none",
+        []
       ]
     ],
     [
       [
-        [
-          "16"
-        ],
-        [
-          null
-        ]
+        "16",
+        []
       ],
       [
-        [
-          "Comunit\u00e0 della Valle dei Laghi"
-        ],
+        "Comunit\u00e0 della Valle dei Laghi",
         [
           "/wiki/Valle_dei_Laghi"
         ]
       ],
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "9,349"
-        ],
-        [
-          null
-        ]
+        "9,349",
+        []
       ],
       [
-        [
-          "Vezzano"
-        ],
+        "Vezzano",
         [
           "/wiki/Vezzano,_Trentino"
         ]

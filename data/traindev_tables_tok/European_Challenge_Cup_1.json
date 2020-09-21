@@ -3,717 +3,545 @@
   "title": "European Rugby Challenge Cup",
   "header": [
     [
-      [
-        "Team"
-      ],
-      [
-        null
-      ]
+      "Country",
+      []
     ],
     [
-      [
-        "Domestic competition"
-      ],
-      [
-        null
-      ]
+      "Team",
+      []
     ],
     [
-      [
-        "Times won"
-      ],
-      [
-        null
-      ]
+      "Domestic competition",
+      []
     ],
     [
-      [
-        "Times runners-up"
-      ],
-      [
-        null
-      ]
+      "Times won",
+      []
+    ],
+    [
+      "Times runners-up",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Clermont"
-        ],
+        "France",
+        []
+      ],
+      [
+        "Clermont",
         [
           "/wiki/ASM_Clermont_Auvergne"
         ]
       ],
       [
-        [
-          "Top 14"
-        ],
+        "Top 14",
         [
           "/wiki/Top_14"
         ]
       ],
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ]
     ],
     [
       [
-        [
-          "Harlequins"
-        ],
+        "England",
+        []
+      ],
+      [
+        "Harlequins",
         [
           "/wiki/Harlequin_F.C."
         ]
       ],
       [
-        [
-          "Aviva Premiership"
-        ],
+        "Aviva Premiership",
         [
           "/wiki/English_Premiership_(rugby_union)"
         ]
       ],
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ]
     ],
     [
       [
-        [
-          "Gloucester"
-        ],
+        "England",
+        []
+      ],
+      [
+        "Gloucester",
         [
           "/wiki/Gloucester_Rugby"
         ]
       ],
       [
-        [
-          "Aviva Premiership"
-        ],
+        "Aviva Premiership",
         [
           "/wiki/English_Premiership_(rugby_union)"
         ]
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ]
     ],
     [
       [
-        [
-          "Cardiff Blues"
-        ],
+        "Wales",
+        []
+      ],
+      [
+        "Cardiff Blues",
         [
           "/wiki/Cardiff_Blues"
         ]
       ],
       [
-        [
-          "Pro14"
-        ],
+        "Pro14",
         [
           "/wiki/Pro14"
         ]
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ]
     ],
     [
       [
-        [
-          "Northampton Saints"
-        ],
+        "England",
+        []
+      ],
+      [
+        "Northampton Saints",
         [
           "/wiki/Northampton_Saints"
         ]
       ],
       [
-        [
-          "Aviva Premiership"
-        ],
+        "Aviva Premiership",
         [
           "/wiki/English_Premiership_(rugby_union)"
         ]
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ]
     ],
     [
       [
-        [
-          "Sale Sharks"
-        ],
+        "England",
+        []
+      ],
+      [
+        "Sale Sharks",
         [
           "/wiki/Sale_Sharks"
         ]
       ],
       [
-        [
-          "Aviva Premiership"
-        ],
+        "Aviva Premiership",
         [
           "/wiki/English_Premiership_(rugby_union)"
         ]
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ]
     ],
     [
       [
-        [
-          "Bath"
-        ],
+        "England",
+        []
+      ],
+      [
+        "Bath",
         [
           "/wiki/Bath_Rugby"
         ]
       ],
       [
-        [
-          "Aviva Premiership"
-        ],
+        "Aviva Premiership",
         [
           "/wiki/English_Premiership_(rugby_union)"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ]
     ],
     [
       [
-        [
-          "Bourgoin"
-        ],
+        "France",
+        []
+      ],
+      [
+        "Bourgoin",
         [
           "/wiki/CS_Bourgoin-Jallieu"
         ]
       ],
       [
-        [
-          "Top 14"
-        ],
+        "Top 14",
         [
           "/wiki/Top_14"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ]
     ],
     [
       [
-        [
-          "Stade Fran\u00e7ais"
-        ],
+        "France",
+        []
+      ],
+      [
+        "Stade Fran\u00e7ais",
         [
           "/wiki/Stade_Fran\u00e7ais"
         ]
       ],
       [
-        [
-          "Top 14"
-        ],
+        "Top 14",
         [
           "/wiki/Top_14"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ]
     ],
     [
       [
-        [
-          "Pau"
-        ],
+        "France",
+        []
+      ],
+      [
+        "Pau",
         [
           "/wiki/Section_Paloise"
         ]
       ],
       [
-        [
-          "Top 14"
-        ],
+        "Top 14",
         [
           "/wiki/Top_14"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ]
     ],
     [
       [
-        [
-          "Biarritz"
-        ],
+        "France",
+        []
+      ],
+      [
+        "Biarritz",
         [
           "/wiki/Biarritz_Olympique"
         ]
       ],
       [
-        [
-          "Top 14"
-        ],
+        "Top 14",
         [
           "/wiki/Top_14"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ]
     ],
     [
       [
-        [
-          "Colomiers"
-        ],
+        "France",
+        []
+      ],
+      [
+        "Colomiers",
         [
           "/wiki/US_Colomiers"
         ]
       ],
       [
-        [
-          "Top 14"
-        ],
+        "Top 14",
         [
           "/wiki/Top_14"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ]
     ],
     [
       [
-        [
-          "Leinster"
-        ],
+        "Ireland",
+        []
+      ],
+      [
+        "Leinster",
         [
           "/wiki/Leinster_rugby"
         ]
       ],
       [
-        [
-          "Pro14"
-        ],
+        "Pro14",
         [
           "/wiki/Pro14"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ]
     ],
     [
       [
-        [
-          "Wasps"
-        ],
+        "England",
+        []
+      ],
+      [
+        "Wasps",
         [
           "/wiki/Wasps_RFC"
         ]
       ],
       [
-        [
-          "Aviva Premiership"
-        ],
+        "Aviva Premiership",
         [
           "/wiki/English_Premiership_(rugby_union)"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ]
     ],
     [
       [
-        [
-          "Montpellier"
-        ],
+        "France",
+        []
+      ],
+      [
+        "Montpellier",
         [
           "/wiki/Montpellier_H\u00e9rault_Rugby"
         ]
       ],
       [
-        [
-          "Top 14"
-        ],
+        "Top 14",
         [
           "/wiki/Top_14"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ]
     ],
     [
       [
-        [
-          "Castres"
-        ],
+        "France",
+        []
+      ],
+      [
+        "Castres",
         [
           "/wiki/Castres_Olympique"
         ]
       ],
       [
-        [
-          "Top 14"
-        ],
+        "Top 14",
         [
           "/wiki/Top_14"
         ]
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ]
     ],
     [
       [
-        [
-          "Toulon"
-        ],
+        "France",
+        []
+      ],
+      [
+        "Toulon",
         [
           "/wiki/RC_Toulonnais"
         ]
       ],
       [
-        [
-          "Top 14"
-        ],
+        "Top 14",
         [
           "/wiki/Top_14"
         ]
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ]
     ],
     [
       [
-        [
-          "Agen"
-        ],
+        "France",
+        []
+      ],
+      [
+        "Agen",
         [
           "/wiki/SU_Agen"
         ]
       ],
       [
-        [
-          "Top 14"
-        ],
+        "Top 14",
         [
           "/wiki/Top_14"
         ]
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ]
     ],
     [
       [
-        [
-          "Edinburgh"
-        ],
+        "Scotland",
+        []
+      ],
+      [
+        "Edinburgh",
         [
           "/wiki/Edinburgh_Rugby"
         ]
       ],
       [
-        [
-          "Pro14"
-        ],
+        "Pro14",
         [
           "/wiki/Pro14"
         ]
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ]
     ],
     [
       [
-        [
-          "La Rochelle"
-        ],
+        "France",
+        []
+      ],
+      [
+        "La Rochelle",
         [
           "/wiki/Stade_Rochelais"
         ]
       ],
       [
-        [
-          "Top 14"
-        ],
+        "Top 14",
         [
           "/wiki/Top_14"
         ]
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ]
     ]
   ],

@@ -3,84 +3,50 @@
   "title": "List of Brussels Metro stations",
   "header": [
     [
-      [
-        "#"
-      ],
-      [
-        null
-      ]
+      "#",
+      []
     ],
     [
-      [
-        "Name in French"
-      ],
-      [
-        null
-      ]
+      "Name in French",
+      []
     ],
     [
-      [
-        "Name in Dutch"
-      ],
-      [
-        null
-      ]
+      "Name in Dutch",
+      []
     ],
     [
-      [
-        "Opened"
-      ],
-      [
-        null
-      ]
+      "Opened",
+      []
     ],
     [
-      [
-        "Interchange"
-      ],
-      [
-        null
-      ]
+      "Interchange",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "Gare de l'Ouest"
-        ],
+        "Gare de l'Ouest",
         [
           "/wiki/Brussels-West_station"
         ]
       ],
       [
-        [
-          "Weststation"
-        ],
+        "Weststation",
         [
           "/wiki/Brussels-West_station"
         ]
       ],
       [
-        [
-          "1982"
-        ],
-        [
-          null
-        ]
+        "1982",
+        []
       ],
       [
-        [
-          "Belgian Rail"
-        ],
+        "Belgian Rail , Line 2 , Line 5 , Line 6",
         [
           "/wiki/National_Railway_Company_of_Belgium"
         ]
@@ -88,800 +54,496 @@
     ],
     [
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "Beekkant"
-        ],
+        "Beekkant",
         [
           "/wiki/Beekkant_metro_station"
         ]
       ],
       [
-        [
-          "Beekkant"
-        ],
+        "Beekkant",
         [
           "/wiki/Beekkant_metro_station"
         ]
       ],
       [
-        [
-          "1981"
-        ],
-        [
-          null
-        ]
+        "1981",
+        []
       ],
       [
-        [
-          "Line 2 , Line 5 , Line 6"
-        ],
-        [
-          null
-        ]
+        "Line 2 , Line 5 , Line 6",
+        []
       ]
     ],
     [
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "\u00c9tangs Noirs"
-        ],
+        "\u00c9tangs Noirs",
         [
           "/wiki/\u00c9tangs_Noirs/Zwarte_Vijvers_metro_station"
         ]
       ],
       [
-        [
-          "Zwarte Vijvers"
-        ],
+        "Zwarte Vijvers",
         [
           "/wiki/\u00c9tangs_Noirs/Zwarte_Vijvers_metro_station"
         ]
       ],
       [
-        [
-          "1981"
-        ],
-        [
-          null
-        ]
+        "1981",
+        []
       ],
       [
-        [
-          "Line 5"
-        ],
-        [
-          null
-        ]
+        "Line 5",
+        []
       ]
     ],
     [
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "Comte de Flandre"
-        ],
+        "Comte de Flandre",
         [
           "/wiki/Comte_de_Flandre/Graaf_van_Vlaanderen_metro_station"
         ]
       ],
       [
-        [
-          "Graaf van Vlaanderen"
-        ],
+        "Graaf van Vlaanderen",
         [
           "/wiki/Comte_de_Flandre/Graaf_van_Vlaanderen_metro_station"
         ]
       ],
       [
-        [
-          "1981"
-        ],
-        [
-          null
-        ]
+        "1981",
+        []
       ],
       [
-        [
-          "Line 5"
-        ],
-        [
-          null
-        ]
+        "Line 5",
+        []
       ]
     ],
     [
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "Sainte-Catherine"
-        ],
+        "Sainte-Catherine",
         [
           "/wiki/Saint_Catherine_metro_station"
         ]
       ],
       [
-        [
-          "Sint-Katelijne"
-        ],
+        "Sint-Katelijne",
         [
           "/wiki/Saint_Catherine_metro_station"
         ]
       ],
       [
-        [
-          "1977"
-        ],
-        [
-          null
-        ]
+        "1977",
+        []
       ],
       [
-        [
-          "Line 5"
-        ],
-        [
-          null
-        ]
+        "Line 5",
+        []
       ]
     ],
     [
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "De Brouck\u00e8re"
-        ],
+        "De Brouck\u00e8re",
         [
           "/wiki/De_Brouck\u00e8re_station"
         ]
       ],
       [
-        [
-          "De Brouck\u00e8re"
-        ],
+        "De Brouck\u00e8re",
         [
           "/wiki/De_Brouck\u00e8re_station"
         ]
       ],
       [
-        [
-          "1976"
-        ],
-        [
-          null
-        ]
+        "1976",
+        []
       ],
       [
-        [
-          "Line 3 , Line 4 , Line 5"
-        ],
-        [
-          null
-        ]
+        "Line 3 , Line 4 , Line 5",
+        []
       ]
     ],
     [
       [
-        [
-          "7"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ],
       [
-        [
-          "Gare Centrale"
-        ],
+        "Gare Centrale",
         [
           "/wiki/Brussels-Central_railway_station"
         ]
       ],
       [
-        [
-          "Centraal Station"
-        ],
+        "Centraal Station",
         [
           "/wiki/Brussels-Central_railway_station"
         ]
       ],
       [
-        [
-          "1976"
-        ],
-        [
-          null
-        ]
+        "1976",
+        []
       ],
       [
-        [
-          "Line 5 , Belgian Rail"
-        ],
-        [
-          null
-        ]
+        "Line 5 , Belgian Rail",
+        []
       ]
     ],
     [
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "Parc"
-        ],
+        "Parc",
         [
           "/wiki/Park_metro_station"
         ]
       ],
       [
-        [
-          "Park"
-        ],
+        "Park",
         [
           "/wiki/Park_metro_station"
         ]
       ],
       [
-        [
-          "1976"
-        ],
-        [
-          null
-        ]
+        "1976",
+        []
       ],
       [
-        [
-          "Line 5"
-        ],
-        [
-          null
-        ]
+        "Line 5",
+        []
       ]
     ],
     [
       [
-        [
-          "9"
-        ],
-        [
-          null
-        ]
+        "9",
+        []
       ],
       [
-        [
-          "Arts-Loi"
-        ],
+        "Arts-Loi",
         [
           "/wiki/Arts-Loi/Kunst-Wet_metro_station"
         ]
       ],
       [
-        [
-          "Kunst-Wet"
-        ],
+        "Kunst-Wet",
         [
           "/wiki/Arts-Loi/Kunst-Wet_metro_station"
         ]
       ],
       [
-        [
-          "1976"
-        ],
-        [
-          null
-        ]
+        "1976",
+        []
       ],
       [
-        [
-          "Line 2 , Line 5 , Line 6"
-        ],
-        [
-          null
-        ]
+        "Line 2 , Line 5 , Line 6",
+        []
       ]
     ],
     [
       [
-        [
-          "10"
-        ],
-        [
-          null
-        ]
+        "10",
+        []
       ],
       [
-        [
-          "Maelbeek"
-        ],
+        "Maelbeek",
         [
           "/wiki/Maelbeek/Maalbeek_metro_station"
         ]
       ],
       [
-        [
-          "Maalbeek"
-        ],
+        "Maalbeek",
         [
           "/wiki/Maelbeek/Maalbeek_metro_station"
         ]
       ],
       [
-        [
-          "1976"
-        ],
-        [
-          null
-        ]
+        "1976",
+        []
       ],
       [
-        [
-          "Line 5"
-        ],
-        [
-          null
-        ]
+        "Line 5",
+        []
       ]
     ],
     [
       [
-        [
-          "11"
-        ],
-        [
-          null
-        ]
+        "11",
+        []
       ],
       [
-        [
-          "Schuman"
-        ],
+        "Schuman",
         [
           "/wiki/Schuman_station"
         ]
       ],
       [
-        [
-          "Schuman"
-        ],
+        "Schuman",
         [
           "/wiki/Schuman_station"
         ]
       ],
       [
-        [
-          "1976"
-        ],
-        [
-          null
-        ]
+        "1976",
+        []
       ],
       [
-        [
-          "Line 5 , Belgian Rail"
-        ],
-        [
-          null
-        ]
+        "Line 5 , Belgian Rail",
+        []
       ]
     ],
     [
       [
-        [
-          "12"
-        ],
-        [
-          null
-        ]
+        "12",
+        []
       ],
       [
-        [
-          "M\u00e9rode"
-        ],
+        "M\u00e9rode",
         [
           "/wiki/Merode_station"
         ]
       ],
       [
-        [
-          "M\u00e9rode"
-        ],
+        "M\u00e9rode",
         [
           "/wiki/Merode_station"
         ]
       ],
       [
-        [
-          "1976"
-        ],
-        [
-          null
-        ]
+        "1976",
+        []
       ],
       [
-        [
-          "Line 5 , Belgian Rail"
-        ],
-        [
-          null
-        ]
+        "Line 5 , Belgian Rail",
+        []
       ]
     ],
     [
       [
-        [
-          "13"
-        ],
-        [
-          null
-        ]
+        "13",
+        []
       ],
       [
-        [
-          "Montgomery"
-        ],
+        "Montgomery",
         [
           "/wiki/Montgomery_station_(Brussels_metro)"
         ]
       ],
       [
-        [
-          "Montgomery"
-        ],
+        "Montgomery",
         [
           "/wiki/Montgomery_station_(Brussels_metro)"
         ]
       ],
       [
-        [
-          "1976"
-        ],
-        [
-          null
-        ]
+        "1976",
+        []
       ],
       [
-        [
-          "None , Outer Ring Axis , Line 7"
-        ],
-        [
-          null
-        ]
+        "None , Outer Ring Axis , Line 7",
+        []
       ]
     ],
     [
       [
-        [
-          "14"
-        ],
-        [
-          null
-        ]
+        "14",
+        []
       ],
       [
-        [
-          "Jos\u00e9phine-Charlotte"
-        ],
+        "Jos\u00e9phine-Charlotte",
         [
           "/wiki/Jos\u00e9phine-Charlotte_metro_station"
         ]
       ],
       [
-        [
-          "Jos\u00e9phine-Charlotte"
-        ],
+        "Jos\u00e9phine-Charlotte",
         [
           "/wiki/Jos\u00e9phine-Charlotte_metro_station"
         ]
       ],
       [
-        [
-          "1976"
-        ],
-        [
-          null
-        ]
+        "1976",
+        []
       ],
       [
-        [
-          "None"
-        ],
-        [
-          null
-        ]
+        "None",
+        []
       ]
     ],
     [
       [
-        [
-          "15"
-        ],
-        [
-          null
-        ]
+        "15",
+        []
       ],
       [
-        [
-          "Gribaumont"
-        ],
+        "Gribaumont",
         [
           "/wiki/Gribaumont_metro_station"
         ]
       ],
       [
-        [
-          "Gribaumont"
-        ],
+        "Gribaumont",
         [
           "/wiki/Gribaumont_metro_station"
         ]
       ],
       [
-        [
-          "1976"
-        ],
-        [
-          null
-        ]
+        "1976",
+        []
       ],
       [
-        [
-          "None"
-        ],
-        [
-          null
-        ]
+        "None",
+        []
       ]
     ],
     [
       [
-        [
-          "16"
-        ],
-        [
-          null
-        ]
+        "16",
+        []
       ],
       [
-        [
-          "Tomberg"
-        ],
+        "Tomberg",
         [
           "/wiki/Tomberg_metro_station"
         ]
       ],
       [
-        [
-          "Tomberg"
-        ],
+        "Tomberg",
         [
           "/wiki/Tomberg_metro_station"
         ]
       ],
       [
-        [
-          "1976"
-        ],
-        [
-          null
-        ]
+        "1976",
+        []
       ],
       [
-        [
-          "None"
-        ],
-        [
-          null
-        ]
+        "None",
+        []
       ]
     ],
     [
       [
-        [
-          "17"
-        ],
-        [
-          null
-        ]
+        "17",
+        []
       ],
       [
-        [
-          "Roodebeek"
-        ],
+        "Roodebeek",
         [
           "/wiki/Roodebeek_metro_station"
         ]
       ],
       [
-        [
-          "Roodebeek"
-        ],
+        "Roodebeek",
         [
           "/wiki/Roodebeek_metro_station"
         ]
       ],
       [
-        [
-          "1982"
-        ],
-        [
-          null
-        ]
+        "1982",
+        []
       ],
       [
-        [
-          "None"
-        ],
-        [
-          null
-        ]
+        "None",
+        []
       ]
     ],
     [
       [
-        [
-          "18"
-        ],
-        [
-          null
-        ]
+        "18",
+        []
       ],
       [
-        [
-          "Vandervelde"
-        ],
+        "Vandervelde",
         [
           "/wiki/Vandervelde_metro_station"
         ]
       ],
       [
-        [
-          "Vandervelde"
-        ],
+        "Vandervelde",
         [
           "/wiki/Vandervelde_metro_station"
         ]
       ],
       [
-        [
-          "1982"
-        ],
-        [
-          null
-        ]
+        "1982",
+        []
       ],
       [
-        [
-          "None"
-        ],
-        [
-          null
-        ]
+        "None",
+        []
       ]
     ],
     [
       [
-        [
-          "19"
-        ],
-        [
-          null
-        ]
+        "19",
+        []
       ],
       [
-        [
-          "Alma"
-        ],
+        "Alma",
         [
           "/wiki/Alma_metro_station"
         ]
       ],
       [
-        [
-          "Alma"
-        ],
+        "Alma",
         [
           "/wiki/Alma_metro_station"
         ]
       ],
       [
-        [
-          "1982"
-        ],
-        [
-          null
-        ]
+        "1982",
+        []
       ],
       [
-        [
-          "None"
-        ],
-        [
-          null
-        ]
+        "None",
+        []
       ]
     ],
     [
       [
-        [
-          "20"
-        ],
-        [
-          null
-        ]
+        "20",
+        []
       ],
       [
-        [
-          "Crainhem"
-        ],
+        "Crainhem",
         [
           "/wiki/Kraainem/Crainhem_metro_station"
         ]
       ],
       [
-        [
-          "Kraainem"
-        ],
+        "Kraainem",
         [
           "/wiki/Kraainem/Crainhem_metro_station"
         ]
       ],
       [
-        [
-          "1988"
-        ],
-        [
-          null
-        ]
+        "1988",
+        []
       ],
       [
-        [
-          "None"
-        ],
-        [
-          null
-        ]
+        "None",
+        []
       ]
     ]
   ],

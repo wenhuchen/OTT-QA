@@ -3,62 +3,36 @@
   "title": "MICEX 10",
   "header": [
     [
-      [
-        "Company"
-      ],
-      [
-        null
-      ]
+      "Company",
+      []
     ],
     [
-      [
-        "Ticker symbol"
-      ],
-      [
-        null
-      ]
+      "Ticker symbol",
+      []
     ],
     [
-      [
-        "Industry"
-      ],
-      [
-        null
-      ]
+      "Industry",
+      []
     ],
     [
-      [
-        "Stock type"
-      ],
-      [
-        null
-      ]
+      "Stock type",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "NorNickel"
-        ],
+        "NorNickel",
         [
           "/wiki/MMC_Norilsk_Nickel"
         ]
       ],
       [
-        [
-          "GMKN"
-        ],
-        [
-          null
-        ]
+        "GMKN",
+        []
       ],
       [
-        [
-          "Precious",
-          "non-ferrous",
-          "metals"
-        ],
+        "Precious and non-ferrous metals",
         [
           "/wiki/Precious_metal",
           "/wiki/Non-ferrous_metal",
@@ -66,9 +40,7 @@
         ]
       ],
       [
-        [
-          "Common"
-        ],
+        "Common",
         [
           "/wiki/Common_stock"
         ]
@@ -76,33 +48,23 @@
     ],
     [
       [
-        [
-          "Alrosa"
-        ],
+        "Alrosa",
         [
           "/wiki/Alrosa"
         ]
       ],
       [
-        [
-          "ALRS"
-        ],
-        [
-          null
-        ]
+        "ALRS",
+        []
       ],
       [
-        [
-          "Mining"
-        ],
+        "Mining",
         [
           "/wiki/Mining"
         ]
       ],
       [
-        [
-          "Common"
-        ],
+        "Common",
         [
           "/wiki/Common_stock"
         ]
@@ -110,33 +72,23 @@
     ],
     [
       [
-        [
-          "Moscow Exchange"
-        ],
+        "Moscow Exchange",
         [
           "/wiki/Moscow_Exchange"
         ]
       ],
       [
-        [
-          "MOEX"
-        ],
-        [
-          null
-        ]
+        "MOEX",
+        []
       ],
       [
-        [
-          "Finance"
-        ],
+        "Finance",
         [
           "/wiki/Finance"
         ]
       ],
       [
-        [
-          "Common"
-        ],
+        "Common",
         [
           "/wiki/Common_stock"
         ]
@@ -144,33 +96,23 @@
     ],
     [
       [
-        [
-          "Gazprom"
-        ],
+        "Gazprom",
         [
           "/wiki/Gazprom"
         ]
       ],
       [
-        [
-          "GAZP"
-        ],
-        [
-          null
-        ]
+        "GAZP",
+        []
       ],
       [
-        [
-          "Oil & gas"
-        ],
+        "Oil & gas",
         [
           "/wiki/Hydrocarbon_exploration"
         ]
       ],
       [
-        [
-          "Common"
-        ],
+        "Common",
         [
           "/wiki/Common_stock"
         ]
@@ -178,33 +120,23 @@
     ],
     [
       [
-        [
-          "FGC UES"
-        ],
+        "FGC UES",
         [
           "/wiki/FGC_UES"
         ]
       ],
       [
-        [
-          "FEES"
-        ],
-        [
-          null
-        ]
+        "FEES",
+        []
       ],
       [
-        [
-          "Electric utility"
-        ],
+        "Electric utility",
         [
           "/wiki/Electric_utility"
         ]
       ],
       [
-        [
-          "Common"
-        ],
+        "Common",
         [
           "/wiki/Common_stock"
         ]
@@ -212,33 +144,23 @@
     ],
     [
       [
-        [
-          "Lukoil"
-        ],
+        "Lukoil",
         [
           "/wiki/Lukoil"
         ]
       ],
       [
-        [
-          "LKOH"
-        ],
-        [
-          null
-        ]
+        "LKOH",
+        []
       ],
       [
-        [
-          "Oil & gas"
-        ],
+        "Oil & gas",
         [
           "/wiki/Hydrocarbon_exploration"
         ]
       ],
       [
-        [
-          "Common"
-        ],
+        "Common",
         [
           "/wiki/Common_stock"
         ]
@@ -246,33 +168,23 @@
     ],
     [
       [
-        [
-          "Sberbank"
-        ],
+        "Sberbank",
         [
           "/wiki/Sberbank"
         ]
       ],
       [
-        [
-          "SBER"
-        ],
-        [
-          null
-        ]
+        "SBER",
+        []
       ],
       [
-        [
-          "Banking"
-        ],
+        "Banking",
         [
           "/wiki/Banking"
         ]
       ],
       [
-        [
-          "Common"
-        ],
+        "Common",
         [
           "/wiki/Common_stock"
         ]
@@ -280,33 +192,23 @@
     ],
     [
       [
-        [
-          "Rosneft"
-        ],
+        "Rosneft",
         [
           "/wiki/Rosneft"
         ]
       ],
       [
-        [
-          "ROSN"
-        ],
-        [
-          null
-        ]
+        "ROSN",
+        []
       ],
       [
-        [
-          "Oil & gas"
-        ],
+        "Oil & gas",
         [
           "/wiki/Hydrocarbon_exploration"
         ]
       ],
       [
-        [
-          "Common"
-        ],
+        "Common",
         [
           "/wiki/Common_stock"
         ]
@@ -314,33 +216,23 @@
     ],
     [
       [
-        [
-          "Magnit"
-        ],
+        "Magnit",
         [
           "/wiki/Magnit"
         ]
       ],
       [
-        [
-          "MGNT"
-        ],
-        [
-          null
-        ]
+        "MGNT",
+        []
       ],
       [
-        [
-          "Retail"
-        ],
+        "Retail",
         [
           "/wiki/Retail"
         ]
       ],
       [
-        [
-          "Common"
-        ],
+        "Common",
         [
           "/wiki/Common_stock"
         ]
@@ -348,33 +240,23 @@
     ],
     [
       [
-        [
-          "RusHydro"
-        ],
+        "RusHydro",
         [
           "/wiki/RusHydro"
         ]
       ],
       [
-        [
-          "HYDR"
-        ],
-        [
-          null
-        ]
+        "HYDR",
+        []
       ],
       [
-        [
-          "Electric utility"
-        ],
+        "Electric utility",
         [
           "/wiki/Electric_utility"
         ]
       ],
       [
-        [
-          "Common"
-        ],
+        "Common",
         [
           "/wiki/Common_stock"
         ]

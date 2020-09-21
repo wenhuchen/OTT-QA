@@ -3,63 +3,36 @@
   "title": "SW postcode area",
   "header": [
     [
-      [
-        "Postcode district"
-      ],
-      [
-        null
-      ]
+      "Postcode district",
+      []
     ],
     [
-      [
-        "Post town"
-      ],
+      "Post town",
       [
         "/wiki/Post_town"
       ]
     ],
     [
-      [
-        "Coverage"
-      ],
-      [
-        null
-      ]
+      "Coverage",
+      []
     ],
     [
-      [
-        "Local authority area"
-      ],
-      [
-        null
-      ]
+      "Local authority area",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "SW1A"
-        ],
-        [
-          null
-        ]
+        "SW1A",
+        []
       ],
       [
-        [
-          "LONDON"
-        ],
-        [
-          null
-        ]
+        "LONDON",
+        []
       ],
       [
-        [
-          "Whitehall",
-          "Buckingham Palace",
-          "Houses of Parliament",
-          "St James 's"
-        ],
+        "Whitehall , Buckingham Palace , the Houses of Parliament and west of St James 's",
         [
           "/wiki/Whitehall",
           "/wiki/Buckingham_Palace",
@@ -68,9 +41,7 @@
         ]
       ],
       [
-        [
-          "Westminster"
-        ],
+        "Westminster",
         [
           "/wiki/City_of_Westminster"
         ]
@@ -78,169 +49,98 @@
     ],
     [
       [
-        [
-          "SW1E"
-        ],
-        [
-          null
-        ]
+        "SW1E",
+        []
       ],
       [
-        [
-          "LONDON"
-        ],
-        [
-          null
-        ]
+        "LONDON",
+        []
       ],
       [
-        [
-          "Buckingham Gate",
-          "Victoria Street"
-        ],
+        "Northern 'Victoria ' around Buckingham Gate ( a street ) to include both sides of part of Victoria Street",
         [
           "/wiki/Buckingham_Gate",
           "/wiki/Victoria_Street,_London"
         ]
       ],
       [
-        [
-          "Westminster"
-        ],
-        [
-          null
-        ]
+        "Westminster",
+        []
       ]
     ],
     [
       [
-        [
-          "SW1H"
-        ],
-        [
-          null
-        ]
+        "SW1H",
+        []
       ],
       [
-        [
-          "LONDON"
-        ],
-        [
-          null
-        ]
+        "LONDON",
+        []
       ],
       [
-        [
-          "Horse Guards Parade"
-        ],
+        "Surrounds of St James 's Park tube station centred on Broadway , Queen Anne 's Gate and Old Queen Street to include both sides of part of Victoria Street - derivation : Horse Guards Parade",
         [
           "/wiki/Horse_Guards_Parade"
         ]
       ],
       [
-        [
-          "Westminster"
-        ],
-        [
-          null
-        ]
+        "Westminster",
+        []
       ]
     ],
     [
       [
-        [
-          "SW1P"
-        ],
-        [
-          null
-        ]
+        "SW1P",
+        []
       ],
       [
-        [
-          "LONDON"
-        ],
-        [
-          null
-        ]
+        "LONDON",
+        []
       ],
       [
-        [
-          "University of the Arts , London",
-          "Vauxhall Bridge Road"
-        ],
+        "A projection around Parliament Square . Nearby Westminster School to Westminster Cathedral to CCAL , University of the Arts , London ( omitting all backstreets nearest to Vauxhall Bridge Road ) - derivation : Parliament Square",
         [
           "/wiki/University_of_the_Arts,_London",
           "/wiki/Vauxhall_Bridge_Road"
         ]
       ],
       [
-        [
-          "Westminster"
-        ],
-        [
-          null
-        ]
+        "Westminster",
+        []
       ]
     ],
     [
       [
-        [
-          "SW1V"
-        ],
-        [
-          null
-        ]
+        "SW1V",
+        []
       ],
       [
-        [
-          "LONDON"
-        ],
-        [
-          null
-        ]
+        "LONDON",
+        []
       ],
       [
-        [
-          "Vauxhall Bridge",
-          "Grosvenor ( or Victoria Railway ) Bridge"
-        ],
+        "between Vauxhall Bridge , Grosvenor ( or Victoria Railway ) Bridge and Victoria Station , taking in both sides of Vauxhall Bridge Road ; includes Pimlico",
         [
           "/wiki/Vauxhall_Bridge",
           "/wiki/Grosvenor_Bridge"
         ]
       ],
       [
-        [
-          "Westminster"
-        ],
-        [
-          null
-        ]
+        "Westminster",
+        []
       ]
     ],
     [
       [
-        [
-          "SW1W"
-        ],
-        [
-          null
-        ]
+        "SW1W",
+        []
       ],
       [
-        [
-          "LONDON"
-        ],
-        [
-          null
-        ]
+        "LONDON",
+        []
       ],
       [
-        [
-          "Belgravia",
-          "Chelsea",
-          "Sloane Square"
-        ],
+        "South or lower Belgravia and Chelsea ( a corner ) , from Sloane Square to Victoria Station to Grosvenor Waterside basin",
         [
           "/wiki/Belgravia",
           "/wiki/Chelsea,_London",
@@ -248,9 +148,7 @@
         ]
       ],
       [
-        [
-          "Kensington and Chelsea"
-        ],
+        "Westminster , Kensington and Chelsea",
         [
           "/wiki/Royal_Borough_of_Kensington_and_Chelsea"
         ]
@@ -258,28 +156,15 @@
     ],
     [
       [
-        [
-          "SW1X"
-        ],
-        [
-          null
-        ]
+        "SW1X",
+        []
       ],
       [
-        [
-          "LONDON"
-        ],
-        [
-          null
-        ]
+        "LONDON",
+        []
       ],
       [
-        [
-          "Belgravia",
-          "Eaton Square",
-          "Knightsbridge",
-          "Chelsea"
-        ],
+        "Rest of Belgravia ( north of Eaton Square ) , Knightsbridge ( eastern half ) and Chelsea ( a corner )",
         [
           "/wiki/Belgravia",
           "/wiki/Eaton_Square",
@@ -288,75 +173,41 @@
         ]
       ],
       [
-        [
-          "Westminster , Kensington and Chelsea"
-        ],
-        [
-          null
-        ]
+        "Westminster , Kensington and Chelsea",
+        []
       ]
     ],
     [
       [
-        [
-          "SW1Y"
-        ],
-        [
-          null
-        ]
+        "SW1Y",
+        []
       ],
       [
-        [
-          "LONDON"
-        ],
-        [
-          null
-        ]
+        "LONDON",
+        []
       ],
       [
-        [
-          "St James 's"
-        ],
+        "All but the west of St James 's",
         [
           "/wiki/St_James's"
         ]
       ],
       [
-        [
-          "Westminster"
-        ],
-        [
-          null
-        ]
+        "Westminster",
+        []
       ]
     ],
     [
       [
-        [
-          "SW2"
-        ],
-        [
-          null
-        ]
+        "SW2",
+        []
       ],
       [
-        [
-          "LONDON"
-        ],
-        [
-          null
-        ]
+        "LONDON",
+        []
       ],
       [
-        [
-          "Brixton Hill",
-          "Tulse Hill",
-          "Brixton",
-          "Streatham Hill",
-          "Clapham",
-          "Eastern parts of Balham",
-          "Lambeth"
-        ],
+        "Brixton district : Brixton Hill , Tulse Hill ( part ) , Brixton ( part ) , Streatham Hill , Clapham ( part ) , Eastern parts of Balham , Lambeth",
         [
           "/wiki/Brixton_Hill",
           "/wiki/Tulse_Hill",
@@ -368,9 +219,7 @@
         ]
       ],
       [
-        [
-          "Lambeth"
-        ],
+        "Lambeth",
         [
           "/wiki/London_Borough_of_Lambeth"
         ]
@@ -378,27 +227,15 @@
     ],
     [
       [
-        [
-          "SW3"
-        ],
-        [
-          null
-        ]
+        "SW3",
+        []
       ],
       [
-        [
-          "LONDON"
-        ],
-        [
-          null
-        ]
+        "LONDON",
+        []
       ],
       [
-        [
-          "Chelsea",
-          "Brompton",
-          "Knightsbridge"
-        ],
+        "Chelsea district : Chelsea , Brompton , Knightsbridge ( part )",
         [
           "/wiki/Chelsea,_London",
           "/wiki/Brompton,_Kensington",
@@ -406,45 +243,28 @@
         ]
       ],
       [
-        [
-          "Kensington and Chelsea"
-        ],
-        [
-          null
-        ]
+        "Kensington and Chelsea",
+        []
       ]
     ],
     [
       [
-        [
-          "SW4"
-        ],
-        [
-          null
-        ]
+        "SW4",
+        []
       ],
       [
-        [
-          "LONDON"
-        ],
-        [
-          null
-        ]
+        "LONDON",
+        []
       ],
       [
-        [
-          "Clapham",
-          "Stockwell"
-        ],
+        "Clapham district : Clapham , Stockwell ( part )",
         [
           "/wiki/Clapham",
           "/wiki/Stockwell"
         ]
       ],
       [
-        [
-          "Wandsworth"
-        ],
+        "Lambeth , Wandsworth",
         [
           "/wiki/London_Borough_of_Wandsworth"
         ]
@@ -452,69 +272,42 @@
     ],
     [
       [
-        [
-          "SW5"
-        ],
-        [
-          null
-        ]
+        "SW5",
+        []
       ],
       [
-        [
-          "LONDON"
-        ],
-        [
-          null
-        ]
+        "LONDON",
+        []
       ],
       [
-        [
-          "Earls Court"
-        ],
+        "Earls Court district : Earls Court",
         [
           "/wiki/Earls_Court"
         ]
       ],
       [
-        [
-          "Kensington and Chelsea"
-        ],
-        [
-          null
-        ]
+        "Kensington and Chelsea",
+        []
       ]
     ],
     [
       [
-        [
-          "SW6"
-        ],
-        [
-          null
-        ]
+        "SW6",
+        []
       ],
       [
-        [
-          "LONDON"
-        ],
-        [
-          null
-        ]
+        "LONDON",
+        []
       ],
       [
-        [
-          "Fulham",
-          "Parsons Green"
-        ],
+        "Fulham district : Fulham , Parsons Green",
         [
           "/wiki/Fulham",
           "/wiki/Parsons_Green"
         ]
       ],
       [
-        [
-          "Hammersmith and Fulham"
-        ],
+        "Hammersmith and Fulham",
         [
           "/wiki/London_Borough_of_Hammersmith_and_Fulham"
         ]
@@ -522,67 +315,36 @@
     ],
     [
       [
-        [
-          "SW7"
-        ],
-        [
-          null
-        ]
+        "SW7",
+        []
       ],
       [
-        [
-          "LONDON"
-        ],
-        [
-          null
-        ]
+        "LONDON",
+        []
       ],
       [
-        [
-          "South Kensington",
-          "Knightsbridge"
-        ],
+        "South Kensington district : South Kensington , Knightsbridge ( part )",
         [
           "/wiki/South_Kensington",
           "/wiki/Knightsbridge"
         ]
       ],
       [
-        [
-          "Kensington and Chelsea , Westminster"
-        ],
-        [
-          null
-        ]
+        "Kensington and Chelsea , Westminster",
+        []
       ]
     ],
     [
       [
-        [
-          "SW8"
-        ],
-        [
-          null
-        ]
+        "SW8",
+        []
       ],
       [
-        [
-          "LONDON"
-        ],
-        [
-          null
-        ]
+        "LONDON",
+        []
       ],
       [
-        [
-          "South Lambeth",
-          "Vauxhall",
-          "Battersea",
-          "Nine Elms",
-          "Clapham",
-          "NW area of Stockwell",
-          "Oval"
-        ],
+        "South Lambeth district : South Lambeth , Wandsworth Road , Vauxhall , Battersea : Nine Elms ( part ) , Clapham ( part ) , NW area of Stockwell , Oval ( part )",
         [
           "/wiki/South_Lambeth",
           "/wiki/Vauxhall",
@@ -594,38 +356,21 @@
         ]
       ],
       [
-        [
-          "Lambeth , Wandsworth"
-        ],
-        [
-          null
-        ]
+        "Lambeth , Wandsworth",
+        []
       ]
     ],
     [
       [
-        [
-          "SW9"
-        ],
-        [
-          null
-        ]
+        "SW9",
+        []
       ],
       [
-        [
-          "LONDON"
-        ],
-        [
-          null
-        ]
+        "LONDON",
+        []
       ],
       [
-        [
-          "Brixton",
-          "Stockwell",
-          "Clapham",
-          "Oval"
-        ],
+        "Stockwell district : Brixton , Stockwell , Clapham ( part ) , Oval ( part )",
         [
           "/wiki/Brixton",
           "/wiki/Stockwell",
@@ -634,109 +379,63 @@
         ]
       ],
       [
-        [
-          "Lambeth"
-        ],
-        [
-          null
-        ]
+        "Lambeth",
+        []
       ]
     ],
     [
       [
-        [
-          "SW10"
-        ],
-        [
-          null
-        ]
+        "SW10",
+        []
       ],
       [
-        [
-          "LONDON"
-        ],
-        [
-          null
-        ]
+        "LONDON",
+        []
       ],
       [
-        [
-          "West Brompton",
-          "Chelsea"
-        ],
+        "West Brompton district : West Brompton , Chelsea ( part )",
         [
           "/wiki/West_Brompton",
           "/wiki/Chelsea,_London"
         ]
       ],
       [
-        [
-          "Kensington and Chelsea , Hammersmith and Fulham"
-        ],
-        [
-          null
-        ]
+        "Kensington and Chelsea , Hammersmith and Fulham",
+        []
       ]
     ],
     [
       [
-        [
-          "SW11"
-        ],
-        [
-          null
-        ]
+        "SW11",
+        []
       ],
       [
-        [
-          "LONDON"
-        ],
-        [
-          null
-        ]
+        "LONDON",
+        []
       ],
       [
-        [
-          "Battersea",
-          "Clapham South"
-        ],
+        "Battersea head district : Battersea , Clapham South",
         [
           "/wiki/Battersea",
           "/wiki/Clapham_South"
         ]
       ],
       [
-        [
-          "Wandsworth , Lambeth"
-        ],
-        [
-          null
-        ]
+        "Wandsworth , Lambeth",
+        []
       ]
     ],
     [
       [
-        [
-          "SW12"
-        ],
-        [
-          null
-        ]
+        "SW12",
+        []
       ],
       [
-        [
-          "LONDON"
-        ],
-        [
-          null
-        ]
+        "LONDON",
+        []
       ],
       [
-        [
-          "Balham",
-          "Clapham South",
-          "Wandsworth Common"
-        ],
+        "Balham district : Balham , Clapham South , Wandsworth Common ( part )",
         [
           "/wiki/Balham",
           "/wiki/Clapham_South",
@@ -744,43 +443,27 @@
         ]
       ],
       [
-        [
-          "Wandsworth , Lambeth"
-        ],
-        [
-          null
-        ]
+        "Wandsworth , Lambeth",
+        []
       ]
     ],
     [
       [
-        [
-          "SW13"
-        ],
-        [
-          null
-        ]
+        "SW13",
+        []
       ],
       [
-        [
-          "LONDON"
-        ],
-        [
-          null
-        ]
+        "LONDON",
+        []
       ],
       [
-        [
-          "Barnes"
-        ],
+        "Barnes district : Barnes",
         [
           "/wiki/Barnes,_London"
         ]
       ],
       [
-        [
-          "Richmond upon Thames"
-        ],
+        "Richmond upon Thames",
         [
           "/wiki/London_Borough_of_Richmond_upon_Thames"
         ]

@@ -3,53 +3,34 @@
   "title": "List of Jewish cuisine dishes",
   "header": [
     [
-      [
-        "Name"
-      ],
-      [
-        null
-      ]
+      "Name",
+      []
     ],
     [
-      [
-        "Origin"
-      ],
-      [
-        null
-      ]
+      "Origin",
+      []
     ],
     [
-      [
-        "Description"
-      ],
-      [
-        null
-      ]
+      "Description",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Adafina"
-        ],
+        "Adafina",
         [
           "/wiki/Cholent"
         ]
       ],
       [
-        [
-          "Spain"
-        ],
+        "Spain",
         [
           "/wiki/Spain"
         ]
       ],
       [
-        [
-          "hamin",
-          "Spanish Jews"
-        ],
+        "a version of hamin popular among Spanish Jews",
         [
           "/wiki/Cholent",
           "/wiki/Spanish_Jews"
@@ -58,21 +39,13 @@
     ],
     [
       [
-        [
-          "Baba ghanoush"
-        ],
+        "Baba ghanoush",
         [
           "/wiki/Baba_ghanoush"
         ]
       ],
       [
-        [
-          "Levant",
-          "Syria",
-          "Lebanon",
-          "Middle East",
-          "Jordan"
-        ],
+        "The Levant ( Syria , Lebanon , Middle East , Jordan )",
         [
           "/wiki/Levant",
           "/wiki/Syria",
@@ -82,34 +55,19 @@
         ]
       ],
       [
-        [
-          "Broiled eggplant mixed with garlic , lemon , tahini , and spices . Israeli Baba Ganouj is made with mayonnaise instead of tahini and is sometimes called salat hatzilim ( eggplant salad )"
-        ],
-        [
-          null
-        ]
+        "Broiled eggplant mixed with garlic , lemon , tahini , and spices . Israeli Baba Ganouj is made with mayonnaise instead of tahini and is sometimes called salat hatzilim ( eggplant salad )",
+        []
       ]
     ],
     [
       [
-        [
-          "Baklava"
-        ],
+        "Baklava",
         [
           "/wiki/Baklava"
         ]
       ],
       [
-        [
-          "Levant",
-          "Syria",
-          "Lebanon",
-          "Israel",
-          "Middle East",
-          "Jordan",
-          "Turkey",
-          "Greece"
-        ],
+        "The Levant ( Syria , Lebanon , Israel , Middle East , Jordan ) , Turkey , Greece",
         [
           "/wiki/Levant",
           "/wiki/Syria",
@@ -122,30 +80,19 @@
         ]
       ],
       [
-        [
-          "Sweet dessert pastry made of layers of filo filled with chopped nuts , drizzled with syrup or honey"
-        ],
-        [
-          null
-        ]
+        "Sweet dessert pastry made of layers of filo filled with chopped nuts , drizzled with syrup or honey",
+        []
       ]
     ],
     [
       [
-        [
-          "Bourekas"
-        ],
+        "Bourekas",
         [
           "/wiki/Bourekas"
         ]
       ],
       [
-        [
-          "Turkey",
-          "Greece",
-          "Algeria",
-          "Tunisia"
-        ],
+        "Turkey , Greece , Algeria , Tunisia",
         [
           "/wiki/Turkey",
           "/wiki/Greece",
@@ -154,35 +101,25 @@
         ]
       ],
       [
-        [
-          "Small parcels of flakey pastry , filled with either cheese , potatoes , mushrooms or spinach , then baked or fried"
-        ],
-        [
-          null
-        ]
+        "Small parcels of flakey pastry , filled with either cheese , potatoes , mushrooms or spinach , then baked or fried",
+        []
       ]
     ],
     [
       [
-        [
-          "Carciofi alla giudia"
-        ],
+        "Carciofi alla giudia",
         [
           "/wiki/Carciofi_alla_giudia"
         ]
       ],
       [
-        [
-          "Italy"
-        ],
+        "Italy",
         [
           "/wiki/Italy"
         ]
       ],
       [
-        [
-          "artichoke"
-        ],
+        "a deeply fried artichoke",
         [
           "/wiki/Artichoke"
         ]
@@ -190,19 +127,13 @@
     ],
     [
       [
-        [
-          "Couscous"
-        ],
+        "Couscous",
         [
           "/wiki/Couscous"
         ]
       ],
       [
-        [
-          "Algeria",
-          "Morocco",
-          "Tunisia"
-        ],
+        "Algeria , Morocco , Tunisia",
         [
           "/wiki/Algeria",
           "/wiki/Morocco",
@@ -210,30 +141,19 @@
         ]
       ],
       [
-        [
-          "Crushed durum wheat semolina , steamed and served with vegetable or meat soup or stew"
-        ],
-        [
-          null
-        ]
+        "Crushed durum wheat semolina , steamed and served with vegetable or meat soup or stew",
+        []
       ]
     ],
     [
       [
-        [
-          "Falafel"
-        ],
+        "Falafel",
         [
           "/wiki/Falafel"
         ]
       ],
       [
-        [
-          "Lebanon",
-          "Israel",
-          "Middle East",
-          "Egypt"
-        ],
+        "Lebanon , Israel , Middle East , Egypt",
         [
           "/wiki/Lebanon",
           "/wiki/Israel_(region)",
@@ -242,88 +162,57 @@
         ]
       ],
       [
-        [
-          "Deep fried chickpea balls"
-        ],
-        [
-          null
-        ]
+        "Deep fried chickpea balls",
+        []
       ]
     ],
     [
       [
-        [
-          "Fazuelos"
-        ],
+        "Fazuelos",
         [
           "/wiki/Fazuelos"
         ]
       ],
       [
-        [
-          "Morocco"
-        ],
+        "Morocco",
         [
           "/wiki/Morocco"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Halva"
-        ],
+        "Halva",
         [
           "/wiki/Halva"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Sweet brick of ground sesame , sometimes with embedded pistachios or other nuts"
-        ],
-        [
-          null
-        ]
+        "Sweet brick of ground sesame , sometimes with embedded pistachios or other nuts",
+        []
       ]
     ],
     [
       [
-        [
-          "Hamin"
-        ],
+        "Hamin",
         [
           "/wiki/Cholent"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Sephardi",
-          "Israeli"
-        ],
+        "a Sephardi or Israeli version of cholent",
         [
           "/wiki/Sephardic_Jews",
           "/wiki/Israeli_cuisine"
@@ -332,22 +221,13 @@
     ],
     [
       [
-        [
-          "Israeli salad"
-        ],
+        "Israeli salad",
         [
           "/wiki/Israeli_salad"
         ]
       ],
       [
-        [
-          "Arab salad",
-          "Levant",
-          "Syria",
-          "Lebanon",
-          "Middle East",
-          "Jordan"
-        ],
+        "Arab salad ( mostly popular in the Levant ( Syria , Lebanon , Middle East , Jordan )",
         [
           "/wiki/Arab_salad",
           "/wiki/Levant",
@@ -358,119 +238,81 @@
         ]
       ],
       [
-        [
-          "Chopped cucumber and tomato cold dish , often served for breakfast"
-        ],
-        [
-          null
-        ]
+        "Chopped cucumber and tomato cold dish , often served for breakfast",
+        []
       ]
     ],
     [
       [
-        [
-          "Jachnun"
-        ],
+        "Jachnun",
         [
           "/wiki/Jachnun"
         ]
       ],
       [
-        [
-          "Yemen"
-        ],
+        "Yemen",
         [
           "/wiki/Yemen"
         ]
       ],
       [
-        [
-          "Thinly rolled out dough , brushed with butter , oil , or margarine , rolled up like strudel and baked"
-        ],
-        [
-          null
-        ]
+        "Thinly rolled out dough , brushed with butter , oil , or margarine , rolled up like strudel and baked",
+        []
       ]
     ],
     [
       [
-        [
-          "Jerusalem mixed grill"
-        ],
+        "Jerusalem mixed grill",
         [
           "/wiki/Jerusalem_mixed_grill"
         ]
       ],
       [
-        [
-          "Israel"
-        ],
+        "Israel",
         [
           "/wiki/Israel"
         ]
       ],
       [
-        [
-          "It consists of chicken hearts , spleens and liver mixed with bits of lamb cooked on a flat grill , seasoned with onion , garlic , black pepper , cumin , turmeric , olive oil and coriander"
-        ],
-        [
-          null
-        ]
+        "It consists of chicken hearts , spleens and liver mixed with bits of lamb cooked on a flat grill , seasoned with onion , garlic , black pepper , cumin , turmeric , olive oil and coriander",
+        []
       ]
     ],
     [
       [
-        [
-          "Kubba"
-        ],
+        "Kubba",
         [
           "/wiki/Kubba"
         ]
       ],
       [
-        [
-          "Iraqi",
-          "Kurdistan"
-        ],
+        "Iraqi Kurdistan",
         [
           "/wiki/Iraq",
           "/wiki/Kurdistan"
         ]
       ],
       [
-        [
-          "Round or oval savory croquettes made of semolina or bulghur [ cracked wheat ] dough , filled with minced onions and spicy minced lean meat ( beef , lamb , goat or camel meat ) and served raw , fried or cooked in savory sauce"
-        ],
-        [
-          null
-        ]
+        "Round or oval savory croquettes made of semolina or bulghur [ cracked wheat ] dough , filled with minced onions and spicy minced lean meat ( beef , lamb , goat or camel meat ) and served raw , fried or cooked in savory sauce",
+        []
       ]
     ],
     [
       [
-        [
-          "Kubba",
-          "Bamia"
-        ],
+        "Kubba Bamia",
         [
           "/wiki/Kubba",
           "/wiki/Bamia"
         ]
       ],
       [
-        [
-          "Iraq"
-        ],
+        "Iraq",
         [
           "/wiki/Iraq"
         ]
       ],
       [
-        [
-          "semolina",
-          "kubba",
-          "okra"
-        ],
+        "A stew made of semolina kubba , okra cooked in tomato sauce",
         [
           "/wiki/Semolina",
           "/wiki/Kibbeh",
@@ -480,29 +322,20 @@
     ],
     [
       [
-        [
-          "Kubba",
-          "Shwandar"
-        ],
+        "Kubba Shwandar",
         [
           "/wiki/Kubba",
           "/wiki/Beet"
         ]
       ],
       [
-        [
-          "Iraq"
-        ],
+        "Iraq",
         [
           "/wiki/Iraq"
         ]
       ],
       [
-        [
-          "semolina",
-          "kubba",
-          "beet"
-        ],
+        "A stew of semolina kubba cooked with beet",
         [
           "/wiki/Semolina",
           "/wiki/Kibbeh",
@@ -512,57 +345,37 @@
     ],
     [
       [
+        "Kubba Matfuniya",
         [
-          "Kubba",
-          "Matfuniya"
-        ],
-        [
-          "/wiki/Kubba",
-          null
+          "/wiki/Kubba"
         ]
       ],
       [
-        [
-          "Iraqi Kurdistan"
-        ],
+        "Iraqi Kurdistan",
         [
           "/wiki/Iraqi_Kurdistan"
         ]
       ],
       [
-        [
-          "Ball-shaped kubba"
-        ],
-        [
-          null
-        ]
+        "Ball-shaped kubba",
+        []
       ]
     ],
     [
       [
+        "Kubba Hamusta",
         [
-          "Kubba",
-          "Hamusta"
-        ],
-        [
-          "/wiki/Kubba",
-          null
+          "/wiki/Kubba"
         ]
       ],
       [
-        [
-          "Iraqi Kurdistan"
-        ],
+        "Iraqi Kurdistan",
         [
           "/wiki/Iraqi_Kurdistan"
         ]
       ],
       [
-        [
-          "semolina",
-          "kubba",
-          "sour"
-        ],
+        "A stew of semolina kubba cooked in sour sauce",
         [
           "/wiki/Semolina",
           "/wiki/Kibbeh",
@@ -572,21 +385,13 @@
     ],
     [
       [
-        [
-          "Ma'amoul"
-        ],
+        "Ma'amoul",
         [
           "/wiki/Ma'amoul"
         ]
       ],
       [
-        [
-          "Levant",
-          "Syria",
-          "Lebanon",
-          "Middle East",
-          "Jordan"
-        ],
+        "The Levant ( Syria , Lebanon , Middle East , Jordan",
         [
           "/wiki/Levant",
           "/wiki/Syria",
@@ -596,38 +401,26 @@
         ]
       ],
       [
-        [
-          "Date filled cookies"
-        ],
-        [
-          null
-        ]
+        "Date filled cookies",
+        []
       ]
     ],
     [
       [
-        [
-          "Malawach"
-        ],
+        "Malawach",
         [
           "/wiki/Malawach"
         ]
       ],
       [
-        [
-          "Yemen"
-        ],
+        "Yemen",
         [
           "/wiki/Yemen"
         ]
       ],
       [
-        [
-          "A flaky fried bread , similar to puff pastry , made by folding multiple layers of thin dough with butter , then cooking in a hot skillet"
-        ],
-        [
-          null
-        ]
+        "A flaky fried bread , similar to puff pastry , made by folding multiple layers of thin dough with butter , then cooking in a hot skillet",
+        []
       ]
     ]
   ],

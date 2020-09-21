@@ -3,84 +3,54 @@
   "title": "List of largest cities of Iran",
   "header": [
     [
-      [
-        "Province"
-      ],
-      [
-        null
-      ]
+      "Province",
+      []
     ],
     [
-      [
-        "Largest city"
-      ],
-      [
-        null
-      ]
+      "Largest city",
+      []
     ],
     [
-      [
-        "2nd Largest"
-      ],
-      [
-        null
-      ]
+      "2nd Largest",
+      []
     ],
     [
-      [
-        "3rd Largest"
-      ],
-      [
-        null
-      ]
+      "3rd Largest",
+      []
     ],
     [
-      [
-        "4th largest"
-      ],
-      [
-        null
-      ]
+      "4th largest",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Tehran"
-        ],
+        "Tehran",
         [
           "/wiki/Tehran_Province"
         ]
       ],
       [
-        [
-          "Tehran"
-        ],
+        "Tehran",
         [
           "/wiki/Tehran"
         ]
       ],
       [
-        [
-          "Eslamshahr"
-        ],
+        "Eslamshahr",
         [
           "/wiki/Eslamshahr"
         ]
       ],
       [
-        [
-          "Shahriar"
-        ],
+        "Shahriar",
         [
           "/wiki/Shahriar,_Tehran_Province"
         ]
       ],
       [
-        [
-          "Shahr-e Qods"
-        ],
+        "Shahr-e Qods",
         [
           "/wiki/Shahr-e_Qods"
         ]
@@ -88,41 +58,31 @@
     ],
     [
       [
-        [
-          "Razavi Khorasan"
-        ],
+        "Razavi Khorasan",
         [
           "/wiki/Razavi_Khorasan"
         ]
       ],
       [
-        [
-          "Mashhad"
-        ],
+        "Mashhad",
         [
           "/wiki/Mashhad"
         ]
       ],
       [
-        [
-          "Nishapur"
-        ],
+        "Nishapur",
         [
           "/wiki/Nishapur"
         ]
       ],
       [
-        [
-          "Sabzevar"
-        ],
+        "Sabzevar",
         [
           "/wiki/Sabzevar"
         ]
       ],
       [
-        [
-          "Torbat-e Heydarieh"
-        ],
+        "Torbat-e Heydarieh",
         [
           "/wiki/Torbat-e_Heydarieh"
         ]
@@ -130,41 +90,31 @@
     ],
     [
       [
-        [
-          "East Azerbaijan"
-        ],
+        "East Azerbaijan",
         [
           "/wiki/East_Azerbaijan_Province"
         ]
       ],
       [
-        [
-          "Tabriz"
-        ],
+        "Tabriz",
         [
           "/wiki/Tabriz"
         ]
       ],
       [
-        [
-          "Maragheh"
-        ],
+        "Maragheh",
         [
           "/wiki/Maragheh"
         ]
       ],
       [
-        [
-          "Marand"
-        ],
+        "Marand",
         [
           "/wiki/Marand"
         ]
       ],
       [
-        [
-          "Ahar"
-        ],
+        "Ahar",
         [
           "/wiki/Ahar"
         ]
@@ -172,41 +122,31 @@
     ],
     [
       [
-        [
-          "Alborz"
-        ],
+        "Alborz",
         [
           "/wiki/Alborz_Province"
         ]
       ],
       [
-        [
-          "Karaj"
-        ],
+        "Karaj",
         [
           "/wiki/Karaj"
         ]
       ],
       [
-        [
-          "Fardis"
-        ],
+        "Fardis",
         [
           "/wiki/Fardis"
         ]
       ],
       [
-        [
-          "Kamalshahr"
-        ],
+        "Kamalshahr",
         [
           "/wiki/Kamal_Shahr"
         ]
       ],
       [
-        [
-          "Nazarabad"
-        ],
+        "Nazarabad",
         [
           "/wiki/Nazarabad"
         ]
@@ -214,41 +154,31 @@
     ],
     [
       [
-        [
-          "Isfahan"
-        ],
+        "Isfahan",
         [
           "/wiki/Isfahan_Province"
         ]
       ],
       [
-        [
-          "Isfahan"
-        ],
+        "Isfahan",
         [
           "/wiki/Isfahan"
         ]
       ],
       [
-        [
-          "Kashan"
-        ],
+        "Kashan",
         [
           "/wiki/Kashan"
         ]
       ],
       [
-        [
-          "Khomeyni Shahr"
-        ],
+        "Khomeyni Shahr",
         [
           "/wiki/Khomeyni_Shahr"
         ]
       ],
       [
-        [
-          "Najafabad"
-        ],
+        "Najafabad",
         [
           "/wiki/Najafabad"
         ]
@@ -256,41 +186,31 @@
     ],
     [
       [
-        [
-          "Fars"
-        ],
+        "Fars",
         [
           "/wiki/Fars_Province"
         ]
       ],
       [
-        [
-          "Shiraz"
-        ],
+        "Shiraz",
         [
           "/wiki/Shiraz"
         ]
       ],
       [
-        [
-          "Marvdasht"
-        ],
+        "Marvdasht",
         [
           "/wiki/Marvdasht"
         ]
       ],
       [
-        [
-          "Jahrom"
-        ],
+        "Jahrom",
         [
           "/wiki/Jahrom"
         ]
       ],
       [
-        [
-          "Fasa"
-        ],
+        "Fasa",
         [
           "/wiki/Fasa"
         ]
@@ -298,41 +218,31 @@
     ],
     [
       [
-        [
-          "Khuzestan"
-        ],
+        "Khuzestan",
         [
           "/wiki/Khuzestan"
         ]
       ],
       [
-        [
-          "Ahvaz"
-        ],
+        "Ahvaz",
         [
           "/wiki/Ahvaz"
         ]
       ],
       [
-        [
-          "Dezful"
-        ],
+        "Dezful",
         [
           "/wiki/Dezful"
         ]
       ],
       [
-        [
-          "Abadan"
-        ],
+        "Abadan",
         [
           "/wiki/Abadan,_Iran"
         ]
       ],
       [
-        [
-          "Mahshahr"
-        ],
+        "Mahshahr",
         [
           "/wiki/Mahshahr"
         ]
@@ -340,41 +250,31 @@
     ],
     [
       [
-        [
-          "Mazandaran"
-        ],
+        "Mazandaran",
         [
           "/wiki/Mazandaran"
         ]
       ],
       [
-        [
-          "Sari"
-        ],
+        "Sari",
         [
           "/wiki/Sari,_Iran"
         ]
       ],
       [
-        [
-          "Babol"
-        ],
+        "Babol",
         [
           "/wiki/Babol"
         ]
       ],
       [
-        [
-          "Amol"
-        ],
+        "Amol",
         [
           "/wiki/Amol"
         ]
       ],
       [
-        [
-          "Qa'em Shahr"
-        ],
+        "Qa'em Shahr",
         [
           "/wiki/Qa'em_Shahr"
         ]
@@ -382,41 +282,31 @@
     ],
     [
       [
-        [
-          "West Azerbaijan"
-        ],
+        "West Azerbaijan",
         [
           "/wiki/West_Azarbaijan"
         ]
       ],
       [
-        [
-          "Urmia"
-        ],
+        "Urmia",
         [
           "/wiki/Urmia"
         ]
       ],
       [
-        [
-          "Khoy"
-        ],
+        "Khoy",
         [
           "/wiki/Khoy"
         ]
       ],
       [
-        [
-          "Bukan"
-        ],
+        "Bukan",
         [
           "/wiki/Bukan"
         ]
       ],
       [
-        [
-          "Mahabad"
-        ],
+        "Mahabad",
         [
           "/wiki/Mahabad"
         ]
@@ -424,41 +314,31 @@
     ],
     [
       [
-        [
-          "Kerman"
-        ],
+        "Kerman",
         [
           "/wiki/Kerman_Province"
         ]
       ],
       [
-        [
-          "Kerman"
-        ],
+        "Kerman",
         [
           "/wiki/Kerman"
         ]
       ],
       [
-        [
-          "Sirjan"
-        ],
+        "Sirjan",
         [
           "/wiki/Sirjan"
         ]
       ],
       [
-        [
-          "Rafsanjan"
-        ],
+        "Rafsanjan",
         [
           "/wiki/Rafsanjan"
         ]
       ],
       [
-        [
-          "Jiroft"
-        ],
+        "Jiroft",
         [
           "/wiki/Jiroft"
         ]
@@ -466,41 +346,31 @@
     ],
     [
       [
-        [
-          "Gilan"
-        ],
+        "Gilan",
         [
           "/wiki/Gilan"
         ]
       ],
       [
-        [
-          "Rasht"
-        ],
+        "Rasht",
         [
           "/wiki/Rasht"
         ]
       ],
       [
-        [
-          "Bandar-e Anzali"
-        ],
+        "Bandar-e Anzali",
         [
           "/wiki/Bandar-e_Anzali"
         ]
       ],
       [
-        [
-          "Lahijan"
-        ],
+        "Lahijan",
         [
           "/wiki/Lahijan"
         ]
       ],
       [
-        [
-          "Langrud"
-        ],
+        "Langrud",
         [
           "/wiki/Langrud"
         ]
@@ -508,41 +378,31 @@
     ],
     [
       [
-        [
-          "Sistan and Baluchistan"
-        ],
+        "Sistan and Baluchistan",
         [
           "/wiki/Sistan_and_Baluchistan"
         ]
       ],
       [
-        [
-          "Zahedan"
-        ],
+        "Zahedan",
         [
           "/wiki/Zahedan"
         ]
       ],
       [
-        [
-          "Zabol"
-        ],
+        "Zabol",
         [
           "/wiki/Zabol"
         ]
       ],
       [
-        [
-          "Iran Shahr"
-        ],
+        "Iran Shahr",
         [
           "/wiki/Iranshahr_(city)"
         ]
       ],
       [
-        [
-          "Chabahar"
-        ],
+        "Chabahar",
         [
           "/wiki/Chabahar"
         ]
@@ -550,41 +410,31 @@
     ],
     [
       [
-        [
-          "Kermanshah"
-        ],
+        "Kermanshah",
         [
           "/wiki/Kermanshah_Province"
         ]
       ],
       [
-        [
-          "Kermanshah"
-        ],
+        "Kermanshah",
         [
           "/wiki/Kermanshah"
         ]
       ],
       [
-        [
-          "Eslamabad-e Gharb"
-        ],
+        "Eslamabad-e Gharb",
         [
           "/wiki/Eslamabad-e_Gharb"
         ]
       ],
       [
-        [
-          "Javanrud"
-        ],
+        "Javanrud",
         [
           "/wiki/Javanrud"
         ]
       ],
       [
-        [
-          "Kangavar"
-        ],
+        "Kangavar",
         [
           "/wiki/Kangavar"
         ]
@@ -592,41 +442,31 @@
     ],
     [
       [
-        [
-          "Lorestan"
-        ],
+        "Lorestan",
         [
           "/wiki/Lorestan"
         ]
       ],
       [
-        [
-          "Khorramabad"
-        ],
+        "Khorramabad",
         [
           "/wiki/Khorramabad"
         ]
       ],
       [
-        [
-          "Borujerd"
-        ],
+        "Borujerd",
         [
           "/wiki/Borujerd"
         ]
       ],
       [
-        [
-          "Dorud"
-        ],
+        "Dorud",
         [
           "/wiki/Dorud"
         ]
       ],
       [
-        [
-          "Aligudarz"
-        ],
+        "Aligudarz",
         [
           "/wiki/Aligudarz"
         ]
@@ -634,41 +474,31 @@
     ],
     [
       [
-        [
-          "Hamadan"
-        ],
+        "Hamadan",
         [
           "/wiki/Hamadan_Province"
         ]
       ],
       [
-        [
-          "Hamadan"
-        ],
+        "Hamadan",
         [
           "/wiki/Hamadan"
         ]
       ],
       [
-        [
-          "Malayer"
-        ],
+        "Malayer",
         [
           "/wiki/Malayer"
         ]
       ],
       [
-        [
-          "Nahavand"
-        ],
+        "Nahavand",
         [
           "/wiki/Nahavand"
         ]
       ],
       [
-        [
-          "Asadabad"
-        ],
+        "Asadabad",
         [
           "/wiki/Asadabad,_Iran"
         ]
@@ -676,41 +506,31 @@
     ],
     [
       [
-        [
-          "Golestan"
-        ],
+        "Golestan",
         [
           "/wiki/Golestan_Province"
         ]
       ],
       [
-        [
-          "Gorgan"
-        ],
+        "Gorgan",
         [
           "/wiki/Gorgan"
         ]
       ],
       [
-        [
-          "Gonbad-e Kavus"
-        ],
+        "Gonbad-e Kavus",
         [
           "/wiki/Gonbad-e_Kavus"
         ]
       ],
       [
-        [
-          "Bandar Torkaman"
-        ],
+        "Bandar Torkaman",
         [
           "/wiki/Bandar_Torkaman"
         ]
       ],
       [
-        [
-          "Ali Abad"
-        ],
+        "Ali Abad",
         [
           "/wiki/Aliabad_County"
         ]
@@ -718,41 +538,31 @@
     ],
     [
       [
-        [
-          "Kurdistan"
-        ],
+        "Kurdistan",
         [
           "/wiki/Kurdistan_province_(Iran)"
         ]
       ],
       [
-        [
-          "Sanandaj"
-        ],
+        "Sanandaj",
         [
           "/wiki/Sanandaj"
         ]
       ],
       [
-        [
-          "Saghez"
-        ],
+        "Saghez",
         [
           "/wiki/Saghez"
         ]
       ],
       [
-        [
-          "Marivan"
-        ],
+        "Marivan",
         [
           "/wiki/Marivan"
         ]
       ],
       [
-        [
-          "Baneh"
-        ],
+        "Baneh",
         [
           "/wiki/Baneh"
         ]
@@ -760,41 +570,31 @@
     ],
     [
       [
-        [
-          "Hormozgan"
-        ],
+        "Hormozgan",
         [
           "/wiki/Hormozgan"
         ]
       ],
       [
-        [
-          "Bandar Abbas"
-        ],
+        "Bandar Abbas",
         [
           "/wiki/Bandar_Abbas"
         ]
       ],
       [
-        [
-          "Minab"
-        ],
+        "Minab",
         [
           "/wiki/Minab"
         ]
       ],
       [
-        [
-          "Qeshm"
-        ],
+        "Qeshm",
         [
           "/wiki/Qeshm"
         ]
       ],
       [
-        [
-          "Kish"
-        ],
+        "Kish",
         [
           "/wiki/Kish_Island"
         ]
@@ -802,41 +602,31 @@
     ],
     [
       [
-        [
-          "Markazi"
-        ],
+        "Markazi",
         [
           "/wiki/Markazi_Province"
         ]
       ],
       [
-        [
-          "Arak"
-        ],
+        "Arak",
         [
           "/wiki/Arak,_Iran"
         ]
       ],
       [
-        [
-          "Saveh"
-        ],
+        "Saveh",
         [
           "/wiki/Saveh"
         ]
       ],
       [
-        [
-          "Khomein"
-        ],
+        "Khomein",
         [
           "/wiki/Khomein"
         ]
       ],
       [
-        [
-          "Mahallat"
-        ],
+        "Mahallat",
         [
           "/wiki/Mahallat"
         ]
@@ -844,41 +634,31 @@
     ],
     [
       [
-        [
-          "Ardabil"
-        ],
+        "Ardabil",
         [
           "/wiki/Ardabil_Province"
         ]
       ],
       [
-        [
-          "Ardabil"
-        ],
+        "Ardabil",
         [
           "/wiki/Ardabil"
         ]
       ],
       [
-        [
-          "Parsabad"
-        ],
+        "Parsabad",
         [
           "/wiki/Parsabad"
         ]
       ],
       [
-        [
-          "Meshkinshahr"
-        ],
+        "Meshkinshahr",
         [
           "/wiki/Meshkinshahr"
         ]
       ],
       [
-        [
-          "Khalkhal"
-        ],
+        "Khalkhal",
         [
           "/wiki/Khalkhal,_Ardabil"
         ]

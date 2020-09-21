@@ -3,374 +3,230 @@
   "title": "List of power stations in Finland",
   "header": [
     [
-      [
-        "Station"
-      ],
-      [
-        null
-      ]
+      "Station",
+      []
     ],
     [
-      [
-        "Location"
-      ],
-      [
-        null
-      ]
+      "Location",
+      []
     ],
     [
-      [
-        "Fuel"
-      ],
-      [
-        null
-      ]
+      "Fuel",
+      []
     ],
     [
-      [
-        "MW"
-      ],
+      "Capacity ( MW )",
       [
         "/wiki/Megawatt"
       ]
     ],
     [
-      [
-        "Status"
-      ],
-      [
-        null
-      ]
+      "Status",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Alholmens Kraft Power Station"
-        ],
+        "Alholmens Kraft Power Station",
         [
           "/wiki/Alholmens_Kraft_Power_Station"
         ]
       ],
       [
-        [
-          "Jakobstad"
-        ],
+        "Jakobstad",
         [
           "/wiki/Jakobstad"
         ]
       ],
       [
-        [
-          "Biomass",
-          "Peat"
-        ],
+        "Biomass and Peat",
         [
           "/wiki/Biomass",
           "/wiki/Peat"
         ]
       ],
       [
-        [
-          "265"
-        ],
-        [
-          null
-        ]
+        "265",
+        []
       ],
       [
-        [
-          "Operational"
-        ],
-        [
-          null
-        ]
+        "Operational",
+        []
       ]
     ],
     [
       [
-        [
-          "Haapaniemi Power Station"
-        ],
-        [
-          null
-        ]
+        "Haapaniemi Power Station",
+        []
       ],
       [
-        [
-          "Kuopio"
-        ],
+        "Kuopio",
         [
           "/wiki/Kuopio"
         ]
       ],
       [
-        [
-          "Peat"
-        ],
+        "Peat",
         [
           "/wiki/Peat"
         ]
       ],
       [
-        [
-          "90"
-        ],
-        [
-          null
-        ]
+        "90",
+        []
       ],
       [
-        [
-          "Operational"
-        ],
-        [
-          null
-        ]
+        "Operational",
+        []
       ]
     ],
     [
       [
-        [
-          "Haapavesi Power Station"
-        ],
-        [
-          null
-        ]
+        "Haapavesi Power Station",
+        []
       ],
       [
-        [
-          "Haapavesi"
-        ],
+        "Haapavesi",
         [
           "/wiki/Haapavesi"
         ]
       ],
       [
-        [
-          "Peat"
-        ],
+        "Peat",
         [
           "/wiki/Peat"
         ]
       ],
       [
-        [
-          "154"
-        ],
-        [
-          null
-        ]
+        "154",
+        []
       ],
       [
-        [
-          "Operational"
-        ],
-        [
-          null
-        ]
+        "Operational",
+        []
       ]
     ],
     [
       [
-        [
-          "Joensuu Power Station"
-        ],
-        [
-          null
-        ]
+        "Joensuu Power Station",
+        []
       ],
       [
-        [
-          "Joensuu"
-        ],
+        "Joensuu",
         [
           "/wiki/Joensuu"
         ]
       ],
       [
-        [
-          "Biomass",
-          "Peat"
-        ],
+        "Biomass and Peat",
         [
           "/wiki/Biomass",
           "/wiki/Peat"
         ]
       ],
       [
-        [
-          "50"
-        ],
-        [
-          null
-        ]
+        "50",
+        []
       ],
       [
-        [
-          "Operational"
-        ],
-        [
-          null
-        ]
+        "Operational",
+        []
       ]
     ],
     [
       [
-        [
-          "Kaukaan Voima Power Station"
-        ],
-        [
-          null
-        ]
+        "Kaukaan Voima Power Station",
+        []
       ],
       [
-        [
-          "Lappeenranta"
-        ],
+        "Lappeenranta",
         [
           "/wiki/Lappeenranta"
         ]
       ],
       [
-        [
-          "Biomass"
-        ],
+        "Biomass",
         [
           "/wiki/Biomass"
         ]
       ],
       [
-        [
-          "125"
-        ],
-        [
-          null
-        ]
+        "125",
+        []
       ],
       [
-        [
-          "Operational"
-        ],
-        [
-          null
-        ]
+        "Operational",
+        []
       ]
     ],
     [
       [
-        [
-          "Keljonlahti Power Station"
-        ],
-        [
-          null
-        ]
+        "Keljonlahti Power Station",
+        []
       ],
       [
-        [
-          "Jyv\u00e4skyl\u00e4"
-        ],
+        "Jyv\u00e4skyl\u00e4",
         [
           "/wiki/Jyv\u00e4skyl\u00e4"
         ]
       ],
       [
-        [
-          "Peat",
-          "Biomass"
-        ],
+        "Peat and Biomass",
         [
           "/wiki/Peat",
           "/wiki/Biomass"
         ]
       ],
       [
-        [
-          "209"
-        ],
-        [
-          null
-        ]
+        "209",
+        []
       ],
       [
-        [
-          "Operational"
-        ],
-        [
-          null
-        ]
+        "Operational",
+        []
       ]
     ],
     [
       [
-        [
-          "Kymin Voima Power Station"
-        ],
-        [
-          null
-        ]
+        "Kymin Voima Power Station",
+        []
       ],
       [
-        [
-          "Kouvola"
-        ],
+        "Kouvola",
         [
           "/wiki/Kouvola"
         ]
       ],
       [
-        [
-          "Biomass",
-          "Peat"
-        ],
+        "Biomass and Peat",
         [
           "/wiki/Biomass",
           "/wiki/Peat"
         ]
       ],
       [
-        [
-          "76"
-        ],
-        [
-          null
-        ]
+        "76",
+        []
       ],
       [
-        [
-          "Operational"
-        ],
-        [
-          null
-        ]
+        "Operational",
+        []
       ]
     ],
     [
       [
-        [
-          "Naantali Power Station"
-        ],
-        [
-          null
-        ]
+        "Naantali Power Station",
+        []
       ],
       [
-        [
-          "Naantali"
-        ],
+        "Naantali",
         [
           "/wiki/Naantali"
         ]
       ],
       [
-        [
-          "Coal",
-          "Natural gas",
-          "Peat",
-          "Biomass",
-          "RDF"
-        ],
+        "Coal , Natural gas , Peat , Biomass and RDF",
         [
           "/wiki/Coal",
           "/wiki/Natural_gas",
@@ -380,46 +236,27 @@
         ]
       ],
       [
-        [
-          "142"
-        ],
-        [
-          null
-        ]
+        "142",
+        []
       ],
       [
-        [
-          "Under construction"
-        ],
-        [
-          null
-        ]
+        "Under construction",
+        []
       ]
     ],
     [
       [
-        [
-          "Naistenlahti Power Station"
-        ],
-        [
-          null
-        ]
+        "Naistenlahti Power Station",
+        []
       ],
       [
-        [
-          "Tampere"
-        ],
+        "Tampere",
         [
           "/wiki/Tampere"
         ]
       ],
       [
-        [
-          "Natural gas",
-          "Peat",
-          "Wood",
-          "Fuel Oil"
-        ],
+        "Natural gas , Peat , Wood and Fuel Oil",
         [
           "/wiki/Natural_gas",
           "/wiki/Peat",
@@ -428,261 +265,164 @@
         ]
       ],
       [
-        [
-          "189"
-        ],
-        [
-          null
-        ]
+        "189",
+        []
       ],
       [
-        [
-          "Operational"
-        ],
-        [
-          null
-        ]
+        "Operational",
+        []
       ]
     ],
     [
       [
-        [
-          "Pursiala Power Station"
-        ],
-        [
-          null
-        ]
+        "Pursiala Power Station",
+        []
       ],
       [
-        [
-          "Mikkeli"
-        ],
+        "Mikkeli",
         [
           "/wiki/Mikkeli"
         ]
       ],
       [
-        [
-          "Wood",
-          "Peat"
-        ],
+        "Wood and Peat",
         [
           "/wiki/Wood",
           "/wiki/Peat"
         ]
       ],
       [
-        [
-          "62"
-        ],
-        [
-          null
-        ]
+        "62",
+        []
       ],
       [
-        [
-          "Operational"
-        ],
-        [
-          null
-        ]
+        "Operational",
+        []
       ]
     ],
     [
       [
-        [
-          "Rauhalahti Power Station"
-        ],
+        "Rauhalahti Power Station",
         [
           "/wiki/Rauhalahti_Power_Station"
         ]
       ],
       [
-        [
-          "Jyv\u00e4skyl\u00e4"
-        ],
+        "Jyv\u00e4skyl\u00e4",
         [
           "/wiki/Jyv\u00e4skyl\u00e4"
         ]
       ],
       [
-        [
-          "Peat",
-          "Wood"
-        ],
+        "Peat and Wood",
         [
           "/wiki/Peat",
           "/wiki/Wood"
         ]
       ],
       [
-        [
-          "87"
-        ],
-        [
-          null
-        ]
+        "87",
+        []
       ],
       [
-        [
-          "Operational"
-        ],
-        [
-          null
-        ]
+        "Operational",
+        []
       ]
     ],
     [
       [
-        [
-          "Sein\u00e4joki Power Station"
-        ],
-        [
-          null
-        ]
+        "Sein\u00e4joki Power Station",
+        []
       ],
       [
-        [
-          "Sein\u00e4joki"
-        ],
+        "Sein\u00e4joki",
         [
           "/wiki/Sein\u00e4joki"
         ]
       ],
       [
-        [
-          "Peat",
-          "Wood"
-        ],
+        "Peat and Wood",
         [
           "/wiki/Peat",
           "/wiki/Wood"
         ]
       ],
       [
-        [
-          "120"
-        ],
-        [
-          null
-        ]
+        "120",
+        []
       ],
       [
-        [
-          "Operational"
-        ],
-        [
-          null
-        ]
+        "Operational",
+        []
       ]
     ],
     [
       [
-        [
-          "Tihisenniemi Power Station"
-        ],
-        [
-          null
-        ]
+        "Tihisenniemi Power Station",
+        []
       ],
       [
-        [
-          "Kajaani"
-        ],
+        "Kajaani",
         [
           "/wiki/Kajaani"
         ]
       ],
       [
-        [
-          "Peat"
-        ],
+        "Peat",
         [
           "/wiki/Peat"
         ]
       ],
       [
-        [
-          "88"
-        ],
-        [
-          null
-        ]
+        "88",
+        []
       ],
       [
-        [
-          "Operational"
-        ],
-        [
-          null
-        ]
+        "Operational",
+        []
       ]
     ],
     [
       [
-        [
-          "Toppila Power Station"
-        ],
+        "Toppila Power Station",
         [
           "/wiki/Toppila_Power_Station"
         ]
       ],
       [
-        [
-          "Oulu"
-        ],
+        "Oulu",
         [
           "/wiki/Oulu"
         ]
       ],
       [
-        [
-          "Peat"
-        ],
+        "Peat",
         [
           "/wiki/Peat"
         ]
       ],
       [
-        [
-          "190"
-        ],
-        [
-          null
-        ]
+        "190",
+        []
       ],
       [
-        [
-          "Operational"
-        ],
-        [
-          null
-        ]
+        "Operational",
+        []
       ]
     ],
     [
       [
-        [
-          "Vanaja Power Station"
-        ],
-        [
-          null
-        ]
+        "Vanaja Power Station",
+        []
       ],
       [
-        [
-          "H\u00e4meenlinna"
-        ],
+        "H\u00e4meenlinna",
         [
           "/wiki/H\u00e4meenlinna"
         ]
       ],
       [
-        [
-          "Biomass",
-          "Peat",
-          "Natural gas"
-        ],
+        "Biomass , Peat and Natural gas",
         [
           "/wiki/Biomass",
           "/wiki/Peat",
@@ -690,20 +430,12 @@
         ]
       ],
       [
-        [
-          "54"
-        ],
-        [
-          null
-        ]
+        "54",
+        []
       ],
       [
-        [
-          "Operational"
-        ],
-        [
-          null
-        ]
+        "Operational",
+        []
       ]
     ]
   ],

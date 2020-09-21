@@ -3,78 +3,44 @@
   "title": "List of NHL playoff series",
   "header": [
     [
-      [
-        "Opponent"
-      ],
-      [
-        null
-      ]
+      "Opponent",
+      []
     ],
     [
-      [
-        "S"
-      ],
-      [
-        null
-      ]
+      "S",
+      []
     ],
     [
-      [
-        "Occurrences"
-      ],
-      [
-        null
-      ]
+      "Occurrences",
+      []
     ],
     [
-      [
-        "GP"
-      ],
-      [
-        null
-      ]
+      "GP",
+      []
     ],
     [
-      [
-        "Rec"
-      ],
-      [
-        null
-      ]
+      "Rec",
+      []
     ],
     [
-      [
-        "%"
-      ],
-      [
-        null
-      ]
+      "%",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Anaheim Ducks"
-        ],
+        "Anaheim Ducks",
         [
           "/wiki/Anaheim_Ducks"
         ]
       ],
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "2011",
-          "2016",
-          "2017"
-        ],
+        "2011 , 2016 , 2017",
         [
           "/wiki/2011_Stanley_Cup_playoffs",
           "/wiki/2016_Stanley_Cup_playoffs",
@@ -82,53 +48,31 @@
         ]
       ],
       [
-        [
-          "19"
-        ],
-        [
-          null
-        ]
+        "19",
+        []
       ],
       [
-        [
-          "3-0"
-        ],
-        [
-          null
-        ]
+        "3-0",
+        []
       ],
       [
-        [
-          "1.000"
-        ],
-        [
-          null
-        ]
+        "1.000",
+        []
       ]
     ],
     [
       [
-        [
-          "Chicago Blackhawks"
-        ],
+        "Chicago Blackhawks",
         [
           "/wiki/Chicago_Blackhawks"
         ]
       ],
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "2010",
-          "2015",
-          "2017"
-        ],
+        "2010 , 2015 , 2017",
         [
           "/wiki/2010_Stanley_Cup_playoffs",
           "/wiki/2015_Stanley_Cup_playoffs",
@@ -136,53 +80,31 @@
         ]
       ],
       [
-        [
-          "16"
-        ],
-        [
-          null
-        ]
+        "16",
+        []
       ],
       [
-        [
-          "1-2"
-        ],
-        [
-          null
-        ]
+        "1-2",
+        []
       ],
       [
-        [
-          ".333"
-        ],
-        [
-          null
-        ]
+        ".333",
+        []
       ]
     ],
     [
       [
-        [
-          "Detroit Red Wings"
-        ],
+        "Detroit Red Wings",
         [
           "/wiki/Detroit_Red_Wings"
         ]
       ],
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "2004",
-          "2008",
-          "2012"
-        ],
+        "2004 , 2008 , 2012",
         [
           "/wiki/2004_Stanley_Cup_playoffs",
           "/wiki/2008_Stanley_Cup_playoffs",
@@ -190,53 +112,31 @@
         ]
       ],
       [
-        [
-          "17"
-        ],
-        [
-          null
-        ]
+        "17",
+        []
       ],
       [
-        [
-          "1-2"
-        ],
-        [
-          null
-        ]
+        "1-2",
+        []
       ],
       [
-        [
-          ".333"
-        ],
-        [
-          null
-        ]
+        ".333",
+        []
       ]
     ],
     [
       [
-        [
-          "San Jose Sharks"
-        ],
+        "San Jose Sharks",
         [
           "/wiki/San_Jose_Sharks"
         ]
       ],
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "2006",
-          "2007",
-          "2016"
-        ],
+        "2006 , 2007 , 2016",
         [
           "/wiki/2006_Stanley_Cup_playoffs",
           "/wiki/2007_Stanley_Cup_playoffs",
@@ -244,428 +144,252 @@
         ]
       ],
       [
-        [
-          "17"
-        ],
-        [
-          null
-        ]
+        "17",
+        []
       ],
       [
-        [
-          "0-3"
-        ],
-        [
-          null
-        ]
+        "0-3",
+        []
       ],
       [
-        [
-          ".000"
-        ],
-        [
-          null
-        ]
+        ".000",
+        []
       ]
     ],
     [
       [
-        [
-          "Colorado Avalanche"
-        ],
+        "Colorado Avalanche",
         [
           "/wiki/Colorado_Avalanche"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "2018"
-        ],
+        "2018",
         [
           "/wiki/2018_Stanley_Cup_playoffs"
         ]
       ],
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "1-0"
-        ],
-        [
-          null
-        ]
+        "1-0",
+        []
       ],
       [
-        [
-          "1.000"
-        ],
-        [
-          null
-        ]
+        "1.000",
+        []
       ]
     ],
     [
       [
-        [
-          "St. Louis Blues"
-        ],
+        "St. Louis Blues",
         [
           "/wiki/St._Louis_Blues"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "2017"
-        ],
+        "2017",
         [
           "/wiki/2017_Stanley_Cup_playoffs"
         ]
       ],
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "1-0"
-        ],
-        [
-          null
-        ]
+        "1-0",
+        []
       ],
       [
-        [
-          "1.000"
-        ],
-        [
-          null
-        ]
+        "1.000",
+        []
       ]
     ],
     [
       [
-        [
-          "Arizona Coyotes"
-        ],
+        "Arizona Coyotes",
         [
           "/wiki/Arizona_Coyotes"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "2012"
-        ],
+        "2012",
         [
           "/wiki/2012_Stanley_Cup_playoffs"
         ]
       ],
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "0-1"
-        ],
-        [
-          null
-        ]
+        "0-1",
+        []
       ],
       [
-        [
-          ".000"
-        ],
-        [
-          null
-        ]
+        ".000",
+        []
       ]
     ],
     [
       [
-        [
-          "Dallas Stars"
-        ],
+        "Dallas Stars",
         [
           "/wiki/Dallas_Stars"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "2019"
-        ],
+        "2019",
         [
           "/wiki/2019_Stanley_Cup_playoffs"
         ]
       ],
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "0-1"
-        ],
-        [
-          null
-        ]
+        "0-1",
+        []
       ],
       [
-        [
-          ".000"
-        ],
-        [
-          null
-        ]
+        ".000",
+        []
       ]
     ],
     [
       [
-        [
-          "Pittsburgh Penguins"
-        ],
+        "Pittsburgh Penguins",
         [
           "/wiki/Pittsburgh_Penguins"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "2017"
-        ],
+        "2017",
         [
           "/wiki/2017_Stanley_Cup_playoffs"
         ]
       ],
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "0-1"
-        ],
-        [
-          null
-        ]
+        "0-1",
+        []
       ],
       [
-        [
-          ".000"
-        ],
-        [
-          null
-        ]
+        ".000",
+        []
       ]
     ],
     [
       [
-        [
-          "Vancouver Canucks"
-        ],
+        "Vancouver Canucks",
         [
           "/wiki/Vancouver_Canucks"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "2011"
-        ],
+        "2011",
         [
           "/wiki/2011_Stanley_Cup_playoffs"
         ]
       ],
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "0-1"
-        ],
-        [
-          null
-        ]
+        "0-1",
+        []
       ],
       [
-        [
-          ".000"
-        ],
-        [
-          null
-        ]
+        ".000",
+        []
       ]
     ],
     [
       [
-        [
-          "Winnipeg Jets"
-        ],
+        "Winnipeg Jets",
         [
           "/wiki/Winnipeg_Jets"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "2018"
-        ],
+        "2018",
         [
           "/wiki/2018_Stanley_Cup_playoffs"
         ]
       ],
       [
-        [
-          "7"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ],
       [
-        [
-          "0-1"
-        ],
-        [
-          null
-        ]
+        "0-1",
+        []
       ],
       [
-        [
-          ".000"
-        ],
-        [
-          null
-        ]
+        ".000",
+        []
       ]
     ],
     [
       [
-        [
-          "Totals"
-        ],
-        [
-          null
-        ]
+        "Totals",
+        []
       ],
       [
-        [
-          "19"
-        ],
-        [
-          null
-        ]
+        "19",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "111"
-        ],
-        [
-          null
-        ]
+        "111",
+        []
       ],
       [
-        [
-          "7-12"
-        ],
-        [
-          null
-        ]
+        "7-12",
+        []
       ],
       [
-        [
-          ".368"
-        ],
-        [
-          null
-        ]
+        ".368",
+        []
       ]
     ]
   ],

@@ -3,71 +3,38 @@
   "title": "Highways in Spain",
   "header": [
     [
-      [
-        "Signal"
-      ],
-      [
-        null
-      ]
+      "Signal",
+      []
     ],
     [
-      [
-        "Type"
-      ],
-      [
-        null
-      ]
+      "Type",
+      []
     ],
     [
-      [
-        "Denomination"
-      ],
-      [
-        null
-      ]
+      "Denomination",
+      []
     ],
     [
-      [
-        "Itinerary"
-      ],
-      [
-        null
-      ]
+      "Itinerary",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "CV-10"
-        ],
-        [
-          null
-        ]
+        "CV-10",
+        []
       ],
       [
-        [
-          "Interurban"
-        ],
-        [
-          null
-        ]
+        "Interurban",
+        []
       ],
       [
-        [
-          "Autov\u00eda de la Plana"
-        ],
-        [
-          null
-        ]
+        "Autov\u00eda de la Plana",
+        []
       ],
       [
-        [
-          "Nules",
-          "Castell\u00f3n de la Plana",
-          "Cabanes",
-          "Tarragona"
-        ],
+        "Nules ( A-7/N-340 ) - Betx\u00ed - CV-20 - Castell\u00f3n de la Plana ( CV-17 ) - CV-16 - Borriol - La Pobla Tornesa - Cabanes - * - Vilanova d'Alcolea - \u2020 - La Jana - \u2020 - Castell\u00f3n/ Tarragona border",
         [
           "/wiki/Nules",
           "/wiki/Castell\u00f3n_de_la_Plana",
@@ -78,34 +45,19 @@
     ],
     [
       [
-        [
-          "CV-18"
-        ],
-        [
-          null
-        ]
+        "CV-18",
+        []
       ],
       [
-        [
-          "Interurban"
-        ],
-        [
-          null
-        ]
+        "Interurban",
+        []
       ],
       [
-        [
-          "Autov\u00eda CV-18"
-        ],
-        [
-          null
-        ]
+        "Autov\u00eda CV-18",
+        []
       ],
       [
-        [
-          "Almazora",
-          "Burriana"
-        ],
+        "Castell\u00f3n de la Plana ( CV-197 ) - \u2020 - Almazora - * - Burriana - \u2020 - Nules ( N-340 )",
         [
           "/wiki/Almazora",
           "/wiki/Burriana"
@@ -114,35 +66,19 @@
     ],
     [
       [
-        [
-          "CV-30"
-        ],
-        [
-          null
-        ]
+        "CV-30",
+        []
       ],
       [
-        [
-          "Partial beltway"
-        ],
-        [
-          null
-        ]
+        "Partial beltway",
+        []
       ],
       [
-        [
-          "Ronda Nord de Val\u00e8ncia"
-        ],
-        [
-          null
-        ]
+        "Ronda Nord de Val\u00e8ncia",
+        []
       ],
       [
-        [
-          "Paterna",
-          "Valencia",
-          "Alboraia"
-        ],
+        "V-30 - Paterna ( CV-31 ) - Valencia ( CV-35 ) - \u2020 - Alboraia - \u2020 - V-21",
         [
           "/wiki/Paterna",
           "/wiki/Valencia,_Spain",
@@ -152,33 +88,19 @@
     ],
     [
       [
-        [
-          "CV-31"
-        ],
-        [
-          null
-        ]
+        "CV-31",
+        []
       ],
       [
-        [
-          "Urban"
-        ],
-        [
-          null
-        ]
+        "Urban",
+        []
       ],
       [
-        [
-          "Distribu\u00efdor Nord"
-        ],
-        [
-          null
-        ]
+        "Distribu\u00efdor Nord",
+        []
       ],
       [
-        [
-          "Burjassot"
-        ],
+        "Paterna ( CV-30 ) - CV-365 - Burjassot ( CV-35 )",
         [
           "/wiki/Burjassot"
         ]
@@ -186,35 +108,19 @@
     ],
     [
       [
-        [
-          "CV-32"
-        ],
-        [
-          null
-        ]
+        "CV-32",
+        []
       ],
       [
-        [
-          "Interurban"
-        ],
-        [
-          null
-        ]
+        "Interurban",
+        []
       ],
       [
-        [
-          "Eix de la Gombalda"
-        ],
-        [
-          null
-        ]
+        "Eix de la Gombalda",
+        []
       ],
       [
-        [
-          "Massalfassar",
-          "Massamagrell",
-          "Museros"
-        ],
+        "Massalfassar ( V-21 ) - * - Massamagrell / Museros ( CV-300 ) - \u2020 - A-7",
         [
           "/wiki/Massalfassar",
           "/wiki/Massamagrell",
@@ -224,34 +130,19 @@
     ],
     [
       [
-        [
-          "CV-33"
-        ],
-        [
-          null
-        ]
+        "CV-33",
+        []
       ],
       [
-        [
-          "Interurban"
-        ],
-        [
-          null
-        ]
+        "Interurban",
+        []
       ],
       [
-        [
-          "Distribu\u00efdor Sud"
-        ],
-        [
-          null
-        ]
+        "Distribu\u00efdor Sud",
+        []
       ],
       [
-        [
-          "Torrent",
-          "Albal"
-        ],
+        "Torrent ( CV-366 ) - Albal",
         [
           "/wiki/Torrent,_Valencia",
           "/wiki/Albal"
@@ -260,35 +151,19 @@
     ],
     [
       [
-        [
-          "CV-35"
-        ],
-        [
-          null
-        ]
+        "CV-35",
+        []
       ],
       [
-        [
-          "Urban & interurban"
-        ],
-        [
-          null
-        ]
+        "Urban & interurban",
+        []
       ],
       [
-        [
-          "Autov\u00eda de Ademuz"
-        ],
-        [
-          null
-        ]
+        "Autov\u00eda de Ademuz",
+        []
       ],
       [
-        [
-          "San Antonio de Benag\u00e9ber",
-          "La Pobla de Vallbona",
-          "Ll\u00edria"
-        ],
+        "Valencia ( CV-30 ) - Burjassot ( CV-61/CV-365 ) - A-7 - San Antonio de Benag\u00e9ber - La Pobla de Vallbona - CV-50 - Ll\u00edria",
         [
           "/wiki/San_Antonio_de_Benag\u00e9ber",
           "/wiki/La_Pobla_de_Vallbona",
@@ -298,34 +173,19 @@
     ],
     [
       [
-        [
-          "CV-36"
-        ],
-        [
-          null
-        ]
+        "CV-36",
+        []
       ],
       [
-        [
-          "Iinterurban"
-        ],
-        [
-          null
-        ]
+        "Iinterurban",
+        []
       ],
       [
-        [
-          "Autov\u00eda de Torrent"
-        ],
-        [
-          null
-        ]
+        "Autov\u00eda de Torrent",
+        []
       ],
       [
-        [
-          "Picanya",
-          "Alaqu\u00e0s"
-        ],
+        "Valencia ( Cam\u00ed Nou de Picanya ) - Picanya ( CV-366 ) - Torrent - Alaqu\u00e0s - El Mas del Jutge - A-7",
         [
           "/wiki/Picanya",
           "/wiki/Alaqu\u00e0s"
@@ -334,37 +194,19 @@
     ],
     [
       [
-        [
-          "CV-40"
-        ],
-        [
-          null
-        ]
+        "CV-40",
+        []
       ],
       [
-        [
-          "Interurban"
-        ],
-        [
-          null
-        ]
+        "Interurban",
+        []
       ],
       [
-        [
-          "Autov\u00eda CV-40"
-        ],
-        [
-          null
-        ]
+        "Autov\u00eda CV-40",
+        []
       ],
       [
-        [
-          "X\u00e0tiva",
-          "Ontinyent",
-          "Albaida",
-          "Cocentaina",
-          "Alcoi"
-        ],
+        "X\u00e0tiva ( A-7 ) - Ontinyent - Albaida - * - Cocentaina - * - Alcoi - * - A-7",
         [
           "/wiki/X\u00e0tiva",
           "/wiki/Ontinyent",
@@ -376,35 +218,19 @@
     ],
     [
       [
-        [
-          "CV-60"
-        ],
-        [
-          null
-        ]
+        "CV-60",
+        []
       ],
       [
-        [
-          "Interurban"
-        ],
-        [
-          null
-        ]
+        "Interurban",
+        []
       ],
       [
-        [
-          "Autov\u00eda CV-60"
-        ],
-        [
-          null
-        ]
+        "Autov\u00eda CV-60",
+        []
       ],
       [
-        [
-          "L'Olleria",
-          "Alfarras\u00ed",
-          "Gand\u00eda"
-        ],
+        "L'Olleria ( CV-40 ) - \u2020 - Alfarras\u00ed ( N-340 ) - \u2020 - CV-610 - Gand\u00eda ( CV-600 )",
         [
           "/wiki/L'Olleria",
           "/wiki/Alfarras\u00ed",
@@ -414,34 +240,19 @@
     ],
     [
       [
-        [
-          "CV-70"
-        ],
-        [
-          null
-        ]
+        "CV-70",
+        []
       ],
       [
-        [
-          "Interurban"
-        ],
-        [
-          null
-        ]
+        "Interurban",
+        []
       ],
       [
-        [
-          "Autov\u00eda CV-70"
-        ],
-        [
-          null
-        ]
+        "Autov\u00eda CV-70",
+        []
       ],
       [
-        [
-          "Polop",
-          "Benidorm"
-        ],
+        "Alcoi ( A-7 ) - \u2020 - Polop ( N-340 ) - \u2020 - Benidorm ( AP-7 )",
         [
           "/wiki/Polop",
           "/wiki/Benidorm"
@@ -450,34 +261,23 @@
     ],
     [
       [
-        [
-          "CV-80"
-        ],
+        "CV-80",
         [
           "/wiki/Autov\u00eda_CV-80"
         ]
       ],
       [
-        [
-          "Interurban"
-        ],
-        [
-          null
-        ]
+        "Interurban",
+        []
       ],
       [
-        [
-          "Autov\u00eda CV-80"
-        ],
+        "Autov\u00eda CV-80",
         [
           "/wiki/Autov\u00eda_CV-80"
         ]
       ],
       [
-        [
-          "Sax",
-          "Castalla"
-        ],
+        "Sax ( A-31 ) - Castalla - A-7",
         [
           "/wiki/Sax,_Alicante",
           "/wiki/Castalla"
@@ -486,67 +286,37 @@
     ],
     [
       [
-        [
-          "CV-365"
-        ],
-        [
-          null
-        ]
+        "CV-365",
+        []
       ],
       [
-        [
-          "Urban"
-        ],
-        [
-          null
-        ]
+        "Urban",
+        []
       ],
       [
-        [
-          "Northeastern access to Paterna"
-        ],
-        [
-          null
-        ]
+        "Northeastern access to Paterna",
+        []
       ],
       [
-        [
-          "Burjassot ( CV-35 ) - CV-31 - V-11/V-30"
-        ],
-        [
-          null
-        ]
+        "Burjassot ( CV-35 ) - CV-31 - V-11/V-30",
+        []
       ]
     ],
     [
       [
-        [
-          "CV-500"
-        ],
-        [
-          null
-        ]
+        "CV-500",
+        []
       ],
       [
-        [
-          "Urban"
-        ],
-        [
-          null
-        ]
+        "Urban",
+        []
       ],
       [
-        [
-          "Autov\u00eda del Saler"
-        ],
-        [
-          null
-        ]
+        "Autov\u00eda del Saler",
+        []
       ],
       [
-        [
-          "El Saler"
-        ],
+        "Valencia ( Alcalde Reig Street ) - V-30 - El Saler",
         [
           "/wiki/El_Saler"
         ]
@@ -554,36 +324,20 @@
     ],
     [
       [
-        [
-          "CV-864"
-        ],
-        [
-          null
-        ]
+        "CV-864",
+        []
       ],
       [
-        [
-          "Partial beltway"
-        ],
-        [
-          null
-        ]
+        "Partial beltway",
+        []
       ],
       [
-        [
-          "Ronda Sud de Elx"
-        ],
-        [
-          null
-        ]
+        "Ronda Sud de Elx",
+        []
       ],
       [
-        [
-          "EL-20 - \u2020 - CV-866"
-        ],
-        [
-          null
-        ]
+        "EL-20 - \u2020 - CV-866",
+        []
       ]
     ]
   ],

@@ -3,102 +3,64 @@
   "title": "Sports in Seattle",
   "header": [
     [
-      [
-        "Club"
-      ],
-      [
-        null
-      ]
+      "Club",
+      []
     ],
     [
-      [
-        "Sport"
-      ],
-      [
-        null
-      ]
+      "Sport",
+      []
     ],
     [
-      [
-        "League"
-      ],
-      [
-        null
-      ]
+      "League",
+      []
     ],
     [
-      [
-        "Stadium"
-      ],
-      [
-        null
-      ]
+      "Stadium",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "CHEER Seattle"
-        ],
-        [
-          null
-        ]
+        "CHEER Seattle",
+        []
       ],
       [
-        [
-          "Cheerleading"
-        ],
+        "Cheerleading",
         [
           "/wiki/Cheerleading"
         ]
       ],
       [
-        [
-          "Pride Cheerleading Association"
-        ],
-        [
-          null
-        ]
+        "Pride Cheerleading Association",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Crossfire Redmond"
-        ],
+        "Crossfire Redmond",
         [
           "/wiki/Crossfire_Redmond"
         ]
       ],
       [
-        [
-          "Soccer"
-        ],
+        "Soccer",
         [
           "/wiki/Soccer"
         ]
       ],
       [
-        [
-          "National Premier Soccer League"
-        ],
+        "National Premier Soccer League",
         [
           "/wiki/National_Premier_Soccer_League"
         ]
       ],
       [
-        [
-          "Redmond High School"
-        ],
+        "Redmond High School",
         [
           "/wiki/Redmond_High_School_(Redmond,_Washington)"
         ]
@@ -106,33 +68,25 @@
     ],
     [
       [
-        [
-          "Everett AquaSox"
-        ],
+        "Everett AquaSox",
         [
           "/wiki/Everett_AquaSox"
         ]
       ],
       [
-        [
-          "Baseball"
-        ],
+        "Baseball",
         [
           "/wiki/Baseball"
         ]
       ],
       [
-        [
-          "Northwest League"
-        ],
+        "Northwest League",
         [
           "/wiki/Northwest_League"
         ]
       ],
       [
-        [
-          "Funko Field"
-        ],
+        "Funko Field",
         [
           "/wiki/Funko_Field"
         ]
@@ -140,33 +94,25 @@
     ],
     [
       [
-        [
-          "Everett Silvertips"
-        ],
+        "Everett Silvertips",
         [
           "/wiki/Everett_Silvertips"
         ]
       ],
       [
-        [
-          "Ice hockey"
-        ],
+        "Ice hockey",
         [
           "/wiki/Ice_hockey"
         ]
       ],
       [
-        [
-          "Western Hockey League"
-        ],
+        "Western Hockey League",
         [
           "/wiki/Western_Hockey_League"
         ]
       ],
       [
-        [
-          "Angel of the Winds Arena"
-        ],
+        "Angel of the Winds Arena",
         [
           "/wiki/Angel_of_the_Winds_Arena"
         ]
@@ -174,33 +120,25 @@
     ],
     [
       [
-        [
-          "Jet City Roller Derby"
-        ],
+        "Jet City Roller Derby",
         [
           "/wiki/Jet_City_Roller_Derby"
         ]
       ],
       [
-        [
-          "Roller derby"
-        ],
+        "Roller derby",
         [
           "/wiki/Roller_derby"
         ]
       ],
       [
-        [
-          "Women 's Flat Track Derby Association"
-        ],
+        "Women 's Flat Track Derby Association",
         [
           "/wiki/Women's_Flat_Track_Derby_Association"
         ]
       ],
       [
-        [
-          "Edmonds Community College"
-        ],
+        "Edmonds Community College",
         [
           "/wiki/Edmonds_Community_College"
         ]
@@ -208,135 +146,93 @@
     ],
     [
       [
-        [
-          "Puget Sound Outcast Derby"
-        ],
+        "Puget Sound Outcast Derby",
         [
           "/wiki/Puget_Sound_Outcast_Derby"
         ]
       ],
       [
-        [
-          "Roller derby"
-        ],
-        [
-          null
-        ]
+        "Roller derby",
+        []
       ],
       [
-        [
-          "Men 's Roller Derby Association"
-        ],
+        "Men 's Roller Derby Association",
         [
           "/wiki/Men's_Roller_Derby_Association"
         ]
       ],
       [
-        [
-          "Shoreline Derby Center"
-        ],
-        [
-          null
-        ]
+        "Shoreline Derby Center",
+        []
       ]
     ],
     [
       [
-        [
-          "Rat City Rollergirls"
-        ],
+        "Rat City Rollergirls",
         [
           "/wiki/Rat_City_Rollergirls"
         ]
       ],
       [
-        [
-          "Roller Derby"
-        ],
-        [
-          null
-        ]
+        "Roller Derby",
+        []
       ],
       [
-        [
-          "Women 's Flat Track Derby Association"
-        ],
+        "Women 's Flat Track Derby Association",
         [
           "/wiki/Women's_Flat_Track_Derby_Association"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Seattle Cascades"
-        ],
+        "Seattle Cascades",
         [
           "/wiki/Cascades_Drum_and_Bugle_Corps"
         ]
       ],
       [
-        [
-          "Drum and Bugle Corps"
-        ],
+        "Drum and Bugle Corps",
         [
           "/wiki/Drum_and_bugle_corps_(modern)"
         ]
       ],
       [
-        [
-          "Drum Corps International"
-        ],
+        "Drum Corps International",
         [
           "/wiki/Drum_Corps_International"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Seattle Cascades"
-        ],
+        "Seattle Cascades",
         [
           "/wiki/Seattle_Cascades_(AUDL)"
         ]
       ],
       [
-        [
-          "Ultimate"
-        ],
+        "Ultimate",
         [
           "/wiki/Ultimate_(sport)"
         ]
       ],
       [
-        [
-          "American Ultimate Disc League"
-        ],
+        "American Ultimate Disc League",
         [
           "/wiki/American_Ultimate_Disc_League"
         ]
       ],
       [
-        [
-          "Memorial Stadium"
-        ],
+        "Memorial Stadium",
         [
           "/wiki/Memorial_Stadium_(Seattle)"
         ]
@@ -344,35 +240,26 @@
     ],
     [
       [
-        [
-          "Seattle Force"
-        ],
+        "Seattle Force",
         [
           "/wiki/Seattle_Force"
         ]
       ],
       [
-        [
-          "Rugby league"
-        ],
+        "Rugby league",
         [
           "/wiki/Rugby_league"
         ]
       ],
       [
-        [
-          "WAMNRL",
-          "AMNRL"
-        ],
+        "WAMNRL / AMNRL",
         [
           "/wiki/WAMNRL",
           "/wiki/AMNRL"
         ]
       ],
       [
-        [
-          "Memorial Stadium"
-        ],
+        "Memorial Stadium",
         [
           "/wiki/Memorial_Stadium_(Seattle)"
         ]
@@ -380,101 +267,71 @@
     ],
     [
       [
-        [
-          "Seattle Grizzlies"
-        ],
+        "Seattle Grizzlies",
         [
           "/wiki/Seattle_Grizzlies"
         ]
       ],
       [
-        [
-          "Australian Football"
-        ],
+        "Australian Football",
         [
           "/wiki/Australian_Football"
         ]
       ],
       [
-        [
-          "U.S. Australian Football League"
-        ],
+        "U.S. Australian Football League",
         [
           "/wiki/United_States_Australian_Football_League"
         ]
       ],
       [
-        [
-          "Mosier Park"
-        ],
-        [
-          null
-        ]
+        "Mosier Park",
+        []
       ]
     ],
     [
       [
-        [
-          "Seattle Lady Grizzlies"
-        ],
-        [
-          null
-        ]
+        "Seattle Lady Grizzlies",
+        []
       ],
       [
-        [
-          "Australian Football"
-        ],
+        "Australian Football",
         [
           "/wiki/Australian_Football"
         ]
       ],
       [
-        [
-          "U.S. Australian Football League"
-        ],
+        "U.S. Australian Football League",
         [
           "/wiki/United_States_Australian_Football_League"
         ]
       ],
       [
-        [
-          "Mosier Park"
-        ],
-        [
-          null
-        ]
+        "Mosier Park",
+        []
       ]
     ],
     [
       [
-        [
-          "Seattle Majestics"
-        ],
+        "Seattle Majestics",
         [
           "/wiki/Seattle_Majestics"
         ]
       ],
       [
-        [
-          "American football"
-        ],
+        "American football",
         [
           "/wiki/American_football"
         ]
       ],
       [
-        [
-          "Women 's Football Alliance"
-        ],
+        "Women 's Football Alliance",
         [
           "/wiki/Women's_Football_Alliance"
         ]
       ],
       [
-        [
-          "French Field"
-        ],
+        "French Field",
         [
           "/wiki/French_Field"
         ]
@@ -482,101 +339,73 @@
     ],
     [
       [
-        [
-          "Seattle Mountaineers"
-        ],
+        "Seattle Mountaineers",
         [
           "/wiki/Seattle_Mountaineers"
         ]
       ],
       [
-        [
-          "Basketball"
-        ],
+        "Basketball",
         [
           "/wiki/Basketball"
         ]
       ],
       [
-        [
-          "American Basketball Association"
-        ],
+        "American Basketball Association",
         [
           "/wiki/American_Basketball_Association_(2000\u2013present)"
         ]
       ],
       [
-        [
-          "Varies"
-        ],
-        [
-          null
-        ]
+        "Varies",
+        []
       ]
     ],
     [
       [
-        [
-          "Seattle Riot"
-        ],
+        "Seattle Riot",
         [
           "/wiki/Seattle_Riot_(Ultimate)"
         ]
       ],
       [
-        [
-          "Ultimate"
-        ],
+        "Ultimate",
         [
           "/wiki/Ultimate_(sport)"
         ]
       ],
       [
-        [
-          "USA Ultimate"
-        ],
+        "USA Ultimate",
         [
           "/wiki/USA_Ultimate"
         ]
       ],
       [
-        [
-          "Varies"
-        ],
-        [
-          null
-        ]
+        "Varies",
+        []
       ]
     ],
     [
       [
-        [
-          "Seattle Saracens"
-        ],
+        "Seattle Saracens",
         [
           "/wiki/Seattle_Saracens"
         ]
       ],
       [
-        [
-          "Rugby union"
-        ],
+        "Rugby union",
         [
           "/wiki/Rugby_union"
         ]
       ],
       [
-        [
-          "CDI Premier League"
-        ],
+        "CDI Premier League",
         [
           "/wiki/Canadian_Direct_Insurance_Premier_League"
         ]
       ],
       [
-        [
-          "Magnuson Park"
-        ],
+        "Magnuson Park",
         [
           "/wiki/Magnuson_Park"
         ]
@@ -584,101 +413,73 @@
     ],
     [
       [
-        [
-          "Seattle Sockeye"
-        ],
+        "Seattle Sockeye",
         [
           "/wiki/Seattle_Sockeye"
         ]
       ],
       [
-        [
-          "Ultimate"
-        ],
+        "Ultimate",
         [
           "/wiki/Ultimate_(sport)"
         ]
       ],
       [
-        [
-          "USA Ultimate"
-        ],
+        "USA Ultimate",
         [
           "/wiki/USA_Ultimate"
         ]
       ],
       [
-        [
-          "Varies"
-        ],
-        [
-          null
-        ]
+        "Varies",
+        []
       ]
     ],
     [
       [
-        [
-          "Seattle Sounders FC U-23"
-        ],
+        "Seattle Sounders FC U-23",
         [
           "/wiki/Seattle_Sounders_FC_U-23"
         ]
       ],
       [
-        [
-          "Soccer"
-        ],
+        "Soccer",
         [
           "/wiki/Association_football"
         ]
       ],
       [
-        [
-          "USL League Two"
-        ],
+        "USL League Two",
         [
           "/wiki/USL_League_Two"
         ]
       ],
       [
-        [
-          "Sunset Chevrolet Stadium"
-        ],
-        [
-          null
-        ]
+        "Sunset Chevrolet Stadium",
+        []
       ]
     ],
     [
       [
-        [
-          "Seattle Sounders Women"
-        ],
+        "Seattle Sounders Women",
         [
           "/wiki/Seattle_Sounders_Women"
         ]
       ],
       [
-        [
-          "Soccer"
-        ],
+        "Soccer",
         [
           "/wiki/Association_football"
         ]
       ],
       [
-        [
-          "USL W-League"
-        ],
+        "USL W-League",
         [
           "/wiki/USL_W-League"
         ]
       ],
       [
-        [
-          "Starfire Sports Complex"
-        ],
+        "Starfire Sports Complex",
         [
           "/wiki/Starfire_Sports"
         ]
@@ -686,33 +487,25 @@
     ],
     [
       [
-        [
-          "Seattle Thunderbirds"
-        ],
+        "Seattle Thunderbirds",
         [
           "/wiki/Seattle_Thunderbirds"
         ]
       ],
       [
-        [
-          "Ice hockey"
-        ],
+        "Ice hockey",
         [
           "/wiki/Ice_hockey"
         ]
       ],
       [
-        [
-          "Western Hockey League"
-        ],
+        "Western Hockey League",
         [
           "/wiki/Western_Hockey_League"
         ]
       ],
       [
-        [
-          "ShoWare Center"
-        ],
+        "ShoWare Center",
         [
           "/wiki/ShoWare_Center"
         ]

@@ -3,68 +3,42 @@
   "title": "W postcode area",
   "header": [
     [
-      [
-        "Postcode district"
-      ],
-      [
-        null
-      ]
+      "Postcode district",
+      []
     ],
     [
-      [
-        "Post town"
-      ],
+      "Post town",
       [
         "/wiki/Post_town"
       ]
     ],
     [
-      [
-        "Coverage"
-      ],
-      [
-        null
-      ]
+      "Coverage",
+      []
     ],
     [
-      [
-        "Local authority area"
-      ],
-      [
-        null
-      ]
+      "Local authority area",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "W1A"
-        ],
-        [
-          null
-        ]
+        "W1A",
+        []
       ],
       [
-        [
-          "LONDON"
-        ],
-        [
-          null
-        ]
+        "LONDON",
+        []
       ],
       [
-        [
-          "PO boxes"
-        ],
+        "PO boxes & Admail codes in W1",
         [
           "/wiki/PO_box"
         ]
       ],
       [
-        [
-          "non-geographic"
-        ],
+        "non-geographic",
         [
           "/wiki/Non-geographic_postcode"
         ]
@@ -72,33 +46,21 @@
     ],
     [
       [
-        [
-          "W1B"
-        ],
-        [
-          null
-        ]
+        "W1B",
+        []
       ],
       [
-        [
-          "LONDON"
-        ],
-        [
-          null
-        ]
+        "LONDON",
+        []
       ],
       [
-        [
-          "Regent Street"
-        ],
+        "Portland Place , Regent Street",
         [
           "/wiki/Regent_Street"
         ]
       ],
       [
-        [
-          "Westminster"
-        ],
+        "Westminster",
         [
           "/wiki/City_of_Westminster"
         ]
@@ -106,61 +68,35 @@
     ],
     [
       [
-        [
-          "W1C"
-        ],
-        [
-          null
-        ]
+        "W1C",
+        []
       ],
       [
-        [
-          "LONDON"
-        ],
-        [
-          null
-        ]
+        "LONDON",
+        []
       ],
       [
-        [
-          "Oxford Street"
-        ],
+        "Oxford Street ( west )",
         [
           "/wiki/Oxford_Street"
         ]
       ],
       [
-        [
-          "Westminster"
-        ],
-        [
-          null
-        ]
+        "Westminster",
+        []
       ]
     ],
     [
       [
-        [
-          "W1D"
-        ],
-        [
-          null
-        ]
+        "W1D",
+        []
       ],
       [
-        [
-          "LONDON"
-        ],
-        [
-          null
-        ]
+        "LONDON",
+        []
       ],
       [
-        [
-          "Soho",
-          "Chinatown",
-          "Soho Square"
-        ],
+        "Soho ( south east ) ; Chinatown , Soho Square",
         [
           "/wiki/Soho",
           "/wiki/Chinatown,_London",
@@ -168,212 +104,123 @@
         ]
       ],
       [
-        [
-          "Westminster"
-        ],
-        [
-          null
-        ]
+        "Westminster",
+        []
       ]
     ],
     [
       [
-        [
-          "W1F"
-        ],
-        [
-          null
-        ]
+        "W1F",
+        []
       ],
       [
-        [
-          "LONDON"
-        ],
-        [
-          null
-        ]
+        "LONDON",
+        []
       ],
       [
-        [
-          "Soho"
-        ],
+        "Soho ( north west )",
         [
           "/wiki/Soho"
         ]
       ],
       [
-        [
-          "Westminster"
-        ],
-        [
-          null
-        ]
+        "Westminster",
+        []
       ]
     ],
     [
       [
-        [
-          "W1G"
-        ],
-        [
-          null
-        ]
+        "W1G",
+        []
       ],
       [
-        [
-          "LONDON"
-        ],
-        [
-          null
-        ]
+        "LONDON",
+        []
       ],
       [
-        [
-          "Harley Street"
-        ],
+        "Harley Street",
         [
           "/wiki/Harley_Street"
         ]
       ],
       [
-        [
-          "Westminster"
-        ],
-        [
-          null
-        ]
+        "Westminster",
+        []
       ]
     ],
     [
       [
-        [
-          "W1H"
-        ],
-        [
-          null
-        ]
+        "W1H",
+        []
       ],
       [
-        [
-          "LONDON"
-        ],
-        [
-          null
-        ]
+        "LONDON",
+        []
       ],
       [
-        [
-          "Marylebone"
-        ],
+        "Marylebone",
         [
           "/wiki/Marylebone"
         ]
       ],
       [
-        [
-          "Westminster"
-        ],
-        [
-          null
-        ]
+        "Westminster",
+        []
       ]
     ],
     [
       [
-        [
-          "W1J"
-        ],
-        [
-          null
-        ]
+        "W1J",
+        []
       ],
       [
-        [
-          "LONDON"
-        ],
-        [
-          null
-        ]
+        "LONDON",
+        []
       ],
       [
-        [
-          "Mayfair",
-          "Piccadilly"
-        ],
+        "Mayfair ( south ) , Piccadilly",
         [
           "/wiki/Mayfair",
           "/wiki/Piccadilly"
         ]
       ],
       [
-        [
-          "Westminster"
-        ],
-        [
-          null
-        ]
+        "Westminster",
+        []
       ]
     ],
     [
       [
-        [
-          "W1K"
-        ],
-        [
-          null
-        ]
+        "W1K",
+        []
       ],
       [
-        [
-          "LONDON"
-        ],
-        [
-          null
-        ]
+        "LONDON",
+        []
       ],
       [
-        [
-          "Mayfair",
-          "Grosvenor Square"
-        ],
+        "Mayfair ( north ) , Grosvenor Square",
         [
           "/wiki/Mayfair",
           "/wiki/Grosvenor_Square"
         ]
       ],
       [
-        [
-          "Westminster"
-        ],
-        [
-          null
-        ]
+        "Westminster",
+        []
       ]
     ],
     [
       [
-        [
-          "W1S"
-        ],
-        [
-          null
-        ]
+        "W1S",
+        []
       ],
       [
-        [
-          "LONDON"
-        ],
-        [
-          null
-        ]
+        "LONDON",
+        []
       ],
       [
-        [
-          "Mayfair",
-          "Hanover Square",
-          "Savile Row",
-          "Royal Academy"
-        ],
+        "Mayfair ( east ) , Hanover Square , Savile Row , Royal Academy",
         [
           "/wiki/Mayfair",
           "/wiki/Hanover_Square,_London",
@@ -382,45 +229,28 @@
         ]
       ],
       [
-        [
-          "Westminster"
-        ],
-        [
-          null
-        ]
+        "Westminster",
+        []
       ]
     ],
     [
       [
-        [
-          "W1T"
-        ],
-        [
-          null
-        ]
+        "W1T",
+        []
       ],
       [
-        [
-          "LONDON"
-        ],
-        [
-          null
-        ]
+        "LONDON",
+        []
       ],
       [
-        [
-          "Fitzrovia",
-          "Tottenham Court Road"
-        ],
+        "Fitzrovia , Tottenham Court Road",
         [
           "/wiki/Fitzrovia",
           "/wiki/Tottenham_Court_Road"
         ]
       ],
       [
-        [
-          "Camden"
-        ],
+        "Camden",
         [
           "/wiki/London_Borough_of_Camden"
         ]
@@ -428,100 +258,56 @@
     ],
     [
       [
-        [
-          "W1U"
-        ],
-        [
-          null
-        ]
+        "W1U",
+        []
       ],
       [
-        [
-          "LONDON"
-        ],
-        [
-          null
-        ]
+        "LONDON",
+        []
       ],
       [
-        [
-          "Marylebone"
-        ],
+        "Marylebone",
         [
           "/wiki/Marylebone"
         ]
       ],
       [
-        [
-          "Westminster"
-        ],
-        [
-          null
-        ]
+        "Westminster",
+        []
       ]
     ],
     [
       [
-        [
-          "W1W"
-        ],
-        [
-          null
-        ]
+        "W1W",
+        []
       ],
       [
-        [
-          "LONDON"
-        ],
-        [
-          null
-        ]
+        "LONDON",
+        []
       ],
       [
-        [
-          "Great Portland Street",
-          "Fitzrovia"
-        ],
+        "Great Portland Street , Fitzrovia",
         [
           "/wiki/Great_Portland_Street",
           "/wiki/Fitzrovia"
         ]
       ],
       [
-        [
-          "Westminster"
-        ],
-        [
-          null
-        ]
+        "Westminster",
+        []
       ]
     ],
     [
       [
-        [
-          "W2"
-        ],
-        [
-          null
-        ]
+        "W2",
+        []
       ],
       [
-        [
-          "LONDON"
-        ],
-        [
-          null
-        ]
+        "LONDON",
+        []
       ],
       [
-        [
-          "Paddington",
-          "Bayswater",
-          "Hyde Park",
-          "Westbourne Green",
-          "Little Venice",
-          "Notting Hill"
-        ],
+        "Paddington head district : Paddington , Bayswater , Hyde Park , Westbourne Green , Little Venice ( part ) , Notting Hill ( part )",
         [
           "/wiki/Paddington",
           "/wiki/Bayswater",
@@ -532,9 +318,7 @@
         ]
       ],
       [
-        [
-          "Kensington and Chelsea"
-        ],
+        "Westminster , Kensington and Chelsea",
         [
           "/wiki/Royal_Borough_of_Kensington_and_Chelsea"
         ]
@@ -542,31 +326,15 @@
     ],
     [
       [
-        [
-          "W3"
-        ],
-        [
-          null
-        ]
+        "W3",
+        []
       ],
       [
-        [
-          "LONDON"
-        ],
-        [
-          null
-        ]
+        "LONDON",
+        []
       ],
       [
-        [
-          "Acton",
-          "West Acton",
-          "North Acton",
-          "South Acton",
-          "East Acton",
-          "Park Royal",
-          "Gunnersbury Park"
-        ],
+        "Acton district : Acton , West Acton , North Acton ( part ) , South Acton , East Acton ( west ) , Park Royal ( south ) , Hanger Hill Garden Estate , Gunnersbury Park",
         [
           "/wiki/Acton,_London",
           "/wiki/West_Acton",
@@ -578,11 +346,7 @@
         ]
       ],
       [
-        [
-          "Ealing",
-          "Hounslow",
-          "Hammersmith and Fulham"
-        ],
+        "Ealing , Hounslow , Hammersmith and Fulham",
         [
           "/wiki/London_Borough_of_Ealing",
           "/wiki/London_Borough_of_Hounslow",
@@ -592,29 +356,15 @@
     ],
     [
       [
-        [
-          "W4"
-        ],
-        [
-          null
-        ]
+        "W4",
+        []
       ],
       [
-        [
-          "LONDON"
-        ],
-        [
-          null
-        ]
+        "LONDON",
+        []
       ],
       [
-        [
-          "Chiswick",
-          "Gunnersbury",
-          "Turnham Green",
-          "Acton Green",
-          "Bedford Park"
-        ],
+        "Chiswick district : Chiswick , Gunnersbury , Turnham Green , Acton Green , South Acton ( part ) , Bedford Park",
         [
           "/wiki/Chiswick",
           "/wiki/Gunnersbury",
@@ -624,38 +374,21 @@
         ]
       ],
       [
-        [
-          "Hounslow , Ealing , Hammersmith and Fulham"
-        ],
-        [
-          null
-        ]
+        "Hounslow , Ealing , Hammersmith and Fulham",
+        []
       ]
     ],
     [
       [
-        [
-          "W5"
-        ],
-        [
-          null
-        ]
+        "W5",
+        []
       ],
       [
-        [
-          "LONDON"
-        ],
-        [
-          null
-        ]
+        "LONDON",
+        []
       ],
       [
-        [
-          "Ealing",
-          "Ealing Common",
-          "Northfields",
-          "Pitshanger"
-        ],
+        "Ealing district : Ealing , South Ealing , Ealing Common , North Ealing , Northfields , ( south and east ) , Pitshanger , Hanger Lane",
         [
           "/wiki/Ealing",
           "/wiki/Ealing_Common",
@@ -664,120 +397,71 @@
         ]
       ],
       [
-        [
-          "Ealing , Hounslow"
-        ],
-        [
-          null
-        ]
+        "Ealing , Hounslow",
+        []
       ]
     ],
     [
       [
-        [
-          "W6"
-        ],
-        [
-          null
-        ]
+        "W6",
+        []
       ],
       [
-        [
-          "LONDON"
-        ],
-        [
-          null
-        ]
+        "LONDON",
+        []
       ],
       [
-        [
-          "Hammersmith",
-          "Ravenscourt Park"
-        ],
+        "Hammersmith district : Hammersmith , Ravenscourt Park , Stamford Brook ( part )",
         [
           "/wiki/Hammersmith",
           "/wiki/Ravenscourt_Park"
         ]
       ],
       [
-        [
-          "Hammersmith and Fulham , Hounslow"
-        ],
-        [
-          null
-        ]
+        "Hammersmith and Fulham , Hounslow",
+        []
       ]
     ],
     [
       [
-        [
-          "W7"
-        ],
-        [
-          null
-        ]
+        "W7",
+        []
       ],
       [
-        [
-          "LONDON"
-        ],
-        [
-          null
-        ]
+        "LONDON",
+        []
       ],
       [
-        [
-          "Hanwell",
-          "Boston Manor"
-        ],
+        "Hanwell district : Hanwell , Boston Manor ( part )",
         [
           "/wiki/Hanwell",
           "/wiki/Boston_Manor"
         ]
       ],
       [
-        [
-          "Ealing , Hounslow"
-        ],
-        [
-          null
-        ]
+        "Ealing , Hounslow",
+        []
       ]
     ],
     [
       [
-        [
-          "W8"
-        ],
-        [
-          null
-        ]
+        "W8",
+        []
       ],
       [
-        [
-          "LONDON"
-        ],
-        [
-          null
-        ]
+        "LONDON",
+        []
       ],
       [
-        [
-          "Kensington",
-          "Holland Park"
-        ],
+        "Kensington district : Kensington , Holland Park ( part )",
         [
           "/wiki/Kensington",
           "/wiki/Holland_Park"
         ]
       ],
       [
-        [
-          "Kensington and Chelsea"
-        ],
-        [
-          null
-        ]
+        "Kensington and Chelsea",
+        []
       ]
     ]
   ],

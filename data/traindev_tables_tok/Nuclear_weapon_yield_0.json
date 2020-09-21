@@ -3,128 +3,76 @@
   "title": "Nuclear weapon yield",
   "header": [
     [
-      [
-        "Date"
-      ],
-      [
-        null
-      ]
+      "Date",
+      []
     ],
     [
-      [
-        "Name"
-      ],
-      [
-        null
-      ]
+      "Name",
+      []
     ],
     [
-      [
-        "Yield"
-      ],
-      [
-        null
-      ]
+      "Yield ( kt )",
+      []
     ],
     [
-      [
-        "Country"
-      ],
-      [
-        null
-      ]
+      "Country",
+      []
     ],
     [
-      [
-        "Significance"
-      ],
-      [
-        null
-      ]
+      "Significance",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "1945-07-16"
-        ],
-        [
-          null
-        ]
+        "1945-07-16",
+        []
       ],
       [
-        [
-          "Trinity"
-        ],
+        "Trinity",
         [
           "/wiki/Trinity_test"
         ]
       ],
       [
-        [
-          "18-20"
-        ],
-        [
-          null
-        ]
+        "18-20",
+        []
       ],
       [
-        [
-          "USA"
-        ],
+        "USA",
         [
           "/wiki/Nuclear_weapons_and_the_United_States"
         ]
       ],
       [
-        [
-          "First fission device test , first plutonium implosion detonation"
-        ],
-        [
-          null
-        ]
+        "First fission device test , first plutonium implosion detonation",
+        []
       ]
     ],
     [
       [
-        [
-          "1945-08-06"
-        ],
-        [
-          null
-        ]
+        "1945-08-06",
+        []
       ],
       [
-        [
-          "Little Boy"
-        ],
+        "Little Boy",
         [
           "/wiki/Little_Boy"
         ]
       ],
       [
-        [
-          "12-18"
-        ],
-        [
-          null
-        ]
+        "12-18",
+        []
       ],
       [
-        [
-          "USA"
-        ],
+        "USA",
         [
           "/wiki/Nuclear_weapons_and_the_United_States"
         ]
       ],
       [
-        [
-          "Bombing",
-          "Hiroshima",
-          "Japan"
-        ],
+        "Bombing of Hiroshima , Japan , first detonation of a uranium gun-type device , first use of a nuclear device in combat",
         [
           "/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
           "/wiki/Hiroshima",
@@ -134,43 +82,27 @@
     ],
     [
       [
-        [
-          "1945-08-09"
-        ],
-        [
-          null
-        ]
+        "1945-08-09",
+        []
       ],
       [
-        [
-          "Fat Man"
-        ],
+        "Fat Man",
         [
           "/wiki/Fat_Man"
         ]
       ],
       [
-        [
-          "18-23"
-        ],
-        [
-          null
-        ]
+        "18-23",
+        []
       ],
       [
-        [
-          "USA"
-        ],
+        "USA",
         [
           "/wiki/Nuclear_weapons_and_the_United_States"
         ]
       ],
       [
-        [
-          "Bombing",
-          "Nagasaki",
-          "Japan"
-        ],
+        "Bombing of Nagasaki , Japan , second detonation of a plutonium implosion device ( the first being the Trinity Test ) , second and last use of a nuclear device in combat",
         [
           "/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki",
           "/wiki/Nagasaki,_Nagasaki",
@@ -180,125 +112,79 @@
     ],
     [
       [
-        [
-          "1949-08-29"
-        ],
-        [
-          null
-        ]
+        "1949-08-29",
+        []
       ],
       [
-        [
-          "RDS-1"
-        ],
+        "RDS-1",
         [
           "/wiki/RDS-1"
         ]
       ],
       [
-        [
-          "22"
-        ],
-        [
-          null
-        ]
+        "22",
+        []
       ],
       [
-        [
-          "USSR"
-        ],
+        "USSR",
         [
           "/wiki/Soviet_atomic_bomb_project"
         ]
       ],
       [
-        [
-          "First fission weapon test by the USSR"
-        ],
-        [
-          null
-        ]
+        "First fission weapon test by the USSR",
+        []
       ]
     ],
     [
       [
-        [
-          "1952-10-03"
-        ],
-        [
-          null
-        ]
+        "1952-10-03",
+        []
       ],
       [
-        [
-          "Hurricane"
-        ],
+        "Hurricane",
         [
           "/wiki/Operation_Hurricane"
         ]
       ],
       [
-        [
-          "25"
-        ],
-        [
-          null
-        ]
+        "25",
+        []
       ],
       [
-        [
-          "UK"
-        ],
+        "UK",
         [
           "/wiki/Nuclear_weapons_and_the_United_Kingdom"
         ]
       ],
       [
-        [
-          "First fission weapon test by the UK"
-        ],
-        [
-          null
-        ]
+        "First fission weapon test by the UK",
+        []
       ]
     ],
     [
       [
-        [
-          "1952-11-01"
-        ],
-        [
-          null
-        ]
+        "1952-11-01",
+        []
       ],
       [
-        [
-          "Ivy Mike"
-        ],
+        "Ivy Mike",
         [
           "/wiki/Ivy_Mike"
         ]
       ],
       [
-        [
-          "10,400"
-        ],
-        [
-          null
-        ]
+        "10,400",
+        []
       ],
       [
-        [
-          "USA"
-        ],
+        "USA",
         [
           "/wiki/Nuclear_weapons_and_the_United_States"
         ]
       ],
       [
-        [
-          "staged"
-        ],
+        "First cryogenic fusion fuel staged thermonuclear weapon , primarily a test device and not weaponized",
         [
           "/wiki/Nuclear_weapon_design"
         ]
@@ -306,125 +192,79 @@
     ],
     [
       [
-        [
-          "1952-11-16"
-        ],
-        [
-          null
-        ]
+        "1952-11-16",
+        []
       ],
       [
-        [
-          "Ivy King"
-        ],
+        "Ivy King",
         [
           "/wiki/Ivy_King"
         ]
       ],
       [
-        [
-          "500"
-        ],
-        [
-          null
-        ]
+        "500",
+        []
       ],
       [
-        [
-          "USA"
-        ],
+        "USA",
         [
           "/wiki/Nuclear_weapons_and_the_United_States"
         ]
       ],
       [
-        [
-          "Largest pure-fission weapon ever tested"
-        ],
-        [
-          null
-        ]
+        "Largest pure-fission weapon ever tested",
+        []
       ]
     ],
     [
       [
-        [
-          "1953-08-12"
-        ],
-        [
-          null
-        ]
+        "1953-08-12",
+        []
       ],
       [
-        [
-          "Joe 4"
-        ],
+        "Joe 4",
         [
           "/wiki/Joe_4"
         ]
       ],
       [
-        [
-          "400"
-        ],
-        [
-          null
-        ]
+        "400",
+        []
       ],
       [
-        [
-          "USSR"
-        ],
+        "USSR",
         [
           "/wiki/Soviet_atomic_bomb_project"
         ]
       ],
       [
-        [
-          "First fusion weapon test by the USSR ( not staged )"
-        ],
-        [
-          null
-        ]
+        "First fusion weapon test by the USSR ( not staged )",
+        []
       ]
     ],
     [
       [
-        [
-          "1954-03-01"
-        ],
-        [
-          null
-        ]
+        "1954-03-01",
+        []
       ],
       [
-        [
-          "Castle Bravo"
-        ],
+        "Castle Bravo",
         [
           "/wiki/Castle_Bravo"
         ]
       ],
       [
-        [
-          "15,000"
-        ],
-        [
-          null
-        ]
+        "15,000",
+        []
       ],
       [
-        [
-          "USA"
-        ],
+        "USA",
         [
           "/wiki/Nuclear_weapons_and_the_United_States"
         ]
       ],
       [
-        [
-          "nuclear fallout"
-        ],
+        "First dry fusion fuel staged thermonuclear weapon ; a serious nuclear fallout accident occurred ; largest nuclear detonation conducted by United States",
         [
           "/wiki/Nuclear_fallout"
         ]
@@ -432,464 +272,288 @@
     ],
     [
       [
-        [
-          "1955-11-22"
-        ],
-        [
-          null
-        ]
+        "1955-11-22",
+        []
       ],
       [
-        [
-          "RDS-37"
-        ],
+        "RDS-37",
         [
           "/wiki/RDS-37"
         ]
       ],
       [
-        [
-          "1,600"
-        ],
-        [
-          null
-        ]
+        "1,600",
+        []
       ],
       [
-        [
-          "USSR"
-        ],
+        "USSR",
         [
           "/wiki/Soviet_atomic_bomb_project"
         ]
       ],
       [
-        [
-          "First staged thermonuclear weapon test by the USSR ( deployable )"
-        ],
-        [
-          null
-        ]
+        "First staged thermonuclear weapon test by the USSR ( deployable )",
+        []
       ]
     ],
     [
       [
-        [
-          "1957-05-31"
-        ],
-        [
-          null
-        ]
+        "1957-05-31",
+        []
       ],
       [
-        [
-          "Orange Herald"
-        ],
+        "Orange Herald",
         [
           "/wiki/Orange_Herald"
         ]
       ],
       [
-        [
-          "720"
-        ],
-        [
-          null
-        ]
+        "720",
+        []
       ],
       [
-        [
-          "UK"
-        ],
+        "UK",
         [
           "/wiki/Nuclear_weapons_and_the_United_Kingdom"
         ]
       ],
       [
-        [
-          "Largest boosted fission weapon ever tested . Intended as a fallback in megaton range in case British thermonuclear development failed"
-        ],
-        [
-          null
-        ]
+        "Largest boosted fission weapon ever tested . Intended as a fallback in megaton range in case British thermonuclear development failed",
+        []
       ]
     ],
     [
       [
-        [
-          "1957-11-08"
-        ],
-        [
-          null
-        ]
+        "1957-11-08",
+        []
       ],
       [
-        [
-          "Grapple X"
-        ],
+        "Grapple X",
         [
           "/wiki/Operation_Grapple"
         ]
       ],
       [
-        [
-          "1,800"
-        ],
-        [
-          null
-        ]
+        "1,800",
+        []
       ],
       [
-        [
-          "UK"
-        ],
+        "UK",
         [
           "/wiki/Nuclear_weapons_and_the_United_Kingdom"
         ]
       ],
       [
-        [
-          "First ( successful ) staged thermonuclear weapon test by the UK"
-        ],
-        [
-          null
-        ]
+        "First ( successful ) staged thermonuclear weapon test by the UK",
+        []
       ]
     ],
     [
       [
-        [
-          "1960-02-13"
-        ],
-        [
-          null
-        ]
+        "1960-02-13",
+        []
       ],
       [
-        [
-          "Gerboise Bleue"
-        ],
+        "Gerboise Bleue",
         [
           "/wiki/Gerboise_Bleue"
         ]
       ],
       [
-        [
-          "70"
-        ],
-        [
-          null
-        ]
+        "70",
+        []
       ],
       [
-        [
-          "France"
-        ],
+        "France",
         [
           "/wiki/France_and_weapons_of_mass_destruction"
         ]
       ],
       [
-        [
-          "First fission weapon test by France"
-        ],
-        [
-          null
-        ]
+        "First fission weapon test by France",
+        []
       ]
     ],
     [
       [
-        [
-          "1961-10-31"
-        ],
-        [
-          null
-        ]
+        "1961-10-31",
+        []
       ],
       [
-        [
-          "Tsar Bomba"
-        ],
+        "Tsar Bomba",
         [
           "/wiki/Tsar_Bomba"
         ]
       ],
       [
-        [
-          "50,000"
-        ],
-        [
-          null
-        ]
+        "50,000",
+        []
       ],
       [
-        [
-          "USSR"
-        ],
+        "USSR",
         [
           "/wiki/Soviet_atomic_bomb_project"
         ]
       ],
       [
-        [
-          "Largest thermonuclear weapon ever tested - scaled down from its initial 100 Mt design by 50%"
-        ],
-        [
-          null
-        ]
+        "Largest thermonuclear weapon ever tested - scaled down from its initial 100 Mt design by 50%",
+        []
       ]
     ],
     [
       [
-        [
-          "1964-10-16"
-        ],
-        [
-          null
-        ]
+        "1964-10-16",
+        []
       ],
       [
-        [
-          "596"
-        ],
+        "596",
         [
           "/wiki/596_(nuclear_test)"
         ]
       ],
       [
-        [
-          "22"
-        ],
-        [
-          null
-        ]
+        "22",
+        []
       ],
       [
-        [
-          "PR China"
-        ],
+        "PR China",
         [
           "/wiki/People's_Republic_of_China_and_weapons_of_mass_destruction"
         ]
       ],
       [
-        [
-          "First fission weapon test by the People 's Republic of China"
-        ],
-        [
-          null
-        ]
+        "First fission weapon test by the People 's Republic of China",
+        []
       ]
     ],
     [
       [
-        [
-          "1967-06-17"
-        ],
-        [
-          null
-        ]
+        "1967-06-17",
+        []
       ],
       [
-        [
-          "Test No . 6"
-        ],
+        "Test No . 6",
         [
           "/wiki/Chinese_nuclear_test_No._6"
         ]
       ],
       [
-        [
-          "3,300"
-        ],
-        [
-          null
-        ]
+        "3,300",
+        []
       ],
       [
-        [
-          "PR China"
-        ],
+        "PR China",
         [
           "/wiki/People's_Republic_of_China_and_weapons_of_mass_destruction"
         ]
       ],
       [
-        [
-          "First staged thermonuclear weapon test by the People 's Republic of China"
-        ],
-        [
-          null
-        ]
+        "First staged thermonuclear weapon test by the People 's Republic of China",
+        []
       ]
     ],
     [
       [
-        [
-          "1968-08-24"
-        ],
-        [
-          null
-        ]
+        "1968-08-24",
+        []
       ],
       [
-        [
-          "Canopus"
-        ],
+        "Canopus",
         [
           "/wiki/Canopus_(nuclear_test)"
         ]
       ],
       [
-        [
-          "2,600"
-        ],
-        [
-          null
-        ]
+        "2,600",
+        []
       ],
       [
-        [
-          "France"
-        ],
+        "France",
         [
           "/wiki/France_and_weapons_of_mass_destruction"
         ]
       ],
       [
-        [
-          "First staged thermonuclear weapon test by France"
-        ],
-        [
-          null
-        ]
+        "First staged thermonuclear weapon test by France",
+        []
       ]
     ],
     [
       [
-        [
-          "1974-05-18"
-        ],
-        [
-          null
-        ]
+        "1974-05-18",
+        []
       ],
       [
-        [
-          "Smiling Buddha"
-        ],
+        "Smiling Buddha",
         [
           "/wiki/Smiling_Buddha"
         ]
       ],
       [
-        [
-          "12"
-        ],
-        [
-          null
-        ]
+        "12",
+        []
       ],
       [
-        [
-          "India"
-        ],
+        "India",
         [
           "/wiki/India_and_weapons_of_mass_destruction"
         ]
       ],
       [
-        [
-          "First fission nuclear explosive test by India"
-        ],
-        [
-          null
-        ]
+        "First fission nuclear explosive test by India",
+        []
       ]
     ],
     [
       [
-        [
-          "1998-05-11"
-        ],
-        [
-          null
-        ]
+        "1998-05-11",
+        []
       ],
       [
-        [
-          "Pokhran-II"
-        ],
+        "Pokhran-II",
         [
           "/wiki/Pokhran-II"
         ]
       ],
       [
-        [
-          "45-50"
-        ],
-        [
-          null
-        ]
+        "45-50",
+        []
       ],
       [
-        [
-          "India"
-        ],
+        "India",
         [
           "/wiki/India_and_weapons_of_mass_destruction"
         ]
       ],
       [
-        [
-          "First potential fusion/boosted weapon test by India ; first deployable fission weapon test by India"
-        ],
-        [
-          null
-        ]
+        "First potential fusion/boosted weapon test by India ; first deployable fission weapon test by India",
+        []
       ]
     ],
     [
       [
-        [
-          "1998-05-28"
-        ],
-        [
-          null
-        ]
+        "1998-05-28",
+        []
       ],
       [
-        [
-          "Chagai-I"
-        ],
+        "Chagai-I",
         [
           "/wiki/Chagai-I"
         ]
       ],
       [
-        [
-          "40"
-        ],
-        [
-          null
-        ]
+        "40",
+        []
       ],
       [
-        [
-          "Pakistan"
-        ],
+        "Pakistan",
         [
           "/wiki/Pakistan_and_weapons_of_mass_destruction"
         ]
       ],
       [
-        [
-          "First fission weapon ( boosted ) test by Pakistan"
-        ],
-        [
-          null
-        ]
+        "First fission weapon ( boosted ) test by Pakistan",
+        []
       ]
     ]
   ],

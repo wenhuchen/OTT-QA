@@ -3,84 +3,52 @@
   "title": "Media in Toronto",
   "header": [
     [
-      [
-        "Frequency"
-      ],
-      [
-        null
-      ]
+      "Frequency",
+      []
     ],
     [
-      [
-        "Call sign"
-      ],
-      [
-        null
-      ]
+      "Call sign",
+      []
     ],
     [
-      [
-        "Branding"
-      ],
-      [
-        null
-      ]
+      "Branding",
+      []
     ],
     [
-      [
-        "Format"
-      ],
-      [
-        null
-      ]
+      "Format",
+      []
     ],
     [
-      [
-        "Owner"
-      ],
-      [
-        null
-      ]
+      "Owner",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "FM"
-        ],
+        "FM 88.1",
         [
           "/wiki/FM_radio"
         ]
       ],
       [
-        [
-          "CIND-FM"
-        ],
+        "CIND-FM",
         [
           "/wiki/CIND-FM"
         ]
       ],
       [
-        [
-          "Indie88"
-        ],
-        [
-          null
-        ]
+        "Indie88",
+        []
       ],
       [
-        [
-          "indie rock"
-        ],
+        "indie rock",
         [
           "/wiki/Indie_rock"
         ]
       ],
       [
-        [
-          "Central Ontario Broadcasting"
-        ],
+        "Central Ontario Broadcasting",
         [
           "/wiki/Central_Ontario_Broadcasting"
         ]
@@ -88,86 +56,58 @@
     ],
     [
       [
-        [
-          "FM"
-        ],
+        "FM 88.9",
         [
           "/wiki/FM_radio"
         ]
       ],
       [
-        [
-          "CIRV"
-        ],
+        "CIRV",
         [
           "/wiki/CIRV-FM"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "multilingual"
-        ],
+        "multilingual",
         [
           "/wiki/Multilingual"
         ]
       ],
       [
-        [
-          "Frank Alvarez"
-        ],
-        [
-          null
-        ]
+        "Frank Alvarez",
+        []
       ]
     ],
     [
       [
-        [
-          "FM 89.5"
-        ],
-        [
-          null
-        ]
+        "FM 89.5",
+        []
       ],
       [
-        [
-          "CIUT"
-        ],
+        "CIUT",
         [
           "/wiki/CIUT-FM"
         ]
       ],
       [
-        [
-          "University of Toronto"
-        ],
+        "University of Toronto Community Radio",
         [
           "/wiki/University_of_Toronto"
         ]
       ],
       [
-        [
-          "campus",
-          "community"
-        ],
+        "campus / community",
         [
           "/wiki/Campus_radio",
           "/wiki/Community_radio"
         ]
       ],
       [
-        [
-          "University of Toronto",
-          "campus radio"
-        ],
+        "University of Toronto campus radio",
         [
           "/wiki/University_of_Toronto",
           "/wiki/Campus_radio"
@@ -176,41 +116,29 @@
     ],
     [
       [
-        [
-          "FM 90.3"
-        ],
-        [
-          null
-        ]
+        "FM 90.3",
+        []
       ],
       [
-        [
-          "CJBC"
-        ],
+        "CJBC",
         [
           "/wiki/CJBC-FM"
         ]
       ],
       [
-        [
-          "Ici Musique"
-        ],
+        "Ici Musique",
         [
           "/wiki/Ici_Musique"
         ]
       ],
       [
-        [
-          "public"
-        ],
+        "public music",
         [
           "/wiki/Public_broadcasting"
         ]
       ],
       [
-        [
-          "Canadian Broadcasting Corporation"
-        ],
+        "Canadian Broadcasting Corporation",
         [
           "/wiki/Canadian_Broadcasting_Corporation"
         ]
@@ -218,127 +146,80 @@
     ],
     [
       [
-        [
-          "FM 91.1"
-        ],
-        [
-          null
-        ]
+        "FM 91.1",
+        []
       ],
       [
-        [
-          "CJRT"
-        ],
+        "CJRT",
         [
           "/wiki/CJRT-FM"
         ]
       ],
       [
-        [
-          "JAZZ-FM91"
-        ],
-        [
-          null
-        ]
+        "JAZZ-FM91",
+        []
       ],
       [
-        [
-          "jazz",
-          "public"
-        ],
+        "jazz / public",
         [
           "/wiki/Jazz",
           "/wiki/Public_radio"
         ]
       ],
       [
-        [
-          "CJRT-FM Inc"
-        ],
-        [
-          null
-        ]
+        "CJRT-FM Inc",
+        []
       ]
     ],
     [
       [
-        [
-          "FM 91.9"
-        ],
-        [
-          null
-        ]
+        "FM 91.9",
+        []
       ],
       [
-        [
-          "CHIN-1"
-        ],
+        "CHIN-1",
         [
           "/wiki/CHIN_(AM)"
         ]
       ],
       [
-        [
-          "CHIN Radio"
-        ],
-        [
-          null
-        ]
+        "CHIN Radio",
+        []
       ],
       [
-        [
-          "multilingual"
-        ],
+        "multilingual",
         [
           "/wiki/Multilingual"
         ]
       ],
       [
-        [
-          "CHIN Radio/TV International"
-        ],
-        [
-          null
-        ]
+        "CHIN Radio/TV International",
+        []
       ]
     ],
     [
       [
-        [
-          "FM 92.5"
-        ],
-        [
-          null
-        ]
+        "FM 92.5",
+        []
       ],
       [
-        [
-          "CKIS"
-        ],
+        "CKIS",
         [
           "/wiki/CKIS-FM"
         ]
       ],
       [
-        [
-          "KiSS 92.5"
-        ],
-        [
-          null
-        ]
+        "KiSS 92.5",
+        []
       ],
       [
-        [
-          "CHR"
-        ],
+        "CHR",
         [
           "/wiki/Contemporary_hit_radio"
         ]
       ],
       [
-        [
-          "Rogers Media"
-        ],
+        "Rogers Media",
         [
           "/wiki/Rogers_Media"
         ]
@@ -346,35 +227,21 @@
     ],
     [
       [
-        [
-          "FM 93.5"
-        ],
-        [
-          null
-        ]
+        "FM 93.5",
+        []
       ],
       [
-        [
-          "CFXJ"
-        ],
+        "CFXJ",
         [
           "/wiki/CFXJ-FM"
         ]
       ],
       [
-        [
-          "Flow 93-5"
-        ],
-        [
-          null
-        ]
+        "Flow 93-5",
+        []
       ],
       [
-        [
-          "rhythmic CHR",
-          "hip hop",
-          "dance"
-        ],
+        "rhythmic CHR / hip hop / dance",
         [
           "/wiki/Rhythmic_CHR",
           "/wiki/Hip_hop_music",
@@ -382,9 +249,7 @@
         ]
       ],
       [
-        [
-          "Newcap Radio"
-        ],
+        "Newcap Radio",
         [
           "/wiki/Newcap_Radio"
         ]
@@ -392,41 +257,29 @@
     ],
     [
       [
-        [
-          "FM 94.1"
-        ],
-        [
-          null
-        ]
+        "FM 94.1",
+        []
       ],
       [
-        [
-          "CBL"
-        ],
+        "CBL",
         [
           "/wiki/CBL-FM"
         ]
       ],
       [
-        [
-          "CBC Music"
-        ],
+        "CBC Music",
         [
           "/wiki/CBC_Music"
         ]
       ],
       [
-        [
-          "public"
-        ],
+        "public music",
         [
           "/wiki/Public_broadcasting"
         ]
       ],
       [
-        [
-          "Canadian Broadcasting Corporation"
-        ],
+        "Canadian Broadcasting Corporation",
         [
           "/wiki/Canadian_Broadcasting_Corporation"
         ]
@@ -434,83 +287,53 @@
     ],
     [
       [
-        [
-          "FM 95.9"
-        ],
-        [
-          null
-        ]
+        "FM 95.9",
+        []
       ],
       [
-        [
-          "CJKX-FM-2"
-        ],
+        "CJKX-FM-2",
         [
           "/wiki/CJKX-FM"
         ]
       ],
       [
-        [
-          "KX96"
-        ],
-        [
-          null
-        ]
+        "KX96",
+        []
       ],
       [
-        [
-          "country"
-        ],
+        "country",
         [
           "/wiki/Country_music"
         ]
       ],
       [
-        [
-          "Durham Radio"
-        ],
-        [
-          null
-        ]
+        "Durham Radio",
+        []
       ]
     ],
     [
       [
-        [
-          "FM 96.3"
-        ],
-        [
-          null
-        ]
+        "FM 96.3",
+        []
       ],
       [
-        [
-          "CFMZ"
-        ],
+        "CFMZ",
         [
           "/wiki/CFMZ-FM"
         ]
       ],
       [
-        [
-          "Classical 96.3"
-        ],
-        [
-          null
-        ]
+        "Classical 96.3",
+        []
       ],
       [
-        [
-          "classical music"
-        ],
+        "classical music",
         [
           "/wiki/European_classical_music"
         ]
       ],
       [
-        [
-          "ZoomerMedia"
-        ],
+        "ZoomerMedia",
         [
           "/wiki/ZoomerMedia"
         ]
@@ -518,41 +341,27 @@
     ],
     [
       [
-        [
-          "FM 96.9"
-        ],
-        [
-          null
-        ]
+        "FM 96.9",
+        []
       ],
       [
-        [
-          "CKHC"
-        ],
+        "CKHC",
         [
           "/wiki/CKHC-FM"
         ]
       ],
       [
-        [
-          "Radio Humber"
-        ],
-        [
-          null
-        ]
+        "Radio Humber",
+        []
       ],
       [
-        [
-          "campus radio"
-        ],
+        "campus radio",
         [
           "/wiki/Campus_radio"
         ]
       ],
       [
-        [
-          "Humber College"
-        ],
+        "Humber College",
         [
           "/wiki/Humber_College"
         ]
@@ -560,41 +369,27 @@
     ],
     [
       [
-        [
-          "FM 97.3"
-        ],
-        [
-          null
-        ]
+        "FM 97.3",
+        []
       ],
       [
-        [
-          "CHBM"
-        ],
+        "CHBM",
         [
           "/wiki/CHBM-FM"
         ]
       ],
       [
-        [
-          "boom 97.3"
-        ],
-        [
-          null
-        ]
+        "boom 97.3",
+        []
       ],
       [
-        [
-          "adult hits"
-        ],
+        "adult hits",
         [
           "/wiki/Adult_hits"
         ]
       ],
       [
-        [
-          "Newcap Radio"
-        ],
+        "Newcap Radio",
         [
           "/wiki/Newcap_Radio"
         ]
@@ -602,41 +397,27 @@
     ],
     [
       [
-        [
-          "FM 98.1"
-        ],
-        [
-          null
-        ]
+        "FM 98.1",
+        []
       ],
       [
-        [
-          "CHFI"
-        ],
+        "CHFI",
         [
           "/wiki/CHFI-FM"
         ]
       ],
       [
-        [
-          "98.1 CHFI"
-        ],
-        [
-          null
-        ]
+        "98.1 CHFI",
+        []
       ],
       [
-        [
-          "adult contemporary"
-        ],
+        "adult contemporary",
         [
           "/wiki/Adult_contemporary"
         ]
       ],
       [
-        [
-          "Rogers Media"
-        ],
+        "Rogers Media",
         [
           "/wiki/Rogers_Media"
         ]
@@ -644,79 +425,50 @@
     ],
     [
       [
-        [
-          "FM 98.7"
-        ],
-        [
-          null
-        ]
+        "FM 98.7",
+        []
       ],
       [
-        [
-          "CKFG"
-        ],
+        "CKFG",
         [
           "/wiki/CKFG-FM"
         ]
       ],
       [
-        [
-          "G98.7"
-        ],
-        [
-          null
-        ]
+        "G98.7",
+        []
       ],
       [
-        [
-          "Urban contemporary",
-          "smooth jazz"
-        ],
+        "Urban contemporary / smooth jazz",
         [
           "/wiki/Urban_contemporary",
           "/wiki/Smooth_jazz"
         ]
       ],
       [
-        [
-          "Intercity Broadcasting"
-        ],
-        [
-          null
-        ]
+        "Intercity Broadcasting",
+        []
       ]
     ],
     [
       [
-        [
-          "FM 99.1"
-        ],
-        [
-          null
-        ]
+        "FM 99.1",
+        []
       ],
       [
-        [
-          "CBLA"
-        ],
+        "CBLA",
         [
           "/wiki/CBLA-FM"
         ]
       ],
       [
-        [
-          "CBC Radio One"
-        ],
+        "CBC Radio One",
         [
           "/wiki/CBC_Radio_One"
         ]
       ],
       [
-        [
-          "public",
-          "news",
-          "talk"
-        ],
+        "public news / talk",
         [
           "/wiki/Public_broadcasting",
           "/wiki/News_radio",
@@ -724,9 +476,7 @@
         ]
       ],
       [
-        [
-          "Canadian Broadcasting Corporation"
-        ],
+        "Canadian Broadcasting Corporation",
         [
           "/wiki/Canadian_Broadcasting_Corporation"
         ]
@@ -734,41 +484,27 @@
     ],
     [
       [
-        [
-          "FM 99.9"
-        ],
-        [
-          null
-        ]
+        "FM 99.9",
+        []
       ],
       [
-        [
-          "CKFM"
-        ],
+        "CKFM",
         [
           "/wiki/CKFM-FM"
         ]
       ],
       [
-        [
-          "99-9 Virgin Radio"
-        ],
-        [
-          null
-        ]
+        "99-9 Virgin Radio",
+        []
       ],
       [
-        [
-          "CHR"
-        ],
+        "CHR",
         [
           "/wiki/Contemporary_hit_radio"
         ]
       ],
       [
-        [
-          "Bell Media"
-        ],
+        "Bell Media",
         [
           "/wiki/Bell_Media"
         ]
@@ -776,41 +512,27 @@
     ],
     [
       [
-        [
-          "FM 100.7"
-        ],
-        [
-          null
-        ]
+        "FM 100.7",
+        []
       ],
       [
-        [
-          "CHIN"
-        ],
+        "CHIN",
         [
           "/wiki/CHIN-FM"
         ]
       ],
       [
-        [
-          "CHIN Radio"
-        ],
-        [
-          null
-        ]
+        "CHIN Radio",
+        []
       ],
       [
-        [
-          "multilingual"
-        ],
+        "multilingual",
         [
           "/wiki/Multilingual"
         ]
       ],
       [
-        [
-          "CHIN Radio/TV International"
-        ],
+        "CHIN Radio/TV International",
         [
           "/wiki/CHIN_Radio/TV_International"
         ]
@@ -818,83 +540,53 @@
     ],
     [
       [
-        [
-          "FM 101.3"
-        ],
-        [
-          null
-        ]
+        "FM 101.3",
+        []
       ],
       [
-        [
-          "CJSA"
-        ],
+        "CJSA",
         [
           "/wiki/CJSA-FM"
         ]
       ],
       [
-        [
-          "Diversity FM"
-        ],
-        [
-          null
-        ]
+        "Diversity FM",
+        []
       ],
       [
-        [
-          "multilingual"
-        ],
+        "multilingual",
         [
           "/wiki/Multilingual"
         ]
       ],
       [
-        [
-          "Diversity Media Group"
-        ],
-        [
-          null
-        ]
+        "Diversity Media Group",
+        []
       ]
     ],
     [
       [
-        [
-          "FM 102.1"
-        ],
-        [
-          null
-        ]
+        "FM 102.1",
+        []
       ],
       [
-        [
-          "CFNY"
-        ],
+        "CFNY",
         [
           "/wiki/CFNY-FM"
         ]
       ],
       [
-        [
-          "102.1 The Edge"
-        ],
-        [
-          null
-        ]
+        "102.1 The Edge",
+        []
       ],
       [
-        [
-          "modern rock"
-        ],
+        "modern rock",
         [
           "/wiki/Modern_rock"
         ]
       ],
       [
-        [
-          "Corus Entertainment"
-        ],
+        "Corus Entertainment",
         [
           "/wiki/Corus_Entertainment"
         ]

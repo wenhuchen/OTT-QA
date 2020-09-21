@@ -3,129 +3,77 @@
   "title": "Languages of Niger",
   "header": [
     [
-      [
-        "Language"
-      ],
-      [
-        null
-      ]
+      "Language",
+      []
     ],
     [
-      [
-        "Family"
-      ],
-      [
-        null
-      ]
+      "Family",
+      []
     ],
     [
-      [
-        "Approx%"
-      ],
-      [
-        null
-      ]
+      "Approx%",
+      []
     ],
     [
-      [
-        "Main region"
-      ],
-      [
-        null
-      ]
+      "Main region",
+      []
     ],
     [
-      [
-        "Notes"
-      ],
-      [
-        null
-      ]
+      "Notes",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Hausa"
-        ],
+        "Hausa",
         [
           "/wiki/Hausa_language"
         ]
       ],
       [
-        [
-          "Afro-Asiatic",
-          "Chadic"
-        ],
+        "Afro-Asiatic / Chadic",
         [
           "/wiki/Afro-Asiatic",
           "/wiki/Chadic"
         ]
       ],
       [
-        [
-          "55.4%"
-        ],
-        [
-          null
-        ]
+        "55.4%",
+        []
       ],
       [
-        [
-          "South , central"
-        ],
-        [
-          null
-        ]
+        "South , central",
+        []
       ],
       [
-        [
-          "Main trade language"
-        ],
-        [
-          null
-        ]
+        "Main trade language",
+        []
       ]
     ],
     [
       [
-        [
-          "Songhai"
-        ],
+        "Songhai",
         [
           "/wiki/Songhay_languages"
         ]
       ],
       [
-        [
-          "Songhay languages"
-        ],
+        "Songhay languages",
         [
           "/wiki/Songhay_languages"
         ]
       ],
       [
-        [
-          "21%"
-        ],
-        [
-          null
-        ]
+        "21%",
+        []
       ],
       [
-        [
-          "Southwest"
-        ],
-        [
-          null
-        ]
+        "Southwest",
+        []
       ],
       [
-        [
-          "Zarma",
-          "Kaado Songhay"
-        ],
+        "Zarma and Kaado Songhay are considered together",
         [
           "/wiki/Zarma_language",
           "/wiki/Kaado_language"
@@ -134,174 +82,108 @@
     ],
     [
       [
-        [
-          "Tamasheq"
-        ],
+        "Tamasheq",
         [
           "/wiki/Tuareg_languages"
         ]
       ],
       [
-        [
-          "Afro-Asiatic",
-          "Berber"
-        ],
+        "Afro-Asiatic / Berber",
         [
           "/wiki/Afro-Asiatic",
           "/wiki/Berber_languages"
         ]
       ],
       [
-        [
-          "9.3%"
-        ],
-        [
-          null
-        ]
+        "9.3%",
+        []
       ],
       [
-        [
-          "North"
-        ],
-        [
-          null
-        ]
+        "North",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Fulfulde"
-        ],
+        "Fulfulde",
         [
           "/wiki/Fula_language"
         ]
       ],
       [
-        [
-          "Niger-Congo",
-          "Atlantic"
-        ],
+        "Niger-Congo / Atlantic",
         [
           "/wiki/Niger\u2013Congo",
           "/wiki/Atlantic_languages"
         ]
       ],
       [
-        [
-          "8.5%"
-        ],
-        [
-          null
-        ]
+        "8.5%",
+        []
       ],
       [
-        [
-          "All"
-        ],
-        [
-          null
-        ]
+        "All",
+        []
       ],
       [
-        [
-          "Fulfulde of Western Niger & Central-Eastern Niger are considered together"
-        ],
-        [
-          null
-        ]
+        "Fulfulde of Western Niger & Central-Eastern Niger are considered together",
+        []
       ]
     ],
     [
       [
-        [
-          "Kanuri"
-        ],
+        "Kanuri",
         [
           "/wiki/Kanuri_language"
         ]
       ],
       [
-        [
-          "Nilo-Saharan"
-        ],
+        "Nilo-Saharan",
         [
           "/wiki/Nilo-Saharan"
         ]
       ],
       [
-        [
-          "4.7%"
-        ],
-        [
-          null
-        ]
+        "4.7%",
+        []
       ],
       [
-        [
-          "Southeast"
-        ],
-        [
-          null
-        ]
+        "Southeast",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Arabic"
-        ],
+        "Arabic",
         [
           "/wiki/Arabic_language"
         ]
       ],
       [
-        [
-          "Afro-Asiatic",
-          "Semitic"
-        ],
+        "Afro-Asiatic / Semitic",
         [
           "/wiki/Afro-Asiatic",
           "/wiki/Semitic_languages"
         ]
       ],
       [
-        [
-          "0.4%"
-        ],
-        [
-          null
-        ]
+        "0.4%",
+        []
       ],
       [
-        [
-          "Southeast"
-        ],
-        [
-          null
-        ]
+        "Southeast",
+        []
       ],
       [
-        [
-          "Diffa Arabs",
-          "Diffa Region"
-        ],
+        "Particularly spoken by the Diffa Arabs mainly in the Diffa Region",
         [
           "/wiki/Diffa_Arabs",
           "/wiki/Diffa_Region"
@@ -310,130 +192,79 @@
     ],
     [
       [
-        [
-          "Gourmanch\u00e9ma"
-        ],
+        "Gourmanch\u00e9ma",
         [
           "/wiki/Gurma_language"
         ]
       ],
       [
-        [
-          "Niger-Congo",
-          "Gur"
-        ],
+        "Niger-Congo / Gur",
         [
           "/wiki/Niger\u2013Congo",
           "/wiki/Gur_languages"
         ]
       ],
       [
-        [
-          "0.4%"
-        ],
-        [
-          null
-        ]
+        "0.4%",
+        []
       ],
       [
-        [
-          "Southwest corner"
-        ],
-        [
-          null
-        ]
+        "Southwest corner",
+        []
       ],
       [
-        [
-          "Spoken mainly by the Gurma people of southwest Niger"
-        ],
-        [
-          null
-        ]
+        "Spoken mainly by the Gurma people of southwest Niger",
+        []
       ]
     ],
     [
       [
-        [
-          "Tebu"
-        ],
+        "Tebu",
         [
           "/wiki/Tebu_languages"
         ]
       ],
       [
-        [
-          "Nilo-Saharan"
-        ],
+        "Nilo-Saharan",
         [
           "/wiki/Nilo-Saharan"
         ]
       ],
       [
-        [
-          "0.4%"
-        ],
-        [
-          null
-        ]
+        "0.4%",
+        []
       ],
       [
-        [
-          "East"
-        ],
-        [
-          null
-        ]
+        "East",
+        []
       ],
       [
-        [
-          "Spoken mainly by the Toubou people of Eastern Niger"
-        ],
-        [
-          null
-        ]
+        "Spoken mainly by the Toubou people of Eastern Niger",
+        []
       ]
     ],
     [
       [
-        [
-          "Other"
-        ],
-        [
-          null
-        ]
+        "Other",
+        []
       ],
       [
-        [
-          "N/A"
-        ],
+        "N/A",
         [
           "/wiki/N/A"
         ]
       ],
       [
-        [
-          "0.1%"
-        ],
-        [
-          null
-        ]
+        "0.1%",
+        []
       ],
       [
-        [
-          "Throughout"
-        ],
-        [
-          null
-        ]
+        "Throughout",
+        []
       ],
       [
-        [
-          "Any other languages"
-        ],
-        [
-          null
-        ]
+        "Any other languages",
+        []
       ]
     ]
   ],

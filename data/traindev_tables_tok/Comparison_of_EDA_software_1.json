@@ -3,87 +3,53 @@
   "title": "Comparison of EDA software",
   "header": [
     [
-      [
-        "Name"
-      ],
-      [
-        null
-      ]
+      "Name",
+      []
     ],
     [
-      [
-        "Architecture"
-      ],
-      [
-        null
-      ]
+      "Architecture",
+      []
     ],
     [
-      [
-        "License"
-      ],
-      [
-        null
-      ]
+      "License",
+      []
     ],
     [
-      [
-        "Autorouter"
-      ],
+      "Autorouter",
       [
         "/wiki/Routing_(EDA)"
       ]
     ],
     [
-      [
-        "Comment"
-      ],
-      [
-        null
-      ]
+      "Comment",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Electric"
-        ],
+        "Electric",
         [
           "/wiki/Electric_(software)"
         ]
       ],
       [
-        [
-          "*BSD",
-          "Java"
-        ],
+        "*BSD , Java",
         [
           "/wiki/FreeBSD",
           "/wiki/Java_(programming_language)"
         ]
       ],
       [
-        [
-          "GPL"
-        ],
-        [
-          null
-        ]
+        "GPL",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "VLSI",
-          "PCB"
-        ],
+        "VLSI circuit design tool with connectivity at all levels . Can also be used for schematic entry and PCB design",
         [
           "/wiki/Very-large-scale_integration",
           "/wiki/Printed_circuit_board"
@@ -92,73 +58,46 @@
     ],
     [
       [
-        [
-          "FreePCB"
-        ],
+        "FreePCB",
         [
           "/wiki/FreePCB"
         ]
       ],
       [
-        [
-          "w32"
-        ],
+        "w32",
         [
           "/wiki/Microsoft_Windows"
         ]
       ],
       [
-        [
-          "GPL"
-        ],
-        [
-          null
-        ]
+        "GPL",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "printed circuit board",
-          "Microsoft Windows",
-          "metric",
-          "US customary units",
-          "Gerber format",
-          "FreeRouting",
-          "Specctra"
-        ],
+        "A printed circuit board design program for Microsoft Windows . FreePCB allows for up to 16 copper layers , both metric and US customary units , and export of designs in Gerber format . Boards can be partially or fully autorouted with the FreeRouting autorouter by using the FpcROUTE Specctra DSN design file translator",
         [
           "/wiki/Printed_circuit_board",
           "/wiki/Microsoft_Windows",
           "/wiki/Metric_system",
           "/wiki/US_customary_units",
           "/wiki/Gerber_format",
-          null,
           "/wiki/Specctra"
         ]
       ]
     ],
     [
       [
-        [
-          "Fritzing"
-        ],
+        "Fritzing",
         [
           "/wiki/Fritzing"
         ]
       ],
       [
-        [
-          "Windows",
-          "Mac",
-          "Linux"
-        ],
+        "Windows , Mac , Linux",
         [
           "/wiki/Microsoft_Windows",
           "/wiki/Mac_OS_X",
@@ -166,26 +105,15 @@
         ]
       ],
       [
-        [
-          "GPL"
-        ],
-        [
-          null
-        ]
+        "GPL",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "Arduino",
-          "Raspberry Pi"
-        ],
+        "Protoboard view , schematic view , PCB view , Code ( firmware ) view . Includes customizable design rule checker . Includes common shaped boards like Arduino and Raspberry Pi shields . Allows spline curve traces . Only two layers ( top and bottom ) . Outputs gerbers",
         [
           "/wiki/Arduino",
           "/wiki/Raspberry_Pi"
@@ -194,19 +122,13 @@
     ],
     [
       [
-        [
-          "gEDA"
-        ],
+        "gEDA",
         [
           "/wiki/GEDA"
         ]
       ],
       [
-        [
-          "*BSD",
-          "Linux",
-          "Mac"
-        ],
+        "*BSD , Linux , Mac",
         [
           "/wiki/FreeBSD",
           "/wiki/Linux",
@@ -214,87 +136,53 @@
         ]
       ],
       [
-        [
-          "GPL"
-        ],
-        [
-          null
-        ]
+        "GPL",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "schematic , simulation , PCB editor , gerber view"
-        ],
-        [
-          null
-        ]
+        "schematic , simulation , PCB editor , gerber view",
+        []
       ]
     ],
     [
       [
-        [
-          "Gnucap"
-        ],
+        "Gnucap",
         [
           "/wiki/Gnucap"
         ]
       ],
       [
-        [
-          "any ( C++98 )"
-        ],
-        [
-          null
-        ]
+        "any ( C++98 )",
+        []
       ],
       [
-        [
-          "GPL3"
-        ],
+        "GPL3",
         [
           "/wiki/GPL3"
         ]
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ],
       [
-        [
-          "Mixed-signal circuit simulator"
-        ],
-        [
-          null
-        ]
+        "Mixed-signal circuit simulator",
+        []
       ]
     ],
     [
       [
-        [
-          "Icarus Verilog"
-        ],
+        "Icarus Verilog",
         [
           "/wiki/Icarus_Verilog"
         ]
       ],
       [
-        [
-          "*BSD",
-          "Linux",
-          "Mac"
-        ],
+        "*BSD , Linux , Mac",
         [
           "/wiki/FreeBSD",
           "/wiki/Linux",
@@ -302,25 +190,15 @@
         ]
       ],
       [
-        [
-          "GPL"
-        ],
-        [
-          null
-        ]
+        "GPL",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ],
       [
-        [
-          "Verilog"
-        ],
+        "Verilog simulator",
         [
           "/wiki/Verilog"
         ]
@@ -328,19 +206,13 @@
     ],
     [
       [
-        [
-          "KiCad"
-        ],
+        "KiCad",
         [
           "/wiki/KiCad"
         ]
       ],
       [
-        [
-          "Linux",
-          "Mac",
-          "Windows"
-        ],
+        "Linux , Mac , Windows",
         [
           "/wiki/Linux",
           "/wiki/Mac_OS_X",
@@ -348,112 +220,70 @@
         ]
       ],
       [
-        [
-          "GNU GPL"
-        ],
+        "GNU GPL",
         [
           "/wiki/GNU_General_Public_License"
         ]
       ],
       [
-        [
-          "Built-in , or FreeRouting"
-        ],
-        [
-          null
-        ]
+        "Built-in , or FreeRouting",
+        []
       ],
       [
-        [
-          "Full package for schematic and board design , etc . Design rule checking . User-defined symbols and footprints . Gerber/ drill file creation . Graphic interface . Active user community"
-        ],
-        [
-          null
-        ]
+        "Full package for schematic and board design , etc . Design rule checking . User-defined symbols and footprints . Gerber/ drill file creation . Graphic interface . Active user community",
+        []
       ]
     ],
     [
       [
-        [
-          "KTechLab"
-        ],
+        "KTechLab",
         [
           "/wiki/KTechLab"
         ]
       ],
       [
-        [
-          "Linux"
-        ],
+        "Linux",
         [
           "/wiki/Linux"
         ]
       ],
       [
-        [
-          "GPL"
-        ],
-        [
-          null
-        ]
+        "GPL",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ],
       [
-        [
-          "KTechLab is a schematic capture and simulator . It is specifically geared toward mixed signal simulation of analog components and small digital processors"
-        ],
-        [
-          null
-        ]
+        "KTechLab is a schematic capture and simulator . It is specifically geared toward mixed signal simulation of analog components and small digital processors",
+        []
       ]
     ],
     [
       [
-        [
-          "LTspice"
-        ],
+        "LTspice",
         [
           "/wiki/LTspice"
         ]
       ],
       [
-        [
-          "Windows",
-          "macOS"
-        ],
+        "Windows 7-10 , macOS 10.7+",
         [
           "/wiki/Windows",
           "/wiki/MacOS"
         ]
       ],
       [
-        [
-          "?"
-        ],
-        [
-          null
-        ]
+        "?",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ],
       [
-        [
-          "Linear Technology",
-          "Analog Devices"
-        ],
+        "LTspice is a schematic capture and analog simulator . It was original started by Linear Technology , now part of Analog Devices",
         [
           "/wiki/Linear_Technology",
           "/wiki/Analog_Devices"
@@ -462,41 +292,25 @@
     ],
     [
       [
-        [
-          "Magic"
-        ],
+        "Magic",
         [
           "/wiki/Magic_(software)"
         ]
       ],
       [
-        [
-          "Linux"
-        ],
-        [
-          null
-        ]
+        "Linux",
+        []
       ],
       [
-        [
-          "BSD license"
-        ],
-        [
-          null
-        ]
+        "BSD license",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ],
       [
-        [
-          "very-large-scale integration"
-        ],
+        "A very-large-scale integration layout tool",
         [
           "/wiki/Very-large-scale_integration"
         ]
@@ -504,22 +318,13 @@
     ],
     [
       [
-        [
-          "Ngspice"
-        ],
+        "Ngspice",
         [
           "/wiki/Ngspice"
         ]
       ],
       [
-        [
-          "Linux",
-          "Solaris",
-          "Mac",
-          "NetBSD",
-          "FreeBSD",
-          "w32"
-        ],
+        "Linux , Solaris , Mac , NetBSD , FreeBSD , w32",
         [
           "/wiki/Linux",
           "/wiki/Solaris_(operating_system)",
@@ -530,25 +335,15 @@
         ]
       ],
       [
-        [
-          "BSD"
-        ],
-        [
-          null
-        ]
+        "BSD",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ],
       [
-        [
-          "SPICE"
-        ],
+        "SPICE + XSPICE + Cider",
         [
           "/wiki/SPICE"
         ]
@@ -556,64 +351,37 @@
     ],
     [
       [
-        [
-          "Oregano"
-        ],
+        "Oregano",
         [
           "/wiki/Oregano_(software)"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "GPL"
-        ],
-        [
-          null
-        ]
+        "GPL",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ],
       [
-        [
-          "Schematic capture + spice simulation"
-        ],
-        [
-          null
-        ]
+        "Schematic capture + spice simulation",
+        []
       ]
     ],
     [
       [
-        [
-          "Quite Universal Circuit Simulator"
-        ],
+        "Quite Universal Circuit Simulator ( QUCS )",
         [
           "/wiki/Quite_Universal_Circuit_Simulator"
         ]
       ],
       [
-        [
-          "Linux",
-          "Solaris",
-          "Mac",
-          "NetBSD",
-          "FreeBSD",
-          "w32"
-        ],
+        "Linux , Solaris , Mac , NetBSD , FreeBSD , w32",
         [
           "/wiki/Linux",
           "/wiki/Solaris_(operating_system)",
@@ -624,25 +392,15 @@
         ]
       ],
       [
-        [
-          "GPL"
-        ],
-        [
-          null
-        ]
+        "GPL",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ],
       [
-        [
-          "Schematic capture"
-        ],
+        "Schematic capture + Verilog + VHDL + simulation",
         [
           "/wiki/Schematic_capture"
         ]
@@ -650,20 +408,13 @@
     ],
     [
       [
-        [
-          "pcb-rnd"
-        ],
+        "pcb-rnd",
         [
           "/wiki/Pcb-rnd"
         ]
       ],
       [
-        [
-          "*BSD",
-          "Linux",
-          "Mac",
-          "w32"
-        ],
+        "*BSD , Linux , Mac , w32",
         [
           "/wiki/FreeBSD",
           "/wiki/Linux",
@@ -672,25 +423,15 @@
         ]
       ],
       [
-        [
-          "GPL"
-        ],
-        [
-          null
-        ]
+        "GPL",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "DRC"
-        ],
+        "Circuit layout program with extended file format support , DRC , parametric footprints , query language , and GUI and command line operation for batch processing and automation",
         [
           "/wiki/Design_rule_checking"
         ]
@@ -698,42 +439,25 @@
     ],
     [
       [
-        [
-          "Verilator"
-        ],
+        "Verilator",
         [
           "/wiki/Verilator"
         ]
       ],
       [
-        [
-          "Posix"
-        ],
-        [
-          null
-        ]
+        "Posix",
+        []
       ],
       [
-        [
-          "GPL"
-        ],
-        [
-          null
-        ]
+        "GPL",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ],
       [
-        [
-          "SystemC",
-          "ModelSim"
-        ],
+        "Verilator is the fastest free Verilog HDL simulator . It compiles synthesizable Verilog into cycle accurate C++ or SystemC code following 2-state synthesis ( zero delay ) semantics . Benchmarks reported on its website suggest it is several times faster than commercial event driven simulators such as ModelSim , NC-Verilog and VCS , while not quite as fast as commercial cycle accurate modeling tools such as Carbon ModelStudio and ARC VTOC",
         [
           "/wiki/SystemC",
           "/wiki/ModelSim"
@@ -742,44 +466,28 @@
     ],
     [
       [
-        [
-          "XCircuit"
-        ],
+        "XCircuit",
         [
           "/wiki/XCircuit"
         ]
       ],
       [
-        [
-          "Unix"
-        ],
+        "Unix",
         [
           "/wiki/Unix"
         ]
       ],
       [
-        [
-          "GPL"
-        ],
-        [
-          null
-        ]
+        "GPL",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ],
       [
-        [
-          "Used to produce netlists and publish high-quality drawings"
-        ],
-        [
-          null
-        ]
+        "Used to produce netlists and publish high-quality drawings",
+        []
       ]
     ]
   ],

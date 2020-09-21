@@ -3,1053 +3,629 @@
   "title": "List of National Football League attendance figures",
   "header": [
     [
-      [
-        "Team"
-      ],
-      [
-        null
-      ]
+      "Team",
+      []
     ],
     [
-      [
-        "Stadium"
-      ],
-      [
-        null
-      ]
+      "Stadium",
+      []
     ],
     [
-      [
-        "Home games"
-      ],
-      [
-        null
-      ]
+      "Home games",
+      []
     ],
     [
-      [
-        "Average attendance"
-      ],
-      [
-        null
-      ]
+      "Average attendance",
+      []
     ],
     [
-      [
-        "Total attendance"
-      ],
-      [
-        null
-      ]
+      "Total attendance",
+      []
     ],
     [
-      [
-        "Capacity percentage"
-      ],
-      [
-        null
-      ]
+      "Capacity percentage",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Dallas Cowboys"
-        ],
+        "Dallas Cowboys",
         [
           "/wiki/Dallas_Cowboys"
         ]
       ],
       [
-        [
-          "AT & T Stadium"
-        ],
+        "AT & T Stadium",
         [
           "/wiki/AT&T_Stadium"
         ]
       ],
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "92,721"
-        ],
-        [
-          null
-        ]
+        "92,721",
+        []
       ],
       [
-        [
-          "741,775"
-        ],
-        [
-          null
-        ]
+        "741,775",
+        []
       ],
       [
-        [
-          "92.7%"
-        ],
-        [
-          null
-        ]
+        "92.7%",
+        []
       ]
     ],
     [
       [
-        [
-          "Los Angeles Rams"
-        ],
+        "Los Angeles Rams",
         [
           "/wiki/Los_Angeles_Rams"
         ]
       ],
       [
-        [
-          "Los Angeles Memorial Coliseum"
-        ],
+        "Los Angeles Memorial Coliseum",
         [
           "/wiki/Los_Angeles_Memorial_Coliseum"
         ]
       ],
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "63,392"
-        ],
-        [
-          null
-        ]
+        "63,392",
+        []
       ],
       [
-        [
-          "507,136"
-        ],
-        [
-          null
-        ]
+        "507,136",
+        []
       ],
       [
-        [
-          "67.7%"
-        ],
-        [
-          null
-        ]
+        "67.7%",
+        []
       ]
     ],
     [
       [
-        [
-          "New York Giants"
-        ],
+        "New York Giants",
         [
           "/wiki/New_York_Giants"
         ]
       ],
       [
-        [
-          "MetLife Stadium"
-        ],
+        "MetLife Stadium",
         [
           "/wiki/MetLife_Stadium"
         ]
       ],
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "77,179"
-        ],
-        [
-          null
-        ]
+        "77,179",
+        []
       ],
       [
-        [
-          "617,434"
-        ],
-        [
-          null
-        ]
+        "617,434",
+        []
       ],
       [
-        [
-          "93.6%"
-        ],
-        [
-          null
-        ]
+        "93.6%",
+        []
       ]
     ],
     [
       [
-        [
-          "Washington Redskins"
-        ],
+        "Washington Redskins",
         [
           "/wiki/Washington_Redskins"
         ]
       ],
       [
-        [
-          "FedExField"
-        ],
+        "FedExField",
         [
           "/wiki/FedExField"
         ]
       ],
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "75,175"
-        ],
-        [
-          null
-        ]
+        "75,175",
+        []
       ],
       [
-        [
-          "601,405"
-        ],
-        [
-          null
-        ]
+        "601,405",
+        []
       ],
       [
-        [
-          "88.4%"
-        ],
-        [
-          null
-        ]
+        "88.4%",
+        []
       ]
     ],
     [
       [
-        [
-          "Green Bay Packers"
-        ],
+        "Green Bay Packers",
         [
           "/wiki/Green_Bay_Packers"
         ]
       ],
       [
-        [
-          "Lambeau Field"
-        ],
+        "Lambeau Field",
         [
           "/wiki/Lambeau_Field"
         ]
       ],
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "78,092"
-        ],
-        [
-          null
-        ]
+        "78,092",
+        []
       ],
       [
-        [
-          "624,742"
-        ],
-        [
-          null
-        ]
+        "624,742",
+        []
       ],
       [
-        [
-          "106.8%"
-        ],
-        [
-          null
-        ]
+        "106.8%",
+        []
       ]
     ],
     [
       [
-        [
-          "New York Jets"
-        ],
+        "New York Jets",
         [
           "/wiki/New_York_Jets"
         ]
       ],
       [
-        [
-          "MetLife Stadium"
-        ],
+        "MetLife Stadium",
         [
           "/wiki/MetLife_Stadium"
         ]
       ],
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "77,562"
-        ],
-        [
-          null
-        ]
+        "77,562",
+        []
       ],
       [
-        [
-          "620,496"
-        ],
-        [
-          null
-        ]
+        "620,496",
+        []
       ],
       [
-        [
-          "94%"
-        ],
-        [
-          null
-        ]
+        "94%",
+        []
       ]
     ],
     [
       [
-        [
-          "Denver Broncos"
-        ],
+        "Denver Broncos",
         [
           "/wiki/Denver_Broncos"
         ]
       ],
       [
-        [
-          "Sports Authority Field at Mile High"
-        ],
+        "Sports Authority Field at Mile High",
         [
           "/wiki/Empower_Field_at_Mile_High"
         ]
       ],
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "76,355"
-        ],
-        [
-          null
-        ]
+        "76,355",
+        []
       ],
       [
-        [
-          "610,846"
-        ],
-        [
-          null
-        ]
+        "610,846",
+        []
       ],
       [
-        [
-          "100.3%"
-        ],
-        [
-          null
-        ]
+        "100.3%",
+        []
       ]
     ],
     [
       [
-        [
-          "Carolina Panthers"
-        ],
+        "Carolina Panthers",
         [
           "/wiki/Carolina_Panthers"
         ]
       ],
       [
-        [
-          "Bank of America Stadium"
-        ],
+        "Bank of America Stadium",
         [
           "/wiki/Bank_of_America_Stadium"
         ]
       ],
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "73,617"
-        ],
-        [
-          null
-        ]
+        "73,617",
+        []
       ],
       [
-        [
-          "588,942"
-        ],
-        [
-          null
-        ]
+        "588,942",
+        []
       ],
       [
-        [
-          "99.8%"
-        ],
-        [
-          null
-        ]
+        "99.8%",
+        []
       ]
     ],
     [
       [
-        [
-          "Kansas City Chiefs"
-        ],
+        "Kansas City Chiefs",
         [
           "/wiki/Kansas_City_Chiefs"
         ]
       ],
       [
-        [
-          "Arrowhead Stadium"
-        ],
+        "Arrowhead Stadium",
         [
           "/wiki/Arrowhead_Stadium"
         ]
       ],
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "74,106"
-        ],
-        [
-          null
-        ]
+        "74,106",
+        []
       ],
       [
-        [
-          "592,851"
-        ],
-        [
-          null
-        ]
+        "592,851",
+        []
       ],
       [
-        [
-          "97%"
-        ],
-        [
-          null
-        ]
+        "97%",
+        []
       ]
     ],
     [
       [
-        [
-          "New Orleans Saints"
-        ],
+        "New Orleans Saints",
         [
           "/wiki/New_Orleans_Saints"
         ]
       ],
       [
-        [
-          "Mercedes-Benz Superdome"
-        ],
+        "Mercedes-Benz Superdome",
         [
           "/wiki/Mercedes-Benz_Superdome"
         ]
       ],
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "73,139"
-        ],
-        [
-          null
-        ]
+        "73,139",
+        []
       ],
       [
-        [
-          "585,113"
-        ],
-        [
-          null
-        ]
+        "585,113",
+        []
       ],
       [
-        [
-          "95.6%"
-        ],
-        [
-          null
-        ]
+        "95.6%",
+        []
       ]
     ],
     [
       [
-        [
-          "Houston Texans"
-        ],
+        "Houston Texans",
         [
           "/wiki/Houston_Texans"
         ]
       ],
       [
-        [
-          "NRG Stadium"
-        ],
+        "NRG Stadium",
         [
           "/wiki/NRG_Stadium"
         ]
       ],
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "71,774"
-        ],
-        [
-          null
-        ]
+        "71,774",
+        []
       ],
       [
-        [
-          "574,197"
-        ],
-        [
-          null
-        ]
+        "574,197",
+        []
       ],
       [
-        [
-          "101%"
-        ],
-        [
-          null
-        ]
+        "101%",
+        []
       ]
     ],
     [
       [
-        [
-          "Baltimore Ravens"
-        ],
+        "Baltimore Ravens",
         [
           "/wiki/Baltimore_Ravens"
         ]
       ],
       [
-        [
-          "M & T Bank Stadium"
-        ],
+        "M & T Bank Stadium",
         [
           "/wiki/M&T_Bank_Stadium"
         ]
       ],
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "70,588"
-        ],
-        [
-          null
-        ]
+        "70,588",
+        []
       ],
       [
-        [
-          "564,709"
-        ],
-        [
-          null
-        ]
+        "564,709",
+        []
       ],
       [
-        [
-          "99.4%"
-        ],
-        [
-          null
-        ]
+        "99.4%",
+        []
       ]
     ],
     [
       [
-        [
-          "San Francisco 49ers"
-        ],
+        "San Francisco 49ers",
         [
           "/wiki/San_Francisco_49ers"
         ]
       ],
       [
-        [
-          "Levi 's Stadium"
-        ],
+        "Levi 's Stadium",
         [
           "/wiki/Levi's_Stadium"
         ]
       ],
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "70,144"
-        ],
-        [
-          null
-        ]
+        "70,144",
+        []
       ],
       [
-        [
-          "561,155"
-        ],
-        [
-          null
-        ]
+        "561,155",
+        []
       ],
       [
-        [
-          "102.4%"
-        ],
-        [
-          null
-        ]
+        "102.4%",
+        []
       ]
     ],
     [
       [
-        [
-          "Atlanta Falcons"
-        ],
+        "Atlanta Falcons",
         [
           "/wiki/Atlanta_Falcons"
         ]
       ],
       [
-        [
-          "Georgia Dome"
-        ],
+        "Georgia Dome",
         [
           "/wiki/Georgia_Dome"
         ]
       ],
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "71,960"
-        ],
-        [
-          null
-        ]
+        "71,960",
+        []
       ],
       [
-        [
-          "575,681"
-        ],
-        [
-          null
-        ]
+        "575,681",
+        []
       ],
       [
-        [
-          "95.9%"
-        ],
-        [
-          null
-        ]
+        "95.9%",
+        []
       ]
     ],
     [
       [
-        [
-          "Philadelphia Eagles"
-        ],
+        "Philadelphia Eagles",
         [
           "/wiki/Philadelphia_Eagles"
         ]
       ],
       [
-        [
-          "Lincoln Financial Field"
-        ],
+        "Lincoln Financial Field",
         [
           "/wiki/Lincoln_Financial_Field"
         ]
       ],
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "69,596"
-        ],
-        [
-          null
-        ]
+        "69,596",
+        []
       ],
       [
-        [
-          "556,768"
-        ],
-        [
-          null
-        ]
+        "556,768",
+        []
       ],
       [
-        [
-          "100%"
-        ],
-        [
-          null
-        ]
+        "100%",
+        []
       ]
     ],
     [
       [
-        [
-          "Seattle Seahawks"
-        ],
+        "Seattle Seahawks",
         [
           "/wiki/Seattle_Seahawks"
         ]
       ],
       [
-        [
-          "CenturyLink Field"
-        ],
+        "CenturyLink Field",
         [
           "/wiki/CenturyLink_Field"
         ]
       ],
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "68,976"
-        ],
-        [
-          null
-        ]
+        "68,976",
+        []
       ],
       [
-        [
-          "551,809"
-        ],
-        [
-          null
-        ]
+        "551,809",
+        []
       ],
       [
-        [
-          "102.9%"
-        ],
-        [
-          null
-        ]
+        "102.9%",
+        []
       ]
     ],
     [
       [
-        [
-          "Buffalo Bills"
-        ],
+        "Buffalo Bills",
         [
           "/wiki/Buffalo_Bills"
         ]
       ],
       [
-        [
-          "New Era Field"
-        ],
+        "New Era Field",
         [
           "/wiki/New_Era_Field"
         ]
       ],
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "66,775"
-        ],
-        [
-          null
-        ]
+        "66,775",
+        []
       ],
       [
-        [
-          "534,200"
-        ],
-        [
-          null
-        ]
+        "534,200",
+        []
       ],
       [
-        [
-          "91.4%"
-        ],
-        [
-          null
-        ]
+        "91.4%",
+        []
       ]
     ],
     [
       [
-        [
-          "New England Patriots"
-        ],
+        "New England Patriots",
         [
           "/wiki/New_England_Patriots"
         ]
       ],
       [
-        [
-          "Gillette Stadium"
-        ],
+        "Gillette Stadium",
         [
           "/wiki/Gillette_Stadium"
         ]
       ],
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "65,878"
-        ],
-        [
-          null
-        ]
+        "65,878",
+        []
       ],
       [
-        [
-          "527,024"
-        ],
-        [
-          null
-        ]
+        "527,024",
+        []
       ],
       [
-        [
-          "100%"
-        ],
-        [
-          null
-        ]
+        "100%",
+        []
       ]
     ],
     [
       [
-        [
-          "Minnesota Vikings"
-        ],
+        "Minnesota Vikings",
         [
           "/wiki/Minnesota_Vikings"
         ]
       ],
       [
-        [
-          "U.S. Bank Stadium"
-        ],
+        "U.S. Bank Stadium",
         [
           "/wiki/U.S._Bank_Stadium"
         ]
       ],
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "66,721"
-        ],
-        [
-          null
-        ]
+        "66,721",
+        []
       ],
       [
-        [
-          "533,769"
-        ],
-        [
-          null
-        ]
+        "533,769",
+        []
       ],
       [
-        [
-          "91.4%"
-        ],
-        [
-          null
-        ]
+        "91.4%",
+        []
       ]
     ],
     [
       [
-        [
-          "Indianapolis Colts"
-        ],
+        "Indianapolis Colts",
         [
           "/wiki/Indianapolis_Colts"
         ]
       ],
       [
-        [
-          "Lucas Oil Stadium"
-        ],
+        "Lucas Oil Stadium",
         [
           "/wiki/Lucas_Oil_Stadium"
         ]
       ],
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "63,440"
-        ],
-        [
-          null
-        ]
+        "63,440",
+        []
       ],
       [
-        [
-          "507,525"
-        ],
-        [
-          null
-        ]
+        "507,525",
+        []
       ],
       [
-        [
-          "100.7%"
-        ],
-        [
-          null
-        ]
+        "100.7%",
+        []
       ]
     ]
   ],

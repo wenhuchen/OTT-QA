@@ -3,74 +3,43 @@
   "title": "Asian Highway Network",
   "header": [
     [
-      [
-        "Route No"
-      ],
-      [
-        null
-      ]
+      "Route No",
+      []
     ],
     [
-      [
-        "Distance"
-      ],
-      [
-        null
-      ]
+      "Distance",
+      []
     ],
     [
-      [
-        "Start"
-      ],
-      [
-        null
-      ]
+      "Start",
+      []
     ],
     [
-      [
-        "End"
-      ],
-      [
-        null
-      ]
+      "End",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "AH1"
-        ],
+        "AH1",
         [
           "/wiki/AH1"
         ]
       ],
       [
-        [
-          "20,557 km ( 12,848 miles )"
-        ],
-        [
-          null
-        ]
+        "20,557 km ( 12,848 miles )",
+        []
       ],
       [
-        [
-          "Tokyo",
-          "Japan"
-        ],
+        "Tokyo , Japan",
         [
           "/wiki/Tokyo",
           "/wiki/Japan"
         ]
       ],
       [
-        [
-          "Kap\u0131kule",
-          "Turkey",
-          "Bulgaria",
-          "Turkey",
-          "E80"
-        ],
+        "Kap\u0131kule , Turkey ( Bulgaria - Turkey border ) ( E80 )",
         [
           "/wiki/Kap\u0131kule",
           "/wiki/Turkey",
@@ -82,27 +51,17 @@
     ],
     [
       [
-        [
-          "AH2"
-        ],
+        "AH2",
         [
           "/wiki/AH2"
         ]
       ],
       [
-        [
-          "13,177 km ( 8326 miles )"
-        ],
-        [
-          null
-        ]
+        "13,177 km ( 8326 miles )",
+        []
       ],
       [
-        [
-          "Denpasar",
-          "Bali",
-          "Indonesia"
-        ],
+        "Denpasar , Bali , Indonesia",
         [
           "/wiki/Denpasar",
           "/wiki/Bali",
@@ -110,11 +69,7 @@
         ]
       ],
       [
-        [
-          "Khosravi",
-          "Iran",
-          "Arab Mashreq International Road Network"
-        ],
+        "Khosravi , Iran Arab Mashreq International Road Network )",
         [
           "/wiki/Khosravi,_Kermanshah",
           "/wiki/Iran",
@@ -124,28 +79,17 @@
     ],
     [
       [
-        [
-          "AH3"
-        ],
+        "AH3",
         [
           "/wiki/AH3"
         ]
       ],
       [
-        [
-          "7,331 km ( 4582 miles )"
-        ],
-        [
-          null
-        ]
+        "7,331 km ( 4582 miles )",
+        []
       ],
       [
-        [
-          "Ulan-Ude",
-          "Russia",
-          "Shanghai",
-          "China"
-        ],
+        "Ulan-Ude , Russia Shanghai , China",
         [
           "/wiki/Ulan-Ude",
           "/wiki/Russia",
@@ -154,14 +98,7 @@
         ]
       ],
       [
-        [
-          "Tanggu",
-          "China",
-          "Chiang Rai",
-          "Thailand",
-          "Kyaing Tong",
-          "Myanmar"
-        ],
+        "Tanggu , China Chiang Rai , Thailand and Kyaing Tong , Myanmar",
         [
           "/wiki/Tanggu_District",
           "/wiki/China",
@@ -174,36 +111,24 @@
     ],
     [
       [
-        [
-          "AH4"
-        ],
+        "AH4",
         [
           "/wiki/AH4"
         ]
       ],
       [
-        [
-          "6,024 km ( 3765 miles )"
-        ],
-        [
-          null
-        ]
+        "6,024 km ( 3765 miles )",
+        []
       ],
       [
-        [
-          "Novosibirsk",
-          "Russia"
-        ],
+        "Novosibirsk , Russia",
         [
           "/wiki/Novosibirsk",
           "/wiki/Russia"
         ]
       ],
       [
-        [
-          "Karachi",
-          "Pakistan"
-        ],
+        "Karachi , Pakistan",
         [
           "/wiki/Karachi",
           "/wiki/Pakistan"
@@ -212,39 +137,24 @@
     ],
     [
       [
-        [
-          "AH5"
-        ],
+        "AH5",
         [
           "/wiki/AH5"
         ]
       ],
       [
-        [
-          "10,380 km ( 6488 miles )"
-        ],
-        [
-          null
-        ]
+        "10,380 km ( 6488 miles )",
+        []
       ],
       [
-        [
-          "Shanghai",
-          "China"
-        ],
+        "Shanghai , China",
         [
           "/wiki/Shanghai",
           "/wiki/China"
         ]
       ],
       [
-        [
-          "Kap\u0131kule",
-          "Turkey",
-          "Bulgaria",
-          "Turkey",
-          "E80"
-        ],
+        "Kap\u0131kule , Turkey ( Bulgaria - Turkey border ) ( E80 )",
         [
           "/wiki/Kap\u0131kule",
           "/wiki/Turkey",
@@ -256,41 +166,25 @@
     ],
     [
       [
-        [
-          "AH6"
-        ],
+        "AH6",
         [
           "/wiki/AH6"
         ]
       ],
       [
-        [
-          "10,475 km ( 6547 miles )"
-        ],
-        [
-          null
-        ]
+        "10,475 km ( 6547 miles )",
+        []
       ],
       [
-        [
-          "Busan",
-          "South Korea"
-        ],
+        "Busan , South Korea",
         [
           "/wiki/Busan",
           "/wiki/South_Korea"
         ]
       ],
       [
+        "Krasnoye , Russia ( Belarus - Russia border ) ( E30 )",
         [
-          "Krasnoye",
-          "Russia",
-          "Belarus",
-          "Russia",
-          "E30"
-        ],
-        [
-          null,
           "/wiki/Russia",
           "/wiki/Belarus",
           "/wiki/Russia",
@@ -300,36 +194,24 @@
     ],
     [
       [
-        [
-          "AH7"
-        ],
+        "AH7",
         [
           "/wiki/AH7"
         ]
       ],
       [
-        [
-          "5,868 km ( 3667.5 miles )"
-        ],
-        [
-          null
-        ]
+        "5,868 km ( 3667.5 miles )",
+        []
       ],
       [
-        [
-          "Yekaterinburg",
-          "Russia"
-        ],
+        "Yekaterinburg , Russia",
         [
           "/wiki/Yekaterinburg",
           "/wiki/Russia"
         ]
       ],
       [
-        [
-          "Karachi",
-          "Pakistan"
-        ],
+        "Karachi , Pakistan",
         [
           "/wiki/Karachi",
           "/wiki/Pakistan"
@@ -338,28 +220,17 @@
     ],
     [
       [
-        [
-          "AH8"
-        ],
+        "AH8",
         [
           "/wiki/AH8"
         ]
       ],
       [
-        [
-          "4,718 km ( 2949 miles )"
-        ],
-        [
-          null
-        ]
+        "4,718 km ( 2949 miles )",
+        []
       ],
       [
-        [
-          "Torfyanovka",
-          "Russia",
-          "Russia",
-          "Finland"
-        ],
+        "Torfyanovka , Russia ( Russia - Finland border )",
         [
           "/wiki/Torfyanovka",
           "/wiki/Russia",
@@ -368,10 +239,7 @@
         ]
       ],
       [
-        [
-          "Bandar-e Emam Khomeyni",
-          "Iran"
-        ],
+        "Bandar-e Emam Khomeyni , Iran",
         [
           "/wiki/Bandar-e_Emam_Khomeyni",
           "/wiki/Iran"

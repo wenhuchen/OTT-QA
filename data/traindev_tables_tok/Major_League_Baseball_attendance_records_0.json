@@ -3,84 +3,48 @@
   "title": "Major League Baseball attendance records",
   "header": [
     [
-      [
-        "Team name"
-      ],
-      [
-        null
-      ]
+      "Team name",
+      []
     ],
     [
-      [
-        "Season"
-      ],
-      [
-        null
-      ]
+      "Season",
+      []
     ],
     [
-      [
-        "Home attendance"
-      ],
-      [
-        null
-      ]
+      "Home attendance",
+      []
     ],
     [
-      [
-        "Per game average"
-      ],
-      [
-        null
-      ]
+      "Per game average",
+      []
     ],
     [
-      [
-        "Ballpark"
-      ],
-      [
-        null
-      ]
+      "Ballpark",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Arizona Diamondbacks"
-        ],
+        "Arizona Diamondbacks",
         [
           "/wiki/Arizona_Diamondbacks"
         ]
       ],
       [
-        [
-          "1998"
-        ],
-        [
-          null
-        ]
+        "1998",
+        []
       ],
       [
-        [
-          "3,610,290"
-        ],
-        [
-          null
-        ]
+        "3,610,290",
+        []
       ],
       [
-        [
-          "44,571"
-        ],
-        [
-          null
-        ]
+        "44,571",
+        []
       ],
       [
-        [
-          "Bank One Ballpark"
-        ],
+        "Bank One Ballpark",
         [
           "/wiki/Chase_Field"
         ]
@@ -88,41 +52,25 @@
     ],
     [
       [
-        [
-          "Atlanta Braves"
-        ],
+        "Atlanta Braves",
         [
           "/wiki/Atlanta_Braves"
         ]
       ],
       [
-        [
-          "1993"
-        ],
-        [
-          null
-        ]
+        "1993",
+        []
       ],
       [
-        [
-          "3,884,720"
-        ],
-        [
-          null
-        ]
+        "3,884,720",
+        []
       ],
       [
-        [
-          "47,960"
-        ],
-        [
-          null
-        ]
+        "47,960",
+        []
       ],
       [
-        [
-          "Atlanta-Fulton County Stadium"
-        ],
+        "Atlanta-Fulton County Stadium",
         [
           "/wiki/Atlanta\u2013Fulton_County_Stadium"
         ]
@@ -130,41 +78,25 @@
     ],
     [
       [
-        [
-          "Baltimore Orioles"
-        ],
+        "Baltimore Orioles",
         [
           "/wiki/Baltimore_Orioles"
         ]
       ],
       [
-        [
-          "1997"
-        ],
-        [
-          null
-        ]
+        "1997",
+        []
       ],
       [
-        [
-          "3,711,132"
-        ],
-        [
-          null
-        ]
+        "3,711,132",
+        []
       ],
       [
-        [
-          "45,816"
-        ],
-        [
-          null
-        ]
+        "45,816",
+        []
       ],
       [
-        [
-          "Oriole Park at Camden Yards"
-        ],
+        "Oriole Park at Camden Yards",
         [
           "/wiki/Oriole_Park_at_Camden_Yards"
         ]
@@ -172,41 +104,25 @@
     ],
     [
       [
-        [
-          "Boston Red Sox"
-        ],
+        "Boston Red Sox",
         [
           "/wiki/Boston_Red_Sox"
         ]
       ],
       [
-        [
-          "2009"
-        ],
-        [
-          null
-        ]
+        "2009",
+        []
       ],
       [
-        [
-          "3,062,699"
-        ],
-        [
-          null
-        ]
+        "3,062,699",
+        []
       ],
       [
-        [
-          "37,811"
-        ],
-        [
-          null
-        ]
+        "37,811",
+        []
       ],
       [
-        [
-          "Fenway Park"
-        ],
+        "Fenway Park",
         [
           "/wiki/Fenway_Park"
         ]
@@ -214,41 +130,25 @@
     ],
     [
       [
-        [
-          "Chicago Cubs"
-        ],
+        "Chicago Cubs",
         [
           "/wiki/Chicago_Cubs"
         ]
       ],
       [
-        [
-          "2008"
-        ],
-        [
-          null
-        ]
+        "2008",
+        []
       ],
       [
-        [
-          "3,300,200"
-        ],
-        [
-          null
-        ]
+        "3,300,200",
+        []
       ],
       [
-        [
-          "40,743"
-        ],
-        [
-          null
-        ]
+        "40,743",
+        []
       ],
       [
-        [
-          "Wrigley Field"
-        ],
+        "Wrigley Field",
         [
           "/wiki/Wrigley_Field"
         ]
@@ -256,41 +156,25 @@
     ],
     [
       [
-        [
-          "Chicago White Sox"
-        ],
+        "Chicago White Sox",
         [
           "/wiki/Chicago_White_Sox"
         ]
       ],
       [
-        [
-          "2006"
-        ],
-        [
-          null
-        ]
+        "2006",
+        []
       ],
       [
-        [
-          "2,957,414"
-        ],
-        [
-          null
-        ]
+        "2,957,414",
+        []
       ],
       [
-        [
-          "36,511"
-        ],
-        [
-          null
-        ]
+        "36,511",
+        []
       ],
       [
-        [
-          "U.S. Cellular Field"
-        ],
+        "U.S. Cellular Field",
         [
           "/wiki/U.S._Cellular_Field"
         ]
@@ -298,41 +182,25 @@
     ],
     [
       [
-        [
-          "Cincinnati Reds"
-        ],
+        "Cincinnati Reds",
         [
           "/wiki/Cincinnati_Reds"
         ]
       ],
       [
-        [
-          "1976"
-        ],
-        [
-          null
-        ]
+        "1976",
+        []
       ],
       [
-        [
-          "2,629,708"
-        ],
-        [
-          null
-        ]
+        "2,629,708",
+        []
       ],
       [
-        [
-          "32,466"
-        ],
-        [
-          null
-        ]
+        "32,466",
+        []
       ],
       [
-        [
-          "Riverfront Stadium"
-        ],
+        "Riverfront Stadium",
         [
           "/wiki/Riverfront_Stadium"
         ]
@@ -340,41 +208,25 @@
     ],
     [
       [
-        [
-          "Cleveland Indians"
-        ],
+        "Cleveland Indians",
         [
           "/wiki/Cleveland_Indians"
         ]
       ],
       [
-        [
-          "1999"
-        ],
-        [
-          null
-        ]
+        "1999",
+        []
       ],
       [
-        [
-          "3,468,456"
-        ],
-        [
-          null
-        ]
+        "3,468,456",
+        []
       ],
       [
-        [
-          "42,820"
-        ],
-        [
-          null
-        ]
+        "42,820",
+        []
       ],
       [
-        [
-          "Jacobs Field"
-        ],
+        "Jacobs Field",
         [
           "/wiki/Jacobs_Field"
         ]
@@ -382,41 +234,25 @@
     ],
     [
       [
-        [
-          "Colorado Rockies"
-        ],
+        "Colorado Rockies",
         [
           "/wiki/Colorado_Rockies"
         ]
       ],
       [
-        [
-          "1993"
-        ],
-        [
-          null
-        ]
+        "1993",
+        []
       ],
       [
-        [
-          "4,483,350"
-        ],
-        [
-          null
-        ]
+        "4,483,350",
+        []
       ],
       [
-        [
-          "55,350"
-        ],
-        [
-          null
-        ]
+        "55,350",
+        []
       ],
       [
-        [
-          "Mile High Stadium"
-        ],
+        "Mile High Stadium",
         [
           "/wiki/Mile_High_Stadium"
         ]
@@ -424,41 +260,25 @@
     ],
     [
       [
-        [
-          "Detroit Tigers"
-        ],
+        "Detroit Tigers",
         [
           "/wiki/Detroit_Tigers"
         ]
       ],
       [
-        [
-          "2008"
-        ],
-        [
-          null
-        ]
+        "2008",
+        []
       ],
       [
-        [
-          "3,202,645"
-        ],
-        [
-          null
-        ]
+        "3,202,645",
+        []
       ],
       [
-        [
-          "39,539"
-        ],
-        [
-          null
-        ]
+        "39,539",
+        []
       ],
       [
-        [
-          "Comerica Park"
-        ],
+        "Comerica Park",
         [
           "/wiki/Comerica_Park"
         ]
@@ -466,41 +286,25 @@
     ],
     [
       [
-        [
-          "Florida Marlins"
-        ],
+        "Florida Marlins",
         [
           "/wiki/Florida_Marlins"
         ]
       ],
       [
-        [
-          "1993"
-        ],
-        [
-          null
-        ]
+        "1993",
+        []
       ],
       [
-        [
-          "3,064,847"
-        ],
-        [
-          null
-        ]
+        "3,064,847",
+        []
       ],
       [
-        [
-          "37,838"
-        ],
-        [
-          null
-        ]
+        "37,838",
+        []
       ],
       [
-        [
-          "Joe Robbie Stadium"
-        ],
+        "Joe Robbie Stadium",
         [
           "/wiki/Joe_Robbie_Stadium"
         ]
@@ -508,41 +312,25 @@
     ],
     [
       [
-        [
-          "Houston Astros"
-        ],
+        "Houston Astros",
         [
           "/wiki/Houston_Astros"
         ]
       ],
       [
-        [
-          "2004"
-        ],
-        [
-          null
-        ]
+        "2004",
+        []
       ],
       [
-        [
-          "3,087,872"
-        ],
-        [
-          null
-        ]
+        "3,087,872",
+        []
       ],
       [
-        [
-          "38,122"
-        ],
-        [
-          null
-        ]
+        "38,122",
+        []
       ],
       [
-        [
-          "Minute Maid Park"
-        ],
+        "Minute Maid Park",
         [
           "/wiki/Minute_Maid_Park"
         ]
@@ -550,41 +338,25 @@
     ],
     [
       [
-        [
-          "Kansas City Royals"
-        ],
+        "Kansas City Royals",
         [
           "/wiki/Kansas_City_Royals"
         ]
       ],
       [
-        [
-          "2015"
-        ],
-        [
-          null
-        ]
+        "2015",
+        []
       ],
       [
-        [
-          "2,708,549"
-        ],
-        [
-          null
-        ]
+        "2,708,549",
+        []
       ],
       [
-        [
-          "33,439"
-        ],
-        [
-          null
-        ]
+        "33,439",
+        []
       ],
       [
-        [
-          "Kauffman Stadium"
-        ],
+        "Kauffman Stadium",
         [
           "/wiki/Kauffman_Stadium"
         ]
@@ -592,41 +364,25 @@
     ],
     [
       [
-        [
-          "Los Angeles Angels"
-        ],
+        "Los Angeles Angels",
         [
           "/wiki/Los_Angeles_Angels"
         ]
       ],
       [
-        [
-          "2006"
-        ],
-        [
-          null
-        ]
+        "2006",
+        []
       ],
       [
-        [
-          "3,406,790"
-        ],
-        [
-          null
-        ]
+        "3,406,790",
+        []
       ],
       [
-        [
-          "42,059"
-        ],
-        [
-          null
-        ]
+        "42,059",
+        []
       ],
       [
-        [
-          "Angel Stadium of Anaheim"
-        ],
+        "Angel Stadium of Anaheim",
         [
           "/wiki/Angel_Stadium_of_Anaheim"
         ]
@@ -634,41 +390,25 @@
     ],
     [
       [
-        [
-          "Los Angeles Dodgers"
-        ],
+        "Los Angeles Dodgers",
         [
           "/wiki/Los_Angeles_Dodgers"
         ]
       ],
       [
-        [
-          "2019"
-        ],
-        [
-          null
-        ]
+        "2019",
+        []
       ],
       [
-        [
-          "3,974,309"
-        ],
-        [
-          null
-        ]
+        "3,974,309",
+        []
       ],
       [
-        [
-          "49,066"
-        ],
-        [
-          null
-        ]
+        "49,066",
+        []
       ],
       [
-        [
-          "Dodger Stadium"
-        ],
+        "Dodger Stadium",
         [
           "/wiki/Dodger_Stadium"
         ]
@@ -676,41 +416,25 @@
     ],
     [
       [
-        [
-          "Milwaukee Brewers"
-        ],
+        "Milwaukee Brewers",
         [
           "/wiki/Milwaukee_Brewers"
         ]
       ],
       [
-        [
-          "2011"
-        ],
-        [
-          null
-        ]
+        "2011",
+        []
       ],
       [
-        [
-          "3,071,373"
-        ],
-        [
-          null
-        ]
+        "3,071,373",
+        []
       ],
       [
-        [
-          "37,918"
-        ],
-        [
-          null
-        ]
+        "37,918",
+        []
       ],
       [
-        [
-          "Miller Park"
-        ],
+        "Miller Park",
         [
           "/wiki/Miller_Park_(Milwaukee)"
         ]
@@ -718,41 +442,25 @@
     ],
     [
       [
-        [
-          "Minnesota Twins"
-        ],
+        "Minnesota Twins",
         [
           "/wiki/Minnesota_Twins"
         ]
       ],
       [
-        [
-          "2010"
-        ],
-        [
-          null
-        ]
+        "2010",
+        []
       ],
       [
-        [
-          "3,223,640"
-        ],
-        [
-          null
-        ]
+        "3,223,640",
+        []
       ],
       [
-        [
-          "39,798"
-        ],
-        [
-          null
-        ]
+        "39,798",
+        []
       ],
       [
-        [
-          "Target Field"
-        ],
+        "Target Field",
         [
           "/wiki/Target_Field"
         ]
@@ -760,41 +468,25 @@
     ],
     [
       [
-        [
-          "New York Mets"
-        ],
+        "New York Mets",
         [
           "/wiki/New_York_Mets"
         ]
       ],
       [
-        [
-          "2008"
-        ],
-        [
-          null
-        ]
+        "2008",
+        []
       ],
       [
-        [
-          "4,042,045"
-        ],
-        [
-          null
-        ]
+        "4,042,045",
+        []
       ],
       [
-        [
-          "49,902"
-        ],
-        [
-          null
-        ]
+        "49,902",
+        []
       ],
       [
-        [
-          "Shea Stadium"
-        ],
+        "Shea Stadium",
         [
           "/wiki/Shea_Stadium"
         ]
@@ -802,41 +494,25 @@
     ],
     [
       [
-        [
-          "New York Yankees"
-        ],
+        "New York Yankees",
         [
           "/wiki/New_York_Yankees"
         ]
       ],
       [
-        [
-          "2008"
-        ],
-        [
-          null
-        ]
+        "2008",
+        []
       ],
       [
-        [
-          "4,298,655"
-        ],
-        [
-          null
-        ]
+        "4,298,655",
+        []
       ],
       [
-        [
-          "53,070"
-        ],
-        [
-          null
-        ]
+        "53,070",
+        []
       ],
       [
-        [
-          "Yankee Stadium"
-        ],
+        "Yankee Stadium",
         [
           "/wiki/Yankee_Stadium_(1923)"
         ]
@@ -844,41 +520,25 @@
     ],
     [
       [
-        [
-          "Oakland Athletics"
-        ],
+        "Oakland Athletics",
         [
           "/wiki/Oakland_Athletics"
         ]
       ],
       [
-        [
-          "1990"
-        ],
-        [
-          null
-        ]
+        "1990",
+        []
       ],
       [
-        [
-          "2,900,217"
-        ],
-        [
-          null
-        ]
+        "2,900,217",
+        []
       ],
       [
-        [
-          "35,805"
-        ],
-        [
-          null
-        ]
+        "35,805",
+        []
       ],
       [
-        [
-          "Oakland Coliseum"
-        ],
+        "Oakland Coliseum",
         [
           "/wiki/Oakland_Coliseum"
         ]

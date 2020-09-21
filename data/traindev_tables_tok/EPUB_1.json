@@ -3,374 +3,234 @@
   "title": "EPUB",
   "header": [
     [
-      [
-        "Software"
-      ],
-      [
-        null
-      ]
+      "Software",
+      []
     ],
     [
-      [
-        "Platform"
-      ],
-      [
-        null
-      ]
+      "Platform",
+      []
     ],
     [
-      [
-        "License"
-      ],
-      [
-        null
-      ]
+      "License",
+      []
     ],
     [
-      [
-        "Notes"
-      ],
-      [
-        null
-      ]
+      "Notes",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "ABBYY FineReader"
-        ],
+        "ABBYY FineReader",
         [
           "/wiki/ABBYY_FineReader"
         ]
       ],
       [
-        [
-          "Microsoft"
-        ],
+        "Microsoft Windows",
         [
           "/wiki/Microsoft"
         ]
       ],
       [
-        [
-          "Proprietary"
-        ],
-        [
-          null
-        ]
+        "Proprietary",
+        []
       ],
       [
-        [
-          "Version 11 exports to EPUB format"
-        ],
-        [
-          null
-        ]
+        "Version 11 exports to EPUB format",
+        []
       ]
     ],
     [
       [
-        [
-          "Abiword"
-        ],
+        "Abiword",
         [
           "/wiki/Abiword"
         ]
       ],
       [
-        [
-          "FreeBSD"
-        ],
+        "FreeBSD , Linux , Windows",
         [
           "/wiki/FreeBSD"
         ]
       ],
       [
-        [
-          "GPL"
-        ],
+        "GPL",
         [
           "/wiki/GNU_Public_License"
         ]
       ],
       [
-        [
-          "Support EPUB 2.0 format export since 2.9.1 release"
-        ],
-        [
-          null
-        ]
+        "Support EPUB 2.0 format export since 2.9.1 release",
+        []
       ]
     ],
     [
       [
-        [
-          "Adobe InDesign"
-        ],
+        "Adobe InDesign",
         [
           "/wiki/Adobe_InDesign"
         ]
       ],
       [
-        [
-          "Windows , OS X"
-        ],
-        [
-          null
-        ]
+        "Windows , OS X",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
-        [
-          null
-        ]
+        "Proprietary",
+        []
       ],
       [
-        [
-          "Exports to EPUB format . Versions prior to 5.5 create EPUBs that require significant editing to pass ePubCheck or ePubPreFlight . As from InDesign CC 2014 , InDesign can export in ePub3 fixed-layout format"
-        ],
-        [
-          null
-        ]
+        "Exports to EPUB format . Versions prior to 5.5 create EPUBs that require significant editing to pass ePubCheck or ePubPreFlight . As from InDesign CC 2014 , InDesign can export in ePub3 fixed-layout format",
+        []
       ]
     ],
     [
       [
-        [
-          "Adobe RoboHelp"
-        ],
+        "Adobe RoboHelp",
         [
           "/wiki/Adobe_RoboHelp"
         ]
       ],
       [
-        [
-          "Windows"
-        ],
-        [
-          null
-        ]
+        "Windows",
+        []
       ],
       [
-        [
-          "Unknown"
-        ],
-        [
-          null
-        ]
+        "Unknown",
+        []
       ],
       [
-        [
-          "Online documentation tool that supports export to EPUB format"
-        ],
-        [
-          null
-        ]
+        "Online documentation tool that supports export to EPUB format",
+        []
       ]
     ],
     [
       [
-        [
-          "Atlantis Word Processor"
-        ],
+        "Atlantis Word Processor",
         [
           "/wiki/Atlantis_Word_Processor"
         ]
       ],
       [
-        [
-          "Portable app"
-        ],
+        "Windows , Portable app",
         [
           "/wiki/Portable_app"
         ]
       ],
       [
-        [
-          "Shareware"
-        ],
+        "Shareware",
         [
           "/wiki/Shareware"
         ]
       ],
       [
-        [
-          "Converts any document to EPUB ; supports multilevel TOCs , font embedding , and batch conversion"
-        ],
-        [
-          null
-        ]
+        "Converts any document to EPUB ; supports multilevel TOCs , font embedding , and batch conversion",
+        []
       ]
     ],
     [
       [
-        [
-          "Booktype"
-        ],
+        "Booktype",
         [
           "/wiki/Booktype"
         ]
       ],
       [
-        [
-          "Web"
-        ],
-        [
-          null
-        ]
+        "Web",
+        []
       ],
       [
-        [
-          "GPL"
-        ],
+        "GPL",
         [
           "/wiki/GNU_Public_License"
         ]
       ],
       [
-        [
-          "Book production platform that outputs to many formats , including ePub . The platform can import content in various formats and supports collaborative editing"
-        ],
-        [
-          null
-        ]
+        "Book production platform that outputs to many formats , including ePub . The platform can import content in various formats and supports collaborative editing",
+        []
       ]
     ],
     [
       [
-        [
-          "calibre"
-        ],
+        "calibre",
         [
           "/wiki/Calibre_(software)"
         ]
       ],
       [
-        [
-          "Windows , OS X , FreeBSD , Linux"
-        ],
-        [
-          null
-        ]
+        "Windows , OS X , FreeBSD , Linux",
+        []
       ],
       [
-        [
-          "GPL"
-        ],
+        "GPL",
         [
           "/wiki/GNU_Public_License"
         ]
       ],
       [
-        [
-          "Conversion software and e-book organizer . Allows plugins , including for editing EPUB files ; there is for instance a plugin to merge several EPUB files into one"
-        ],
-        [
-          null
-        ]
+        "Conversion software and e-book organizer . Allows plugins , including for editing EPUB files ; there is for instance a plugin to merge several EPUB files into one",
+        []
       ]
     ],
     [
       [
-        [
-          "eLML"
-        ],
+        "eLML",
         [
           "/wiki/ELML"
         ]
       ],
       [
-        [
-          "Windows , OS X , FreeBSD , Linux"
-        ],
-        [
-          null
-        ]
+        "Windows , OS X , FreeBSD , Linux",
+        []
       ],
       [
-        [
-          "Unknown"
-        ],
-        [
-          null
-        ]
+        "Unknown",
+        []
       ],
       [
-        [
-          "The eLesson Markup Language is a platform-independent XML-based open source framework to create eLearning content . It supports various output formats like SCORM , HTML , PDF and also eBooks based on the ePub format"
-        ],
-        [
-          null
-        ]
+        "The eLesson Markup Language is a platform-independent XML-based open source framework to create eLearning content . It supports various output formats like SCORM , HTML , PDF and also eBooks based on the ePub format",
+        []
       ]
     ],
     [
       [
-        [
-          "Feedbooks"
-        ],
+        "Feedbooks",
         [
           "/wiki/Feedbooks"
         ]
       ],
       [
-        [
-          "Web"
-        ],
-        [
-          null
-        ]
+        "Web",
+        []
       ],
       [
-        [
-          "Unknown"
-        ],
-        [
-          null
-        ]
+        "Unknown",
+        []
       ],
       [
-        [
-          "Free cloud service for downloading public domain works and for self-publishing"
-        ],
-        [
-          null
-        ]
+        "Free cloud service for downloading public domain works and for self-publishing",
+        []
       ]
     ],
     [
       [
-        [
-          "Help & Manual"
-        ],
+        "Help & Manual",
         [
           "/wiki/Help_&_Manual"
         ]
       ],
       [
-        [
-          "Windows"
-        ],
-        [
-          null
-        ]
+        "Windows",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
-        [
-          null
-        ]
+        "Proprietary",
+        []
       ],
       [
-        [
-          "Single source publishing"
-        ],
+        "Single source publishing tool that generates ePUB amongst several other documentation formats",
         [
           "/wiki/Single-sourcing"
         ]
@@ -378,67 +238,41 @@
     ],
     [
       [
-        [
-          "HelpNDoc"
-        ],
+        "HelpNDoc",
         [
           "/wiki/HelpNDoc"
         ]
       ],
       [
-        [
-          "Windows"
-        ],
-        [
-          null
-        ]
+        "Windows",
+        []
       ],
       [
-        [
-          "Free for personal use , commercial otherwise"
-        ],
-        [
-          null
-        ]
+        "Free for personal use , commercial otherwise",
+        []
       ],
       [
-        [
-          "Help authoring tool that generates EPUB files and other formats"
-        ],
-        [
-          null
-        ]
+        "Help authoring tool that generates EPUB files and other formats",
+        []
       ]
     ],
     [
       [
-        [
-          "iBooks Author"
-        ],
+        "iBooks Author",
         [
           "/wiki/IBooks_Author"
         ]
       ],
       [
-        [
-          "OS X"
-        ],
-        [
-          null
-        ]
+        "OS X",
+        []
       ],
       [
-        [
-          "Unknown"
-        ],
-        [
-          null
-        ]
+        "Unknown",
+        []
       ],
       [
-        [
-          "Desktop publishing"
-        ],
+        "Desktop publishing and page layout application . Free from Apple . Can export .ibooks format , which is a proprietary format based on EPUB . There are restrictions on the commercial distribution of works created with iBooks in the .ibooks format . These restrictions apply to the .ibooks format only and it can be argued that a file renamed to .epub is not distributed in the .ibooks format",
         [
           "/wiki/Desktop_publishing"
         ]
@@ -446,67 +280,39 @@
     ],
     [
       [
-        [
-          "IGP : Digital Publisher"
-        ],
-        [
-          null
-        ]
+        "IGP : Digital Publisher",
+        []
       ],
       [
-        [
-          "Web"
-        ],
-        [
-          null
-        ]
+        "Web",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
-        [
-          null
-        ]
+        "Proprietary",
+        []
       ],
       [
-        [
-          "Portal Cloud Service or licence application for digital content publishing to all formats . Generates ePub 2 and ePub 3 fixed and flow layout plus other formats"
-        ],
-        [
-          null
-        ]
+        "Portal Cloud Service or licence application for digital content publishing to all formats . Generates ePub 2 and ePub 3 fixed and flow layout plus other formats",
+        []
       ]
     ],
     [
       [
-        [
-          "iStudio Publisher"
-        ],
+        "iStudio Publisher",
         [
           "/wiki/IStudio_Publisher"
         ]
       ],
       [
-        [
-          "OS X"
-        ],
-        [
-          null
-        ]
+        "OS X",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
-        [
-          null
-        ]
+        "Proprietary",
+        []
       ],
       [
-        [
-          "Desktop publishing"
-        ],
+        "Desktop publishing and page layout application",
         [
           "/wiki/Desktop_publishing"
         ]
@@ -514,103 +320,64 @@
     ],
     [
       [
-        [
-          "LibreOffice"
-        ],
+        "LibreOffice",
         [
           "/wiki/LibreOffice"
         ]
       ],
       [
-        [
-          "Windows , OS X , Linux"
-        ],
-        [
-          null
-        ]
+        "Windows , OS X , Linux",
+        []
       ],
       [
-        [
-          "Mozilla Public License",
-          "GNU Lesser General Public License"
-        ],
+        "Mozilla Public License , GNU Lesser General Public License",
         [
           "/wiki/Mozilla_Public_License",
           "/wiki/GNU_Lesser_General_Public_License"
         ]
       ],
       [
-        [
-          "Text processor with a functionality to export as ePub3 format since version 6.0 . Also allowed to export as ePub format via installing extension , such as eLaix"
-        ],
-        [
-          null
-        ]
+        "Text processor with a functionality to export as ePub3 format since version 6.0 . Also allowed to export as ePub format via installing extension , such as eLaix",
+        []
       ]
     ],
     [
       [
-        [
-          "Lulu.com"
-        ],
+        "Lulu.com",
         [
           "/wiki/Lulu.com"
         ]
       ],
       [
-        [
-          "Web"
-        ],
-        [
-          null
-        ]
+        "Web",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
-        [
-          null
-        ]
+        "Proprietary",
+        []
       ],
       [
-        [
-          "Converts .doc , .docx , or PDF manuscripts to an ePub in order that they may be sold on the Website in question"
-        ],
-        [
-          null
-        ]
+        "Converts .doc , .docx , or PDF manuscripts to an ePub in order that they may be sold on the Website in question",
+        []
       ]
     ],
     [
       [
-        [
-          "Madcap Flare"
-        ],
+        "Madcap Flare",
         [
           "/wiki/MadCap_Flare"
         ]
       ],
       [
-        [
-          "Windows"
-        ],
-        [
-          null
-        ]
+        "Windows",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
-        [
-          null
-        ]
+        "Proprietary",
+        []
       ],
       [
-        [
-          "Single source publishing"
-        ],
+        "Single source publishing tool that can export content as ePUB",
         [
           "/wiki/Single-sourcing"
         ]
@@ -618,67 +385,41 @@
     ],
     [
       [
-        [
-          "oXygen XML Editor"
-        ],
+        "oXygen XML Editor",
         [
           "/wiki/Oxygen_xml"
         ]
       ],
       [
-        [
-          "OS X , Windows , FreeBSD , Linux"
-        ],
-        [
-          null
-        ]
+        "OS X , Windows , FreeBSD , Linux",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
-        [
-          null
-        ]
+        "Proprietary",
+        []
       ],
       [
-        [
-          "oXygen XML Editor is the first tool that supports creating , transforming , and validating the documents that comprise the EPUB package"
-        ],
-        [
-          null
-        ]
+        "oXygen XML Editor is the first tool that supports creating , transforming , and validating the documents that comprise the EPUB package",
+        []
       ]
     ],
     [
       [
-        [
-          "Pages"
-        ],
+        "Pages",
         [
           "/wiki/Pages_(iWork)"
         ]
       ],
       [
-        [
-          "OS X"
-        ],
-        [
-          null
-        ]
+        "OS X",
+        []
       ],
       [
-        [
-          "Unknown"
-        ],
-        [
-          null
-        ]
+        "Unknown",
+        []
       ],
       [
-        [
-          "iWork"
-        ],
+        "Word processor ( part of the iWork '09 suite ) that can export to EPUB format ( Pages '09 only , and only with the iWork 9.0.4 update )",
         [
           "/wiki/IWork"
         ]
@@ -686,36 +427,24 @@
     ],
     [
       [
-        [
-          "Pages"
-        ],
+        "Pages",
         [
           "/wiki/Pages_(word_processor)"
         ]
       ],
       [
-        [
-          "iOS"
-        ],
+        "Apple iOS",
         [
           "/wiki/IOS"
         ]
       ],
       [
-        [
-          "Unknown"
-        ],
-        [
-          null
-        ]
+        "Unknown",
+        []
       ],
       [
-        [
-          "Word processor for mobile devices that can export to EPUB format"
-        ],
-        [
-          null
-        ]
+        "Word processor for mobile devices that can export to EPUB format",
+        []
       ]
     ]
   ],

@@ -3,150 +3,100 @@
   "title": "1928 Summer Olympics",
   "header": [
     [
-      [
-        "Venue"
-      ],
-      [
-        null
-      ]
+      "Venue",
+      []
     ],
     [
-      [
-        "Sports"
-      ],
-      [
-        null
-      ]
+      "Sports",
+      []
     ],
     [
-      [
-        "Capacity"
-      ],
-      [
-        null
-      ]
+      "Capacity",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Amersfoort"
-        ],
+        "Amersfoort",
         [
           "/wiki/Amersfoort"
         ]
       ],
       [
-        [
-          "Modern pentathlon"
-        ],
+        "Modern pentathlon ( riding )",
         [
           "/wiki/Modern_pentathlon_at_the_1928_Summer_Olympics"
         ]
       ],
       [
-        [
-          "Not listed"
-        ],
-        [
-          null
-        ]
+        "Not listed",
+        []
       ]
     ],
     [
       [
-        [
-          "Amsterdam"
-        ],
+        "Amsterdam",
         [
           "/wiki/Amsterdam"
         ]
       ],
       [
-        [
-          "Cycling"
-        ],
+        "Cycling ( road )",
         [
           "/wiki/Cycling_at_the_1928_Summer_Olympics"
         ]
       ],
       [
-        [
-          "Not listed"
-        ],
-        [
-          null
-        ]
+        "Not listed",
+        []
       ]
     ],
     [
       [
-        [
-          "Buiten-IJ"
-        ],
+        "Buiten-IJ",
         [
           "/wiki/IJ_(bay)"
         ]
       ],
       [
-        [
-          "Sailing"
-        ],
+        "Sailing",
         [
           "/wiki/Sailing_at_the_1928_Summer_Olympics"
         ]
       ],
       [
-        [
-          "2,263"
-        ],
-        [
-          null
-        ]
+        "2,263",
+        []
       ]
     ],
     [
       [
-        [
-          "Hilversum"
-        ],
+        "Hilversum",
         [
           "/wiki/Hilversum"
         ]
       ],
       [
-        [
-          "Equestrian"
-        ],
+        "Equestrian ( dressage and cross-country ) , Modern pentathlon ( running )",
         [
           "/wiki/Equestrian_at_the_1928_Summer_Olympics"
         ]
       ],
       [
-        [
-          "4,763"
-        ],
-        [
-          null
-        ]
+        "4,763",
+        []
       ]
     ],
     [
       [
-        [
-          "Krachtsportgebouw"
-        ],
+        "Krachtsportgebouw",
         [
           "/wiki/Krachtsportgebouw"
         ]
       ],
       [
-        [
-          "Boxing",
-          "Weightlifting",
-          "Wrestling"
-        ],
+        "Boxing , Weightlifting , Wrestling",
         [
           "/wiki/Boxing_at_the_1928_Summer_Olympics",
           "/wiki/Weightlifting_at_the_1928_Summer_Olympics",
@@ -154,83 +104,56 @@
         ]
       ],
       [
-        [
-          "4,634"
-        ],
-        [
-          null
-        ]
+        "4,634",
+        []
       ]
     ],
     [
       [
-        [
-          "Monnikenhuize",
-          "Arnhem"
-        ],
+        "Monnikenhuize ( Arnhem )",
         [
           "/wiki/Monnikenhuize",
           "/wiki/Arnhem"
         ]
       ],
       [
-        [
-          "Football"
-        ],
+        "Football",
         [
           "/wiki/Football_at_the_1928_Summer_Olympics"
         ]
       ],
       [
-        [
-          "7,500"
-        ],
-        [
-          null
-        ]
+        "7,500",
+        []
       ]
     ],
     [
       [
-        [
-          "Old Stadion"
-        ],
+        "Old Stadion",
         [
           "/wiki/Old_Stadion_(Amsterdam)"
         ]
       ],
       [
-        [
-          "Field hockey"
-        ],
+        "Field hockey , Football",
         [
           "/wiki/Field_hockey_at_the_1928_Summer_Olympics"
         ]
       ],
       [
-        [
-          "29,787"
-        ],
-        [
-          null
-        ]
+        "29,787",
+        []
       ]
     ],
     [
       [
-        [
-          "Olympic Sports Park Swim Stadium"
-        ],
+        "Olympic Sports Park Swim Stadium",
         [
           "/wiki/Olympic_Sports_Park_Swim_Stadium"
         ]
       ],
       [
-        [
-          "Diving",
-          "Swimming",
-          "Water polo"
-        ],
+        "Diving , Modern pentathlon ( swimming ) , Swimming , Water polo",
         [
           "/wiki/Diving_at_the_1928_Summer_Olympics",
           "/wiki/Swimming_at_the_1928_Summer_Olympics",
@@ -238,29 +161,19 @@
         ]
       ],
       [
-        [
-          "6,000"
-        ],
-        [
-          null
-        ]
+        "6,000",
+        []
       ]
     ],
     [
       [
-        [
-          "Olympic Stadium"
-        ],
+        "Olympic Stadium",
         [
           "/wiki/Olympic_Stadium_(Amsterdam)"
         ]
       ],
       [
-        [
-          "Athletics",
-          "Gymnastics",
-          "Korfball"
-        ],
+        "Athletics , Cycling ( track ) , Equestrian ( jumping ) , Football , Gymnastics , Korfball",
         [
           "/wiki/Athletics_at_the_1928_Summer_Olympics",
           "/wiki/Gymnastics_at_the_1928_Summer_Olympics",
@@ -268,146 +181,94 @@
         ]
       ],
       [
-        [
-          "33,025"
-        ],
-        [
-          null
-        ]
+        "33,025",
+        []
       ]
     ],
     [
       [
-        [
-          "Schermzaal"
-        ],
+        "Schermzaal",
         [
           "/wiki/Schermzaal"
         ]
       ],
       [
-        [
-          "Fencing"
-        ],
+        "Fencing , Modern pentathlon ( fencing )",
         [
           "/wiki/Fencing_at_the_1928_Summer_Olympics"
         ]
       ],
       [
-        [
-          "559"
-        ],
-        [
-          null
-        ]
+        "559",
+        []
       ]
     ],
     [
       [
-        [
-          "Sloterringvaart",
-          "Sloten"
-        ],
+        "Sloterringvaart , Sloten",
         [
           "/wiki/Ringvaart",
           "/wiki/Sloten_(Amsterdam)"
         ]
       ],
       [
-        [
-          "Rowing"
-        ],
+        "Rowing",
         [
           "/wiki/Rowing_at_the_1928_Summer_Olympics"
         ]
       ],
       [
-        [
-          "2,230"
-        ],
-        [
-          null
-        ]
+        "2,230",
+        []
       ]
     ],
     [
       [
-        [
-          "Sparta Stadion Het Kasteel",
-          "Rotterdam"
-        ],
+        "Sparta Stadion Het Kasteel ( Rotterdam )",
         [
           "/wiki/Sparta_Stadion_Het_Kasteel",
           "/wiki/Rotterdam"
         ]
       ],
       [
-        [
-          "Football"
-        ],
-        [
-          null
-        ]
+        "Football",
+        []
       ],
       [
-        [
-          "11,026"
-        ],
-        [
-          null
-        ]
+        "11,026",
+        []
       ]
     ],
     [
       [
-        [
-          "Zeeburg"
-        ],
+        "Zeeburg Shooting Grounds",
         [
           "/wiki/Zeeburg"
         ]
       ],
       [
-        [
-          "Modern pentathlon ( shooting )"
-        ],
-        [
-          null
-        ]
+        "Modern pentathlon ( shooting )",
+        []
       ],
       [
-        [
-          "10,455"
-        ],
-        [
-          null
-        ]
+        "10,455",
+        []
       ]
     ],
     [
       [
-        [
-          "Zuiderzee"
-        ],
+        "Zuiderzee",
         [
           "/wiki/Zuiderzee"
         ]
       ],
       [
-        [
-          "Sailing"
-        ],
-        [
-          null
-        ]
+        "Sailing",
+        []
       ],
       [
-        [
-          "2,263"
-        ],
-        [
-          null
-        ]
+        "2,263",
+        []
       ]
     ]
   ],

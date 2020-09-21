@@ -3,100 +3,56 @@
   "title": "Media in Winnipeg",
   "header": [
     [
-      [
-        "Frequency"
-      ],
-      [
-        null
-      ]
+      "Frequency",
+      []
     ],
     [
-      [
-        "Call sign"
-      ],
-      [
-        null
-      ]
+      "Call sign",
+      []
     ],
     [
-      [
-        "Brand name"
-      ],
-      [
-        null
-      ]
+      "Brand name",
+      []
     ],
     [
-      [
-        "Format"
-      ],
-      [
-        null
-      ]
+      "Format",
+      []
     ],
     [
-      [
-        "Owner"
-      ],
-      [
-        null
-      ]
+      "Owner",
+      []
     ],
     [
-      [
-        "City"
-      ],
-      [
-        null
-      ]
+      "City",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "580 AM"
-        ],
-        [
-          null
-        ]
+        "580 AM",
+        []
       ],
       [
-        [
-          "CJML"
-        ],
+        "CJML",
         [
           "/wiki/CJML_(AM)"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "special events"
-        ],
-        [
-          null
-        ]
+        "special events",
+        []
       ],
       [
-        [
-          "( unknown )"
-        ],
-        [
-          null
-        ]
+        "( unknown )",
+        []
       ],
       [
-        [
-          "Winnipeg"
-        ],
+        "Winnipeg",
         [
           "/wiki/Winnipeg"
         ]
@@ -104,49 +60,33 @@
     ],
     [
       [
-        [
-          "680 AM"
-        ],
-        [
-          null
-        ]
+        "680 AM",
+        []
       ],
       [
-        [
-          "CJOB"
-        ],
+        "CJOB",
         [
           "/wiki/CJOB"
         ]
       ],
       [
-        [
-          "CJOB 68"
-        ],
-        [
-          null
-        ]
+        "CJOB 68",
+        []
       ],
       [
-        [
-          "news/talk/sports"
-        ],
+        "news/talk/sports",
         [
           "/wiki/Talk_radio"
         ]
       ],
       [
-        [
-          "Corus Entertainment"
-        ],
+        "Corus Entertainment",
         [
           "/wiki/Corus_Entertainment"
         ]
       ],
       [
-        [
-          "Winnipeg"
-        ],
+        "Winnipeg",
         [
           "/wiki/Winnipeg"
         ]
@@ -154,49 +94,33 @@
     ],
     [
       [
-        [
-          "810 AM"
-        ],
-        [
-          null
-        ]
+        "810 AM",
+        []
       ],
       [
-        [
-          "CKJS"
-        ],
+        "CKJS",
         [
           "/wiki/CKJS"
         ]
       ],
       [
-        [
-          "--"
-        ],
-        [
-          null
-        ]
+        "--",
+        []
       ],
       [
-        [
-          "ethnic"
-        ],
+        "ethnic",
         [
           "/wiki/Ethnic"
         ]
       ],
       [
-        [
-          "Evanov Communications"
-        ],
+        "Evanov Communications",
         [
           "/wiki/Evanov_Communications"
         ]
       ],
       [
-        [
-          "Winnipeg"
-        ],
+        "Winnipeg",
         [
           "/wiki/Winnipeg"
         ]
@@ -204,35 +128,23 @@
     ],
     [
       [
-        [
-          "990 AM"
-        ],
-        [
-          null
-        ]
+        "990 AM",
+        []
       ],
       [
-        [
-          "CBW"
-        ],
+        "CBW",
         [
           "/wiki/CBW_(AM)"
         ]
       ],
       [
-        [
-          "CBC Radio One"
-        ],
+        "CBC Radio One",
         [
           "/wiki/CBC_Radio_One"
         ]
       ],
       [
-        [
-          "public",
-          "news",
-          "talk"
-        ],
+        "public news / talk",
         [
           "/wiki/Public_broadcasting",
           "/wiki/News",
@@ -240,17 +152,13 @@
         ]
       ],
       [
-        [
-          "Canadian Broadcasting Corporation"
-        ],
+        "Canadian Broadcasting Corporation",
         [
           "/wiki/Canadian_Broadcasting_Corporation"
         ]
       ],
       [
-        [
-          "Winnipeg"
-        ],
+        "Winnipeg",
         [
           "/wiki/Winnipeg"
         ]
@@ -258,49 +166,35 @@
     ],
     [
       [
-        [
-          "1290 AM"
-        ],
-        [
-          null
-        ]
+        "1290 AM",
+        []
       ],
       [
-        [
-          "CFRW"
-        ],
+        "CFRW",
         [
           "/wiki/CFRW"
         ]
       ],
       [
-        [
-          "TSN Radio"
-        ],
+        "TSN Radio",
         [
           "/wiki/TSN_Radio"
         ]
       ],
       [
-        [
-          "sports radio"
-        ],
+        "sports radio",
         [
           "/wiki/Sports_radio"
         ]
       ],
       [
-        [
-          "Bell Media Radio"
-        ],
+        "Bell Media Radio",
         [
           "/wiki/Bell_Media_Radio"
         ]
       ],
       [
-        [
-          "Winnipeg"
-        ],
+        "Winnipeg",
         [
           "/wiki/Winnipeg"
         ]
@@ -308,36 +202,23 @@
     ],
     [
       [
-        [
-          "88.1 FM"
-        ],
-        [
-          null
-        ]
+        "88.1 FM",
+        []
       ],
       [
-        [
-          "CKSB-10-FM"
-        ],
+        "CKSB-10-FM",
         [
           "/wiki/CKSB-10-FM"
         ]
       ],
       [
-        [
-          "Ici Radio-Canada Premi\u00e8re"
-        ],
+        "Ici Radio-Canada Premi\u00e8re",
         [
           "/wiki/Ici_Radio-Canada_Premi\u00e8re"
         ]
       ],
       [
-        [
-          "public",
-          "news",
-          "talk",
-          "French"
-        ],
+        "public news / talk ( French )",
         [
           "/wiki/Public_broadcasting",
           "/wiki/News",
@@ -346,17 +227,13 @@
         ]
       ],
       [
-        [
-          "Soci\u00e9t\u00e9 Radio-Canada"
-        ],
+        "Soci\u00e9t\u00e9 Radio-Canada",
         [
           "/wiki/Canadian_Broadcasting_Corporation"
         ]
       ],
       [
-        [
-          "Winnipeg"
-        ],
+        "Winnipeg",
         [
           "/wiki/Winnipeg"
         ]
@@ -364,51 +241,36 @@
     ],
     [
       [
-        [
-          "89.9 FM"
-        ],
-        [
-          null
-        ]
+        "89.9 FM",
+        []
       ],
       [
-        [
-          "CKSB-FM"
-        ],
+        "CKSB-FM",
         [
           "/wiki/CKSB-FM"
         ]
       ],
       [
-        [
-          "Ici Musique"
-        ],
+        "Ici Musique",
         [
           "/wiki/Ici_Musique"
         ]
       ],
       [
-        [
-          "public",
-          "French"
-        ],
+        "public music ( French )",
         [
           "/wiki/Public_broadcasting",
           "/wiki/French_language"
         ]
       ],
       [
-        [
-          "Soci\u00e9t\u00e9 Radio-Canada"
-        ],
+        "Soci\u00e9t\u00e9 Radio-Canada",
         [
           "/wiki/Canadian_Broadcasting_Corporation"
         ]
       ],
       [
-        [
-          "Winnipeg"
-        ],
+        "Winnipeg",
         [
           "/wiki/Winnipeg"
         ]
@@ -416,51 +278,34 @@
     ],
     [
       [
-        [
-          "91.1 FM"
-        ],
-        [
-          null
-        ]
+        "91.1 FM",
+        []
       ],
       [
-        [
-          "CKXL"
-        ],
+        "CKXL",
         [
           "/wiki/CKXL-FM"
         ]
       ],
       [
-        [
-          "Envol 91"
-        ],
-        [
-          null
-        ]
+        "Envol 91",
+        []
       ],
       [
-        [
-          "community radio",
-          "French"
-        ],
+        "community radio ( French )",
         [
           "/wiki/Community_radio",
           "/wiki/French_language"
         ]
       ],
       [
-        [
-          "La Radio communautaire du Manitoba inc"
-        ],
+        "La Radio communautaire du Manitoba inc",
         [
           "/wiki/La_Radio_communautaire_du_Manitoba_inc."
         ]
       ],
       [
-        [
-          "Winnipeg"
-        ],
+        "Winnipeg",
         [
           "/wiki/Winnipeg"
         ]
@@ -468,49 +313,33 @@
     ],
     [
       [
-        [
-          "92.1 FM"
-        ],
-        [
-          null
-        ]
+        "92.1 FM",
+        []
       ],
       [
-        [
-          "CITI"
-        ],
+        "CITI",
         [
           "/wiki/CITI-FM"
         ]
       ],
       [
-        [
-          "92 Citi FM"
-        ],
-        [
-          null
-        ]
+        "92 Citi FM",
+        []
       ],
       [
-        [
-          "classic rock"
-        ],
+        "classic rock",
         [
           "/wiki/Classic_rock"
         ]
       ],
       [
-        [
-          "Rogers Communications"
-        ],
+        "Rogers Communications",
         [
           "/wiki/Rogers_Communications"
         ]
       ],
       [
-        [
-          "Winnipeg"
-        ],
+        "Winnipeg",
         [
           "/wiki/Winnipeg"
         ]
@@ -518,49 +347,31 @@
     ],
     [
       [
-        [
-          "93.7 FM"
-        ],
-        [
-          null
-        ]
+        "93.7 FM",
+        []
       ],
       [
-        [
-          "CJNU"
-        ],
+        "CJNU",
         [
           "/wiki/CJNU-FM"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "pop standards"
-        ],
+        "pop standards",
         [
           "/wiki/Pop_standards"
         ]
       ],
       [
-        [
-          "Nostalgia Broadcasting Cooperative"
-        ],
-        [
-          null
-        ]
+        "Nostalgia Broadcasting Cooperative",
+        []
       ],
       [
-        [
-          "Winnipeg"
-        ],
+        "Winnipeg",
         [
           "/wiki/Winnipeg"
         ]
@@ -568,49 +379,33 @@
     ],
     [
       [
-        [
-          "94.3 FM"
-        ],
-        [
-          null
-        ]
+        "94.3 FM",
+        []
       ],
       [
-        [
-          "CHIQ"
-        ],
+        "CHIQ",
         [
           "/wiki/CHIQ-FM"
         ]
       ],
       [
-        [
-          "94.3 The Drive"
-        ],
-        [
-          null
-        ]
+        "94.3 The Drive",
+        []
       ],
       [
-        [
-          "classic hits"
-        ],
+        "classic hits",
         [
           "/wiki/Classic_hits"
         ]
       ],
       [
-        [
-          "Jim Pattison Group"
-        ],
+        "Jim Pattison Group",
         [
           "/wiki/Jim_Pattison_Group"
         ]
       ],
       [
-        [
-          "Winnipeg"
-        ],
+        "Winnipeg",
         [
           "/wiki/Winnipeg"
         ]
@@ -618,49 +413,33 @@
     ],
     [
       [
-        [
-          "95.1 FM"
-        ],
-        [
-          null
-        ]
+        "95.1 FM",
+        []
       ],
       [
-        [
-          "CHVN"
-        ],
+        "CHVN",
         [
           "/wiki/CHVN-FM"
         ]
       ],
       [
-        [
-          "CHVN 95.1FM"
-        ],
-        [
-          null
-        ]
+        "CHVN 95.1FM",
+        []
       ],
       [
-        [
-          "contemporary Christian music"
-        ],
+        "contemporary Christian music",
         [
           "/wiki/Contemporary_Christian_music"
         ]
       ],
       [
-        [
-          "Golden West Broadcasting"
-        ],
+        "Golden West Broadcasting",
         [
           "/wiki/Golden_West_Broadcasting"
         ]
       ],
       [
-        [
-          "Winnipeg"
-        ],
+        "Winnipeg",
         [
           "/wiki/Winnipeg"
         ]
@@ -668,49 +447,33 @@
     ],
     [
       [
-        [
-          "95.9 FM"
-        ],
-        [
-          null
-        ]
+        "95.9 FM",
+        []
       ],
       [
-        [
-          "CKUW"
-        ],
+        "CKUW",
         [
           "/wiki/CKUW-FM"
         ]
       ],
       [
-        [
-          "CKUW 95.9"
-        ],
-        [
-          null
-        ]
+        "CKUW 95.9",
+        []
       ],
       [
-        [
-          "campus radio"
-        ],
+        "campus radio",
         [
           "/wiki/Campus_radio"
         ]
       ],
       [
-        [
-          "University of Winnipeg"
-        ],
+        "University of Winnipeg",
         [
           "/wiki/University_of_Winnipeg"
         ]
       ],
       [
-        [
-          "Winnipeg"
-        ],
+        "Winnipeg",
         [
           "/wiki/Winnipeg"
         ]
@@ -718,49 +481,35 @@
     ],
     [
       [
-        [
-          "96.7 FM"
-        ],
-        [
-          null
-        ]
+        "96.7 FM",
+        []
       ],
       [
-        [
-          "CILT"
-        ],
+        "CILT",
         [
           "/wiki/CILT-FM"
         ]
       ],
       [
-        [
-          "Mix 96.7"
-        ],
+        "Mix 96.7",
         [
           "/wiki/CILT-FM"
         ]
       ],
       [
-        [
-          "adult contemporary"
-        ],
+        "adult contemporary",
         [
           "/wiki/Adult_contemporary"
         ]
       ],
       [
-        [
-          "Golden West Broadcasting"
-        ],
+        "Golden West Broadcasting",
         [
           "/wiki/Golden_West_Broadcasting"
         ]
       ],
       [
-        [
-          "Steinbach"
-        ],
+        "Steinbach",
         [
           "/wiki/Steinbach,_Manitoba"
         ]
@@ -768,49 +517,33 @@
     ],
     [
       [
-        [
-          "97.5 FM"
-        ],
-        [
-          null
-        ]
+        "97.5 FM",
+        []
       ],
       [
-        [
-          "CJKR"
-        ],
+        "CJKR",
         [
           "/wiki/CJKR-FM"
         ]
       ],
       [
-        [
-          "Power 97"
-        ],
-        [
-          null
-        ]
+        "Power 97",
+        []
       ],
       [
-        [
-          "active rock"
-        ],
+        "active rock",
         [
           "/wiki/Active_rock"
         ]
       ],
       [
-        [
-          "Corus Entertainment"
-        ],
+        "Corus Entertainment",
         [
           "/wiki/Corus_Entertainment"
         ]
       ],
       [
-        [
-          "Winnipeg"
-        ],
+        "Winnipeg",
         [
           "/wiki/Winnipeg"
         ]
@@ -818,49 +551,35 @@
     ],
     [
       [
-        [
-          "98.3 FM"
-        ],
-        [
-          null
-        ]
+        "98.3 FM",
+        []
       ],
       [
-        [
-          "CBW"
-        ],
+        "CBW",
         [
           "/wiki/CBW-FM"
         ]
       ],
       [
-        [
-          "CBC Music"
-        ],
+        "CBC Music",
         [
           "/wiki/CBC_Music"
         ]
       ],
       [
-        [
-          "public"
-        ],
+        "public music",
         [
           "/wiki/Public_broadcasting"
         ]
       ],
       [
-        [
-          "Canadian Broadcasting Corporation"
-        ],
+        "Canadian Broadcasting Corporation",
         [
           "/wiki/Canadian_Broadcasting_Corporation"
         ]
       ],
       [
-        [
-          "Winnipeg"
-        ],
+        "Winnipeg",
         [
           "/wiki/Winnipeg"
         ]
@@ -868,49 +587,33 @@
     ],
     [
       [
-        [
-          "99.1 FM"
-        ],
-        [
-          null
-        ]
+        "99.1 FM",
+        []
       ],
       [
-        [
-          "CJGV"
-        ],
+        "CJGV",
         [
           "/wiki/CJGV-FM"
         ]
       ],
       [
-        [
-          "Peggy @ 99.1 FM"
-        ],
-        [
-          null
-        ]
+        "Peggy @ 99.1 FM",
+        []
       ],
       [
-        [
-          "adult contemporary"
-        ],
+        "adult contemporary",
         [
           "/wiki/Adult_contemporary"
         ]
       ],
       [
-        [
-          "Corus Entertainment"
-        ],
+        "Corus Entertainment",
         [
           "/wiki/Corus_Entertainment"
         ]
       ],
       [
-        [
-          "Winnipeg"
-        ],
+        "Winnipeg",
         [
           "/wiki/Winnipeg"
         ]
@@ -918,49 +621,35 @@
     ],
     [
       [
-        [
-          "99.9 FM"
-        ],
-        [
-          null
-        ]
+        "99.9 FM",
+        []
       ],
       [
-        [
-          "CFWM"
-        ],
+        "CFWM",
         [
           "/wiki/CFWM-FM"
         ]
       ],
       [
-        [
-          "Bob FM"
-        ],
+        "Bob FM",
         [
           "/wiki/Bob_FM"
         ]
       ],
       [
-        [
-          "adult hits"
-        ],
+        "adult hits",
         [
           "/wiki/Adult_hits"
         ]
       ],
       [
-        [
-          "Bell Media Radio"
-        ],
+        "Bell Media Radio",
         [
           "/wiki/Bell_Media_Radio"
         ]
       ],
       [
-        [
-          "Winnipeg"
-        ],
+        "Winnipeg",
         [
           "/wiki/Winnipeg"
         ]
@@ -968,49 +657,31 @@
     ],
     [
       [
-        [
-          "100.7 FM"
-        ],
-        [
-          null
-        ]
+        "100.7 FM",
+        []
       ],
       [
-        [
-          "CFJL"
-        ],
+        "CFJL",
         [
           "/wiki/CFJL-FM"
         ]
       ],
       [
-        [
-          "Pop 100.5"
-        ],
-        [
-          null
-        ]
+        "Pop 100.5",
+        []
       ],
       [
-        [
-          "'90s/00 's hits"
-        ],
-        [
-          null
-        ]
+        "'90s/00 's hits",
+        []
       ],
       [
-        [
-          "Evanov Communications"
-        ],
+        "Evanov Communications",
         [
           "/wiki/Evanov_Communications"
         ]
       ],
       [
-        [
-          "Winnipeg"
-        ],
+        "Winnipeg",
         [
           "/wiki/Winnipeg"
         ]
@@ -1018,49 +689,33 @@
     ],
     [
       [
-        [
-          "101.5 FM"
-        ],
-        [
-          null
-        ]
+        "101.5 FM",
+        []
       ],
       [
-        [
-          "CJUM"
-        ],
+        "CJUM",
         [
           "/wiki/CJUM-FM"
         ]
       ],
       [
-        [
-          "UMFM"
-        ],
-        [
-          null
-        ]
+        "UMFM",
+        []
       ],
       [
-        [
-          "campus radio"
-        ],
+        "campus radio",
         [
           "/wiki/Campus_radio"
         ]
       ],
       [
-        [
-          "University of Manitoba"
-        ],
+        "University of Manitoba",
         [
           "/wiki/University_of_Manitoba"
         ]
       ],
       [
-        [
-          "Winnipeg"
-        ],
+        "Winnipeg",
         [
           "/wiki/Winnipeg"
         ]

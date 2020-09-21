@@ -3,672 +3,444 @@
   "title": "1999 Belarusian Premier League",
   "header": [
     [
-      [
-        "Team"
-      ],
-      [
-        null
-      ]
+      "Team",
+      []
     ],
     [
-      [
-        "Location"
-      ],
-      [
-        null
-      ]
+      "Location",
+      []
     ],
     [
-      [
-        "Venue"
-      ],
-      [
-        null
-      ]
+      "Venue",
+      []
     ],
     [
-      [
-        "Capacity"
-      ],
-      [
-        null
-      ]
+      "Capacity",
+      []
     ],
     [
-      [
-        "Position in 1998"
-      ],
-      [
-        null
-      ]
+      "Position in 1998",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Dnepr-Transmash"
-        ],
+        "Dnepr-Transmash",
         [
           "/wiki/FC_Dnepr_Mogilev"
         ]
       ],
       [
-        [
-          "Mogilev"
-        ],
+        "Mogilev",
         [
           "/wiki/Mogilev"
         ]
       ],
       [
-        [
-          "Spartak Stadion ( Mogilev )"
-        ],
+        "Spartak Stadion ( Mogilev )",
         [
           "/wiki/Spartak_Stadion_(Mogilev)"
         ]
       ],
       [
-        [
-          "11,200"
-        ],
-        [
-          null
-        ]
+        "11,200",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ]
     ],
     [
       [
-        [
-          "BATE"
-        ],
+        "BATE",
         [
           "/wiki/FC_BATE_Borisov"
         ]
       ],
       [
-        [
-          "Borisov"
-        ],
+        "Borisov",
         [
           "/wiki/Barysaw"
         ]
       ],
       [
-        [
-          "City Stadium , Borisov"
-        ],
+        "City Stadium , Borisov",
         [
           "/wiki/Haradzki_Stadium"
         ]
       ],
       [
-        [
-          "5,500"
-        ],
-        [
-          null
-        ]
+        "5,500",
+        []
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ]
     ],
     [
       [
-        [
-          "Belshina"
-        ],
+        "Belshina",
         [
           "/wiki/FC_Belshina_Bobruisk"
         ]
       ],
       [
-        [
-          "Bobruisk"
-        ],
+        "Bobruisk",
         [
           "/wiki/Bobruisk"
         ]
       ],
       [
-        [
-          "Spartak , Bobruisk"
-        ],
+        "Spartak , Bobruisk",
         [
           "/wiki/Spartak_Stadium_(Babruysk)"
         ]
       ],
       [
-        [
-          "3,550"
-        ],
-        [
-          null
-        ]
+        "3,550",
+        []
       ],
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ]
     ],
     [
       [
-        [
-          "Lokomotiv-96"
-        ],
+        "Lokomotiv-96",
         [
           "/wiki/FC_Vitebsk"
         ]
       ],
       [
-        [
-          "Vitebsk"
-        ],
+        "Vitebsk",
         [
           "/wiki/Vitebsk"
         ]
       ],
       [
-        [
-          "Central , Vitebsk"
-        ],
+        "Central , Vitebsk",
         [
           "/wiki/Tsentral'nyi_Sportkompleks"
         ]
       ],
       [
-        [
-          "8,300"
-        ],
-        [
-          null
-        ]
+        "8,300",
+        []
       ],
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ]
     ],
     [
       [
-        [
-          "Gomel"
-        ],
+        "Gomel",
         [
           "/wiki/FC_Gomel"
         ]
       ],
       [
-        [
-          "Gomel"
-        ],
+        "Gomel",
         [
           "/wiki/Gomel"
         ]
       ],
       [
-        [
-          "Central , Gomel"
-        ],
+        "Central , Gomel",
         [
           "/wiki/Central_Stadion"
         ]
       ],
       [
-        [
-          "11,800"
-        ],
-        [
-          null
-        ]
+        "11,800",
+        []
       ],
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ]
     ],
     [
       [
-        [
-          "Slavia"
-        ],
+        "Slavia",
         [
           "/wiki/FC_Slavia_Mozyr"
         ]
       ],
       [
-        [
-          "Mozyr"
-        ],
+        "Mozyr",
         [
           "/wiki/Mozyr"
         ]
       ],
       [
-        [
-          "Yunost , Mozyr"
-        ],
+        "Yunost , Mozyr",
         [
           "/wiki/Yunost_Stadium_(Mozyr)"
         ]
       ],
       [
-        [
-          "5,500"
-        ],
-        [
-          null
-        ]
+        "5,500",
+        []
       ],
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ]
     ],
     [
       [
-        [
-          "Torpedo-MAZ"
-        ],
+        "Torpedo-MAZ",
         [
           "/wiki/FC_Torpedo_Minsk"
         ]
       ],
       [
-        [
-          "Minsk"
-        ],
+        "Minsk",
         [
           "/wiki/Minsk"
         ]
       ],
       [
-        [
-          "Torpedo , Minsk"
-        ],
+        "Torpedo , Minsk",
         [
           "/wiki/Tarpeda_Stadium"
         ]
       ],
       [
-        [
-          "5,200"
-        ],
-        [
-          null
-        ]
+        "5,200",
+        []
       ],
       [
-        [
-          "7"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ]
     ],
     [
       [
-        [
-          "Dinamo Minsk"
-        ],
+        "Dinamo Minsk",
         [
           "/wiki/FC_Dinamo_Minsk"
         ]
       ],
       [
-        [
-          "Minsk"
-        ],
+        "Minsk",
         [
           "/wiki/Minsk"
         ]
       ],
       [
-        [
-          "Dinamo Stadium ( Minsk )"
-        ],
+        "Dinamo Stadium ( Minsk )",
         [
           "/wiki/Dinamo_Stadium_(Minsk)"
         ]
       ],
       [
-        [
-          "41,040"
-        ],
-        [
-          null
-        ]
+        "41,040",
+        []
       ],
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ]
     ],
     [
       [
-        [
-          "Dinamo Brest"
-        ],
+        "Dinamo Brest",
         [
           "/wiki/FC_Dinamo_Brest"
         ]
       ],
       [
-        [
-          "Brest"
-        ],
+        "Brest",
         [
           "/wiki/Brest,_Belarus"
         ]
       ],
       [
-        [
-          "Dinamo , Brest"
-        ],
+        "Dinamo , Brest",
         [
           "/wiki/Dinamo_Stadium_(Brest)"
         ]
       ],
       [
-        [
-          "10,080"
-        ],
-        [
-          null
-        ]
+        "10,080",
+        []
       ],
       [
-        [
-          "9"
-        ],
-        [
-          null
-        ]
+        "9",
+        []
       ]
     ],
     [
       [
-        [
-          "Neman-Belcard"
-        ],
+        "Neman-Belcard",
         [
           "/wiki/FC_Neman_Grodno"
         ]
       ],
       [
-        [
-          "Grodno"
-        ],
+        "Grodno",
         [
           "/wiki/Grodno"
         ]
       ],
       [
-        [
-          "Neman"
-        ],
+        "Neman",
         [
           "/wiki/Neman_Stadium"
         ]
       ],
       [
-        [
-          "6,300"
-        ],
-        [
-          null
-        ]
+        "6,300",
+        []
       ],
       [
-        [
-          "10"
-        ],
-        [
-          null
-        ]
+        "10",
+        []
       ]
     ],
     [
       [
-        [
-          "Shakhtyor"
-        ],
+        "Shakhtyor",
         [
           "/wiki/FC_Shakhtyor_Soligorsk"
         ]
       ],
       [
-        [
-          "Soligorsk"
-        ],
+        "Soligorsk",
         [
           "/wiki/Soligorsk"
         ]
       ],
       [
-        [
-          "Stroitel"
-        ],
+        "Stroitel",
         [
           "/wiki/Stroitel_Stadium_(Soligorsk)"
         ]
       ],
       [
-        [
-          "5,000"
-        ],
-        [
-          null
-        ]
+        "5,000",
+        []
       ],
       [
-        [
-          "11"
-        ],
-        [
-          null
-        ]
+        "11",
+        []
       ]
     ],
     [
       [
-        [
-          "Torpedo-Kadino"
-        ],
+        "Torpedo-Kadino",
         [
           "/wiki/FC_Torpedo_Mogilev"
         ]
       ],
       [
-        [
-          "Mogilev"
-        ],
+        "Mogilev",
         [
           "/wiki/Mogilev"
         ]
       ],
       [
-        [
-          "Torpedo Stadium ( Mogilev )"
-        ],
+        "Torpedo Stadium ( Mogilev )",
         [
           "/wiki/Torpedo_Stadium_(Mogilev)"
         ]
       ],
       [
-        [
-          "3,500"
-        ],
-        [
-          null
-        ]
+        "3,500",
+        []
       ],
       [
-        [
-          "12"
-        ],
-        [
-          null
-        ]
+        "12",
+        []
       ]
     ],
     [
       [
-        [
-          "Naftan-Devon"
-        ],
+        "Naftan-Devon",
         [
           "/wiki/FC_Naftan_Novopolotsk"
         ]
       ],
       [
-        [
-          "Novopolotsk"
-        ],
+        "Novopolotsk",
         [
           "/wiki/Novopolotsk"
         ]
       ],
       [
-        [
-          "Atlant"
-        ],
+        "Atlant",
         [
           "/wiki/Atlant_Stadium"
         ]
       ],
       [
-        [
-          "6,500"
-        ],
-        [
-          null
-        ]
+        "6,500",
+        []
       ],
       [
-        [
-          "13"
-        ],
-        [
-          null
-        ]
+        "13",
+        []
       ]
     ],
     [
       [
-        [
-          "Molodechno"
-        ],
+        "Molodechno",
         [
           "/wiki/FC_Molodechno"
         ]
       ],
       [
-        [
-          "Molodechno"
-        ],
+        "Molodechno",
         [
           "/wiki/Molodechno"
         ]
       ],
       [
-        [
-          "City Stadium , Molodechno"
-        ],
+        "City Stadium , Molodechno",
         [
           "/wiki/City_Stadium_(Molodechno)"
         ]
       ],
       [
-        [
-          "5,500"
-        ],
-        [
-          null
-        ]
+        "5,500",
+        []
       ],
       [
-        [
-          "14"
-        ],
-        [
-          null
-        ]
+        "14",
+        []
       ]
     ],
     [
       [
-        [
-          "Lida"
-        ],
+        "Lida",
         [
           "/wiki/FC_Lida"
         ]
       ],
       [
-        [
-          "Lida"
-        ],
+        "Lida",
         [
           "/wiki/Lida"
         ]
       ],
       [
-        [
-          "City Stadium , Lida"
-        ],
+        "City Stadium , Lida",
         [
           "/wiki/City_Stadium_(Lida)"
         ]
       ],
       [
-        [
-          "4,000"
-        ],
-        [
-          null
-        ]
+        "4,000",
+        []
       ],
       [
-        [
-          "First league"
-        ],
+        "First league , 1",
         [
           "/wiki/1998_Belarusian_First_League"
         ]
@@ -676,41 +448,29 @@
     ],
     [
       [
-        [
-          "Svisloch-Krovlya"
-        ],
+        "Svisloch-Krovlya",
         [
           "/wiki/FC_Osipovichi"
         ]
       ],
       [
-        [
-          "Osipovichi"
-        ],
+        "Osipovichi",
         [
           "/wiki/Osipovichi"
         ]
       ],
       [
-        [
-          "Yunost , Osipovichi"
-        ],
+        "Yunost , Osipovichi",
         [
           "/wiki/Yunost_Stadium_(Osipovichi)"
         ]
       ],
       [
-        [
-          "4,000"
-        ],
-        [
-          null
-        ]
+        "4,000",
+        []
       ],
       [
-        [
-          "First league"
-        ],
+        "First league , 2",
         [
           "/wiki/1998_Belarusian_First_League"
         ]

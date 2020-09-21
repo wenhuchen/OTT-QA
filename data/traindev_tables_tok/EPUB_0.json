@@ -3,71 +3,40 @@
   "title": "EPUB",
   "header": [
     [
-      [
-        "Software"
-      ],
-      [
-        null
-      ]
+      "Software",
+      []
     ],
     [
-      [
-        "License"
-      ],
-      [
-        null
-      ]
+      "License",
+      []
     ],
     [
-      [
-        "Platform"
-      ],
-      [
-        null
-      ]
+      "Platform",
+      []
     ],
     [
-      [
-        "DRM formats supported"
-      ],
-      [
-        null
-      ]
+      "DRM formats supported",
+      []
     ],
     [
-      [
-        "Notes"
-      ],
-      [
-        null
-      ]
+      "Notes",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Adobe Digital Editions"
-        ],
+        "Adobe Digital Editions",
         [
           "/wiki/Adobe_Digital_Editions"
         ]
       ],
       [
-        [
-          "Proprietary"
-        ],
-        [
-          null
-        ]
+        "Proprietary",
+        []
       ],
       [
-        [
-          "Microsoft",
-          "Windows",
-          "Apple",
-          "Mac OS X"
-        ],
+        "Microsoft Windows , Apple Mac OS X",
         [
           "/wiki/Microsoft",
           "/wiki/Windows",
@@ -76,507 +45,299 @@
         ]
       ],
       [
-        [
-          "Adobe Content Server"
-        ],
+        "Adobe Content Server",
         [
           "/wiki/Adobe_Content_Server"
         ]
       ],
       [
-        [
-          "Requires online activation for ePub files with DRM"
-        ],
-        [
-          null
-        ]
+        "Requires online activation for ePub files with DRM",
+        []
       ]
     ],
     [
       [
-        [
-          "Aldiko"
-        ],
+        "Aldiko",
         [
           "/wiki/Aldiko"
         ]
       ],
       [
-        [
-          "Proprietary"
-        ],
-        [
-          null
-        ]
+        "Proprietary",
+        []
       ],
       [
-        [
-          "Android"
-        ],
-        [
-          null
-        ]
+        "Android",
+        []
       ],
       [
-        [
-          "Adobe Content Server"
-        ],
-        [
-          null
-        ]
+        "Adobe Content Server",
+        []
       ],
       [
-        [
-          "Supports ePub for Android devices"
-        ],
-        [
-          null
-        ]
+        "Supports ePub for Android devices",
+        []
       ]
     ],
     [
       [
-        [
-          "Apple Books"
-        ],
+        "Apple Books",
         [
           "/wiki/Apple_Books"
         ]
       ],
       [
-        [
-          "Proprietary"
-        ],
-        [
-          null
-        ]
+        "Proprietary",
+        []
       ],
       [
-        [
-          "OS X , iOS"
-        ],
-        [
-          null
-        ]
+        "OS X , iOS",
+        []
       ],
       [
-        [
-          "FairPlay"
-        ],
+        "FairPlay",
         [
           "/wiki/FairPlay"
         ]
       ],
       [
-        [
-          "Supports EPUB 2 and EPUB 3 . Books not readable directly on computers other than Macs"
-        ],
-        [
-          null
-        ]
+        "Supports EPUB 2 and EPUB 3 . Books not readable directly on computers other than Macs",
+        []
       ]
     ],
     [
       [
-        [
-          "AZARDI"
-        ],
-        [
-          null
-        ]
+        "AZARDI",
+        []
       ],
       [
-        [
-          "Freeware"
-        ],
-        [
-          null
-        ]
+        "Freeware",
+        []
       ],
       [
-        [
-          "Linux"
-        ],
+        "Windows , OS X , Linux , Android , Apple iOS",
         [
           "/wiki/Linux"
         ]
       ],
       [
-        [
-          "proprietary ackage obfuscation"
-        ],
-        [
-          null
-        ]
+        "proprietary ackage obfuscation",
+        []
       ],
       [
-        [
-          "Supports ePub 3 , ePub 2 . Fixed Layout , SMIL , DRM , MathML , Online and Mobile versions are available when used with AZARDI : Content Fulfilment Server"
-        ],
-        [
-          null
-        ]
+        "Supports ePub 3 , ePub 2 . Fixed Layout , SMIL , DRM , MathML , Online and Mobile versions are available when used with AZARDI : Content Fulfilment Server",
+        []
       ]
     ],
     [
       [
-        [
-          "Bluefire Reader"
-        ],
+        "Bluefire Reader",
         [
           "/wiki/Bluefire_Reader"
         ]
       ],
       [
-        [
-          "Proprietary"
-        ],
-        [
-          null
-        ]
+        "Proprietary",
+        []
       ],
       [
-        [
-          "Apple iOS , Android"
-        ],
-        [
-          null
-        ]
+        "Apple iOS , Android",
+        []
       ],
       [
-        [
-          "Adobe Content Server"
-        ],
-        [
-          null
-        ]
+        "Adobe Content Server",
+        []
       ],
       [
-        [
-          "Supports ePub for Android and iOS devices"
-        ],
-        [
-          null
-        ]
+        "Supports ePub for Android and iOS devices",
+        []
       ]
     ],
     [
       [
-        [
-          "calibre"
-        ],
+        "calibre",
         [
           "/wiki/Calibre_(ebook_software)"
         ]
       ],
       [
-        [
-          "GPL"
-        ],
+        "GPL",
         [
           "/wiki/GNU_Public_License"
         ]
       ],
       [
-        [
-          "Windows , OS X , Linux"
-        ],
-        [
-          null
-        ]
+        "Windows , OS X , Linux",
+        []
       ],
       [
-        [
-          "None"
-        ],
-        [
-          null
-        ]
+        "None",
+        []
       ],
       [
-        [
-          "About"
-        ],
-        [
-          null
-        ]
+        "Primarily for library management , conversion , and transferring to devices , it includes an EPUB reader and editor . About . Calibre . .mw-parser-output cite.citation { font-style : inherit } .mw-parser-output .citation q { quotes : \\\\ '' } .mw-parser-output .id-lock-free a , .mw-parser-output .citation .cs1-lock-free a { background : url ( //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png ) no-repeat ; background-position : right .1em center } .mw-parser-output .id-lock-limited a , .mw-parser-output .id-lock-registration a , .mw-parser-output .citation .cs1-lock-limited a , .mw-parser-output .citation .cs1-lock-registration a { background : url ( //upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png ) no-repeat ; background-position : right .1em center } .mw-parser-output .id-lock-subscription a , .mw-parser-output .citation .cs1-lock-subscription a { background : url ( //upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png ) no-repeat ; background-position : right .1em center } .mw-parser-output .cs1-subscription , .mw-parser-output .cs1-registration { color : # 555 } .mw-parser-output .cs1-subscription span , .mw-parser-output .cs1-registration span { border-bottom:1px dotted ; cursor : help } .mw-parser-output .cs1-ws-icon a { background : url ( //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png ) no-repeat ; background-position : right .1em center } .mw-parser-output code.cs1-code { color : inherit ; background : inherit ; border : inherit ; padding : inherit } .mw-parser-output .cs1-hidden-error { display : none ; font-size:100% } .mw-parser-output .cs1-visible-error { font-size:100% } .mw-parser-output .cs1-maint { display : none ; color : # 33aa33 ; margin-left:0.3em } .mw-parser-output .cs1-subscription , .mw-parser-output .cs1-registration , .mw-parser-output .cs1-format { font-size:95% } .mw-parser-output .cs1-kern-left , .mw-parser-output .cs1-kern-wl-left { padding-left:0.2em } .mw-parser-output .cs1-kern-right , .mw-parser-output .cs1-kern-wl-right { padding-right:0.2em }",
+        []
       ]
     ],
     [
       [
-        [
-          "Microsoft Edge"
-        ],
+        "Microsoft Edge",
         [
           "/wiki/Microsoft_Edge"
         ]
       ],
       [
-        [
-          "Proprietary"
-        ],
-        [
-          null
-        ]
+        "Proprietary",
+        []
       ],
       [
-        [
-          "Windows 10"
-        ],
-        [
-          null
-        ]
+        "Windows 10",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "August 30 , 2019 - KB4512941"
-        ],
-        [
-          null
-        ]
+        "Microsoft Edge will end support for e-books that use the .epub file extension over the next several months . August 30 , 2019 - KB4512941",
+        []
       ]
     ],
     [
       [
-        [
-          "EPUBReader"
-        ],
-        [
-          null
-        ]
+        "EPUBReader",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
-        [
-          null
-        ]
+        "Proprietary",
+        []
       ],
       [
-        [
-          "Mozilla Firefox"
-        ],
+        "Mozilla Firefox",
         [
           "/wiki/Firefox"
         ]
       ],
       [
-        [
-          "None"
-        ],
-        [
-          null
-        ]
+        "None",
+        []
       ],
       [
-        [
-          "EPUBReader home page"
-        ],
-        [
-          null
-        ]
+        "Firefox add-on , so runs on any OS that Firefox runs on . EPUBReader home page",
+        []
       ]
     ],
     [
       [
-        [
-          "FBReader"
-        ],
+        "FBReader",
         [
           "/wiki/FBReader"
         ]
       ],
       [
-        [
-          "Proprietary"
-        ],
-        [
-          null
-        ]
+        "Proprietary",
+        []
       ],
       [
-        [
-          "PDAs"
-        ],
+        "Windows , Linux , Android , PDAs , OS X",
         [
           "/wiki/PDA"
         ]
       ],
       [
-        [
-          "None"
-        ],
-        [
-          null
-        ]
+        "None",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Google Play Books"
-        ],
+        "Google Play Books",
         [
           "/wiki/Google_Play_Books"
         ]
       ],
       [
-        [
-          "Proprietary"
-        ],
-        [
-          null
-        ]
+        "Proprietary",
+        []
       ],
       [
-        [
-          "Web application , Android , Apple iOS"
-        ],
-        [
-          null
-        ]
+        "Web application , Android , Apple iOS",
+        []
       ],
       [
-        [
-          "Lektz DRM"
-        ],
-        [
-          null
-        ]
+        "Lektz DRM",
+        []
       ],
       [
-        [
-          "Supports downloading purchased books as ePub and/or PDF"
-        ],
-        [
-          null
-        ]
+        "Supports downloading purchased books as ePub and/or PDF",
+        []
       ]
     ],
     [
       [
-        [
-          "Kitabu"
-        ],
+        "Kitabu",
         [
           "/wiki/Kitabu"
         ]
       ],
       [
-        [
-          "Proprietary"
-        ],
-        [
-          null
-        ]
+        "Proprietary",
+        []
       ],
       [
-        [
-          "OS X"
-        ],
-        [
-          null
-        ]
+        "OS X",
+        []
       ],
       [
-        [
-          "None"
-        ],
-        [
-          null
-        ]
+        "None",
+        []
       ],
       [
-        [
-          "Supports ePub3 , ePub2 , Fixed layout"
-        ],
-        [
-          null
-        ]
+        "Supports ePub3 , ePub2 , Fixed layout",
+        []
       ]
     ],
     [
       [
-        [
-          "Kobo"
-        ],
+        "Kobo",
         [
           "/wiki/Kobo_eReader"
         ]
       ],
       [
-        [
-          "Proprietary"
-        ],
-        [
-          null
-        ]
+        "Proprietary",
+        []
       ],
       [
-        [
-          "Windows , OS X , Android , Apple iOS , Kobo eReader Software ,"
-        ],
-        [
-          null
-        ]
+        "Windows , OS X , Android , Apple iOS , Kobo eReader Software ,",
+        []
       ],
       [
-        [
-          "Adobe Content Server"
-        ],
-        [
-          null
-        ]
+        "Adobe Content Server",
+        []
       ],
       [
-        [
-          "Supports EPUB 2 and EPUB 3"
-        ],
-        [
-          null
-        ]
+        "Supports EPUB 2 and EPUB 3",
+        []
       ]
     ],
     [
       [
-        [
-          "Lektz Readers"
-        ],
+        "Lektz Readers",
         [
           "/wiki/Lektz"
         ]
       ],
       [
-        [
-          "Proprietary"
-        ],
-        [
-          null
-        ]
+        "Proprietary",
+        []
       ],
       [
-        [
-          "Web application",
-          "Android",
-          "iOS"
-        ],
+        "Web application , Google Android , OS X , iOS , Windows",
         [
           "/wiki/Web_application",
           "/wiki/Android_(operating_system)",
@@ -584,272 +345,166 @@
         ]
       ],
       [
-        [
-          "Lektz"
-        ],
+        "Lektz",
         [
           "/wiki/Lektz"
         ]
       ],
       [
-        [
-          "eBook Readers for PDF , ePUB/2 and ePUB3 providing uniform experience across different platforms - iOS , Android , Windows PC , Mac Desktop and Web"
-        ],
-        [
-          null
-        ]
+        "eBook Readers for PDF , ePUB/2 and ePUB3 providing uniform experience across different platforms - iOS , Android , Windows PC , Mac Desktop and Web",
+        []
       ]
     ],
     [
       [
-        [
-          "Lucifox"
-        ],
+        "Lucifox",
         [
           "/wiki/Lucifox_(software)"
         ]
       ],
       [
-        [
-          "GPL"
-        ],
+        "GPL",
         [
           "/wiki/GNU_Public_License"
         ]
       ],
       [
-        [
-          "Windows , OS X , Linux"
-        ],
-        [
-          null
-        ]
+        "Windows , OS X , Linux",
+        []
       ],
       [
-        [
-          "None"
-        ],
-        [
-          null
-        ]
+        "None",
+        []
       ],
       [
-        [
-          "Ebook reader add-on with annotations for Firefox . Supports open standard ebooks in EPUB 3- and EPUB 2 format and retrieval of books from OPDS book catalogues"
-        ],
-        [
-          null
-        ]
+        "Ebook reader add-on with annotations for Firefox . Supports open standard ebooks in EPUB 3- and EPUB 2 format and retrieval of books from OPDS book catalogues",
+        []
       ]
     ],
     [
       [
-        [
-          "Okular"
-        ],
+        "Okular",
         [
           "/wiki/Okular"
         ]
       ],
       [
-        [
-          "GPL"
-        ],
+        "GPL",
         [
           "/wiki/GNU_Public_License"
         ]
       ],
       [
-        [
-          "Windows , OS X , Linux"
-        ],
-        [
-          null
-        ]
+        "Windows , OS X , Linux",
+        []
       ],
       [
-        [
-          "unknown"
-        ],
-        [
-          null
-        ]
+        "unknown",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Readium"
-        ],
-        [
-          null
-        ]
+        "Readium",
+        []
       ],
       [
-        [
-          "BSD"
-        ],
+        "BSD",
         [
           "/wiki/BSD_Licenses"
         ]
       ],
       [
-        [
-          "All web browsers and all platforms"
-        ],
-        [
-          null
-        ]
+        "All web browsers and all platforms",
+        []
       ],
       [
-        [
-          "Multiple-DRM implementations"
-        ],
-        [
-          null
-        ]
+        "Multiple-DRM implementations",
+        []
       ],
       [
-        [
-          "Exists as a cross-browser solution for embedding in users websites ( Readium CloudReader ) , a Chrome extension and a cross-platform SDK"
-        ],
-        [
-          null
-        ]
+        "Exists as a cross-browser solution for embedding in users websites ( Readium CloudReader ) , a Chrome extension and a cross-platform SDK",
+        []
       ]
     ],
     [
       [
-        [
-          "Snapplify"
-        ],
+        "Snapplify",
         [
           "/wiki/Snapplify"
         ]
       ],
       [
-        [
-          "Proprietary"
-        ],
-        [
-          null
-        ]
+        "Proprietary",
+        []
       ],
       [
-        [
-          "All Web browsers , Apple iOS , Android"
-        ],
-        [
-          null
-        ]
+        "All Web browsers , Apple iOS , Android",
+        []
       ],
       [
-        [
-          "Snapplify"
-        ],
+        "Adobe Content Server Snapplify SnappSafe DRM",
         [
           "/wiki/Snapplify"
         ]
       ],
       [
-        [
-          "Supports downloading purchased books as ePub and/or PDF . Supports PDF , ePUB2 and ePUB3 standard of ebooks"
-        ],
-        [
-          null
-        ]
+        "Supports downloading purchased books as ePub and/or PDF . Supports PDF , ePUB2 and ePUB3 standard of ebooks",
+        []
       ]
     ],
     [
       [
-        [
-          "STDU Viewer"
-        ],
+        "STDU Viewer",
         [
           "/wiki/STDU_Viewer"
         ]
       ],
       [
-        [
-          "Freeware"
-        ],
-        [
-          null
-        ]
+        "Freeware",
+        []
       ],
       [
-        [
-          "Windows"
-        ],
-        [
-          null
-        ]
+        "Windows",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Supports many documents format including ePub"
-        ],
-        [
-          null
-        ]
+        "Supports many documents format including ePub",
+        []
       ]
     ],
     [
       [
-        [
-          "Sumatra PDF"
-        ],
+        "Sumatra PDF",
         [
           "/wiki/Sumatra_PDF"
         ]
       ],
       [
-        [
-          "GPL"
-        ],
+        "GPL",
         [
           "/wiki/GNU_Public_License"
         ]
       ],
       [
-        [
-          "Windows"
-        ],
-        [
-          null
-        ]
+        "Windows",
+        []
       ],
       [
-        [
-          "Adobe Content Server"
-        ],
-        [
-          null
-        ]
+        "Adobe Content Server",
+        []
       ],
       [
-        [
-          "Supports ePub for devices"
-        ],
-        [
-          null
-        ]
+        "Supports ePub for devices",
+        []
       ]
     ]
   ],

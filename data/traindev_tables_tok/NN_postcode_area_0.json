@@ -3,68 +3,42 @@
   "title": "NN postcode area",
   "header": [
     [
-      [
-        "Postcode district"
-      ],
-      [
-        null
-      ]
+      "Postcode district",
+      []
     ],
     [
-      [
-        "Post town"
-      ],
+      "Post town",
       [
         "/wiki/Post_town"
       ]
     ],
     [
-      [
-        "Coverage"
-      ],
-      [
-        null
-      ]
+      "Coverage",
+      []
     ],
     [
-      [
-        "Local authority area"
-      ],
-      [
-        null
-      ]
+      "Local authority area",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "NN1"
-        ],
-        [
-          null
-        ]
+        "NN1",
+        []
       ],
       [
-        [
-          "NORTHAMPTON"
-        ],
-        [
-          null
-        ]
+        "NORTHAMPTON",
+        []
       ],
       [
-        [
-          "Northampton"
-        ],
+        "Northampton",
         [
           "/wiki/Northampton"
         ]
       ],
       [
-        [
-          "Northampton"
-        ],
+        "Northampton",
         [
           "/wiki/Northampton"
         ]
@@ -72,35 +46,22 @@
     ],
     [
       [
-        [
-          "NN2"
-        ],
-        [
-          null
-        ]
+        "NN2",
+        []
       ],
       [
-        [
-          "NORTHAMPTON"
-        ],
-        [
-          null
-        ]
+        "NORTHAMPTON",
+        []
       ],
       [
-        [
-          "Kingsthorpe",
-          "Boughton"
-        ],
+        "Kingsthorpe , Boughton",
         [
           "/wiki/Kingsthorpe",
           "/wiki/Boughton,_Northamptonshire"
         ]
       ],
       [
-        [
-          "Daventry"
-        ],
+        "Northampton , Daventry",
         [
           "/wiki/Daventry_District"
         ]
@@ -108,74 +69,38 @@
     ],
     [
       [
-        [
-          "NN3"
-        ],
-        [
-          null
-        ]
+        "NN3",
+        []
       ],
       [
-        [
-          "NORTHAMPTON"
-        ],
-        [
-          null
-        ]
+        "NORTHAMPTON",
+        []
       ],
       [
+        "Abington ( East ) , Bellinge , Blackthorn , Boothville , Ecton Brook , Great Billing , Headlands , Kingsley Park , Lings , Little Billing , Moulton , Moulton Park , Parklands , Rectory Farm , Round Spinney , Southfields , Spinney Hill , Standens Barn , Weston Favell",
         [
-          "Boothville",
-          "Moulton",
-          "Weston Favell"
-        ],
-        [
-          null,
           "/wiki/Moulton,_Northamptonshire",
           "/wiki/Weston_Favell"
         ]
       ],
       [
-        [
-          "Daventry , Northampton"
-        ],
-        [
-          null
-        ]
+        "Daventry , Northampton",
+        []
       ]
     ],
     [
       [
-        [
-          "NN4"
-        ],
-        [
-          null
-        ]
+        "NN4",
+        []
       ],
       [
-        [
-          "NORTHAMPTON"
-        ],
-        [
-          null
-        ]
+        "NORTHAMPTON",
+        []
       ],
       [
-        [
-          "Brackmills",
-          "Delapr\u00e9",
-          "East Hunsbury",
-          "Far Cotton",
-          "Grange Park",
-          "Great Houghton",
-          "Hardingstone",
-          "West Hunsbury",
-          "Wootton"
-        ],
+        "Brackmills , Delapr\u00e9 , East Hunsbury , Far Cotton , Grange Park , Great Houghton , Hardingstone , West Hunsbury , Wootton",
         [
           "/wiki/Brackmills",
-          null,
           "/wiki/East_Hunsbury",
           "/wiki/Far_Cotton",
           "/wiki/Grange_Park,_Northamptonshire",
@@ -186,9 +111,7 @@
         ]
       ],
       [
-        [
-          "South Northamptonshire"
-        ],
+        "Northampton , South Northamptonshire",
         [
           "/wiki/South_Northamptonshire"
         ]
@@ -196,72 +119,35 @@
     ],
     [
       [
+        "NN5",
+        []
+      ],
+      [
+        "NORTHAMPTON",
+        []
+      ],
+      [
+        "Duston , New Duston Kings Heath , St James , Dallington , Spencer , St Crispins , Upton",
         [
-          "NN5"
-        ],
-        [
-          null
+          "/wiki/Duston"
         ]
       ],
       [
-        [
-          "NORTHAMPTON"
-        ],
-        [
-          null
-        ]
-      ],
-      [
-        [
-          "Duston",
-          "New Duston"
-        ],
-        [
-          "/wiki/Duston",
-          null
-        ]
-      ],
-      [
-        [
-          "Northampton"
-        ],
-        [
-          null
-        ]
+        "Northampton",
+        []
       ]
     ],
     [
       [
-        [
-          "NN6"
-        ],
-        [
-          null
-        ]
+        "NN6",
+        []
       ],
       [
-        [
-          "NORTHAMPTON"
-        ],
-        [
-          null
-        ]
+        "NORTHAMPTON",
+        []
       ],
       [
-        [
-          "Brixworth",
-          "Cold Ashby",
-          "Crick",
-          "Earls Barton",
-          "Ecton",
-          "Guilsborough",
-          "Long Buckby",
-          "Spratton",
-          "Sywell",
-          "West Haddon",
-          "Chapel Brampton",
-          "Church Brampton"
-        ],
+        "Brixworth , Cold Ashby , Crick , Earls Barton , Ecton , Guilsborough , Long Buckby Spratton , Sywell , West Haddon , East Haddon , Chapel Brampton , Church Brampton",
         [
           "/wiki/Brixworth",
           "/wiki/Cold_Ashby",
@@ -278,9 +164,7 @@
         ]
       ],
       [
-        [
-          "Wellingborough"
-        ],
+        "Daventry , Northampton , Wellingborough",
         [
           "/wiki/Borough_of_Wellingborough"
         ]
@@ -288,48 +172,15 @@
     ],
     [
       [
-        [
-          "NN7"
-        ],
-        [
-          null
-        ]
+        "NN7",
+        []
       ],
       [
-        [
-          "NORTHAMPTON"
-        ],
-        [
-          null
-        ]
+        "NORTHAMPTON",
+        []
       ],
       [
-        [
-          "Blisworth",
-          "Bugbrooke",
-          "Castle Ashby",
-          "Cogenhoe",
-          "Dodford",
-          "Flore",
-          "Gayton",
-          "Grafton Regis",
-          "Hackleton",
-          "Harpole",
-          "Harlestone",
-          "Hartwell",
-          "Horton",
-          "Milton Malsor",
-          "Nether Heyford",
-          "Piddington",
-          "Preston Deanery",
-          "Quinton",
-          "Roade",
-          "Rothersthorpe",
-          "Stoke Bruerne",
-          "Weedon Bec",
-          "Yardley Gobion",
-          "Yardley Hastings"
-        ],
+        "Blisworth , Bugbrooke , Castle Ashby , Cogenhoe , Dodford , Flore , Gayton , Grafton Regis , Hackleton , Harpole , Harlestone , Hartwell , Horton , Milton Malsor , Nether Heyford , Piddington , Preston Deanery , Quinton , Roade , Rothersthorpe , Stoke Bruerne , Weedon Bec , Yardley Gobion , Yardley Hastings",
         [
           "/wiki/Blisworth",
           "/wiki/Bugbrooke",
@@ -358,77 +209,42 @@
         ]
       ],
       [
-        [
-          "Daventry , South Northamptonshire"
-        ],
-        [
-          null
-        ]
+        "Daventry , South Northamptonshire",
+        []
       ]
     ],
     [
       [
-        [
-          "NN8"
-        ],
-        [
-          null
-        ]
+        "NN8",
+        []
       ],
       [
-        [
-          "WELLINGBOROUGH"
-        ],
-        [
-          null
-        ]
+        "WELLINGBOROUGH",
+        []
       ],
       [
-        [
-          "Wellingborough",
-          "Wilby"
-        ],
+        "Wellingborough , Wilby",
         [
           "/wiki/Wellingborough",
           "/wiki/Wilby,_Northamptonshire"
         ]
       ],
       [
-        [
-          "Wellingborough"
-        ],
-        [
-          null
-        ]
+        "Wellingborough",
+        []
       ]
     ],
     [
       [
-        [
-          "NN9"
-        ],
-        [
-          null
-        ]
+        "NN9",
+        []
       ],
       [
-        [
-          "WELLINGBOROUGH"
-        ],
-        [
-          null
-        ]
+        "WELLINGBOROUGH",
+        []
       ],
       [
-        [
-          "Wellingborough",
-          "Chelveston",
-          "Finedon",
-          "Great Harrowden",
-          "Irthlingborough",
-          "Little Harrowden",
-          "Raunds"
-        ],
+        "Wellingborough , Chelveston , Finedon , Great Harrowden , Irthlingborough , Little Harrowden , Raunds",
         [
           "/wiki/Wellingborough",
           "/wiki/Chelveston",
@@ -440,9 +256,7 @@
         ]
       ],
       [
-        [
-          "East Northamptonshire"
-        ],
+        "East Northamptonshire , Wellingborough",
         [
           "/wiki/East_Northamptonshire"
         ]
@@ -450,27 +264,15 @@
     ],
     [
       [
-        [
-          "NN10"
-        ],
-        [
-          null
-        ]
+        "NN10",
+        []
       ],
       [
-        [
-          "RUSHDEN"
-        ],
-        [
-          null
-        ]
+        "RUSHDEN",
+        []
       ],
       [
-        [
-          "Higham Ferrers",
-          "Rushden",
-          "Wymington"
-        ],
+        "Higham Ferrers , Rushden , Wymington",
         [
           "/wiki/Higham_Ferrers",
           "/wiki/Rushden",
@@ -478,9 +280,7 @@
         ]
       ],
       [
-        [
-          "Bedford"
-        ],
+        "East Northamptonshire , Bedford",
         [
           "/wiki/Borough_of_Bedford"
         ]
@@ -488,31 +288,15 @@
     ],
     [
       [
-        [
-          "NN11"
-        ],
-        [
-          null
-        ]
+        "NN11",
+        []
       ],
       [
-        [
-          "DAVENTRY"
-        ],
-        [
-          null
-        ]
+        "DAVENTRY",
+        []
       ],
       [
-        [
-          "Braunston",
-          "Daventry",
-          "Greens Norton",
-          "Hinton",
-          "Moreton Pinkney",
-          "Welton",
-          "Lower Shuckburgh"
-        ],
+        "Braunston , Daventry , Greens Norton , Hinton , Moreton Pinkney , Welton , Lower Shuckburgh",
         [
           "/wiki/Braunston",
           "/wiki/Daventry",
@@ -524,9 +308,7 @@
         ]
       ],
       [
-        [
-          "Stratford-on-Avon"
-        ],
+        "Daventry , Stratford-on-Avon",
         [
           "/wiki/Stratford-on-Avon_District"
         ]
@@ -534,30 +316,15 @@
     ],
     [
       [
-        [
-          "NN12"
-        ],
-        [
-          null
-        ]
+        "NN12",
+        []
       ],
       [
-        [
-          "TOWCESTER"
-        ],
-        [
-          null
-        ]
+        "TOWCESTER",
+        []
       ],
       [
-        [
-          "Abthorpe",
-          "Caswell",
-          "Greens Norton",
-          "Silverstone",
-          "Towcester",
-          "Weston"
-        ],
+        "Abthorpe , Caswell , Greens Norton , Silverstone , Towcester , Weston",
         [
           "/wiki/Abthorpe",
           "/wiki/Caswell,_Northamptonshire",
@@ -568,41 +335,21 @@
         ]
       ],
       [
-        [
-          "South Northamptonshire"
-        ],
-        [
-          null
-        ]
+        "South Northamptonshire",
+        []
       ]
     ],
     [
       [
-        [
-          "NN13"
-        ],
-        [
-          null
-        ]
+        "NN13",
+        []
       ],
       [
-        [
-          "BRACKLEY"
-        ],
-        [
-          null
-        ]
+        "BRACKLEY",
+        []
       ],
       [
-        [
-          "Brackley",
-          "Croughton",
-          "Farthinghoe",
-          "Hinton-in-the-Hedges",
-          "Westbury",
-          "Turweston",
-          "Mixbury"
-        ],
+        "Brackley , Croughton , Farthinghoe , Hinton-in-the-Hedges , Westbury , Turweston , Mixbury",
         [
           "/wiki/Brackley",
           "/wiki/Croughton,_Northamptonshire",
@@ -614,10 +361,7 @@
         ]
       ],
       [
-        [
-          "Aylesbury Vale",
-          "Cherwell"
-        ],
+        "South Northamptonshire , Aylesbury Vale , Cherwell",
         [
           "/wiki/Aylesbury_Vale",
           "/wiki/Cherwell_District"
@@ -626,33 +370,15 @@
     ],
     [
       [
-        [
-          "NN14"
-        ],
-        [
-          null
-        ]
+        "NN14",
+        []
       ],
       [
-        [
-          "KETTERING"
-        ],
-        [
-          null
-        ]
+        "KETTERING",
+        []
       ],
       [
-        [
-          "Broughton",
-          "Desborough",
-          "Geddington",
-          "Isham",
-          "Pytchley",
-          "Rothwell",
-          "Thorpe Malsor",
-          "Thrapston",
-          "Hardwick"
-        ],
+        "Broughton , Desborough , Geddington , Isham , Pytchley , Rothwell , Thorpe Malsor , Thrapston , Hardwick",
         [
           "/wiki/Broughton,_Northamptonshire",
           "/wiki/Desborough",
@@ -666,9 +392,7 @@
         ]
       ],
       [
-        [
-          "Kettering"
-        ],
+        "East Northamptonshire , Kettering , Wellingborough",
         [
           "/wiki/Borough_of_Kettering"
         ]
@@ -676,105 +400,63 @@
     ],
     [
       [
-        [
-          "NN15"
-        ],
-        [
-          null
-        ]
+        "NN15",
+        []
       ],
       [
-        [
-          "KETTERING"
-        ],
-        [
-          null
-        ]
+        "KETTERING",
+        []
       ],
       [
-        [
-          "Burton Latimer",
-          "Barton Seagrave"
-        ],
+        "Burton Latimer , Barton Seagrave",
         [
           "/wiki/Burton_Latimer",
           "/wiki/Barton_Seagrave"
         ]
       ],
       [
-        [
-          "Kettering"
-        ],
-        [
-          null
-        ]
+        "Kettering",
+        []
       ]
     ],
     [
       [
-        [
-          "NN16"
-        ],
-        [
-          null
-        ]
+        "NN16",
+        []
       ],
       [
-        [
-          "KETTERING"
-        ],
-        [
-          null
-        ]
+        "KETTERING",
+        []
       ],
       [
-        [
-          "Kettering"
-        ],
+        "Kettering",
         [
           "/wiki/Kettering"
         ]
       ],
       [
-        [
-          "Kettering"
-        ],
-        [
-          null
-        ]
+        "Kettering",
+        []
       ]
     ],
     [
       [
-        [
-          "NN17"
-        ],
-        [
-          null
-        ]
+        "NN17",
+        []
       ],
       [
-        [
-          "CORBY"
-        ],
-        [
-          null
-        ]
+        "CORBY",
+        []
       ],
       [
-        [
-          "Bulwick",
-          "Corby"
-        ],
+        "Bulwick , Corby",
         [
           "/wiki/Bulwick",
           "/wiki/Corby"
         ]
       ],
       [
-        [
-          "Corby"
-        ],
+        "Corby , East Northamptonshire",
         [
           "/wiki/Corby"
         ]
@@ -782,65 +464,36 @@
     ],
     [
       [
-        [
-          "NN18"
-        ],
-        [
-          null
-        ]
+        "NN18",
+        []
       ],
       [
-        [
-          "CORBY"
-        ],
-        [
-          null
-        ]
+        "CORBY",
+        []
       ],
       [
-        [
-          "Great Oakley",
-          "Little Oakley"
-        ],
+        "Great Oakley , Little Oakley",
         [
           "/wiki/Great_Oakley,_Northamptonshire",
           "/wiki/Little_Oakley,_Northamptonshire"
         ]
       ],
       [
-        [
-          "Corby"
-        ],
-        [
-          null
-        ]
+        "Corby",
+        []
       ]
     ],
     [
       [
-        [
-          "NN29"
-        ],
-        [
-          null
-        ]
+        "NN29",
+        []
       ],
       [
-        [
-          "WELLINGBOROUGH"
-        ],
-        [
-          null
-        ]
+        "WELLINGBOROUGH",
+        []
       ],
       [
-        [
-          "Bozeat",
-          "Great Doddington",
-          "Irchester",
-          "Podington",
-          "Wollaston"
-        ],
+        "Bozeat , Great Doddington , Irchester , Podington , Wollaston",
         [
           "/wiki/Bozeat",
           "/wiki/Great_Doddington",
@@ -850,46 +503,26 @@
         ]
       ],
       [
-        [
-          "Bedford , Wellingborough"
-        ],
-        [
-          null
-        ]
+        "Bedford , Wellingborough",
+        []
       ]
     ],
     [
       [
-        [
-          "NN99"
-        ],
-        [
-          null
-        ]
+        "NN99",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "non-geographic"
-        ],
-        [
-          null
-        ]
+        "non-geographic",
+        []
       ]
     ]
   ],

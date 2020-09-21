@@ -3,953 +3,569 @@
   "title": "Disposable household and per capita income",
   "header": [
     [
-      [
-        "Rank"
-      ],
-      [
-        null
-      ]
+      "Rank",
+      []
     ],
     [
-      [
-        "Country"
-      ],
-      [
-        null
-      ]
+      "Country",
+      []
     ],
     [
-      [
-        "NCU"
-      ],
-      [
-        null
-      ]
+      "NCU",
+      []
     ],
     [
-      [
-        "Currency in 2004"
-      ],
-      [
-        null
-      ]
+      "Currency in 2004",
+      []
     ],
     [
-      [
-        "PPP rate"
-      ],
-      [
-        null
-      ]
+      "PPP rate",
+      []
     ],
     [
-      [
-        "Median Income ( PPP )"
-      ],
-      [
-        null
-      ]
+      "Median Income ( PPP )",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "United States"
-        ],
+        "United States",
         [
           "/wiki/United_States"
         ]
       ],
       [
-        [
-          "26,672"
-        ],
-        [
-          null
-        ]
+        "26,672",
+        []
       ],
       [
-        [
-          "United States Dollar"
-        ],
+        "United States Dollar",
         [
           "/wiki/United_States_Dollar"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "26,672"
-        ],
-        [
-          null
-        ]
+        "26,672",
+        []
       ]
     ],
     [
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "Switzerland"
-        ],
+        "Switzerland",
         [
           "/wiki/Switzerland"
         ]
       ],
       [
-        [
-          "45,050"
-        ],
-        [
-          null
-        ]
+        "45,050",
+        []
       ],
       [
-        [
-          "Swiss Franc"
-        ],
+        "Swiss Franc",
         [
           "/wiki/Swiss_Franc"
         ]
       ],
       [
-        [
-          "1.88"
-        ],
-        [
-          null
-        ]
+        "1.88",
+        []
       ],
       [
-        [
-          "23,962"
-        ],
-        [
-          null
-        ]
+        "23,962",
+        []
       ]
     ],
     [
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "Norway"
-        ],
+        "Norway",
         [
           "/wiki/Norway"
         ]
       ],
       [
-        [
-          "233,186"
-        ],
-        [
-          null
-        ]
+        "233,186",
+        []
       ],
       [
-        [
-          "Norwegian Krone"
-        ],
+        "Norwegian Krone",
         [
           "/wiki/Norwegian_Krone"
         ]
       ],
       [
-        [
-          "9.8"
-        ],
-        [
-          null
-        ]
+        "9.8",
+        []
       ],
       [
-        [
-          "23,794"
-        ],
-        [
-          null
-        ]
+        "23,794",
+        []
       ]
     ],
     [
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "Canada"
-        ],
+        "Canada",
         [
           "/wiki/Canada"
         ]
       ],
       [
-        [
-          "29,394"
-        ],
-        [
-          null
-        ]
+        "29,394",
+        []
       ],
       [
-        [
-          "Canadian Dollar"
-        ],
+        "Canadian Dollar",
         [
           "/wiki/Canadian_Dollar"
         ]
       ],
       [
-        [
-          "1.27"
-        ],
-        [
-          null
-        ]
+        "1.27",
+        []
       ],
       [
-        [
-          "23,144"
-        ],
-        [
-          null
-        ]
+        "23,144",
+        []
       ]
     ],
     [
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "Austria"
-        ],
+        "Austria",
         [
           "/wiki/Austria"
         ]
       ],
       [
-        [
-          "20,134"
-        ],
-        [
-          null
-        ]
+        "20,134",
+        []
       ],
       [
-        [
-          "Euro"
-        ],
+        "Euro",
         [
           "/wiki/Euro"
         ]
       ],
       [
-        [
-          "0.89"
-        ],
-        [
-          null
-        ]
+        "0.89",
+        []
       ],
       [
-        [
-          "22,622"
-        ],
-        [
-          null
-        ]
+        "22,622",
+        []
       ]
     ],
     [
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "Denmark"
-        ],
+        "Denmark",
         [
           "/wiki/Denmark"
         ]
       ],
       [
-        [
-          "192,937"
-        ],
-        [
-          null
-        ]
+        "192,937",
+        []
       ],
       [
-        [
-          "Danish krone"
-        ],
+        "Danish krone",
         [
           "/wiki/Danish_krone"
         ]
       ],
       [
-        [
-          "9.0"
-        ],
-        [
-          null
-        ]
+        "9.0",
+        []
       ],
       [
-        [
-          "21,437"
-        ],
-        [
-          null
-        ]
+        "21,437",
+        []
       ]
     ],
     [
       [
-        [
-          "7"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ],
       [
-        [
-          "United Kingdom"
-        ],
+        "United Kingdom",
         [
           "/wiki/United_Kingdom"
         ]
       ],
       [
-        [
-          "13,637"
-        ],
-        [
-          null
-        ]
+        "13,637",
+        []
       ],
       [
-        [
-          "British Pound"
-        ],
+        "British Pound",
         [
           "/wiki/British_Pound"
         ]
       ],
       [
-        [
-          "0.637"
-        ],
-        [
-          null
-        ]
+        "0.637",
+        []
       ],
       [
-        [
-          "21,408"
-        ],
-        [
-          null
-        ]
+        "21,408",
+        []
       ]
     ],
     [
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "Germany"
-        ],
+        "Germany",
         [
           "/wiki/Germany"
         ]
       ],
       [
-        [
-          "18,507"
-        ],
-        [
-          null
-        ]
+        "18,507",
+        []
       ],
       [
-        [
-          "Euro"
-        ],
+        "Euro",
         [
           "/wiki/Euro"
         ]
       ],
       [
-        [
-          "0.91"
-        ],
-        [
-          null
-        ]
+        "0.91",
+        []
       ],
       [
-        [
-          "20,337"
-        ],
-        [
-          null
-        ]
+        "20,337",
+        []
       ]
     ],
     [
       [
-        [
-          "9"
-        ],
-        [
-          null
-        ]
+        "9",
+        []
       ],
       [
-        [
-          "Netherlands"
-        ],
+        "Netherlands",
         [
           "/wiki/Netherlands"
         ]
       ],
       [
-        [
-          "18,507"
-        ],
-        [
-          null
-        ]
+        "18,507",
+        []
       ],
       [
-        [
-          "Euro"
-        ],
+        "Euro",
         [
           "/wiki/Euro"
         ]
       ],
       [
-        [
-          "0.91"
-        ],
-        [
-          null
-        ]
+        "0.91",
+        []
       ],
       [
-        [
-          "20,116"
-        ],
-        [
-          null
-        ]
+        "20,116",
+        []
       ]
     ],
     [
       [
-        [
-          "10"
-        ],
-        [
-          null
-        ]
+        "10",
+        []
       ],
       [
-        [
-          "Sweden"
-        ],
+        "Sweden",
         [
           "/wiki/Sweden"
         ]
       ],
       [
-        [
-          "189,475"
-        ],
-        [
-          null
-        ]
+        "189,475",
+        []
       ],
       [
-        [
-          "Swedish Krona"
-        ],
+        "Swedish Krona",
         [
           "/wiki/Swedish_Krona"
         ]
       ],
       [
-        [
-          "9.6"
-        ],
-        [
-          null
-        ]
+        "9.6",
+        []
       ],
       [
-        [
-          "19,736"
-        ],
-        [
-          null
-        ]
+        "19,736",
+        []
       ]
     ],
     [
       [
-        [
-          "11"
-        ],
-        [
-          null
-        ]
+        "11",
+        []
       ],
       [
-        [
-          "Belgium"
-        ],
+        "Belgium",
         [
           "/wiki/Belgium"
         ]
       ],
       [
-        [
-          "17,818"
-        ],
-        [
-          null
-        ]
+        "17,818",
+        []
       ],
       [
-        [
-          "Euro"
-        ],
+        "Euro",
         [
           "/wiki/Euro"
         ]
       ],
       [
-        [
-          "0.924"
-        ],
-        [
-          null
-        ]
+        "0.924",
+        []
       ],
       [
-        [
-          "19,284"
-        ],
-        [
-          null
-        ]
+        "19,284",
+        []
       ]
     ],
     [
       [
-        [
-          "12"
-        ],
-        [
-          null
-        ]
+        "12",
+        []
       ],
       [
-        [
-          "South Korea"
-        ],
+        "South Korea",
         [
           "/wiki/South_Korea"
         ]
       ],
       [
-        [
-          "16,665,877"
-        ],
-        [
-          null
-        ]
+        "16,665,877",
+        []
       ],
       [
-        [
-          "Won"
-        ],
+        "Won",
         [
           "/wiki/South_Korean_won"
         ]
       ],
       [
-        [
-          "886.2"
-        ],
-        [
-          null
-        ]
+        "886.2",
+        []
       ],
       [
-        [
-          "18,806"
-        ],
-        [
-          null
-        ]
+        "18,806",
+        []
       ]
     ],
     [
       [
-        [
-          "13"
-        ],
-        [
-          null
-        ]
+        "13",
+        []
       ],
       [
-        [
-          "France"
-        ],
+        "France",
         [
           "/wiki/France"
         ]
       ],
       [
-        [
-          "17,120"
-        ],
-        [
-          null
-        ]
+        "17,120",
+        []
       ],
       [
-        [
-          "Euro"
-        ],
+        "Euro",
         [
           "/wiki/Euro"
         ]
       ],
       [
-        [
-          "0.952"
-        ],
-        [
-          null
-        ]
+        "0.952",
+        []
       ],
       [
-        [
-          "17,984"
-        ],
-        [
-          null
-        ]
+        "17,984",
+        []
       ]
     ],
     [
       [
-        [
-          "14"
-        ],
-        [
-          null
-        ]
+        "14",
+        []
       ],
       [
-        [
-          "Australia"
-        ],
+        "Australia",
         [
           "/wiki/Australia"
         ]
       ],
       [
-        [
-          "25,581"
-        ],
-        [
-          null
-        ]
+        "25,581",
+        []
       ],
       [
-        [
-          "Australian Dollar"
-        ],
+        "Australian Dollar",
         [
           "/wiki/Australian_Dollar"
         ]
       ],
       [
-        [
-          "1.44"
-        ],
-        [
-          null
-        ]
+        "1.44",
+        []
       ],
       [
-        [
-          "17,764"
-        ],
-        [
-          null
-        ]
+        "17,764",
+        []
       ]
     ],
     [
       [
-        [
-          "15"
-        ],
-        [
-          null
-        ]
+        "15",
+        []
       ],
       [
-        [
-          "Japan"
-        ],
+        "Japan",
         [
           "/wiki/Japan"
         ]
       ],
       [
-        [
-          "2,644,730"
-        ],
-        [
-          null
-        ]
+        "2,644,730",
+        []
       ],
       [
-        [
-          "Yen"
-        ],
+        "Yen",
         [
           "/wiki/Yen"
         ]
       ],
       [
-        [
-          "150.8"
-        ],
-        [
-          null
-        ]
+        "150.8",
+        []
       ],
       [
-        [
-          "17,538"
-        ],
-        [
-          null
-        ]
+        "17,538",
+        []
       ]
     ],
     [
       [
-        [
-          "16"
-        ],
-        [
-          null
-        ]
+        "16",
+        []
       ],
       [
-        [
-          "Spain"
-        ],
+        "Spain",
         [
           "/wiki/Spain"
         ]
       ],
       [
-        [
-          "12,319"
-        ],
-        [
-          null
-        ]
+        "12,319",
+        []
       ],
       [
-        [
-          "Euro"
-        ],
+        "Euro",
         [
           "/wiki/Euro"
         ]
       ],
       [
-        [
-          "0.788"
-        ],
-        [
-          null
-        ]
+        "0.788",
+        []
       ],
       [
-        [
-          "15,633"
-        ],
-        [
-          null
-        ]
+        "15,633",
+        []
       ]
     ],
     [
       [
-        [
-          "17"
-        ],
-        [
-          null
-        ]
+        "17",
+        []
       ],
       [
-        [
-          "Italy"
-        ],
+        "Italy",
         [
           "/wiki/Italy"
         ]
       ],
       [
-        [
-          "13,367"
-        ],
-        [
-          null
-        ]
+        "13,367",
+        []
       ],
       [
-        [
-          "Euro"
-        ],
+        "Euro",
         [
           "/wiki/Euro"
         ]
       ],
       [
-        [
-          "0.91"
-        ],
-        [
-          null
-        ]
+        "0.91",
+        []
       ],
       [
-        [
-          "14,689"
-        ],
-        [
-          null
-        ]
+        "14,689",
+        []
       ]
     ],
     [
       [
-        [
-          "18"
-        ],
-        [
-          null
-        ]
+        "18",
+        []
       ],
       [
-        [
-          "Poland"
-        ],
+        "Poland",
         [
           "/wiki/Poland"
         ]
       ],
       [
-        [
-          "12,697"
-        ],
-        [
-          null
-        ]
+        "12,697",
+        []
       ],
       [
-        [
-          "Polish z\u0142oty"
-        ],
+        "Polish z\u0142oty",
         [
           "/wiki/Polish_z\u0142oty"
         ]
       ],
       [
-        [
-          "2.08"
-        ],
-        [
-          null
-        ]
+        "2.08",
+        []
       ],
       [
-        [
-          "6,104"
-        ],
-        [
-          null
-        ]
+        "6,104",
+        []
       ]
     ]
   ],

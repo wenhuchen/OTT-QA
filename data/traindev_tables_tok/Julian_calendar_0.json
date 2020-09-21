@@ -3,252 +3,155 @@
   "title": "Julian calendar",
   "header": [
     [
-      [
-        "Country"
-      ],
-      [
-        null
-      ]
+      "Country",
+      []
     ],
     [
-      [
-        "Year starting 1 January"
-      ],
-      [
-        null
-      ]
+      "Year starting 1 January",
+      []
     ],
     [
-      [
-        "Adoption of new calendar"
-      ],
-      [
-        null
-      ]
+      "Adoption of new calendar",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Holy Roman Empire"
-        ],
+        "Holy Roman Empire",
         [
           "/wiki/Holy_Roman_Empire"
         ]
       ],
       [
-        [
-          "1544"
-        ],
-        [
-          null
-        ]
+        "1544",
+        []
       ],
       [
-        [
-          "1582"
-        ],
-        [
-          null
-        ]
+        "1582",
+        []
       ]
     ],
     [
       [
-        [
-          "Spain",
-          "Portugal"
-        ],
+        "Spain , Portugal",
         [
           "/wiki/Spain",
           "/wiki/Portugal"
         ]
       ],
       [
-        [
-          "1556"
-        ],
-        [
-          null
-        ]
+        "1556",
+        []
       ],
       [
-        [
-          "1582"
-        ],
-        [
-          null
-        ]
+        "1582",
+        []
       ]
     ],
     [
       [
-        [
-          "Prussia",
-          "Denmark-Norway"
-        ],
+        "Prussia , Denmark-Norway",
         [
           "/wiki/Prussia",
           "/wiki/Denmark\u2013Norway"
         ]
       ],
       [
-        [
-          "1559"
-        ],
-        [
-          null
-        ]
+        "1559",
+        []
       ],
       [
-        [
-          "1700"
-        ],
-        [
-          null
-        ]
+        "1700",
+        []
       ]
     ],
     [
       [
-        [
-          "Sweden"
-        ],
+        "Sweden",
         [
           "/wiki/Sweden"
         ]
       ],
       [
-        [
-          "1559"
-        ],
-        [
-          null
-        ]
+        "1559",
+        []
       ],
       [
-        [
-          "1753"
-        ],
-        [
-          null
-        ]
+        "1753",
+        []
       ]
     ],
     [
       [
-        [
-          "France"
-        ],
+        "France",
         [
           "/wiki/France"
         ]
       ],
       [
-        [
-          "1567"
-        ],
+        "1567",
         [
           "/wiki/Edict_of_Roussillon"
         ]
       ],
       [
-        [
-          "1582"
-        ],
-        [
-          null
-        ]
+        "1582",
+        []
       ]
     ],
     [
       [
-        [
-          "Southern Netherlands"
-        ],
+        "Southern Netherlands",
         [
           "/wiki/Southern_Netherlands"
         ]
       ],
       [
-        [
-          "1576"
-        ],
-        [
-          null
-        ]
+        "1576",
+        []
       ],
       [
-        [
-          "1582"
-        ],
-        [
-          null
-        ]
+        "1582",
+        []
       ]
     ],
     [
       [
-        [
-          "Lorraine"
-        ],
+        "Lorraine",
         [
           "/wiki/Lorraine_(province)"
         ]
       ],
       [
-        [
-          "1579"
-        ],
-        [
-          null
-        ]
+        "1579",
+        []
       ],
       [
-        [
-          "1760"
-        ],
-        [
-          null
-        ]
+        "1760",
+        []
       ]
     ],
     [
       [
-        [
-          "Holland",
-          "Zeeland"
-        ],
+        "Holland , Zeeland",
         [
           "/wiki/Holland",
           "/wiki/Zeeland"
         ]
       ],
       [
-        [
-          "1583"
-        ],
-        [
-          null
-        ]
+        "1583",
+        []
       ],
       [
-        [
-          "1582"
-        ],
-        [
-          null
-        ]
+        "1582",
+        []
       ]
     ],
     [
       [
-        [
-          "Dutch Republic",
-          "Holland",
-          "Zeeland"
-        ],
+        "Dutch Republic except Holland and Zeeland",
         [
           "/wiki/Dutch_Republic",
           "/wiki/Holland",
@@ -256,206 +159,126 @@
         ]
       ],
       [
-        [
-          "1583"
-        ],
-        [
-          null
-        ]
+        "1583",
+        []
       ],
       [
-        [
-          "1700"
-        ],
-        [
-          null
-        ]
+        "1700",
+        []
       ]
     ],
     [
       [
-        [
-          "Scotland"
-        ],
+        "Scotland",
         [
           "/wiki/Kingdom_of_Scotland"
         ]
       ],
       [
-        [
-          "1600"
-        ],
-        [
-          null
-        ]
+        "1600",
+        []
       ],
       [
-        [
-          "1752"
-        ],
-        [
-          null
-        ]
+        "1752",
+        []
       ]
     ],
     [
       [
-        [
-          "Russia"
-        ],
+        "Russia",
         [
           "/wiki/Russia"
         ]
       ],
       [
-        [
-          "1700"
-        ],
-        [
-          null
-        ]
+        "1700",
+        []
       ],
       [
-        [
-          "1918"
-        ],
-        [
-          null
-        ]
+        "1918",
+        []
       ]
     ],
     [
       [
-        [
-          "Tuscany"
-        ],
+        "Tuscany",
         [
           "/wiki/Grand_Duchy_of_Tuscany"
         ]
       ],
       [
-        [
-          "1750"
-        ],
-        [
-          null
-        ]
+        "1750",
+        []
       ],
       [
-        [
-          "1582"
-        ],
-        [
-          null
-        ]
+        "1582",
+        []
       ]
     ],
     [
       [
-        [
-          "British Empire",
-          "Scotland"
-        ],
+        "British Empire excluding Scotland",
         [
           "/wiki/British_Empire",
           "/wiki/Scotland"
         ]
       ],
       [
-        [
-          "1752"
-        ],
-        [
-          null
-        ]
+        "1752",
+        []
       ],
       [
-        [
-          "1752"
-        ],
-        [
-          null
-        ]
+        "1752",
+        []
       ]
     ],
     [
       [
-        [
-          "Republic of Venice"
-        ],
+        "Republic of Venice",
         [
           "/wiki/Republic_of_Venice"
         ]
       ],
       [
-        [
-          "1797"
-        ],
-        [
-          null
-        ]
+        "1797",
+        []
       ],
       [
-        [
-          "1582"
-        ],
-        [
-          null
-        ]
+        "1582",
+        []
       ]
     ],
     [
       [
-        [
-          "Serbia"
-        ],
+        "Serbia",
         [
           "/wiki/Serbia"
         ]
       ],
       [
-        [
-          "1804"
-        ],
-        [
-          null
-        ]
+        "1804",
+        []
       ],
       [
-        [
-          "1918"
-        ],
-        [
-          null
-        ]
+        "1918",
+        []
       ]
     ],
     [
       [
-        [
-          "Ottoman Empire",
-          "Turkey"
-        ],
+        "Ottoman Empire ( Turkey )",
         [
           "/wiki/Ottoman_Empire",
           "/wiki/Turkey"
         ]
       ],
       [
-        [
-          "1918"
-        ],
-        [
-          null
-        ]
+        "1918",
+        []
       ],
       [
-        [
-          "1917"
-        ],
-        [
-          null
-        ]
+        "1917",
+        []
       ]
     ]
   ],

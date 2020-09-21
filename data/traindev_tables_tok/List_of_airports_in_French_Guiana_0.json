@@ -3,423 +3,265 @@
   "title": "List of airports in French Guiana",
   "header": [
     [
-      [
-        "City served / Location"
-      ],
+      "City served / Location",
       [
         "/wiki/Communes_of_the_Guyane_d\u00e9partement"
       ]
     ],
     [
-      [
-        "ICAO"
-      ],
+      "ICAO",
       [
         "/wiki/ICAO_airport_code"
       ]
     ],
     [
-      [
-        "IATA"
-      ],
+      "IATA",
       [
         "/wiki/IATA_airport_code"
       ]
     ],
     [
-      [
-        "Airport name"
-      ],
-      [
-        null
-      ]
+      "Airport name",
+      []
     ],
     [
-      [
-        "Usage"
-      ],
-      [
-        null
-      ]
+      "Usage",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Cayenne"
-        ],
+        "Cayenne",
         [
           "/wiki/Cayenne"
         ]
       ],
       [
-        [
-          "SOCA"
-        ],
-        [
-          null
-        ]
+        "SOCA",
+        []
       ],
       [
-        [
-          "CAY"
-        ],
-        [
-          null
-        ]
+        "CAY",
+        []
       ],
       [
-        [
-          "Cayenne - F\u00e9lix Ebou\u00e9 Airport"
-        ],
+        "Cayenne - F\u00e9lix Ebou\u00e9 Airport",
         [
           "/wiki/Cayenne_\u2013_F\u00e9lix_Ebou\u00e9_Airport"
         ]
       ],
       [
-        [
-          "Public"
-        ],
-        [
-          null
-        ]
+        "Public",
+        []
       ]
     ],
     [
       [
-        [
-          "Camopi"
-        ],
+        "Camopi",
         [
           "/wiki/Camopi"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Vila Brasil Airport"
-        ],
+        "Vila Brasil Airport",
         [
           "/wiki/Vila_Brasil_Airport"
         ]
       ],
       [
-        [
-          "Public/Military"
-        ],
-        [
-          null
-        ]
+        "Public/Military",
+        []
       ]
     ],
     [
       [
-        [
-          "Grand Santi"
-        ],
+        "Grand Santi",
         [
           "/wiki/Grand-Santi"
         ]
       ],
       [
-        [
-          "SOGS"
-        ],
-        [
-          null
-        ]
+        "SOGS",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Grand-Santi Airport"
-        ],
+        "Grand-Santi Airport",
         [
           "/wiki/Grand-Santi_Airport"
         ]
       ],
       [
-        [
-          "Restricted"
-        ],
-        [
-          null
-        ]
+        "Restricted",
+        []
       ]
     ],
     [
       [
-        [
-          "Maripasoula"
-        ],
+        "Maripasoula",
         [
           "/wiki/Maripasoula"
         ]
       ],
       [
-        [
-          "SOOA"
-        ],
-        [
-          null
-        ]
+        "SOOA",
+        []
       ],
       [
-        [
-          "MPY"
-        ],
-        [
-          null
-        ]
+        "MPY",
+        []
       ],
       [
-        [
-          "Maripasoula Airport"
-        ],
+        "Maripasoula Airport",
         [
           "/wiki/Maripasoula_Airport"
         ]
       ],
       [
-        [
-          "Restricted"
-        ],
-        [
-          null
-        ]
+        "Restricted",
+        []
       ]
     ],
     [
       [
-        [
-          "R\u00e9gina"
-        ],
+        "R\u00e9gina",
         [
           "/wiki/R\u00e9gina"
         ]
       ],
       [
-        [
-          "SOOR"
-        ],
-        [
-          null
-        ]
+        "SOOR",
+        []
       ],
       [
-        [
-          "REI"
-        ],
-        [
-          null
-        ]
+        "REI",
+        []
       ],
       [
-        [
-          "R\u00e9gina Airport"
-        ],
+        "R\u00e9gina Airport",
         [
           "/wiki/R\u00e9gina_Airport"
         ]
       ],
       [
-        [
-          "Restricted"
-        ],
-        [
-          null
-        ]
+        "Restricted",
+        []
       ]
     ],
     [
       [
-        [
-          "Saint-Georges -de-l'Oyapock"
-        ],
+        "Saint-Georges -de-l'Oyapock",
         [
           "/wiki/Saint-Georges_de_l'Oyapock"
         ]
       ],
       [
-        [
-          "SOOG"
-        ],
-        [
-          null
-        ]
+        "SOOG",
+        []
       ],
       [
-        [
-          "OYP"
-        ],
-        [
-          null
-        ]
+        "OYP",
+        []
       ],
       [
-        [
-          "Saint-Georges-de-l'Oyapock Airport"
-        ],
+        "Saint-Georges-de-l'Oyapock Airport",
         [
           "/wiki/Saint-Georges-de-l'Oyapock_Airport"
         ]
       ],
       [
-        [
-          "Restricted"
-        ],
-        [
-          null
-        ]
+        "Restricted",
+        []
       ]
     ],
     [
       [
-        [
-          "Saint-Laurent -du-Maroni"
-        ],
+        "Saint-Laurent -du-Maroni",
         [
           "/wiki/Saint-Laurent-du-Maroni"
         ]
       ],
       [
-        [
-          "SOOM"
-        ],
-        [
-          null
-        ]
+        "SOOM",
+        []
       ],
       [
-        [
-          "LDX"
-        ],
-        [
-          null
-        ]
+        "LDX",
+        []
       ],
       [
-        [
-          "Saint-Laurent-du-Maroni Airport"
-        ],
+        "Saint-Laurent-du-Maroni Airport",
         [
           "/wiki/Saint-Laurent-du-Maroni_Airport"
         ]
       ],
       [
-        [
-          "Public"
-        ],
-        [
-          null
-        ]
+        "Public",
+        []
       ]
     ],
     [
       [
-        [
-          "Sa\u00fcl"
-        ],
+        "Sa\u00fcl",
         [
           "/wiki/Sa\u00fcl"
         ]
       ],
       [
-        [
-          "SOOS"
-        ],
-        [
-          null
-        ]
+        "SOOS",
+        []
       ],
       [
-        [
-          "XAU"
-        ],
-        [
-          null
-        ]
+        "XAU",
+        []
       ],
       [
-        [
-          "Sa\u00fcl Airport"
-        ],
+        "Sa\u00fcl Airport",
         [
           "/wiki/Sa\u00fcl_Airport"
         ]
       ],
       [
-        [
-          "Restricted"
-        ],
-        [
-          null
-        ]
+        "Restricted",
+        []
       ]
     ],
     [
       [
-        [
-          "Sinnamary"
-        ],
+        "Sinnamary",
         [
           "/wiki/Sinnamary"
         ]
       ],
       [
-        [
-          "SOOY"
-        ],
-        [
-          null
-        ]
+        "SOOY",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Sinnamary Airport"
-        ],
+        "Sinnamary Airport",
         [
           "/wiki/Sinnamary_Airport"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ]
   ],

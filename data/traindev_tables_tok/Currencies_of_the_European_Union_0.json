@@ -3,41 +3,27 @@
   "title": "Currencies of the European Union",
   "header": [
     [
-      [
-        "Currency"
-      ],
-      [
-        null
-      ]
+      "Currency",
+      []
     ],
     [
-      [
-        "Region"
-      ],
-      [
-        null
-      ]
+      "Region",
+      []
     ],
     [
-      [
-        "Symbol"
-      ],
+      "Symbol",
       [
         "/wiki/Currency_sign"
       ]
     ],
     [
-      [
-        "ISO"
-      ],
+      "ISO",
       [
         "/wiki/ISO_4217"
       ]
     ],
     [
-      [
-        "Peg"
-      ],
+      "Peg",
       [
         "/wiki/Currency_peg"
       ]
@@ -46,36 +32,13 @@
   "data": [
     [
       [
-        [
-          "Euro"
-        ],
+        "Euro",
         [
           "/wiki/Euro"
         ]
       ],
       [
-        [
-          "Eurozone",
-          "Austria",
-          "Belgium",
-          "Cyprus",
-          "Estonia",
-          "Finland",
-          "France",
-          "Germany",
-          "Greece",
-          "Ireland",
-          "Italy",
-          "Latvia",
-          "Lithuania",
-          "Luxembourg",
-          "Malta",
-          "Netherlands",
-          "Portugal",
-          "Slovakia",
-          "Slovenia",
-          "Spain"
-        ],
+        "Eurozone Austria Belgium Cyprus Estonia Finland France Germany Greece Ireland Italy Latvia Lithuania Luxembourg Malta Netherlands Portugal Slovakia Slovenia Spain",
         [
           "/wiki/Eurozone",
           "/wiki/Austria",
@@ -100,67 +63,43 @@
         ]
       ],
       [
-        [
-          "\u20ac"
-        ],
+        "\u20ac",
         [
           "/wiki/Euro_sign"
         ]
       ],
       [
-        [
-          "EUR"
-        ],
-        [
-          null
-        ]
+        "EUR",
+        []
       ],
       [
-        [
-          "Floating"
-        ],
-        [
-          null
-        ]
+        "Floating",
+        []
       ]
     ],
     [
       [
-        [
-          "Bulgarian lev"
-        ],
+        "Bulgarian lev",
         [
           "/wiki/Bulgarian_lev"
         ]
       ],
       [
-        [
-          "Bulgaria"
-        ],
+        "Bulgaria",
         [
           "/wiki/Bulgaria"
         ]
       ],
       [
-        [
-          "\u043b\u0432"
-        ],
-        [
-          null
-        ]
+        "\u043b\u0432",
+        []
       ],
       [
-        [
-          "BGN"
-        ],
-        [
-          null
-        ]
+        "BGN",
+        []
       ],
       [
-        [
-          "Currency board"
-        ],
+        "Currency board",
         [
           "/wiki/Currency_board"
         ]
@@ -168,41 +107,27 @@
     ],
     [
       [
-        [
-          "Croatian kuna"
-        ],
+        "Croatian kuna",
         [
           "/wiki/Croatian_kuna"
         ]
       ],
       [
-        [
-          "Croatia"
-        ],
+        "Croatia",
         [
           "/wiki/Croatia"
         ]
       ],
       [
-        [
-          "kn"
-        ],
-        [
-          null
-        ]
+        "kn",
+        []
       ],
       [
-        [
-          "HRK"
-        ],
-        [
-          null
-        ]
+        "HRK",
+        []
       ],
       [
-        [
-          "Floating"
-        ],
+        "Floating",
         [
           "/wiki/Floating_currency"
         ]
@@ -210,83 +135,53 @@
     ],
     [
       [
-        [
-          "Czech koruna"
-        ],
+        "Czech koruna",
         [
           "/wiki/Czech_koruna"
         ]
       ],
       [
-        [
-          "Czech Republic"
-        ],
+        "Czech Republic",
         [
           "/wiki/Czech_Republic"
         ]
       ],
       [
-        [
-          "K\u010d"
-        ],
-        [
-          null
-        ]
+        "K\u010d",
+        []
       ],
       [
-        [
-          "CZK"
-        ],
-        [
-          null
-        ]
+        "CZK",
+        []
       ],
       [
-        [
-          "Floating"
-        ],
-        [
-          null
-        ]
+        "Floating",
+        []
       ]
     ],
     [
       [
-        [
-          "Danish krone"
-        ],
+        "Danish krone",
         [
           "/wiki/Danish_krone"
         ]
       ],
       [
-        [
-          "Denmark"
-        ],
+        "Denmark",
         [
           "/wiki/Denmark"
         ]
       ],
       [
-        [
-          "kr"
-        ],
-        [
-          null
-        ]
+        "kr",
+        []
       ],
       [
-        [
-          "DKK"
-        ],
-        [
-          null
-        ]
+        "DKK",
+        []
       ],
       [
-        [
-          "ERM II"
-        ],
+        "ERM II",
         [
           "/wiki/European_Exchange_Rate_Mechanism"
         ]
@@ -294,188 +189,117 @@
     ],
     [
       [
-        [
-          "Hungarian forint"
-        ],
+        "Hungarian forint",
         [
           "/wiki/Hungarian_forint"
         ]
       ],
       [
-        [
-          "Hungary"
-        ],
+        "Hungary",
         [
           "/wiki/Hungary"
         ]
       ],
       [
-        [
-          "Ft"
-        ],
-        [
-          null
-        ]
+        "Ft",
+        []
       ],
       [
-        [
-          "HUF"
-        ],
-        [
-          null
-        ]
+        "HUF",
+        []
       ],
       [
-        [
-          "Floating"
-        ],
-        [
-          null
-        ]
+        "Floating",
+        []
       ]
     ],
     [
       [
-        [
-          "Polish z\u0142oty"
-        ],
+        "Polish z\u0142oty",
         [
           "/wiki/Polish_z\u0142oty"
         ]
       ],
       [
-        [
-          "Poland"
-        ],
+        "Poland",
         [
           "/wiki/Poland"
         ]
       ],
       [
-        [
-          "z\u0142"
-        ],
-        [
-          null
-        ]
+        "z\u0142",
+        []
       ],
       [
-        [
-          "PLN"
-        ],
-        [
-          null
-        ]
+        "PLN",
+        []
       ],
       [
-        [
-          "Floating"
-        ],
-        [
-          null
-        ]
+        "Floating",
+        []
       ]
     ],
     [
       [
-        [
-          "Romanian leu"
-        ],
+        "Romanian leu",
         [
           "/wiki/Romanian_leu"
         ]
       ],
       [
-        [
-          "Romania"
-        ],
+        "Romania",
         [
           "/wiki/Romania"
         ]
       ],
       [
-        [
-          "Leu"
-        ],
-        [
-          null
-        ]
+        "Leu",
+        []
       ],
       [
-        [
-          "RON"
-        ],
-        [
-          null
-        ]
+        "RON",
+        []
       ],
       [
-        [
-          "Floating"
-        ],
-        [
-          null
-        ]
+        "Floating",
+        []
       ]
     ],
     [
       [
-        [
-          "Swedish krona"
-        ],
+        "Swedish krona",
         [
           "/wiki/Swedish_krona"
         ]
       ],
       [
-        [
-          "Sweden"
-        ],
+        "Sweden",
         [
           "/wiki/Sweden"
         ]
       ],
       [
-        [
-          "kr"
-        ],
-        [
-          null
-        ]
+        "kr",
+        []
       ],
       [
-        [
-          "SEK"
-        ],
-        [
-          null
-        ]
+        "SEK",
+        []
       ],
       [
-        [
-          "Floating"
-        ],
-        [
-          null
-        ]
+        "Floating",
+        []
       ]
     ],
     [
       [
-        [
-          "Swiss franc"
-        ],
+        "Swiss franc",
         [
           "/wiki/Swiss_franc"
         ]
       ],
       [
-        [
-          "Campione d'Italia",
-          "Italy",
-          "B\u00fcsingen am Hochrhein",
-          "Germany"
-        ],
+        "Campione d'Italia ( part of Italy ) B\u00fcsingen am Hochrhein ( part of Germany )",
         [
           "/wiki/Campione_d'Italia",
           "/wiki/Italy",
@@ -484,28 +308,16 @@
         ]
       ],
       [
-        [
-          "Fr"
-        ],
-        [
-          null
-        ]
+        "Fr",
+        []
       ],
       [
-        [
-          "CHF"
-        ],
-        [
-          null
-        ]
+        "CHF",
+        []
       ],
       [
-        [
-          "Floating"
-        ],
-        [
-          null
-        ]
+        "Floating",
+        []
       ]
     ]
   ],

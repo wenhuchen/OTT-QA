@@ -3,300 +3,184 @@
   "title": "Higher-speed rail",
   "header": [
     [
-      [
-        "Line name"
-      ],
-      [
-        null
-      ]
+      "Line name",
+      []
     ],
     [
-      [
-        "Line name ( Chinese )"
-      ],
-      [
-        null
-      ]
+      "Line name ( Chinese )",
+      []
     ],
     [
-      [
-        "start station"
-      ],
-      [
-        null
-      ]
+      "start station",
+      []
     ],
     [
-      [
-        "end station"
-      ],
-      [
-        null
-      ]
+      "end station",
+      []
     ],
     [
-      [
-        "Train identifiers"
-      ],
-      [
-        null
-      ]
+      "Train identifiers",
+      []
     ],
     [
-      [
-        "Note"
-      ],
-      [
-        null
-      ]
+      "Note",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Shanghai Area : Jinshan"
-        ],
+        "Shanghai Area : Jinshan",
         [
           "/wiki/Jinshan_railway"
         ]
       ],
       [
-        [
-          "\u91d1\u5c71\u7ebf"
-        ],
-        [
-          null
-        ]
+        "\u91d1\u5c71\u7ebf",
+        []
       ],
       [
-        [
-          "Shanghai South"
-        ],
+        "Shanghai South",
         [
           "/wiki/Shanghai_South_railway_station"
         ]
       ],
       [
-        [
-          "Jinshanwei"
-        ],
+        "Jinshanwei",
         [
           "/wiki/Jinshanwei_railway_station"
         ]
       ],
       [
-        [
-          "C ?"
-        ],
-        [
-          null
-        ]
+        "C ?",
+        []
       ],
       [
-        [
-          "Also called Shanghai Metro Line 22"
-        ],
-        [
-          null
-        ]
+        "Also called Shanghai Metro Line 22",
+        []
       ]
     ],
     [
       [
-        [
-          "Zhongchuan Airport intercity"
-        ],
+        "Zhongchuan Airport intercity",
         [
           "/wiki/Lanzhou\u2013Zhongchuan_Airport_intercity_railway"
         ]
       ],
       [
-        [
-          "\u4e2d\u5ddd\u673a\u573a\u57ce\u9645"
-        ],
-        [
-          null
-        ]
+        "\u4e2d\u5ddd\u673a\u573a\u57ce\u9645",
+        []
       ],
       [
-        [
-          "Lanzhou West"
-        ],
+        "Lanzhou West",
         [
           "/wiki/Lanzhou_West_railway_station"
         ]
       ],
       [
-        [
-          "Zhongchuan Airport"
-        ],
+        "Zhongchuan Airport",
         [
           "/wiki/Zhongchuan_Airport_railway_station"
         ]
       ],
       [
-        [
-          "C D"
-        ],
-        [
-          null
-        ]
+        "C D",
+        []
       ],
       [
-        [
-          "Lanzhou Area only except a single round trip to/from Tianshui South"
-        ],
-        [
-          null
-        ]
+        "Lanzhou Area only except a single round trip to/from Tianshui South",
+        []
       ]
     ],
     [
       [
-        [
-          "Beijing Subway Daxing Airport Express"
-        ],
+        "Beijing Subway Daxing Airport Express",
         [
           "/wiki/Daxing_Airport_Express"
         ]
       ],
       [
-        [
-          "\u5317\u4eac\u5730\u94c1\u5927\u5174\u673a\u573a\u7ebf"
-        ],
-        [
-          null
-        ]
+        "\u5317\u4eac\u5730\u94c1\u5927\u5174\u673a\u573a\u7ebf",
+        []
       ],
       [
-        [
-          "Caoqiao"
-        ],
-        [
-          null
-        ]
+        "Caoqiao",
+        []
       ],
       [
-        [
-          "Daxing Airport"
-        ],
+        "Daxing Airport",
         [
           "/wiki/Daxing_Airport_railway_station"
         ]
       ],
       [
-        [
-          "Unknown"
-        ],
-        [
-          null
-        ]
+        "Unknown",
+        []
       ],
       [
-        [
-          "Not part of CR System"
-        ],
-        [
-          null
-        ]
+        "Not part of CR System",
+        []
       ]
     ],
     [
       [
-        [
-          "Baotou-Xi'an"
-        ],
+        "Baotou-Xi'an *",
         [
           "/wiki/Xi'an\u2013Yan'an_railway"
         ]
       ],
       [
-        [
-          "\u5305\u897f\u7ebf\u897f\u5ef6\u6bb5"
-        ],
-        [
-          null
-        ]
+        "\u5305\u897f\u7ebf\u897f\u5ef6\u6bb5",
+        []
       ],
       [
-        [
-          "Xi'an"
-        ],
+        "Xi'an",
         [
           "/wiki/Xi'an_railway_station"
         ]
       ],
       [
-        [
-          "Yan'an"
-        ],
-        [
-          null
-        ]
+        "Yan'an",
+        []
       ],
       [
-        [
-          "D Z T K"
-        ],
-        [
-          null
-        ]
+        "D Z T K",
+        []
       ],
       [
-        [
-          "Baotou-Xi'an High-speed Railway"
-        ],
-        [
-          null
-        ]
+        "Different from Baotou-Xi'an High-speed Railway ( under construction )",
+        []
       ]
     ],
     [
       [
-        [
-          "Nanjing-Chengdu"
-        ],
+        "Nanjing-Chengdu *",
         [
           "/wiki/Yichang\u2013Wanzhou_railway"
         ]
       ],
       [
-        [
-          "\u5b81\u84c9\u7ebf\u5b9c\u51c9\u6bb5 ( \u5b9c\u4e07\u94c1\u8def )"
-        ],
-        [
-          null
-        ]
+        "\u5b81\u84c9\u7ebf\u5b9c\u51c9\u6bb5 ( \u5b9c\u4e07\u94c1\u8def )",
+        []
       ],
       [
-        [
-          "Yichang East"
-        ],
+        "Yichang East",
         [
           "/wiki/Yichang_East_railway_station"
         ]
       ],
       [
-        [
-          "Liangwu"
-        ],
+        "Liangwu",
         [
           "/wiki/Liangwu_railway_station"
         ]
       ],
       [
-        [
-          "G D Z K"
-        ],
-        [
-          null
-        ]
+        "G D Z K",
+        []
       ],
       [
-        [
-          "Lichuan"
-        ],
+        "Passenger service branches at Lichuan",
         [
           "/wiki/Lichuan_railway_station"
         ]
@@ -304,204 +188,124 @@
     ],
     [
       [
-        [
-          "Lanzhou-Chongqing"
-        ],
+        "Lanzhou-Chongqing",
         [
           "/wiki/Chongqing\u2013Lanzhou_railway"
         ]
       ],
       [
-        [
-          "\u5170\u6e1d\u94c1\u8def"
-        ],
-        [
-          null
-        ]
+        "\u5170\u6e1d\u94c1\u8def",
+        []
       ],
       [
-        [
-          "Lanzhou"
-        ],
+        "Lanzhou",
         [
           "/wiki/Lanzhou_railway_station"
         ]
       ],
       [
-        [
-          "Chongqing North"
-        ],
+        "Chongqing North",
         [
           "/wiki/Chongqing_North_railway_station"
         ]
       ],
       [
-        [
-          "G D Z K"
-        ],
-        [
-          null
-        ]
+        "G D Z K",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Changsha-Zhuzhou/Xiangtan"
-        ],
+        "Changsha-Zhuzhou/Xiangtan",
         [
           "/wiki/Changsha\u2013Zhuzhou\u2013Xiangtan_intercity_railway"
         ]
       ],
       [
-        [
-          "\u957f\u682a\u6f6d\u57ce\u9645\u94c1\u8def"
-        ],
-        [
-          null
-        ]
+        "\u957f\u682a\u6f6d\u57ce\u9645\u94c1\u8def",
+        []
       ],
       [
-        [
-          "Changsha West"
-        ],
-        [
-          null
-        ]
+        "Changsha West",
+        []
       ],
       [
+        "Zhuzhou South / Xiangtan",
         [
-          "Zhuzhou South",
-          "Xiangtan"
-        ],
-        [
-          null,
           "/wiki/Xiangtan_railway_station"
         ]
       ],
       [
-        [
-          "C"
-        ],
-        [
-          null
-        ]
+        "C",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Guiyang-Kaiyang"
-        ],
+        "Guiyang-Kaiyang",
         [
           "/wiki/Guiyang\u2013Kaiyang_intercity_railway"
         ]
       ],
       [
-        [
-          "\u8d35\u5f00\u57ce\u9645\u94c1\u8def"
-        ],
-        [
-          null
-        ]
+        "\u8d35\u5f00\u57ce\u9645\u94c1\u8def",
+        []
       ],
       [
-        [
-          "Guiyang"
-        ],
-        [
-          null
-        ]
+        "Guiyang",
+        []
       ],
       [
-        [
-          "Kaiyang"
-        ],
-        [
-          null
-        ]
+        "Kaiyang",
+        []
       ],
       [
-        [
-          "C"
-        ],
-        [
-          null
-        ]
+        "C",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Guangzhou-Shenzhen ( quadtuple track )"
-        ],
+        "Guangzhou-Shenzhen ( quadtuple track )",
         [
           "/wiki/Guangzhou\u2013Shenzhen_railway"
         ]
       ],
       [
-        [
-          "\u5e7f\u6df1\u7ebf ( \u57ce\u9645\u7ebf )"
-        ],
-        [
-          null
-        ]
+        "\u5e7f\u6df1\u7ebf ( \u57ce\u9645\u7ebf )",
+        []
       ],
       [
-        [
-          "Foshan West"
-        ],
+        "Foshan West",
         [
           "/wiki/Foshan_West_railway_station"
         ]
       ],
       [
-        [
-          "Shenzhen"
-        ],
+        "Shenzhen",
         [
           "/wiki/Shenzhen_railway_station"
         ]
       ],
       [
-        [
-          "C D"
-        ],
-        [
-          null
-        ]
+        "C D",
+        []
       ],
       [
-        [
-          "Huaiji"
-        ],
-        [
-          null
-        ]
+        "Through operation to Huaiji ( Guiyang-Guangzhou high-speed line ) . Operates at 180km/h",
+        []
       ]
     ]
   ],

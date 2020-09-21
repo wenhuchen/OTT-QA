@@ -3,55 +3,32 @@
   "title": "List of districts of Seoul",
   "header": [
     [
-      [
-        "Name"
-      ],
-      [
-        null
-      ]
+      "Name",
+      []
     ],
     [
-      [
-        "Dong"
-      ],
-      [
-        null
-      ]
+      "Dong",
+      []
     ],
     [
-      [
-        "General Information"
-      ],
-      [
-        null
-      ]
+      "General Information",
+      []
     ],
     [
-      [
-        "Points of Interest"
-      ],
-      [
-        null
-      ]
+      "Points of Interest",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Dobong-gu"
-        ],
+        "Dobong-gu",
         [
           "/wiki/Dobong-gu"
         ]
       ],
       [
-        [
-          "Dobong-dong",
-          "Banghak-dong",
-          "Ssangmun-dong",
-          "Chang-dong"
-        ],
+        "Dobong-dong Banghak-dong Ssangmun-dong Chang-dong",
         [
           "/wiki/Dobong-dong",
           "/wiki/Banghak-dong",
@@ -60,19 +37,14 @@
         ]
       ],
       [
-        [
-          "Dobongsan",
-          "Chang-dong station"
-        ],
+        "Located in the North-East of the city , Dobong is a largely residential district , which has been part of Seoul since 1963 . Located next to its namesake Dobongsan , the district is expected to benefit from urban development projects near Chang-dong station",
         [
           "/wiki/Dobongsan",
           "/wiki/Chang-dong_station"
         ]
       ],
       [
-        [
-          "Dobongsan"
-        ],
+        "Dobongsan",
         [
           "/wiki/Dobongsan"
         ]
@@ -80,26 +52,13 @@
     ],
     [
       [
-        [
-          "Dongdaemun-gu"
-        ],
+        "Dongdaemun-gu",
         [
           "/wiki/Dongdaemun-gu"
         ]
       ],
       [
-        [
-          "Cheongnyangni-dong",
-          "Dapsimni-dong",
-          "Hoegi-dong",
-          "Hwigyeong-dong",
-          "Imun-dong",
-          "Jegi-dong",
-          "Jangan-dong",
-          "Jeonnong-dong",
-          "Sinseol-dong",
-          "Yongdu-dong"
-        ],
+        "Cheongnyangni-dong Dapsimni-dong Hoegi-dong Hwigyeong-dong Imun-dong Jegi-dong Jangan-dong Jeonnong-dong Sinseol-dong Yongdu-dong",
         [
           "/wiki/Cheongnyangni-dong",
           "/wiki/Dapsimni-dong",
@@ -114,48 +73,29 @@
         ]
       ],
       [
-        [
-          "Dongdaemun",
-          "Cheongnyangni station"
-        ],
+        "Despite its name ( Large East Gate ) , Dongdaemun district does not include the East gate of Seoul , also known as Dongdaemun ( and by its official name Heunginjimun ) . Incorportated into Seoul in 1936 , the heart of the district is Cheongnyangni station , one of the main train stations in Seoul , built in 1911",
         [
           "/wiki/Heunginjimun",
           "/wiki/Cheongnyangni_station"
         ]
       ],
       [
-        [
-          "Cheongnyangni Station",
-          "Gyeongdong Market",
-          "Hongneung Park ( Arboretum )"
-        ],
+        "Cheongnyangni Station Gyeongdong Market Hongneung Park ( Arboretum )",
         [
           "/wiki/Cheongnyangni_Station",
-          "/wiki/Gyeongdong_Market",
-          null
+          "/wiki/Gyeongdong_Market"
         ]
       ]
     ],
     [
       [
-        [
-          "Dongjak-gu"
-        ],
+        "Dongjak-gu",
         [
           "/wiki/Dongjak-gu"
         ]
       ],
       [
-        [
-          "Bon-dong",
-          "Daebang-dong",
-          "Dongjak-dong",
-          "Heukseok-dong",
-          "Noryangjin-dong",
-          "Sadang-dong",
-          "Sangdo-dong",
-          "Sindaebang-dong"
-        ],
+        "Bon-dong Daebang-dong Dongjak-dong Heukseok-dong Noryangjin-dong Sadang-dong Sangdo-dong Sindaebang-dong",
         [
           "/wiki/Bon-dong",
           "/wiki/Daebang-dong",
@@ -168,11 +108,7 @@
         ]
       ],
       [
-        [
-          "Han river",
-          "Noryangjin",
-          "Seoul National Cemetery"
-        ],
+        "Located just south of the Han river , Dongjak-gu is mostly residential , but also includes the commercial Noryangjin area . The small Seodalsan mountain , where the Seoul National Cemetery is located , is located in the middle of the district",
         [
           "/wiki/Han_River_(Korea)",
           "/wiki/Noryangjin",
@@ -180,43 +116,22 @@
         ]
       ],
       [
-        [
-          "Seoul National Cemetery",
-          "Noryangjin Fish Market",
-          "Boramae Park",
-          "Sayuksin Park"
-        ],
+        "Seoul National Cemetery Noryangjin Fish Market Boramae Park Sayuksin Park",
         [
           "/wiki/Seoul_National_Cemetery",
-          "/wiki/Noryangjin_Fish_Market",
-          null,
-          null
+          "/wiki/Noryangjin_Fish_Market"
         ]
       ]
     ],
     [
       [
-        [
-          "Eunpyeong-gu"
-        ],
+        "Eunpyeong-gu",
         [
           "/wiki/Eunpyeong-gu"
         ]
       ],
       [
-        [
-          "Bulgwang-dong",
-          "Daejo-dong",
-          "Eungam-dong",
-          "Galhyeon-dong",
-          "Gusan-dong",
-          "Jeungsan-dong",
-          "Jingwan-dong",
-          "Nokbeon-dong",
-          "Sinsa-dong",
-          "Susaek-dong",
-          "Yeokchon-dong"
-        ],
+        "Bulgwang-dong Daejo-dong Eungam-dong Galhyeon-dong Gusan-dong Jeungsan-dong Jingwan-dong Nokbeon-dong Sinsa-dong Susaek-dong Yeokchon-dong",
         [
           "/wiki/Bulgwang-dong",
           "/wiki/Daejo-dong",
@@ -226,48 +141,31 @@
           "/wiki/Jeungsan-dong",
           "/wiki/Jingwan-dong",
           "/wiki/Nokbeon-dong",
-          null,
           "/wiki/Susaek-dong",
           "/wiki/Yeokchon-dong"
         ]
       ],
       [
-        [
-          "Seodaemun-gu",
-          "Goyang"
-        ],
+        "Separated administratively from Seodaemun-gu in 1977 , Eunpyeong-gu is located just east of the city of Goyang , and despite being part of Seoul , is partly isolated from the rest of the city by a mountain range on its east side",
         [
           "/wiki/Seodaemun-gu",
           "/wiki/Goyang"
         ]
       ],
       [
-        [
-          "Bongsan Park",
-          "Gupabal Fall"
-        ],
-        [
-          null,
-          null
-        ]
+        "Bongsan Park Gupabal Fall",
+        []
       ]
     ],
     [
       [
-        [
-          "Gangbuk-gu"
-        ],
+        "Gangbuk-gu",
         [
           "/wiki/Gangbuk-gu"
         ]
       ],
       [
-        [
-          "Mia-dong",
-          "Beon-dong",
-          "Suyu-dong",
-          "Ui-dong"
-        ],
+        "Mia-dong Beon-dong Suyu-dong Ui-dong",
         [
           "/wiki/Mia-dong",
           "/wiki/Beon-dong",
@@ -276,12 +174,7 @@
         ]
       ],
       [
-        [
-          "Seongbuk-gu",
-          "Bukhansan",
-          "Miasageori station",
-          "Suyu station"
-        ],
+        "Incorporated into Seoul in 1949 , Gangbuk-gu is a separate district ( from Seongbuk-gu ) since 1995 . The district is notorious for its proximity with Bukhansan , the tallest mountain near Seoul . The district is mostly residential , although the areas near Miasageori station and Suyu station are very active",
         [
           "/wiki/Seongbuk-gu",
           "/wiki/Bukhansan",
@@ -290,37 +183,21 @@
         ]
       ],
       [
+        "Dream Forest Bukhansan National Park",
         [
-          "Dream Forest",
-          "Bukhansan National Park"
-        ],
-        [
-          null,
           "/wiki/Bukhansan_National_Park"
         ]
       ]
     ],
     [
       [
-        [
-          "Gangdong-gu"
-        ],
+        "Gangdong-gu",
         [
           "/wiki/Gangdong-gu"
         ]
       ],
       [
-        [
-          "Gangil-dong",
-          "Godeok-dong",
-          "Gil-dong",
-          "Dunchon-dong",
-          "Myeongil-dong",
-          "Sangil-dong",
-          "Seongnae-dong",
-          "Amsa-dong",
-          "Cheonho-dong"
-        ],
+        "Gangil-dong Godeok-dong Gil-dong Dunchon-dong Myeongil-dong Sangil-dong Seongnae-dong Amsa-dong Cheonho-dong",
         [
           "/wiki/Gangil-dong",
           "/wiki/Godeok-dong",
@@ -334,54 +211,23 @@
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Saetmaeul Park",
-          "Cheonhodong Park",
-          "Dunchun-dong Marsh Area",
-          "Kildong Ecological Park"
-        ],
-        [
-          null,
-          null,
-          null,
-          null
-        ]
+        "Saetmaeul Park Cheonhodong Park Dunchun-dong Marsh Area Kildong Ecological Park",
+        []
       ]
     ],
     [
       [
-        [
-          "Gangnam-gu"
-        ],
+        "Gangnam-gu",
         [
           "/wiki/Gangnam-gu"
         ]
       ],
       [
-        [
-          "Apgujeong-dong",
-          "Cheongdam-dong",
-          "Daechi-dong",
-          "Dogok-dong",
-          "Gaepo-dong",
-          "Irwon-dong",
-          "Jagok-dong",
-          "Nonhyeon-dong",
-          "Samseong-dong",
-          "Segok-dong",
-          "Sinsa-dong",
-          "Suseo-dong",
-          "Yeoksam-dong",
-          "Yulhyeon-dong"
-        ],
+        "Apgujeong-dong Cheongdam-dong Daechi-dong Dogok-dong Gaepo-dong Irwon-dong Jagok-dong Nonhyeon-dong Samseong-dong Segok-dong Sinsa-dong Suseo-dong Yeoksam-dong Yulhyeon-dong",
         [
           "/wiki/Apgujeong-dong",
           "/wiki/Cheongdam-dong",
@@ -389,35 +235,20 @@
           "/wiki/Dogok-dong",
           "/wiki/Gaepo-dong",
           "/wiki/Irwon-dong",
-          null,
           "/wiki/Nonhyeon-dong,_Seoul",
           "/wiki/Samseong-dong",
           "/wiki/Segok-dong",
           "/wiki/Sinsa-dong,_Gangnam",
           "/wiki/Suseo-dong",
-          "/wiki/Yeoksam-dong",
-          null
+          "/wiki/Yeoksam-dong"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "COEX Mall",
-          "Teheranno",
-          "Gangnam Station",
-          "Bongeunsa",
-          "Garosu-gil",
-          "Yangjaecheon",
-          "Dosan Park",
-          "Kukkiwon"
-        ],
+        "COEX Mall Teheranno Gangnam Station Bongeunsa Temple Garosu-gil Yangjaecheon Dosan Park Kukkiwon",
         [
           "/wiki/COEX_Mall",
           "/wiki/Teheranno",
@@ -432,29 +263,13 @@
     ],
     [
       [
-        [
-          "Gangseo-gu"
-        ],
+        "Gangseo-gu",
         [
           "/wiki/Gangseo-gu,_Seoul"
         ]
       ],
       [
-        [
-          "Banghwa-dong",
-          "Deungchon-dong",
-          "Gaehwa-dong",
-          "Gayang-dong",
-          "Gonghang-dong",
-          "Gwahae-dong",
-          "Hwagok-dong",
-          "Magok-dong",
-          "Naebalsan-dong",
-          "Oebalsan-dong",
-          "Ogok-dong",
-          "Osoe-dong",
-          "Yeomchang-dong"
-        ],
+        "Banghwa-dong Deungchon-dong Gaehwa-dong Gayang-dong Gonghang-dong Gwahae-dong Hwagok-dong Magok-dong Naebalsan-dong Oebalsan-dong Ogok-dong Osoe-dong Yeomchang-dong",
         [
           "/wiki/Banghwa-dong",
           "/wiki/Deungchon-dong",
@@ -464,49 +279,32 @@
           "/wiki/Gwahae-dong",
           "/wiki/Hwagok-dong",
           "/wiki/Magok-dong",
-          null,
-          null,
           "/wiki/Ogok-dong",
           "/wiki/Osoe-dong",
           "/wiki/Yeomchang-dong"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Gimpo International Airport",
-          "Heojun Museum",
-          "Maewha Park"
-        ],
+        "Gimpo International Airport Heojun Museum Maewha Park",
         [
           "/wiki/Gimpo_International_Airport",
-          "/wiki/Heojun_Museum",
-          null
+          "/wiki/Heojun_Museum"
         ]
       ]
     ],
     [
       [
-        [
-          "Geumcheon-gu"
-        ],
+        "Geumcheon-gu",
         [
           "/wiki/Geumcheon-gu"
         ]
       ],
       [
-        [
-          "Gasan-dong",
-          "Doksan-dong",
-          "Siheung-dong"
-        ],
+        "Gasan-dong Doksan-dong Siheung-dong",
         [
           "/wiki/Gasan-dong",
           "/wiki/Doksan-dong",
@@ -514,17 +312,11 @@
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Anyangcheon"
-        ],
+        "Anyangcheon",
         [
           "/wiki/Anyangcheon"
         ]
@@ -532,26 +324,13 @@
     ],
     [
       [
-        [
-          "Guro-gu"
-        ],
+        "Guro-gu",
         [
           "/wiki/Guro-gu"
         ]
       ],
       [
-        [
-          "Cheonwang-dong",
-          "Gaebong-dong",
-          "Garibong-dong",
-          "Gocheok-dong",
-          "Gung-dong",
-          "Guro-dong",
-          "Hang-dong",
-          "Onsu-dong",
-          "Oryu-dong",
-          "Sindorim-dong"
-        ],
+        "Cheonwang-dong Gaebong-dong Garibong-dong Gocheok-dong Gung-dong Guro-dong Hang-dong Onsu-dong Oryu-dong Sindorim-dong",
         [
           "/wiki/Cheonwang-dong",
           "/wiki/Gaebong-dong",
@@ -566,19 +345,11 @@
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Gocheok Sky Dome",
-          "Pureun Arboretum",
-          "Sindorim Station"
-        ],
+        "Gocheok Sky Dome Pureun Arboretum Sindorim Station",
         [
           "/wiki/Gocheok_Sky_Dome",
           "/wiki/Pureun_Arboretum",
@@ -588,19 +359,13 @@
     ],
     [
       [
-        [
-          "Gwanak-gu"
-        ],
+        "Gwanak-gu",
         [
           "/wiki/Gwanak-gu"
         ]
       ],
       [
-        [
-          "Bongcheon-dong",
-          "Namhyeon-dong",
-          "Sillim-dong"
-        ],
+        "Bongcheon-dong Namhyeon-dong Sillim-dong",
         [
           "/wiki/Bongcheon-dong",
           "/wiki/Namhyeon-dong",
@@ -608,28 +373,17 @@
         ]
       ],
       [
-        [
-          "Gwanaksan",
-          "Seoul National University"
-        ],
+        "Incorporated in 1963 , and designated as a distinct district in 1973 , Gwanak district is mostly residential , and gets its name from the nearby Gwanaksan mountain . Korea 's best university , Seoul National University , is located in the district",
         [
           "/wiki/Gwanaksan",
           "/wiki/Seoul_National_University"
         ]
       ],
       [
-        [
-          "Seoul National University",
-          "Kyujanggak",
-          "Gwaneumsa",
-          "Nakseongdae",
-          "Gwanaksan",
-          "Horim Museum"
-        ],
+        "Seoul National University Kyujanggak Gwaneumsa Nakseongdae Gwanaksan Horim Museum",
         [
           "/wiki/Seoul_National_University",
           "/wiki/Kyujanggak",
-          null,
           "/wiki/Nakseongdae",
           "/wiki/Gwanaksan",
           "/wiki/Horim_Museum"
@@ -638,23 +392,13 @@
     ],
     [
       [
-        [
-          "Gwangjin-gu"
-        ],
+        "Gwangjin-gu",
         [
           "/wiki/Gwangjin-gu"
         ]
       ],
       [
-        [
-          "Gunja-dong",
-          "Guui-dong",
-          "Gwangjang-dong",
-          "Hwayang-dong",
-          "Jayang-dong",
-          "Junggok-dong",
-          "Neung-dong"
-        ],
+        "Gunja-dong Guui-dong Gwangjang-dong Hwayang-dong Jayang-dong Junggok-dong Neung-dong",
         [
           "/wiki/Gunja-dong",
           "/wiki/Guui-dong",
@@ -666,58 +410,28 @@
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Techno Mart",
-          "Achasan Park",
-          "Children 's Grand Park",
-          "Dong Seoul Bus Terminal",
-          "Ttukseom Resort"
-        ],
+        "Techno Mart Achasan Park Children 's Grand Park Dong Seoul Bus Terminal Ttukseom Resort",
         [
           "/wiki/Techno_Mart",
           "/wiki/Achasan_Park",
           "/wiki/Children's_Grand_Park",
-          "/wiki/Dong_Seoul_Bus_Terminal",
-          null
+          "/wiki/Dong_Seoul_Bus_Terminal"
         ]
       ]
     ],
     [
       [
-        [
-          "Jongno-gu"
-        ],
+        "Jongno-gu",
         [
           "/wiki/Jongno-gu"
         ]
       ],
       [
-        [
-          "Cheongun-dong",
-          "Hyoja-dong",
-          "Sajik-dong",
-          "Samcheong-dong",
-          "Buam-dong",
-          "Pyeongchang-dong",
-          "Muak-dong",
-          "Gyonam-dong",
-          "Gahoe-dong",
-          "Ihwa-dong",
-          "Hyehwa-dong",
-          "Sejongno-dong",
-          "Jongno-1.2.3.4 ga-dong",
-          "Jongno-5.6 ga-dong",
-          "Changsin-dong",
-          "Sungin-dong"
-        ],
+        "Cheongun-dong Hyoja-dong Sajik-dong Samcheong-dong Buam-dong Pyeongchang-dong Muak-dong Gyonam-dong Gahoe-dong Ihwa-dong Hyehwa-dong Sejongno-dong Jongno-1.2.3.4 ga-dong Jongno-5.6 ga-dong Changsin-dong Sungin-dong",
         [
           "/wiki/Cheongun-dong",
           "/wiki/Hyoja-dong",
@@ -730,36 +444,17 @@
           "/wiki/Gahoe-dong",
           "/wiki/Ihwa-dong,_Seoul",
           "/wiki/Hyehwa-dong",
-          null,
           "/wiki/Jongno-1.2.3.4_ga-dong",
-          null,
           "/wiki/Changsin-dong",
           "/wiki/Sungin-dong"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Cheongwadae",
-          "Heunginjimun",
-          "Dongmyo Park",
-          "Gwanghwamun Plaza",
-          "Jogyesa",
-          "Naksan Park",
-          "Gyeongbokgung",
-          "Changdeokgung",
-          "Cheonggyecheon",
-          "Jongmyo",
-          "National Folk Museum of Korea",
-          "Bukchon Hanok Village"
-        ],
+        "Cheongwadae Heunginjimun Dongmyo Park Gwanghwamun Plaza Jogyesa Naksan Park Gyeongbokgung Changdeokgung Cheonggyecheon Jongmyo National Folk Museum of Korea Bukchon Hanok Village",
         [
           "/wiki/Cheongwadae",
           "/wiki/Heunginjimun",
@@ -778,41 +473,21 @@
     ],
     [
       [
-        [
-          "Jung-gu"
-        ],
+        "Jung-gu",
         [
           "/wiki/Jung-gu,_Seoul"
         ]
       ],
       [
-        [
-          "Not subdivided into dongs"
-        ],
-        [
-          null
-        ]
+        "Not subdivided into dongs",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Seoul City Hall",
-          "Seoul Station",
-          "Deoksugung",
-          "Dongdaemun Design Plaza",
-          "Namdaemun",
-          "Myeongdong",
-          "Hwangudan Park",
-          "N Seoul Tower",
-          "Seoul Museum of Art"
-        ],
+        "Seoul City Hall Seoul Station Deoksugung Dongdaemun Design Plaza Namdaemun Myeongdong Hwangudan Park N Seoul Tower Seoul Museum of Art",
         [
           "/wiki/Seoul_City_Hall",
           "/wiki/Seoul_Station",
@@ -820,7 +495,6 @@
           "/wiki/Dongdaemun_Design_Plaza",
           "/wiki/Namdaemun",
           "/wiki/Myeongdong",
-          null,
           "/wiki/N_Seoul_Tower",
           "/wiki/Seoul_Museum_of_Art"
         ]
@@ -828,22 +502,13 @@
     ],
     [
       [
-        [
-          "Jungnang-gu"
-        ],
+        "Jungnang-gu",
         [
           "/wiki/Jungnang-gu"
         ]
       ],
       [
-        [
-          "Junghwa-dong",
-          "Mangu-dong",
-          "Muk-dong",
-          "Myeonmok-dong",
-          "Sangbong-dong",
-          "Sinnae-dong"
-        ],
+        "Junghwa-dong Mangu-dong Muk-dong Myeonmok-dong Sangbong-dong Sinnae-dong",
         [
           "/wiki/Junghwa-dong",
           "/wiki/Mangu-dong",
@@ -854,62 +519,25 @@
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
+        "Yongma Land Nadeuri Park",
         [
-          "Yongma Land",
-          "Nadeuri Park"
-        ],
-        [
-          "/wiki/Yongma_Land",
-          null
+          "/wiki/Yongma_Land"
         ]
       ]
     ],
     [
       [
-        [
-          "Mapo-gu"
-        ],
+        "Mapo-gu",
         [
           "/wiki/Mapo-gu"
         ]
       ],
       [
-        [
-          "Ahyeon-dong",
-          "Changjeon-dong",
-          "Daeheung-dong",
-          "Dangin-dong",
-          "Dohwa-dong",
-          "Donggyo-dong",
-          "Gongdeok-dong",
-          "Gusu-dong",
-          "Hajung-dong",
-          "Hapjeong-dong",
-          "Hyeonseok-dong",
-          "Jung-dong",
-          "Mangwon-dong",
-          "Mapo-dong",
-          "Nogosan-dong",
-          "Sangam-dong",
-          "Sangsu-dong",
-          "Seogyo-dong",
-          "Seongsan-dong",
-          "Singongdeok-dong",
-          "Sinjeong-dong",
-          "Sinsu-dong",
-          "Tojeong-dong",
-          "Yeomni-dong",
-          "Yeonnam-dong",
-          "Yonggang-dong"
-        ],
+        "Ahyeon-dong Changjeon-dong Daeheung-dong Dangin-dong Dohwa-dong Donggyo-dong Gongdeok-dong Gusu-dong Hajung-dong Hapjeong-dong Hyeonseok-dong Jung-dong Mangwon-dong Mapo-dong Nogosan-dong Sangam-dong Sangsu-dong Seogyo-dong Seongsan-dong Singongdeok-dong Sinjeong-dong Sinsu-dong Tojeong-dong Yeomni-dong Yeonnam-dong Yonggang-dong",
         [
           "/wiki/Ahyeon-dong",
           "/wiki/Changjeon-dong",
@@ -919,7 +547,6 @@
           "/wiki/Donggyo-dong",
           "/wiki/Gongdeok-dong",
           "/wiki/Gusu-dong",
-          null,
           "/wiki/Hapjeong-dong",
           "/wiki/Hyeonseok-dong",
           "/wiki/Jung-dong,_Mapo-gu",
@@ -940,45 +567,27 @@
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Digital Media City",
-          "Seoul World Cup Stadium",
-          "Hongdae area",
-          "Gyeongui Line Forest Park"
-        ],
+        "Digital Media City Seoul World Cup Stadium Hongdae area Gyeongui Line Forest Park",
         [
           "/wiki/Digital_Media_City",
           "/wiki/Seoul_World_Cup_Stadium",
-          "/wiki/Hongdae_area",
-          null
+          "/wiki/Hongdae_area"
         ]
       ]
     ],
     [
       [
-        [
-          "Nowon-gu"
-        ],
+        "Nowon-gu",
         [
           "/wiki/Nowon-gu"
         ]
       ],
       [
-        [
-          "Gongneung-dong",
-          "Hagye-dong",
-          "Junggye-dong",
-          "Sanggye-dong",
-          "Wolgye-dong"
-        ],
+        "Gongneung-dong Hagye-dong Junggye-dong Sanggye-dong Wolgye-dong",
         [
           "/wiki/Gongneung-dong",
           "/wiki/Hagye-dong",
@@ -988,14 +597,7 @@
         ]
       ],
       [
-        [
-          "Buramsan",
-          "Suraksan",
-          "Jungnangcheon",
-          "Seoul National University of Science and Technology",
-          "Kwangwoon University",
-          "Seoul Women 's University"
-        ],
+        "Located between Mount Buramsan and Mount Suraksan to the East , and the Jungnangcheon stream to the West , Nowon district is mostly a residential district , which is also known for its many universities , including Seoul National University of Science and Technology , Kwangwoon University or Seoul Women 's University",
         [
           "/wiki/Buramsan",
           "/wiki/Suraksan",
@@ -1006,10 +608,7 @@
         ]
       ],
       [
-        [
-          "Seoul National University of Technology",
-          "Seoul Women 's University"
-        ],
+        "Seoul National University of Technology Seoul Women 's University",
         [
           "/wiki/Seoul_National_University_of_Technology",
           "/wiki/Seoul_Women's_University"
@@ -1018,26 +617,13 @@
     ],
     [
       [
-        [
-          "Seocho-gu"
-        ],
+        "Seocho-gu",
         [
           "/wiki/Seocho-gu"
         ]
       ],
       [
-        [
-          "Bangbae-dong",
-          "Banpo-dong",
-          "Jamwon-dong",
-          "Naegok-dong",
-          "Seocho-dong",
-          "Sinwon-dong",
-          "Umyeon-dong",
-          "Wonji-dong",
-          "Yangjae-dong",
-          "Yeomgok-dong"
-        ],
+        "Bangbae-dong Banpo-dong Jamwon-dong Naegok-dong Seocho-dong Sinwon-dong Umyeon-dong Wonji-dong Yangjae-dong Yeomgok-dong",
         [
           "/wiki/Bangbae-dong",
           "/wiki/Banpo-dong",
@@ -1052,23 +638,14 @@
         ]
       ],
       [
-        [
-          "Seoul Express Bus Terminal",
-          "Banpo-dong"
-        ],
+        "Seoul 's largest district is part of the greater Gangnam and is one of the busiest areas in Seoul , especially on the eastern part of the district . Seoul 's largest bus terminal , Seoul Express Bus Terminal is located in the affluent Banpo-dong . However , Seocho 's southern half is barely populated as it is mostly mountaineous",
         [
           "/wiki/Seoul_Express_Bus_Terminal",
           "/wiki/Banpo-dong"
         ]
       ],
       [
-        [
-          "Samsung Town",
-          "Yangjae Citizens ' Forest",
-          "Seoul Arts Center",
-          "Seoul Express Bus Terminal",
-          "Some Sevit"
-        ],
+        "Samsung Town Yangjae Citizens ' Forest Seoul Arts Center Seoul Express Bus Terminal Some Sevit",
         [
           "/wiki/Samsung_Town",
           "/wiki/Yangjae_Citizens'_Forest",
@@ -1080,35 +657,13 @@
     ],
     [
       [
-        [
-          "Seodaemun-gu"
-        ],
+        "Seodaemun-gu",
         [
           "/wiki/Seodaemun-gu"
         ]
       ],
       [
-        [
-          "Daesin-dong",
-          "Bongwon-dong",
-          "Daehyeon-dong",
-          "Sinchon-dong",
-          "Bukgajwa-dong",
-          "Bugahyeon-dong",
-          "Changcheon-dong",
-          "Cheonyeon-dong",
-          "Hyeonjeo-dong",
-          "Naengcheon-dong",
-          "Yeongcheon-dong",
-          "Okcheon-dong",
-          "Chungjeongno-dong",
-          "Hap-dong",
-          "Migeun-dong",
-          "Hongeun-dong",
-          "Hongje-dong",
-          "Namgajwa-dong",
-          "Yeonhui-dong"
-        ],
+        "Daesin-dong Bongwon-dong Daehyeon-dong Sinchon-dong Bukgajwa-dong Bugahyeon-dong Changcheon-dong Cheonyeon-dong Hyeonjeo-dong Naengcheon-dong Yeongcheon-dong Okcheon-dong Chungjeongno-dong Hap-dong Migeun-dong Hongeun-dong Hongje-dong Namgajwa-dong Yeonhui-dong",
         [
           "/wiki/Daesin-dong",
           "/wiki/Bongwon-dong",
@@ -1132,12 +687,7 @@
         ]
       ],
       [
-        [
-          "Ehwa University",
-          "Yonsei University",
-          "Seodaemun prison",
-          "Independence Park"
-        ],
+        "A heclectic district , center around Mount Ansan . The east part of the district is part of the historic downtown , while the southern part includes the university district of Ehwa University and Yonsei University . The Seodaemun prison and Independence Park are some of the most famous landmarks in Seodaemun",
         [
           "/wiki/Ehwa_University",
           "/wiki/Yonsei_University",
@@ -1146,15 +696,7 @@
         ]
       ],
       [
-        [
-          "Bongwonsa",
-          "Seodaemun prison",
-          "Dongnimmun",
-          "Yonsei University",
-          "Ewha Womans University",
-          "Sinchon",
-          "Independence Park"
-        ],
+        "Bongwonsa Seodaemun prison Dongnimmun Yonsei University Ewha Womans University Sinchon Independence Park",
         [
           "/wiki/Bongwonsa",
           "/wiki/Seodaemun_prison",
@@ -1168,31 +710,13 @@
     ],
     [
       [
-        [
-          "Seongbuk-gu"
-        ],
+        "Seongbuk-gu",
         [
           "/wiki/Seongbuk-gu"
         ]
       ],
       [
-        [
-          "Anam-dong",
-          "Bomun-dong",
-          "Donam-dong",
-          "Dongseon-dong",
-          "Dongsomun-dong",
-          "Gireum-dong",
-          "Jangwi-dong",
-          "Jeongneung-dong",
-          "Jongam-dong",
-          "Samseon-dong",
-          "Sangwolgok-dong",
-          "Seokgwan-dong",
-          "Seongbuk-dong",
-          "Wolgok-dong",
-          "Hawolgok-dong"
-        ],
+        "Anam-dong Bomun-dong Donam-dong Dongseon-dong Dongsomun-dong Gireum-dong Jangwi-dong Jeongneung-dong Jongam-dong Samseon-dong Sangwolgok-dong Seokgwan-dong Seongbuk-dong Wolgok-dong Hawolgok-dong",
         [
           "/wiki/Anam-dong",
           "/wiki/Bomun-dong",
@@ -1207,24 +731,18 @@
           "/wiki/Sangwolgok-dong",
           "/wiki/Seokgwan-dong",
           "/wiki/Seongbuk-dong",
-          null,
           "/wiki/Hawolgok-dong"
         ]
       ],
       [
-        [
-          "Korea University",
-          "Seongbuk-dong"
-        ],
+        "Long-inhabited , Seongbuk district it located just North-East of the city center . The prestigious Korea University is located in the South of the district . While the majority of the district is made up for middle-class residential areas , the district is noted for the gap between the slum-like Bukjeong village , and the expensive residences of Seongbuk-dong",
         [
           "/wiki/Korea_University",
           "/wiki/Seongbuk-dong"
         ]
       ],
       [
-        [
-          "Korea University"
-        ],
+        "Korea University",
         [
           "/wiki/Korea_University"
         ]

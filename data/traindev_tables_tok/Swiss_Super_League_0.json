@@ -3,465 +3,305 @@
   "title": "Swiss Super League",
   "header": [
     [
-      [
-        "Team"
-      ],
-      [
-        null
-      ]
+      "Team",
+      []
     ],
     [
-      [
-        "Foundation"
-      ],
-      [
-        null
-      ]
+      "Foundation",
+      []
     ],
     [
-      [
-        "Hometown"
-      ],
-      [
-        null
-      ]
+      "Hometown",
+      []
     ],
     [
-      [
-        "Venue"
-      ],
-      [
-        null
-      ]
+      "Venue",
+      []
     ],
     [
-      [
-        "Capacity"
-      ],
-      [
-        null
-      ]
+      "Capacity",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "FC Basel"
-        ],
+        "FC Basel",
         [
           "/wiki/FC_Basel"
         ]
       ],
       [
-        [
-          "15/11/1893"
-        ],
-        [
-          null
-        ]
+        "15/11/1893",
+        []
       ],
       [
-        [
-          "Basel"
-        ],
+        "Basel",
         [
           "/wiki/Basel"
         ]
       ],
       [
-        [
-          "St. Jakob-Park"
-        ],
+        "St. Jakob-Park",
         [
           "/wiki/St._Jakob-Park"
         ]
       ],
       [
-        [
-          "37.994"
-        ],
-        [
-          null
-        ]
+        "37.994",
+        []
       ]
     ],
     [
       [
-        [
-          "Grasshopper Club Z\u00fcrich"
-        ],
+        "Grasshopper Club Z\u00fcrich",
         [
           "/wiki/Grasshopper_Club_Z\u00fcrich"
         ]
       ],
       [
-        [
-          "01/09/1886"
-        ],
-        [
-          null
-        ]
+        "01/09/1886",
+        []
       ],
       [
-        [
-          "Z\u00fcrich"
-        ],
+        "Z\u00fcrich",
         [
           "/wiki/Z\u00fcrich"
         ]
       ],
       [
-        [
-          "Letzigrund"
-        ],
+        "Letzigrund",
         [
           "/wiki/Letzigrund"
         ]
       ],
       [
-        [
-          "26.104"
-        ],
-        [
-          null
-        ]
+        "26.104",
+        []
       ]
     ],
     [
       [
-        [
-          "FC Lugano"
-        ],
+        "FC Lugano",
         [
           "/wiki/FC_Lugano"
         ]
       ],
       [
-        [
-          "28/07/1908"
-        ],
-        [
-          null
-        ]
+        "28/07/1908",
+        []
       ],
       [
-        [
-          "Lugano"
-        ],
+        "Lugano",
         [
           "/wiki/Lugano"
         ]
       ],
       [
-        [
-          "Stadio Cornaredo"
-        ],
+        "Stadio Cornaredo",
         [
           "/wiki/Stadio_Cornaredo"
         ]
       ],
       [
-        [
-          "6.390"
-        ],
-        [
-          null
-        ]
+        "6.390",
+        []
       ]
     ],
     [
       [
-        [
-          "FC Luzern"
-        ],
+        "FC Luzern",
         [
           "/wiki/FC_Luzern"
         ]
       ],
       [
-        [
-          "12/08/1901"
-        ],
-        [
-          null
-        ]
+        "12/08/1901",
+        []
       ],
       [
-        [
-          "Luzern"
-        ],
+        "Luzern",
         [
           "/wiki/Luzern"
         ]
       ],
       [
-        [
-          "Swissporarena"
-        ],
+        "Swissporarena",
         [
           "/wiki/Swissporarena"
         ]
       ],
       [
-        [
-          "16.490"
-        ],
-        [
-          null
-        ]
+        "16.490",
+        []
       ]
     ],
     [
       [
-        [
-          "FC Sion"
-        ],
+        "FC Sion",
         [
           "/wiki/FC_Sion"
         ]
       ],
       [
-        [
-          "01/07/1909"
-        ],
-        [
-          null
-        ]
+        "01/07/1909",
+        []
       ],
       [
-        [
-          "Sion"
-        ],
+        "Sion",
         [
           "/wiki/Sion,_Switzerland"
         ]
       ],
       [
-        [
-          "Tourbillon"
-        ],
+        "Tourbillon",
         [
           "/wiki/Stade_Tourbillon"
         ]
       ],
       [
-        [
-          "14.283"
-        ],
-        [
-          null
-        ]
+        "14.283",
+        []
       ]
     ],
     [
       [
-        [
-          "FC St. Gallen"
-        ],
+        "FC St. Gallen",
         [
           "/wiki/FC_St._Gallen"
         ]
       ],
       [
-        [
-          "19/04/1879"
-        ],
-        [
-          null
-        ]
+        "19/04/1879",
+        []
       ],
       [
-        [
-          "St. Gallen"
-        ],
+        "St. Gallen",
         [
           "/wiki/St._Gallen"
         ]
       ],
       [
-        [
-          "Kybunpark"
-        ],
+        "Kybunpark",
         [
           "/wiki/Kybunpark"
         ]
       ],
       [
-        [
-          "19.456"
-        ],
-        [
-          null
-        ]
+        "19.456",
+        []
       ]
     ],
     [
       [
-        [
-          "FC Thun"
-        ],
+        "FC Thun",
         [
           "/wiki/FC_Thun"
         ]
       ],
       [
-        [
-          "04/05/1898"
-        ],
-        [
-          null
-        ]
+        "04/05/1898",
+        []
       ],
       [
-        [
-          "Thun"
-        ],
+        "Thun",
         [
           "/wiki/Thun"
         ]
       ],
       [
-        [
-          "Stockhorn Arena"
-        ],
+        "Stockhorn Arena",
         [
           "/wiki/Stockhorn_Arena"
         ]
       ],
       [
-        [
-          "10.104"
-        ],
-        [
-          null
-        ]
+        "10.104",
+        []
       ]
     ],
     [
       [
-        [
-          "Neuch\u00e2tel Xamax"
-        ],
+        "Neuch\u00e2tel Xamax",
         [
           "/wiki/Neuch\u00e2tel_Xamax_FCS"
         ]
       ],
       [
-        [
-          "1912"
-        ],
-        [
-          null
-        ]
+        "1912",
+        []
       ],
       [
-        [
-          "Neuch\u00e2tel"
-        ],
+        "Neuch\u00e2tel",
         [
           "/wiki/Neuch\u00e2tel"
         ]
       ],
       [
-        [
-          "Stade de la Maladi\u00e8re"
-        ],
+        "Stade de la Maladi\u00e8re",
         [
           "/wiki/Stade_de_la_Maladi\u00e8re"
         ]
       ],
       [
-        [
-          "12.000"
-        ],
-        [
-          null
-        ]
+        "12.000",
+        []
       ]
     ],
     [
       [
-        [
-          "BSC Young Boys"
-        ],
+        "BSC Young Boys",
         [
           "/wiki/BSC_Young_Boys"
         ]
       ],
       [
-        [
-          "14/03/1898"
-        ],
-        [
-          null
-        ]
+        "14/03/1898",
+        []
       ],
       [
-        [
-          "Bern"
-        ],
+        "Bern",
         [
           "/wiki/Bern"
         ]
       ],
       [
-        [
-          "Stade de Suisse"
-        ],
+        "Stade de Suisse",
         [
           "/wiki/Stade_de_Suisse"
         ]
       ],
       [
-        [
-          "31.789"
-        ],
-        [
-          null
-        ]
+        "31.789",
+        []
       ]
     ],
     [
       [
-        [
-          "FC Z\u00fcrich"
-        ],
+        "FC Z\u00fcrich",
         [
           "/wiki/FC_Z\u00fcrich"
         ]
       ],
       [
-        [
-          "28/08/1896"
-        ],
-        [
-          null
-        ]
+        "28/08/1896",
+        []
       ],
       [
-        [
-          "Z\u00fcrich"
-        ],
+        "Z\u00fcrich",
         [
           "/wiki/Z\u00fcrich"
         ]
       ],
       [
-        [
-          "Letzigrund"
-        ],
+        "Letzigrund",
         [
           "/wiki/Letzigrund"
         ]
       ],
       [
-        [
-          "26.104"
-        ],
-        [
-          null
-        ]
+        "26.104",
+        []
       ]
     ]
   ],

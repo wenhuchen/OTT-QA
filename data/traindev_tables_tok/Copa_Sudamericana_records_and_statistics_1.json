@@ -3,81 +3,44 @@
   "title": "Copa Sudamericana records and statistics",
   "header": [
     [
-      [
-        "Country"
-      ],
-      [
-        null
-      ]
+      "Country",
+      []
     ],
     [
-      [
-        "Winners"
-      ],
-      [
-        null
-      ]
+      "Winners",
+      []
     ],
     [
-      [
-        "Runners-Up"
-      ],
-      [
-        null
-      ]
+      "Runners-Up",
+      []
     ],
     [
-      [
-        "Winning Clubs"
-      ],
-      [
-        null
-      ]
+      "Winning Clubs",
+      []
     ],
     [
-      [
-        "Runners-Up"
-      ],
-      [
-        null
-      ]
+      "Runners-Up",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Argentina"
-        ],
+        "Argentina",
         [
           "/wiki/Argentina"
         ]
       ],
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "Boca Juniors",
-          "Independiente",
-          "Arsenal",
-          "Lan\u00fas",
-          "River Plate",
-          "San Lorenzo"
-        ],
+        "Boca Juniors ( 2 ) ; Independiente ( 2 ) ; Arsenal ( 1 ) ; Lan\u00fas ( 1 ) ; River Plate ( 1 ) ; San Lorenzo ( 1 )",
         [
           "/wiki/Boca_Juniors",
           "/wiki/Club_Atl\u00e9tico_Independiente",
@@ -88,13 +51,7 @@
         ]
       ],
       [
-        [
-          "Col\u00f3n",
-          "Estudiantes",
-          "Hurac\u00e1n",
-          "River Plate",
-          "Tigre"
-        ],
+        "Col\u00f3n ( 1 ) ; Estudiantes ( 1 ) ; Hurac\u00e1n ( 1 ) ; River Plate ( 1 ) ; Tigre ( 1 )",
         [
           "/wiki/Club_Atl\u00e9tico_Col\u00f3n",
           "/wiki/Estudiantes_de_La_Plata",
@@ -106,36 +63,21 @@
     ],
     [
       [
-        [
-          "Brazil"
-        ],
+        "Brazil",
         [
           "/wiki/Brazil"
         ]
       ],
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "Athletico Paranaense",
-          "Chapecoense",
-          "Internacional",
-          "S\u00e3o Paulo"
-        ],
+        "Athletico Paranaense ( 1 ) ; Chapecoense ( 1 ) ; Internacional ( 1 ) ; S\u00e3o Paulo ( 1 )",
         [
           "/wiki/Club_Athletico_Paranaense",
           "/wiki/Associa\u00e7\u00e3o_Chapecoense_de_Futebol",
@@ -144,12 +86,7 @@
         ]
       ],
       [
-        [
-          "Flamengo",
-          "Fluminense",
-          "Goi\u00e1s",
-          "Ponte Preta"
-        ],
+        "Flamengo ( 1 ) ; Fluminense ( 1 ) ; Goi\u00e1s ( 1 ) , Ponte Preta ( 1 )",
         [
           "/wiki/Clube_de_Regatas_do_Flamengo",
           "/wiki/Fluminense_Football_Club",
@@ -160,43 +97,28 @@
     ],
     [
       [
-        [
-          "Ecuador"
-        ],
+        "Ecuador",
         [
           "/wiki/Ecuador"
         ]
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "Independiente del Valle",
-          "LDU Quito"
-        ],
+        "Independiente del Valle ( 1 ) , LDU Quito ( 1 )",
         [
           "/wiki/Independiente_del_Valle",
           "/wiki/Liga_Deportiva_Universitaria_de_Quito"
         ]
       ],
       [
-        [
-          "LDU Quito"
-        ],
+        "LDU Quito ( 1 )",
         [
           "/wiki/Liga_Deportiva_Universitaria_de_Quito"
         ]
@@ -204,42 +126,27 @@
     ],
     [
       [
-        [
-          "Colombia"
-        ],
+        "Colombia",
         [
           "/wiki/Colombia"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "Santa Fe"
-        ],
+        "Santa Fe ( 1 )",
         [
           "/wiki/Independiente_Santa_Fe"
         ]
       ],
       [
-        [
-          "Atl\u00e9tico Nacional",
-          "Junior"
-        ],
+        "Atl\u00e9tico Nacional ( 3 ) , Junior ( 1 )",
         [
           "/wiki/Atl\u00e9tico_Nacional",
           "/wiki/Atl\u00e9tico_Junior"
@@ -248,42 +155,27 @@
     ],
     [
       [
-        [
-          "Mexico"
-        ],
+        "Mexico",
         [
           "/wiki/Mexico"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "Pachuca"
-        ],
+        "Pachuca ( 1 )",
         [
           "/wiki/C.F._Pachuca"
         ]
       ],
       [
-        [
-          "Am\u00e9rica",
-          "UNAM"
-        ],
+        "Am\u00e9rica ( 1 ) ; UNAM ( 1 )",
         [
           "/wiki/Club_Am\u00e9rica",
           "/wiki/Club_Universidad_Nacional"
@@ -292,41 +184,27 @@
     ],
     [
       [
-        [
-          "Chile"
-        ],
+        "Chile",
         [
           "/wiki/Chile"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "Universidad de Chile"
-        ],
+        "Universidad de Chile ( 1 )",
         [
           "/wiki/Club_Universidad_de_Chile"
         ]
       ],
       [
-        [
-          "Colo-Colo"
-        ],
+        "Colo-Colo ( 1 )",
         [
           "/wiki/Colo-Colo"
         ]
@@ -334,83 +212,51 @@
     ],
     [
       [
-        [
-          "Peru"
-        ],
+        "Peru",
         [
           "/wiki/Peru"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "Cienciano"
-        ],
+        "Cienciano ( 1 )",
         [
           "/wiki/Cienciano"
         ]
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ]
     ],
     [
       [
-        [
-          "Bolivia"
-        ],
+        "Bolivia",
         [
           "/wiki/Bolivia"
         ]
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "Bol\u00edvar"
-        ],
+        "Bol\u00edvar ( 1 )",
         [
           "/wiki/Club_Bol\u00edvar"
         ]
@@ -418,128 +264,74 @@
     ],
     [
       [
-        [
-          "Paraguay"
-        ],
+        "Paraguay",
         [
           "/wiki/Paraguay"
         ]
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ]
     ],
     [
       [
-        [
-          "Uruguay"
-        ],
+        "Uruguay",
         [
           "/wiki/Uruguay"
         ]
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ]
     ],
     [
       [
-        [
-          "Venezuela"
-        ],
+        "Venezuela",
         [
           "/wiki/Venezuela"
         ]
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ]
     ]
   ],

@@ -3,84 +3,60 @@
   "title": "Solheim Cup",
   "header": [
     [
-      [
-        "Year"
-      ],
-      [
-        null
-      ]
+      "Year",
+      []
     ],
     [
-      [
-        "Venue"
-      ],
-      [
-        null
-      ]
+      "Venue",
+      []
     ],
     [
-      [
-        "Score"
-      ],
-      [
-        null
-      ]
+      "Winning team",
+      []
     ],
     [
-      [
-        "USA captain"
-      ],
-      [
-        null
-      ]
+      "Score",
+      []
     ],
     [
-      [
-        "Europe captain"
-      ],
-      [
-        null
-      ]
+      "USA captain",
+      []
+    ],
+    [
+      "Europe captain",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "2019"
-        ],
+        "2019",
         [
           "/wiki/2019_Solheim_Cup"
         ]
       ],
       [
-        [
-          "Gleneagles"
-        ],
+        "Gleneagles , Scotland",
         [
           "/wiki/Gleneagles_Hotel"
         ]
       ],
       [
-        [
-          "14\u00bd-13\u00bd"
-        ],
-        [
-          null
-        ]
+        "Europe",
+        []
       ],
       [
-        [
-          "Juli Inkster"
-        ],
+        "14\u00bd-13\u00bd",
+        []
+      ],
+      [
+        "Juli Inkster",
         [
           "/wiki/Juli_Inkster"
         ]
       ],
       [
-        [
-          "Catriona Matthew"
-        ],
+        "Catriona Matthew",
         [
           "/wiki/Catriona_Matthew"
         ]
@@ -88,41 +64,31 @@
     ],
     [
       [
-        [
-          "2017"
-        ],
+        "2017",
         [
           "/wiki/2017_Solheim_Cup"
         ]
       ],
       [
-        [
-          "Des Moines Golf and Country Club"
-        ],
+        "Des Moines Golf and Country Club , Iowa , USA",
         [
           "/wiki/Des_Moines_Golf_and_Country_Club"
         ]
       ],
       [
-        [
-          "16\u00bd-11\u00bd"
-        ],
-        [
-          null
-        ]
+        "United States",
+        []
       ],
       [
-        [
-          "Juli Inkster"
-        ],
-        [
-          null
-        ]
+        "16\u00bd-11\u00bd",
+        []
       ],
       [
-        [
-          "Annika S\u00f6renstam"
-        ],
+        "Juli Inkster",
+        []
+      ],
+      [
+        "Annika S\u00f6renstam",
         [
           "/wiki/Annika_S\u00f6renstam"
         ]
@@ -130,41 +96,31 @@
     ],
     [
       [
-        [
-          "2015"
-        ],
+        "2015",
         [
           "/wiki/2015_Solheim_Cup"
         ]
       ],
       [
-        [
-          "Golf Club St. Leon-Rot"
-        ],
+        "Golf Club St. Leon-Rot , Germany",
         [
           "/wiki/Golf_Club_St._Leon-Rot"
         ]
       ],
       [
-        [
-          "14\u00bd-13\u00bd"
-        ],
-        [
-          null
-        ]
+        "United States",
+        []
       ],
       [
-        [
-          "Juli Inkster"
-        ],
-        [
-          null
-        ]
+        "14\u00bd-13\u00bd",
+        []
       ],
       [
-        [
-          "Carin Koch"
-        ],
+        "Juli Inkster",
+        []
+      ],
+      [
+        "Carin Koch",
         [
           "/wiki/Carin_Koch"
         ]
@@ -172,41 +128,33 @@
     ],
     [
       [
-        [
-          "2013"
-        ],
+        "2013",
         [
           "/wiki/2013_Solheim_Cup"
         ]
       ],
       [
-        [
-          "Colorado Golf Club"
-        ],
+        "Colorado Golf Club , Colorado , USA",
         [
           "/wiki/Colorado_Golf_Club"
         ]
       ],
       [
-        [
-          "18-10"
-        ],
-        [
-          null
-        ]
+        "Europe",
+        []
       ],
       [
-        [
-          "Meg Mallon"
-        ],
+        "18-10",
+        []
+      ],
+      [
+        "Meg Mallon",
         [
           "/wiki/Meg_Mallon"
         ]
       ],
       [
-        [
-          "Liselotte Neumann"
-        ],
+        "Liselotte Neumann",
         [
           "/wiki/Liselotte_Neumann"
         ]
@@ -214,43 +162,34 @@
     ],
     [
       [
-        [
-          "2011"
-        ],
+        "2011",
         [
           "/wiki/2011_Solheim_Cup"
         ]
       ],
       [
-        [
-          "Killeen Castle Golf Resort",
-          "Ireland"
-        ],
+        "Killeen Castle Golf Resort , Ireland",
         [
           "/wiki/Killeen_Castle_Golf_Resort",
           "/wiki/Republic_of_Ireland"
         ]
       ],
       [
-        [
-          "15-13"
-        ],
-        [
-          null
-        ]
+        "Europe",
+        []
       ],
       [
-        [
-          "Rosie Jones"
-        ],
+        "15-13",
+        []
+      ],
+      [
+        "Rosie Jones",
         [
           "/wiki/Rosie_Jones"
         ]
       ],
       [
-        [
-          "Alison Nicholas"
-        ],
+        "Alison Nicholas",
         [
           "/wiki/Alison_Nicholas"
         ]
@@ -258,85 +197,66 @@
     ],
     [
       [
-        [
-          "2009"
-        ],
+        "2009",
         [
           "/wiki/2009_Solheim_Cup"
         ]
       ],
       [
-        [
-          "Rich Harvest Farms"
-        ],
+        "Rich Harvest Farms , Illinois , USA",
         [
           "/wiki/Rich_Harvest_Farms"
         ]
       ],
       [
-        [
-          "16-12"
-        ],
-        [
-          null
-        ]
+        "United States",
+        []
       ],
       [
-        [
-          "Beth Daniel"
-        ],
+        "16-12",
+        []
+      ],
+      [
+        "Beth Daniel",
         [
           "/wiki/Beth_Daniel"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "Alison Nicholas",
+        []
       ]
     ],
     [
       [
-        [
-          "2007"
-        ],
+        "2007",
         [
           "/wiki/2007_Solheim_Cup"
         ]
       ],
       [
-        [
-          "Halmstad GK",
-          "Sweden"
-        ],
+        "Halmstad GK , Sweden",
         [
           "/wiki/Halmstad_GK",
           "/wiki/Sweden"
         ]
       ],
       [
-        [
-          "16-12"
-        ],
-        [
-          null
-        ]
+        "United States",
+        []
       ],
       [
-        [
-          "Betsy King"
-        ],
+        "16-12",
+        []
+      ],
+      [
+        "Betsy King",
         [
           "/wiki/Betsy_King"
         ]
       ],
       [
-        [
-          "Helen Alfredsson"
-        ],
+        "Helen Alfredsson",
         [
           "/wiki/Helen_Alfredsson"
         ]
@@ -344,41 +264,33 @@
     ],
     [
       [
-        [
-          "2005"
-        ],
+        "2005",
         [
           "/wiki/2005_Solheim_Cup"
         ]
       ],
       [
-        [
-          "Crooked Stick Golf Club"
-        ],
+        "Crooked Stick Golf Club , Indiana , USA",
         [
           "/wiki/Crooked_Stick_Golf_Club"
         ]
       ],
       [
-        [
-          "15\u00bd-12\u00bd"
-        ],
-        [
-          null
-        ]
+        "United States",
+        []
       ],
       [
-        [
-          "Nancy Lopez"
-        ],
+        "15\u00bd-12\u00bd",
+        []
+      ],
+      [
+        "Nancy Lopez",
         [
           "/wiki/Nancy_Lopez"
         ]
       ],
       [
-        [
-          "Catrin Nilsmark"
-        ],
+        "Catrin Nilsmark",
         [
           "/wiki/Catrin_Nilsmark"
         ]
@@ -386,85 +298,64 @@
     ],
     [
       [
-        [
-          "2003"
-        ],
+        "2003",
         [
           "/wiki/2003_Solheim_Cup"
         ]
       ],
       [
-        [
-          "Barseb\u00e4ck Golf & Country Club",
-          "Sweden"
-        ],
+        "Barseb\u00e4ck Golf & Country Club , Sweden",
         [
           "/wiki/Barseb\u00e4ck_Golf_&_Country_Club",
           "/wiki/Sweden"
         ]
       ],
       [
-        [
-          "17\u00bd-10\u00bd"
-        ],
-        [
-          null
-        ]
+        "Europe",
+        []
       ],
       [
-        [
-          "Patty Sheehan"
-        ],
+        "17\u00bd-10\u00bd",
+        []
+      ],
+      [
+        "Patty Sheehan",
         [
           "/wiki/Patty_Sheehan"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "Catrin Nilsmark",
+        []
       ]
     ],
     [
       [
-        [
-          "2002"
-        ],
+        "2002",
         [
           "/wiki/2002_Solheim_Cup"
         ]
       ],
       [
-        [
-          "Interlachen Country Club"
-        ],
+        "Interlachen Country Club , Minnesota , USA",
         [
           "/wiki/Interlachen_Country_Club"
         ]
       ],
       [
-        [
-          "15\u00bd-12\u00bd"
-        ],
-        [
-          null
-        ]
+        "United States",
+        []
       ],
       [
-        [
-          "Patty Sheehan"
-        ],
-        [
-          null
-        ]
+        "15\u00bd-12\u00bd",
+        []
       ],
       [
-        [
-          "Dale Reid"
-        ],
+        "Patty Sheehan",
+        []
+      ],
+      [
+        "Dale Reid",
         [
           "/wiki/Dale_Reid"
         ]
@@ -472,85 +363,66 @@
     ],
     [
       [
-        [
-          "2000"
-        ],
+        "2000",
         [
           "/wiki/2000_Solheim_Cup"
         ]
       ],
       [
-        [
-          "Loch Lomond Golf Club",
-          "Scotland"
-        ],
+        "Loch Lomond Golf Club , Scotland",
         [
           "/wiki/Loch_Lomond_Golf_Club",
           "/wiki/Scotland"
         ]
       ],
       [
-        [
-          "14\u00bd-11\u00bd"
-        ],
-        [
-          null
-        ]
+        "Europe",
+        []
       ],
       [
-        [
-          "Pat Bradley"
-        ],
+        "14\u00bd-11\u00bd",
+        []
+      ],
+      [
+        "Pat Bradley",
         [
           "/wiki/Pat_Bradley_(golfer)"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "Dale Reid",
+        []
       ]
     ],
     [
       [
-        [
-          "1998"
-        ],
+        "1998",
         [
           "/wiki/1998_Solheim_Cup"
         ]
       ],
       [
-        [
-          "Muirfield Village"
-        ],
+        "Muirfield Village , Ohio , USA",
         [
           "/wiki/Muirfield_Village"
         ]
       ],
       [
-        [
-          "16-12"
-        ],
-        [
-          null
-        ]
+        "United States",
+        []
       ],
       [
-        [
-          "Judy Rankin"
-        ],
+        "16-12",
+        []
+      ],
+      [
+        "Judy Rankin",
         [
           "/wiki/Judy_Rankin"
         ]
       ],
       [
-        [
-          "Pia Nilsson"
-        ],
+        "Pia Nilsson",
         [
           "/wiki/Pia_Nilsson_(golfer)"
         ]
@@ -558,43 +430,32 @@
     ],
     [
       [
-        [
-          "1996"
-        ],
+        "1996",
         [
           "/wiki/1996_Solheim_Cup"
         ]
       ],
       [
-        [
-          "St Pierre Golf & Country Club",
-          "Wales"
-        ],
+        "St Pierre Golf & Country Club , Wales",
         [
           "/wiki/St_Pierre_Golf_&_Country_Club",
           "/wiki/Wales"
         ]
       ],
       [
-        [
-          "17-11"
-        ],
-        [
-          null
-        ]
+        "United States",
+        []
       ],
       [
-        [
-          "Judy Rankin"
-        ],
-        [
-          null
-        ]
+        "17-11",
+        []
       ],
       [
-        [
-          "Mickey Walker"
-        ],
+        "Judy Rankin",
+        []
+      ],
+      [
+        "Mickey Walker",
         [
           "/wiki/Mickey_Walker_(golfer)"
         ]
@@ -602,130 +463,97 @@
     ],
     [
       [
-        [
-          "1994"
-        ],
+        "1994",
         [
           "/wiki/1994_Solheim_Cup"
         ]
       ],
       [
-        [
-          "The Greenbrier"
-        ],
+        "The Greenbrier , West Virginia , USA",
         [
           "/wiki/The_Greenbrier"
         ]
       ],
       [
-        [
-          "13-7"
-        ],
-        [
-          null
-        ]
+        "United States",
+        []
       ],
       [
-        [
-          "JoAnne Carner"
-        ],
+        "13-7",
+        []
+      ],
+      [
+        "JoAnne Carner",
         [
           "/wiki/JoAnne_Carner"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "Mickey Walker",
+        []
       ]
     ],
     [
       [
-        [
-          "1992"
-        ],
+        "1992",
         [
           "/wiki/1992_Solheim_Cup"
         ]
       ],
       [
-        [
-          "Dalmahoy Country Club",
-          "Scotland"
-        ],
+        "Dalmahoy Country Club , Scotland",
         [
           "/wiki/Dalmahoy",
           "/wiki/Scotland"
         ]
       ],
       [
-        [
-          "11\u00bd-6\u00bd"
-        ],
-        [
-          null
-        ]
+        "Europe",
+        []
       ],
       [
-        [
-          "Kathy Whitworth"
-        ],
+        "11\u00bd-6\u00bd",
+        []
+      ],
+      [
+        "Kathy Whitworth",
         [
           "/wiki/Kathy_Whitworth"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "Mickey Walker",
+        []
       ]
     ],
     [
       [
-        [
-          "1990"
-        ],
+        "1990",
         [
           "/wiki/1990_Solheim_Cup"
         ]
       ],
       [
-        [
-          "Lake Nona Golf & Country Club"
-        ],
+        "Lake Nona Golf & Country Club , Florida , USA",
         [
           "/wiki/Lake_Nona_Golf_&_Country_Club"
         ]
       ],
       [
-        [
-          "11\u00bd-4\u00bd"
-        ],
-        [
-          null
-        ]
+        "United States",
+        []
       ],
       [
-        [
-          "Kathy Whitworth"
-        ],
-        [
-          null
-        ]
+        "11\u00bd-4\u00bd",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "Kathy Whitworth",
+        []
+      ],
+      [
+        "Mickey Walker",
+        []
       ]
     ]
   ],

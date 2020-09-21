@@ -3,68 +3,40 @@
   "title": "Club Fonograma",
   "header": [
     [
-      [
-        "Order"
-      ],
-      [
-        null
-      ]
+      "Order",
+      []
     ],
     [
-      [
-        "Artist"
-      ],
-      [
-        null
-      ]
+      "Artist",
+      []
     ],
     [
-      [
-        "Song"
-      ],
-      [
-        null
-      ]
+      "Song",
+      []
     ],
     [
-      [
-        "Country"
-      ],
-      [
-        null
-      ]
+      "Country",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "Javiera Mena"
-        ],
+        "Javiera Mena",
         [
           "/wiki/Javiera_Mena"
         ]
       ],
       [
-        [
-          "Al Siguiente Nivel"
-        ],
-        [
-          null
-        ]
+        "Al Siguiente Nivel",
+        []
       ],
       [
-        [
-          "Chile"
-        ],
+        "Chile",
         [
           "/wiki/Chile"
         ]
@@ -72,33 +44,23 @@
     ],
     [
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "Calle 13"
-        ],
+        "Calle 13",
         [
           "/wiki/Calle_13_(band)"
         ]
       ],
       [
-        [
-          "Atrevete-te-te !"
-        ],
+        "Atrevete-te-te !",
         [
           "/wiki/Atrevete-te-te!"
         ]
       ],
       [
-        [
-          "Puerto Rico"
-        ],
+        "Puerto Rico",
         [
           "/wiki/Puerto_Rico"
         ]
@@ -106,33 +68,21 @@
     ],
     [
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "Tri\u00e1ngulo de Amor Bizarro"
-        ],
+        "Tri\u00e1ngulo de Amor Bizarro",
         [
           "/wiki/Tri\u00e1ngulo_de_Amor_Bizarro"
         ]
       ],
       [
-        [
-          "El Fantasma de la Transici\u00f3n"
-        ],
-        [
-          null
-        ]
+        "El Fantasma de la Transici\u00f3n",
+        []
       ],
       [
-        [
-          "Spain"
-        ],
+        "Spain",
         [
           "/wiki/Spain"
         ]
@@ -140,33 +90,21 @@
     ],
     [
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "Hello Seahorse !"
-        ],
+        "Hello Seahorse !",
         [
           "/wiki/Hello_Seahorse!"
         ]
       ],
       [
-        [
-          "Bestia"
-        ],
-        [
-          null
-        ]
+        "Bestia",
+        []
       ],
       [
-        [
-          "Mexico"
-        ],
+        "Mexico",
         [
           "/wiki/Mexico"
         ]
@@ -174,33 +112,23 @@
     ],
     [
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "Julieta Venegas"
-        ],
+        "Julieta Venegas",
         [
           "/wiki/Julieta_Venegas"
         ]
       ],
       [
-        [
-          "Lento"
-        ],
+        "Lento",
         [
           "/wiki/Lento_(Julieta_Venegas_song)"
         ]
       ],
       [
-        [
-          "Mexico"
-        ],
+        "Mexico",
         [
           "/wiki/Mexico"
         ]
@@ -208,33 +136,21 @@
     ],
     [
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "Caf\u00e9 Tacuba"
-        ],
+        "Caf\u00e9 Tacuba",
         [
           "/wiki/Caf\u00e9_Tacuba"
         ]
       ],
       [
-        [
-          "Eres"
-        ],
-        [
-          null
-        ]
+        "Eres",
+        []
       ],
       [
-        [
-          "Mexico"
-        ],
+        "Mexico",
         [
           "/wiki/Mexico"
         ]
@@ -242,35 +158,22 @@
     ],
     [
       [
-        [
-          "7"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ],
       [
-        [
-          "Celso Pi\u00f1a",
-          "Control Machete"
-        ],
+        "Celso Pi\u00f1a ft. Control Machete & Blanquito Man",
         [
           "/wiki/Celso_Pi\u00f1a",
           "/wiki/Control_Machete"
         ]
       ],
       [
-        [
-          "Cumbia Sobre el R\u00edo"
-        ],
-        [
-          null
-        ]
+        "Cumbia Sobre el R\u00edo",
+        []
       ],
       [
-        [
-          "Mexico"
-        ],
+        "Mexico",
         [
           "/wiki/Mexico"
         ]
@@ -278,33 +181,21 @@
     ],
     [
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "Porter"
-        ],
+        "Porter",
         [
           "/wiki/Porter_(band)"
         ]
       ],
       [
-        [
-          "Cuervos"
-        ],
-        [
-          null
-        ]
+        "Cuervos",
+        []
       ],
       [
-        [
-          "Mexico"
-        ],
+        "Mexico",
         [
           "/wiki/Mexico"
         ]
@@ -312,33 +203,21 @@
     ],
     [
       [
-        [
-          "9"
-        ],
-        [
-          null
-        ]
+        "9",
+        []
       ],
       [
-        [
-          "Rita Indiana y los Misterios"
-        ],
+        "Rita Indiana y los Misterios",
         [
           "/wiki/Rita_Indiana_y_los_Misterios"
         ]
       ],
       [
-        [
-          "La Hora de Volv\u00e9"
-        ],
-        [
-          null
-        ]
+        "La Hora de Volv\u00e9",
+        []
       ],
       [
-        [
-          "Dominican Republic"
-        ],
+        "Dominican Republic",
         [
           "/wiki/Dominican_Republic"
         ]
@@ -346,33 +225,23 @@
     ],
     [
       [
-        [
-          "10"
-        ],
-        [
-          null
-        ]
+        "10",
+        []
       ],
       [
-        [
-          "Natalia Lafourcade"
-        ],
+        "Natalia Lafourcade",
         [
           "/wiki/Natalia_Lafourcade"
         ]
       ],
       [
-        [
-          "Azul"
-        ],
+        "Azul",
         [
           "/wiki/Hu_Hu_Hu"
         ]
       ],
       [
-        [
-          "Mexico"
-        ],
+        "Mexico",
         [
           "/wiki/Mexico"
         ]

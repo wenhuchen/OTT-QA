@@ -3,719 +3,502 @@
   "title": "Ligue 2",
   "header": [
     [
-      [
-        "Club"
-      ],
-      [
-        null
-      ]
+      "Club",
+      []
     ],
     [
-      [
-        "Location"
-      ],
-      [
-        null
-      ]
+      "Location",
+      []
     ],
     [
-      [
-        "Venue"
-      ],
-      [
-        null
-      ]
+      "Venue",
+      []
     ],
     [
-      [
-        "Capacity"
-      ],
-      [
-        null
-      ]
+      "Capacity",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Ajaccio"
-        ],
+        "Ajaccio",
         [
           "/wiki/AC_Ajaccio"
         ]
       ],
       [
-        [
-          "Ajaccio"
-        ],
+        "Ajaccio",
         [
           "/wiki/Ajaccio"
         ]
       ],
       [
-        [
-          "Stade Fran\u00e7ois Coty"
-        ],
+        "Stade Fran\u00e7ois Coty",
         [
           "/wiki/Stade_Fran\u00e7ois_Coty"
         ]
       ],
       [
-        [
-          "10,446"
-        ],
-        [
-          null
-        ]
+        "10,446",
+        []
       ]
     ],
     [
       [
-        [
-          "Auxerre"
-        ],
+        "Auxerre",
         [
           "/wiki/AJ_Auxerre"
         ]
       ],
       [
-        [
-          "Auxerre"
-        ],
+        "Auxerre",
         [
           "/wiki/Auxerre"
         ]
       ],
       [
-        [
-          "Stade de l'Abb\u00e9-Deschamps"
-        ],
+        "Stade de l'Abb\u00e9-Deschamps",
         [
           "/wiki/Stade_de_l'Abb\u00e9-Deschamps"
         ]
       ],
       [
-        [
-          "21,379"
-        ],
-        [
-          null
-        ]
+        "21,379",
+        []
       ]
     ],
     [
       [
-        [
-          "Caen"
-        ],
+        "Caen",
         [
           "/wiki/Stade_Malherbe_Caen"
         ]
       ],
       [
-        [
-          "Caen"
-        ],
+        "Caen",
         [
           "/wiki/Caen"
         ]
       ],
       [
-        [
-          "Stade Michel d'Ornano"
-        ],
+        "Stade Michel d'Ornano",
         [
           "/wiki/Stade_Michel_d'Ornano"
         ]
       ],
       [
-        [
-          "21,215"
-        ],
-        [
-          null
-        ]
+        "21,215",
+        []
       ]
     ],
     [
       [
-        [
-          "Chambly"
-        ],
+        "Chambly",
         [
           "/wiki/FC_Chambly"
         ]
       ],
       [
-        [
-          "Chambly"
-        ],
+        "Chambly",
         [
           "/wiki/Chambly,_Oise"
         ]
       ],
       [
-        [
-          "Stade Pierre Brisson"
-        ],
+        "Stade Pierre Brisson",
         [
           "/wiki/Stade_Pierre_Brisson"
         ]
       ],
       [
-        [
-          "10,178"
-        ],
-        [
-          null
-        ]
+        "10,178",
+        []
       ]
     ],
     [
       [
-        [
-          "Ch\u00e2teauroux"
-        ],
+        "Ch\u00e2teauroux",
         [
           "/wiki/LB_Ch\u00e2teauroux"
         ]
       ],
       [
-        [
-          "Ch\u00e2teauroux"
-        ],
+        "Ch\u00e2teauroux",
         [
           "/wiki/Ch\u00e2teauroux"
         ]
       ],
       [
-        [
-          "Stade Gaston Petit"
-        ],
+        "Stade Gaston Petit",
         [
           "/wiki/Stade_Gaston_Petit"
         ]
       ],
       [
-        [
-          "17,173"
-        ],
-        [
-          null
-        ]
+        "17,173",
+        []
       ]
     ],
     [
       [
-        [
-          "Clermont Foot"
-        ],
+        "Clermont Foot",
         [
           "/wiki/Clermont_Foot"
         ]
       ],
       [
-        [
-          "Clermont-Ferrand"
-        ],
+        "Clermont-Ferrand",
         [
           "/wiki/Clermont-Ferrand"
         ]
       ],
       [
-        [
-          "Stade Gabriel Montpied"
-        ],
+        "Stade Gabriel Montpied",
         [
           "/wiki/Stade_Gabriel_Montpied"
         ]
       ],
       [
-        [
-          "11,980"
-        ],
-        [
-          null
-        ]
+        "11,980",
+        []
       ]
     ],
     [
       [
-        [
-          "Grenoble"
-        ],
+        "Grenoble",
         [
           "/wiki/Grenoble_Foot_38"
         ]
       ],
       [
-        [
-          "Grenoble"
-        ],
+        "Grenoble",
         [
           "/wiki/Grenoble"
         ]
       ],
       [
-        [
-          "Stade des Alpes"
-        ],
+        "Stade des Alpes",
         [
           "/wiki/Stade_des_Alpes"
         ]
       ],
       [
-        [
-          "20,068"
-        ],
-        [
-          null
-        ]
+        "20,068",
+        []
       ]
     ],
     [
       [
-        [
-          "Guingamp"
-        ],
+        "Guingamp",
         [
           "/wiki/En_Avant_de_Guingamp"
         ]
       ],
       [
-        [
-          "Guingamp"
-        ],
+        "Guingamp",
         [
           "/wiki/Guingamp"
         ]
       ],
       [
-        [
-          "Stade de Roudourou"
-        ],
+        "Stade de Roudourou",
         [
           "/wiki/Stade_de_Roudourou"
         ]
       ],
       [
-        [
-          "18,378"
-        ],
-        [
-          null
-        ]
+        "18,378",
+        []
       ]
     ],
     [
       [
-        [
-          "Le Havre"
-        ],
+        "Le Havre",
         [
           "/wiki/Le_Havre_AC"
         ]
       ],
       [
-        [
-          "Le Havre"
-        ],
+        "Le Havre",
         [
           "/wiki/Le_Havre"
         ]
       ],
       [
-        [
-          "Stade Oc\u00e9ane"
-        ],
+        "Stade Oc\u00e9ane",
         [
           "/wiki/Stade_Oc\u00e9ane"
         ]
       ],
       [
-        [
-          "25,178"
-        ],
-        [
-          null
-        ]
+        "25,178",
+        []
       ]
     ],
     [
       [
-        [
-          "Le Mans"
-        ],
+        "Le Mans",
         [
           "/wiki/Le_Mans_FC"
         ]
       ],
       [
-        [
-          "Le Mans"
-        ],
+        "Le Mans",
         [
           "/wiki/Le_Mans"
         ]
       ],
       [
-        [
-          "MMArena"
-        ],
+        "MMArena",
         [
           "/wiki/MMArena"
         ]
       ],
       [
-        [
-          "25,064"
-        ],
-        [
-          null
-        ]
+        "25,064",
+        []
       ]
     ],
     [
       [
-        [
-          "Lens"
-        ],
+        "Lens",
         [
           "/wiki/RC_Lens"
         ]
       ],
       [
-        [
-          "Lens"
-        ],
+        "Lens",
         [
           "/wiki/Lens,_Pas-de-Calais"
         ]
       ],
       [
-        [
-          "Stade Bollaert-Delelis"
-        ],
+        "Stade Bollaert-Delelis",
         [
           "/wiki/Stade_Bollaert-Delelis"
         ]
       ],
       [
-        [
-          "37,705"
-        ],
-        [
-          null
-        ]
+        "37,705",
+        []
       ]
     ],
     [
       [
-        [
-          "Lorient"
-        ],
+        "Lorient",
         [
           "/wiki/FC_Lorient"
         ]
       ],
       [
-        [
-          "Lorient"
-        ],
+        "Lorient",
         [
           "/wiki/Lorient"
         ]
       ],
       [
-        [
-          "Stade du Moustoir"
-        ],
+        "Stade du Moustoir",
         [
           "/wiki/Stade_du_Moustoir"
         ]
       ],
       [
-        [
-          "18,890"
-        ],
-        [
-          null
-        ]
+        "18,890",
+        []
       ]
     ],
     [
       [
-        [
-          "Nancy"
-        ],
+        "Nancy",
         [
           "/wiki/AS_Nancy"
         ]
       ],
       [
-        [
-          "Tomblaine"
-        ],
+        "Tomblaine",
         [
           "/wiki/Tomblaine"
         ]
       ],
       [
-        [
-          "Stade Marcel Picot"
-        ],
+        "Stade Marcel Picot",
         [
           "/wiki/Stade_Marcel_Picot"
         ]
       ],
       [
-        [
-          "20,087"
-        ],
-        [
-          null
-        ]
+        "20,087",
+        []
       ]
     ],
     [
       [
-        [
-          "Niort"
-        ],
+        "Niort",
         [
           "/wiki/Chamois_Niortais_F.C."
         ]
       ],
       [
-        [
-          "Niort"
-        ],
+        "Niort",
         [
           "/wiki/Niort"
         ]
       ],
       [
-        [
-          "Stade Ren\u00e9 Gaillard"
-        ],
+        "Stade Ren\u00e9 Gaillard",
         [
           "/wiki/Stade_Ren\u00e9_Gaillard"
         ]
       ],
       [
-        [
-          "10,886"
-        ],
-        [
-          null
-        ]
+        "10,886",
+        []
       ]
     ],
     [
       [
-        [
-          "Orl\u00e9ans"
-        ],
+        "Orl\u00e9ans",
         [
           "/wiki/US_Orl\u00e9ans"
         ]
       ],
       [
-        [
-          "Orl\u00e9ans"
-        ],
+        "Orl\u00e9ans",
         [
           "/wiki/Orl\u00e9ans"
         ]
       ],
       [
-        [
-          "Stade de la Source"
-        ],
+        "Stade de la Source",
         [
           "/wiki/Stade_de_la_Source"
         ]
       ],
       [
-        [
-          "7,000"
-        ],
-        [
-          null
-        ]
+        "7,000",
+        []
       ]
     ],
     [
       [
-        [
-          "Paris FC"
-        ],
+        "Paris FC",
         [
           "/wiki/Paris_FC"
         ]
       ],
       [
-        [
-          "Paris",
-          "13th arrondissement"
-        ],
+        "Paris ( 13th arrondissement )",
         [
           "/wiki/Paris",
           "/wiki/13th_arrondissement_of_Paris"
         ]
       ],
       [
-        [
-          "Stade Charl\u00e9ty"
-        ],
+        "Stade Charl\u00e9ty",
         [
           "/wiki/Stade_S\u00e9bastien_Charl\u00e9ty"
         ]
       ],
       [
-        [
-          "20,000"
-        ],
-        [
-          null
-        ]
+        "20,000",
+        []
       ]
     ],
     [
       [
-        [
-          "Rodez"
-        ],
+        "Rodez",
         [
           "/wiki/Rodez_AF"
         ]
       ],
       [
-        [
-          "Rodez"
-        ],
+        "Rodez",
         [
           "/wiki/Rodez"
         ]
       ],
       [
-        [
-          "Stade Paul-Lignon"
-        ],
+        "Stade Paul-Lignon",
         [
           "/wiki/Stade_Paul-Lignon"
         ]
       ],
       [
-        [
-          "5,955"
-        ],
-        [
-          null
-        ]
+        "5,955",
+        []
       ]
     ],
     [
       [
-        [
-          "Sochaux"
-        ],
+        "Sochaux",
         [
           "/wiki/FC_Sochaux-Montb\u00e9liard"
         ]
       ],
       [
-        [
-          "Montb\u00e9liard"
-        ],
+        "Montb\u00e9liard",
         [
           "/wiki/Montb\u00e9liard"
         ]
       ],
       [
-        [
-          "Stade Auguste Bonal"
-        ],
+        "Stade Auguste Bonal",
         [
           "/wiki/Stade_Auguste_Bonal"
         ]
       ],
       [
-        [
-          "20,005"
-        ],
-        [
-          null
-        ]
+        "20,005",
+        []
       ]
     ],
     [
       [
-        [
-          "Troyes"
-        ],
+        "Troyes",
         [
           "/wiki/Troyes_AC"
         ]
       ],
       [
-        [
-          "Troyes"
-        ],
+        "Troyes",
         [
           "/wiki/Troyes"
         ]
       ],
       [
-        [
-          "Stade de l'Aube"
-        ],
+        "Stade de l'Aube",
         [
           "/wiki/Stade_de_l'Aube"
         ]
       ],
       [
-        [
-          "21,684"
-        ],
-        [
-          null
-        ]
+        "21,684",
+        []
       ]
     ],
     [
       [
-        [
-          "Valenciennes"
-        ],
+        "Valenciennes",
         [
           "/wiki/Valenciennes_FC"
         ]
       ],
       [
-        [
-          "Valenciennes"
-        ],
+        "Valenciennes",
         [
           "/wiki/Valenciennes"
         ]
       ],
       [
-        [
-          "Stade du Hainaut"
-        ],
+        "Stade du Hainaut",
         [
           "/wiki/Stade_du_Hainaut"
         ]
       ],
       [
-        [
-          "25,172"
-        ],
-        [
-          null
-        ]
+        "25,172",
+        []
       ]
     ]
   ],

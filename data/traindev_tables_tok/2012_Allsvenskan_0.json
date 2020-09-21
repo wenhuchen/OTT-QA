@@ -3,717 +3,467 @@
   "title": "2012 Allsvenskan",
   "header": [
     [
-      [
-        "Team"
-      ],
-      [
-        null
-      ]
+      "Team",
+      []
     ],
     [
-      [
-        "Location"
-      ],
-      [
-        null
-      ]
+      "Location",
+      []
     ],
     [
-      [
-        "Stadium"
-      ],
-      [
-        null
-      ]
+      "Stadium",
+      []
     ],
     [
-      [
-        "Turf"
-      ],
-      [
-        null
-      ]
+      "Turf",
+      []
     ],
     [
-      [
-        "Stadium capacity"
-      ],
-      [
-        null
-      ]
+      "Stadium capacity",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "AIK"
-        ],
+        "AIK",
         [
           "/wiki/AIK_Fotboll"
         ]
       ],
       [
-        [
-          "Stockholm"
-        ],
+        "Stockholm",
         [
           "/wiki/Stockholm"
         ]
       ],
       [
-        [
-          "R\u00e5sunda Stadium"
-        ],
+        "R\u00e5sunda Stadium",
         [
           "/wiki/R\u00e5sunda_Stadium"
         ]
       ],
       [
-        [
-          "Natural"
-        ],
+        "Natural",
         [
           "/wiki/Grass"
         ]
       ],
       [
-        [
-          "36,608"
-        ],
-        [
-          null
-        ]
+        "36,608",
+        []
       ]
     ],
     [
       [
-        [
-          "Djurg\u00e5rdens IF"
-        ],
+        "Djurg\u00e5rdens IF",
         [
           "/wiki/Djurg\u00e5rdens_IF_Fotboll"
         ]
       ],
       [
-        [
-          "Stockholm"
-        ],
-        [
-          null
-        ]
+        "Stockholm",
+        []
       ],
       [
-        [
-          "Stockholm Stadion"
-        ],
+        "Stockholm Stadion",
         [
           "/wiki/Stockholm_Olympic_Stadium"
         ]
       ],
       [
-        [
-          "Natural"
-        ],
-        [
-          null
-        ]
+        "Natural",
+        []
       ],
       [
-        [
-          "14,700"
-        ],
-        [
-          null
-        ]
+        "14,700",
+        []
       ]
     ],
     [
       [
-        [
-          "IF Elfsborg"
-        ],
+        "IF Elfsborg",
         [
           "/wiki/IF_Elfsborg"
         ]
       ],
       [
-        [
-          "Bor\u00e5s"
-        ],
+        "Bor\u00e5s",
         [
           "/wiki/Bor\u00e5s"
         ]
       ],
       [
-        [
-          "Bor\u00e5s Arena"
-        ],
+        "Bor\u00e5s Arena",
         [
           "/wiki/Bor\u00e5s_Arena"
         ]
       ],
       [
-        [
-          "Artificial"
-        ],
+        "Artificial",
         [
           "/wiki/Artificial_turf"
         ]
       ],
       [
-        [
-          "16,899"
-        ],
-        [
-          null
-        ]
+        "16,899",
+        []
       ]
     ],
     [
       [
-        [
-          "GAIS"
-        ],
+        "GAIS",
         [
           "/wiki/GAIS"
         ]
       ],
       [
-        [
-          "Gothenburg"
-        ],
+        "Gothenburg",
         [
           "/wiki/Gothenburg"
         ]
       ],
       [
-        [
-          "Gamla Ullevi"
-        ],
+        "Gamla Ullevi",
         [
           "/wiki/Gamla_Ullevi"
         ]
       ],
       [
-        [
-          "Natural"
-        ],
-        [
-          null
-        ]
+        "Natural",
+        []
       ],
       [
-        [
-          "18,416"
-        ],
-        [
-          null
-        ]
+        "18,416",
+        []
       ]
     ],
     [
       [
-        [
-          "Gefle IF"
-        ],
+        "Gefle IF",
         [
           "/wiki/Gefle_IF"
         ]
       ],
       [
-        [
-          "G\u00e4vle"
-        ],
+        "G\u00e4vle",
         [
           "/wiki/G\u00e4vle"
         ]
       ],
       [
-        [
-          "Str\u00f6mvallen"
-        ],
+        "Str\u00f6mvallen",
         [
           "/wiki/Str\u00f6mvallen"
         ]
       ],
       [
-        [
-          "Artificial"
-        ],
-        [
-          null
-        ]
+        "Artificial",
+        []
       ],
       [
-        [
-          "6,711"
-        ],
-        [
-          null
-        ]
+        "6,711",
+        []
       ]
     ],
     [
       [
-        [
-          "IFK G\u00f6teborg"
-        ],
+        "IFK G\u00f6teborg",
         [
           "/wiki/IFK_G\u00f6teborg"
         ]
       ],
       [
-        [
-          "Gothenburg"
-        ],
-        [
-          null
-        ]
+        "Gothenburg",
+        []
       ],
       [
-        [
-          "Gamla Ullevi"
-        ],
-        [
-          null
-        ]
+        "Gamla Ullevi",
+        []
       ],
       [
-        [
-          "Natural"
-        ],
-        [
-          null
-        ]
+        "Natural",
+        []
       ],
       [
-        [
-          "18,416"
-        ],
-        [
-          null
-        ]
+        "18,416",
+        []
       ]
     ],
     [
       [
-        [
-          "Helsingborgs IF"
-        ],
+        "Helsingborgs IF",
         [
           "/wiki/Helsingborgs_IF"
         ]
       ],
       [
-        [
-          "Helsingborg"
-        ],
+        "Helsingborg",
         [
           "/wiki/Helsingborg"
         ]
       ],
       [
-        [
-          "Olympia"
-        ],
+        "Olympia",
         [
           "/wiki/Olympia_(Helsingborg)"
         ]
       ],
       [
-        [
-          "Natural"
-        ],
-        [
-          null
-        ]
+        "Natural",
+        []
       ],
       [
-        [
-          "16,500"
-        ],
-        [
-          null
-        ]
+        "16,500",
+        []
       ]
     ],
     [
       [
-        [
-          "BK H\u00e4cken"
-        ],
+        "BK H\u00e4cken",
         [
           "/wiki/BK_H\u00e4cken"
         ]
       ],
       [
-        [
-          "Gothenburg"
-        ],
-        [
-          null
-        ]
+        "Gothenburg",
+        []
       ],
       [
-        [
-          "Rambergsvallen"
-        ],
+        "Rambergsvallen",
         [
           "/wiki/Rambergsvallen"
         ]
       ],
       [
-        [
-          "Natural"
-        ],
-        [
-          null
-        ]
+        "Natural",
+        []
       ],
       [
-        [
-          "6,000"
-        ],
-        [
-          null
-        ]
+        "6,000",
+        []
       ]
     ],
     [
       [
-        [
-          "Kalmar FF"
-        ],
+        "Kalmar FF",
         [
           "/wiki/Kalmar_FF"
         ]
       ],
       [
-        [
-          "Kalmar"
-        ],
+        "Kalmar",
         [
           "/wiki/Kalmar"
         ]
       ],
       [
-        [
-          "Guldf\u00e5geln Arena"
-        ],
+        "Guldf\u00e5geln Arena",
         [
           "/wiki/Guldf\u00e5geln_Arena"
         ]
       ],
       [
-        [
-          "Natural"
-        ],
-        [
-          null
-        ]
+        "Natural",
+        []
       ],
       [
-        [
-          "12,000"
-        ],
-        [
-          null
-        ]
+        "12,000",
+        []
       ]
     ],
     [
       [
-        [
-          "Malm\u00f6 FF"
-        ],
+        "Malm\u00f6 FF",
         [
           "/wiki/Malm\u00f6_FF"
         ]
       ],
       [
-        [
-          "Malm\u00f6"
-        ],
+        "Malm\u00f6",
         [
           "/wiki/Malm\u00f6"
         ]
       ],
       [
-        [
-          "Swedbank Stadion"
-        ],
+        "Swedbank Stadion",
         [
           "/wiki/Swedbank_Stadion"
         ]
       ],
       [
-        [
-          "Natural"
-        ],
-        [
-          null
-        ]
+        "Natural",
+        []
       ],
       [
-        [
-          "24,000"
-        ],
-        [
-          null
-        ]
+        "24,000",
+        []
       ]
     ],
     [
       [
-        [
-          "Mj\u00e4llby AIF"
-        ],
+        "Mj\u00e4llby AIF",
         [
           "/wiki/Mj\u00e4llby_AIF"
         ]
       ],
       [
-        [
-          "Mj\u00e4llby"
-        ],
+        "Mj\u00e4llby",
         [
           "/wiki/Mj\u00e4llby"
         ]
       ],
       [
-        [
-          "Strandvallen"
-        ],
+        "Strandvallen",
         [
           "/wiki/Strandvallen"
         ]
       ],
       [
-        [
-          "Natural"
-        ],
-        [
-          null
-        ]
+        "Natural",
+        []
       ],
       [
-        [
-          "7,000"
-        ],
-        [
-          null
-        ]
+        "7,000",
+        []
       ]
     ],
     [
       [
-        [
-          "IFK Norrk\u00f6ping"
-        ],
+        "IFK Norrk\u00f6ping",
         [
           "/wiki/IFK_Norrk\u00f6ping"
         ]
       ],
       [
-        [
-          "Norrk\u00f6ping"
-        ],
+        "Norrk\u00f6ping",
         [
           "/wiki/Norrk\u00f6ping"
         ]
       ],
       [
-        [
-          "Idrottsparken"
-        ],
+        "Idrottsparken",
         [
           "/wiki/Idrottsparken"
         ]
       ],
       [
-        [
-          "Artificial"
-        ],
-        [
-          null
-        ]
+        "Artificial",
+        []
       ],
       [
-        [
-          "17,234"
-        ],
-        [
-          null
-        ]
+        "17,234",
+        []
       ]
     ],
     [
       [
-        [
-          "GIF Sundsvall"
-        ],
+        "GIF Sundsvall",
         [
           "/wiki/GIF_Sundsvall"
         ]
       ],
       [
-        [
-          "Sundsvall"
-        ],
+        "Sundsvall",
         [
           "/wiki/Sundsvall"
         ]
       ],
       [
-        [
-          "Norrporten Arena"
-        ],
+        "Norrporten Arena",
         [
           "/wiki/Norrporten_Arena"
         ]
       ],
       [
-        [
-          "Artificial"
-        ],
-        [
-          null
-        ]
+        "Artificial",
+        []
       ],
       [
-        [
-          "7,700"
-        ],
-        [
-          null
-        ]
+        "7,700",
+        []
       ]
     ],
     [
       [
-        [
-          "Syrianska FC"
-        ],
+        "Syrianska FC",
         [
           "/wiki/Syrianska_FC"
         ]
       ],
       [
-        [
-          "S\u00f6dert\u00e4lje"
-        ],
+        "S\u00f6dert\u00e4lje",
         [
           "/wiki/S\u00f6dert\u00e4lje"
         ]
       ],
       [
-        [
-          "S\u00f6dert\u00e4lje Fotbollsarena"
-        ],
+        "S\u00f6dert\u00e4lje Fotbollsarena",
         [
           "/wiki/S\u00f6dert\u00e4lje_Fotbollsarena"
         ]
       ],
       [
-        [
-          "Artificial"
-        ],
-        [
-          null
-        ]
+        "Artificial",
+        []
       ],
       [
-        [
-          "6,400"
-        ],
-        [
-          null
-        ]
+        "6,400",
+        []
       ]
     ],
     [
       [
-        [
-          "\u00c5tvidabergs FF"
-        ],
+        "\u00c5tvidabergs FF",
         [
           "/wiki/\u00c5tvidabergs_FF"
         ]
       ],
       [
-        [
-          "\u00c5tvidaberg"
-        ],
+        "\u00c5tvidaberg",
         [
           "/wiki/\u00c5tvidaberg"
         ]
       ],
       [
-        [
-          "Kopparvallen"
-        ],
-        [
-          null
-        ]
+        "Kopparvallen",
+        []
       ],
       [
-        [
-          "Artificial"
-        ],
-        [
-          null
-        ]
+        "Artificial",
+        []
       ],
       [
-        [
-          "8,300"
-        ],
-        [
-          null
-        ]
+        "8,300",
+        []
       ]
     ],
     [
       [
-        [
-          "\u00d6rebro SK"
-        ],
+        "\u00d6rebro SK",
         [
           "/wiki/\u00d6rebro_SK"
         ]
       ],
       [
-        [
-          "\u00d6rebro"
-        ],
+        "\u00d6rebro",
         [
           "/wiki/\u00d6rebro"
         ]
       ],
       [
-        [
-          "Behrn Arena"
-        ],
+        "Behrn Arena",
         [
           "/wiki/Behrn_Arena"
         ]
       ],
       [
-        [
-          "Artificial"
-        ],
-        [
-          null
-        ]
+        "Artificial",
+        []
       ],
       [
-        [
-          "13,129"
-        ],
-        [
-          null
-        ]
+        "13,129",
+        []
       ]
     ]
   ],

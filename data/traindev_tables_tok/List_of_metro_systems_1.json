@@ -3,891 +3,581 @@
   "title": "List of metro systems",
   "header": [
     [
-      [
-        "City"
-      ],
-      [
-        null
-      ]
+      "City",
+      []
     ],
     [
-      [
-        "Country"
-      ],
-      [
-        null
-      ]
+      "Country",
+      []
     ],
     [
-      [
-        "Name"
-      ],
-      [
-        null
-      ]
+      "Name",
+      []
     ],
     [
-      [
-        "Start of construction"
-      ],
-      [
-        null
-      ]
+      "Start of construction",
+      []
     ],
     [
-      [
-        "Planned opening"
-      ],
-      [
-        null
-      ]
+      "Planned opening",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Dhaka"
-        ],
+        "Dhaka",
         [
           "/wiki/Dhaka"
         ]
       ],
       [
-        [
-          "Bangladesh"
-        ],
+        "Bangladesh",
         [
           "/wiki/Bangladesh"
         ]
       ],
       [
-        [
-          "Dhaka Metro"
-        ],
+        "Dhaka Metro",
         [
           "/wiki/Dhaka_Metro"
         ]
       ],
       [
-        [
-          "2016"
-        ],
-        [
-          null
-        ]
+        "2016",
+        []
       ],
       [
-        [
-          "2021"
-        ],
-        [
-          null
-        ]
+        "2021",
+        []
       ]
     ],
     [
       [
-        [
-          "Jinhua"
-        ],
+        "Jinhua",
         [
           "/wiki/Jinhua"
         ]
       ],
       [
-        [
-          "China"
-        ],
+        "China",
         [
           "/wiki/China"
         ]
       ],
       [
-        [
-          "Jinhua Metro",
-          "zh"
-        ],
-        [
-          null,
-          null
-        ]
+        "Jinhua Metro [ zh ]",
+        []
       ],
       [
-        [
-          "2016"
-        ],
-        [
-          null
-        ]
+        "2016",
+        []
       ],
       [
-        [
-          "2020"
-        ],
-        [
-          null
-        ]
+        "2020",
+        []
       ]
     ],
     [
       [
-        [
-          "Luoyang"
-        ],
+        "Luoyang",
         [
           "/wiki/Luoyang"
         ]
       ],
       [
-        [
-          "China"
-        ],
+        "China",
         [
           "/wiki/China"
         ]
       ],
       [
-        [
-          "Luoyang Metro"
-        ],
+        "Luoyang Metro",
         [
           "/wiki/Luoyang_Metro"
         ]
       ],
       [
-        [
-          "2016"
-        ],
-        [
-          null
-        ]
+        "2016",
+        []
       ],
       [
-        [
-          "2020"
-        ],
-        [
-          null
-        ]
+        "2020",
+        []
       ]
     ],
     [
       [
-        [
-          "Nantong"
-        ],
+        "Nantong",
         [
           "/wiki/Nantong"
         ]
       ],
       [
-        [
-          "China"
-        ],
+        "China",
         [
           "/wiki/China"
         ]
       ],
       [
-        [
-          "Nantong Metro"
-        ],
+        "Nantong Metro",
         [
           "/wiki/Nantong_Metro"
         ]
       ],
       [
-        [
-          "2017"
-        ],
-        [
-          null
-        ]
+        "2017",
+        []
       ],
       [
-        [
-          "2022"
-        ],
-        [
-          null
-        ]
+        "2022",
+        []
       ]
     ],
     [
       [
-        [
-          "Shaoxing"
-        ],
+        "Shaoxing",
         [
           "/wiki/Shaoxing"
         ]
       ],
       [
-        [
-          "China"
-        ],
+        "China",
         [
           "/wiki/China"
         ]
       ],
       [
-        [
-          "Shaoxing Metro"
-        ],
+        "Shaoxing Metro",
         [
           "/wiki/Shaoxing_Metro"
         ]
       ],
       [
-        [
-          "2017"
-        ],
-        [
-          null
-        ]
+        "2017",
+        []
       ],
       [
-        [
-          "2021"
-        ],
-        [
-          null
-        ]
+        "2021",
+        []
       ]
     ],
     [
       [
-        [
-          "Taiyuan"
-        ],
+        "Taiyuan",
         [
           "/wiki/Taiyuan"
         ]
       ],
       [
-        [
-          "China"
-        ],
+        "China",
         [
           "/wiki/China"
         ]
       ],
       [
-        [
-          "Taiyuan Metro"
-        ],
+        "Taiyuan Metro",
         [
           "/wiki/Taiyuan_Metro"
         ]
       ],
       [
-        [
-          "2013"
-        ],
-        [
-          null
-        ]
+        "2013",
+        []
       ],
       [
-        [
-          "2020"
-        ],
-        [
-          null
-        ]
+        "2020",
+        []
       ]
     ],
     [
       [
-        [
-          "Wuhu"
-        ],
+        "Wuhu",
         [
           "/wiki/Wuhu"
         ]
       ],
       [
-        [
-          "China"
-        ],
+        "China",
         [
           "/wiki/China"
         ]
       ],
       [
-        [
-          "Wuhu Metro"
-        ],
+        "Wuhu Metro",
         [
           "/wiki/Wuhu_Metro"
         ]
       ],
       [
-        [
-          "2017"
-        ],
-        [
-          null
-        ]
+        "2017",
+        []
       ],
       [
-        [
-          "2020"
-        ],
-        [
-          null
-        ]
+        "2020",
+        []
       ]
     ],
     [
       [
-        [
-          "Quito"
-        ],
+        "Quito",
         [
           "/wiki/Quito"
         ]
       ],
       [
-        [
-          "Ecuador"
-        ],
+        "Ecuador",
         [
           "/wiki/Ecuador"
         ]
       ],
       [
-        [
-          "Quito Metro"
-        ],
+        "Quito Metro",
         [
           "/wiki/Quito_Metro"
         ]
       ],
       [
-        [
-          "2012"
-        ],
-        [
-          null
-        ]
+        "2012",
+        []
       ],
       [
-        [
-          "2020"
-        ],
-        [
-          null
-        ]
+        "2020",
+        []
       ]
     ],
     [
       [
-        [
-          "Thessaloniki"
-        ],
+        "Thessaloniki",
         [
           "/wiki/Thessaloniki"
         ]
       ],
       [
-        [
-          "Greece"
-        ],
+        "Greece",
         [
           "/wiki/Greece"
         ]
       ],
       [
-        [
-          "Thessaloniki Metro"
-        ],
+        "Thessaloniki Metro",
         [
           "/wiki/Thessaloniki_Metro"
         ]
       ],
       [
-        [
-          "2006"
-        ],
-        [
-          null
-        ]
+        "2006",
+        []
       ],
       [
-        [
-          "2020"
-        ],
-        [
-          null
-        ]
+        "2020",
+        []
       ]
     ],
     [
       [
-        [
-          "Bhopal"
-        ],
+        "Bhopal",
         [
           "/wiki/Bhopal"
         ]
       ],
       [
-        [
-          "India"
-        ],
+        "India",
         [
           "/wiki/India"
         ]
       ],
       [
-        [
-          "Bhopal Metro"
-        ],
+        "Bhopal Metro",
         [
           "/wiki/Bhopal_Metro"
         ]
       ],
       [
-        [
-          "2018"
-        ],
-        [
-          null
-        ]
+        "2018",
+        []
       ],
       [
-        [
-          "2024"
-        ],
-        [
-          null
-        ]
+        "2024",
+        []
       ]
     ],
     [
       [
-        [
-          "Indore"
-        ],
+        "Indore",
         [
           "/wiki/Indore"
         ]
       ],
       [
-        [
-          "India"
-        ],
+        "India",
         [
           "/wiki/India"
         ]
       ],
       [
-        [
-          "Indore Metro"
-        ],
+        "Indore Metro",
         [
           "/wiki/Indore_Metro"
         ]
       ],
       [
-        [
-          "2018"
-        ],
-        [
-          null
-        ]
+        "2018",
+        []
       ],
       [
-        [
-          "2024"
-        ],
-        [
-          null
-        ]
+        "2024",
+        []
       ]
     ],
     [
       [
-        [
-          "Kanpur"
-        ],
+        "Kanpur",
         [
           "/wiki/Kanpur"
         ]
       ],
       [
-        [
-          "India"
-        ],
+        "India",
         [
           "/wiki/India"
         ]
       ],
       [
-        [
-          "Kanpur Metro"
-        ],
+        "Kanpur Metro",
         [
           "/wiki/Kanpur_Metro"
         ]
       ],
       [
-        [
-          "2019"
-        ],
-        [
-          null
-        ]
+        "2019",
+        []
       ],
       [
-        [
-          "2024"
-        ],
-        [
-          null
-        ]
+        "2024",
+        []
       ]
     ],
     [
       [
-        [
-          "Navi Mumbai"
-        ],
+        "Navi Mumbai",
         [
           "/wiki/Navi_Mumbai"
         ]
       ],
       [
-        [
-          "India"
-        ],
+        "India",
         [
           "/wiki/India"
         ]
       ],
       [
-        [
-          "Navi Mumbai Metro"
-        ],
+        "Navi Mumbai Metro",
         [
           "/wiki/Navi_Mumbai_Metro"
         ]
       ],
       [
-        [
-          "2011"
-        ],
-        [
-          null
-        ]
+        "2011",
+        []
       ],
       [
-        [
-          "April 2020"
-        ],
-        [
-          null
-        ]
+        "April 2020",
+        []
       ]
     ],
     [
       [
-        [
-          "Pune"
-        ],
+        "Pune",
         [
           "/wiki/Pune"
         ]
       ],
       [
-        [
-          "India"
-        ],
+        "India",
         [
           "/wiki/India"
         ]
       ],
       [
-        [
-          "Pune Metro"
-        ],
+        "Pune Metro",
         [
           "/wiki/Pune_Metro"
         ]
       ],
       [
-        [
-          "2017"
-        ],
-        [
-          null
-        ]
+        "2017",
+        []
       ],
       [
-        [
-          "2021"
-        ],
-        [
-          null
-        ]
+        "2021",
+        []
       ]
     ],
     [
       [
-        [
-          "Ahvaz"
-        ],
+        "Ahvaz",
         [
           "/wiki/Ahvaz"
         ]
       ],
       [
-        [
-          "Iran"
-        ],
+        "Iran",
         [
           "/wiki/Iran"
         ]
       ],
       [
-        [
-          "Ahvaz Metro"
-        ],
+        "Ahvaz Metro",
         [
           "/wiki/Ahvaz_Metro"
         ]
       ],
       [
-        [
-          "2004"
-        ],
-        [
-          null
-        ]
+        "2004",
+        []
       ],
       [
-        [
-          "?"
-        ],
-        [
-          null
-        ]
+        "?",
+        []
       ]
     ],
     [
       [
-        [
-          "Karaj"
-        ],
+        "Karaj",
         [
           "/wiki/Karaj"
         ]
       ],
       [
-        [
-          "Iran"
-        ],
+        "Iran",
         [
           "/wiki/Iran"
         ]
       ],
       [
+        "Karaj Metro [ fa ]",
         [
-          "Karaj Metro",
-          "fa"
-        ],
-        [
-          "/wiki/Karaj_Metro",
-          null
+          "/wiki/Karaj_Metro"
         ]
       ],
       [
-        [
-          "2006"
-        ],
-        [
-          null
-        ]
+        "2006",
+        []
       ],
       [
-        [
-          "2020"
-        ],
-        [
-          null
-        ]
+        "2020",
+        []
       ]
     ],
     [
       [
-        [
-          "Kermanshah"
-        ],
+        "Kermanshah",
         [
           "/wiki/Kermanshah"
         ]
       ],
       [
-        [
-          "Iran"
-        ],
+        "Iran",
         [
           "/wiki/Iran"
         ]
       ],
       [
-        [
-          "Kermanshah Metro",
-          "fa"
-        ],
-        [
-          null,
-          null
-        ]
+        "Kermanshah Metro [ fa ]",
+        []
       ],
       [
-        [
-          "2011"
-        ],
-        [
-          null
-        ]
+        "2011",
+        []
       ],
       [
-        [
-          "2022"
-        ],
-        [
-          null
-        ]
+        "2022",
+        []
       ]
     ],
     [
       [
-        [
-          "Qom"
-        ],
+        "Qom",
         [
           "/wiki/Qom"
         ]
       ],
       [
-        [
-          "Iran"
-        ],
+        "Iran",
         [
           "/wiki/Iran"
         ]
       ],
       [
-        [
-          "Qom Metro"
-        ],
+        "Qom Metro",
         [
           "/wiki/Qom_Metro"
         ]
       ],
       [
-        [
-          "2009"
-        ],
-        [
-          null
-        ]
+        "2009",
+        []
       ],
       [
-        [
-          "2020"
-        ],
-        [
-          null
-        ]
+        "2020",
+        []
       ]
     ],
     [
       [
-        [
-          "Abidjan"
-        ],
+        "Abidjan",
         [
           "/wiki/Abidjan"
         ]
       ],
       [
-        [
-          "Ivory Coast"
-        ],
+        "Ivory Coast",
         [
           "/wiki/Ivory_Coast"
         ]
       ],
       [
-        [
-          "Abidjan Metro"
-        ],
+        "Abidjan Metro",
         [
           "/wiki/Abidjan_Metro"
         ]
       ],
       [
-        [
-          "2017"
-        ],
-        [
-          null
-        ]
+        "2017",
+        []
       ],
       [
-        [
-          "2022/2023"
-        ],
-        [
-          null
-        ]
+        "2022/2023",
+        []
       ]
     ],
     [
       [
-        [
-          "Lagos"
-        ],
+        "Lagos",
         [
           "/wiki/Lagos"
         ]
       ],
       [
-        [
-          "Nigeria"
-        ],
+        "Nigeria",
         [
           "/wiki/Nigeria"
         ]
       ],
       [
-        [
-          "Lagos Rail Mass Transit"
-        ],
+        "Lagos Rail Mass Transit",
         [
           "/wiki/Lagos_Rail_Mass_Transit"
         ]
       ],
       [
-        [
-          "2009"
-        ],
-        [
-          null
-        ]
+        "2009",
+        []
       ],
       [
-        [
-          "2022"
-        ],
-        [
-          null
-        ]
+        "2022",
+        []
       ]
     ]
   ],

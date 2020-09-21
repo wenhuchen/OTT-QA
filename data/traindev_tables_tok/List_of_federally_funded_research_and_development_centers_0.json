@@ -3,64 +3,38 @@
   "title": "Federally funded research and development centers",
   "header": [
     [
-      [
-        "Facility"
-      ],
-      [
-        null
-      ]
+      "Facility",
+      []
     ],
     [
-      [
-        "Administrator"
-      ],
-      [
-        null
-      ]
+      "Administrator",
+      []
     ],
     [
-      [
-        "Location"
-      ],
-      [
-        null
-      ]
+      "Location",
+      []
     ],
     [
-      [
-        "Sponsor"
-      ],
-      [
-        null
-      ]
+      "Sponsor",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Aerospace FFRDC"
-        ],
+        "Aerospace FFRDC",
         [
           "/wiki/The_Aerospace_Corporation"
         ]
       ],
       [
-        [
-          "The Aerospace Corporation"
-        ],
+        "The Aerospace Corporation",
         [
           "/wiki/The_Aerospace_Corporation"
         ]
       ],
       [
-        [
-          "El Segundo , CA",
-          "Chantilly , VA",
-          "Colorado Springs , CO",
-          "Huntsville , AL",
-          "Albuquerque , NM"
-        ],
+        "El Segundo , CA ; Chantilly , VA ; Colorado Springs , CO Huntsville , AL Albuquerque , NM",
         [
           "/wiki/El_Segundo,_CA",
           "/wiki/Chantilly,_VA",
@@ -70,10 +44,7 @@
         ]
       ],
       [
-        [
-          "Department of Defense",
-          "Department of the Air Force"
-        ],
+        "Department of Defense , Department of the Air Force",
         [
           "/wiki/United_States_Department_of_Defense",
           "/wiki/Department_of_the_Air_Force"
@@ -82,33 +53,25 @@
     ],
     [
       [
-        [
-          "Ames Laboratory"
-        ],
+        "Ames Laboratory",
         [
           "/wiki/Ames_Laboratory"
         ]
       ],
       [
-        [
-          "Iowa State University of Science and Technology"
-        ],
+        "Iowa State University of Science and Technology",
         [
           "/wiki/Iowa_State_University_of_Science_and_Technology"
         ]
       ],
       [
-        [
-          "Ames , IA"
-        ],
+        "Ames , IA",
         [
           "/wiki/Ames,_IA"
         ]
       ],
       [
-        [
-          "Department of Energy"
-        ],
+        "Department of Energy",
         [
           "/wiki/United_States_Department_of_Energy"
         ]
@@ -116,33 +79,25 @@
     ],
     [
       [
-        [
-          "Argonne National Laboratory"
-        ],
+        "Argonne National Laboratory",
         [
           "/wiki/Argonne_National_Laboratory"
         ]
       ],
       [
-        [
-          "UChicago Argonne , LLC"
-        ],
+        "UChicago Argonne , LLC",
         [
           "/wiki/University_of_Chicago"
         ]
       ],
       [
-        [
-          "Argonne , IL"
-        ],
+        "Argonne , IL",
         [
           "/wiki/Downers_Grove_Township,_DuPage_County,_Illinois"
         ]
       ],
       [
-        [
-          "Department of Energy"
-        ],
+        "Department of Energy",
         [
           "/wiki/United_States_Department_of_Energy"
         ]
@@ -150,34 +105,23 @@
     ],
     [
       [
-        [
-          "Arroyo Center"
-        ],
-        [
-          null
-        ]
+        "Arroyo Center",
+        []
       ],
       [
-        [
-          "RAND Corporation"
-        ],
+        "RAND Corporation",
         [
           "/wiki/RAND_Corporation"
         ]
       ],
       [
-        [
-          "Santa Monica , CA"
-        ],
+        "Santa Monica , CA",
         [
           "/wiki/Santa_Monica,_CA"
         ]
       ],
       [
-        [
-          "Department of Defense",
-          "Department of the Army"
-        ],
+        "Department of Defense , Department of the Army",
         [
           "/wiki/United_States_Department_of_Defense",
           "/wiki/Department_of_the_Army"
@@ -186,33 +130,23 @@
     ],
     [
       [
-        [
-          "Brookhaven National Laboratory"
-        ],
+        "Brookhaven National Laboratory",
         [
           "/wiki/Brookhaven_National_Laboratory"
         ]
       ],
       [
-        [
-          "Brookhaven Science Associates , LLC"
-        ],
-        [
-          null
-        ]
+        "Brookhaven Science Associates , LLC",
+        []
       ],
       [
-        [
-          "Upton , NY"
-        ],
+        "Upton , NY",
         [
           "/wiki/Upton,_New_York"
         ]
       ],
       [
-        [
-          "Department of Energy"
-        ],
+        "Department of Energy",
         [
           "/wiki/United_States_Department_of_Energy"
         ]
@@ -220,34 +154,23 @@
     ],
     [
       [
-        [
-          "Center for Advanced Aviation System Development"
-        ],
-        [
-          null
-        ]
+        "Center for Advanced Aviation System Development",
+        []
       ],
       [
-        [
-          "MITRE"
-        ],
+        "MITRE",
         [
           "/wiki/MITRE"
         ]
       ],
       [
-        [
-          "McLean , VA"
-        ],
+        "McLean , VA",
         [
           "/wiki/McLean,_VA"
         ]
       ],
       [
-        [
-          "Department of Transportation",
-          "Federal Aviation Administration"
-        ],
+        "Department of Transportation , Federal Aviation Administration",
         [
           "/wiki/United_States_Department_of_Transportation",
           "/wiki/Federal_Aviation_Administration"
@@ -256,34 +179,25 @@
     ],
     [
       [
-        [
-          "Center for Communications and Computing"
-        ],
+        "Center for Communications and Computing",
         [
           "/wiki/Centers_for_Communications_and_Computing"
         ]
       ],
       [
-        [
-          "Institute for Defense Analyses"
-        ],
+        "Institute for Defense Analyses",
         [
           "/wiki/Institute_for_Defense_Analyses"
         ]
       ],
       [
-        [
-          "Alexandria , VA"
-        ],
+        "Alexandria , VA",
         [
           "/wiki/Alexandria,_VA"
         ]
       ],
       [
-        [
-          "Department of Defense",
-          "National Security Agency"
-        ],
+        "Department of Defense , National Security Agency",
         [
           "/wiki/United_States_Department_of_Defense",
           "/wiki/National_Security_Agency"
@@ -292,35 +206,23 @@
     ],
     [
       [
-        [
-          "Center for Enterprise Modernization"
-        ],
-        [
-          null
-        ]
+        "Center for Enterprise Modernization",
+        []
       ],
       [
-        [
-          "MITRE"
-        ],
+        "MITRE",
         [
           "/wiki/MITRE"
         ]
       ],
       [
-        [
-          "McLean , VA"
-        ],
+        "McLean , VA",
         [
           "/wiki/McLean,_VA"
         ]
       ],
       [
-        [
-          "Department of the Treasury",
-          "Department of Veterans Affairs",
-          "Internal Revenue Service"
-        ],
+        "Department of the Treasury , Department of Veterans Affairs , Internal Revenue Service",
         [
           "/wiki/United_States_Department_of_the_Treasury",
           "/wiki/United_States_Department_of_Veterans_Affairs",
@@ -330,34 +232,25 @@
     ],
     [
       [
-        [
-          "Center for Naval Analyses"
-        ],
+        "Center for Naval Analyses",
         [
           "/wiki/Center_for_Naval_Analyses"
         ]
       ],
       [
-        [
-          "CNA Corporation"
-        ],
+        "The CNA Corporation",
         [
           "/wiki/CNA_Corporation"
         ]
       ],
       [
-        [
-          "Arlington , VA"
-        ],
+        "Arlington , VA",
         [
           "/wiki/Arlington,_VA"
         ]
       ],
       [
-        [
-          "Department of Defense",
-          "Department of the Navy"
-        ],
+        "Department of Defense , Department of the Navy",
         [
           "/wiki/United_States_Department_of_Defense",
           "/wiki/Department_of_the_Navy"
@@ -366,33 +259,23 @@
     ],
     [
       [
-        [
-          "Center for Nuclear Waste Regulatory Analyses"
-        ],
-        [
-          null
-        ]
+        "Center for Nuclear Waste Regulatory Analyses",
+        []
       ],
       [
-        [
-          "Southwest Research Institute"
-        ],
+        "Southwest Research Institute",
         [
           "/wiki/Southwest_Research_Institute"
         ]
       ],
       [
-        [
-          "San Antonio , TX"
-        ],
+        "San Antonio , TX",
         [
           "/wiki/San_Antonio,_TX"
         ]
       ],
       [
-        [
-          "Nuclear Regulatory Commission"
-        ],
+        "Nuclear Regulatory Commission",
         [
           "/wiki/Nuclear_Regulatory_Commission"
         ]
@@ -400,33 +283,23 @@
     ],
     [
       [
-        [
-          "CMS Alliance to Modernize Healthcare"
-        ],
-        [
-          null
-        ]
+        "CMS Alliance to Modernize Healthcare",
+        []
       ],
       [
-        [
-          "MITRE"
-        ],
+        "MITRE",
         [
           "/wiki/MITRE"
         ]
       ],
       [
-        [
-          "McLean , VA"
-        ],
+        "McLean , VA",
         [
           "/wiki/McLean,_VA"
         ]
       ],
       [
-        [
-          "United States Department of Health and Human Services"
-        ],
+        "United States Department of Health and Human Services",
         [
           "/wiki/United_States_Department_of_Health_and_Human_Services"
         ]
@@ -434,33 +307,23 @@
     ],
     [
       [
-        [
-          "Fermi National Accelerator Laboratory"
-        ],
+        "Fermi National Accelerator Laboratory",
         [
           "/wiki/Fermi_National_Accelerator_Laboratory"
         ]
       ],
       [
-        [
-          "Fermi Research Alliance , LLC"
-        ],
-        [
-          null
-        ]
+        "Fermi Research Alliance , LLC",
+        []
       ],
       [
-        [
-          "Batavia , IL"
-        ],
+        "Batavia , IL",
         [
           "/wiki/Batavia,_IL"
         ]
       ],
       [
-        [
-          "Department of Energy"
-        ],
+        "Department of Energy",
         [
           "/wiki/United_States_Department_of_Energy"
         ]
@@ -468,34 +331,25 @@
     ],
     [
       [
-        [
-          "Frederick National Laboratory for Cancer Research"
-        ],
+        "Frederick National Laboratory for Cancer Research",
         [
           "/wiki/Frederick_National_Laboratory_for_Cancer_Research"
         ]
       ],
       [
-        [
-          "Leidos Biomedical Research"
-        ],
+        "Leidos Biomedical Research",
         [
           "/wiki/Leidos_Biomedical_Research"
         ]
       ],
       [
-        [
-          "Frederick , MD"
-        ],
+        "Frederick , MD",
         [
           "/wiki/Frederick,_MD"
         ]
       ],
       [
-        [
-          "Department of Health and Human Services",
-          "National Institutes of Health"
-        ],
+        "Department of Health and Human Services , National Institutes of Health",
         [
           "/wiki/Department_of_Health_and_Human_Services",
           "/wiki/National_Institutes_of_Health"
@@ -504,34 +358,23 @@
     ],
     [
       [
-        [
-          "Homeland Security Operational Analysis Center"
-        ],
-        [
-          null
-        ]
+        "Homeland Security Operational Analysis Center",
+        []
       ],
       [
-        [
-          "RAND Corporation"
-        ],
+        "RAND Corporation",
         [
           "/wiki/RAND_Corporation"
         ]
       ],
       [
-        [
-          "Crystal City , VA"
-        ],
+        "Crystal City , VA",
         [
           "/wiki/Crystal_City,_VA"
         ]
       ],
       [
-        [
-          "Department of Homeland Security",
-          "Under Secretary for Science and Technology"
-        ],
+        "Department of Homeland Security , Under Secretary for Science and Technology",
         [
           "/wiki/Department_of_Homeland_Security",
           "/wiki/DHS_Directorate_for_Science_and_Technology"
@@ -540,34 +383,23 @@
     ],
     [
       [
-        [
-          "Homeland Security Systems Engineering and Development Institute"
-        ],
-        [
-          null
-        ]
+        "Homeland Security Systems Engineering and Development Institute",
+        []
       ],
       [
-        [
-          "MITRE"
-        ],
+        "MITRE",
         [
           "/wiki/MITRE"
         ]
       ],
       [
-        [
-          "McLean , VA"
-        ],
+        "McLean , VA",
         [
           "/wiki/McLean,_VA"
         ]
       ],
       [
-        [
-          "Department of Homeland Security",
-          "Under Secretary for Science and Technology"
-        ],
+        "Department of Homeland Security , Under Secretary for Science and Technology",
         [
           "/wiki/Department_of_Homeland_Security",
           "/wiki/DHS_Directorate_for_Science_and_Technology"
@@ -576,33 +408,25 @@
     ],
     [
       [
-        [
-          "Idaho National Laboratory"
-        ],
+        "Idaho National Laboratory",
         [
           "/wiki/Idaho_National_Laboratory"
         ]
       ],
       [
-        [
-          "Battelle Energy Alliance , LLC"
-        ],
+        "Battelle Energy Alliance , LLC",
         [
           "/wiki/Battelle_Memorial_Institute"
         ]
       ],
       [
-        [
-          "Idaho Falls , ID"
-        ],
+        "Idaho Falls , ID",
         [
           "/wiki/Idaho_Falls,_ID"
         ]
       ],
       [
-        [
-          "Department of Energy"
-        ],
+        "Department of Energy",
         [
           "/wiki/United_States_Department_of_Energy"
         ]
@@ -610,33 +434,25 @@
     ],
     [
       [
-        [
-          "Jet Propulsion Laboratory"
-        ],
+        "Jet Propulsion Laboratory",
         [
           "/wiki/Jet_Propulsion_Laboratory"
         ]
       ],
       [
-        [
-          "California Institute of Technology"
-        ],
+        "California Institute of Technology",
         [
           "/wiki/California_Institute_of_Technology"
         ]
       ],
       [
-        [
-          "Pasadena , CA"
-        ],
+        "Pasadena , CA",
         [
           "/wiki/Pasadena,_CA"
         ]
       ],
       [
-        [
-          "National Aeronautics and Space Administration"
-        ],
+        "National Aeronautics and Space Administration",
         [
           "/wiki/National_Aeronautics_and_Space_Administration"
         ]
@@ -644,33 +460,23 @@
     ],
     [
       [
-        [
-          "Judiciary Engineering and Modernization Center"
-        ],
-        [
-          null
-        ]
+        "Judiciary Engineering and Modernization Center",
+        []
       ],
       [
-        [
-          "MITRE"
-        ],
+        "MITRE",
         [
           "/wiki/MITRE"
         ]
       ],
       [
-        [
-          "McLean , VA"
-        ],
+        "McLean , VA",
         [
           "/wiki/McLean,_VA"
         ]
       ],
       [
-        [
-          "United States Courts"
-        ],
+        "United States Courts",
         [
           "/wiki/List_of_courts_of_the_United_States"
         ]
@@ -678,33 +484,25 @@
     ],
     [
       [
-        [
-          "Lawrence Berkeley National Laboratory"
-        ],
+        "Lawrence Berkeley National Laboratory",
         [
           "/wiki/Lawrence_Berkeley_National_Laboratory"
         ]
       ],
       [
-        [
-          "University of California"
-        ],
+        "University of California",
         [
           "/wiki/University_of_California"
         ]
       ],
       [
-        [
-          "Berkeley , CA"
-        ],
+        "Berkeley , CA",
         [
           "/wiki/Berkeley,_CA"
         ]
       ],
       [
-        [
-          "Department of Energy"
-        ],
+        "Department of Energy",
         [
           "/wiki/United_States_Department_of_Energy"
         ]
@@ -712,33 +510,23 @@
     ],
     [
       [
-        [
-          "Lawrence Livermore National Laboratory"
-        ],
+        "Lawrence Livermore National Laboratory",
         [
           "/wiki/Lawrence_Livermore_National_Laboratory"
         ]
       ],
       [
-        [
-          "Lawrence Livermore National Security , LLC"
-        ],
-        [
-          null
-        ]
+        "Lawrence Livermore National Security , LLC",
+        []
       ],
       [
-        [
-          "Livermore , CA"
-        ],
+        "Livermore , CA",
         [
           "/wiki/Livermore,_CA"
         ]
       ],
       [
-        [
-          "Department of Energy"
-        ],
+        "Department of Energy",
         [
           "/wiki/United_States_Department_of_Energy"
         ]

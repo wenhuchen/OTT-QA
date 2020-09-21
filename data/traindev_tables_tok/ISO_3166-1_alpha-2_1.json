@@ -3,84 +3,52 @@
   "title": "ISO 3166-1 alpha-2",
   "header": [
     [
-      [
-        "Code"
-      ],
-      [
-        null
-      ]
+      "Code",
+      []
     ],
     [
-      [
-        "Area name or country name"
-      ],
-      [
-        null
-      ]
+      "Area name or country name",
+      []
     ],
     [
-      [
-        "Current actual country"
-      ],
-      [
-        null
-      ]
+      "Current actual country",
+      []
     ],
     [
-      [
-        "ccTLD"
-      ],
-      [
-        null
-      ]
+      "ccTLD",
+      []
     ],
     [
-      [
-        "Notes"
-      ],
-      [
-        null
-      ]
+      "Notes",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "AC"
-        ],
-        [
-          null
-        ]
+        "AC",
+        []
       ],
       [
-        [
-          "Ascension Island"
-        ],
+        "Ascension Island",
         [
           "/wiki/Ascension_Island"
         ]
       ],
       [
-        [
-          "United Kingdom"
-        ],
+        "United Kingdom",
         [
           "/wiki/United_Kingdom"
         ]
       ],
       [
-        [
-          ".ac"
-        ],
+        ".ac",
         [
           "/wiki/.ac"
         ]
       ],
       [
-        [
-          "UPU"
-        ],
+        "Reserved on request of UPU for stamp issuing area",
         [
           "/wiki/Universal_Postal_Union"
         ]
@@ -88,41 +56,27 @@
     ],
     [
       [
-        [
-          "CP"
-        ],
-        [
-          null
-        ]
+        "CP",
+        []
       ],
       [
-        [
-          "Clipperton Island"
-        ],
+        "Clipperton Island",
         [
           "/wiki/Clipperton_Island"
         ]
       ],
       [
-        [
-          "France"
-        ],
+        "France",
         [
           "/wiki/France"
         ]
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "ITU"
-        ],
+        "Reserved on request of ITU for location of certain telecommunications installations",
         [
           "/wiki/International_Telecommunication_Union"
         ]
@@ -130,41 +84,27 @@
     ],
     [
       [
-        [
-          "DG"
-        ],
-        [
-          null
-        ]
+        "DG",
+        []
       ],
       [
-        [
-          "Diego Garcia"
-        ],
+        "Diego Garcia",
         [
           "/wiki/Diego_Garcia"
         ]
       ],
       [
-        [
-          "United Kingdom"
-        ],
+        "United Kingdom",
         [
           "/wiki/United_Kingdom"
         ]
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "ITU"
-        ],
+        "Reserved on request of ITU for location of certain telecommunications installations",
         [
           "/wiki/International_Telecommunication_Union"
         ]
@@ -172,46 +112,28 @@
     ],
     [
       [
-        [
-          "EA"
-        ],
-        [
-          null
-        ]
+        "EA",
+        []
       ],
       [
-        [
-          "Ceuta",
-          "Melilla"
-        ],
+        "Ceuta , Melilla",
         [
           "/wiki/Ceuta",
           "/wiki/Melilla"
         ]
       ],
       [
-        [
-          "Spain"
-        ],
+        "Spain",
         [
           "/wiki/Spain"
         ]
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "WCO",
-          "area not covered by European Union Customs arrangements",
-          "Spanish North Africa",
-          "Spanish"
-        ],
+        "Reserved on request of WCO for area not covered by European Union Customs arrangements Part of Spanish North Africa ( Spanish : \u00c1frica Septentrional Espa\u00f1ola )",
         [
           "/wiki/World_Customs_Organization",
           "/wiki/European_Union_Customs_Union",
@@ -222,44 +144,27 @@
     ],
     [
       [
-        [
-          "EU"
-        ],
-        [
-          null
-        ]
+        "EU",
+        []
       ],
       [
-        [
-          "European Union"
-        ],
+        "European Union",
         [
           "/wiki/European_Union"
         ]
       ],
       [
-        [
-          "multiple"
-        ],
-        [
-          null
-        ]
+        "multiple",
+        []
       ],
       [
-        [
-          ".eu"
-        ],
+        ".eu",
         [
           "/wiki/.eu"
         ]
       ],
       [
-        [
-          "ISO 4217",
-          "Euro",
-          "ISO 6166",
-          "International securities identification numbering system"
-        ],
+        "Reserved on request of ISO 4217 /MA for the European monetary unit Euro Extended for ISO 6166 Securities - International securities identification numbering system ( ISIN ) in March 1998 Extended for any application needing to represent the name European Union in August 1999",
         [
           "/wiki/ISO_4217",
           "/wiki/Euro",
@@ -270,43 +175,25 @@
     ],
     [
       [
-        [
-          "EZ"
-        ],
-        [
-          null
-        ]
+        "EZ",
+        []
       ],
       [
-        [
-          "Eurozone"
-        ],
+        "Eurozone",
         [
           "/wiki/Eurozone"
         ]
       ],
       [
-        [
-          "multiple"
-        ],
-        [
-          null
-        ]
+        "multiple",
+        []
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "ISO 6166",
-          "OTC",
-          "International securities identification numbering system"
-        ],
+        "Reserved on request of ISO 6166 /RA for the European OTC derivatives within International securities identification numbering system ( ISIN )",
         [
           "/wiki/ISO_6166",
           "/wiki/Over-the-counter_(finance)",
@@ -316,43 +203,27 @@
     ],
     [
       [
-        [
-          "FX"
-        ],
-        [
-          null
-        ]
+        "FX",
+        []
       ],
       [
-        [
-          "France , Metropolitan"
-        ],
+        "France , Metropolitan",
         [
           "/wiki/Metropolitan_France"
         ]
       ],
       [
-        [
-          "France"
-        ],
+        "France",
         [
           "/wiki/France"
         ]
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "France",
-          "ISO 3166-3",
-          "FXFR"
-        ],
+        "Reserved on request of France Officially assigned before deleted from ISO 3166-1 ( now assigned ISO 3166-3 code FXFR )",
         [
           "/wiki/France",
           "/wiki/ISO_3166-3",
@@ -362,43 +233,27 @@
     ],
     [
       [
-        [
-          "IC"
-        ],
-        [
-          null
-        ]
+        "IC",
+        []
       ],
       [
-        [
-          "Canary Islands"
-        ],
+        "Canary Islands",
         [
           "/wiki/Canary_Islands"
         ]
       ],
       [
-        [
-          "Spain"
-        ],
+        "Spain",
         [
           "/wiki/Spain"
         ]
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "WCO",
-          "area not covered by European Union Customs arrangements",
-          "Spanish"
-        ],
+        "Reserved on request of WCO for area not covered by European Union Customs arrangements . Code taken from name in Spanish : Islas Canarias",
         [
           "/wiki/World_Customs_Organization",
           "/wiki/European_Union_Customs_Union",
@@ -408,42 +263,27 @@
     ],
     [
       [
-        [
-          "SU"
-        ],
-        [
-          null
-        ]
+        "SU",
+        []
       ],
       [
-        [
-          "USSR"
-        ],
+        "USSR",
         [
           "/wiki/Soviet_Union"
         ]
       ],
       [
-        [
-          "multiple"
-        ],
-        [
-          null
-        ]
+        "multiple",
+        []
       ],
       [
-        [
-          ".su"
-        ],
+        ".su",
         [
           "/wiki/.su"
         ]
       ],
       [
-        [
-          "ISO 3166-3",
-          "SUHH"
-        ],
+        "From June 2008 ; Transitionally reserved from September 1992 Officially assigned before deleted from ISO 3166-1 ( now assigned ISO 3166-3 code SUHH ) Official name : Union of Soviet Socialist Republics ( common name : Soviet Union )",
         [
           "/wiki/ISO_3166-3",
           "/wiki/ISO_3166-3"
@@ -452,41 +292,27 @@
     ],
     [
       [
-        [
-          "TA"
-        ],
-        [
-          null
-        ]
+        "TA",
+        []
       ],
       [
-        [
-          "Tristan da Cunha"
-        ],
+        "Tristan da Cunha",
         [
           "/wiki/Tristan_da_Cunha"
         ]
       ],
       [
-        [
-          "United Kingdom"
-        ],
+        "United Kingdom",
         [
           "/wiki/United_Kingdom"
         ]
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "UPU"
-        ],
+        "Reserved on request of UPU for stamp issuing area",
         [
           "/wiki/Universal_Postal_Union"
         ]
@@ -494,41 +320,29 @@
     ],
     [
       [
-        [
-          "UK"
-        ],
-        [
-          null
-        ]
+        "UK",
+        []
       ],
       [
-        [
-          "United Kingdom"
-        ],
+        "United Kingdom",
         [
           "/wiki/United_Kingdom"
         ]
       ],
       [
-        [
-          "United Kingdom"
-        ],
+        "United Kingdom",
         [
           "/wiki/United_Kingdom"
         ]
       ],
       [
-        [
-          ".uk"
-        ],
+        ".uk",
         [
           "/wiki/.uk"
         ]
       ],
       [
-        [
-          "European Commission"
-        ],
+        "Reserved on request of the United Kingdom lest UK be used for any other country Also used by the European Commission United Kingdom is officially assigned the alpha-2 code GB",
         [
           "/wiki/European_Commission"
         ]
@@ -536,42 +350,25 @@
     ],
     [
       [
-        [
-          "UN"
-        ],
-        [
-          null
-        ]
+        "UN",
+        []
       ],
       [
-        [
-          "United Nations"
-        ],
+        "United Nations",
         [
           "/wiki/United_Nations"
         ]
       ],
       [
-        [
-          "multiple"
-        ],
-        [
-          null
-        ]
+        "multiple",
+        []
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "ISO 3166",
-          "United Nations"
-        ],
+        "Reserved directly by ISO 3166 /MA for the United Nations",
         [
           "/wiki/ISO_3166",
           "/wiki/United_Nations"

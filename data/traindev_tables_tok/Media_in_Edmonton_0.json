@@ -3,86 +3,51 @@
   "title": "Media in Edmonton",
   "header": [
     [
-      [
-        "Frequency"
-      ],
-      [
-        null
-      ]
+      "Frequency",
+      []
     ],
     [
-      [
-        "Call sign"
-      ],
-      [
-        null
-      ]
+      "Call sign",
+      []
     ],
     [
-      [
-        "Branding"
-      ],
-      [
-        null
-      ]
+      "Branding",
+      []
     ],
     [
-      [
-        "Format"
-      ],
-      [
-        null
-      ]
+      "Format",
+      []
     ],
     [
-      [
-        "Owner"
-      ],
-      [
-        null
-      ]
+      "Owner",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "AM 630"
-        ],
-        [
-          null
-        ]
+        "AM 630",
+        []
       ],
       [
-        [
-          "CHED"
-        ],
+        "CHED",
         [
           "/wiki/CHED_(AM)"
         ]
       ],
       [
-        [
-          "630 CHED"
-        ],
-        [
-          null
-        ]
+        "630 CHED",
+        []
       ],
       [
-        [
-          "news",
-          "talk"
-        ],
+        "news / talk",
         [
           "/wiki/News",
           "/wiki/Talk_radio"
         ]
       ],
       [
-        [
-          "Corus Entertainment"
-        ],
+        "Corus Entertainment",
         [
           "/wiki/Corus_Entertainment"
         ]
@@ -90,43 +55,30 @@
     ],
     [
       [
-        [
-          "AM 740"
-        ],
-        [
-          null
-        ]
+        "AM 740",
+        []
       ],
       [
-        [
-          "CBX"
-        ],
+        "CBX",
         [
           "/wiki/CBX_(AM)"
         ]
       ],
       [
-        [
-          "CBC Radio One"
-        ],
+        "CBC Radio One",
         [
           "/wiki/CBC_Radio_One"
         ]
       ],
       [
-        [
-          "news",
-          "talk"
-        ],
+        "news / talk",
         [
           "/wiki/News",
           "/wiki/Talk_radio"
         ]
       ],
       [
-        [
-          "Canadian Broadcasting Corporation"
-        ],
+        "Canadian Broadcasting Corporation",
         [
           "/wiki/Canadian_Broadcasting_Corporation"
         ]
@@ -134,41 +86,27 @@
     ],
     [
       [
-        [
-          "AM 840"
-        ],
-        [
-          null
-        ]
+        "AM 840",
+        []
       ],
       [
-        [
-          "CFCW"
-        ],
+        "CFCW",
         [
           "/wiki/CFCW_(AM)"
         ]
       ],
       [
-        [
-          "840 CFCW"
-        ],
-        [
-          null
-        ]
+        "840 CFCW",
+        []
       ],
       [
-        [
-          "country"
-        ],
+        "country",
         [
           "/wiki/Country_music"
         ]
       ],
       [
-        [
-          "Stingray Group"
-        ],
+        "Stingray Group",
         [
           "/wiki/Stingray_Group"
         ]
@@ -176,43 +114,28 @@
     ],
     [
       [
-        [
-          "AM 880"
-        ],
-        [
-          null
-        ]
+        "AM 880",
+        []
       ],
       [
-        [
-          "CHQT"
-        ],
+        "CHQT",
         [
           "/wiki/CHQT_(AM)"
         ]
       ],
       [
-        [
-          "Global News Radio 880 Edmonton"
-        ],
-        [
-          null
-        ]
+        "Global News Radio 880 Edmonton",
+        []
       ],
       [
-        [
-          "news",
-          "talk"
-        ],
+        "news / talk",
         [
           "/wiki/News",
           "/wiki/Talk_radio"
         ]
       ],
       [
-        [
-          "Corus Entertainment"
-        ],
+        "Corus Entertainment",
         [
           "/wiki/Corus_Entertainment"
         ]
@@ -220,83 +143,55 @@
     ],
     [
       [
-        [
-          "AM 930"
-        ],
-        [
-          null
-        ]
+        "AM 930",
+        []
       ],
       [
-        [
-          "CJCA"
-        ],
+        "CJCA",
         [
           "/wiki/CJCA_(AM)"
         ]
       ],
       [
-        [
-          "The Light"
-        ],
-        [
-          null
-        ]
+        "The Light",
+        []
       ],
       [
-        [
-          "gospel music"
-        ],
+        "gospel music",
         [
           "/wiki/Gospel_music"
         ]
       ],
       [
-        [
-          "Touch Canada Broadcasting"
-        ],
-        [
-          null
-        ]
+        "Touch Canada Broadcasting",
+        []
       ]
     ],
     [
       [
-        [
-          "AM 1260"
-        ],
-        [
-          null
-        ]
+        "AM 1260",
+        []
       ],
       [
-        [
-          "CFRN"
-        ],
+        "CFRN",
         [
           "/wiki/CFRN_(AM)"
         ]
       ],
       [
-        [
-          "TSN 1260"
-        ],
+        "TSN 1260",
         [
           "/wiki/TSN_Radio"
         ]
       ],
       [
-        [
-          "sports"
-        ],
+        "sports",
         [
           "/wiki/Sports"
         ]
       ],
       [
-        [
-          "Bell Media"
-        ],
+        "Bell Media",
         [
           "/wiki/Bell_Media"
         ]
@@ -304,127 +199,84 @@
     ],
     [
       [
-        [
-          "FM 88.5"
-        ],
-        [
-          null
-        ]
+        "FM 88.5",
+        []
       ],
       [
-        [
-          "CJSR-FM"
-        ],
+        "CJSR-FM",
         [
           "/wiki/CJSR-FM"
         ]
       ],
       [
-        [
-          "CJSR FM88"
-        ],
-        [
-          null
-        ]
+        "CJSR FM88",
+        []
       ],
       [
-        [
-          "campus radio"
-        ],
+        "campus radio",
         [
           "/wiki/Campus_radio"
         ]
       ],
       [
-        [
-          "First Alberta Campus Radio Association"
-        ],
-        [
-          null
-        ]
+        "First Alberta Campus Radio Association",
+        []
       ]
     ],
     [
       [
-        [
-          "FM 89.3"
-        ],
-        [
-          null
-        ]
+        "FM 89.3",
+        []
       ],
       [
-        [
-          "CKAV-FM-4"
-        ],
+        "CKAV-FM-4",
         [
           "/wiki/Aboriginal_Voices"
         ]
       ],
       [
-        [
-          "Aboriginal Voices"
-        ],
+        "Aboriginal Voices",
         [
           "/wiki/Aboriginal_Voices"
         ]
       ],
       [
-        [
-          "First Nations"
-        ],
+        "First Nations",
         [
           "/wiki/First_Nations"
         ]
       ],
       [
-        [
-          "Aboriginal Voices Radio"
-        ],
-        [
-          null
-        ]
+        "Aboriginal Voices Radio",
+        []
       ]
     ],
     [
       [
-        [
-          "FM 90.1"
-        ],
-        [
-          null
-        ]
+        "FM 90.1",
+        []
       ],
       [
-        [
-          "CHFA"
-        ],
+        "CHFA",
         [
           "/wiki/CHFA_(AM)"
         ]
       ],
       [
-        [
-          "ICI Radio-Canada Premi\u00e8re"
-        ],
+        "ICI Radio-Canada Premi\u00e8re",
         [
           "/wiki/Ici_Radio-Canada_Premi\u00e8re"
         ]
       ],
       [
-        [
-          "news",
-          "talk"
-        ],
+        "news / talk",
         [
           "/wiki/News",
           "/wiki/Talk_radio"
         ]
       ],
       [
-        [
-          "Canadian Broadcasting Corporation"
-        ],
+        "Canadian Broadcasting Corporation",
         [
           "/wiki/Canadian_Broadcasting_Corporation"
         ]
@@ -432,41 +284,29 @@
     ],
     [
       [
-        [
-          "FM 90.9"
-        ],
-        [
-          null
-        ]
+        "FM 90.9",
+        []
       ],
       [
-        [
-          "CBX-FM"
-        ],
+        "CBX-FM",
         [
           "/wiki/CBX-FM"
         ]
       ],
       [
-        [
-          "CBC Music"
-        ],
+        "CBC Music",
         [
           "/wiki/CBC_Music"
         ]
       ],
       [
-        [
-          "public"
-        ],
+        "public music",
         [
           "/wiki/Public_broadcasting"
         ]
       ],
       [
-        [
-          "Canadian Broadcasting Corporation"
-        ],
+        "Canadian Broadcasting Corporation",
         [
           "/wiki/Canadian_Broadcasting_Corporation"
         ]
@@ -474,41 +314,27 @@
     ],
     [
       [
-        [
-          "FM 91.7"
-        ],
-        [
-          null
-        ]
+        "FM 91.7",
+        []
       ],
       [
-        [
-          "CHBN-FM"
-        ],
+        "CHBN-FM",
         [
           "/wiki/CHBN-FM"
         ]
       ],
       [
-        [
-          "KiSS 91.7"
-        ],
-        [
-          null
-        ]
+        "KiSS 91.7",
+        []
       ],
       [
-        [
-          "contemporary hit radio"
-        ],
+        "contemporary hit radio",
         [
           "/wiki/Contemporary_hit_radio"
         ]
       ],
       [
-        [
-          "Rogers Radio"
-        ],
+        "Rogers Radio",
         [
           "/wiki/Rogers_Radio"
         ]
@@ -516,41 +342,27 @@
     ],
     [
       [
-        [
-          "FM 92.5"
-        ],
-        [
-          null
-        ]
+        "FM 92.5",
+        []
       ],
       [
-        [
-          "CKNG-FM"
-        ],
+        "CKNG-FM",
         [
           "/wiki/CKNG-FM"
         ]
       ],
       [
-        [
-          "92.5 The 'Chuck"
-        ],
-        [
-          null
-        ]
+        "92.5 The 'Chuck",
+        []
       ],
       [
-        [
-          "Adult hits"
-        ],
+        "Adult hits",
         [
           "/wiki/Adult_hits"
         ]
       ],
       [
-        [
-          "Corus Entertainment"
-        ],
+        "Corus Entertainment",
         [
           "/wiki/Corus_Entertainment"
         ]
@@ -558,85 +370,56 @@
     ],
     [
       [
-        [
-          "FM 93.1"
-        ],
-        [
-          null
-        ]
+        "FM 93.1",
+        []
       ],
       [
-        [
-          "CJLD-FM"
-        ],
+        "CJLD-FM",
         [
           "/wiki/CJLD-FM"
         ]
       ],
       [
-        [
-          "The One"
-        ],
-        [
-          null
-        ]
+        "The One",
+        []
       ],
       [
-        [
-          "country music"
-        ],
+        "country music",
         [
           "/wiki/Country_music"
         ]
       ],
       [
-        [
-          "Blackgold Broadcasting"
-        ],
-        [
-          null
-        ]
+        "Blackgold Broadcasting",
+        []
       ]
     ],
     [
       [
-        [
-          "FM 93.9"
-        ],
-        [
-          null
-        ]
+        "FM 93.9",
+        []
       ],
       [
-        [
-          "CBX-2-FM"
-        ],
+        "CBX-2-FM",
         [
           "/wiki/CBX_(AM)"
         ]
       ],
       [
-        [
-          "CBC Radio One"
-        ],
+        "CBC Radio One",
         [
           "/wiki/CBC_Radio_One"
         ]
       ],
       [
-        [
-          "news",
-          "talk"
-        ],
+        "news / talk",
         [
           "/wiki/News",
           "/wiki/Talk_radio"
         ]
       ],
       [
-        [
-          "Canadian Broadcasting Corporation"
-        ],
+        "Canadian Broadcasting Corporation",
         [
           "/wiki/Canadian_Broadcasting_Corporation"
         ]
@@ -644,83 +427,53 @@
     ],
     [
       [
-        [
-          "FM 94.9"
-        ],
-        [
-          null
-        ]
+        "FM 94.9",
+        []
       ],
       [
-        [
-          "CKUA-FM"
-        ],
+        "CKUA-FM",
         [
           "/wiki/CKUA-FM"
         ]
       ],
       [
-        [
-          "CKUA Radio Network"
-        ],
-        [
-          null
-        ]
+        "CKUA Radio Network",
+        []
       ],
       [
-        [
-          "public broadcasting"
-        ],
+        "public broadcasting",
         [
           "/wiki/Public_broadcasting"
         ]
       ],
       [
-        [
-          "CKUA Radio Foundation"
-        ],
-        [
-          null
-        ]
+        "CKUA Radio Foundation",
+        []
       ]
     ],
     [
       [
-        [
-          "FM 95.7"
-        ],
-        [
-          null
-        ]
+        "FM 95.7",
+        []
       ],
       [
-        [
-          "CKEA-FM"
-        ],
+        "CKEA-FM",
         [
           "/wiki/CKEA-FM"
         ]
       ],
       [
-        [
-          "95.7 Cruz FM"
-        ],
-        [
-          null
-        ]
+        "95.7 Cruz FM",
+        []
       ],
       [
-        [
-          "classic hits"
-        ],
+        "classic hits",
         [
           "/wiki/Classic_hits"
         ]
       ],
       [
-        [
-          "Harvard Broadcasting"
-        ],
+        "Harvard Broadcasting",
         [
           "/wiki/Harvard_Broadcasting"
         ]
@@ -728,41 +481,27 @@
     ],
     [
       [
-        [
-          "FM 96.3"
-        ],
-        [
-          null
-        ]
+        "FM 96.3",
+        []
       ],
       [
-        [
-          "CKRA-FM"
-        ],
+        "CKRA-FM",
         [
           "/wiki/CKRA-FM"
         ]
       ],
       [
-        [
-          "96.3 The Breeze"
-        ],
-        [
-          null
-        ]
+        "96.3 The Breeze",
+        []
       ],
       [
-        [
-          "soft adult contemporary"
-        ],
+        "soft adult contemporary",
         [
           "/wiki/Soft_adult_contemporary"
         ]
       ],
       [
-        [
-          "Stingray Group"
-        ],
+        "Stingray Group",
         [
           "/wiki/Stingray_Group"
         ]
@@ -770,41 +509,27 @@
     ],
     [
       [
-        [
-          "FM 97.3"
-        ],
-        [
-          null
-        ]
+        "FM 97.3",
+        []
       ],
       [
-        [
-          "CIRK-FM"
-        ],
+        "CIRK-FM",
         [
           "/wiki/CIRK-FM"
         ]
       ],
       [
-        [
-          "K-97"
-        ],
-        [
-          null
-        ]
+        "K-97",
+        []
       ],
       [
-        [
-          "classic rock"
-        ],
+        "classic rock",
         [
           "/wiki/Classic_rock"
         ]
       ],
       [
-        [
-          "Stingray Group"
-        ],
+        "Stingray Group",
         [
           "/wiki/Stingray_Group"
         ]
@@ -812,83 +537,53 @@
     ],
     [
       [
-        [
-          "FM 97.9"
-        ],
-        [
-          null
-        ]
+        "FM 97.9",
+        []
       ],
       [
-        [
-          "CFED-FM"
-        ],
+        "CFED-FM",
         [
           "/wiki/CFED-FM"
         ]
       ],
       [
-        [
-          "Radio Cit\u00e9 97,9"
-        ],
-        [
-          null
-        ]
+        "Radio Cit\u00e9 97,9",
+        []
       ],
       [
-        [
-          "community radio"
-        ],
+        "francophone community radio",
         [
           "/wiki/Community_radio"
         ]
       ],
       [
-        [
-          "Soci\u00e9t\u00e9 de la radio communautaire du Grand Edmonton"
-        ],
-        [
-          null
-        ]
+        "Soci\u00e9t\u00e9 de la radio communautaire du Grand Edmonton",
+        []
       ]
     ],
     [
       [
-        [
-          "FM 98.5"
-        ],
-        [
-          null
-        ]
+        "FM 98.5",
+        []
       ],
       [
-        [
-          "CFWE-FM-4"
-        ],
+        "CFWE-FM-4",
         [
           "/wiki/CFWE-FM-4"
         ]
       ],
       [
-        [
-          "CFWE"
-        ],
-        [
-          null
-        ]
+        "CFWE",
+        []
       ],
       [
-        [
-          "country"
-        ],
+        "country , First Nationscommunity radio",
         [
           "/wiki/Country_music"
         ]
       ],
       [
-        [
-          "Aboriginal Multi-Media Society"
-        ],
+        "Aboriginal Multi-Media Society",
         [
           "/wiki/Aboriginal_Multi-Media_Society"
         ]

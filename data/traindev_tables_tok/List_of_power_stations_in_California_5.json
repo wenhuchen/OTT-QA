@@ -3,25 +3,15 @@
   "title": "List of power stations in California",
   "header": [
     [
-      [
-        "Station"
-      ],
-      [
-        null
-      ]
+      "Station",
+      []
     ],
     [
-      [
-        "Location"
-      ],
-      [
-        null
-      ]
+      "Location",
+      []
     ],
     [
-      [
-        "MW AC"
-      ],
+      "Capacity ( MW AC )",
       [
         "/wiki/Watt-peak_AC"
       ]
@@ -30,522 +20,352 @@
   "data": [
     [
       [
-        [
-          "Solar Star"
-        ],
+        "Solar Star",
         [
           "/wiki/Solar_Star"
         ]
       ],
       [
-        [
-          "Kern County"
-        ],
+        "Kern County",
         [
           "/wiki/Kern_County,_California"
         ]
       ],
       [
-        [
-          "579"
-        ],
-        [
-          null
-        ]
+        "579",
+        []
       ]
     ],
     [
       [
-        [
-          "Desert Sunlight Solar Farm"
-        ],
+        "Desert Sunlight Solar Farm",
         [
           "/wiki/Desert_Sunlight_Solar_Farm"
         ]
       ],
       [
-        [
-          "Mojave Desert"
-        ],
+        "Mojave Desert",
         [
           "/wiki/Mojave_Desert"
         ]
       ],
       [
-        [
-          "550"
-        ],
-        [
-          null
-        ]
+        "550",
+        []
       ]
     ],
     [
       [
-        [
-          "Topaz Solar Farm"
-        ],
+        "Topaz Solar Farm",
         [
           "/wiki/Topaz_Solar_Farm"
         ]
       ],
       [
-        [
-          "Carrizo Plain"
-        ],
+        "Carrizo Plain",
         [
           "/wiki/Carrizo_Plain"
         ]
       ],
       [
-        [
-          "550"
-        ],
-        [
-          null
-        ]
+        "550",
+        []
       ]
     ],
     [
       [
-        [
-          "Imperial Valley Solar Project"
-        ],
+        "Imperial Valley Solar Project",
         [
           "/wiki/Imperial_Valley_Solar_Project"
         ]
       ],
       [
-        [
-          "Imperial County"
-        ],
+        "Imperial County",
         [
           "/wiki/Imperial_County,_California"
         ]
       ],
       [
-        [
-          "460"
-        ],
-        [
-          null
-        ]
+        "460",
+        []
       ]
     ],
     [
       [
-        [
-          "California Flats Solar Project"
-        ],
+        "California Flats Solar Project",
         [
           "/wiki/California_Flats_Solar_Project"
         ]
       ],
       [
-        [
-          "Carrizo Plain"
-        ],
+        "Carrizo Plain",
         [
           "/wiki/Carrizo_Plain"
         ]
       ],
       [
-        [
-          "280"
-        ],
-        [
-          null
-        ]
+        "280",
+        []
       ]
     ],
     [
       [
-        [
-          "Springbok Solar Farm"
-        ],
+        "Springbok Solar Farm",
         [
           "/wiki/Springbok_Solar_Farm"
         ]
       ],
       [
-        [
-          "Kern County"
-        ],
+        "Kern County",
         [
           "/wiki/Kern_County,_California"
         ]
       ],
       [
-        [
-          "260"
-        ],
-        [
-          null
-        ]
+        "260",
+        []
       ]
     ],
     [
       [
-        [
-          "California Valley Solar Ranch"
-        ],
+        "California Valley Solar Ranch",
         [
           "/wiki/California_Valley_Solar_Ranch"
         ]
       ],
       [
-        [
-          "Carrizo Plain"
-        ],
+        "Carrizo Plain",
         [
           "/wiki/Carrizo_Plain"
         ]
       ],
       [
-        [
-          "250"
-        ],
-        [
-          null
-        ]
+        "250",
+        []
       ]
     ],
     [
       [
-        [
-          "Desert Stateline Solar Facility"
-        ],
+        "Desert Stateline Solar Facility",
         [
           "/wiki/Stateline_Solar"
         ]
       ],
       [
-        [
-          "San Bernardino County"
-        ],
+        "San Bernardino County",
         [
           "/wiki/San_Bernardino_County,_California"
         ]
       ],
       [
-        [
-          "250"
-        ],
-        [
-          null
-        ]
+        "250",
+        []
       ]
     ],
     [
       [
-        [
-          "McCoy Solar Energy Project"
-        ],
+        "McCoy Solar Energy Project",
         [
           "/wiki/McCoy_Solar_Energy_Project"
         ]
       ],
       [
-        [
-          "Mojave Desert"
-        ],
+        "Mojave Desert",
         [
           "/wiki/Mojave_Desert"
         ]
       ],
       [
-        [
-          "250"
-        ],
-        [
-          null
-        ]
+        "250",
+        []
       ]
     ],
     [
       [
-        [
-          "Beacon Solar Project"
-        ],
+        "Beacon Solar Project",
         [
           "/wiki/Beacon_Solar_Project"
         ]
       ],
       [
-        [
-          "Kern County"
-        ],
+        "Kern County",
         [
           "/wiki/Kern_County,_California"
         ]
       ],
       [
-        [
-          "250"
-        ],
-        [
-          null
-        ]
+        "250",
+        []
       ]
     ],
     [
       [
-        [
-          "Blythe Solar Power Project"
-        ],
+        "Blythe Solar Power Project",
         [
           "/wiki/Blythe_Solar_Power_Project"
         ]
       ],
       [
-        [
-          "Riverside County"
-        ],
+        "Riverside County",
         [
           "/wiki/Riverside_County,_California"
         ]
       ],
       [
-        [
-          "235"
-        ],
-        [
-          null
-        ]
+        "235",
+        []
       ]
     ],
     [
       [
-        [
-          "Antelope Valley Solar Ranch"
-        ],
+        "Antelope Valley Solar Ranch",
         [
           "/wiki/Antelope_Valley_Solar_Ranch"
         ]
       ],
       [
-        [
-          "Los Angeles County"
-        ],
+        "Los Angeles County",
         [
           "/wiki/Los_Angeles_County,_California"
         ]
       ],
       [
-        [
-          "230"
-        ],
-        [
-          null
-        ]
+        "230",
+        []
       ]
     ],
     [
       [
-        [
-          "Tranquility Solar Project"
-        ],
-        [
-          null
-        ]
+        "Tranquility Solar Project",
+        []
       ],
       [
-        [
-          "Fresno County"
-        ],
+        "Fresno County",
         [
           "/wiki/Fresno_County,_California"
         ]
       ],
       [
-        [
-          "200"
-        ],
-        [
-          null
-        ]
+        "200",
+        []
       ]
     ],
     [
       [
-        [
-          "Garland Solar Facility"
-        ],
-        [
-          null
-        ]
+        "Garland Solar Facility",
+        []
       ],
       [
-        [
-          "Kern County"
-        ],
+        "Kern County",
         [
           "/wiki/Kern_County,_California"
         ]
       ],
       [
-        [
-          "200"
-        ],
-        [
-          null
-        ]
+        "200",
+        []
       ]
     ],
     [
       [
-        [
-          "Great Valley Solar Farm"
-        ],
-        [
-          null
-        ]
+        "Great Valley Solar Farm",
+        []
       ],
       [
-        [
-          "Fresno County"
-        ],
+        "Fresno County",
         [
           "/wiki/Fresno_County,_California"
         ]
       ],
       [
-        [
-          "200"
-        ],
-        [
-          null
-        ]
+        "200",
+        []
       ]
     ],
     [
       [
-        [
-          "Astoria Solar Project"
-        ],
-        [
-          null
-        ]
+        "Astoria Solar Project",
+        []
       ],
       [
-        [
-          "Kern County"
-        ],
+        "Kern County",
         [
           "/wiki/Kern_County,_California"
         ]
       ],
       [
-        [
-          "175"
-        ],
-        [
-          null
-        ]
+        "175",
+        []
       ]
     ],
     [
       [
-        [
-          "Centinela Solar Energy Project"
-        ],
+        "Centinela Solar Energy Project",
         [
           "/wiki/Centinela_Solar_Energy_Project"
         ]
       ],
       [
-        [
-          "Imperial County"
-        ],
+        "Imperial County",
         [
           "/wiki/Imperial_County,_California"
         ]
       ],
       [
-        [
-          "170"
-        ],
-        [
-          null
-        ]
+        "170",
+        []
       ]
     ],
     [
       [
-        [
-          "Imperial Solar Energy Center West"
-        ],
+        "Imperial Solar Energy Center West",
         [
           "/wiki/Imperial_Solar_Energy_Center_West"
         ]
       ],
       [
-        [
-          "Imperial County"
-        ],
+        "Imperial County",
         [
           "/wiki/Imperial_County,_California"
         ]
       ],
       [
-        [
-          "150"
-        ],
-        [
-          null
-        ]
+        "150",
+        []
       ]
     ],
     [
       [
-        [
-          "Solar Gen 2 Facility"
-        ],
-        [
-          null
-        ]
+        "Solar Gen 2 Facility",
+        []
       ],
       [
-        [
-          "Imperial County"
-        ],
+        "Imperial County",
         [
           "/wiki/Imperial_County,_California"
         ]
       ],
       [
-        [
-          "150"
-        ],
-        [
-          null
-        ]
+        "150",
+        []
       ]
     ],
     [
       [
-        [
-          "Catalina Solar Project"
-        ],
+        "Catalina Solar Project",
         [
           "/wiki/Catalina_Solar_Project"
         ]
       ],
       [
-        [
-          "Kern County"
-        ],
+        "Kern County",
         [
           "/wiki/Kern_County,_California"
         ]
       ],
       [
-        [
-          "143"
-        ],
-        [
-          null
-        ]
+        "143",
+        []
       ]
     ]
   ],

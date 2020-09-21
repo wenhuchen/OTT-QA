@@ -3,1083 +3,644 @@
   "title": "1984 Dallas Grand Prix",
   "header": [
     [
-      [
-        "Pos"
-      ],
-      [
-        null
-      ]
+      "Pos",
+      []
     ],
     [
-      [
-        "No"
-      ],
-      [
-        null
-      ]
+      "No",
+      []
     ],
     [
-      [
-        "Driver"
-      ],
-      [
-        null
-      ]
+      "Driver",
+      []
     ],
     [
-      [
-        "Constructor"
-      ],
-      [
-        null
-      ]
+      "Constructor",
+      []
     ],
     [
-      [
-        "Qual"
-      ],
-      [
-        null
-      ]
+      "Qual",
+      []
     ],
     [
-      [
-        "Gap"
-      ],
-      [
-        null
-      ]
+      "Gap",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "12"
-        ],
-        [
-          null
-        ]
+        "12",
+        []
       ],
       [
-        [
-          "Nigel Mansell"
-        ],
+        "Nigel Mansell",
         [
           "/wiki/Nigel_Mansell"
         ]
       ],
       [
-        [
-          "Lotus",
-          "Renault"
-        ],
+        "Lotus - Renault",
         [
           "/wiki/Team_Lotus",
           "/wiki/Renault_in_Formula_One"
         ]
       ],
       [
-        [
-          "1:37.041"
-        ],
-        [
-          null
-        ]
+        "1:37.041",
+        []
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ]
     ],
     [
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "11"
-        ],
-        [
-          null
-        ]
+        "11",
+        []
       ],
       [
-        [
-          "Elio de Angelis"
-        ],
+        "Elio de Angelis",
         [
           "/wiki/Elio_de_Angelis"
         ]
       ],
       [
-        [
-          "Lotus",
-          "Renault"
-        ],
+        "Lotus - Renault",
         [
           "/wiki/Team_Lotus",
           "/wiki/Renault_in_Formula_One"
         ]
       ],
       [
-        [
-          "1:37.635"
-        ],
-        [
-          null
-        ]
+        "1:37.635",
+        []
       ],
       [
-        [
-          "+0.594"
-        ],
-        [
-          null
-        ]
+        "+0.594",
+        []
       ]
     ],
     [
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "16"
-        ],
-        [
-          null
-        ]
+        "16",
+        []
       ],
       [
-        [
-          "Derek Warwick"
-        ],
+        "Derek Warwick",
         [
           "/wiki/Derek_Warwick"
         ]
       ],
       [
-        [
-          "Renault"
-        ],
+        "Renault",
         [
           "/wiki/Renault_in_Formula_One"
         ]
       ],
       [
-        [
-          "1:37.708"
-        ],
-        [
-          null
-        ]
+        "1:37.708",
+        []
       ],
       [
-        [
-          "+0.667"
-        ],
-        [
-          null
-        ]
+        "+0.667",
+        []
       ]
     ],
     [
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "28"
-        ],
-        [
-          null
-        ]
+        "28",
+        []
       ],
       [
-        [
-          "Ren\u00e9 Arnoux"
-        ],
+        "Ren\u00e9 Arnoux",
         [
           "/wiki/Ren\u00e9_Arnoux"
         ]
       ],
       [
-        [
-          "Ferrari"
-        ],
+        "Ferrari",
         [
           "/wiki/Scuderia_Ferrari"
         ]
       ],
       [
-        [
-          "1:37.785"
-        ],
-        [
-          null
-        ]
+        "1:37.785",
+        []
       ],
       [
-        [
-          "+0.744"
-        ],
-        [
-          null
-        ]
+        "+0.744",
+        []
       ]
     ],
     [
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "Niki Lauda"
-        ],
+        "Niki Lauda",
         [
           "/wiki/Niki_Lauda"
         ]
       ],
       [
-        [
-          "McLaren",
-          "TAG"
-        ],
+        "McLaren - TAG",
         [
           "/wiki/McLaren",
           "/wiki/Techniques_d'Avant_Garde"
         ]
       ],
       [
-        [
-          "1:37.987"
-        ],
-        [
-          null
-        ]
+        "1:37.987",
+        []
       ],
       [
-        [
-          "+0.946"
-        ],
-        [
-          null
-        ]
+        "+0.946",
+        []
       ]
     ],
     [
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "19"
-        ],
-        [
-          null
-        ]
+        "19",
+        []
       ],
       [
-        [
-          "Ayrton Senna"
-        ],
+        "Ayrton Senna",
         [
           "/wiki/Ayrton_Senna"
         ]
       ],
       [
-        [
-          "Toleman",
-          "Hart"
-        ],
+        "Toleman - Hart",
         [
           "/wiki/Toleman",
           "/wiki/Hart_Racing_Engines"
         ]
       ],
       [
-        [
-          "1:38.256"
-        ],
-        [
-          null
-        ]
+        "1:38.256",
+        []
       ],
       [
-        [
-          "+1.215"
-        ],
-        [
-          null
-        ]
+        "+1.215",
+        []
       ]
     ],
     [
       [
-        [
-          "7"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ],
       [
-        [
-          "7"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ],
       [
-        [
-          "Alain Prost"
-        ],
+        "Alain Prost",
         [
           "/wiki/Alain_Prost"
         ]
       ],
       [
-        [
-          "McLaren",
-          "TAG"
-        ],
+        "McLaren - TAG",
         [
           "/wiki/McLaren",
           "/wiki/Techniques_d'Avant_Garde"
         ]
       ],
       [
-        [
-          "1:38.544"
-        ],
-        [
-          null
-        ]
+        "1:38.544",
+        []
       ],
       [
-        [
-          "+1.503"
-        ],
-        [
-          null
-        ]
+        "+1.503",
+        []
       ]
     ],
     [
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "Keke Rosberg"
-        ],
+        "Keke Rosberg",
         [
           "/wiki/Keke_Rosberg"
         ]
       ],
       [
-        [
-          "Williams",
-          "Honda"
-        ],
+        "Williams - Honda",
         [
           "/wiki/Williams_Grand_Prix_Engineering",
           "/wiki/Honda_in_Formula_One"
         ]
       ],
       [
-        [
-          "1:38.767"
-        ],
-        [
-          null
-        ]
+        "1:38.767",
+        []
       ],
       [
-        [
-          "+1.726"
-        ],
-        [
-          null
-        ]
+        "+1.726",
+        []
       ]
     ],
     [
       [
-        [
-          "9"
-        ],
-        [
-          null
-        ]
+        "9",
+        []
       ],
       [
-        [
-          "27"
-        ],
-        [
-          null
-        ]
+        "27",
+        []
       ],
       [
-        [
-          "Michele Alboreto"
-        ],
+        "Michele Alboreto",
         [
           "/wiki/Michele_Alboreto"
         ]
       ],
       [
-        [
-          "Ferrari"
-        ],
+        "Ferrari",
         [
           "/wiki/Scuderia_Ferrari"
         ]
       ],
       [
-        [
-          "1:38.793"
-        ],
-        [
-          null
-        ]
+        "1:38.793",
+        []
       ],
       [
-        [
-          "+1.752"
-        ],
-        [
-          null
-        ]
+        "+1.752",
+        []
       ]
     ],
     [
       [
-        [
-          "10"
-        ],
-        [
-          null
-        ]
+        "10",
+        []
       ],
       [
-        [
-          "15"
-        ],
-        [
-          null
-        ]
+        "15",
+        []
       ],
       [
-        [
-          "Patrick Tambay"
-        ],
+        "Patrick Tambay",
         [
           "/wiki/Patrick_Tambay"
         ]
       ],
       [
-        [
-          "Renault"
-        ],
+        "Renault",
         [
           "/wiki/Renault_in_Formula_One"
         ]
       ],
       [
-        [
-          "1:38.907"
-        ],
-        [
-          null
-        ]
+        "1:38.907",
+        []
       ],
       [
-        [
-          "+1.866"
-        ],
-        [
-          null
-        ]
+        "+1.866",
+        []
       ]
     ],
     [
       [
-        [
-          "11"
-        ],
-        [
-          null
-        ]
+        "11",
+        []
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "Corrado Fabi"
-        ],
+        "Corrado Fabi",
         [
           "/wiki/Corrado_Fabi"
         ]
       ],
       [
-        [
-          "Brabham",
-          "BMW"
-        ],
+        "Brabham - BMW",
         [
           "/wiki/Brabham",
           "/wiki/BMW_in_Formula_One"
         ]
       ],
       [
-        [
-          "1:38.960"
-        ],
-        [
-          null
-        ]
+        "1:38.960",
+        []
       ],
       [
-        [
-          "+1.919"
-        ],
-        [
-          null
-        ]
+        "+1.919",
+        []
       ]
     ],
     [
       [
-        [
-          "12"
-        ],
-        [
-          null
-        ]
+        "12",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "Nelson Piquet"
-        ],
+        "Nelson Piquet",
         [
           "/wiki/Nelson_Piquet"
         ]
       ],
       [
-        [
-          "Brabham",
-          "BMW"
-        ],
+        "Brabham - BMW",
         [
           "/wiki/Brabham",
           "/wiki/BMW_in_Formula_One"
         ]
       ],
       [
-        [
-          "1:39.439"
-        ],
-        [
-          null
-        ]
+        "1:39.439",
+        []
       ],
       [
-        [
-          "+2.398"
-        ],
-        [
-          null
-        ]
+        "+2.398",
+        []
       ]
     ],
     [
       [
-        [
-          "13"
-        ],
-        [
-          null
-        ]
+        "13",
+        []
       ],
       [
-        [
-          "14"
-        ],
-        [
-          null
-        ]
+        "14",
+        []
       ],
       [
-        [
-          "Manfred Winkelhock"
-        ],
+        "Manfred Winkelhock",
         [
           "/wiki/Manfred_Winkelhock"
         ]
       ],
       [
-        [
-          "ATS",
-          "BMW"
-        ],
+        "ATS - BMW",
         [
           "/wiki/ATS_(wheels)",
           "/wiki/BMW_in_Formula_One"
         ]
       ],
       [
-        [
-          "1:39.860"
-        ],
-        [
-          null
-        ]
+        "1:39.860",
+        []
       ],
       [
-        [
-          "+2.189"
-        ],
-        [
-          null
-        ]
+        "+2.189",
+        []
       ]
     ],
     [
       [
-        [
-          "14"
-        ],
-        [
-          null
-        ]
+        "14",
+        []
       ],
       [
-        [
-          "23"
-        ],
-        [
-          null
-        ]
+        "23",
+        []
       ],
       [
-        [
-          "Eddie Cheever"
-        ],
+        "Eddie Cheever",
         [
           "/wiki/Eddie_Cheever"
         ]
       ],
       [
-        [
-          "Alfa Romeo"
-        ],
+        "Alfa Romeo",
         [
           "/wiki/Alfa_Romeo_in_Formula_One"
         ]
       ],
       [
-        [
-          "1:39.911"
-        ],
-        [
-          null
-        ]
+        "1:39.911",
+        []
       ],
       [
-        [
-          "+2.870"
-        ],
-        [
-          null
-        ]
+        "+2.870",
+        []
       ]
     ],
     [
       [
-        [
-          "15"
-        ],
-        [
-          null
-        ]
+        "15",
+        []
       ],
       [
-        [
-          "20"
-        ],
-        [
-          null
-        ]
+        "20",
+        []
       ],
       [
-        [
-          "Johnny Cecotto"
-        ],
+        "Johnny Cecotto",
         [
           "/wiki/Johnny_Cecotto"
         ]
       ],
       [
-        [
-          "Toleman",
-          "Hart"
-        ],
+        "Toleman - Hart",
         [
           "/wiki/Toleman",
           "/wiki/Hart_Racing_Engines"
         ]
       ],
       [
-        [
-          "1:40.027"
-        ],
-        [
-          null
-        ]
+        "1:40.027",
+        []
       ],
       [
-        [
-          "+2.986"
-        ],
-        [
-          null
-        ]
+        "+2.986",
+        []
       ]
     ],
     [
       [
-        [
-          "16"
-        ],
-        [
-          null
-        ]
+        "16",
+        []
       ],
       [
-        [
-          "26"
-        ],
-        [
-          null
-        ]
+        "26",
+        []
       ],
       [
-        [
-          "Andrea de Cesaris"
-        ],
+        "Andrea de Cesaris",
         [
           "/wiki/Andrea_de_Cesaris"
         ]
       ],
       [
-        [
-          "Ligier",
-          "Renault"
-        ],
+        "Ligier - Renault",
         [
           "/wiki/Equipe_Ligier",
           "/wiki/Renault_in_Formula_One"
         ]
       ],
       [
-        [
-          "1:40.095"
-        ],
-        [
-          null
-        ]
+        "1:40.095",
+        []
       ],
       [
-        [
-          "+3.054"
-        ],
-        [
-          null
-        ]
+        "+3.054",
+        []
       ]
     ],
     [
       [
-        [
-          "17"
-        ],
-        [
-          null
-        ]
+        "17",
+        []
       ],
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "Stefan Bellof"
-        ],
+        "Stefan Bellof",
         [
           "/wiki/Stefan_Bellof"
         ]
       ],
       [
-        [
-          "Tyrrell",
-          "Ford"
-        ],
+        "Tyrrell - Ford",
         [
           "/wiki/Tyrrell_Racing",
           "/wiki/Ford_Motor_Company"
         ]
       ],
       [
-        [
-          "1:40.336"
-        ],
-        [
-          null
-        ]
+        "1:40.336",
+        []
       ],
       [
-        [
-          "+3.295"
-        ],
-        [
-          null
-        ]
+        "+3.295",
+        []
       ]
     ],
     [
       [
-        [
-          "18"
-        ],
-        [
-          null
-        ]
+        "18",
+        []
       ],
       [
-        [
-          "24"
-        ],
-        [
-          null
-        ]
+        "24",
+        []
       ],
       [
-        [
-          "Piercarlo Ghinzani"
-        ],
+        "Piercarlo Ghinzani",
         [
           "/wiki/Piercarlo_Ghinzani"
         ]
       ],
       [
-        [
-          "Osella",
-          "Alfa Romeo"
-        ],
+        "Osella - Alfa Romeo",
         [
           "/wiki/Osella",
           "/wiki/Alfa_Romeo_in_Formula_One"
         ]
       ],
       [
-        [
-          "1:41.176"
-        ],
-        [
-          null
-        ]
+        "1:41.176",
+        []
       ],
       [
-        [
-          "+4.135"
-        ],
-        [
-          null
-        ]
+        "+4.135",
+        []
       ]
     ],
     [
       [
-        [
-          "19"
-        ],
-        [
-          null
-        ]
+        "19",
+        []
       ],
       [
-        [
-          "25"
-        ],
-        [
-          null
-        ]
+        "25",
+        []
       ],
       [
-        [
-          "Fran\u00e7ois Hesnault"
-        ],
+        "Fran\u00e7ois Hesnault",
         [
           "/wiki/Fran\u00e7ois_Hesnault"
         ]
       ],
       [
-        [
-          "Ligier",
-          "Renault"
-        ],
+        "Ligier - Renault",
         [
           "/wiki/Equipe_Ligier",
           "/wiki/Renault_in_Formula_One"
         ]
       ],
       [
-        [
-          "1:41.303"
-        ],
-        [
-          null
-        ]
+        "1:41.303",
+        []
       ],
       [
-        [
-          "+4.262"
-        ],
-        [
-          null
-        ]
+        "+4.262",
+        []
       ]
     ],
     [
       [
-        [
-          "20"
-        ],
-        [
-          null
-        ]
+        "20",
+        []
       ],
       [
-        [
-          "18"
-        ],
-        [
-          null
-        ]
+        "18",
+        []
       ],
       [
-        [
-          "Thierry Boutsen"
-        ],
+        "Thierry Boutsen",
         [
           "/wiki/Thierry_Boutsen"
         ]
       ],
       [
-        [
-          "Arrows",
-          "BMW"
-        ],
+        "Arrows - BMW",
         [
           "/wiki/Arrows_Grand_Prix_International",
           "/wiki/BMW_in_Formula_One"
         ]
       ],
       [
-        [
-          "1:41.318"
-        ],
-        [
-          null
-        ]
+        "1:41.318",
+        []
       ],
       [
-        [
-          "+4.277"
-        ],
-        [
-          null
-        ]
+        "+4.277",
+        []
       ]
     ]
   ],

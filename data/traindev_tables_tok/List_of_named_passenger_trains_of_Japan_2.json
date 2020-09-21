@@ -3,322 +3,180 @@
   "title": "List of named passenger trains of Japan",
   "header": [
     [
-      [
-        "Train name"
-      ],
-      [
-        null
-      ]
+      "Train name",
+      []
     ],
     [
-      [
-        "Operator"
-      ],
-      [
-        null
-      ]
+      "Operator",
+      []
     ],
     [
-      [
-        "Train endpoints"
-      ],
-      [
-        null
-      ]
+      "Train endpoints",
+      []
     ],
     [
-      [
-        "Operated"
-      ],
-      [
-        null
-      ]
+      "Operated",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Acty",
-          "ja"
-        ],
-        [
-          null,
-          null
-        ]
+        "Acty [ ja ]",
+        []
       ],
       [
-        [
-          "JR East"
-        ],
-        [
-          null
-        ]
+        "JR East",
+        []
       ],
       [
-        [
-          "Tokyo",
-          "Atami"
-        ],
+        "Tokyo - Atami",
         [
           "/wiki/Tokyo_Station",
           "/wiki/Atami_Station"
         ]
       ],
       [
-        [
-          "1989-"
-        ],
-        [
-          null
-        ]
+        "1989-",
+        []
       ]
     ],
     [
       [
-        [
-          "Airport",
-          "ja"
-        ],
-        [
-          null,
-          null
-        ]
+        "Airport [ ja ]",
+        []
       ],
       [
-        [
-          "JR Hokkaido"
-        ],
-        [
-          null
-        ]
+        "JR Hokkaido",
+        []
       ],
       [
-        [
-          "Otaru",
-          "New Chitose Airport"
-        ],
+        "Otaru , Sapporo - New Chitose Airport",
         [
           "/wiki/Otaru_Station",
           "/wiki/New_Chitose_Airport"
         ]
       ],
       [
-        [
-          "1992-"
-        ],
-        [
-          null
-        ]
+        "1992-",
+        []
       ]
     ],
     [
       [
-        [
-          "Aqua Liner",
-          "ja"
-        ],
-        [
-          null,
-          null
-        ]
+        "Aqua Liner [ ja ]",
+        []
       ],
       [
-        [
-          "JR-West"
-        ],
-        [
-          null
-        ]
+        "JR-West",
+        []
       ],
       [
-        [
-          "Yonago",
-          "Masuda"
-        ],
+        "Yonago - Masuda",
         [
           "/wiki/Yonago_Station",
           "/wiki/Masuda_Station"
         ]
       ],
       [
-        [
-          "2001-"
-        ],
-        [
-          null
-        ]
+        "2001-",
+        []
       ]
     ],
     [
       [
-        [
-          "Aterui"
-        ],
+        "Aterui",
         [
           "/wiki/Aterui"
         ]
       ],
       [
-        [
-          "JR East"
-        ],
-        [
-          null
-        ]
+        "JR East",
+        []
       ],
       [
-        [
-          "Mizusawa"
-        ],
+        "Mizusawa - Morioka",
         [
           "/wiki/Mizusawa_Station"
         ]
       ],
       [
-        [
-          "2001-"
-        ],
-        [
-          null
-        ]
+        "2001-",
+        []
       ]
     ],
     [
       [
-        [
-          "Central Liner",
-          "ja"
-        ],
-        [
-          null,
-          null
-        ]
+        "Central Liner [ ja ]",
+        []
       ],
       [
-        [
-          "JR Central"
-        ],
-        [
-          null
-        ]
+        "JR Central",
+        []
       ],
       [
-        [
-          "Nagoya"
-        ],
+        "Nagoya - Nakatsugawa",
         [
           "/wiki/Nagoya_Station"
         ]
       ],
       [
-        [
-          "1999-2013"
-        ],
-        [
-          null
-        ]
+        "1999-2013",
+        []
       ]
     ],
     [
       [
-        [
-          "Hamayuri",
-          "ja"
-        ],
-        [
-          null,
-          null
-        ]
+        "Hamayuri [ ja ]",
+        []
       ],
       [
-        [
-          "JR East"
-        ],
-        [
-          null
-        ]
+        "JR East",
+        []
       ],
       [
-        [
-          "Kamaishi",
-          "Kamaishi Line"
-        ],
+        "Morioka - Kamaishi ( via Kamaishi Line )",
         [
           "/wiki/Kamaishi_Station",
           "/wiki/Kamaishi_Line"
         ]
       ],
       [
-        [
-          "2002-"
-        ],
-        [
-          null
-        ]
+        "2002-",
+        []
       ]
     ],
     [
       [
-        [
-          "Kansai Airport Rapid Service",
-          "ja"
-        ],
-        [
-          null,
-          null
-        ]
+        "Kansai Airport Rapid Service [ ja ]",
+        []
       ],
       [
-        [
-          "JR-West"
-        ],
-        [
-          null
-        ]
+        "JR-West",
+        []
       ],
       [
-        [
-          "Kansai Airport"
-        ],
+        "Tenn\u014dji - Kansai Airport ( via \u014csaka )",
         [
           "/wiki/Kansai_Airport_Station"
         ]
       ],
       [
-        [
-          "1994-"
-        ],
-        [
-          null
-        ]
+        "1994-",
+        []
       ]
     ],
     [
       [
-        [
-          "Karikachi",
-          "ja"
-        ],
-        [
-          null,
-          null
-        ]
+        "Karikachi [ ja ]",
+        []
       ],
       [
-        [
-          "JR Hokkaido"
-        ],
-        [
-          null
-        ]
+        "JR Hokkaido",
+        []
       ],
       [
-        [
-          "Takikawa",
-          "Asahikawa",
-          "Obihiro"
-        ],
+        "Takikawa , Asahikawa - Obihiro",
         [
           "/wiki/Takikawa_Station",
           "/wiki/Asahikawa_Station",
@@ -326,40 +184,21 @@
         ]
       ],
       [
-        [
-          "1990-"
-        ],
-        [
-          null
-        ]
+        "1990-",
+        []
       ]
     ],
     [
       [
-        [
-          "Kishuji Rapid Service",
-          "ja"
-        ],
-        [
-          null,
-          null
-        ]
+        "Kishuji Rapid Service [ ja ]",
+        []
       ],
       [
-        [
-          "JR-West"
-        ],
-        [
-          null
-        ]
+        "JR-West",
+        []
       ],
       [
-        [
-          "Wakayama",
-          "Kainan",
-          "Gob\u014d",
-          "Kii-Tanabe"
-        ],
+        "Tenn\u014dji - Wakayama , Kainan , Gob\u014d , Kii-Tanabe ( via \u014csaka )",
         [
           "/wiki/Wakayama_Station",
           "/wiki/Kainan_Station",
@@ -368,414 +207,243 @@
         ]
       ],
       [
-        [
-          "1999-"
-        ],
-        [
-          null
-        ]
+        "1999-",
+        []
       ]
     ],
     [
       [
-        [
-          "Kitami"
-        ],
+        "Kitami",
         [
           "/wiki/Kitami_(train)"
         ]
       ],
       [
-        [
-          "JR Hokkaido"
-        ],
-        [
-          null
-        ]
+        "JR Hokkaido",
+        []
       ],
       [
-        [
-          "Asahikawa",
-          "Kitami"
-        ],
+        "Asahikawa - Kitami",
         [
           "/wiki/Asahikawa_Station",
           "/wiki/Kitami_Station_(Hokkaid\u014d)"
         ]
       ],
       [
-        [
-          "1998-"
-        ],
-        [
-          null
-        ]
+        "1998-",
+        []
       ]
     ],
     [
       [
-        [
-          "Kubikino"
-        ],
+        "Kubikino",
         [
           "/wiki/Kubikino"
         ]
       ],
       [
-        [
-          "JR East"
-        ],
-        [
-          null
-        ]
+        "JR East",
+        []
       ],
       [
-        [
-          "Arai",
-          "Niigata"
-        ],
+        "Arai - Niigata",
         [
           "/wiki/Arai_Station_(Niigata)",
           "/wiki/Niigata_Station"
         ]
       ],
       [
-        [
-          "2002-2015"
-        ],
-        [
-          null
-        ]
+        "2002-2015",
+        []
       ]
     ],
     [
       [
-        [
-          "Marine Liner"
-        ],
+        "Marine Liner",
         [
           "/wiki/Marine_Liner"
         ]
       ],
       [
-        [
-          "JR-West / JR Shikoku"
-        ],
-        [
-          null
-        ]
+        "JR-West / JR Shikoku",
+        []
       ],
       [
-        [
-          "Okayama",
-          "Takamatsu"
-        ],
+        "Okayama - Takamatsu",
         [
           "/wiki/Okayama_Station",
           "/wiki/Takamatsu_Station_(Kagawa)"
         ]
       ],
       [
-        [
-          "1988-"
-        ],
-        [
-          null
-        ]
+        "1988-",
+        []
       ]
     ],
     [
       [
-        [
-          "Mie",
-          "ja"
-        ],
-        [
-          null,
-          null
-        ]
+        "Mie [ ja ]",
+        []
       ],
       [
-        [
-          "JR Central / Ise Tetsudo"
-        ],
-        [
-          null
-        ]
+        "JR Central / Ise Tetsudo",
+        []
       ],
       [
-        [
-          "Toba"
-        ],
+        "Nagoya - Toba",
         [
           "/wiki/Toba_Station"
         ]
       ],
       [
-        [
-          "1990-"
-        ],
-        [
-          null
-        ]
+        "1990-",
+        []
       ]
     ],
     [
       [
-        [
-          "Nayoro",
-          "ja"
-        ],
-        [
-          null,
-          null
-        ]
+        "Nayoro [ ja ]",
+        []
       ],
       [
-        [
-          "JR Hokkaido"
-        ],
-        [
-          null
-        ]
+        "JR Hokkaido",
+        []
       ],
       [
-        [
-          "Asahikawa",
-          "Nayoro"
-        ],
+        "Asahikawa - Nayoro",
         [
           "/wiki/Asahikawa_Station",
           "/wiki/Nayoro_Station"
         ]
       ],
       [
-        [
-          "1965-"
-        ],
-        [
-          null
-        ]
+        "1965-",
+        []
       ]
     ],
     [
       [
-        [
-          "Rabbit",
-          "ja"
-        ],
-        [
-          null,
-          null
-        ]
+        "Rabbit [ ja ]",
+        []
       ],
       [
-        [
-          "JR East"
-        ],
-        [
-          null
-        ]
+        "JR East",
+        []
       ],
       [
-        [
-          "Utsunomiya",
-          "Kuroiso"
-        ],
+        "Tokyo - Utsunomiya , Kuroiso",
         [
           "/wiki/Utsunomiya_Station",
           "/wiki/Kuroiso_Station"
         ]
       ],
       [
-        [
-          "1988-"
-        ],
-        [
-          null
-        ]
+        "1988-",
+        []
       ]
     ],
     [
       [
-        [
-          "Rias",
-          "ja"
-        ],
-        [
-          null,
-          null
-        ]
+        "Rias [ ja ]",
+        []
       ],
       [
-        [
-          "JR East"
-        ],
-        [
-          null
-        ]
+        "JR East",
+        []
       ],
       [
-        [
-          "Yamada Line"
-        ],
+        "Morioka - Miyako ( via Yamada Line )",
         [
           "/wiki/Yamada_Line_(JR_East)"
         ]
       ],
       [
-        [
-          "1988-"
-        ],
-        [
-          null
-        ]
+        "1988-",
+        []
       ]
     ],
     [
       [
-        [
-          "Sh\u014dnan Liner"
-        ],
+        "Sh\u014dnan Liner",
         [
           "/wiki/Sh\u014dnan_Liner"
         ]
       ],
       [
-        [
-          "JR East"
-        ],
-        [
-          null
-        ]
+        "JR East",
+        []
       ],
       [
-        [
-          "T\u014dkaid\u014d Freight Line"
-        ],
+        "Tokyo - Odawara ( Some of trains pass T\u014dkaid\u014d Freight Line )",
         [
           "/wiki/T\u014dkaid\u014d_Freight_Line"
         ]
       ],
       [
-        [
-          "1986-"
-        ],
-        [
-          null
-        ]
+        "1986-",
+        []
       ]
     ],
     [
       [
-        [
-          "Tambaji Rapid Service",
-          "ja"
-        ],
-        [
-          null,
-          null
-        ]
+        "Tambaji Rapid Service [ ja ]",
+        []
       ],
       [
-        [
-          "JR-West"
-        ],
-        [
-          null
-        ]
+        "JR-West",
+        []
       ],
       [
-        [
-          "Sasayamaguchi"
-        ],
+        "\u014csaka - Sasayamaguchi",
         [
           "/wiki/Sasayamaguchi_Station"
         ]
       ],
       [
-        [
-          "2000-"
-        ],
-        [
-          null
-        ]
+        "2000-",
+        []
       ]
     ],
     [
       [
-        [
-          "Tottori Liner",
-          "ja"
-        ],
-        [
-          null,
-          null
-        ]
+        "Tottori Liner [ ja ]",
+        []
       ],
       [
-        [
-          "JR-West"
-        ],
-        [
-          null
-        ]
+        "JR-West",
+        []
       ],
       [
-        [
-          "Yonago",
-          "Izumoshi"
-        ],
+        "Tottori - Yonago , Izumoshi",
         [
           "/wiki/Yonago_Station",
           "/wiki/Izumoshi_Station"
         ]
       ],
       [
-        [
-          "2001-"
-        ],
-        [
-          null
-        ]
+        "2001-",
+        []
       ]
     ],
     [
       [
-        [
-          "Urban",
-          "ja"
-        ],
-        [
-          null,
-          null
-        ]
+        "Urban [ ja ]",
+        []
       ],
       [
-        [
-          "JR East"
-        ],
-        [
-          null
-        ]
+        "JR East",
+        []
       ],
       [
-        [
-          "Takasaki",
-          "Maebashi"
-        ],
+        "Tokyo - Takasaki , Maebashi",
         [
           "/wiki/Takasaki_Station",
           "/wiki/Maebashi_Station"
         ]
       ],
       [
-        [
-          "1989-"
-        ],
-        [
-          null
-        ]
+        "1989-",
+        []
       ]
     ]
   ],

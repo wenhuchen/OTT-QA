@@ -3,103 +3,57 @@
   "title": "List of best-selling albums",
   "header": [
     [
-      [
-        "Artist"
-      ],
-      [
-        null
-      ]
+      "Artist",
+      []
     ],
     [
-      [
-        "Album"
-      ],
-      [
-        null
-      ]
+      "Album",
+      []
     ],
     [
-      [
-        "Released"
-      ],
-      [
-        null
-      ]
+      "Released",
+      []
     ],
     [
-      [
-        "Genre"
-      ],
-      [
-        null
-      ]
+      "Genre",
+      []
     ],
     [
-      [
-        "Total certified copies",
-        "from available markets"
-      ],
+      "Total certified copies ( from available markets ) *",
       [
         "/wiki/Music_recording_sales_certification",
         "/wiki/List_of_music_recording_certifications"
       ]
     ],
     [
-      [
-        "Claimed sales*"
-      ],
-      [
-        null
-      ]
+      "Claimed sales*",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Various artists"
-        ],
-        [
-          null
-        ]
+        "Various artists",
+        []
       ],
       [
-        [
-          "Grease : The Original Soundtrack from the Motion Picture"
-        ],
+        "Grease : The Original Soundtrack from the Motion Picture",
         [
           "/wiki/Grease:_The_Original_Soundtrack_from_the_Motion_Picture"
         ]
       ],
       [
-        [
-          "1978"
-        ],
-        [
-          null
-        ]
+        "1978",
+        []
       ],
       [
-        [
-          "Rock and roll"
-        ],
+        "Rock and roll",
         [
           "/wiki/Rock_and_roll"
         ]
       ],
       [
-        [
-          "US",
-          "UK",
-          "GER",
-          "FRA",
-          "CAN",
-          "AUS",
-          "SPA",
-          "SWI",
-          "NZ",
-          "HKG"
-        ],
+        "14.4 US : 8 million UK : 2.4 million GER : 1.25 million FRA : 400,000 CAN : 1 million AUS : 980,000 SPA : 300,000 SWI : 25,000 NZ : 15,000 HKG : 15,000",
         [
           "/wiki/Recording_Industry_Association_of_America",
           "/wiki/British_Phonographic_Industry",
@@ -114,45 +68,29 @@
         ]
       ],
       [
-        [
-          "38"
-        ],
-        [
-          null
-        ]
+        "38",
+        []
       ]
     ],
     [
       [
-        [
-          "Led Zeppelin"
-        ],
+        "Led Zeppelin",
         [
           "/wiki/Led_Zeppelin"
         ]
       ],
       [
-        [
-          "Led Zeppelin IV"
-        ],
+        "Led Zeppelin IV",
         [
           "/wiki/Led_Zeppelin_IV"
         ]
       ],
       [
-        [
-          "1971"
-        ],
-        [
-          null
-        ]
+        "1971",
+        []
       ],
       [
-        [
-          "Hard rock",
-          "heavy metal",
-          "folk rock"
-        ],
+        "Hard rock , heavy metal , folk rock",
         [
           "/wiki/Hard_rock",
           "/wiki/Heavy_metal_music",
@@ -160,18 +98,7 @@
         ]
       ],
       [
-        [
-          "US",
-          "UK",
-          "GER",
-          "FRA",
-          "CAN",
-          "AUS",
-          "BRA",
-          "NLD",
-          "ARG",
-          "SWI"
-        ],
+        "29.0 US : 23 million UK : 1.8 million GER : 750,000 FRA : 600,000 CAN : 2 million AUS : 630,000 BRA : 100,000 NLD : 100,000 ARG : 60,000 SWI : 50,000",
         [
           "/wiki/Recording_Industry_Association_of_America",
           "/wiki/British_Phonographic_Industry",
@@ -186,46 +113,29 @@
         ]
       ],
       [
-        [
-          "37"
-        ],
-        [
-          null
-        ]
+        "37",
+        []
       ]
     ],
     [
       [
-        [
-          "Michael Jackson"
-        ],
+        "Michael Jackson",
         [
           "/wiki/Michael_Jackson"
         ]
       ],
       [
-        [
-          "Bad"
-        ],
+        "Bad",
         [
           "/wiki/Bad_(album)"
         ]
       ],
       [
-        [
-          "1987"
-        ],
-        [
-          null
-        ]
+        "1987",
+        []
       ],
       [
-        [
-          "Pop",
-          "rhythm and blues",
-          "funk",
-          "rock"
-        ],
+        "Pop , rhythm and blues , funk and rock",
         [
           "/wiki/Pop_music",
           "/wiki/Rhythm_and_blues",
@@ -234,21 +144,7 @@
         ]
       ],
       [
-        [
-          "US",
-          "UK",
-          "GER",
-          "FRA",
-          "CAN",
-          "AUS",
-          "MEX",
-          "SPA",
-          "SWE",
-          "AUT",
-          "NZ",
-          "FIN",
-          "IFPI HKG"
-        ],
+        "22.2 US : 10 million UK : 4.1 million GER : 2 million FRA : 1 million CAN : 700,000 AUS : 420,000 MEX : 350,000 SPA : 300,000 SWE : 200,000 AUT : 200,000 NZ : 135,000 FIN : 51,287 IFPI HKG : 15,000",
         [
           "/wiki/Recording_Industry_Association_of_America",
           "/wiki/British_Phonographic_Industry",
@@ -266,65 +162,35 @@
         ]
       ],
       [
-        [
-          "35"
-        ],
-        [
-          null
-        ]
+        "35",
+        []
       ]
     ],
     [
       [
-        [
-          "Alanis Morissette"
-        ],
+        "Alanis Morissette",
         [
           "/wiki/Alanis_Morissette"
         ]
       ],
       [
-        [
-          "Jagged Little Pill"
-        ],
+        "Jagged Little Pill",
         [
           "/wiki/Jagged_Little_Pill"
         ]
       ],
       [
-        [
-          "1995"
-        ],
-        [
-          null
-        ]
+        "1995",
+        []
       ],
       [
-        [
-          "Alternative rock"
-        ],
+        "Alternative rock",
         [
           "/wiki/Alternative_rock"
         ]
       ],
       [
-        [
-          "US",
-          "UK",
-          "GER",
-          "FRA",
-          "CAN",
-          "AUS",
-          "NLD",
-          "SWE",
-          "BRA",
-          "ARG",
-          "POL",
-          "SWI",
-          "NOR",
-          "AUT",
-          "FIN"
-        ],
+        "24.4 US : 16 million UK : 3 million GER : 1 million FRA : 300,000 CAN : 2 million AUS : 980,000 NLD : 400,000 SWE 200,000 BRA : 100,000 ARG : 60,000 POL : 50,000 SWI : 50,000 NOR : 50,000 AUT : 100,000 FIN : 65,860",
         [
           "/wiki/Recording_Industry_Association_of_America",
           "/wiki/British_Phonographic_Industry",
@@ -344,45 +210,29 @@
         ]
       ],
       [
-        [
-          "33"
-        ],
-        [
-          null
-        ]
+        "33",
+        []
       ]
     ],
     [
       [
-        [
-          "Michael Jackson"
-        ],
+        "Michael Jackson",
         [
           "/wiki/Michael_Jackson"
         ]
       ],
       [
-        [
-          "Dangerous"
-        ],
+        "Dangerous",
         [
           "/wiki/Dangerous_(Michael_Jackson_album)"
         ]
       ],
       [
-        [
-          "1991"
-        ],
-        [
-          null
-        ]
+        "1991",
+        []
       ],
       [
-        [
-          "New jack swing",
-          "R & B",
-          "pop"
-        ],
+        "New jack swing , R & B and pop",
         [
           "/wiki/New_jack_swing",
           "/wiki/Contemporary_R&B",
@@ -390,26 +240,7 @@
         ]
       ],
       [
-        [
-          "US",
-          "JPN",
-          "UK",
-          "GER",
-          "FRA",
-          "CAN",
-          "AUS",
-          "BRA",
-          "MEX",
-          "NLD",
-          "SWE",
-          "SPA",
-          "SWI",
-          "AUT",
-          "FIN",
-          "NZ",
-          "CHI",
-          "MAL"
-        ],
+        "17.3 US : 8 million JPN : 400,000 UK : 1.8 million GER : 2 million FRA : 1 million CAN : 600,000 AUS : 700,000 BRA : 100,000 MEX : 600,000 NLD : 300,000 SWE 300,000 SPA : 600,000 SWI : 250,000 AUT : 200,000 FIN : 61,896 NZ : 90,000 CHI : 125,000 MAL : 175,000",
         [
           "/wiki/Recording_Industry_Association_of_America",
           "/wiki/Recording_Industry_Association_of_Japan",
@@ -432,72 +263,36 @@
         ]
       ],
       [
-        [
-          "32"
-        ],
-        [
-          null
-        ]
+        "32",
+        []
       ]
     ],
     [
       [
-        [
-          "Celine Dion"
-        ],
+        "Celine Dion",
         [
           "/wiki/Celine_Dion"
         ]
       ],
       [
-        [
-          "Falling into You"
-        ],
+        "Falling into You",
         [
           "/wiki/Falling_into_You"
         ]
       ],
       [
-        [
-          "1996"
-        ],
-        [
-          null
-        ]
+        "1996",
+        []
       ],
       [
-        [
-          "Pop",
-          "soft rock"
-        ],
+        "Pop , soft rock",
         [
           "/wiki/Pop_music",
           "/wiki/Soft_rock"
         ]
       ],
       [
-        [
-          "US",
-          "JPN",
-          "UK",
-          "GER",
-          "FRA",
-          "CAN",
-          "AUS",
-          "BRA",
-          "NLD",
-          "SWE",
-          "SPA",
-          "BEL",
-          "ARG",
-          "POL",
-          "SWI",
-          "NOR",
-          "AUT",
-          "FIN",
-          "NZ",
-          "HUN"
-        ],
+        "20.2 US : 11 million JPN : 800,000 UK : 2.1 million GER : 1.25 million FRA : 1 million CAN : 1 million AUS : 910,000 BRA : 100,000 NLD : 600,000 SWE : 200,000 SPA : 200,000 BEL : 200,000 ARG : 60,000 POL : 100,000 SWI : 150,000 NOR : 150,000 AUT : 100,000 FIN : 51,952 NZ : 180,000 HUN : 25,000",
         [
           "/wiki/Recording_Industry_Association_of_America",
           "/wiki/Recording_Industry_Association_of_Japan",
@@ -522,62 +317,35 @@
         ]
       ],
       [
-        [
-          "32"
-        ],
-        [
-          null
-        ]
+        "32",
+        []
       ]
     ],
     [
       [
-        [
-          "Eagles"
-        ],
+        "Eagles",
         [
           "/wiki/Eagles_(band)"
         ]
       ],
       [
-        [
-          "Hotel California"
-        ],
+        "Hotel California",
         [
           "/wiki/Hotel_California_(Eagles_album)"
         ]
       ],
       [
-        [
-          "1976"
-        ],
-        [
-          null
-        ]
+        "1976",
+        []
       ],
       [
-        [
-          "Soft rock"
-        ],
+        "Soft rock",
         [
           "/wiki/Soft_rock"
         ]
       ],
       [
-        [
-          "US",
-          "UK",
-          "GER",
-          "FRA",
-          "CAN",
-          "AUS",
-          "SPA",
-          "SWI",
-          "AUT",
-          "FIN",
-          "NZ",
-          "HKG"
-        ],
+        "31.5 US : 26 million UK : 1.8 million GER : 500,000 FRA : 1 million CAN : 1 million AUS : 560,000 SPA : 400,000 SWI : 100,000 AUT : 25,000 FIN : 30,933 NZ : 135,000 HKG : 15,000",
         [
           "/wiki/Recording_Industry_Association_of_America",
           "/wiki/British_Phonographic_Industry",
@@ -594,58 +362,35 @@
         ]
       ],
       [
-        [
-          "32"
-        ],
-        [
-          null
-        ]
+        "32",
+        []
       ]
     ],
     [
       [
-        [
-          "The Beatles"
-        ],
+        "The Beatles",
         [
           "/wiki/The_Beatles"
         ]
       ],
       [
-        [
-          "Sgt . Pepper 's Lonely Hearts Club Band"
-        ],
+        "Sgt . Pepper 's Lonely Hearts Club Band",
         [
           "/wiki/Sgt._Pepper's_Lonely_Hearts_Club_Band"
         ]
       ],
       [
-        [
-          "1967"
-        ],
-        [
-          null
-        ]
+        "1967",
+        []
       ],
       [
-        [
-          "Rock"
-        ],
+        "Rock",
         [
           "/wiki/Rock_music"
         ]
       ],
       [
-        [
-          "US",
-          "UK",
-          "GER",
-          "CAN",
-          "AUS",
-          "BRA",
-          "ARG",
-          "NZ"
-        ],
+        "18.2 US : 11 million UK : 5.1 million GER : 500,000 CAN : 800,000 AUS : 280,000 BRA : 100,000 ARG : 300,000 NZ : 90,000",
         [
           "/wiki/Recording_Industry_Association_of_America",
           "/wiki/British_Phonographic_Industry",
@@ -658,45 +403,27 @@
         ]
       ],
       [
-        [
-          "32"
-        ],
-        [
-          null
-        ]
+        "32",
+        []
       ]
     ],
     [
       [
-        [
-          "Various artists"
-        ],
-        [
-          null
-        ]
+        "Various artists",
+        []
       ],
       [
-        [
-          "Dirty Dancing"
-        ],
+        "Dirty Dancing",
         [
           "/wiki/Dirty_Dancing_(soundtrack)"
         ]
       ],
       [
-        [
-          "1987"
-        ],
-        [
-          null
-        ]
+        "1987",
+        []
       ],
       [
-        [
-          "Pop",
-          "rock",
-          "R & B"
-        ],
+        "Pop , rock , R & B",
         [
           "/wiki/Pop_music",
           "/wiki/Rock_music",
@@ -704,20 +431,7 @@
         ]
       ],
       [
-        [
-          "US",
-          "UK",
-          "GER",
-          "FRA",
-          "CAN",
-          "AUS",
-          "BRA",
-          "NLD",
-          "SWE",
-          "POL",
-          "SWI",
-          "HKG"
-        ],
+        "17.9 US : 11 million UK : 1.5 million GER : 2 million FRA : 1 million CAN : 1 million AUS : 770,000 BRA : 100,000 NLD : 100,000 SWE 100,000 POL : 50,000 SWI : 250,000 HKG : 7,500",
         [
           "/wiki/Recording_Industry_Association_of_America",
           "/wiki/British_Phonographic_Industry",
@@ -734,79 +448,36 @@
         ]
       ],
       [
-        [
-          "32"
-        ],
-        [
-          null
-        ]
+        "32",
+        []
       ]
     ],
     [
       [
-        [
-          "Adele"
-        ],
+        "Adele",
         [
           "/wiki/Adele"
         ]
       ],
       [
-        [
-          "21"
-        ],
+        "21",
         [
           "/wiki/21_(Adele_album)"
         ]
       ],
       [
-        [
-          "2011"
-        ],
-        [
-          null
-        ]
+        "2011",
+        []
       ],
       [
-        [
-          "Pop",
-          "soul"
-        ],
+        "Pop , soul",
         [
           "/wiki/Pop_music",
           "/wiki/Soul_music"
         ]
       ],
       [
-        [
-          "US",
-          "JPN",
-          "UK",
-          "GER",
-          "CAN",
-          "AUS",
-          "MEX",
-          "NLD",
-          "ITA",
-          "SWE",
-          "SPA",
-          "ARG",
-          "BEL",
-          "POL",
-          "SWI",
-          "NOR",
-          "AUT",
-          "RUS",
-          "DEN",
-          "POR",
-          "FIN",
-          "IRE",
-          "GRE",
-          "HUN",
-          "NZ",
-          "CHI",
-          "VEN"
-        ],
+        "25.3 US : 14 million JPN : 100,000 UK : 4.8 million GER : 1.6 million CAN : 800,000 AUS : 980,000 MEX : 300,000 NLD : 450,000 ITA : 480,000 SWE : 120,000 SPA : 300,000 ARG : 80,000 BEL : 180,000 POL : 200,000 SWI : 40,000 NOR : 30,000 AUT : 20,000 RUS : 10,000 DEN : 150,000 POR : 40,000 FIN : 83,234 IRE : 270,000 GRE : 6,000 HUN : 12,000 NZ : 180,000 CHI : 20,000 VEN : 10,000",
         [
           "/wiki/Recording_Industry_Association_of_America",
           "/wiki/Recording_Industry_Association_of_Japan",
@@ -838,72 +509,36 @@
         ]
       ],
       [
-        [
-          "31"
-        ],
-        [
-          null
-        ]
+        "31",
+        []
       ]
     ],
     [
       [
-        [
-          "Celine Dion"
-        ],
+        "Celine Dion",
         [
           "/wiki/Celine_Dion"
         ]
       ],
       [
-        [
-          "Let 's Talk About Love"
-        ],
+        "Let 's Talk About Love",
         [
           "/wiki/Let's_Talk_About_Love"
         ]
       ],
       [
-        [
-          "1997"
-        ],
-        [
-          null
-        ]
+        "1997",
+        []
       ],
       [
-        [
-          "Pop",
-          "soft rock"
-        ],
+        "Pop , soft rock",
         [
           "/wiki/Pop_music",
           "/wiki/Soft_rock"
         ]
       ],
       [
-        [
-          "US",
-          "JPN",
-          "UK",
-          "GER",
-          "FRA",
-          "CAN",
-          "AUS",
-          "NLD",
-          "SWE",
-          "SPA",
-          "BEL",
-          "ARG",
-          "POL",
-          "SWI",
-          "NOR",
-          "AUT",
-          "FIN",
-          "NZ",
-          "HKG",
-          "URY"
-        ],
+        "19.3 US : 10 million JPN : 1 million UK : 1.8 million GER : 1.5 million FRA : 1 million CAN : 1 million AUS : 420,000 NLD : 500,000 SWE : 240,000 SPA : 400,000 BEL : 200,000 ARG : 120,000 POL : 200,000 SWI : 300,000 NOR : 200,000 AUT : 100,000 FIN : 97,744 NZ : 135,000 HKG : 40,000 URY : 3,000",
         [
           "/wiki/Recording_Industry_Association_of_America",
           "/wiki/Recording_Industry_Association_of_Japan",
@@ -928,70 +563,35 @@
         ]
       ],
       [
-        [
-          "31"
-        ],
-        [
-          null
-        ]
+        "31",
+        []
       ]
     ],
     [
       [
-        [
-          "The Beatles"
-        ],
+        "The Beatles",
         [
           "/wiki/The_Beatles"
         ]
       ],
       [
-        [
-          "1"
-        ],
+        "1",
         [
           "/wiki/1_(Beatles_album)"
         ]
       ],
       [
-        [
-          "2000"
-        ],
-        [
-          null
-        ]
+        "2000",
+        []
       ],
       [
-        [
-          "Rock"
-        ],
+        "Rock",
         [
           "/wiki/Rock_music"
         ]
       ],
       [
-        [
-          "US",
-          "JPN",
-          "UK",
-          "GER",
-          "FRA",
-          "CAN",
-          "AUS",
-          "BRA",
-          "ITA",
-          "SWE",
-          "SPA",
-          "ARG",
-          "POL",
-          "SWI",
-          "NOR",
-          "AUT",
-          "DEN",
-          "POR",
-          "FIN",
-          "NZ"
-        ],
+        "23.4 US : 12 million JPN : 2 million UK : 3.3 million GER : 1.65 million FRA : 600,000 CAN : 1 million AUS : 700,000 BRA : 250,000 ITA : 50,000 SWE 160,000 SPA : 500,000 ARG : 120,000 POL : 100,000 SWI : 150,000 NOR : 150,000 AUT : 150,000 DEN : 200,000 POR : 120,000 FIN : 77,466 NZ : 225,000",
         [
           "/wiki/Recording_Industry_Association_of_America",
           "/wiki/Recording_Industry_Association_of_Japan",
@@ -1016,91 +616,36 @@
         ]
       ],
       [
-        [
-          "31"
-        ],
-        [
-          null
-        ]
+        "31",
+        []
       ]
     ],
     [
       [
-        [
-          "ABBA"
-        ],
+        "ABBA",
         [
           "/wiki/ABBA"
         ]
       ],
       [
-        [
-          "Gold : Greatest Hits"
-        ],
+        "Gold : Greatest Hits",
         [
           "/wiki/Gold:_Greatest_Hits"
         ]
       ],
       [
-        [
-          "1992"
-        ],
-        [
-          null
-        ]
+        "1992",
+        []
       ],
       [
-        [
-          "Pop",
-          "disco"
-        ],
+        "Pop , disco",
         [
           "/wiki/Pop_music",
           "/wiki/Disco"
         ]
       ],
       [
-        [
-          "US",
-          "JPN",
-          "UK",
-          "GER",
-          "FRA",
-          "RUS",
-          "MEX",
-          "CAN",
-          "BRA",
-          "AUS",
-          "IND",
-          "ITA",
-          "SPA",
-          "NLD",
-          "SAF",
-          "SWE",
-          "SWI",
-          "ARG",
-          "BEL",
-          "THL",
-          "NOR",
-          "AUT",
-          "DEN",
-          "KOR",
-          "TWN",
-          "POL",
-          "IRE",
-          "FIN",
-          "POR",
-          "NZ",
-          "HKG",
-          "SGP",
-          "HUN",
-          "CHI",
-          "ISR",
-          "CZE",
-          "MAL",
-          "VEN",
-          "ICL"
-        ],
+        "23.0 US : 6 million JPN : 600,000 UK : 5.4 million GER : 2.5 million FRA : 1 million RUS : 10,000 MEX : 250,000 CAN : 1 million BRA : 100,000 AUS : 1.19 million IND : 20,000 ITA : 270,000 SPA : 500,000 NLD : 300,000 SAF : 50,000 SWE 500,000 SWI : 500,000 ARG : 240,000 BEL : 350,000 THL : 20,000 NOR : 150,000 AUT : 150,000 DEN : 300,000 KOR : 100,000 TWN : 210,000 POL : 100,000 IRE : 90,000 FIN : 145,962 POR : 100,000 NZ : 240,000 HKG : 120,000 SGP : 165,000 HUN : 100,000 CHI : 60,000 ISR : 40,000 CZE : 30,000 MAL : 100,000 VEN : 5,000 ICL : 5,000",
         [
           "/wiki/Recording_Industry_Association_of_America",
           "/wiki/Recording_Industry_Association_of_Japan",
@@ -1144,57 +689,35 @@
         ]
       ],
       [
-        [
-          "30"
-        ],
-        [
-          null
-        ]
+        "30",
+        []
       ]
     ],
     [
       [
-        [
-          "The Beatles"
-        ],
+        "The Beatles",
         [
           "/wiki/The_Beatles"
         ]
       ],
       [
-        [
-          "Abbey Road"
-        ],
+        "Abbey Road",
         [
           "/wiki/Abbey_Road"
         ]
       ],
       [
-        [
-          "1969"
-        ],
-        [
-          null
-        ]
+        "1969",
+        []
       ],
       [
-        [
-          "Rock"
-        ],
+        "Rock",
         [
           "/wiki/Rock_music"
         ]
       ],
       [
-        [
-          "US",
-          "GER",
-          "FRA",
-          "CAN",
-          "AUS",
-          "ARG",
-          "NZ"
-        ],
+        "14.4 US : 12 million GER : 500,000 FRA : 150,000 CAN : 1 million AUS : 210,000 ARG : 500,000 NZ : 75,000",
         [
           "/wiki/Recording_Industry_Association_of_America",
           "/wiki/Bundesverband_Musikindustrie",
@@ -1206,58 +729,35 @@
         ]
       ],
       [
-        [
-          "30"
-        ],
-        [
-          null
-        ]
+        "30",
+        []
       ]
     ],
     [
       [
-        [
-          "Bruce Springsteen"
-        ],
+        "Bruce Springsteen",
         [
           "/wiki/Bruce_Springsteen"
         ]
       ],
       [
-        [
-          "Born in the U.S.A"
-        ],
+        "Born in the U.S.A",
         [
           "/wiki/Born_in_the_U.S.A."
         ]
       ],
       [
-        [
-          "1984"
-        ],
-        [
-          null
-        ]
+        "1984",
+        []
       ],
       [
-        [
-          "Heartland rock"
-        ],
+        "Heartland rock",
         [
           "/wiki/Heartland_rock"
         ]
       ],
       [
-        [
-          "US",
-          "UK",
-          "GER",
-          "FRA",
-          "CAN",
-          "AUS",
-          "FIN",
-          "NZ"
-        ],
+        "19.6 US : 15 million UK : 900,000 GER : 1 million FRA : 400,000 CAN : 1 million AUS : 910,000 FIN : 108,913 NZ : 240,000",
         [
           "/wiki/Recording_Industry_Association_of_America",
           "/wiki/British_Phonographic_Industry",
@@ -1270,45 +770,29 @@
         ]
       ],
       [
-        [
-          "30"
-        ],
-        [
-          null
-        ]
+        "30",
+        []
       ]
     ],
     [
       [
-        [
-          "Dire Straits"
-        ],
+        "Dire Straits",
         [
           "/wiki/Dire_Straits"
         ]
       ],
       [
-        [
-          "Brothers in Arms"
-        ],
+        "Brothers in Arms",
         [
           "/wiki/Brothers_in_Arms_(album)"
         ]
       ],
       [
-        [
-          "1985"
-        ],
-        [
-          null
-        ]
+        "1985",
+        []
       ],
       [
-        [
-          "Roots rock",
-          "blues rock",
-          "soft rock"
-        ],
+        "Roots rock , blues rock , soft rock",
         [
           "/wiki/Roots_rock",
           "/wiki/Blues_rock",
@@ -1316,19 +800,7 @@
         ]
       ],
       [
-        [
-          "US",
-          "UK",
-          "GER",
-          "FRA",
-          "CAN",
-          "AUS",
-          "ARG",
-          "SWI",
-          "FIN",
-          "NZ",
-          "HKG"
-        ],
+        "17.7 US : 9 million UK : 4.1 million GER : 500,000 FRA : 1 million CAN : 1 million AUS : 1.19 million ARG : 30,000 SWI : 350,000 FIN : 116,784 NZ : 360,000 HKG : 15,000",
         [
           "/wiki/Recording_Industry_Association_of_America",
           "/wiki/British_Phonographic_Industry",
@@ -1344,69 +816,35 @@
         ]
       ],
       [
-        [
-          "30"
-        ],
-        [
-          null
-        ]
+        "30",
+        []
       ]
     ],
     [
       [
-        [
-          "James Horner"
-        ],
+        "James Horner",
         [
           "/wiki/James_Horner"
         ]
       ],
       [
-        [
-          "Titanic : Music from the Motion Picture"
-        ],
+        "Titanic : Music from the Motion Picture",
         [
           "/wiki/Titanic:_Music_from_the_Motion_Picture"
         ]
       ],
       [
-        [
-          "1997"
-        ],
-        [
-          null
-        ]
+        "1997",
+        []
       ],
       [
-        [
-          "Film score"
-        ],
+        "Film score",
         [
           "/wiki/Film_score"
         ]
       ],
       [
-        [
-          "US",
-          "JPN",
-          "UK",
-          "GER",
-          "FRA",
-          "CAN",
-          "AUS",
-          "NLD",
-          "SWE",
-          "SPA",
-          "BEL",
-          "POL",
-          "ARG",
-          "SWI",
-          "AUT",
-          "NOR",
-          "FIN",
-          "NZ",
-          "HKG"
-        ],
+        "18.1 US : 11 million JPN : 1 million UK : 900,000 GER : 1.25 million FRA : 1 million CAN : 1 million AUS : 350,000 NLD : 175,000 SWE 160,000 SPA : 400,000 BEL : 150,000 POL : 140,000 ARG : 60,000 SWI : 200,000 AUT : 100,000 NOR : 100,000 FIN : 73,509 NZ : 60,000 HKG : 20,000",
         [
           "/wiki/Recording_Industry_Association_of_America",
           "/wiki/Recording_Industry_Association_of_Japan",
@@ -1430,67 +868,35 @@
         ]
       ],
       [
-        [
-          "30"
-        ],
-        [
-          null
-        ]
+        "30",
+        []
       ]
     ],
     [
       [
-        [
-          "Metallica"
-        ],
+        "Metallica",
         [
           "/wiki/Metallica"
         ]
       ],
       [
-        [
-          "Metallica"
-        ],
+        "Metallica",
         [
           "/wiki/Metallica_(album)"
         ]
       ],
       [
-        [
-          "1991"
-        ],
-        [
-          null
-        ]
+        "1991",
+        []
       ],
       [
-        [
-          "Heavy metal"
-        ],
+        "Heavy metal",
         [
           "/wiki/Heavy_metal_music"
         ]
       ],
       [
-        [
-          "US",
-          "UK",
-          "GER",
-          "FRA",
-          "CAN",
-          "AUS",
-          "MEX",
-          "NLD",
-          "ITA",
-          "SWE",
-          "ARG",
-          "POL",
-          "SWI",
-          "NOR",
-          "AUT",
-          "FIN",
-          "NZ"
-        ],
+        "25.2 US : 16.83 million UK : 900,000 GER : 1,500,000 FRA : 487,500 CAN : 2 million AUS : 840,000 MEX : 600,000 NLD : 200,000 ITA : 100,000 SWE 200,000 ARG : 300,000 POL : 2 00,000 SWI : 150,000 NOR : 100,000 AUT : 100,000 FIN : 118,856 NZ : 150,000",
         [
           "/wiki/Recording_Industry_Association_of_America",
           "/wiki/British_Phonographic_Industry",
@@ -1512,70 +918,36 @@
         ]
       ],
       [
-        [
-          "31"
-        ],
-        [
-          null
-        ]
+        "31",
+        []
       ]
     ],
     [
       [
-        [
-          "Nirvana"
-        ],
+        "Nirvana",
         [
           "/wiki/Nirvana_(band)"
         ]
       ],
       [
-        [
-          "Nevermind"
-        ],
+        "Nevermind",
         [
           "/wiki/Nevermind"
         ]
       ],
       [
-        [
-          "1991"
-        ],
-        [
-          null
-        ]
+        "1991",
+        []
       ],
       [
-        [
-          "Grunge",
-          "alternative rock"
-        ],
+        "Grunge , alternative rock",
         [
           "/wiki/Grunge",
           "/wiki/Alternative_rock"
         ]
       ],
       [
-        [
-          "US",
-          "JPN",
-          "UK",
-          "GER",
-          "FRA",
-          "CAN",
-          "AUS",
-          "BRA",
-          "MEX",
-          "ITA",
-          "SWE",
-          "ARG",
-          "BEL",
-          "POL",
-          "SWI",
-          "AUT",
-          "FIN",
-          "NZ"
-        ],
+        "16.7 US : 10 million JPN : 600,000 UK : 1.2 million GER : 1 million FRA : 1 million CAN : 1 million AUS : 350,000 BRA : 250,000 MEX : 200,000 ITA : 100,000 SWE 200,000 ARG : 300,000 BEL : 150,000 POL : 100,000 SWI : 50,000 AUT : 50,000 FIN : 46,830 NZ : 105,000",
         [
           "/wiki/Recording_Industry_Association_of_America",
           "/wiki/Recording_Industry_Association_of_Japan",
@@ -1598,62 +970,35 @@
         ]
       ],
       [
-        [
-          "30"
-        ],
-        [
-          null
-        ]
+        "30",
+        []
       ]
     ],
     [
       [
-        [
-          "Pink Floyd"
-        ],
+        "Pink Floyd",
         [
           "/wiki/Pink_Floyd"
         ]
       ],
       [
-        [
-          "The Wall"
-        ],
+        "The Wall",
         [
           "/wiki/The_Wall"
         ]
       ],
       [
-        [
-          "1979"
-        ],
-        [
-          null
-        ]
+        "1979",
+        []
       ],
       [
-        [
-          "Progressive rock"
-        ],
+        "Progressive rock",
         [
           "/wiki/Progressive_rock"
         ]
       ],
       [
-        [
-          "US",
-          "UK",
-          "GER",
-          "FRA",
-          "CAN",
-          "AUS",
-          "ITA",
-          "ARG",
-          "POL",
-          "SWI",
-          "NZ",
-          "HKG"
-        ],
+        "18.7 US : 11.5 million UK : 600,000 GER : 2 million FRA : 1 million CAN : 2 million AUS : 770,000 ITA : 200,000 ARG : 200,000 POL : 70,000 SWI : 100,000 NZ : 210,000 HKG : 15,000",
         [
           "/wiki/Recording_Industry_Association_of_America",
           "/wiki/British_Phonographic_Industry",
@@ -1670,12 +1015,8 @@
         ]
       ],
       [
-        [
-          "30"
-        ],
-        [
-          null
-        ]
+        "30",
+        []
       ]
     ]
   ],

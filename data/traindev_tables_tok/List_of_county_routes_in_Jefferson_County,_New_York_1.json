@@ -3,101 +3,58 @@
   "title": "List of county routes in Jefferson County, New York",
   "header": [
     [
-      [
-        "Route"
-      ],
-      [
-        null
-      ]
+      "Route",
+      []
     ],
     [
-      [
-        "Length ( mi )"
-      ],
-      [
-        null
-      ]
+      "Length ( mi )",
+      []
     ],
     [
-      [
-        "Length ( km )"
-      ],
-      [
-        null
-      ]
+      "Length ( km )",
+      []
     ],
     [
-      [
-        "From"
-      ],
-      [
-        null
-      ]
+      "From",
+      []
     ],
     [
-      [
-        "Via"
-      ],
-      [
-        null
-      ]
+      "Via",
+      []
     ],
     [
-      [
-        "To"
-      ],
-      [
-        null
-      ]
+      "To",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "CR 111"
-        ],
-        [
-          null
-        ]
+        "CR 111",
+        []
       ],
       [
-        [
-          "3.23"
-        ],
-        [
-          null
-        ]
+        "3.23",
+        []
       ],
       [
-        [
-          "5.20"
-        ],
-        [
-          null
-        ]
+        "5.20",
+        []
       ],
       [
-        [
-          "NY 37"
-        ],
+        "NY 37",
         [
           "/wiki/NY_37"
         ]
       ],
       [
-        [
-          "Alexandria"
-        ],
+        "Schnauber Corners Road in Alexandria",
         [
           "/wiki/Alexandria,_New_York"
         ]
       ],
       [
-        [
-          "St. Lawrence County",
-          "CR 6"
-        ],
+        "St. Lawrence County line ( becomes CR 6 )",
         [
           "/wiki/St._Lawrence_County,_New_York",
           "/wiki/County_Route_6_(St._Lawrence_County,_New_York)"
@@ -106,49 +63,31 @@
     ],
     [
       [
-        [
-          "CR 120"
-        ],
-        [
-          null
-        ]
+        "CR 120",
+        []
       ],
       [
-        [
-          "1.22"
-        ],
-        [
-          null
-        ]
+        "1.22",
+        []
       ],
       [
-        [
-          "1.96"
-        ],
-        [
-          null
-        ]
+        "1.96",
+        []
       ],
       [
-        [
-          "NY 3"
-        ],
+        "NY 3",
         [
           "/wiki/New_York_State_Route_3"
         ]
       ],
       [
-        [
-          "Ellisburg"
-        ],
+        "Woodville Road in Ellisburg",
         [
           "/wiki/Ellisburg_(town),_New_York"
         ]
       ],
       [
-        [
-          "NY 193"
-        ],
+        "NY 193",
         [
           "/wiki/NY_193"
         ]
@@ -156,52 +95,30 @@
     ],
     [
       [
-        [
-          "CR 121"
-        ],
-        [
-          null
-        ]
+        "CR 121",
+        []
       ],
       [
-        [
-          "4.28"
-        ],
-        [
-          null
-        ]
+        "4.28",
+        []
       ],
       [
-        [
-          "6.89"
-        ],
-        [
-          null
-        ]
+        "6.89",
+        []
       ],
       [
-        [
-          "NY 3",
-          "Ellisburg"
-        ],
+        "NY 3 in Ellisburg",
         [
           "/wiki/New_York_State_Route_3",
           "/wiki/Ellisburg_(town),_New_York"
         ]
       ],
       [
-        [
-          "Farm To Market Road"
-        ],
-        [
-          null
-        ]
+        "Farm To Market Road",
+        []
       ],
       [
-        [
-          "NY 193",
-          "Ellisburg village"
-        ],
+        "NY 193 in Ellisburg village",
         [
           "/wiki/NY_193",
           "/wiki/Ellisburg_(village),_New_York"
@@ -210,51 +127,32 @@
     ],
     [
       [
-        [
-          "CR 122"
-        ],
-        [
-          null
-        ]
+        "CR 122",
+        []
       ],
       [
-        [
-          "1.28"
-        ],
-        [
-          null
-        ]
+        "1.28",
+        []
       ],
       [
-        [
-          "2.06"
-        ],
-        [
-          null
-        ]
+        "2.06",
+        []
       ],
       [
-        [
-          "Oswego County",
-          "CR 22"
-        ],
+        "Oswego County line ( becomes CR 22 )",
         [
           "/wiki/Oswego_County,_New_York",
           "/wiki/County_Route_22_(Oswego_County,_New_York)"
         ]
       ],
       [
-        [
-          "Ellisburg"
-        ],
+        "Lacona Road in Ellisburg",
         [
           "/wiki/Ellisburg_(town),_New_York"
         ]
       ],
       [
-        [
-          "US 11"
-        ],
+        "US 11",
         [
           "/wiki/US_11_(NY)"
         ]
@@ -262,154 +160,89 @@
     ],
     [
       [
-        [
-          "CR 123"
-        ],
-        [
-          null
-        ]
+        "CR 123",
+        []
       ],
       [
-        [
-          "3.81"
-        ],
-        [
-          null
-        ]
+        "3.81",
+        []
       ],
       [
-        [
-          "6.13"
-        ],
-        [
-          null
-        ]
+        "6.13",
+        []
       ],
       [
-        [
-          "NY 3"
-        ],
+        "NY 3",
         [
           "/wiki/New_York_State_Route_3"
         ]
       ],
       [
-        [
-          "Henderson"
-        ],
+        "Harbor Road in Henderson",
         [
           "/wiki/Henderson,_New_York"
         ]
       ],
       [
-        [
-          "NY 3"
-        ],
-        [
-          null
-        ]
+        "NY 3",
+        []
       ]
     ],
     [
       [
-        [
-          "CR 125"
-        ],
-        [
-          null
-        ]
+        "CR 125",
+        []
       ],
       [
-        [
-          "6.76"
-        ],
-        [
-          null
-        ]
+        "6.76",
+        []
       ],
       [
-        [
-          "10.88"
-        ],
-        [
-          null
-        ]
+        "10.88",
+        []
       ],
       [
-        [
-          "NY 12E",
-          "Chaumont"
-        ],
+        "NY 12E in Chaumont",
         [
           "/wiki/NY_12E",
           "/wiki/Chaumont,_New_York"
         ]
       ],
       [
-        [
-          "Stone Street and Point Salubrious and Guffins Bay roads"
-        ],
-        [
-          null
-        ]
+        "Stone Street and Point Salubrious and Guffins Bay roads",
+        []
       ],
       [
-        [
-          "NY 12E in Chaumont"
-        ],
-        [
-          null
-        ]
+        "NY 12E in Chaumont",
+        []
       ]
     ],
     [
       [
-        [
-          "CR 128"
-        ],
-        [
-          null
-        ]
+        "CR 128",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "NY 180",
-          "Brownville"
-        ],
+        "NY 180 in Brownville",
         [
           "/wiki/NY_180",
           "/wiki/Brownville_(town),_New_York"
         ]
       ],
       [
-        [
-          "Fox Corners Road"
-        ],
-        [
-          null
-        ]
+        "Fox Corners Road",
+        []
       ],
       [
-        [
-          "NY 12",
-          "Clayton"
-        ],
+        "NY 12 in Clayton",
         [
           "/wiki/NY_12",
           "/wiki/Clayton_(town),_New_York"
@@ -418,49 +251,33 @@
     ],
     [
       [
-        [
-          "CR 129"
-        ],
+        "CR 129",
         [
           "/wiki/County_Route_129_(Jefferson_County,_New_York)"
         ]
       ],
       [
-        [
-          "0.37"
-        ],
-        [
-          null
-        ]
+        "0.37",
+        []
       ],
       [
-        [
-          "0.60"
-        ],
-        [
-          null
-        ]
+        "0.60",
+        []
       ],
       [
-        [
-          "NY 342"
-        ],
+        "NY 342",
         [
           "/wiki/NY_342"
         ]
       ],
       [
-        [
-          "Le Ray"
-        ],
+        "Le Ray Street Road in Le Ray",
         [
           "/wiki/Le_Ray,_New_York"
         ]
       ],
       [
-        [
-          "Black River"
-        ],
+        "Black River village line",
         [
           "/wiki/Black_River,_New_York"
         ]
@@ -468,99 +285,63 @@
     ],
     [
       [
-        [
-          "CR 136"
-        ],
+        "CR 136",
         [
           "/wiki/County_Route_136_(Jefferson_County,_New_York)"
         ]
       ],
       [
-        [
-          "1.82"
-        ],
-        [
-          null
-        ]
+        "1.82",
+        []
       ],
       [
-        [
-          "2.93"
-        ],
-        [
-          null
-        ]
+        "2.93",
+        []
       ],
       [
-        [
-          "NY 37"
-        ],
+        "NY 37",
         [
           "/wiki/NY_37"
         ]
       ],
       [
-        [
-          "Theresa"
-        ],
+        "Nobles Corner Road in Theresa",
         [
           "/wiki/Theresa_(town),_New_York"
         ]
       ],
       [
-        [
-          "CR 46"
-        ],
-        [
-          null
-        ]
+        "CR 46",
+        []
       ]
     ],
     [
       [
-        [
-          "CR 138"
-        ],
-        [
-          null
-        ]
+        "CR 138",
+        []
       ],
       [
-        [
-          "1.17"
-        ],
-        [
-          null
-        ]
+        "1.17",
+        []
       ],
       [
-        [
-          "1.88"
-        ],
-        [
-          null
-        ]
+        "1.88",
+        []
       ],
       [
-        [
-          "US 11"
-        ],
+        "US 11",
         [
           "/wiki/US_11_(NY)"
         ]
       ],
       [
-        [
-          "Le Ray"
-        ],
+        "Sanford Corners Road in Le Ray",
         [
           "/wiki/Le_Ray,_New_York"
         ]
       ],
       [
-        [
-          "NY 342"
-        ],
+        "NY 342",
         [
           "/wiki/NY_342"
         ]
@@ -568,51 +349,30 @@
     ],
     [
       [
-        [
-          "CR 143"
-        ],
-        [
-          null
-        ]
+        "CR 143",
+        []
       ],
       [
-        [
-          "3.34"
-        ],
-        [
-          null
-        ]
+        "3.34",
+        []
       ],
       [
-        [
-          "5.38"
-        ],
-        [
-          null
-        ]
+        "5.38",
+        []
       ],
       [
-        [
-          "NY 3",
-          "Rutland"
-        ],
+        "NY 3 in Rutland",
         [
           "/wiki/New_York_State_Route_3",
           "/wiki/Rutland,_New_York"
         ]
       ],
       [
-        [
-          "Applegate Road"
-        ],
-        [
-          null
-        ]
+        "Applegate Road",
+        []
       ],
       [
-        [
-          "Champion"
-        ],
+        "CR 47 in Champion",
         [
           "/wiki/Champion,_New_York"
         ]
@@ -620,99 +380,57 @@
     ],
     [
       [
-        [
-          "CR 144"
-        ],
-        [
-          null
-        ]
+        "CR 144",
+        []
       ],
       [
-        [
-          "1.88"
-        ],
-        [
-          null
-        ]
+        "1.88",
+        []
       ],
       [
-        [
-          "3.03"
-        ],
-        [
-          null
-        ]
+        "3.03",
+        []
       ],
       [
-        [
-          "CR 49"
-        ],
-        [
-          null
-        ]
+        "CR 49",
+        []
       ],
       [
-        [
-          "Rutland"
-        ],
+        "Staplin Road in Rutland",
         [
           "/wiki/Rutland,_New_York"
         ]
       ],
       [
-        [
-          "CR 143"
-        ],
-        [
-          null
-        ]
+        "CR 143",
+        []
       ]
     ],
     [
       [
-        [
-          "CR 145"
-        ],
-        [
-          null
-        ]
+        "CR 145",
+        []
       ],
       [
-        [
-          "1.41"
-        ],
-        [
-          null
-        ]
+        "1.41",
+        []
       ],
       [
-        [
-          "2.27"
-        ],
-        [
-          null
-        ]
+        "2.27",
+        []
       ],
       [
-        [
-          "Hounsfield"
-        ],
+        "CR 75 in Hounsfield",
         [
           "/wiki/Hounsfield,_New_York"
         ]
       ],
       [
-        [
-          "North Harbor Road"
-        ],
-        [
-          null
-        ]
+        "North Harbor Road",
+        []
       ],
       [
-        [
-          "Adams"
-        ],
+        "CR 66 in Adams",
         [
           "/wiki/Adams,_New_York"
         ]
@@ -720,99 +438,59 @@
     ],
     [
       [
-        [
-          "CR 152"
-        ],
-        [
-          null
-        ]
+        "CR 152",
+        []
       ],
       [
-        [
-          "5.97"
-        ],
-        [
-          null
-        ]
+        "5.97",
+        []
       ],
       [
-        [
-          "9.61"
-        ],
-        [
-          null
-        ]
+        "9.61",
+        []
       ],
       [
-        [
-          "NY 178"
-        ],
+        "NY 178",
         [
           "/wiki/NY_178"
         ]
       ],
       [
-        [
-          "Henderson"
-        ],
+        "Scotts Corners and Stony Creek roads in Henderson",
         [
           "/wiki/Henderson,_New_York"
         ]
       ],
       [
-        [
-          "NY 178"
-        ],
-        [
-          null
-        ]
+        "NY 178",
+        []
       ]
     ],
     [
       [
-        [
-          "CR 155"
-        ],
-        [
-          null
-        ]
+        "CR 155",
+        []
       ],
       [
-        [
-          "7.75"
-        ],
-        [
-          null
-        ]
+        "7.75",
+        []
       ],
       [
-        [
-          "12.47"
-        ],
-        [
-          null
-        ]
+        "12.47",
+        []
       ],
       [
-        [
-          "Rodman"
-        ],
+        "CR 69 in Rodman",
         [
           "/wiki/Rodman,_New_York"
         ]
       ],
       [
-        [
-          "Toad Hollow and Dry Hill roads"
-        ],
-        [
-          null
-        ]
+        "Toad Hollow and Dry Hill roads",
+        []
       ],
       [
-        [
-          "Watertown"
-        ],
+        "CR 165 in Watertown",
         [
           "/wiki/Watertown_(town),_New_York"
         ]
@@ -820,35 +498,19 @@
     ],
     [
       [
-        [
-          "CR 156"
-        ],
-        [
-          null
-        ]
+        "CR 156",
+        []
       ],
       [
-        [
-          "6.44"
-        ],
-        [
-          null
-        ]
+        "6.44",
+        []
       ],
       [
-        [
-          "10.36"
-        ],
-        [
-          null
-        ]
+        "10.36",
+        []
       ],
       [
-        [
-          "Lewis County",
-          "Rodman",
-          "CR 21"
-        ],
+        "Lewis County line in Rodman ( becomes CR 21 )",
         [
           "/wiki/Lewis_County,_New_York",
           "/wiki/Rodman,_New_York",
@@ -856,18 +518,11 @@
         ]
       ],
       [
-        [
-          "Blackstone Hill and Plank roads"
-        ],
-        [
-          null
-        ]
+        "Blackstone Hill and Plank roads",
+        []
       ],
       [
-        [
-          "NY 12",
-          "Watertown"
-        ],
+        "NY 12 in Watertown",
         [
           "/wiki/NY_12",
           "/wiki/Watertown_(town),_New_York"
@@ -876,49 +531,31 @@
     ],
     [
       [
-        [
-          "CR 159"
-        ],
-        [
-          null
-        ]
+        "CR 159",
+        []
       ],
       [
-        [
-          "1.10"
-        ],
-        [
-          null
-        ]
+        "1.10",
+        []
       ],
       [
-        [
-          "1.77"
-        ],
-        [
-          null
-        ]
+        "1.77",
+        []
       ],
       [
-        [
-          "NY 12"
-        ],
+        "NY 12",
         [
           "/wiki/NY_12"
         ]
       ],
       [
-        [
-          "Watertown"
-        ],
+        "Gotham Street Road in Watertown",
         [
           "/wiki/Watertown_(town),_New_York"
         ]
       ],
       [
-        [
-          "Watertown city"
-        ],
+        "Watertown city line",
         [
           "/wiki/Watertown_(city),_New_York"
         ]
@@ -926,51 +563,30 @@
     ],
     [
       [
-        [
-          "CR 160"
-        ],
-        [
-          null
-        ]
+        "CR 160",
+        []
       ],
       [
-        [
-          "3.80"
-        ],
-        [
-          null
-        ]
+        "3.80",
+        []
       ],
       [
-        [
-          "6.12"
-        ],
-        [
-          null
-        ]
+        "6.12",
+        []
       ],
       [
-        [
-          "NY 126",
-          "Watertown"
-        ],
+        "NY 126 in Watertown",
         [
           "/wiki/NY_126",
           "/wiki/Watertown_(town),_New_York"
         ]
       ],
       [
-        [
-          "Middle Road"
-        ],
-        [
-          null
-        ]
+        "Middle Road",
+        []
       ],
       [
-        [
-          "Rutland"
-        ],
+        "CR 161 in Rutland",
         [
           "/wiki/Rutland,_New_York"
         ]
@@ -978,99 +594,59 @@
     ],
     [
       [
-        [
-          "CR 161"
-        ],
-        [
-          null
-        ]
+        "CR 161",
+        []
       ],
       [
-        [
-          "2.74"
-        ],
-        [
-          null
-        ]
+        "2.74",
+        []
       ],
       [
-        [
-          "4.41"
-        ],
-        [
-          null
-        ]
+        "4.41",
+        []
       ],
       [
-        [
-          "CR 69"
-        ],
-        [
-          null
-        ]
+        "CR 69",
+        []
       ],
       [
-        [
-          "Rutland"
-        ],
+        "Tylerville and Eames Corners roads in Rutland",
         [
           "/wiki/Rutland,_New_York"
         ]
       ],
       [
-        [
-          "CR 160"
-        ],
-        [
-          null
-        ]
+        "CR 160",
+        []
       ]
     ],
     [
       [
-        [
-          "CR 162"
-        ],
-        [
-          null
-        ]
+        "CR 162",
+        []
       ],
       [
-        [
-          "2.21"
-        ],
-        [
-          null
-        ]
+        "2.21",
+        []
       ],
       [
-        [
-          "3.56"
-        ],
-        [
-          null
-        ]
+        "3.56",
+        []
       ],
       [
-        [
-          "NY 12"
-        ],
+        "NY 12",
         [
           "/wiki/NY_12"
         ]
       ],
       [
-        [
-          "Rutland"
-        ],
+        "Community Drive So in Rutland",
         [
           "/wiki/Rutland,_New_York"
         ]
       ],
       [
-        [
-          "NY 126"
-        ],
+        "NY 126",
         [
           "/wiki/NY_126"
         ]

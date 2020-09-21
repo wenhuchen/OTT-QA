@@ -3,52 +3,34 @@
   "title": "League of Ireland",
   "header": [
     [
-      [
-        "Team"
-      ],
-      [
-        null
-      ]
+      "Team",
+      []
     ],
     [
-      [
-        "Home town/suburb"
-      ],
-      [
-        null
-      ]
+      "Home town/suburb",
+      []
     ],
     [
-      [
-        "Home ground"
-      ],
-      [
-        null
-      ]
+      "Home ground",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Albert Rovers"
-        ],
+        "Albert Rovers",
         [
           "/wiki/Albert_Rovers_F.C."
         ]
       ],
       [
-        [
-          "Cork"
-        ],
+        "Cork",
         [
           "/wiki/Cork_(city)"
         ]
       ],
       [
-        [
-          "Flower Lodge"
-        ],
+        "Flower Lodge",
         [
           "/wiki/Flower_Lodge"
         ]
@@ -56,25 +38,19 @@
     ],
     [
       [
-        [
-          "Bray Unknowns"
-        ],
+        "Bray Unknowns",
         [
           "/wiki/Bray_Unknowns_F.C."
         ]
       ],
       [
-        [
-          "Bray"
-        ],
+        "Bray",
         [
           "/wiki/Bray,_County_Wicklow"
         ]
       ],
       [
-        [
-          "Carlisle Grounds"
-        ],
+        "Carlisle Grounds",
         [
           "/wiki/Carlisle_Grounds"
         ]
@@ -82,26 +58,19 @@
     ],
     [
       [
-        [
-          "Brideville"
-        ],
+        "Brideville",
         [
           "/wiki/Brideville_F.C."
         ]
       ],
       [
-        [
-          "The Liberties , Dublin"
-        ],
+        "The Liberties , Dublin",
         [
           "/wiki/The_Liberties,_Dublin"
         ]
       ],
       [
-        [
-          "Richmond Park",
-          "Harold 's Cross Stadium"
-        ],
+        "Richmond Park Harold 's Cross Stadium",
         [
           "/wiki/Richmond_Park_(football_ground)",
           "/wiki/Harold's_Cross_Stadium"
@@ -110,51 +79,37 @@
     ],
     [
       [
-        [
-          "Brooklyn"
-        ],
+        "Brooklyn",
         [
           "/wiki/Brooklyn_F.C._(Dublin)"
         ]
       ],
       [
-        [
-          "Merchants Quay"
-        ],
+        "Merchants Quay",
         [
           "/wiki/Merchants_Quay"
         ]
       ],
       [
-        [
-          "Chalgrove Terrace"
-        ],
-        [
-          null
-        ]
+        "Chalgrove Terrace",
+        []
       ]
     ],
     [
       [
-        [
-          "Cork"
-        ],
+        "Cork",
         [
           "/wiki/Cork_F.C."
         ]
       ],
       [
-        [
-          "Cork"
-        ],
+        "Cork",
         [
           "/wiki/Cork_(city)"
         ]
       ],
       [
-        [
-          "The Mardyke"
-        ],
+        "The Mardyke",
         [
           "/wiki/Mardyke_(UCC)"
         ]
@@ -162,25 +117,19 @@
     ],
     [
       [
-        [
-          "Cork City"
-        ],
+        "Cork City",
         [
           "/wiki/Cork_City_F.C._(1938\u20131940)"
         ]
       ],
       [
-        [
-          "Cork"
-        ],
+        "Cork",
         [
           "/wiki/Cork_(city)"
         ]
       ],
       [
-        [
-          "The Mardyke"
-        ],
+        "The Mardyke",
         [
           "/wiki/Mardyke_(UCC)"
         ]
@@ -188,26 +137,19 @@
     ],
     [
       [
-        [
-          "Cork Alberts"
-        ],
+        "Cork Alberts",
         [
           "/wiki/Cork_Alberts_F.C."
         ]
       ],
       [
-        [
-          "Cork"
-        ],
+        "Cork",
         [
           "/wiki/Cork_(city)"
         ]
       ],
       [
-        [
-          "Flower Lodge",
-          "Turners Cross"
-        ],
+        "Flower Lodge Turners Cross",
         [
           "/wiki/Flower_Lodge",
           "/wiki/Turners_Cross_(stadium)"
@@ -216,25 +158,19 @@
     ],
     [
       [
-        [
-          "Cork Athletic"
-        ],
+        "Cork Athletic",
         [
           "/wiki/Cork_Athletic_F.C."
         ]
       ],
       [
-        [
-          "Cork"
-        ],
+        "Cork",
         [
           "/wiki/Cork_(city)"
         ]
       ],
       [
-        [
-          "The Mardyke"
-        ],
+        "The Mardyke",
         [
           "/wiki/Mardyke_(UCC)"
         ]
@@ -242,25 +178,19 @@
     ],
     [
       [
-        [
-          "Cork Bohemians"
-        ],
+        "Cork Bohemians",
         [
           "/wiki/Cork_Bohemians_F.C."
         ]
       ],
       [
-        [
-          "Cork"
-        ],
+        "Cork",
         [
           "/wiki/Cork_(city)"
         ]
       ],
       [
-        [
-          "Turners Cross"
-        ],
+        "Turners Cross",
         [
           "/wiki/Turners_Cross_(stadium)"
         ]
@@ -268,25 +198,19 @@
     ],
     [
       [
-        [
-          "Cork Celtic"
-        ],
+        "Cork Celtic",
         [
           "/wiki/Cork_Celtic_F.C."
         ]
       ],
       [
-        [
-          "Cork"
-        ],
+        "Cork",
         [
           "/wiki/Cork_(city)"
         ]
       ],
       [
-        [
-          "Turners Cross"
-        ],
+        "Turners Cross",
         [
           "/wiki/Turners_Cross_(stadium)"
         ]
@@ -294,25 +218,19 @@
     ],
     [
       [
-        [
-          "Cork Hibernians"
-        ],
+        "Cork Hibernians",
         [
           "/wiki/Cork_Hibernians_F.C."
         ]
       ],
       [
-        [
-          "Cork"
-        ],
+        "Cork",
         [
           "/wiki/Cork_(city)"
         ]
       ],
       [
-        [
-          "The Mardyke"
-        ],
+        "The Mardyke",
         [
           "/wiki/Mardyke_(UCC)"
         ]
@@ -320,25 +238,19 @@
     ],
     [
       [
-        [
-          "Cork United"
-        ],
+        "Cork United",
         [
           "/wiki/Cork_United_F.C._(1940\u20131948)"
         ]
       ],
       [
-        [
-          "Cork"
-        ],
+        "Cork",
         [
           "/wiki/Cork_(city)"
         ]
       ],
       [
-        [
-          "The Mardyke"
-        ],
+        "The Mardyke",
         [
           "/wiki/Mardyke_(UCC)"
         ]
@@ -346,26 +258,19 @@
     ],
     [
       [
-        [
-          "Dolphin"
-        ],
+        "Dolphin",
         [
           "/wiki/Dolphin_F.C._(Dublin)"
         ]
       ],
       [
-        [
-          "Dolphin 's Barn"
-        ],
+        "Dolphin 's Barn",
         [
           "/wiki/Dolphin's_Barn"
         ]
       ],
       [
-        [
-          "Harold 's Cross Stadium",
-          "Tolka Park"
-        ],
+        "Dolphin Park Harold 's Cross Stadium Tolka Park",
         [
           "/wiki/Harold's_Cross_Stadium",
           "/wiki/Tolka_Park"
@@ -374,25 +279,19 @@
     ],
     [
       [
-        [
-          "Drumcondra"
-        ],
+        "Drumcondra",
         [
           "/wiki/Drumcondra_F.C."
         ]
       ],
       [
-        [
-          "Drumcondra , Dublin"
-        ],
+        "Drumcondra , Dublin",
         [
           "/wiki/Drumcondra,_Dublin"
         ]
       ],
       [
-        [
-          "Tolka Park"
-        ],
+        "Tolka Park",
         [
           "/wiki/Tolka_Park"
         ]
@@ -400,51 +299,37 @@
     ],
     [
       [
-        [
-          "Dublin City"
-        ],
+        "Dublin City",
         [
           "/wiki/Dublin_City_F.C."
         ]
       ],
       [
-        [
-          "Fingal"
-        ],
+        "Fingal",
         [
           "/wiki/Fingal"
         ]
       ],
       [
-        [
-          "various"
-        ],
-        [
-          null
-        ]
+        "various",
+        []
       ]
     ],
     [
       [
-        [
-          "Dublin United"
-        ],
+        "Dublin United",
         [
           "/wiki/Dublin_United_F.C."
         ]
       ],
       [
-        [
-          "Donnybrook , Dublin"
-        ],
+        "Donnybrook , Dublin",
         [
           "/wiki/Donnybrook,_Dublin"
         ]
       ],
       [
-        [
-          "Anglesea Road"
-        ],
+        "Beech Hill Anglesea Road",
         [
           "/wiki/Anglesea_Road"
         ]
@@ -452,25 +337,19 @@
     ],
     [
       [
-        [
-          "Evergreen United"
-        ],
+        "Evergreen United",
         [
           "/wiki/Evergreen_United_F.C."
         ]
       ],
       [
-        [
-          "Cork"
-        ],
+        "Cork",
         [
           "/wiki/Cork_(city)"
         ]
       ],
       [
-        [
-          "Turners Cross"
-        ],
+        "Turners Cross",
         [
           "/wiki/Turners_Cross_(stadium)"
         ]
@@ -478,77 +357,55 @@
     ],
     [
       [
-        [
-          "Fordsons"
-        ],
+        "Fordsons",
         [
           "/wiki/Fordsons_F.C."
         ]
       ],
       [
-        [
-          "Cork"
-        ],
+        "Cork",
         [
           "/wiki/Cork_(city)"
         ]
       ],
       [
-        [
-          "Ballinlough Road"
-        ],
-        [
-          null
-        ]
+        "Ballinlough Road",
+        []
       ]
     ],
     [
       [
-        [
-          "Frankfort"
-        ],
+        "Frankfort",
         [
           "/wiki/Frankfort_F.C."
         ]
       ],
       [
-        [
-          "Drumcondra , Dublin"
-        ],
+        "Drumcondra , Dublin",
         [
           "/wiki/Drumcondra,_Dublin"
         ]
       ],
       [
-        [
-          "Richmond Road"
-        ],
-        [
-          null
-        ]
+        "Richmond Road",
+        []
       ]
     ],
     [
       [
-        [
-          "Home Farm"
-        ],
+        "Home Farm",
         [
           "/wiki/Home_Farm_F.C."
         ]
       ],
       [
-        [
-          "Whitehall , Dublin"
-        ],
+        "Whitehall , Dublin",
         [
           "/wiki/Whitehall,_Dublin"
         ]
       ],
       [
-        [
-          "Tolka Park"
-        ],
+        "Tolka Park",
         [
           "/wiki/Tolka_Park"
         ]

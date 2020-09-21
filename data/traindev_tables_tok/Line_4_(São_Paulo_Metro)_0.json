@@ -3,95 +3,54 @@
   "title": "Line 4 (S\u00e3o Paulo Metro)",
   "header": [
     [
-      [
-        "Code"
-      ],
-      [
-        null
-      ]
+      "Code",
+      []
     ],
     [
-      [
-        "Station"
-      ],
-      [
-        null
-      ]
+      "Station",
+      []
     ],
     [
-      [
-        "Platforms"
-      ],
-      [
-        null
-      ]
+      "Platforms",
+      []
     ],
     [
-      [
-        "Position"
-      ],
-      [
-        null
-      ]
+      "Position",
+      []
     ],
     [
-      [
-        "Connections"
-      ],
-      [
-        null
-      ]
+      "Connections",
+      []
     ],
     [
-      [
-        "District"
-      ],
-      [
-        null
-      ]
+      "District",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "LUZ"
-        ],
-        [
-          null
-        ]
+        "LUZ",
+        []
       ],
       [
-        [
-          "Luz"
-        ],
+        "Luz",
         [
           "/wiki/Luz_(S\u00e3o_Paulo_Metro)"
         ]
       ],
       [
-        [
-          "Side platforms"
-        ],
+        "Side platforms",
         [
           "/wiki/Side_platform"
         ]
       ],
       [
-        [
-          "Underground"
-        ],
-        [
-          null
-        ]
+        "Underground",
+        []
       ],
       [
-        [
-          "1",
-          "7",
-          "11",
-          "13"
-        ],
+        "1 7 11 13 ( Airport-Express )",
         [
           "/wiki/Line_1_(S\u00e3o_Paulo_Metro)",
           "/wiki/Line_7_(CPTM)",
@@ -100,9 +59,7 @@
         ]
       ],
       [
-        [
-          "Bom Retiro"
-        ],
+        "Bom Retiro",
         [
           "/wiki/Bom_Retiro_(district_of_S\u00e3o_Paulo)"
         ]
@@ -110,49 +67,33 @@
     ],
     [
       [
-        [
-          "REP"
-        ],
-        [
-          null
-        ]
+        "REP",
+        []
       ],
       [
-        [
-          "Rep\u00fablica"
-        ],
+        "Rep\u00fablica",
         [
           "/wiki/Rep\u00fablica_(S\u00e3o_Paulo_Metro)"
         ]
       ],
       [
-        [
-          "Side platforms"
-        ],
+        "Side platforms",
         [
           "/wiki/Side_platform"
         ]
       ],
       [
-        [
-          "Underground"
-        ],
-        [
-          null
-        ]
+        "Underground",
+        []
       ],
       [
-        [
-          "3"
-        ],
+        "3",
         [
           "/wiki/Line_3_(S\u00e3o_Paulo_Metro)"
         ]
       ],
       [
-        [
-          "Rep\u00fablica"
-        ],
+        "Rep\u00fablica",
         [
           "/wiki/Rep\u00fablica_(district_of_S\u00e3o_Paulo)"
         ]
@@ -160,49 +101,33 @@
     ],
     [
       [
-        [
-          "HIG"
-        ],
-        [
-          null
-        ]
+        "HIG",
+        []
       ],
       [
-        [
-          "Higien\u00f3polis-Mackenzie"
-        ],
+        "Higien\u00f3polis-Mackenzie",
         [
           "/wiki/Higien\u00f3polis-Mackenzie_(S\u00e3o_Paulo_Metro)"
         ]
       ],
       [
-        [
-          "Side platforms"
-        ],
+        "Side platforms",
         [
           "/wiki/Side_platform"
         ]
       ],
       [
-        [
-          "Underground"
-        ],
-        [
-          null
-        ]
+        "Underground",
+        []
       ],
       [
-        [
-          "6"
-        ],
+        "6 ( Future )",
         [
           "/wiki/Line_6_(S\u00e3o_Paulo_Metro)"
         ]
       ],
       [
-        [
-          "Consola\u00e7\u00e3o"
-        ],
+        "Consola\u00e7\u00e3o",
         [
           "/wiki/Consola\u00e7\u00e3o_(district_of_S\u00e3o_Paulo)"
         ]
@@ -210,49 +135,33 @@
     ],
     [
       [
-        [
-          "PTA"
-        ],
-        [
-          null
-        ]
+        "PTA",
+        []
       ],
       [
-        [
-          "Paulista"
-        ],
+        "Paulista",
         [
           "/wiki/Paulista_(S\u00e3o_Paulo_Metro)"
         ]
       ],
       [
-        [
-          "Side platforms"
-        ],
+        "Side platforms",
         [
           "/wiki/Side_platform"
         ]
       ],
       [
-        [
-          "Underground"
-        ],
-        [
-          null
-        ]
+        "Underground",
+        []
       ],
       [
-        [
-          "2"
-        ],
+        "2",
         [
           "/wiki/Line_2_(S\u00e3o_Paulo_Metro)"
         ]
       ],
       [
-        [
-          "Consola\u00e7\u00e3o"
-        ],
+        "Consola\u00e7\u00e3o",
         [
           "/wiki/Consola\u00e7\u00e3o_(district_of_S\u00e3o_Paulo)"
         ]
@@ -260,49 +169,31 @@
     ],
     [
       [
-        [
-          "FRE"
-        ],
-        [
-          null
-        ]
+        "FRE",
+        []
       ],
       [
-        [
-          "Oscar Freire"
-        ],
+        "Oscar Freire",
         [
           "/wiki/Oscar_Freire_(S\u00e3o_Paulo_Metro)"
         ]
       ],
       [
-        [
-          "Side platforms"
-        ],
+        "Side platforms",
         [
           "/wiki/Side_platform"
         ]
       ],
       [
-        [
-          "Underground"
-        ],
-        [
-          null
-        ]
+        "Underground",
+        []
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "Jardim Paulista"
-        ],
+        "Jardim Paulista",
         [
           "/wiki/Jardim_Paulista_(district_of_S\u00e3o_Paulo)"
         ]
@@ -310,49 +201,31 @@
     ],
     [
       [
-        [
-          "FRA"
-        ],
-        [
-          null
-        ]
+        "FRA",
+        []
       ],
       [
-        [
-          "Fradique Coutinho"
-        ],
+        "Fradique Coutinho",
         [
           "/wiki/Fradique_Coutinho_(S\u00e3o_Paulo_Metro)"
         ]
       ],
       [
-        [
-          "Side platforms"
-        ],
+        "Side platforms",
         [
           "/wiki/Side_platform"
         ]
       ],
       [
-        [
-          "Underground"
-        ],
-        [
-          null
-        ]
+        "Underground",
+        []
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "Pinheiros"
-        ],
+        "Pinheiros",
         [
           "/wiki/Pinheiros_(district_of_S\u00e3o_Paulo)"
         ]
@@ -360,49 +233,33 @@
     ],
     [
       [
-        [
-          "FAL"
-        ],
-        [
-          null
-        ]
+        "FAL",
+        []
       ],
       [
-        [
-          "Faria Lima"
-        ],
+        "Faria Lima",
         [
           "/wiki/Faria_Lima_(S\u00e3o_Paulo_Metro)"
         ]
       ],
       [
-        [
-          "Side platforms"
-        ],
+        "Side platforms",
         [
           "/wiki/Side_platform"
         ]
       ],
       [
-        [
-          "Underground"
-        ],
-        [
-          null
-        ]
+        "Underground",
+        []
       ],
       [
-        [
-          "20"
-        ],
+        "Largo da Batata Bus Terminal 20 ( Planned )",
         [
           "/wiki/Line_20_(S\u00e3o_Paulo_Metro)"
         ]
       ],
       [
-        [
-          "Pinheiros"
-        ],
+        "Pinheiros",
         [
           "/wiki/Pinheiros_(district_of_S\u00e3o_Paulo)"
         ]
@@ -410,49 +267,33 @@
     ],
     [
       [
-        [
-          "PIN"
-        ],
-        [
-          null
-        ]
+        "PIN",
+        []
       ],
       [
-        [
-          "Pinheiros"
-        ],
+        "Pinheiros",
         [
           "/wiki/Pinheiros_(S\u00e3o_Paulo_Metro)"
         ]
       ],
       [
-        [
-          "Side platforms"
-        ],
+        "Side platforms",
         [
           "/wiki/Side_platform"
         ]
       ],
       [
-        [
-          "Underground"
-        ],
-        [
-          null
-        ]
+        "Underground",
+        []
       ],
       [
-        [
-          "9"
-        ],
+        "Pinheiros Bus Terminal 9",
         [
           "/wiki/Line_9_(CPTM)"
         ]
       ],
       [
-        [
-          "Pinheiros"
-        ],
+        "Pinheiros",
         [
           "/wiki/Pinheiros_(district_of_S\u00e3o_Paulo)"
         ]
@@ -460,49 +301,33 @@
     ],
     [
       [
-        [
-          "BUT"
-        ],
-        [
-          null
-        ]
+        "BUT",
+        []
       ],
       [
-        [
-          "Butant\u00e3"
-        ],
+        "Butant\u00e3",
         [
           "/wiki/Butant\u00e3_(S\u00e3o_Paulo_Metro)"
         ]
       ],
       [
-        [
-          "Side platforms"
-        ],
+        "Side platforms",
         [
           "/wiki/Side_platform"
         ]
       ],
       [
-        [
-          "Underground"
-        ],
-        [
-          null
-        ]
+        "Underground",
+        []
       ],
       [
-        [
-          "Itapevi-Butant\u00e3 Metropolitan Corridor"
-        ],
+        "Butant\u00e3 Bus Terminal Itapevi-Butant\u00e3 Metropolitan Corridor",
         [
           "/wiki/Itapevi\u2013Butant\u00e3_Metropolitan_Corridor"
         ]
       ],
       [
-        [
-          "Butant\u00e3"
-        ],
+        "Butant\u00e3",
         [
           "/wiki/Butant\u00e3_(district_of_S\u00e3o_Paulo)"
         ]
@@ -510,49 +335,33 @@
     ],
     [
       [
-        [
-          "MBI"
-        ],
-        [
-          null
-        ]
+        "MBI",
+        []
       ],
       [
-        [
-          "S\u00e3o Paulo-Morumbi"
-        ],
+        "S\u00e3o Paulo-Morumbi",
         [
           "/wiki/S\u00e3o_Paulo-Morumbi_(S\u00e3o_Paulo_Metro)"
         ]
       ],
       [
-        [
-          "Side platforms"
-        ],
+        "Side platforms",
         [
           "/wiki/Side_platform"
         ]
       ],
       [
-        [
-          "Underground"
-        ],
-        [
-          null
-        ]
+        "Underground",
+        []
       ],
       [
-        [
-          "17"
-        ],
+        "Morumbi Bus Terminal 17 ( Planned )",
         [
           "/wiki/Line_17_(S\u00e3o_Paulo_Metro)"
         ]
       ],
       [
-        [
-          "Morumbi"
-        ],
+        "Morumbi",
         [
           "/wiki/Morumbi_(district_of_S\u00e3o_Paulo)"
         ]
@@ -560,49 +369,31 @@
     ],
     [
       [
-        [
-          "VSO"
-        ],
-        [
-          null
-        ]
+        "VSO",
+        []
       ],
       [
-        [
-          "Vila S\u00f4nia"
-        ],
+        "Vila S\u00f4nia",
         [
           "/wiki/Vila_S\u00f4nia_(S\u00e3o_Paulo_Metro)"
         ]
       ],
       [
-        [
-          "Side platforms"
-        ],
+        "Side platforms",
         [
           "/wiki/Side_platform"
         ]
       ],
       [
-        [
-          "Underground"
-        ],
-        [
-          null
-        ]
+        "Underground",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "Vila S\u00f4nia Bus Terminal ( Future )",
+        []
       ],
       [
-        [
-          "Vila S\u00f4nia"
-        ],
+        "Vila S\u00f4nia",
         [
           "/wiki/Vila_S\u00f4nia"
         ]

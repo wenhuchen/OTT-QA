@@ -3,41 +3,27 @@
   "title": "Human blood group systems",
   "header": [
     [
-      [
-        "ISBT"
-      ],
+      "ISBT No",
       [
         "/wiki/International_Society_of_Blood_Transfusion"
       ]
     ],
     [
-      [
-        "System name"
-      ],
-      [
-        null
-      ]
+      "System name",
+      []
     ],
     [
-      [
-        "System symbol"
-      ],
-      [
-        null
-      ]
+      "System symbol",
+      []
     ],
     [
-      [
-        "Epitope"
-      ],
+      "Epitope or carrier , notes",
       [
         "/wiki/Epitope"
       ]
     ],
     [
-      [
-        "Chromosome"
-      ],
+      "Chromosome",
       [
         "/wiki/Chromosome"
       ]
@@ -46,36 +32,21 @@
   "data": [
     [
       [
-        [
-          "001"
-        ],
-        [
-          null
-        ]
+        "001",
+        []
       ],
       [
-        [
-          "ABO"
-        ],
+        "ABO",
         [
           "/wiki/ABO_blood_group_system"
         ]
       ],
       [
-        [
-          "ABO"
-        ],
-        [
-          null
-        ]
+        "ABO",
+        []
       ],
       [
-        [
-          "N-Acetylgalactosamine",
-          "galactose",
-          "IgM",
-          "Hh antigen system"
-        ],
+        "Carbohydrate ( N-Acetylgalactosamine , galactose ) . A , B and H antigens mainly elicit IgM antibody reactions , although anti-H is very rare , see the Hh antigen system ( Bombay phenotype , ISBT # 18 )",
         [
           "/wiki/N-Acetylgalactosamine",
           "/wiki/Galactose",
@@ -84,9 +55,7 @@
         ]
       ],
       [
-        [
-          "9q34.2"
-        ],
+        "9q34.2",
         [
           "/wiki/Chromosome_9"
         ]
@@ -94,41 +63,27 @@
     ],
     [
       [
-        [
-          "002"
-        ],
-        [
-          null
-        ]
+        "002",
+        []
       ],
       [
-        [
-          "MNS"
-        ],
+        "MNS",
         [
           "/wiki/MNS_antigen_system"
         ]
       ],
       [
-        [
-          "MNS"
-        ],
-        [
-          null
-        ]
+        "MNS",
+        []
       ],
       [
-        [
-          "glycophorins"
-        ],
+        "GPA / GPB ( glycophorins A and B ) . Main antigens M , N , S , s",
         [
           "/wiki/Glycophorin"
         ]
       ],
       [
-        [
-          "4q31.21"
-        ],
+        "4q31.21",
         [
           "/wiki/Chromosome_4"
         ]
@@ -136,41 +91,27 @@
     ],
     [
       [
-        [
-          "003"
-        ],
-        [
-          null
-        ]
+        "003",
+        []
       ],
       [
-        [
-          "P"
-        ],
+        "P",
         [
           "/wiki/P_antigen_system"
         ]
       ],
       [
-        [
-          "P"
-        ],
-        [
-          null
-        ]
+        "P",
+        []
       ],
       [
-        [
-          "Glycolipid"
-        ],
+        "Glycolipid . Three antigens : P 1 , P , and P",
         [
           "/wiki/Glycolipid"
         ]
       ],
       [
-        [
-          "22q13.2"
-        ],
+        "22q13.2",
         [
           "/wiki/Chromosome_22"
         ]
@@ -178,41 +119,25 @@
     ],
     [
       [
-        [
-          "004"
-        ],
-        [
-          null
-        ]
+        "004",
+        []
       ],
       [
-        [
-          "Rh"
-        ],
+        "Rh",
         [
           "/wiki/Rh_blood_group_system"
         ]
       ],
       [
-        [
-          "RH"
-        ],
-        [
-          null
-        ]
+        "RH",
+        []
       ],
       [
-        [
-          "Protein . C , c , D , E , e antigens ( there is no d antigen ; lowercase d indicates the absence of D )"
-        ],
-        [
-          null
-        ]
+        "Protein . C , c , D , E , e antigens ( there is no d antigen ; lowercase d indicates the absence of D )",
+        []
       ],
       [
-        [
-          "1p36.11"
-        ],
+        "1p36.11",
         [
           "/wiki/Chromosome_1"
         ]
@@ -220,41 +145,27 @@
     ],
     [
       [
-        [
-          "005"
-        ],
-        [
-          null
-        ]
+        "005",
+        []
       ],
       [
-        [
-          "Lutheran"
-        ],
+        "Lutheran",
         [
           "/wiki/Lutheran_antigen_system"
         ]
       ],
       [
-        [
-          "LU"
-        ],
-        [
-          null
-        ]
+        "LU",
+        []
       ],
       [
-        [
-          "immunoglobulin superfamily"
-        ],
+        "Protein ( member of the immunoglobulin superfamily ) . Set of 21 antigens",
         [
           "/wiki/Immunoglobulin_superfamily"
         ]
       ],
       [
-        [
-          "19q13.32"
-        ],
+        "19q13.32",
         [
           "/wiki/Chromosome_19"
         ]
@@ -262,41 +173,27 @@
     ],
     [
       [
-        [
-          "006"
-        ],
-        [
-          null
-        ]
+        "006",
+        []
       ],
       [
-        [
-          "Kell"
-        ],
+        "Kell",
         [
           "/wiki/Kell_antigen_system"
         ]
       ],
       [
-        [
-          "KEL"
-        ],
-        [
-          null
-        ]
+        "KEL",
+        []
       ],
       [
-        [
-          "hemolytic disease of the newborn ( anti-Kell )"
-        ],
+        "Glycoprotein . K 1 can cause hemolytic disease of the newborn ( anti-Kell ) , which can be severe",
         [
           "/wiki/Hemolytic_disease_of_the_newborn_(anti-Kell)"
         ]
       ],
       [
-        [
-          "7q34"
-        ],
+        "7q34",
         [
           "/wiki/Chromosome_7"
         ]
@@ -304,41 +201,27 @@
     ],
     [
       [
-        [
-          "007"
-        ],
-        [
-          null
-        ]
+        "007",
+        []
       ],
       [
-        [
-          "Lewis"
-        ],
+        "Lewis",
         [
           "/wiki/Lewis_antigen_system"
         ]
       ],
       [
-        [
-          "LE"
-        ],
-        [
-          null
-        ]
+        "LE",
+        []
       ],
       [
-        [
-          "fucose"
-        ],
+        "Carbohydrate ( fucose residue ) . Main antigens Le and Le - associated with tissue ABH antigen secretion",
         [
           "/wiki/Fucose"
         ]
       ],
       [
-        [
-          "19p13.3"
-        ],
+        "19p13.3",
         [
           "/wiki/Chromosome_19"
         ]
@@ -346,36 +229,21 @@
     ],
     [
       [
-        [
-          "008"
-        ],
-        [
-          null
-        ]
+        "008",
+        []
       ],
       [
-        [
-          "Duffy"
-        ],
+        "Duffy",
         [
           "/wiki/Duffy_antigen_system"
         ]
       ],
       [
-        [
-          "FY"
-        ],
-        [
-          null
-        ]
+        "FY",
+        []
       ],
       [
-        [
-          "chemokine receptor",
-          "malaria",
-          "Plasmodium vivax",
-          "Plasmodium knowlesi"
-        ],
+        "Protein ( chemokine receptor ) . Main antigens Fy and Fy . Individuals lacking Duffy antigens altogether are immune to malaria caused by Plasmodium vivax and Plasmodium knowlesi",
         [
           "/wiki/Chemokine_receptor",
           "/wiki/Malaria",
@@ -384,9 +252,7 @@
         ]
       ],
       [
-        [
-          "1q23.2"
-        ],
+        "1q23.2",
         [
           "/wiki/Chromosome_1"
         ]
@@ -394,41 +260,25 @@
     ],
     [
       [
-        [
-          "009"
-        ],
-        [
-          null
-        ]
+        "009",
+        []
       ],
       [
-        [
-          "Kidd"
-        ],
+        "Kidd",
         [
           "/wiki/Kidd_antigen_system"
         ]
       ],
       [
-        [
-          "JK"
-        ],
-        [
-          null
-        ]
+        "JK",
+        []
       ],
       [
-        [
-          "Protein ( urea transporter ) . Main antigens Jk and Jk"
-        ],
-        [
-          null
-        ]
+        "Protein ( urea transporter ) . Main antigens Jk and Jk",
+        []
       ],
       [
-        [
-          "18q12.3"
-        ],
+        "18q12.3",
         [
           "/wiki/Chromosome_18"
         ]
@@ -436,35 +286,21 @@
     ],
     [
       [
-        [
-          "010"
-        ],
-        [
-          null
-        ]
+        "010",
+        []
       ],
       [
-        [
-          "Diego"
-        ],
+        "Diego",
         [
           "/wiki/Diego_antigen_system"
         ]
       ],
       [
-        [
-          "DI"
-        ],
-        [
-          null
-        ]
+        "DI",
+        []
       ],
       [
-        [
-          "band 3",
-          "East Asians",
-          "Native Americans"
-        ],
+        "Glycoprotein ( band 3 , AE 1 , or anion exchange ) . Positive blood is found only among East Asians and Native Americans",
         [
           "/wiki/Band_3",
           "/wiki/East_Asia",
@@ -472,9 +308,7 @@
         ]
       ],
       [
-        [
-          "17q21.31"
-        ],
+        "17q21.31",
         [
           "/wiki/Chromosome_17"
         ]
@@ -482,41 +316,27 @@
     ],
     [
       [
-        [
-          "011"
-        ],
-        [
-          null
-        ]
+        "011",
+        []
       ],
       [
-        [
-          "Yt"
-        ],
+        "Yt",
         [
           "/wiki/Yt_antigen_system"
         ]
       ],
       [
-        [
-          "YT"
-        ],
-        [
-          null
-        ]
+        "YT",
+        []
       ],
       [
-        [
-          "acetylcholinesterase"
-        ],
+        "Protein ( AChE , acetylcholinesterase )",
         [
           "/wiki/Acetylcholinesterase"
         ]
       ],
       [
-        [
-          "7q22.1"
-        ],
+        "7q22.1",
         [
           "/wiki/Chromosome_7"
         ]
@@ -524,41 +344,25 @@
     ],
     [
       [
-        [
-          "012"
-        ],
-        [
-          null
-        ]
+        "012",
+        []
       ],
       [
-        [
-          "XG"
-        ],
+        "XG",
         [
           "/wiki/XG_antigen_system"
         ]
       ],
       [
-        [
-          "XG"
-        ],
-        [
-          null
-        ]
+        "XG",
+        []
       ],
       [
-        [
-          "Glycoprotein"
-        ],
-        [
-          null
-        ]
+        "Glycoprotein",
+        []
       ],
       [
-        [
-          "Xp22.33"
-        ],
+        "Xp22.33",
         [
           "/wiki/X_chromosome"
         ]
@@ -566,41 +370,25 @@
     ],
     [
       [
-        [
-          "013"
-        ],
-        [
-          null
-        ]
+        "013",
+        []
       ],
       [
-        [
-          "Scianna"
-        ],
+        "Scianna",
         [
           "/wiki/Scianna_antigen_system"
         ]
       ],
       [
-        [
-          "SC"
-        ],
-        [
-          null
-        ]
+        "SC",
+        []
       ],
       [
-        [
-          "Glycoprotein"
-        ],
-        [
-          null
-        ]
+        "Glycoprotein",
+        []
       ],
       [
-        [
-          "1p34.2"
-        ],
+        "1p34.2",
         [
           "/wiki/Chromosome_1"
         ]
@@ -608,41 +396,27 @@
     ],
     [
       [
-        [
-          "014"
-        ],
-        [
-          null
-        ]
+        "014",
+        []
       ],
       [
-        [
-          "Dombrock"
-        ],
+        "Dombrock",
         [
           "/wiki/Dombrock_antigen_system"
         ]
       ],
       [
-        [
-          "DO"
-        ],
-        [
-          null
-        ]
+        "DO",
+        []
       ],
       [
-        [
-          "glycosyl-phosphatidyl-inositol"
-        ],
+        "Glycoprotein ( fixed to cell membrane by GPI , or glycosyl-phosphatidyl-inositol )",
         [
           "/wiki/Glycosyl-phosphatidyl-inositol"
         ]
       ],
       [
-        [
-          "12p12.3"
-        ],
+        "12p12.3",
         [
           "/wiki/Chromosome_12"
         ]
@@ -650,41 +424,27 @@
     ],
     [
       [
-        [
-          "015"
-        ],
-        [
-          null
-        ]
+        "015",
+        []
       ],
       [
-        [
-          "Colton"
-        ],
+        "Colton",
         [
           "/wiki/Colton_antigen_system"
         ]
       ],
       [
-        [
-          "CO"
-        ],
-        [
-          null
-        ]
+        "CO",
+        []
       ],
       [
-        [
-          "Aquaporin 1"
-        ],
+        "Aquaporin 1 . Main antigens Co ( a ) and Co ( b )",
         [
           "/wiki/Aquaporin_1"
         ]
       ],
       [
-        [
-          "7p14.3"
-        ],
+        "7p14.3",
         [
           "/wiki/Chromosome_7"
         ]
@@ -692,41 +452,27 @@
     ],
     [
       [
-        [
-          "016"
-        ],
-        [
-          null
-        ]
+        "016",
+        []
       ],
       [
-        [
-          "Landsteiner-Wiener"
-        ],
+        "Landsteiner-Wiener",
         [
           "/wiki/Landsteiner-Wiener_antigen_system"
         ]
       ],
       [
-        [
-          "LW"
-        ],
-        [
-          null
-        ]
+        "LW",
+        []
       ],
       [
-        [
-          "immunoglobulin superfamily"
-        ],
+        "Protein ( member of the immunoglobulin superfamily )",
         [
           "/wiki/Immunoglobulin_superfamily"
         ]
       ],
       [
-        [
-          "19p13.2"
-        ],
+        "19p13.2",
         [
           "/wiki/Chromosome_19"
         ]
@@ -734,41 +480,25 @@
     ],
     [
       [
-        [
-          "017"
-        ],
-        [
-          null
-        ]
+        "017",
+        []
       ],
       [
-        [
-          "Chido"
-        ],
+        "Chido",
         [
           "/wiki/Chido_antigen_system"
         ]
       ],
       [
-        [
-          "CH"
-        ],
-        [
-          null
-        ]
+        "CH",
+        []
       ],
       [
-        [
-          "C4A C4B ( complement fractions )"
-        ],
-        [
-          null
-        ]
+        "C4A C4B ( complement fractions )",
+        []
       ],
       [
-        [
-          "6p21.3"
-        ],
+        "6p21.3",
         [
           "/wiki/Chromosome_6"
         ]
@@ -776,41 +506,27 @@
     ],
     [
       [
-        [
-          "018"
-        ],
-        [
-          null
-        ]
+        "018",
+        []
       ],
       [
-        [
-          "Hh"
-        ],
+        "Hh",
         [
           "/wiki/Hh_antigen_system"
         ]
       ],
       [
-        [
-          "H"
-        ],
-        [
-          null
-        ]
+        "H",
+        []
       ],
       [
-        [
-          "fucose"
-        ],
+        "Carbohydrate ( fucose residue )",
         [
           "/wiki/Fucose"
         ]
       ],
       [
-        [
-          "19q13.33"
-        ],
+        "19q13.33",
         [
           "/wiki/Chromosome_19"
         ]
@@ -818,41 +534,25 @@
     ],
     [
       [
-        [
-          "019"
-        ],
-        [
-          null
-        ]
+        "019",
+        []
       ],
       [
-        [
-          "XK"
-        ],
+        "XK",
         [
           "/wiki/XK_(protein)"
         ]
       ],
       [
-        [
-          "XK"
-        ],
-        [
-          null
-        ]
+        "XK",
+        []
       ],
       [
-        [
-          "Glycoprotein"
-        ],
-        [
-          null
-        ]
+        "Glycoprotein",
+        []
       ],
       [
-        [
-          "Xp21.1"
-        ],
+        "Xp21.1",
         [
           "/wiki/X_chromosome"
         ]
@@ -860,41 +560,27 @@
     ],
     [
       [
-        [
-          "020"
-        ],
-        [
-          null
-        ]
+        "020",
+        []
       ],
       [
-        [
-          "Gerbich"
-        ],
+        "Gerbich",
         [
           "/wiki/Gerbich_antigen_system"
         ]
       ],
       [
-        [
-          "GE"
-        ],
-        [
-          null
-        ]
+        "GE",
+        []
       ],
       [
-        [
-          "Glycophorins"
-        ],
+        "GPC / GPD ( Glycophorins C and D )",
         [
           "/wiki/Glycophorin"
         ]
       ],
       [
-        [
-          "2q14.3"
-        ],
+        "2q14.3",
         [
           "/wiki/Chromosome_2"
         ]

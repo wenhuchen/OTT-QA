@@ -3,196 +3,129 @@
   "title": "Sports teams in Florida",
   "header": [
     [
-      [
-        "Club"
-      ],
-      [
-        null
-      ]
+      "Club",
+      []
     ],
     [
-      [
-        "Sport"
-      ],
-      [
-        null
-      ]
+      "Sport",
+      []
     ],
     [
-      [
-        "League"
-      ],
-      [
-        null
-      ]
+      "League",
+      []
     ],
     [
-      [
-        "Venue"
-      ],
-      [
-        null
-      ]
+      "Venue",
+      []
     ],
     [
-      [
-        "Championships ( Years )"
-      ],
-      [
-        null
-      ]
+      "Championships ( Years )",
+      []
     ],
     [
-      [
-        "Founded"
-      ],
-      [
-        null
-      ]
+      "Founded",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Miami Marlins"
-        ],
+        "Miami Marlins",
         [
           "/wiki/Miami_Marlins"
         ]
       ],
       [
-        [
-          "Baseball"
-        ],
+        "Baseball",
         [
           "/wiki/Baseball"
         ]
       ],
       [
-        [
-          "MLB"
-        ],
+        "MLB",
         [
           "/wiki/Major_League_Baseball"
         ]
       ],
       [
-        [
-          "Marlins Park"
-        ],
+        "Marlins Park",
         [
           "/wiki/Marlins_Park"
         ]
       ],
       [
-        [
-          "1997",
-          "2003"
-        ],
+        "2 ( 1997 , 2003 )",
         [
           "/wiki/1997_World_Series",
           "/wiki/2003_World_Series"
         ]
       ],
       [
-        [
-          "1993"
-        ],
-        [
-          null
-        ]
+        "1993",
+        []
       ]
     ],
     [
       [
-        [
-          "Tampa Bay Rays"
-        ],
+        "Tampa Bay Rays",
         [
           "/wiki/Tampa_Bay_Rays"
         ]
       ],
       [
-        [
-          "Baseball"
-        ],
+        "Baseball",
         [
           "/wiki/Baseball"
         ]
       ],
       [
-        [
-          "MLB"
-        ],
+        "MLB",
         [
           "/wiki/Major_League_Baseball"
         ]
       ],
       [
-        [
-          "Tropicana Field"
-        ],
+        "Tropicana Field",
         [
           "/wiki/Tropicana_Field"
         ]
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "1998"
-        ],
-        [
-          null
-        ]
+        "1998",
+        []
       ]
     ],
     [
       [
-        [
-          "Miami Heat"
-        ],
+        "Miami Heat",
         [
           "/wiki/Miami_Heat"
         ]
       ],
       [
-        [
-          "Basketball"
-        ],
+        "Basketball",
         [
           "/wiki/Basketball"
         ]
       ],
       [
-        [
-          "NBA"
-        ],
+        "NBA",
         [
           "/wiki/National_Basketball_Association"
         ]
       ],
       [
-        [
-          "American Airlines Arena"
-        ],
+        "American Airlines Arena",
         [
           "/wiki/American_Airlines_Arena"
         ]
       ],
       [
-        [
-          "2006",
-          "2012",
-          "2013"
-        ],
+        "3 ( 2006 , 2012 , 2013 )",
         [
           "/wiki/2006_NBA_Finals",
           "/wiki/2012_NBA_Finals",
@@ -200,414 +133,285 @@
         ]
       ],
       [
-        [
-          "1988"
-        ],
-        [
-          null
-        ]
+        "1988",
+        []
       ]
     ],
     [
       [
-        [
-          "Orlando Magic"
-        ],
+        "Orlando Magic",
         [
           "/wiki/Orlando_Magic"
         ]
       ],
       [
-        [
-          "Basketball"
-        ],
+        "Basketball",
         [
           "/wiki/Basketball"
         ]
       ],
       [
-        [
-          "NBA"
-        ],
+        "NBA",
         [
           "/wiki/National_Basketball_Association"
         ]
       ],
       [
-        [
-          "Amway Center"
-        ],
+        "Amway Center",
         [
           "/wiki/Amway_Center"
         ]
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "1989"
-        ],
-        [
-          null
-        ]
+        "1989",
+        []
       ]
     ],
     [
       [
-        [
-          "Jacksonville Jaguars"
-        ],
+        "Jacksonville Jaguars",
         [
           "/wiki/Jacksonville_Jaguars"
         ]
       ],
       [
-        [
-          "Football"
-        ],
+        "Football",
         [
           "/wiki/American_football"
         ]
       ],
       [
-        [
-          "NFL"
-        ],
+        "NFL",
         [
           "/wiki/National_Football_League"
         ]
       ],
       [
-        [
-          "TIAA Bank Field"
-        ],
+        "TIAA Bank Field",
         [
           "/wiki/TIAA_Bank_Field"
         ]
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "1993"
-        ],
-        [
-          null
-        ]
+        "1993",
+        []
       ]
     ],
     [
       [
-        [
-          "Miami Dolphins"
-        ],
+        "Miami Dolphins",
         [
           "/wiki/Miami_Dolphins"
         ]
       ],
       [
-        [
-          "Football"
-        ],
+        "Football",
         [
           "/wiki/American_football"
         ]
       ],
       [
-        [
-          "NFL"
-        ],
+        "NFL",
         [
           "/wiki/National_Football_League"
         ]
       ],
       [
-        [
-          "Hard Rock Stadium"
-        ],
+        "Hard Rock Stadium",
         [
           "/wiki/Hard_Rock_Stadium"
         ]
       ],
       [
-        [
-          "1972",
-          "1973"
-        ],
+        "2 ( 1972 , 1973 )",
         [
           "/wiki/Super_Bowl_VII",
           "/wiki/Super_Bowl_VIII"
         ]
       ],
       [
-        [
-          "1966"
-        ],
-        [
-          null
-        ]
+        "1966",
+        []
       ]
     ],
     [
       [
-        [
-          "Tampa Bay Buccaneers"
-        ],
+        "Tampa Bay Buccaneers",
         [
           "/wiki/Tampa_Bay_Buccaneers"
         ]
       ],
       [
-        [
-          "Football"
-        ],
+        "Football",
         [
           "/wiki/American_football"
         ]
       ],
       [
-        [
-          "NFL"
-        ],
+        "NFL",
         [
           "/wiki/National_Football_League"
         ]
       ],
       [
-        [
-          "Raymond James Stadium"
-        ],
+        "Raymond James Stadium",
         [
           "/wiki/Raymond_James_Stadium"
         ]
       ],
       [
-        [
-          "2002"
-        ],
+        "1 ( 2002 )",
         [
           "/wiki/Super_Bowl_XXXVII"
         ]
       ],
       [
-        [
-          "1976"
-        ],
-        [
-          null
-        ]
+        "1976",
+        []
       ]
     ],
     [
       [
-        [
-          "Florida Panthers"
-        ],
+        "Florida Panthers",
         [
           "/wiki/Florida_Panthers"
         ]
       ],
       [
-        [
-          "Ice hockey"
-        ],
+        "Ice hockey",
         [
           "/wiki/Ice_hockey"
         ]
       ],
       [
-        [
-          "NHL"
-        ],
+        "NHL",
         [
           "/wiki/National_Hockey_League"
         ]
       ],
       [
-        [
-          "BB & T Center"
-        ],
+        "BB & T Center",
         [
           "/wiki/BB&T_Center_(Sunrise,_Florida)"
         ]
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "1993"
-        ],
-        [
-          null
-        ]
+        "1993",
+        []
       ]
     ],
     [
       [
-        [
-          "Tampa Bay Lightning"
-        ],
+        "Tampa Bay Lightning",
         [
           "/wiki/Tampa_Bay_Lightning"
         ]
       ],
       [
-        [
-          "Ice hockey"
-        ],
+        "Ice hockey",
         [
           "/wiki/Ice_hockey"
         ]
       ],
       [
-        [
-          "NHL"
-        ],
+        "NHL",
         [
           "/wiki/National_Hockey_League"
         ]
       ],
       [
-        [
-          "Amalie Arena"
-        ],
+        "Amalie Arena",
         [
           "/wiki/Amalie_Arena"
         ]
       ],
       [
-        [
-          "2004"
-        ],
+        "1 ( 2004 )",
         [
           "/wiki/2004_Stanley_Cup_Finals"
         ]
       ],
       [
-        [
-          "1992"
-        ],
-        [
-          null
-        ]
+        "1992",
+        []
       ]
     ],
     [
       [
-        [
-          "Inter Miami CF"
-        ],
+        "Inter Miami CF",
         [
           "/wiki/Inter_Miami_CF"
         ]
       ],
       [
-        [
-          "Soccer"
-        ],
+        "Soccer",
         [
           "/wiki/Association_football"
         ]
       ],
       [
-        [
-          "MLS"
-        ],
+        "MLS",
         [
           "/wiki/Major_League_Soccer"
         ]
       ],
       [
-        [
-          "TBD"
-        ],
-        [
-          null
-        ]
+        "TBD",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "2018"
-        ],
-        [
-          null
-        ]
+        "2018",
+        []
       ]
     ],
     [
       [
-        [
-          "Orlando City SC"
-        ],
+        "Orlando City SC",
         [
           "/wiki/Orlando_City_SC"
         ]
       ],
       [
-        [
-          "Soccer"
-        ],
+        "Soccer",
         [
           "/wiki/Association_football"
         ]
       ],
       [
-        [
-          "MLS"
-        ],
+        "MLS",
         [
           "/wiki/Major_League_Soccer"
         ]
       ],
       [
-        [
-          "Orlando City Stadium"
-        ],
+        "Orlando City Stadium",
         [
           "/wiki/Orlando_City_Stadium"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "2013"
-        ],
-        [
-          null
-        ]
+        "2013",
+        []
       ]
     ]
   ],

@@ -3,891 +3,634 @@
   "title": "List of the busiest airports in Central America",
   "header": [
     [
-      [
-        "Country"
-      ],
-      [
-        null
-      ]
+      "",
+      []
     ],
     [
-      [
-        "Airport name"
-      ],
-      [
-        null
-      ]
+      "Country",
+      []
     ],
     [
-      [
-        "IATA",
-        "ICAO"
-      ],
+      "Airport name",
+      []
+    ],
+    [
+      "IATA / ICAO Code",
       [
         "/wiki/IATA",
         "/wiki/ICAO"
       ]
     ],
     [
-      [
-        "City served"
-      ],
-      [
-        null
-      ]
+      "City served",
+      []
     ],
     [
-      [
-        "Passengers"
-      ],
-      [
-        null
-      ]
+      "Passengers",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Panama"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "Tocumen International Airport"
-        ],
+        "Panama",
+        []
+      ],
+      [
+        "Tocumen International Airport",
         [
           "/wiki/Tocumen_International_Airport"
         ]
       ],
       [
-        [
-          "PTY/MPTO"
-        ],
-        [
-          null
-        ]
+        "PTY/MPTO",
+        []
       ],
       [
-        [
-          "Panam\u00e1 City"
-        ],
+        "Panam\u00e1 City",
         [
           "/wiki/Panam\u00e1_City,_Panam\u00e1"
         ]
       ],
       [
-        [
-          "12,782,167"
-        ],
-        [
-          null
-        ]
+        "12,782,167",
+        []
       ]
     ],
     [
       [
-        [
-          "Costa Rica"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "Juan Santamar\u00eda International Airport"
-        ],
+        "Costa Rica",
+        []
+      ],
+      [
+        "Juan Santamar\u00eda International Airport",
         [
           "/wiki/Juan_Santamar\u00eda_International_Airport"
         ]
       ],
       [
-        [
-          "SJO/MROC"
-        ],
-        [
-          null
-        ]
+        "SJO/MROC",
+        []
       ],
       [
-        [
-          "San Jos\u00e9"
-        ],
+        "San Jos\u00e9",
         [
           "/wiki/San_Jos\u00e9,_Costa_Rica"
         ]
       ],
       [
-        [
-          "3,917,573"
-        ],
-        [
-          null
-        ]
+        "3,917,573",
+        []
       ]
     ],
     [
       [
-        [
-          "El Salvador"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "Comalapa International Airport"
-        ],
+        "El Salvador",
+        []
+      ],
+      [
+        "Comalapa International Airport",
         [
           "/wiki/El_Salvador_International_Airport"
         ]
       ],
       [
-        [
-          "SAL/MSLP"
-        ],
-        [
-          null
-        ]
+        "SAL/MSLP",
+        []
       ],
       [
-        [
-          "San Salvador"
-        ],
+        "San Salvador",
         [
           "/wiki/San_Salvador"
         ]
       ],
       [
-        [
-          "2,453,217"
-        ],
-        [
-          null
-        ]
+        "2,453,217",
+        []
       ]
     ],
     [
       [
-        [
-          "Guatemala"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "La Aurora International Airport"
-        ],
+        "Guatemala",
+        []
+      ],
+      [
+        "La Aurora International Airport",
         [
           "/wiki/La_Aurora_International_Airport"
         ]
       ],
       [
-        [
-          "GUA/MGGT"
-        ],
-        [
-          null
-        ]
+        "GUA/MGGT",
+        []
       ],
       [
-        [
-          "Guatemala City"
-        ],
+        "Guatemala City",
         [
           "/wiki/Guatemala_City"
         ]
       ],
       [
-        [
-          "2,216,915"
-        ],
-        [
-          null
-        ]
+        "2,216,915",
+        []
       ]
     ],
     [
       [
-        [
-          "Nicaragua"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "Augusto C. Sandino International Airport"
-        ],
+        "Nicaragua",
+        []
+      ],
+      [
+        "Augusto C. Sandino International Airport",
         [
           "/wiki/Augusto_C._Sandino_International_Airport"
         ]
       ],
       [
-        [
-          "MGA/MNMG"
-        ],
-        [
-          null
-        ]
+        "MGA/MNMG",
+        []
       ],
       [
-        [
-          "Managua"
-        ],
+        "Managua",
         [
           "/wiki/Managua"
         ]
       ],
       [
-        [
-          "1,311.965"
-        ],
-        [
-          null
-        ]
+        "1,311.965",
+        []
       ]
     ],
     [
       [
-        [
-          "Costa Rica"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "Daniel Oduber International Airport"
-        ],
+        "Costa Rica",
+        []
+      ],
+      [
+        "Daniel Oduber International Airport",
         [
           "/wiki/Daniel_Oduber_Quir\u00f3s_International_Airport"
         ]
       ],
       [
-        [
-          "LIR/MRLB"
-        ],
-        [
-          null
-        ]
+        "LIR/MRLB",
+        []
       ],
       [
-        [
-          "Liberia"
-        ],
+        "Liberia",
         [
           "/wiki/Liberia,_Costa_Rica"
         ]
       ],
       [
-        [
-          "779,757"
-        ],
-        [
-          null
-        ]
+        "779,757",
+        []
       ]
     ],
     [
       [
-        [
-          "Honduras"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ],
       [
-        [
-          "Ram\u00f3n Villeda Morales International Airport"
-        ],
+        "Honduras",
+        []
+      ],
+      [
+        "Ram\u00f3n Villeda Morales International Airport",
         [
           "/wiki/Ram\u00f3n_Villeda_Morales_International_Airport"
         ]
       ],
       [
-        [
-          "SAP/MHLM"
-        ],
-        [
-          null
-        ]
+        "SAP/MHLM",
+        []
       ],
       [
-        [
-          "San Pedro Sula"
-        ],
+        "San Pedro Sula",
         [
           "/wiki/San_Pedro_Sula"
         ]
       ],
       [
-        [
-          "772,504"
-        ],
-        [
-          null
-        ]
+        "772,504",
+        []
       ]
     ],
     [
       [
-        [
-          "Honduras"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "Toncont\u00edn International Airport"
-        ],
+        "Honduras",
+        []
+      ],
+      [
+        "Toncont\u00edn International Airport",
         [
           "/wiki/Toncont\u00edn_International_Airport"
         ]
       ],
       [
-        [
-          "TGU/MHTG"
-        ],
-        [
-          null
-        ]
+        "TGU/MHTG",
+        []
       ],
       [
-        [
-          "Tegucigalpa"
-        ],
+        "Tegucigalpa",
         [
           "/wiki/Tegucigalpa"
         ]
       ],
       [
-        [
-          "617,526"
-        ],
-        [
-          null
-        ]
+        "617,526",
+        []
       ]
     ],
     [
       [
-        [
-          "Belize"
-        ],
-        [
-          null
-        ]
+        "9",
+        []
       ],
       [
-        [
-          "Philip S. W. Goldson International Airport"
-        ],
+        "Belize",
+        []
+      ],
+      [
+        "Philip S. W. Goldson International Airport",
         [
           "/wiki/Philip_S._W._Goldson_International_Airport"
         ]
       ],
       [
-        [
-          "BZE/MZBZ"
-        ],
-        [
-          null
-        ]
+        "BZE/MZBZ",
+        []
       ],
       [
-        [
-          "Belize City"
-        ],
+        "Belize City",
         [
           "/wiki/Belize_City"
         ]
       ],
       [
-        [
-          "577,970"
-        ],
-        [
-          null
-        ]
+        "577,970",
+        []
       ]
     ],
     [
       [
-        [
-          "Honduras"
-        ],
-        [
-          null
-        ]
+        "10",
+        []
       ],
       [
-        [
-          "Juan Manuel G\u00e1lvez International Airport"
-        ],
+        "Honduras",
+        []
+      ],
+      [
+        "Juan Manuel G\u00e1lvez International Airport",
         [
           "/wiki/Juan_Manuel_G\u00e1lvez_International_Airport"
         ]
       ],
       [
-        [
-          "RTB/MHRO"
-        ],
-        [
-          null
-        ]
+        "RTB/MHRO",
+        []
       ],
       [
-        [
-          "Roat\u00e1n"
-        ],
+        "Roat\u00e1n",
         [
           "/wiki/Roat\u00e1n"
         ]
       ],
       [
-        [
-          "286,738"
-        ],
-        [
-          null
-        ]
+        "286,738",
+        []
       ]
     ],
     [
       [
-        [
-          "Panama"
-        ],
-        [
-          null
-        ]
+        "11",
+        []
       ],
       [
-        [
-          "Enrique Malek International Airport"
-        ],
+        "Panama",
+        []
+      ],
+      [
+        "Enrique Malek International Airport",
         [
           "/wiki/Enrique_Malek_International_Airport"
         ]
       ],
       [
-        [
-          "DAV/MPDA"
-        ],
-        [
-          null
-        ]
+        "DAV/MPDA",
+        []
       ],
       [
-        [
-          "David"
-        ],
+        "David",
         [
           "/wiki/David,_Panama"
         ]
       ],
       [
-        [
-          "260,603"
-        ],
-        [
-          null
-        ]
+        "260,603",
+        []
       ]
     ],
     [
       [
-        [
-          "Panama"
-        ],
-        [
-          null
-        ]
+        "12",
+        []
       ],
       [
-        [
-          "Albrook International Airport"
-        ],
+        "Panama",
+        []
+      ],
+      [
+        "Albrook International Airport",
         [
           "/wiki/Albrook_\"Marcos_A._Gelabert\"_International_Airport"
         ]
       ],
       [
-        [
-          "PAC/MPMG"
-        ],
-        [
-          null
-        ]
+        "PAC/MPMG",
+        []
       ],
       [
-        [
-          "Panam\u00e1 City"
-        ],
+        "Panam\u00e1 City",
         [
           "/wiki/Panam\u00e1_City,_Panam\u00e1"
         ]
       ],
       [
-        [
-          "239,315"
-        ],
-        [
-          null
-        ]
+        "239,315",
+        []
       ]
     ],
     [
       [
-        [
-          "Honduras"
-        ],
-        [
-          null
-        ]
+        "13",
+        []
       ],
       [
-        [
-          "Golos\u00f3n International Airport"
-        ],
+        "Honduras",
+        []
+      ],
+      [
+        "Golos\u00f3n International Airport",
         [
           "/wiki/Golos\u00f3n_International_Airport"
         ]
       ],
       [
-        [
-          "LCE/MHLC"
-        ],
-        [
-          null
-        ]
+        "LCE/MHLC",
+        []
       ],
       [
-        [
-          "La Ceiba"
-        ],
+        "La Ceiba",
         [
           "/wiki/La_Ceiba"
         ]
       ],
       [
-        [
-          "133,768"
-        ],
-        [
-          null
-        ]
+        "133,768",
+        []
       ]
     ],
     [
       [
-        [
-          "Panama"
-        ],
-        [
-          null
-        ]
+        "14",
+        []
       ],
       [
-        [
-          "Panam\u00e1 Pac\u00edfico International Airport"
-        ],
+        "Panama",
+        []
+      ],
+      [
+        "Panam\u00e1 Pac\u00edfico International Airport",
         [
           "/wiki/Panam\u00e1_Pac\u00edfico_International_Airport"
         ]
       ],
       [
-        [
-          "BLB/MPHO"
-        ],
-        [
-          null
-        ]
+        "BLB/MPHO",
+        []
       ],
       [
-        [
-          "Panam\u00e1 City"
-        ],
+        "Panam\u00e1 City",
         [
           "/wiki/Panam\u00e1_City,_Panam\u00e1"
         ]
       ],
       [
-        [
-          "132,205"
-        ],
-        [
-          null
-        ]
+        "132,205",
+        []
       ]
     ],
     [
       [
-        [
-          "Guatemala"
-        ],
-        [
-          null
-        ]
+        "15",
+        []
       ],
       [
-        [
-          "Mundo Maya International Airport"
-        ],
+        "Guatemala",
+        []
+      ],
+      [
+        "Mundo Maya International Airport",
         [
           "/wiki/Mundo_Maya_International_Airport"
         ]
       ],
       [
-        [
-          "FRS/MGTK"
-        ],
-        [
-          null
-        ]
+        "FRS/MGTK",
+        []
       ],
       [
-        [
-          "Flores",
-          "Tikal"
-        ],
+        "Flores / Tikal",
         [
           "/wiki/Flores,_El_Pet\u00e9n",
           "/wiki/Tikal"
         ]
       ],
       [
-        [
-          "111,075"
-        ],
-        [
-          null
-        ]
+        "111,075",
+        []
       ]
     ],
     [
       [
-        [
-          "Costa Rica"
-        ],
-        [
-          null
-        ]
+        "16",
+        []
       ],
       [
-        [
-          "Tob\u00edas Bola\u00f1os International Airport"
-        ],
+        "Costa Rica",
+        []
+      ],
+      [
+        "Tob\u00edas Bola\u00f1os International Airport",
         [
           "/wiki/Tob\u00edas_Bola\u00f1os_International_Airport"
         ]
       ],
       [
-        [
-          "SYQ/MRPV"
-        ],
-        [
-          null
-        ]
+        "SYQ/MRPV",
+        []
       ],
       [
-        [
-          "San Jos\u00e9"
-        ],
+        "San Jos\u00e9",
         [
           "/wiki/San_Jos\u00e9,_Costa_Rica"
         ]
       ],
       [
-        [
-          "88,363"
-        ],
-        [
-          null
-        ]
+        "88,363",
+        []
       ]
     ],
     [
       [
-        [
-          "Panama"
-        ],
-        [
-          null
-        ]
+        "17",
+        []
       ],
       [
-        [
-          "Bocas del Toro International Airport"
-        ],
+        "Panama",
+        []
+      ],
+      [
+        "Bocas del Toro International Airport",
         [
           "/wiki/Bocas_del_Toro_\"Isla_Col\u00f3n\"_International_Airport"
         ]
       ],
       [
-        [
-          "BOC/MPBO"
-        ],
-        [
-          null
-        ]
+        "BOC/MPBO",
+        []
       ],
       [
-        [
-          "Bocas",
-          "Isla Col\u00f3n"
-        ],
+        "Bocas / Isla Col\u00f3n",
         [
           "/wiki/Bocas_Town,_Bocas_del_Toro",
           "/wiki/Isla_Colon"
         ]
       ],
       [
-        [
-          "80,378"
-        ],
-        [
-          null
-        ]
+        "80,378",
+        []
       ]
     ],
     [
       [
-        [
-          "Nicaragua"
-        ],
-        [
-          null
-        ]
+        "18",
+        []
       ],
       [
-        [
-          "Corn Island Airport"
-        ],
+        "Nicaragua",
+        []
+      ],
+      [
+        "Corn Island Airport",
         [
           "/wiki/Corn_Island_Airport"
         ]
       ],
       [
-        [
-          "RNI/MNCI"
-        ],
-        [
-          null
-        ]
+        "RNI/MNCI",
+        []
       ],
       [
-        [
-          "Corn Islands"
-        ],
+        "Corn Islands",
         [
           "/wiki/Corn_Islands"
         ]
       ],
       [
-        [
-          "50,700"
-        ],
-        [
-          null
-        ]
+        "50,700",
+        []
       ]
     ],
     [
       [
-        [
-          "Nicaragua"
-        ],
-        [
-          null
-        ]
+        "19",
+        []
       ],
       [
-        [
-          "Bluefields Airport"
-        ],
+        "Nicaragua",
+        []
+      ],
+      [
+        "Bluefields Airport",
         [
           "/wiki/Bluefields_Airport"
         ]
       ],
       [
-        [
-          "BEF/MNBL"
-        ],
-        [
-          null
-        ]
+        "BEF/MNBL",
+        []
       ],
       [
-        [
-          "Bluefields"
-        ],
+        "Bluefields",
         [
           "/wiki/Bluefields"
         ]
       ],
       [
-        [
-          "45,500"
-        ],
-        [
-          null
-        ]
+        "45,500",
+        []
       ]
     ],
     [
       [
-        [
-          "Nicaragua"
-        ],
-        [
-          null
-        ]
+        "20",
+        []
       ],
       [
-        [
-          "Puerto Cabezas Airport"
-        ],
+        "Nicaragua",
+        []
+      ],
+      [
+        "Puerto Cabezas Airport",
         [
           "/wiki/Puerto_Cabezas_Airport"
         ]
       ],
       [
-        [
-          "PUZ/MNPC"
-        ],
-        [
-          null
-        ]
+        "PUZ/MNPC",
+        []
       ],
       [
-        [
-          "Puerto Cabezas"
-        ],
+        "Puerto Cabezas",
         [
           "/wiki/Puerto_Cabezas"
         ]
       ],
       [
-        [
-          "41,000"
-        ],
-        [
-          null
-        ]
+        "41,000",
+        []
       ]
     ]
   ],

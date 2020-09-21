@@ -3,62 +3,36 @@
   "title": "New York metropolitan area",
   "header": [
     [
-      [
-        "Station"
-      ],
-      [
-        null
-      ]
+      "Station",
+      []
     ],
     [
-      [
-        "Railroad ( s )"
-      ],
-      [
-        null
-      ]
+      "Railroad ( s )",
+      []
     ],
     [
-      [
-        "State"
-      ],
-      [
-        null
-      ]
+      "State",
+      []
     ],
     [
-      [
-        "County"
-      ],
-      [
-        null
-      ]
+      "County",
+      []
     ],
     [
-      [
-        "Type"
-      ],
-      [
-        null
-      ]
+      "Type",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "New York Pennsylvania Station"
-        ],
+        "New York Pennsylvania Station",
         [
           "/wiki/Pennsylvania_Station_(New_York_City)"
         ]
       ],
       [
-        [
-          "Amtrak",
-          "LIRR",
-          "NJT"
-        ],
+        "Amtrak , LIRR , NJT",
         [
           "/wiki/Amtrak",
           "/wiki/Long_Island_Rail_Road",
@@ -66,87 +40,61 @@
         ]
       ],
       [
-        [
-          "NY"
-        ],
+        "NY",
         [
           "/wiki/New_York_(state)"
         ]
       ],
       [
-        [
-          "New York"
-        ],
+        "New York",
         [
           "/wiki/Manhattan"
         ]
       ],
       [
-        [
-          "Terminal and Transfer"
-        ],
-        [
-          null
-        ]
+        "Terminal and Transfer",
+        []
       ]
     ],
     [
       [
-        [
-          "Grand Central Terminal"
-        ],
+        "Grand Central Terminal",
         [
           "/wiki/Grand_Central_Terminal"
         ]
       ],
       [
-        [
-          "MNRR"
-        ],
+        "MNRR",
         [
           "/wiki/Metro-North_Railroad"
         ]
       ],
       [
-        [
-          "NY"
-        ],
+        "NY",
         [
           "/wiki/New_York_(state)"
         ]
       ],
       [
-        [
-          "New York"
-        ],
+        "New York",
         [
           "/wiki/Manhattan"
         ]
       ],
       [
-        [
-          "Terminal"
-        ],
-        [
-          null
-        ]
+        "Terminal",
+        []
       ]
     ],
     [
       [
-        [
-          "Newark Pennsylvania Station"
-        ],
+        "Newark Pennsylvania Station",
         [
           "/wiki/Pennsylvania_Station_(Newark)"
         ]
       ],
       [
-        [
-          "Amtrak",
-          "NJT",
-          "PATH"
-        ],
+        "Amtrak , NJT , PATH",
         [
           "/wiki/Amtrak",
           "/wiki/New_Jersey_Transit_Rail_Operations",
@@ -154,45 +102,31 @@
         ]
       ],
       [
-        [
-          "NJ"
-        ],
+        "NJ",
         [
           "/wiki/New_Jersey"
         ]
       ],
       [
-        [
-          "Essex"
-        ],
+        "Essex",
         [
           "/wiki/Essex_County,_New_Jersey"
         ]
       ],
       [
-        [
-          "Transfer"
-        ],
-        [
-          null
-        ]
+        "Transfer",
+        []
       ]
     ],
     [
       [
-        [
-          "Hoboken Terminal"
-        ],
+        "Hoboken Terminal",
         [
           "/wiki/Hoboken_Terminal"
         ]
       ],
       [
-        [
-          "NJT",
-          "MNRR",
-          "PATH"
-        ],
+        "NJT , MNRR , PATH",
         [
           "/wiki/New_Jersey_Transit_Rail_Operations",
           "/wiki/Metro-North_Railroad",
@@ -200,257 +134,182 @@
         ]
       ],
       [
-        [
-          "NJ"
-        ],
+        "NJ",
         [
           "/wiki/New_Jersey"
         ]
       ],
       [
-        [
-          "Hudson"
-        ],
+        "Hudson",
         [
           "/wiki/Hudson_County,_New_Jersey"
         ]
       ],
       [
-        [
-          "Terminal"
-        ],
-        [
-          null
-        ]
+        "Terminal",
+        []
       ]
     ],
     [
       [
-        [
-          "Atlantic Terminal"
-        ],
+        "Atlantic Terminal",
         [
           "/wiki/Atlantic_Terminal"
         ]
       ],
       [
-        [
-          "LIRR"
-        ],
+        "LIRR",
         [
           "/wiki/Long_Island_Rail_Road"
         ]
       ],
       [
-        [
-          "NY"
-        ],
+        "NY",
         [
           "/wiki/New_York_(state)"
         ]
       ],
       [
-        [
-          "Kings"
-        ],
+        "Kings",
         [
           "/wiki/Brooklyn"
         ]
       ],
       [
-        [
-          "Terminal"
-        ],
-        [
-          null
-        ]
+        "Terminal",
+        []
       ]
     ],
     [
       [
-        [
-          "Hunterspoint Avenue"
-        ],
+        "Hunterspoint Avenue",
         [
           "/wiki/Hunterspoint_Avenue_(LIRR_station)"
         ]
       ],
       [
-        [
-          "LIRR"
-        ],
+        "LIRR",
         [
           "/wiki/Long_Island_Rail_Road"
         ]
       ],
       [
-        [
-          "NY"
-        ],
+        "NY",
         [
           "/wiki/New_York_(state)"
         ]
       ],
       [
-        [
-          "Queens"
-        ],
+        "Queens",
         [
           "/wiki/Queens"
         ]
       ],
       [
-        [
-          "Terminal"
-        ],
-        [
-          null
-        ]
+        "Terminal",
+        []
       ]
     ],
     [
       [
-        [
-          "Woodside Station"
-        ],
+        "Woodside Station",
         [
           "/wiki/Woodside_(LIRR_station)"
         ]
       ],
       [
-        [
-          "LIRR"
-        ],
+        "LIRR",
         [
           "/wiki/Long_Island_Rail_Road"
         ]
       ],
       [
-        [
-          "NY"
-        ],
+        "NY",
         [
           "/wiki/New_York_(state)"
         ]
       ],
       [
-        [
-          "Queens"
-        ],
+        "Queens",
         [
           "/wiki/Queens"
         ]
       ],
       [
-        [
-          "Transfer"
-        ],
-        [
-          null
-        ]
+        "Transfer",
+        []
       ]
     ],
     [
       [
-        [
-          "Jamaica Station"
-        ],
+        "Jamaica Station",
         [
           "/wiki/Jamaica_(LIRR_station)"
         ]
       ],
       [
-        [
-          "LIRR"
-        ],
+        "LIRR",
         [
           "/wiki/Long_Island_Rail_Road"
         ]
       ],
       [
-        [
-          "NY"
-        ],
+        "NY",
         [
           "/wiki/New_York_(state)"
         ]
       ],
       [
-        [
-          "Queens"
-        ],
+        "Queens",
         [
           "/wiki/Queens"
         ]
       ],
       [
-        [
-          "Transfer"
-        ],
-        [
-          null
-        ]
+        "Transfer",
+        []
       ]
     ],
     [
       [
-        [
-          "Secaucus Junction"
-        ],
+        "Secaucus Junction",
         [
           "/wiki/Secaucus_Junction"
         ]
       ],
       [
-        [
-          "NJT",
-          "MNRR"
-        ],
+        "NJT , MNRR",
         [
           "/wiki/New_Jersey_Transit_Rail_Operations",
           "/wiki/Metro-North_Railroad"
         ]
       ],
       [
-        [
-          "NJ"
-        ],
+        "NJ",
         [
           "/wiki/New_Jersey"
         ]
       ],
       [
-        [
-          "Hudson"
-        ],
+        "Hudson",
         [
           "/wiki/Hudson_County,_New_Jersey"
         ]
       ],
       [
-        [
-          "Transfer"
-        ],
-        [
-          null
-        ]
+        "Transfer",
+        []
       ]
     ],
     [
       [
-        [
-          "New Haven Union Station"
-        ],
+        "New Haven Union Station",
         [
           "/wiki/Union_Station_(New_Haven,_Connecticut)"
         ]
       ],
       [
-        [
-          "Amtrak",
-          "MNRR",
-          "Shore Line East"
-        ],
+        "Amtrak , MNRR , Shore Line East",
         [
           "/wiki/Amtrak",
           "/wiki/Metro-North_Railroad",
@@ -458,45 +317,31 @@
         ]
       ],
       [
-        [
-          "CT"
-        ],
+        "CT",
         [
           "/wiki/Connecticut"
         ]
       ],
       [
-        [
-          "New Haven"
-        ],
+        "New Haven",
         [
           "/wiki/New_Haven_County,_Connecticut"
         ]
       ],
       [
-        [
-          "Terminal and Transfer"
-        ],
-        [
-          null
-        ]
+        "Terminal and Transfer",
+        []
       ]
     ],
     [
       [
-        [
-          "Trenton Station"
-        ],
+        "Trenton Station",
         [
           "/wiki/Trenton_Transit_Center"
         ]
       ],
       [
-        [
-          "Amtrak",
-          "NJT",
-          "SEPTA"
-        ],
+        "Amtrak , NJT , SEPTA",
         [
           "/wiki/Amtrak",
           "/wiki/New_Jersey_Transit_Rail_Operations",
@@ -504,28 +349,20 @@
         ]
       ],
       [
-        [
-          "NJ"
-        ],
+        "NJ",
         [
           "/wiki/New_Jersey"
         ]
       ],
       [
-        [
-          "Mercer"
-        ],
+        "Mercer",
         [
           "/wiki/Mercer_County,_New_Jersey"
         ]
       ],
       [
-        [
-          "Terminal and Transfer"
-        ],
-        [
-          null
-        ]
+        "Terminal and Transfer",
+        []
       ]
     ]
   ],

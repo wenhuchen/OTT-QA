@@ -3,202 +3,130 @@
   "title": "List of named passenger trains of Japan",
   "header": [
     [
-      [
-        "Train name"
-      ],
-      [
-        null
-      ]
+      "Train name",
+      []
     ],
     [
-      [
-        "Operator"
-      ],
-      [
-        null
-      ]
+      "Operator",
+      []
     ],
     [
-      [
-        "Train endpoints"
-      ],
-      [
-        null
-      ]
+      "Train endpoints",
+      []
     ],
     [
-      [
-        "Operated"
-      ],
-      [
-        null
-      ]
+      "Operated",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Akatsuki"
-        ],
+        "Akatsuki",
         [
           "/wiki/Akatsuki_(train)"
         ]
       ],
       [
-        [
-          "JR-West"
-        ],
+        "JR-West",
         [
           "/wiki/JR-West"
         ]
       ],
       [
-        [
-          "Kyoto",
-          "Nagasaki"
-        ],
+        "Kyoto - Nagasaki",
         [
           "/wiki/Kyoto_Station",
           "/wiki/Nagasaki_Station_(Nagasaki)"
         ]
       ],
       [
-        [
-          "1965 - Mar 2008"
-        ],
-        [
-          null
-        ]
+        "1965 - Mar 2008",
+        []
       ]
     ],
     [
       [
-        [
-          "Akebono"
-        ],
+        "Akebono",
         [
           "/wiki/Akebono_(train)"
         ]
       ],
       [
-        [
-          "JR East"
-        ],
+        "JR East",
         [
           "/wiki/JR_East"
         ]
       ],
       [
-        [
-          "Ueno",
-          "Aomori"
-        ],
+        "Ueno - Aomori",
         [
           "/wiki/Ueno_Station",
           "/wiki/Aomori_Station"
         ]
       ],
       [
-        [
-          "1970 - Jan 2015"
-        ],
-        [
-          null
-        ]
+        "1970 - Jan 2015",
+        []
       ]
     ],
     [
       [
-        [
-          "Asakaze"
-        ],
+        "Asakaze",
         [
           "/wiki/Asakaze_(train)"
         ]
       ],
       [
-        [
-          "JR-West"
-        ],
-        [
-          null
-        ]
+        "JR-West",
+        []
       ],
       [
-        [
-          "Tokyo"
-        ],
+        "Tokyo - Shimonoseki",
         [
           "/wiki/Tokyo_Station"
         ]
       ],
       [
-        [
-          "1956 - Mar 2005"
-        ],
-        [
-          null
-        ]
+        "1956 - Mar 2005",
+        []
       ]
     ],
     [
       [
-        [
-          "Cassiopeia"
-        ],
+        "Cassiopeia",
         [
           "/wiki/Cassiopeia_(train)"
         ]
       ],
       [
-        [
-          "JR East"
-        ],
-        [
-          null
-        ]
+        "JR East",
+        []
       ],
       [
-        [
-          "Sapporo"
-        ],
+        "Ueno - Sapporo",
         [
           "/wiki/Sapporo_Station"
         ]
       ],
       [
-        [
-          "1999 - Mar 2016"
-        ],
-        [
-          null
-        ]
+        "1999 - Mar 2016",
+        []
       ]
     ],
     [
       [
-        [
-          "Dream Nichirin"
-        ],
-        [
-          null
-        ]
+        "Dream Nichirin",
+        []
       ],
       [
-        [
-          "JR Kyushu"
-        ],
+        "JR Kyushu",
         [
           "/wiki/JR_Kyushu"
         ]
       ],
       [
-        [
-          "Hakata",
-          "Minami-Miyazaki",
-          "Miyazaki Airport"
-        ],
+        "Hakata - Minami-Miyazaki , Miyazaki Airport",
         [
           "/wiki/Hakata_Station",
           "/wiki/Minami-Miyazaki_Station",
@@ -206,524 +134,323 @@
         ]
       ],
       [
-        [
-          "1993-2011"
-        ],
-        [
-          null
-        ]
+        "1993-2011",
+        []
       ]
     ],
     [
       [
-        [
-          "Fuji"
-        ],
+        "Fuji",
         [
           "/wiki/Fuji_(train)"
         ]
       ],
       [
-        [
-          "JR Kyushu"
-        ],
-        [
-          null
-        ]
+        "JR Kyushu",
+        []
       ],
       [
-        [
-          "\u014cita"
-        ],
+        "Tokyo - \u014cita",
         [
           "/wiki/\u014cita_Station"
         ]
       ],
       [
-        [
-          "1964 - Mar 2009"
-        ],
-        [
-          null
-        ]
+        "1964 - Mar 2009",
+        []
       ]
     ],
     [
       [
-        [
-          "Hayabusa"
-        ],
+        "Hayabusa",
         [
           "/wiki/Hayabusa_(train)"
         ]
       ],
       [
-        [
-          "JR Kyushu"
-        ],
-        [
-          null
-        ]
+        "JR Kyushu",
+        []
       ],
       [
-        [
-          "Kumamoto"
-        ],
+        "Tokyo - Kumamoto",
         [
           "/wiki/Kumamoto_Station"
         ]
       ],
       [
-        [
-          "1958 - Mar 2009"
-        ],
-        [
-          null
-        ]
+        "1958 - Mar 2009",
+        []
       ]
     ],
     [
       [
-        [
-          "Hokuriku"
-        ],
+        "Hokuriku",
         [
           "/wiki/Hokuriku_(train)"
         ]
       ],
       [
-        [
-          "JR East"
-        ],
-        [
-          null
-        ]
+        "JR East",
+        []
       ],
       [
-        [
-          "Kanazawa"
-        ],
+        "Ueno - Kanazawa",
         [
           "/wiki/Kanazawa_Station"
         ]
       ],
       [
-        [
-          "1947 - Mar 2010"
-        ],
-        [
-          null
-        ]
+        "1947 - Mar 2010",
+        []
       ]
     ],
     [
       [
-        [
-          "Hokutosei"
-        ],
+        "Hokutosei",
         [
           "/wiki/Hokutosei"
         ]
       ],
       [
-        [
-          "JR Hokkaido"
-        ],
+        "JR East / JR Hokkaido",
         [
           "/wiki/JR_Hokkaido"
         ]
       ],
       [
-        [
-          "Ueno - Sapporo"
-        ],
-        [
-          null
-        ]
+        "Ueno - Sapporo",
+        []
       ],
       [
-        [
-          "1988 - August 2015"
-        ],
-        [
-          null
-        ]
+        "1988 - August 2015",
+        []
       ]
     ],
     [
       [
-        [
-          "Izumo"
-        ],
-        [
-          null
-        ]
+        "Izumo",
+        []
       ],
       [
-        [
-          "JR East"
-        ],
-        [
-          null
-        ]
+        "JR East",
+        []
       ],
       [
-        [
-          "Izumoshi",
-          "Tottori"
-        ],
+        "Tokyo - Izumoshi ( via Tottori )",
         [
           "/wiki/Izumoshi_Station",
           "/wiki/Tottori_Station"
         ]
       ],
       [
-        [
-          "1972 - Mar 2006"
-        ],
-        [
-          null
-        ]
+        "1972 - Mar 2006",
+        []
       ]
     ],
     [
       [
-        [
-          "Marimo"
-        ],
-        [
-          null
-        ]
+        "Marimo",
+        []
       ],
       [
-        [
-          "JR Hokkaido"
-        ],
-        [
-          null
-        ]
+        "JR Hokkaido",
+        []
       ],
       [
-        [
-          "Kushiro"
-        ],
+        "Sapporo - Kushiro",
         [
           "/wiki/Kushiro_Station_(Hokkaid\u014d)"
         ]
       ],
       [
-        [
-          "2001-2008"
-        ],
-        [
-          null
-        ]
+        "2001-2008",
+        []
       ]
     ],
     [
       [
-        [
-          "Naha"
-        ],
+        "Naha",
         [
           "/wiki/Naha_(train)"
         ]
       ],
       [
-        [
-          "JR Kyushu"
-        ],
-        [
-          null
-        ]
+        "JR Kyushu",
+        []
       ],
       [
-        [
-          "Kyoto - Kumamoto"
-        ],
-        [
-          null
-        ]
+        "Kyoto - Kumamoto",
+        []
       ],
       [
-        [
-          "1968 - Mar 2008"
-        ],
-        [
-          null
-        ]
+        "1968 - Mar 2008",
+        []
       ]
     ],
     [
       [
-        [
-          "Nihonkai"
-        ],
+        "Nihonkai",
         [
           "/wiki/Nihonkai_(Train)"
         ]
       ],
       [
-        [
-          "JR-West / JR East"
-        ],
-        [
-          null
-        ]
+        "JR-West / JR East",
+        []
       ],
       [
-        [
-          "\u014csaka"
-        ],
+        "\u014csaka - Aomori",
         [
           "/wiki/\u014csaka_Station"
         ]
       ],
       [
-        [
-          "1968 - Mar 2012"
-        ],
-        [
-          null
-        ]
+        "1968 - Mar 2012",
+        []
       ]
     ],
     [
       [
-        [
-          "Sunrise Izumo"
-        ],
+        "Sunrise Izumo",
         [
           "/wiki/Sunrise_Izumo"
         ]
       ],
       [
-        [
-          "JR Central / JR-West"
-        ],
-        [
-          null
-        ]
+        "JR Central / JR-West",
+        []
       ],
       [
-        [
-          "Okayama"
-        ],
+        "Tokyo - Izumoshi ( via Okayama )",
         [
           "/wiki/Okayama_Station"
         ]
       ],
       [
-        [
-          "1998-"
-        ],
-        [
-          null
-        ]
+        "1998-",
+        []
       ]
     ],
     [
       [
-        [
-          "Sunrise Seto"
-        ],
+        "Sunrise Seto",
         [
           "/wiki/Sunrise_Seto"
         ]
       ],
       [
-        [
-          "JR Central / JR-West"
-        ],
-        [
-          null
-        ]
+        "JR Central / JR-West",
+        []
       ],
       [
-        [
-          "Takamatsu"
-        ],
+        "Tokyo - Takamatsu",
         [
           "/wiki/Takamatsu_Station_(Kagawa)"
         ]
       ],
       [
-        [
-          "1998-"
-        ],
-        [
-          null
-        ]
+        "1998-",
+        []
       ]
     ],
     [
       [
-        [
-          "Okhotsk"
-        ],
+        "Okhotsk",
         [
           "/wiki/Okhotsk_(train)"
         ]
       ],
       [
-        [
-          "JR Hokkaido"
-        ],
-        [
-          null
-        ]
+        "JR Hokkaido",
+        []
       ],
       [
-        [
-          "Abashiri"
-        ],
+        "Sapporo - Abashiri",
         [
           "/wiki/Abashiri_Station"
         ]
       ],
       [
-        [
-          "1992 - Mar 2006 ; Daytime service continues"
-        ],
-        [
-          null
-        ]
+        "1992 - Mar 2006 ; Daytime service continues",
+        []
       ]
     ],
     [
       [
-        [
-          "Rishiri"
-        ],
-        [
-          null
-        ]
+        "Rishiri",
+        []
       ],
       [
-        [
-          "JR Hokkaido"
-        ],
-        [
-          null
-        ]
+        "JR Hokkaido",
+        []
       ],
       [
-        [
-          "Wakkanai"
-        ],
+        "Sapporo - Wakkanai",
         [
           "/wiki/Wakkanai_Station"
         ]
       ],
       [
-        [
-          "2000-2007"
-        ],
-        [
-          null
-        ]
+        "2000-2007",
+        []
       ]
     ],
     [
       [
-        [
-          "Sakura"
-        ],
+        "Sakura",
         [
           "/wiki/Sakura_(train)"
         ]
       ],
       [
-        [
-          "JR Kyushu"
-        ],
-        [
-          null
-        ]
+        "JR Kyushu",
+        []
       ],
       [
-        [
-          "Tokyo - Nagasaki"
-        ],
-        [
-          null
-        ]
+        "Tokyo - Nagasaki",
+        []
       ],
       [
-        [
-          "1959 - Mar 2005"
-        ],
-        [
-          null
-        ]
+        "1959 - Mar 2005",
+        []
       ]
     ],
     [
       [
-        [
-          "Suisei"
-        ],
-        [
-          null
-        ]
+        "Suisei",
+        []
       ],
       [
-        [
-          "JR-West"
-        ],
-        [
-          null
-        ]
+        "JR-West",
+        []
       ],
       [
-        [
-          "Kyoto - Minami-Miyazaki"
-        ],
-        [
-          null
-        ]
+        "Kyoto - Minami-Miyazaki",
+        []
       ],
       [
-        [
-          "1968-2005"
-        ],
-        [
-          null
-        ]
+        "1968-2005",
+        []
       ]
     ],
     [
       [
-        [
-          "Twilight Express"
-        ],
+        "Twilight Express",
         [
           "/wiki/Twilight_Express"
         ]
       ],
       [
-        [
-          "JR-West"
-        ],
-        [
-          null
-        ]
+        "JR-West",
+        []
       ],
       [
-        [
-          "\u014csaka - Sapporo"
-        ],
-        [
-          null
-        ]
+        "\u014csaka - Sapporo",
+        []
       ],
       [
-        [
-          "1989 - Mar 2015"
-        ],
-        [
-          null
-        ]
+        "1989 - Mar 2015",
+        []
       ]
     ]
   ],

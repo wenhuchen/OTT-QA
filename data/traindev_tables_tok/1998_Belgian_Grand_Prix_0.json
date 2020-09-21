@@ -3,1085 +3,645 @@
   "title": "1998 Belgian Grand Prix",
   "header": [
     [
-      [
-        "Pos"
-      ],
-      [
-        null
-      ]
+      "Pos",
+      []
     ],
     [
-      [
-        "No"
-      ],
-      [
-        null
-      ]
+      "No",
+      []
     ],
     [
-      [
-        "Driver"
-      ],
-      [
-        null
-      ]
+      "Driver",
+      []
     ],
     [
-      [
-        "Constructor"
-      ],
-      [
-        null
-      ]
+      "Constructor",
+      []
     ],
     [
-      [
-        "Time"
-      ],
-      [
-        null
-      ]
+      "Time",
+      []
     ],
     [
-      [
-        "Gap"
-      ],
-      [
-        null
-      ]
+      "Gap",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "Mika H\u00e4kkinen"
-        ],
+        "Mika H\u00e4kkinen",
         [
           "/wiki/Mika_H\u00e4kkinen"
         ]
       ],
       [
-        [
-          "McLaren",
-          "Mercedes"
-        ],
+        "McLaren - Mercedes",
         [
           "/wiki/McLaren",
           "/wiki/Mercedes_AMG_High_Performance_Powertrains"
         ]
       ],
       [
-        [
-          "1:48.682"
-        ],
-        [
-          null
-        ]
+        "1:48.682",
+        []
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ]
     ],
     [
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "7"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ],
       [
-        [
-          "David Coulthard"
-        ],
+        "David Coulthard",
         [
           "/wiki/David_Coulthard"
         ]
       ],
       [
-        [
-          "McLaren",
-          "Mercedes"
-        ],
+        "McLaren - Mercedes",
         [
           "/wiki/McLaren",
           "/wiki/Mercedes_AMG_High_Performance_Powertrains"
         ]
       ],
       [
-        [
-          "1:48.845"
-        ],
-        [
-          null
-        ]
+        "1:48.845",
+        []
       ],
       [
-        [
-          "+0.163"
-        ],
-        [
-          null
-        ]
+        "+0.163",
+        []
       ]
     ],
     [
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "9"
-        ],
-        [
-          null
-        ]
+        "9",
+        []
       ],
       [
-        [
-          "Damon Hill"
-        ],
+        "Damon Hill",
         [
           "/wiki/Damon_Hill"
         ]
       ],
       [
-        [
-          "Jordan",
-          "Mugen-Honda"
-        ],
+        "Jordan - Mugen-Honda",
         [
           "/wiki/Jordan_Grand_Prix",
           "/wiki/Mugen_Motorsports"
         ]
       ],
       [
-        [
-          "1:49.728"
-        ],
-        [
-          null
-        ]
+        "1:49.728",
+        []
       ],
       [
-        [
-          "+1.046"
-        ],
-        [
-          null
-        ]
+        "+1.046",
+        []
       ]
     ],
     [
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "Michael Schumacher"
-        ],
+        "Michael Schumacher",
         [
           "/wiki/Michael_Schumacher"
         ]
       ],
       [
-        [
-          "Ferrari"
-        ],
+        "Ferrari",
         [
           "/wiki/Scuderia_Ferrari"
         ]
       ],
       [
-        [
-          "1:50.027"
-        ],
-        [
-          null
-        ]
+        "1:50.027",
+        []
       ],
       [
-        [
-          "+1.345"
-        ],
-        [
-          null
-        ]
+        "+1.345",
+        []
       ]
     ],
     [
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "Eddie Irvine"
-        ],
+        "Eddie Irvine",
         [
           "/wiki/Eddie_Irvine"
         ]
       ],
       [
-        [
-          "Ferrari"
-        ],
+        "Ferrari",
         [
           "/wiki/Scuderia_Ferrari"
         ]
       ],
       [
-        [
-          "1:50.189"
-        ],
-        [
-          null
-        ]
+        "1:50.189",
+        []
       ],
       [
-        [
-          "+1.507"
-        ],
-        [
-          null
-        ]
+        "+1.507",
+        []
       ]
     ],
     [
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "Jacques Villeneuve"
-        ],
+        "Jacques Villeneuve",
         [
           "/wiki/Jacques_Villeneuve"
         ]
       ],
       [
-        [
-          "Williams",
-          "Mecachrome"
-        ],
+        "Williams - Mecachrome",
         [
           "/wiki/Williams_Grand_Prix_Engineering",
           "/wiki/Mecachrome"
         ]
       ],
       [
-        [
-          "1:50.204"
-        ],
-        [
-          null
-        ]
+        "1:50.204",
+        []
       ],
       [
-        [
-          "+1.522"
-        ],
-        [
-          null
-        ]
+        "+1.522",
+        []
       ]
     ],
     [
       [
-        [
-          "7"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ],
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "Giancarlo Fisichella"
-        ],
+        "Giancarlo Fisichella",
         [
           "/wiki/Giancarlo_Fisichella"
         ]
       ],
       [
-        [
-          "Benetton",
-          "Playlife"
-        ],
+        "Benetton - Playlife",
         [
           "/wiki/Benetton_Formula",
           "/wiki/Playlife"
         ]
       ],
       [
-        [
-          "1:50.462"
-        ],
-        [
-          null
-        ]
+        "1:50.462",
+        []
       ],
       [
-        [
-          "+1.780"
-        ],
-        [
-          null
-        ]
+        "+1.780",
+        []
       ]
     ],
     [
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "10"
-        ],
-        [
-          null
-        ]
+        "10",
+        []
       ],
       [
-        [
-          "Ralf Schumacher"
-        ],
+        "Ralf Schumacher",
         [
           "/wiki/Ralf_Schumacher"
         ]
       ],
       [
-        [
-          "Jordan",
-          "Mugen-Honda"
-        ],
+        "Jordan - Mugen-Honda",
         [
           "/wiki/Jordan_Grand_Prix",
           "/wiki/Mugen_Motorsports"
         ]
       ],
       [
-        [
-          "1:50.501"
-        ],
-        [
-          null
-        ]
+        "1:50.501",
+        []
       ],
       [
-        [
-          "+1.819"
-        ],
-        [
-          null
-        ]
+        "+1.819",
+        []
       ]
     ],
     [
       [
-        [
-          "9"
-        ],
-        [
-          null
-        ]
+        "9",
+        []
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "Heinz-Harald Frentzen"
-        ],
+        "Heinz-Harald Frentzen",
         [
           "/wiki/Heinz-Harald_Frentzen"
         ]
       ],
       [
-        [
-          "Williams",
-          "Mecachrome"
-        ],
+        "Williams - Mecachrome",
         [
           "/wiki/Williams_Grand_Prix_Engineering",
           "/wiki/Mecachrome"
         ]
       ],
       [
-        [
-          "1:50.686"
-        ],
-        [
-          null
-        ]
+        "1:50.686",
+        []
       ],
       [
-        [
-          "+2.004"
-        ],
-        [
-          null
-        ]
+        "+2.004",
+        []
       ]
     ],
     [
       [
-        [
-          "10"
-        ],
-        [
-          null
-        ]
+        "10",
+        []
       ],
       [
-        [
-          "14"
-        ],
-        [
-          null
-        ]
+        "14",
+        []
       ],
       [
-        [
-          "Jean Alesi"
-        ],
+        "Jean Alesi",
         [
           "/wiki/Jean_Alesi"
         ]
       ],
       [
-        [
-          "Sauber",
-          "Petronas"
-        ],
+        "Sauber - Petronas",
         [
           "/wiki/Sauber",
           "/wiki/Sauber_Petronas_Engineering"
         ]
       ],
       [
-        [
-          "1:51.189"
-        ],
-        [
-          null
-        ]
+        "1:51.189",
+        []
       ],
       [
-        [
-          "+2.507"
-        ],
-        [
-          null
-        ]
+        "+2.507",
+        []
       ]
     ],
     [
       [
-        [
-          "11"
-        ],
-        [
-          null
-        ]
+        "11",
+        []
       ],
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "Alexander Wurz"
-        ],
+        "Alexander Wurz",
         [
           "/wiki/Alexander_Wurz"
         ]
       ],
       [
-        [
-          "Benetton",
-          "Playlife"
-        ],
+        "Benetton - Playlife",
         [
           "/wiki/Benetton_Formula",
           "/wiki/Playlife"
         ]
       ],
       [
-        [
-          "1:51.648"
-        ],
-        [
-          null
-        ]
+        "1:51.648",
+        []
       ],
       [
-        [
-          "+2.966"
-        ],
-        [
-          null
-        ]
+        "+2.966",
+        []
       ]
     ],
     [
       [
-        [
-          "12"
-        ],
-        [
-          null
-        ]
+        "12",
+        []
       ],
       [
-        [
-          "15"
-        ],
-        [
-          null
-        ]
+        "15",
+        []
       ],
       [
-        [
-          "Johnny Herbert"
-        ],
+        "Johnny Herbert",
         [
           "/wiki/Johnny_Herbert"
         ]
       ],
       [
-        [
-          "Sauber",
-          "Petronas"
-        ],
+        "Sauber - Petronas",
         [
           "/wiki/Sauber",
           "/wiki/Sauber_Petronas_Engineering"
         ]
       ],
       [
-        [
-          "1:51.851"
-        ],
-        [
-          null
-        ]
+        "1:51.851",
+        []
       ],
       [
-        [
-          "+3.169"
-        ],
-        [
-          null
-        ]
+        "+3.169",
+        []
       ]
     ],
     [
       [
-        [
-          "13"
-        ],
-        [
-          null
-        ]
+        "13",
+        []
       ],
       [
-        [
-          "12"
-        ],
-        [
-          null
-        ]
+        "12",
+        []
       ],
       [
-        [
-          "Jarno Trulli"
-        ],
+        "Jarno Trulli",
         [
           "/wiki/Jarno_Trulli"
         ]
       ],
       [
-        [
-          "Prost",
-          "Peugeot"
-        ],
+        "Prost - Peugeot",
         [
           "/wiki/Prost_Grand_Prix",
           "/wiki/Peugeot"
         ]
       ],
       [
-        [
-          "1:52.572"
-        ],
-        [
-          null
-        ]
+        "1:52.572",
+        []
       ],
       [
-        [
-          "+3.890"
-        ],
-        [
-          null
-        ]
+        "+3.890",
+        []
       ]
     ],
     [
       [
-        [
-          "14"
-        ],
-        [
-          null
-        ]
+        "14",
+        []
       ],
       [
-        [
-          "18"
-        ],
-        [
-          null
-        ]
+        "18",
+        []
       ],
       [
-        [
-          "Rubens Barrichello"
-        ],
+        "Rubens Barrichello",
         [
           "/wiki/Rubens_Barrichello"
         ]
       ],
       [
-        [
-          "Stewart",
-          "Ford"
-        ],
+        "Stewart - Ford",
         [
           "/wiki/Stewart_Grand_Prix",
           "/wiki/Ford_Motor_Company"
         ]
       ],
       [
-        [
-          "1:52.670"
-        ],
-        [
-          null
-        ]
+        "1:52.670",
+        []
       ],
       [
-        [
-          "+3.988"
-        ],
-        [
-          null
-        ]
+        "+3.988",
+        []
       ]
     ],
     [
       [
-        [
-          "15"
-        ],
-        [
-          null
-        ]
+        "15",
+        []
       ],
       [
-        [
-          "11"
-        ],
-        [
-          null
-        ]
+        "11",
+        []
       ],
       [
-        [
-          "Olivier Panis"
-        ],
+        "Olivier Panis",
         [
           "/wiki/Olivier_Panis"
         ]
       ],
       [
-        [
-          "Prost",
-          "Peugeot"
-        ],
+        "Prost - Peugeot",
         [
           "/wiki/Prost_Grand_Prix",
           "/wiki/Peugeot"
         ]
       ],
       [
-        [
-          "1:52.784"
-        ],
-        [
-          null
-        ]
+        "1:52.784",
+        []
       ],
       [
-        [
-          "+4.102"
-        ],
-        [
-          null
-        ]
+        "+4.102",
+        []
       ]
     ],
     [
       [
-        [
-          "16"
-        ],
-        [
-          null
-        ]
+        "16",
+        []
       ],
       [
-        [
-          "16"
-        ],
-        [
-          null
-        ]
+        "16",
+        []
       ],
       [
-        [
-          "Pedro Diniz"
-        ],
+        "Pedro Diniz",
         [
           "/wiki/Pedro_Diniz"
         ]
       ],
       [
-        [
-          "Arrows"
-        ],
+        "Arrows",
         [
           "/wiki/Arrows_Grand_Prix_International"
         ]
       ],
       [
-        [
-          "1:53.037"
-        ],
-        [
-          null
-        ]
+        "1:53.037",
+        []
       ],
       [
-        [
-          "+4.355"
-        ],
-        [
-          null
-        ]
+        "+4.355",
+        []
       ]
     ],
     [
       [
-        [
-          "17"
-        ],
-        [
-          null
-        ]
+        "17",
+        []
       ],
       [
-        [
-          "19"
-        ],
-        [
-          null
-        ]
+        "19",
+        []
       ],
       [
-        [
-          "Jos Verstappen"
-        ],
+        "Jos Verstappen",
         [
           "/wiki/Jos_Verstappen"
         ]
       ],
       [
-        [
-          "Stewart",
-          "Ford"
-        ],
+        "Stewart - Ford",
         [
           "/wiki/Stewart_Grand_Prix",
           "/wiki/Ford_Motor_Company"
         ]
       ],
       [
-        [
-          "1:53.149"
-        ],
-        [
-          null
-        ]
+        "1:53.149",
+        []
       ],
       [
-        [
-          "+4.467"
-        ],
-        [
-          null
-        ]
+        "+4.467",
+        []
       ]
     ],
     [
       [
-        [
-          "18"
-        ],
-        [
-          null
-        ]
+        "18",
+        []
       ],
       [
-        [
-          "17"
-        ],
-        [
-          null
-        ]
+        "17",
+        []
       ],
       [
-        [
-          "Mika Salo"
-        ],
+        "Mika Salo",
         [
           "/wiki/Mika_Salo"
         ]
       ],
       [
-        [
-          "Arrows"
-        ],
+        "Arrows",
         [
           "/wiki/Arrows_Grand_Prix_International"
         ]
       ],
       [
-        [
-          "1:53.207"
-        ],
-        [
-          null
-        ]
+        "1:53.207",
+        []
       ],
       [
-        [
-          "+4.525"
-        ],
-        [
-          null
-        ]
+        "+4.525",
+        []
       ]
     ],
     [
       [
-        [
-          "19"
-        ],
-        [
-          null
-        ]
+        "19",
+        []
       ],
       [
-        [
-          "21"
-        ],
-        [
-          null
-        ]
+        "21",
+        []
       ],
       [
-        [
-          "Toranosuke Takagi"
-        ],
+        "Toranosuke Takagi",
         [
           "/wiki/Toranosuke_Takagi"
         ]
       ],
       [
-        [
-          "Tyrrell",
-          "Ford"
-        ],
+        "Tyrrell - Ford",
         [
           "/wiki/Tyrrell_Racing",
           "/wiki/Ford_Motor_Company"
         ]
       ],
       [
-        [
-          "1:53.237"
-        ],
-        [
-          null
-        ]
+        "1:53.237",
+        []
       ],
       [
-        [
-          "+4.555"
-        ],
-        [
-          null
-        ]
+        "+4.555",
+        []
       ]
     ],
     [
       [
-        [
-          "20"
-        ],
-        [
-          null
-        ]
+        "20",
+        []
       ],
       [
-        [
-          "20"
-        ],
-        [
-          null
-        ]
+        "20",
+        []
       ],
       [
-        [
-          "Ricardo Rosset"
-        ],
+        "Ricardo Rosset",
         [
           "/wiki/Ricardo_Rosset"
         ]
       ],
       [
-        [
-          "Tyrrell",
-          "Ford"
-        ],
+        "Tyrrell - Ford",
         [
           "/wiki/Tyrrell_Racing",
           "/wiki/Ford_Motor_Company"
         ]
       ],
       [
-        [
-          "1:54.850"
-        ],
-        [
-          null
-        ]
+        "1:54.850",
+        []
       ],
       [
-        [
-          "+6.168"
-        ],
-        [
-          null
-        ]
+        "+6.168",
+        []
       ]
     ]
   ],

@@ -3,68 +3,40 @@
   "title": "Carrier Air Wing Seven",
   "header": [
     [
-      [
-        "Code"
-      ],
-      [
-        null
-      ]
+      "Code",
+      []
     ],
     [
-      [
-        "Squadron"
-      ],
-      [
-        null
-      ]
+      "Squadron",
+      []
     ],
     [
-      [
-        "Nickname"
-      ],
-      [
-        null
-      ]
+      "Nickname",
+      []
     ],
     [
-      [
-        "Assigned Aircraft"
-      ],
-      [
-        null
-      ]
+      "Assigned Aircraft",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "VFA-143"
-        ],
-        [
-          null
-        ]
+        "VFA-143",
+        []
       ],
       [
-        [
-          "Strike Fighter Squadron 143"
-        ],
+        "Strike Fighter Squadron 143",
         [
           "/wiki/VFA-143"
         ]
       ],
       [
-        [
-          "Pukin Dogs"
-        ],
-        [
-          null
-        ]
+        "Pukin Dogs",
+        []
       ],
       [
-        [
-          "F/A-18E Super Hornet"
-        ],
+        "F/A-18E Super Hornet",
         [
           "/wiki/F/A-18E/F_Super_Hornet"
         ]
@@ -72,33 +44,21 @@
     ],
     [
       [
-        [
-          "VFA-103"
-        ],
-        [
-          null
-        ]
+        "VFA-103",
+        []
       ],
       [
-        [
-          "Strike Fighter Squadron 103"
-        ],
+        "Strike Fighter Squadron 103",
         [
           "/wiki/VFA-103"
         ]
       ],
       [
-        [
-          "Jolly Rogers"
-        ],
-        [
-          null
-        ]
+        "Jolly Rogers",
+        []
       ],
       [
-        [
-          "F/A-18F Super Hornet"
-        ],
+        "F/A-18F Super Hornet",
         [
           "/wiki/F/A-18E/F_Super_Hornet"
         ]
@@ -106,33 +66,21 @@
     ],
     [
       [
-        [
-          "VFA-86"
-        ],
-        [
-          null
-        ]
+        "VFA-86",
+        []
       ],
       [
-        [
-          "Strike Fighter Squadron 86"
-        ],
+        "Strike Fighter Squadron 86",
         [
           "/wiki/VFA-86"
         ]
       ],
       [
-        [
-          "Sidewinders"
-        ],
-        [
-          null
-        ]
+        "Sidewinders",
+        []
       ],
       [
-        [
-          "F/A-18E Super Hornet"
-        ],
+        "F/A-18E Super Hornet",
         [
           "/wiki/F/A-18E/F_Super_Hornet"
         ]
@@ -140,33 +88,21 @@
     ],
     [
       [
-        [
-          "VFA-25"
-        ],
-        [
-          null
-        ]
+        "VFA-25",
+        []
       ],
       [
-        [
-          "Strike Fighter Squadron 25"
-        ],
+        "Strike Fighter Squadron 25",
         [
           "/wiki/VFA-25"
         ]
       ],
       [
-        [
-          "Fist of the Fleet"
-        ],
-        [
-          null
-        ]
+        "Fist of the Fleet",
+        []
       ],
       [
-        [
-          "F/A-18E Super Hornet"
-        ],
+        "F/A-18E Super Hornet",
         [
           "/wiki/F/A-18E/F_Super_Hornet"
         ]
@@ -174,33 +110,21 @@
     ],
     [
       [
-        [
-          "VAQ-140"
-        ],
-        [
-          null
-        ]
+        "VAQ-140",
+        []
       ],
       [
-        [
-          "Electronic Attack Squadron 140"
-        ],
+        "Electronic Attack Squadron 140",
         [
           "/wiki/VAQ-140"
         ]
       ],
       [
-        [
-          "Patriots"
-        ],
-        [
-          null
-        ]
+        "Patriots",
+        []
       ],
       [
-        [
-          "EA-18G Growler"
-        ],
+        "EA-18G Growler",
         [
           "/wiki/EA-18G_Growler"
         ]
@@ -208,33 +132,21 @@
     ],
     [
       [
-        [
-          "VAW-121"
-        ],
-        [
-          null
-        ]
+        "VAW-121",
+        []
       ],
       [
-        [
-          "Airborne Early Warning Squadron 121"
-        ],
+        "Airborne Early Warning Squadron 121",
         [
           "/wiki/VAW-121"
         ]
       ],
       [
-        [
-          "Bluetails"
-        ],
-        [
-          null
-        ]
+        "Bluetails",
+        []
       ],
       [
-        [
-          "E2D Advanced Hawkeye"
-        ],
+        "E2D Advanced Hawkeye",
         [
           "/wiki/Northrop_Grumman_E-2_Hawkeye"
         ]
@@ -242,33 +154,21 @@
     ],
     [
       [
-        [
-          "HSC-5"
-        ],
-        [
-          null
-        ]
+        "HSC-5",
+        []
       ],
       [
-        [
-          "Helicopter Sea Combat Squadron 5"
-        ],
+        "Helicopter Sea Combat Squadron 5",
         [
           "/wiki/HS-5"
         ]
       ],
       [
-        [
-          "Nightdippers"
-        ],
-        [
-          null
-        ]
+        "Nightdippers",
+        []
       ],
       [
-        [
-          "MH-60S Seahawk"
-        ],
+        "MH-60S Seahawk",
         [
           "/wiki/SH-60_Seahawk"
         ]
@@ -276,33 +176,21 @@
     ],
     [
       [
-        [
-          "HSM-79"
-        ],
-        [
-          null
-        ]
+        "HSM-79",
+        []
       ],
       [
-        [
-          "Helicopter Maritime Strike Squadron 79"
-        ],
+        "Helicopter Maritime Strike Squadron 79",
         [
           "/wiki/HSM-79"
         ]
       ],
       [
-        [
-          "Griffins"
-        ],
-        [
-          null
-        ]
+        "Griffins",
+        []
       ],
       [
-        [
-          "MH-60R Seahawk"
-        ],
+        "MH-60R Seahawk",
         [
           "/wiki/SH-60_Seahawk"
         ]
@@ -310,33 +198,21 @@
     ],
     [
       [
-        [
-          "VRC-40"
-        ],
-        [
-          null
-        ]
+        "VRC-40",
+        []
       ],
       [
-        [
-          "Fleet Logistics Support Squadron 40 Det . 3"
-        ],
+        "Fleet Logistics Support Squadron 40 Det . 3",
         [
           "/wiki/VRC-40"
         ]
       ],
       [
-        [
-          "Rawhides"
-        ],
-        [
-          null
-        ]
+        "Rawhides",
+        []
       ],
       [
-        [
-          "C-2A Greyhound"
-        ],
+        "C-2A Greyhound",
         [
           "/wiki/C-2_Greyhound"
         ]

@@ -3,106 +3,57 @@
   "title": "2018 Orienteering World Cup",
   "header": [
     [
-      [
-        "No"
-      ],
-      [
-        null
-      ]
+      "No",
+      []
     ],
     [
-      [
-        "Venue"
-      ],
-      [
-        null
-      ]
+      "Venue",
+      []
     ],
     [
-      [
-        "Distance"
-      ],
-      [
-        null
-      ]
+      "Distance",
+      []
     ],
     [
-      [
-        "Date"
-      ],
-      [
-        null
-      ]
+      "Date",
+      []
     ],
     [
-      [
-        "Winner"
-      ],
-      [
-        null
-      ]
+      "Winner",
+      []
     ],
     [
-      [
-        "Second"
-      ],
-      [
-        null
-      ]
+      "Second",
+      []
     ],
     [
-      [
-        "Third"
-      ],
-      [
-        null
-      ]
+      "Third",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "Ticino",
-          "Switzerland"
-        ],
+        "Ticino , Switzerland",
         [
           "/wiki/Ticino",
           "/wiki/Switzerland"
         ]
       ],
       [
-        [
-          "Sprint Relay ( EOC )"
-        ],
-        [
-          null
-        ]
+        "Sprint Relay ( EOC )",
+        []
       ],
       [
-        [
-          "10 May"
-        ],
-        [
-          null
-        ]
+        "10 May",
+        []
       ],
       [
-        [
-          "Switzerland",
-          "Judith Wyder",
-          "Florian Howald",
-          "Martin Hubmann",
-          "Elena Roos"
-        ],
+        "Switzerland Judith Wyder Florian Howald Martin Hubmann Elena Roos",
         [
           "/wiki/Switzerland",
           "/wiki/Judith_Wyder",
@@ -112,13 +63,7 @@
         ]
       ],
       [
-        [
-          "Sweden",
-          "Lina Strand",
-          "Emil Svensk",
-          "Jonas Leandersson",
-          "Karolin Ohlsson"
-        ],
+        "Sweden Lina Strand Emil Svensk Jonas Leandersson Karolin Ohlsson",
         [
           "/wiki/Sweden",
           "/wiki/Lina_Strand",
@@ -128,13 +73,7 @@
         ]
       ],
       [
-        [
-          "Norway",
-          "Sigrid Alexandersen",
-          "Trond Einar Moen Pedersli",
-          "\u00d8ystein Kvaal \u00d8sterb\u00f8",
-          "Andrine Benjaminsen"
-        ],
+        "Norway Sigrid Alexandersen Trond Einar Moen Pedersli \u00d8ystein Kvaal \u00d8sterb\u00f8 Andrine Benjaminsen",
         [
           "/wiki/Norway",
           "/wiki/Sigrid_Alexandersen",
@@ -146,46 +85,26 @@
     ],
     [
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "Ticino",
-          "Switzerland"
-        ],
+        "Ticino , Switzerland",
         [
           "/wiki/Ticino",
           "/wiki/Switzerland"
         ]
       ],
       [
-        [
-          "Women 's relay ( EOC )"
-        ],
-        [
-          null
-        ]
+        "Women 's relay ( EOC )",
+        []
       ],
       [
-        [
-          "12 May"
-        ],
-        [
-          null
-        ]
+        "12 May",
+        []
       ],
       [
-        [
-          "Switzerland",
-          "Judith Wyder",
-          "Elena Roos",
-          "Julia Gross"
-        ],
+        "Switzerland Judith Wyder Elena Roos Julia Gross",
         [
           "/wiki/Switzerland",
           "/wiki/Judith_Wyder",
@@ -194,12 +113,7 @@
         ]
       ],
       [
-        [
-          "Sweden",
-          "Lina Strand",
-          "Sara Hagstr\u00f6m",
-          "Karolin Ohlsson"
-        ],
+        "Sweden Lina Strand Sara Hagstr\u00f6m Karolin Ohlsson",
         [
           "/wiki/Sweden",
           "/wiki/Lina_Strand",
@@ -208,12 +122,7 @@
         ]
       ],
       [
-        [
-          "Denmark",
-          "Cecilie Friberg Klysner",
-          "Ida Bobach",
-          "Maja Alm"
-        ],
+        "Denmark Cecilie Friberg Klysner Ida Bobach Maja Alm",
         [
           "/wiki/Denmark",
           "/wiki/Cecilie_Friberg_Klysner",
@@ -224,46 +133,26 @@
     ],
     [
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "Ticino",
-          "Switzerland"
-        ],
+        "Ticino , Switzerland",
         [
           "/wiki/Ticino",
           "/wiki/Switzerland"
         ]
       ],
       [
-        [
-          "Men 's relay ( EOC )"
-        ],
-        [
-          null
-        ]
+        "Men 's relay ( EOC )",
+        []
       ],
       [
-        [
-          "12 May"
-        ],
-        [
-          null
-        ]
+        "12 May",
+        []
       ],
       [
-        [
-          "Norway",
-          "Eskil Kinneberg",
-          "Magne D\u00e6hli",
-          "Olav Lundanes"
-        ],
+        "Norway Eskil Kinneberg Magne D\u00e6hli Olav Lundanes",
         [
           "/wiki/Norway",
           "/wiki/Eskil_Kinneberg",
@@ -272,12 +161,7 @@
         ]
       ],
       [
-        [
-          "Switzerland",
-          "Florian Howald",
-          "Matthias Kyburz",
-          "Daniel Hubmann"
-        ],
+        "Switzerland Florian Howald Matthias Kyburz Daniel Hubmann",
         [
           "/wiki/Switzerland",
           "/wiki/Florian_Howald",
@@ -286,12 +170,7 @@
         ]
       ],
       [
-        [
-          "France",
-          "Nicolas Rio",
-          "Lucas Basset",
-          "Frederic Tranchand"
-        ],
+        "France Nicolas Rio Lucas Basset Frederic Tranchand",
         [
           "/wiki/France",
           "/wiki/Nicolas_Rio",
@@ -302,47 +181,26 @@
     ],
     [
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "Riga",
-          "Latvia"
-        ],
+        "Riga , Latvia",
         [
           "/wiki/Riga",
           "/wiki/Latvia"
         ]
       ],
       [
-        [
-          "Sprint Relay ( WOC )"
-        ],
-        [
-          null
-        ]
+        "Sprint Relay ( WOC )",
+        []
       ],
       [
-        [
-          "5 August"
-        ],
-        [
-          null
-        ]
+        "5 August",
+        []
       ],
       [
-        [
-          "Sweden",
-          "Tove Alexandersson",
-          "Emil Svensk",
-          "Jonas Leandersson",
-          "Karolin Ohlsson"
-        ],
+        "Sweden Tove Alexandersson Emil Svensk Jonas Leandersson Karolin Ohlsson",
         [
           "/wiki/Sweden",
           "/wiki/Tove_Alexandersson",
@@ -352,13 +210,7 @@
         ]
       ],
       [
-        [
-          "Switzerland",
-          "Elena Roos",
-          "Florian Howald",
-          "Fabian Hertner",
-          "Judith Wyder"
-        ],
+        "Switzerland Elena Roos Florian Howald Fabian Hertner Judith Wyder",
         [
           "/wiki/Switzerland",
           "/wiki/Elena_Roos",
@@ -368,13 +220,7 @@
         ]
       ],
       [
-        [
-          "Denmark",
-          "Amanda Falck Weber",
-          "Tue Lassen",
-          "Jakob Edsen",
-          "Maja Alm"
-        ],
+        "Denmark Amanda Falck Weber Tue Lassen Jakob Edsen Maja Alm",
         [
           "/wiki/Denmark",
           "/wiki/Amanda_Falck_Weber",
@@ -386,46 +232,26 @@
     ],
     [
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "Riga",
-          "Latvia"
-        ],
+        "Riga , Latvia",
         [
           "/wiki/Riga",
           "/wiki/Latvia"
         ]
       ],
       [
-        [
-          "Women 's relay ( WOC )"
-        ],
-        [
-          null
-        ]
+        "Women 's relay ( WOC )",
+        []
       ],
       [
-        [
-          "9 August"
-        ],
-        [
-          null
-        ]
+        "9 August",
+        []
       ],
       [
-        [
-          "Switzerland",
-          "Elena Roos",
-          "Julia Jakob",
-          "Judith Wyder"
-        ],
+        "Switzerland Elena Roos Julia Jakob Judith Wyder",
         [
           "/wiki/Switzerland",
           "/wiki/Elena_Roos",
@@ -434,12 +260,7 @@
         ]
       ],
       [
-        [
-          "Sweden",
-          "Helena Bergman",
-          "Karolin Ohlsson",
-          "Tove Alexandersson"
-        ],
+        "Sweden Helena Bergman Karolin Ohlsson Tove Alexandersson",
         [
           "/wiki/Sweden",
           "/wiki/Helena_Bergman",
@@ -448,12 +269,7 @@
         ]
       ],
       [
-        [
-          "Russia",
-          "Anastasia Rudnaya",
-          "Tatyana Riabkina",
-          "Natalia Gemperle"
-        ],
+        "Russia Anastasia Rudnaya Tatyana Riabkina Natalia Gemperle",
         [
           "/wiki/Russia",
           "/wiki/Anastasia_Rudnaya",
@@ -464,46 +280,26 @@
     ],
     [
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "Riga",
-          "Latvia"
-        ],
+        "Riga , Latvia",
         [
           "/wiki/Riga",
           "/wiki/Latvia"
         ]
       ],
       [
-        [
-          "Men 's relay ( WOC )"
-        ],
-        [
-          null
-        ]
+        "Men 's relay ( WOC )",
+        []
       ],
       [
-        [
-          "9 August"
-        ],
-        [
-          null
-        ]
+        "9 August",
+        []
       ],
       [
-        [
-          "Norway",
-          "Gaute Hallan Steiwer",
-          "Eskil Kinneberg",
-          "Magne D\u00e6hli"
-        ],
+        "Norway Gaute Hallan Steiwer Eskil Kinneberg Magne D\u00e6hli",
         [
           "/wiki/Norway",
           "/wiki/Gaute_Hallan_Steiwer",
@@ -512,12 +308,7 @@
         ]
       ],
       [
-        [
-          "Switzerland",
-          "Florian Howald",
-          "Daniel Hubmann",
-          "Matthias Kyburz"
-        ],
+        "Switzerland Florian Howald Daniel Hubmann Matthias Kyburz",
         [
           "/wiki/Switzerland",
           "/wiki/Florian_Howald",
@@ -526,12 +317,7 @@
         ]
       ],
       [
-        [
-          "France",
-          "Nicolas Rio",
-          "Lucas Basset",
-          "Frederic Tranchand"
-        ],
+        "France Nicolas Rio Lucas Basset Frederic Tranchand",
         [
           "/wiki/France",
           "/wiki/Nicolas_Rio",
@@ -542,46 +328,26 @@
     ],
     [
       [
-        [
-          "7"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ],
       [
-        [
-          "\u00d8stfold",
-          "Norway"
-        ],
+        "\u00d8stfold , Norway",
         [
           "/wiki/\u00d8stfold",
           "/wiki/Norway"
         ]
       ],
       [
-        [
-          "Women 's relay"
-        ],
-        [
-          null
-        ]
+        "Women 's relay",
+        []
       ],
       [
-        [
-          "2 September"
-        ],
-        [
-          null
-        ]
+        "2 September",
+        []
       ],
       [
-        [
-          "Sweden",
-          "Lina Strand",
-          "Karolin Ohlsson",
-          "Tove Alexandersson"
-        ],
+        "Sweden Lina Strand Karolin Ohlsson Tove Alexandersson",
         [
           "/wiki/Sweden",
           "/wiki/Lina_Strand",
@@ -590,76 +356,43 @@
         ]
       ],
       [
-        [
-          "Norway",
-          "Silje Ekroll Jahren",
-          "Marianne Andersen",
-          "Kamilla Olaussen"
-        ],
+        "Norway Silje Ekroll Jahren Marianne Andersen Kamilla Olaussen",
         [
           "/wiki/Norway",
           "/wiki/Silje_Ekroll_Jahren",
-          "/wiki/Marianne_Andersen",
-          null
+          "/wiki/Marianne_Andersen"
         ]
       ],
       [
-        [
-          "Finland",
-          "Sari Anttonen",
-          "Lotta Karhola",
-          "Henna Riikka Haikonen"
-        ],
+        "Finland Sari Anttonen Lotta Karhola Henna Riikka Haikonen",
         [
           "/wiki/Finland",
-          "/wiki/Sari_Anttonen",
-          null,
-          null
+          "/wiki/Sari_Anttonen"
         ]
       ]
     ],
     [
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "\u00d8stfold",
-          "Norway"
-        ],
+        "\u00d8stfold , Norway",
         [
           "/wiki/\u00d8stfold",
           "/wiki/Norway"
         ]
       ],
       [
-        [
-          "Men 's relay"
-        ],
-        [
-          null
-        ]
+        "Men 's relay",
+        []
       ],
       [
-        [
-          "2 September"
-        ],
-        [
-          null
-        ]
+        "2 September",
+        []
       ],
       [
-        [
-          "Norway",
-          "Eskil Kinneberg",
-          "Olav Lundanes",
-          "Magne D\u00e6hli"
-        ],
+        "Norway Eskil Kinneberg Olav Lundanes Magne D\u00e6hli",
         [
           "/wiki/Norway",
           "/wiki/Eskil_Kinneberg",
@@ -668,26 +401,15 @@
         ]
       ],
       [
-        [
-          "Sweden",
-          "Albin Ridefeldt",
-          "Gustav Bergman",
-          "William Lind"
-        ],
+        "Sweden Albin Ridefeldt Gustav Bergman William Lind",
         [
           "/wiki/Sweden",
-          null,
           "/wiki/Gustav_Bergman_(orienteer)",
           "/wiki/William_Lind_(orienteer)"
         ]
       ],
       [
-        [
-          "Sweden",
-          "Martin Regborn",
-          "Jonas Leandersson",
-          "Emil Svensk"
-        ],
+        "Sweden 2 Martin Regborn Jonas Leandersson Emil Svensk",
         [
           "/wiki/Sweden",
           "/wiki/Martin_Regborn",
@@ -698,47 +420,26 @@
     ],
     [
       [
-        [
-          "9"
-        ],
-        [
-          null
-        ]
+        "9",
+        []
       ],
       [
-        [
-          "Prague",
-          "Czech Republic"
-        ],
+        "Prague , Czech Republic",
         [
           "/wiki/Prague",
           "/wiki/Czech_Republic"
         ]
       ],
       [
-        [
-          "Sprint Relay"
-        ],
-        [
-          null
-        ]
+        "Sprint Relay",
+        []
       ],
       [
-        [
-          "5 October"
-        ],
-        [
-          null
-        ]
+        "5 October",
+        []
       ],
       [
-        [
-          "Switzerland",
-          "Sabine Hauswirth",
-          "Andreas Kyburz",
-          "Florian Howald",
-          "Judith Wyder"
-        ],
+        "Switzerland 1 Sabine Hauswirth Andreas Kyburz Florian Howald Judith Wyder",
         [
           "/wiki/Switzerland",
           "/wiki/Sabine_Hauswirth",
@@ -748,13 +449,7 @@
         ]
       ],
       [
-        [
-          "Sweden",
-          "Lina Strand",
-          "Emil Svensk",
-          "Jonas Leandersson",
-          "Tove Alexandersson"
-        ],
+        "Sweden 1 Lina Strand Emil Svensk Jonas Leandersson Tove Alexandersson",
         [
           "/wiki/Sweden",
           "/wiki/Lina_Strand",
@@ -764,19 +459,10 @@
         ]
       ],
       [
-        [
-          "Switzerland",
-          "Julia Jakob",
-          "Thomas Curiger",
-          "Jonas Egger",
-          "Martina Ruch"
-        ],
+        "Switzerland 2 Julia Jakob Thomas Curiger Jonas Egger Martina Ruch",
         [
           "/wiki/Switzerland",
-          "/wiki/Julia_Jakob",
-          null,
-          null,
-          null
+          "/wiki/Julia_Jakob"
         ]
       ]
     ]

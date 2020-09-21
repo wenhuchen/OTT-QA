@@ -3,69 +3,40 @@
   "title": "Biathlon World Championships",
   "header": [
     [
-      [
-        "Season"
-      ],
-      [
-        null
-      ]
+      "Season",
+      []
     ],
     [
-      [
-        "Winner"
-      ],
-      [
-        null
-      ]
+      "Winner",
+      []
     ],
     [
-      [
-        "Runner-up"
-      ],
-      [
-        null
-      ]
+      "Runner-up",
+      []
     ],
     [
-      [
-        "Third"
-      ],
-      [
-        null
-      ]
+      "Third",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "1984"
-        ],
+        "1984",
         [
           "/wiki/Biathlon_World_Championships_1984"
         ]
       ],
       [
-        [
-          "Soviet Union",
-          "Venera Chernyshova",
-          "Liudmila Zabolotnaya",
-          "Kaija Parve"
-        ],
+        "Soviet Union Venera Chernyshova Liudmila Zabolotnaya Kaija Parve",
         [
           "/wiki/Soviet_Union",
           "/wiki/Venera_Chernyshova",
-          null,
           "/wiki/Kaija_Parve"
         ]
       ],
       [
-        [
-          "Norway",
-          "Sanna Gr\u00f8nlid",
-          "Gry \u00d8stvik",
-          "Siv Br\u00e5ten"
-        ],
+        "Norway Sanna Gr\u00f8nlid Gry \u00d8stvik Siv Br\u00e5ten",
         [
           "/wiki/Norway",
           "/wiki/Sanna_Gr\u00f8nlid",
@@ -74,36 +45,22 @@
         ]
       ],
       [
-        [
-          "United States",
-          "Holly Beatie",
-          "Julie Newman",
-          "Kari Swenson"
-        ],
+        "United States Holly Beatie Julie Newman Kari Swenson",
         [
           "/wiki/United_States",
-          null,
-          null,
           "/wiki/Kari_Swenson"
         ]
       ]
     ],
     [
       [
-        [
-          "1985"
-        ],
+        "1985",
         [
           "/wiki/Biathlon_World_Championships_1985"
         ]
       ],
       [
-        [
-          "Soviet Union",
-          "Venera Chernyshova",
-          "Elena Golovina",
-          "Kaija Parve"
-        ],
+        "Soviet Union Venera Chernyshova Elena Golovina Kaija Parve",
         [
           "/wiki/Soviet_Union",
           "/wiki/Venera_Chernyshova",
@@ -112,12 +69,7 @@
         ]
       ],
       [
-        [
-          "Norway",
-          "Sanna Gr\u00f8nlid",
-          "Gry \u00d8stvik",
-          "Siv Br\u00e5ten"
-        ],
+        "Norway Sanna Gr\u00f8nlid Gry \u00d8stvik Siv Br\u00e5ten",
         [
           "/wiki/Norway",
           "/wiki/Sanna_Gr\u00f8nlid",
@@ -126,64 +78,39 @@
         ]
       ],
       [
-        [
-          "Finland",
-          "Pirjo Mattila",
-          "Tuija Vuoksiala",
-          "Teija Nieminen"
-        ],
+        "Finland Pirjo Mattila Tuija Vuoksiala Teija Nieminen",
         [
           "/wiki/Finland",
           "/wiki/Pirjo_Mattila",
-          "/wiki/Tuija_Vuoksiala",
-          null
+          "/wiki/Tuija_Vuoksiala"
         ]
       ]
     ],
     [
       [
-        [
-          "1986"
-        ],
+        "1986",
         [
           "/wiki/Biathlon_World_Championships_1986"
         ]
       ],
       [
-        [
-          "Soviet Union",
-          "Kaija Parve",
-          "Nadejda Belova",
-          "Venera Chernyshova"
-        ],
+        "Soviet Union Kaija Parve Nadejda Belova Venera Chernyshova",
         [
           "/wiki/Soviet_Union",
           "/wiki/Kaija_Parve",
-          null,
           "/wiki/Venera_Chernyshova"
         ]
       ],
       [
-        [
-          "Sweden",
-          "Eva Korpela",
-          "Inger Bj\u00f6rkbom",
-          "Sabine Karlsson"
-        ],
+        "Sweden Eva Korpela Inger Bj\u00f6rkbom Sabine Karlsson",
         [
           "/wiki/Sweden",
           "/wiki/Eva_Korpela",
-          "/wiki/Inger_Bj\u00f6rkbom",
-          null
+          "/wiki/Inger_Bj\u00f6rkbom"
         ]
       ],
       [
-        [
-          "Norway",
-          "Sanna Gr\u00f8nlid",
-          "Siv Br\u00e5ten",
-          "Anne Elvebakk"
-        ],
+        "Norway Sanna Gr\u00f8nlid Siv Br\u00e5ten Anne Elvebakk",
         [
           "/wiki/Norway",
           "/wiki/Sanna_Gr\u00f8nlid",
@@ -194,20 +121,13 @@
     ],
     [
       [
-        [
-          "1987"
-        ],
+        "1987",
         [
           "/wiki/Biathlon_World_Championships_1987"
         ]
       ],
       [
-        [
-          "Soviet Union",
-          "Elena Golovina",
-          "Venera Chernyshova",
-          "Kaija Parve"
-        ],
+        "Soviet Union Elena Golovina Venera Chernyshova Kaija Parve",
         [
           "/wiki/Soviet_Union",
           "/wiki/Elena_Golovina",
@@ -216,12 +136,7 @@
         ]
       ],
       [
-        [
-          "Sweden",
-          "Inger Bj\u00f6rkbom",
-          "Mia Stadig",
-          "Eva Korpela"
-        ],
+        "Sweden Inger Bj\u00f6rkbom Mia Stadig Eva Korpela",
         [
           "/wiki/Sweden",
           "/wiki/Inger_Bj\u00f6rkbom",
@@ -230,12 +145,7 @@
         ]
       ],
       [
-        [
-          "Norway",
-          "Anne Elvebakk",
-          "Sanna Gr\u00f8nlid",
-          "Siv Br\u00e5ten Lunde"
-        ],
+        "Norway Anne Elvebakk Sanna Gr\u00f8nlid Siv Br\u00e5ten Lunde",
         [
           "/wiki/Norway",
           "/wiki/Anne_Elvebakk",
@@ -246,20 +156,13 @@
     ],
     [
       [
-        [
-          "1988"
-        ],
+        "1988",
         [
           "/wiki/Biathlon_World_Championships_1988"
         ]
       ],
       [
-        [
-          "Soviet Union",
-          "Venera Chernyshova",
-          "Elena Golovina",
-          "Kaija Parve"
-        ],
+        "Soviet Union Venera Chernyshova Elena Golovina Kaija Parve",
         [
           "/wiki/Soviet_Union",
           "/wiki/Venera_Chernyshova",
@@ -268,12 +171,7 @@
         ]
       ],
       [
-        [
-          "Norway",
-          "Elin Kristiansen",
-          "Anne Elvebakk",
-          "Mona Bollerud"
-        ],
+        "Norway Elin Kristiansen Anne Elvebakk Mona Bollerud",
         [
           "/wiki/Norway",
           "/wiki/Elin_Kristiansen",
@@ -282,102 +180,61 @@
         ]
       ],
       [
-        [
-          "Sweden",
-          "Eva Korpela",
-          "Inger Bj\u00f6rkbom",
-          "Sabine Karlsson"
-        ],
+        "Sweden Eva Korpela Inger Bj\u00f6rkbom Sabine Karlsson",
         [
           "/wiki/Sweden",
           "/wiki/Eva_Korpela",
-          "/wiki/Inger_Bj\u00f6rkbom",
-          null
+          "/wiki/Inger_Bj\u00f6rkbom"
         ]
       ]
     ],
     [
       [
-        [
-          "1989"
-        ],
+        "1989",
         [
           "/wiki/Biathlon_World_Championships_1989"
         ]
       ],
       [
-        [
-          "Soviet Union",
-          "Natalia Prikazchikova",
-          "Svetlana Davidova",
-          "Elena Golovina"
-        ],
+        "Soviet Union Natalia Prikazchikova Svetlana Davidova Elena Golovina",
         [
           "/wiki/Soviet_Union",
-          null,
           "/wiki/Svetlana_Petcherskaia",
           "/wiki/Elena_Golovina"
         ]
       ],
       [
-        [
-          "Bulgaria",
-          "Zvetana Krasteva",
-          "Maria Manolova",
-          "Nadezhda Aleksieva"
-        ],
+        "Bulgaria Zvetana Krasteva Maria Manolova Nadezhda Aleksieva",
         [
           "/wiki/Bulgaria",
-          null,
-          null,
           "/wiki/Nadezhda_Aleksieva"
         ]
       ],
       [
-        [
-          "Czechoslovakia",
-          "Eva Bure\u0161ov\u00e1",
-          "Renata Novotn\u00e1",
-          "Ji\u0159ina Adami\u010dkov\u00e1"
-        ],
+        "Czechoslovakia Eva Bure\u0161ov\u00e1 Renata Novotn\u00e1 Ji\u0159ina Adami\u010dkov\u00e1",
         [
           "/wiki/Czechoslovakia",
-          null,
-          null,
           "/wiki/Ji\u0159ina_Adami\u010dkov\u00e1"
         ]
       ]
     ],
     [
       [
-        [
-          "1990"
-        ],
+        "1990",
         [
           "/wiki/Biathlon_World_Championships_1990"
         ]
       ],
       [
-        [
-          "Soviet Union",
-          "Elena Batsevich",
-          "Elena Golovina",
-          "Svetlana Davidova"
-        ],
+        "Soviet Union Elena Batsevich Elena Golovina Svetlana Davidova",
         [
           "/wiki/Soviet_Union",
-          null,
           "/wiki/Elena_Golovina",
           "/wiki/Svetlana_Petcherskaia"
         ]
       ],
       [
-        [
-          "Norway",
-          "Grete Ingeborg Nykkelmo",
-          "Anne Elvebakk",
-          "Elin Kristiansen"
-        ],
+        "Norway Grete Ingeborg Nykkelmo Anne Elvebakk Elin Kristiansen",
         [
           "/wiki/Norway",
           "/wiki/Grete_Ingeborg_Nykkelmo",
@@ -386,36 +243,23 @@
         ]
       ],
       [
-        [
-          "Finland",
-          "Tuija Vuoksiala",
-          "Seija Hyyti\u00e4inen",
-          "Pirjo Mattila"
-        ],
+        "Finland Tuija Vuoksiala Seija Hyyti\u00e4inen Pirjo Mattila",
         [
           "/wiki/Finland",
           "/wiki/Tuija_Vuoksiala",
-          null,
           "/wiki/Pirjo_Mattila"
         ]
       ]
     ],
     [
       [
-        [
-          "1991"
-        ],
+        "1991",
         [
           "/wiki/Biathlon_World_Championships_1991"
         ]
       ],
       [
-        [
-          "Soviet Union",
-          "Yelena Belova",
-          "Elena Golovina",
-          "Svetlana Davidova"
-        ],
+        "Soviet Union Yelena Belova Elena Golovina ( 6 ) Svetlana Davidova",
         [
           "/wiki/Soviet_Union",
           "/wiki/Yelena_Belova_(biathlete)",
@@ -424,12 +268,7 @@
         ]
       ],
       [
-        [
-          "Norway",
-          "Grete Ingeborg Nykkelmo",
-          "Anne Elvebakk",
-          "Elin Kristiansen"
-        ],
+        "Norway Grete Ingeborg Nykkelmo Anne Elvebakk Elin Kristiansen",
         [
           "/wiki/Norway",
           "/wiki/Grete_Ingeborg_Nykkelmo",
@@ -438,12 +277,7 @@
         ]
       ],
       [
-        [
-          "Germany",
-          "Uschi Disl",
-          "Kerstin Moring",
-          "Antje Misersky"
-        ],
+        "Germany Uschi Disl Kerstin Moring Antje Misersky",
         [
           "/wiki/Germany",
           "/wiki/Uschi_Disl",
@@ -454,21 +288,13 @@
     ],
     [
       [
-        [
-          "1993"
-        ],
+        "1993",
         [
           "/wiki/Biathlon_World_Championships_1993"
         ]
       ],
       [
-        [
-          "Czech Republic",
-          "Jana Kulhav\u00e1",
-          "Ji\u0159ina Adami\u010dkov\u00e1",
-          "Iveta Kn\u00ed\u017ekov\u00e1",
-          "Eva H\u00e1kov\u00e1"
-        ],
+        "Czech Republic Jana Kulhav\u00e1 Ji\u0159ina Adami\u010dkov\u00e1 Iveta Kn\u00ed\u017ekov\u00e1 Eva H\u00e1kov\u00e1",
         [
           "/wiki/Czech_Republic",
           "/wiki/Jana_Kulhav\u00e1",
@@ -478,13 +304,7 @@
         ]
       ],
       [
-        [
-          "France",
-          "Corinne Niogret",
-          "V\u00e9ronique Claudel",
-          "Delphyne Heymann",
-          "Anne Briand"
-        ],
+        "France Corinne Niogret V\u00e9ronique Claudel Delphyne Heymann Anne Briand",
         [
           "/wiki/France",
           "/wiki/Corinne_Niogret",
@@ -494,39 +314,23 @@
         ]
       ],
       [
-        [
-          "Russia",
-          "Svetlana Paniutina",
-          "Nadejda Talanova",
-          "Olga Simushina",
-          "Yelena Belova"
-        ],
+        "Russia Svetlana Paniutina Nadejda Talanova Olga Simushina Yelena Belova",
         [
           "/wiki/Russia",
-          null,
           "/wiki/Nadejda_Talanova",
-          null,
           "/wiki/Yelena_Belova_(biathlete)"
         ]
       ]
     ],
     [
       [
-        [
-          "1995"
-        ],
+        "1995",
         [
           "/wiki/Biathlon_World_Championships_1995"
         ]
       ],
       [
-        [
-          "Germany",
-          "Uschi Disl",
-          "Antje Harvey",
-          "Simone Greiner-Petter-Memm",
-          "Petra Schaaf"
-        ],
+        "Germany Uschi Disl Antje Harvey Simone Greiner-Petter-Memm Petra Schaaf",
         [
           "/wiki/Germany",
           "/wiki/Uschi_Disl",
@@ -536,13 +340,7 @@
         ]
       ],
       [
-        [
-          "France",
-          "Corinne Niogret",
-          "V\u00e9ronique Claudel",
-          "Florence Baverel",
-          "Anne Briand"
-        ],
+        "France Corinne Niogret V\u00e9ronique Claudel Florence Baverel Anne Briand",
         [
           "/wiki/France",
           "/wiki/Corinne_Niogret",
@@ -552,13 +350,7 @@
         ]
       ],
       [
-        [
-          "Norway",
-          "Ann-Elen Skjelbreid",
-          "Hildegunn Fossen",
-          "Annette Sikveland",
-          "Gunn Margit Andreassen"
-        ],
+        "Norway Ann-Elen Skjelbreid Hildegunn Fossen Annette Sikveland Gunn Margit Andreassen",
         [
           "/wiki/Norway",
           "/wiki/Ann-Elen_Skjelbreid",
@@ -570,21 +362,13 @@
     ],
     [
       [
-        [
-          "1996"
-        ],
+        "1996",
         [
           "/wiki/Biathlon_World_Championships_1996"
         ]
       ],
       [
-        [
-          "Germany",
-          "Uschi Disl",
-          "Simone Greiner-Petter-Memm",
-          "Katrin Apel",
-          "Petra Behle"
-        ],
+        "Germany Uschi Disl Simone Greiner-Petter-Memm Katrin Apel Petra Behle",
         [
           "/wiki/Germany",
           "/wiki/Uschi_Disl",
@@ -594,13 +378,7 @@
         ]
       ],
       [
-        [
-          "France",
-          "Corinne Niogret",
-          "Florence Baverel",
-          "Emmanuelle Claret",
-          "Anne Briand"
-        ],
+        "France Corinne Niogret Florence Baverel Emmanuelle Claret Anne Briand",
         [
           "/wiki/France",
           "/wiki/Corinne_Niogret",
@@ -610,13 +388,7 @@
         ]
       ],
       [
-        [
-          "Ukraine",
-          "Tetyana Vodopyanova",
-          "Valentina Tserbe-Nessina",
-          "Olena Petrova",
-          "Olena Zubrilova"
-        ],
+        "Ukraine Tetyana Vodopyanova Valentina Tserbe-Nessina Olena Petrova Olena Zubrilova",
         [
           "/wiki/Ukraine",
           "/wiki/Tetyana_Vodopyanova",
@@ -628,21 +400,13 @@
     ],
     [
       [
-        [
-          "1997"
-        ],
+        "1997",
         [
           "/wiki/Biathlon_World_Championships_1997"
         ]
       ],
       [
-        [
-          "Germany",
-          "Uschi Disl",
-          "Simone Greiner-Petter-Memm",
-          "Katrin Apel",
-          "Petra Behle"
-        ],
+        "Germany Uschi Disl Simone Greiner-Petter-Memm Katrin Apel Petra Behle",
         [
           "/wiki/Germany",
           "/wiki/Uschi_Disl",
@@ -652,13 +416,7 @@
         ]
       ],
       [
-        [
-          "Norway",
-          "Ann-Elen Skjelbreid",
-          "Annette Sikveland",
-          "Liv Grete Skjelbreid",
-          "Gunn Margit Andreassen"
-        ],
+        "Norway Ann-Elen Skjelbreid Annette Sikveland Liv Grete Skjelbreid Gunn Margit Andreassen",
         [
           "/wiki/Norway",
           "/wiki/Ann-Elen_Skjelbreid",
@@ -668,13 +426,7 @@
         ]
       ],
       [
-        [
-          "Russia",
-          "Olga Melnik",
-          "Galina Koukleva",
-          "Nadejda Talanova",
-          "Olga Romasko"
-        ],
+        "Russia Olga Melnik Galina Koukleva Nadejda Talanova Olga Romasko",
         [
           "/wiki/Russia",
           "/wiki/Olga_Melnik",
@@ -686,21 +438,13 @@
     ],
     [
       [
-        [
-          "1999"
-        ],
+        "1999",
         [
           "/wiki/Biathlon_World_Championships_1999"
         ]
       ],
       [
-        [
-          "Germany",
-          "Uschi Disl",
-          "Simone Greiner-Petter-Memm",
-          "Katrin Apel",
-          "Martina Zellner"
-        ],
+        "Germany Uschi Disl Simone Greiner-Petter-Memm Katrin Apel Martina Zellner",
         [
           "/wiki/Germany",
           "/wiki/Uschi_Disl",
@@ -710,13 +454,7 @@
         ]
       ],
       [
-        [
-          "Russia",
-          "Nadezhda Talanova",
-          "Galina Koukleva",
-          "Olga Romasko",
-          "Albina Akhatova"
-        ],
+        "Russia Nadezhda Talanova Galina Koukleva Olga Romasko Albina Akhatova",
         [
           "/wiki/Russia",
           "/wiki/Nadezhda_Talanova",
@@ -726,13 +464,7 @@
         ]
       ],
       [
-        [
-          "France",
-          "Delphyne Heymann-Burlet",
-          "Florence Baverel",
-          "Christelle Gros",
-          "Corinne Niogret"
-        ],
+        "France Delphyne Heymann-Burlet Florence Baverel Christelle Gros Corinne Niogret",
         [
           "/wiki/France",
           "/wiki/Delphyne_Heymann-Burlet",
@@ -744,21 +476,13 @@
     ],
     [
       [
-        [
-          "2000"
-        ],
+        "2000",
         [
           "/wiki/Biathlon_World_Championships_2000"
         ]
       ],
       [
-        [
-          "Russia",
-          "Olga Pyleva",
-          "Svetlana Chernousova",
-          "Galina Koukleva",
-          "Albina Akhatova"
-        ],
+        "Russia Olga Pyleva Svetlana Chernousova Galina Koukleva Albina Akhatova",
         [
           "/wiki/Russia",
           "/wiki/Olga_Medvedtseva",
@@ -768,13 +492,7 @@
         ]
       ],
       [
-        [
-          "Germany",
-          "Uschi Disl",
-          "Katrin Apel",
-          "Andrea Henkel",
-          "Martina Zellner"
-        ],
+        "Germany Uschi Disl Katrin Apel Andrea Henkel Martina Zellner",
         [
           "/wiki/Germany",
           "/wiki/Uschi_Disl",
@@ -784,13 +502,7 @@
         ]
       ],
       [
-        [
-          "Ukraine",
-          "Olena Zubrilova",
-          "Olena Petrova",
-          "Nina Lemesh",
-          "Tetyana Vodopyanova"
-        ],
+        "Ukraine Olena Zubrilova Olena Petrova Nina Lemesh Tetyana Vodopyanova",
         [
           "/wiki/Ukraine",
           "/wiki/Olena_Zubrilova",
@@ -802,21 +514,13 @@
     ],
     [
       [
-        [
-          "2001"
-        ],
+        "2001",
         [
           "/wiki/Biathlon_World_Championships_2001"
         ]
       ],
       [
-        [
-          "Russia",
-          "Olga Pyleva",
-          "Anna Bogaliy",
-          "Galina Koukleva",
-          "Svetlana Ishmouratova"
-        ],
+        "Russia Olga Pyleva Anna Bogaliy Galina Koukleva Svetlana Ishmouratova",
         [
           "/wiki/Russia",
           "/wiki/Olga_Medvedtseva",
@@ -826,13 +530,7 @@
         ]
       ],
       [
-        [
-          "Germany",
-          "Uschi Disl",
-          "Katrin Apel",
-          "Andrea Henkel",
-          "Kati Wilhelm"
-        ],
+        "Germany Uschi Disl Katrin Apel Andrea Henkel Kati Wilhelm",
         [
           "/wiki/Germany",
           "/wiki/Uschi_Disl",
@@ -842,13 +540,7 @@
         ]
       ],
       [
-        [
-          "Ukraine",
-          "Olena Zubrilova",
-          "Olena Petrova",
-          "Nina Lemesh",
-          "Tetyana Vodopyanova"
-        ],
+        "Ukraine Olena Zubrilova Olena Petrova Nina Lemesh Tetyana Vodopyanova",
         [
           "/wiki/Ukraine",
           "/wiki/Olena_Zubrilova",
@@ -860,21 +552,13 @@
     ],
     [
       [
-        [
-          "2003"
-        ],
+        "2003",
         [
           "/wiki/Biathlon_World_Championships_2003"
         ]
       ],
       [
-        [
-          "Russia",
-          "Albina Akhatova",
-          "Svetlana Ishmouratova",
-          "Galina Koukleva",
-          "Svetlana Chernousova"
-        ],
+        "Russia Albina Akhatova Svetlana Ishmouratova Galina Koukleva Svetlana Chernousova",
         [
           "/wiki/Russia",
           "/wiki/Albina_Akhatova",
@@ -884,13 +568,7 @@
         ]
       ],
       [
-        [
-          "Ukraine",
-          "Oksana Khvostenko",
-          "Iryna Merkushina",
-          "Oksana Yakovleva",
-          "Olena Petrova"
-        ],
+        "Ukraine Oksana Khvostenko Iryna Merkushina Oksana Yakovleva Olena Petrova",
         [
           "/wiki/Ukraine",
           "/wiki/Oksana_Khvostenko",
@@ -900,13 +578,7 @@
         ]
       ],
       [
-        [
-          "Germany",
-          "Simone Denkinger",
-          "Uschi Disl",
-          "Kati Wilhelm",
-          "Martina Glagow"
-        ],
+        "Germany Simone Denkinger Uschi Disl Kati Wilhelm Martina Glagow",
         [
           "/wiki/Germany",
           "/wiki/Simone_Hauswald",
@@ -918,21 +590,13 @@
     ],
     [
       [
-        [
-          "2004"
-        ],
+        "2004",
         [
           "/wiki/Biathlon_World_Championships_2004"
         ]
       ],
       [
-        [
-          "Norway",
-          "Linda Tj\u00f8rhom",
-          "Gro Marit Istad Kristiansen",
-          "Gunn Margit Andreassen",
-          "Liv Grete Poir\u00e9e"
-        ],
+        "Norway Linda Tj\u00f8rhom Gro Marit Istad Kristiansen Gunn Margit Andreassen Liv Grete Poir\u00e9e",
         [
           "/wiki/Norway",
           "/wiki/Linda_Grubben",
@@ -942,13 +606,7 @@
         ]
       ],
       [
-        [
-          "Russia",
-          "Olga Pyleva",
-          "Svetlana Ishmouratova",
-          "Anna Bogaliy",
-          "Albina Akhatova"
-        ],
+        "Russia Olga Pyleva Svetlana Ishmouratova Anna Bogaliy Albina Akhatova",
         [
           "/wiki/Russia",
           "/wiki/Olga_Medvedtseva",
@@ -958,13 +616,7 @@
         ]
       ],
       [
-        [
-          "Germany",
-          "Martina Glagow",
-          "Katrin Apel",
-          "Simone Denkinger",
-          "Kati Wilhelm"
-        ],
+        "Germany Martina Glagow Katrin Apel Simone Denkinger Kati Wilhelm",
         [
           "/wiki/Germany",
           "/wiki/Martina_Beck",
@@ -976,21 +628,13 @@
     ],
     [
       [
-        [
-          "2005"
-        ],
+        "2005",
         [
           "/wiki/Biathlon_World_Championships_2005"
         ]
       ],
       [
-        [
-          "Russia",
-          "Olga Pyleva",
-          "Svetlana Ishmouratova",
-          "Anna Bogaliy-Titovets",
-          "Olga Zaitseva"
-        ],
+        "Russia Olga Pyleva Svetlana Ishmouratova Anna Bogaliy-Titovets Olga Zaitseva",
         [
           "/wiki/Russia",
           "/wiki/Olga_Medvedtseva",
@@ -1000,13 +644,7 @@
         ]
       ],
       [
-        [
-          "Germany",
-          "Uschi Disl",
-          "Katrin Apel",
-          "Andrea Henkel",
-          "Kati Wilhelm"
-        ],
+        "Germany Uschi Disl Katrin Apel Andrea Henkel Kati Wilhelm",
         [
           "/wiki/Germany",
           "/wiki/Uschi_Disl",
@@ -1016,39 +654,24 @@
         ]
       ],
       [
-        [
-          "Belarus",
-          "Ekaterina Ivanova",
-          "Olga Nazarova",
-          "Liudmilla Ananko",
-          "Olena Zubrilova"
-        ],
+        "Belarus Ekaterina Ivanova Olga Nazarova Liudmilla Ananko Olena Zubrilova",
         [
           "/wiki/Belarus",
           "/wiki/Ekaterina_Ivanova_(biathlete)",
           "/wiki/Olga_Nazarova_(biathlete)",
-          null,
           "/wiki/Olena_Zubrilova"
         ]
       ]
     ],
     [
       [
-        [
-          "2007"
-        ],
+        "2007",
         [
           "/wiki/Biathlon_World_Championships_2007"
         ]
       ],
       [
-        [
-          "Germany",
-          "Martina Glagow",
-          "Andrea Henkel",
-          "Magdalena Neuner",
-          "Kati Wilhelm"
-        ],
+        "Germany Martina Glagow Andrea Henkel Magdalena Neuner Kati Wilhelm",
         [
           "/wiki/Germany",
           "/wiki/Martina_Beck",
@@ -1058,13 +681,7 @@
         ]
       ],
       [
-        [
-          "France",
-          "Florence Baverel-Robert",
-          "Delphyne Peretto",
-          "Sylvie Becaert",
-          "Sandrine Bailly"
-        ],
+        "France Florence Baverel-Robert Delphyne Peretto Sylvie Becaert Sandrine Bailly",
         [
           "/wiki/France",
           "/wiki/Florence_Baverel-Robert",
@@ -1074,13 +691,7 @@
         ]
       ],
       [
-        [
-          "Norway",
-          "Tora Berger",
-          "Ann Kristin Flatland",
-          "Jori M\u00f8rkve",
-          "Linda Grubben"
-        ],
+        "Norway Tora Berger Ann Kristin Flatland Jori M\u00f8rkve Linda Grubben",
         [
           "/wiki/Norway",
           "/wiki/Tora_Berger",
@@ -1092,21 +703,13 @@
     ],
     [
       [
-        [
-          "2008"
-        ],
+        "2008",
         [
           "/wiki/Biathlon_World_Championships_2008"
         ]
       ],
       [
-        [
-          "Germany",
-          "Martina Glagow",
-          "Andrea Henkel",
-          "Magdalena Neuner",
-          "Kati Wilhelm"
-        ],
+        "Germany Martina Glagow Andrea Henkel Magdalena Neuner Kati Wilhelm",
         [
           "/wiki/Germany",
           "/wiki/Martina_Beck",
@@ -1116,13 +719,7 @@
         ]
       ],
       [
-        [
-          "Ukraine",
-          "Oksana Yakovleva",
-          "Vita Semerenko",
-          "Valentyna Semerenko",
-          "Oksana Khvostenko"
-        ],
+        "Ukraine Oksana Yakovleva Vita Semerenko Valentyna Semerenko Oksana Khvostenko",
         [
           "/wiki/Ukraine",
           "/wiki/Oksana_Yakovleva",
@@ -1132,13 +729,7 @@
         ]
       ],
       [
-        [
-          "France",
-          "Delphine Peretto",
-          "Marie-Laure Brunet",
-          "Sylvie Becaert",
-          "Sandrine Bailly"
-        ],
+        "France Delphine Peretto Marie-Laure Brunet Sylvie Becaert Sandrine Bailly",
         [
           "/wiki/France",
           "/wiki/Delphine_Peretto",

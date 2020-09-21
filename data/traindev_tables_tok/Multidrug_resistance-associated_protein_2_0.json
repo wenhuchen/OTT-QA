@@ -3,53 +3,34 @@
   "title": "Multidrug resistance-associated protein 2",
   "header": [
     [
-      [
-        "Drug"
-      ],
-      [
-        null
-      ]
+      "Drug",
+      []
     ],
     [
-      [
-        "Class"
-      ],
-      [
-        null
-      ]
+      "Class",
+      []
     ],
     [
-      [
-        "Indications"
-      ],
-      [
-        null
-      ]
+      "Indications",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "probenecid"
-        ],
+        "probenecid",
         [
           "/wiki/Probenecid"
         ]
       ],
       [
-        [
-          "uricosuric"
-        ],
+        "uricosuric",
         [
           "/wiki/Uricosuric"
         ]
       ],
       [
-        [
-          "gout",
-          "hyperuricemia"
-        ],
+        "gout hyperuricemia",
         [
           "/wiki/Gout",
           "/wiki/Hyperuricemia"
@@ -58,26 +39,19 @@
     ],
     [
       [
-        [
-          "furosemide"
-        ],
+        "furosemide",
         [
           "/wiki/Furosemide"
         ]
       ],
       [
-        [
-          "loop diuretic"
-        ],
+        "loop diuretic",
         [
           "/wiki/Loop_diuretic"
         ]
       ],
       [
-        [
-          "heart failure",
-          "edema"
-        ],
+        "heart failure edema",
         [
           "/wiki/Heart_failure",
           "/wiki/Edema"
@@ -86,25 +60,19 @@
     ],
     [
       [
-        [
-          "ritonavir"
-        ],
+        "ritonavir",
         [
           "/wiki/Ritonavir"
         ]
       ],
       [
-        [
-          "protease inhibitor"
-        ],
+        "protease inhibitor",
         [
           "/wiki/Protease_inhibitor_(pharmacology)"
         ]
       ],
       [
-        [
-          "antiretroviral"
-        ],
+        "antiretroviral",
         [
           "/wiki/Antiretroviral"
         ]
@@ -112,25 +80,19 @@
     ],
     [
       [
-        [
-          "saquinavir"
-        ],
+        "saquinavir",
         [
           "/wiki/Saquinavir"
         ]
       ],
       [
-        [
-          "protease inhibitor"
-        ],
+        "protease inhibitor",
         [
           "/wiki/Protease_inhibitor_(pharmacology)"
         ]
       ],
       [
-        [
-          "antiretroviral"
-        ],
+        "antiretroviral",
         [
           "/wiki/Antiretroviral"
         ]
@@ -138,25 +100,19 @@
     ],
     [
       [
-        [
-          "lamivudine"
-        ],
+        "lamivudine",
         [
           "/wiki/Lamivudine"
         ]
       ],
       [
-        [
-          "Nucleoside analog"
-        ],
+        "Nucleoside analog",
         [
           "/wiki/Reverse_transcriptase_inhibitor"
         ]
       ],
       [
-        [
-          "antiviral"
-        ],
+        "antiviral",
         [
           "/wiki/Antiviral_drug"
         ]
@@ -164,25 +120,19 @@
     ],
     [
       [
-        [
-          "abacavir"
-        ],
+        "abacavir",
         [
           "/wiki/Abacavir"
         ]
       ],
       [
-        [
-          "Nucleoside analog"
-        ],
+        "Nucleoside analog",
         [
           "/wiki/Reverse_transcriptase_inhibitor"
         ]
       ],
       [
-        [
-          "antiretroviral"
-        ],
+        "antiretroviral",
         [
           "/wiki/Antiretroviral"
         ]
@@ -190,25 +140,19 @@
     ],
     [
       [
-        [
-          "emtricitabine"
-        ],
+        "emtricitabine",
         [
           "/wiki/Emtricitabine"
         ]
       ],
       [
-        [
-          "Nucleoside analog"
-        ],
+        "Nucleoside analog",
         [
           "/wiki/Reverse_transcriptase_inhibitor"
         ]
       ],
       [
-        [
-          "antiviral"
-        ],
+        "antiviral",
         [
           "/wiki/Antiviral_drug"
         ]
@@ -216,25 +160,19 @@
     ],
     [
       [
-        [
-          "efavirenz"
-        ],
+        "efavirenz",
         [
           "/wiki/Efavirenz"
         ]
       ],
       [
-        [
-          "NNRTI"
-        ],
+        "NNRTI",
         [
           "/wiki/Reverse_transcriptase_inhibitor"
         ]
       ],
       [
-        [
-          "antiretroviral"
-        ],
+        "antiretroviral",
         [
           "/wiki/Antiretroviral"
         ]
@@ -242,25 +180,19 @@
     ],
     [
       [
-        [
-          "delavirdine"
-        ],
+        "delavirdine",
         [
           "/wiki/Delavirdine"
         ]
       ],
       [
-        [
-          "NNRTI"
-        ],
+        "NNRTI",
         [
           "/wiki/Reverse_transcriptase_inhibitor"
         ]
       ],
       [
-        [
-          "antiretroviral"
-        ],
+        "antiretroviral",
         [
           "/wiki/Antiretroviral"
         ]
@@ -268,25 +200,19 @@
     ],
     [
       [
-        [
-          "nevirapine"
-        ],
+        "nevirapine",
         [
           "/wiki/Nevirapine"
         ]
       ],
       [
-        [
-          "NNRTI"
-        ],
+        "NNRTI",
         [
           "/wiki/Reverse_transcriptase_inhibitor"
         ]
       ],
       [
-        [
-          "antiretroviral"
-        ],
+        "antiretroviral",
         [
           "/wiki/Antiretroviral"
         ]
@@ -294,25 +220,17 @@
     ],
     [
       [
-        [
-          "cidofovir"
-        ],
+        "cidofovir",
         [
           "/wiki/Cidofovir"
         ]
       ],
       [
-        [
-          "nucleoside phosphonate"
-        ],
-        [
-          null
-        ]
+        "nucleoside phosphonate",
+        []
       ],
       [
-        [
-          "antiviral"
-        ],
+        "antiviral",
         [
           "/wiki/Antiviral_drug"
         ]
@@ -320,25 +238,17 @@
     ],
     [
       [
-        [
-          "adefovir"
-        ],
+        "adefovir",
         [
           "/wiki/Adefovir"
         ]
       ],
       [
-        [
-          "nucleoside phosphonate"
-        ],
-        [
-          null
-        ]
+        "nucleoside phosphonate",
+        []
       ],
       [
-        [
-          "antiviral"
-        ],
+        "antiviral",
         [
           "/wiki/Antiviral_drug"
         ]
@@ -346,25 +256,17 @@
     ],
     [
       [
-        [
-          "tenofovir"
-        ],
+        "tenofovir",
         [
           "/wiki/Tenofovir"
         ]
       ],
       [
-        [
-          "nucleoside phosphonate"
-        ],
-        [
-          null
-        ]
+        "nucleoside phosphonate",
+        []
       ],
       [
-        [
-          "antiviral"
-        ],
+        "antiviral",
         [
           "/wiki/Antiviral_drug"
         ]

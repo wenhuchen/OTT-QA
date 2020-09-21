@@ -3,100 +3,62 @@
   "title": "Focus Home Interactive",
   "header": [
     [
-      [
-        "Title"
-      ],
-      [
-        null
-      ]
+      "Title",
+      []
     ],
     [
-      [
-        "Genre ( s )"
-      ],
-      [
-        null
-      ]
+      "Genre ( s )",
+      []
     ],
     [
-      [
-        "Developer"
-      ],
-      [
-        null
-      ]
+      "Developer",
+      []
     ],
     [
-      [
-        "Role"
-      ],
-      [
-        null
-      ]
+      "Role",
+      []
     ],
     [
-      [
-        "System"
-      ],
-      [
-        null
-      ]
+      "System",
+      []
     ],
     [
-      [
-        "Year"
-      ],
-      [
-        null
-      ]
+      "Year",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "A Game of Thrones : Genesis"
-        ],
+        "A Game of Thrones : Genesis",
         [
           "/wiki/A_Game_of_Thrones:_Genesis"
         ]
       ],
       [
-        [
-          "Strategy"
-        ],
+        "Strategy",
         [
           "/wiki/Strategy_video_game"
         ]
       ],
       [
-        [
-          "Cyanide Studio"
-        ],
+        "Cyanide Studio",
         [
           "/wiki/Cyanide_(company)"
         ]
       ],
       [
-        [
-          "Publisher"
-        ],
-        [
-          null
-        ]
+        "Publisher",
+        []
       ],
       [
-        [
-          "Microsoft Windows"
-        ],
+        "Microsoft Windows",
         [
           "/wiki/Microsoft_Windows"
         ]
       ],
       [
-        [
-          "2011"
-        ],
+        "2011",
         [
           "/wiki/2011_in_video_gaming"
         ]
@@ -104,45 +66,30 @@
     ],
     [
       [
-        [
-          "A Plague Tale : Innocence"
-        ],
+        "A Plague Tale : Innocence",
         [
           "/wiki/A_Plague_Tale:_Innocence"
         ]
       ],
       [
-        [
-          "Action",
-          "adventure"
-        ],
+        "Action , adventure",
         [
           "/wiki/Action_game",
           "/wiki/Adventure_game"
         ]
       ],
       [
-        [
-          "Asobo Studio"
-        ],
+        "Asobo Studio",
         [
           "/wiki/Asobo_Studio"
         ]
       ],
       [
-        [
-          "Publisher"
-        ],
-        [
-          null
-        ]
+        "Publisher",
+        []
       ],
       [
-        [
-          "Microsoft Windows",
-          "PlayStation 4",
-          "Xbox One"
-        ],
+        "Microsoft Windows , PlayStation 4 , Xbox One",
         [
           "/wiki/Microsoft_Windows",
           "/wiki/PlayStation_4",
@@ -150,9 +97,7 @@
         ]
       ],
       [
-        [
-          "2019"
-        ],
+        "2019",
         [
           "/wiki/2019_in_video_gaming"
         ]
@@ -160,49 +105,35 @@
     ],
     [
       [
-        [
-          "Act of Aggression"
-        ],
+        "Act of Aggression",
         [
           "/wiki/Act_of_Aggression"
         ]
       ],
       [
-        [
-          "Real-time strategy"
-        ],
+        "Real-time strategy",
         [
           "/wiki/Real-time_strategy"
         ]
       ],
       [
-        [
-          "Eugen Systems"
-        ],
+        "Eugen Systems",
         [
           "/wiki/Eugen_Systems"
         ]
       ],
       [
-        [
-          "Publisher"
-        ],
-        [
-          null
-        ]
+        "Publisher",
+        []
       ],
       [
-        [
-          "Microsoft Windows"
-        ],
+        "Microsoft Windows",
         [
           "/wiki/Microsoft_Windows"
         ]
       ],
       [
-        [
-          "2015"
-        ],
+        "2015",
         [
           "/wiki/2015_in_video_gaming"
         ]
@@ -210,49 +141,33 @@
     ],
     [
       [
-        [
-          "Battlefleet Gothic : Armada"
-        ],
+        "Battlefleet Gothic : Armada",
         [
           "/wiki/Battlefleet_Gothic:_Armada"
         ]
       ],
       [
-        [
-          "Real-time strategy"
-        ],
+        "Real-time strategy",
         [
           "/wiki/Real-time_strategy"
         ]
       ],
       [
-        [
-          "Tindalos Interactive"
-        ],
-        [
-          null
-        ]
+        "Tindalos Interactive",
+        []
       ],
       [
-        [
-          "Publisher"
-        ],
-        [
-          null
-        ]
+        "Publisher",
+        []
       ],
       [
-        [
-          "Microsoft Windows"
-        ],
+        "Microsoft Windows",
         [
           "/wiki/Microsoft_Windows"
         ]
       ],
       [
-        [
-          "2016"
-        ],
+        "2016",
         [
           "/wiki/2016_in_video_gaming"
         ]
@@ -260,49 +175,31 @@
     ],
     [
       [
-        [
-          "Battlefleet Gothic : Armada 2"
-        ],
-        [
-          null
-        ]
+        "Battlefleet Gothic : Armada 2",
+        []
       ],
       [
-        [
-          "Real-time strategy"
-        ],
+        "Real-time strategy",
         [
           "/wiki/Real-time_strategy"
         ]
       ],
       [
-        [
-          "Tindalos Interactive"
-        ],
-        [
-          null
-        ]
+        "Tindalos Interactive",
+        []
       ],
       [
-        [
-          "Publisher"
-        ],
-        [
-          null
-        ]
+        "Publisher",
+        []
       ],
       [
-        [
-          "Microsoft Windows"
-        ],
+        "Microsoft Windows",
         [
           "/wiki/Microsoft_Windows"
         ]
       ],
       [
-        [
-          "2019"
-        ],
+        "2019",
         [
           "/wiki/2019_in_video_gaming"
         ]
@@ -310,19 +207,13 @@
     ],
     [
       [
-        [
-          "Blood Bowl"
-        ],
+        "Blood Bowl",
         [
           "/wiki/Blood_Bowl_(2009_video_game)"
         ]
       ],
       [
-        [
-          "Sports",
-          "turn-base strategy",
-          "real-time strategy"
-        ],
+        "Sports , turn-base strategy , real-time strategy",
         [
           "/wiki/Sports_game",
           "/wiki/Turn-based_strategy",
@@ -330,28 +221,17 @@
         ]
       ],
       [
-        [
-          "Cyanide Studio"
-        ],
+        "Cyanide Studio",
         [
           "/wiki/Cyanide_(company)"
         ]
       ],
       [
-        [
-          "Publisher"
-        ],
-        [
-          null
-        ]
+        "Publisher",
+        []
       ],
       [
-        [
-          "Microsoft Windows",
-          "Nintendo DS",
-          "Xbox 360",
-          "PlayStation Portable"
-        ],
+        "Microsoft Windows , Nintendo DS , Xbox 360 , PlayStation Portable",
         [
           "/wiki/Microsoft_Windows",
           "/wiki/Nintendo_DS",
@@ -360,9 +240,7 @@
         ]
       ],
       [
-        [
-          "2009"
-        ],
+        "2009",
         [
           "/wiki/2009_in_video_gaming"
         ]
@@ -370,19 +248,13 @@
     ],
     [
       [
-        [
-          "Blood Bowl 2"
-        ],
+        "Blood Bowl 2",
         [
           "/wiki/Blood_Bowl_2"
         ]
       ],
       [
-        [
-          "Sports",
-          "turn-base strategy",
-          "real-time strategy"
-        ],
+        "Sports , turn-base strategy , real-time strategy",
         [
           "/wiki/Sports_game",
           "/wiki/Turn-based_strategy",
@@ -390,27 +262,17 @@
         ]
       ],
       [
-        [
-          "Cyanide Studio"
-        ],
+        "Cyanide Studio",
         [
           "/wiki/Cyanide_(company)"
         ]
       ],
       [
-        [
-          "Publisher"
-        ],
-        [
-          null
-        ]
+        "Publisher",
+        []
       ],
       [
-        [
-          "Microsoft Windows",
-          "PlayStation 4",
-          "Xbox One"
-        ],
+        "Microsoft Windows , PlayStation 4 , Xbox One",
         [
           "/wiki/Microsoft_Windows",
           "/wiki/PlayStation_4",
@@ -418,9 +280,7 @@
         ]
       ],
       [
-        [
-          "2015"
-        ],
+        "2015",
         [
           "/wiki/2015_in_video_gaming"
         ]
@@ -428,19 +288,11 @@
     ],
     [
       [
-        [
-          "Blood Bowl : Chaos Edition"
-        ],
-        [
-          null
-        ]
+        "Blood Bowl : Chaos Edition",
+        []
       ],
       [
-        [
-          "Sports",
-          "turn-base strategy",
-          "real-time strategy"
-        ],
+        "Sports , turn-base strategy , real-time strategy",
         [
           "/wiki/Sports_game",
           "/wiki/Turn-based_strategy",
@@ -448,33 +300,23 @@
         ]
       ],
       [
-        [
-          "Cyanide Studio"
-        ],
+        "Cyanide Studio",
         [
           "/wiki/Cyanide_(company)"
         ]
       ],
       [
-        [
-          "Publisher"
-        ],
-        [
-          null
-        ]
+        "Publisher",
+        []
       ],
       [
-        [
-          "Microsoft Windows"
-        ],
+        "Microsoft Windows",
         [
           "/wiki/Microsoft_Windows"
         ]
       ],
       [
-        [
-          "2012"
-        ],
+        "2012",
         [
           "/wiki/2012_in_video_gaming"
         ]
@@ -482,44 +324,29 @@
     ],
     [
       [
-        [
-          "Bound by Flame"
-        ],
+        "Bound by Flame",
         [
           "/wiki/Bound_by_Flame"
         ]
       ],
       [
-        [
-          "Action role-playing"
-        ],
+        "Action role-playing",
         [
           "/wiki/Action_role-playing_game"
         ]
       ],
       [
-        [
-          "Spiders"
-        ],
+        "Spiders",
         [
           "/wiki/Spiders_(company)"
         ]
       ],
       [
-        [
-          "Distributor"
-        ],
-        [
-          null
-        ]
+        "Distributor",
+        []
       ],
       [
-        [
-          "Microsoft Windows",
-          "PlayStation 3",
-          "PlayStation 4",
-          "Xbox 360"
-        ],
+        "Microsoft Windows , PlayStation 3 , PlayStation 4 , Xbox 360",
         [
           "/wiki/Microsoft_Windows",
           "/wiki/PlayStation_3",
@@ -528,9 +355,7 @@
         ]
       ],
       [
-        [
-          "2014"
-        ],
+        "2014",
         [
           "/wiki/2014_in_video_gaming"
         ]
@@ -538,46 +363,30 @@
     ],
     [
       [
-        [
-          "Call of Cthulhu : The Official Video Game"
-        ],
+        "Call of Cthulhu : The Official Video Game",
         [
           "/wiki/Call_of_Cthulhu:_The_Official_Video_Game"
         ]
       ],
       [
-        [
-          "Role-playing",
-          "survival horror"
-        ],
+        "Role-playing , survival horror",
         [
           "/wiki/Role-playing_video_game",
           "/wiki/Survival_horror"
         ]
       ],
       [
-        [
-          "Cyanide Studio"
-        ],
+        "Cyanide Studio",
         [
           "/wiki/Cyanide_(company)"
         ]
       ],
       [
-        [
-          "Publisher"
-        ],
-        [
-          null
-        ]
+        "Publisher",
+        []
       ],
       [
-        [
-          "Microsoft Windows",
-          "PlayStation 4",
-          "Xbox One",
-          "Nintendo Switch"
-        ],
+        "Microsoft Windows , PlayStation 4 , Xbox One , Nintendo Switch",
         [
           "/wiki/Microsoft_Windows",
           "/wiki/PlayStation_4",
@@ -586,9 +395,7 @@
         ]
       ],
       [
-        [
-          "2018"
-        ],
+        "2018",
         [
           "/wiki/2018_in_video_gaming"
         ]
@@ -596,19 +403,13 @@
     ],
     [
       [
-        [
-          "Chaos League"
-        ],
+        "Chaos League",
         [
           "/wiki/Chaos_League"
         ]
       ],
       [
-        [
-          "Sports",
-          "management",
-          "real-time strategy"
-        ],
+        "Sports , management , real-time strategy",
         [
           "/wiki/Sports_game",
           "/wiki/Business_simulation_game",
@@ -616,33 +417,23 @@
         ]
       ],
       [
-        [
-          "Cyanide Studio"
-        ],
+        "Cyanide Studio",
         [
           "/wiki/Cyanide_(company)"
         ]
       ],
       [
-        [
-          "Publisher"
-        ],
-        [
-          null
-        ]
+        "Publisher",
+        []
       ],
       [
-        [
-          "Microsoft Windows"
-        ],
+        "Microsoft Windows",
         [
           "/wiki/Microsoft_Windows"
         ]
       ],
       [
-        [
-          "2004"
-        ],
+        "2004",
         [
           "/wiki/2004_in_video_gaming"
         ]
@@ -650,19 +441,13 @@
     ],
     [
       [
-        [
-          "Chaos League : Sudden Death"
-        ],
+        "Chaos League : Sudden Death",
         [
           "/wiki/Chaos_League"
         ]
       ],
       [
-        [
-          "Sports",
-          "management",
-          "real-time strategy"
-        ],
+        "Sports , management , real-time strategy",
         [
           "/wiki/Sports_game",
           "/wiki/Business_simulation_game",
@@ -670,33 +455,23 @@
         ]
       ],
       [
-        [
-          "Cyanide Studio"
-        ],
+        "Cyanide Studio",
         [
           "/wiki/Cyanide_(company)"
         ]
       ],
       [
-        [
-          "Publisher"
-        ],
-        [
-          null
-        ]
+        "Publisher",
+        []
       ],
       [
-        [
-          "Microsoft Windows"
-        ],
+        "Microsoft Windows",
         [
           "/wiki/Microsoft_Windows"
         ]
       ],
       [
-        [
-          "2004"
-        ],
+        "2004",
         [
           "/wiki/2004_in_video_gaming"
         ]
@@ -704,51 +479,36 @@
     ],
     [
       [
-        [
-          "Cities XL"
-        ],
+        "Cities XL",
         [
           "/wiki/Cities_XL"
         ]
       ],
       [
-        [
-          "City-building game",
-          "massively multiplayer online game"
-        ],
+        "City-building game , massively multiplayer online game",
         [
           "/wiki/City-building_game",
           "/wiki/Massively_multiplayer_online_game"
         ]
       ],
       [
-        [
-          "Cyanide Studio"
-        ],
+        "Cyanide Studio",
         [
           "/wiki/Cyanide_(company)"
         ]
       ],
       [
-        [
-          "Distributor"
-        ],
-        [
-          null
-        ]
+        "Distributor",
+        []
       ],
       [
-        [
-          "Microsoft Windows"
-        ],
+        "Microsoft Windows",
         [
           "/wiki/Microsoft_Windows"
         ]
       ],
       [
-        [
-          "2009"
-        ],
+        "2009",
         [
           "/wiki/2009_in_video_gaming"
         ]
@@ -756,49 +516,33 @@
     ],
     [
       [
-        [
-          "Cities XL 2011"
-        ],
+        "Cities XL 2011",
         [
           "/wiki/Cities_XL_2011"
         ]
       ],
       [
-        [
-          "City simulator"
-        ],
+        "City simulator",
         [
           "/wiki/City_simulator"
         ]
       ],
       [
-        [
-          "Focus Home Interactive"
-        ],
-        [
-          null
-        ]
+        "Focus Home Interactive",
+        []
       ],
       [
-        [
-          "Publisher"
-        ],
-        [
-          null
-        ]
+        "Publisher",
+        []
       ],
       [
-        [
-          "Microsoft Windows"
-        ],
+        "Microsoft Windows",
         [
           "/wiki/Microsoft_Windows"
         ]
       ],
       [
-        [
-          "2010"
-        ],
+        "2010",
         [
           "/wiki/2010_in_video_gaming"
         ]
@@ -806,49 +550,33 @@
     ],
     [
       [
-        [
-          "Cities XL 2012"
-        ],
+        "Cities XL 2012",
         [
           "/wiki/Cities_XL_2012"
         ]
       ],
       [
-        [
-          "City simulator"
-        ],
+        "City simulator",
         [
           "/wiki/City_simulator"
         ]
       ],
       [
-        [
-          "Focus Home Interactive"
-        ],
-        [
-          null
-        ]
+        "Focus Home Interactive",
+        []
       ],
       [
-        [
-          "Publisher"
-        ],
-        [
-          null
-        ]
+        "Publisher",
+        []
       ],
       [
-        [
-          "Microsoft Windows"
-        ],
+        "Microsoft Windows",
         [
           "/wiki/Microsoft_Windows"
         ]
       ],
       [
-        [
-          "2011"
-        ],
+        "2011",
         [
           "/wiki/2011_in_video_gaming"
         ]
@@ -856,49 +584,33 @@
     ],
     [
       [
-        [
-          "Cities XXL"
-        ],
+        "Cities XXL",
         [
           "/wiki/Cities_XXL"
         ]
       ],
       [
-        [
-          "City simulator"
-        ],
+        "City simulator",
         [
           "/wiki/City_simulator"
         ]
       ],
       [
-        [
-          "Focus Home Interactive"
-        ],
-        [
-          null
-        ]
+        "Focus Home Interactive",
+        []
       ],
       [
-        [
-          "Publisher"
-        ],
-        [
-          null
-        ]
+        "Publisher",
+        []
       ],
       [
-        [
-          "Microsoft Windows"
-        ],
+        "Microsoft Windows",
         [
           "/wiki/Microsoft_Windows"
         ]
       ],
       [
-        [
-          "2015"
-        ],
+        "2015",
         [
           "/wiki/2015_in_video_gaming"
         ]
@@ -906,49 +618,35 @@
     ],
     [
       [
-        [
-          "City Life"
-        ],
+        "City Life",
         [
           "/wiki/City_Life_(video_game)"
         ]
       ],
       [
-        [
-          "City simulator"
-        ],
+        "City simulator",
         [
           "/wiki/City_simulator"
         ]
       ],
       [
-        [
-          "Monte Cristo"
-        ],
+        "Monte Cristo",
         [
           "/wiki/Monte_Cristo_(company)"
         ]
       ],
       [
-        [
-          "Distributor"
-        ],
-        [
-          null
-        ]
+        "Distributor",
+        []
       ],
       [
-        [
-          "Microsoft Windows"
-        ],
+        "Microsoft Windows",
         [
           "/wiki/Microsoft_Windows"
         ]
       ],
       [
-        [
-          "2006"
-        ],
+        "2006",
         [
           "/wiki/2006_in_video_gaming"
         ]
@@ -956,49 +654,35 @@
     ],
     [
       [
-        [
-          "City Life"
-        ],
+        "City Life",
         [
           "/wiki/City_Life_(video_game)"
         ]
       ],
       [
-        [
-          "City simulator"
-        ],
+        "City simulator",
         [
           "/wiki/City_simulator"
         ]
       ],
       [
-        [
-          "Monte Cristo"
-        ],
+        "Monte Cristo",
         [
           "/wiki/Monte_Cristo_(company)"
         ]
       ],
       [
-        [
-          "Publisher"
-        ],
-        [
-          null
-        ]
+        "Publisher",
+        []
       ],
       [
-        [
-          "Nintendo DS"
-        ],
+        "Nintendo DS",
         [
           "/wiki/Nintendo_DS"
         ]
       ],
       [
-        [
-          "2008"
-        ],
+        "2008",
         [
           "/wiki/2008_in_video_gaming"
         ]
@@ -1006,49 +690,33 @@
     ],
     [
       [
-        [
-          "City Life Edition 2008"
-        ],
-        [
-          null
-        ]
+        "City Life Edition 2008",
+        []
       ],
       [
-        [
-          "City simulator"
-        ],
+        "City simulator",
         [
           "/wiki/City_simulator"
         ]
       ],
       [
-        [
-          "Monte Cristo"
-        ],
+        "Monte Cristo",
         [
           "/wiki/Monte_Cristo_(company)"
         ]
       ],
       [
-        [
-          "Publisher"
-        ],
-        [
-          null
-        ]
+        "Publisher",
+        []
       ],
       [
-        [
-          "Microsoft Windows"
-        ],
+        "Microsoft Windows",
         [
           "/wiki/Microsoft_Windows"
         ]
       ],
       [
-        [
-          "2007"
-        ],
+        "2007",
         [
           "/wiki/2007_in_video_gaming"
         ]
@@ -1056,49 +724,35 @@
     ],
     [
       [
-        [
-          "Confrontation"
-        ],
+        "Confrontation",
         [
           "/wiki/Confrontation_(video_game)"
         ]
       ],
       [
-        [
-          "Role-playing game"
-        ],
+        "Role-playing game",
         [
           "/wiki/Role-playing_video_game"
         ]
       ],
       [
-        [
-          "Cyanide Studio"
-        ],
+        "Cyanide Studio",
         [
           "/wiki/Cyanide_(company)"
         ]
       ],
       [
-        [
-          "Publisher"
-        ],
-        [
-          null
-        ]
+        "Publisher",
+        []
       ],
       [
-        [
-          "Microsoft Windows"
-        ],
+        "Microsoft Windows",
         [
           "/wiki/Microsoft_Windows"
         ]
       ],
       [
-        [
-          "2012"
-        ],
+        "2012",
         [
           "/wiki/2012_in_video_gaming"
         ]

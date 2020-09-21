@@ -3,174 +3,100 @@
   "title": "Rupee",
   "header": [
     [
-      [
-        "Country"
-      ],
-      [
-        null
-      ]
+      "Country",
+      []
     ],
     [
-      [
-        "Currency"
-      ],
-      [
-        null
-      ]
+      "Currency",
+      []
     ],
     [
-      [
-        "Symbol"
-      ],
-      [
-        null
-      ]
+      "Symbol",
+      []
     ],
     [
-      [
-        "ISO 4217"
-      ],
+      "ISO 4217 code",
       [
         "/wiki/ISO_4217"
       ]
     ],
     [
-      [
-        "US dollar"
-      ],
+      "Value to US dollar ( As of 31 March 2020 )",
       [
         "/wiki/US_dollar"
       ]
     ],
     [
-      [
-        "Established"
-      ],
-      [
-        null
-      ]
+      "Established",
+      []
     ],
     [
-      [
-        "Preceding currency"
-      ],
-      [
-        null
-      ]
+      "Preceding currency",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "India"
-        ],
-        [
-          null
-        ]
+        "India",
+        []
       ],
       [
-        [
-          "Indian rupee"
-        ],
+        "Indian rupee",
         [
           "/wiki/Indian_rupee"
         ]
       ],
       [
-        [
-          "\u20b9"
-        ],
-        [
-          null
-        ]
+        "\u20b9",
+        []
       ],
       [
-        [
-          "INR"
-        ],
-        [
-          null
-        ]
+        "INR",
+        []
       ],
       [
-        [
-          "\u20b975.38"
-        ],
-        [
-          null
-        ]
+        "\u20b975.38",
+        []
       ],
       [
-        [
-          "1540"
-        ],
-        [
-          null
-        ]
+        "1540",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Indonesia"
-        ],
-        [
-          null
-        ]
+        "Indonesia",
+        []
       ],
       [
-        [
-          "Indonesian rupiah"
-        ],
+        "Indonesian rupiah",
         [
           "/wiki/Indonesian_rupiah"
         ]
       ],
       [
-        [
-          "Rp"
-        ],
-        [
-          null
-        ]
+        "Rp",
+        []
       ],
       [
-        [
-          "IDR"
-        ],
-        [
-          null
-        ]
+        "IDR",
+        []
       ],
       [
-        [
-          "Rp 16,255.00"
-        ],
-        [
-          null
-        ]
+        "Rp 16,255.00",
+        []
       ],
       [
-        [
-          "1949"
-        ],
-        [
-          null
-        ]
+        "1949",
+        []
       ],
       [
-        [
-          "Netherlands Indies gulden"
-        ],
+        "Netherlands Indies gulden",
         [
           "/wiki/Netherlands_Indies_gulden"
         ]
@@ -178,57 +104,33 @@
     ],
     [
       [
-        [
-          "Maldives"
-        ],
-        [
-          null
-        ]
+        "Maldives",
+        []
       ],
       [
-        [
-          "Maldivian rufiyaa"
-        ],
+        "Maldivian rufiyaa",
         [
           "/wiki/Maldivian_rufiyaa"
         ]
       ],
       [
-        [
-          "Rf , MRf , MVR , .\u0783 or /-"
-        ],
-        [
-          null
-        ]
+        "Rf , MRf , MVR , .\u0783 or /-",
+        []
       ],
       [
-        [
-          "MVR"
-        ],
-        [
-          null
-        ]
+        "MVR",
+        []
       ],
       [
-        [
-          "Rf 15.41"
-        ],
-        [
-          null
-        ]
+        "Rf 15.41",
+        []
       ],
       [
-        [
-          "1945"
-        ],
-        [
-          null
-        ]
+        "1945",
+        []
       ],
       [
-        [
-          "Ceylonese rupee"
-        ],
+        "Ceylonese rupee",
         [
           "/wiki/Sri_Lankan_rupee"
         ]
@@ -236,58 +138,33 @@
     ],
     [
       [
-        [
-          "Mauritius"
-        ],
-        [
-          null
-        ]
+        "Mauritius",
+        []
       ],
       [
-        [
-          "Mauritian rupee"
-        ],
+        "Mauritian rupee",
         [
           "/wiki/Mauritian_rupee"
         ]
       ],
       [
-        [
-          "\u20a8 , \u0930\u0941"
-        ],
-        [
-          null
-        ]
+        "\u20a8 , \u0930\u0941",
+        []
       ],
       [
-        [
-          "MUR"
-        ],
-        [
-          null
-        ]
+        "MUR",
+        []
       ],
       [
-        [
-          "\u20a8 39.25"
-        ],
-        [
-          null
-        ]
+        "\u20a8 39.25",
+        []
       ],
       [
-        [
-          "1876"
-        ],
-        [
-          null
-        ]
+        "1876",
+        []
       ],
       [
-        [
-          "pound sterling",
-          "Mauritian dollar"
-        ],
+        "Indian rupee , pound sterling , Mauritian dollar",
         [
           "/wiki/Pound_sterling",
           "/wiki/Mauritian_dollar"
@@ -296,57 +173,33 @@
     ],
     [
       [
-        [
-          "Nepal"
-        ],
-        [
-          null
-        ]
+        "Nepal",
+        []
       ],
       [
-        [
-          "Nepalese rupee"
-        ],
+        "Nepalese rupee",
         [
           "/wiki/Nepalese_rupee"
         ]
       ],
       [
-        [
-          "\u0930\u0942"
-        ],
-        [
-          null
-        ]
+        "\u0930\u0942",
+        []
       ],
       [
-        [
-          "NPR"
-        ],
-        [
-          null
-        ]
+        "NPR",
+        []
       ],
       [
-        [
-          "\u0930\u0942120.85"
-        ],
-        [
-          null
-        ]
+        "\u0930\u0942120.85",
+        []
       ],
       [
-        [
-          "1932"
-        ],
-        [
-          null
-        ]
+        "1932",
+        []
       ],
       [
-        [
-          "Nepalese mohar"
-        ],
+        "Nepalese mohar",
         [
           "/wiki/Nepalese_mohar"
         ]
@@ -354,58 +207,33 @@
     ],
     [
       [
-        [
-          "Pakistan"
-        ],
-        [
-          null
-        ]
+        "Pakistan",
+        []
       ],
       [
-        [
-          "Pakistani rupee"
-        ],
+        "Pakistani rupee",
         [
           "/wiki/Pakistani_rupee"
         ]
       ],
       [
-        [
-          "\u20a8"
-        ],
-        [
-          null
-        ]
+        "\u20a8",
+        []
       ],
       [
-        [
-          "PKR"
-        ],
-        [
-          null
-        ]
+        "PKR",
+        []
       ],
       [
-        [
-          "\u20a8 166.50"
-        ],
-        [
-          null
-        ]
+        "\u20a8 166.50",
+        []
       ],
       [
-        [
-          "1947"
-        ],
-        [
-          null
-        ]
+        "1947",
+        []
       ],
       [
-        [
-          "Indian rupee",
-          "partition"
-        ],
+        "Indian rupee ( prior to partition )",
         [
           "/wiki/Indian_rupee",
           "/wiki/Partition_of_India"
@@ -414,116 +242,65 @@
     ],
     [
       [
-        [
-          "Seychelles"
-        ],
-        [
-          null
-        ]
+        "Seychelles",
+        []
       ],
       [
-        [
-          "Seychellois rupee"
-        ],
+        "Seychellois rupee",
         [
           "/wiki/Seychellois_rupee"
         ]
       ],
       [
-        [
-          "SR , SRe"
-        ],
-        [
-          null
-        ]
+        "SR , SRe",
+        []
       ],
       [
-        [
-          "SCR"
-        ],
-        [
-          null
-        ]
+        "SCR",
+        []
       ],
       [
-        [
-          "SR 13.74"
-        ],
-        [
-          null
-        ]
+        "SR 13.74",
+        []
       ],
       [
-        [
-          "1976"
-        ],
-        [
-          null
-        ]
+        "1976",
+        []
       ],
       [
-        [
-          "Mauritian rupee"
-        ],
-        [
-          null
-        ]
+        "Mauritian rupee",
+        []
       ]
     ],
     [
       [
-        [
-          "Sri Lanka"
-        ],
-        [
-          null
-        ]
+        "Sri Lanka",
+        []
       ],
       [
-        [
-          "Sri Lankan rupee"
-        ],
+        "Sri Lankan rupee",
         [
           "/wiki/Sri_Lankan_rupee"
         ]
       ],
       [
-        [
-          "\u20a8 , \u0dbb\u0dd4 , \u0bb0\u0bc2"
-        ],
-        [
-          null
-        ]
+        "\u20a8 , \u0dbb\u0dd4 , \u0bb0\u0bc2",
+        []
       ],
       [
-        [
-          "LKR"
-        ],
-        [
-          null
-        ]
+        "LKR",
+        []
       ],
       [
-        [
-          "\u20a8 189.54"
-        ],
-        [
-          null
-        ]
+        "\u20a8 189.54",
+        []
       ],
       [
-        [
-          "1885"
-        ],
-        [
-          null
-        ]
+        "1885",
+        []
       ],
       [
-        [
-          "pound sterling",
-          "Ceylonese rixdollar"
-        ],
+        "Indian rupee , pound sterling , Ceylonese rixdollar",
         [
           "/wiki/Pound_sterling",
           "/wiki/Ceylonese_rixdollar"

@@ -3,79 +3,42 @@
   "title": "KL Monorail",
   "header": [
     [
-      [
-        "Station Code"
-      ],
-      [
-        null
-      ]
+      "Station Code",
+      []
     ],
     [
-      [
-        "Station Name"
-      ],
-      [
-        null
-      ]
+      "Station Name",
+      []
     ],
     [
-      [
-        "Platform type"
-      ],
-      [
-        null
-      ]
+      "Platform type",
+      []
     ],
     [
-      [
-        "Interchange/Notes"
-      ],
-      [
-        null
-      ]
+      "Interchange/Notes",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "MR1"
-        ],
-        [
-          null
-        ]
+        "MR1",
+        []
       ],
       [
-        [
-          "KL Sentral"
-        ],
+        "KL Sentral",
         [
           "/wiki/KL_Sentral"
         ]
       ],
       [
-        [
-          "( Spanish solution"
-        ],
+        "Terminus ( Spanish solution )",
         [
           "/wiki/Spanish_solution"
         ]
       ],
       [
-        [
-          "paid area",
-          "KTM Komuter",
-          "Seremban Line",
-          "Port Klang Line",
-          "Skypark Link",
-          "ETS",
-          "Kelana Jaya Line",
-          "ERL",
-          "KLIA Ekspres",
-          "KLIA Transit",
-          "Muzium Negara",
-          "Sungai Buloh-Kajang Line"
-        ],
+        "Southern terminus . Accessed via NU Sentral Shopping Mall if coming from KL Sentral ( main terminal building ) . Connecting station ( requiring exiting the station 's paid area ) to : KA01 KS01 KTM Komuter Seremban Line , Port Klang Line , Skypark Link and ETS KJ15 LRT Kelana Jaya Line KE1 KT1 ERL KLIA Ekspres and KLIA Transit Additional 850 meters walking distance to SBK15 Muzium Negara for the MRT Sungai Buloh-Kajang Line",
         [
           "/wiki/Paid_area",
           "/wiki/KTM_Komuter",
@@ -94,67 +57,45 @@
     ],
     [
       [
-        [
-          "MR2"
-        ],
-        [
-          null
-        ]
+        "MR2",
+        []
       ],
       [
-        [
-          "Tun Sambanthan"
-        ],
+        "Tun Sambanthan",
         [
           "/wiki/Tun_Sambanthan_Monorail_station"
         ]
       ],
       [
-        [
-          "Side"
-        ],
+        "Side",
         [
           "/wiki/Side_platform"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "MR3"
-        ],
-        [
-          null
-        ]
+        "MR3",
+        []
       ],
       [
-        [
-          "Maharajalela"
-        ],
+        "Maharajalela",
         [
           "/wiki/Maharajalela_Monorail_station"
         ]
       ],
       [
-        [
-          "Side"
-        ],
+        "Side",
         [
           "/wiki/Side_platform"
         ]
       ],
       [
-        [
-          "Stadium Merdeka"
-        ],
+        "Exit to Stadium Merdeka",
         [
           "/wiki/Stadium_Merdeka"
         ]
@@ -162,33 +103,23 @@
     ],
     [
       [
-        [
-          "MR4"
-        ],
-        [
-          null
-        ]
+        "MR4",
+        []
       ],
       [
-        [
-          "Hang Tuah"
-        ],
+        "Hang Tuah",
         [
           "/wiki/Hang_Tuah_Monorail_station"
         ]
       ],
       [
-        [
-          "Side"
-        ],
+        "Side",
         [
           "/wiki/Side_platform"
         ]
       ],
       [
-        [
-          "LRT Ampang and Sri Petaling Lines"
-        ],
+        "Interchange station to AG9 SP9 LRT Ampang and Sri Petaling Lines",
         [
           "/wiki/LRT_Ampang_and_Sri_Petaling_Lines"
         ]
@@ -196,33 +127,23 @@
     ],
     [
       [
-        [
-          "MR5"
-        ],
-        [
-          null
-        ]
+        "MR5",
+        []
       ],
       [
-        [
-          "Imbi"
-        ],
+        "Imbi",
         [
           "/wiki/Imbi_Monorail_station"
         ]
       ],
       [
-        [
-          "Side"
-        ],
+        "Side",
         [
           "/wiki/Side_platform"
         ]
       ],
       [
-        [
-          "Berjaya Times Square"
-        ],
+        "Exit to Berjaya Times Square",
         [
           "/wiki/Berjaya_Times_Square"
         ]
@@ -230,37 +151,23 @@
     ],
     [
       [
-        [
-          "MR6"
-        ],
-        [
-          null
-        ]
+        "MR6",
+        []
       ],
       [
-        [
-          "AirAsia-Bukit Bintang"
-        ],
+        "AirAsia-Bukit Bintang",
         [
           "/wiki/AirAsia-Bukit_Bintang"
         ]
       ],
       [
-        [
-          "Side"
-        ],
+        "Side",
         [
           "/wiki/Side_platform"
         ]
       ],
       [
-        [
-          "Bukit Bintang",
-          "Sungai Buloh-Kajang Line",
-          "KLCC station",
-          "Kelana Jaya Line",
-          "Pavilion mall"
-        ],
+        "Connecting station to SBK18A Bukit Bintang station on the MRT Sungai Buloh-Kajang Line . Pedestrian access to KJ10 KLCC station on LRT Kelana Jaya Line is possible via elevated walkway from Pavilion mall",
         [
           "/wiki/Bukit_Bintang_MRT_station",
           "/wiki/Sungai_Buloh\u2013Kajang_MRT_line",
@@ -272,35 +179,23 @@
     ],
     [
       [
-        [
-          "MR7"
-        ],
-        [
-          null
-        ]
+        "MR7",
+        []
       ],
       [
-        [
-          "Raja Chulan"
-        ],
+        "Raja Chulan",
         [
           "/wiki/Raja_Chulan_Monorail_station"
         ]
       ],
       [
-        [
-          "Side"
-        ],
+        "Side",
         [
           "/wiki/Side_platform"
         ]
       ],
       [
-        [
-          "KLCC station",
-          "Kelana Jaya Line",
-          "Pavilion mall"
-        ],
+        "Pedestrian access to KJ10 KLCC station on the LRT Kelana Jaya Line is possible via elevated walkway from Pavilion mall",
         [
           "/wiki/KLCC_LRT_station",
           "/wiki/Kelana_Jaya_line",
@@ -310,34 +205,23 @@
     ],
     [
       [
-        [
-          "MR8"
-        ],
-        [
-          null
-        ]
+        "MR8",
+        []
       ],
       [
-        [
-          "Bukit Nanas"
-        ],
+        "Bukit Nanas",
         [
           "/wiki/Bukit_Nanas_Monorail_station"
         ]
       ],
       [
-        [
-          "Side"
-        ],
+        "Side",
         [
           "/wiki/Side_platform"
         ]
       ],
       [
-        [
-          "Dang Wangi",
-          "Kelana Jaya Line"
-        ],
+        "Connecting station to KJ12 Dang Wangi on the LRT Kelana Jaya Line",
         [
           "/wiki/Dang_Wangi_LRT_station",
           "/wiki/Kelana_Jaya_line"
@@ -346,34 +230,23 @@
     ],
     [
       [
-        [
-          "MR9"
-        ],
-        [
-          null
-        ]
+        "MR9",
+        []
       ],
       [
-        [
-          "Medan Tuanku"
-        ],
+        "Medan Tuanku",
         [
           "/wiki/Medan_Tuanku_Monorail_station"
         ]
       ],
       [
-        [
-          "Side"
-        ],
+        "Side",
         [
           "/wiki/Side_platform"
         ]
       ],
       [
-        [
-          "Sultan Ismail",
-          "LRT Ampang and Sri Petaling Lines"
-        ],
+        "Pedestrian access to AG5 SP5 Sultan Ismail on the LRT Ampang and Sri Petaling Lines via 580 meter elevated walkway",
         [
           "/wiki/Sultan_Ismail_LRT_station",
           "/wiki/LRT_Ampang_and_Sri_Petaling_Lines"
@@ -382,68 +255,45 @@
     ],
     [
       [
-        [
-          "MR10"
-        ],
-        [
-          null
-        ]
+        "MR10",
+        []
       ],
       [
-        [
-          "Chow Kit"
-        ],
+        "Chow Kit",
         [
           "/wiki/Chow_Kit_Monorail_station"
         ]
       ],
       [
-        [
-          "Side"
-        ],
+        "Side",
         [
           "/wiki/Side_platform"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "MR11"
-        ],
-        [
-          null
-        ]
+        "MR11",
+        []
       ],
       [
-        [
-          "Titiwangsa"
-        ],
+        "Titiwangsa",
         [
           "/wiki/Titiwangsa_station"
         ]
       ],
       [
-        [
-          "( Spanish solution"
-        ],
+        "Terminus ( Spanish solution )",
         [
           "/wiki/Spanish_solution"
         ]
       ],
       [
-        [
-          "LRT Ampang and Sri Petaling Lines",
-          "Sungai Buloh-Serdang-Putrajaya Line"
-        ],
+        "Northern terminus . Interchange station to AG3 SP3 LRT Ampang and Sri Petaling Lines . Future integration with SSP13 MRT Sungai Buloh-Serdang-Putrajaya Line ( 2022 )",
         [
           "/wiki/LRT_Ampang_and_Sri_Petaling_Lines",
           "/wiki/Sungai_Buloh\u2013Serdang\u2013Putrajaya_MRT_line"

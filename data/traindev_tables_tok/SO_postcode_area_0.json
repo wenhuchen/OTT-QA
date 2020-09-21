@@ -3,78 +3,46 @@
   "title": "SO postcode area",
   "header": [
     [
-      [
-        "Postcode district"
-      ],
-      [
-        null
-      ]
+      "Postcode district",
+      []
     ],
     [
-      [
-        "Post town"
-      ],
+      "Post town",
       [
         "/wiki/Post_town"
       ]
     ],
     [
-      [
-        "Coverage"
-      ],
-      [
-        null
-      ]
+      "Coverage",
+      []
     ],
     [
-      [
-        "Local authority area"
-      ],
-      [
-        null
-      ]
+      "Local authority area",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "SO14"
-        ],
-        [
-          null
-        ]
+        "SO14",
+        []
       ],
       [
-        [
-          "SOUTHAMPTON"
-        ],
-        [
-          null
-        ]
+        "SOUTHAMPTON",
+        []
       ],
       [
-        [
-          "City Centre",
-          "St. Mary 's",
-          "Nicholstown",
-          "Ocean Village",
-          "Eastern Docks",
-          "Bevois Valley"
-        ],
+        "City Centre , St. Mary 's , Newtown , Nicholstown , Ocean Village , Chapel , Eastern Docks , Bevois Valley",
         [
           "/wiki/Southampton_City_Centre",
           "/wiki/St_Mary's,_Hampshire",
           "/wiki/Nicholstown,_Hampshire",
           "/wiki/Ocean_Village,_Southampton",
-          null,
           "/wiki/Bevois_Valley"
         ]
       ],
       [
-        [
-          "Southampton"
-        ],
+        "Southampton",
         [
           "/wiki/Southampton"
         ]
@@ -82,75 +50,39 @@
     ],
     [
       [
-        [
-          "SO15"
-        ],
-        [
-          null
-        ]
+        "SO15",
+        []
       ],
       [
-        [
-          "SOUTHAMPTON"
-        ],
-        [
-          null
-        ]
+        "SOUTHAMPTON",
+        []
       ],
       [
-        [
-          "Shirley",
-          "Freemantle",
-          "Banister Park",
-          "Polygon",
-          "Millbrook",
-          "Redbridge"
-        ],
+        "Shirley , Freemantle , Banister Park , Polygon , Millbrook , Redbridge",
         [
           "/wiki/Shirley,_Hampshire",
           "/wiki/Freemantle",
-          null,
           "/wiki/The_Polygon,_Southampton",
           "/wiki/Millbrook,_Hampshire",
           "/wiki/Redbridge,_Hampshire"
         ]
       ],
       [
-        [
-          "Southampton"
-        ],
-        [
-          null
-        ]
+        "Southampton",
+        []
       ]
     ],
     [
       [
-        [
-          "SO16"
-        ],
-        [
-          null
-        ]
+        "SO16",
+        []
       ],
       [
-        [
-          "SOUTHAMPTON"
-        ],
-        [
-          null
-        ]
+        "SOUTHAMPTON",
+        []
       ],
       [
-        [
-          "Bassett",
-          "Lordswood",
-          "Lordshill",
-          "Redbridge",
-          "Rownhams",
-          "Nursling",
-          "Chilworth"
-        ],
+        "Bassett , Lordswood , Lordshill , Redbridge , Rownhams , Nursling , Chilworth",
         [
           "/wiki/Bassett,_Hampshire",
           "/wiki/Southampton",
@@ -162,9 +94,7 @@
         ]
       ],
       [
-        [
-          "Test Valley"
-        ],
+        "Southampton , Test Valley",
         [
           "/wiki/Test_Valley"
         ]
@@ -172,28 +102,15 @@
     ],
     [
       [
-        [
-          "SO17"
-        ],
-        [
-          null
-        ]
+        "SO17",
+        []
       ],
       [
-        [
-          "SOUTHAMPTON"
-        ],
-        [
-          null
-        ]
+        "SOUTHAMPTON",
+        []
       ],
       [
-        [
-          "Highfield",
-          "Portswood",
-          "St Denys",
-          "Swaythling"
-        ],
+        "Highfield , Portswood , St Denys , Swaythling",
         [
           "/wiki/Highfield,_Hampshire",
           "/wiki/Portswood",
@@ -202,40 +119,21 @@
         ]
       ],
       [
-        [
-          "Southampton"
-        ],
-        [
-          null
-        ]
+        "Southampton",
+        []
       ]
     ],
     [
       [
-        [
-          "SO18"
-        ],
-        [
-          null
-        ]
+        "SO18",
+        []
       ],
       [
-        [
-          "SOUTHAMPTON"
-        ],
-        [
-          null
-        ]
+        "SOUTHAMPTON",
+        []
       ],
       [
-        [
-          "Bitterne",
-          "Bitterne Park",
-          "Harefield",
-          "Townhill Park",
-          "Chartwell Green",
-          "Southampton Airport"
-        ],
+        "Bitterne , Bitterne Park , Harefield , Townhill Park , Chartwell Green , Mansbridge , Southampton Airport",
         [
           "/wiki/Bitterne",
           "/wiki/Bitterne_Park",
@@ -246,9 +144,7 @@
         ]
       ],
       [
-        [
-          "Eastleigh"
-        ],
+        "Southampton , Eastleigh",
         [
           "/wiki/Borough_of_Eastleigh"
         ]
@@ -256,28 +152,15 @@
     ],
     [
       [
-        [
-          "SO19"
-        ],
-        [
-          null
-        ]
+        "SO19",
+        []
       ],
       [
-        [
-          "SOUTHAMPTON"
-        ],
-        [
-          null
-        ]
+        "SOUTHAMPTON",
+        []
       ],
       [
-        [
-          "Sholing",
-          "Thornhill",
-          "Woolston",
-          "Weston"
-        ],
+        "Sholing , Thornhill , Woolston , Weston",
         [
           "/wiki/Sholing",
           "/wiki/Thornhill,_Hampshire",
@@ -286,37 +169,21 @@
         ]
       ],
       [
-        [
-          "Southampton"
-        ],
-        [
-          null
-        ]
+        "Southampton",
+        []
       ]
     ],
     [
       [
-        [
-          "SO20"
-        ],
-        [
-          null
-        ]
+        "SO20",
+        []
       ],
       [
-        [
-          "STOCKBRIDGE"
-        ],
-        [
-          null
-        ]
+        "STOCKBRIDGE",
+        []
       ],
       [
-        [
-          "Stockbridge",
-          "King 's Somborne",
-          "Middle Wallop"
-        ],
+        "Stockbridge , King 's Somborne , Middle Wallop",
         [
           "/wiki/Stockbridge,_Hampshire",
           "/wiki/King's_Somborne",
@@ -324,47 +191,21 @@
         ]
       ],
       [
-        [
-          "Test Valley"
-        ],
-        [
-          null
-        ]
+        "Test Valley",
+        []
       ]
     ],
     [
       [
-        [
-          "SO21"
-        ],
-        [
-          null
-        ]
+        "SO21",
+        []
       ],
       [
-        [
-          "WINCHESTER"
-        ],
-        [
-          null
-        ]
+        "WINCHESTER",
+        []
       ],
       [
-        [
-          "Compton",
-          "Colden Common",
-          "Easton",
-          "Hursley",
-          "Itchen Abbas",
-          "Martyr Worthy",
-          "Micheldever",
-          "Owslebury",
-          "Shawford",
-          "South Wonston",
-          "Sutton Scotney",
-          "Sparsholt",
-          "Twyford"
-        ],
+        "Compton , Colden Common , Easton , Hursley , Itchen Abbas , Martyr Worthy , Micheldever , Owslebury , Shawford , South Wonston , Sutton Scotney , Sparsholt , Twyford",
         [
           "/wiki/Compton_and_Shawford",
           "/wiki/Colden_Common",
@@ -382,9 +223,7 @@
         ]
       ],
       [
-        [
-          "Winchester"
-        ],
+        "Winchester",
         [
           "/wiki/Winchester"
         ]
@@ -392,28 +231,15 @@
     ],
     [
       [
-        [
-          "SO22"
-        ],
-        [
-          null
-        ]
+        "SO22",
+        []
       ],
       [
-        [
-          "WINCHESTER"
-        ],
-        [
-          null
-        ]
+        "WINCHESTER",
+        []
       ],
       [
-        [
-          "Badger Farm",
-          "Hursley",
-          "Littleton and Harestock",
-          "Olivers Battery"
-        ],
+        "Badger Farm , Fulflood , Hursley , Littleton and Harestock , Olivers Battery , Pitt , St Cross ( W ) , Stanmore , Weeke",
         [
           "/wiki/Badger_Farm",
           "/wiki/Hursley",
@@ -422,37 +248,21 @@
         ]
       ],
       [
-        [
-          "Winchester"
-        ],
-        [
-          null
-        ]
+        "Winchester",
+        []
       ]
     ],
     [
       [
-        [
-          "SO23"
-        ],
-        [
-          null
-        ]
+        "SO23",
+        []
       ],
       [
-        [
-          "WINCHESTER"
-        ],
-        [
-          null
-        ]
+        "WINCHESTER",
+        []
       ],
       [
-        [
-          "Abbotts Barton",
-          "Bar End",
-          "Winnall"
-        ],
+        "City Centre , Abbotts Barton , Bar End , Highcliffe , Hyde , St Cross ( E ) , Winnall",
         [
           "/wiki/Abbotts_Barton",
           "/wiki/Bar_End",
@@ -460,39 +270,21 @@
         ]
       ],
       [
-        [
-          "Winchester"
-        ],
-        [
-          null
-        ]
+        "Winchester",
+        []
       ]
     ],
     [
       [
-        [
-          "SO24"
-        ],
-        [
-          null
-        ]
+        "SO24",
+        []
       ],
       [
-        [
-          "ALRESFORD"
-        ],
-        [
-          null
-        ]
+        "ALRESFORD",
+        []
       ],
       [
-        [
-          "New Alresford",
-          "Old Alresford",
-          "Cheriton",
-          "Tichborne",
-          "Ropley"
-        ],
+        "New Alresford , Old Alresford , Cheriton , Tichborne , Ropley",
         [
           "/wiki/New_Alresford",
           "/wiki/Old_Alresford",
@@ -502,71 +294,39 @@
         ]
       ],
       [
-        [
-          "Winchester"
-        ],
-        [
-          null
-        ]
+        "Winchester",
+        []
       ]
     ],
     [
       [
-        [
-          "SO25"
-        ],
-        [
-          null
-        ]
+        "SO25",
+        []
       ],
       [
-        [
-          "WINCHESTER"
-        ],
-        [
-          null
-        ]
+        "WINCHESTER",
+        []
       ],
       [
-        [
-          "Bulk users"
-        ],
-        [
-          null
-        ]
+        "Bulk users",
+        []
       ],
       [
-        [
-          "non-geographic"
-        ],
-        [
-          null
-        ]
+        "non-geographic",
+        []
       ]
     ],
     [
       [
-        [
-          "SO30"
-        ],
-        [
-          null
-        ]
+        "SO30",
+        []
       ],
       [
-        [
-          "SOUTHAMPTON"
-        ],
-        [
-          null
-        ]
+        "SOUTHAMPTON",
+        []
       ],
       [
-        [
-          "Botley",
-          "Hedge End",
-          "West End"
-        ],
+        "Botley , Hedge End , West End",
         [
           "/wiki/Botley,_Hampshire",
           "/wiki/Hedge_End",
@@ -574,38 +334,21 @@
         ]
       ],
       [
-        [
-          "Eastleigh"
-        ],
-        [
-          null
-        ]
+        "Eastleigh",
+        []
       ]
     ],
     [
       [
-        [
-          "SO31"
-        ],
-        [
-          null
-        ]
+        "SO31",
+        []
       ],
       [
-        [
-          "SOUTHAMPTON"
-        ],
-        [
-          null
-        ]
+        "SOUTHAMPTON",
+        []
       ],
       [
-        [
-          "Warsash",
-          "Hamble-le-Rice",
-          "Locks Heath",
-          "Netley Abbey"
-        ],
+        "Warsash , Hamble-le-Rice , Locks Heath Netley Abbey",
         [
           "/wiki/Warsash",
           "/wiki/Hamble-le-Rice",
@@ -614,9 +357,7 @@
         ]
       ],
       [
-        [
-          "Fareham"
-        ],
+        "Eastleigh , Fareham",
         [
           "/wiki/Borough_of_Fareham"
         ]
@@ -624,36 +365,15 @@
     ],
     [
       [
-        [
-          "SO32"
-        ],
-        [
-          null
-        ]
+        "SO32",
+        []
       ],
       [
-        [
-          "SOUTHAMPTON"
-        ],
-        [
-          null
-        ]
+        "SOUTHAMPTON",
+        []
       ],
       [
-        [
-          "Bishops Waltham",
-          "Corhampton",
-          "Droxford",
-          "Durley",
-          "Exton",
-          "Meonstoke",
-          "Shedfield",
-          "Soberton",
-          "Swanmore",
-          "Upham",
-          "Warnford",
-          "Wickham"
-        ],
+        "Bishops Waltham , Corhampton , Droxford , Durley , Exton , Meonstoke , Shedfield , Soberton , Swanmore , Upham , Warnford , Wickham",
         [
           "/wiki/Bishops_Waltham",
           "/wiki/Corhampton",
@@ -670,38 +390,21 @@
         ]
       ],
       [
-        [
-          "Eastleigh , Winchester"
-        ],
-        [
-          null
-        ]
+        "Eastleigh , Winchester",
+        []
       ]
     ],
     [
       [
-        [
-          "SO40"
-        ],
-        [
-          null
-        ]
+        "SO40",
+        []
       ],
       [
-        [
-          "LYNDHURST , SOUTHAMPTON"
-        ],
-        [
-          null
-        ]
+        "LYNDHURST , SOUTHAMPTON",
+        []
       ],
       [
-        [
-          "Totton",
-          "Lyndhurst",
-          "Cadnam",
-          "Marchwood"
-        ],
+        "Totton , Lyndhurst , Cadnam , Marchwood",
         [
           "/wiki/Totton",
           "/wiki/Lyndhurst,_Hampshire",
@@ -710,9 +413,7 @@
         ]
       ],
       [
-        [
-          "New Forest"
-        ],
+        "New Forest",
         [
           "/wiki/New_Forest_District"
         ]
@@ -720,30 +421,15 @@
     ],
     [
       [
-        [
-          "SO41"
-        ],
-        [
-          null
-        ]
+        "SO41",
+        []
       ],
       [
-        [
-          "LYMINGTON"
-        ],
-        [
-          null
-        ]
+        "LYMINGTON",
+        []
       ],
       [
-        [
-          "Lymington",
-          "Milford-on-Sea",
-          "Pennington",
-          "Boldre",
-          "Hordle",
-          "Sway"
-        ],
+        "Lymington , Milford-on-Sea , Pennington , Boldre , Hordle , Sway",
         [
           "/wiki/Lymington",
           "/wiki/Milford-on-Sea",
@@ -754,37 +440,21 @@
         ]
       ],
       [
-        [
-          "New Forest"
-        ],
-        [
-          null
-        ]
+        "New Forest",
+        []
       ]
     ],
     [
       [
-        [
-          "SO42"
-        ],
-        [
-          null
-        ]
+        "SO42",
+        []
       ],
       [
-        [
-          "BROCKENHURST"
-        ],
-        [
-          null
-        ]
+        "BROCKENHURST",
+        []
       ],
       [
-        [
-          "Beaulieu",
-          "Brockenhurst",
-          "East Boldre"
-        ],
+        "Beaulieu , Brockenhurst , East Boldre",
         [
           "/wiki/Beaulieu,_Hampshire",
           "/wiki/Brockenhurst",
@@ -792,37 +462,21 @@
         ]
       ],
       [
-        [
-          "New Forest"
-        ],
-        [
-          null
-        ]
+        "New Forest",
+        []
       ]
     ],
     [
       [
-        [
-          "SO43"
-        ],
-        [
-          null
-        ]
+        "SO43",
+        []
       ],
       [
-        [
-          "LYNDHURST"
-        ],
-        [
-          null
-        ]
+        "LYNDHURST",
+        []
       ],
       [
-        [
-          "Lyndhurst",
-          "Minstead",
-          "Bramshaw"
-        ],
+        "Lyndhurst , Minstead , Bramshaw",
         [
           "/wiki/Lyndhurst,_Hampshire",
           "/wiki/Minstead",
@@ -830,39 +484,21 @@
         ]
       ],
       [
-        [
-          "New Forest"
-        ],
-        [
-          null
-        ]
+        "New Forest",
+        []
       ]
     ],
     [
       [
-        [
-          "SO45"
-        ],
-        [
-          null
-        ]
+        "SO45",
+        []
       ],
       [
-        [
-          "SOUTHAMPTON"
-        ],
-        [
-          null
-        ]
+        "SOUTHAMPTON",
+        []
       ],
       [
-        [
-          "Hythe",
-          "Fawley",
-          "Blackfield",
-          "Calshot",
-          "Hardley"
-        ],
+        "Hythe , Fawley , Blackfield , Calshot , Hardley",
         [
           "/wiki/Hythe,_Hampshire",
           "/wiki/Fawley,_Hampshire",
@@ -872,12 +508,8 @@
         ]
       ],
       [
-        [
-          "New Forest"
-        ],
-        [
-          null
-        ]
+        "New Forest",
+        []
       ]
     ]
   ],

@@ -3,68 +3,40 @@
   "title": "800 metres",
   "header": [
     [
-      [
-        "Year"
-      ],
-      [
-        null
-      ]
+      "Year",
+      []
     ],
     [
-      [
-        "Time"
-      ],
-      [
-        null
-      ]
+      "Time",
+      []
     ],
     [
-      [
-        "Athlete"
-      ],
-      [
-        null
-      ]
+      "Athlete",
+      []
     ],
     [
-      [
-        "Location"
-      ],
-      [
-        null
-      ]
+      "Location",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "1970"
-        ],
-        [
-          null
-        ]
+        "1970",
+        []
       ],
       [
-        [
-          "1:44.8"
-        ],
-        [
-          null
-        ]
+        "1:44.8",
+        []
       ],
       [
-        [
-          "Ken Swenson"
-        ],
+        "Ken Swenson ( USA )",
         [
           "/wiki/Ken_Swenson"
         ]
       ],
       [
-        [
-          "Stuttgart"
-        ],
+        "Stuttgart",
         [
           "/wiki/Stuttgart"
         ]
@@ -72,33 +44,19 @@
     ],
     [
       [
-        [
-          "1971"
-        ],
-        [
-          null
-        ]
+        "1971",
+        []
       ],
       [
-        [
-          "1:44.7"
-        ],
-        [
-          null
-        ]
+        "1:44.7",
+        []
       ],
       [
-        [
-          "Dicky Broberg"
-        ],
-        [
-          null
-        ]
+        "Dicky Broberg ( RSA )",
+        []
       ],
       [
-        [
-          "Stellenbosch"
-        ],
+        "Stellenbosch",
         [
           "/wiki/Stellenbosch"
         ]
@@ -106,33 +64,21 @@
     ],
     [
       [
-        [
-          "1972"
-        ],
-        [
-          null
-        ]
+        "1972",
+        []
       ],
       [
-        [
-          "1:44.3"
-        ],
-        [
-          null
-        ]
+        "1:44.3",
+        []
       ],
       [
-        [
-          "Dave Wottle"
-        ],
+        "Dave Wottle ( USA )",
         [
           "/wiki/Dave_Wottle"
         ]
       ],
       [
-        [
-          "Eugene"
-        ],
+        "Eugene",
         [
           "/wiki/Eugene,_Oregon"
         ]
@@ -140,33 +86,21 @@
     ],
     [
       [
-        [
-          "1973"
-        ],
-        [
-          null
-        ]
+        "1973",
+        []
       ],
       [
-        [
-          "1:43.7"
-        ],
-        [
-          null
-        ]
+        "1:43.7",
+        []
       ],
       [
-        [
-          "Marcello Fiasconaro"
-        ],
+        "Marcello Fiasconaro ( ITA )",
         [
           "/wiki/Marcello_Fiasconaro"
         ]
       ],
       [
-        [
-          "Milan"
-        ],
+        "Milan",
         [
           "/wiki/Milan"
         ]
@@ -174,33 +108,21 @@
     ],
     [
       [
-        [
-          "1974"
-        ],
-        [
-          null
-        ]
+        "1974",
+        []
       ],
       [
-        [
-          "1:43.5"
-        ],
-        [
-          null
-        ]
+        "1:43.5",
+        []
       ],
       [
-        [
-          "Rick Wohlhuter"
-        ],
+        "Rick Wohlhuter ( USA )",
         [
           "/wiki/Rick_Wohlhuter"
         ]
       ],
       [
-        [
-          "Eugene"
-        ],
+        "Eugene",
         [
           "/wiki/Eugene,_Oregon"
         ]
@@ -208,33 +130,21 @@
     ],
     [
       [
-        [
-          "1975"
-        ],
-        [
-          null
-        ]
+        "1975",
+        []
       ],
       [
-        [
-          "1:43.79"
-        ],
-        [
-          null
-        ]
+        "1:43.79",
+        []
       ],
       [
-        [
-          "Mike Boit"
-        ],
+        "Mike Boit ( KEN )",
         [
           "/wiki/Mike_Boit"
         ]
       ],
       [
-        [
-          "Z\u00fcrich"
-        ],
+        "Z\u00fcrich",
         [
           "/wiki/Z\u00fcrich"
         ]
@@ -242,33 +152,21 @@
     ],
     [
       [
-        [
-          "1976"
-        ],
-        [
-          null
-        ]
+        "1976",
+        []
       ],
       [
-        [
-          "1:43.50"
-        ],
-        [
-          null
-        ]
+        "1:43.50",
+        []
       ],
       [
-        [
-          "Alberto Juantorena"
-        ],
+        "Alberto Juantorena ( CUB )",
         [
           "/wiki/Alberto_Juantorena"
         ]
       ],
       [
-        [
-          "Montreal"
-        ],
+        "Montreal",
         [
           "/wiki/Montreal"
         ]
@@ -276,33 +174,21 @@
     ],
     [
       [
-        [
-          "1977"
-        ],
-        [
-          null
-        ]
+        "1977",
+        []
       ],
       [
-        [
-          "1:43.44"
-        ],
-        [
-          null
-        ]
+        "1:43.44",
+        []
       ],
       [
-        [
-          "Alberto Juantorena"
-        ],
+        "Alberto Juantorena ( CUB )",
         [
           "/wiki/Alberto_Juantorena"
         ]
       ],
       [
-        [
-          "Sofia"
-        ],
+        "Sofia",
         [
           "/wiki/Sofia"
         ]
@@ -310,33 +196,21 @@
     ],
     [
       [
-        [
-          "1978"
-        ],
-        [
-          null
-        ]
+        "1978",
+        []
       ],
       [
-        [
-          "1:43.84"
-        ],
-        [
-          null
-        ]
+        "1:43.84",
+        []
       ],
       [
-        [
-          "Olaf Beyer"
-        ],
+        "Olaf Beyer ( GDR )",
         [
           "/wiki/Olaf_Beyer"
         ]
       ],
       [
-        [
-          "Prague"
-        ],
+        "Prague",
         [
           "/wiki/Prague"
         ]
@@ -344,33 +218,23 @@
     ],
     [
       [
-        [
-          "1979"
-        ],
+        "1979",
         [
           "/wiki/1979_in_athletics_(track_and_field)"
         ]
       ],
       [
-        [
-          "1:42.33"
-        ],
-        [
-          null
-        ]
+        "1:42.33",
+        []
       ],
       [
-        [
-          "Sebastian Coe"
-        ],
+        "Sebastian Coe ( GBR )",
         [
           "/wiki/Sebastian_Coe"
         ]
       ],
       [
-        [
-          "Oslo"
-        ],
+        "Oslo",
         [
           "/wiki/Oslo"
         ]
@@ -378,33 +242,23 @@
     ],
     [
       [
-        [
-          "1980"
-        ],
+        "1980",
         [
           "/wiki/1980_in_athletics_(track_and_field)"
         ]
       ],
       [
-        [
-          "1:44.53"
-        ],
-        [
-          null
-        ]
+        "1:44.53",
+        []
       ],
       [
-        [
-          "Don Paige"
-        ],
+        "Don Paige ( USA )",
         [
           "/wiki/Don_Paige"
         ]
       ],
       [
-        [
-          "Eugene"
-        ],
+        "Eugene",
         [
           "/wiki/Eugene,_Oregon"
         ]
@@ -412,33 +266,23 @@
     ],
     [
       [
-        [
-          "1981"
-        ],
+        "1981",
         [
           "/wiki/1981_in_athletics_(track_and_field)"
         ]
       ],
       [
-        [
-          "1:41.73"
-        ],
-        [
-          null
-        ]
+        "1:41.73",
+        []
       ],
       [
-        [
-          "Sebastian Coe"
-        ],
+        "Sebastian Coe ( GBR )",
         [
           "/wiki/Sebastian_Coe"
         ]
       ],
       [
-        [
-          "Florence"
-        ],
+        "Florence",
         [
           "/wiki/Florence"
         ]
@@ -446,33 +290,23 @@
     ],
     [
       [
-        [
-          "1982"
-        ],
+        "1982",
         [
           "/wiki/1982_in_athletics_(track_and_field)"
         ]
       ],
       [
-        [
-          "1:44.45"
-        ],
-        [
-          null
-        ]
+        "1:44.45",
+        []
       ],
       [
-        [
-          "Steve Cram"
-        ],
+        "Steve Cram ( GBR )",
         [
           "/wiki/Steve_Cram"
         ]
       ],
       [
-        [
-          "London"
-        ],
+        "London",
         [
           "/wiki/London"
         ]
@@ -480,33 +314,23 @@
     ],
     [
       [
-        [
-          "1983"
-        ],
+        "1983",
         [
           "/wiki/1983_in_athletics_(track_and_field)"
         ]
       ],
       [
-        [
-          "1:43.61"
-        ],
-        [
-          null
-        ]
+        "1:43.61",
+        []
       ],
       [
-        [
-          "Steve Cram"
-        ],
+        "Steve Cram ( GBR )",
         [
           "/wiki/Steve_Cram"
         ]
       ],
       [
-        [
-          "Oslo"
-        ],
+        "Oslo",
         [
           "/wiki/Oslo"
         ]
@@ -514,33 +338,23 @@
     ],
     [
       [
-        [
-          "1984"
-        ],
+        "1984",
         [
           "/wiki/1984_in_athletics_(track_and_field)"
         ]
       ],
       [
-        [
-          "1:41.77"
-        ],
-        [
-          null
-        ]
+        "1:41.77",
+        []
       ],
       [
-        [
-          "Joaquim Cruz"
-        ],
+        "Joaquim Cruz ( BRA )",
         [
           "/wiki/Joaquim_Cruz"
         ]
       ],
       [
-        [
-          "Cologne"
-        ],
+        "Cologne",
         [
           "/wiki/Cologne"
         ]
@@ -548,33 +362,23 @@
     ],
     [
       [
-        [
-          "1985"
-        ],
+        "1985",
         [
           "/wiki/1985_in_athletics_(track_and_field)"
         ]
       ],
       [
-        [
-          "1:42.49"
-        ],
-        [
-          null
-        ]
+        "1:42.49",
+        []
       ],
       [
-        [
-          "Joaquim Cruz"
-        ],
+        "Joaquim Cruz ( BRA )",
         [
           "/wiki/Joaquim_Cruz"
         ]
       ],
       [
-        [
-          "Koblenz"
-        ],
+        "Koblenz",
         [
           "/wiki/Koblenz"
         ]
@@ -582,33 +386,23 @@
     ],
     [
       [
-        [
-          "1986"
-        ],
+        "1986",
         [
           "/wiki/1986_in_athletics_(track_and_field)"
         ]
       ],
       [
-        [
-          "1:43.19"
-        ],
-        [
-          null
-        ]
+        "1:43.19",
+        []
       ],
       [
-        [
-          "Steve Cram"
-        ],
+        "Steve Cram ( GBR )",
         [
           "/wiki/Steve_Cram"
         ]
       ],
       [
-        [
-          "Rieti"
-        ],
+        "Rieti",
         [
           "/wiki/Rieti"
         ]
@@ -616,33 +410,23 @@
     ],
     [
       [
-        [
-          "1987"
-        ],
+        "1987",
         [
           "/wiki/1987_in_athletics_(track_and_field)"
         ]
       ],
       [
-        [
-          "1:43.06"
-        ],
-        [
-          null
-        ]
+        "1:43.06",
+        []
       ],
       [
-        [
-          "Billy Konchellah"
-        ],
+        "Billy Konchellah ( KEN )",
         [
           "/wiki/Billy_Konchellah"
         ]
       ],
       [
-        [
-          "Rome"
-        ],
+        "Rome",
         [
           "/wiki/Rome"
         ]
@@ -650,33 +434,23 @@
     ],
     [
       [
-        [
-          "1988"
-        ],
+        "1988",
         [
           "/wiki/1988_in_athletics_(track_and_field)"
         ]
       ],
       [
-        [
-          "1:42.65"
-        ],
-        [
-          null
-        ]
+        "1:42.65",
+        []
       ],
       [
-        [
-          "Johnny Gray"
-        ],
+        "Johnny Gray ( USA )",
         [
           "/wiki/Johnny_Gray"
         ]
       ],
       [
-        [
-          "Z\u00fcrich"
-        ],
+        "Z\u00fcrich",
         [
           "/wiki/Z\u00fcrich"
         ]
@@ -684,33 +458,23 @@
     ],
     [
       [
-        [
-          "1989"
-        ],
+        "1989",
         [
           "/wiki/1989_in_athletics_(track_and_field)"
         ]
       ],
       [
-        [
-          "1:43.16"
-        ],
-        [
-          null
-        ]
+        "1:43.16",
+        []
       ],
       [
-        [
-          "Paul Ereng"
-        ],
+        "Paul Ereng ( KEN )",
         [
           "/wiki/Paul_Ereng"
         ]
       ],
       [
-        [
-          "Z\u00fcrich"
-        ],
+        "Z\u00fcrich",
         [
           "/wiki/Z\u00fcrich"
         ]

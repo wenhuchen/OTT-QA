@@ -3,35 +3,19 @@
   "title": "List of winners of the London Marathon",
   "header": [
     [
-      [
-        "Year"
-      ],
-      [
-        null
-      ]
+      "Year",
+      []
     ],
     [
-      [
-        "Athlete"
-      ],
-      [
-        null
-      ]
+      "Athlete",
+      []
     ],
     [
-      [
-        "Nationality"
-      ],
-      [
-        null
-      ]
+      "Nationality",
+      []
     ],
     [
-      [
-        "h",
-        "m",
-        "s"
-      ],
+      "Time ( h : m : s )",
       [
         "/wiki/Hour",
         "/wiki/Minute",
@@ -39,136 +23,86 @@
       ]
     ],
     [
-      [
-        "Notes"
-      ],
-      [
-        null
-      ]
+      "Notes",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "1981"
-        ],
-        [
-          null
-        ]
+        "1981",
+        []
       ],
       [
-        [
-          "Joyce Smith"
-        ],
+        "Joyce Smith",
         [
           "/wiki/Joyce_Smith"
         ]
       ],
       [
-        [
-          "United Kingdom"
-        ],
+        "United Kingdom",
         [
           "/wiki/United_Kingdom"
         ]
       ],
       [
-        [
-          "2:29:57"
-        ],
-        [
-          null
-        ]
+        "2:29:57",
+        []
       ],
       [
-        [
-          "Course record"
-        ],
-        [
-          null
-        ]
+        "Course record",
+        []
       ]
     ],
     [
       [
-        [
-          "1982"
-        ],
-        [
-          null
-        ]
+        "1982",
+        []
       ],
       [
-        [
-          "Joyce Smith"
-        ],
+        "Joyce Smith",
         [
           "/wiki/Joyce_Smith"
         ]
       ],
       [
-        [
-          "United Kingdom"
-        ],
+        "United Kingdom",
         [
           "/wiki/United_Kingdom"
         ]
       ],
       [
-        [
-          "2:29:43"
-        ],
-        [
-          null
-        ]
+        "2:29:43",
+        []
       ],
       [
-        [
-          "Course record ; second victory"
-        ],
-        [
-          null
-        ]
+        "Course record ; second victory",
+        []
       ]
     ],
     [
       [
-        [
-          "1983"
-        ],
-        [
-          null
-        ]
+        "1983",
+        []
       ],
       [
-        [
-          "Grete Waitz"
-        ],
+        "Grete Waitz",
         [
           "/wiki/Grete_Waitz"
         ]
       ],
       [
-        [
-          "Norway"
-        ],
+        "Norway",
         [
           "/wiki/Norway"
         ]
       ],
       [
-        [
-          "2:25:29"
-        ],
-        [
-          null
-        ]
+        "2:25:29",
+        []
       ],
       [
-        [
-          "World marathon record"
-        ],
+        "World marathon record",
         [
           "/wiki/Marathon_world_record_progression"
         ]
@@ -176,83 +110,53 @@
     ],
     [
       [
-        [
-          "1984"
-        ],
-        [
-          null
-        ]
+        "1984",
+        []
       ],
       [
-        [
-          "Ingrid Kristiansen"
-        ],
+        "Ingrid Kristiansen",
         [
           "/wiki/Ingrid_Kristiansen"
         ]
       ],
       [
-        [
-          "Norway"
-        ],
+        "Norway",
         [
           "/wiki/Norway"
         ]
       ],
       [
-        [
-          "2:24:26"
-        ],
-        [
-          null
-        ]
+        "2:24:26",
+        []
       ],
       [
-        [
-          "Course record"
-        ],
-        [
-          null
-        ]
+        "Course record",
+        []
       ]
     ],
     [
       [
-        [
-          "1985"
-        ],
-        [
-          null
-        ]
+        "1985",
+        []
       ],
       [
-        [
-          "Ingrid Kristiansen"
-        ],
+        "Ingrid Kristiansen",
         [
           "/wiki/Ingrid_Kristiansen"
         ]
       ],
       [
-        [
-          "Norway"
-        ],
+        "Norway",
         [
           "/wiki/Norway"
         ]
       ],
       [
-        [
-          "2:21:06"
-        ],
-        [
-          null
-        ]
+        "2:21:06",
+        []
       ],
       [
-        [
-          "World marathon record"
-        ],
+        "World marathon record ; second victory",
         [
           "/wiki/Marathon_world_record_progression"
         ]
@@ -260,632 +164,392 @@
     ],
     [
       [
-        [
-          "1986"
-        ],
-        [
-          null
-        ]
+        "1986",
+        []
       ],
       [
-        [
-          "Grete Waitz"
-        ],
+        "Grete Waitz",
         [
           "/wiki/Grete_Waitz"
         ]
       ],
       [
-        [
-          "Norway"
-        ],
+        "Norway",
         [
           "/wiki/Norway"
         ]
       ],
       [
-        [
-          "2:24:54"
-        ],
-        [
-          null
-        ]
+        "2:24:54",
+        []
       ],
       [
-        [
-          "Second victory"
-        ],
-        [
-          null
-        ]
+        "Second victory",
+        []
       ]
     ],
     [
       [
-        [
-          "1987"
-        ],
-        [
-          null
-        ]
+        "1987",
+        []
       ],
       [
-        [
-          "Ingrid Kristiansen"
-        ],
+        "Ingrid Kristiansen",
         [
           "/wiki/Ingrid_Kristiansen"
         ]
       ],
       [
-        [
-          "Norway"
-        ],
+        "Norway",
         [
           "/wiki/Norway"
         ]
       ],
       [
-        [
-          "2:22:48"
-        ],
-        [
-          null
-        ]
+        "2:22:48",
+        []
       ],
       [
-        [
-          "Third victory"
-        ],
-        [
-          null
-        ]
+        "Third victory",
+        []
       ]
     ],
     [
       [
-        [
-          "1988"
-        ],
-        [
-          null
-        ]
+        "1988",
+        []
       ],
       [
-        [
-          "Ingrid Kristiansen"
-        ],
+        "Ingrid Kristiansen",
         [
           "/wiki/Ingrid_Kristiansen"
         ]
       ],
       [
-        [
-          "Norway"
-        ],
+        "Norway",
         [
           "/wiki/Norway"
         ]
       ],
       [
-        [
-          "2:25:41"
-        ],
-        [
-          null
-        ]
+        "2:25:41",
+        []
       ],
       [
-        [
-          "Fourth victory"
-        ],
-        [
-          null
-        ]
+        "Fourth victory",
+        []
       ]
     ],
     [
       [
-        [
-          "1989"
-        ],
-        [
-          null
-        ]
+        "1989",
+        []
       ],
       [
-        [
-          "V\u00e9ronique Marot"
-        ],
+        "V\u00e9ronique Marot",
         [
           "/wiki/V\u00e9ronique_Marot"
         ]
       ],
       [
-        [
-          "United Kingdom"
-        ],
+        "United Kingdom",
         [
           "/wiki/United_Kingdom"
         ]
       ],
       [
-        [
-          "2:25:56"
-        ],
-        [
-          null
-        ]
+        "2:25:56",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "1990"
-        ],
-        [
-          null
-        ]
+        "1990",
+        []
       ],
       [
-        [
-          "Wanda Panfil"
-        ],
+        "Wanda Panfil",
         [
           "/wiki/Wanda_Panfil"
         ]
       ],
       [
-        [
-          "Poland"
-        ],
+        "Poland",
         [
           "/wiki/Poland"
         ]
       ],
       [
-        [
-          "2:26:31"
-        ],
-        [
-          null
-        ]
+        "2:26:31",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "1991"
-        ],
-        [
-          null
-        ]
+        "1991",
+        []
       ],
       [
-        [
-          "Rosa Mota"
-        ],
+        "Rosa Mota",
         [
           "/wiki/Rosa_Mota"
         ]
       ],
       [
-        [
-          "Portugal"
-        ],
+        "Portugal",
         [
           "/wiki/Portugal"
         ]
       ],
       [
-        [
-          "2:26:14"
-        ],
-        [
-          null
-        ]
+        "2:26:14",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "1992"
-        ],
-        [
-          null
-        ]
+        "1992",
+        []
       ],
       [
-        [
-          "Katrin D\u00f6rre-Heinig"
-        ],
+        "Katrin D\u00f6rre-Heinig",
         [
           "/wiki/Katrin_D\u00f6rre-Heinig"
         ]
       ],
       [
-        [
-          "Germany"
-        ],
+        "Germany",
         [
           "/wiki/Germany"
         ]
       ],
       [
-        [
-          "2:29:39"
-        ],
-        [
-          null
-        ]
+        "2:29:39",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "1993"
-        ],
-        [
-          null
-        ]
+        "1993",
+        []
       ],
       [
-        [
-          "Katrin D\u00f6rre-Heinig"
-        ],
+        "Katrin D\u00f6rre-Heinig",
         [
           "/wiki/Katrin_D\u00f6rre-Heinig"
         ]
       ],
       [
-        [
-          "Germany"
-        ],
+        "Germany",
         [
           "/wiki/Germany"
         ]
       ],
       [
-        [
-          "2:27:09"
-        ],
-        [
-          null
-        ]
+        "2:27:09",
+        []
       ],
       [
-        [
-          "Second victory"
-        ],
-        [
-          null
-        ]
+        "Second victory",
+        []
       ]
     ],
     [
       [
-        [
-          "1994"
-        ],
-        [
-          null
-        ]
+        "1994",
+        []
       ],
       [
-        [
-          "Katrin D\u00f6rre-Heinig"
-        ],
+        "Katrin D\u00f6rre-Heinig",
         [
           "/wiki/Katrin_D\u00f6rre-Heinig"
         ]
       ],
       [
-        [
-          "Germany"
-        ],
+        "Germany",
         [
           "/wiki/Germany"
         ]
       ],
       [
-        [
-          "2:32:34"
-        ],
-        [
-          null
-        ]
+        "2:32:34",
+        []
       ],
       [
-        [
-          "Third victory"
-        ],
-        [
-          null
-        ]
+        "Third victory",
+        []
       ]
     ],
     [
       [
-        [
-          "1995"
-        ],
-        [
-          null
-        ]
+        "1995",
+        []
       ],
       [
-        [
-          "Ma\u0142gorzata Soba\u0144ska"
-        ],
+        "Ma\u0142gorzata Soba\u0144ska",
         [
           "/wiki/Ma\u0142gorzata_Soba\u0144ska"
         ]
       ],
       [
-        [
-          "Poland"
-        ],
+        "Poland",
         [
           "/wiki/Poland"
         ]
       ],
       [
-        [
-          "2:27:43"
-        ],
-        [
-          null
-        ]
+        "2:27:43",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "1996"
-        ],
-        [
-          null
-        ]
+        "1996",
+        []
       ],
       [
-        [
-          "Liz McColgan"
-        ],
+        "Liz McColgan",
         [
           "/wiki/Liz_McColgan"
         ]
       ],
       [
-        [
-          "United Kingdom"
-        ],
+        "United Kingdom",
         [
           "/wiki/United_Kingdom"
         ]
       ],
       [
-        [
-          "2:27:54"
-        ],
-        [
-          null
-        ]
+        "2:27:54",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "1997"
-        ],
-        [
-          null
-        ]
+        "1997",
+        []
       ],
       [
-        [
-          "Joyce Chepchumba"
-        ],
+        "Joyce Chepchumba",
         [
           "/wiki/Joyce_Chepchumba"
         ]
       ],
       [
-        [
-          "Kenya"
-        ],
+        "Kenya",
         [
           "/wiki/Kenya"
         ]
       ],
       [
-        [
-          "2:26:51"
-        ],
-        [
-          null
-        ]
+        "2:26:51",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "1998"
-        ],
-        [
-          null
-        ]
+        "1998",
+        []
       ],
       [
-        [
-          "Catherina McKiernan"
-        ],
+        "Catherina McKiernan",
         [
           "/wiki/Catherina_McKiernan"
         ]
       ],
       [
-        [
-          "Ireland"
-        ],
+        "Ireland",
         [
           "/wiki/Republic_of_Ireland"
         ]
       ],
       [
-        [
-          "2:26:26"
-        ],
-        [
-          null
-        ]
+        "2:26:26",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "1999"
-        ],
-        [
-          null
-        ]
+        "1999",
+        []
       ],
       [
-        [
-          "Joyce Chepchumba"
-        ],
+        "Joyce Chepchumba",
         [
           "/wiki/Joyce_Chepchumba"
         ]
       ],
       [
-        [
-          "Kenya"
-        ],
+        "Kenya",
         [
           "/wiki/Kenya"
         ]
       ],
       [
-        [
-          "2:23:22"
-        ],
-        [
-          null
-        ]
+        "2:23:22",
+        []
       ],
       [
-        [
-          "Second victory"
-        ],
-        [
-          null
-        ]
+        "Second victory",
+        []
       ]
     ],
     [
       [
-        [
-          "2000"
-        ],
-        [
-          null
-        ]
+        "2000",
+        []
       ],
       [
-        [
-          "Tegla Loroupe"
-        ],
+        "Tegla Loroupe",
         [
           "/wiki/Tegla_Loroupe"
         ]
       ],
       [
-        [
-          "Kenya"
-        ],
+        "Kenya",
         [
           "/wiki/Kenya"
         ]
       ],
       [
-        [
-          "2:24:33"
-        ],
-        [
-          null
-        ]
+        "2:24:33",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ]
   ],

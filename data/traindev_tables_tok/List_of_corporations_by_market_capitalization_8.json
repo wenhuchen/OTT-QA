@@ -3,41 +3,23 @@
   "title": "List of public corporations by market capitalization",
   "header": [
     [
-      [
-        "Rank"
-      ],
-      [
-        null
-      ]
+      "Rank",
+      []
     ],
     [
-      [
-        "Name"
-      ],
-      [
-        null
-      ]
+      "Name",
+      []
     ],
     [
-      [
-        "Headquarters"
-      ],
-      [
-        null
-      ]
+      "Headquarters",
+      []
     ],
     [
-      [
-        "Primary industry"
-      ],
-      [
-        null
-      ]
+      "Primary industry",
+      []
     ],
     [
-      [
-        "USD"
-      ],
+      "Market value ( USD million )",
       [
         "/wiki/USD"
       ]
@@ -46,422 +28,258 @@
   "data": [
     [
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "General Electric"
-        ],
+        "General Electric",
         [
           "/wiki/General_Electric"
         ]
       ],
       [
-        [
-          "United States"
-        ],
-        [
-          null
-        ]
+        "United States",
+        []
       ],
       [
-        [
-          "Conglomerate"
-        ],
+        "Conglomerate",
         [
           "/wiki/Conglomerate_(company)"
         ]
       ],
       [
-        [
-          "222,748"
-        ],
-        [
-          null
-        ]
+        "222,748",
+        []
       ]
     ],
     [
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "Royal Dutch Shell"
-        ],
+        "Royal Dutch Shell",
         [
           "/wiki/Royal_Dutch_Shell"
         ]
       ],
       [
-        [
-          "The Netherlands"
-        ],
-        [
-          null
-        ]
+        "The Netherlands",
+        []
       ],
       [
-        [
-          "Oil and gas"
-        ],
+        "Oil and gas",
         [
           "/wiki/Petroleum_industry"
         ]
       ],
       [
-        [
-          "191,002"
-        ],
-        [
-          null
-        ]
+        "191,002",
+        []
       ]
     ],
     [
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "Microsoft"
-        ],
+        "Microsoft",
         [
           "/wiki/Microsoft"
         ]
       ],
       [
-        [
-          "United States"
-        ],
-        [
-          null
-        ]
+        "United States",
+        []
       ],
       [
-        [
-          "Software industry"
-        ],
+        "Software industry",
         [
           "/wiki/Software_industry"
         ]
       ],
       [
-        [
-          "159,660"
-        ],
-        [
-          null
-        ]
+        "159,660",
+        []
       ]
     ],
     [
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "Exxon Mobil"
-        ],
+        "Exxon Mobil",
         [
           "/wiki/Exxon_Mobil"
         ]
       ],
       [
-        [
-          "United States"
-        ],
-        [
-          null
-        ]
+        "United States",
+        []
       ],
       [
-        [
-          "Oil and gas"
-        ],
-        [
-          null
-        ]
+        "Oil and gas",
+        []
       ],
       [
-        [
-          "157,970"
-        ],
-        [
-          null
-        ]
+        "157,970",
+        []
       ]
     ],
     [
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "The Coca-Cola Company"
-        ],
+        "The Coca-Cola Company",
         [
           "/wiki/The_Coca-Cola_Company"
         ]
       ],
       [
-        [
-          "United States"
-        ],
-        [
-          null
-        ]
+        "United States",
+        []
       ],
       [
-        [
-          "Beverage"
-        ],
+        "Beverage",
         [
           "/wiki/Beverage"
         ]
       ],
       [
-        [
-          "151,288"
-        ],
-        [
-          null
-        ]
+        "151,288",
+        []
       ]
     ],
     [
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "Intel Corporation"
-        ],
+        "Intel Corporation",
         [
           "/wiki/Intel_Corporation"
         ]
       ],
       [
-        [
-          "United States"
-        ],
-        [
-          null
-        ]
+        "United States",
+        []
       ],
       [
-        [
-          "Computer hardware"
-        ],
+        "Computer hardware",
         [
           "/wiki/Computer_hardware"
         ]
       ],
       [
-        [
-          "150,838"
-        ],
-        [
-          null
-        ]
+        "150,838",
+        []
       ]
     ],
     [
       [
-        [
-          "7"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ],
       [
-        [
-          "Nippon Telegraph and Telephone"
-        ],
+        "Nippon Telegraph and Telephone",
         [
           "/wiki/Nippon_Telegraph_and_Telephone"
         ]
       ],
       [
-        [
-          "Japan"
-        ],
-        [
-          null
-        ]
+        "Japan",
+        []
       ],
       [
-        [
-          "Telecommunications"
-        ],
+        "Telecommunications",
         [
           "/wiki/Telecommunications"
         ]
       ],
       [
-        [
-          "146,139"
-        ],
-        [
-          null
-        ]
+        "146,139",
+        []
       ]
     ],
     [
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "Merck"
-        ],
+        "Merck",
         [
           "/wiki/Merck_&_Co."
         ]
       ],
       [
-        [
-          "United States"
-        ],
-        [
-          null
-        ]
+        "United States",
+        []
       ],
       [
-        [
-          "Health care"
-        ],
+        "Health care",
         [
           "/wiki/Health_care"
         ]
       ],
       [
-        [
-          "120,757"
-        ],
-        [
-          null
-        ]
+        "120,757",
+        []
       ]
     ],
     [
       [
-        [
-          "9"
-        ],
-        [
-          null
-        ]
+        "9",
+        []
       ],
       [
-        [
-          "Toyota Motor Corporation"
-        ],
+        "Toyota Motor Corporation",
         [
           "/wiki/Toyota_Motor_Corporation"
         ]
       ],
       [
-        [
-          "Japan"
-        ],
-        [
-          null
-        ]
+        "Japan",
+        []
       ],
       [
-        [
-          "Automotive"
-        ],
+        "Automotive",
         [
           "/wiki/Automotive"
         ]
       ],
       [
-        [
-          "116,585"
-        ],
-        [
-          null
-        ]
+        "116,585",
+        []
       ]
     ],
     [
       [
-        [
-          "10"
-        ],
-        [
-          null
-        ]
+        "10",
+        []
       ],
       [
-        [
-          "Novartis"
-        ],
+        "Novartis",
         [
           "/wiki/Novartis"
         ]
       ],
       [
-        [
-          "Switzerland"
-        ],
-        [
-          null
-        ]
+        "Switzerland",
+        []
       ],
       [
-        [
-          "Health care"
-        ],
-        [
-          null
-        ]
+        "Health care",
+        []
       ],
       [
-        [
-          "104,468"
-        ],
-        [
-          null
-        ]
+        "104,468",
+        []
       ]
     ]
   ],

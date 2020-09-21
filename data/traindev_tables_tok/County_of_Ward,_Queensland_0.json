@@ -3,54 +3,32 @@
   "title": "County of Ward, Queensland",
   "header": [
     [
-      [
-        "Parish"
-      ],
-      [
-        null
-      ]
+      "Parish",
+      []
     ],
     [
-      [
-        "LGA"
-      ],
-      [
-        null
-      ]
+      "LGA",
+      []
     ],
     [
-      [
-        "Towns"
-      ],
-      [
-        null
-      ]
+      "Towns",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Albert"
-        ],
-        [
-          null
-        ]
+        "Albert",
+        []
       ],
       [
-        [
-          "Gold Coast"
-        ],
+        "Gold Coast",
         [
           "/wiki/City_of_Gold_Coast"
         ]
       ],
       [
-        [
-          "Alberton",
-          "Ormeau",
-          "Woongoolba"
-        ],
+        "Alberton , Ormeau ( East ) , Woongoolba",
         [
           "/wiki/Alberton,_Queensland",
           "/wiki/Ormeau,_Queensland",
@@ -60,52 +38,33 @@
     ],
     [
       [
-        [
-          "Alford"
-        ],
-        [
-          null
-        ]
+        "Alford",
+        []
       ],
       [
-        [
-          "Scenic Rim"
-        ],
+        "Scenic Rim",
         [
           "/wiki/Scenic_Rim_Region"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Barrow"
-        ],
-        [
-          null
-        ]
+        "Barrow",
+        []
       ],
       [
-        [
-          "Gold Coast"
-        ],
+        "Gold Coast",
         [
           "/wiki/City_of_Gold_Coast"
         ]
       ],
       [
-        [
-          "Paradise Point",
-          "Oxenford"
-        ],
+        "Paradise Point , Oxenford",
         [
           "/wiki/Paradise_Point,_Queensland",
           "/wiki/Oxenford,_Queensland"
@@ -114,26 +73,17 @@
     ],
     [
       [
-        [
-          "Beaudesert"
-        ],
-        [
-          null
-        ]
+        "Beaudesert",
+        []
       ],
       [
-        [
-          "Scenic Rim"
-        ],
+        "Scenic Rim",
         [
           "/wiki/Scenic_Rim_Region"
         ]
       ],
       [
-        [
-          "Beaudesert",
-          "Laravale"
-        ],
+        "Beaudesert , Laravale",
         [
           "/wiki/Beaudesert,_Queensland",
           "/wiki/Laravale,_Queensland"
@@ -142,53 +92,33 @@
     ],
     [
       [
-        [
-          "Boonnahbah"
-        ],
-        [
-          null
-        ]
+        "Boonnahbah",
+        []
       ],
       [
-        [
-          "Gold Coast"
-        ],
+        "Gold Coast",
         [
           "/wiki/City_of_Gold_Coast"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Boyd"
-        ],
-        [
-          null
-        ]
+        "Boyd",
+        []
       ],
       [
-        [
-          "Logan"
-        ],
+        "Logan",
         [
           "/wiki/Logan_City"
         ]
       ],
       [
-        [
-          "Beenleigh",
-          "Bethania",
-          "Windaroo"
-        ],
+        "Beenleigh , Bethania , Windaroo",
         [
           "/wiki/Beenleigh,_Queensland",
           "/wiki/Bethania,_Queensland",
@@ -198,25 +128,17 @@
     ],
     [
       [
-        [
-          "Bromelton"
-        ],
-        [
-          null
-        ]
+        "Bromelton",
+        []
       ],
       [
-        [
-          "Scenic Rim"
-        ],
+        "Scenic Rim",
         [
           "/wiki/Scenic_Rim_Region"
         ]
       ],
       [
-        [
-          "Bromelton"
-        ],
+        "Bromelton",
         [
           "/wiki/Bromelton,_Queensland"
         ]
@@ -224,26 +146,17 @@
     ],
     [
       [
-        [
-          "Cedar"
-        ],
-        [
-          null
-        ]
+        "Cedar",
+        []
       ],
       [
-        [
-          "Gold Coast"
-        ],
+        "Gold Coast",
         [
           "/wiki/City_of_Gold_Coast"
         ]
       ],
       [
-        [
-          "Tamborine Mountain",
-          "Upper Coomera"
-        ],
+        "Tamborine Mountain , Upper Coomera",
         [
           "/wiki/Tamborine_Mountain,_Queensland",
           "/wiki/Upper_Coomera,_Queensland"
@@ -252,26 +165,17 @@
     ],
     [
       [
-        [
-          "Coochin"
-        ],
-        [
-          null
-        ]
+        "Coochin",
+        []
       ],
       [
-        [
-          "Scenic Rim"
-        ],
+        "Scenic Rim",
         [
           "/wiki/Scenic_Rim_Region"
         ]
       ],
       [
-        [
-          "Boonah",
-          "Mount Alford"
-        ],
+        "Boonah , Mount Alford",
         [
           "/wiki/Boonah,_Queensland",
           "/wiki/Mount_Alford,_Queensland"
@@ -280,25 +184,17 @@
     ],
     [
       [
-        [
-          "Coomera"
-        ],
-        [
-          null
-        ]
+        "Coomera",
+        []
       ],
       [
-        [
-          "Gold Coast"
-        ],
+        "Gold Coast",
         [
           "/wiki/City_of_Gold_Coast"
         ]
       ],
       [
-        [
-          "Coomera"
-        ],
+        "Coomera",
         [
           "/wiki/Coomera,_Queensland"
         ]
@@ -306,25 +202,17 @@
     ],
     [
       [
-        [
-          "Currigee"
-        ],
-        [
-          null
-        ]
+        "Currigee",
+        []
       ],
       [
-        [
-          "Gold Coast"
-        ],
+        "Gold Coast",
         [
           "/wiki/City_of_Gold_Coast"
         ]
       ],
       [
-        [
-          "South Stradbroke Island"
-        ],
+        "South Stradbroke Island",
         [
           "/wiki/South_Stradbroke_Island"
         ]
@@ -332,25 +220,17 @@
     ],
     [
       [
-        [
-          "Darlington"
-        ],
-        [
-          null
-        ]
+        "Darlington",
+        []
       ],
       [
-        [
-          "Gold Coast"
-        ],
+        "Gold Coast",
         [
           "/wiki/City_of_Gold_Coast"
         ]
       ],
       [
-        [
-          "Ormeau"
-        ],
+        "Ormeau ( West )",
         [
           "/wiki/Ormeau,_Queensland"
         ]
@@ -358,52 +238,33 @@
     ],
     [
       [
-        [
-          "Dugandan"
-        ],
-        [
-          null
-        ]
+        "Dugandan",
+        []
       ],
       [
-        [
-          "Scenic Rim"
-        ],
+        "Scenic Rim",
         [
           "/wiki/Scenic_Rim_Region"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Gilston"
-        ],
-        [
-          null
-        ]
+        "Gilston",
+        []
       ],
       [
-        [
-          "Gold Coast"
-        ],
+        "Gold Coast",
         [
           "/wiki/City_of_Gold_Coast"
         ]
       ],
       [
-        [
-          "Broadbeach",
-          "Burleigh Heads"
-        ],
+        "Broadbeach , Burleigh Heads",
         [
           "/wiki/Broadbeach,_Queensland",
           "/wiki/Burleigh_Heads,_Queensland"
@@ -412,25 +273,17 @@
     ],
     [
       [
-        [
-          "Jimboomba"
-        ],
-        [
-          null
-        ]
+        "Jimboomba",
+        []
       ],
       [
-        [
-          "Logan"
-        ],
+        "Logan",
         [
           "/wiki/Logan_City"
         ]
       ],
       [
-        [
-          "Jimboomba"
-        ],
+        "Jimboomba",
         [
           "/wiki/Jimboomba,_Queensland"
         ]
@@ -438,25 +291,17 @@
     ],
     [
       [
-        [
-          "Kerry"
-        ],
-        [
-          null
-        ]
+        "Kerry",
+        []
       ],
       [
-        [
-          "Scenic Rim"
-        ],
+        "Scenic Rim",
         [
           "/wiki/Scenic_Rim_Region"
         ]
       ],
       [
-        [
-          "Kerry"
-        ],
+        "Kerry",
         [
           "/wiki/Kerry,_Queensland"
         ]
@@ -464,25 +309,17 @@
     ],
     [
       [
-        [
-          "Knapp"
-        ],
-        [
-          null
-        ]
+        "Knapp",
+        []
       ],
       [
-        [
-          "Scenic Rim"
-        ],
+        "Scenic Rim",
         [
           "/wiki/Scenic_Rim_Region"
         ]
       ],
       [
-        [
-          "Rathdowney"
-        ],
+        "Rathdowney",
         [
           "/wiki/Rathdowney,_Queensland"
         ]
@@ -490,25 +327,17 @@
     ],
     [
       [
-        [
-          "Logan"
-        ],
-        [
-          null
-        ]
+        "Logan",
+        []
       ],
       [
-        [
-          "Logan"
-        ],
+        "Logan",
         [
           "/wiki/Logan_City"
         ]
       ],
       [
-        [
-          "Woodhill"
-        ],
+        "Woodhill",
         [
           "/wiki/Woodhill,_Queensland"
         ]
@@ -516,52 +345,33 @@
     ],
     [
       [
-        [
-          "Melcombe"
-        ],
-        [
-          null
-        ]
+        "Melcombe",
+        []
       ],
       [
-        [
-          "Scenic Rim"
-        ],
+        "Scenic Rim",
         [
           "/wiki/Scenic_Rim_Region"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Moffatt"
-        ],
-        [
-          null
-        ]
+        "Moffatt",
+        []
       ],
       [
-        [
-          "Logan"
-        ],
+        "Logan",
         [
           "/wiki/Logan_City"
         ]
       ],
       [
-        [
-          "Logan Village",
-          "Waterford"
-        ],
+        "Logan Village , Waterford",
         [
           "/wiki/Logan_Village,_Queensland",
           "/wiki/Waterford,_Queensland"

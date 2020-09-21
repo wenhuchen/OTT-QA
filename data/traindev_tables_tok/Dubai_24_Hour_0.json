@@ -3,326 +3,223 @@
   "title": "Dubai 24 Hour",
   "header": [
     [
-      [
-        "Year"
-      ],
-      [
-        null
-      ]
+      "Year",
+      []
     ],
     [
-      [
-        "Drivers"
-      ],
-      [
-        null
-      ]
+      "Drivers",
+      []
     ],
     [
-      [
-        "Car"
-      ],
-      [
-        null
-      ]
+      "Team",
+      []
     ],
     [
-      [
-        "Laps"
-      ],
-      [
-        null
-      ]
+      "Car",
+      []
     ],
     [
-      [
-        "Distance"
-      ],
-      [
-        null
-      ]
+      "Laps",
+      []
     ],
     [
-      [
-        "Fastest Lap"
-      ],
-      [
-        null
-      ]
+      "Distance",
+      []
+    ],
+    [
+      "Fastest Lap",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "2020"
-        ],
-        [
-          null
-        ]
+        "2020",
+        []
       ],
       [
-        [
-          "Jeroen Bleekemolen"
-        ],
+        "Khaled Al Qubaisi Ben Barker Jeroen Bleekemolen Hubert Haupt Manuel Metzger",
         [
           "/wiki/Jeroen_Bleekemolen"
         ]
       ],
       [
-        [
-          "Mercedes-AMG GT3"
-        ],
+        "Black Falcon",
+        []
+      ],
+      [
+        "Mercedes-AMG GT3",
         [
           "/wiki/Mercedes-AMG_GT"
         ]
       ],
       [
-        [
-          "168"
-        ],
-        [
-          null
-        ]
+        "168",
+        []
       ],
       [
-        [
-          "905.52"
-        ],
-        [
-          null
-        ]
+        "905.52",
+        []
       ],
       [
-        [
-          "1:59.430"
-        ],
-        [
-          null
-        ]
+        "1:59.430",
+        []
       ]
     ],
     [
       [
-        [
-          "2019"
-        ],
+        "2019",
         [
           "/wiki/2019_Dubai_24_Hour"
         ]
       ],
       [
-        [
-          "Christopher Haase",
-          "Fr\u00e9d\u00e9ric Vervisch"
-        ],
+        "Rik Breukers Christopher Haase Dimitri Parhofer Fr\u00e9d\u00e9ric Vervisch",
         [
           "/wiki/Christopher_Haase",
           "/wiki/Fr\u00e9d\u00e9ric_Vervisch"
         ]
       ],
       [
-        [
-          "Audi R8 LMS Evo"
-        ],
+        "Car Collection Motorsport",
+        []
+      ],
+      [
+        "Audi R8 LMS Evo",
         [
           "/wiki/Audi_R8"
         ]
       ],
       [
-        [
-          "607"
-        ],
-        [
-          null
-        ]
+        "607",
+        []
       ],
       [
-        [
-          "3271.73"
-        ],
-        [
-          null
-        ]
+        "3271.73",
+        []
       ],
       [
-        [
-          "1:58.695"
-        ],
-        [
-          null
-        ]
+        "1:58.695",
+        []
       ]
     ],
     [
       [
-        [
-          "2018"
-        ],
+        "2018",
         [
           "/wiki/2018_Dubai_24_Hour"
         ]
       ],
       [
-        [
-          "Abdulaziz Al Faisal",
-          "Yelmer Buurman"
-        ],
+        "Abdulaziz Al Faisal Yelmer Buurman Hubert Haupt Gabriele Piana",
         [
           "/wiki/Abdulaziz_bin_Turki_Al_Saud",
           "/wiki/Yelmer_Buurman"
         ]
       ],
       [
-        [
-          "Mercedes-AMG GT3"
-        ],
+        "Black Falcon",
+        []
+      ],
+      [
+        "Mercedes-AMG GT3",
         [
           "/wiki/Mercedes-AMG_GT3"
         ]
       ],
       [
-        [
-          "606"
-        ],
-        [
-          null
-        ]
+        "606",
+        []
       ],
       [
-        [
-          "3266.34"
-        ],
-        [
-          null
-        ]
+        "3266.34",
+        []
       ],
       [
-        [
-          "1:59.394"
-        ],
-        [
-          null
-        ]
+        "1:59.394",
+        []
       ]
     ],
     [
       [
-        [
-          "2017"
-        ],
+        "2017",
         [
           "/wiki/2017_Dubai_24_Hour"
         ]
       ],
       [
-        [
-          "Brendon Hartley"
-        ],
+        "Daniel Allemann Ralf Bohn Brendon Hartley Alfred Renauer Robert Renauer",
         [
           "/wiki/Brendon_Hartley"
         ]
       ],
       [
-        [
-          "Porsche 991 GT3 R"
-        ],
+        "Herberth Motorsport",
+        []
+      ],
+      [
+        "Porsche 991 GT3 R",
         [
           "/wiki/Porsche_911_GT3"
         ]
       ],
       [
-        [
-          "578"
-        ],
-        [
-          null
-        ]
+        "578",
+        []
       ],
       [
-        [
-          "3115.42"
-        ],
-        [
-          null
-        ]
+        "3115.42",
+        []
       ],
       [
-        [
-          "1:59.198"
-        ],
-        [
-          null
-        ]
+        "1:59.198",
+        []
       ]
     ],
     [
       [
-        [
-          "2016"
-        ],
-        [
-          null
-        ]
+        "2016",
+        []
       ],
       [
-        [
-          "Alain Fert\u00e9",
-          "Laurens Vanthoor"
-        ],
+        "Alain Fert\u00e9 Stuart Leonard Michael Meadows Laurens Vanthoor",
         [
           "/wiki/Alain_Fert\u00e9",
           "/wiki/Laurens_Vanthoor"
         ]
       ],
       [
+        "Belgian Audi Club Team WRT",
         [
-          "Audi R8 LMS"
-        ],
+          "/wiki/W_Racing_Team"
+        ]
+      ],
+      [
+        "Audi R8 LMS",
         [
           "/wiki/Audi_R8_LMS"
         ]
       ],
       [
-        [
-          "588"
-        ],
-        [
-          null
-        ]
+        "588",
+        []
       ],
       [
-        [
-          "3169.32"
-        ],
-        [
-          null
-        ]
+        "3169.32",
+        []
       ],
       [
-        [
-          "1:58.712"
-        ],
-        [
-          null
-        ]
+        "1:58.712",
+        []
       ]
     ],
     [
       [
-        [
-          "2015"
-        ],
-        [
-          null
-        ]
+        "2015",
+        []
       ],
       [
-        [
-          "Abdulaziz Al Faisal",
-          "Yelmer Buurman",
-          "Oliver Webb"
-        ],
+        "Abdulaziz Al Faisal Yelmer Buurman Hubert Haupt Oliver Webb",
         [
           "/wiki/Abdulaziz_bin_Turki_Al_Saud",
           "/wiki/Yelmer_Buurman",
@@ -330,104 +227,71 @@
         ]
       ],
       [
-        [
-          "Mercedes-Benz SLS AMG GT3"
-        ],
+        "Black Falcon 2",
+        []
+      ],
+      [
+        "Mercedes-Benz SLS AMG GT3",
         [
           "/wiki/Mercedes-Benz_SLS_AMG"
         ]
       ],
       [
-        [
-          "604"
-        ],
-        [
-          null
-        ]
+        "604",
+        []
       ],
       [
-        [
-          "3255.56"
-        ],
-        [
-          null
-        ]
+        "3255.56",
+        []
       ],
       [
-        [
-          "1:59.545"
-        ],
-        [
-          null
-        ]
+        "1:59.545",
+        []
       ]
     ],
     [
       [
-        [
-          "2014"
-        ],
+        "2014",
         [
           "/wiki/2014_Dubai_24_Hour"
         ]
       ],
       [
-        [
-          "Christian Engelhart"
-        ],
+        "Adrian Amstutz Christian Engelhart Mark Ineichen Rolf Ineichen Marcel Matter",
         [
           "/wiki/Christian_Engelhart"
         ]
       ],
       [
-        [
-          "Porsche 997 GT3-R"
-        ],
+        "Stadler Motorsport",
+        []
+      ],
+      [
+        "Porsche 997 GT3-R",
         [
           "/wiki/Porsche_911_GT3"
         ]
       ],
       [
-        [
-          "603"
-        ],
-        [
-          null
-        ]
+        "603",
+        []
       ],
       [
-        [
-          "3250.17"
-        ],
-        [
-          null
-        ]
+        "3250.17",
+        []
       ],
       [
-        [
-          "1:59.537"
-        ],
-        [
-          null
-        ]
+        "1:59.537",
+        []
       ]
     ],
     [
       [
-        [
-          "2013"
-        ],
-        [
-          null
-        ]
+        "2013",
+        []
       ],
       [
-        [
-          "Khaled Al Qubaisi",
-          "Jeroen Bleekemolen",
-          "Sean Edwards",
-          "Bernd Schneider"
-        ],
+        "Khaled Al Qubaisi Jeroen Bleekemolen Sean Edwards Bernd Schneider",
         [
           "/wiki/Khaled_Al_Qubaisi",
           "/wiki/Jeroen_Bleekemolen",
@@ -436,54 +300,37 @@
         ]
       ],
       [
-        [
-          "Mercedes-Benz SLS AMG GT3"
-        ],
+        "Abu Dhabi by Black Falcon",
+        []
+      ],
+      [
+        "Mercedes-Benz SLS AMG GT3",
         [
           "/wiki/Mercedes-Benz_SLS_AMG"
         ]
       ],
       [
-        [
-          "600"
-        ],
-        [
-          null
-        ]
+        "600",
+        []
       ],
       [
-        [
-          "3234.00"
-        ],
-        [
-          null
-        ]
+        "3234.00",
+        []
       ],
       [
-        [
-          "1:59.472"
-        ],
-        [
-          null
-        ]
+        "1:59.472",
+        []
       ]
     ],
     [
       [
-        [
-          "2012"
-        ],
+        "2012",
         [
           "/wiki/2012_Dubai_24_Hour"
         ]
       ],
       [
-        [
-          "Khaled Al Qubaisi",
-          "Jeroen Bleekemolen",
-          "Sean Edwards",
-          "Thomas J\u00e4ger"
-        ],
+        "Khaled Al Qubaisi Jeroen Bleekemolen Sean Edwards Thomas J\u00e4ger",
         [
           "/wiki/Khaled_Al_Qubaisi",
           "/wiki/Jeroen_Bleekemolen",
@@ -492,53 +339,35 @@
         ]
       ],
       [
-        [
-          "Mercedes-Benz SLS AMG GT3"
-        ],
+        "Abu Dhabi by Black Falcon",
+        []
+      ],
+      [
+        "Mercedes-Benz SLS AMG GT3",
         [
           "/wiki/Mercedes-Benz_SLS_AMG"
         ]
       ],
       [
-        [
-          "628"
-        ],
-        [
-          null
-        ]
+        "628",
+        []
       ],
       [
-        [
-          "3384.92"
-        ],
-        [
-          null
-        ]
+        "3384.92",
+        []
       ],
       [
-        [
-          "2:01.921"
-        ],
-        [
-          null
-        ]
+        "2:01.921",
+        []
       ]
     ],
     [
       [
-        [
-          "2011"
-        ],
-        [
-          null
-        ]
+        "2011",
+        []
       ],
       [
-        [
-          "Augusto Farfus",
-          "Claudia H\u00fcrtgen",
-          "Tommy Milner"
-        ],
+        "Augusto Farfus Claudia H\u00fcrtgen Tommy Milner Edward Sandstr\u00f6m",
         [
           "/wiki/Augusto_Farfus",
           "/wiki/Claudia_H\u00fcrtgen",
@@ -546,208 +375,144 @@
         ]
       ],
       [
+        "Need for Speed by Schubert Motorsport",
         [
-          "BMW Z4 GT3"
-        ],
+          "/wiki/Need_for_Speed",
+          "/wiki/Schubert_Motorsport"
+        ]
+      ],
+      [
+        "BMW Z4 GT3",
         [
           "/wiki/BMW_Z4_(E89)"
         ]
       ],
       [
-        [
-          "594"
-        ],
-        [
-          null
-        ]
+        "594",
+        []
       ],
       [
-        [
-          "3201.66"
-        ],
-        [
-          null
-        ]
+        "3201.66",
+        []
       ],
       [
-        [
-          "2:04.858"
-        ],
-        [
-          null
-        ]
+        "2:04.858",
+        []
       ]
     ],
     [
       [
-        [
-          "2010"
-        ],
+        "2010",
         [
           "/wiki/2010_Dubai_24_Hour"
         ]
       ],
       [
-        [
-          "Marco Holzer",
-          "Patrick Pilet"
-        ],
+        "Marco Holzer Raymond Narac Patrick Pilet",
         [
           "/wiki/Marco_Holzer",
           "/wiki/Patrick_Pilet"
         ]
       ],
       [
-        [
-          "Porsche 997 GT3-RSR"
-        ],
+        "IMSA Performance Matmut",
+        []
+      ],
+      [
+        "Porsche 997 GT3-RSR",
         [
           "/wiki/Porsche_911_GT3"
         ]
       ],
       [
-        [
-          "608"
-        ],
-        [
-          null
-        ]
+        "608",
+        []
       ],
       [
-        [
-          "3277.12"
-        ],
-        [
-          null
-        ]
+        "3277.12",
+        []
       ],
       [
-        [
-          "2:03.348"
-        ],
-        [
-          null
-        ]
+        "2:03.348",
+        []
       ]
     ],
     [
       [
-        [
-          "2009"
-        ],
+        "2009",
         [
           "/wiki/2009_Dubai_24_Hour"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "Gabri\u00ebl Abergel Andrzej Dzikevic Niclas Kentenich Carsten Tilke",
+        []
       ],
       [
-        [
-          "Porsche 997 GT3 Cup"
-        ],
+        "Land Motorsport",
+        []
+      ],
+      [
+        "Porsche 997 GT3 Cup",
         [
           "/wiki/Porsche_911_GT3"
         ]
       ],
       [
-        [
-          "573"
-        ],
-        [
-          null
-        ]
+        "573",
+        []
       ],
       [
-        [
-          "3088.47"
-        ],
-        [
-          null
-        ]
+        "3088.47",
+        []
       ],
       [
-        [
-          "2:02.524"
-        ],
-        [
-          null
-        ]
+        "2:02.524",
+        []
       ]
     ],
     [
       [
-        [
-          "2008"
-        ],
-        [
-          null
-        ]
+        "2008",
+        []
       ],
       [
-        [
-          "Craig Baird",
-          "Jonathon Webb"
-        ],
+        "Craig Baird Klark Quinn Tony Quinn Jonathon Webb",
         [
           "/wiki/Craig_Baird",
           "/wiki/Jonathon_Webb"
         ]
       ],
       [
-        [
-          "Porsche 997 GT3-RSR"
-        ],
+        "VIP Pet Foods",
+        []
+      ],
+      [
+        "Porsche 997 GT3-RSR",
         [
           "/wiki/Porsche_911_GT3"
         ]
       ],
       [
-        [
-          "504"
-        ],
-        [
-          null
-        ]
+        "504",
+        []
       ],
       [
-        [
-          "2716.56"
-        ],
-        [
-          null
-        ]
+        "2716.56",
+        []
       ],
       [
-        [
-          "2:03.334"
-        ],
-        [
-          null
-        ]
+        "2:03.334",
+        []
       ]
     ],
     [
       [
-        [
-          "2007"
-        ],
-        [
-          null
-        ]
+        "2007",
+        []
       ],
       [
-        [
-          "Jamie Campbell-Walter",
-          "Philipp Peter",
-          "Dieter Quester",
-          "Dirk Werner"
-        ],
+        "Jamie Campbell-Walter Philipp Peter Dieter Quester Dirk Werner",
         [
           "/wiki/Jamie_Campbell-Walter",
           "/wiki/Philipp_Peter",
@@ -756,54 +521,37 @@
         ]
       ],
       [
-        [
-          "BMW Z4 Coupe"
-        ],
+        "Duller Motorsport",
+        []
+      ],
+      [
+        "BMW Z4 Coupe",
         [
           "/wiki/BMW_Z4_(E85)"
         ]
       ],
       [
-        [
-          "567"
-        ],
-        [
-          null
-        ]
+        "567",
+        []
       ],
       [
-        [
-          "3056.13"
-        ],
-        [
-          null
-        ]
+        "3056.13",
+        []
       ],
       [
-        [
-          "2:04.435"
-        ],
-        [
-          null
-        ]
+        "2:04.435",
+        []
       ]
     ],
     [
       [
-        [
-          "2006"
-        ],
+        "2006",
         [
           "/wiki/2006_Dubai_24_Hour"
         ]
       ],
       [
-        [
-          "Philipp Peter",
-          "Dieter Quester",
-          "Hans-Joachim Stuck",
-          "Toto Wolff"
-        ],
+        "Philipp Peter Dieter Quester Hans-Joachim Stuck Toto Wolff",
         [
           "/wiki/Philipp_Peter",
           "/wiki/Dieter_Quester",
@@ -812,36 +560,26 @@
         ]
       ],
       [
-        [
-          "BMW M3 CSL"
-        ],
+        "Duller Motorsport",
+        []
+      ],
+      [
+        "BMW M3 CSL",
         [
           "/wiki/BMW_M3"
         ]
       ],
       [
-        [
-          "519"
-        ],
-        [
-          null
-        ]
+        "519",
+        []
       ],
       [
-        [
-          "2797.41"
-        ],
-        [
-          null
-        ]
+        "2797.41",
+        []
       ],
       [
-        [
-          "2:10.057"
-        ],
-        [
-          null
-        ]
+        "2:10.057",
+        []
       ]
     ]
   ],

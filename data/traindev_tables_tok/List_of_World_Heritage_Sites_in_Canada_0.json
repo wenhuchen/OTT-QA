@@ -3,107 +3,64 @@
   "title": "List of World Heritage Sites in Canada",
   "header": [
     [
-      [
-        "Site"
-      ],
-      [
-        null
-      ]
+      "Site",
+      []
     ],
     [
-      [
-        "Location"
-      ],
-      [
-        null
-      ]
+      "Location",
+      []
     ],
     [
-      [
-        "Criteria"
-      ],
+      "Criteria",
       [
         "/wiki/World_Heritage_Site"
       ]
     ],
     [
-      [
-        "ha",
-        "acre"
-      ],
+      "Area ha ( acre )",
       [
         "/wiki/Hectare",
         "/wiki/Acre"
       ]
     ],
     [
-      [
-        "Year"
-      ],
-      [
-        null
-      ]
+      "Year",
+      []
     ],
     [
-      [
-        "Description"
-      ],
-      [
-        null
-      ]
+      "Description",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Canadian Rocky Mountain Parks"
-        ],
+        "Canadian Rocky Mountain Parks",
         [
           "/wiki/Canadian_Rocky_Mountain_Parks"
         ]
       ],
       [
-        [
-          "Alberta",
-          "British Columbia",
-          "51\u00b025\u2032N 116\u00b029\u2032W / 51.417\u00b0N 116.483\u00b0W / 51.417 ; -116.483 ( Canadian Rocky Mountain Parks )"
-        ],
+        "Canada Alberta and British Columbia 51\u00b025\u2032N 116\u00b029\u2032W / 51.417\u00b0N 116.483\u00b0W / 51.417 ; -116.483 ( Canadian Rocky Mountain Parks )",
         [
           "/wiki/Alberta",
-          "/wiki/British_Columbia",
-          null
+          "/wiki/British_Columbia"
         ]
       ],
       [
-        [
-          "Natural : ( vii ) , ( viii )"
-        ],
-        [
-          null
-        ]
+        "Natural : ( vii ) , ( viii )",
+        []
       ],
       [
-        [
-          "2,306,884 ( 5,700,430 )"
-        ],
-        [
-          null
-        ]
+        "2,306,884 ( 5,700,430 )",
+        []
       ],
       [
-        [
-          "1984"
-        ],
-        [
-          null
-        ]
+        "1984",
+        []
       ],
       [
-        [
-          "Rocky Mountains",
-          "Burgess Shale"
-        ],
+        "With high peaks , glaciers , lakes , waterfalls , canyons and limestone caves , the National Parks that make up this site exemplify the exceptional features of the Rocky Mountains . Furthermore , one of the world 's most celebrated fossil fields , the Burgess Shale Formation is located within the inscribed property",
         [
           "/wiki/Rocky_Mountains",
           "/wiki/Burgess_Shale"
@@ -112,52 +69,31 @@
     ],
     [
       [
-        [
-          "Dinosaur Provincial Park"
-        ],
+        "Dinosaur Provincial Park",
         [
           "/wiki/Dinosaur_Provincial_Park"
         ]
       ],
       [
+        "Canada Alberta 50\u00b046\u20324\u2033N 111\u00b029\u203232\u2033W / 50.76778\u00b0N 111.49222\u00b0W / 50.76778 ; -111.49222 ( Dinosaur Provincial Park )",
         [
-          "Alberta",
-          "50\u00b046\u20324\u2033N 111\u00b029\u203232\u2033W / 50.76778\u00b0N 111.49222\u00b0W / 50.76778 ; -111.49222 ( Dinosaur Provincial Park )"
-        ],
-        [
-          "/wiki/Alberta",
-          null
+          "/wiki/Alberta"
         ]
       ],
       [
-        [
-          "Natural : ( vii ) , ( viii )"
-        ],
-        [
-          null
-        ]
+        "Natural : ( vii ) , ( viii )",
+        []
       ],
       [
-        [
-          "7,493 ( 18,520 )"
-        ],
-        [
-          null
-        ]
+        "7,493 ( 18,520 )",
+        []
       ],
       [
-        [
-          "1979"
-        ],
-        [
-          null
-        ]
+        "1979",
+        []
       ],
       [
-        [
-          "badland",
-          "cretaceous"
-        ],
+        "The park is noted for the beauty of its badland landscape and as a major fossil site . Specimens of every group of cretaceous dinosaurs have been found here including those of 35 species dating more than 75 million years ago",
         [
           "/wiki/Badland",
           "/wiki/Cretaceous"
@@ -166,104 +102,61 @@
     ],
     [
       [
-        [
-          "Gros Morne National Park"
-        ],
+        "Gros Morne National Park",
         [
           "/wiki/Gros_Morne_National_Park"
         ]
       ],
       [
+        "Canada Newfoundland and Labrador 49\u00b037\u2032N 57\u00b032\u2032W / 49.617\u00b0N 57.533\u00b0W / 49.617 ; -57.533 ( Gros Morne National Park )",
         [
-          "Newfoundland and Labrador",
-          "49\u00b037\u2032N 57\u00b032\u2032W / 49.617\u00b0N 57.533\u00b0W / 49.617 ; -57.533 ( Gros Morne National Park )"
-        ],
-        [
-          "/wiki/Newfoundland_and_Labrador",
-          null
+          "/wiki/Newfoundland_and_Labrador"
         ]
       ],
       [
-        [
-          "Natural : ( vii ) , ( viii )"
-        ],
-        [
-          null
-        ]
+        "Natural : ( vii ) , ( viii )",
+        []
       ],
       [
-        [
-          "180,500 ( 446,000 )"
-        ],
-        [
-          null
-        ]
+        "180,500 ( 446,000 )",
+        []
       ],
       [
-        [
-          "1987"
-        ],
-        [
-          null
-        ]
+        "1987",
+        []
       ],
       [
-        [
-          "With deep ocean crust and rocks of the earth 's mantle lying exposed , the park illustrates plate tectonics . Landlocked freshwater fjords , glacier-scoured headlands in an ocean setting contribute to the natural beauty of this wilderness area"
-        ],
-        [
-          null
-        ]
+        "With deep ocean crust and rocks of the earth 's mantle lying exposed , the park illustrates plate tectonics . Landlocked freshwater fjords , glacier-scoured headlands in an ocean setting contribute to the natural beauty of this wilderness area",
+        []
       ]
     ],
     [
       [
-        [
-          "Head-Smashed-In Buffalo Jump"
-        ],
+        "Head-Smashed-In Buffalo Jump",
         [
           "/wiki/Head-Smashed-In_Buffalo_Jump"
         ]
       ],
       [
+        "Canada Alberta 49\u00b044\u203258\u2033N 113\u00b037\u203226\u2033W / 49.74944\u00b0N 113.62389\u00b0W / 49.74944 ; -113.62389 ( Head-Smashed-In Buffalo Jump )",
         [
-          "Alberta",
-          "49\u00b044\u203258\u2033N 113\u00b037\u203226\u2033W / 49.74944\u00b0N 113.62389\u00b0W / 49.74944 ; -113.62389 ( Head-Smashed-In Buffalo Jump )"
-        ],
-        [
-          "/wiki/Alberta",
-          null
+          "/wiki/Alberta"
         ]
       ],
       [
-        [
-          "Cultural : ( vi )"
-        ],
-        [
-          null
-        ]
+        "Cultural : ( vi )",
+        []
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "1981"
-        ],
-        [
-          null
-        ]
+        "1981",
+        []
       ],
       [
-        [
-          "American bison",
-          "buffalo jump"
-        ],
+        "The property consists of remains of a camp , of trails and a tumulus of bones of the American bison bearing testimony to nearly 6000 years of communal hunting in which the bisons were driven over a cliff , a practice known as buffalo jump",
         [
           "/wiki/American_bison",
           "/wiki/Buffalo_jump"
@@ -272,105 +165,62 @@
     ],
     [
       [
-        [
-          "Old Qu\u00e9bec"
-        ],
+        "Historic District of Old Qu\u00e9bec",
         [
           "/wiki/Old_Quebec"
         ]
       ],
       [
-        [
-          "Quebec City",
-          "Quebec",
-          "46\u00b048\u203234\u2033N 71\u00b012\u203238\u2033W / 46.80944\u00b0N 71.21056\u00b0W / 46.80944 ; -71.21056 ( Historic District of Old Qu\u00e9bec )"
-        ],
+        "Canada Quebec City , Quebec 46\u00b048\u203234\u2033N 71\u00b012\u203238\u2033W / 46.80944\u00b0N 71.21056\u00b0W / 46.80944 ; -71.21056 ( Historic District of Old Qu\u00e9bec )",
         [
           "/wiki/Quebec_City",
-          "/wiki/Quebec",
-          null
+          "/wiki/Quebec"
         ]
       ],
       [
-        [
-          "Cultural : ( iv ) , ( vi )"
-        ],
-        [
-          null
-        ]
+        "Cultural : ( iv ) , ( vi )",
+        []
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "1985"
-        ],
-        [
-          null
-        ]
+        "1985",
+        []
       ],
       [
-        [
-          "Founded by the French in the 17th century , the urban ensemble of Old Qu\u00e9bec is the most complete example of a European fortified town north of Mexico"
-        ],
-        [
-          null
-        ]
+        "Founded by the French in the 17th century , the urban ensemble of Old Qu\u00e9bec is the most complete example of a European fortified town north of Mexico",
+        []
       ]
     ],
     [
       [
-        [
-          "Joggins Fossil Cliffs"
-        ],
+        "Joggins Fossil Cliffs",
         [
           "/wiki/Joggins_Fossil_Cliffs"
         ]
       ],
       [
+        "Canada Nova Scotia 45\u00b042\u203235\u2033N 64\u00b026\u20329\u2033W / 45.70972\u00b0N 64.43583\u00b0W / 45.70972 ; -64.43583 ( Joggins Fossil Cliffs )",
         [
-          "Nova Scotia",
-          "45\u00b042\u203235\u2033N 64\u00b026\u20329\u2033W / 45.70972\u00b0N 64.43583\u00b0W / 45.70972 ; -64.43583 ( Joggins Fossil Cliffs )"
-        ],
-        [
-          "/wiki/Nova_Scotia",
-          null
+          "/wiki/Nova_Scotia"
         ]
       ],
       [
-        [
-          "Natural : ( viii )"
-        ],
-        [
-          null
-        ]
+        "Natural : ( viii )",
+        []
       ],
       [
-        [
-          "689 ( 1,700 ) ; buffer zone 29 ( 72 )"
-        ],
-        [
-          null
-        ]
+        "689 ( 1,700 ) ; buffer zone 29 ( 72 )",
+        []
       ],
       [
-        [
-          "2008"
-        ],
-        [
-          null
-        ]
+        "2008",
+        []
       ],
       [
-        [
-          "Carboniferous"
-        ],
+        "This paleontological site contains the most complete terrestrial fossil record of the Carboniferous period including tracks of early animals and of the rainforest they lived in",
         [
           "/wiki/Carboniferous"
         ]
@@ -378,58 +228,34 @@
     ],
     [
       [
-        [
-          "Kluane / Wrangell-St Elias / Glacier Bay / Tatshenshini-Alsek"
-        ],
+        "Kluane / Wrangell-St Elias / Glacier Bay / Tatshenshini-Alsek",
         [
           "/wiki/Kluane_/_Wrangell_\u2013_St._Elias_/_Glacier_Bay_/_Tatshenshini-Alsek"
         ]
       ],
       [
-        [
-          "British Columbia",
-          "Yukon",
-          "Alaska",
-          "United States",
-          "61\u00b012\u2032N 141\u00b00\u2032W / 61.200\u00b0N 141.000\u00b0W / 61.200 ; -141.000 ( Kluane / Wrangell-St Elias / Glacier Bay / Tatshenshini-Alsek )"
-        ],
+        "Canada British Columbia and Yukon * ; Alaska , United States * 61\u00b012\u2032N 141\u00b00\u2032W / 61.200\u00b0N 141.000\u00b0W / 61.200 ; -141.000 ( Kluane / Wrangell-St Elias / Glacier Bay / Tatshenshini-Alsek )",
         [
           "/wiki/British_Columbia",
           "/wiki/Yukon",
           "/wiki/Alaska",
-          "/wiki/United_States",
-          null
+          "/wiki/United_States"
         ]
       ],
       [
-        [
-          "Natural : ( vii ) , ( viii ) , ( ix ) , ( x )"
-        ],
-        [
-          null
-        ]
+        "Natural : ( vii ) , ( viii ) , ( ix ) , ( x )",
+        []
       ],
       [
-        [
-          "9,839,121 ( 24,313,000 )"
-        ],
-        [
-          null
-        ]
+        "9,839,121 ( 24,313,000 )",
+        []
       ],
       [
-        [
-          "1979"
-        ],
-        [
-          null
-        ]
+        "1979",
+        []
       ],
       [
-        [
-          "caribou",
-          "Dall sheep"
-        ],
+        "These parks comprise the world 's largest non-polar icefield , some of the largest glaciers and a tectonically active mountain landscape . They are home to a number of species endangered elsewhere such as bears , wolves , caribou and Dall sheep",
         [
           "/wiki/Caribou",
           "/wiki/Dall_sheep"
@@ -438,52 +264,31 @@
     ],
     [
       [
-        [
-          "Landscape of Grand-Pr\u00e9"
-        ],
+        "Landscape of Grand-Pr\u00e9",
         [
           "/wiki/Grand-Pr\u00e9,_Nova_Scotia"
         ]
       ],
       [
+        "Canada Nova Scotia 45\u00b07\u20326\u2033N 64\u00b018\u203226\u2033W / 45.11833\u00b0N 64.30722\u00b0W / 45.11833 ; -64.30722 ( Landscape of Grand-Pr\u00e9 )",
         [
-          "Nova Scotia",
-          "45\u00b07\u20326\u2033N 64\u00b018\u203226\u2033W / 45.11833\u00b0N 64.30722\u00b0W / 45.11833 ; -64.30722 ( Landscape of Grand-Pr\u00e9 )"
-        ],
-        [
-          "/wiki/Nova_Scotia",
-          null
+          "/wiki/Nova_Scotia"
         ]
       ],
       [
-        [
-          "Cultural : ( v ) , ( vi )"
-        ],
-        [
-          null
-        ]
+        "Cultural : ( v ) , ( vi )",
+        []
       ],
       [
-        [
-          "1,323 ( 3,270 )"
-        ],
-        [
-          null
-        ]
+        "1,323 ( 3,270 )",
+        []
       ],
       [
-        [
-          "2012"
-        ],
-        [
-          null
-        ]
+        "2012",
+        []
       ],
       [
-        [
-          "Acadian",
-          "Grand D\u00e9rangement"
-        ],
+        "The Grand Pr\u00e9 landscape is an exceptional example of the adaptation of the first European settlers to the conditions of the North American Atlantic coast . The site is also inscribed as a memorial to the Acadian way of life and deportation , which started in 1755 , known as the Grand D\u00e9rangement",
         [
           "/wiki/Acadian",
           "/wiki/Expulsion_of_the_Acadians"
@@ -492,51 +297,31 @@
     ],
     [
       [
-        [
-          "L'Anse aux Meadows National Historic Site"
-        ],
+        "L'Anse aux Meadows National Historic Site",
         [
           "/wiki/L'Anse_aux_Meadows"
         ]
       ],
       [
+        "Canada Newfoundland and Labrador 51\u00b028\u20320\u2033N 55\u00b037\u20320\u2033W / 51.46667\u00b0N 55.61667\u00b0W / 51.46667 ; -55.61667 ( LAnse aux Meadows National Historic Site )",
         [
-          "Newfoundland and Labrador",
-          "51\u00b028\u20320\u2033N 55\u00b037\u20320\u2033W / 51.46667\u00b0N 55.61667\u00b0W / 51.46667 ; -55.61667 ( LAnse aux Meadows National Historic Site )"
-        ],
-        [
-          "/wiki/Newfoundland_and_Labrador",
-          null
+          "/wiki/Newfoundland_and_Labrador"
         ]
       ],
       [
-        [
-          "Cultural : ( vi )"
-        ],
-        [
-          null
-        ]
+        "Cultural : ( vi )",
+        []
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "1978"
-        ],
-        [
-          null
-        ]
+        "1978",
+        []
       ],
       [
-        [
-          "Norse"
-        ],
+        "These remains of an 11th-century Viking settlement are the first and only known site of Norse presence and the earliest known European settlement in America outside of Greenland",
         [
           "/wiki/Norsemen"
         ]
@@ -544,373 +329,214 @@
     ],
     [
       [
-        [
-          "Miguasha National Park"
-        ],
+        "Miguasha National Park",
         [
           "/wiki/Miguasha_National_Park"
         ]
       ],
       [
-        [
-          "Gasp\u00e9 Peninsula",
-          "Quebec",
-          "48\u00b06\u203218\u2033N 66\u00b021\u203211\u2033W / 48.10500\u00b0N 66.35306\u00b0W / 48.10500 ; -66.35306 ( Miguasha National Park )"
-        ],
+        "Canada Gasp\u00e9 Peninsula , Quebec 48\u00b06\u203218\u2033N 66\u00b021\u203211\u2033W / 48.10500\u00b0N 66.35306\u00b0W / 48.10500 ; -66.35306 ( Miguasha National Park )",
         [
           "/wiki/Gasp\u00e9_Peninsula",
-          "/wiki/Quebec",
-          null
+          "/wiki/Quebec"
         ]
       ],
       [
-        [
-          "Natural : ( viii )"
-        ],
-        [
-          null
-        ]
+        "Natural : ( viii )",
+        []
       ],
       [
-        [
-          "87 ( 210 )"
-        ],
-        [
-          null
-        ]
+        "87 ( 210 )",
+        []
       ],
       [
-        [
-          "1999"
-        ],
-        [
-          null
-        ]
+        "1999",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Mistaken Point"
-        ],
+        "Mistaken Point",
         [
           "/wiki/Mistaken_Point_Ecological_Reserve"
         ]
       ],
       [
+        "Canada Newfoundland and Labrador 46\u00b037\u203255\u2033N 53\u00b011\u203225\u2033W / 46.63194\u00b0N 53.19028\u00b0W / 46.63194 ; -53.19028 ( Mistaken Point )",
         [
-          "Newfoundland and Labrador",
-          "46\u00b037\u203255\u2033N 53\u00b011\u203225\u2033W / 46.63194\u00b0N 53.19028\u00b0W / 46.63194 ; -53.19028 ( Mistaken Point )"
-        ],
-        [
-          "/wiki/Newfoundland_and_Labrador",
-          null
+          "/wiki/Newfoundland_and_Labrador"
         ]
       ],
       [
-        [
-          "Natural : ( viii )"
-        ],
-        [
-          null
-        ]
+        "Natural : ( viii )",
+        []
       ],
       [
-        [
-          "570 ( 1,400 )"
-        ],
-        [
-          null
-        ]
+        "570 ( 1,400 )",
+        []
       ],
       [
-        [
-          "2016"
-        ],
-        [
-          null
-        ]
+        "2016",
+        []
       ],
       [
-        [
-          "Mistaken Point contains the oldest evidence known of early multi-cellular life on the planet with fossils calculated to be 560-575 million years old"
-        ],
-        [
-          null
-        ]
+        "Mistaken Point contains the oldest evidence known of early multi-cellular life on the planet with fossils calculated to be 560-575 million years old",
+        []
       ]
     ],
     [
       [
-        [
-          "Nahanni National Park"
-        ],
+        "Nahanni National Park",
         [
           "/wiki/Nahanni_National_Park"
         ]
       ],
       [
+        "Canada Northwest Territories 61\u00b033\u2032N 125\u00b035\u2032W / 61.550\u00b0N 125.583\u00b0W / 61.550 ; -125.583 ( Nahanni National Park )",
         [
-          "Northwest Territories",
-          "61\u00b033\u2032N 125\u00b035\u2032W / 61.550\u00b0N 125.583\u00b0W / 61.550 ; -125.583 ( Nahanni National Park )"
-        ],
-        [
-          "/wiki/Northwest_Territories",
-          null
+          "/wiki/Northwest_Territories"
         ]
       ],
       [
-        [
-          "Natural : ( vii ) , ( viii )"
-        ],
-        [
-          null
-        ]
+        "Natural : ( vii ) , ( viii )",
+        []
       ],
       [
-        [
-          "476,560 ( 1,177,600 )"
-        ],
-        [
-          null
-        ]
+        "476,560 ( 1,177,600 )",
+        []
       ],
       [
-        [
-          "1978"
-        ],
-        [
-          null
-        ]
+        "1978",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Old Town Lunenburg"
-        ],
+        "Old Town Lunenburg",
         [
           "/wiki/Old_Town_Lunenburg"
         ]
       ],
       [
+        "Canada Nova Scotia 44\u00b022\u203234\u2033N 64\u00b018\u203233\u2033W / 44.37611\u00b0N 64.30917\u00b0W / 44.37611 ; -64.30917 ( Old Town Lunenburg )",
         [
-          "Nova Scotia",
-          "44\u00b022\u203234\u2033N 64\u00b018\u203233\u2033W / 44.37611\u00b0N 64.30917\u00b0W / 44.37611 ; -64.30917 ( Old Town Lunenburg )"
-        ],
-        [
-          "/wiki/Nova_Scotia",
-          null
+          "/wiki/Nova_Scotia"
         ]
       ],
       [
-        [
-          "Cultural : ( iv ) , ( v )"
-        ],
-        [
-          null
-        ]
+        "Cultural : ( iv ) , ( v )",
+        []
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "1995"
-        ],
-        [
-          null
-        ]
+        "1995",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Pimachiowin Aki"
-        ],
+        "Pimachiowin Aki",
         [
           "/wiki/Pimachiowin_Aki"
         ]
       ],
       [
-        [
-          "Manitoba",
-          "Ontario",
-          "51\u00b049\u203235.1\u2033N 95\u00b024\u203240.6\u2033W / 51.826417\u00b0N 95.411278\u00b0W / 51.826417 ; -95.411278 ( Pimachiowin Aki )"
-        ],
+        "Canada Manitoba and Ontario 51\u00b049\u203235.1\u2033N 95\u00b024\u203240.6\u2033W / 51.826417\u00b0N 95.411278\u00b0W / 51.826417 ; -95.411278 ( Pimachiowin Aki )",
         [
           "/wiki/Manitoba",
-          "/wiki/Ontario",
-          null
+          "/wiki/Ontario"
         ]
       ],
       [
-        [
-          "Mixed : ( v ) , ( vii ) , ( ix ) , ( x )"
-        ],
-        [
-          null
-        ]
+        "Mixed : ( v ) , ( vii ) , ( ix ) , ( x )",
+        []
       ],
       [
-        [
-          "4,015,000 ( 9,920,000 )"
-        ],
-        [
-          null
-        ]
+        "4,015,000 ( 9,920,000 )",
+        []
       ],
       [
-        [
-          "2018"
-        ],
-        [
-          null
-        ]
+        "2018",
+        []
       ],
       [
-        [
-          "A managed landscape on the ancestral lands of five First Nations peoples . The site was submitted for consideration in 2013 . The World Heritage Committee deferred inscription to give the nominators time to improve certain aspects of the bid , while also saying that the Committee needed to improve the nomination process for mixed sites as there were currently structural problems in the process that made approving mixed nominations difficult . In 2016 , the Committee was set to inscribe the property on the List , but Canada requested and received a referral after Ontario 's Pikangikum First Nation withdrew its support . The site was officially designated a World Heritage Site on July 1 , 2018"
-        ],
-        [
-          null
-        ]
+        "A managed landscape on the ancestral lands of five First Nations peoples . The site was submitted for consideration in 2013 . The World Heritage Committee deferred inscription to give the nominators time to improve certain aspects of the bid , while also saying that the Committee needed to improve the nomination process for mixed sites as there were currently structural problems in the process that made approving mixed nominations difficult . In 2016 , the Committee was set to inscribe the property on the List , but Canada requested and received a referral after Ontario 's Pikangikum First Nation withdrew its support . The site was officially designated a World Heritage Site on July 1 , 2018",
+        []
       ]
     ],
     [
       [
-        [
-          "Red Bay Basque Whaling Station"
-        ],
+        "Red Bay Basque Whaling Station",
         [
           "/wiki/Red_Bay,_Newfoundland_and_Labrador"
         ]
       ],
       [
-        [
-          "Red Bay",
-          "Newfoundland and Labrador",
-          "51\u00b043\u203255\u2033N 56\u00b025\u203232\u2033W / 51.73194\u00b0N 56.42556\u00b0W / 51.73194 ; -56.42556 ( Red Bay Basque Whaling Station )"
-        ],
+        "Canada Red Bay , Newfoundland and Labrador 51\u00b043\u203255\u2033N 56\u00b025\u203232\u2033W / 51.73194\u00b0N 56.42556\u00b0W / 51.73194 ; -56.42556 ( Red Bay Basque Whaling Station )",
         [
           "/wiki/Red_Bay,_Newfoundland_and_Labrador",
-          "/wiki/Newfoundland_and_Labrador",
-          null
+          "/wiki/Newfoundland_and_Labrador"
         ]
       ],
       [
-        [
-          "Cultural : ( iii ) , ( iv )"
-        ],
-        [
-          null
-        ]
+        "Cultural : ( iii ) , ( iv )",
+        []
       ],
       [
-        [
-          "313 ( 770 )"
-        ],
-        [
-          null
-        ]
+        "313 ( 770 )",
+        []
       ],
       [
-        [
-          "2013"
-        ],
-        [
-          null
-        ]
+        "2013",
+        []
       ],
       [
-        [
-          "Between 1550 and the early 17th century , Red Bay was a major Basque whaling area . The site is home to three Basque whaling galleons and four small chalupas used in the capture of whales . The discovery of these vessels makes Red Bay one of the most precious underwater archaeological sites in the Americas"
-        ],
-        [
-          null
-        ]
+        "Between 1550 and the early 17th century , Red Bay was a major Basque whaling area . The site is home to three Basque whaling galleons and four small chalupas used in the capture of whales . The discovery of these vessels makes Red Bay one of the most precious underwater archaeological sites in the Americas",
+        []
       ]
     ],
     [
       [
-        [
-          "Rideau Canal"
-        ],
+        "Rideau Canal",
         [
           "/wiki/Rideau_Canal"
         ]
       ],
       [
+        "Canada Ontario 45\u00b00\u2032N 75\u00b046\u2032W / 45.000\u00b0N 75.767\u00b0W / 45.000 ; -75.767 ( Rideau Canal )",
         [
-          "Ontario",
-          "45\u00b00\u2032N 75\u00b046\u2032W / 45.000\u00b0N 75.767\u00b0W / 45.000 ; -75.767 ( Rideau Canal )"
-        ],
-        [
-          "/wiki/Ontario",
-          null
+          "/wiki/Ontario"
         ]
       ],
       [
-        [
-          "Cultural : ( i ) , ( iv )"
-        ],
-        [
-          null
-        ]
+        "Cultural : ( i ) , ( iv )",
+        []
       ],
       [
-        [
-          "21,455 ( 53,020 ) ; buffer zone 2,363 ( 5,840 )"
-        ],
-        [
-          null
-        ]
+        "21,455 ( 53,020 ) ; buffer zone 2,363 ( 5,840 )",
+        []
       ],
       [
-        [
-          "2007"
-        ],
-        [
-          null
-        ]
+        "2007",
+        []
       ],
       [
-        [
-          "canal",
-          "Ottawa",
-          "Ottawa River",
-          "Kingston",
-          "Lake Ontario"
-        ],
+        "The oldest continuously operated canal system in North America , it connects Ottawa , on the Ottawa River , to Kingston , on Lake Ontario . It opened in 1832 as a precaution in case of war with the United States ; designation includes several defensive works in Kingston . The canal is still in use , with much of its original structure intact",
         [
           "/wiki/Canal",
           "/wiki/Ottawa",
@@ -922,216 +548,125 @@
     ],
     [
       [
-        [
-          "S G ang Gwaay"
-        ],
+        "S G ang Gwaay",
         [
           "/wiki/Ninstints"
         ]
       ],
       [
+        "Canada British Columbia 52\u00b05\u203242\u2033N 131\u00b013\u203213\u2033W / 52.09500\u00b0N 131.22028\u00b0W / 52.09500 ; -131.22028 ( S G ang Gwaay )",
         [
-          "British Columbia",
-          "52\u00b05\u203242\u2033N 131\u00b013\u203213\u2033W / 52.09500\u00b0N 131.22028\u00b0W / 52.09500 ; -131.22028 ( S G ang Gwaay )"
-        ],
-        [
-          "/wiki/British_Columbia",
-          null
+          "/wiki/British_Columbia"
         ]
       ],
       [
-        [
-          "Cultural : ( iii )"
-        ],
-        [
-          null
-        ]
+        "Cultural : ( iii )",
+        []
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "1981"
-        ],
-        [
-          null
-        ]
+        "1981",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Waterton Glacier International Peace Park"
-        ],
+        "Waterton Glacier International Peace Park",
         [
           "/wiki/Waterton_Glacier_International_Peace_Park"
         ]
       ],
       [
-        [
-          "Alberta",
-          "Montana",
-          "United States",
-          "49\u00b00\u2032N 113\u00b054\u2032W / 49.000\u00b0N 113.900\u00b0W / 49.000 ; -113.900 ( Waterton Glacier International Peace Park )"
-        ],
+        "Canada Alberta * ; Montana , United States * 49\u00b00\u2032N 113\u00b054\u2032W / 49.000\u00b0N 113.900\u00b0W / 49.000 ; -113.900 ( Waterton Glacier International Peace Park )",
         [
           "/wiki/Alberta",
           "/wiki/Montana",
-          "/wiki/United_States",
-          null
+          "/wiki/United_States"
         ]
       ],
       [
-        [
-          "Natural : ( vii ) , ( ix )"
-        ],
-        [
-          null
-        ]
+        "Natural : ( vii ) , ( ix )",
+        []
       ],
       [
-        [
-          "457,614 ( 1,130,790 )"
-        ],
-        [
-          null
-        ]
+        "457,614 ( 1,130,790 )",
+        []
       ],
       [
-        [
-          "1995"
-        ],
-        [
-          null
-        ]
+        "1995",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Wood Buffalo National Park"
-        ],
+        "Wood Buffalo National Park",
         [
           "/wiki/Wood_Buffalo_National_Park"
         ]
       ],
       [
-        [
-          "Alberta",
-          "Northwest Territories",
-          "59\u00b022\u2032N 112\u00b018\u2032W / 59.367\u00b0N 112.300\u00b0W / 59.367 ; -112.300 ( Wood Buffalo National Park )"
-        ],
+        "Canada Alberta and Northwest Territories 59\u00b022\u2032N 112\u00b018\u2032W / 59.367\u00b0N 112.300\u00b0W / 59.367 ; -112.300 ( Wood Buffalo National Park )",
         [
           "/wiki/Alberta",
-          "/wiki/Northwest_Territories",
-          null
+          "/wiki/Northwest_Territories"
         ]
       ],
       [
-        [
-          "Natural : ( vii ) , ( ix ) , ( x )"
-        ],
-        [
-          null
-        ]
+        "Natural : ( vii ) , ( ix ) , ( x )",
+        []
       ],
       [
-        [
-          "4,480,000 ( 11,100,000 )"
-        ],
-        [
-          null
-        ]
+        "4,480,000 ( 11,100,000 )",
+        []
       ],
       [
-        [
-          "1983"
-        ],
-        [
-          null
-        ]
+        "1983",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Writing-on-Stone / \u00c1\u00eds\u00ednai'pi"
-        ],
+        "Writing-on-Stone / \u00c1\u00eds\u00ednai'pi",
         [
           "/wiki/Writing-on-Stone_Provincial_Park"
         ]
       ],
       [
+        "Canada Alberta 49\u00b04\u203230\u2033N 111\u00b037\u203259\u2033W / 49.07500\u00b0N 111.63306\u00b0W / 49.07500 ; -111.63306 ( \u00c1\u00eds\u00ednai'pi )",
         [
-          "Alberta",
-          "49\u00b04\u203230\u2033N 111\u00b037\u203259\u2033W / 49.07500\u00b0N 111.63306\u00b0W / 49.07500 ; -111.63306 ( \u00c1\u00eds\u00ednai'pi )"
-        ],
-        [
-          "/wiki/Alberta",
-          null
+          "/wiki/Alberta"
         ]
       ],
       [
-        [
-          "Cultural : iii"
-        ],
-        [
-          null
-        ]
+        "Cultural : iii",
+        []
       ],
       [
-        [
-          "1,106 ( 2,730 )"
-        ],
-        [
-          null
-        ]
+        "1,106 ( 2,730 )",
+        []
       ],
       [
-        [
-          "2019"
-        ],
-        [
-          null
-        ]
+        "2019",
+        []
       ],
       [
-        [
-          "The site contains the greatest concentration of rock art on the North American Great Plains and is sacred to the Niits\u00edtapi ( Blackfoot ) people"
-        ],
-        [
-          null
-        ]
+        "The site contains the greatest concentration of rock art on the North American Great Plains and is sacred to the Niits\u00edtapi ( Blackfoot ) people",
+        []
       ]
     ]
   ],

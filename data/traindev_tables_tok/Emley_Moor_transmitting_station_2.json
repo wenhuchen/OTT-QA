@@ -3,84 +3,50 @@
   "title": "Emley Moor transmitting station",
   "header": [
     [
-      [
-        "frequency"
-      ],
-      [
-        null
-      ]
+      "frequency",
+      []
     ],
     [
-      [
-        "UHF"
-      ],
-      [
-        null
-      ]
+      "UHF",
+      []
     ],
     [
-      [
-        "kW"
-      ],
-      [
-        null
-      ]
+      "kW",
+      []
     ],
     [
-      [
-        "operator"
-      ],
-      [
-        null
-      ]
+      "operator",
+      []
     ],
     [
-      [
-        "system"
-      ],
-      [
-        null
-      ]
+      "system",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "MHz"
-        ],
+        "570.000 MHz",
         [
           "/wiki/Hertz"
         ]
       ],
       [
-        [
-          "33"
-        ],
-        [
-          null
-        ]
+        "33",
+        []
       ],
       [
-        [
-          "174"
-        ],
-        [
-          null
-        ]
+        "174",
+        []
       ],
       [
-        [
-          "SDN"
-        ],
+        "COM4 ( SDN )",
         [
           "/wiki/S4C_Digital_Networks"
         ]
       ],
       [
-        [
-          "DVB-T"
-        ],
+        "DVB-T",
         [
           "/wiki/DVB-T"
         ]
@@ -88,125 +54,75 @@
     ],
     [
       [
-        [
-          "MHz"
-        ],
+        "594.000 MHz",
         [
           "/wiki/Hertz"
         ]
       ],
       [
-        [
-          "36"
-        ],
-        [
-          null
-        ]
+        "36",
+        []
       ],
       [
-        [
-          "174"
-        ],
-        [
-          null
-        ]
+        "174",
+        []
       ],
       [
-        [
-          "COM5 ( ARQ A )"
-        ],
-        [
-          null
-        ]
+        "COM5 ( ARQ A )",
+        []
       ],
       [
-        [
-          "DVB-T"
-        ],
-        [
-          null
-        ]
+        "DVB-T",
+        []
       ]
     ],
     [
       [
-        [
-          "MHz"
-        ],
+        "618.000 MHz",
         [
           "/wiki/Hertz"
         ]
       ],
       [
-        [
-          "39"
-        ],
-        [
-          null
-        ]
+        "39",
+        []
       ],
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "LTVmux"
-        ],
-        [
-          null
-        ]
+        "LTVmux",
+        []
       ],
       [
-        [
-          "DVB-T"
-        ],
-        [
-          null
-        ]
+        "DVB-T",
+        []
       ]
     ],
     [
       [
-        [
-          "MHz"
-        ],
+        "634.000 MHz",
         [
           "/wiki/Hertz"
         ]
       ],
       [
-        [
-          "41"
-        ],
-        [
-          null
-        ]
+        "41",
+        []
       ],
       [
-        [
-          "174"
-        ],
-        [
-          null
-        ]
+        "174",
+        []
       ],
       [
-        [
-          "BBC"
-        ],
+        "PSB3 ( BBC B )",
         [
           "/wiki/BBC"
         ]
       ],
       [
-        [
-          "DVB-T2"
-        ],
+        "DVB-T2",
         [
           "/wiki/DVB-T2"
         ]
@@ -214,212 +130,126 @@
     ],
     [
       [
-        [
-          "MHz"
-        ],
+        "658.000 MHz",
         [
           "/wiki/Hertz"
         ]
       ],
       [
-        [
-          "44"
-        ],
-        [
-          null
-        ]
+        "44",
+        []
       ],
       [
-        [
-          "174"
-        ],
-        [
-          null
-        ]
+        "174",
+        []
       ],
       [
-        [
-          "D3 & 4"
-        ],
+        "PSB2 ( D3 & 4 )",
         [
           "/wiki/Digital_3&4"
         ]
       ],
       [
-        [
-          "DVB-T"
-        ],
-        [
-          null
-        ]
+        "DVB-T",
+        []
       ]
     ],
     [
       [
-        [
-          "MHz"
-        ],
+        "682.000 MHz",
         [
           "/wiki/Hertz"
         ]
       ],
       [
-        [
-          "47"
-        ],
-        [
-          null
-        ]
+        "47",
+        []
       ],
       [
-        [
-          "174"
-        ],
-        [
-          null
-        ]
+        "174",
+        []
       ],
       [
-        [
-          "PSB1 ( BBC A )"
-        ],
-        [
-          null
-        ]
+        "PSB1 ( BBC A )",
+        []
       ],
       [
-        [
-          "DVB-T"
-        ],
-        [
-          null
-        ]
+        "DVB-T",
+        []
       ]
     ],
     [
       [
-        [
-          "MHz"
-        ],
+        "690.000 MHz",
         [
           "/wiki/Hertz"
         ]
       ],
       [
-        [
-          "48"
-        ],
-        [
-          null
-        ]
+        "48",
+        []
       ],
       [
-        [
-          "174"
-        ],
-        [
-          null
-        ]
+        "174",
+        []
       ],
       [
-        [
-          "COM6 ( ARQ B )"
-        ],
-        [
-          null
-        ]
+        "COM6 ( ARQ B )",
+        []
       ],
       [
-        [
-          "DVB-T"
-        ],
-        [
-          null
-        ]
+        "DVB-T",
+        []
       ]
     ],
     [
       [
-        [
-          "MHz"
-        ],
+        "746.000 MHz",
         [
           "/wiki/Hertz"
         ]
       ],
       [
-        [
-          "55"
-        ],
-        [
-          null
-        ]
+        "55",
+        []
       ],
       [
-        [
-          "54.8"
-        ],
-        [
-          null
-        ]
+        "54.8",
+        []
       ],
       [
-        [
-          "ARQ"
-        ],
+        "COM7 ( ARQ C )",
         [
           "/wiki/Arqiva"
         ]
       ],
       [
-        [
-          "DVB-T2"
-        ],
-        [
-          null
-        ]
+        "DVB-T2",
+        []
       ]
     ],
     [
       [
-        [
-          "MHz"
-        ],
+        "754.000 MHz",
         [
           "/wiki/Hertz"
         ]
       ],
       [
-        [
-          "56"
-        ],
-        [
-          null
-        ]
+        "56",
+        []
       ],
       [
-        [
-          "47"
-        ],
-        [
-          null
-        ]
+        "47",
+        []
       ],
       [
-        [
-          "COM8 ( ARQ D )"
-        ],
-        [
-          null
-        ]
+        "COM8 ( ARQ D )",
+        []
       ],
       [
-        [
-          "DVB-T2"
-        ],
-        [
-          null
-        ]
+        "DVB-T2",
+        []
       ]
     ]
   ],

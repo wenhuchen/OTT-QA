@@ -3,70 +3,43 @@
   "title": "North Carolina Tar Heels baseball",
   "header": [
     [
-      [
-        "Player"
-      ],
-      [
-        null
-      ]
+      "Player",
+      []
     ],
     [
-      [
-        "Position"
-      ],
-      [
-        null
-      ]
+      "Position",
+      []
     ],
     [
-      [
-        "Number"
-      ],
-      [
-        null
-      ]
+      "Number",
+      []
     ],
     [
-      [
-        "Team"
-      ],
-      [
-        null
-      ]
+      "Team",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Dustin Ackley"
-        ],
+        "Dustin Ackley",
         [
           "/wiki/Dustin_Ackley"
         ]
       ],
       [
-        [
-          "2B",
-          "LF"
-        ],
+        "2B / LF",
         [
           "/wiki/Second_baseman",
           "/wiki/Left_fielder"
         ]
       ],
       [
-        [
-          "29"
-        ],
-        [
-          null
-        ]
+        "29",
+        []
       ],
       [
-        [
-          "Los Angeles Angels of Anaheim"
-        ],
+        "Los Angeles Angels of Anaheim",
         [
           "/wiki/Los_Angeles_Angels_of_Anaheim"
         ]
@@ -74,33 +47,23 @@
     ],
     [
       [
-        [
-          "Brian Goodwin"
-        ],
+        "Brian Goodwin",
         [
           "/wiki/Brian_Goodwin_(baseball)"
         ]
       ],
       [
-        [
-          "LF"
-        ],
+        "LF",
         [
           "/wiki/Left_fielder"
         ]
       ],
       [
-        [
-          "25"
-        ],
-        [
-          null
-        ]
+        "25",
+        []
       ],
       [
-        [
-          "Kansas City Royals"
-        ],
+        "Kansas City Royals",
         [
           "/wiki/Kansas_City_Royals"
         ]
@@ -108,33 +71,23 @@
     ],
     [
       [
-        [
-          "Matt Harvey"
-        ],
+        "Matt Harvey",
         [
           "/wiki/Matt_Harvey"
         ]
       ],
       [
-        [
-          "P"
-        ],
+        "P",
         [
           "/wiki/Pitcher"
         ]
       ],
       [
-        [
-          "32"
-        ],
-        [
-          null
-        ]
+        "32",
+        []
       ],
       [
-        [
-          "Cincinnati Reds"
-        ],
+        "Cincinnati Reds",
         [
           "/wiki/Cincinnati_Reds"
         ]
@@ -142,33 +95,23 @@
     ],
     [
       [
-        [
-          "Chris Ianetta"
-        ],
+        "Chris Ianetta",
         [
           "/wiki/Chris_Ianetta"
         ]
       ],
       [
-        [
-          "C"
-        ],
+        "C",
         [
           "/wiki/Catcher"
         ]
       ],
       [
-        [
-          "17"
-        ],
-        [
-          null
-        ]
+        "17",
+        []
       ],
       [
-        [
-          "Los Angeles Angels of Anaheim"
-        ],
+        "Los Angeles Angels of Anaheim",
         [
           "/wiki/Los_Angeles_Angels_of_Anaheim"
         ]
@@ -176,33 +119,23 @@
     ],
     [
       [
-        [
-          "Andrew Miller"
-        ],
+        "Andrew Miller",
         [
           "/wiki/Andrew_Miller_(baseball)"
         ]
       ],
       [
-        [
-          "P"
-        ],
+        "P",
         [
           "/wiki/Pitcher"
         ]
       ],
       [
-        [
-          "48"
-        ],
-        [
-          null
-        ]
+        "48",
+        []
       ],
       [
-        [
-          "Cleveland Indians"
-        ],
+        "Cleveland Indians",
         [
           "/wiki/Cleveland_Indians"
         ]
@@ -210,33 +143,23 @@
     ],
     [
       [
-        [
-          "Colin Moran"
-        ],
+        "Colin Moran",
         [
           "/wiki/Colin_Moran_(baseball)"
         ]
       ],
       [
-        [
-          "3B"
-        ],
+        "3B",
         [
           "/wiki/Third_baseman"
         ]
       ],
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "Pittsburgh Pirates"
-        ],
+        "Pittsburgh Pirates",
         [
           "/wiki/Pittsburgh_Pirates"
         ]
@@ -244,33 +167,23 @@
     ],
     [
       [
-        [
-          "Mike Morin"
-        ],
+        "Mike Morin",
         [
           "/wiki/Mike_Morin_(baseball)"
         ]
       ],
       [
-        [
-          "P"
-        ],
+        "P",
         [
           "/wiki/Pitcher"
         ]
       ],
       [
-        [
-          "64"
-        ],
-        [
-          null
-        ]
+        "64",
+        []
       ],
       [
-        [
-          "Philadelphia Phillies"
-        ],
+        "Philadelphia Phillies",
         [
           "/wiki/Philadelphia_Phillies"
         ]
@@ -278,33 +191,23 @@
     ],
     [
       [
-        [
-          "Kyle Seager"
-        ],
+        "Kyle Seager",
         [
           "/wiki/Kyle_Seager"
         ]
       ],
       [
-        [
-          "3B"
-        ],
+        "3B",
         [
           "/wiki/Third_baseman"
         ]
       ],
       [
-        [
-          "15"
-        ],
-        [
-          null
-        ]
+        "15",
+        []
       ],
       [
-        [
-          "Seattle Mariners"
-        ],
+        "Seattle Mariners",
         [
           "/wiki/Seattle_Mariners"
         ]
@@ -312,33 +215,23 @@
     ],
     [
       [
-        [
-          "Adam Warren"
-        ],
+        "Adam Warren",
         [
           "/wiki/Adam_Warren_(baseball)"
         ]
       ],
       [
-        [
-          "P"
-        ],
+        "P",
         [
           "/wiki/Pitcher"
         ]
       ],
       [
-        [
-          "43"
-        ],
-        [
-          null
-        ]
+        "43",
+        []
       ],
       [
-        [
-          "New York Yankees"
-        ],
+        "New York Yankees",
         [
           "/wiki/New_York_Yankees"
         ]
@@ -346,33 +239,23 @@
     ],
     [
       [
-        [
-          "Trent Thornton"
-        ],
+        "Trent Thornton",
         [
           "/wiki/Trent_Thornton"
         ]
       ],
       [
-        [
-          "P"
-        ],
+        "P",
         [
           "/wiki/Pitcher"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Toronto Blue Jays"
-        ],
+        "Toronto Blue Jays",
         [
           "/wiki/Toronto_Blue_Jays"
         ]

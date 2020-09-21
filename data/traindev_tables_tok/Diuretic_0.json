@@ -3,110 +3,89 @@
   "title": "Diuretic",
   "header": [
     [
-      [
-        "Examples"
-      ],
-      [
-        null
-      ]
+      "",
+      []
     ],
     [
-      [
-        "Mechanism"
-      ],
-      [
-        null
-      ]
+      "Examples",
+      []
     ],
     [
-      [
-        "Location ( numbered in distance along nephron )"
-      ],
-      [
-        null
-      ]
+      "Mechanism",
+      []
+    ],
+    [
+      "Location ( numbered in distance along nephron )",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "ethanol",
-          "water"
-        ],
+        "-",
+        []
+      ],
+      [
+        "ethanol , water",
         [
           "/wiki/Ethanol",
           "/wiki/Water"
         ]
       ],
       [
-        [
-          "vasopressin"
-        ],
+        "Inhibits vasopressin secretion",
         [
           "/wiki/Vasopressin"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
+        "Acidifying salts",
         [
-          "calcium chloride",
-          "ammonium chloride"
-        ],
+          "/wiki/Salt_(chemistry)"
+        ]
+      ],
+      [
+        "calcium chloride , ammonium chloride",
         [
           "/wiki/Calcium_chloride",
           "/wiki/Ammonium_chloride"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ]
     ],
     [
       [
+        "Arginine vasopressin receptor 2 antagonists",
         [
-          "amphotericin B",
-          "lithium"
-        ],
+          "/wiki/Arginine_vasopressin_receptor_2"
+        ]
+      ],
+      [
+        "amphotericin B , lithium",
         [
           "/wiki/Amphotericin_B",
           "/wiki/Lithium_(medication)"
         ]
       ],
       [
-        [
-          "Inhibits vasopressin 's action"
-        ],
-        [
-          null
-        ]
+        "Inhibits vasopressin 's action",
+        []
       ],
       [
-        [
-          "collecting duct"
-        ],
+        "5. collecting duct",
         [
           "/wiki/Collecting_duct"
         ]
@@ -114,27 +93,24 @@
     ],
     [
       [
+        "Selective vasopressin V2 antagonist ( sometimes called aquaretics )",
         [
-          "tolvaptan",
-          "conivaptan"
-        ],
+          "/wiki/Vasopressin_receptor_antagonist"
+        ]
+      ],
+      [
+        "tolvaptan , conivaptan",
         [
           "/wiki/Tolvaptan",
           "/wiki/Conivaptan"
         ]
       ],
       [
-        [
-          "Competitive vasopressin antagonism leads to decreased number of aquaporin channels in the apical membrane of the renal collecting ducts in kidneys , causing decreased water reabsorption . This causes an increase in renal free water excretion ( aquaresis ) , an increase in serum sodium concentration , a decrease in urine osmolality , and an increase in urine output"
-        ],
-        [
-          null
-        ]
+        "Competitive vasopressin antagonism leads to decreased number of aquaporin channels in the apical membrane of the renal collecting ducts in kidneys , causing decreased water reabsorption . This causes an increase in renal free water excretion ( aquaresis ) , an increase in serum sodium concentration , a decrease in urine osmolality , and an increase in urine output",
+        []
       ],
       [
-        [
-          "collecting duct"
-        ],
+        "5. collecting duct",
         [
           "/wiki/Collecting_duct"
         ]
@@ -142,25 +118,23 @@
     ],
     [
       [
+        "Na-H exchanger antagonists",
         [
-          "dopamine"
-        ],
+          "/wiki/Na-H_exchanger"
+        ]
+      ],
+      [
+        "dopamine",
         [
           "/wiki/Dopamine"
         ]
       ],
       [
-        [
-          "Promotes Na excretion"
-        ],
-        [
-          null
-        ]
+        "Promotes Na excretion",
+        []
       ],
       [
-        [
-          "proximal tubule"
-        ],
+        "2. proximal tubule",
         [
           "/wiki/Proximal_tubule"
         ]
@@ -168,27 +142,24 @@
     ],
     [
       [
+        "Carbonic anhydrase inhibitors",
         [
-          "acetazolamide",
-          "dorzolamide"
-        ],
+          "/wiki/Carbonic_anhydrase_inhibitors"
+        ]
+      ],
+      [
+        "acetazolamide , dorzolamide",
         [
           "/wiki/Acetazolamide",
           "/wiki/Dorzolamide"
         ]
       ],
       [
-        [
-          "Inhibits H secretion , resultant promotion of Na and K excretion"
-        ],
-        [
-          null
-        ]
+        "Inhibits H secretion , resultant promotion of Na and K excretion",
+        []
       ],
       [
-        [
-          "proximal tubule"
-        ],
+        "2. proximal tubule",
         [
           "/wiki/Proximal_tubule"
         ]
@@ -196,12 +167,13 @@
     ],
     [
       [
+        "Loop diuretics",
         [
-          "bumetanide",
-          "ethacrynic acid",
-          "furosemide",
-          "torsemide"
-        ],
+          "/wiki/Loop_diuretic"
+        ]
+      ],
+      [
+        "bumetanide , ethacrynic acid , furosemide , torsemide",
         [
           "/wiki/Bumetanide",
           "/wiki/Ethacrynic_acid",
@@ -210,17 +182,13 @@
         ]
       ],
       [
-        [
-          "Na-K-2Cl symporter"
-        ],
+        "Inhibits the Na-K-2Cl symporter",
         [
           "/wiki/Na-K-2Cl_symporter"
         ]
       ],
       [
-        [
-          "thick ascending limb"
-        ],
+        "3. medullary thick ascending limb",
         [
           "/wiki/Thick_ascending_limb"
         ]
@@ -228,28 +196,24 @@
     ],
     [
       [
+        "Osmotic diuretics",
         [
-          "glucose",
-          "mannitol"
-        ],
+          "/wiki/Osmotic_diuretic"
+        ]
+      ],
+      [
+        "glucose ( especially in uncontrolled diabetes ) , mannitol",
         [
           "/wiki/Glucose",
           "/wiki/Mannitol"
         ]
       ],
       [
-        [
-          "Promotes osmotic diuresis"
-        ],
-        [
-          null
-        ]
+        "Promotes osmotic diuresis",
+        []
       ],
       [
-        [
-          "proximal tubule",
-          "descending limb"
-        ],
+        "2. proximal tubule , descending limb",
         [
           "/wiki/Proximal_tubule",
           "/wiki/Descending_limb_of_loop_of_Henle"
@@ -258,13 +222,13 @@
     ],
     [
       [
+        "Potassium-sparing diuretics",
         [
-          "amiloride",
-          "spironolactone",
-          "eplerenone",
-          "triamterene",
-          "potassium canrenoate"
-        ],
+          "/wiki/Potassium-sparing_diuretic"
+        ]
+      ],
+      [
+        "amiloride , spironolactone , eplerenone , triamterene , potassium canrenoate",
         [
           "/wiki/Amiloride",
           "/wiki/Spironolactone",
@@ -274,11 +238,7 @@
         ]
       ],
       [
-        [
-          "Na+/K+ exchanger",
-          "aldosterone",
-          "epithelial sodium channels"
-        ],
+        "Inhibition of Na+/K+ exchanger : Spironolactone inhibits aldosterone action , Amiloride inhibits epithelial sodium channels",
         [
           "/wiki/Na+/K+-ATPase",
           "/wiki/Aldosterone",
@@ -286,9 +246,7 @@
         ]
       ],
       [
-        [
-          "cortical collecting ducts"
-        ],
+        "5. cortical collecting ducts",
         [
           "/wiki/Cortical_collecting_ducts"
         ]
@@ -296,27 +254,26 @@
     ],
     [
       [
+        "Thiazides",
         [
-          "bendroflumethiazide",
-          "hydrochlorothiazide"
-        ],
+          "/wiki/Thiazide"
+        ]
+      ],
+      [
+        "bendroflumethiazide , hydrochlorothiazide",
         [
           "/wiki/Bendroflumethiazide",
           "/wiki/Hydrochlorothiazide"
         ]
       ],
       [
-        [
-          "Na /Cl symporter"
-        ],
+        "Inhibits reabsorption by Na /Cl symporter",
         [
           "/wiki/Sodium-chloride_symporter"
         ]
       ],
       [
-        [
-          "distal convoluted tubules"
-        ],
+        "4. distal convoluted tubules",
         [
           "/wiki/Distal_convoluted_tubules"
         ]
@@ -324,11 +281,13 @@
     ],
     [
       [
+        "Xanthines",
         [
-          "caffeine",
-          "theophylline",
-          "theobromine"
-        ],
+          "/wiki/Xanthine"
+        ]
+      ],
+      [
+        "caffeine , theophylline , theobromine",
         [
           "/wiki/Caffeine",
           "/wiki/Theophylline",
@@ -336,20 +295,14 @@
         ]
       ],
       [
-        [
-          "glomerular filtration rate"
-        ],
+        "Inhibits reabsorption of Na , increase glomerular filtration rate",
         [
           "/wiki/Glomerular_filtration_rate"
         ]
       ],
       [
-        [
-          "1. tubules"
-        ],
-        [
-          null
-        ]
+        "1. tubules",
+        []
       ]
     ]
   ],

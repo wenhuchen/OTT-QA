@@ -3,72 +3,40 @@
   "title": "DWAO-TV",
   "header": [
     [
-      [
-        "Pay TV Provider"
-      ],
-      [
-        null
-      ]
+      "Pay TV Provider",
+      []
     ],
     [
-      [
-        "Type"
-      ],
-      [
-        null
-      ]
+      "Type",
+      []
     ],
     [
-      [
-        "Ch . #"
-      ],
-      [
-        null
-      ]
+      "Ch . #",
+      []
     ],
     [
-      [
-        "Coverage"
-      ],
-      [
-        null
-      ]
+      "Coverage",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "SkyCable"
-        ],
+        "SkyCable",
         [
           "/wiki/SkyCable"
         ]
       ],
       [
-        [
-          "Analog"
-        ],
-        [
-          null
-        ]
+        "Analog",
+        []
       ],
       [
-        [
-          "33"
-        ],
-        [
-          null
-        ]
+        "33",
+        []
       ],
       [
-        [
-          "Metro Manila",
-          "Rizal",
-          "Cavite",
-          "Laguna",
-          "Bulacan"
-        ],
+        "Metro Manila , Rizal , Cavite , Laguna and Bulacan",
         [
           "/wiki/Metro_Manila",
           "/wiki/Rizal",
@@ -80,37 +48,21 @@
     ],
     [
       [
-        [
-          "SkyCable"
-        ],
+        "SkyCable",
         [
           "/wiki/SkyCable"
         ]
       ],
       [
-        [
-          "Digital"
-        ],
-        [
-          null
-        ]
+        "Digital",
+        []
       ],
       [
-        [
-          "58"
-        ],
-        [
-          null
-        ]
+        "58",
+        []
       ],
       [
-        [
-          "Metro Manila",
-          "Rizal",
-          "Cavite",
-          "Laguna",
-          "Bulacan"
-        ],
+        "Metro Manila , Rizal , Cavite , Laguna and Bulacan",
         [
           "/wiki/Metro_Manila",
           "/wiki/Rizal",
@@ -122,33 +74,21 @@
     ],
     [
       [
-        [
-          "Destiny Cable"
-        ],
+        "Destiny Cable",
         [
           "/wiki/Destiny_Cable"
         ]
       ],
       [
-        [
-          "Analog"
-        ],
-        [
-          null
-        ]
+        "Analog",
+        []
       ],
       [
-        [
-          "9"
-        ],
-        [
-          null
-        ]
+        "9",
+        []
       ],
       [
-        [
-          "Metro Manila"
-        ],
+        "Metro Manila",
         [
           "/wiki/Metro_Manila"
         ]
@@ -156,33 +96,21 @@
     ],
     [
       [
-        [
-          "Destiny Cable"
-        ],
+        "Destiny Cable",
         [
           "/wiki/Destiny_Cable"
         ]
       ],
       [
-        [
-          "Digital"
-        ],
-        [
-          null
-        ]
+        "Digital",
+        []
       ],
       [
-        [
-          "58"
-        ],
-        [
-          null
-        ]
+        "58",
+        []
       ],
       [
-        [
-          "Metro Manila"
-        ],
+        "Metro Manila",
         [
           "/wiki/Metro_Manila"
         ]
@@ -190,33 +118,21 @@
     ],
     [
       [
-        [
-          "Cablelink"
-        ],
+        "Cablelink",
         [
           "/wiki/Cablelink"
         ]
       ],
       [
-        [
-          "Analog & Digital"
-        ],
-        [
-          null
-        ]
+        "Analog & Digital",
+        []
       ],
       [
-        [
-          "99"
-        ],
-        [
-          null
-        ]
+        "99",
+        []
       ],
       [
-        [
-          "Metro Manila"
-        ],
+        "Metro Manila",
         [
           "/wiki/Metro_Manila"
         ]
@@ -224,104 +140,60 @@
     ],
     [
       [
-        [
-          "Cignal"
-        ],
+        "Cignal",
         [
           "/wiki/Cignal"
         ]
       ],
       [
-        [
-          "Satellite ( Digital )"
-        ],
-        [
-          null
-        ]
+        "Satellite ( Digital )",
+        []
       ],
       [
-        [
-          "182"
-        ],
-        [
-          null
-        ]
+        "182",
+        []
       ],
       [
-        [
-          "Nationwide"
-        ],
-        [
-          null
-        ]
+        "Nationwide",
+        []
       ]
     ],
     [
       [
-        [
-          "Sky Direct"
-        ],
+        "Sky Direct",
         [
           "/wiki/Sky_Direct"
         ]
       ],
       [
-        [
-          "Satellite ( Digital )"
-        ],
-        [
-          null
-        ]
+        "Satellite ( Digital )",
+        []
       ],
       [
-        [
-          "40"
-        ],
-        [
-          null
-        ]
+        "40",
+        []
       ],
       [
-        [
-          "Nationwide"
-        ],
-        [
-          null
-        ]
+        "Nationwide",
+        []
       ]
     ],
     [
       [
-        [
-          "Other cable/satellite providers"
-        ],
-        [
-          null
-        ]
+        "Other cable/satellite providers",
+        []
       ],
       [
-        [
-          "N/A"
-        ],
-        [
-          null
-        ]
+        "N/A",
+        []
       ],
       [
-        [
-          "N/A"
-        ],
-        [
-          null
-        ]
+        "N/A",
+        []
       ],
       [
-        [
-          "check with local operators"
-        ],
-        [
-          null
-        ]
+        "check with local operators",
+        []
       ]
     ]
   ],

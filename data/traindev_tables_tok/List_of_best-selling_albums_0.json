@@ -3,89 +3,53 @@
   "title": "List of best-selling albums",
   "header": [
     [
-      [
-        "Artist"
-      ],
-      [
-        null
-      ]
+      "Artist",
+      []
     ],
     [
-      [
-        "Album"
-      ],
-      [
-        null
-      ]
+      "Album",
+      []
     ],
     [
-      [
-        "Released"
-      ],
-      [
-        null
-      ]
+      "Released",
+      []
     ],
     [
-      [
-        "Genre"
-      ],
-      [
-        null
-      ]
+      "Genre",
+      []
     ],
     [
-      [
-        "Total certified copies",
-        "from available markets"
-      ],
+      "Total certified copies ( from available markets ) *",
       [
         "/wiki/Music_recording_certification",
         "/wiki/List_of_music_recording_certifications"
       ]
     ],
     [
-      [
-        "Claimed sales*"
-      ],
-      [
-        null
-      ]
+      "Claimed sales*",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Michael Jackson"
-        ],
+        "Michael Jackson",
         [
           "/wiki/Michael_Jackson"
         ]
       ],
       [
-        [
-          "Thriller"
-        ],
+        "Thriller",
         [
           "/wiki/Thriller_(album)"
         ]
       ],
       [
-        [
-          "1982"
-        ],
-        [
-          null
-        ]
+        "1982",
+        []
       ],
       [
-        [
-          "Pop",
-          "post-disco",
-          "funk",
-          "rock"
-        ],
+        "Pop , post-disco , funk and rock",
         [
           "/wiki/Pop_music",
           "/wiki/Post-disco",
@@ -94,25 +58,7 @@
         ]
       ],
       [
-        [
-          "US",
-          "JPN",
-          "UK",
-          "GER",
-          "FRA",
-          "CAN",
-          "AUS",
-          "MEX",
-          "NLD",
-          "ITA",
-          "SWE",
-          "ARG",
-          "SWI",
-          "AUT",
-          "FIN",
-          "NZ",
-          "HKG"
-        ],
+        "47.3 US : 33 million JPN : 100,000 UK : 4.2 million GER : 1.5 million FRA : 1 million CAN : 2 million AUS : 1.12 million MEX : 1.6 million NLD : 800,000 ITA : 100,000 SWE : 400,000 ARG : 500,000 SWI : 300,000 AUT : 400,000 FIN : 119,061 NZ : 180,000 HKG : 15,000",
         [
           "/wiki/Recording_Industry_Association_of_America",
           "/wiki/Recording_Industry_Association_of_Japan",
@@ -134,60 +80,35 @@
         ]
       ],
       [
-        [
-          "66"
-        ],
-        [
-          null
-        ]
+        "66",
+        []
       ]
     ],
     [
       [
-        [
-          "AC/DC"
-        ],
+        "AC/DC",
         [
           "/wiki/AC/DC"
         ]
       ],
       [
-        [
-          "Back in Black"
-        ],
+        "Back in Black",
         [
           "/wiki/Back_in_Black"
         ]
       ],
       [
-        [
-          "1980"
-        ],
-        [
-          null
-        ]
+        "1980",
+        []
       ],
       [
-        [
-          "Hard rock"
-        ],
+        "Hard rock",
         [
           "/wiki/Hard_rock"
         ]
       ],
       [
-        [
-          "US",
-          "UK",
-          "GER",
-          "FRA",
-          "CAN",
-          "AUS",
-          "ITA",
-          "ARG",
-          "SWI",
-          "AUT"
-        ],
+        "29.4 US : 25 million UK : 600,000 GER : 1 million FRA : 600,000 CAN : 1 million AUS : 840,000 ITA : 50,000 ARG : 160,000 SWI : 100,000 AUT : 50,000",
         [
           "/wiki/Recording_Industry_Association_of_America",
           "/wiki/British_Phonographic_Industry",
@@ -202,45 +123,29 @@
         ]
       ],
       [
-        [
-          "50"
-        ],
-        [
-          null
-        ]
+        "50",
+        []
       ]
     ],
     [
       [
-        [
-          "Meat Loaf"
-        ],
+        "Meat Loaf",
         [
           "/wiki/Meat_Loaf"
         ]
       ],
       [
-        [
-          "Bat Out of Hell"
-        ],
+        "Bat Out of Hell",
         [
           "/wiki/Bat_Out_of_Hell"
         ]
       ],
       [
-        [
-          "1977"
-        ],
-        [
-          null
-        ]
+        "1977",
+        []
       ],
       [
-        [
-          "Hard rock",
-          "glam rock",
-          "heavy metal"
-        ],
+        "Hard rock , glam rock , heavy metal",
         [
           "/wiki/Hard_rock",
           "/wiki/Glam_rock",
@@ -248,14 +153,7 @@
         ]
       ],
       [
-        [
-          "US",
-          "UK",
-          "GER",
-          "CAN",
-          "AUS",
-          "NZ"
-        ],
+        "21.7 US : 14 million UK : 3.3 million GER : 500,000 CAN : 2 million AUS : 1.68 million NZ : 255,000",
         [
           "/wiki/Recording_Industry_Association_of_America",
           "/wiki/British_Phonographic_Industry",
@@ -266,61 +164,35 @@
         ]
       ],
       [
-        [
-          "50"
-        ],
-        [
-          null
-        ]
+        "50",
+        []
       ]
     ],
     [
       [
-        [
-          "Pink Floyd"
-        ],
+        "Pink Floyd",
         [
           "/wiki/Pink_Floyd"
         ]
       ],
       [
-        [
-          "The Dark Side of the Moon"
-        ],
+        "The Dark Side of the Moon",
         [
           "/wiki/The_Dark_Side_of_the_Moon"
         ]
       ],
       [
-        [
-          "1973"
-        ],
-        [
-          null
-        ]
+        "1973",
+        []
       ],
       [
-        [
-          "Progressive rock"
-        ],
+        "Progressive rock",
         [
           "/wiki/Progressive_rock"
         ]
       ],
       [
-        [
-          "US",
-          "UK",
-          "GER",
-          "FRA",
-          "CAN",
-          "AUS",
-          "ITA",
-          "ARG",
-          "POL",
-          "AUT",
-          "NZ"
-        ],
+        "24.2 US : 15 million UK : 4.2 million GER : 1 million FRA : 400,000 CAN : 2 million AUS : 980,000 ITA : 200,000 ARG : 120,000 POL : 70,000 AUT : 100,000 NZ : 240,000",
         [
           "/wiki/Recording_Industry_Association_of_America",
           "/wiki/British_Phonographic_Industry",
@@ -336,46 +208,29 @@
         ]
       ],
       [
-        [
-          "45"
-        ],
-        [
-          null
-        ]
+        "45",
+        []
       ]
     ],
     [
       [
-        [
-          "Whitney Houston"
-        ],
+        "Whitney Houston / Various artists",
         [
           "/wiki/Whitney_Houston"
         ]
       ],
       [
-        [
-          "The Bodyguard"
-        ],
+        "The Bodyguard",
         [
           "/wiki/The_Bodyguard_(soundtrack)"
         ]
       ],
       [
-        [
-          "1992"
-        ],
-        [
-          null
-        ]
+        "1992",
+        []
       ],
       [
-        [
-          "R & B",
-          "soul",
-          "pop",
-          "soundtrack"
-        ],
+        "R & B , soul , pop , soundtrack",
         [
           "/wiki/Contemporary_R&B",
           "/wiki/Soul_music",
@@ -384,24 +239,7 @@
         ]
       ],
       [
-        [
-          "US",
-          "JPN",
-          "UK",
-          "GER",
-          "FRA",
-          "CAN",
-          "AUS",
-          "BRA",
-          "NLD",
-          "SWE",
-          "SPA",
-          "ARG",
-          "SWI",
-          "AUT",
-          "NOR",
-          "FIN"
-        ],
+        "28.4 US : 18 million JPN : 2 million UK : 2.1 million GER : 1.5 million FRA : 1 million CAN : 1 million AUS : 350,000 BRA : 750,000 NLD : 100,000 SWE 100,000 SPA : 500,000 ARG : 240,000 SWI : 250,000 AUT : 200,000 NOR : 200,000 FIN : 92,500",
         [
           "/wiki/Recording_Industry_Association_of_America",
           "/wiki/Recording_Industry_Association_of_Japan",
@@ -422,45 +260,29 @@
         ]
       ],
       [
-        [
-          "45"
-        ],
-        [
-          null
-        ]
+        "45",
+        []
       ]
     ],
     [
       [
-        [
-          "Eagles"
-        ],
+        "Eagles",
         [
           "/wiki/Eagles_(band)"
         ]
       ],
       [
-        [
-          "Their Greatest Hits ( 1971-1975 )"
-        ],
+        "Their Greatest Hits ( 1971-1975 )",
         [
           "/wiki/Their_Greatest_Hits_(1971\u20131975)"
         ]
       ],
       [
-        [
-          "1976"
-        ],
-        [
-          null
-        ]
+        "1976",
+        []
       ],
       [
-        [
-          "Country rock",
-          "soft rock",
-          "folk rock"
-        ],
+        "Country rock , soft rock , folk rock",
         [
           "/wiki/Country_rock",
           "/wiki/Soft_rock",
@@ -468,13 +290,7 @@
         ]
       ],
       [
-        [
-          "US",
-          "UK",
-          "CAN",
-          "AUS",
-          "IFPI HKG"
-        ],
+        "41.2 US : 38 million UK : 600,000 CAN : 2 million AUS : 560,000 IFPI HKG : 15,000",
         [
           "/wiki/Recording_Industry_Association_of_America",
           "/wiki/British_Phonographic_Industry",
@@ -484,57 +300,35 @@
         ]
       ],
       [
-        [
-          "42"
-        ],
-        [
-          null
-        ]
+        "42",
+        []
       ]
     ],
     [
       [
-        [
-          "Bee Gees"
-        ],
+        "Bee Gees / Various artists",
         [
           "/wiki/Bee_Gees"
         ]
       ],
       [
-        [
-          "Saturday Night Fever"
-        ],
+        "Saturday Night Fever",
         [
           "/wiki/Saturday_Night_Fever_(soundtrack)"
         ]
       ],
       [
-        [
-          "1977"
-        ],
-        [
-          null
-        ]
+        "1977",
+        []
       ],
       [
-        [
-          "Disco"
-        ],
+        "Disco",
         [
           "/wiki/Disco"
         ]
       ],
       [
-        [
-          "US",
-          "UK",
-          "GER",
-          "FRA",
-          "CAN",
-          "AUS",
-          "HKG"
-        ],
+        "21.6 US : 16 million UK : 2.1 million GER : 1.5 million FRA : 200,000 CAN : 1 million AUS : 770,000 HKG : 15,000",
         [
           "/wiki/Recording_Industry_Association_of_America",
           "/wiki/British_Phonographic_Industry",
@@ -546,58 +340,35 @@
         ]
       ],
       [
-        [
-          "40"
-        ],
-        [
-          null
-        ]
+        "40",
+        []
       ]
     ],
     [
       [
-        [
-          "Fleetwood Mac"
-        ],
+        "Fleetwood Mac",
         [
           "/wiki/Fleetwood_Mac"
         ]
       ],
       [
-        [
-          "Rumours"
-        ],
+        "Rumours",
         [
           "/wiki/Rumours_(album)"
         ]
       ],
       [
-        [
-          "1977"
-        ],
-        [
-          null
-        ]
+        "1977",
+        []
       ],
       [
-        [
-          "Soft rock"
-        ],
+        "Soft rock",
         [
           "/wiki/Soft_rock"
         ]
       ],
       [
-        [
-          "US",
-          "UK",
-          "GER",
-          "FRA",
-          "CAN",
-          "AUS",
-          "NZ",
-          "HKG"
-        ],
+        "27.9 US : 20 million UK : 3.3 million GER : 1.25 million FRA : 300,000 CAN : 2 million AUS : 910,000 NZ : 150,000 HKG : 15,000",
         [
           "/wiki/Recording_Industry_Association_of_America",
           "/wiki/British_Phonographic_Industry",
@@ -610,73 +381,36 @@
         ]
       ],
       [
-        [
-          "40"
-        ],
-        [
-          null
-        ]
+        "40",
+        []
       ]
     ],
     [
       [
-        [
-          "Shania Twain"
-        ],
+        "Shania Twain",
         [
           "/wiki/Shania_Twain"
         ]
       ],
       [
-        [
-          "Come On Over"
-        ],
+        "Come On Over",
         [
           "/wiki/Come_On_Over"
         ]
       ],
       [
-        [
-          "1997"
-        ],
-        [
-          null
-        ]
+        "1997",
+        []
       ],
       [
-        [
-          "Country",
-          "pop"
-        ],
+        "Country , pop",
         [
           "/wiki/Country_music",
           "/wiki/Pop_music"
         ]
       ],
       [
-        [
-          "US",
-          "JPN",
-          "UK",
-          "GER",
-          "FRA",
-          "CAN",
-          "AUS",
-          "BRA",
-          "MEX",
-          "NLD",
-          "ITA",
-          "SWE",
-          "SPA",
-          "BEL",
-          "ARG",
-          "SWI",
-          "AUT",
-          "NOR",
-          "DEN",
-          "FIN",
-          "NZ"
-        ],
+        "29.6 US : 20 million JPN : 100,000 UK : 3.3 million GER : 750,000 FRA : 300,000 CAN : 2 million AUS : 1.05 million BRA : 100,000 MEX : 100,000 NLD : 400,000 ITA : 50,000 SWE 180,000 SPA : 100,000 BEL : 100,000 ARG : 120,000 SWI : 150,000 AUT : 25,000 NOR : 300,000 DEN : 100,000 FIN : 38,958 NZ : 315,000",
         [
           "/wiki/Recording_Industry_Association_of_America",
           "/wiki/RIAJ",
@@ -702,12 +436,8 @@
         ]
       ],
       [
-        [
-          "40"
-        ],
-        [
-          null
-        ]
+        "40",
+        []
       ]
     ]
   ],

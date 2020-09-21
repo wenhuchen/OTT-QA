@@ -3,895 +3,651 @@
   "title": "List of hospital ships sunk in World War I",
   "header": [
     [
-      [
-        "Name"
-      ],
-      [
-        null
-      ]
+      "Name",
+      []
     ],
     [
-      [
-        "Date"
-      ],
-      [
-        null
-      ]
+      "Nationality",
+      []
     ],
     [
-      [
-        "Location of wreck"
-      ],
-      [
-        null
-      ]
+      "Date",
+      []
     ],
     [
-      [
-        "Cause"
-      ],
-      [
-        null
-      ]
+      "Location of wreck",
+      []
     ],
     [
-      [
-        "Lives lost"
-      ],
-      [
-        null
-      ]
+      "Cause",
+      []
+    ],
+    [
+      "Lives lost",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "HMHS Anglia"
-        ],
+        "HMHS Anglia",
         [
           "/wiki/HMHS_Anglia"
         ]
       ],
       [
+        "UK",
         [
-          "17 November 1915"
-        ],
-        [
-          null
+          "/wiki/United_Kingdom"
         ]
       ],
       [
-        [
-          "Folkestone"
-        ],
+        "17 November 1915",
+        []
+      ],
+      [
+        "One mile east of Folkestone Gate",
         [
           "/wiki/Folkestone"
         ]
       ],
       [
-        [
-          "UC-5"
-        ],
+        "Struck mine that had been laid by German U-boat UC-5",
         [
           "/wiki/SM_UC-5"
         ]
       ],
       [
-        [
-          "134"
-        ],
-        [
-          null
-        ]
+        "134",
+        []
       ]
     ],
     [
       [
-        [
-          "HMHS Asturias"
-        ],
+        "HMHS Asturias",
         [
           "/wiki/HMHS_Asturias"
         ]
       ],
       [
-        [
-          "20 March 1917"
-        ],
-        [
-          null
-        ]
+        "UK",
+        []
       ],
       [
-        [
-          "6 miles off Start Point"
-        ],
-        [
-          null
-        ]
+        "20 March 1917",
+        []
       ],
       [
-        [
-          "UC-66"
-        ],
+        "6 miles off Start Point",
+        []
+      ],
+      [
+        "Torpedoed by German U-boat UC-66",
         [
           "/wiki/SM_UC-66"
         ]
       ],
       [
-        [
-          "35"
-        ],
-        [
-          null
-        ]
+        "35",
+        []
       ]
     ],
     [
       [
-        [
-          "HMHS Huntley"
-        ],
+        "HMHS Huntley",
         [
           "/wiki/HMHS_Huntley"
         ]
       ],
       [
-        [
-          "21 December 1915"
-        ],
-        [
-          null
-        ]
+        "UK",
+        []
       ],
       [
-        [
-          "Boulogne LV"
-        ],
+        "21 December 1915",
+        []
+      ],
+      [
+        ".75 miles ( 1.21 km ) off the Boulogne LV",
         [
           "/wiki/Boulogne-sur-Mer"
         ]
       ],
       [
-        [
-          "U-boat",
-          "UB-10"
-        ],
+        "Torpedoed by German U-boat German U-boat UB-10",
         [
           "/wiki/U-boat",
           "/wiki/SM_UB-10"
         ]
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ]
     ],
     [
       [
-        [
-          "HMHS Britannic"
-        ],
+        "HMHS Britannic",
         [
           "/wiki/HMHS_Britannic"
         ]
       ],
       [
+        "UK",
         [
-          "21 November 1916"
-        ],
-        [
-          null
+          "/wiki/United_Kingdom"
         ]
       ],
       [
-        [
-          "37\u00b042\u203205\u2033N 24\u00b017\u203202\u2033E / 37.70139\u00b0N 24.28389\u00b0E / 37.70139 ; 24.28389"
-        ],
-        [
-          null
-        ]
+        "21 November 1916",
+        []
       ],
       [
-        [
-          "UC-73"
-        ],
+        "Aegean sea 37\u00b042\u203205\u2033N 24\u00b017\u203202\u2033E / 37.70139\u00b0N 24.28389\u00b0E / 37.70139 ; 24.28389",
+        []
+      ],
+      [
+        "Struck a mine laid by German U-boat UC-73",
         [
           "/wiki/SM_UC-73"
         ]
       ],
       [
-        [
-          "30"
-        ],
-        [
-          null
-        ]
+        "30",
+        []
       ]
     ],
     [
       [
-        [
-          "HMHS Dover Castle"
-        ],
+        "HMHS Dover Castle",
         [
           "/wiki/HMHS_Dover_Castle"
         ]
       ],
       [
-        [
-          "26 May 1917"
-        ],
-        [
-          null
-        ]
+        "UK",
+        []
       ],
       [
-        [
-          "37\u00b045\u203200\u2033N 007\u00b045\u203200\u2033E / 37.75000\u00b0N 7.75000\u00b0E / 37.75000 ; 7.75000"
-        ],
-        [
-          null
-        ]
+        "26 May 1917",
+        []
       ],
       [
-        [
-          "UC-67"
-        ],
+        "Mediterranean Sea 37\u00b045\u203200\u2033N 007\u00b045\u203200\u2033E / 37.75000\u00b0N 7.75000\u00b0E / 37.75000 ; 7.75000",
+        []
+      ],
+      [
+        "Torpedoed by German U-boat UC-67",
         [
           "/wiki/SM_UC-67"
         ]
       ],
       [
-        [
-          "7"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ]
     ],
     [
       [
-        [
-          "HMHS Donegal"
-        ],
+        "HMHS Donegal",
         [
           "/wiki/SS_Donegal"
         ]
       ],
       [
-        [
-          "17 April 1917"
-        ],
-        [
-          null
-        ]
+        "UK",
+        []
       ],
       [
-        [
-          "50\u00b026\u203200\u2033N 01\u00b000\u203200\u2033W / 50.43333\u00b0N 1.00000\u00b0W / 50.43333 ; -1.00000"
-        ],
-        [
-          null
-        ]
+        "17 April 1917",
+        []
       ],
       [
-        [
-          "UC-21"
-        ],
+        "19 miles south of the Dean lightship on passage Le Havre for Southampton 50\u00b026\u203200\u2033N 01\u00b000\u203200\u2033W / 50.43333\u00b0N 1.00000\u00b0W / 50.43333 ; -1.00000",
+        []
+      ],
+      [
+        "Torpedoed by German U-boat UC-21",
         [
           "/wiki/SM_UC-21"
         ]
       ],
       [
-        [
-          "40"
-        ],
-        [
-          null
-        ]
+        "40",
+        []
       ]
     ],
     [
       [
-        [
-          "HS Elektra"
-        ],
+        "HS Elektra",
         [
           "/wiki/HS_Elektra"
         ]
       ],
       [
-        [
-          "18 March 1916"
-        ],
-        [
-          null
-        ]
+        "Austria-Hungary",
+        []
       ],
       [
-        [
-          "Cape Planka"
-        ],
-        [
-          null
-        ]
+        "18 March 1916",
+        []
       ],
       [
-        [
-          "Amp\u00e8re"
-        ],
+        "Off Cape Planka",
+        []
+      ],
+      [
+        "Torpedoed by French submarine Amp\u00e8re . Out of service until early Sep 1916 ; returned to her owner 04 Dec 1916",
         [
           "/wiki/French_submarine_Amp\u00e8re"
         ]
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ]
     ],
     [
       [
-        [
-          "HMHS Galeka"
-        ],
+        "HMHS Galeka",
         [
           "/wiki/SS_Galeka"
         ]
       ],
       [
-        [
-          "28 October 1916"
-        ],
-        [
-          null
-        ]
+        "UK",
+        []
       ],
       [
-        [
-          "49\u00b034\u203201\u2033N 000\u00b005\u203205\u2033E / 49.56694\u00b0N 0.08472\u00b0E / 49.56694 ; 0.08472"
-        ],
-        [
-          null
-        ]
+        "28 October 1916",
+        []
       ],
       [
-        [
-          "UC-26"
-        ],
+        "French coast , near Le Havre 49\u00b034\u203201\u2033N 000\u00b005\u203205\u2033E / 49.56694\u00b0N 0.08472\u00b0E / 49.56694 ; 0.08472",
+        []
+      ],
+      [
+        "Struck a mine laid by UC-26",
         [
           "/wiki/SM_UC-26"
         ]
       ],
       [
-        [
-          "19"
-        ],
-        [
-          null
-        ]
+        "19",
+        []
       ]
     ],
     [
       [
-        [
-          "HMHS Glenart Castle"
-        ],
+        "HMHS Glenart Castle",
         [
           "/wiki/HMHS_Glenart_Castle"
         ]
       ],
       [
-        [
-          "26 February 1918"
-        ],
-        [
-          null
-        ]
+        "UK",
+        []
       ],
       [
-        [
-          "51\u00b007\u203200\u2033N 005\u00b003\u203200\u2033W / 51.11667\u00b0N 5.05000\u00b0W / 51.11667 ; -5.05000"
-        ],
-        [
-          null
-        ]
+        "26 February 1918",
+        []
       ],
       [
-        [
-          "UC-56"
-        ],
+        "Bristol Channel 51\u00b007\u203200\u2033N 005\u00b003\u203200\u2033W / 51.11667\u00b0N 5.05000\u00b0W / 51.11667 ; -5.05000",
+        []
+      ],
+      [
+        "Torpedoed by German U-boat UC-56",
         [
           "/wiki/SM_UC-56"
         ]
       ],
       [
-        [
-          "162"
-        ],
-        [
-          null
-        ]
+        "162",
+        []
       ]
     ],
     [
       [
-        [
-          "HMHS Gloucester Castle"
-        ],
+        "HMHS Gloucester Castle",
         [
           "/wiki/HMHS_Gloucester_Castle"
         ]
       ],
       [
-        [
-          "30 March 1917"
-        ],
-        [
-          null
-        ]
+        "UK",
+        []
       ],
       [
-        [
-          "Le Havre",
-          "Southampton"
-        ],
+        "30 March 1917",
+        []
+      ],
+      [
+        "en route from Le Havre to Southampton",
         [
           "/wiki/Le_Havre",
           "/wiki/Southampton"
         ]
       ],
       [
-        [
-          "U-32"
-        ],
+        "Torpedoed by German U-boat U-32",
         [
           "/wiki/SM_U-32_(Germany)"
         ]
       ],
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ]
     ],
     [
       [
-        [
-          "SS India"
-        ],
+        "SS India",
         [
           "/wiki/SS_India"
         ]
       ],
       [
+        "Greece",
         [
-          "12 April 1917"
-        ],
-        [
-          null
+          "/wiki/Greece"
         ]
       ],
       [
-        [
-          "Greek hospital ship India being sunk in the Mediterranean Sea , east of Gibraltar , by German U-boat SM U-35 U 35 ( Captain Lothar von Arnauld de la Peri\u00e8re ) , 12 April 1917"
-        ],
-        [
-          null
-        ]
+        "12 April 1917",
+        []
       ],
       [
-        [
-          "U-35"
-        ],
+        "Greek hospital ship India being sunk in the Mediterranean Sea , east of Gibraltar , by German U-boat SM U-35 U 35 ( Captain Lothar von Arnauld de la Peri\u00e8re ) , 12 April 1917",
+        []
+      ],
+      [
+        "Torpedoed by German U-boat U-35",
         [
           "/wiki/SM_U-35_(Germany)"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "HS Koningin Regentes"
-        ],
+        "HS Koningin Regentes",
         [
           "/wiki/HS_Koningin_Regentes"
         ]
       ],
       [
-        [
-          "06 June 1918"
-        ],
-        [
-          null
-        ]
+        "Netherlands",
+        []
       ],
       [
-        [
-          "21 miles East of Leman lightship"
-        ],
-        [
-          null
-        ]
+        "06 June 1918",
+        []
       ],
       [
-        [
-          "UB-107"
-        ],
+        "21 miles East of Leman lightship",
+        []
+      ],
+      [
+        "Torpedoed by German U-boat UB-107",
         [
           "/wiki/SM_UB-107"
         ]
       ],
       [
-        [
-          "7"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ]
     ],
     [
       [
-        [
-          "HMHS Lanfranc"
-        ],
+        "HMHS Lanfranc",
         [
           "/wiki/HMHS_Lanfranc"
         ]
       ],
       [
-        [
-          "17 April 1917"
-        ],
-        [
-          null
-        ]
+        "UK",
+        []
       ],
       [
-        [
-          "50\u00b009\u203200\u2033N 000\u00b010\u203204\u2033W / 50.15000\u00b0N 0.16778\u00b0W / 50.15000 ; -0.16778"
-        ],
-        [
-          null
-        ]
+        "17 April 1917",
+        []
       ],
       [
-        [
-          "UB-40"
-        ],
+        "English Channel 50\u00b009\u203200\u2033N 000\u00b010\u203204\u2033W / 50.15000\u00b0N 0.16778\u00b0W / 50.15000 ; -0.16778",
+        []
+      ],
+      [
+        "Torpedoed by German U-boat UB-40",
         [
           "/wiki/SM_UB-40"
         ]
       ],
       [
-        [
-          "40"
-        ],
-        [
-          null
-        ]
+        "40",
+        []
       ]
     ],
     [
       [
-        [
-          "HMHS Letitia"
-        ],
+        "HMHS Letitia",
         [
           "/wiki/HMHS_Letitia_(1912)"
         ]
       ],
       [
+        "Canada",
         [
-          "1 August 1917"
-        ],
-        [
-          null
+          "/wiki/Canada"
         ]
       ],
       [
-        [
-          "Portuguese Cove , Halifax Harbour"
-        ],
-        [
-          null
-        ]
+        "1 August 1917",
+        []
       ],
       [
-        [
-          "Grounded out due to a pilot error in heavy fog"
-        ],
-        [
-          null
-        ]
+        "Portuguese Cove , Halifax Harbour",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "Grounded out due to a pilot error in heavy fog",
+        []
+      ],
+      [
+        "1",
+        []
       ]
     ],
     [
       [
-        [
-          "HMHS Llandovery Castle"
-        ],
+        "HMHS Llandovery Castle",
         [
           "/wiki/HMHS_Llandovery_Castle"
         ]
       ],
       [
+        "Canada",
         [
-          "27 June 1918"
-        ],
-        [
-          null
+          "/wiki/Canada"
         ]
       ],
       [
-        [
-          "51\u00b018\u203200\u2033N 009\u00b054\u203200\u2033W / 51.30000\u00b0N 9.90000\u00b0W / 51.30000 ; -9.90000"
-        ],
-        [
-          null
-        ]
+        "27 June 1918",
+        []
       ],
       [
-        [
-          "U-86"
-        ],
+        "off southern Ireland 51\u00b018\u203200\u2033N 009\u00b054\u203200\u2033W / 51.30000\u00b0N 9.90000\u00b0W / 51.30000 ; -9.90000",
+        []
+      ],
+      [
+        "Torpedoed by German U-boat U-86",
         [
           "/wiki/SM_U-86"
         ]
       ],
       [
-        [
-          "234"
-        ],
-        [
-          null
-        ]
+        "234",
+        []
       ]
     ],
     [
       [
-        [
-          "HS Marechiaro"
-        ],
+        "HS Marechiaro",
         [
           "/wiki/HS_Marechiaro"
         ]
       ],
       [
-        [
-          "21 February 1916"
-        ],
-        [
-          null
-        ]
+        "Italy",
+        []
       ],
       [
-        [
-          "Durazzo",
-          "Albania"
-        ],
+        "21 February 1916",
+        []
+      ],
+      [
+        "Off Cape Laghi , Durazzo , Albania",
         [
           "/wiki/Durr\u00ebs",
           "/wiki/Albania"
         ]
       ],
       [
-        [
-          "UC-12"
-        ],
+        "Struck a mine laid by German U-boat UC-12",
         [
           "/wiki/SM_UC-12"
         ]
       ],
       [
-        [
-          "33"
-        ],
-        [
-          null
-        ]
+        "33",
+        []
       ]
     ],
     [
       [
-        [
-          "HS Oceania"
-        ],
-        [
-          null
-        ]
+        "HS Oceania",
+        []
       ],
       [
-        [
-          "04 October 1918"
-        ],
-        [
-          null
-        ]
+        "Austria-Hungary",
+        []
       ],
       [
-        [
-          "Between Cape Rodoni and Durazzo"
-        ],
-        [
-          null
-        ]
+        "04 October 1918",
+        []
       ],
       [
-        [
-          "Mined and beached near Cape Rondoni , and on October 15 , 1918 was blown up by the Austrians to avoid falling into Italian hands"
-        ],
-        [
-          null
-        ]
+        "Between Cape Rodoni and Durazzo",
+        []
       ],
       [
-        [
-          "?"
-        ],
-        [
-          null
-        ]
+        "Mined and beached near Cape Rondoni , and on October 15 , 1918 was blown up by the Austrians to avoid falling into Italian hands",
+        []
+      ],
+      [
+        "?",
+        []
       ]
     ],
     [
       [
-        [
-          "HS Portugal"
-        ],
+        "HS Portugal ( \u041f\u043e\u0440\u0442\u0443\u0433\u0430\u043b\u044c )",
         [
           "/wiki/Russian_hospital_ship_Portugal"
         ]
       ],
       [
+        "Russia ( French crew , Russian medical staff )",
         [
-          "17 March 1916"
-        ],
-        [
-          null
+          "/wiki/Russia"
         ]
       ],
       [
-        [
-          "Rize Province",
-          "Black Sea"
-        ],
+        "17 March 1916",
+        []
+      ],
+      [
+        "Near Rize Province off the Turkish coast in the Black Sea",
         [
           "/wiki/Rize_Province",
           "/wiki/Black_Sea"
         ]
       ],
       [
-        [
-          "U-33"
-        ],
+        "Torpedoed by German U-boat U-33",
         [
           "/wiki/SM_U-33_(Germany)"
         ]
       ],
       [
-        [
-          "90"
-        ],
-        [
-          null
-        ]
+        "90",
+        []
       ]
     ],
     [
       [
-        [
-          "HMHS Rewa"
-        ],
+        "HMHS Rewa",
         [
           "/wiki/HMHS_Rewa"
         ]
       ],
       [
+        "UK",
+        []
+      ],
+      [
+        "4 January 1918",
+        []
+      ],
+      [
+        "13 miles off Hartland Point , UK 50\u00b055\u203200\u2033N 004\u00b049\u203200\u2033W / 50.91667\u00b0N 4.81667\u00b0W / 50.91667 ; -4.81667",
         [
-          "4 January 1918"
-        ],
-        [
-          null
+          "/wiki/Hartland_Point"
         ]
       ],
       [
-        [
-          "Hartland Point",
-          "50\u00b055\u203200\u2033N 004\u00b049\u203200\u2033W / 50.91667\u00b0N 4.81667\u00b0W / 50.91667 ; -4.81667"
-        ],
-        [
-          "/wiki/Hartland_Point",
-          null
-        ]
-      ],
-      [
-        [
-          "U-55"
-        ],
+        "Torpedoed by German U-boat U-55",
         [
           "/wiki/SM_U-55"
         ]
       ],
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ]
     ],
     [
       [
-        [
-          "HMHS Rohilla"
-        ],
+        "HMHS Rohilla",
         [
           "/wiki/Rohilla_Steamship"
         ]
       ],
       [
-        [
-          "30 October 1914"
-        ],
-        [
-          null
-        ]
+        "UK",
+        []
       ],
       [
-        [
-          "Whitby"
-        ],
+        "30 October 1914",
+        []
+      ],
+      [
+        "Saltwick Nab , one mile south of Whitby",
         [
           "/wiki/Whitby"
         ]
       ],
       [
-        [
-          "Struck Whitby Rock"
-        ],
-        [
-          null
-        ]
+        "Struck Whitby Rock",
+        []
       ],
       [
-        [
-          "84"
-        ],
-        [
-          null
-        ]
+        "84",
+        []
       ]
     ]
   ],

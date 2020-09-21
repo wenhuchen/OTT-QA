@@ -3,137 +3,54 @@
   "title": "List of writing systems",
   "header": [
     [
-      [
-        "Name of script"
-      ],
-      [
-        null
-      ]
+      "Name of script",
+      []
     ],
     [
-      [
-        "Type"
-      ],
-      [
-        null
-      ]
+      "Type",
+      []
     ],
     [
-      [
-        "Number of characters"
-      ],
-      [
-        null
-      ]
+      "Number of characters",
+      []
     ],
     [
-      [
-        "Population actively using ( in millions )"
-      ],
-      [
-        null
-      ]
+      "Population actively using ( in millions )",
+      []
     ],
     [
-      [
-        "Languages associated with"
-      ],
-      [
-        null
-      ]
+      "Languages associated with",
+      []
     ],
     [
-      [
-        "Regions with predominant usage"
-      ],
-      [
-        null
-      ]
+      "Regions with predominant usage",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Latin"
-        ],
+        "Latin Latin",
         [
           "/wiki/Latin_script"
         ]
       ],
       [
-        [
-          "Alphabet"
-        ],
+        "Alphabet",
         [
           "/wiki/Alphabet"
         ]
       ],
       [
-        [
-          "23 ( classical )"
-        ],
-        [
-          null
-        ]
+        "23 ( classical )",
+        []
       ],
       [
-        [
-          "6120+"
-        ],
-        [
-          null
-        ]
+        "6120+",
+        []
       ],
       [
-        [
-          "Latin",
-          "Romance languages",
-          "Italian",
-          "French",
-          "Franco-Proven\u00e7al",
-          "Occitan",
-          "Catalan",
-          "Portuguese",
-          "Galician",
-          "Spanish",
-          "Rhaeto-Romance languages",
-          "Sardinian",
-          "Romanian",
-          "Germanic languages",
-          "English",
-          "Dutch",
-          "German",
-          "Nordic languages",
-          "Chinese",
-          "Mandarin Pinyin",
-          "Austronesian languages",
-          "Indonesian",
-          "Filipino",
-          "Malay",
-          "Polynesian languages",
-          "West",
-          "Southwest",
-          "Slavic languages",
-          "Polish",
-          "Baltic languages",
-          "Latvian",
-          "Lithuanian",
-          "Niger-Congo languages",
-          "Swahili",
-          "Yoruba",
-          "Zulu",
-          "Turkish",
-          "Somali",
-          "Albanian",
-          "Vietnamese",
-          "Hungarian",
-          "Maltese",
-          "Finnic",
-          "Estonian",
-          "Finnish",
-          "Sami languages"
-        ],
+        "Latin and Romance languages ( Italian , French , Franco-Proven\u00e7al , Occitan , Catalan , Portuguese , Galician , Spanish , Rhaeto-Romance languages , Sardinian and Romanian ) , Germanic languages ( English , Dutch , German , Nordic languages ) , Chinese ( Mandarin Pinyin ) , Austronesian languages ( Indonesian , Filipino , Malay , Polynesian languages ) , West and Southwest Slavic languages ( including Polish ) , Baltic languages ( Latvian and Lithuanian ) , Niger-Congo languages ( including Swahili , Yoruba , and Zulu ) , Turkish , Somali , Albanian , Vietnamese , Hungarian , Maltese , Finnic ( including Estonian and Finnish ) and Sami languages , others",
         [
           "/wiki/Latin_language",
           "/wiki/Romance_languages",
@@ -184,72 +101,33 @@
         ]
       ],
       [
-        [
-          "Worldwide"
-        ],
-        [
-          null
-        ]
+        "Worldwide",
+        []
       ]
     ],
     [
       [
-        [
-          "Chinese"
-        ],
+        "Chinese \u6c49\u5b57 \u6f22\u5b57",
         [
           "/wiki/Chinese_characters"
         ]
       ],
       [
-        [
-          "Logographic"
-        ],
+        "Logographic",
         [
           "/wiki/Logographic"
         ]
       ],
       [
-        [
-          "> 50,000"
-        ],
-        [
-          null
-        ]
+        "> 50,000",
+        []
       ],
       [
-        [
-          "1340"
-        ],
-        [
-          null
-        ]
+        "1340",
+        []
       ],
       [
-        [
-          "Mandarin",
-          "Yue",
-          "Wu",
-          "Gan",
-          "Min",
-          "Hakka",
-          "Xiang",
-          "Jin",
-          "Pinghua",
-          "Huizhou",
-          "Chinese characters",
-          "Japanese",
-          "Kanji",
-          "Korean",
-          "Hanja",
-          "Vietnamese",
-          "Chu Nom",
-          "Zhuang",
-          "Sawndip",
-          "Okinawan",
-          "Okinawan",
-          "Mulam"
-        ],
+        "Mandarin , Yue , Wu , Gan , Min , Hakka , Xiang , Jin , Pinghua , Huizhou and other Chinese languages ( Chinese characters ) , Japanese ( Kanji ) , Korean ( Hanja ) , Vietnamese ( Chu Nom ) , Zhuang ( Sawndip ) , Okinawan ( Okinawan ) , Mulam",
         [
           "/wiki/Mandarin_Chinese",
           "/wiki/Cantonese",
@@ -276,18 +154,7 @@
         ]
       ],
       [
-        [
-          "China",
-          "Taiwan",
-          "Singapore",
-          "Malaysia",
-          "Chinese Malaysians",
-          "Japan",
-          "South Korea",
-          "Indonesia",
-          "Chinese Indonesians",
-          "Hong Kong"
-        ],
+        "China , Taiwan , Singapore , Malaysia ( Chinese Malaysians ) , Japan , South Korea , Indonesia ( Chinese Indonesians ) , Hong Kong",
         [
           "/wiki/China",
           "/wiki/Taiwan",
@@ -304,62 +171,27 @@
     ],
     [
       [
-        [
-          "Devanagari"
-        ],
+        "Devanagari \u0926\u0947\u0935\u0928\u093e\u0917\u0930\u0940",
         [
           "/wiki/Devanagari"
         ]
       ],
       [
-        [
-          "Abugida"
-        ],
+        "Abugida",
         [
           "/wiki/Abugida"
         ]
       ],
       [
-        [
-          "44"
-        ],
-        [
-          null
-        ]
+        "44",
+        []
       ],
       [
-        [
-          "820+"
-        ],
-        [
-          null
-        ]
+        "820+",
+        []
       ],
       [
-        [
-          "Angika",
-          "Awadhi",
-          "Bhili",
-          "Bhojpuri",
-          "Bodo",
-          "Chhattisgarhi",
-          "Dogri",
-          "Haryanvi",
-          "Hindi",
-          "Kashmiri",
-          "Konkani",
-          "Magahi",
-          "Maithili",
-          "Marathi",
-          "Mundari",
-          "Nepali",
-          "Newar",
-          "Pali",
-          "Rajasthani",
-          "Sanskrit",
-          "Santali",
-          "Sindhi"
-        ],
+        "Angika , Awadhi , Bhili , Bhojpuri , Bodo , Chhattisgarhi , Dogri , Haryanvi , Hindi , Kashmiri , Konkani , Magahi , Maithili , Marathi , Mundari , Nepali , Newar , Pali , Rajasthani , Sanskrit , Santali , Sindhi , others",
         [
           "/wiki/Angika_language",
           "/wiki/Awadhi_language",
@@ -386,13 +218,7 @@
         ]
       ],
       [
-        [
-          "India",
-          "Hindi Belt",
-          "Goa",
-          "Maharashtra",
-          "Nepal"
-        ],
+        "India ( native in Hindi Belt , Goa , Maharashtra ) , Nepal",
         [
           "/wiki/India",
           "/wiki/Hindi_Belt",
@@ -404,61 +230,27 @@
     ],
     [
       [
-        [
-          "Arabic"
-        ],
+        "Arabic \u0627\u0644\u0639\u0631\u0628\u064a\u0629",
         [
           "/wiki/Arabic_script"
         ]
       ],
       [
-        [
-          "Abjad"
-        ],
+        "Abjad",
         [
           "/wiki/Abjad"
         ]
       ],
       [
-        [
-          "28"
-        ],
-        [
-          null
-        ]
+        "28",
+        []
       ],
       [
-        [
-          "660+"
-        ],
-        [
-          null
-        ]
+        "660+",
+        []
       ],
       [
-        [
-          "Arabic",
-          "Persian",
-          "Urdu",
-          "Punjabi",
-          "Pashto",
-          "Sindhi",
-          "Balochi",
-          "Malayan",
-          "Jawi",
-          "Acehnese",
-          "Jawi",
-          "Uyghur",
-          "Kazakh",
-          "China",
-          "Kurdish",
-          "Azeri",
-          "Iran",
-          "Javanese",
-          "Pegon",
-          "Sundanese",
-          "Pegon"
-        ],
+        "Arabic , Persian , Urdu , Punjabi , Pashto , Sindhi , Balochi , Malayan ( Jawi ) , Acehnese ( Jawi ) , Uyghur , Kazakh ( in China ) , Kurdish , Azeri ( in Iran ) , Javanese ( Pegon ) , Sundanese ( Pegon ) , others",
         [
           "/wiki/Arabic_language",
           "/wiki/Persian_language",
@@ -484,17 +276,7 @@
         ]
       ],
       [
-        [
-          "Middle East and North Africa",
-          "Pakistan",
-          "India",
-          "China",
-          "Xinjiang",
-          "Brunei",
-          "Latin",
-          "Malaysia",
-          "Indonesia"
-        ],
+        "Middle East and North Africa , Pakistan , India ( 7 states ) , China ( Xinjiang ) , Brunei ( co-official with Latin ) , Malaysia , Indonesia ( religious uses only )",
         [
           "/wiki/Middle_East_and_North_Africa",
           "/wiki/Pakistan",
@@ -510,52 +292,27 @@
     ],
     [
       [
-        [
-          "Bengali-Assamese script"
-        ],
+        "Bengali-Assamese script",
         [
           "/wiki/Bengali-Assamese_script"
         ]
       ],
       [
-        [
-          "Abugida"
-        ],
+        "Abugida",
         [
           "/wiki/Abugida"
         ]
       ],
       [
-        [
-          "52"
-        ],
-        [
-          null
-        ]
+        "52",
+        []
       ],
       [
-        [
-          "300"
-        ],
-        [
-          null
-        ]
+        "300",
+        []
       ],
       [
-        [
-          "Sanskrit",
-          "Bengali",
-          "Assamese",
-          "Kokborok",
-          "Bishnupriya Manipuri",
-          "Khasi",
-          "Meitei Manipuri",
-          "Hajong",
-          "Chakma",
-          "Maithili",
-          "Angika",
-          "Sylheti"
-        ],
+        "Sanskrit , Bengali , Assamese , Kokborok , Bishnupriya Manipuri , Khasi , Meitei Manipuri , Hajong , Chakma , Maithili ( historical use ) , Angika ( historical use ) , Sylheti and others",
         [
           "/wiki/Sanskrit",
           "/wiki/Bengali_language",
@@ -572,18 +329,7 @@
         ]
       ],
       [
-        [
-          "Bangladesh",
-          "India",
-          "West Bengal",
-          "Mizoram",
-          "Jharkhand",
-          "Tripura",
-          "Assam",
-          "Manipur",
-          "Meghalaya",
-          "Andaman and Nicobar Islands"
-        ],
+        "Bangladesh , and India ( West Bengal , Mizoram , Jharkhand , Tripura , Assam , Manipur , Meghalaya , Andaman and Nicobar Islands )",
         [
           "/wiki/Bangladesh",
           "/wiki/India",
@@ -600,47 +346,27 @@
     ],
     [
       [
-        [
-          "Cyrillic"
-        ],
+        "Cyrillic \u041a\u0438\u0440\u0438\u043b\u0438\u0446\u0430",
         [
           "/wiki/Cyrillic"
         ]
       ],
       [
-        [
-          "Alphabet"
-        ],
+        "Alphabet",
         [
           "/wiki/Alphabet"
         ]
       ],
       [
-        [
-          "33 ( Russian )"
-        ],
-        [
-          null
-        ]
+        "33 ( Russian )",
+        []
       ],
       [
-        [
-          "250"
-        ],
-        [
-          null
-        ]
+        "250",
+        []
       ],
       [
-        [
-          "Bulgarian",
-          "Russian",
-          "Serbian",
-          "Ukrainian",
-          "Macedonian",
-          "Belarusian",
-          "Kazakh"
-        ],
+        "Bulgarian , Russian , Serbian , Ukrainian , Macedonian , Belarusian , Kazakh , others",
         [
           "/wiki/Bulgarian_language",
           "/wiki/Russian_language",
@@ -652,12 +378,7 @@
         ]
       ],
       [
-        [
-          "Eastern Europe",
-          "Central Asia",
-          "Mongolia",
-          "Russian Far East"
-        ],
+        "Eastern Europe , Central Asia and Mongolia , the Russian Far East",
         [
           "/wiki/Eastern_Europe",
           "/wiki/Central_Asia",
@@ -668,44 +389,27 @@
     ],
     [
       [
-        [
-          "Kana"
-        ],
+        "Kana \u304b\u306a \u30ab\u30ca",
         [
           "/wiki/Kana"
         ]
       ],
       [
-        [
-          "Syllabary"
-        ],
+        "Syllabary",
         [
           "/wiki/Syllabary"
         ]
       ],
       [
-        [
-          "46"
-        ],
-        [
-          null
-        ]
+        "46",
+        []
       ],
       [
-        [
-          "120"
-        ],
-        [
-          null
-        ]
+        "120",
+        []
       ],
       [
-        [
-          "Japanese",
-          "Okinawan",
-          "Ainu",
-          "Palauan"
-        ],
+        "Japanese , Okinawan , Ainu , Palauan , other Japonic languages",
         [
           "/wiki/Japanese_language",
           "/wiki/Okinawan_language",
@@ -714,9 +418,7 @@
         ]
       ],
       [
-        [
-          "Japan"
-        ],
+        "Japan",
         [
           "/wiki/Japan"
         ]
@@ -724,44 +426,27 @@
     ],
     [
       [
-        [
-          "Javanese"
-        ],
+        "Javanese \ua997\ua9ae",
         [
           "/wiki/Javanese_script"
         ]
       ],
       [
-        [
-          "Abugida"
-        ],
+        "Abugida",
         [
           "/wiki/Abugida"
         ]
       ],
       [
-        [
-          "53"
-        ],
-        [
-          null
-        ]
+        "53",
+        []
       ],
       [
-        [
-          "80"
-        ],
-        [
-          null
-        ]
+        "80",
+        []
       ],
       [
-        [
-          "Javanese",
-          "Cirebonese",
-          "Madurese",
-          "Sundanese"
-        ],
+        "Javanese , Cirebonese , Madurese , Sundanese",
         [
           "/wiki/Javanese_language",
           "/wiki/Cirebonese_language",
@@ -770,16 +455,7 @@
         ]
       ],
       [
-        [
-          "Indonesia",
-          "Central Java",
-          "East Java",
-          "Special Region of Yogyakarta",
-          "Cirebon",
-          "Cirebon Regency",
-          "Indramayu Regency",
-          "Javanese diaspora"
-        ],
+        "Indonesia ( Central Java , East Java , Special Region of Yogyakarta , Cirebon , Cirebon Regency , Indramayu Regency ) , Javanese diaspora",
         [
           "/wiki/Indonesia",
           "/wiki/Central_Java",
@@ -787,52 +463,34 @@
           "/wiki/Special_Region_of_Yogyakarta",
           "/wiki/Cirebon",
           "/wiki/Cirebon_Regency",
-          "/wiki/Indramayu_Regency",
-          null
+          "/wiki/Indramayu_Regency"
         ]
       ]
     ],
     [
       [
-        [
-          "Chos\u014fn'g\u016dl/Hangul"
-        ],
+        "Chos\u014fn'g\u016dl/Hangul \ud55c\uae00 \uc870\uc120\uae00",
         [
           "/wiki/Korean_alphabet"
         ]
       ],
       [
-        [
-          "Alphabet",
-          "featural"
-        ],
+        "Alphabet , featural",
         [
           "/wiki/Alphabet",
           "/wiki/Featural_alphabet"
         ]
       ],
       [
-        [
-          "24"
-        ],
-        [
-          null
-        ]
+        "24",
+        []
       ],
       [
-        [
-          "78.7"
-        ],
-        [
-          null
-        ]
+        "78.7",
+        []
       ],
       [
-        [
-          "Korean",
-          "Cia-Cia",
-          "Jeju"
-        ],
+        "Korean , Cia-Cia , Jeju",
         [
           "/wiki/Korean_language",
           "/wiki/Cia-Cia_language",
@@ -840,13 +498,7 @@
         ]
       ],
       [
-        [
-          "North Korea",
-          "South Korea",
-          "Yanbian Korean Autonomous Prefecture",
-          "Indonesia",
-          "Baubau"
-        ],
+        "North Korea , South Korea , and Yanbian Korean Autonomous Prefecture of China , Indonesia ( Baubau )",
         [
           "/wiki/North_Korea",
           "/wiki/South_Korea",
@@ -858,43 +510,27 @@
     ],
     [
       [
-        [
-          "Telugu"
-        ],
+        "Telugu \u0c24\u0c46\u0c32\u0c41\u0c17\u0c41",
         [
           "/wiki/Telugu_script"
         ]
       ],
       [
-        [
-          "Abugida"
-        ],
+        "Abugida",
         [
           "/wiki/Abugida"
         ]
       ],
       [
-        [
-          "60"
-        ],
-        [
-          null
-        ]
+        "60",
+        []
       ],
       [
-        [
-          "74"
-        ],
-        [
-          null
-        ]
+        "74",
+        []
       ],
       [
-        [
-          "Telugu",
-          "Sanskrit",
-          "Gondi"
-        ],
+        "Telugu , Sanskrit , Gondi",
         [
           "/wiki/Telugu_language",
           "/wiki/Sanskrit",
@@ -902,11 +538,7 @@
         ]
       ],
       [
-        [
-          "Andhra Pradesh",
-          "Telangana",
-          "Puducherry"
-        ],
+        "Andhra Pradesh , Telangana , Puducherry ( India )",
         [
           "/wiki/Andhra_Pradesh",
           "/wiki/Telangana",
@@ -916,45 +548,27 @@
     ],
     [
       [
-        [
-          "Tamil"
-        ],
+        "Tamil \u0ba4\u0bae\u0bbf\u0bb4\u0bcd",
         [
           "/wiki/Tamil_script"
         ]
       ],
       [
-        [
-          "Abugida"
-        ],
+        "Abugida",
         [
           "/wiki/Abugida"
         ]
       ],
       [
-        [
-          "30"
-        ],
-        [
-          null
-        ]
+        "30",
+        []
       ],
       [
-        [
-          "70"
-        ],
-        [
-          null
-        ]
+        "70",
+        []
       ],
       [
-        [
-          "Tamil",
-          "Kanikkaran",
-          "Badaga",
-          "Irula",
-          "Paniya"
-        ],
+        "Tamil , Kanikkaran , Badaga , Irula , Paniya",
         [
           "/wiki/Tamil_language",
           "/wiki/Kanikkaran_language",
@@ -964,14 +578,7 @@
         ]
       ],
       [
-        [
-          "Tamil Nadu",
-          "Puducherry",
-          "Sri Lanka",
-          "Singapore",
-          "Malaysia",
-          "Mauritius"
-        ],
+        "Tamil Nadu ( India ) , Puducherry ( India ) , Sri Lanka , Singapore , Malaysia , Mauritius",
         [
           "/wiki/Tamil_Nadu",
           "/wiki/Puducherry",
@@ -984,51 +591,27 @@
     ],
     [
       [
-        [
-          "Gujarati"
-        ],
+        "Gujarati \u0a97\u0ac1\u0a9c\u0ab0\u0abe\u0aa4\u0ac0",
         [
           "/wiki/Gujarati_script"
         ]
       ],
       [
-        [
-          "Abugida"
-        ],
+        "Abugida",
         [
           "/wiki/Abugida"
         ]
       ],
       [
-        [
-          "47"
-        ],
-        [
-          null
-        ]
+        "47",
+        []
       ],
       [
-        [
-          "48"
-        ],
-        [
-          null
-        ]
+        "48",
+        []
       ],
       [
-        [
-          "Gujarati",
-          "Kutchi",
-          "Avestan",
-          "Bhili",
-          "Bhilori",
-          "Gamit",
-          "Chowdhary",
-          "Kukna",
-          "Bhili",
-          "Varli",
-          "Vasavi"
-        ],
+        "Gujarati , Kutchi , Avestan , Bhili , Bhilori , Gamit , Chowdhary , Kukna , Bhili , Varli , Vasavi",
         [
           "/wiki/Gujarati_language",
           "/wiki/Kutchi_language",
@@ -1044,10 +627,7 @@
         ]
       ],
       [
-        [
-          "India",
-          "Pakistan"
-        ],
+        "India , Pakistan",
         [
           "/wiki/India",
           "/wiki/Pakistan"
@@ -1056,48 +636,27 @@
     ],
     [
       [
-        [
-          "Kannada"
-        ],
+        "Kannada \u0c95\u0ca8\u0ccd\u0ca8\u0ca1",
         [
           "/wiki/Kannada_script"
         ]
       ],
       [
-        [
-          "Abugida"
-        ],
+        "Abugida",
         [
           "/wiki/Abugida"
         ]
       ],
       [
-        [
-          "51 ( or 50 or 49 )"
-        ],
-        [
-          null
-        ]
+        "51 ( or 50 or 49 )",
+        []
       ],
       [
-        [
-          "45"
-        ],
-        [
-          null
-        ]
+        "45",
+        []
       ],
       [
-        [
-          "Kannada",
-          "Tulu",
-          "Kodava",
-          "Badaga",
-          "Beary",
-          "Sanketi",
-          "Konkani",
-          "Sanskrit"
-        ],
+        "Kannada , Tulu , Kodava , Badaga , Beary , Sanketi , Konkani , Sanskrit",
         [
           "/wiki/Kannada",
           "/wiki/Tulu_language",
@@ -1110,9 +669,7 @@
         ]
       ],
       [
-        [
-          "Karnataka"
-        ],
+        "Karnataka ( India )",
         [
           "/wiki/Karnataka"
         ]
@@ -1120,43 +677,27 @@
     ],
     [
       [
-        [
-          "Burmese"
-        ],
+        "Burmese \u1019\u103c\u1014\u103a\u1019\u102c",
         [
           "/wiki/Burmese_script"
         ]
       ],
       [
-        [
-          "Abugida"
-        ],
+        "Abugida",
         [
           "/wiki/Abugida"
         ]
       ],
       [
-        [
-          "26"
-        ],
-        [
-          null
-        ]
+        "26",
+        []
       ],
       [
-        [
-          "39"
-        ],
-        [
-          null
-        ]
+        "39",
+        []
       ],
       [
-        [
-          "Burmese",
-          "Pali",
-          "Sanskrit"
-        ],
+        "Burmese , Pali , Sanskrit",
         [
           "/wiki/Burmese_language",
           "/wiki/Pali",
@@ -1164,9 +705,7 @@
         ]
       ],
       [
-        [
-          "Myanmar"
-        ],
+        "Myanmar",
         [
           "/wiki/Myanmar"
         ]
@@ -1174,45 +713,27 @@
     ],
     [
       [
-        [
-          "Malayalam"
-        ],
+        "Malayalam \u0d2e\u0d32\u0d2f\u0d3e\u0d33\u0d02",
         [
           "/wiki/Malayalam_script"
         ]
       ],
       [
-        [
-          "Abugida"
-        ],
+        "Abugida",
         [
           "/wiki/Abugida"
         ]
       ],
       [
-        [
-          "51"
-        ],
-        [
-          null
-        ]
+        "51",
+        []
       ],
       [
-        [
-          "38"
-        ],
-        [
-          null
-        ]
+        "38",
+        []
       ],
       [
-        [
-          "Malayalam",
-          "Sanskrit",
-          "Paniya",
-          "Betta Kurumba",
-          "Ravula"
-        ],
+        "Malayalam , Sanskrit , Paniya , Betta Kurumba , Ravula",
         [
           "/wiki/Malayalam",
           "/wiki/Sanskrit",
@@ -1222,10 +743,7 @@
         ]
       ],
       [
-        [
-          "Kerala",
-          "Puducherry"
-        ],
+        "Kerala , Puducherry ( India )",
         [
           "/wiki/Kerala",
           "/wiki/Puducherry"
@@ -1234,48 +752,27 @@
     ],
     [
       [
-        [
-          "Thai"
-        ],
+        "Thai \u0e44\u0e17\u0e22",
         [
           "/wiki/Thai_script"
         ]
       ],
       [
-        [
-          "Abugida"
-        ],
+        "Abugida",
         [
           "/wiki/Abugida"
         ]
       ],
       [
-        [
-          "68"
-        ],
-        [
-          null
-        ]
+        "68",
+        []
       ],
       [
-        [
-          "38"
-        ],
-        [
-          null
-        ]
+        "38",
+        []
       ],
       [
-        [
-          "Thai",
-          "Northern Thai",
-          "Southern Thai",
-          "Northern Khmer",
-          "Isan",
-          "Kelantan-Pattani Malay",
-          "Pali",
-          "Sanskrit"
-        ],
+        "Thai , Northern Thai , Southern Thai , Northern Khmer , and Isan , Kelantan-Pattani Malay , Pali , Sanskrit , others",
         [
           "/wiki/Thai_language",
           "/wiki/Northern_Thai_language",
@@ -1288,9 +785,7 @@
         ]
       ],
       [
-        [
-          "Thailand"
-        ],
+        "Thailand",
         [
           "/wiki/Thailand"
         ]
@@ -1298,43 +793,27 @@
     ],
     [
       [
-        [
-          "Sundanese"
-        ],
+        "Sundanese \u1b9e\u1ba5\u1b94\u1baa\u1b93",
         [
           "/wiki/Sundanese_alphabet"
         ]
       ],
       [
-        [
-          "Abugida"
-        ],
+        "Abugida",
         [
           "/wiki/Abugida"
         ]
       ],
       [
-        [
-          "44"
-        ],
-        [
-          null
-        ]
+        "44",
+        []
       ],
       [
-        [
-          "38"
-        ],
-        [
-          null
-        ]
+        "38",
+        []
       ],
       [
-        [
-          "Sundanese",
-          "Bantenese",
-          "Baduy"
-        ],
+        "Sundanese , Bantenese , Baduy",
         [
           "/wiki/Sundanese_language",
           "/wiki/Bantenese_language",
@@ -1342,11 +821,7 @@
         ]
       ],
       [
-        [
-          "West Java",
-          "Banten",
-          "Indonesia"
-        ],
+        "West Java and Banten ( Indonesia )",
         [
           "/wiki/West_Java",
           "/wiki/Banten",
@@ -1356,53 +831,35 @@
     ],
     [
       [
-        [
-          "Zhuyin Fuhao ( a.k.a . Bopomofo )"
-        ],
+        "Zhuyin Fuhao ( a.k.a . Bopomofo ) \u3105\u3106\u3107\u3108 \u3113\u3128\u3127\u3123 \u3108\u3128\u02ca\u310f\u3120\u02cb",
         [
           "/wiki/Bopomofo"
         ]
       ],
       [
-        [
-          "Alphabet",
-          "Semisyllabary"
-        ],
+        "Alphabet , Semisyllabary",
         [
           "/wiki/Alphabet",
           "/wiki/Semisyllabary"
         ]
       ],
       [
-        [
-          "37 ( plus four tone marks )"
-        ],
-        [
-          null
-        ]
+        "37 ( plus four tone marks )",
+        []
       ],
       [
-        [
-          "23"
-        ],
-        [
-          null
-        ]
+        "23",
+        []
       ],
       [
-        [
-          "Taiwan",
-          "Mandarin Chinese"
-        ],
+        "A phonetic transcription system used in Taiwan for Mandarin Chinese , studied mainly by schoolchildren",
         [
           "/wiki/Taiwan",
           "/wiki/Mandarin_Chinese"
         ]
       ],
       [
-        [
-          "Taiwan"
-        ],
+        "Taiwan",
         [
           "/wiki/Taiwan"
         ]
@@ -1410,44 +867,27 @@
     ],
     [
       [
-        [
-          "Gurmukhi"
-        ],
+        "Gurmukhi \u0a17\u0a41\u0a30\u0a2e\u0a41\u0a16\u0a40",
         [
           "/wiki/Gurmukhi"
         ]
       ],
       [
-        [
-          "Abugida"
-        ],
+        "Abugida",
         [
           "/wiki/Abugida"
         ]
       ],
       [
-        [
-          "35"
-        ],
-        [
-          null
-        ]
+        "35",
+        []
       ],
       [
-        [
-          "22"
-        ],
-        [
-          null
-        ]
+        "22",
+        []
       ],
       [
-        [
-          "Sanskrit",
-          "Punjabi",
-          "Sant Bhasha",
-          "Sindhi"
-        ],
+        "Sanskrit , Punjabi , Sant Bhasha , Sindhi",
         [
           "/wiki/Sanskrit",
           "/wiki/Punjabi_language",
@@ -1456,9 +896,7 @@
         ]
       ],
       [
-        [
-          "Punjab"
-        ],
+        "Punjab ( India )",
         [
           "/wiki/Punjab,_India"
         ]
@@ -1466,49 +904,33 @@
     ],
     [
       [
-        [
-          "Odia"
-        ],
+        "Odia \u0b09\u0b24\u0b4d\u0b15\u0b33",
         [
           "/wiki/Oriya_alphabet"
         ]
       ],
       [
-        [
-          "Abugida"
-        ],
+        "Abugida",
         [
           "/wiki/Abugida"
         ]
       ],
       [
-        [
-          "64"
-        ],
-        [
-          null
-        ]
+        "64",
+        []
       ],
       [
-        [
-          "21"
-        ],
-        [
-          null
-        ]
+        "21",
+        []
       ],
       [
-        [
-          "Odia"
-        ],
+        "Odia , others",
         [
           "/wiki/Odia_language"
         ]
       ],
       [
-        [
-          "Odisha"
-        ],
+        "Odisha ( India )",
         [
           "/wiki/Odisha"
         ]

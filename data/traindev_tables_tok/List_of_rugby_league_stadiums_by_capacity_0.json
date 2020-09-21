@@ -3,84 +3,60 @@
   "title": "List of rugby league stadiums by capacity",
   "header": [
     [
-      [
-        "No"
-      ],
-      [
-        null
-      ]
+      "No",
+      []
     ],
     [
-      [
-        "Stadium"
-      ],
-      [
-        null
-      ]
+      "Stadium",
+      []
     ],
     [
-      [
-        "Capacity"
-      ],
-      [
-        null
-      ]
+      "Capacity",
+      []
     ],
     [
-      [
-        "City/Town"
-      ],
-      [
-        null
-      ]
+      "City/Town",
+      []
     ],
     [
-      [
-        "Home team ( s ) /Event hosted"
-      ],
-      [
-        null
-      ]
+      "Country",
+      []
+    ],
+    [
+      "Home team ( s ) /Event hosted",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "Melbourne Cricket Ground"
-        ],
+        "Melbourne Cricket Ground",
         [
           "/wiki/Melbourne_Cricket_Ground"
         ]
       ],
       [
-        [
-          "100,024"
-        ],
-        [
-          null
-        ]
+        "100,024",
+        []
       ],
       [
-        [
-          "Melbourne"
-        ],
+        "Melbourne",
         [
           "/wiki/Melbourne"
         ]
       ],
       [
+        "Australia",
         [
-          "State of Origin"
-        ],
+          "/wiki/Australia"
+        ]
+      ],
+      [
+        "Some State of Origin matches",
         [
           "/wiki/State_of_Origin_series"
         ]
@@ -88,42 +64,33 @@
     ],
     [
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "Wembley Stadium"
-        ],
+        "Wembley Stadium",
         [
           "/wiki/Wembley_Stadium"
         ]
       ],
       [
-        [
-          "90,000"
-        ],
-        [
-          null
-        ]
+        "90,000",
+        []
       ],
       [
-        [
-          "London"
-        ],
+        "London",
         [
           "/wiki/London"
         ]
       ],
       [
+        "England",
         [
-          "Challenge Cup Final",
-          "England national team"
-        ],
+          "/wiki/England"
+        ]
+      ],
+      [
+        "Challenge Cup Final , some England national team matches",
         [
           "/wiki/Challenge_Cup_Final",
           "/wiki/England_national_rugby_league_team"
@@ -132,46 +99,31 @@
     ],
     [
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "Stadium Australia"
-        ],
+        "Stadium Australia",
         [
           "/wiki/Stadium_Australia"
         ]
       ],
       [
-        [
-          "83,500"
-        ],
-        [
-          null
-        ]
+        "83,500",
+        []
       ],
       [
-        [
-          "Sydney"
-        ],
+        "Sydney",
         [
           "/wiki/Sydney"
         ]
       ],
       [
-        [
-          "NRL Grand Final",
-          "New South Wales Blues",
-          "Canterbury Bulldogs",
-          "South Sydney Rabbitohs",
-          "Parramatta Eels",
-          "Wests Tigers"
-        ],
+        "Australia",
+        []
+      ],
+      [
+        "NRL Grand Final , New South Wales Blues , Canterbury Bulldogs , South Sydney Rabbitohs , some Parramatta Eels and Wests Tigers games",
         [
           "/wiki/NRL_Grand_Final",
           "/wiki/New_South_Wales_rugby_league_team",
@@ -184,83 +136,63 @@
     ],
     [
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "Sports Authority Field at Mile High"
-        ],
+        "Sports Authority Field at Mile High",
         [
           "/wiki/Sports_Authority_Field_at_Mile_High"
         ]
       ],
       [
-        [
-          "76,125"
-        ],
-        [
-          null
-        ]
+        "76,125",
+        []
       ],
       [
-        [
-          "Denver"
-        ],
+        "Denver",
         [
           "/wiki/Denver"
         ]
       ],
       [
+        "United States",
         [
-          "Rugby League Challenge"
-        ],
-        [
-          null
+          "/wiki/United_States"
         ]
+      ],
+      [
+        "Rugby League Challenge",
+        []
       ]
     ],
     [
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "Old Trafford"
-        ],
+        "Old Trafford",
         [
           "/wiki/Old_Trafford"
         ]
       ],
       [
-        [
-          "74,994"
-        ],
-        [
-          null
-        ]
+        "74,994",
+        []
       ],
       [
-        [
-          "Manchester"
-        ],
+        "Manchester",
         [
           "/wiki/Manchester"
         ]
       ],
       [
-        [
-          "Super League Grand Final"
-        ],
+        "England",
+        []
+      ],
+      [
+        "Super League Grand Final",
         [
           "/wiki/Super_League_Grand_Final"
         ]
@@ -268,43 +200,33 @@
     ],
     [
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "Millennium Stadium"
-        ],
+        "Millennium Stadium",
         [
           "/wiki/Millennium_Stadium"
         ]
       ],
       [
-        [
-          "74,500"
-        ],
-        [
-          null
-        ]
+        "74,500",
+        []
       ],
       [
-        [
-          "Cardiff"
-        ],
+        "Cardiff",
         [
           "/wiki/Cardiff"
         ]
       ],
       [
+        "Wales",
         [
-          "Super League",
-          "Magic Weekend",
-          "Wales national team"
-        ],
+          "/wiki/Wales"
+        ]
+      ],
+      [
+        "Super League Magic Weekend ( 2007-08 , 2011 ) , some Wales national team matches",
         [
           "/wiki/Super_League",
           "/wiki/Magic_Weekend",
@@ -314,42 +236,33 @@
     ],
     [
       [
-        [
-          "7"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ],
       [
-        [
-          "Murrayfield Stadium"
-        ],
+        "Murrayfield Stadium",
         [
           "/wiki/Murrayfield_Stadium"
         ]
       ],
       [
-        [
-          "67,144"
-        ],
-        [
-          null
-        ]
+        "67,144",
+        []
       ],
       [
-        [
-          "Edinburgh"
-        ],
+        "Edinburgh",
         [
           "/wiki/Edinburgh"
         ]
       ],
       [
+        "Scotland",
         [
-          "Super League",
-          "Magic Weekend"
-        ],
+          "/wiki/Scotland"
+        ]
+      ],
+      [
+        "Super League Magic Weekend ( 2009-10 )",
         [
           "/wiki/Super_League",
           "/wiki/Magic_Weekend"
@@ -358,41 +271,31 @@
     ],
     [
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "London Stadium"
-        ],
+        "London Stadium",
         [
           "/wiki/London_Stadium"
         ]
       ],
       [
-        [
-          "66,000"
-        ],
-        [
-          null
-        ]
+        "66,000",
+        []
       ],
       [
-        [
-          "London"
-        ],
+        "London",
         [
           "/wiki/London"
         ]
       ],
       [
-        [
-          "England national team"
-        ],
+        "England",
+        []
+      ],
+      [
+        "Some England national team matches",
         [
           "/wiki/England_national_rugby_league_team"
         ]
@@ -400,41 +303,31 @@
     ],
     [
       [
-        [
-          "9"
-        ],
-        [
-          null
-        ]
+        "9",
+        []
       ],
       [
-        [
-          "Perth Stadium"
-        ],
+        "Perth Stadium",
         [
           "/wiki/Perth_Stadium"
         ]
       ],
       [
-        [
-          "65,000"
-        ],
-        [
-          null
-        ]
+        "65,000",
+        []
       ],
       [
-        [
-          "Perth"
-        ],
+        "Perth",
         [
           "/wiki/Perth"
         ]
       ],
       [
-        [
-          "NRL"
-        ],
+        "Australia",
+        []
+      ],
+      [
+        "Some NRL games",
         [
           "/wiki/National_Rugby_League"
         ]
@@ -442,41 +335,31 @@
     ],
     [
       [
-        [
-          "10"
-        ],
-        [
-          null
-        ]
+        "10",
+        []
       ],
       [
-        [
-          "Docklands Stadium"
-        ],
+        "Docklands Stadium",
         [
           "/wiki/Docklands_Stadium"
         ]
       ],
       [
-        [
-          "56,347"
-        ],
-        [
-          null
-        ]
+        "56,347",
+        []
       ],
       [
-        [
-          "Melbourne"
-        ],
+        "Melbourne",
         [
           "/wiki/Melbourne"
         ]
       ],
       [
-        [
-          "State of Origin"
-        ],
+        "Australia",
+        []
+      ],
+      [
+        "Some State of Origin matches",
         [
           "/wiki/State_of_Origin_series"
         ]
@@ -484,41 +367,33 @@
     ],
     [
       [
-        [
-          "11"
-        ],
-        [
-          null
-        ]
+        "11",
+        []
       ],
       [
-        [
-          "Estadi Ol\u00edmpic Llu\u00eds Companys"
-        ],
+        "Estadi Ol\u00edmpic Llu\u00eds Companys",
         [
           "/wiki/Estadi_Ol\u00edmpic_Llu\u00eds_Companys"
         ]
       ],
       [
-        [
-          "55,926"
-        ],
-        [
-          null
-        ]
+        "55,926",
+        []
       ],
       [
-        [
-          "Barcelona"
-        ],
+        "Barcelona",
         [
           "/wiki/Barcelona"
         ]
       ],
       [
+        "Spain",
         [
-          "Catalonia national team"
-        ],
+          "/wiki/Spain"
+        ]
+      ],
+      [
+        "Some Catalonia national team matches",
         [
           "/wiki/Catalonia_national_rugby_league_team"
         ]
@@ -526,42 +401,31 @@
     ],
     [
       [
-        [
-          "12"
-        ],
-        [
-          null
-        ]
+        "12",
+        []
       ],
       [
-        [
-          "City of Manchester Stadium"
-        ],
+        "City of Manchester Stadium",
         [
           "/wiki/City_of_Manchester_Stadium"
         ]
       ],
       [
-        [
-          "55,097"
-        ],
-        [
-          null
-        ]
+        "55,097",
+        []
       ],
       [
-        [
-          "Manchester"
-        ],
+        "Manchester",
         [
           "/wiki/Manchester"
         ]
       ],
       [
-        [
-          "Super League",
-          "Magic Weekend"
-        ],
+        "England",
+        []
+      ],
+      [
+        "Super League Magic Weekend ( 2012-14 )",
         [
           "/wiki/Super_League",
           "/wiki/Magic_Weekend"
@@ -570,41 +434,31 @@
     ],
     [
       [
-        [
-          "13"
-        ],
-        [
-          null
-        ]
+        "13",
+        []
       ],
       [
-        [
-          "Anfield"
-        ],
+        "Anfield",
         [
           "/wiki/Anfield"
         ]
       ],
       [
-        [
-          "54,074"
-        ],
-        [
-          null
-        ]
+        "54,074",
+        []
       ],
       [
-        [
-          "Liverpool"
-        ],
+        "Liverpool",
         [
           "/wiki/Liverpool"
         ]
       ],
       [
-        [
-          "England national team"
-        ],
+        "England",
+        []
+      ],
+      [
+        "Some England national team matches",
         [
           "/wiki/England_national_rugby_league_team"
         ]
@@ -612,41 +466,31 @@
     ],
     [
       [
-        [
-          "14"
-        ],
-        [
-          null
-        ]
+        "14",
+        []
       ],
       [
-        [
-          "Adelaide Oval"
-        ],
+        "Adelaide Oval",
         [
           "/wiki/Adelaide_Oval"
         ]
       ],
       [
-        [
-          "53,583"
-        ],
-        [
-          null
-        ]
+        "53,583",
+        []
       ],
       [
-        [
-          "Adelaide"
-        ],
+        "Adelaide",
         [
           "/wiki/Adelaide"
         ]
       ],
       [
-        [
-          "Sydney Roosters"
-        ],
+        "Australia",
+        []
+      ],
+      [
+        "Some Sydney Roosters games",
         [
           "/wiki/Sydney_Roosters"
         ]
@@ -654,43 +498,31 @@
     ],
     [
       [
-        [
-          "15"
-        ],
-        [
-          null
-        ]
+        "15",
+        []
       ],
       [
-        [
-          "Lang Park"
-        ],
+        "Lang Park",
         [
           "/wiki/Lang_Park"
         ]
       ],
       [
-        [
-          "52,500"
-        ],
-        [
-          null
-        ]
+        "52,500",
+        []
       ],
       [
-        [
-          "Brisbane"
-        ],
+        "Brisbane",
         [
           "/wiki/Brisbane"
         ]
       ],
       [
-        [
-          "Brisbane Broncos",
-          "Queensland Maroons",
-          "Australia national team"
-        ],
+        "Australia",
+        []
+      ],
+      [
+        "Brisbane Broncos , Queensland Maroons , Australia national team",
         [
           "/wiki/Brisbane_Broncos",
           "/wiki/Queensland_Maroons",
@@ -700,42 +532,31 @@
     ],
     [
       [
-        [
-          "16"
-        ],
-        [
-          null
-        ]
+        "16",
+        []
       ],
       [
-        [
-          "St James ' Park"
-        ],
+        "St James ' Park",
         [
           "/wiki/St_James'_Park"
         ]
       ],
       [
-        [
-          "52,354"
-        ],
-        [
-          null
-        ]
+        "52,354",
+        []
       ],
       [
-        [
-          "Newcastle upon Tyne"
-        ],
+        "Newcastle upon Tyne",
         [
           "/wiki/Newcastle_upon_Tyne"
         ]
       ],
       [
-        [
-          "Super League",
-          "Magic Weekend"
-        ],
+        "England",
+        []
+      ],
+      [
+        "Super League Magic Weekend ( 2015-present )",
         [
           "/wiki/Super_League",
           "/wiki/Magic_Weekend"
@@ -744,86 +565,63 @@
     ],
     [
       [
-        [
-          "17"
-        ],
-        [
-          null
-        ]
+        "17",
+        []
       ],
       [
-        [
-          "Aloha Stadium"
-        ],
+        "Aloha Stadium",
         [
           "/wiki/Aloha_Stadium"
         ]
       ],
       [
-        [
-          "50,000"
-        ],
-        [
-          null
-        ]
+        "50,000",
+        []
       ],
       [
-        [
-          "Halawa"
-        ],
+        "Halawa",
         [
           "/wiki/Halawa,_Hawaii"
         ]
       ],
       [
-        [
-          "Ohana Cup"
-        ],
-        [
-          null
-        ]
+        "United States",
+        []
+      ],
+      [
+        "Ohana Cup",
+        []
       ]
     ],
     [
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Eden Park"
-        ],
+        "Eden Park",
         [
           "/wiki/Eden_Park"
         ]
       ],
       [
-        [
-          "50,000"
-        ],
-        [
-          null
-        ]
+        "50,000",
+        []
       ],
       [
-        [
-          "Auckland"
-        ],
+        "Auckland",
         [
           "/wiki/Auckland"
         ]
       ],
       [
+        "New Zealand",
         [
-          "NRL Nines",
-          "New Zealand Warriors",
-          "New Zealand national team",
-          "New Zealand national women 's team 9s"
-        ],
+          "/wiki/New_Zealand"
+        ]
+      ],
+      [
+        "NRL Nines ( 2014-17 ) , some New Zealand Warriors games , some New Zealand national team and New Zealand national women 's team 9s matches",
         [
           "/wiki/NRL_Auckland_Nines",
           "/wiki/New_Zealand_Warriors",
@@ -834,41 +632,31 @@
     ],
     [
       [
-        [
-          "19"
-        ],
-        [
-          null
-        ]
+        "19",
+        []
       ],
       [
-        [
-          "Sydney Cricket Ground"
-        ],
+        "Sydney Cricket Ground",
         [
           "/wiki/Sydney_Cricket_Ground"
         ]
       ],
       [
-        [
-          "48,000"
-        ],
-        [
-          null
-        ]
+        "48,000",
+        []
       ],
       [
-        [
-          "Sydney"
-        ],
+        "Sydney",
         [
           "/wiki/Sydney"
         ]
       ],
       [
-        [
-          "NRL"
-        ],
+        "Australia",
+        []
+      ],
+      [
+        "Some NRL games",
         [
           "/wiki/National_Rugby_League"
         ]
@@ -876,43 +664,31 @@
     ],
     [
       [
-        [
-          "20"
-        ],
-        [
-          null
-        ]
+        "20",
+        []
       ],
       [
-        [
-          "Sydney Football Stadium"
-        ],
+        "Sydney Football Stadium",
         [
           "/wiki/Sydney_Football_Stadium"
         ]
       ],
       [
-        [
-          "45,500"
-        ],
-        [
-          null
-        ]
+        "45,500",
+        []
       ],
       [
-        [
-          "Sydney"
-        ],
+        "Sydney",
         [
           "/wiki/Sydney"
         ]
       ],
       [
-        [
-          "Sydney Roosters",
-          "Wests Tigers",
-          "Australia national team"
-        ],
+        "Australia",
+        []
+      ],
+      [
+        "Sydney Roosters , some Wests Tigers and Australia national team matches",
         [
           "/wiki/Sydney_Roosters",
           "/wiki/Wests_Tigers",

@@ -3,41 +3,25 @@
   "title": "List of airports in Greater Sydney",
   "header": [
     [
-      [
-        "Community"
-      ],
-      [
-        null
-      ]
+      "Community",
+      []
     ],
     [
-      [
-        "Airport name"
-      ],
-      [
-        null
-      ]
+      "Airport name",
+      []
     ],
     [
-      [
-        "Type"
-      ],
-      [
-        null
-      ]
+      "Type",
+      []
     ],
     [
-      [
-        "ICAO"
-      ],
+      "ICAO",
       [
         "/wiki/International_Civil_Aviation_Organization_airport_code"
       ]
     ],
     [
-      [
-        "IATA"
-      ],
+      "IATA",
       [
         "/wiki/International_Air_Transport_Association_airport_code"
       ]
@@ -46,422 +30,262 @@
   "data": [
     [
       [
-        [
-          "Bankstown"
-        ],
+        "Bankstown",
         [
           "/wiki/Bankstown"
         ]
       ],
       [
-        [
-          "Bankstown Airport"
-        ],
+        "Bankstown Airport ( General Aviation & freight )",
         [
           "/wiki/Bankstown_Airport"
         ]
       ],
       [
-        [
-          "Public"
-        ],
-        [
-          null
-        ]
+        "Public",
+        []
       ],
       [
-        [
-          "YSBK"
-        ],
-        [
-          null
-        ]
+        "YSBK",
+        []
       ],
       [
-        [
-          "BWU"
-        ],
-        [
-          null
-        ]
+        "BWU",
+        []
       ]
     ],
     [
       [
-        [
-          "Camden"
-        ],
+        "Camden",
         [
           "/wiki/Camden,_New_South_Wales"
         ]
       ],
       [
-        [
-          "Camden Airport"
-        ],
+        "Camden Airport ( General Aviation )",
         [
           "/wiki/Camden_Airport_(Sydney)"
         ]
       ],
       [
-        [
-          "Public"
-        ],
-        [
-          null
-        ]
+        "Public",
+        []
       ],
       [
-        [
-          "YSCN"
-        ],
-        [
-          null
-        ]
+        "YSCN",
+        []
       ],
       [
-        [
-          "CDU"
-        ],
-        [
-          null
-        ]
+        "CDU",
+        []
       ]
     ],
     [
       [
-        [
-          "Holsworthy"
-        ],
+        "Holsworthy",
         [
           "/wiki/Holsworthy,_New_South_Wales"
         ]
       ],
       [
-        [
-          "Holsworthy Barracks"
-        ],
+        "Holsworthy Barracks",
         [
           "/wiki/Holsworthy_Barracks"
         ]
       ],
       [
-        [
-          "Military"
-        ],
-        [
-          null
-        ]
+        "Military",
+        []
       ],
       [
-        [
-          "YSHW"
-        ],
-        [
-          null
-        ]
+        "YSHW",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Mascot"
-        ],
+        "Mascot",
         [
           "/wiki/Mascot,_New_South_Wales"
         ]
       ],
       [
-        [
-          "Sydney Airport"
-        ],
+        "Sydney Airport ( International & Domestic RPT )",
         [
           "/wiki/Sydney_Airport"
         ]
       ],
       [
-        [
-          "Public"
-        ],
-        [
-          null
-        ]
+        "Public",
+        []
       ],
       [
-        [
-          "YSSY"
-        ],
-        [
-          null
-        ]
+        "YSSY",
+        []
       ],
       [
-        [
-          "SYD"
-        ],
-        [
-          null
-        ]
+        "SYD",
+        []
       ]
     ],
     [
       [
-        [
-          "Palm Beach"
-        ],
+        "Palm Beach",
         [
           "/wiki/Palm_Beach,_New_South_Wales"
         ]
       ],
       [
-        [
-          "Palm Beach Water Airport"
-        ],
+        "Palm Beach Water Airport",
         [
           "/wiki/Palm_Beach_Water_Airport"
         ]
       ],
       [
-        [
-          "Public"
-        ],
-        [
-          null
-        ]
+        "Public",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "LBH"
-        ],
-        [
-          null
-        ]
+        "LBH",
+        []
       ]
     ],
     [
       [
-        [
-          "Rose Bay"
-        ],
+        "Rose Bay",
         [
           "/wiki/Rose_Bay,_New_South_Wales"
         ]
       ],
       [
-        [
-          "Rose Bay Water Airport"
-        ],
+        "Rose Bay Water Airport",
         [
           "/wiki/Rose_Bay_Water_Airport"
         ]
       ],
       [
-        [
-          "Public"
-        ],
-        [
-          null
-        ]
+        "Public",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "RSE"
-        ],
-        [
-          null
-        ]
+        "RSE",
+        []
       ]
     ],
     [
       [
-        [
-          "Richmond"
-        ],
+        "Richmond",
         [
           "/wiki/Richmond,_New_South_Wales"
         ]
       ],
       [
-        [
-          "RAAF Base Richmond"
-        ],
+        "RAAF Base Richmond",
         [
           "/wiki/RAAF_Base_Richmond"
         ]
       ],
       [
-        [
-          "Military"
-        ],
-        [
-          null
-        ]
+        "Military",
+        []
       ],
       [
-        [
-          "YSRI"
-        ],
-        [
-          null
-        ]
+        "YSRI",
+        []
       ],
       [
-        [
-          "XRH"
-        ],
-        [
-          null
-        ]
+        "XRH",
+        []
       ]
     ],
     [
       [
-        [
-          "Badgerys Creek"
-        ],
+        "Badgerys Creek",
         [
           "/wiki/Badgerys_Creek,_New_South_Wales"
         ]
       ],
       [
-        [
-          "Western Sydney Airport"
-        ],
+        "Western Sydney Airport",
         [
           "/wiki/Western_Sydney_Airport"
         ]
       ],
       [
-        [
-          "Public ( under construction )"
-        ],
-        [
-          null
-        ]
+        "Public ( under construction )",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "SWZ"
-        ],
-        [
-          null
-        ]
+        "SWZ",
+        []
       ]
     ],
     [
       [
-        [
-          "The Oaks"
-        ],
+        "The Oaks",
         [
           "/wiki/The_Oaks,_New_South_Wales"
         ]
       ],
       [
-        [
-          "The Oaks Airfield"
-        ],
+        "The Oaks Airfield ( Recreational & Ultra-light )",
         [
           "/wiki/The_Oaks_Airfield"
         ]
       ],
       [
-        [
-          "Private"
-        ],
-        [
-          null
-        ]
+        "Private",
+        []
       ],
       [
-        [
-          "YOAS"
-        ],
-        [
-          null
-        ]
+        "YOAS",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Wedderburn"
-        ],
+        "Wedderburn",
         [
           "/wiki/Wedderburn,_New_South_Wales"
         ]
       ],
       [
-        [
-          "Wedderburn Airport"
-        ],
+        "Wedderburn Airport",
         [
           "/wiki/Wedderburn_Airport"
         ]
       ],
       [
-        [
-          "Private"
-        ],
-        [
-          null
-        ]
+        "Private",
+        []
       ],
       [
-        [
-          "YWBN"
-        ],
-        [
-          null
-        ]
+        "YWBN",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ]
   ],

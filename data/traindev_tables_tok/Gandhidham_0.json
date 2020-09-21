@@ -3,807 +3,489 @@
   "title": "Gandhidham",
   "header": [
     [
-      [
-        "Train No"
-      ],
-      [
-        null
-      ]
+      "Train No",
+      []
     ],
     [
-      [
-        "Train Name"
-      ],
-      [
-        null
-      ]
+      "Train Name",
+      []
     ],
     [
-      [
-        "Runs From Source"
-      ],
-      [
-        null
-      ]
+      "Runs From Source",
+      []
     ],
     [
-      [
-        "Destination"
-      ],
-      [
-        null
-      ]
+      "Destination",
+      []
     ],
     [
-      [
-        "Departure Days"
-      ],
-      [
-        null
-      ]
+      "Departure Days",
+      []
     ],
     [
-      [
-        "Arrival Days"
-      ],
-      [
-        null
-      ]
+      "Arrival Days",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "18501-18502"
-        ],
-        [
-          null
-        ]
+        "18501-18502",
+        []
       ],
       [
-        [
-          "Visakhapatnam-Gandhidham Express"
-        ],
+        "Visakhapatnam-Gandhidham Express",
         [
           "/wiki/Visakhapatnam-Gandhidham_Express"
         ]
       ],
       [
-        [
-          "Gandhidham"
-        ],
-        [
-          null
-        ]
+        "Gandhidham",
+        []
       ],
       [
-        [
-          "Visakhapatnam"
-        ],
+        "Visakhapatnam",
         [
           "/wiki/Visakhapatnam"
         ]
       ],
       [
-        [
-          "Friday"
-        ],
-        [
-          null
-        ]
+        "Friday",
+        []
       ],
       [
-        [
-          "Sunday"
-        ],
-        [
-          null
-        ]
+        "Sunday",
+        []
       ]
     ],
     [
       [
-        [
-          "22973-22974"
-        ],
-        [
-          null
-        ]
+        "22973-22974",
+        []
       ],
       [
-        [
-          "Gandhidham-Puri Express ( via Vizianagaram )"
-        ],
+        "Gandhidham-Puri Express ( via Vizianagaram )",
         [
           "/wiki/Gandhidham-Puri_Express_(via_Vizianagaram)"
         ]
       ],
       [
-        [
-          "Gandhidham"
-        ],
-        [
-          null
-        ]
+        "Gandhidham",
+        []
       ],
       [
-        [
-          "Puri"
-        ],
+        "Puri",
         [
           "/wiki/Puri"
         ]
       ],
       [
-        [
-          "Wednesday"
-        ],
-        [
-          null
-        ]
+        "Wednesday",
+        []
       ],
       [
-        [
-          "Friday"
-        ],
-        [
-          null
-        ]
+        "Friday",
+        []
       ]
     ],
     [
       [
-        [
-          "16335-16336"
-        ],
-        [
-          null
-        ]
+        "16335-16336",
+        []
       ],
       [
-        [
-          "Nagercoil Express"
-        ],
-        [
-          null
-        ]
+        "Nagercoil Express",
+        []
       ],
       [
-        [
-          "Gandhidham"
-        ],
-        [
-          null
-        ]
+        "Gandhidham",
+        []
       ],
       [
-        [
-          "Nagercoil"
-        ],
+        "Nagercoil",
         [
           "/wiki/Nagercoil"
         ]
       ],
       [
-        [
-          "Friday"
-        ],
-        [
-          null
-        ]
+        "Friday",
+        []
       ],
       [
-        [
-          "Thursday"
-        ],
-        [
-          null
-        ]
+        "Thursday",
+        []
       ]
     ],
     [
       [
-        [
-          "16505-16506"
-        ],
-        [
-          null
-        ]
+        "16505-16506",
+        []
       ],
       [
-        [
-          "Gimb Sbc Express"
-        ],
-        [
-          null
-        ]
+        "Gimb Sbc Express",
+        []
       ],
       [
-        [
-          "Gandhidham"
-        ],
-        [
-          null
-        ]
+        "Gandhidham",
+        []
       ],
       [
-        [
-          "Bangalore"
-        ],
+        "Bangalore",
         [
           "/wiki/Bangalore"
         ]
       ],
       [
-        [
-          "Tuesday"
-        ],
-        [
-          null
-        ]
+        "Tuesday",
+        []
       ],
       [
-        [
-          "Monday"
-        ],
-        [
-          null
-        ]
+        "Monday",
+        []
       ]
     ],
     [
       [
-        [
-          "11091-11092"
-        ],
-        [
-          null
-        ]
+        "11091-11092",
+        []
       ],
       [
-        [
-          "Ahimsa Express"
-        ],
+        "Ahimsa Express",
         [
           "/wiki/Ahimsa_Express"
         ]
       ],
       [
-        [
-          "Bhuj"
-        ],
+        "Bhuj",
         [
           "/wiki/Bhuj"
         ]
       ],
       [
-        [
-          "Pune"
-        ],
+        "Pune",
         [
           "/wiki/Pune"
         ]
       ],
       [
-        [
-          "Wednesday"
-        ],
-        [
-          null
-        ]
+        "Wednesday",
+        []
       ],
       [
-        [
-          "Tuesday"
-        ],
-        [
-          null
-        ]
+        "Tuesday",
+        []
       ]
     ],
     [
       [
-        [
-          "15667-15668"
-        ],
-        [
-          null
-        ]
+        "15667-15668",
+        []
       ],
       [
-        [
-          "Kamakhya Express"
-        ],
-        [
-          null
-        ]
+        "Kamakhya Express",
+        []
       ],
       [
-        [
-          "Gandhidham"
-        ],
-        [
-          null
-        ]
+        "Gandhidham",
+        []
       ],
       [
-        [
-          "Kamakhya"
-        ],
+        "Kamakhya",
         [
           "/wiki/Kamakhya,_Guwahati"
         ]
       ],
       [
-        [
-          "Saturday"
-        ],
-        [
-          null
-        ]
+        "Saturday",
+        []
       ],
       [
-        [
-          "Saturday"
-        ],
-        [
-          null
-        ]
+        "Saturday",
+        []
       ]
     ],
     [
       [
-        [
-          "Ahmedabad",
-          "Bhildi"
-        ],
+        "14312-14311 Via Ahmedabad & 14322-14321 Via Bhildi",
         [
           "/wiki/Ahmedabad",
           "/wiki/Bhildi"
         ]
       ],
       [
-        [
-          "Ala Hazrat Express"
-        ],
+        "Ala Hazrat Express",
         [
           "/wiki/Ala_Hazrat_Express"
         ]
       ],
       [
-        [
-          "Bhuj"
-        ],
+        "Bhuj",
         [
           "/wiki/Bhuj"
         ]
       ],
       [
-        [
-          "Bareilly"
-        ],
+        "Bareilly",
         [
           "/wiki/Bareilly"
         ]
       ],
       [
-        [
-          "Tuesday , Thursday & Sunday For 14312 . Monday , Wednesday , Friday & Saturday For 14322"
-        ],
-        [
-          null
-        ]
+        "Tuesday , Thursday & Sunday For 14312 . Monday , Wednesday , Friday & Saturday For 14322",
+        []
       ],
       [
-        [
-          "Friday , Saturday , Monday For 14311.Tuesday , Wednesday , Thursday & Sunday For 14321"
-        ],
-        [
-          null
-        ]
+        "Friday , Saturday , Monday For 14311.Tuesday , Wednesday , Thursday & Sunday For 14321",
+        []
       ]
     ],
     [
       [
-        [
-          "22829-22830"
-        ],
-        [
-          null
-        ]
+        "22829-22830",
+        []
       ],
       [
-        [
-          "Bhuj - Shalimar Superfast Express"
-        ],
-        [
-          null
-        ]
+        "Bhuj - Shalimar Superfast Express",
+        []
       ],
       [
-        [
-          "Bhuj"
-        ],
+        "Bhuj",
         [
           "/wiki/Bhuj"
         ]
       ],
       [
-        [
-          "Shalimar"
-        ],
+        "Shalimar",
         [
           "/wiki/Shalimar_Station"
         ]
       ],
       [
-        [
-          "Tuesday"
-        ],
-        [
-          null
-        ]
+        "Tuesday",
+        []
       ],
       [
-        [
-          "Monday"
-        ],
-        [
-          null
-        ]
+        "Monday",
+        []
       ]
     ],
     [
       [
-        [
-          "22904-22903"
-        ],
-        [
-          null
-        ]
+        "22904-22903",
+        []
       ],
       [
-        [
-          "Bandra Terminus Bhuj AC Superfast Express"
-        ],
+        "Bandra Terminus Bhuj AC Superfast Express",
         [
           "/wiki/Bandra_Terminus_Bhuj_AC_Superfast_Express"
         ]
       ],
       [
-        [
-          "Bhuj"
-        ],
+        "Bhuj",
         [
           "/wiki/Bhuj"
         ]
       ],
       [
-        [
-          "Bandra"
-        ],
+        "Bandra",
         [
           "/wiki/Bandra"
         ]
       ],
       [
-        [
-          "Monday , Thursday , Saturday"
-        ],
-        [
-          null
-        ]
+        "Monday , Thursday , Saturday",
+        []
       ],
       [
-        [
-          "Thursday , Saturday , Monday"
-        ],
-        [
-          null
-        ]
+        "Thursday , Saturday , Monday",
+        []
       ]
     ],
     [
       [
-        [
-          "12937-12938"
-        ],
-        [
-          null
-        ]
+        "12937-12938",
+        []
       ],
       [
-        [
-          "Garbha Superfast Express"
-        ],
+        "Garbha Superfast Express",
         [
           "/wiki/Garbha_Superfast_Express"
         ]
       ],
       [
-        [
-          "Gandhidham"
-        ],
-        [
-          null
-        ]
+        "Gandhidham",
+        []
       ],
       [
-        [
-          "Howrah"
-        ],
+        "Howrah",
         [
           "/wiki/Howrah"
         ]
       ],
       [
-        [
-          "Saturday"
-        ],
-        [
-          null
-        ]
+        "Saturday",
+        []
       ],
       [
-        [
-          "Wednesday"
-        ],
-        [
-          null
-        ]
+        "Wednesday",
+        []
       ]
     ],
     [
       [
-        [
-          "12960-12959"
-        ],
-        [
-          null
-        ]
+        "12960-12959",
+        []
       ],
       [
-        [
-          "Bhuj Dadar Superfast Express"
-        ],
+        "Bhuj Dadar Superfast Express",
         [
           "/wiki/Bhuj_Dadar_Superfast_Express"
         ]
       ],
       [
-        [
-          "Bhuj"
-        ],
+        "Bhuj",
         [
           "/wiki/Bhuj"
         ]
       ],
       [
-        [
-          "Dadar"
-        ],
+        "Dadar",
         [
           "/wiki/Dadar"
         ]
       ],
       [
-        [
-          "Monday , Thursday"
-        ],
-        [
-          null
-        ]
+        "Monday , Thursday",
+        []
       ],
       [
-        [
-          "Wednesday , Saturday"
-        ],
-        [
-          null
-        ]
+        "Wednesday , Saturday",
+        []
       ]
     ],
     [
       [
-        [
-          "14802-14801"
-        ],
-        [
-          null
-        ]
+        "14802-14801",
+        []
       ],
       [
-        [
-          "Gandhidham Jodhpur Express"
-        ],
+        "Gandhidham Jodhpur Express",
         [
           "/wiki/Gandhidham_Jodhpur_Express"
         ]
       ],
       [
-        [
-          "Gandhidham"
-        ],
-        [
-          null
-        ]
+        "Gandhidham",
+        []
       ],
       [
-        [
-          "Jodhpur"
-        ],
+        "Jodhpur",
         [
           "/wiki/Jodhpur"
         ]
       ],
       [
-        [
-          "Monday , Wednesday , Saturday"
-        ],
-        [
-          null
-        ]
+        "Monday , Wednesday , Saturday",
+        []
       ],
       [
-        [
-          "Monday , Wednesday , Saturday"
-        ],
-        [
-          null
-        ]
+        "Monday , Wednesday , Saturday",
+        []
       ]
     ],
     [
       [
-        [
-          "22955-22956"
-        ],
-        [
-          null
-        ]
+        "22955-22956",
+        []
       ],
       [
-        [
-          "Kutch Express"
-        ],
+        "Kutch Express",
         [
           "/wiki/Kutch_Express"
         ]
       ],
       [
-        [
-          "Bhuj"
-        ],
+        "Bhuj",
         [
           "/wiki/Bhuj"
         ]
       ],
       [
-        [
-          "Bandra",
-          "Mumbai"
-        ],
+        "Bandra , Mumbai",
         [
           "/wiki/Bandra",
           "/wiki/Mumbai"
         ]
       ],
       [
-        [
-          "Daily"
-        ],
-        [
-          null
-        ]
+        "Daily",
+        []
       ],
       [
-        [
-          "Daily"
-        ],
-        [
-          null
-        ]
+        "Daily",
+        []
       ]
     ],
     [
       [
-        [
-          "12993-12994"
-        ],
-        [
-          null
-        ]
+        "12993-12994",
+        []
       ],
       [
-        [
-          "Puri-Gandhidham Express"
-        ],
+        "Puri-Gandhidham Express",
         [
           "/wiki/Puri-Gandhidham_Express"
         ]
       ],
       [
-        [
-          "Gandhidham"
-        ],
-        [
-          null
-        ]
+        "Gandhidham",
+        []
       ],
       [
-        [
-          "Puri"
-        ],
+        "Puri",
         [
           "/wiki/Puri"
         ]
       ],
       [
-        [
-          "Monday"
-        ],
-        [
-          null
-        ]
+        "Monday",
+        []
       ],
       [
-        [
-          "Wednesday"
-        ],
-        [
-          null
-        ]
+        "Wednesday",
+        []
       ]
     ],
     [
       [
-        [
-          "19116-19115"
-        ],
-        [
-          null
-        ]
+        "19116-19115",
+        []
       ],
       [
-        [
-          "Sayajinagari Express"
-        ],
+        "Sayajinagari Express",
         [
           "/wiki/Sayajinagari_Express"
         ]
       ],
       [
-        [
-          "Bhuj"
-        ],
+        "Bhuj",
         [
           "/wiki/Bhuj"
         ]
       ],
       [
-        [
-          "Bandra"
-        ],
+        "Bandra",
         [
           "/wiki/Bandra"
         ]
       ],
       [
-        [
-          "Daily"
-        ],
-        [
-          null
-        ]
+        "Daily",
+        []
       ],
       [
-        [
-          "Daily"
-        ],
-        [
-          null
-        ]
+        "Daily",
+        []
       ]
     ]
   ],

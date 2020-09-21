@@ -3,843 +3,557 @@
   "title": "List of the busiest airports in South America",
   "header": [
     [
-      [
-        "Rank"
-      ],
-      [
-        null
-      ]
+      "Rank",
+      []
     ],
     [
-      [
-        "Country"
-      ],
-      [
-        null
-      ]
+      "Country",
+      []
     ],
     [
-      [
-        "Airport"
-      ],
-      [
-        null
-      ]
+      "Airport",
+      []
     ],
     [
-      [
-        "City"
-      ],
-      [
-        null
-      ]
+      "City",
+      []
     ],
     [
-      [
-        "Passengers"
-      ],
-      [
-        null
-      ]
+      "Passengers",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "Brazil"
-        ],
+        "Brazil",
         [
           "/wiki/Brazil"
         ]
       ],
       [
-        [
-          "S\u00e3o Paulo-Guarulhos International Airport"
-        ],
+        "S\u00e3o Paulo-Guarulhos International Airport",
         [
           "/wiki/S\u00e3o_Paulo\u2013Guarulhos_International_Airport"
         ]
       ],
       [
-        [
-          "S\u00e3o Paulo"
-        ],
+        "S\u00e3o Paulo",
         [
           "/wiki/S\u00e3o_Paulo"
         ]
       ],
       [
-        [
-          "26,849.185"
-        ],
-        [
-          null
-        ]
+        "26,849.185",
+        []
       ]
     ],
     [
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "Colombia"
-        ],
+        "Colombia",
         [
           "/wiki/Colombia"
         ]
       ],
       [
-        [
-          "El Dorado International Airport"
-        ],
+        "El Dorado International Airport",
         [
           "/wiki/El_Dorado_International_Airport"
         ]
       ],
       [
-        [
-          "Bogot\u00e1"
-        ],
+        "Bogot\u00e1",
         [
           "/wiki/Bogot\u00e1"
         ]
       ],
       [
-        [
-          "18,934.203"
-        ],
-        [
-          null
-        ]
+        "18,934.203",
+        []
       ]
     ],
     [
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "Brazil"
-        ],
+        "Brazil",
         [
           "/wiki/Brazil"
         ]
       ],
       [
-        [
-          "Congonhas-S\u00e3o Paulo Airport"
-        ],
+        "Congonhas-S\u00e3o Paulo Airport",
         [
           "/wiki/Congonhas-S\u00e3o_Paulo_Airport"
         ]
       ],
       [
-        [
-          "S\u00e3o Paulo"
-        ],
+        "S\u00e3o Paulo",
         [
           "/wiki/S\u00e3o_Paulo"
         ]
       ],
       [
-        [
-          "15,499.462"
-        ],
-        [
-          null
-        ]
+        "15,499.462",
+        []
       ]
     ],
     [
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "Brazil"
-        ],
+        "Brazil",
         [
           "/wiki/Brazil"
         ]
       ],
       [
-        [
-          "Bras\u00edlia International Airport"
-        ],
+        "Bras\u00edlia International Airport",
         [
           "/wiki/Bras\u00edlia_International_Airport"
         ]
       ],
       [
-        [
-          "Bras\u00edlia"
-        ],
+        "Bras\u00edlia",
         [
           "/wiki/Bras\u00edlia"
         ]
       ],
       [
-        [
-          "14,347.061"
-        ],
-        [
-          null
-        ]
+        "14,347.061",
+        []
       ]
     ],
     [
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "Brazil"
-        ],
+        "Brazil",
         [
           "/wiki/Brazil"
         ]
       ],
       [
-        [
-          "Rio de Janeiro-Gale\u00e3o International Airport"
-        ],
+        "Rio de Janeiro-Gale\u00e3o International Airport",
         [
           "/wiki/Rio_de_Janeiro\u2013Gale\u00e3o_International_Airport"
         ]
       ],
       [
-        [
-          "Rio de Janeiro"
-        ],
+        "Rio de Janeiro",
         [
           "/wiki/Rio_de_Janeiro"
         ]
       ],
       [
-        [
-          "12,337.944"
-        ],
-        [
-          null
-        ]
+        "12,337.944",
+        []
       ]
     ],
     [
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "Chile"
-        ],
+        "Chile",
         [
           "/wiki/Chile"
         ]
       ],
       [
-        [
-          "Comodoro Arturo Merino Ben\u00edtez International Airport"
-        ],
+        "Comodoro Arturo Merino Ben\u00edtez International Airport",
         [
           "/wiki/Comodoro_Arturo_Merino_Ben\u00edtez_International_Airport"
         ]
       ],
       [
-        [
-          "Santiago"
-        ],
+        "Santiago",
         [
           "/wiki/Santiago,_Chile"
         ]
       ],
       [
-        [
-          "11,064.487"
-        ],
-        [
-          null
-        ]
+        "11,064.487",
+        []
       ]
     ],
     [
       [
-        [
-          "7"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ],
       [
-        [
-          "Peru"
-        ],
+        "Peru",
         [
           "/wiki/Peru"
         ]
       ],
       [
-        [
-          "Jorge Ch\u00e1vez International Airport"
-        ],
+        "Jorge Ch\u00e1vez International Airport",
         [
           "/wiki/Jorge_Ch\u00e1vez_International_Airport"
         ]
       ],
       [
-        [
-          "Lima"
-        ],
+        "Lima",
         [
           "/wiki/Lima"
         ]
       ],
       [
-        [
-          "10,278.493"
-        ],
-        [
-          null
-        ]
+        "10,278.493",
+        []
       ]
     ],
     [
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "Venezuela"
-        ],
+        "Venezuela",
         [
           "/wiki/Venezuela"
         ]
       ],
       [
-        [
-          "Sim\u00f3n Bol\u00edvar International Airport"
-        ],
+        "Sim\u00f3n Bol\u00edvar International Airport",
         [
           "/wiki/Sim\u00f3n_Bol\u00edvar_International_Airport_(Venezuela)"
         ]
       ],
       [
-        [
-          "Maiquet\u00eda"
-        ],
+        "Maiquet\u00eda",
         [
           "/wiki/Maiquet\u00eda"
         ]
       ],
       [
-        [
-          "8,830.688"
-        ],
-        [
-          null
-        ]
+        "8,830.688",
+        []
       ]
     ],
     [
       [
-        [
-          "9"
-        ],
-        [
-          null
-        ]
+        "9",
+        []
       ],
       [
-        [
-          "Argentina"
-        ],
+        "Argentina",
         [
           "/wiki/Argentina"
         ]
       ],
       [
-        [
-          "Ministro Pistarini International Airport"
-        ],
+        "Ministro Pistarini International Airport",
         [
           "/wiki/Ministro_Pistarini_International_Airport"
         ]
       ],
       [
-        [
-          "Buenos Aires"
-        ],
+        "Buenos Aires",
         [
           "/wiki/Buenos_Aires"
         ]
       ],
       [
-        [
-          "7,868.071"
-        ],
-        [
-          null
-        ]
+        "7,868.071",
+        []
       ]
     ],
     [
       [
-        [
-          "10"
-        ],
-        [
-          null
-        ]
+        "10",
+        []
       ],
       [
-        [
-          "Brazil"
-        ],
+        "Brazil",
         [
           "/wiki/Brazil"
         ]
       ],
       [
-        [
-          "Santos Dumont Airport"
-        ],
+        "Santos Dumont Airport",
         [
           "/wiki/Santos_Dumont_Airport"
         ]
       ],
       [
-        [
-          "Rio de Janeiro"
-        ],
+        "Rio de Janeiro",
         [
           "/wiki/Rio_de_Janeiro"
         ]
       ],
       [
-        [
-          "7,822.848"
-        ],
-        [
-          null
-        ]
+        "7,822.848",
+        []
       ]
     ],
     [
       [
-        [
-          "11"
-        ],
-        [
-          null
-        ]
+        "11",
+        []
       ],
       [
-        [
-          "Brazil"
-        ],
+        "Brazil",
         [
           "/wiki/Brazil"
         ]
       ],
       [
-        [
-          "Deputado Lu\u00eds Eduardo Magalh\u00e3es International Airport"
-        ],
+        "Deputado Lu\u00eds Eduardo Magalh\u00e3es International Airport",
         [
           "/wiki/Deputado_Lu\u00eds_Eduardo_Magalh\u00e3es_International_Airport"
         ]
       ],
       [
-        [
-          "Salvador"
-        ],
+        "Salvador",
         [
           "/wiki/Salvador,_Bahia"
         ]
       ],
       [
-        [
-          "7,696.307"
-        ],
-        [
-          null
-        ]
+        "7,696.307",
+        []
       ]
     ],
     [
       [
-        [
-          "12"
-        ],
-        [
-          null
-        ]
+        "12",
+        []
       ],
       [
-        [
-          "Argentina"
-        ],
+        "Argentina",
         [
           "/wiki/Argentina"
         ]
       ],
       [
-        [
-          "Jorge Newbery Airport"
-        ],
+        "Jorge Newbery Airport",
         [
           "/wiki/Aeroparque_Jorge_Newbery"
         ]
       ],
       [
-        [
-          "Buenos Aires"
-        ],
+        "Buenos Aires",
         [
           "/wiki/Buenos_Aires"
         ]
       ],
       [
-        [
-          "7,558.149"
-        ],
-        [
-          null
-        ]
+        "7,558.149",
+        []
       ]
     ],
     [
       [
-        [
-          "13"
-        ],
-        [
-          null
-        ]
+        "13",
+        []
       ],
       [
-        [
-          "Brazil"
-        ],
+        "Brazil",
         [
           "/wiki/Brazil"
         ]
       ],
       [
-        [
-          "Tancredo Neves International Airport"
-        ],
+        "Tancredo Neves International Airport",
         [
           "/wiki/Tancredo_Neves_International_Airport"
         ]
       ],
       [
-        [
-          "Belo Horizonte"
-        ],
+        "Belo Horizonte",
         [
           "/wiki/Belo_Horizonte"
         ]
       ],
       [
-        [
-          "7,261.041"
-        ],
-        [
-          null
-        ]
+        "7,261.041",
+        []
       ]
     ],
     [
       [
-        [
-          "14"
-        ],
-        [
-          null
-        ]
+        "14",
+        []
       ],
       [
-        [
-          "Brazil"
-        ],
+        "Brazil",
         [
           "/wiki/Brazil"
         ]
       ],
       [
-        [
-          "Salgado Filho International Airport"
-        ],
+        "Salgado Filho International Airport",
         [
           "/wiki/Salgado_Filho_International_Airport"
         ]
       ],
       [
-        [
-          "Porto Alegre"
-        ],
+        "Porto Alegre",
         [
           "/wiki/Porto_Alegre"
         ]
       ],
       [
-        [
-          "6,676.216"
-        ],
-        [
-          null
-        ]
+        "6,676.216",
+        []
       ]
     ],
     [
       [
-        [
-          "15"
-        ],
-        [
-          null
-        ]
+        "15",
+        []
       ],
       [
-        [
-          "Brazil"
-        ],
+        "Brazil",
         [
           "/wiki/Brazil"
         ]
       ],
       [
-        [
-          "Recife/Guararapes-Gilberto Freyre International Airport"
-        ],
+        "Recife/Guararapes-Gilberto Freyre International Airport",
         [
           "/wiki/Recife/Guararapes\u2013Gilberto_Freyre_International_Airport"
         ]
       ],
       [
-        [
-          "Recife"
-        ],
+        "Recife",
         [
           "/wiki/Recife"
         ]
       ],
       [
-        [
-          "5,958.982"
-        ],
-        [
-          null
-        ]
+        "5,958.982",
+        []
       ]
     ],
     [
       [
-        [
-          "16"
-        ],
-        [
-          null
-        ]
+        "16",
+        []
       ],
       [
-        [
-          "Brazil"
-        ],
+        "Brazil",
         [
           "/wiki/Brazil"
         ]
       ],
       [
-        [
-          "Afonso Pena International Airport"
-        ],
+        "Afonso Pena International Airport",
         [
           "/wiki/Afonso_Pena_International_Airport"
         ]
       ],
       [
-        [
-          "Curitiba"
-        ],
+        "Curitiba",
         [
           "/wiki/Curitiba"
         ]
       ],
       [
-        [
-          "5,774.615"
-        ],
-        [
-          null
-        ]
+        "5,774.615",
+        []
       ]
     ],
     [
       [
-        [
-          "17"
-        ],
-        [
-          null
-        ]
+        "17",
+        []
       ],
       [
-        [
-          "Brazil"
-        ],
+        "Brazil",
         [
           "/wiki/Brazil"
         ]
       ],
       [
-        [
-          "Viracopos International Airport"
-        ],
+        "Viracopos International Airport",
         [
           "/wiki/Viracopos_International_Airport"
         ]
       ],
       [
-        [
-          "Campinas"
-        ],
+        "Campinas",
         [
           "/wiki/Campinas"
         ]
       ],
       [
-        [
-          "5,430.066"
-        ],
-        [
-          null
-        ]
+        "5,430.066",
+        []
       ]
     ],
     [
       [
-        [
-          "18"
-        ],
-        [
-          null
-        ]
+        "18",
+        []
       ],
       [
-        [
-          "Brazil"
-        ],
+        "Brazil",
         [
           "/wiki/Brazil"
         ]
       ],
       [
-        [
-          "Pinto Martins International Airport"
-        ],
+        "Pinto Martins International Airport",
         [
           "/wiki/Pinto_Martins_International_Airport"
         ]
       ],
       [
-        [
-          "Fortaleza"
-        ],
+        "Fortaleza",
         [
           "/wiki/Fortaleza"
         ]
       ],
       [
-        [
-          "5,072.721"
-        ],
-        [
-          null
-        ]
+        "5,072.721",
+        []
       ]
     ],
     [
       [
-        [
-          "19"
-        ],
-        [
-          null
-        ]
+        "19",
+        []
       ],
       [
-        [
-          "Ecuador"
-        ],
+        "Ecuador",
         [
           "/wiki/Ecuador"
         ]
       ],
       [
-        [
-          "Mariscal Sucre International Airport"
-        ],
+        "Mariscal Sucre International Airport",
         [
           "/wiki/Mariscal_Sucre_International_Airport"
         ]
       ],
       [
-        [
-          "Quito"
-        ],
+        "Quito",
         [
           "/wiki/Quito"
         ]
       ],
       [
-        [
-          "5,000.500"
-        ],
-        [
-          null
-        ]
+        "5,000.500",
+        []
       ]
     ]
   ],

@@ -3,63 +3,36 @@
   "title": "EX postcode area",
   "header": [
     [
-      [
-        "Postcode district"
-      ],
-      [
-        null
-      ]
+      "Postcode district",
+      []
     ],
     [
-      [
-        "Post town"
-      ],
+      "Post town",
       [
         "/wiki/Post_town"
       ]
     ],
     [
-      [
-        "Coverage"
-      ],
-      [
-        null
-      ]
+      "Coverage",
+      []
     ],
     [
-      [
-        "Local authority area"
-      ],
-      [
-        null
-      ]
+      "Local authority area",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "EX1"
-        ],
-        [
-          null
-        ]
+        "EX1",
+        []
       ],
       [
-        [
-          "EXETER"
-        ],
-        [
-          null
-        ]
+        "EXETER",
+        []
       ],
       [
-        [
-          "Exeter",
-          "Heavitree",
-          "Newtown",
-          "Pinhoe"
-        ],
+        "Exeter ( east ) , Heavitree ( north ) , Monkerton , Newtown , Pinhoe , West Clyst",
         [
           "/wiki/Exeter",
           "/wiki/Heavitree",
@@ -68,9 +41,7 @@
         ]
       ],
       [
-        [
-          "Exeter"
-        ],
+        "Exeter",
         [
           "/wiki/Exeter_City_Council"
         ]
@@ -78,27 +49,15 @@
     ],
     [
       [
-        [
-          "EX2"
-        ],
-        [
-          null
-        ]
+        "EX2",
+        []
       ],
       [
-        [
-          "EXETER"
-        ],
-        [
-          null
-        ]
+        "EXETER",
+        []
       ],
       [
-        [
-          "St. Thomas",
-          "Countess Wear",
-          "Wonford"
-        ],
+        "Exeter ( south ) , Heavitree ( south ) , St. Thomas ( south ) , Countess Wear , Wonford",
         [
           "/wiki/St_Thomas,_Exeter",
           "/wiki/Countess_Wear",
@@ -106,71 +65,41 @@
         ]
       ],
       [
-        [
-          "Exeter"
-        ],
-        [
-          null
-        ]
+        "Exeter",
+        []
       ]
     ],
     [
       [
-        [
-          "EX3"
-        ],
-        [
-          null
-        ]
+        "EX3",
+        []
       ],
       [
-        [
-          "EXETER"
-        ],
-        [
-          null
-        ]
+        "EXETER",
+        []
       ],
       [
-        [
-          "Topsham"
-        ],
+        "Clyst St. George , Ebford , Exton , Topsham",
         [
           "/wiki/Topsham,_Devon"
         ]
       ],
       [
-        [
-          "Exeter"
-        ],
-        [
-          null
-        ]
+        "Exeter",
+        []
       ]
     ],
     [
       [
-        [
-          "EX4"
-        ],
-        [
-          null
-        ]
+        "EX4",
+        []
       ],
       [
-        [
-          "EXETER"
-        ],
-        [
-          null
-        ]
+        "EXETER",
+        []
       ],
       [
-        [
-          "Exwick",
-          "Pennsylvania",
-          "Whitestone"
-        ],
+        "Exeter ( north ) , Exwick , St. Thomas ( north ) , Beacon Heath , Redhills , Pennsylvania , St. James , Whitestone",
         [
           "/wiki/Exwick",
           "/wiki/Pennsylvania,_Exeter",
@@ -178,45 +107,21 @@
         ]
       ],
       [
-        [
-          "Exeter"
-        ],
-        [
-          null
-        ]
+        "Exeter",
+        []
       ]
     ],
     [
       [
-        [
-          "EX5"
-        ],
-        [
-          null
-        ]
+        "EX5",
+        []
       ],
       [
-        [
-          "EXETER"
-        ],
-        [
-          null
-        ]
+        "EXETER",
+        []
       ],
       [
-        [
-          "Bradninch",
-          "Broadclyst",
-          "Cadbury",
-          "Clyst Honiton",
-          "Clyst St. Mary",
-          "Cranbrook",
-          "Newton St. Cyres",
-          "Silverton",
-          "Talaton",
-          "Whimple",
-          "Woodbury"
-        ],
+        "Bradninch , Broadclyst , Cadbury , Clyst Honiton , Clyst St. Mary , Cranbrook , Newton St. Cyres , Silverton , Talaton , Whimple , Woodbury",
         [
           "/wiki/Bradninch",
           "/wiki/Broadclyst",
@@ -232,10 +137,7 @@
         ]
       ],
       [
-        [
-          "East Devon",
-          "Mid Devon"
-        ],
+        "East Devon , Mid Devon",
         [
           "/wiki/East_Devon",
           "/wiki/Mid_Devon"
@@ -244,31 +146,15 @@
     ],
     [
       [
-        [
-          "EX6"
-        ],
-        [
-          null
-        ]
+        "EX6",
+        []
       ],
       [
-        [
-          "EXETER"
-        ],
-        [
-          null
-        ]
+        "EXETER",
+        []
       ],
       [
-        [
-          "Christow",
-          "Cockwood",
-          "Dunsford",
-          "Kennford",
-          "Kenton",
-          "Mamhead",
-          "Exminster"
-        ],
+        "Christow , Cockwood , Dunsford , Kennford , Kenton , Mamhead , Exminster",
         [
           "/wiki/Christow",
           "/wiki/Cockwood",
@@ -280,9 +166,7 @@
         ]
       ],
       [
-        [
-          "Teignbridge"
-        ],
+        "Teignbridge",
         [
           "/wiki/Teignbridge"
         ]
@@ -290,97 +174,56 @@
     ],
     [
       [
-        [
-          "EX7"
-        ],
-        [
-          null
-        ]
+        "EX7",
+        []
       ],
       [
-        [
-          "DAWLISH"
-        ],
-        [
-          null
-        ]
+        "DAWLISH",
+        []
       ],
       [
-        [
-          "Dawlish"
-        ],
+        "Dawlish",
         [
           "/wiki/Dawlish"
         ]
       ],
       [
-        [
-          "Teignbridge"
-        ],
-        [
-          null
-        ]
+        "Teignbridge",
+        []
       ]
     ],
     [
       [
-        [
-          "EX8"
-        ],
-        [
-          null
-        ]
+        "EX8",
+        []
       ],
       [
-        [
-          "EXMOUTH"
-        ],
-        [
-          null
-        ]
+        "EXMOUTH",
+        []
       ],
       [
-        [
-          "Exmouth",
-          "Lympstone"
-        ],
+        "Exmouth , Lympstone",
         [
           "/wiki/Exmouth",
           "/wiki/Lympstone"
         ]
       ],
       [
-        [
-          "East Devon"
-        ],
-        [
-          null
-        ]
+        "East Devon",
+        []
       ]
     ],
     [
       [
-        [
-          "EX9"
-        ],
-        [
-          null
-        ]
+        "EX9",
+        []
       ],
       [
-        [
-          "BUDLEIGH SALTERTON"
-        ],
-        [
-          null
-        ]
+        "BUDLEIGH SALTERTON",
+        []
       ],
       [
-        [
-          "Budleigh Salterton",
-          "East Budleigh",
-          "Otterton"
-        ],
+        "Budleigh Salterton , East Budleigh , Otterton",
         [
           "/wiki/Budleigh_Salterton",
           "/wiki/East_Budleigh",
@@ -388,37 +231,21 @@
         ]
       ],
       [
-        [
-          "East Devon"
-        ],
-        [
-          null
-        ]
+        "East Devon",
+        []
       ]
     ],
     [
       [
-        [
-          "EX10"
-        ],
-        [
-          null
-        ]
+        "EX10",
+        []
       ],
       [
-        [
-          "SIDMOUTH"
-        ],
-        [
-          null
-        ]
+        "SIDMOUTH",
+        []
       ],
       [
-        [
-          "Sidmouth",
-          "Sidford",
-          "Sidbury"
-        ],
+        "Sidmouth , Sidford , Sidbury",
         [
           "/wiki/Sidmouth",
           "/wiki/Sidford",
@@ -426,72 +253,41 @@
         ]
       ],
       [
-        [
-          "East Devon"
-        ],
-        [
-          null
-        ]
+        "East Devon",
+        []
       ]
     ],
     [
       [
-        [
-          "EX11"
-        ],
-        [
-          null
-        ]
+        "EX11",
+        []
       ],
       [
-        [
-          "OTTERY ST. MARY"
-        ],
-        [
-          null
-        ]
+        "OTTERY ST. MARY",
+        []
       ],
       [
-        [
-          "Ottery St. Mary"
-        ],
+        "Ottery St. Mary",
         [
           "/wiki/Ottery_St._Mary"
         ]
       ],
       [
-        [
-          "East Devon"
-        ],
-        [
-          null
-        ]
+        "East Devon",
+        []
       ]
     ],
     [
       [
-        [
-          "EX12"
-        ],
-        [
-          null
-        ]
+        "EX12",
+        []
       ],
       [
-        [
-          "SEATON"
-        ],
-        [
-          null
-        ]
+        "SEATON",
+        []
       ],
       [
-        [
-          "Seaton",
-          "Beer",
-          "Axmouth",
-          "Branscombe"
-        ],
+        "Seaton , Beer , Axmouth , Branscombe",
         [
           "/wiki/Seaton,_Devon",
           "/wiki/Beer,_Devon",
@@ -500,215 +296,128 @@
         ]
       ],
       [
-        [
-          "East Devon"
-        ],
-        [
-          null
-        ]
+        "East Devon",
+        []
       ]
     ],
     [
       [
-        [
-          "EX13"
-        ],
-        [
-          null
-        ]
+        "EX13",
+        []
       ],
       [
-        [
-          "AXMINSTER"
-        ],
-        [
-          null
-        ]
+        "AXMINSTER",
+        []
       ],
       [
-        [
-          "Axminster"
-        ],
+        "Axminster",
         [
           "/wiki/Axminster"
         ]
       ],
       [
-        [
-          "East Devon"
-        ],
-        [
-          null
-        ]
+        "East Devon",
+        []
       ]
     ],
     [
       [
-        [
-          "EX14"
-        ],
-        [
-          null
-        ]
+        "EX14",
+        []
       ],
       [
-        [
-          "HONITON"
-        ],
-        [
-          null
-        ]
+        "HONITON",
+        []
       ],
       [
-        [
-          "Honiton"
-        ],
+        "Honiton",
         [
           "/wiki/Honiton"
         ]
       ],
       [
-        [
-          "East Devon"
-        ],
-        [
-          null
-        ]
+        "East Devon",
+        []
       ]
     ],
     [
       [
-        [
-          "EX15"
-        ],
-        [
-          null
-        ]
+        "EX15",
+        []
       ],
       [
-        [
-          "CULLOMPTON"
-        ],
-        [
-          null
-        ]
+        "CULLOMPTON",
+        []
       ],
       [
-        [
-          "Cullompton",
-          "Plymtree"
-        ],
+        "Cullompton , Plymtree",
         [
           "/wiki/Cullompton",
           "/wiki/Plymtree"
         ]
       ],
       [
-        [
-          "Mid Devon"
-        ],
-        [
-          null
-        ]
+        "Mid Devon",
+        []
       ]
     ],
     [
       [
-        [
-          "EX16"
-        ],
-        [
-          null
-        ]
+        "EX16",
+        []
       ],
       [
-        [
-          "TIVERTON"
-        ],
-        [
-          null
-        ]
+        "TIVERTON",
+        []
       ],
       [
-        [
-          "Tiverton"
-        ],
+        "Tiverton",
         [
           "/wiki/Tiverton,_Devon"
         ]
       ],
       [
-        [
-          "Mid Devon"
-        ],
-        [
-          null
-        ]
+        "Mid Devon",
+        []
       ]
     ],
     [
       [
-        [
-          "EX17"
-        ],
-        [
-          null
-        ]
+        "EX17",
+        []
       ],
       [
-        [
-          "CREDITON"
-        ],
-        [
-          null
-        ]
+        "CREDITON",
+        []
       ],
       [
-        [
-          "Crediton"
-        ],
+        "Crediton",
         [
           "/wiki/Crediton"
         ]
       ],
       [
-        [
-          "Mid Devon"
-        ],
-        [
-          null
-        ]
+        "Mid Devon",
+        []
       ]
     ],
     [
       [
-        [
-          "EX18"
-        ],
-        [
-          null
-        ]
+        "EX18",
+        []
       ],
       [
-        [
-          "CHULMLEIGH"
-        ],
-        [
-          null
-        ]
+        "CHULMLEIGH",
+        []
       ],
       [
-        [
-          "Chulmleigh"
-        ],
+        "Chulmleigh",
         [
           "/wiki/Chulmleigh"
         ]
       ],
       [
-        [
-          "North Devon"
-        ],
+        "North Devon",
         [
           "/wiki/North_Devon"
         ]
@@ -716,33 +425,21 @@
     ],
     [
       [
-        [
-          "EX19"
-        ],
-        [
-          null
-        ]
+        "EX19",
+        []
       ],
       [
-        [
-          "WINKLEIGH"
-        ],
-        [
-          null
-        ]
+        "WINKLEIGH",
+        []
       ],
       [
-        [
-          "Winkleigh"
-        ],
+        "Winkleigh",
         [
           "/wiki/Winkleigh"
         ]
       ],
       [
-        [
-          "Torridge"
-        ],
+        "Torridge",
         [
           "/wiki/Torridge_District"
         ]
@@ -750,33 +447,21 @@
     ],
     [
       [
-        [
-          "EX20"
-        ],
-        [
-          null
-        ]
+        "EX20",
+        []
       ],
       [
-        [
-          "NORTH TAWTON , OKEHAMPTON"
-        ],
-        [
-          null
-        ]
+        "NORTH TAWTON , OKEHAMPTON",
+        []
       ],
       [
-        [
-          "Okehampton"
-        ],
+        "Okehampton",
         [
           "/wiki/Okehampton"
         ]
       ],
       [
-        [
-          "West Devon"
-        ],
+        "West Devon",
         [
           "/wiki/West_Devon"
         ]

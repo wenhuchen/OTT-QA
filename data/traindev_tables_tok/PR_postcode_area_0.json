@@ -3,68 +3,40 @@
   "title": "PR postcode area",
   "header": [
     [
-      [
-        "Postcode district"
-      ],
-      [
-        null
-      ]
+      "Postcode district",
+      []
     ],
     [
-      [
-        "Post town"
-      ],
+      "Post town",
       [
         "/wiki/Post_town"
       ]
     ],
     [
-      [
-        "Coverage"
-      ],
-      [
-        null
-      ]
+      "Coverage",
+      []
     ],
     [
-      [
-        "Local authority area"
-      ],
-      [
-        null
-      ]
+      "Local authority area",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "PR0"
-        ],
-        [
-          null
-        ]
+        "PR0",
+        []
       ],
       [
-        [
-          "PRESTON"
-        ],
-        [
-          null
-        ]
+        "PRESTON",
+        []
       ],
       [
-        [
-          "Express Gifts"
-        ],
-        [
-          null
-        ]
+        "Express Gifts",
+        []
       ],
       [
-        [
-          "non-geographic"
-        ],
+        "non-geographic",
         [
           "/wiki/UK_postcodes"
         ]
@@ -72,43 +44,24 @@
     ],
     [
       [
-        [
-          "PR1"
-        ],
-        [
-          null
-        ]
+        "PR1",
+        []
       ],
       [
-        [
-          "PRESTON"
-        ],
-        [
-          null
-        ]
+        "PRESTON",
+        []
       ],
       [
-        [
-          "Avenham",
-          "Broadgate",
-          "Deepdale",
-          "Fishwick",
-          "St. Matthew 's",
-          "Penwortham"
-        ],
+        "City Centre , Avenham , Broadgate , Deepdale , Fishwick , St. Matthew 's , Penwortham",
         [
           "/wiki/Avenham",
           "/wiki/Riversway",
           "/wiki/Deepdale,_Preston",
-          null,
-          null,
           "/wiki/Penwortham"
         ]
       ],
       [
-        [
-          "South Ribble"
-        ],
+        "City of Preston , South Ribble",
         [
           "/wiki/South_Ribble"
         ]
@@ -116,37 +69,15 @@
     ],
     [
       [
-        [
-          "PR2"
-        ],
-        [
-          null
-        ]
+        "PR2",
+        []
       ],
       [
-        [
-          "PRESTON"
-        ],
-        [
-          null
-        ]
+        "PRESTON",
+        []
       ],
       [
-        [
-          "Ashton On Ribble",
-          "Brookfield",
-          "Cadley",
-          "Fulwood",
-          "Grimsargh",
-          "Haighton",
-          "Ingol",
-          "Larches",
-          "Lea",
-          "Ribbleton",
-          "Riversway",
-          "Sharoe Green",
-          "Tanterton"
-        ],
+        "Ashton On Ribble , Brookfield , Cadley , Fulwood , Grimsargh , Haighton , Ingol , Larches , Lea , Ribbleton , Riversway , Sharoe Green , Tanterton",
         [
           "/wiki/Ashton_On_Ribble",
           "/wiki/Brookfield,_Lancashire",
@@ -164,58 +95,21 @@
         ]
       ],
       [
-        [
-          "City of Preston"
-        ],
-        [
-          null
-        ]
+        "City of Preston",
+        []
       ]
     ],
     [
       [
-        [
-          "PR3"
-        ],
-        [
-          null
-        ]
+        "PR3",
+        []
       ],
       [
-        [
-          "PRESTON"
-        ],
-        [
-          null
-        ]
+        "PRESTON",
+        []
       ],
       [
-        [
-          "Barnacre-with-Bonds",
-          "Barton",
-          "Bilsborrow",
-          "Bonds",
-          "Bowgreave",
-          "Broughton",
-          "Cabus",
-          "Calder Vale",
-          "Chipping",
-          "Claughton",
-          "Forton",
-          "Garstang",
-          "Goosnargh",
-          "Great Eccleston",
-          "Inglewhite",
-          "Little Eccleston",
-          "Longridge",
-          "Oakenclough",
-          "Pilling",
-          "Ribchester",
-          "St Michael 's On Wyre",
-          "Scorton",
-          "Whittingham",
-          "Winmarleigh"
-        ],
+        "Barnacre-with-Bonds , Barton , Bilsborrow , Bonds , Bowgreave , Broughton , Cabus , Calder Vale , Chipping , Claughton , Forton , Garstang , Goosnargh , Great Eccleston , Inglewhite , Little Eccleston , Longridge , Myerscough , Oakenclough , Pilling , Ribchester , St Michael 's On Wyre , Scorton , Whittingham , Winmarleigh",
         [
           "/wiki/Barnacre-with-Bonds",
           "/wiki/Barton,_Preston",
@@ -244,11 +138,7 @@
         ]
       ],
       [
-        [
-          "Fylde",
-          "Ribble Valley",
-          "Wyre"
-        ],
+        "Fylde , City of Preston , Ribble Valley , Wyre",
         [
           "/wiki/Borough_of_Fylde",
           "/wiki/Ribble_Valley",
@@ -258,48 +148,15 @@
     ],
     [
       [
-        [
-          "PR4"
-        ],
-        [
-          null
-        ]
+        "PR4",
+        []
       ],
       [
-        [
-          "PRESTON"
-        ],
-        [
-          null
-        ]
+        "PRESTON",
+        []
       ],
       [
-        [
-          "Becconsall",
-          "Catforth",
-          "Clifton",
-          "Cottam",
-          "Eaves",
-          "Elswick",
-          "Freckleton",
-          "Hesketh Bank",
-          "Hutton",
-          "Inskip",
-          "Kirkham",
-          "Lea Town",
-          "Longton",
-          "Much Hoole",
-          "New Longton",
-          "Newton",
-          "Tarleton",
-          "Thistleton",
-          "Treales , Roseacre and Wharles",
-          "Walmer Bridge",
-          "Warton",
-          "Wesham",
-          "Woodplumpton",
-          "Wrea Green"
-        ],
+        "Becconsall , Catforth , Clifton , Cottam , Eaves , Elswick , Freckleton , Hesketh Bank , Hutton , Inskip , Kirkham , Lea Town , Longton , Much Hoole , New Longton , Newton , Tarleton , Thistleton , Treales , Roseacre and Wharles , Walmer Bridge , Warton , Wesham , Woodplumpton , Wrea Green",
         [
           "/wiki/Becconsall",
           "/wiki/Catforth",
@@ -328,9 +185,7 @@
         ]
       ],
       [
-        [
-          "West Lancashire"
-        ],
+        "Fylde , City of Preston , South Ribble , West Lancashire",
         [
           "/wiki/West_Lancashire"
         ]
@@ -338,37 +193,15 @@
     ],
     [
       [
-        [
-          "PR5"
-        ],
-        [
-          null
-        ]
+        "PR5",
+        []
       ],
       [
-        [
-          "PRESTON"
-        ],
-        [
-          null
-        ]
+        "PRESTON",
+        []
       ],
       [
-        [
-          "Bamber Bridge",
-          "Coupe Green",
-          "Cuerdale",
-          "Cuerden",
-          "Gregson Lane",
-          "Higher Walton",
-          "Hoghton",
-          "Lostock Hall",
-          "Riley Green",
-          "Samlesbury",
-          "Walton-le-Dale",
-          "Walton Park",
-          "Walton Summit"
-        ],
+        "Bamber Bridge , Coupe Green , Cuerdale , Cuerden , Gregson Lane , Higher Walton , Hoghton , Lostock Hall , Riley Green , Samlesbury , Walton-le-Dale , Walton Park , Walton Summit",
         [
           "/wiki/Bamber_Bridge",
           "/wiki/Coupe_Green",
@@ -386,9 +219,7 @@
         ]
       ],
       [
-        [
-          "Chorley"
-        ],
+        "South Ribble , Chorley",
         [
           "/wiki/Borough_of_Chorley"
         ]
@@ -396,38 +227,15 @@
     ],
     [
       [
-        [
-          "PR6"
-        ],
-        [
-          null
-        ]
+        "PR6",
+        []
       ],
       [
-        [
-          "CHORLEY"
-        ],
-        [
-          null
-        ]
+        "CHORLEY",
+        []
       ],
       [
-        [
-          "Abbey Village",
-          "Adlington",
-          "Anderton",
-          "Anglezarke",
-          "Astley Village",
-          "Brindle",
-          "Brinscall",
-          "Clayton-le-Woods",
-          "Heapey",
-          "Heath Charnock",
-          "Wheelton",
-          "White Coppice",
-          "Whittle-le-Woods",
-          "Withnell"
-        ],
+        "Abbey Village , Adlington , Anderton , Anglezarke , Astley Village , Brindle , Brinscall , Clayton-le-Woods , Heapey , Heath Charnock , Wheelton , White Coppice , Whittle-le-Woods , Withnell",
         [
           "/wiki/Abbey_Village",
           "/wiki/Adlington,_Lancashire",
@@ -446,42 +254,21 @@
         ]
       ],
       [
-        [
-          "Chorley"
-        ],
-        [
-          null
-        ]
+        "Chorley",
+        []
       ]
     ],
     [
       [
-        [
-          "PR7"
-        ],
-        [
-          null
-        ]
+        "PR7",
+        []
       ],
       [
-        [
-          "CHORLEY"
-        ],
-        [
-          null
-        ]
+        "CHORLEY",
+        []
       ],
       [
-        [
-          "Adlington",
-          "Buckshaw Village",
-          "Charnock Richard",
-          "Coppull",
-          "Eccleston",
-          "Euxton",
-          "Heath Charnock",
-          "Heskin"
-        ],
+        "Adlington , Buckshaw Village , Charnock Richard , Coppull , Eccleston , Euxton , Heath Charnock , Heskin",
         [
           "/wiki/Adlington,_Lancashire",
           "/wiki/Buckshaw_Village",
@@ -494,38 +281,21 @@
         ]
       ],
       [
-        [
-          "Chorley"
-        ],
-        [
-          null
-        ]
+        "Chorley",
+        []
       ]
     ],
     [
       [
-        [
-          "PR8"
-        ],
-        [
-          null
-        ]
+        "PR8",
+        []
       ],
       [
-        [
-          "SOUTHPORT"
-        ],
-        [
-          null
-        ]
+        "SOUTHPORT",
+        []
       ],
       [
-        [
-          "Ainsdale",
-          "Birkdale",
-          "Blowick",
-          "Scarisbrick"
-        ],
+        "Ainsdale , Birkdale , Blowick , Scarisbrick",
         [
           "/wiki/Ainsdale",
           "/wiki/Birkdale",
@@ -534,9 +304,7 @@
         ]
       ],
       [
-        [
-          "Sefton"
-        ],
+        "Sefton , West Lancashire",
         [
           "/wiki/Metropolitan_Borough_of_Sefton"
         ]
@@ -544,28 +312,15 @@
     ],
     [
       [
-        [
-          "PR9"
-        ],
-        [
-          null
-        ]
+        "PR9",
+        []
       ],
       [
-        [
-          "SOUTHPORT"
-        ],
-        [
-          null
-        ]
+        "SOUTHPORT",
+        []
       ],
       [
-        [
-          "Banks",
-          "Churchtown",
-          "Crossens",
-          "Marshside"
-        ],
+        "Banks , Churchtown , Crossens , Marshside",
         [
           "/wiki/Banks,_Lancashire",
           "/wiki/Churchtown,_Sefton",
@@ -574,74 +329,42 @@
         ]
       ],
       [
-        [
-          "Sefton , West Lancashire"
-        ],
-        [
-          null
-        ]
+        "Sefton , West Lancashire",
+        []
       ]
     ],
     [
       [
-        [
-          "PR11"
-        ],
-        [
-          null
-        ]
+        "PR11",
+        []
       ],
       [
-        [
-          "PRESTON"
-        ],
-        [
-          null
-        ]
+        "PRESTON",
+        []
       ],
       [
-        [
-          "Great Universal Stores",
-          "Department for Work and Pensions"
-        ],
+        "Great Universal Stores / Department for Work and Pensions delivering to its address in PR1",
         [
           "/wiki/Great_Universal_Stores",
           "/wiki/Department_for_Work_and_Pensions"
         ]
       ],
       [
-        [
-          "non-geographic"
-        ],
-        [
-          null
-        ]
+        "non-geographic",
+        []
       ]
     ],
     [
       [
-        [
-          "PR25"
-        ],
-        [
-          null
-        ]
+        "PR25",
+        []
       ],
       [
-        [
-          "LEYLAND"
-        ],
-        [
-          null
-        ]
+        "LEYLAND",
+        []
       ],
       [
-        [
-          "Leyland",
-          "Clayton-le-Woods",
-          "Cuerden",
-          "Farington"
-        ],
+        "Leyland , Clayton-le-Woods , Cuerden , Farington",
         [
           "/wiki/Leyland,_Lancashire",
           "/wiki/Clayton-le-Woods",
@@ -650,39 +373,21 @@
         ]
       ],
       [
-        [
-          "South Ribble , Chorley"
-        ],
-        [
-          null
-        ]
+        "South Ribble , Chorley",
+        []
       ]
     ],
     [
       [
-        [
-          "PR26"
-        ],
-        [
-          null
-        ]
+        "PR26",
+        []
       ],
       [
-        [
-          "LEYLAND"
-        ],
-        [
-          null
-        ]
+        "LEYLAND",
+        []
       ],
       [
-        [
-          "Leyland",
-          "Bretherton",
-          "Croston",
-          "Moss Side",
-          "Ulnes Walton"
-        ],
+        "Leyland , Bretherton , Croston , Farington Moss , Moss Side , Ulnes Walton",
         [
           "/wiki/Leyland,_Lancashire",
           "/wiki/Bretherton",
@@ -692,12 +397,8 @@
         ]
       ],
       [
-        [
-          "South Ribble , Chorley"
-        ],
-        [
-          null
-        ]
+        "South Ribble , Chorley",
+        []
       ]
     ]
   ],

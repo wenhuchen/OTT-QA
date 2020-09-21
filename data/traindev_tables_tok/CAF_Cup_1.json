@@ -3,78 +3,44 @@
   "title": "CAF Cup",
   "header": [
     [
-      [
-        "County"
-      ],
-      [
-        null
-      ]
+      "County",
+      []
     ],
     [
-      [
-        "Winners"
-      ],
-      [
-        null
-      ]
+      "Winners",
+      []
     ],
     [
-      [
-        "Runners-up"
-      ],
-      [
-        null
-      ]
+      "Runners-up",
+      []
     ],
     [
-      [
-        "Winning clubs"
-      ],
-      [
-        null
-      ]
+      "Winning clubs",
+      []
     ],
     [
-      [
-        "Runners-up"
-      ],
-      [
-        null
-      ]
+      "Runners-up",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Tunisia"
-        ],
+        "Tunisia",
         [
           "/wiki/Tunisia"
         ]
       ],
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "\u00c9toile du Sahel",
-          "Esp\u00e9rance",
-          "CS Sfaxien"
-        ],
+        "\u00c9toile du Sahel ( 2 ) , Esp\u00e9rance ( 1 ) , CS Sfaxien ( 1 )",
         [
           "/wiki/\u00c9toile_Sportive_du_Sahel",
           "/wiki/Esp\u00e9rance_Sportive_de_Tunis",
@@ -82,9 +48,7 @@
         ]
       ],
       [
-        [
-          "\u00c9toile du Sahel"
-        ],
+        "\u00c9toile du Sahel ( 2 )",
         [
           "/wiki/\u00c9toile_Sportive_du_Sahel"
         ]
@@ -92,85 +56,54 @@
     ],
     [
       [
-        [
-          "Algeria"
-        ],
+        "Algeria",
         [
           "/wiki/Algeria"
         ]
       ],
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "JS Kabylie"
-        ],
+        "JS Kabylie ( 3 )",
         [
           "/wiki/JS_Kabylie"
         ]
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ]
     ],
     [
       [
-        [
-          "Morocco"
-        ],
+        "Morocco",
         [
           "/wiki/Morocco"
         ]
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "Kawkab Marrakech",
-          "Raja Casablanca"
-        ],
+        "Kawkab Marrakech ( 1 ) , Raja Casablanca ( 1 )",
         [
           "/wiki/Kawkab_Marrakech",
           "/wiki/Raja_Casablanca"
         ]
       ],
       [
-        [
-          "Wydad Casablanca"
-        ],
+        "Wydad Casablanca ( 1 )",
         [
           "/wiki/Wydad_Casablanca"
         ]
@@ -178,128 +111,78 @@
     ],
     [
       [
-        [
-          "Nigeria"
-        ],
+        "Nigeria",
         [
           "/wiki/Nigeria"
         ]
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "Bendel Insurance",
-          "Shooting Stars"
-        ],
+        "Bendel Insurance ( 1 ) , Shooting Stars ( 1 )",
         [
           "/wiki/Bendel_Insurance_F.C.",
           "/wiki/Shooting_Stars_F.C."
         ]
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ]
     ],
     [
       [
-        [
-          "Ivory Coast"
-        ],
+        "Ivory Coast",
         [
           "/wiki/Ivory_Coast"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "Stella Club d'Adjam\u00e9"
-        ],
+        "Stella Club d'Adjam\u00e9 ( 1 )",
         [
           "/wiki/Stella_Club_d'Adjam\u00e9"
         ]
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ]
     ],
     [
       [
-        [
-          "Angola"
-        ],
+        "Angola",
         [
           "/wiki/Angola"
         ]
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "Primeiro de Maio",
-          "Petro de Luanda"
-        ],
+        "Primeiro de Maio ( 1 ) , Petro de Luanda ( 1 )",
         [
           "/wiki/Primeiro_de_Maio",
           "/wiki/Petro_de_Luanda"
@@ -308,42 +191,25 @@
     ],
     [
       [
-        [
-          "Cameroon"
-        ],
+        "Cameroon",
         [
           "/wiki/Cameroon"
         ]
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "Cotonsport Garoua",
-          "Tonnerre Yaound\u00e9"
-        ],
+        "Cotonsport Garoua ( 1 ) , Tonnerre Yaound\u00e9 ( 1 )",
         [
           "/wiki/Cotonsport_Garoua",
           "/wiki/Tonnerre_Yaound\u00e9"
@@ -352,41 +218,25 @@
     ],
     [
       [
-        [
-          "Uganda"
-        ],
+        "Uganda",
         [
           "/wiki/Uganda"
         ]
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "Villa SC"
-        ],
+        "Villa SC ( 1 )",
         [
           "/wiki/Villa_SC"
         ]
@@ -394,41 +244,25 @@
     ],
     [
       [
-        [
-          "Tanzania"
-        ],
+        "Tanzania",
         [
           "/wiki/Tanzania"
         ]
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "Simba SC"
-        ],
+        "Simba SC ( 1 )",
         [
           "/wiki/Simba_SC"
         ]
@@ -436,41 +270,25 @@
     ],
     [
       [
-        [
-          "Guinea"
-        ],
+        "Guinea",
         [
           "/wiki/Guinea"
         ]
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "AS Kaloum Star"
-        ],
+        "AS Kaloum Star ( 1 )",
         [
           "/wiki/AS_Kaloum_Star"
         ]
@@ -478,41 +296,25 @@
     ],
     [
       [
-        [
-          "Senegal"
-        ],
+        "Senegal",
         [
           "/wiki/Senegal"
         ]
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "ASC Jeanne d'Arc"
-        ],
+        "ASC Jeanne d'Arc ( 1 )",
         [
           "/wiki/ASC_Jeanne_d'Arc"
         ]
@@ -520,41 +322,25 @@
     ],
     [
       [
-        [
-          "Egypt"
-        ],
+        "Egypt",
         [
           "/wiki/Egypt"
         ]
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "Ismaily"
-        ],
+        "Ismaily ( 1 )",
         [
           "/wiki/Ismaily"
         ]

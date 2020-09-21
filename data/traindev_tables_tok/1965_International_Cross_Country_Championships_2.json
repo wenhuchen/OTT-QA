@@ -3,100 +3,59 @@
   "title": "1965 International Cross Country Championships",
   "header": [
     [
-      [
-        "Rank"
-      ],
-      [
-        null
-      ]
+      "Rank",
+      []
     ],
     [
-      [
-        "Country"
-      ],
-      [
-        null
-      ]
+      "Country",
+      []
     ],
     [
-      [
-        "Team"
-      ],
-      [
-        null
-      ]
+      "Team",
+      []
     ],
     [
-      [
-        "Points"
-      ],
-      [
-        null
-      ]
+      "Points",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "England"
-        ],
+        "England",
         [
           "/wiki/England"
         ]
       ],
       [
-        [
-          "Mel Batty",
-          "Ron Hill",
-          "John Cooke"
-        ],
+        "Mel Batty Ron Hill John Cooke Mike Freary Gerry North Dominic Keily",
         [
           "/wiki/Mel_Batty",
-          "/wiki/Ron_Hill",
-          null
+          "/wiki/Ron_Hill"
         ]
       ],
       [
-        [
-          "55"
-        ],
-        [
-          null
-        ]
+        "55",
+        []
       ]
     ],
     [
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "France"
-        ],
+        "France",
         [
           "/wiki/France"
         ]
       ],
       [
-        [
-          "Jean Fayolle",
-          "Michel Bernard",
-          "Michel Jazy"
-        ],
+        "Jean Fayolle Michel Bernard Michel Jazy Jean Vaillant Bernard Maroquin Yves Martinage",
         [
           "/wiki/Jean_Fayolle",
           "/wiki/Michel_Bernard_(runner)",
@@ -104,37 +63,23 @@
         ]
       ],
       [
-        [
-          "55"
-        ],
-        [
-          null
-        ]
+        "55",
+        []
       ]
     ],
     [
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "New Zealand"
-        ],
+        "New Zealand",
         [
           "/wiki/New_Zealand"
         ]
       ],
       [
-        [
-          "Jeff Julian",
-          "Peter Welsh",
-          "Bryan Rose"
-        ],
+        "Jeff Julian Peter Welsh Pat Sidon Norris Wyatt Bryan Rose Geoffrey Pyne",
         [
           "/wiki/Jeff_Julian_(athlete)",
           "/wiki/Peter_Welsh_(athlete)",
@@ -142,117 +87,71 @@
         ]
       ],
       [
-        [
-          "110"
-        ],
-        [
-          null
-        ]
+        "110",
+        []
       ]
     ],
     [
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "Tunisia"
-        ],
+        "Tunisia",
         [
           "/wiki/Tunisia"
         ]
       ],
       [
-        [
-          "Mohamed Gammoudi",
-          "Mhedheb Hannachi",
-          "Ahmed Zammel",
-          "Labidi Ayachi"
-        ],
+        "Mohamed Gammoudi Mhedheb Hannachi Ahmed Zammel Hedi Hamrouni Ali Khamassi Labidi Ayachi",
         [
           "/wiki/Mohamed_Gammoudi",
-          null,
           "/wiki/Ahmed_Zammel",
           "/wiki/Labidi_Ayachi"
         ]
       ],
       [
-        [
-          "186"
-        ],
-        [
-          null
-        ]
+        "186",
+        []
       ]
     ],
     [
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "Spain"
-        ],
+        "Spain",
         [
           "/wiki/Spain"
         ]
       ],
       [
-        [
-          "Francisco Aritmendi",
-          "Fernando Aguilar",
-          "Mariano Haro",
-          "Jos\u00e9 Maiz"
-        ],
+        "Francisco Aritmendi Fernando Aguilar Lorenzo Gutierrez Mariano Haro Iluminado Corcuera Jos\u00e9 Maiz",
         [
           "/wiki/Francisco_Aritmendi",
           "/wiki/Fernando_Aguilar",
-          "/wiki/Mariano_Haro",
-          null
+          "/wiki/Mariano_Haro"
         ]
       ],
       [
-        [
-          "187"
-        ],
-        [
-          null
-        ]
+        "187",
+        []
       ]
     ],
     [
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "Scotland"
-        ],
+        "Scotland",
         [
           "/wiki/Scotland"
         ]
       ],
       [
-        [
-          "Jim Alder",
-          "Lachie Stewart",
-          "Ian McCafferty"
-        ],
+        "Jim Alder Fergus Murray Andy Brown Lachie Stewart Ian McCafferty Alec Brown",
         [
           "/wiki/Jim_Alder",
           "/wiki/Lachie_Stewart",
@@ -260,320 +159,194 @@
         ]
       ],
       [
-        [
-          "304"
-        ],
-        [
-          null
-        ]
+        "304",
+        []
       ]
     ],
     [
       [
-        [
-          "7"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ],
       [
-        [
-          "Belgium"
-        ],
+        "Belgium",
         [
           "/wiki/Belgium"
         ]
       ],
       [
-        [
-          "Marcel Vandewattyne"
-        ],
+        "Henri Clerckx Cyrille van Geert Jean Dewachter Pierre de Pauw Joseph van Lent Marcel Vandewattyne",
         [
           "/wiki/Marcel_Vandewattyne"
         ]
       ],
       [
-        [
-          "310"
-        ],
-        [
-          null
-        ]
+        "310",
+        []
       ]
     ],
     [
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "Morocco"
-        ],
+        "Morocco",
         [
           "/wiki/Morocco"
         ]
       ],
       [
+        "Ben Assou El Ghazi Ahmed Oukbouch Allal Ben Saoudi Abdeslem Bouchta Mohamed Ben Mohamed Mohamed Benmaguini",
         [
-          "Ben Assou El Ghazi",
-          "Abdeslem Bouchta"
-        ],
-        [
-          "/wiki/Ben_Assou_El_Ghazi",
-          null
+          "/wiki/Ben_Assou_El_Ghazi"
         ]
       ],
       [
-        [
-          "330"
-        ],
-        [
-          null
-        ]
+        "330",
+        []
       ]
     ],
     [
       [
-        [
-          "9"
-        ],
-        [
-          null
-        ]
+        "9",
+        []
       ],
       [
-        [
-          "Federal Republic of Germany"
-        ],
+        "Federal Republic of Germany",
         [
           "/wiki/Germany"
         ]
       ],
       [
-        [
-          "Hans H\u00fcneke Hans Gerlach Arno Krausse Lutz Krausse G\u00fcnter Bretag Klaus Vieth"
-        ],
-        [
-          null
-        ]
+        "Hans H\u00fcneke Hans Gerlach Arno Krausse Lutz Krausse G\u00fcnter Bretag Klaus Vieth",
+        []
       ],
       [
-        [
-          "353"
-        ],
-        [
-          null
-        ]
+        "353",
+        []
       ]
     ],
     [
       [
-        [
-          "10"
-        ],
-        [
-          null
-        ]
+        "10",
+        []
       ],
       [
-        [
-          "Ireland"
-        ],
+        "Ireland",
         [
           "/wiki/Ireland"
         ]
       ],
       [
-        [
-          "Derek Graham"
-        ],
+        "Derek Graham Jim McNamara Pat McMahon George Blackburn Brendan Deary Tony Murphy",
         [
           "/wiki/Derek_Graham"
         ]
       ],
       [
-        [
-          "397"
-        ],
-        [
-          null
-        ]
+        "397",
+        []
       ]
     ],
     [
       [
-        [
-          "11"
-        ],
-        [
-          null
-        ]
+        "11",
+        []
       ],
       [
-        [
-          "Italy"
-        ],
+        "Italy",
         [
           "/wiki/Italy"
         ]
       ],
       [
-        [
-          "Luigi Conti Alfredo Rizzo Franco Sommaggio Giorgio Zanfini Carlo Sacchi Silvio De Florentiis"
-        ],
-        [
-          null
-        ]
+        "Luigi Conti Alfredo Rizzo Franco Sommaggio Giorgio Zanfini Carlo Sacchi Silvio De Florentiis",
+        []
       ],
       [
-        [
-          "414"
-        ],
-        [
-          null
-        ]
+        "414",
+        []
       ]
     ],
     [
       [
-        [
-          "12"
-        ],
-        [
-          null
-        ]
+        "12",
+        []
       ],
       [
-        [
-          "Netherlands"
-        ],
+        "Netherlands",
         [
           "/wiki/Netherlands"
         ]
       ],
       [
-        [
-          "Egbert Nijstad"
-        ],
-        [
-          null
-        ]
+        "Piet Beelen Egbert Nijstad Josephus Scheyen Jacques van Eekelen Piet de Haas Joep Delnoye",
+        []
       ],
       [
-        [
-          "478"
-        ],
-        [
-          null
-        ]
+        "478",
+        []
       ]
     ],
     [
       [
-        [
-          "13"
-        ],
-        [
-          null
-        ]
+        "13",
+        []
       ],
       [
-        [
-          "Switzerland"
-        ],
+        "Switzerland",
         [
           "/wiki/Switzerland"
         ]
       ],
       [
-        [
-          "Werner D\u00f6ssegger Edgar Friedli Walter Dietiker Oskar Leupi Hugo Eisenring Hansruedi Knill"
-        ],
-        [
-          null
-        ]
+        "Werner D\u00f6ssegger Edgar Friedli Walter Dietiker Oskar Leupi Hugo Eisenring Hansruedi Knill",
+        []
       ],
       [
-        [
-          "543"
-        ],
-        [
-          null
-        ]
+        "543",
+        []
       ]
     ],
     [
       [
-        [
-          "14"
-        ],
-        [
-          null
-        ]
+        "14",
+        []
       ],
       [
-        [
-          "Wales"
-        ],
+        "Wales",
         [
           "/wiki/Wales"
         ]
       ],
       [
-        [
-          "Robert Williams Bob Roath John Collins Hedydd Davies John Godding Ken Flowers"
-        ],
-        [
-          null
-        ]
+        "Robert Williams Bob Roath John Collins Hedydd Davies John Godding Ken Flowers",
+        []
       ],
       [
-        [
-          "546"
-        ],
-        [
-          null
-        ]
+        "546",
+        []
       ]
     ],
     [
       [
-        [
-          "15"
-        ],
-        [
-          null
-        ]
+        "15",
+        []
       ],
       [
-        [
-          "Algeria"
-        ],
+        "Algeria",
         [
           "/wiki/Algeria"
         ]
       ],
       [
-        [
-          "Hamida Add\u00e9che Hamoud Ameur Belkacem Chikhane Belkacem Ben Sahraoui Abderrahmane Delhoum A. Tounsi"
-        ],
-        [
-          null
-        ]
+        "Hamida Add\u00e9che Hamoud Ameur Belkacem Chikhane Belkacem Ben Sahraoui Abderrahmane Delhoum A. Tounsi",
+        []
       ],
       [
-        [
-          "568"
-        ],
-        [
-          null
-        ]
+        "568",
+        []
       ]
     ]
   ],

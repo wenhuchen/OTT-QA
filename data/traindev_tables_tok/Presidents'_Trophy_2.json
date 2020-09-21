@@ -3,102 +3,64 @@
   "title": "Presidents' Trophy",
   "header": [
     [
-      [
-        "Year"
-      ],
-      [
-        null
-      ]
+      "Year",
+      []
     ],
     [
-      [
-        "Winner"
-      ],
-      [
-        null
-      ]
+      "Winner",
+      []
     ],
     [
-      [
-        "Points"
-      ],
-      [
-        null
-      ]
+      "Points",
+      []
     ],
     [
-      [
-        "Playoff Result"
-      ],
-      [
-        null
-      ]
+      "Playoff Result",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "1926-27"
-        ],
+        "1926-27",
         [
           "/wiki/1926\u201327_NHL_season"
         ]
       ],
       [
-        [
-          "Ottawa Senators"
-        ],
+        "Ottawa Senators",
         [
           "/wiki/1926\u201327_Ottawa_Senators_season"
         ]
       ],
       [
-        [
-          "64"
-        ],
-        [
-          null
-        ]
+        "64",
+        []
       ],
       [
-        [
-          "Won Stanley Cup*"
-        ],
-        [
-          null
-        ]
+        "Won Stanley Cup*",
+        []
       ]
     ],
     [
       [
-        [
-          "1927-28"
-        ],
+        "1927-28",
         [
           "/wiki/1927\u201328_NHL_season"
         ]
       ],
       [
-        [
-          "Montreal Canadiens"
-        ],
+        "Montreal Canadiens",
         [
           "/wiki/1927\u201328_Montreal_Canadiens_season"
         ]
       ],
       [
-        [
-          "59"
-        ],
-        [
-          null
-        ]
+        "59",
+        []
       ],
       [
-        [
-          "MMR"
-        ],
+        "Lost semi-finals ( MMR )",
         [
           "/wiki/1927\u201328_Montreal_Maroons_season"
         ]
@@ -106,33 +68,23 @@
     ],
     [
       [
-        [
-          "1928-29"
-        ],
+        "1928-29",
         [
           "/wiki/1928\u201329_NHL_season"
         ]
       ],
       [
-        [
-          "Montreal Canadiens"
-        ],
+        "Montreal Canadiens",
         [
           "/wiki/1928\u201329_Montreal_Canadiens_season"
         ]
       ],
       [
-        [
-          "59"
-        ],
-        [
-          null
-        ]
+        "59",
+        []
       ],
       [
-        [
-          "BOS"
-        ],
+        "Lost semi-finals ( BOS )",
         [
           "/wiki/1928\u201329_Boston_Bruins_season"
         ]
@@ -140,33 +92,23 @@
     ],
     [
       [
-        [
-          "1929-30"
-        ],
+        "1929-30",
         [
           "/wiki/1929\u201330_NHL_season"
         ]
       ],
       [
-        [
-          "Boston Bruins"
-        ],
+        "Boston Bruins",
         [
           "/wiki/1929\u201330_Boston_Bruins_season"
         ]
       ],
       [
-        [
-          "77"
-        ],
-        [
-          null
-        ]
+        "77",
+        []
       ],
       [
-        [
-          "MTL"
-        ],
+        "Lost Stanley Cup Finals^ ( MTL )",
         [
           "/wiki/1929\u201330_Montreal_Canadiens_season"
         ]
@@ -174,33 +116,23 @@
     ],
     [
       [
-        [
-          "1930-31"
-        ],
+        "1930-31",
         [
           "/wiki/1930\u201331_NHL_season"
         ]
       ],
       [
-        [
-          "Boston Bruins"
-        ],
+        "Boston Bruins",
         [
           "/wiki/1930\u201331_Boston_Bruins_season"
         ]
       ],
       [
-        [
-          "62"
-        ],
-        [
-          null
-        ]
+        "62",
+        []
       ],
       [
-        [
-          "MTL"
-        ],
+        "Lost semi-finals ( MTL )",
         [
           "/wiki/1930\u201331_Montreal_Canadiens_season"
         ]
@@ -208,33 +140,23 @@
     ],
     [
       [
-        [
-          "1931-32"
-        ],
+        "1931-32",
         [
           "/wiki/1931\u201332_NHL_season"
         ]
       ],
       [
-        [
-          "Montreal Canadiens"
-        ],
+        "Montreal Canadiens",
         [
           "/wiki/1931\u201332_Montreal_Canadiens_season"
         ]
       ],
       [
-        [
-          "57"
-        ],
-        [
-          null
-        ]
+        "57",
+        []
       ],
       [
-        [
-          "NYR"
-        ],
+        "Lost semi-finals ( NYR )",
         [
           "/wiki/1931\u201332_New_York_Rangers_season"
         ]
@@ -242,33 +164,23 @@
     ],
     [
       [
-        [
-          "1932-33"
-        ],
+        "1932-33",
         [
           "/wiki/1932\u201333_NHL_season"
         ]
       ],
       [
-        [
-          "Boston Bruins"
-        ],
+        "Boston Bruins",
         [
           "/wiki/1932\u201333_Boston_Bruins_season"
         ]
       ],
       [
-        [
-          "58"
-        ],
-        [
-          null
-        ]
+        "58",
+        []
       ],
       [
-        [
-          "TOR"
-        ],
+        "Lost semi-finals ( TOR )",
         [
           "/wiki/1932\u201333_Toronto_Maple_Leafs_season"
         ]
@@ -276,33 +188,23 @@
     ],
     [
       [
-        [
-          "1933-34"
-        ],
+        "1933-34",
         [
           "/wiki/1933\u201334_NHL_season"
         ]
       ],
       [
-        [
-          "Toronto Maple Leafs"
-        ],
+        "Toronto Maple Leafs",
         [
           "/wiki/1933\u201334_Toronto_Maple_Leafs_season"
         ]
       ],
       [
-        [
-          "61"
-        ],
-        [
-          null
-        ]
+        "61",
+        []
       ],
       [
-        [
-          "DET"
-        ],
+        "Lost semi-finals ( DET )",
         [
           "/wiki/1933\u201334_Detroit_Red_Wings_season"
         ]
@@ -310,33 +212,23 @@
     ],
     [
       [
-        [
-          "1934-35"
-        ],
+        "1934-35",
         [
           "/wiki/1934\u201335_NHL_season"
         ]
       ],
       [
-        [
-          "Toronto Maple Leafs"
-        ],
+        "Toronto Maple Leafs",
         [
           "/wiki/1934\u201335_Toronto_Maple_Leafs_season"
         ]
       ],
       [
-        [
-          "64"
-        ],
-        [
-          null
-        ]
+        "64",
+        []
       ],
       [
-        [
-          "MMR"
-        ],
+        "Lost Stanley Cup Finals^ ( MMR )",
         [
           "/wiki/1934\u201335_Montreal_Maroons_season"
         ]
@@ -344,101 +236,67 @@
     ],
     [
       [
-        [
-          "1935-36"
-        ],
+        "1935-36",
         [
           "/wiki/1935\u201336_NHL_season"
         ]
       ],
       [
-        [
-          "Detroit Red Wings"
-        ],
+        "Detroit Red Wings",
         [
           "/wiki/1935\u201336_Detroit_Red_Wings_season"
         ]
       ],
       [
-        [
-          "56"
-        ],
-        [
-          null
-        ]
+        "56",
+        []
       ],
       [
-        [
-          "Won Stanley Cup*"
-        ],
-        [
-          null
-        ]
+        "Won Stanley Cup*",
+        []
       ]
     ],
     [
       [
-        [
-          "1936-37"
-        ],
+        "1936-37",
         [
           "/wiki/1936\u201337_NHL_season"
         ]
       ],
       [
-        [
-          "Detroit Red Wings"
-        ],
+        "Detroit Red Wings",
         [
           "/wiki/1936\u201337_Detroit_Red_Wings_season"
         ]
       ],
       [
-        [
-          "59"
-        ],
-        [
-          null
-        ]
+        "59",
+        []
       ],
       [
-        [
-          "Won Stanley Cup*"
-        ],
-        [
-          null
-        ]
+        "Won Stanley Cup*",
+        []
       ]
     ],
     [
       [
-        [
-          "1937-38"
-        ],
+        "1937-38",
         [
           "/wiki/1937\u201338_NHL_season"
         ]
       ],
       [
-        [
-          "Boston Bruins"
-        ],
+        "Boston Bruins",
         [
           "/wiki/1937\u201338_Boston_Bruins_season"
         ]
       ],
       [
-        [
-          "67"
-        ],
-        [
-          null
-        ]
+        "67",
+        []
       ],
       [
-        [
-          "TOR"
-        ],
+        "Lost semi-finals ( TOR )",
         [
           "/wiki/1937\u201338_Toronto_Maple_Leafs_season"
         ]
@@ -446,67 +304,45 @@
     ],
     [
       [
-        [
-          "1938-39"
-        ],
+        "1938-39",
         [
           "/wiki/1938\u201339_NHL_season"
         ]
       ],
       [
-        [
-          "Boston Bruins"
-        ],
+        "Boston Bruins",
         [
           "/wiki/1938\u201339_Boston_Bruins_season"
         ]
       ],
       [
-        [
-          "74"
-        ],
-        [
-          null
-        ]
+        "74",
+        []
       ],
       [
-        [
-          "Won Stanley Cup*"
-        ],
-        [
-          null
-        ]
+        "Won Stanley Cup*",
+        []
       ]
     ],
     [
       [
-        [
-          "1939-40"
-        ],
+        "1939-40",
         [
           "/wiki/1939\u201340_NHL_season"
         ]
       ],
       [
-        [
-          "Boston Bruins"
-        ],
+        "Boston Bruins",
         [
           "/wiki/1939\u201340_Boston_Bruins_season"
         ]
       ],
       [
-        [
-          "67"
-        ],
-        [
-          null
-        ]
+        "67",
+        []
       ],
       [
-        [
-          "NYR"
-        ],
+        "Lost semi-finals ( NYR )",
         [
           "/wiki/1939\u201340_New_York_Rangers_season"
         ]
@@ -514,67 +350,45 @@
     ],
     [
       [
-        [
-          "1940-41"
-        ],
+        "1940-41",
         [
           "/wiki/1940\u201341_NHL_season"
         ]
       ],
       [
-        [
-          "Boston Bruins"
-        ],
+        "Boston Bruins",
         [
           "/wiki/1940\u201341_Boston_Bruins_season"
         ]
       ],
       [
-        [
-          "67"
-        ],
-        [
-          null
-        ]
+        "67",
+        []
       ],
       [
-        [
-          "Won Stanley Cup*"
-        ],
-        [
-          null
-        ]
+        "Won Stanley Cup*",
+        []
       ]
     ],
     [
       [
-        [
-          "1941-42"
-        ],
+        "1941-42",
         [
           "/wiki/1941\u201342_NHL_season"
         ]
       ],
       [
-        [
-          "New York Rangers"
-        ],
+        "New York Rangers",
         [
           "/wiki/1941\u201342_New_York_Rangers_season"
         ]
       ],
       [
-        [
-          "60"
-        ],
-        [
-          null
-        ]
+        "60",
+        []
       ],
       [
-        [
-          "TOR"
-        ],
+        "Lost semi-finals ( TOR )",
         [
           "/wiki/1941\u201342_Toronto_Maple_Leafs_season"
         ]
@@ -582,101 +396,67 @@
     ],
     [
       [
-        [
-          "1942-43"
-        ],
+        "1942-43",
         [
           "/wiki/1942\u201343_NHL_season"
         ]
       ],
       [
-        [
-          "Detroit Red Wings"
-        ],
+        "Detroit Red Wings",
         [
           "/wiki/1942\u201343_Detroit_Red_Wings_season"
         ]
       ],
       [
-        [
-          "61"
-        ],
-        [
-          null
-        ]
+        "61",
+        []
       ],
       [
-        [
-          "Won Stanley Cup*"
-        ],
-        [
-          null
-        ]
+        "Won Stanley Cup*",
+        []
       ]
     ],
     [
       [
-        [
-          "1943-44"
-        ],
+        "1943-44",
         [
           "/wiki/1943\u201344_NHL_season"
         ]
       ],
       [
-        [
-          "Montreal Canadiens"
-        ],
+        "Montreal Canadiens",
         [
           "/wiki/1943\u201344_Montreal_Canadiens_season"
         ]
       ],
       [
-        [
-          "83"
-        ],
-        [
-          null
-        ]
+        "83",
+        []
       ],
       [
-        [
-          "Won Stanley Cup*"
-        ],
-        [
-          null
-        ]
+        "Won Stanley Cup*",
+        []
       ]
     ],
     [
       [
-        [
-          "1944-45"
-        ],
+        "1944-45",
         [
           "/wiki/1944\u201345_NHL_season"
         ]
       ],
       [
-        [
-          "Montreal Canadiens"
-        ],
+        "Montreal Canadiens",
         [
           "/wiki/1944\u201345_Montreal_Canadiens_season"
         ]
       ],
       [
-        [
-          "80"
-        ],
-        [
-          null
-        ]
+        "80",
+        []
       ],
       [
-        [
-          "TOR"
-        ],
+        "Lost semi-finals # ( TOR )",
         [
           "/wiki/1944\u201345_Toronto_Maple_Leafs_season"
         ]
@@ -684,36 +464,24 @@
     ],
     [
       [
-        [
-          "1945-46"
-        ],
+        "1945-46",
         [
           "/wiki/1945\u201346_NHL_season"
         ]
       ],
       [
-        [
-          "Montreal Canadiens"
-        ],
+        "Montreal Canadiens",
         [
           "/wiki/1945\u201346_Montreal_Canadiens_season"
         ]
       ],
       [
-        [
-          "61"
-        ],
-        [
-          null
-        ]
+        "61",
+        []
       ],
       [
-        [
-          "Won Stanley Cup*"
-        ],
-        [
-          null
-        ]
+        "Won Stanley Cup*",
+        []
       ]
     ]
   ],

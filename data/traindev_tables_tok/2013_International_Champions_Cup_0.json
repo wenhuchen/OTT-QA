@@ -3,84 +3,52 @@
   "title": "2013 International Champions Cup",
   "header": [
     [
-      [
-        "Country"
-      ],
-      [
-        null
-      ]
+      "Country",
+      []
     ],
     [
-      [
-        "Team"
-      ],
-      [
-        null
-      ]
+      "Team",
+      []
     ],
     [
-      [
-        "Location"
-      ],
-      [
-        null
-      ]
+      "Location",
+      []
     ],
     [
-      [
-        "Confederation"
-      ],
-      [
-        null
-      ]
+      "Confederation",
+      []
     ],
     [
-      [
-        "League"
-      ],
-      [
-        null
-      ]
+      "League",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "England"
-        ],
-        [
-          null
-        ]
+        "England",
+        []
       ],
       [
-        [
-          "Chelsea"
-        ],
+        "Chelsea",
         [
           "/wiki/Chelsea_F.C."
         ]
       ],
       [
-        [
-          "London"
-        ],
+        "London",
         [
           "/wiki/London"
         ]
       ],
       [
-        [
-          "UEFA"
-        ],
+        "UEFA",
         [
           "/wiki/UEFA"
         ]
       ],
       [
-        [
-          "Premier League"
-        ],
+        "Premier League",
         [
           "/wiki/Premier_League"
         ]
@@ -88,41 +56,29 @@
     ],
     [
       [
-        [
-          "England"
-        ],
-        [
-          null
-        ]
+        "England",
+        []
       ],
       [
-        [
-          "Everton"
-        ],
+        "Everton",
         [
           "/wiki/Everton_F.C."
         ]
       ],
       [
-        [
-          "Liverpool"
-        ],
+        "Liverpool",
         [
           "/wiki/Liverpool"
         ]
       ],
       [
-        [
-          "UEFA"
-        ],
+        "UEFA",
         [
           "/wiki/UEFA"
         ]
       ],
       [
-        [
-          "Premier League"
-        ],
+        "Premier League",
         [
           "/wiki/Premier_League"
         ]
@@ -130,41 +86,29 @@
     ],
     [
       [
-        [
-          "Italy"
-        ],
-        [
-          null
-        ]
+        "Italy",
+        []
       ],
       [
-        [
-          "Milan"
-        ],
+        "Milan",
         [
           "/wiki/A.C._Milan"
         ]
       ],
       [
-        [
-          "Milan"
-        ],
+        "Milan",
         [
           "/wiki/Milan"
         ]
       ],
       [
-        [
-          "UEFA"
-        ],
+        "UEFA",
         [
           "/wiki/UEFA"
         ]
       ],
       [
-        [
-          "Serie A"
-        ],
+        "Serie A",
         [
           "/wiki/Serie_A"
         ]
@@ -172,41 +116,29 @@
     ],
     [
       [
-        [
-          "Italy"
-        ],
-        [
-          null
-        ]
+        "Italy",
+        []
       ],
       [
-        [
-          "Inter Milan"
-        ],
+        "Inter Milan",
         [
           "/wiki/Inter_Milan"
         ]
       ],
       [
-        [
-          "Milan"
-        ],
+        "Milan",
         [
           "/wiki/Milan"
         ]
       ],
       [
-        [
-          "UEFA"
-        ],
+        "UEFA",
         [
           "/wiki/UEFA"
         ]
       ],
       [
-        [
-          "Serie A"
-        ],
+        "Serie A",
         [
           "/wiki/Serie_A"
         ]
@@ -214,41 +146,29 @@
     ],
     [
       [
-        [
-          "Italy"
-        ],
-        [
-          null
-        ]
+        "Italy",
+        []
       ],
       [
-        [
-          "Juventus"
-        ],
+        "Juventus",
         [
           "/wiki/Juventus_F.C."
         ]
       ],
       [
-        [
-          "Turin"
-        ],
+        "Turin",
         [
           "/wiki/Turin"
         ]
       ],
       [
-        [
-          "UEFA"
-        ],
+        "UEFA",
         [
           "/wiki/UEFA"
         ]
       ],
       [
-        [
-          "Serie A"
-        ],
+        "Serie A",
         [
           "/wiki/Serie_A"
         ]
@@ -256,41 +176,29 @@
     ],
     [
       [
-        [
-          "Spain"
-        ],
-        [
-          null
-        ]
+        "Spain",
+        []
       ],
       [
-        [
-          "Real Madrid"
-        ],
+        "Real Madrid",
         [
           "/wiki/Real_Madrid_C.F."
         ]
       ],
       [
-        [
-          "Madrid"
-        ],
+        "Madrid",
         [
           "/wiki/Madrid"
         ]
       ],
       [
-        [
-          "UEFA"
-        ],
+        "UEFA",
         [
           "/wiki/UEFA"
         ]
       ],
       [
-        [
-          "La Liga"
-        ],
+        "La Liga",
         [
           "/wiki/La_Liga"
         ]
@@ -298,41 +206,29 @@
     ],
     [
       [
-        [
-          "Spain"
-        ],
-        [
-          null
-        ]
+        "Spain",
+        []
       ],
       [
-        [
-          "Valencia"
-        ],
+        "Valencia",
         [
           "/wiki/Valencia_CF"
         ]
       ],
       [
-        [
-          "Valencia"
-        ],
+        "Valencia",
         [
           "/wiki/Valencia"
         ]
       ],
       [
-        [
-          "UEFA"
-        ],
+        "UEFA",
         [
           "/wiki/UEFA"
         ]
       ],
       [
-        [
-          "La Liga"
-        ],
+        "La Liga",
         [
           "/wiki/La_Liga"
         ]
@@ -340,41 +236,29 @@
     ],
     [
       [
-        [
-          "U.S"
-        ],
-        [
-          null
-        ]
+        "U.S",
+        []
       ],
       [
-        [
-          "LA Galaxy"
-        ],
+        "LA Galaxy",
         [
           "/wiki/LA_Galaxy"
         ]
       ],
       [
-        [
-          "Los Angeles"
-        ],
+        "Los Angeles",
         [
           "/wiki/Los_Angeles"
         ]
       ],
       [
-        [
-          "CONCACAF"
-        ],
+        "CONCACAF",
         [
           "/wiki/CONCACAF"
         ]
       ],
       [
-        [
-          "Major League Soccer"
-        ],
+        "Major League Soccer",
         [
           "/wiki/Major_League_Soccer"
         ]

@@ -3,62 +3,36 @@
   "title": "Connecting Communities",
   "header": [
     [
-      [
-        "Scheme name"
-      ],
-      [
-        null
-      ]
+      "Scheme name",
+      []
     ],
     [
-      [
-        "Proposed services"
-      ],
-      [
-        null
-      ]
+      "Proposed services",
+      []
     ],
     [
-      [
-        "Estimated capital cost"
-      ],
-      [
-        null
-      ]
+      "Estimated capital cost",
+      []
     ],
     [
-      [
-        "Number of proposed stations"
-      ],
-      [
-        null
-      ]
+      "Number of proposed stations",
+      []
     ],
     [
-      [
-        "Proposed stations"
-      ],
-      [
-        null
-      ]
+      "Proposed stations",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Aldridge"
-        ],
+        "Aldridge",
         [
           "/wiki/Aldridge"
         ]
       ],
       [
-        [
-          "Birmingham New Street",
-          "Walsall",
-          "Sutton Park Line"
-        ],
+        "Birmingham New Street - Walsall Sutton Park Line",
         [
           "/wiki/Birmingham_New_Street_railway_station",
           "/wiki/Walsall_railway_station",
@@ -66,25 +40,15 @@
         ]
       ],
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "Aldridge"
-        ],
+        "Aldridge",
         [
           "/wiki/Aldridge_railway_station"
         ]
@@ -92,21 +56,14 @@
     ],
     [
       [
-        [
-          "Ashington",
-          "Blyth"
-        ],
+        "Ashington and Blyth",
         [
           "/wiki/Ashington",
           "/wiki/Blyth,_Northumberland"
         ]
       ],
       [
-        [
-          "Newcastle",
-          "MetroCentre",
-          "Blyth and Tyne Railway"
-        ],
+        "Newcastle / MetroCentre - Ashington Blyth and Tyne Railway",
         [
           "/wiki/Newcastle_railway_station",
           "/wiki/MetroCentre_railway_station",
@@ -114,102 +71,62 @@
         ]
       ],
       [
-        [
-          "34"
-        ],
-        [
-          null
-        ]
+        "34",
+        []
       ],
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "Seaton Delaval",
-          "Seaton Delaval",
-          "Bedlington",
-          "Bedlington",
-          "Newsham ( for Blyth )",
-          "Ashington"
-        ],
+        "Seaton Delaval ( See Seaton Delaval ) Bedlington ( See Bedlington ) Newsham ( for Blyth ) Ashington ( original site or new location )",
         [
           "/wiki/Seaton_Delaval_railway_station",
           "/wiki/Seaton_Delaval",
           "/wiki/Bedlington_railway_station",
           "/wiki/Bedlington",
-          null,
           "/wiki/Ashington_railway_station"
         ]
       ]
     ],
     [
       [
-        [
-          "Bordon"
-        ],
+        "Bordon",
         [
           "/wiki/Bordon"
         ]
       ],
       [
-        [
-          "Aldershot",
-          "Bordon Light Railway"
-        ],
+        "Aldershot - Bordon Bordon Light Railway",
         [
           "/wiki/Aldershot_railway_station",
           "/wiki/Bordon_Light_Railway"
         ]
       ],
       [
-        [
-          "50"
-        ],
-        [
-          null
-        ]
+        "50",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
+        "Bordon ( half mile closer to Bordon than the former Bordon station )",
         [
-          "Bordon",
-          "Bordon"
-        ],
-        [
-          null,
           "/wiki/Bordon_railway_station"
         ]
       ]
     ],
     [
       [
-        [
-          "Brixham"
-        ],
+        "Brixham",
         [
           "/wiki/Brixham"
         ]
       ],
       [
-        [
-          "Exmouth",
-          "Exeter",
-          "Paignton and Dartmouth Steam Railway",
-          "Avocet Line"
-        ],
+        "To Exmouth to Churston ( for Brixham ) via Exeter Paignton and Dartmouth Steam Railway and Avocet Line",
         [
           "/wiki/Exmouth_railway_station",
           "/wiki/Exeter_St_Davids_railway_station",
@@ -218,26 +135,15 @@
         ]
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "Goodrington Sands",
-          "Churston ( for Brixham )"
-        ],
+        "Goodrington Sands Churston ( for Brixham )",
         [
           "/wiki/Goodrington_Sands_railway_station",
           "/wiki/Churston_railway_station"
@@ -246,19 +152,13 @@
     ],
     [
       [
-        [
-          "Brownhills"
-        ],
+        "Brownhills",
         [
           "/wiki/Brownhills"
         ]
       ],
       [
-        [
-          "Walsall",
-          "Lichfield",
-          "South Staffordshire Line"
-        ],
+        "Walsall to Lichfield via Brownhills South Staffordshire Line",
         [
           "/wiki/Walsall_railway_station",
           "/wiki/Lichfield",
@@ -266,26 +166,15 @@
         ]
       ],
       [
-        [
-          "122"
-        ],
-        [
-          null
-        ]
+        "122",
+        []
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "Pelsall",
-          "Brownhills"
-        ],
+        "Pelsall Brownhills",
         [
           "/wiki/Pelsall_railway_station",
           "/wiki/Brownhills_railway_station"
@@ -294,19 +183,13 @@
     ],
     [
       [
-        [
-          "Cranleigh"
-        ],
+        "Cranleigh",
         [
           "/wiki/Cranleigh"
         ]
       ],
       [
-        [
-          "London Waterloo",
-          "Guildford",
-          "Cranleigh Line"
-        ],
+        "Extension of London Waterloo - Guildford stopping service Cranleigh Line",
         [
           "/wiki/London_Waterloo_railway_station",
           "/wiki/Guildford_(Surrey)_railway_station",
@@ -314,26 +197,15 @@
         ]
       ],
       [
-        [
-          "63"
-        ],
-        [
-          null
-        ]
+        "63",
+        []
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "Cranleigh",
-          "Bramley"
-        ],
+        "Cranleigh Bramley",
         [
           "/wiki/Cranleigh_railway_station",
           "/wiki/Bramley_&_Wonersh_railway_station"
@@ -342,44 +214,28 @@
     ],
     [
       [
-        [
-          "Fleetwood"
-        ],
+        "Fleetwood",
         [
           "/wiki/Fleetwood"
         ]
       ],
       [
-        [
-          "Preston",
-          "Fleetwood Branch Line"
-        ],
+        "Preston - Fleetwood Fleetwood Branch Line",
         [
           "/wiki/Preston_railway_station",
           "/wiki/Fleetwood_Branch_Line"
         ]
       ],
       [
-        [
-          "14"
-        ],
-        [
-          null
-        ]
+        "14",
+        []
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "Thornton",
-          "Fleetwood"
-        ],
+        "Thornton Fleetwood",
         [
           "/wiki/Thornton\u2013Cleveleys_railway_station",
           "/wiki/Fleetwood_railway_station"
@@ -388,20 +244,13 @@
     ],
     [
       [
-        [
-          "Hythe"
-        ],
+        "Hythe",
         [
           "/wiki/Hythe,_Hampshire"
         ]
       ],
       [
-        [
-          "Southampton",
-          "Southampton Airport",
-          "Romsey",
-          "Fawley Branch Line"
-        ],
+        "Hythe to Southampton , Southampton Airport and Romsey Fawley Branch Line",
         [
           "/wiki/Southampton_Central_railway_station",
           "/wiki/Southampton_Airport_Parkway_railway_station",
@@ -410,26 +259,15 @@
         ]
       ],
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "Hythe",
-          "Hythe , Hampshire"
-        ],
+        "Hythe ( See Hythe , Hampshire )",
         [
           "/wiki/Hythe_(Hampshire)_railway_station",
           "/wiki/Hythe,_Hampshire"
@@ -438,22 +276,14 @@
     ],
     [
       [
-        [
-          "Leicester",
-          "Burton"
-        ],
+        "Leicester - Burton",
         [
           "/wiki/Leicester",
           "/wiki/Burton_upon_Trent"
         ]
       ],
       [
-        [
-          "Leicester",
-          "Burton",
-          "Derby",
-          "Leicester and Swannington Railway"
-        ],
+        "Leicester - Burton or Derby Leicester and Swannington Railway",
         [
           "/wiki/Leicester_railway_station",
           "/wiki/Burton-on-Trent_railway_station",
@@ -462,33 +292,15 @@
         ]
       ],
       [
-        [
-          "49"
-        ],
-        [
-          null
-        ]
+        "49",
+        []
       ],
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "Kirby Muxloe",
-          "Bagworth",
-          "Bagworth",
-          "Coalville",
-          "Ashby de la Zouch",
-          "Moira",
-          "Moira , Leicestershire",
-          "Gresley ( for Swadlincote )",
-          "Swadlincote"
-        ],
+        "Kirby Muxloe Bagworth ( see Bagworth ) Coalville Ashby de la Zouch Moira ( see Moira , Leicestershire ) Gresley ( for Swadlincote ) ( See Swadlincote )",
         [
           "/wiki/Kirby_Muxloe_railway_station",
           "/wiki/Bagworth_railway_station",
@@ -497,55 +309,34 @@
           "/wiki/Ashby_de_la_Zouch_railway_station",
           "/wiki/Moira_(Leicestershire)_railway_station",
           "/wiki/Moira,_Leicestershire",
-          null,
           "/wiki/Swadlincote"
         ]
       ]
     ],
     [
       [
-        [
-          "Rawtenstall"
-        ],
+        "Rawtenstall",
         [
           "/wiki/Rawtenstall"
         ]
       ],
       [
-        [
-          "Manchester Victoria",
-          "East Lancashire Railway"
-        ],
+        "Manchester Victoria to Rawtenstall via Heywood East Lancashire Railway",
         [
           "/wiki/Manchester_Victoria_station",
           "/wiki/East_Lancashire_Railway"
         ]
       ],
       [
-        [
-          "50"
-        ],
-        [
-          null
-        ]
+        "50",
+        []
       ],
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "Heywood",
-          "Bury ( Bolton Street )",
-          "Summerseat",
-          "Ramsbottom",
-          "Irwell Vale",
-          "Rawtenstall"
-        ],
+        "Heywood Bury ( Bolton Street ) Summerseat Ramsbottom Irwell Vale Rawtenstall",
         [
           "/wiki/Heywood_railway_station",
           "/wiki/Bury_Bolton_Street_railway_station",
@@ -558,43 +349,28 @@
     ],
     [
       [
-        [
-          "Ringwood"
-        ],
+        "Ringwood",
         [
           "/wiki/Ringwood"
         ]
       ],
       [
-        [
-          "London Waterloo",
-          "London Victoria"
-        ],
+        "to London Waterloo or London Victoria",
         [
           "/wiki/London_Waterloo_railway_station",
           "/wiki/London_Victoria_railway_station"
         ]
       ],
       [
-        [
-          "70"
-        ],
-        [
-          null
-        ]
+        "70",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "Ringwood"
-        ],
+        "Ringwood",
         [
           "/wiki/Ringwood_railway_station"
         ]
@@ -602,19 +378,13 @@
     ],
     [
       [
-        [
-          "Skelmersdale"
-        ],
+        "Skelmersdale",
         [
           "/wiki/Skelmersdale"
         ]
       ],
       [
-        [
-          "Ormskirk",
-          "Skelmersdale railway station",
-          "Skelmersdale Branch"
-        ],
+        "Ormskirk to Skelmersdale railway station via Skelmersdale Branch",
         [
           "/wiki/Ormskirk_railway_station",
           "/wiki/Skelmersdale",
@@ -622,47 +392,29 @@
         ]
       ],
       [
-        [
-          "31"
-        ],
-        [
-          null
-        ]
+        "31",
+        []
       ],
       [
-        [
-          "1 ( +1 )"
-        ],
-        [
-          null
-        ]
+        "1 ( +1 )",
+        []
       ],
       [
+        "Skelmersdale Westhead ( possible , not evaluated )",
         [
-          "Skelmersdale",
-          "Westhead"
-        ],
-        [
-          "/wiki/Skelmersdale_railway_station",
-          null
+          "/wiki/Skelmersdale_railway_station"
         ]
       ]
     ],
     [
       [
-        [
-          "Washington"
-        ],
+        "Washington",
         [
           "/wiki/Washington,_Tyne_and_Wear"
         ]
       ],
       [
-        [
-          "Newcastle",
-          "Manchester Airport",
-          "Leamside Line"
-        ],
+        "Newcastle - Manchester Airport Leamside Line",
         [
           "/wiki/Newcastle_railway_station",
           "/wiki/Manchester_Airport_railway_station",
@@ -670,25 +422,15 @@
         ]
       ],
       [
-        [
-          "86"
-        ],
-        [
-          null
-        ]
+        "86",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "Washington"
-        ],
+        "Washington",
         [
           "/wiki/Washington_railway_station_(England)"
         ]
@@ -696,19 +438,13 @@
     ],
     [
       [
-        [
-          "Wisbech"
-        ],
+        "Wisbech",
         [
           "/wiki/Wisbech"
         ]
       ],
       [
-        [
-          "March",
-          "Peterborough",
-          "Wisbech and March Bramley Line"
-        ],
+        "Wisbech - March - Peterborough Wisbech and March Bramley Line",
         [
           "/wiki/March_railway_station",
           "/wiki/Peterborough_railway_station",
@@ -716,31 +452,17 @@
         ]
       ],
       [
-        [
-          "12"
-        ],
-        [
-          null
-        ]
+        "12",
+        []
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
+        "Wisbech Town ( See Wisbech ) Wisbech Parkway",
         [
-          "Wisbech Town",
-          "Wisbech",
-          "Wisbech Parkway"
-        ],
-        [
-          null,
-          "/wiki/Wisbech",
-          null
+          "/wiki/Wisbech"
         ]
       ]
     ]

@@ -3,68 +3,42 @@
   "title": "TQ postcode area",
   "header": [
     [
-      [
-        "Postcode district"
-      ],
-      [
-        null
-      ]
+      "Postcode district",
+      []
     ],
     [
-      [
-        "Post town"
-      ],
+      "Post town",
       [
         "/wiki/Post_town"
       ]
     ],
     [
-      [
-        "Coverage"
-      ],
-      [
-        null
-      ]
+      "Coverage",
+      []
     ],
     [
-      [
-        "Local authority area"
-      ],
-      [
-        null
-      ]
+      "Local authority area",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "TQ1"
-        ],
-        [
-          null
-        ]
+        "TQ1",
+        []
       ],
       [
-        [
-          "TORQUAY"
-        ],
-        [
-          null
-        ]
+        "TORQUAY",
+        []
       ],
       [
-        [
-          "St Marychurch"
-        ],
+        "Torquay ( centre ) , St Marychurch",
         [
           "/wiki/St_Marychurch"
         ]
       ],
       [
-        [
-          "Torbay"
-        ],
+        "Torbay",
         [
           "/wiki/Torbay"
         ]
@@ -72,33 +46,19 @@
     ],
     [
       [
-        [
-          "TQ2"
-        ],
-        [
-          null
-        ]
+        "TQ2",
+        []
       ],
       [
-        [
-          "TORQUAY"
-        ],
-        [
-          null
-        ]
+        "TORQUAY",
+        []
       ],
       [
-        [
-          "Torquay ( west , north )"
-        ],
-        [
-          null
-        ]
+        "Torquay ( west , north )",
+        []
       ],
       [
-        [
-          "Torbay"
-        ],
+        "Torbay",
         [
           "/wiki/Torbay"
         ]
@@ -106,33 +66,19 @@
     ],
     [
       [
-        [
-          "TQ3"
-        ],
-        [
-          null
-        ]
+        "TQ3",
+        []
       ],
       [
-        [
-          "PAIGNTON"
-        ],
-        [
-          null
-        ]
+        "PAIGNTON",
+        []
       ],
       [
-        [
-          "Paignton ( north , Preston area )"
-        ],
-        [
-          null
-        ]
+        "Paignton ( north , Preston area )",
+        []
       ],
       [
-        [
-          "Torbay"
-        ],
+        "Torbay",
         [
           "/wiki/Torbay"
         ]
@@ -140,33 +86,21 @@
     ],
     [
       [
-        [
-          "TQ4"
-        ],
-        [
-          null
-        ]
+        "TQ4",
+        []
       ],
       [
-        [
-          "PAIGNTON"
-        ],
-        [
-          null
-        ]
+        "PAIGNTON",
+        []
       ],
       [
-        [
-          "Goodrington"
-        ],
+        "Paignton ( centre ) , Goodrington",
         [
           "/wiki/Goodrington"
         ]
       ],
       [
-        [
-          "Torbay"
-        ],
+        "Torbay",
         [
           "/wiki/Torbay"
         ]
@@ -174,33 +108,21 @@
     ],
     [
       [
-        [
-          "TQ5"
-        ],
-        [
-          null
-        ]
+        "TQ5",
+        []
       ],
       [
-        [
-          "BRIXHAM"
-        ],
-        [
-          null
-        ]
+        "BRIXHAM",
+        []
       ],
       [
-        [
-          "Brixham"
-        ],
+        "Brixham",
         [
           "/wiki/Brixham"
         ]
       ],
       [
-        [
-          "Torbay"
-        ],
+        "Torbay",
         [
           "/wiki/Torbay"
         ]
@@ -208,33 +130,21 @@
     ],
     [
       [
-        [
-          "TQ6"
-        ],
-        [
-          null
-        ]
+        "TQ6",
+        []
       ],
       [
-        [
-          "DARTMOUTH"
-        ],
-        [
-          null
-        ]
+        "DARTMOUTH",
+        []
       ],
       [
-        [
-          "Dartmouth"
-        ],
+        "Dartmouth",
         [
           "/wiki/Dartmouth,_Devon"
         ]
       ],
       [
-        [
-          "South Hams"
-        ],
+        "South Hams",
         [
           "/wiki/South_Hams"
         ]
@@ -242,33 +152,21 @@
     ],
     [
       [
-        [
-          "TQ7"
-        ],
-        [
-          null
-        ]
+        "TQ7",
+        []
       ],
       [
-        [
-          "KINGSBRIDGE"
-        ],
-        [
-          null
-        ]
+        "KINGSBRIDGE",
+        []
       ],
       [
-        [
-          "Kingsbridge"
-        ],
+        "Kingsbridge",
         [
           "/wiki/Kingsbridge"
         ]
       ],
       [
-        [
-          "South Hams"
-        ],
+        "South Hams",
         [
           "/wiki/South_Hams"
         ]
@@ -276,33 +174,21 @@
     ],
     [
       [
-        [
-          "TQ8"
-        ],
-        [
-          null
-        ]
+        "TQ8",
+        []
       ],
       [
-        [
-          "SALCOMBE"
-        ],
-        [
-          null
-        ]
+        "SALCOMBE",
+        []
       ],
       [
-        [
-          "Salcombe"
-        ],
+        "Salcombe",
         [
           "/wiki/Salcombe"
         ]
       ],
       [
-        [
-          "South Hams"
-        ],
+        "South Hams",
         [
           "/wiki/South_Hams"
         ]
@@ -310,35 +196,22 @@
     ],
     [
       [
-        [
-          "TQ9"
-        ],
-        [
-          null
-        ]
+        "TQ9",
+        []
       ],
       [
-        [
-          "TOTNES"
-        ],
-        [
-          null
-        ]
+        "TOTNES",
+        []
       ],
       [
-        [
-          "Totnes",
-          "Dartington"
-        ],
+        "Totnes , Dartington",
         [
           "/wiki/Totnes",
           "/wiki/Dartington"
         ]
       ],
       [
-        [
-          "South Hams"
-        ],
+        "South Hams",
         [
           "/wiki/South_Hams"
         ]
@@ -346,33 +219,19 @@
     ],
     [
       [
-        [
-          "TQ9"
-        ],
-        [
-          null
-        ]
+        "TQ9",
+        []
       ],
       [
-        [
-          "SOUTH BRENT"
-        ],
-        [
-          null
-        ]
+        "SOUTH BRENT",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "non-geographic"
-        ],
+        "non-geographic",
         [
           "/wiki/Non-geographic_postcodes"
         ]
@@ -380,33 +239,21 @@
     ],
     [
       [
-        [
-          "TQ10"
-        ],
-        [
-          null
-        ]
+        "TQ10",
+        []
       ],
       [
-        [
-          "SOUTH BRENT"
-        ],
-        [
-          null
-        ]
+        "SOUTH BRENT",
+        []
       ],
       [
-        [
-          "South Brent"
-        ],
+        "South Brent",
         [
           "/wiki/South_Brent"
         ]
       ],
       [
-        [
-          "South Hams"
-        ],
+        "South Hams",
         [
           "/wiki/South_Hams"
         ]
@@ -414,33 +261,21 @@
     ],
     [
       [
-        [
-          "TQ11"
-        ],
-        [
-          null
-        ]
+        "TQ11",
+        []
       ],
       [
-        [
-          "BUCKFASTLEIGH"
-        ],
-        [
-          null
-        ]
+        "BUCKFASTLEIGH",
+        []
       ],
       [
-        [
-          "Buckfastleigh"
-        ],
+        "Buckfastleigh",
         [
           "/wiki/Buckfastleigh"
         ]
       ],
       [
-        [
-          "Teignbridge"
-        ],
+        "Teignbridge",
         [
           "/wiki/Teignbridge"
         ]
@@ -448,35 +283,22 @@
     ],
     [
       [
-        [
-          "TQ12"
-        ],
-        [
-          null
-        ]
+        "TQ12",
+        []
       ],
       [
-        [
-          "NEWTON ABBOT"
-        ],
-        [
-          null
-        ]
+        "NEWTON ABBOT",
+        []
       ],
       [
-        [
-          "Newton Abbot",
-          "Kingsteignton"
-        ],
+        "Newton Abbot , Kingsteignton",
         [
           "/wiki/Newton_Abbot",
           "/wiki/Kingsteignton"
         ]
       ],
       [
-        [
-          "Teignbridge"
-        ],
+        "Teignbridge",
         [
           "/wiki/Teignbridge"
         ]
@@ -484,29 +306,15 @@
     ],
     [
       [
-        [
-          "TQ13"
-        ],
-        [
-          null
-        ]
+        "TQ13",
+        []
       ],
       [
-        [
-          "NEWTON ABBOT"
-        ],
-        [
-          null
-        ]
+        "NEWTON ABBOT",
+        []
       ],
       [
-        [
-          "Ashburton",
-          "Bovey Tracey",
-          "Chudleigh",
-          "Moretonhampstead",
-          "Widecombe in the Moor"
-        ],
+        "Ashburton , Bovey Tracey , Chudleigh , Moretonhampstead , Widecombe in the Moor",
         [
           "/wiki/Ashburton,_Devon",
           "/wiki/Bovey_Tracey",
@@ -516,9 +324,7 @@
         ]
       ],
       [
-        [
-          "Teignbridge"
-        ],
+        "Teignbridge",
         [
           "/wiki/Teignbridge"
         ]
@@ -526,33 +332,21 @@
     ],
     [
       [
-        [
-          "TQ14"
-        ],
-        [
-          null
-        ]
+        "TQ14",
+        []
       ],
       [
-        [
-          "TEIGNMOUTH"
-        ],
-        [
-          null
-        ]
+        "TEIGNMOUTH",
+        []
       ],
       [
-        [
-          "Teignmouth"
-        ],
+        "Teignmouth",
         [
           "/wiki/Teignmouth"
         ]
       ],
       [
-        [
-          "Teignbridge"
-        ],
+        "Teignbridge",
         [
           "/wiki/Teignbridge"
         ]

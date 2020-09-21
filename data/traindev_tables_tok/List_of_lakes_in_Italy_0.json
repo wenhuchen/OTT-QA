@@ -3,62 +3,36 @@
   "title": "List of lakes of Italy",
   "header": [
     [
-      [
-        "Lake"
-      ],
-      [
-        null
-      ]
+      "Lake",
+      []
     ],
     [
-      [
-        "Region"
-      ],
-      [
-        null
-      ]
+      "Region",
+      []
     ],
     [
-      [
-        "Area km\u00b2"
-      ],
-      [
-        null
-      ]
+      "Area km\u00b2",
+      []
     ],
     [
-      [
-        "Elevation m"
-      ],
-      [
-        null
-      ]
+      "Elevation m",
+      []
     ],
     [
-      [
-        "Depth m"
-      ],
-      [
-        null
-      ]
+      "Depth m",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Lake Garda"
-        ],
+        "Lake Garda ( Lago di Garda )",
         [
           "/wiki/Lake_Garda"
         ]
       ],
       [
-        [
-          "Lombardy",
-          "Trentino/South Tyrol",
-          "Veneto"
-        ],
+        "Lombardy , Trentino/South Tyrol , Veneto",
         [
           "/wiki/Lombardy",
           "/wiki/Trentino-Alto_Adige/S\u00fcdtirol",
@@ -66,45 +40,27 @@
         ]
       ],
       [
-        [
-          "370"
-        ],
-        [
-          null
-        ]
+        "370",
+        []
       ],
       [
-        [
-          "65"
-        ],
-        [
-          null
-        ]
+        "65",
+        []
       ],
       [
-        [
-          "346"
-        ],
-        [
-          null
-        ]
+        "346",
+        []
       ]
     ],
     [
       [
-        [
-          "Lago Maggiore"
-        ],
+        "Lago Maggiore",
         [
           "/wiki/Lago_Maggiore"
         ]
       ],
       [
-        [
-          "Lombardy",
-          "Piedmont",
-          "Switzerland"
-        ],
+        "Lombardy , Piedmont , Ticino ( Switzerland )",
         [
           "/wiki/Lombardy",
           "/wiki/Piedmont",
@@ -112,534 +68,329 @@
         ]
       ],
       [
-        [
-          "210"
-        ],
-        [
-          null
-        ]
+        "210",
+        []
       ],
       [
-        [
-          "194"
-        ],
-        [
-          null
-        ]
+        "194",
+        []
       ],
       [
-        [
-          "372"
-        ],
-        [
-          null
-        ]
+        "372",
+        []
       ]
     ],
     [
       [
-        [
-          "Lake Como"
-        ],
+        "Lake Como ( Lago di Como )",
         [
           "/wiki/Lake_Como"
         ]
       ],
       [
-        [
-          "Lombardy"
-        ],
+        "Lombardy",
         [
           "/wiki/Lombardy"
         ]
       ],
       [
-        [
-          "146"
-        ],
-        [
-          null
-        ]
+        "146",
+        []
       ],
       [
-        [
-          "198"
-        ],
-        [
-          null
-        ]
+        "198",
+        []
       ],
       [
-        [
-          "410"
-        ],
-        [
-          null
-        ]
+        "410",
+        []
       ]
     ],
     [
       [
-        [
-          "Lake Trasimeno"
-        ],
+        "Lake Trasimeno ( Lago Trasimeno )",
         [
           "/wiki/Lake_Trasimeno"
         ]
       ],
       [
-        [
-          "Umbria"
-        ],
+        "Umbria",
         [
           "/wiki/Umbria"
         ]
       ],
       [
-        [
-          "124"
-        ],
-        [
-          null
-        ]
+        "124",
+        []
       ],
       [
-        [
-          "257"
-        ],
-        [
-          null
-        ]
+        "257",
+        []
       ],
       [
-        [
-          "7"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ]
     ],
     [
       [
-        [
-          "Lake Bolsena"
-        ],
+        "Lake Bolsena ( Lago di Bolsena )",
         [
           "/wiki/Lake_Bolsena"
         ]
       ],
       [
-        [
-          "Lazio"
-        ],
+        "Lazio",
         [
           "/wiki/Lazio"
         ]
       ],
       [
-        [
-          "114"
-        ],
-        [
-          null
-        ]
+        "114",
+        []
       ],
       [
-        [
-          "305"
-        ],
-        [
-          null
-        ]
+        "305",
+        []
       ],
       [
-        [
-          "151"
-        ],
-        [
-          null
-        ]
+        "151",
+        []
       ]
     ],
     [
       [
-        [
-          "Lake Iseo"
-        ],
+        "Lake Iseo ( Lago d'Iseo )",
         [
           "/wiki/Lake_Iseo"
         ]
       ],
       [
-        [
-          "Lombardy"
-        ],
+        "Lombardy",
         [
           "/wiki/Lombardy"
         ]
       ],
       [
-        [
-          "65.3"
-        ],
-        [
-          null
-        ]
+        "65.3",
+        []
       ],
       [
-        [
-          "186"
-        ],
-        [
-          null
-        ]
+        "186",
+        []
       ],
       [
-        [
-          "251"
-        ],
-        [
-          null
-        ]
+        "251",
+        []
       ]
     ],
     [
       [
-        [
-          "Lake Bracciano"
-        ],
+        "Lake Bracciano ( Lago di Bracciano )",
         [
           "/wiki/Lake_Bracciano"
         ]
       ],
       [
-        [
-          "Lazio"
-        ],
+        "Lazio",
         [
           "/wiki/Lazio"
         ]
       ],
       [
-        [
-          "56.7"
-        ],
-        [
-          null
-        ]
+        "56.7",
+        []
       ],
       [
-        [
-          "160"
-        ],
-        [
-          null
-        ]
+        "160",
+        []
       ],
       [
-        [
-          "165"
-        ],
-        [
-          null
-        ]
+        "165",
+        []
       ]
     ],
     [
       [
-        [
-          "Lake Lugano"
-        ],
+        "Lake Lugano ( Lago di Lugano )",
         [
           "/wiki/Lake_Lugano"
         ]
       ],
       [
-        [
-          "Lombardy",
-          "Switzerland"
-        ],
+        "Lombardy , Ticino ( Switzerland )",
         [
           "/wiki/Lombardy",
           "/wiki/Switzerland"
         ]
       ],
       [
-        [
-          "48.7"
-        ],
-        [
-          null
-        ]
+        "48.7",
+        []
       ],
       [
-        [
-          "271"
-        ],
-        [
-          null
-        ]
+        "271",
+        []
       ],
       [
-        [
-          "288"
-        ],
-        [
-          null
-        ]
+        "288",
+        []
       ]
     ],
     [
       [
-        [
-          "Lake Omodeo"
-        ],
+        "Lake Omodeo ( Lago Omodeo )",
         [
           "/wiki/Lake_Omodeo"
         ]
       ],
       [
-        [
-          "Sardinia"
-        ],
+        "Sardinia",
         [
           "/wiki/Sardinia"
         ]
       ],
       [
-        [
-          "29"
-        ],
-        [
-          null
-        ]
+        "29",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Lago d'Orta"
-        ],
+        "Lago d'Orta",
         [
           "/wiki/Lago_d'Orta"
         ]
       ],
       [
-        [
-          "Piedmont"
-        ],
+        "Piedmont",
         [
           "/wiki/Piedmont"
         ]
       ],
       [
-        [
-          "18.2"
-        ],
-        [
-          null
-        ]
+        "18.2",
+        []
       ],
       [
-        [
-          "290"
-        ],
-        [
-          null
-        ]
+        "290",
+        []
       ],
       [
-        [
-          "144"
-        ],
-        [
-          null
-        ]
+        "144",
+        []
       ]
     ],
     [
       [
-        [
-          "Lake Coghinas"
-        ],
+        "Lake Coghinas ( Lago Coghinas )",
         [
           "/wiki/Lake_Coghinas"
         ]
       ],
       [
-        [
-          "Sardinia"
-        ],
+        "Sardinia",
         [
           "/wiki/Sardinia"
         ]
       ],
       [
-        [
-          "17.8"
-        ],
-        [
-          null
-        ]
+        "17.8",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Lago di Varese"
-        ],
+        "Lago di Varese",
         [
           "/wiki/Lago_di_Varese"
         ]
       ],
       [
-        [
-          "Lombardy"
-        ],
+        "Lombardy",
         [
           "/wiki/Lombardy"
         ]
       ],
       [
-        [
-          "14.9"
-        ],
-        [
-          null
-        ]
+        "14.9",
+        []
       ],
       [
-        [
-          "238"
-        ],
-        [
-          null
-        ]
+        "238",
+        []
       ],
       [
-        [
-          "26"
-        ],
-        [
-          null
-        ]
+        "26",
+        []
       ]
     ],
     [
       [
-        [
-          "Lago di Vico"
-        ],
+        "Lago di Vico",
         [
           "/wiki/Lago_di_Vico"
         ]
       ],
       [
-        [
-          "Lazio"
-        ],
+        "Lazio",
         [
           "/wiki/Lazio"
         ]
       ],
       [
-        [
-          "12.1"
-        ],
-        [
-          null
-        ]
+        "12.1",
+        []
       ],
       [
-        [
-          "510"
-        ],
-        [
-          null
-        ]
+        "510",
+        []
       ],
       [
-        [
-          "48.5"
-        ],
-        [
-          null
-        ]
+        "48.5",
+        []
       ]
     ],
     [
       [
-        [
-          "Lago d'Idro"
-        ],
+        "Lago d'Idro",
         [
           "/wiki/Lago_d'Idro"
         ]
       ],
       [
-        [
-          "Lombardy"
-        ],
+        "Lombardy",
         [
           "/wiki/Lombardy"
         ]
       ],
       [
-        [
-          "10.9"
-        ],
-        [
-          null
-        ]
+        "10.9",
+        []
       ],
       [
-        [
-          "368"
-        ],
-        [
-          null
-        ]
+        "368",
+        []
       ],
       [
-        [
-          "122"
-        ],
-        [
-          null
-        ]
+        "122",
+        []
       ]
     ]
   ],

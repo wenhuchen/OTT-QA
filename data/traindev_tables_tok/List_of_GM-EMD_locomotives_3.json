@@ -3,49 +3,31 @@
   "title": "List of GM-EMD locomotives",
   "header": [
     [
-      [
-        "Model designation"
-      ],
-      [
-        null
-      ]
+      "Model designation",
+      []
     ],
     [
-      [
-        "Build year"
-      ],
-      [
-        null
-      ]
+      "Build year",
+      []
     ],
     [
-      [
-        "Total produced"
-      ],
-      [
-        null
-      ]
+      "Total produced",
+      []
     ],
     [
-      [
-        "AAR wheel arrangement"
-      ],
+      "AAR wheel arrangement",
       [
         "/wiki/AAR_wheel_arrangement"
       ]
     ],
     [
-      [
-        "Prime mover"
-      ],
+      "Prime mover",
       [
         "/wiki/Prime_mover_(locomotive)"
       ]
     ],
     [
-      [
-        "Power output"
-      ],
+      "Power output",
       [
         "/wiki/Horsepower"
       ]
@@ -54,256 +36,166 @@
   "data": [
     [
       [
-        [
-          "FT"
-        ],
+        "FT",
         [
           "/wiki/EMD_FT"
         ]
       ],
       [
-        [
-          "1939-1945"
-        ],
-        [
-          null
-        ]
+        "1939-1945",
+        []
       ],
       [
-        [
-          "555 A units , 541 B units"
-        ],
-        [
-          null
-        ]
+        "555 A units , 541 B units",
+        []
       ],
       [
-        [
-          "B-B",
-          "B-B+B-B"
-        ],
+        "B-B ( B-B+B-B with B unit )",
         [
           "/wiki/AAR_wheel_arrangement",
           "/wiki/AAR_wheel_arrangement"
         ]
       ],
       [
-        [
-          "EMD 16-567",
-          "EMD 16-567A"
-        ],
+        "EMD 16-567 EMD 16-567A",
         [
           "/wiki/EMD_567",
           "/wiki/EMD_567"
         ]
       ],
       [
-        [
-          "2,700 hp ( with B unit )"
-        ],
-        [
-          null
-        ]
+        "2,700 hp ( with B unit )",
+        []
       ]
     ],
     [
       [
-        [
-          "F2"
-        ],
+        "F2",
         [
           "/wiki/EMD_F2"
         ]
       ],
       [
-        [
-          "1946"
-        ],
-        [
-          null
-        ]
+        "1946",
+        []
       ],
       [
-        [
-          "74 A units , 30 B units"
-        ],
-        [
-          null
-        ]
+        "74 A units , 30 B units",
+        []
       ],
       [
-        [
-          "B-B"
-        ],
+        "B-B",
         [
           "/wiki/AAR_wheel_arrangement"
         ]
       ],
       [
-        [
-          "EMD 16-567B"
-        ],
+        "EMD 16-567B",
         [
           "/wiki/EMD_567"
         ]
       ],
       [
-        [
-          "1,350 hp ( 1000 kW )"
-        ],
-        [
-          null
-        ]
+        "1,350 hp ( 1000 kW )",
+        []
       ]
     ],
     [
       [
-        [
-          "F3"
-        ],
+        "F3",
         [
           "/wiki/EMD_F3"
         ]
       ],
       [
-        [
-          "1946-1949"
-        ],
-        [
-          null
-        ]
+        "1946-1949",
+        []
       ],
       [
-        [
-          "1,111 A units , 696 B units"
-        ],
-        [
-          null
-        ]
+        "1,111 A units , 696 B units",
+        []
       ],
       [
-        [
-          "B-B"
-        ],
+        "B-B",
         [
           "/wiki/AAR_wheel_arrangement"
         ]
       ],
       [
-        [
-          "EMD 16-567B"
-        ],
+        "EMD 16-567B",
         [
           "/wiki/EMD_567"
         ]
       ],
       [
-        [
-          "1,500 hp ( 1,100 kW )"
-        ],
-        [
-          null
-        ]
+        "1,500 hp ( 1,100 kW )",
+        []
       ]
     ],
     [
       [
-        [
-          "F7"
-        ],
+        "F7",
         [
           "/wiki/EMD_F7"
         ]
       ],
       [
-        [
-          "1949-1953"
-        ],
-        [
-          null
-        ]
+        "1949-1953",
+        []
       ],
       [
-        [
-          "2,366 A units , 1,483 B units"
-        ],
-        [
-          null
-        ]
+        "2,366 A units , 1,483 B units",
+        []
       ],
       [
-        [
-          "B-B"
-        ],
+        "B-B",
         [
           "/wiki/AAR_wheel_arrangement"
         ]
       ],
       [
-        [
-          "EMD 16-567B"
-        ],
+        "EMD 16-567B",
         [
           "/wiki/EMD_567"
         ]
       ],
       [
-        [
-          "1,500 hp ( 1,100 kW )"
-        ],
-        [
-          null
-        ]
+        "1,500 hp ( 1,100 kW )",
+        []
       ]
     ],
     [
       [
-        [
-          "FP7"
-        ],
+        "FP7",
         [
           "/wiki/EMD_FP7"
         ]
       ],
       [
-        [
-          "1949-1953"
-        ],
-        [
-          null
-        ]
+        "1949-1953",
+        []
       ],
       [
-        [
-          "A units",
-          "B units"
-        ],
+        "381 A units , no B units",
         [
           "/wiki/A_unit",
           "/wiki/B_unit"
         ]
       ],
       [
-        [
-          "B-B"
-        ],
+        "B-B",
         [
           "/wiki/AAR_wheel_arrangement"
         ]
       ],
       [
-        [
-          "EMD 567"
-        ],
+        "EMD 567 B",
         [
           "/wiki/EMD_567"
         ]
       ],
       [
-        [
-          "hp",
-          "kW"
-        ],
+        "1,500 hp ( 1,200 kW )",
         [
           "/wiki/Horsepower",
           "/wiki/Watt"
@@ -312,102 +204,68 @@
     ],
     [
       [
-        [
-          "F9"
-        ],
+        "F9",
         [
           "/wiki/EMD_F9"
         ]
       ],
       [
-        [
-          "1953-1960"
-        ],
-        [
-          null
-        ]
+        "1953-1960",
+        []
       ],
       [
-        [
-          "99 A units , 156 B units"
-        ],
-        [
-          null
-        ]
+        "99 A units , 156 B units",
+        []
       ],
       [
-        [
-          "B-B"
-        ],
+        "B-B",
         [
           "/wiki/AAR_wheel_arrangement"
         ]
       ],
       [
-        [
-          "EMD 16-567C"
-        ],
+        "EMD 16-567C",
         [
           "/wiki/EMD_567"
         ]
       ],
       [
-        [
-          "1,750 hp ( 1200 kW )"
-        ],
-        [
-          null
-        ]
+        "1,750 hp ( 1200 kW )",
+        []
       ]
     ],
     [
       [
-        [
-          "FP9"
-        ],
+        "FP9",
         [
           "/wiki/EMD_FP9"
         ]
       ],
       [
-        [
-          "1954-1959"
-        ],
-        [
-          null
-        ]
+        "1954-1959",
+        []
       ],
       [
-        [
-          "A units",
-          "B units"
-        ],
+        "90 A units , no B units",
         [
           "/wiki/A_unit",
           "/wiki/B_unit"
         ]
       ],
       [
-        [
-          "B-B"
-        ],
+        "B-B",
         [
           "/wiki/AAR_wheel_arrangement"
         ]
       ],
       [
-        [
-          "EMD 567"
-        ],
+        "EMD 567 C",
         [
           "/wiki/EMD_567"
         ]
       ],
       [
-        [
-          "hp",
-          "kW"
-        ],
+        "1,750 hp ( 1,300 kW )",
         [
           "/wiki/Horsepower",
           "/wiki/Watt"
@@ -416,52 +274,33 @@
     ],
     [
       [
-        [
-          "FL9"
-        ],
+        "FL9",
         [
           "/wiki/EMD_FL9"
         ]
       ],
       [
-        [
-          "1956-1960"
-        ],
-        [
-          null
-        ]
+        "1956-1960",
+        []
       ],
       [
-        [
-          "60"
-        ],
-        [
-          null
-        ]
+        "60",
+        []
       ],
       [
-        [
-          "B-A1A"
-        ],
+        "B-A1A",
         [
           "/wiki/AAR_wheel_arrangement"
         ]
       ],
       [
-        [
-          "EMD 567"
-        ],
+        "EMD 567 C or EMD 567D1 ; plus 660 V DC ( 3rd rail )",
         [
           "/wiki/EMD_567"
         ]
       ],
       [
-        [
-          "hp",
-          "kW",
-          "hp",
-          "kW"
-        ],
+        "567C : 1,750 hp ( 1,300 kW ) ; 567D1 : 1,800 hp ( 1,340 kW )",
         [
           "/wiki/Horsepower",
           "/wiki/Watt",

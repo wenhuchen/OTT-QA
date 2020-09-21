@@ -3,138 +3,85 @@
   "title": "List of single sign-on implementations",
   "header": [
     [
-      [
-        "Product Name"
-      ],
-      [
-        null
-      ]
+      "Product Name",
+      []
     ],
     [
-      [
-        "Project/Vendor"
-      ],
-      [
-        null
-      ]
+      "Project/Vendor",
+      []
     ],
     [
-      [
-        "License"
-      ],
-      [
-        null
-      ]
+      "License",
+      []
     ],
     [
-      [
-        "Description"
-      ],
-      [
-        null
-      ]
+      "Description",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Accounts & SSO"
-        ],
+        "Accounts & SSO",
         [
           "/wiki/Accounts_&_SSO"
         ]
       ],
       [
-        [
-          "Nokia",
-          "Intel"
-        ],
+        "Nokia , Intel , \u2026",
         [
           "/wiki/Nokia",
           "/wiki/Intel"
         ]
       ],
       [
-        [
-          "Free software"
-        ],
+        "Free software",
         [
           "/wiki/Free_software"
         ]
       ],
       [
-        [
-          "Client-side implementation with plugins for various services/protocols"
-        ],
-        [
-          null
-        ]
+        "Client-side implementation with plugins for various services/protocols",
+        []
       ]
     ],
     [
       [
-        [
-          "Active Directory Federation Services"
-        ],
+        "Active Directory Federation Services",
         [
           "/wiki/Active_Directory_Federation_Services"
         ]
       ],
       [
-        [
-          "Microsoft"
-        ],
+        "Microsoft",
         [
           "/wiki/Microsoft"
         ]
       ],
       [
-        [
-          "Proprietary"
-        ],
-        [
-          null
-        ]
+        "Proprietary",
+        []
       ],
       [
-        [
-          "Claims-based system and application federation"
-        ],
-        [
-          null
-        ]
+        "Claims-based system and application federation",
+        []
       ]
     ],
     [
       [
-        [
-          "Aerobase"
-        ],
-        [
-          null
-        ]
+        "Aerobase ( Aerobase SSO )",
+        []
       ],
       [
-        [
-          "Aerobase"
-        ],
-        [
-          null
-        ]
+        "Aerobase",
+        []
       ],
       [
-        [
-          "Open source"
-        ],
-        [
-          null
-        ]
+        "Open source",
+        []
       ],
       [
-        [
-          "single sign on"
-        ],
+        "Federated SSO ( LDAP and Active Directory ) , standard protocols ( OpenID Connect , OAuth 2.0 and SAML 2.0 ) for Web , clustering and single sign on . Aerobase Single Sign-On . Forked from Keycloak",
         [
           "/wiki/Single_sign_on"
         ]
@@ -142,580 +89,352 @@
     ],
     [
       [
-        [
-          "Bitium"
-        ],
+        "Bitium",
         [
           "/wiki/Bitium"
         ]
       ],
       [
-        [
-          "Bitium"
-        ],
-        [
-          null
-        ]
+        "Bitium",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary",
         [
           "/wiki/Proprietary_software"
         ]
       ],
       [
-        [
-          "Enterprise cloud-based identity and access management solution with single sign-on , active directory integration and 2-factor authentication options"
-        ],
-        [
-          null
-        ]
+        "Enterprise cloud-based identity and access management solution with single sign-on , active directory integration and 2-factor authentication options",
+        []
       ]
     ],
     [
       [
-        [
-          "Central Authentication Service"
-        ],
+        "CAS / Central Authentication Service",
         [
           "/wiki/Central_Authentication_Service"
         ]
       ],
       [
-        [
-          "Apereo"
-        ],
-        [
-          null
-        ]
+        "Apereo",
+        []
       ],
       [
-        [
-          "Apache 2.0"
-        ],
+        "Free & Open Source ( Apache 2.0 )",
         [
           "/wiki/Apache_License"
         ]
       ],
       [
-        [
-          "Protocol and open-source SSO server/client implementation with support for CAS , SAML1 , SAML2 , OAuth2 , SCIM , OpenID Connect and WS-Fed protocols both as an identity provider and a service provider with other auxiliary functions that deal with user consent , access management , impersonation , terms of use , etc . Licensed under Apache 2.0"
-        ],
-        [
-          null
-        ]
+        "Protocol and open-source SSO server/client implementation with support for CAS , SAML1 , SAML2 , OAuth2 , SCIM , OpenID Connect and WS-Fed protocols both as an identity provider and a service provider with other auxiliary functions that deal with user consent , access management , impersonation , terms of use , etc . Licensed under Apache 2.0",
+        []
       ]
     ],
     [
       [
-        [
-          "CA Single Sign-on"
-        ],
-        [
-          null
-        ]
+        "CA Single Sign-on",
+        []
       ],
       [
-        [
-          "Broadcom"
-        ],
+        "Broadcom",
         [
           "/wiki/Broadcom"
         ]
       ],
       [
-        [
-          "Proprietary"
-        ],
-        [
-          null
-        ]
+        "Proprietary",
+        []
       ],
       [
-        [
-          "web access management system that enables user authentication and secure Internet SSO ( single sign-on ) , policy-driven authorization , federation of identities ( SAML and OIDC ) C , and complete auditing of all access to the web applications it protects"
-        ],
-        [
-          null
-        ]
+        "web access management system that enables user authentication and secure Internet SSO ( single sign-on ) , policy-driven authorization , federation of identities ( SAML and OIDC ) C , and complete auditing of all access to the web applications it protects",
+        []
       ]
     ],
     [
       [
-        [
-          "Crowd"
-        ],
-        [
-          null
-        ]
+        "Crowd",
+        []
       ],
       [
-        [
-          "Atlassian"
-        ],
+        "Atlassian",
         [
           "/wiki/Atlassian"
         ]
       ],
       [
-        [
-          "Proprietary"
-        ],
-        [
-          null
-        ]
+        "Proprietary",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "CoSign single sign on"
-        ],
+        "CoSign single sign on",
         [
           "/wiki/CoSign_single_sign_on"
         ]
       ],
       [
-        [
-          "University of Michigan"
-        ],
+        "University of Michigan",
         [
           "/wiki/University_of_Michigan"
         ]
       ],
       [
-        [
-          "Academic"
-        ],
-        [
-          null
-        ]
+        "Academic",
+        []
       ],
       [
-        [
-          "SSO for University of Michigan"
-        ],
-        [
-          null
-        ]
+        "SSO for University of Michigan",
+        []
       ]
     ],
     [
       [
-        [
-          "Digital Resolve SSO"
-        ],
-        [
-          null
-        ]
+        "Digital Resolve SSO",
+        []
       ],
       [
-        [
-          "Digital Resolve"
-        ],
-        [
-          null
-        ]
+        "Digital Resolve",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
-        [
-          null
-        ]
+        "Proprietary",
+        []
       ],
       [
-        [
-          "SAML 2.0 , Enterprise SSO , Cloud-based , Federation , Passive Federation ; combines SSO with proprietary multifactor authentication and behavioral monitoring technology"
-        ],
-        [
-          null
-        ]
+        "SAML 2.0 , Enterprise SSO , Cloud-based , Federation , Passive Federation ; combines SSO with proprietary multifactor authentication and behavioral monitoring technology",
+        []
       ]
     ],
     [
       [
-        [
-          "Distributed Access Control System"
-        ],
+        "Distributed Access Control System ( DACS )",
         [
           "/wiki/Distributed_Access_Control_System"
         ]
       ],
       [
-        [
-          "Distributed Systems Software"
-        ],
-        [
-          null
-        ]
+        "Distributed Systems Software",
+        []
       ],
       [
-        [
-          "Free Software"
-        ],
-        [
-          null
-        ]
+        "Free Software",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Facebook connect"
-        ],
+        "Facebook connect",
         [
           "/wiki/Facebook_connect"
         ]
       ],
       [
-        [
-          "Facebook"
-        ],
+        "Facebook",
         [
           "/wiki/Facebook"
         ]
       ],
       [
-        [
-          "Proprietary"
-        ],
-        [
-          null
-        ]
+        "Proprietary",
+        []
       ],
       [
-        [
-          "Facebook SSO to third parties enabled by Facebook"
-        ],
-        [
-          null
-        ]
+        "Facebook SSO to third parties enabled by Facebook",
+        []
       ]
     ],
     [
       [
-        [
-          "FreeIPA"
-        ],
+        "FreeIPA",
         [
           "/wiki/FreeIPA"
         ]
       ],
       [
-        [
-          "Red Hat"
-        ],
+        "Red Hat",
         [
           "/wiki/Red_Hat"
         ]
       ],
       [
-        [
-          "Free Software"
-        ],
-        [
-          null
-        ]
+        "Free Software",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "HelloID"
-        ],
-        [
-          null
-        ]
+        "HelloID",
+        []
       ],
       [
-        [
-          "Tools4ever B.V"
-        ],
-        [
-          null
-        ]
+        "Tools4ever B.V",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
-        [
-          null
-        ]
+        "Proprietary",
+        []
       ],
       [
-        [
-          "Cloud-based Identity & Access Management ( IAM ) solution with single sign-on ( SSO ) , Multi Factor Authentication and Active Directory integration"
-        ],
-        [
-          null
-        ]
+        "Cloud-based Identity & Access Management ( IAM ) solution with single sign-on ( SSO ) , Multi Factor Authentication and Active Directory integration",
+        []
       ]
     ],
     [
       [
-        [
-          "IceWall SSO"
-        ],
+        "IceWall SSO",
         [
           "/wiki/IceWall_SSO"
         ]
       ],
       [
-        [
-          "Hewlett-Packard Enterprise"
-        ],
-        [
-          null
-        ]
+        "Hewlett-Packard Enterprise",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
-        [
-          null
-        ]
+        "Proprietary",
+        []
       ],
       [
-        [
-          "Web and Federated Single Sign-On Solution"
-        ],
-        [
-          null
-        ]
+        "Web and Federated Single Sign-On Solution",
+        []
       ]
     ],
     [
       [
-        [
-          "IBM Enterprise Identity Mapping"
-        ],
+        "IBM Enterprise Identity Mapping",
         [
           "/wiki/IBM_Enterprise_Identity_Mapping"
         ]
       ],
       [
-        [
-          "IBM"
-        ],
-        [
-          null
-        ]
+        "IBM",
+        []
       ],
       [
-        [
-          "Free software"
-        ],
-        [
-          null
-        ]
+        "Free software",
+        []
       ],
       [
-        [
-          "Works with Kerberos ( e.g . Active Directory ) and other authentication mechanisms to map different identities and hence allow single signon to all IBM server platforms ( Windows , Linux , PowerLinux , IBM i , i5/OS , OS/400 , AIX ) even when the user name differs"
-        ],
-        [
-          null
-        ]
+        "Works with Kerberos ( e.g . Active Directory ) and other authentication mechanisms to map different identities and hence allow single signon to all IBM server platforms ( Windows , Linux , PowerLinux , IBM i , i5/OS , OS/400 , AIX ) even when the user name differs",
+        []
       ]
     ],
     [
       [
-        [
-          "LTPA"
-        ],
+        "LTPA",
         [
           "/wiki/IBM_Lightweight_Third-Party_Authentication"
         ]
       ],
       [
-        [
-          "IBM"
-        ],
+        "IBM",
         [
           "/wiki/IBM"
         ]
       ],
       [
-        [
-          "Proprietary"
-        ],
-        [
-          null
-        ]
+        "Proprietary",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "IBM Tivoli Access Manager"
-        ],
+        "IBM Tivoli Access Manager",
         [
           "/wiki/IBM_Tivoli_Access_Manager"
         ]
       ],
       [
-        [
-          "IBM"
-        ],
-        [
-          null
-        ]
+        "IBM",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
-        [
-          null
-        ]
+        "Proprietary",
+        []
       ],
       [
-        [
-          "Web , enterprise & Federated SSO solution . IBM Tivoli Identity Manager provides Identity management platform"
-        ],
-        [
-          null
-        ]
+        "Web , enterprise & Federated SSO solution . IBM Tivoli Identity Manager provides Identity management platform",
+        []
       ]
     ],
     [
       [
-        [
-          "Imprivata"
-        ],
+        "Imprivata OneSign",
         [
           "/wiki/Imprivata"
         ]
       ],
       [
-        [
-          "Imprivata"
-        ],
+        "Imprivata",
         [
           "/wiki/Imprivata"
         ]
       ],
       [
-        [
-          "Proprietary"
-        ],
-        [
-          null
-        ]
+        "Proprietary",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Janrain"
-        ],
+        "Janrain Federate SSO",
         [
           "/wiki/Janrain"
         ]
       ],
       [
-        [
-          "Janrain"
-        ],
-        [
-          null
-        ]
+        "Janrain",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
-        [
-          null
-        ]
+        "Proprietary",
+        []
       ],
       [
-        [
-          "Social and conventional user SSO"
-        ],
-        [
-          null
-        ]
+        "Social and conventional user SSO",
+        []
       ]
     ],
     [
       [
-        [
-          "JOSSO"
-        ],
+        "JOSSO",
         [
           "/wiki/JOSSO"
         ]
       ],
       [
-        [
-          "JOSSO"
-        ],
-        [
-          null
-        ]
+        "JOSSO",
+        []
       ],
       [
-        [
-          "Free Software"
-        ],
-        [
-          null
-        ]
+        "Free Software",
+        []
       ],
       [
-        [
-          "Open Source Single Sign-On Server"
-        ],
-        [
-          null
-        ]
+        "Open Source Single Sign-On Server",
+        []
       ]
     ]
   ],

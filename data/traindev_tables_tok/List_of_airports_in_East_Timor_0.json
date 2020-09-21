@@ -3,102 +3,66 @@
   "title": "List of airports in East Timor",
   "header": [
     [
-      [
-        "City served"
-      ],
+      "City served",
       [
         "/wiki/List_of_cities_in_East_Timor"
       ]
     ],
     [
-      [
-        "ICAO"
-      ],
+      "ICAO",
       [
         "/wiki/ICAO_airport_code"
       ]
     ],
     [
-      [
-        "IATA"
-      ],
+      "IATA",
       [
         "/wiki/IATA_airport_code"
       ]
     ],
     [
-      [
-        "Airport name"
-      ],
-      [
-        null
-      ]
+      "Airport name",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Atauro Island"
-        ],
+        "Atauro Island",
         [
           "/wiki/Atauro_Island"
         ]
       ],
       [
-        [
-          "WPAT"
-        ],
-        [
-          null
-        ]
+        "WPAT",
+        []
       ],
       [
-        [
-          "AUT"
-        ],
-        [
-          null
-        ]
+        "AUT",
+        []
       ],
       [
-        [
-          "Atauro Airport"
-        ],
-        [
-          null
-        ]
+        "Atauro Airport",
+        []
       ]
     ],
     [
       [
-        [
-          "Baucau"
-        ],
+        "Baucau",
         [
           "/wiki/Baucau"
         ]
       ],
       [
-        [
-          "WPEC"
-        ],
-        [
-          null
-        ]
+        "WPEC",
+        []
       ],
       [
-        [
-          "BCH"
-        ],
-        [
-          null
-        ]
+        "BCH",
+        []
       ],
       [
-        [
-          "Baucau Airport"
-        ],
+        "Baucau Airport",
         [
           "/wiki/Baucau_Airport"
         ]
@@ -106,33 +70,21 @@
     ],
     [
       [
-        [
-          "Dili"
-        ],
+        "Dili",
         [
           "/wiki/Dili"
         ]
       ],
       [
-        [
-          "WPDL"
-        ],
-        [
-          null
-        ]
+        "WPDL",
+        []
       ],
       [
-        [
-          "DIL"
-        ],
-        [
-          null
-        ]
+        "DIL",
+        []
       ],
       [
-        [
-          "Presidente Nicolau Lobato International Airport"
-        ],
+        "Presidente Nicolau Lobato International Airport",
         [
           "/wiki/Presidente_Nicolau_Lobato_International_Airport"
         ]
@@ -140,103 +92,61 @@
     ],
     [
       [
-        [
-          "Fuiloro"
-        ],
+        "Fuiloro",
         [
           "/wiki/Fuiloro"
         ]
       ],
       [
-        [
-          "WPFL"
-        ],
-        [
-          null
-        ]
+        "WPFL",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Abisu Airport"
-        ],
-        [
-          null
-        ]
+        "Abisu Airport",
+        []
       ]
     ],
     [
       [
-        [
-          "Maliana"
-        ],
+        "Maliana",
         [
           "/wiki/Maliana"
         ]
       ],
       [
-        [
-          "WPMN"
-        ],
-        [
-          null
-        ]
+        "WPMN",
+        []
       ],
       [
-        [
-          "MPT"
-        ],
-        [
-          null
-        ]
+        "MPT",
+        []
       ],
       [
-        [
-          "Maliana Airport",
-          "id"
-        ],
-        [
-          null,
-          null
-        ]
+        "Maliana Airport [ id ]",
+        []
       ]
     ],
     [
       [
-        [
-          "Pante Macassar"
-        ],
+        "Pante Macassar",
         [
           "/wiki/Pante_Macassar"
         ]
       ],
       [
-        [
-          "WPOC"
-        ],
-        [
-          null
-        ]
+        "WPOC",
+        []
       ],
       [
-        [
-          "OEC"
-        ],
-        [
-          null
-        ]
+        "OEC",
+        []
       ],
       [
-        [
-          "Oecusse Airport"
-        ],
+        "Oecusse Airport",
         [
           "/wiki/Oecusse_Airport"
         ]
@@ -244,33 +154,21 @@
     ],
     [
       [
-        [
-          "Suai"
-        ],
+        "Suai",
         [
           "/wiki/Suai,_East_Timor"
         ]
       ],
       [
-        [
-          "WPDB"
-        ],
-        [
-          null
-        ]
+        "WPDB",
+        []
       ],
       [
-        [
-          "UAI"
-        ],
-        [
-          null
-        ]
+        "UAI",
+        []
       ],
       [
-        [
-          "Suai Airport"
-        ],
+        "Suai Airport",
         [
           "/wiki/Suai_Airport"
         ]
@@ -278,36 +176,22 @@
     ],
     [
       [
-        [
-          "Viqueque"
-        ],
+        "Viqueque",
         [
           "/wiki/Viqueque"
         ]
       ],
       [
-        [
-          "WPVQ"
-        ],
-        [
-          null
-        ]
+        "WPVQ",
+        []
       ],
       [
-        [
-          "VIQ"
-        ],
-        [
-          null
-        ]
+        "VIQ",
+        []
       ],
       [
-        [
-          "Viqueque Airport"
-        ],
-        [
-          null
-        ]
+        "Viqueque Airport",
+        []
       ]
     ]
   ],

@@ -3,88 +3,51 @@
   "title": "Sistema de Radiodifusoras Culturales Ind\u00edgenas",
   "header": [
     [
-      [
-        "Call sign"
-      ],
-      [
-        null
-      ]
+      "Call sign",
+      []
     ],
     [
-      [
-        "Launched"
-      ],
-      [
-        null
-      ]
+      "Launched",
+      []
     ],
     [
-      [
-        "Transmitting from"
-      ],
-      [
-        null
-      ]
+      "Transmitting from",
+      []
     ],
     [
-      [
-        "Coverage"
-      ],
-      [
-        null
-      ]
+      "Coverage",
+      []
     ],
     [
-      [
-        "Languages"
-      ],
-      [
-        null
-      ]
+      "Languages",
+      []
     ],
     [
-      [
-        "Frequency"
-      ],
-      [
-        null
-      ]
+      "Frequency",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "XEZV"
-        ],
+        "XEZV",
         [
           "/wiki/XEZV-AM"
         ]
       ],
       [
-        [
-          "10 May 1979"
-        ],
-        [
-          null
-        ]
+        "10 May 1979",
+        []
       ],
       [
-        [
-          "Guerrero",
-          "Tlapa de Comonfort"
-        ],
+        "Guerrero ( Tlapa de Comonfort )",
         [
           "/wiki/Guerrero",
           "/wiki/Tlapa_de_Comonfort"
         ]
       ],
       [
-        [
-          "Guerrero",
-          "Oaxaca",
-          "Puebla"
-        ],
+        "Guerrero Oaxaca Puebla",
         [
           "/wiki/Guerrero",
           "/wiki/Oaxaca",
@@ -92,11 +55,7 @@
         ]
       ],
       [
-        [
-          "Nahuatl",
-          "Mixtec",
-          "Tlapanec"
-        ],
+        "Nahuatl Mixtec Tlapanec",
         [
           "/wiki/Nahuatl",
           "/wiki/Mixtec_language",
@@ -104,47 +63,30 @@
         ]
       ],
       [
-        [
-          "800 AM"
-        ],
-        [
-          null
-        ]
+        "800 AM",
+        []
       ]
     ],
     [
       [
-        [
-          "XETLA XHPBSD"
-        ],
+        "XETLA XHPBSD",
         [
           "/wiki/XETLA-AM"
         ]
       ],
       [
-        [
-          "15 September 1982"
-        ],
-        [
-          null
-        ]
+        "15 September 1982",
+        []
       ],
       [
-        [
-          "Oaxaca",
-          "Tlaxiaco"
-        ],
+        "Oaxaca ( Tlaxiaco )",
         [
           "/wiki/Oaxaca",
           "/wiki/Tlaxiaco"
         ]
       ],
       [
-        [
-          "Oaxaca",
-          "Guerrero",
-          "Puebla"
-        ],
+        "Oaxaca Guerrero Puebla",
         [
           "/wiki/Oaxaca",
           "/wiki/Guerrero",
@@ -152,109 +94,72 @@
         ]
       ],
       [
-        [
-          "Mixtec",
-          "Triqui"
-        ],
+        "Mixtec Triqui",
         [
           "/wiki/Mixtec_language",
           "/wiki/Triqui_language"
         ]
       ],
       [
-        [
-          "930 AM 95.9 FM"
-        ],
-        [
-          null
-        ]
+        "930 AM 95.9 FM",
+        []
       ]
     ],
     [
       [
-        [
-          "XEPUR"
-        ],
+        "XEPUR",
         [
           "/wiki/XEPUR-AM"
         ]
       ],
       [
-        [
-          "2 October 1982"
-        ],
-        [
-          null
-        ]
+        "2 October 1982",
+        []
       ],
       [
-        [
-          "Michoac\u00e1n",
-          "Cher\u00e1n"
-        ],
+        "Michoac\u00e1n ( Cher\u00e1n )",
         [
           "/wiki/Michoac\u00e1n",
           "/wiki/Cher\u00e1n"
         ]
       ],
       [
-        [
-          "Michoac\u00e1n"
-        ],
+        "Michoac\u00e1n",
         [
           "/wiki/Michoac\u00e1n"
         ]
       ],
       [
-        [
-          "Purepecha"
-        ],
+        "Purepecha",
         [
           "/wiki/Purepecha_language"
         ]
       ],
       [
-        [
-          "830 AM"
-        ],
-        [
-          null
-        ]
+        "830 AM",
+        []
       ]
     ],
     [
       [
-        [
-          "XETAR"
-        ],
+        "XETAR",
         [
           "/wiki/XETAR-AM"
         ]
       ],
       [
-        [
-          "11 November 1982"
-        ],
-        [
-          null
-        ]
+        "11 November 1982",
+        []
       ],
       [
-        [
-          "Chihuahua",
-          "Guachochi"
-        ],
+        "Chihuahua ( Guachochi )",
         [
           "/wiki/Chihuahua_(state)",
           "/wiki/Guachochi"
         ]
       ],
       [
-        [
-          "Chihuahua",
-          "Sinaloa",
-          "Durango"
-        ],
+        "Chihuahua Sinaloa Durango",
         [
           "/wiki/Chihuahua_(state)",
           "/wiki/Sinaloa",
@@ -262,57 +167,37 @@
         ]
       ],
       [
-        [
-          "Tarahumara",
-          "Tepehuano"
-        ],
+        "Tarahumara Tepehuano",
         [
           "/wiki/Tarahumara_language",
           "/wiki/Tepehuano"
         ]
       ],
       [
-        [
-          "870 AM"
-        ],
-        [
-          null
-        ]
+        "870 AM",
+        []
       ]
     ],
     [
       [
-        [
-          "XHPET XEPET"
-        ],
+        "XHPET XEPET",
         [
           "/wiki/XHPET-FM"
         ]
       ],
       [
-        [
-          "29 November 1982"
-        ],
-        [
-          null
-        ]
+        "29 November 1982",
+        []
       ],
       [
-        [
-          "Yucat\u00e1n",
-          "Peto"
-        ],
+        "Yucat\u00e1n ( Peto )",
         [
           "/wiki/Yucat\u00e1n_(state)",
           "/wiki/Peto,_Yucat\u00e1n"
         ]
       ],
       [
-        [
-          "Yucat\u00e1n",
-          "Quintana Roo",
-          "Campeche"
-        ],
+        "Yucat\u00e1n Quintana Roo Campeche",
         [
           "/wiki/Yucat\u00e1n_(state)",
           "/wiki/Quintana_Roo",
@@ -320,67 +205,43 @@
         ]
       ],
       [
-        [
-          "Yucatec Maya"
-        ],
+        "Yucatec Maya",
         [
           "/wiki/Yucatec_Maya"
         ]
       ],
       [
-        [
-          "105.5 FM 730 AM"
-        ],
-        [
-          null
-        ]
+        "105.5 FM 730 AM",
+        []
       ]
     ],
     [
       [
-        [
-          "XEVFS"
-        ],
+        "XEVFS",
         [
           "/wiki/XEVFS-AM"
         ]
       ],
       [
-        [
-          "27 April 1987"
-        ],
-        [
-          null
-        ]
+        "27 April 1987",
+        []
       ],
       [
-        [
-          "Chiapas",
-          "Las Margaritas"
-        ],
+        "Chiapas ( Las Margaritas )",
         [
           "/wiki/Chiapas",
           "/wiki/Las_Margaritas,_Chiapas"
         ]
       ],
       [
-        [
-          "Chiapas",
-          "Guatemala"
-        ],
+        "Chiapas Guatemala",
         [
           "/wiki/Chiapas",
           "/wiki/Guatemala"
         ]
       ],
       [
-        [
-          "Tojolabal",
-          "Mam",
-          "Tseltal",
-          "Tsotsil",
-          "Popti"
-        ],
+        "Tojolabal Mam Tseltal Tsotsil Popti",
         [
           "/wiki/Tojolabal",
           "/wiki/Mam_language",
@@ -390,48 +251,30 @@
         ]
       ],
       [
-        [
-          "1030 AM"
-        ],
-        [
-          null
-        ]
+        "1030 AM",
+        []
       ]
     ],
     [
       [
-        [
-          "XEANT"
-        ],
+        "XEANT",
         [
           "/wiki/XEANT-AM"
         ]
       ],
       [
-        [
-          "28 September 1990"
-        ],
-        [
-          null
-        ]
+        "28 September 1990",
+        []
       ],
       [
-        [
-          "San Luis Potos\u00ed",
-          "Tancanhuitz de Santos"
-        ],
+        "San Luis Potos\u00ed ( Tancanhuitz de Santos )",
         [
           "/wiki/San_Luis_Potos\u00ed",
           "/wiki/Tancanhuitz_de_Santos"
         ]
       ],
       [
-        [
-          "San Luis Potos\u00ed",
-          "Hidalgo",
-          "Quer\u00e9taro",
-          "Veracruz"
-        ],
+        "San Luis Potos\u00ed Hidalgo Quer\u00e9taro Veracruz",
         [
           "/wiki/San_Luis_Potos\u00ed",
           "/wiki/Hidalgo_(state)",
@@ -440,11 +283,7 @@
         ]
       ],
       [
-        [
-          "Nahuatl",
-          "Pame",
-          "Wastek"
-        ],
+        "Nahuatl Pame Wastek",
         [
           "/wiki/Nahuatl",
           "/wiki/Pame_language",
@@ -452,57 +291,37 @@
         ]
       ],
       [
-        [
-          "770 AM"
-        ],
-        [
-          null
-        ]
+        "770 AM",
+        []
       ]
     ],
     [
       [
-        [
-          "XEGLO XHGJO"
-        ],
+        "XEGLO XHGJO",
         [
           "/wiki/XEGLO-AM"
         ]
       ],
       [
-        [
-          "18 November 1990"
-        ],
-        [
-          null
-        ]
+        "18 November 1990",
+        []
       ],
       [
-        [
-          "Oaxaca",
-          "Guelatao de Ju\u00e1rez"
-        ],
+        "Oaxaca ( Guelatao de Ju\u00e1rez )",
         [
           "/wiki/Oaxaca",
           "/wiki/Guelatao_de_Ju\u00e1rez"
         ]
       ],
       [
-        [
-          "Oaxaca",
-          "Veracruz"
-        ],
+        "Oaxaca Veracruz",
         [
           "/wiki/Oaxaca",
           "/wiki/Veracruz"
         ]
       ],
       [
-        [
-          "Zapotec",
-          "Mixe",
-          "Chinantec"
-        ],
+        "Zapotec Mixe Chinantec",
         [
           "/wiki/Zapotec_language",
           "/wiki/Mixe_language",
@@ -510,48 +329,30 @@
         ]
       ],
       [
-        [
-          "780 AM 88.3 FM"
-        ],
-        [
-          null
-        ]
+        "780 AM 88.3 FM",
+        []
       ]
     ],
     [
       [
-        [
-          "XEZON"
-        ],
+        "XEZON",
         [
           "/wiki/XEZON-AM"
         ]
       ],
       [
-        [
-          "20 November 1991"
-        ],
-        [
-          null
-        ]
+        "20 November 1991",
+        []
       ],
       [
-        [
-          "Veracruz",
-          "Zongolica"
-        ],
+        "Veracruz ( Zongolica )",
         [
           "/wiki/Veracruz",
           "/wiki/Zongolica"
         ]
       ],
       [
-        [
-          "Veracruz",
-          "Oaxaca",
-          "Puebla",
-          "Tlaxcala"
-        ],
+        "Veracruz Oaxaca Puebla Tlaxcala",
         [
           "/wiki/Veracruz",
           "/wiki/Oaxaca",
@@ -560,55 +361,36 @@
         ]
       ],
       [
-        [
-          "Nahuatl"
-        ],
+        "Nahuatl",
         [
           "/wiki/Nahuatl"
         ]
       ],
       [
-        [
-          "1360 AM"
-        ],
-        [
-          null
-        ]
+        "1360 AM",
+        []
       ]
     ],
     [
       [
-        [
-          "XEOJN"
-        ],
+        "XEOJN",
         [
           "/wiki/XEOJN-AM"
         ]
       ],
       [
-        [
-          "14 December 1991"
-        ],
-        [
-          null
-        ]
+        "14 December 1991",
+        []
       ],
       [
-        [
-          "Oaxaca",
-          "San Lucas Ojitl\u00e1n"
-        ],
+        "Oaxaca ( San Lucas Ojitl\u00e1n )",
         [
           "/wiki/Oaxaca",
           "/wiki/San_Lucas_Ojitl\u00e1n"
         ]
       ],
       [
-        [
-          "Oaxaca",
-          "Puebla",
-          "Veracruz"
-        ],
+        "Oaxaca Puebla Veracruz",
         [
           "/wiki/Oaxaca",
           "/wiki/Puebla",
@@ -616,11 +398,7 @@
         ]
       ],
       [
-        [
-          "Mazatec",
-          "Cuicatec",
-          "Chinantec"
-        ],
+        "Mazatec Cuicatec Chinantec",
         [
           "/wiki/Mazatecan_languages",
           "/wiki/Cuicatec",
@@ -628,48 +406,30 @@
         ]
       ],
       [
-        [
-          "950 AM"
-        ],
-        [
-          null
-        ]
+        "950 AM",
+        []
       ]
     ],
     [
       [
-        [
-          "XEJMN"
-        ],
+        "XEJMN",
         [
           "/wiki/XEJMN-AM"
         ]
       ],
       [
-        [
-          "3 April 1992"
-        ],
-        [
-          null
-        ]
+        "3 April 1992",
+        []
       ],
       [
-        [
-          "Nayarit",
-          "Jes\u00fas Mar\u00eda"
-        ],
+        "Nayarit ( Jes\u00fas Mar\u00eda )",
         [
           "/wiki/Nayarit",
           "/wiki/Jes\u00fas_Mar\u00eda,_Nayarit"
         ]
       ],
       [
-        [
-          "Nayarit",
-          "Jalisco",
-          "Durango",
-          "Zacatecas"
-        ],
+        "Nayarit Jalisco Durango Zacatecas",
         [
           "/wiki/Nayarit",
           "/wiki/Jalisco",
@@ -678,12 +438,7 @@
         ]
       ],
       [
-        [
-          "Cora",
-          "Huichol",
-          "Tepehuano",
-          "Nahuatl"
-        ],
+        "Cora Huichol Tepehuano Nahuatl",
         [
           "/wiki/Cora_language",
           "/wiki/Huichol_language",
@@ -692,57 +447,37 @@
         ]
       ],
       [
-        [
-          "750 AM"
-        ],
-        [
-          null
-        ]
+        "750 AM",
+        []
       ]
     ],
     [
       [
-        [
-          "XEJAM"
-        ],
+        "XEJAM",
         [
           "/wiki/XEJAM-AM"
         ]
       ],
       [
-        [
-          "5 May 1994"
-        ],
-        [
-          null
-        ]
+        "5 May 1994",
+        []
       ],
       [
-        [
-          "Oaxaca",
-          "Santiago Jamiltepec"
-        ],
+        "Oaxaca ( Santiago Jamiltepec )",
         [
           "/wiki/Oaxaca",
           "/wiki/Santiago_Jamiltepec"
         ]
       ],
       [
-        [
-          "Oaxaca",
-          "Guerrero"
-        ],
+        "Oaxaca Guerrero",
         [
           "/wiki/Oaxaca",
           "/wiki/Guerrero"
         ]
       ],
       [
-        [
-          "Mixtec",
-          "Amuzgo",
-          "Chatino"
-        ],
+        "Mixtec Amuzgo Chatino",
         [
           "/wiki/Mixtec_language",
           "/wiki/Amuzgo",
@@ -750,55 +485,36 @@
         ]
       ],
       [
-        [
-          "1260 AM"
-        ],
-        [
-          null
-        ]
+        "1260 AM",
+        []
       ]
     ],
     [
       [
-        [
-          "XEQIN XHSQB"
-        ],
+        "XEQIN XHSQB",
         [
           "/wiki/XEQIN-AM"
         ]
       ],
       [
-        [
-          "15 June 1994"
-        ],
-        [
-          null
-        ]
+        "15 June 1994",
+        []
       ],
       [
-        [
-          "Baja California",
-          "San Quint\u00edn"
-        ],
+        "Baja California ( San Quint\u00edn )",
         [
           "/wiki/Baja_California",
           "/wiki/San_Quint\u00edn,_Baja_California"
         ]
       ],
       [
-        [
-          "Baja California"
-        ],
+        "Baja California",
         [
           "/wiki/Baja_California"
         ]
       ],
       [
-        [
-          "Mixtec",
-          "Zapotec",
-          "Triqui"
-        ],
+        "Mixtec Zapotec Triqui",
         [
           "/wiki/Mixtec_language",
           "/wiki/Zapotec_language",
@@ -806,47 +522,30 @@
         ]
       ],
       [
-        [
-          "1160 AM 95.1 FM"
-        ],
-        [
-          null
-        ]
+        "1160 AM 95.1 FM",
+        []
       ]
     ],
     [
       [
-        [
-          "XECTZ"
-        ],
+        "XECTZ",
         [
           "/wiki/XECTZ-AM"
         ]
       ],
       [
-        [
-          "21 August 1994"
-        ],
-        [
-          null
-        ]
+        "21 August 1994",
+        []
       ],
       [
-        [
-          "Puebla",
-          "Cuetzalan"
-        ],
+        "Puebla ( Cuetzalan )",
         [
           "/wiki/Puebla",
           "/wiki/Cuetzalan"
         ]
       ],
       [
-        [
-          "Puebla",
-          "Hidalgo",
-          "Veracruz"
-        ],
+        "Puebla Hidalgo Veracruz",
         [
           "/wiki/Puebla",
           "/wiki/Hidalgo_(Mexico)",
@@ -854,113 +553,74 @@
         ]
       ],
       [
-        [
-          "Nahuatl",
-          "Totonac"
-        ],
+        "Nahuatl Totonac",
         [
           "/wiki/Nahuatl",
           "/wiki/Totonac"
         ]
       ],
       [
-        [
-          "1260 AM"
-        ],
-        [
-          null
-        ]
+        "1260 AM",
+        []
       ]
     ],
     [
       [
-        [
-          "XEXPUJ"
-        ],
+        "XEXPUJ",
         [
           "/wiki/XEXPUJ-AM"
         ]
       ],
       [
-        [
-          "22 January 1996"
-        ],
-        [
-          null
-        ]
+        "22 January 1996",
+        []
       ],
       [
-        [
-          "Campeche",
-          "Xpujil"
-        ],
+        "Campeche ( Xpujil )",
         [
           "/wiki/Campeche",
           "/wiki/Xpujil"
         ]
       ],
       [
-        [
-          "Campeche",
-          "Quintana Roo"
-        ],
+        "Campeche Quintana Roo",
         [
           "/wiki/Campeche",
           "/wiki/Quintana_Roo"
         ]
       ],
       [
-        [
-          "Yucatec Maya",
-          "Ch'ol"
-        ],
+        "Yucatec Maya Ch'ol",
         [
           "/wiki/Yucatec_Maya",
           "/wiki/Ch'ol_language"
         ]
       ],
       [
-        [
-          "700 AM"
-        ],
-        [
-          null
-        ]
+        "700 AM",
+        []
       ]
     ],
     [
       [
-        [
-          "XEETCH"
-        ],
+        "XEETCH",
         [
           "/wiki/XEETCH-AM"
         ]
       ],
       [
-        [
-          "19 February 1996"
-        ],
-        [
-          null
-        ]
+        "19 February 1996",
+        []
       ],
       [
-        [
-          "Sonora",
-          "Etchojoa"
-        ],
+        "Sonora ( Etchojoa )",
         [
           "/wiki/Sonora",
           "/wiki/Etchojoa"
         ]
       ],
       [
-        [
-          "Sonora",
-          "Sinaloa",
-          "Chihuahua"
-        ],
+        "Sonora Sinaloa Chihuahua",
         [
           "/wiki/Sonora",
           "/wiki/Sinaloa",
@@ -968,11 +628,7 @@
         ]
       ],
       [
-        [
-          "Mayo",
-          "Yaqui",
-          "Guarijio"
-        ],
+        "Mayo Yaqui Guarijio",
         [
           "/wiki/Mayo_language",
           "/wiki/Yaqui_language",
@@ -980,103 +636,67 @@
         ]
       ],
       [
-        [
-          "700 AM"
-        ],
-        [
-          null
-        ]
+        "700 AM",
+        []
       ]
     ],
     [
       [
-        [
-          "XECOPA"
-        ],
+        "XECOPA",
         [
           "/wiki/XECOPA-AM"
         ]
       ],
       [
-        [
-          "17 July 1997"
-        ],
-        [
-          null
-        ]
+        "17 July 1997",
+        []
       ],
       [
-        [
-          "Chiapas",
-          "Copainal\u00e1"
-        ],
+        "Chiapas ( Copainal\u00e1 )",
         [
           "/wiki/Chiapas",
           "/wiki/Copainal\u00e1"
         ]
       ],
       [
-        [
-          "Chiapas",
-          "Tabasco"
-        ],
+        "Chiapas Tabasco",
         [
           "/wiki/Chiapas",
           "/wiki/Tabasco"
         ]
       ],
       [
-        [
-          "Zoque",
-          "Tzotzil"
-        ],
+        "Zoque Tzotzil",
         [
           "/wiki/Zoque_languages",
           "/wiki/Tzotzil_language"
         ]
       ],
       [
-        [
-          "1210 AM"
-        ],
-        [
-          null
-        ]
+        "1210 AM",
+        []
       ]
     ],
     [
       [
-        [
-          "XHTUMI XETUX"
-        ],
+        "XHTUMI XETUX",
         [
           "/wiki/XHTUMI-FM"
         ]
       ],
       [
-        [
-          "12 May 1998"
-        ],
-        [
-          null
-        ]
+        "12 May 1998",
+        []
       ],
       [
-        [
-          "Michoac\u00e1n",
-          "Tuxpan"
-        ],
+        "Michoac\u00e1n ( Tuxpan )",
         [
           "/wiki/Michoac\u00e1n",
           "/wiki/Tuxpan,_Michoac\u00e1n"
         ]
       ],
       [
-        [
-          "Michoac\u00e1n",
-          "Edo . de M\u00e9xico",
-          "Quer\u00e9taro"
-        ],
+        "Michoac\u00e1n Edo . de M\u00e9xico Quer\u00e9taro",
         [
           "/wiki/Michoac\u00e1n",
           "/wiki/Mexico_State",
@@ -1084,58 +704,37 @@
         ]
       ],
       [
-        [
-          "Mazahua",
-          "Otomi"
-        ],
+        "Mazahua Otomi",
         [
           "/wiki/Mazahua_language",
           "/wiki/Otomi_language"
         ]
       ],
       [
-        [
-          "107.9 FM 1010 AM"
-        ],
-        [
-          null
-        ]
+        "107.9 FM 1010 AM",
+        []
       ]
     ],
     [
       [
-        [
-          "XHCARH XECARH"
-        ],
+        "XHCARH XECARH",
         [
           "/wiki/XHCARH-FM"
         ]
       ],
       [
-        [
-          "1 August 1998"
-        ],
-        [
-          null
-        ]
+        "1 August 1998",
+        []
       ],
       [
-        [
-          "Hidalgo",
-          "Cardonal"
-        ],
+        "Hidalgo ( Cardonal )",
         [
           "/wiki/Hidalgo_(state)",
           "/wiki/Cardonal"
         ]
       ],
       [
-        [
-          "Hidalgo",
-          "Quer\u00e9taro",
-          "Veracruz",
-          "San Luis Potos\u00ed"
-        ],
+        "Hidalgo Quer\u00e9taro Veracruz San Luis Potos\u00ed",
         [
           "/wiki/Hidalgo_(state)",
           "/wiki/Quer\u00e9taro",
@@ -1144,74 +743,50 @@
         ]
       ],
       [
-        [
-          "\u00d1ha-\u00f1hu",
-          "Nahuatl"
-        ],
+        "\u00d1ha-\u00f1hu Nahuatl",
         [
           "/wiki/Otomi_language",
           "/wiki/Nahuatl"
         ]
       ],
       [
-        [
-          "89.1 FM 1480 AM"
-        ],
-        [
-          null
-        ]
+        "89.1 FM 1480 AM",
+        []
       ]
     ],
     [
       [
-        [
-          "XHNKA XEFEL"
-        ],
+        "XHNKA XEFEL",
         [
           "/wiki/XHNKA-FM"
         ]
       ],
       [
-        [
-          "15 June 1999"
-        ],
-        [
-          null
-        ]
+        "15 June 1999",
+        []
       ],
       [
-        [
-          "Quintana Roo",
-          "Felipe Carrillo Puerto"
-        ],
+        "Quintana Roo ( Felipe Carrillo Puerto )",
         [
           "/wiki/Quintana_Roo",
           "/wiki/Felipe_Carrillo_Puerto,_Quintana_Roo"
         ]
       ],
       [
-        [
-          "Quintana Roo"
-        ],
+        "Quintana Roo",
         [
           "/wiki/Quintana_Roo"
         ]
       ],
       [
-        [
-          "Yucatec Maya"
-        ],
+        "Yucatec Maya",
         [
           "/wiki/Yucatec_Maya"
         ]
       ],
       [
-        [
-          "104.5 FM 1030 AM"
-        ],
-        [
-          null
-        ]
+        "104.5 FM 1030 AM",
+        []
       ]
     ]
   ],

@@ -3,41 +3,23 @@
   "title": "List of public corporations by market capitalization",
   "header": [
     [
-      [
-        "Rank"
-      ],
-      [
-        null
-      ]
+      "Rank",
+      []
     ],
     [
-      [
-        "Name"
-      ],
-      [
-        null
-      ]
+      "Name",
+      []
     ],
     [
-      [
-        "Headquarters"
-      ],
-      [
-        null
-      ]
+      "Headquarters",
+      []
     ],
     [
-      [
-        "Primary industry"
-      ],
-      [
-        null
-      ]
+      "Primary industry",
+      []
     ],
     [
-      [
-        "USD"
-      ],
+      "Market value ( USD million )",
       [
         "/wiki/USD"
       ]
@@ -46,422 +28,256 @@
   "data": [
     [
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "Microsoft"
-        ],
+        "Microsoft",
         [
           "/wiki/Microsoft"
         ]
       ],
       [
-        [
-          "United States"
-        ],
-        [
-          null
-        ]
+        "United States",
+        []
       ],
       [
-        [
-          "Software industry"
-        ],
+        "Software industry",
         [
           "/wiki/Software_industry"
         ]
       ],
       [
-        [
-          "264,003"
-        ],
-        [
-          null
-        ]
+        "264,003",
+        []
       ]
     ],
     [
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "General Electric"
-        ],
+        "General Electric",
         [
           "/wiki/General_Electric"
         ]
       ],
       [
-        [
-          "United States"
-        ],
-        [
-          null
-        ]
+        "United States",
+        []
       ],
       [
-        [
-          "Conglomerate"
-        ],
+        "Conglomerate",
         [
           "/wiki/Conglomerate_(company)"
         ]
       ],
       [
-        [
-          "259,647"
-        ],
-        [
-          null
-        ]
+        "259,647",
+        []
       ]
     ],
     [
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "Exxon Mobil"
-        ],
+        "Exxon Mobil",
         [
           "/wiki/Exxon_Mobil"
         ]
       ],
       [
-        [
-          "United States"
-        ],
-        [
-          null
-        ]
+        "United States",
+        []
       ],
       [
-        [
-          "Oil and gas"
-        ],
+        "Oil and gas",
         [
           "/wiki/Petroleum_industry"
         ]
       ],
       [
-        [
-          "241,037"
-        ],
-        [
-          null
-        ]
+        "241,037",
+        []
       ]
     ],
     [
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "Wal-Mart"
-        ],
+        "Wal-Mart",
         [
           "/wiki/Wal-Mart"
         ]
       ],
       [
-        [
-          "United States"
-        ],
-        [
-          null
-        ]
+        "United States",
+        []
       ],
       [
-        [
-          "Retail"
-        ],
+        "Retail",
         [
           "/wiki/Retail"
         ]
       ],
       [
-        [
-          "234,399"
-        ],
-        [
-          null
-        ]
+        "234,399",
+        []
       ]
     ],
     [
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "Pfizer"
-        ],
+        "Pfizer",
         [
           "/wiki/Pfizer"
         ]
       ],
       [
-        [
-          "United States"
-        ],
-        [
-          null
-        ]
+        "United States",
+        []
       ],
       [
-        [
-          "Health care"
-        ],
+        "Health care",
         [
           "/wiki/Health_care"
         ]
       ],
       [
-        [
-          "195,948"
-        ],
-        [
-          null
-        ]
+        "195,948",
+        []
       ]
     ],
     [
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "Citigroup"
-        ],
+        "Citigroup",
         [
           "/wiki/Citigroup"
         ]
       ],
       [
-        [
-          "United States"
-        ],
-        [
-          null
-        ]
+        "United States",
+        []
       ],
       [
-        [
-          "Banking"
-        ],
+        "Banking",
         [
           "/wiki/Banking"
         ]
       ],
       [
-        [
-          "183,887"
-        ],
-        [
-          null
-        ]
+        "183,887",
+        []
       ]
     ],
     [
       [
-        [
-          "7"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ],
       [
-        [
-          "Johnson & Johnson"
-        ],
+        "Johnson & Johnson",
         [
           "/wiki/Johnson_&_Johnson"
         ]
       ],
       [
-        [
-          "United States"
-        ],
-        [
-          null
-        ]
+        "United States",
+        []
       ],
       [
-        [
-          "Health care"
-        ],
-        [
-          null
-        ]
+        "Health care",
+        []
       ],
       [
-        [
-          "170,417"
-        ],
-        [
-          null
-        ]
+        "170,417",
+        []
       ]
     ],
     [
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "Royal Dutch Shell"
-        ],
+        "Royal Dutch Shell",
         [
           "/wiki/Royal_Dutch_Shell"
         ]
       ],
       [
-        [
-          "The Netherlands"
-        ],
-        [
-          null
-        ]
+        "The Netherlands",
+        []
       ],
       [
-        [
-          "Oil and gas"
-        ],
-        [
-          null
-        ]
+        "Oil and gas",
+        []
       ],
       [
-        [
-          "149,034"
-        ],
-        [
-          null
-        ]
+        "149,034",
+        []
       ]
     ],
     [
       [
-        [
-          "9"
-        ],
-        [
-          null
-        ]
+        "9",
+        []
       ],
       [
-        [
-          "BP"
-        ],
+        "BP",
         [
           "/wiki/BP"
         ]
       ],
       [
-        [
-          "United Kingdom"
-        ],
-        [
-          null
-        ]
+        "United Kingdom",
+        []
       ],
       [
-        [
-          "Oil and gas"
-        ],
-        [
-          null
-        ]
+        "Oil and gas",
+        []
       ],
       [
-        [
-          "144,381"
-        ],
-        [
-          null
-        ]
+        "144,381",
+        []
       ]
     ],
     [
       [
-        [
-          "10"
-        ],
-        [
-          null
-        ]
+        "10",
+        []
       ],
       [
-        [
-          "IBM"
-        ],
+        "IBM",
         [
           "/wiki/IBM"
         ]
       ],
       [
-        [
-          "United States"
-        ],
-        [
-          null
-        ]
+        "United States",
+        []
       ],
       [
-        [
-          "computer hardware"
-        ],
+        "Computer software , computer hardware",
         [
           "/wiki/Computer_hardware"
         ]
       ],
       [
-        [
-          "139,272"
-        ],
-        [
-          null
-        ]
+        "139,272",
+        []
       ]
     ]
   ],

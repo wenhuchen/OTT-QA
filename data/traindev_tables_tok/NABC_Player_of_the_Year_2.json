@@ -3,1057 +3,671 @@
   "title": "NABC Player of the Year",
   "header": [
     [
-      [
-        "Season"
-      ],
-      [
-        null
-      ]
+      "Season",
+      []
     ],
     [
-      [
-        "Player"
-      ],
-      [
-        null
-      ]
+      "Player",
+      []
     ],
     [
-      [
-        "School"
-      ],
-      [
-        null
-      ]
+      "School",
+      []
     ],
     [
-      [
-        "State"
-      ],
-      [
-        null
-      ]
+      "State",
+      []
     ],
     [
-      [
-        "Position"
-      ],
-      [
-        null
-      ]
+      "Position",
+      []
     ],
     [
-      [
-        "Class"
-      ],
-      [
-        null
-      ]
+      "Class",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "1982-83"
-        ],
-        [
-          null
-        ]
+        "1982-83",
+        []
       ],
       [
-        [
-          "Leroy Witherspoon"
-        ],
-        [
-          null
-        ]
+        "Leroy Witherspoon",
+        []
       ],
       [
-        [
-          "Potsdam State"
-        ],
+        "Potsdam State",
         [
           "/wiki/State_University_of_New_York_at_Potsdam"
         ]
       ],
       [
-        [
-          "New York"
-        ],
+        "New York",
         [
           "/wiki/New_York_(state)"
         ]
       ],
       [
-        [
-          "PG"
-        ],
+        "PG",
         [
           "/wiki/Point_guard"
         ]
       ],
       [
-        [
-          "Junior"
-        ],
-        [
-          null
-        ]
+        "Junior",
+        []
       ]
     ],
     [
       [
-        [
-          "1983-84"
-        ],
-        [
-          null
-        ]
+        "1983-84",
+        []
       ],
       [
-        [
-          "Leroy Witherspoon ( 2 )"
-        ],
-        [
-          null
-        ]
+        "Leroy Witherspoon ( 2 )",
+        []
       ],
       [
-        [
-          "Potsdam State"
-        ],
+        "Potsdam State ( 2 )",
         [
           "/wiki/State_University_of_New_York_at_Potsdam"
         ]
       ],
       [
-        [
-          "New York"
-        ],
+        "New York",
         [
           "/wiki/New_York_(state)"
         ]
       ],
       [
-        [
-          "PG"
-        ],
+        "PG",
         [
           "/wiki/Point_guard"
         ]
       ],
       [
-        [
-          "Senior"
-        ],
-        [
-          null
-        ]
+        "Senior",
+        []
       ]
     ],
     [
       [
-        [
-          "1984-85"
-        ],
-        [
-          null
-        ]
+        "1984-85",
+        []
       ],
       [
-        [
-          "Tim Casey"
-        ],
-        [
-          null
-        ]
+        "Tim Casey",
+        []
       ],
       [
-        [
-          "Wittenberg"
-        ],
+        "Wittenberg",
         [
           "/wiki/Wittenberg_University"
         ]
       ],
       [
-        [
-          "Ohio"
-        ],
+        "Ohio",
         [
           "/wiki/Ohio"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Senior"
-        ],
-        [
-          null
-        ]
+        "Senior",
+        []
       ]
     ],
     [
       [
-        [
-          "1985-86"
-        ],
-        [
-          null
-        ]
+        "1985-86",
+        []
       ],
       [
-        [
-          "Dick Hempy"
-        ],
-        [
-          null
-        ]
+        "Dick Hempy",
+        []
       ],
       [
-        [
-          "Otterbein"
-        ],
+        "Otterbein",
         [
           "/wiki/Otterbein_College"
         ]
       ],
       [
-        [
-          "Ohio"
-        ],
+        "Ohio",
         [
           "/wiki/Ohio"
         ]
       ],
       [
-        [
-          "G"
-        ],
+        "G",
         [
           "/wiki/Guard_(basketball)"
         ]
       ],
       [
-        [
-          "Junior"
-        ],
-        [
-          null
-        ]
+        "Junior",
+        []
       ]
     ],
     [
       [
-        [
-          "1986-87"
-        ],
-        [
-          null
-        ]
+        "1986-87",
+        []
       ],
       [
-        [
-          "Brendan Mitchell"
-        ],
-        [
-          null
-        ]
+        "Brendan Mitchell",
+        []
       ],
       [
-        [
-          "Potsdam State"
-        ],
+        "Potsdam State ( 3 )",
         [
           "/wiki/State_University_of_New_York_at_Potsdam"
         ]
       ],
       [
-        [
-          "New York"
-        ],
+        "New York",
         [
           "/wiki/New_York_(state)"
         ]
       ],
       [
-        [
-          "SF"
-        ],
+        "SF",
         [
           "/wiki/Small_forward"
         ]
       ],
       [
-        [
-          "Senior"
-        ],
-        [
-          null
-        ]
+        "Senior",
+        []
       ]
     ],
     [
       [
-        [
-          "1987-88"
-        ],
-        [
-          null
-        ]
+        "1987-88",
+        []
       ],
       [
-        [
-          "Scott Tedder"
-        ],
-        [
-          null
-        ]
+        "Scott Tedder",
+        []
       ],
       [
-        [
-          "Ohio Wesleyan"
-        ],
+        "Ohio Wesleyan",
         [
           "/wiki/Ohio_Wesleyan_University"
         ]
       ],
       [
-        [
-          "Ohio"
-        ],
+        "Ohio",
         [
           "/wiki/Ohio"
         ]
       ],
       [
-        [
-          "SF",
-          "SG"
-        ],
+        "SF / SG",
         [
           "/wiki/Small_forward",
           "/wiki/Shooting_guard"
         ]
       ],
       [
-        [
-          "Senior"
-        ],
-        [
-          null
-        ]
+        "Senior",
+        []
       ]
     ],
     [
       [
-        [
-          "1988-89"
-        ],
-        [
-          null
-        ]
+        "1988-89",
+        []
       ],
       [
-        [
-          "Greg Grant"
-        ],
+        "Greg Grant",
         [
           "/wiki/Greg_Grant"
         ]
       ],
       [
-        [
-          "Trenton State"
-        ],
+        "Trenton State",
         [
           "/wiki/The_College_of_New_Jersey"
         ]
       ],
       [
-        [
-          "New Jersey"
-        ],
+        "New Jersey",
         [
           "/wiki/New_Jersey"
         ]
       ],
       [
-        [
-          "PG"
-        ],
+        "PG",
         [
           "/wiki/Point_guard"
         ]
       ],
       [
-        [
-          "Senior"
-        ],
-        [
-          null
-        ]
+        "Senior",
+        []
       ]
     ],
     [
       [
-        [
-          "1989-90"
-        ],
-        [
-          null
-        ]
+        "1989-90",
+        []
       ],
       [
-        [
-          "Matt Hancock"
-        ],
-        [
-          null
-        ]
+        "Matt Hancock",
+        []
       ],
       [
-        [
-          "Colby"
-        ],
+        "Colby",
         [
           "/wiki/Colby_College"
         ]
       ],
       [
-        [
-          "Maine"
-        ],
+        "Maine",
         [
           "/wiki/Maine"
         ]
       ],
       [
-        [
-          "SG"
-        ],
+        "SG",
         [
           "/wiki/Shooting_guard"
         ]
       ],
       [
-        [
-          "Senior"
-        ],
-        [
-          null
-        ]
+        "Senior",
+        []
       ]
     ],
     [
       [
-        [
-          "1990-91"
-        ],
-        [
-          null
-        ]
+        "1990-91",
+        []
       ],
       [
-        [
-          "Brad Baldridge"
-        ],
-        [
-          null
-        ]
+        "Brad Baldridge",
+        []
       ],
       [
-        [
-          "Wittenberg"
-        ],
+        "Wittenberg ( 2 )",
         [
           "/wiki/Wittenberg_University"
         ]
       ],
       [
-        [
-          "Ohio"
-        ],
+        "Ohio",
         [
           "/wiki/Ohio"
         ]
       ],
       [
-        [
-          "C"
-        ],
+        "C",
         [
           "/wiki/Center_(basketball)"
         ]
       ],
       [
-        [
-          "Senior"
-        ],
-        [
-          null
-        ]
+        "Senior",
+        []
       ]
     ],
     [
       [
-        [
-          "1991-92"
-        ],
-        [
-          null
-        ]
+        "1991-92",
+        []
       ],
       [
-        [
-          "Andre Foreman"
-        ],
-        [
-          null
-        ]
+        "Andre Foreman",
+        []
       ],
       [
-        [
-          "Salisbury State"
-        ],
+        "Salisbury State",
         [
           "/wiki/Salisbury_University"
         ]
       ],
       [
-        [
-          "Maryland"
-        ],
+        "Maryland",
         [
           "/wiki/Maryland"
         ]
       ],
       [
-        [
-          "PF"
-        ],
+        "PF",
         [
           "/wiki/Power_forward_(basketball)"
         ]
       ],
       [
-        [
-          "Senior"
-        ],
-        [
-          null
-        ]
+        "Senior",
+        []
       ]
     ],
     [
       [
-        [
-          "1992-93"
-        ],
-        [
-          null
-        ]
+        "1992-93",
+        []
       ],
       [
-        [
-          "Steve Hondred"
-        ],
-        [
-          null
-        ]
+        "Steve Hondred",
+        []
       ],
       [
-        [
-          "Calvin"
-        ],
+        "Calvin",
         [
           "/wiki/Calvin_College"
         ]
       ],
       [
-        [
-          "Michigan"
-        ],
+        "Michigan",
         [
           "/wiki/Michigan"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "1993-94"
-        ],
-        [
-          null
-        ]
+        "1993-94",
+        []
       ],
       [
-        [
-          "Scott Fitch"
-        ],
-        [
-          null
-        ]
+        "Scott Fitch",
+        []
       ],
       [
-        [
-          "SUNY Geneseo"
-        ],
+        "SUNY Geneseo",
         [
           "/wiki/State_University_of_New_York_at_Geneseo"
         ]
       ],
       [
-        [
-          "New York"
-        ],
+        "New York",
         [
           "/wiki/New_York_(state)"
         ]
       ],
       [
-        [
-          "G"
-        ],
+        "G",
         [
           "/wiki/Guard_(basketball)"
         ]
       ],
       [
-        [
-          "Senior"
-        ],
-        [
-          null
-        ]
+        "Senior",
+        []
       ]
     ],
     [
       [
-        [
-          "1994-95"
-        ],
-        [
-          null
-        ]
+        "1994-95",
+        []
       ],
       [
-        [
-          "D'Artis Jones"
-        ],
-        [
-          null
-        ]
+        "D'Artis Jones",
+        []
       ],
       [
-        [
-          "Ohio Northern"
-        ],
+        "Ohio Northern",
         [
           "/wiki/Ohio_Northern_University"
         ]
       ],
       [
-        [
-          "Ohio"
-        ],
+        "Ohio",
         [
           "/wiki/Ohio"
         ]
       ],
       [
-        [
-          "SG"
-        ],
+        "SG",
         [
           "/wiki/Shooting_guard"
         ]
       ],
       [
-        [
-          "Senior"
-        ],
-        [
-          null
-        ]
+        "Senior",
+        []
       ]
     ],
     [
       [
-        [
-          "1995-96"
-        ],
-        [
-          null
-        ]
+        "1995-96",
+        []
       ],
       [
-        [
-          "David Benter"
-        ],
-        [
-          null
-        ]
+        "David Benter",
+        []
       ],
       [
-        [
-          "Hanover"
-        ],
+        "Hanover",
         [
           "/wiki/Hanover_College"
         ]
       ],
       [
-        [
-          "Indiana"
-        ],
+        "Indiana",
         [
           "/wiki/Indiana"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Senior"
-        ],
-        [
-          null
-        ]
+        "Senior",
+        []
       ]
     ],
     [
       [
-        [
-          "1996-97"
-        ],
-        [
-          null
-        ]
+        "1996-97",
+        []
       ],
       [
-        [
-          "Bryan Crabtree"
-        ],
-        [
-          null
-        ]
+        "Bryan Crabtree",
+        []
       ],
       [
-        [
-          "Illinois Wesleyan"
-        ],
+        "Illinois Wesleyan",
         [
           "/wiki/Illinois_Wesleyan_University"
         ]
       ],
       [
-        [
-          "Illinois"
-        ],
+        "Illinois",
         [
           "/wiki/Illinois"
         ]
       ],
       [
-        [
-          "SF"
-        ],
+        "SF",
         [
           "/wiki/Small_forward"
         ]
       ],
       [
-        [
-          "Senior"
-        ],
-        [
-          null
-        ]
+        "Senior",
+        []
       ]
     ],
     [
       [
-        [
-          "1997-98"
-        ],
-        [
-          null
-        ]
+        "1997-98",
+        []
       ],
       [
-        [
-          "Mike Nogelo"
-        ],
-        [
-          null
-        ]
+        "Mike Nogelo",
+        []
       ],
       [
-        [
-          "Williams"
-        ],
+        "Williams",
         [
           "/wiki/Williams_Ephs"
         ]
       ],
       [
-        [
-          "Massachusetts"
-        ],
+        "Massachusetts",
         [
           "/wiki/Massachusetts"
         ]
       ],
       [
-        [
-          "F"
-        ],
+        "F",
         [
           "/wiki/Forward_(basketball)"
         ]
       ],
       [
-        [
-          "Senior"
-        ],
-        [
-          null
-        ]
+        "Senior",
+        []
       ]
     ],
     [
       [
-        [
-          "1998-99"
-        ],
-        [
-          null
-        ]
+        "1998-99",
+        []
       ],
       [
-        [
-          "Merrill Brunson"
-        ],
-        [
-          null
-        ]
+        "Merrill Brunson",
+        []
       ],
       [
-        [
-          "Wisconsin-Platteville"
-        ],
+        "Wisconsin-Platteville",
         [
           "/wiki/University_of_Wisconsin\u2013Platteville"
         ]
       ],
       [
-        [
-          "Wisconsin"
-        ],
+        "Wisconsin",
         [
           "/wiki/Wisconsin"
         ]
       ],
       [
-        [
-          "PG",
-          "SG"
-        ],
+        "PG / SG",
         [
           "/wiki/Point_guard",
           "/wiki/Shooting_guard"
         ]
       ],
       [
-        [
-          "Junior"
-        ],
-        [
-          null
-        ]
+        "Junior",
+        []
       ]
     ],
     [
       [
-        [
-          "1999-00"
-        ],
-        [
-          null
-        ]
+        "1999-00",
+        []
       ],
       [
-        [
-          "Aaron Winkle"
-        ],
-        [
-          null
-        ]
+        "Aaron Winkle",
+        []
       ],
       [
-        [
-          "Calvin"
-        ],
+        "Calvin ( 2 )",
         [
           "/wiki/Calvin_College"
         ]
       ],
       [
-        [
-          "Michigan"
-        ],
+        "Michigan",
         [
           "/wiki/Michigan"
         ]
       ],
       [
-        [
-          "PF"
-        ],
+        "PF",
         [
           "/wiki/Power_forward_(basketball)"
         ]
       ],
       [
-        [
-          "Senior"
-        ],
-        [
-          null
-        ]
+        "Senior",
+        []
       ]
     ],
     [
       [
-        [
-          "2000-01"
-        ],
-        [
-          null
-        ]
+        "2000-01",
+        []
       ],
       [
-        [
-          "Horace Jenkins"
-        ],
+        "Horace Jenkins",
         [
           "/wiki/Horace_Jenkins"
         ]
       ],
       [
-        [
-          "William Paterson"
-        ],
+        "William Paterson",
         [
           "/wiki/William_Paterson_University"
         ]
       ],
       [
-        [
-          "New Jersey"
-        ],
+        "New Jersey",
         [
           "/wiki/New_Jersey"
         ]
       ],
       [
-        [
-          "PG"
-        ],
+        "PG",
         [
           "/wiki/Point_guard"
         ]
       ],
       [
-        [
-          "Senior"
-        ],
-        [
-          null
-        ]
+        "Senior",
+        []
       ]
     ],
     [
       [
-        [
-          "2001-02"
-        ],
-        [
-          null
-        ]
+        "2001-02",
+        []
       ],
       [
-        [
-          "Jeff Gibbs"
-        ],
+        "Jeff Gibbs",
         [
           "/wiki/Jeff_Gibbs"
         ]
       ],
       [
-        [
-          "Otterbein"
-        ],
+        "Otterbein ( 2 )",
         [
           "/wiki/Otterbein_College"
         ]
       ],
       [
-        [
-          "Ohio"
-        ],
+        "Ohio",
         [
           "/wiki/Ohio"
         ]
       ],
       [
-        [
-          "F"
-        ],
+        "F",
         [
           "/wiki/Forward_(basketball)"
         ]
       ],
       [
-        [
-          "Senior"
-        ],
-        [
-          null
-        ]
+        "Senior",
+        []
       ]
     ]
   ],

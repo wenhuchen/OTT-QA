@@ -3,41 +3,31 @@
   "title": "List of submarine topographical features",
   "header": [
     [
-      [
-        "Name"
-      ],
-      [
-        null
-      ]
+      "",
+      []
     ],
     [
-      [
-        "Location"
-      ],
-      [
-        null
-      ]
+      "Name",
+      []
     ],
     [
-      [
-        "meters"
-      ],
+      "Location",
+      []
+    ],
+    [
+      "Depth ( meters )",
       [
         "/wiki/Meter"
       ]
     ],
     [
-      [
-        "feet"
-      ],
+      "Depth ( feet )",
       [
         "/wiki/Foot_(length)"
       ]
     ],
     [
-      [
-        "miles"
-      ],
+      "Depth ( miles )",
       [
         "/wiki/Mile"
       ]
@@ -46,19 +36,17 @@
   "data": [
     [
       [
-        [
-          "Challenger Deep"
-        ],
+        "1",
+        []
+      ],
+      [
+        "Challenger Deep",
         [
           "/wiki/Challenger_Deep"
         ]
       ],
       [
-        [
-          "Izu-Bonin-Mariana Arc",
-          "Mariana Trench",
-          "Pacific Ocean"
-        ],
+        "Izu-Bonin-Mariana Arc , Mariana Trench , Pacific Ocean",
         [
           "/wiki/Izu-Bonin-Mariana_Arc",
           "/wiki/Mariana_Trench",
@@ -66,832 +54,585 @@
         ]
       ],
       [
-        [
-          "11,034"
-        ],
-        [
-          null
-        ]
+        "11,034",
+        []
       ],
       [
-        [
-          "36,197"
-        ],
-        [
-          null
-        ]
+        "36,197",
+        []
       ],
       [
-        [
-          "6.86"
-        ],
-        [
-          null
-        ]
+        "6.86",
+        []
       ]
     ],
     [
       [
-        [
-          "Tonga Trench"
-        ],
+        "2",
+        []
+      ],
+      [
+        "Tonga Trench",
         [
           "/wiki/Tonga_Trench"
         ]
       ],
       [
-        [
-          "Pacific Ocean"
-        ],
+        "Pacific Ocean",
         [
           "/wiki/Pacific_Ocean"
         ]
       ],
       [
-        [
-          "10,882"
-        ],
-        [
-          null
-        ]
+        "10,882",
+        []
       ],
       [
-        [
-          "35,702"
-        ],
-        [
-          null
-        ]
+        "35,702",
+        []
       ],
       [
-        [
-          "6.76"
-        ],
-        [
-          null
-        ]
+        "6.76",
+        []
       ]
     ],
     [
       [
-        [
-          "Galathea Depth"
-        ],
+        "3",
+        []
+      ],
+      [
+        "Galathea Depth",
         [
           "/wiki/Galathea_Depth"
         ]
       ],
       [
-        [
-          "Philippine Trench",
-          "Pacific Ocean"
-        ],
+        "Philippine Trench , Pacific Ocean",
         [
           "/wiki/Philippine_Trench",
           "/wiki/Pacific_Ocean"
         ]
       ],
       [
-        [
-          "10,545"
-        ],
-        [
-          null
-        ]
+        "10,545",
+        []
       ],
       [
-        [
-          "34,580"
-        ],
-        [
-          null
-        ]
+        "34,580",
+        []
       ],
       [
-        [
-          "6.54"
-        ],
-        [
-          null
-        ]
+        "6.54",
+        []
       ]
     ],
     [
       [
-        [
-          "Kuril-Kamchatka Trench"
-        ],
+        "4",
+        []
+      ],
+      [
+        "Kuril-Kamchatka Trench",
         [
           "/wiki/Kuril-Kamchatka_Trench"
         ]
       ],
       [
-        [
-          "Pacific Ocean"
-        ],
+        "Pacific Ocean",
         [
           "/wiki/Pacific_Ocean"
         ]
       ],
       [
-        [
-          "10,542"
-        ],
-        [
-          null
-        ]
+        "10,542",
+        []
       ],
       [
-        [
-          "34,449"
-        ],
-        [
-          null
-        ]
+        "34,449",
+        []
       ],
       [
-        [
-          "6.52"
-        ],
-        [
-          null
-        ]
+        "6.52",
+        []
       ]
     ],
     [
       [
-        [
-          "Kermadec Trench"
-        ],
+        "5",
+        []
+      ],
+      [
+        "Kermadec Trench",
         [
           "/wiki/Kermadec_Trench"
         ]
       ],
       [
-        [
-          "Pacific Ocean"
-        ],
+        "Pacific Ocean",
         [
           "/wiki/Pacific_Ocean"
         ]
       ],
       [
-        [
-          "10,047"
-        ],
-        [
-          null
-        ]
+        "10,047",
+        []
       ],
       [
-        [
-          "32,963"
-        ],
-        [
-          null
-        ]
+        "32,963",
+        []
       ],
       [
-        [
-          "6.24"
-        ],
-        [
-          null
-        ]
+        "6.24",
+        []
       ]
     ],
     [
       [
-        [
-          "Izu-Ogasawara Trench"
-        ],
+        "6",
+        []
+      ],
+      [
+        "Izu-Ogasawara Trench",
         [
           "/wiki/Izu-Ogasawara_Trench"
         ]
       ],
       [
-        [
-          "Pacific Ocean"
-        ],
+        "Pacific Ocean",
         [
           "/wiki/Pacific_Ocean"
         ]
       ],
       [
-        [
-          "9,810"
-        ],
-        [
-          null
-        ]
+        "9,810",
+        []
       ],
       [
-        [
-          "32,087"
-        ],
-        [
-          null
-        ]
+        "32,087",
+        []
       ],
       [
-        [
-          "6.08"
-        ],
-        [
-          null
-        ]
+        "6.08",
+        []
       ]
     ],
     [
       [
-        [
-          "Japan Trench"
-        ],
+        "7",
+        []
+      ],
+      [
+        "Japan Trench",
         [
           "/wiki/Japan_Trench"
         ]
       ],
       [
-        [
-          "Pacific Ocean"
-        ],
+        "Pacific Ocean",
         [
           "/wiki/Pacific_Ocean"
         ]
       ],
       [
-        [
-          "9,000"
-        ],
-        [
-          null
-        ]
+        "9,000",
+        []
       ],
       [
-        [
-          "29,527"
-        ],
-        [
-          null
-        ]
+        "29,527",
+        []
       ],
       [
-        [
-          "5.59"
-        ],
-        [
-          null
-        ]
+        "5.59",
+        []
       ]
     ],
     [
       [
-        [
-          "Puerto Rico Trench"
-        ],
+        "8",
+        []
+      ],
+      [
+        "Puerto Rico Trench",
         [
           "/wiki/Puerto_Rico_Trench"
         ]
       ],
       [
-        [
-          "Atlantic Ocean"
-        ],
+        "Atlantic Ocean",
         [
           "/wiki/Atlantic_Ocean"
         ]
       ],
       [
-        [
-          "8,605"
-        ],
-        [
-          null
-        ]
+        "8,605",
+        []
       ],
       [
-        [
-          "28,232"
-        ],
-        [
-          null
-        ]
+        "28,232",
+        []
       ],
       [
-        [
-          "5.35"
-        ],
-        [
-          null
-        ]
+        "5.35",
+        []
       ]
     ],
     [
       [
-        [
-          "Yap Trench"
-        ],
+        "9",
+        []
+      ],
+      [
+        "Yap Trench",
         [
           "/wiki/Yap_Trench"
         ]
       ],
       [
-        [
-          "Pacific Ocean"
-        ],
+        "Pacific Ocean",
         [
           "/wiki/Pacific_Ocean"
         ]
       ],
       [
-        [
-          "8,527"
-        ],
-        [
-          null
-        ]
+        "8,527",
+        []
       ],
       [
-        [
-          "27,976"
-        ],
-        [
-          null
-        ]
+        "27,976",
+        []
       ],
       [
-        [
-          "5.30"
-        ],
-        [
-          null
-        ]
+        "5.30",
+        []
       ]
     ],
     [
       [
-        [
-          "South Sandwich Trench"
-        ],
+        "10",
+        []
+      ],
+      [
+        "South Sandwich Trench",
         [
           "/wiki/South_Sandwich_Trench"
         ]
       ],
       [
-        [
-          "Atlantic Ocean"
-        ],
+        "Atlantic Ocean",
         [
           "/wiki/Atlantic_Ocean"
         ]
       ],
       [
-        [
-          "8,428"
-        ],
-        [
-          null
-        ]
+        "8,428",
+        []
       ],
       [
-        [
-          "27,651"
-        ],
-        [
-          null
-        ]
+        "27,651",
+        []
       ],
       [
-        [
-          "5.24"
-        ],
-        [
-          null
-        ]
+        "5.24",
+        []
       ]
     ],
     [
       [
-        [
-          "Richards Deep"
-        ],
+        "11",
+        []
+      ],
+      [
+        "Richards Deep",
         [
           "/wiki/Richards_Deep"
         ]
       ],
       [
-        [
-          "Peru-Chile Trench",
-          "Pacific Ocean"
-        ],
+        "Peru-Chile Trench , Pacific Ocean",
         [
           "/wiki/Peru\u2013Chile_Trench",
           "/wiki/Pacific_Ocean"
         ]
       ],
       [
-        [
-          "8,065"
-        ],
-        [
-          null
-        ]
+        "8,065",
+        []
       ],
       [
-        [
-          "26,456"
-        ],
-        [
-          null
-        ]
+        "26,456",
+        []
       ],
       [
-        [
-          "5.01"
-        ],
-        [
-          null
-        ]
+        "5.01",
+        []
       ]
     ],
     [
       [
-        [
-          "Diamantina Deep"
-        ],
+        "12",
+        []
+      ],
+      [
+        "Diamantina Deep",
         [
           "/wiki/Diamantina_Deep"
         ]
       ],
       [
-        [
-          "Diamantina Fracture Zone",
-          "Indian Ocean"
-        ],
+        "Diamantina Fracture Zone , Indian Ocean",
         [
           "/wiki/Diamantina_Fracture_Zone",
           "/wiki/Indian_Ocean"
         ]
       ],
       [
-        [
-          "8,047"
-        ],
-        [
-          null
-        ]
+        "8,047",
+        []
       ],
       [
-        [
-          "26,401"
-        ],
-        [
-          null
-        ]
+        "26,401",
+        []
       ],
       [
-        [
-          "5.00"
-        ],
-        [
-          null
-        ]
+        "5.00",
+        []
       ]
     ],
     [
       [
-        [
-          "Romanche Trench"
-        ],
+        "13",
+        []
+      ],
+      [
+        "Romanche Trench",
         [
           "/wiki/Romanche_Trench"
         ]
       ],
       [
-        [
-          "Atlantic Ocean"
-        ],
+        "Atlantic Ocean",
         [
           "/wiki/Atlantic_Ocean"
         ]
       ],
       [
-        [
-          "7,760"
-        ],
-        [
-          null
-        ]
+        "7,760",
+        []
       ],
       [
-        [
-          "25,460"
-        ],
-        [
-          null
-        ]
+        "25,460",
+        []
       ],
       [
-        [
-          "4.82"
-        ],
-        [
-          null
-        ]
+        "4.82",
+        []
       ]
     ],
     [
       [
-        [
-          "Cayman Trough"
-        ],
+        "14",
+        []
+      ],
+      [
+        "Cayman Trough",
         [
           "/wiki/Cayman_Trough"
         ]
       ],
       [
-        [
-          "Caribbean Sea"
-        ],
+        "Caribbean Sea",
         [
           "/wiki/Caribbean_Sea"
         ]
       ],
       [
-        [
-          "7,687"
-        ],
-        [
-          null
-        ]
+        "7,687",
+        []
       ],
       [
-        [
-          "25,238"
-        ],
-        [
-          null
-        ]
+        "25,238",
+        []
       ],
       [
-        [
-          "4.78"
-        ],
-        [
-          null
-        ]
+        "4.78",
+        []
       ]
     ],
     [
       [
-        [
-          "Aleutian Trench"
-        ],
+        "15",
+        []
+      ],
+      [
+        "Aleutian Trench",
         [
           "/wiki/Aleutian_Trench"
         ]
       ],
       [
-        [
-          "Pacific Ocean"
-        ],
+        "Pacific Ocean",
         [
           "/wiki/Pacific_Ocean"
         ]
       ],
       [
-        [
-          "7,679"
-        ],
-        [
-          null
-        ]
+        "7,679",
+        []
       ],
       [
-        [
-          "25,194"
-        ],
-        [
-          null
-        ]
+        "25,194",
+        []
       ],
       [
-        [
-          "4.77"
-        ],
-        [
-          null
-        ]
+        "4.77",
+        []
       ]
     ],
     [
       [
-        [
-          "Java Trench"
-        ],
+        "16",
+        []
+      ],
+      [
+        "Java Trench",
         [
           "/wiki/Java_Trench"
         ]
       ],
       [
-        [
-          "Indian Ocean"
-        ],
+        "Indian Ocean",
         [
           "/wiki/Indian_Ocean"
         ]
       ],
       [
-        [
-          "7,455"
-        ],
-        [
-          null
-        ]
+        "7,455",
+        []
       ],
       [
-        [
-          "24,460"
-        ],
-        [
-          null
-        ]
+        "24,460",
+        []
       ],
       [
-        [
-          "4.63"
-        ],
-        [
-          null
-        ]
+        "4.63",
+        []
       ]
     ],
     [
       [
-        [
-          "Weber Deep"
-        ],
-        [
-          null
-        ]
+        "17",
+        []
       ],
       [
-        [
-          "Banda Sea"
-        ],
+        "Weber Deep",
+        []
+      ],
+      [
+        "Banda Sea",
         [
           "/wiki/Banda_Sea"
         ]
       ],
       [
-        [
-          "7,351"
-        ],
-        [
-          null
-        ]
+        "7,351",
+        []
       ],
       [
-        [
-          "24,117"
-        ],
-        [
-          null
-        ]
+        "24,117",
+        []
       ],
       [
-        [
-          "4.56"
-        ],
-        [
-          null
-        ]
+        "4.56",
+        []
       ]
     ],
     [
       [
-        [
-          "Middle America Trench"
-        ],
+        "18",
+        []
+      ],
+      [
+        "Middle America Trench",
         [
           "/wiki/Middle_America_Trench"
         ]
       ],
       [
-        [
-          "Pacific Ocean"
-        ],
+        "Pacific Ocean",
         [
           "/wiki/Pacific_Ocean"
         ]
       ],
       [
-        [
-          "6,669"
-        ],
-        [
-          null
-        ]
+        "6,669",
+        []
       ],
       [
-        [
-          "21,880"
-        ],
-        [
-          null
-        ]
+        "21,880",
+        []
       ],
       [
-        [
-          "4.14"
-        ],
-        [
-          null
-        ]
+        "4.14",
+        []
       ]
     ],
     [
       [
-        [
-          "Puysegur Trench"
-        ],
+        "19",
+        []
+      ],
+      [
+        "Puysegur Trench",
         [
           "/wiki/Puysegur_Trench"
         ]
       ],
       [
-        [
-          "Pacific Ocean"
-        ],
+        "Pacific Ocean",
         [
           "/wiki/Pacific_Ocean"
         ]
       ],
       [
-        [
-          "6,300"
-        ],
-        [
-          null
-        ]
+        "6,300",
+        []
       ],
       [
-        [
-          "20,700"
-        ],
-        [
-          null
-        ]
+        "20,700",
+        []
       ],
       [
-        [
-          "3.9"
-        ],
-        [
-          null
-        ]
+        "3.9",
+        []
       ]
     ],
     [
       [
-        [
-          "Vityaz Trench"
-        ],
-        [
-          null
-        ]
+        "20",
+        []
       ],
       [
-        [
-          "Pacific Ocean"
-        ],
+        "Vityaz Trench",
+        []
+      ],
+      [
+        "Pacific Ocean",
         [
           "/wiki/Pacific_Ocean"
         ]
       ],
       [
-        [
-          "6,150"
-        ],
-        [
-          null
-        ]
+        "6,150",
+        []
       ],
       [
-        [
-          "20,177"
-        ],
-        [
-          null
-        ]
+        "20,177",
+        []
       ],
       [
-        [
-          "3.8"
-        ],
-        [
-          null
-        ]
+        "3.8",
+        []
       ]
     ]
   ],

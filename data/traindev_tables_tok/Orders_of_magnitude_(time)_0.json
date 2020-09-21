@@ -3,86 +3,52 @@
   "title": "Orders of magnitude (time)",
   "header": [
     [
-      [
-        "s"
-      ],
+      "Unit ( s )",
       [
         "/wiki/Second"
       ]
     ],
     [
-      [
-        "Multiple"
-      ],
-      [
-        null
-      ]
+      "Multiple",
+      []
     ],
     [
-      [
-        "Symbol"
-      ],
-      [
-        null
-      ]
+      "Symbol",
+      []
     ],
     [
-      [
-        "Definition"
-      ],
-      [
-        null
-      ]
+      "Definition",
+      []
     ],
     [
-      [
-        "Comparative examples & common units"
-      ],
-      [
-        null
-      ]
+      "Comparative examples & common units",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "10"
-        ],
-        [
-          null
-        ]
+        "10",
+        []
       ],
       [
-        [
-          "Planck time"
-        ],
+        "1 Planck time",
         [
           "/wiki/Planck_time"
         ]
       ],
       [
-        [
-          "t P"
-        ],
-        [
-          null
-        ]
+        "t P",
+        []
       ],
       [
-        [
-          "quantum gravity"
-        ],
+        "Presumed to be the shortest theoretically measurable time interval ( but not necessarily the shortest increment of time - see quantum gravity )",
         [
           "/wiki/Quantum_gravity"
         ]
       ],
       [
-        [
-          "Planck time",
-          "natural units",
-          "Planck units"
-        ],
+        "10 ys : One Planck time t P = \u210f G / c 5 { \\displaystyle { \\sqrt { \\hbar G/c^ { 5 } } } } \u2248 5.39 \u00d7 10 s is the briefest physically meaningful span of time . It is the unit of time in the natural units system known as Planck units",
         [
           "/wiki/Planck_time",
           "/wiki/Natural_units",
@@ -92,46 +58,26 @@
     ],
     [
       [
-        [
-          "10"
-        ],
-        [
-          null
-        ]
+        "10",
+        []
       ],
       [
-        [
-          "1 yoctosecond"
-        ],
-        [
-          null
-        ]
+        "1 yoctosecond",
+        []
       ],
       [
-        [
-          "ys"
-        ],
-        [
-          null
-        ]
+        "ys",
+        []
       ],
       [
-        [
-          "yocto-",
-          "septillionth"
-        ],
+        "Yoctosecond , ( yocto- + second ) , is one septillionth of a second",
         [
           "/wiki/Yocto-",
           "/wiki/Septillion"
         ]
       ],
       [
-        [
-          "mean lifetime",
-          "W and Z bosons",
-          "isotope 7 of hydrogen ( Hydrogen-7 )",
-          "Higgs Boson"
-        ],
+        "0.3 ys : mean lifetime of W and Z bosons 23 ys : Lifespan isotope 7 of hydrogen ( Hydrogen-7 ) 156 ys : mean lifetime of a Higgs Boson",
         [
           "/wiki/Mean_lifetime",
           "/wiki/W_and_Z_bosons",
@@ -142,48 +88,26 @@
     ],
     [
       [
-        [
-          "10"
-        ],
-        [
-          null
-        ]
+        "10",
+        []
       ],
       [
-        [
-          "1 zeptosecond"
-        ],
-        [
-          null
-        ]
+        "1 zeptosecond",
+        []
       ],
       [
-        [
-          "zs"
-        ],
-        [
-          null
-        ]
+        "zs",
+        []
       ],
       [
-        [
-          "zepto-",
-          "sextillionth"
-        ],
+        "Zeptosecond , ( zepto- + second ) , is one sextillionth of one second",
         [
           "/wiki/Zepto-",
           "/wiki/Sextillion"
         ]
       ],
       [
-        [
-          "gamma ray",
-          "atomic nucleus",
-          "MeV",
-          "photon",
-          "zitterbewegung",
-          "electron"
-        ],
+        "2 zs : representative cycle time of gamma ray radiation released in the decay of a radioactive atomic nucleus ( here as 2 MeV per emitted photon ) 4 zs : cycle time of the zitterbewegung of an electron ( \u03c9 = 2 m e c 2 / \u210f { \\displaystyle \\omega =2m_ { e } c^ { 2 } /\\hbar } )",
         [
           "/wiki/Gamma_ray",
           "/wiki/Atomic_nucleus",
@@ -196,87 +120,49 @@
     ],
     [
       [
-        [
-          "10"
-        ],
-        [
-          null
-        ]
+        "10",
+        []
       ],
       [
-        [
-          "attosecond"
-        ],
+        "1 attosecond",
         [
           "/wiki/Attosecond"
         ]
       ],
       [
-        [
-          "as"
-        ],
-        [
-          null
-        ]
+        "as",
+        []
       ],
       [
-        [
-          "One quintillionth of one second"
-        ],
-        [
-          null
-        ]
+        "One quintillionth of one second",
+        []
       ],
       [
-        [
-          "12 attoseconds : best timing control of laser pulses"
-        ],
-        [
-          null
-        ]
+        "12 attoseconds : best timing control of laser pulses",
+        []
       ]
     ],
     [
       [
-        [
-          "10"
-        ],
-        [
-          null
-        ]
+        "10",
+        []
       ],
       [
-        [
-          "femtosecond"
-        ],
+        "1 femtosecond",
         [
           "/wiki/Femtosecond"
         ]
       ],
       [
-        [
-          "fs"
-        ],
-        [
-          null
-        ]
+        "fs",
+        []
       ],
       [
-        [
-          "One quadrillionth of one second"
-        ],
-        [
-          null
-        ]
+        "One quadrillionth of one second",
+        []
       ],
       [
-        [
-          "nanometre",
-          "ultraviolet",
-          "bromine",
-          "laser dissociation",
-          "tauon"
-        ],
+        "1 fs : Cycle time for 300 nanometre light ; ultraviolet light ; light travels 0.3 micrometres ( \u00b5m ) . 140 fs : Electrons have localized onto individual bromine atoms 6\u00c5 apart after laser dissociation of Br 2 . 290 fs : Lifetime of a tauon",
         [
           "/wiki/Nanometre",
           "/wiki/Ultraviolet",
@@ -288,43 +174,25 @@
     ],
     [
       [
-        [
-          "10"
-        ],
-        [
-          null
-        ]
+        "10",
+        []
       ],
       [
-        [
-          "picosecond"
-        ],
+        "1 picosecond",
         [
           "/wiki/Picosecond"
         ]
       ],
       [
-        [
-          "ps"
-        ],
-        [
-          null
-        ]
+        "ps",
+        []
       ],
       [
-        [
-          "One trillionth of one second"
-        ],
-        [
-          null
-        ]
+        "One trillionth of one second",
+        []
       ],
       [
-        [
-          "bottom quark",
-          "transition state",
-          "Silicon-Germanium transistor"
-        ],
+        "1 ps : mean lifetime of a bottom quark ; light travels 0.3 millimeters ( mm ) 1 ps : typical lifetime of a transition state 4 ps : Time to execute one machine cycle by an IBM Silicon-Germanium transistor",
         [
           "/wiki/Bottom_quark",
           "/wiki/Transition_state",
@@ -334,84 +202,49 @@
     ],
     [
       [
-        [
-          "10"
-        ],
-        [
-          null
-        ]
+        "10",
+        []
       ],
       [
-        [
-          "nanosecond"
-        ],
+        "1 nanosecond",
         [
           "/wiki/Nanosecond"
         ]
       ],
       [
-        [
-          "ns"
-        ],
-        [
-          null
-        ]
+        "ns",
+        []
       ],
       [
-        [
-          "One billionth of one second"
-        ],
-        [
-          null
-        ]
+        "One billionth of one second",
+        []
       ],
       [
-        [
-          "1 ns : Time to execute one machine cycle by a 1 GHz microprocessor 1 ns : Light travels 30 centimetres ( 12 in )"
-        ],
-        [
-          null
-        ]
+        "1 ns : Time to execute one machine cycle by a 1 GHz microprocessor 1 ns : Light travels 30 centimetres ( 12 in )",
+        []
       ]
     ],
     [
       [
-        [
-          "10"
-        ],
-        [
-          null
-        ]
+        "10",
+        []
       ],
       [
-        [
-          "microsecond"
-        ],
+        "1 microsecond",
         [
           "/wiki/Microsecond"
         ]
       ],
       [
-        [
-          "\u00b5s"
-        ],
-        [
-          null
-        ]
+        "\u00b5s",
+        []
       ],
       [
-        [
-          "One millionth of one second"
-        ],
-        [
-          null
-        ]
+        "One millionth of one second",
+        []
       ],
       [
-        [
-          "muon",
-          "minicomputer"
-        ],
+        "1 \u00b5s : Time to execute one machine cycle by an Intel 80186 microprocessor 2.2 \u00b5s : Lifetime of a muon 4-16 \u00b5s : Time to execute one machine cycle by a 1960s minicomputer",
         [
           "/wiki/Muon",
           "/wiki/Minicomputer"
@@ -420,41 +253,25 @@
     ],
     [
       [
-        [
-          "10"
-        ],
-        [
-          null
-        ]
+        "10",
+        []
       ],
       [
-        [
-          "millisecond"
-        ],
+        "1 millisecond",
         [
           "/wiki/Millisecond"
         ]
       ],
       [
-        [
-          "ms"
-        ],
-        [
-          null
-        ]
+        "ms",
+        []
       ],
       [
-        [
-          "One thousandth of one second"
-        ],
-        [
-          null
-        ]
+        "One thousandth of one second",
+        []
       ],
       [
-        [
-          "seek time"
-        ],
+        "1 ms : time for a neuron in human brain to fire one impulse and return to rest 4-8 ms : typical seek time for a computer hard disk",
         [
           "/wiki/Seek_time"
         ]
@@ -462,42 +279,23 @@
     ],
     [
       [
-        [
-          "10"
-        ],
-        [
-          null
-        ]
+        "10",
+        []
       ],
       [
-        [
-          "1 centisecond"
-        ],
-        [
-          null
-        ]
+        "1 centisecond",
+        []
       ],
       [
-        [
-          "cs"
-        ],
-        [
-          null
-        ]
+        "cs",
+        []
       ],
       [
-        [
-          "One hundredth of one second"
-        ],
-        [
-          null
-        ]
+        "One hundredth of one second",
+        []
       ],
       [
-        [
-          "reflex",
-          "European"
-        ],
+        "1-2 cs ( =0.01-0.02 s ) : Human reflex response to visual stimuli 1.6667 cs period of a frame at a frame rate of 60 Hz . 2 cs : cycle time for European 50 Hz AC electricity",
         [
           "/wiki/Reflex",
           "/wiki/Europe"
@@ -506,44 +304,24 @@
     ],
     [
       [
-        [
-          "10"
-        ],
-        [
-          null
-        ]
+        "10",
+        []
       ],
       [
-        [
-          "1 decisecond"
-        ],
-        [
-          null
-        ]
+        "1 decisecond",
+        []
       ],
       [
-        [
-          "ds"
-        ],
-        [
-          null
-        ]
+        "ds",
+        []
       ],
       [
-        [
-          "One tenth of a second"
-        ],
-        [
-          null
-        ]
+        "One tenth of a second",
+        []
       ],
       [
-        [
-          "1-4 ds ( =0.1-0.4 s ) : Blink of an eye"
-        ],
-        [
-          null
-        ]
+        "1-4 ds ( =0.1-0.4 s ) : Blink of an eye",
+        []
       ]
     ]
   ],

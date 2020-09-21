@@ -3,68 +3,44 @@
   "title": "Peter Witt streetcar",
   "header": [
     [
-      [
-        "Company"
-      ],
-      [
-        null
-      ]
+      "Company",
+      []
     ],
     [
-      [
-        "City"
-      ],
-      [
-        null
-      ]
+      "City",
+      []
     ],
     [
-      [
-        "State/Province"
-      ],
-      [
-        null
-      ]
+      "State/Province",
+      []
     ],
     [
-      [
-        "Country"
-      ],
-      [
-        null
-      ]
+      "Country",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "J. G. Brill Company"
-        ],
+        "J. G. Brill Company",
         [
           "/wiki/J._G._Brill_Company"
         ]
       ],
       [
-        [
-          "Philadelphia"
-        ],
+        "Philadelphia",
         [
           "/wiki/Philadelphia"
         ]
       ],
       [
-        [
-          "Pennsylvania"
-        ],
+        "Pennsylvania",
         [
           "/wiki/Pennsylvania"
         ]
       ],
       [
-        [
-          "United States"
-        ],
+        "United States",
         [
           "/wiki/United_States"
         ]
@@ -72,33 +48,25 @@
     ],
     [
       [
-        [
-          "Canadian Car and Foundry"
-        ],
+        "Canadian Car and Foundry",
         [
           "/wiki/Canadian_Car_and_Foundry"
         ]
       ],
       [
-        [
-          "Montreal"
-        ],
+        "Montreal",
         [
           "/wiki/Montreal"
         ]
       ],
       [
-        [
-          "Quebec"
-        ],
+        "Quebec",
         [
           "/wiki/Quebec"
         ]
       ],
       [
-        [
-          "Canada"
-        ],
+        "Canada",
         [
           "/wiki/Canada"
         ]
@@ -106,33 +74,23 @@
     ],
     [
       [
-        [
-          "Carminati & Toselli"
-        ],
-        [
-          null
-        ]
+        "Carminati & Toselli",
+        []
       ],
       [
-        [
-          "Milan"
-        ],
+        "Milan",
         [
           "/wiki/Milan"
         ]
       ],
       [
-        [
-          "Milan"
-        ],
+        "Milan",
         [
           "/wiki/Province_of_Milan"
         ]
       ],
       [
-        [
-          "Italy"
-        ],
+        "Italy",
         [
           "/wiki/Italy"
         ]
@@ -140,237 +98,157 @@
     ],
     [
       [
-        [
-          "Cincinnati Car Company"
-        ],
+        "Cincinnati Car Company",
         [
           "/wiki/Cincinnati_Car_Company"
         ]
       ],
       [
-        [
-          "Cincinnati"
-        ],
+        "Cincinnati",
         [
           "/wiki/Cincinnati"
         ]
       ],
       [
-        [
-          "Ohio"
-        ],
+        "Ohio",
         [
           "/wiki/Ohio"
         ]
       ],
       [
-        [
-          "United States"
-        ],
-        [
-          null
-        ]
+        "United States",
+        []
       ]
     ],
     [
       [
-        [
-          "G. C. Kuhlman Car Company"
-        ],
+        "G. C. Kuhlman Car Company",
         [
           "/wiki/G._C._Kuhlman_Car_Company"
         ]
       ],
       [
-        [
-          "Cleveland"
-        ],
+        "Cleveland",
         [
           "/wiki/Cleveland"
         ]
       ],
       [
-        [
-          "Ohio"
-        ],
-        [
-          null
-        ]
+        "Ohio",
+        []
       ],
       [
-        [
-          "United States"
-        ],
-        [
-          null
-        ]
+        "United States",
+        []
       ]
     ],
     [
       [
-        [
-          "Officine Elettroferroviarie Tallero"
-        ],
-        [
-          null
-        ]
+        "Officine Elettroferroviarie Tallero",
+        []
       ],
       [
-        [
-          "Milan"
-        ],
-        [
-          null
-        ]
+        "Milan",
+        []
       ],
       [
-        [
-          "Milan"
-        ],
-        [
-          null
-        ]
+        "Milan",
+        []
       ],
       [
-        [
-          "Italy"
-        ],
-        [
-          null
-        ]
+        "Italy",
+        []
       ]
     ],
     [
       [
-        [
-          "Officine Ferroviarie Moncenisio"
-        ],
-        [
-          null
-        ]
+        "Officine Ferroviarie Moncenisio",
+        []
       ],
       [
-        [
-          "Condove"
-        ],
+        "Condove",
         [
           "/wiki/Condove"
         ]
       ],
       [
-        [
-          "Turin"
-        ],
+        "Turin",
         [
           "/wiki/Province_of_Turin"
         ]
       ],
       [
-        [
-          "Italy"
-        ],
-        [
-          null
-        ]
+        "Italy",
+        []
       ]
     ],
     [
       [
-        [
-          "Officine Ferroviarie Meridionali del Vasto"
-        ],
-        [
-          null
-        ]
+        "Officine Ferroviarie Meridionali del Vasto",
+        []
       ],
       [
-        [
-          "Vasto"
-        ],
+        "Vasto",
         [
           "/wiki/Vasto"
         ]
       ],
       [
-        [
-          "Chieti"
-        ],
+        "Chieti",
         [
           "/wiki/Province_of_Chieti"
         ]
       ],
       [
-        [
-          "Italy"
-        ],
-        [
-          null
-        ]
+        "Italy",
+        []
       ]
     ],
     [
       [
-        [
-          "Ottawa Car Company"
-        ],
+        "Ottawa Car Company",
         [
           "/wiki/Ottawa_Car_Company"
         ]
       ],
       [
-        [
-          "Ottawa"
-        ],
+        "Ottawa",
         [
           "/wiki/Ottawa"
         ]
       ],
       [
-        [
-          "Ontario"
-        ],
+        "Ontario",
         [
           "/wiki/Ontario"
         ]
       ],
       [
-        [
-          "Canada"
-        ],
-        [
-          null
-        ]
+        "Canada",
+        []
       ]
     ],
     [
       [
-        [
-          "Petersburg Tram Mechanical Factory"
-        ],
+        "Petersburg Tram Mechanical Factory ( PTMF )",
         [
           "/wiki/Petersburg_Tram_Mechanical_Factory"
         ]
       ],
       [
-        [
-          "Leningrad"
-        ],
+        "Leningrad",
         [
           "/wiki/Saint_Petersburg"
         ]
       ],
       [
-        [
-          "Russian SFSR"
-        ],
+        "Russian SFSR",
         [
           "/wiki/Russian_Soviet_Federative_Socialist_Republic"
         ]
       ],
       [
-        [
-          "Soviet Union"
-        ],
+        "Soviet Union",
         [
           "/wiki/Soviet_Union"
         ]
@@ -378,70 +256,48 @@
     ],
     [
       [
-        [
-          "Preston Car Company"
-        ],
+        "Preston Car Company",
         [
           "/wiki/Preston_Car_Company"
         ]
       ],
       [
-        [
-          "Preston"
-        ],
+        "Preston",
         [
           "/wiki/Preston,_Ontario"
         ]
       ],
       [
-        [
-          "Ontario"
-        ],
-        [
-          null
-        ]
+        "Ontario",
+        []
       ],
       [
-        [
-          "Canada"
-        ],
-        [
-          null
-        ]
+        "Canada",
+        []
       ]
     ],
     [
       [
-        [
-          "St. Louis Car Company"
-        ],
+        "St. Louis Car Company",
         [
           "/wiki/St._Louis_Car_Company"
         ]
       ],
       [
-        [
-          "St. Louis"
-        ],
+        "St. Louis",
         [
           "/wiki/St._Louis,_Missouri"
         ]
       ],
       [
-        [
-          "Missouri"
-        ],
+        "Missouri",
         [
           "/wiki/Missouri"
         ]
       ],
       [
-        [
-          "United States"
-        ],
-        [
-          null
-        ]
+        "United States",
+        []
       ]
     ]
   ],

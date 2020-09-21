@@ -3,134 +3,81 @@
   "title": "List of matrices",
   "header": [
     [
-      [
-        "Name"
-      ],
-      [
-        null
-      ]
+      "Name",
+      []
     ],
     [
-      [
-        "Explanation"
-      ],
-      [
-        null
-      ]
+      "Explanation",
+      []
     ],
     [
-      [
-        "Notes"
-      ],
-      [
-        null
-      ]
+      "Notes",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Circular matrix",
-          "Coninvolutory matrix"
-        ],
-        [
-          null,
-          null
-        ]
+        "Circular matrix or Coninvolutory matrix",
+        []
       ],
       [
-        [
-          "A matrix whose inverse is equal to its entrywise complex conjugate : A = A"
-        ],
-        [
-          null
-        ]
+        "A matrix whose inverse is equal to its entrywise complex conjugate : A = A",
+        []
       ],
       [
-        [
-          "Compare with unitary matrices"
-        ],
-        [
-          null
-        ]
+        "Compare with unitary matrices",
+        []
       ]
     ],
     [
       [
-        [
-          "Congruent matrix"
-        ],
+        "Congruent matrix",
         [
           "/wiki/Matrix_congruence"
         ]
       ],
       [
-        [
-          "Two matrices A and B are congruent if there exists an invertible matrix P such that P A P = B"
-        ],
-        [
-          null
-        ]
+        "Two matrices A and B are congruent if there exists an invertible matrix P such that P A P = B",
+        []
       ],
       [
-        [
-          "Compare with similar matrices"
-        ],
-        [
-          null
-        ]
+        "Compare with similar matrices",
+        []
       ]
     ],
     [
       [
-        [
-          "EP matrix"
-        ],
+        "EP matrix or Range-Hermitian matrix",
         [
           "/wiki/EP_matrix"
         ]
       ],
       [
-        [
-          "Moore-Penrose inverse"
-        ],
+        "A square matrix that commutes with its Moore-Penrose inverse : AA = A A",
         [
           "/wiki/Moore\u2013Penrose_inverse"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Idempotent matrix",
-          "Projection Matrix"
-        ],
+        "Idempotent matrix or Projection Matrix",
         [
           "/wiki/Idempotent_matrix",
           "/wiki/Projection_(linear_algebra)"
         ]
       ],
       [
-        [
-          "A matrix that has the property A \u00b2 = AA = A"
-        ],
-        [
-          null
-        ]
+        "A matrix that has the property A \u00b2 = AA = A",
+        []
       ],
       [
-        [
-          "one projection"
-        ],
+        "The name projection matrix inspires from the observation of projection of a point multiple times onto a subspace ( plane or a line ) giving the same result as one projection",
         [
           "/wiki/Projection_(linear_algebra)"
         ]
@@ -138,25 +85,19 @@
     ],
     [
       [
-        [
-          "Invertible matrix"
-        ],
+        "Invertible matrix",
         [
           "/wiki/Invertible_matrix"
         ]
       ],
       [
-        [
-          "inverse"
-        ],
+        "A square matrix having a multiplicative inverse , that is , a matrix B such that AB = BA = I",
         [
           "/wiki/Inverse_matrix"
         ]
       ],
       [
-        [
-          "general linear group"
-        ],
+        "Invertible matrices form the general linear group",
         [
           "/wiki/General_linear_group"
         ]
@@ -164,26 +105,17 @@
     ],
     [
       [
-        [
-          "Involutory matrix"
-        ],
+        "Involutory matrix",
         [
           "/wiki/Involutory_matrix"
         ]
       ],
       [
-        [
-          "A square matrix which is its own inverse , i.e. , AA = I"
-        ],
-        [
-          null
-        ]
+        "A square matrix which is its own inverse , i.e. , AA = I",
+        []
       ],
       [
-        [
-          "Signature matrices",
-          "Householder Matrices"
-        ],
+        "Signature matrices , Householder Matrices ( Also known as 'reflection matrices ' to reflect a point about a plane or line ) have this property",
         [
           "/wiki/Signature_matrix",
           "/wiki/Householder_transformation"
@@ -192,51 +124,35 @@
     ],
     [
       [
-        [
-          "Nilpotent matrix"
-        ],
+        "Nilpotent matrix",
         [
           "/wiki/Nilpotent_matrix"
         ]
       ],
       [
-        [
-          "A square matrix satisfying A = 0 for some positive integer q"
-        ],
-        [
-          null
-        ]
+        "A square matrix satisfying A = 0 for some positive integer q",
+        []
       ],
       [
-        [
-          "Equivalently , the only eigenvalue of A is 0"
-        ],
-        [
-          null
-        ]
+        "Equivalently , the only eigenvalue of A is 0",
+        []
       ]
     ],
     [
       [
-        [
-          "Normal matrix"
-        ],
+        "Normal matrix",
         [
           "/wiki/Normal_matrix"
         ]
       ],
       [
-        [
-          "conjugate transpose"
-        ],
+        "A square matrix that commutes with its conjugate transpose : AA = A A",
         [
           "/wiki/Conjugate_transpose"
         ]
       ],
       [
-        [
-          "spectral theorem"
-        ],
+        "They are the matrices to which the spectral theorem applies",
         [
           "/wiki/Spectral_theorem"
         ]
@@ -244,25 +160,19 @@
     ],
     [
       [
-        [
-          "Orthogonal matrix"
-        ],
+        "Orthogonal matrix",
         [
           "/wiki/Orthogonal_matrix"
         ]
       ],
       [
-        [
-          "transpose"
-        ],
+        "A matrix whose inverse is equal to its transpose , A = A",
         [
           "/wiki/Transpose"
         ]
       ],
       [
-        [
-          "orthogonal group"
-        ],
+        "They form the orthogonal group",
         [
           "/wiki/Orthogonal_group"
         ]
@@ -270,103 +180,69 @@
     ],
     [
       [
-        [
-          "Orthonormal matrix"
-        ],
+        "Orthonormal matrix",
         [
           "/wiki/Orthonormal_matrix"
         ]
       ],
       [
-        [
-          "orthonormal"
-        ],
+        "A matrix whose columns are orthonormal vectors",
         [
           "/wiki/Orthonormal"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Singular matrix"
-        ],
+        "Singular matrix",
         [
           "/wiki/Singular_matrix"
         ]
       ],
       [
-        [
-          "A square matrix that is not invertible"
-        ],
-        [
-          null
-        ]
+        "A square matrix that is not invertible",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Unimodular matrix"
-        ],
+        "Unimodular matrix",
         [
           "/wiki/Unimodular_matrix"
         ]
       ],
       [
-        [
-          "integer matrix"
-        ],
+        "An invertible matrix with entries in the integers ( integer matrix )",
         [
           "/wiki/Integer_matrix"
         ]
       ],
       [
-        [
-          "Necessarily the determinant is +1 or \u22121"
-        ],
-        [
-          null
-        ]
+        "Necessarily the determinant is +1 or \u22121",
+        []
       ]
     ],
     [
       [
-        [
-          "Unipotent matrix"
-        ],
+        "Unipotent matrix",
         [
           "/wiki/Unipotent_matrix"
         ]
       ],
       [
-        [
-          "A square matrix with all eigenvalues equal to 1"
-        ],
-        [
-          null
-        ]
+        "A square matrix with all eigenvalues equal to 1",
+        []
       ],
       [
-        [
-          "unipotent group"
-        ],
+        "Equivalently , A \u2212 I is nilpotent . See also unipotent group",
         [
           "/wiki/Unipotent_group"
         ]
@@ -374,46 +250,31 @@
     ],
     [
       [
-        [
-          "Unitary matrix"
-        ],
+        "Unitary matrix",
         [
           "/wiki/Unitary_matrix"
         ]
       ],
       [
-        [
-          "conjugate transpose"
-        ],
+        "A square matrix whose inverse is equal to its conjugate transpose , A = A",
         [
           "/wiki/Conjugate_transpose"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Totally unimodular matrix"
-        ],
+        "Totally unimodular matrix",
         [
           "/wiki/Totally_unimodular_matrix"
         ]
       ],
       [
-        [
-          "unimodular",
-          "linear programming",
-          "relaxation",
-          "integer program"
-        ],
+        "A matrix for which every non-singular square submatrix is unimodular . This has some implications in the linear programming relaxation of an integer program",
         [
           "/wiki/Unimodular_matrix",
           "/wiki/Linear_programming",
@@ -422,38 +283,24 @@
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Weighing matrix"
-        ],
+        "Weighing matrix",
         [
           "/wiki/Weighing_matrix"
         ]
       ],
       [
-        [
-          "A square matrix the entries of which are in { 0 , 1 , \u22121 } , such that AA = wI for some positive integer w"
-        ],
-        [
-          null
-        ]
+        "A square matrix the entries of which are in { 0 , 1 , \u22121 } , such that AA = wI for some positive integer w",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ]
   ],

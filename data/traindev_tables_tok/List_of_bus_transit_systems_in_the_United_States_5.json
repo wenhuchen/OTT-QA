@@ -3,122 +3,68 @@
   "title": "List of bus transit systems in the United States",
   "header": [
     [
-      [
-        "System"
-      ],
-      [
-        null
-      ]
+      "System",
+      []
     ],
     [
-      [
-        "Locale"
-      ],
-      [
-        null
-      ]
+      "Locale",
+      []
     ],
     [
-      [
-        "Major city ( s )"
-      ],
-      [
-        null
-      ]
+      "Major city ( s )",
+      []
     ],
     [
-      [
-        "Daily ridership"
-      ],
-      [
-        null
-      ]
+      "Daily ridership",
+      []
     ],
     [
-      [
-        "Number of vehicles"
-      ],
-      [
-        null
-      ]
+      "Number of vehicles",
+      []
     ],
     [
-      [
-        "Daily vehicle revenue miles"
-      ],
-      [
-        null
-      ]
+      "Daily vehicle revenue miles",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "City of Loveland Transit"
-        ],
-        [
-          null
-        ]
+        "City of Loveland Transit",
+        []
       ],
       [
-        [
-          "Loveland"
-        ],
+        "Loveland",
         [
           "/wiki/Loveland,_Colorado"
         ]
       ],
       [
-        [
-          "Loveland"
-        ],
-        [
-          null
-        ]
+        "Loveland",
+        []
       ],
       [
-        [
-          "399"
-        ],
-        [
-          null
-        ]
+        "399",
+        []
       ],
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "428"
-        ],
-        [
-          null
-        ]
+        "428",
+        []
       ]
     ],
     [
       [
-        [
-          "Grand Valley Transit"
-        ],
+        "Grand Valley Transit",
         [
           "/wiki/Grand_Valley_Transit"
         ]
       ],
       [
-        [
-          "Grand Junction",
-          "Palisade",
-          "Clifton",
-          "Orchard Mesa",
-          "Fruita"
-        ],
+        "Grand Junction , Palisade , Clifton , Orchard Mesa , and Fruita",
         [
           "/wiki/Grand_Junction,_Colorado",
           "/wiki/Palisade,_Colorado",
@@ -128,263 +74,160 @@
         ]
       ],
       [
-        [
-          "Grand Junction"
-        ],
-        [
-          null
-        ]
+        "Grand Junction",
+        []
       ],
       [
-        [
-          "2,354"
-        ],
-        [
-          null
-        ]
+        "2,354",
+        []
       ],
       [
-        [
-          "11"
-        ],
-        [
-          null
-        ]
+        "11",
+        []
       ],
       [
-        [
-          "2,027"
-        ],
-        [
-          null
-        ]
+        "2,027",
+        []
       ]
     ],
     [
       [
-        [
-          "Greeley-Evans Transit"
-        ],
+        "Greeley-Evans Transit",
         [
           "/wiki/Greeley-Evans_Transit"
         ]
       ],
       [
-        [
-          "Greeley",
-          "Evans"
-        ],
+        "Greeley and Evans",
         [
           "/wiki/Greeley,_Colorado",
           "/wiki/Evans,_Colorado"
         ]
       ],
       [
-        [
-          "Greeley"
-        ],
-        [
-          null
-        ]
+        "Greeley",
+        []
       ],
       [
-        [
-          "1,451"
-        ],
-        [
-          null
-        ]
+        "1,451",
+        []
       ],
       [
-        [
-          "10"
-        ],
-        [
-          null
-        ]
+        "10",
+        []
       ],
       [
-        [
-          "1,065"
-        ],
-        [
-          null
-        ]
+        "1,065",
+        []
       ]
     ],
     [
       [
-        [
-          "Mountain Metropolitan Transit"
-        ],
+        "Mountain Metropolitan Transit",
         [
           "/wiki/Mountain_Metropolitan_Transit"
         ]
       ],
       [
-        [
-          "Colorado Springs"
-        ],
+        "Colorado Springs",
         [
           "/wiki/Colorado_Springs,_Colorado"
         ]
       ],
       [
-        [
-          "Colorado Springs"
-        ],
-        [
-          null
-        ]
+        "Colorado Springs",
+        []
       ],
       [
-        [
-          "8,638"
-        ],
-        [
-          null
-        ]
+        "8,638",
+        []
       ],
       [
-        [
-          "63"
-        ],
-        [
-          null
-        ]
+        "63",
+        []
       ],
       [
-        [
-          "8,681"
-        ],
-        [
-          null
-        ]
+        "8,681",
+        []
       ]
     ],
     [
       [
-        [
-          "Pueblo Transit"
-        ],
+        "Pueblo Transit",
         [
           "/wiki/Pueblo_Transit"
         ]
       ],
       [
-        [
-          "Pueblo"
-        ],
+        "Pueblo",
         [
           "/wiki/Pueblo,_Colorado"
         ]
       ],
       [
-        [
-          "Pueblo"
-        ],
-        [
-          null
-        ]
+        "Pueblo",
+        []
       ],
       [
-        [
-          "2,479"
-        ],
-        [
-          null
-        ]
+        "2,479",
+        []
       ],
       [
-        [
-          "12"
-        ],
-        [
-          null
-        ]
+        "12",
+        []
       ],
       [
-        [
-          "1,532"
-        ],
-        [
-          null
-        ]
+        "1,532",
+        []
       ]
     ],
     [
       [
-        [
-          "Regional Transportation District"
-        ],
+        "Regional Transportation District",
         [
           "/wiki/Regional_Transportation_District"
         ]
       ],
       [
-        [
-          "Denver metropolitan area"
-        ],
+        "Denver metropolitan area",
         [
           "/wiki/Denver_metropolitan_area"
         ]
       ],
       [
-        [
-          "Denver"
-        ],
+        "Denver",
         [
           "/wiki/Denver"
         ]
       ],
       [
-        [
-          "211,567"
-        ],
-        [
-          null
-        ]
+        "211,567",
+        []
       ],
       [
-        [
-          "955"
-        ],
-        [
-          null
-        ]
+        "955",
+        []
       ],
       [
-        [
-          "104,782"
-        ],
-        [
-          null
-        ]
+        "104,782",
+        []
       ]
     ],
     [
       [
-        [
-          "Roaring Fork Transportation Authority"
-        ],
+        "Roaring Fork Transportation Authority",
         [
           "/wiki/Roaring_Fork_Transportation_Authority"
         ]
       ],
       [
-        [
-          "Roaring Fork Valley"
-        ],
+        "Roaring Fork Valley",
         [
           "/wiki/Roaring_Fork_Valley"
         ]
       ],
       [
-        [
-          "Aspen",
-          "Carbondale",
-          "Glenwood Springs"
-        ],
+        "Aspen , Carbondale , and Glenwood Springs",
         [
           "/wiki/Aspen,_Colorado",
           "/wiki/Carbondale,_Colorado",
@@ -392,78 +235,46 @@
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Transfort"
-        ],
+        "Transfort",
         [
           "/wiki/Transfort"
         ]
       ],
       [
-        [
-          "Fort Collins"
-        ],
+        "Fort Collins area",
         [
           "/wiki/Fort_Collins,_Colorado"
         ]
       ],
       [
-        [
-          "Fort Collins"
-        ],
-        [
-          null
-        ]
+        "Fort Collins",
+        []
       ],
       [
-        [
-          "5,217"
-        ],
-        [
-          null
-        ]
+        "5,217",
+        []
       ],
       [
-        [
-          "23"
-        ],
-        [
-          null
-        ]
+        "23",
+        []
       ],
       [
-        [
-          "2,169"
-        ],
-        [
-          null
-        ]
+        "2,169",
+        []
       ]
     ]
   ],

@@ -3,68 +3,40 @@
   "title": "Rail services in the West of England",
   "header": [
     [
-      [
-        "Destination"
-      ],
-      [
-        null
-      ]
+      "Destination",
+      []
     ],
     [
-      [
-        "Time from Bristol Temple Meads"
-      ],
-      [
-        null
-      ]
+      "Time from Bristol Temple Meads",
+      []
     ],
     [
-      [
-        "Time from Bristol Parkway"
-      ],
-      [
-        null
-      ]
+      "Time from Bristol Parkway",
+      []
     ],
     [
-      [
-        "Operator ( s )"
-      ],
-      [
-        null
-      ]
+      "Operator ( s )",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Avonmouth"
-        ],
+        "Avonmouth",
         [
           "/wiki/Avonmouth_railway_station"
         ]
       ],
       [
-        [
-          "23 - 35 minutes"
-        ],
-        [
-          null
-        ]
+        "23 - 35 minutes",
+        []
       ],
       [
-        [
-          "N/A"
-        ],
-        [
-          null
-        ]
+        "N/A",
+        []
       ],
       [
-        [
-          "GWR"
-        ],
+        "GWR",
         [
           "/wiki/Great_Western_Railway_(train_operating_company)"
         ]
@@ -72,34 +44,21 @@
     ],
     [
       [
-        [
-          "Bath Spa"
-        ],
+        "Bath Spa",
         [
           "/wiki/Bath_Spa_railway_station"
         ]
       ],
       [
-        [
-          "11 - 19 minutes"
-        ],
-        [
-          null
-        ]
+        "11 - 19 minutes",
+        []
       ],
       [
-        [
-          "28 - 47 minutes"
-        ],
-        [
-          null
-        ]
+        "28 - 47 minutes",
+        []
       ],
       [
-        [
-          "GWR",
-          "SWR"
-        ],
+        "GWR / SWR",
         [
           "/wiki/Great_Western_Railway_(train_operating_company)",
           "/wiki/South_Western_Railway_(train_operating_company)"
@@ -108,34 +67,21 @@
     ],
     [
       [
-        [
-          "Bristol Parkway"
-        ],
+        "Bristol Parkway",
         [
           "/wiki/Bristol_Parkway_railway_station"
         ]
       ],
       [
-        [
-          "8 - 21 minutes"
-        ],
-        [
-          null
-        ]
+        "8 - 21 minutes",
+        []
       ],
       [
-        [
-          "N/A"
-        ],
-        [
-          null
-        ]
+        "N/A",
+        []
       ],
       [
-        [
-          "CrossCountry",
-          "GWR"
-        ],
+        "CrossCountry / GWR",
         [
           "/wiki/CrossCountry",
           "/wiki/Great_Western_Railway_(train_operating_company)"
@@ -144,34 +90,21 @@
     ],
     [
       [
-        [
-          "Bristol Temple Meads"
-        ],
+        "Bristol Temple Meads",
         [
           "/wiki/Bristol_Temple_Meads_railway_station"
         ]
       ],
       [
-        [
-          "N/A"
-        ],
-        [
-          null
-        ]
+        "N/A",
+        []
       ],
       [
-        [
-          "9 - 20 minutes"
-        ],
-        [
-          null
-        ]
+        "9 - 20 minutes",
+        []
       ],
       [
-        [
-          "CrossCountry",
-          "GWR"
-        ],
+        "CrossCountry / GWR",
         [
           "/wiki/CrossCountry",
           "/wiki/Great_Western_Railway_(train_operating_company)"
@@ -180,33 +113,21 @@
     ],
     [
       [
-        [
-          "Birmingham New Street"
-        ],
+        "Birmingham New Street",
         [
           "/wiki/Birmingham_New_Street_railway_station"
         ]
       ],
       [
-        [
-          "83 - 122 minutes"
-        ],
-        [
-          null
-        ]
+        "83 - 122 minutes",
+        []
       ],
       [
-        [
-          "71 - 93 minutes"
-        ],
-        [
-          null
-        ]
+        "71 - 93 minutes",
+        []
       ],
       [
-        [
-          "CrossCountry"
-        ],
+        "CrossCountry",
         [
           "/wiki/CrossCountry"
         ]
@@ -214,34 +135,21 @@
     ],
     [
       [
-        [
-          "Cardiff Central"
-        ],
+        "Cardiff Central",
         [
           "/wiki/Cardiff_Central_railway_station"
         ]
       ],
       [
-        [
-          "47 - 63 minutes"
-        ],
-        [
-          null
-        ]
+        "47 - 63 minutes",
+        []
       ],
       [
-        [
-          "35 - 66 minutes"
-        ],
-        [
-          null
-        ]
+        "35 - 66 minutes",
+        []
       ],
       [
-        [
-          "CrossCountry",
-          "GWR"
-        ],
+        "CrossCountry / GWR",
         [
           "/wiki/CrossCountry",
           "/wiki/Great_Western_Railway_(train_operating_company)"
@@ -250,34 +158,21 @@
     ],
     [
       [
-        [
-          "Cheltenham Spa"
-        ],
+        "Cheltenham Spa",
         [
           "/wiki/Cheltenham_Spa_railway_station"
         ]
       ],
       [
-        [
-          "38 - 68 minutes"
-        ],
-        [
-          null
-        ]
+        "38 - 68 minutes",
+        []
       ],
       [
-        [
-          "29 - 57 minutes"
-        ],
-        [
-          null
-        ]
+        "29 - 57 minutes",
+        []
       ],
       [
-        [
-          "CrossCountry",
-          "GWR"
-        ],
+        "CrossCountry / GWR",
         [
           "/wiki/CrossCountry",
           "/wiki/Great_Western_Railway_(train_operating_company)"
@@ -286,33 +181,21 @@
     ],
     [
       [
-        [
-          "Edinburgh Waverley"
-        ],
+        "Edinburgh Waverley",
         [
           "/wiki/Edinburgh_Waverley_railway_station"
         ]
       ],
       [
-        [
-          "393 - 399 minutes"
-        ],
-        [
-          null
-        ]
+        "393 - 399 minutes",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "CrossCountry"
-        ],
+        "CrossCountry",
         [
           "/wiki/CrossCountry"
         ]
@@ -320,34 +203,21 @@
     ],
     [
       [
-        [
-          "Exeter St Davids"
-        ],
+        "Exeter St Davids",
         [
           "/wiki/Exeter_St_Davids_railway_station"
         ]
       ],
       [
-        [
-          "56 - 112 minutes"
-        ],
-        [
-          null
-        ]
+        "56 - 112 minutes",
+        []
       ],
       [
-        [
-          "69-109 minutes"
-        ],
-        [
-          null
-        ]
+        "69-109 minutes",
+        []
       ],
       [
-        [
-          "CrossCountry",
-          "GWR"
-        ],
+        "CrossCountry / GWR",
         [
           "/wiki/CrossCountry",
           "/wiki/Great_Western_Railway_(train_operating_company)"
@@ -356,33 +226,21 @@
     ],
     [
       [
-        [
-          "Glasgow Central"
-        ],
+        "Glasgow Central",
         [
           "/wiki/Glasgow_Central_railway_station"
         ]
       ],
       [
-        [
-          "461 - 471 minutes"
-        ],
-        [
-          null
-        ]
+        "461 - 471 minutes",
+        []
       ],
       [
-        [
-          "456-464 minutes"
-        ],
-        [
-          null
-        ]
+        "456-464 minutes",
+        []
       ],
       [
-        [
-          "CrossCountry"
-        ],
+        "CrossCountry",
         [
           "/wiki/CrossCountry"
         ]
@@ -390,34 +248,21 @@
     ],
     [
       [
-        [
-          "Gloucester"
-        ],
+        "Gloucester",
         [
           "/wiki/Gloucester_railway_station"
         ]
       ],
       [
-        [
-          "38 - 57 minutes"
-        ],
-        [
-          null
-        ]
+        "38 - 57 minutes",
+        []
       ],
       [
-        [
-          "26-44 minutes"
-        ],
-        [
-          null
-        ]
+        "26-44 minutes",
+        []
       ],
       [
-        [
-          "CrossCountry",
-          "GWR"
-        ],
+        "CrossCountry / GWR",
         [
           "/wiki/CrossCountry",
           "/wiki/Great_Western_Railway_(train_operating_company)"
@@ -426,33 +271,21 @@
     ],
     [
       [
-        [
-          "Leeds"
-        ],
+        "Leeds",
         [
           "/wiki/Leeds_railway_station"
         ]
       ],
       [
-        [
-          "210 - 217 minutes"
-        ],
-        [
-          null
-        ]
+        "210 - 217 minutes",
+        []
       ],
       [
-        [
-          "202-215 minutes"
-        ],
-        [
-          null
-        ]
+        "202-215 minutes",
+        []
       ],
       [
-        [
-          "CrossCountry"
-        ],
+        "CrossCountry",
         [
           "/wiki/CrossCountry"
         ]
@@ -460,33 +293,21 @@
     ],
     [
       [
-        [
-          "London Paddington"
-        ],
+        "London Paddington",
         [
           "/wiki/Paddington_railway_station"
         ]
       ],
       [
-        [
-          "97 - 152 minutes"
-        ],
-        [
-          null
-        ]
+        "97 - 152 minutes",
+        []
       ],
       [
-        [
-          "83-106 minutes"
-        ],
-        [
-          null
-        ]
+        "83-106 minutes",
+        []
       ],
       [
-        [
-          "GWR"
-        ],
+        "GWR",
         [
           "/wiki/Great_Western_Railway_(train_operating_company)"
         ]
@@ -494,33 +315,21 @@
     ],
     [
       [
-        [
-          "London Waterloo"
-        ],
+        "London Waterloo",
         [
           "/wiki/London_Waterloo_railway_station"
         ]
       ],
       [
-        [
-          "177 - 180 minutes"
-        ],
-        [
-          null
-        ]
+        "177 - 180 minutes",
+        []
       ],
       [
-        [
-          "N/A"
-        ],
-        [
-          null
-        ]
+        "N/A",
+        []
       ],
       [
-        [
-          "SWR"
-        ],
+        "SWR",
         [
           "/wiki/South_Western_Railway_(train_operating_company)"
         ]
@@ -528,33 +337,21 @@
     ],
     [
       [
-        [
-          "Manchester Piccadilly"
-        ],
+        "Manchester Piccadilly",
         [
           "/wiki/Manchester_Piccadilly_railway_station"
         ]
       ],
       [
-        [
-          "179 - 180 minutes"
-        ],
-        [
-          null
-        ]
+        "179 - 180 minutes",
+        []
       ],
       [
-        [
-          "168-169 minutes"
-        ],
-        [
-          null
-        ]
+        "168-169 minutes",
+        []
       ],
       [
-        [
-          "CrossCountry"
-        ],
+        "CrossCountry",
         [
           "/wiki/CrossCountry"
         ]
@@ -562,33 +359,21 @@
     ],
     [
       [
-        [
-          "Newcastle"
-        ],
+        "Newcastle",
         [
           "/wiki/Newcastle_railway_station"
         ]
       ],
       [
-        [
-          "299 - 303 minutes"
-        ],
-        [
-          null
-        ]
+        "299 - 303 minutes",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "CrossCountry"
-        ],
+        "CrossCountry",
         [
           "/wiki/CrossCountry"
         ]
@@ -596,33 +381,21 @@
     ],
     [
       [
-        [
-          "Newport"
-        ],
+        "Newport",
         [
           "/wiki/Newport_railway_station"
         ]
       ],
       [
-        [
-          "30 - 47 minutes"
-        ],
-        [
-          null
-        ]
+        "30 - 47 minutes",
+        []
       ],
       [
-        [
-          "21-23 minutes"
-        ],
-        [
-          null
-        ]
+        "21-23 minutes",
+        []
       ],
       [
-        [
-          "GWR"
-        ],
+        "GWR",
         [
           "/wiki/Great_Western_Railway_(train_operating_company)"
         ]
@@ -630,34 +403,21 @@
     ],
     [
       [
-        [
-          "Paignton"
-        ],
+        "Paignton",
         [
           "/wiki/Paignton_railway_station"
         ]
       ],
       [
-        [
-          "97 - 145 minutes"
-        ],
-        [
-          null
-        ]
+        "97 - 145 minutes",
+        []
       ],
       [
-        [
-          "118 minutes"
-        ],
-        [
-          null
-        ]
+        "118 minutes",
+        []
       ],
       [
-        [
-          "CrossCountry",
-          "GWR"
-        ],
+        "CrossCountry / GWR",
         [
           "/wiki/CrossCountry",
           "/wiki/Great_Western_Railway_(train_operating_company)"
@@ -666,34 +426,21 @@
     ],
     [
       [
-        [
-          "Penzance"
-        ],
+        "Penzance",
         [
           "/wiki/Penzance_railway_station"
         ]
       ],
       [
-        [
-          "236 - 292 minutes"
-        ],
-        [
-          null
-        ]
+        "236 - 292 minutes",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "CrossCountry",
-          "GWR"
-        ],
+        "CrossCountry / GWR",
         [
           "/wiki/CrossCountry",
           "/wiki/Great_Western_Railway_(train_operating_company)"
@@ -702,34 +449,21 @@
     ],
     [
       [
-        [
-          "Plymouth"
-        ],
+        "Plymouth",
         [
           "/wiki/Plymouth_railway_station"
         ]
       ],
       [
-        [
-          "114 - 167 minutes"
-        ],
-        [
-          null
-        ]
+        "114 - 167 minutes",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "CrossCountry",
-          "GWR"
-        ],
+        "CrossCountry / GWR",
         [
           "/wiki/CrossCountry",
           "/wiki/Great_Western_Railway_(train_operating_company)"

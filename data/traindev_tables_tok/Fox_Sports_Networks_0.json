@@ -3,84 +3,54 @@
   "title": "Fox Sports Networks",
   "header": [
     [
-      [
-        "Network"
-      ],
-      [
-        null
-      ]
+      "Network",
+      []
     ],
     [
-      [
-        "NBA"
-      ],
-      [
-        null
-      ]
+      "NBA",
+      []
     ],
     [
-      [
-        "MLB"
-      ],
-      [
-        null
-      ]
+      "MLB",
+      []
     ],
     [
-      [
-        "NHL"
-      ],
-      [
-        null
-      ]
+      "NHL",
+      []
     ],
     [
-      [
-        "Other"
-      ],
-      [
-        null
-      ]
+      "Other",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Fox Sports Arizona"
-        ],
+        "Fox Sports Arizona",
         [
           "/wiki/Fox_Sports_Arizona"
         ]
       ],
       [
-        [
-          "Phoenix Suns"
-        ],
+        "Phoenix Suns",
         [
           "/wiki/Phoenix_Suns"
         ]
       ],
       [
-        [
-          "Arizona Diamondbacks"
-        ],
+        "Arizona Diamondbacks",
         [
           "/wiki/Arizona_Diamondbacks"
         ]
       ],
       [
-        [
-          "Arizona Coyotes"
-        ],
+        "Arizona Coyotes",
         [
           "/wiki/Arizona_Coyotes"
         ]
       ],
       [
-        [
-          "Phoenix Mercury"
-        ],
+        "Phoenix Mercury ( WNBA )",
         [
           "/wiki/Phoenix_Mercury"
         ]
@@ -88,169 +58,116 @@
     ],
     [
       [
-        [
-          "Fox Sports Carolinas",
-          "Fox Sports Southeast"
-        ],
+        "Fox Sports Carolinas / Fox Sports Southeast",
         [
           "/wiki/Fox_Sports_Carolinas",
           "/wiki/Fox_Sports_Southeast"
         ]
       ],
       [
-        [
-          "Charlotte Hornets"
-        ],
+        "Charlotte Hornets",
         [
           "/wiki/Charlotte_Hornets"
         ]
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "Carolina Hurricanes"
-        ],
+        "Carolina Hurricanes",
         [
           "/wiki/Carolina_Hurricanes"
         ]
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ]
     ],
     [
       [
-        [
-          "Fox Sports Detroit"
-        ],
+        "Fox Sports Detroit",
         [
           "/wiki/Fox_Sports_Detroit"
         ]
       ],
       [
-        [
-          "Detroit Pistons"
-        ],
+        "Detroit Pistons",
         [
           "/wiki/Detroit_Pistons"
         ]
       ],
       [
-        [
-          "Detroit Tigers"
-        ],
+        "Detroit Tigers",
         [
           "/wiki/Detroit_Tigers"
         ]
       ],
       [
-        [
-          "Detroit Red Wings"
-        ],
+        "Detroit Red Wings",
         [
           "/wiki/Detroit_Red_Wings"
         ]
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ]
     ],
     [
       [
-        [
-          "Fox Sports Florida"
-        ],
+        "Fox Sports Florida",
         [
           "/wiki/Fox_Sports_Florida"
         ]
       ],
       [
-        [
-          "Orlando Magic"
-        ],
+        "Orlando Magic",
         [
           "/wiki/Orlando_Magic"
         ]
       ],
       [
-        [
-          "Miami Marlins"
-        ],
+        "Miami Marlins",
         [
           "/wiki/Miami_Marlins"
         ]
       ],
       [
-        [
-          "Florida Panthers"
-        ],
+        "Florida Panthers",
         [
           "/wiki/Florida_Panthers"
         ]
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ]
     ],
     [
       [
-        [
-          "Fox Sports Indiana"
-        ],
+        "Fox Sports Indiana",
         [
           "/wiki/Fox_Sports_Indiana"
         ]
       ],
       [
-        [
-          "Indiana Pacers"
-        ],
+        "Indiana Pacers",
         [
           "/wiki/Indiana_Pacers"
         ]
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "Indiana Fever"
-        ],
+        "Indiana Fever ( WNBA )",
         [
           "/wiki/Indiana_Fever"
         ]
@@ -258,41 +175,27 @@
     ],
     [
       [
-        [
-          "Fox Sports Kansas City"
-        ],
+        "Fox Sports Kansas City",
         [
           "/wiki/Fox_Sports_Kansas_City"
         ]
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "Kansas City Royals"
-        ],
+        "Kansas City Royals",
         [
           "/wiki/Kansas_City_Royals"
         ]
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "Sporting Kansas City"
-        ],
+        "Sporting Kansas City ( MLS )",
         [
           "/wiki/Sporting_Kansas_City"
         ]
@@ -300,126 +203,85 @@
     ],
     [
       [
-        [
-          "Fox Sports Midwest"
-        ],
+        "Fox Sports Midwest",
         [
           "/wiki/Fox_Sports_Midwest"
         ]
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "St. Louis Cardinals"
-        ],
+        "St. Louis Cardinals",
         [
           "/wiki/St._Louis_Cardinals"
         ]
       ],
       [
-        [
-          "St. Louis Blues"
-        ],
+        "St. Louis Blues",
         [
           "/wiki/St._Louis_Blues"
         ]
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ]
     ],
     [
       [
-        [
-          "Fox Sports New Orleans"
-        ],
+        "Fox Sports New Orleans",
         [
           "/wiki/Fox_Sports_New_Orleans"
         ]
       ],
       [
-        [
-          "New Orleans Pelicans"
-        ],
+        "New Orleans Pelicans",
         [
           "/wiki/New_Orleans_Pelicans"
         ]
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ]
     ],
     [
       [
-        [
-          "Fox Sports North"
-        ],
+        "Fox Sports North",
         [
           "/wiki/Fox_Sports_North"
         ]
       ],
       [
-        [
-          "Minnesota Timberwolves"
-        ],
+        "Minnesota Timberwolves",
         [
           "/wiki/Minnesota_Timberwolves"
         ]
       ],
       [
-        [
-          "Minnesota Twins"
-        ],
+        "Minnesota Twins",
         [
           "/wiki/Minnesota_Twins"
         ]
       ],
       [
-        [
-          "Minnesota Wild"
-        ],
+        "Minnesota Wild",
         [
           "/wiki/Minnesota_Wild"
         ]
       ],
       [
-        [
-          "Minnesota Lynx",
-          "Minnesota United FC"
-        ],
+        "Minnesota Lynx ( WNBA ) Minnesota United FC ( MLS )",
         [
           "/wiki/Minnesota_Lynx",
           "/wiki/Minnesota_United_FC"
@@ -428,41 +290,31 @@
     ],
     [
       [
-        [
-          "Fox Sports Ohio"
-        ],
+        "Fox Sports Ohio",
         [
           "/wiki/Fox_Sports_Ohio"
         ]
       ],
       [
-        [
-          "Cleveland Cavaliers"
-        ],
+        "Cleveland Cavaliers",
         [
           "/wiki/Cleveland_Cavaliers"
         ]
       ],
       [
-        [
-          "Cincinnati Reds"
-        ],
+        "Cincinnati Reds",
         [
           "/wiki/Cincinnati_Reds"
         ]
       ],
       [
-        [
-          "Columbus Blue Jackets"
-        ],
+        "Columbus Blue Jackets",
         [
           "/wiki/Columbus_Blue_Jackets"
         ]
       ],
       [
-        [
-          "Columbus Crew SC"
-        ],
+        "Columbus Crew SC ( MLS )",
         [
           "/wiki/Columbus_Crew_SC"
         ]
@@ -470,128 +322,82 @@
     ],
     [
       [
-        [
-          "Fox Sports Oklahoma"
-        ],
+        "Fox Sports Oklahoma",
         [
           "/wiki/Fox_Sports_Oklahoma"
         ]
       ],
       [
-        [
-          "Oklahoma City Thunder"
-        ],
+        "Oklahoma City Thunder",
         [
           "/wiki/Oklahoma_City_Thunder"
         ]
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ]
     ],
     [
       [
-        [
-          "Fox Sports San Diego"
-        ],
+        "Fox Sports San Diego",
         [
           "/wiki/Fox_Sports_San_Diego"
         ]
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "San Diego Padres"
-        ],
+        "San Diego Padres",
         [
           "/wiki/San_Diego_Padres"
         ]
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ]
     ],
     [
       [
-        [
-          "Fox Sports South",
-          "Fox Sports Southeast"
-        ],
+        "Fox Sports South / Fox Sports Southeast",
         [
           "/wiki/Fox_Sports_South",
           "/wiki/Fox_Sports_Southeast"
         ]
       ],
       [
-        [
-          "Atlanta Hawks"
-        ],
+        "Atlanta Hawks",
         [
           "/wiki/Atlanta_Hawks"
         ]
       ],
       [
-        [
-          "Atlanta Braves"
-        ],
+        "Atlanta Braves",
         [
           "/wiki/Atlanta_Braves"
         ]
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "Atlanta Dream",
-          "Atlanta United FC"
-        ],
+        "Atlanta Dream ( WNBA ) Atlanta United FC ( MLS )",
         [
           "/wiki/Atlanta_Dream",
           "/wiki/Atlanta_United_FC"
@@ -600,215 +406,152 @@
     ],
     [
       [
-        [
-          "Fox Sports Southwest"
-        ],
+        "Fox Sports Southwest",
         [
           "/wiki/Fox_Sports_Southwest"
         ]
       ],
       [
-        [
-          "Dallas Mavericks",
-          "San Antonio Spurs"
-        ],
+        "Dallas Mavericks San Antonio Spurs",
         [
           "/wiki/Dallas_Mavericks",
           "/wiki/San_Antonio_Spurs"
         ]
       ],
       [
-        [
-          "Texas Rangers"
-        ],
+        "Texas Rangers",
         [
           "/wiki/Texas_Rangers_(baseball)"
         ]
       ],
       [
-        [
-          "Dallas Stars"
-        ],
+        "Dallas Stars",
         [
           "/wiki/Dallas_Stars"
         ]
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ]
     ],
     [
       [
-        [
-          "Fox Sports Sun"
-        ],
+        "Fox Sports Sun",
         [
           "/wiki/Fox_Sports_Sun"
         ]
       ],
       [
-        [
-          "Miami Heat"
-        ],
+        "Miami Heat",
         [
           "/wiki/Miami_Heat"
         ]
       ],
       [
-        [
-          "Tampa Bay Rays"
-        ],
+        "Tampa Bay Rays",
         [
           "/wiki/Tampa_Bay_Rays"
         ]
       ],
       [
-        [
-          "Tampa Bay Lightning"
-        ],
+        "Tampa Bay Lightning",
         [
           "/wiki/Tampa_Bay_Lightning"
         ]
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ]
     ],
     [
       [
-        [
-          "Fox Sports Tennessee",
-          "Fox Sports Southeast"
-        ],
+        "Fox Sports Tennessee / Fox Sports Southeast",
         [
           "/wiki/Fox_Sports_Tennessee",
           "/wiki/Fox_Sports_Southeast"
         ]
       ],
       [
-        [
-          "Memphis Grizzlies"
-        ],
+        "Memphis Grizzlies",
         [
           "/wiki/Memphis_Grizzlies"
         ]
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "Nashville Predators"
-        ],
+        "Nashville Predators",
         [
           "/wiki/Nashville_Predators"
         ]
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ]
     ],
     [
       [
-        [
-          "Fox Sports West / Prime Ticket"
-        ],
+        "Fox Sports West / Prime Ticket",
         [
           "/wiki/Fox_Sports_West_and_Prime_Ticket"
         ]
       ],
       [
-        [
-          "Los Angeles Clippers"
-        ],
+        "Los Angeles Clippers",
         [
           "/wiki/Los_Angeles_Clippers"
         ]
       ],
       [
-        [
-          "Los Angeles Angels"
-        ],
+        "Los Angeles Angels",
         [
           "/wiki/Los_Angeles_Angels"
         ]
       ],
       [
-        [
-          "Los Angeles Kings",
-          "Anaheim Ducks"
-        ],
+        "Los Angeles Kings Anaheim Ducks",
         [
           "/wiki/Los_Angeles_Kings",
           "/wiki/Anaheim_Ducks"
         ]
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ]
     ],
     [
       [
-        [
-          "Fox Sports Wisconsin"
-        ],
+        "Fox Sports Wisconsin",
         [
           "/wiki/Fox_Sports_Wisconsin"
         ]
       ],
       [
-        [
-          "Milwaukee Bucks"
-        ],
+        "Milwaukee Bucks",
         [
           "/wiki/Milwaukee_Bucks"
         ]
       ],
       [
-        [
-          "Milwaukee Brewers"
-        ],
+        "Milwaukee Brewers",
         [
           "/wiki/Milwaukee_Brewers"
         ]
       ],
       [
-        [
-          "Minnesota Wild"
-        ],
+        "Minnesota Wild",
         [
           "/wiki/Minnesota_Wild"
         ]
       ],
       [
-        [
-          "Minnesota United FC"
-        ],
+        "Minnesota United FC ( MLS )",
         [
           "/wiki/Minnesota_United_FC"
         ]
@@ -816,83 +559,55 @@
     ],
     [
       [
-        [
-          "SportsTime Ohio"
-        ],
+        "SportsTime Ohio",
         [
           "/wiki/SportsTime_Ohio"
         ]
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "Cleveland Indians"
-        ],
+        "Cleveland Indians",
         [
           "/wiki/Cleveland_Indians"
         ]
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ]
     ],
     [
       [
-        [
-          "YES Network"
-        ],
+        "YES Network",
         [
           "/wiki/YES_Network"
         ]
       ],
       [
-        [
-          "Brooklyn Nets"
-        ],
+        "Brooklyn Nets",
         [
           "/wiki/Brooklyn_Nets"
         ]
       ],
       [
-        [
-          "New York Yankees"
-        ],
+        "New York Yankees",
         [
           "/wiki/New_York_Yankees"
         ]
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "New York City FC"
-        ],
+        "New York City FC ( MLS )",
         [
           "/wiki/New_York_City_FC"
         ]

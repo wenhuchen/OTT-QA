@@ -3,217 +3,134 @@
   "title": "List of largest hotels",
   "header": [
     [
-      [
-        "Name"
-      ],
-      [
-        null
-      ]
+      "Name",
+      []
     ],
     [
-      [
-        "Country"
-      ],
-      [
-        null
-      ]
+      "Country",
+      []
     ],
     [
-      [
-        "City"
-      ],
-      [
-        null
-      ]
+      "City",
+      []
     ],
     [
-      [
-        "Rooms"
-      ],
-      [
-        null
-      ]
+      "Rooms",
+      []
     ],
     [
-      [
-        "Floors"
-      ],
-      [
-        null
-      ]
+      "Floors",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "First World Hotel"
-        ],
+        "First World Hotel",
         [
           "/wiki/First_World_Hotel"
         ]
       ],
       [
-        [
-          "Malaysia"
-        ],
+        "Malaysia",
         [
           "/wiki/Malaysia"
         ]
       ],
       [
-        [
-          "Genting Highlands"
-        ],
+        "Genting Highlands",
         [
           "/wiki/Genting_Highlands"
         ]
       ],
       [
-        [
-          "7,351"
-        ],
-        [
-          null
-        ]
+        "7,351",
+        []
       ],
       [
-        [
-          "24 ( Tower 1 ) 28 ( Tower 2 )"
-        ],
-        [
-          null
-        ]
+        "24 ( Tower 1 ) 28 ( Tower 2 )",
+        []
       ]
     ],
     [
       [
-        [
-          "The Venetian Las Vegas",
-          "The Palazzo"
-        ],
+        "The Venetian Resort Las Vegas ( The Venetian Las Vegas and The Palazzo )",
         [
           "/wiki/The_Venetian_Las_Vegas",
           "/wiki/The_Palazzo"
         ]
       ],
       [
-        [
-          "United States"
-        ],
+        "United States",
         [
           "/wiki/United_States"
         ]
       ],
       [
-        [
-          "Las Vegas"
-        ],
+        "Las Vegas",
         [
           "/wiki/Las_Vegas"
         ]
       ],
       [
-        [
-          "7,092"
-        ],
-        [
-          null
-        ]
+        "7,092",
+        []
       ],
       [
-        [
-          "53"
-        ],
-        [
-          null
-        ]
+        "53",
+        []
       ]
     ],
     [
       [
-        [
-          "MGM Grand Las Vegas",
-          "The Signature"
-        ],
+        "MGM Grand Las Vegas and The Signature",
         [
           "/wiki/MGM_Grand_Las_Vegas",
           "/wiki/The_Signature_at_MGM_Grand"
         ]
       ],
       [
-        [
-          "United States"
-        ],
+        "United States",
         [
           "/wiki/United_States"
         ]
       ],
       [
-        [
-          "Las Vegas"
-        ],
-        [
-          null
-        ]
+        "Las Vegas",
+        []
       ],
       [
-        [
-          "6,852"
-        ],
-        [
-          null
-        ]
+        "6,852",
+        []
       ],
       [
-        [
-          "30 ( MGM Grand ) 38 ( Signature )"
-        ],
-        [
-          null
-        ]
+        "30 ( MGM Grand ) 38 ( Signature )",
+        []
       ]
     ],
     [
       [
-        [
-          "CityCenter"
-        ],
+        "CityCenter",
         [
           "/wiki/CityCenter"
         ]
       ],
       [
-        [
-          "United States"
-        ],
+        "United States",
         [
           "/wiki/United_States"
         ]
       ],
       [
-        [
-          "Las Vegas"
-        ],
-        [
-          null
-        ]
+        "Las Vegas",
+        []
       ],
       [
-        [
-          "6,790"
-        ],
-        [
-          null
-        ]
+        "6,790",
+        []
       ],
       [
-        [
-          "Aria",
-          "Vdara",
-          "Waldorf Astoria Las Vegas",
-          "Veer Towers"
-        ],
+        "61 ( Aria ) 57 ( Vdara ) 56 ( Waldorf Astoria Las Vegas ) 37 ( Veer Towers )",
         [
           "/wiki/Aria_Resort_and_Casino",
           "/wiki/Vdara",
@@ -224,223 +141,142 @@
     ],
     [
       [
-        [
-          "Sands Cotai Central"
-        ],
+        "Sands Cotai Central",
         [
           "/wiki/Sands_Cotai_Central"
         ]
       ],
       [
-        [
-          "Macau"
-        ],
+        "Macau",
         [
           "/wiki/Macau"
         ]
       ],
       [
-        [
-          "Macau"
-        ],
+        "Macau",
         [
           "/wiki/Macau"
         ]
       ],
       [
-        [
-          "6,246"
-        ],
-        [
-          null
-        ]
+        "6,246",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Tilal Al Naseem"
-        ],
-        [
-          null
-        ]
+        "Tilal Al Naseem",
+        []
       ],
       [
-        [
-          "Saudi Arabia"
-        ],
+        "Saudi Arabia",
         [
           "/wiki/Saudi_Arabia"
         ]
       ],
       [
-        [
-          "Mecca"
-        ],
+        "Mecca",
         [
           "/wiki/Mecca"
         ]
       ],
       [
-        [
-          "5,383"
-        ],
-        [
-          null
-        ]
+        "5,383",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Izmailovo Hotel"
-        ],
+        "Izmailovo Hotel",
         [
           "/wiki/Izmailovo_Hotel"
         ]
       ],
       [
-        [
-          "Russia"
-        ],
+        "Russia",
         [
           "/wiki/Russia"
         ]
       ],
       [
-        [
-          "Moscow"
-        ],
+        "Moscow",
         [
           "/wiki/Moscow"
         ]
       ],
       [
-        [
-          "5,000"
-        ],
-        [
-          null
-        ]
+        "5,000",
+        []
       ],
       [
-        [
-          "30"
-        ],
-        [
-          null
-        ]
+        "30",
+        []
       ]
     ],
     [
       [
-        [
-          "Wynn Las Vegas",
-          "Encore Las Vegas"
-        ],
+        "Wynn Las Vegas and Encore Las Vegas",
         [
           "/wiki/Wynn_Las_Vegas",
           "/wiki/Encore_Las_Vegas"
         ]
       ],
       [
-        [
-          "United States"
-        ],
+        "United States",
         [
           "/wiki/United_States"
         ]
       ],
       [
-        [
-          "Las Vegas"
-        ],
-        [
-          null
-        ]
+        "Las Vegas",
+        []
       ],
       [
-        [
-          "4,750"
-        ],
-        [
-          null
-        ]
+        "4,750",
+        []
       ],
       [
-        [
-          "45/48 ( 2 towers )"
-        ],
-        [
-          null
-        ]
+        "45/48 ( 2 towers )",
+        []
       ]
     ],
     [
       [
-        [
-          "Barkhatnie sezony"
-        ],
-        [
-          null
-        ]
+        "Barkhatnie sezony",
+        []
       ],
       [
-        [
-          "Russia"
-        ],
+        "Russia",
         [
           "/wiki/Russia"
         ]
       ],
       [
-        [
-          "Sochi"
-        ],
+        "Sochi",
         [
           "/wiki/Sochi"
         ]
       ],
       [
-        [
-          "4,688"
-        ],
-        [
-          null
-        ]
+        "4,688",
+        []
       ],
       [
-        [
-          "5 ( 34 buildings )"
-        ],
-        [
-          null
-        ]
+        "5 ( 34 buildings )",
+        []
       ]
     ],
     [
       [
-        [
-          "Mandalay Bay",
-          "Delano",
-          "Four Seasons"
-        ],
+        "Mandalay Bay , Delano and Four Seasons",
         [
           "/wiki/Mandalay_Bay",
           "/wiki/Delano_Las_Vegas",
@@ -448,456 +284,290 @@
         ]
       ],
       [
-        [
-          "United States"
-        ],
+        "United States",
         [
           "/wiki/United_States"
         ]
       ],
       [
-        [
-          "Las Vegas"
-        ],
-        [
-          null
-        ]
+        "Las Vegas",
+        []
       ],
       [
-        [
-          "4,426"
-        ],
-        [
-          null
-        ]
+        "4,426",
+        []
       ],
       [
-        [
-          "43 ( Mandalay Bay tower ) 47 ( Delano tower )"
-        ],
-        [
-          null
-        ]
+        "43 ( Mandalay Bay tower ) 47 ( Delano tower )",
+        []
       ]
     ],
     [
       [
-        [
-          "Luxor Las Vegas"
-        ],
+        "Luxor Las Vegas",
         [
           "/wiki/Luxor_Las_Vegas"
         ]
       ],
       [
-        [
-          "United States"
-        ],
+        "United States",
         [
           "/wiki/United_States"
         ]
       ],
       [
-        [
-          "Las Vegas"
-        ],
-        [
-          null
-        ]
+        "Las Vegas",
+        []
       ],
       [
-        [
-          "4,407"
-        ],
-        [
-          null
-        ]
+        "4,407",
+        []
       ],
       [
-        [
-          "22/22/30 ( 3 buildings )"
-        ],
-        [
-          null
-        ]
+        "22/22/30 ( 3 buildings )",
+        []
       ]
     ],
     [
       [
-        [
-          "Ambassador City Jomtien"
-        ],
+        "Ambassador City Jomtien",
         [
           "/wiki/Ambassador_City_Jomtien"
         ]
       ],
       [
-        [
-          "Thailand"
-        ],
+        "Thailand",
         [
           "/wiki/Thailand"
         ]
       ],
       [
-        [
-          "Pattaya"
-        ],
+        "Pattaya",
         [
           "/wiki/Pattaya"
         ]
       ],
       [
-        [
-          "4,219"
-        ],
-        [
-          null
-        ]
+        "4,219",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Excalibur Hotel and Casino"
-        ],
+        "Excalibur Hotel and Casino",
         [
           "/wiki/Excalibur_Hotel_and_Casino"
         ]
       ],
       [
-        [
-          "United States"
-        ],
+        "United States",
         [
           "/wiki/United_States"
         ]
       ],
       [
-        [
-          "Las Vegas"
-        ],
-        [
-          null
-        ]
+        "Las Vegas",
+        []
       ],
       [
-        [
-          "3,981"
-        ],
-        [
-          null
-        ]
+        "3,981",
+        []
       ],
       [
-        [
-          "28"
-        ],
-        [
-          null
-        ]
+        "28",
+        []
       ]
     ],
     [
       [
-        [
-          "Caesars Palace"
-        ],
+        "Caesars Palace",
         [
           "/wiki/Caesars_Palace"
         ]
       ],
       [
-        [
-          "United States"
-        ],
+        "United States",
         [
           "/wiki/United_States"
         ]
       ],
       [
-        [
-          "Las Vegas"
-        ],
-        [
-          null
-        ]
+        "Las Vegas",
+        []
       ],
       [
-        [
-          "3,970"
-        ],
-        [
-          null
-        ]
+        "3,970",
+        []
       ],
       [
-        [
-          "29/26/22/14/14 ( 6 towers )"
-        ],
-        [
-          null
-        ]
+        "29/26/22/14/14 ( 6 towers )",
+        []
       ]
     ],
     [
       [
-        [
-          "Sheraton Grand Macao Hotel , Cotai Central"
-        ],
+        "Sheraton Grand Macao Hotel , Cotai Central",
         [
           "/wiki/Sheraton_Grand_Macao_Hotel,_Cotai_Central"
         ]
       ],
       [
-        [
-          "Macau"
-        ],
+        "Macau",
         [
           "/wiki/Macau"
         ]
       ],
       [
-        [
-          "Macau"
-        ],
+        "Macau",
         [
           "/wiki/Macau"
         ]
       ],
       [
-        [
-          "3,968"
-        ],
-        [
-          null
-        ]
+        "3,968",
+        []
       ],
       [
-        [
-          "41 ( Sky tower ) 40 ( Earth tower )"
-        ],
-        [
-          null
-        ]
+        "41 ( Sky tower ) 40 ( Earth tower )",
+        []
       ]
     ],
     [
       [
-        [
-          "Bellagio"
-        ],
+        "Bellagio",
         [
           "/wiki/Bellagio_(resort)"
         ]
       ],
       [
-        [
-          "United States"
-        ],
+        "United States",
         [
           "/wiki/United_States"
         ]
       ],
       [
-        [
-          "Las Vegas"
-        ],
-        [
-          null
-        ]
+        "Las Vegas",
+        []
       ],
       [
-        [
-          "3,933"
-        ],
-        [
-          null
-        ]
+        "3,933",
+        []
       ],
       [
-        [
-          "36"
-        ],
-        [
-          null
-        ]
+        "36",
+        []
       ]
     ],
     [
       [
-        [
-          "Hilton Hawaiian Village"
-        ],
+        "Hilton Hawaiian Village",
         [
           "/wiki/Hilton_Hawaiian_Village"
         ]
       ],
       [
-        [
-          "United States"
-        ],
+        "United States",
         [
           "/wiki/United_States"
         ]
       ],
       [
-        [
-          "Honolulu"
-        ],
+        "Honolulu",
         [
           "/wiki/Honolulu"
         ]
       ],
       [
-        [
-          "3,804"
-        ],
-        [
-          null
-        ]
+        "3,804",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Circus Circus Las Vegas"
-        ],
+        "Circus Circus Las Vegas",
         [
           "/wiki/Circus_Circus_Las_Vegas"
         ]
       ],
       [
-        [
-          "United States"
-        ],
+        "United States",
         [
           "/wiki/United_States"
         ]
       ],
       [
-        [
-          "Las Vegas"
-        ],
-        [
-          null
-        ]
+        "Las Vegas",
+        []
       ],
       [
-        [
-          "3,773"
-        ],
-        [
-          null
-        ]
+        "3,773",
+        []
       ],
       [
-        [
-          "35/29/15 floors ( 3 towers )"
-        ],
-        [
-          null
-        ]
+        "35/29/15 floors ( 3 towers )",
+        []
       ]
     ],
     [
       [
-        [
-          "Shinagawa Prince Hotel"
-        ],
+        "Shinagawa Prince Hotel",
         [
           "/wiki/Prince_Hotels"
         ]
       ],
       [
-        [
-          "Japan"
-        ],
+        "Japan",
         [
           "/wiki/Japan"
         ]
       ],
       [
-        [
-          "Tokyo"
-        ],
+        "Tokyo",
         [
           "/wiki/Tokyo"
         ]
       ],
       [
-        [
-          "3,680"
-        ],
-        [
-          null
-        ]
+        "3,680",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Flamingo Las Vegas"
-        ],
+        "Flamingo Las Vegas",
         [
           "/wiki/Flamingo_Las_Vegas"
         ]
       ],
       [
-        [
-          "United States"
-        ],
+        "United States",
         [
           "/wiki/United_States"
         ]
       ],
       [
-        [
-          "Las Vegas"
-        ],
-        [
-          null
-        ]
+        "Las Vegas",
+        []
       ],
       [
-        [
-          "3,460"
-        ],
-        [
-          null
-        ]
+        "3,460",
+        []
       ],
       [
-        [
-          "28"
-        ],
-        [
-          null
-        ]
+        "28",
+        []
       ]
     ]
   ],

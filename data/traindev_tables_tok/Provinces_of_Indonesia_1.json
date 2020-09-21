@@ -3,71 +3,43 @@
   "title": "Provinces of Indonesia",
   "header": [
     [
-      [
-        "Province"
-      ],
-      [
-        null
-      ]
+      "Province",
+      []
     ],
     [
-      [
-        "Capital"
-      ],
-      [
-        null
-      ]
+      "Capital",
+      []
     ],
     [
-      [
-        "Period"
-      ],
-      [
-        null
-      ]
+      "Period",
+      []
     ],
     [
-      [
-        "Successor ( s )"
-      ],
-      [
-        null
-      ]
+      "Successor ( s )",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Sumatra"
-        ],
+        "Sumatra",
         [
           "/wiki/Sumatra"
         ]
       ],
       [
-        [
-          "Bukittinggi",
-          "Medan"
-        ],
+        "Bukittinggi / Medan",
         [
           "/wiki/Bukittinggi",
           "/wiki/Medan"
         ]
       ],
       [
-        [
-          "1945-1948"
-        ],
-        [
-          null
-        ]
+        "1945-1948",
+        []
       ],
       [
-        [
-          "North Sumatra",
-          "South Sumatra"
-        ],
+        "Central Sumatra North Sumatra South Sumatra",
         [
           "/wiki/North_Sumatra",
           "/wiki/South_Sumatra"
@@ -76,35 +48,23 @@
     ],
     [
       [
-        [
-          "Kalimantan"
-        ],
+        "Kalimantan",
         [
           "/wiki/Kalimantan"
         ]
       ],
       [
-        [
-          "Banjarmasin"
-        ],
+        "Banjarmasin",
         [
           "/wiki/Banjarmasin"
         ]
       ],
       [
-        [
-          "1945-1956"
-        ],
-        [
-          null
-        ]
+        "1945-1956",
+        []
       ],
       [
-        [
-          "East Kalimantan",
-          "South Kalimantan",
-          "West Kalimantan"
-        ],
+        "East Kalimantan South Kalimantan West Kalimantan",
         [
           "/wiki/East_Kalimantan",
           "/wiki/South_Kalimantan",
@@ -114,35 +74,23 @@
     ],
     [
       [
-        [
-          "Lesser Sunda"
-        ],
+        "Nusa Tenggara ( formerly Lesser Sunda ( Sunda Kecil ) )",
         [
           "/wiki/Lesser_Sunda_Islands"
         ]
       ],
       [
-        [
-          "Singaraja"
-        ],
+        "Singaraja",
         [
           "/wiki/Singaraja"
         ]
       ],
       [
-        [
-          "1945-1958"
-        ],
-        [
-          null
-        ]
+        "1945-1958",
+        []
       ],
       [
-        [
-          "Bali",
-          "East Nusa Tenggara",
-          "West Nusa Tenggara"
-        ],
+        "Bali East Nusa Tenggara West Nusa Tenggara",
         [
           "/wiki/Bali",
           "/wiki/East_Nusa_Tenggara",
@@ -152,71 +100,44 @@
     ],
     [
       [
-        [
-          "Sulawesi"
-        ],
+        "Sulawesi",
         [
           "/wiki/Sulawesi"
         ]
       ],
       [
-        [
-          "Makassar",
-          "Manado"
-        ],
+        "Makassar / Manado",
         [
           "/wiki/Makassar",
           "/wiki/Manado"
         ]
       ],
       [
-        [
-          "1945-1960"
-        ],
-        [
-          null
-        ]
+        "1945-1960",
+        []
       ],
       [
-        [
-          "North-Central Sulawesi South-Southeast Sulawesi"
-        ],
-        [
-          null
-        ]
+        "North-Central Sulawesi South-Southeast Sulawesi",
+        []
       ]
     ],
     [
       [
-        [
-          "Central Sumatra ( Sumatera Tengah )"
-        ],
-        [
-          null
-        ]
+        "Central Sumatra ( Sumatera Tengah )",
+        []
       ],
       [
-        [
-          "Bukittinggi"
-        ],
+        "Bukittinggi",
         [
           "/wiki/Bukittinggi"
         ]
       ],
       [
-        [
-          "1948-1957"
-        ],
-        [
-          null
-        ]
+        "1948-1957",
+        []
       ],
       [
-        [
-          "Jambi",
-          "Riau",
-          "West Sumatra"
-        ],
+        "Jambi Riau West Sumatra",
         [
           "/wiki/Jambi",
           "/wiki/Riau",
@@ -226,34 +147,21 @@
     ],
     [
       [
-        [
-          "North-Central Sulawesi ( Sulawesi Utara-Tengah )"
-        ],
-        [
-          null
-        ]
+        "North-Central Sulawesi ( Sulawesi Utara-Tengah )",
+        []
       ],
       [
-        [
-          "Manado"
-        ],
+        "Manado",
         [
           "/wiki/Manado"
         ]
       ],
       [
-        [
-          "1960-1964"
-        ],
-        [
-          null
-        ]
+        "1960-1964",
+        []
       ],
       [
-        [
-          "North Sulawesi",
-          "Central Sulawesi"
-        ],
+        "North Sulawesi Central Sulawesi",
         [
           "/wiki/North_Sulawesi",
           "/wiki/Central_Sulawesi"
@@ -262,34 +170,21 @@
     ],
     [
       [
-        [
-          "South-Southeast Sulawesi ( Sulawesi Selatan-Tenggara )"
-        ],
-        [
-          null
-        ]
+        "South-Southeast Sulawesi ( Sulawesi Selatan-Tenggara )",
+        []
       ],
       [
-        [
-          "Makassar"
-        ],
+        "Makassar",
         [
           "/wiki/Makassar"
         ]
       ],
       [
-        [
-          "1960-1964"
-        ],
-        [
-          null
-        ]
+        "1960-1964",
+        []
       ],
       [
-        [
-          "South Sulawesi",
-          "Southeast Sulawesi"
-        ],
+        "South Sulawesi Southeast Sulawesi",
         [
           "/wiki/South_Sulawesi",
           "/wiki/Southeast_Sulawesi"
@@ -298,33 +193,23 @@
     ],
     [
       [
-        [
-          "East Timor"
-        ],
+        "East Timor ( Timor Timur )",
         [
           "/wiki/East_Timor_(province)"
         ]
       ],
       [
-        [
-          "Dili"
-        ],
+        "Dili",
         [
           "/wiki/Dili"
         ]
       ],
       [
-        [
-          "1976-1999"
-        ],
-        [
-          null
-        ]
+        "1976-1999",
+        []
       ],
       [
-        [
-          "Democratic Republic of Timor-Leste"
-        ],
+        "Democratic Republic of Timor-Leste",
         [
           "/wiki/East_Timor"
         ]

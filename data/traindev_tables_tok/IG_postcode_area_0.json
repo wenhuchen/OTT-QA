@@ -3,62 +3,36 @@
   "title": "IG postcode area",
   "header": [
     [
-      [
-        "Postcode district"
-      ],
-      [
-        null
-      ]
+      "Postcode district",
+      []
     ],
     [
-      [
-        "Post town"
-      ],
+      "Post town",
       [
         "/wiki/Post_town"
       ]
     ],
     [
-      [
-        "Coverage"
-      ],
-      [
-        null
-      ]
+      "Coverage",
+      []
     ],
     [
-      [
-        "Local authority area"
-      ],
-      [
-        null
-      ]
+      "Local authority area",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "IG1"
-        ],
-        [
-          null
-        ]
+        "IG1",
+        []
       ],
       [
-        [
-          "ILFORD"
-        ],
-        [
-          null
-        ]
+        "ILFORD",
+        []
       ],
       [
-        [
-          "Ilford",
-          "Cranbrook",
-          "Loxford"
-        ],
+        "Ilford , Cranbrook , Loxford",
         [
           "/wiki/Ilford",
           "/wiki/Cranbrook,_London",
@@ -66,9 +40,7 @@
         ]
       ],
       [
-        [
-          "Redbridge"
-        ],
+        "Redbridge",
         [
           "/wiki/London_Borough_of_Redbridge"
         ]
@@ -76,27 +48,15 @@
     ],
     [
       [
-        [
-          "IG2"
-        ],
-        [
-          null
-        ]
+        "IG2",
+        []
       ],
       [
-        [
-          "ILFORD"
-        ],
-        [
-          null
-        ]
+        "ILFORD",
+        []
       ],
       [
-        [
-          "Gants Hill",
-          "Newbury Park",
-          "Aldborough Hatch"
-        ],
+        "Gants Hill , Newbury Park , Aldborough Hatch",
         [
           "/wiki/Gants_Hill",
           "/wiki/Newbury_Park,_London",
@@ -104,142 +64,82 @@
         ]
       ],
       [
-        [
-          "Redbridge"
-        ],
-        [
-          null
-        ]
+        "Redbridge",
+        []
       ]
     ],
     [
       [
-        [
-          "IG3"
-        ],
-        [
-          null
-        ]
+        "IG3",
+        []
       ],
       [
-        [
-          "ILFORD"
-        ],
-        [
-          null
-        ]
+        "ILFORD",
+        []
       ],
       [
-        [
-          "Seven Kings",
-          "Goodmayes"
-        ],
+        "Seven Kings , Goodmayes",
         [
           "/wiki/Seven_Kings",
           "/wiki/Goodmayes"
         ]
       ],
       [
-        [
-          "Redbridge"
-        ],
-        [
-          null
-        ]
+        "Redbridge",
+        []
       ]
     ],
     [
       [
-        [
-          "IG4"
-        ],
-        [
-          null
-        ]
+        "IG4",
+        []
       ],
       [
-        [
-          "ILFORD"
-        ],
-        [
-          null
-        ]
+        "ILFORD",
+        []
       ],
       [
-        [
-          "Redbridge"
-        ],
+        "Redbridge",
         [
           "/wiki/Redbridge,_London"
         ]
       ],
       [
-        [
-          "Redbridge"
-        ],
-        [
-          null
-        ]
+        "Redbridge",
+        []
       ]
     ],
     [
       [
-        [
-          "IG5"
-        ],
-        [
-          null
-        ]
+        "IG5",
+        []
       ],
       [
-        [
-          "ILFORD"
-        ],
-        [
-          null
-        ]
+        "ILFORD",
+        []
       ],
       [
-        [
-          "Clayhall"
-        ],
+        "Clayhall",
         [
           "/wiki/Clayhall"
         ]
       ],
       [
-        [
-          "Redbridge"
-        ],
-        [
-          null
-        ]
+        "Redbridge",
+        []
       ]
     ],
     [
       [
-        [
-          "IG6"
-        ],
-        [
-          null
-        ]
+        "IG6",
+        []
       ],
       [
-        [
-          "ILFORD"
-        ],
-        [
-          null
-        ]
+        "ILFORD",
+        []
       ],
       [
-        [
-          "Barkingside",
-          "Fullwell Cross",
-          "Hainault",
-          "Fairlop"
-        ],
+        "Barkingside , Fullwell Cross , Hainault ( south ) , Fairlop",
         [
           "/wiki/Barkingside",
           "/wiki/Fullwell_Cross",
@@ -248,37 +148,21 @@
         ]
       ],
       [
-        [
-          "Redbridge"
-        ],
-        [
-          null
-        ]
+        "Redbridge",
+        []
       ]
     ],
     [
       [
-        [
-          "IG7"
-        ],
-        [
-          null
-        ]
+        "IG7",
+        []
       ],
       [
-        [
-          "CHIGWELL"
-        ],
-        [
-          null
-        ]
+        "CHIGWELL",
+        []
       ],
       [
-        [
-          "Chigwell",
-          "Chigwell Row",
-          "Hainault"
-        ],
+        "Chigwell , Chigwell Row , Hainault ( north )",
         [
           "/wiki/Chigwell",
           "/wiki/Chigwell_Row",
@@ -286,9 +170,7 @@
         ]
       ],
       [
-        [
-          "Epping Forest"
-        ],
+        "Epping Forest , Redbridge",
         [
           "/wiki/Epping_Forest_(district)"
         ]
@@ -296,27 +178,15 @@
     ],
     [
       [
-        [
-          "IG8"
-        ],
-        [
-          null
-        ]
+        "IG8",
+        []
       ],
       [
-        [
-          "WOODFORD GREEN"
-        ],
-        [
-          null
-        ]
+        "WOODFORD GREEN",
+        []
       ],
       [
-        [
-          "Woodford Green",
-          "Woodford Bridge",
-          "Highams Park"
-        ],
+        "Woodford Green , Woodford Bridge , Highams Park ( part )",
         [
           "/wiki/Woodford_Green",
           "/wiki/Woodford_Bridge",
@@ -324,9 +194,7 @@
         ]
       ],
       [
-        [
-          "Waltham Forest"
-        ],
+        "Redbridge , Waltham Forest",
         [
           "/wiki/London_Borough_of_Waltham_Forest"
         ]
@@ -334,105 +202,63 @@
     ],
     [
       [
-        [
-          "IG9"
-        ],
-        [
-          null
-        ]
+        "IG9",
+        []
       ],
       [
-        [
-          "BUCKHURST HILL"
-        ],
-        [
-          null
-        ]
+        "BUCKHURST HILL",
+        []
       ],
       [
-        [
-          "Buckhurst Hill"
-        ],
+        "Buckhurst Hill",
         [
           "/wiki/Buckhurst_Hill"
         ]
       ],
       [
-        [
-          "Epping Forest"
-        ],
-        [
-          null
-        ]
+        "Epping Forest",
+        []
       ]
     ],
     [
       [
-        [
-          "IG10"
-        ],
-        [
-          null
-        ]
+        "IG10",
+        []
       ],
       [
-        [
-          "LOUGHTON"
-        ],
-        [
-          null
-        ]
+        "LOUGHTON",
+        []
       ],
       [
-        [
-          "Loughton",
-          "High Beach"
-        ],
+        "Loughton , High Beach ( part )",
         [
           "/wiki/Loughton",
           "/wiki/High_Beach"
         ]
       ],
       [
-        [
-          "Epping Forest"
-        ],
-        [
-          null
-        ]
+        "Epping Forest",
+        []
       ]
     ],
     [
       [
-        [
-          "IG11"
-        ],
-        [
-          null
-        ]
+        "IG11",
+        []
       ],
       [
-        [
-          "BARKING"
-        ],
-        [
-          null
-        ]
+        "BARKING",
+        []
       ],
       [
-        [
-          "Barking",
-          "Creekmouth"
-        ],
+        "Barking , Creekmouth",
         [
           "/wiki/Barking,_London",
           "/wiki/Creekmouth"
         ]
       ],
       [
-        [
-          "Barking and Dagenham"
-        ],
+        "Barking and Dagenham",
         [
           "/wiki/London_Borough_of_Barking_and_Dagenham"
         ]

@@ -3,33 +3,21 @@
   "title": "Comparison of version-control software",
   "header": [
     [
-      [
-        "Software"
-      ],
-      [
-        null
-      ]
+      "Software",
+      []
     ],
     [
-      [
-        "Web interfaces"
-      ],
-      [
-        null
-      ]
+      "Web interfaces",
+      []
     ],
     [
-      [
-        "GUIs"
-      ],
+      "Stand-alone GUIs",
       [
         "/wiki/Graphical_user_interface"
       ]
     ],
     [
-      [
-        "IDEs"
-      ],
+      "Integration and/or Plug-ins for IDEs",
       [
         "/wiki/Integrated_development_environment"
       ]
@@ -38,29 +26,17 @@
   "data": [
     [
       [
-        [
-          "AccuRev SCM"
-        ],
+        "AccuRev SCM",
         [
           "/wiki/AccuRev_SCM"
         ]
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "Windows ( incl . Explorer integration )",
-          "Linux",
-          "Unix",
-          "OS X",
-          "BeOS"
-        ],
+        "Windows ( incl . Explorer integration ) , Linux , Unix , OS X , BeOS available",
         [
           "/wiki/Microsoft_Windows",
           "/wiki/Linux",
@@ -70,11 +46,7 @@
         ]
       ],
       [
-        [
-          "IntelliJ IDEA",
-          "Eclipse",
-          "Visual Studio"
-        ],
+        "IntelliJ IDEA , Eclipse , Visual Studio",
         [
           "/wiki/IntelliJ_IDEA",
           "/wiki/Eclipse_(software)",
@@ -84,62 +56,37 @@
     ],
     [
       [
-        [
-          "Azure DevOps"
-        ],
+        "Azure DevOps",
         [
           "/wiki/Team_Foundation_Server"
         ]
       ],
       [
-        [
-          "included ( Sharepoint Server used for web services )"
-        ],
-        [
-          null
-        ]
+        "included ( Sharepoint Server used for web services )",
+        []
       ],
       [
-        [
-          "Windows included ; OS X , Unix available"
-        ],
-        [
-          null
-        ]
+        "Windows included ; OS X , Unix available",
+        []
       ],
       [
-        [
-          "Visual Studio . Java client for Eclipse IDE and IntelliJ IDEA ( standard in Ultimate Edition )"
-        ],
-        [
-          null
-        ]
+        "Visual Studio . Java client for Eclipse IDE and IntelliJ IDEA ( standard in Ultimate Edition )",
+        []
       ]
     ],
     [
       [
-        [
-          "GNU Bazaar"
-        ],
+        "GNU Bazaar",
         [
           "/wiki/GNU_Bazaar"
         ]
       ],
       [
-        [
-          "can use a plain webserver"
-        ],
-        [
-          null
-        ]
+        "can use a plain webserver",
+        []
       ],
       [
-        [
-          "GTK+",
-          "Qt",
-          "Qt",
-          "TortoiseBzr"
-        ],
+        "Olive , bzr-gtk ( GTK+ ) , Bazaar Explorer ( Qt ) , QBzr ( Qt ) , TortoiseBzr ( Windows )",
         [
           "/wiki/GTK+",
           "/wiki/Qt_(toolkit)",
@@ -148,10 +95,7 @@
         ]
       ],
       [
-        [
-          "Komodo IDE ,",
-          "WingIDE"
-        ],
+        "Eclipse ( BzrEclipse , QBzrEclipse ) , Visual Studio ( bzr-visualstudio ) , TextMate ( TextMateBundle ) , Komodo IDE , WingIDE",
         [
           "/wiki/ActiveState_Komodo",
           "/wiki/Wing_IDE"
@@ -160,67 +104,41 @@
     ],
     [
       [
-        [
-          "BitKeeper"
-        ],
+        "BitKeeper",
         [
           "/wiki/BitKeeper"
         ]
       ],
       [
-        [
-          "included"
-        ],
-        [
-          null
-        ]
+        "included",
+        []
       ],
       [
-        [
-          "included ( bkd )"
-        ],
-        [
-          null
-        ]
+        "included ( bkd )",
+        []
       ],
       [
-        [
-          "Unknown"
-        ],
-        [
-          null
-        ]
+        "Unknown",
+        []
       ]
     ],
     [
       [
-        [
-          "CA Software Change Manager"
-        ],
+        "CA Software Change Manager",
         [
           "/wiki/CA_Software_Change_Manager"
         ]
       ],
       [
-        [
-          "included"
-        ],
-        [
-          null
-        ]
+        "included",
+        []
       ],
       [
-        [
-          "Eclipse-based GUI"
-        ],
-        [
-          null
-        ]
+        "Eclipse-based GUI",
+        []
       ],
       [
-        [
-          "Eclipse"
-        ],
+        "Eclipse , MS Visual Studio",
         [
           "/wiki/Eclipse_(software)"
         ]
@@ -228,27 +146,17 @@
     ],
     [
       [
-        [
-          "ClearCase"
-        ],
+        "ClearCase",
         [
           "/wiki/Rational_ClearCase"
         ]
       ],
       [
-        [
-          "included , Clearcase Web Interface"
-        ],
-        [
-          null
-        ]
+        "included , Clearcase Web Interface",
+        []
       ],
       [
-        [
-          "Unix-like",
-          "TSO",
-          "z/OS"
-        ],
+        "older : MS Windows native , Motif-based GUI for Unix-like systems , TSO client for z/OS",
         [
           "/wiki/Unix-like",
           "/wiki/Time_Sharing_Option",
@@ -256,10 +164,7 @@
         ]
       ],
       [
-        [
-          "Emacs",
-          "KDevelop"
-        ],
+        "Emacs , Eclipse ( IBM Proprietary , Eclipse-CCase ) , Visual Studio ( IBM proprietary ) , KDevelop ( standard ? ) , IntelliJ IDEA ( standard in Ultimate Edition )",
         [
           "/wiki/Emacs",
           "/wiki/KDevelop"
@@ -268,63 +173,39 @@
     ],
     [
       [
-        [
-          "Code Co-op"
-        ],
+        "Code Co-op",
         [
           "/wiki/Code_Co-op"
         ]
       ],
       [
-        [
-          "Not necessary since entire project is replicated locally"
-        ],
-        [
-          null
-        ]
+        "Not necessary since entire project is replicated locally",
+        []
       ],
       [
-        [
-          "Windows"
-        ],
-        [
-          null
-        ]
+        "Windows",
+        []
       ],
       [
-        [
-          "Unknown"
-        ],
-        [
-          null
-        ]
+        "Unknown",
+        []
       ]
     ],
     [
       [
-        [
-          "CVS"
-        ],
+        "CVS",
         [
           "/wiki/Concurrent_Versions_System"
         ]
       ],
       [
-        [
-          "ViewVC"
-        ],
+        "cvsweb , ViewVC , others",
         [
           "/wiki/ViewVC"
         ]
       ],
       [
-        [
-          "TortoiseCVS",
-          "Tcl",
-          "Tk",
-          "WinCVS",
-          "GTK"
-        ],
+        "TortoiseCVS , TkCVS ( Tcl / Tk ) , ( Windows Explorer ) , WinCVS , OS X , GTK , Qt available",
         [
           "/wiki/TortoiseCVS",
           "/wiki/Tcl",
@@ -334,13 +215,7 @@
         ]
       ],
       [
-        [
-          "Eclipse",
-          "Emacs",
-          "Komodo IDE",
-          "BBEdit",
-          "WingIDE"
-        ],
+        "Eclipse ( Team ) , KDevelop ( standard ) , IntelliJ IDEA ( standard in Community and Ultimate Editions ) , Emacs ( standard VC ) , Komodo IDE , BBEdit , WingIDE",
         [
           "/wiki/Eclipse_(software)",
           "/wiki/Emacs",
@@ -352,70 +227,48 @@
     ],
     [
       [
-        [
-          "CVSNT"
-        ],
+        "CVSNT",
         [
           "/wiki/CVSNT"
         ]
       ],
       [
-        [
-          "ViewVC"
-        ],
+        "cvsweb , ViewVC , others",
         [
           "/wiki/ViewVC"
         ]
       ],
       [
-        [
-          "OS/400",
-          "GTK"
-        ],
+        "Windows , OS X , OS/400 , GTK , Qt available",
         [
           "/wiki/OS/400",
           "/wiki/GTK+"
         ]
       ],
       [
-        [
-          "All those that support CVS , plus commercial plugins for SCCI , Bugzilla , Build"
-        ],
-        [
-          null
-        ]
+        "All those that support CVS , plus commercial plugins for SCCI , Bugzilla , Build",
+        []
       ]
     ],
     [
       [
-        [
-          "darcs"
-        ],
+        "darcs",
         [
           "/wiki/Darcs"
         ]
       ],
       [
-        [
-          "Trac"
-        ],
+        "darcs.cgi included ; darcsweb , Trac",
         [
           "/wiki/Trac"
         ]
       ],
       [
-        [
-          "TortoiseDarcs"
-        ],
-        [
-          null
-        ]
+        "under development ; TortoiseDarcs ( Windows Explorer ) , OS X ( alpha ) ,",
+        []
       ],
       [
-        [
-          "Eclipse",
-          "Emacs"
-        ],
+        "Eclipse ( eclipsedarcs ) , Emacs ( vc-darcs.el )",
         [
           "/wiki/Eclipse_(software)",
           "/wiki/Emacs"
@@ -424,37 +277,23 @@
     ],
     [
       [
-        [
-          "Dimensions CM"
-        ],
+        "Dimensions CM",
         [
           "/wiki/Dimensions_CM"
         ]
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "Windows ( incl . explorer integration )"
-        ],
+        "Windows ( incl . explorer integration )",
         [
           "/wiki/Microsoft_Windows"
         ]
       ],
       [
-        [
-          "Eclipse",
-          "Visual Studio",
-          "IntelliJ IDEA",
-          "XCode",
-          "Powerbuilder"
-        ],
+        "Eclipse , Visual Studio , IntelliJ IDEA , XCode , Powerbuilder",
         [
           "/wiki/Eclipse_(software)",
           "/wiki/Microsoft_Visual_Studio",
@@ -466,58 +305,33 @@
     ],
     [
       [
-        [
-          "Fossil"
-        ],
+        "Fossil",
         [
           "/wiki/Fossil_(software)"
         ]
       ],
       [
-        [
-          "Embedded webserver included ( ui/server mode ) , ability to run multiple repositories via CGI mode"
-        ],
-        [
-          null
-        ]
+        "Embedded webserver included ( ui/server mode ) , ability to run multiple repositories via CGI mode",
+        []
       ],
       [
-        [
-          "fuel-scm"
-        ],
-        [
-          null
-        ]
+        "fuel-scm",
+        []
       ],
       [
-        [
-          "Unknown"
-        ],
-        [
-          null
-        ]
+        "Unknown",
+        []
       ]
     ],
     [
       [
-        [
-          "Git"
-        ],
+        "Git",
         [
           "/wiki/Git_(software)"
         ]
       ],
       [
-        [
-          "GitLab",
-          "GitHub",
-          "gitorious",
-          "Trac",
-          "Kallithea",
-          "Bitbucket",
-          "Springloops",
-          "Gitea"
-        ],
+        "Gitweb , wit , cgit , GitLab , GitHub , gitorious , Trac , Kallithea , Bitbucket , Stash , Springloops , Bonobo Git Server , Gitea , Gogs",
         [
           "/wiki/GitLab",
           "/wiki/GitHub",
@@ -530,12 +344,7 @@
         ]
       ],
       [
-        [
-          "Tcl",
-          "Tk",
-          "TortoiseGit",
-          "GitKraken"
-        ],
+        "gitk , git-gui ( Tcl / Tk ) , tig , Gitbox ( OS X ) , TortoiseGit , qgit , gitg ( GNOME/GTK ) , ( h ) gct ( Qt ) , git-cola ( Qt ) , Git Extensions ( Windows ) , GitEye , SmartGit/Hg , Tower , SourceTree ( OS X/Windows ) , Sprout ( OS X ) , GitX ( OS X ) , GitUp ( OS X ) , GitKraken",
         [
           "/wiki/Tcl",
           "/wiki/Tk_(computing)",
@@ -544,17 +353,7 @@
         ]
       ],
       [
-        [
-          "Atom",
-          "Helix TeamHub",
-          "KDevelop",
-          "Emacs",
-          "Komodo IDE",
-          "Anjuta",
-          "XCode",
-          "WingIDE",
-          "PyCharm"
-        ],
+        "Aptana 3 Beta ( Aptana Studio 3 with Git Integration ) ; Atom ; Eclipse ( JGit/EGit ) ; Helix TeamHub ; Netbeans ( NbGit ) ; KDevelop ; Visual Studio ( Git Extensions ) ; Emacs ( extension for standard VC ) ; SAP Web IDE ; TextMate ( Git TextMate Bundle ) ; Vim ( VCSCommand plugin and fugitive plugin ) ; IntelliJ IDEA > 8.1 ( standard in Community and Ultimate Editions ) ; Komodo IDE ; Anjuta ; XCode , WingIDE ; PyCharm",
         [
           "/wiki/Atom_(text_editor)",
           "/wiki/Perforce_Software",
@@ -570,33 +369,23 @@
     ],
     [
       [
-        [
-          "GNU arch"
-        ],
+        "GNU arch",
         [
           "/wiki/GNU_arch"
         ]
       ],
       [
-        [
-          "ArchZoom"
-        ],
-        [
-          null
-        ]
+        "ArchZoom",
+        []
       ],
       [
-        [
-          "GTK2"
-        ],
+        "ArchWay ( GTK2 ) , TlaLog",
         [
           "/wiki/GTK+"
         ]
       ],
       [
-        [
-          "Emacs"
-        ],
+        "Emacs ( standard VC )",
         [
           "/wiki/Emacs"
         ]
@@ -604,87 +393,53 @@
     ],
     [
       [
-        [
-          "IC Manage"
-        ],
+        "IC Manage",
         [
           "/wiki/IC_Manage"
         ]
       ],
       [
-        [
-          "included"
-        ],
-        [
-          null
-        ]
+        "included",
+        []
       ],
       [
-        [
-          "Windows , Linux , Unix , OS X"
-        ],
-        [
-          null
-        ]
+        "Windows , Linux , Unix , OS X",
+        []
       ],
       [
-        [
-          "Emacs , Cadence Design Framework , Synopsys Custom Designer"
-        ],
-        [
-          null
-        ]
+        "Emacs , Cadence Design Framework , Synopsys Custom Designer",
+        []
       ]
     ],
     [
       [
-        [
-          "MKS Integrity"
-        ],
+        "MKS Integrity",
         [
           "/wiki/MKS_Integrity"
         ]
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "Windows , Linux , Unix , Solaris , AIX ,"
-        ],
-        [
-          null
-        ]
+        "Windows , Linux , Unix , Solaris , AIX ,",
+        []
       ],
       [
-        [
-          "Eclipse , Microsoft Visual Studio , Perforce and others . Also provides support for the industry standard Source Code Control ( SCC ) interface"
-        ],
-        [
-          null
-        ]
+        "Eclipse , Microsoft Visual Studio , Perforce and others . Also provides support for the industry standard Source Code Control ( SCC ) interface",
+        []
       ]
     ],
     [
       [
-        [
-          "Mercurial"
-        ],
+        "Mercurial",
         [
           "/wiki/Mercurial"
         ]
       ],
       [
-        [
-          "Bitbucket",
-          "Trac",
-          "Kallithea"
-        ],
+        "included , Bitbucket , Trac , Kallithea",
         [
           "/wiki/Bitbucket",
           "/wiki/Trac",
@@ -692,20 +447,11 @@
         ]
       ],
       [
-        [
-          "Hgk ( Tcl/Tk ) , ( h ) gct ( Qt ) , TortoiseHg ( Windows Explorer , Nautilus ) , MacHg , MacMercurial , Murky , SourceTree ( Windows/OS X ) , TortoiseHg , SmartGit/Hg"
-        ],
-        [
-          null
-        ]
+        "Hgk ( Tcl/Tk ) , ( h ) gct ( Qt ) , TortoiseHg ( Windows Explorer , Nautilus ) , MacHg , MacMercurial , Murky , SourceTree ( Windows/OS X ) , TortoiseHg , SmartGit/Hg",
+        []
       ],
       [
-        [
-          "Emacs",
-          "Komodo IDE",
-          "Eric Python IDE",
-          "WingIDE"
-        ],
+        "IntelliJ IDEA ( hg4idea 3rd party plugin ) , Eclipse ( Mercurial Eclipse ) , NetBeans , Visual Studio 2008 , Emacs , Vim ( VCSCommand plugin ) , Komodo IDE , Eric Python IDE , WingIDE",
         [
           "/wiki/Emacs",
           "/wiki/ActiveState_Komodo",
@@ -716,28 +462,17 @@
     ],
     [
       [
-        [
-          "Monotone"
-        ],
+        "Monotone",
         [
           "/wiki/Monotone_(software)"
         ]
       ],
       [
-        [
-          "ViewMTN , TracMonotone ,"
-        ],
-        [
-          null
-        ]
+        "ViewMTN , TracMonotone ,",
+        []
       ],
       [
-        [
-          "GTK+",
-          "Qt",
-          "GTK+",
-          "Perl"
-        ],
+        "Monotone-Viz ( GTK+ ) , Guitone ( Qt ) , Monotone Browser ( GTK+ , Perl )",
         [
           "/wiki/GTK+",
           "/wiki/Qt_toolkit",
@@ -746,51 +481,27 @@
         ]
       ],
       [
-        [
-          "Unknown"
-        ],
-        [
-          null
-        ]
+        "Unknown",
+        []
       ]
     ],
     [
       [
-        [
-          "Perforce Helix Core"
-        ],
+        "Perforce Helix Core",
         [
           "/wiki/Perforce_Software"
         ]
       ],
       [
-        [
-          "included , P4Web , P4FTP"
-        ],
-        [
-          null
-        ]
+        "included , P4Web , P4FTP",
+        []
       ],
       [
-        [
-          "Windows , Linux , Mac OS X"
-        ],
-        [
-          null
-        ]
+        "Windows , Linux , Mac OS X",
+        []
       ],
       [
-        [
-          "Eclipse",
-          "Visual Studio",
-          "Matlab",
-          "Unity",
-          "Unreal",
-          "Amazon Lumberyard",
-          "Autodesk Maya",
-          "3ds max",
-          "Adobe PS"
-        ],
+        "Eclipse , Visual Studio , Matlab ; Game Engines : Unity , Unreal , Amazon Lumberyard ; Graphics : Autodesk Maya , 3ds max , Adobe PS",
         [
           "/wiki/Eclipse_(video_game)",
           "/wiki/Visual_Studio",
@@ -806,36 +517,22 @@
     ],
     [
       [
-        [
-          "Rational Team Concert"
-        ],
+        "Rational Team Concert",
         [
           "/wiki/IBM_Rational_Team_Concert"
         ]
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "Eclipse-based GUI"
-        ],
-        [
-          null
-        ]
+        "Eclipse-based GUI",
+        []
       ],
       [
-        [
-          "Eclipse integration ; MS Visual Studio integration ( Limited )"
-        ],
-        [
-          null
-        ]
+        "Eclipse integration ; MS Visual Studio integration ( Limited )",
+        []
       ]
     ]
   ],

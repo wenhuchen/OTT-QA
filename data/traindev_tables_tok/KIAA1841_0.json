@@ -3,633 +3,361 @@
   "title": "KIAA1841",
   "header": [
     [
-      [
-        "Species"
-      ],
-      [
-        null
-      ]
+      "Species",
+      []
     ],
     [
-      [
-        "NCBI accession #"
-      ],
-      [
-        null
-      ]
+      "NCBI accession #",
+      []
     ],
     [
-      [
-        "Sequence length"
-      ],
-      [
-        null
-      ]
+      "Sequence length",
+      []
     ],
     [
-      [
-        "Protein identity"
-      ],
-      [
-        null
-      ]
+      "Protein identity",
+      []
     ],
     [
-      [
-        "mRNA identity"
-      ],
-      [
-        null
-      ]
+      "mRNA identity",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Homo sapiens"
-        ],
+        "Homo sapiens ( Human )",
         [
           "/wiki/Homo_sapiens"
         ]
       ],
       [
-        [
-          "NP_001123465.1"
-        ],
-        [
-          null
-        ]
+        "NP_001123465.1",
+        []
       ],
       [
-        [
-          "718"
-        ],
-        [
-          null
-        ]
+        "718",
+        []
       ],
       [
-        [
-          "100%"
-        ],
-        [
-          null
-        ]
+        "100%",
+        []
       ],
       [
-        [
-          "100%"
-        ],
-        [
-          null
-        ]
+        "100%",
+        []
       ]
     ],
     [
       [
-        [
-          "Odobenus rosmarus divergens"
-        ],
+        "Odobenus rosmarus divergens ( Walrus )",
         [
           "/wiki/Odobenus_rosmarus_divergens"
         ]
       ],
       [
-        [
-          "XP_004397774.1"
-        ],
-        [
-          null
-        ]
+        "XP_004397774.1",
+        []
       ],
       [
-        [
-          "718"
-        ],
-        [
-          null
-        ]
+        "718",
+        []
       ],
       [
-        [
-          "94%"
-        ],
-        [
-          null
-        ]
+        "94%",
+        []
       ],
       [
-        [
-          "97%"
-        ],
-        [
-          null
-        ]
+        "97%",
+        []
       ]
     ],
     [
       [
-        [
-          "Canis lupus familiaris"
-        ],
+        "Canis lupus familiaris ( Grey wolf )",
         [
           "/wiki/Canis_lupus_familiaris"
         ]
       ],
       [
-        [
-          "XP_538505"
-        ],
-        [
-          null
-        ]
+        "XP_538505",
+        []
       ],
       [
-        [
-          "718"
-        ],
-        [
-          null
-        ]
+        "718",
+        []
       ],
       [
-        [
-          "92%"
-        ],
-        [
-          null
-        ]
+        "92%",
+        []
       ],
       [
-        [
-          "96%"
-        ],
-        [
-          null
-        ]
+        "96%",
+        []
       ]
     ],
     [
       [
-        [
-          "Equus caballus"
-        ],
+        "Equus caballus ( Horse )",
         [
           "/wiki/Equus_caballus"
         ]
       ],
       [
-        [
-          "XP_001495879.1"
-        ],
-        [
-          null
-        ]
+        "XP_001495879.1",
+        []
       ],
       [
-        [
-          "765"
-        ],
-        [
-          null
-        ]
+        "765",
+        []
       ],
       [
-        [
-          "93%"
-        ],
-        [
-          null
-        ]
+        "93%",
+        []
       ],
       [
-        [
-          "96%"
-        ],
-        [
-          null
-        ]
+        "96%",
+        []
       ]
     ],
     [
       [
-        [
-          "Mus musculus"
-        ],
+        "Mus musculus ( Mouse )",
         [
           "/wiki/Mus_musculus"
         ]
       ],
       [
-        [
-          "NP_082136.2"
-        ],
-        [
-          null
-        ]
+        "NP_082136.2",
+        []
       ],
       [
-        [
-          "718"
-        ],
-        [
-          null
-        ]
+        "718",
+        []
       ],
       [
-        [
-          "89%"
-        ],
-        [
-          null
-        ]
+        "89%",
+        []
       ],
       [
-        [
-          "94%"
-        ],
-        [
-          null
-        ]
+        "94%",
+        []
       ]
     ],
     [
       [
-        [
-          "Echinops telfairi"
-        ],
+        "Echinops telfairi ( Hedgehog )",
         [
           "/wiki/Echinops_telfairi"
         ]
       ],
       [
-        [
-          "XP_004710320.1"
-        ],
-        [
-          null
-        ]
+        "XP_004710320.1",
+        []
       ],
       [
-        [
-          "718"
-        ],
-        [
-          null
-        ]
+        "718",
+        []
       ],
       [
-        [
-          "86%"
-        ],
-        [
-          null
-        ]
+        "86%",
+        []
       ],
       [
-        [
-          "92%"
-        ],
-        [
-          null
-        ]
+        "92%",
+        []
       ]
     ],
     [
       [
-        [
-          "Pelodiscus sinensis"
-        ],
+        "Pelodiscus sinensis ( Soft-shelled turtle )",
         [
           "/wiki/Pelodiscus_sinensis"
         ]
       ],
       [
-        [
-          "XP_006122225.1"
-        ],
-        [
-          null
-        ]
+        "XP_006122225.1",
+        []
       ],
       [
-        [
-          "718"
-        ],
-        [
-          null
-        ]
+        "718",
+        []
       ],
       [
-        [
-          "78%"
-        ],
-        [
-          null
-        ]
+        "78%",
+        []
       ],
       [
-        [
-          "88%"
-        ],
-        [
-          null
-        ]
+        "88%",
+        []
       ]
     ],
     [
       [
-        [
-          "Anas platyrhynchos"
-        ],
+        "Anas platyrhynchos ( Mallard duck )",
         [
           "/wiki/Anas_platyrhynchos"
         ]
       ],
       [
-        [
-          "XP_005016968.1"
-        ],
-        [
-          null
-        ]
+        "XP_005016968.1",
+        []
       ],
       [
-        [
-          "719"
-        ],
-        [
-          null
-        ]
+        "719",
+        []
       ],
       [
-        [
-          "78%"
-        ],
-        [
-          null
-        ]
+        "78%",
+        []
       ],
       [
-        [
-          "87%"
-        ],
-        [
-          null
-        ]
+        "87%",
+        []
       ]
     ],
     [
       [
-        [
-          "Gallus gallus"
-        ],
+        "Gallus gallus ( Red junglefowl )",
         [
           "/wiki/Gallus_gallus"
         ]
       ],
       [
-        [
-          "NP_001186348.1"
-        ],
-        [
-          null
-        ]
+        "NP_001186348.1",
+        []
       ],
       [
-        [
-          "718"
-        ],
-        [
-          null
-        ]
+        "718",
+        []
       ],
       [
-        [
-          "76%"
-        ],
-        [
-          null
-        ]
+        "76%",
+        []
       ],
       [
-        [
-          "87%"
-        ],
-        [
-          null
-        ]
+        "87%",
+        []
       ]
     ],
     [
       [
-        [
-          "Xenopus tropicalis"
-        ],
+        "Xenopus tropicalis ( Western clawed frog )",
         [
           "/wiki/Xenopus_tropicalis"
         ]
       ],
       [
-        [
-          "XP_004914757.1"
-        ],
-        [
-          null
-        ]
+        "XP_004914757.1",
+        []
       ],
       [
-        [
-          "715"
-        ],
-        [
-          null
-        ]
+        "715",
+        []
       ],
       [
-        [
-          "71%"
-        ],
-        [
-          null
-        ]
+        "71%",
+        []
       ],
       [
-        [
-          "83%"
-        ],
-        [
-          null
-        ]
+        "83%",
+        []
       ]
     ],
     [
       [
-        [
-          "Danio rerio"
-        ],
+        "Danio rerio ( Zebrafish )",
         [
           "/wiki/Danio_rerio"
         ]
       ],
       [
-        [
-          "XP_001333668.2"
-        ],
-        [
-          null
-        ]
+        "XP_001333668.2",
+        []
       ],
       [
-        [
-          "735"
-        ],
-        [
-          null
-        ]
+        "735",
+        []
       ],
       [
-        [
-          "60%"
-        ],
-        [
-          null
-        ]
+        "60%",
+        []
       ],
       [
-        [
-          "73%"
-        ],
-        [
-          null
-        ]
+        "73%",
+        []
       ]
     ],
     [
       [
-        [
-          "Drosophila melanogaster"
-        ],
+        "Drosophila melanogaster ( Fruit fly )",
         [
           "/wiki/Drosophila_melanogaster"
         ]
       ],
       [
-        [
-          "NP_648346.1"
-        ],
-        [
-          null
-        ]
+        "NP_648346.1",
+        []
       ],
       [
-        [
-          "889"
-        ],
-        [
-          null
-        ]
+        "889",
+        []
       ],
       [
-        [
-          "38%"
-        ],
-        [
-          null
-        ]
+        "38%",
+        []
       ],
       [
-        [
-          "62%"
-        ],
-        [
-          null
-        ]
+        "62%",
+        []
       ]
     ],
     [
       [
-        [
-          "Apis mellifera"
-        ],
+        "Apis mellifera ( Western honeybee )",
         [
           "/wiki/Apis_mellifera"
         ]
       ],
       [
-        [
-          "XP_006559923.1"
-        ],
-        [
-          null
-        ]
+        "XP_006559923.1",
+        []
       ],
       [
-        [
-          "849"
-        ],
-        [
-          null
-        ]
+        "849",
+        []
       ],
       [
-        [
-          "40%"
-        ],
-        [
-          null
-        ]
+        "40%",
+        []
       ],
       [
-        [
-          "62%"
-        ],
-        [
-          null
-        ]
+        "62%",
+        []
       ]
     ],
     [
       [
-        [
-          "Anopheles gambiae"
-        ],
+        "Anopheles gambiae ( Mosquito )",
         [
           "/wiki/Anopheles_gambiae"
         ]
       ],
       [
-        [
-          "XP_558222.3"
-        ],
-        [
-          null
-        ]
+        "XP_558222.3",
+        []
       ],
       [
-        [
-          "806"
-        ],
-        [
-          null
-        ]
+        "806",
+        []
       ],
       [
-        [
-          "40%"
-        ],
-        [
-          null
-        ]
+        "40%",
+        []
       ],
       [
-        [
-          "61%"
-        ],
-        [
-          null
-        ]
+        "61%",
+        []
       ]
     ]
   ],

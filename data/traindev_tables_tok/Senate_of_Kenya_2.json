@@ -3,84 +3,50 @@
   "title": "Senate of Kenya",
   "header": [
     [
-      [
-        "County No"
-      ],
-      [
-        null
-      ]
+      "County No",
+      []
     ],
     [
-      [
-        "County Name"
-      ],
-      [
-        null
-      ]
+      "County Name",
+      []
     ],
     [
-      [
-        "Name"
-      ],
-      [
-        null
-      ]
+      "Name",
+      []
     ],
     [
-      [
-        "Party"
-      ],
-      [
-        null
-      ]
+      "Party",
+      []
     ],
     [
-      [
-        "Coalition"
-      ],
-      [
-        null
-      ]
+      "Coalition",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "Mombasa"
-        ],
+        "Mombasa",
         [
           "/wiki/Mombasa_County"
         ]
       ],
       [
-        [
-          "Hassan Omar"
-        ],
-        [
-          null
-        ]
+        "Hassan Omar",
+        []
       ],
       [
-        [
-          "WDM-K"
-        ],
+        "WDM-K",
         [
           "/wiki/Wiper_Democratic_Movement"
         ]
       ],
       [
-        [
-          "CORD"
-        ],
+        "CORD",
         [
           "/wiki/Coalition_for_Reforms_and_Democracy"
         ]
@@ -88,167 +54,107 @@
     ],
     [
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "Kwale"
-        ],
+        "Kwale",
         [
           "/wiki/Kwale_County"
         ]
       ],
       [
-        [
-          "Issa Juma Boy"
-        ],
-        [
-          null
-        ]
+        "Issa Juma Boy",
+        []
       ],
       [
-        [
-          "ODM"
-        ],
+        "ODM",
         [
           "/wiki/Orange_Democratic_Movement"
         ]
       ],
       [
-        [
-          "CORD"
-        ],
-        [
-          null
-        ]
+        "CORD",
+        []
       ]
     ],
     [
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "Kilifi"
-        ],
+        "Kilifi",
         [
           "/wiki/Kilifi_County"
         ]
       ],
       [
-        [
-          "Stewart Madzayo"
-        ],
-        [
-          null
-        ]
+        "Stewart Madzayo",
+        []
       ],
       [
-        [
-          "ODM"
-        ],
+        "ODM",
         [
           "/wiki/Orange_Democratic_Movement"
         ]
       ],
       [
-        [
-          "CORD"
-        ],
-        [
-          null
-        ]
+        "CORD",
+        []
       ]
     ],
     [
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "Tana-River"
-        ],
+        "Tana-River",
         [
           "/wiki/Tana_River_County"
         ]
       ],
       [
-        [
-          "Juma Wario"
-        ],
-        [
-          null
-        ]
+        "Juma Wario",
+        []
       ],
       [
-        [
-          "FPK"
-        ],
+        "FPK",
         [
           "/wiki/Federal_Party_of_Kenya"
         ]
       ],
       [
-        [
-          "CORD"
-        ],
-        [
-          null
-        ]
+        "CORD",
+        []
       ]
     ],
     [
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "Lamu"
-        ],
+        "Lamu",
         [
           "/wiki/Lamu_County"
         ]
       ],
       [
-        [
-          "Abu Chiaba"
-        ],
+        "Abu Chiaba",
         [
           "/wiki/Abu_Chiaba"
         ]
       ],
       [
-        [
-          "TNA"
-        ],
+        "TNA",
         [
           "/wiki/The_National_Alliance_(Kenya)"
         ]
       ],
       [
-        [
-          "Jubilee"
-        ],
+        "Jubilee",
         [
           "/wiki/Jubilee_Alliance"
         ]
@@ -256,632 +162,406 @@
     ],
     [
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "Taita-Taveta"
-        ],
+        "Taita-Taveta",
         [
           "/wiki/Taita-Taveta_County"
         ]
       ],
       [
-        [
-          "Dan Mwazo"
-        ],
-        [
-          null
-        ]
+        "Dan Mwazo",
+        []
       ],
       [
-        [
-          "ODM"
-        ],
+        "ODM",
         [
           "/wiki/Orange_Democratic_Movement"
         ]
       ],
       [
-        [
-          "CORD"
-        ],
-        [
-          null
-        ]
+        "CORD",
+        []
       ]
     ],
     [
       [
-        [
-          "7"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ],
       [
-        [
-          "Garissa"
-        ],
+        "Garissa",
         [
           "/wiki/Garissa_County"
         ]
       ],
       [
-        [
-          "Yusuf Haji"
-        ],
+        "Yusuf Haji",
         [
           "/wiki/Yusuf_Haji"
         ]
       ],
       [
-        [
-          "TNA"
-        ],
+        "TNA",
         [
           "/wiki/The_National_Alliance_(Kenya)"
         ]
       ],
       [
-        [
-          "Jubilee"
-        ],
-        [
-          null
-        ]
+        "Jubilee",
+        []
       ]
     ],
     [
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "Wajir"
-        ],
+        "Wajir",
         [
           "/wiki/Wajir_County"
         ]
       ],
       [
-        [
-          "Abdirahman Ali"
-        ],
-        [
-          null
-        ]
+        "Abdirahman Ali",
+        []
       ],
       [
-        [
-          "ODM"
-        ],
+        "ODM",
         [
           "/wiki/Orange_Democratic_Movement"
         ]
       ],
       [
-        [
-          "CORD"
-        ],
-        [
-          null
-        ]
+        "CORD",
+        []
       ]
     ],
     [
       [
-        [
-          "9"
-        ],
-        [
-          null
-        ]
+        "9",
+        []
       ],
       [
-        [
-          "Mandera"
-        ],
+        "Mandera",
         [
           "/wiki/Mandera_County"
         ]
       ],
       [
-        [
-          "Billow Kerow"
-        ],
-        [
-          null
-        ]
+        "Billow Kerow",
+        []
       ],
       [
-        [
-          "URP"
-        ],
+        "URP",
         [
           "/wiki/United_Republican_Party_(Kenya)"
         ]
       ],
       [
-        [
-          "Jubilee"
-        ],
-        [
-          null
-        ]
+        "Jubilee",
+        []
       ]
     ],
     [
       [
-        [
-          "10"
-        ],
-        [
-          null
-        ]
+        "10",
+        []
       ],
       [
-        [
-          "Marsabit"
-        ],
+        "Marsabit",
         [
           "/wiki/Marsabit_County"
         ]
       ],
       [
-        [
-          "Godana Hargura"
-        ],
-        [
-          null
-        ]
+        "Godana Hargura",
+        []
       ],
       [
-        [
-          "ODM"
-        ],
+        "ODM",
         [
           "/wiki/Orange_Democratic_Movement"
         ]
       ],
       [
-        [
-          "CORD"
-        ],
-        [
-          null
-        ]
+        "CORD",
+        []
       ]
     ],
     [
       [
-        [
-          "11"
-        ],
-        [
-          null
-        ]
+        "11",
+        []
       ],
       [
-        [
-          "Isiolo"
-        ],
+        "Isiolo",
         [
           "/wiki/Isiolo_County"
         ]
       ],
       [
-        [
-          "Mohammed Kuti"
-        ],
+        "Mohammed Kuti",
         [
           "/wiki/Mohammed_Kuti"
         ]
       ],
       [
-        [
-          "URP"
-        ],
+        "URP",
         [
           "/wiki/United_Republican_Party_(Kenya)"
         ]
       ],
       [
-        [
-          "Jubilee"
-        ],
-        [
-          null
-        ]
+        "Jubilee",
+        []
       ]
     ],
     [
       [
-        [
-          "12"
-        ],
-        [
-          null
-        ]
+        "12",
+        []
       ],
       [
-        [
-          "Meru"
-        ],
+        "Meru",
         [
           "/wiki/Meru_County"
         ]
       ],
       [
-        [
-          "Kiraitu Murungi"
-        ],
+        "Kiraitu Murungi",
         [
           "/wiki/Kiraitu_Murungi"
         ]
       ],
       [
-        [
-          "APK"
-        ],
+        "APK",
         [
           "/wiki/Alliance_Party_Of_Kenya"
         ]
       ],
       [
-        [
-          "Jubilee"
-        ],
-        [
-          null
-        ]
+        "Jubilee",
+        []
       ]
     ],
     [
       [
-        [
-          "13"
-        ],
-        [
-          null
-        ]
+        "13",
+        []
       ],
       [
-        [
-          "Tharaka Nithi"
-        ],
+        "Tharaka Nithi",
         [
           "/wiki/Tharaka_Nithi_County"
         ]
       ],
       [
-        [
-          "Kithure Kindiki"
-        ],
-        [
-          null
-        ]
+        "Kithure Kindiki",
+        []
       ],
       [
-        [
-          "TNA"
-        ],
+        "TNA",
         [
           "/wiki/The_National_Alliance_(Kenya)"
         ]
       ],
       [
-        [
-          "Jubilee"
-        ],
-        [
-          null
-        ]
+        "Jubilee",
+        []
       ]
     ],
     [
       [
-        [
-          "14"
-        ],
-        [
-          null
-        ]
+        "14",
+        []
       ],
       [
-        [
-          "Embu"
-        ],
+        "Embu",
         [
           "/wiki/Embu_County"
         ]
       ],
       [
-        [
-          "Lenny Kivuti"
-        ],
-        [
-          null
-        ]
+        "Lenny Kivuti",
+        []
       ],
       [
-        [
-          "APK"
-        ],
+        "APK",
         [
           "/wiki/Alliance_Party_Of_Kenya"
         ]
       ],
       [
-        [
-          "Jubilee"
-        ],
-        [
-          null
-        ]
+        "Jubilee",
+        []
       ]
     ],
     [
       [
-        [
-          "15"
-        ],
-        [
-          null
-        ]
+        "15",
+        []
       ],
       [
-        [
-          "Kitui"
-        ],
+        "Kitui",
         [
           "/wiki/Kitui_County"
         ]
       ],
       [
-        [
-          "David Musila"
-        ],
+        "David Musila",
         [
           "/wiki/David_Musila"
         ]
       ],
       [
-        [
-          "WDM-K"
-        ],
+        "WDM-K",
         [
           "/wiki/Wiper_Democratic_Movement"
         ]
       ],
       [
-        [
-          "CORD"
-        ],
-        [
-          null
-        ]
+        "CORD",
+        []
       ]
     ],
     [
       [
-        [
-          "16"
-        ],
-        [
-          null
-        ]
+        "16",
+        []
       ],
       [
-        [
-          "Machakos"
-        ],
+        "Machakos",
         [
           "/wiki/Machakos_County"
         ]
       ],
       [
-        [
-          "Johnstone Muthama"
-        ],
+        "Johnstone Muthama",
         [
           "/wiki/Johnstone_Muthama"
         ]
       ],
       [
-        [
-          "WDM-K"
-        ],
+        "WDM-K",
         [
           "/wiki/Wiper_Democratic_Movement"
         ]
       ],
       [
-        [
-          "CORD"
-        ],
-        [
-          null
-        ]
+        "CORD",
+        []
       ]
     ],
     [
       [
-        [
-          "17"
-        ],
-        [
-          null
-        ]
+        "17",
+        []
       ],
       [
-        [
-          "Makueni"
-        ],
+        "Makueni",
         [
           "/wiki/Makueni_County"
         ]
       ],
       [
-        [
-          "Mutula Kilonzo , Jr"
-        ],
-        [
-          null
-        ]
+        "Mutula Kilonzo , Jr",
+        []
       ],
       [
-        [
-          "WDM-K"
-        ],
+        "WDM-K",
         [
           "/wiki/Wiper_Democratic_Movement"
         ]
       ],
       [
-        [
-          "CORD"
-        ],
-        [
-          null
-        ]
+        "CORD",
+        []
       ]
     ],
     [
       [
-        [
-          "18"
-        ],
-        [
-          null
-        ]
+        "18",
+        []
       ],
       [
-        [
-          "Nyandarua"
-        ],
+        "Nyandarua",
         [
           "/wiki/Nyandarua_County"
         ]
       ],
       [
-        [
-          "Muriuki Karue"
-        ],
-        [
-          null
-        ]
+        "Muriuki Karue",
+        []
       ],
       [
-        [
-          "TNA"
-        ],
+        "TNA",
         [
           "/wiki/The_National_Alliance_(Kenya)"
         ]
       ],
       [
-        [
-          "Jubilee"
-        ],
-        [
-          null
-        ]
+        "Jubilee",
+        []
       ]
     ],
     [
       [
-        [
-          "19"
-        ],
-        [
-          null
-        ]
+        "19",
+        []
       ],
       [
-        [
-          "Nyeri"
-        ],
+        "Nyeri",
         [
           "/wiki/Nyeri_County"
         ]
       ],
       [
-        [
-          "Mutahi Kagwe"
-        ],
+        "Mutahi Kagwe",
         [
           "/wiki/Mutahi_Kagwe"
         ]
       ],
       [
-        [
-          "NARC"
-        ],
+        "NARC",
         [
           "/wiki/National_Rainbow_Coalition"
         ]
       ],
       [
-        [
-          "Jubilee"
-        ],
-        [
-          null
-        ]
+        "Jubilee",
+        []
       ]
     ],
     [
       [
-        [
-          "20"
-        ],
-        [
-          null
-        ]
+        "20",
+        []
       ],
       [
-        [
-          "Kirinyaga"
-        ],
+        "Kirinyaga",
         [
           "/wiki/Kirinyaga_County"
         ]
       ],
       [
-        [
-          "Daniel Karaba"
-        ],
+        "Daniel Karaba",
         [
           "/wiki/Daniel_Karaba"
         ]
       ],
       [
-        [
-          "TNA"
-        ],
+        "TNA",
         [
           "/wiki/The_National_Alliance_(Kenya)"
         ]
       ],
       [
-        [
-          "Jubilee"
-        ],
-        [
-          null
-        ]
+        "Jubilee",
+        []
       ]
     ]
   ],

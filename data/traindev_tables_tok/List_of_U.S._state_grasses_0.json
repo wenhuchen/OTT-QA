@@ -3,25 +3,15 @@
   "title": "List of U.S. state grasses",
   "header": [
     [
-      [
-        "State"
-      ],
-      [
-        null
-      ]
+      "State",
+      []
     ],
     [
-      [
-        "State grass"
-      ],
-      [
-        null
-      ]
+      "State grass",
+      []
     ],
     [
-      [
-        "Scientific name"
-      ],
+      "Scientific name",
       [
         "/wiki/Binomial_nomenclature"
       ]
@@ -30,496 +20,342 @@
   "data": [
     [
       [
-        [
-          "California"
-        ],
+        "California",
         [
           "/wiki/California"
         ]
       ],
       [
-        [
-          "Purple needlegrass"
-        ],
+        "Purple needlegrass",
         [
           "/wiki/Nassella_pulchra"
         ]
       ],
       [
-        [
-          "Nassella pulchra"
-        ],
-        [
-          null
-        ]
+        "Nassella pulchra",
+        []
       ]
     ],
     [
       [
-        [
-          "Colorado"
-        ],
+        "Colorado",
         [
           "/wiki/Colorado"
         ]
       ],
       [
-        [
-          "Blue grama"
-        ],
+        "Blue grama",
         [
           "/wiki/Blue_grama"
         ]
       ],
       [
-        [
-          "Bouteloua gracilis"
-        ],
-        [
-          null
-        ]
+        "Bouteloua gracilis",
+        []
       ]
     ],
     [
       [
-        [
-          "Illinois"
-        ],
+        "Illinois",
         [
           "/wiki/Illinois"
         ]
       ],
       [
-        [
-          "Big bluestem"
-        ],
+        "Big bluestem ( state prairie grass )",
         [
           "/wiki/Big_bluestem"
         ]
       ],
       [
-        [
-          "Andropogon gerardii"
-        ],
-        [
-          null
-        ]
+        "Andropogon gerardii",
+        []
       ]
     ],
     [
       [
-        [
-          "Iowa"
-        ],
+        "Iowa",
         [
           "/wiki/Iowa"
         ]
       ],
       [
-        [
-          "None"
-        ],
-        [
-          null
-        ]
+        "None",
+        []
       ],
       [
-        [
-          "None"
-        ],
-        [
-          null
-        ]
+        "None",
+        []
       ]
     ],
     [
       [
-        [
-          "Kansas"
-        ],
+        "Kansas",
         [
           "/wiki/Kansas"
         ]
       ],
       [
-        [
-          "Little bluestem"
-        ],
+        "Little bluestem",
         [
           "/wiki/Little_bluestem"
         ]
       ],
       [
-        [
-          "Schizachyrium scoparium ( Andropogon scoparius )"
-        ],
-        [
-          null
-        ]
+        "Schizachyrium scoparium ( Andropogon scoparius )",
+        []
       ]
     ],
     [
       [
-        [
-          "Minnesota"
-        ],
+        "Minnesota",
         [
           "/wiki/Minnesota"
         ]
       ],
       [
-        [
-          "Wild rice"
-        ],
+        "Wild rice ( state grain )",
         [
           "/wiki/Wild_rice"
         ]
       ],
       [
-        [
-          "Zizania aquatica"
-        ],
-        [
-          null
-        ]
+        "Zizania aquatica",
+        []
       ]
     ],
     [
       [
-        [
-          "Missouri"
-        ],
+        "Missouri",
         [
           "/wiki/Missouri"
         ]
       ],
       [
-        [
-          "Big bluestem"
-        ],
+        "Big bluestem",
         [
           "/wiki/Big_bluestem"
         ]
       ],
       [
-        [
-          "Andropogon gerardii"
-        ],
-        [
-          null
-        ]
+        "Andropogon gerardii",
+        []
       ]
     ],
     [
       [
-        [
-          "Montana"
-        ],
+        "Montana",
         [
           "/wiki/Montana"
         ]
       ],
       [
-        [
-          "Bluebunch wheatgrass"
-        ],
+        "Bluebunch wheatgrass",
         [
           "/wiki/Bluebunch_wheatgrass"
         ]
       ],
       [
-        [
-          "Agropyron spicatum"
-        ],
-        [
-          null
-        ]
+        "Agropyron spicatum",
+        []
       ]
     ],
     [
       [
-        [
-          "Nebraska"
-        ],
+        "Nebraska",
         [
           "/wiki/Nebraska"
         ]
       ],
       [
-        [
-          "Little bluestem"
-        ],
+        "Little bluestem",
         [
           "/wiki/Little_bluestem"
         ]
       ],
       [
-        [
-          "Schizachyrium scoparium ( Andropogon scoparius )"
-        ],
-        [
-          null
-        ]
+        "Schizachyrium scoparium ( Andropogon scoparius )",
+        []
       ]
     ],
     [
       [
-        [
-          "Nevada"
-        ],
+        "Nevada",
         [
           "/wiki/Nevada"
         ]
       ],
       [
-        [
-          "Indian ricegrass"
-        ],
+        "Indian ricegrass",
         [
           "/wiki/Indian_ricegrass"
         ]
       ],
       [
-        [
-          "Oryzopsis hymenoides"
-        ],
-        [
-          null
-        ]
+        "Oryzopsis hymenoides",
+        []
       ]
     ],
     [
       [
-        [
-          "New Mexico"
-        ],
+        "New Mexico",
         [
           "/wiki/New_Mexico"
         ]
       ],
       [
-        [
-          "Blue grama"
-        ],
+        "Blue grama",
         [
           "/wiki/Blue_grama"
         ]
       ],
       [
-        [
-          "Bouteloua gracilis"
-        ],
-        [
-          null
-        ]
+        "Bouteloua gracilis",
+        []
       ]
     ],
     [
       [
-        [
-          "North Dakota"
-        ],
+        "North Dakota",
         [
           "/wiki/North_Dakota"
         ]
       ],
       [
-        [
-          "Western wheatgrass"
-        ],
+        "Western wheatgrass",
         [
           "/wiki/Western_wheatgrass"
         ]
       ],
       [
-        [
-          "Pascopyrum smithii ( Agropyron smithii )"
-        ],
-        [
-          null
-        ]
+        "Pascopyrum smithii ( Agropyron smithii )",
+        []
       ]
     ],
     [
       [
-        [
-          "Oklahoma"
-        ],
+        "Oklahoma",
         [
           "/wiki/Oklahoma"
         ]
       ],
       [
-        [
-          "Indian grass"
-        ],
+        "Indian grass",
         [
           "/wiki/Indian_grass"
         ]
       ],
       [
-        [
-          "Sorghastrum nutans"
-        ],
-        [
-          null
-        ]
+        "Sorghastrum nutans",
+        []
       ]
     ],
     [
       [
-        [
-          "South Carolina"
-        ],
+        "South Carolina",
         [
           "/wiki/South_Carolina"
         ]
       ],
       [
-        [
-          "Indian grass"
-        ],
+        "Indian grass",
         [
           "/wiki/Indian_grass"
         ]
       ],
       [
-        [
-          "Sorghastrum nutans"
-        ],
-        [
-          null
-        ]
+        "Sorghastrum nutans",
+        []
       ]
     ],
     [
       [
-        [
-          "South Dakota"
-        ],
+        "South Dakota",
         [
           "/wiki/South_Dakota"
         ]
       ],
       [
-        [
-          "Western wheatgrass"
-        ],
+        "Western wheatgrass",
         [
           "/wiki/Western_wheatgrass"
         ]
       ],
       [
-        [
-          "Agropyron smithii"
-        ],
-        [
-          null
-        ]
+        "Agropyron smithii",
+        []
       ]
     ],
     [
       [
-        [
-          "Texas"
-        ],
+        "Texas",
         [
           "/wiki/Texas"
         ]
       ],
       [
-        [
-          "Sideoats grama"
-        ],
+        "Sideoats grama",
         [
           "/wiki/Sideoats_grama"
         ]
       ],
       [
-        [
-          "Bouteloua curtipendula"
-        ],
-        [
-          null
-        ]
+        "Bouteloua curtipendula",
+        []
       ]
     ],
     [
       [
-        [
-          "Utah"
-        ],
+        "Utah",
         [
           "/wiki/Utah"
         ]
       ],
       [
-        [
-          "Indian ricegrass"
-        ],
+        "Indian ricegrass",
         [
           "/wiki/Indian_ricegrass"
         ]
       ],
       [
-        [
-          "Oryzopsis hymenoides"
-        ],
-        [
-          null
-        ]
+        "Oryzopsis hymenoides",
+        []
       ]
     ],
     [
       [
-        [
-          "Washington"
-        ],
+        "Washington",
         [
           "/wiki/Washington_(U.S._state)"
         ]
       ],
       [
-        [
-          "Bluebunch wheatgrass"
-        ],
+        "Bluebunch wheatgrass",
         [
           "/wiki/Bluebunch_wheatgrass"
         ]
       ],
       [
-        [
-          "Agropyron spicatum"
-        ],
-        [
-          null
-        ]
+        "Agropyron spicatum",
+        []
       ]
     ],
     [
       [
-        [
-          "Wyoming"
-        ],
+        "Wyoming",
         [
           "/wiki/Wyoming"
         ]
       ],
       [
-        [
-          "Western wheatgrass"
-        ],
+        "Western wheatgrass",
         [
           "/wiki/Western_wheatgrass"
         ]
       ],
       [
-        [
-          "Agropyron smithii"
-        ],
-        [
-          null
-        ]
+        "Agropyron smithii",
+        []
       ]
     ]
   ],

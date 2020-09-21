@@ -3,113 +3,70 @@
   "title": "Title",
   "header": [
     [
-      [
-        "Male"
-      ],
+      "Male version",
       [
         "/wiki/Male"
       ]
     ],
     [
-      [
-        "Female"
-      ],
+      "Female version",
       [
         "/wiki/Female"
       ]
     ],
     [
-      [
-        "Realm"
-      ],
+      "Realm",
       [
         "/wiki/Realm"
       ]
     ],
     [
-      [
-        "Adjective"
-      ],
+      "Adjective",
       [
         "/wiki/Adjective"
       ]
     ],
     [
-      [
-        "Latin"
-      ],
+      "Latin",
       [
         "/wiki/Latin"
       ]
     ],
     [
-      [
-        "Examples"
-      ],
-      [
-        null
-      ]
+      "Examples",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Emperor"
-        ],
+        "Emperor",
         [
           "/wiki/Emperor"
         ]
       ],
       [
-        [
-          "Empress"
-        ],
-        [
-          null
-        ]
+        "Empress",
+        []
       ],
       [
-        [
-          "Empire"
-        ],
+        "Empire",
         [
           "/wiki/Empire"
         ]
       ],
       [
-        [
-          "Imperial and Royal"
-        ],
+        "Imperial Imperial and Royal ( Austria )",
         [
           "/wiki/Imperial_and_Royal"
         ]
       ],
       [
-        [
-          "Imperator ( Imperatrix )"
-        ],
-        [
-          null
-        ]
+        "Imperator ( Imperatrix )",
+        []
       ],
       [
-        [
-          "Roman Empire",
-          "Byzantine Empire",
-          "Ottoman Empire",
-          "Holy Roman Empire",
-          "Russia",
-          "First and Second French Empire",
-          "Austria",
-          "Mexican Empire",
-          "Empire of Brazil",
-          "German Empire",
-          "Empress of India",
-          "India",
-          "British Empire",
-          "Japan"
-        ],
+        "Roman Empire , Byzantine Empire , Ottoman Empire , Holy Roman Empire , Russia , First and Second French Empire , Austria , Mexican Empire , Empire of Brazil , German Empire ( none left in Europe after 1918 ) , Empress of India ( ceased to be used after 1947 when India was granted independence from the British Empire ) , Japan ( the only remaining enthroned emperor in the world )",
         [
           "/wiki/Roman_Empire",
           "/wiki/Byzantine_Empire",
@@ -118,7 +75,6 @@
           "/wiki/Imperial_Russia",
           "/wiki/France",
           "/wiki/Austria",
-          null,
           "/wiki/Empire_of_Brazil",
           "/wiki/German_Empire",
           "/wiki/Empress_of_India",
@@ -130,107 +86,61 @@
     ],
     [
       [
-        [
-          "King"
-        ],
+        "King",
         [
           "/wiki/King"
         ]
       ],
       [
-        [
-          "Queen"
-        ],
+        "Queen",
         [
           "/wiki/Queen_regnant"
         ]
       ],
       [
-        [
-          "Kingdom"
-        ],
+        "Kingdom",
         [
           "/wiki/Monarchy"
         ]
       ],
       [
-        [
-          "Royal"
-        ],
-        [
-          null
-        ]
+        "Royal",
+        []
       ],
       [
-        [
-          "Rex ( Regina )"
-        ],
-        [
-          null
-        ]
+        "Rex ( Regina )",
+        []
       ],
       [
-        [
-          "Common in larger sovereign states"
-        ],
-        [
-          null
-        ]
+        "Common in larger sovereign states",
+        []
       ]
     ],
     [
       [
-        [
-          "Viceroy"
-        ],
+        "Viceroy",
         [
           "/wiki/Viceroy"
         ]
       ],
       [
-        [
-          "Vicereine"
-        ],
-        [
-          null
-        ]
+        "Vicereine",
+        []
       ],
       [
-        [
-          "Viceroyalty"
-        ],
-        [
-          null
-        ]
+        "Viceroyalty",
+        []
       ],
       [
-        [
-          "Viceroyal"
-        ],
-        [
-          null
-        ]
+        "Viceroyal",
+        []
       ],
       [
-        [
-          "Proconsul"
-        ],
-        [
-          null
-        ]
+        "Proconsul",
+        []
       ],
       [
-        [
-          "Spanish",
-          "Peru",
-          "New Spain",
-          "Rio de la Plata",
-          "New Granada",
-          "Portuguese Empire",
-          "India",
-          "Brazil",
-          "British"
-        ],
+        "Historical : Spanish Empire ( Peru , New Spain , Rio de la Plata , New Granada ) , Portuguese Empire , ( India , Brazil ) , British Empire",
         [
           "/wiki/Spain",
           "/wiki/Viceroy_of_Peru",
@@ -246,53 +156,33 @@
     ],
     [
       [
-        [
-          "Grand Duke"
-        ],
+        "Grand Duke",
         [
           "/wiki/Grand_Duke"
         ]
       ],
       [
-        [
-          "Grand Duchess"
-        ],
+        "Grand Duchess",
         [
           "/wiki/Grand_Duchess"
         ]
       ],
       [
-        [
-          "Grand duchy"
-        ],
+        "Grand duchy",
         [
           "/wiki/Grand_duchy"
         ]
       ],
       [
-        [
-          "Grand Ducal"
-        ],
-        [
-          null
-        ]
+        "Grand Ducal",
+        []
       ],
       [
-        [
-          "Magnus Dux"
-        ],
-        [
-          null
-        ]
+        "Magnus Dux",
+        []
       ],
       [
-        [
-          "Luxembourg",
-          "Lithuania",
-          "Baden",
-          "Finland",
-          "Tuscany"
-        ],
+        "Today : Luxembourg ; historical : Lithuania , Baden , Finland , Tuscany et al",
         [
           "/wiki/Luxembourg",
           "/wiki/Lithuania",
@@ -304,52 +194,29 @@
     ],
     [
       [
-        [
-          "Archduke"
-        ],
+        "Archduke",
         [
           "/wiki/Archduke"
         ]
       ],
       [
-        [
-          "Archduchess"
-        ],
-        [
-          null
-        ]
+        "Archduchess",
+        []
       ],
       [
-        [
-          "Archduchy"
-        ],
-        [
-          null
-        ]
+        "Archduchy",
+        []
       ],
       [
-        [
-          "Archducal"
-        ],
-        [
-          null
-        ]
+        "Archducal",
+        []
       ],
       [
-        [
-          "Arci Dux"
-        ],
-        [
-          null
-        ]
+        "Arci Dux",
+        []
       ],
       [
-        [
-          "Austria",
-          "Archduchy",
-          "Austria",
-          "Habsburg"
-        ],
+        "Historical : Unique only in Austria , Archduchy of Austria ; title used for member of the Habsburg dynasty",
         [
           "/wiki/Austria",
           "/wiki/Archduchy",
@@ -360,57 +227,32 @@
     ],
     [
       [
-        [
-          "Prince"
-        ],
+        "Prince",
         [
           "/wiki/Prince"
         ]
       ],
       [
-        [
-          "Princess"
-        ],
-        [
-          null
-        ]
+        "Princess",
+        []
       ],
       [
-        [
-          "Principality",
-          "Princely state"
-        ],
+        "Principality , Princely state",
         [
           "/wiki/Principality",
           "/wiki/Princely_state"
         ]
       ],
       [
-        [
-          "Princely"
-        ],
-        [
-          null
-        ]
+        "Princely",
+        []
       ],
       [
-        [
-          "Princeps"
-        ],
-        [
-          null
-        ]
+        "Princeps",
+        []
       ],
       [
-        [
-          "Monaco",
-          "Liechtenstein",
-          "Asturies",
-          "Wales",
-          "Andorra",
-          "Albania",
-          "Serbia"
-        ],
+        "Today : Monaco , Liechtenstein , Asturies , Wales ; Andorra ( Co-Princes ) . Historical : Albania , Serbia",
         [
           "/wiki/Monaco",
           "/wiki/Liechtenstein",
@@ -424,51 +266,31 @@
     ],
     [
       [
-        [
-          "Duke"
-        ],
+        "Duke",
         [
           "/wiki/Duke"
         ]
       ],
       [
-        [
-          "Duchess"
-        ],
-        [
-          null
-        ]
+        "Duchess",
+        []
       ],
       [
-        [
-          "Duchy"
-        ],
+        "Duchy",
         [
           "/wiki/Duchy"
         ]
       ],
       [
-        [
-          "Ducal"
-        ],
-        [
-          null
-        ]
+        "Ducal",
+        []
       ],
       [
-        [
-          "Dux"
-        ],
-        [
-          null
-        ]
+        "Dux",
+        []
       ],
       [
-        [
-          "Duke of Buccleuch",
-          "Duke of York",
-          "Duke of Devonshire"
-        ],
+        "Duke of Buccleuch , Duke of York , Duke of Devonshire et al",
         [
           "/wiki/Duke_of_Buccleuch",
           "/wiki/Duke_of_York",
@@ -478,54 +300,33 @@
     ],
     [
       [
-        [
-          "Count"
-        ],
+        "Count",
         [
           "/wiki/Count"
         ]
       ],
       [
-        [
-          "Countess"
-        ],
+        "Countess",
         [
           "/wiki/Countess"
         ]
       ],
       [
-        [
-          "County"
-        ],
+        "County",
         [
           "/wiki/County"
         ]
       ],
       [
-        [
-          "Comital"
-        ],
-        [
-          null
-        ]
+        "Comital",
+        []
       ],
       [
-        [
-          "Comes"
-        ],
-        [
-          null
-        ]
+        "Comes",
+        []
       ],
       [
-        [
-          "Holy Roman Empire",
-          "Graf",
-          "Portugal",
-          "Barcelona",
-          "Brandenburg",
-          "Baden"
-        ],
+        "Most common in the Holy Roman Empire , translated in German as Graf ; historical : Portugal , Barcelona , Brandenburg , Baden , numerous others",
         [
           "/wiki/Holy_Roman_Empire",
           "/wiki/Graf",
@@ -538,105 +339,62 @@
     ],
     [
       [
-        [
-          "Baron"
-        ],
+        "Baron",
         [
           "/wiki/Baron"
         ]
       ],
       [
-        [
-          "Baroness"
-        ],
-        [
-          null
-        ]
+        "Baroness",
+        []
       ],
       [
-        [
-          "Barony"
-        ],
+        "Barony",
         [
           "/wiki/Feudal_barony"
         ]
       ],
       [
-        [
-          "Baronial"
-        ],
-        [
-          null
-        ]
+        "Baronial",
+        []
       ],
       [
-        [
-          "Baro"
-        ],
-        [
-          null
-        ]
+        "Baro",
+        []
       ],
       [
-        [
-          "There are normal baronies and sovereign baronies , a sovereign barony can be compared with a principality , however , this is an historical exception ; sovereign barons no longer have a sovereign barony , but only the title and style"
-        ],
-        [
-          null
-        ]
+        "There are normal baronies and sovereign baronies , a sovereign barony can be compared with a principality , however , this is an historical exception ; sovereign barons no longer have a sovereign barony , but only the title and style",
+        []
       ]
     ],
     [
       [
-        [
-          "Chief"
-        ],
+        "Chief",
         [
           "/wiki/Chieftain"
         ]
       ],
       [
-        [
-          "Chieftess"
-        ],
-        [
-          null
-        ]
+        "Chieftess",
+        []
       ],
       [
-        [
-          "Chieftaincy",
-          "Chiefdom"
-        ],
+        "Chieftaincy , Chiefdom",
         [
           "/wiki/Chieftaincy",
           "/wiki/Chiefdom"
         ]
       ],
       [
-        [
-          "Chiefly"
-        ],
-        [
-          null
-        ]
+        "Chiefly",
+        []
       ],
       [
-        [
-          "Tribunus"
-        ],
-        [
-          null
-        ]
+        "Tribunus",
+        []
       ],
       [
-        [
-          "clan chiefs",
-          "Scotland",
-          "Papua New Guinean honours system",
-          "chief of the Cherokee nation",
-          "Nigerian traditional rulers"
-        ],
+        "The clan chiefs of Scotland , the grand chiefs in the Papua New Guinean honours system , the chief of the Cherokee nation , the chiefs of the Nigerian traditional rulers , numerous others",
         [
           "/wiki/Clan_chief",
           "/wiki/Scotland",
@@ -648,50 +406,29 @@
     ],
     [
       [
-        [
-          "Pope"
-        ],
+        "Pope",
         [
           "/wiki/Pope"
         ]
       ],
       [
-        [
-          "There is no formal feminine of Pope ( Popess )"
-        ],
-        [
-          null
-        ]
+        "There is no formal feminine of Pope ( Popess )",
+        []
       ],
       [
-        [
-          "Papacy"
-        ],
-        [
-          null
-        ]
+        "Papacy",
+        []
       ],
       [
-        [
-          "Papal"
-        ],
-        [
-          null
-        ]
+        "Papal",
+        []
       ],
       [
-        [
-          "Papa"
-        ],
-        [
-          null
-        ]
+        "Papa",
+        []
       ],
       [
-        [
-          "Papal States",
-          "Vatican City"
-        ],
+        "Monarch of the Papal States and later Sovereign of the State of Vatican City",
         [
           "/wiki/Papal_States",
           "/wiki/Vatican_City"

@@ -3,52 +3,32 @@
   "title": "Timeline of free and open-source software",
   "header": [
     [
-      [
-        "Date"
-      ],
-      [
-        null
-      ]
+      "Date",
+      []
     ],
     [
-      [
-        "Project"
-      ],
-      [
-        null
-      ]
+      "Project",
+      []
     ],
     [
-      [
-        "Event"
-      ],
-      [
-        null
-      ]
+      "Event",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "1991"
-        ],
-        [
-          null
-        ]
+        "1991",
+        []
       ],
       [
-        [
-          "Linux kernel"
-        ],
+        "Linux kernel",
         [
           "/wiki/Linux_kernel"
         ]
       ],
       [
-        [
-          "Linus Torvalds"
-        ],
+        "Started by Linus Torvalds , Since the initial release of its source code in 1991 , it would grow from a small number of C files under a license prohibiting commercial distribution to its state in 2007 of about 290 megabytes of source under the GNU General Public License",
         [
           "/wiki/Linus_Torvalds"
         ]
@@ -56,25 +36,17 @@
     ],
     [
       [
-        [
-          "1991"
-        ],
-        [
-          null
-        ]
+        "1991",
+        []
       ],
       [
-        [
-          "Python"
-        ],
+        "Python",
         [
           "/wiki/Python_(programming_language)"
         ]
       ],
       [
-        [
-          "Guido van Rossum"
-        ],
+        "First released by Guido van Rossum in 1991",
         [
           "/wiki/Guido_van_Rossum"
         ]
@@ -82,53 +54,35 @@
     ],
     [
       [
-        [
-          "1992"
-        ],
-        [
-          null
-        ]
+        "1992",
+        []
       ],
       [
-        [
-          "386BSD"
-        ],
+        "386BSD",
         [
           "/wiki/386BSD"
         ]
       ],
       [
+        "386BSD was written mainly by Berkeley alumni Lynne Jolitz and William Jolitz . The 386BSD releases made to the public beginning in 1992",
         [
-          "Lynne Jolitz",
-          "William Jolitz"
-        ],
-        [
-          "/wiki/Lynne_Jolitz",
-          null
+          "/wiki/Lynne_Jolitz"
         ]
       ]
     ],
     [
       [
-        [
-          "1992"
-        ],
-        [
-          null
-        ]
+        "1992",
+        []
       ],
       [
-        [
-          "Samba"
-        ],
+        "Samba",
         [
           "/wiki/Samba_(software)"
         ]
       ],
       [
-        [
-          "Andrew Tridgell"
-        ],
+        "Andrew Tridgell developed the first version of Samba in 1992 , at the Australian National University",
         [
           "/wiki/Andrew_Tridgell"
         ]
@@ -136,77 +90,49 @@
     ],
     [
       [
-        [
-          "1993 , March"
-        ],
-        [
-          null
-        ]
+        "1993 , March",
+        []
       ],
       [
-        [
-          "NetBSD"
-        ],
+        "NetBSD",
         [
           "/wiki/NetBSD"
         ]
       ],
       [
-        [
-          "The project began as a result of frustration within the 386BSD developer community with the pace and direction of the operating system 's development . The four founders of the NetBSD project were Chris Demetriou , Theo de Raadt , Adam Glass and Charles Hannum"
-        ],
-        [
-          null
-        ]
+        "The project began as a result of frustration within the 386BSD developer community with the pace and direction of the operating system 's development . The four founders of the NetBSD project were Chris Demetriou , Theo de Raadt , Adam Glass and Charles Hannum",
+        []
       ]
     ],
     [
       [
-        [
-          "1993 , Dec"
-        ],
-        [
-          null
-        ]
+        "1993 , Dec",
+        []
       ],
       [
-        [
-          "FreeBSD"
-        ],
+        "FreeBSD",
         [
           "/wiki/FreeBSD"
         ]
       ],
       [
-        [
-          "FreeBSD 's development began in 1993 with a quickly growing , unofficial patchkit maintained by users of the 386BSD operating system . The first official release was FreeBSD 1.0 in December 1993"
-        ],
-        [
-          null
-        ]
+        "FreeBSD 's development began in 1993 with a quickly growing , unofficial patchkit maintained by users of the 386BSD operating system . The first official release was FreeBSD 1.0 in December 1993",
+        []
       ]
     ],
     [
       [
-        [
-          "1993"
-        ],
-        [
-          null
-        ]
+        "1993",
+        []
       ],
       [
-        [
-          "Wine"
-        ],
+        "Wine",
         [
           "/wiki/Wine_(software)"
         ]
       ],
       [
-        [
-          "Windows"
-        ],
+        "Bob Amstadt ( the initial project leader ) and Eric Youngdale started the project in 1993 as a way to run Windows applications on Linux",
         [
           "/wiki/Microsoft_Windows"
         ]
@@ -214,25 +140,17 @@
     ],
     [
       [
-        [
-          "1994 , March"
-        ],
-        [
-          null
-        ]
+        "1994 , March",
+        []
       ],
       [
-        [
-          "Linux Journal"
-        ],
+        "Linux Journal",
         [
           "/wiki/Linux_Journal"
         ]
       ],
       [
-        [
-          "computer magazine"
-        ],
+        "First issue of the first computer magazine dedicated to Linux",
         [
           "/wiki/Computer_magazine"
         ]
@@ -240,25 +158,17 @@
     ],
     [
       [
-        [
-          "1995 , June"
-        ],
-        [
-          null
-        ]
+        "1995 , June",
+        []
       ],
       [
-        [
-          "PHP"
-        ],
+        "PHP",
         [
           "/wiki/PHP"
         ]
       ],
       [
-        [
-          "Rasmus Lerdorf"
-        ],
+        "Originally created by Rasmus Lerdorf in 1994 , it was released publicly on June 1995",
         [
           "/wiki/Rasmus_Lerdorf"
         ]
@@ -266,26 +176,17 @@
     ],
     [
       [
-        [
-          "1995"
-        ],
-        [
-          null
-        ]
+        "1995",
+        []
       ],
       [
-        [
-          "GIMP"
-        ],
+        "GIMP",
         [
           "/wiki/GIMP"
         ]
       ],
       [
-        [
-          "Spencer Kimball",
-          "Peter Mattis"
-        ],
+        "Created by Spencer Kimball and Peter Mattis , the project originally stood for General Image Manipulation Program",
         [
           "/wiki/Spencer_Kimball_(computer_programmer)",
           "/wiki/Peter_Mattis"
@@ -294,26 +195,17 @@
     ],
     [
       [
-        [
-          "1995"
-        ],
-        [
-          null
-        ]
+        "1995",
+        []
       ],
       [
-        [
-          "Ruby"
-        ],
+        "Ruby",
         [
           "/wiki/Ruby_(programming_language)"
         ]
       ],
       [
-        [
-          "Yukihiro Matsumoto",
-          "Ruby on Rails"
-        ],
+        "Created by Yukihiro Matsumoto , the programming language drew greater attention in the 2000s due to the Ruby on Rails web development framework",
         [
           "/wiki/Yukihiro_Matsumoto",
           "/wiki/Ruby_on_Rails"
@@ -322,27 +214,17 @@
     ],
     [
       [
-        [
-          "1996"
-        ],
-        [
-          null
-        ]
+        "1996",
+        []
       ],
       [
-        [
-          "Apache"
-        ],
+        "Apache",
         [
           "/wiki/Apache_HTTP_Server"
         ]
       ],
       [
-        [
-          "Robert McCool",
-          "NCSA",
-          "NCSA HTTPd"
-        ],
+        "The first version of the Apache web server was created by Robert McCool , who was heavily involved with the NCSA web server , known simply as NCSA HTTPd",
         [
           "/wiki/Robert_McCool",
           "/wiki/National_Center_for_Supercomputing_Applications",
@@ -352,25 +234,17 @@
     ],
     [
       [
-        [
-          "1996"
-        ],
-        [
-          null
-        ]
+        "1996",
+        []
       ],
       [
-        [
-          "KDE"
-        ],
+        "KDE",
         [
           "/wiki/KDE"
         ]
       ],
       [
-        [
-          "Matthias Ettrich"
-        ],
+        "KDE was founded in 1996 by Matthias Ettrich , who was then a student at the Eberhard Karls University of T\u00fcbingen",
         [
           "/wiki/Matthias_Ettrich"
         ]
@@ -378,26 +252,17 @@
     ],
     [
       [
-        [
-          "1997 , August"
-        ],
-        [
-          null
-        ]
+        "1997 , August",
+        []
       ],
       [
-        [
-          "GNOME"
-        ],
+        "GNOME",
         [
           "/wiki/GNOME"
         ]
       ],
       [
-        [
-          "Miguel de Icaza",
-          "Federico Mena"
-        ],
+        "The initial project leaders for GNOME were Miguel de Icaza and Federico Mena",
         [
           "/wiki/Miguel_de_Icaza",
           "/wiki/Federico_Mena"
@@ -406,27 +271,17 @@
     ],
     [
       [
-        [
-          "1999 , August"
-        ],
-        [
-          null
-        ]
+        "1999 , August",
+        []
       ],
       [
-        [
-          "OpenOffice.org"
-        ],
+        "OpenOffice.org",
         [
           "/wiki/OpenOffice.org"
         ]
       ],
       [
-        [
-          "StarOffice",
-          "Sun Microsystems",
-          "Sun Industry Standards Source License"
-        ],
+        "Originally developed as the proprietary software application suite StarOffice by the German company StarDivision , the code was purchased in 1999 by Sun Microsystems . The code was made available free of charge in August 1999 . On July 19 , 2000 , Sun Microsystems announced that it was making the source code of StarOffice available for download under both the LGPL and the Sun Industry Standards Source License ( SISSL )",
         [
           "/wiki/StarOffice",
           "/wiki/Sun_Microsystems",

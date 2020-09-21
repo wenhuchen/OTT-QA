@@ -3,68 +3,42 @@
   "title": "List of WestJet destinations",
   "header": [
     [
-      [
-        "Country"
-      ],
-      [
-        null
-      ]
+      "Country",
+      []
     ],
     [
-      [
-        "Province / State"
-      ],
-      [
-        null
-      ]
+      "Province / State",
+      []
     ],
     [
-      [
-        "City"
-      ],
-      [
-        null
-      ]
+      "City",
+      []
     ],
     [
-      [
-        "Airport"
-      ],
-      [
-        null
-      ]
+      "Airport",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Antigua and Barbuda"
-        ],
+        "Antigua and Barbuda",
         [
           "/wiki/Antigua_and_Barbuda"
         ]
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "St. John 's"
-        ],
+        "St. John 's",
         [
           "/wiki/St._John's,_Antigua_and_Barbuda"
         ]
       ],
       [
-        [
-          "V. C. Bird International Airport"
-        ],
+        "V. C. Bird International Airport",
         [
           "/wiki/V._C._Bird_International_Airport"
         ]
@@ -72,33 +46,23 @@
     ],
     [
       [
-        [
-          "Aruba"
-        ],
+        "Aruba",
         [
           "/wiki/Aruba"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Oranjestad"
-        ],
+        "Oranjestad",
         [
           "/wiki/Oranjestad,_Aruba"
         ]
       ],
       [
-        [
-          "Queen Beatrix International Airport"
-        ],
+        "Queen Beatrix International Airport",
         [
           "/wiki/Queen_Beatrix_International_Airport"
         ]
@@ -106,33 +70,23 @@
     ],
     [
       [
-        [
-          "Bahamas"
-        ],
+        "Bahamas",
         [
           "/wiki/Bahamas"
         ]
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "Nassau"
-        ],
+        "Nassau",
         [
           "/wiki/Nassau,_Bahamas"
         ]
       ],
       [
-        [
-          "Lynden Pindling International Airport"
-        ],
+        "Lynden Pindling International Airport",
         [
           "/wiki/Lynden_Pindling_International_Airport"
         ]
@@ -140,33 +94,23 @@
     ],
     [
       [
-        [
-          "Barbados"
-        ],
+        "Barbados",
         [
           "/wiki/Barbados"
         ]
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "Bridgetown"
-        ],
+        "Bridgetown",
         [
           "/wiki/Bridgetown,_Barbados"
         ]
       ],
       [
-        [
-          "Grantley Adams International Airport"
-        ],
+        "Grantley Adams International Airport",
         [
           "/wiki/Grantley_Adams_International_Airport"
         ]
@@ -174,33 +118,23 @@
     ],
     [
       [
-        [
-          "Belize"
-        ],
+        "Belize",
         [
           "/wiki/Belize"
         ]
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "Belize City"
-        ],
+        "Belize City",
         [
           "/wiki/Belize_City"
         ]
       ],
       [
-        [
-          "Philip S. W. Goldson International Airport"
-        ],
+        "Philip S. W. Goldson International Airport",
         [
           "/wiki/Philip_S._W._Goldson_International_Airport"
         ]
@@ -208,33 +142,23 @@
     ],
     [
       [
-        [
-          "Bermuda"
-        ],
+        "Bermuda",
         [
           "/wiki/Bermuda"
         ]
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "Hamilton"
-        ],
+        "Hamilton",
         [
           "/wiki/Hamilton,_Bermuda"
         ]
       ],
       [
-        [
-          "L.F. Wade International Airport"
-        ],
+        "L.F. Wade International Airport",
         [
           "/wiki/L.F._Wade_International_Airport"
         ]
@@ -242,33 +166,25 @@
     ],
     [
       [
-        [
-          "Canada"
-        ],
+        "Canada",
         [
           "/wiki/Canada"
         ]
       ],
       [
-        [
-          "Alberta"
-        ],
+        "Alberta",
         [
           "/wiki/Alberta"
         ]
       ],
       [
-        [
-          "Calgary"
-        ],
+        "Calgary",
         [
           "/wiki/Calgary"
         ]
       ],
       [
-        [
-          "Calgary International Airport"
-        ],
+        "Calgary International Airport",
         [
           "/wiki/Calgary_International_Airport"
         ]
@@ -276,33 +192,25 @@
     ],
     [
       [
-        [
-          "Canada"
-        ],
+        "Canada",
         [
           "/wiki/Canada"
         ]
       ],
       [
-        [
-          "Alberta"
-        ],
+        "Alberta",
         [
           "/wiki/Alberta"
         ]
       ],
       [
-        [
-          "Edmonton"
-        ],
+        "Edmonton",
         [
           "/wiki/Edmonton"
         ]
       ],
       [
-        [
-          "Edmonton International Airport"
-        ],
+        "Edmonton International Airport",
         [
           "/wiki/Edmonton_International_Airport"
         ]
@@ -310,33 +218,25 @@
     ],
     [
       [
-        [
-          "Canada"
-        ],
+        "Canada",
         [
           "/wiki/Canada"
         ]
       ],
       [
-        [
-          "British Columbia"
-        ],
+        "British Columbia",
         [
           "/wiki/British_Columbia"
         ]
       ],
       [
-        [
-          "Abbotsford"
-        ],
+        "Abbotsford",
         [
           "/wiki/Abbotsford,_British_Columbia"
         ]
       ],
       [
-        [
-          "Abbotsford International Airport"
-        ],
+        "Abbotsford International Airport",
         [
           "/wiki/Abbotsford_International_Airport"
         ]
@@ -344,33 +244,25 @@
     ],
     [
       [
-        [
-          "Canada"
-        ],
+        "Canada",
         [
           "/wiki/Canada"
         ]
       ],
       [
-        [
-          "British Columbia"
-        ],
+        "British Columbia",
         [
           "/wiki/British_Columbia"
         ]
       ],
       [
-        [
-          "Comox"
-        ],
+        "Comox",
         [
           "/wiki/Comox,_British_Columbia"
         ]
       ],
       [
-        [
-          "CFB Comox"
-        ],
+        "CFB Comox",
         [
           "/wiki/CFB_Comox"
         ]
@@ -378,33 +270,25 @@
     ],
     [
       [
-        [
-          "Canada"
-        ],
+        "Canada",
         [
           "/wiki/Canada"
         ]
       ],
       [
-        [
-          "British Columbia"
-        ],
+        "British Columbia",
         [
           "/wiki/British_Columbia"
         ]
       ],
       [
-        [
-          "Kelowna"
-        ],
+        "Kelowna",
         [
           "/wiki/Kelowna"
         ]
       ],
       [
-        [
-          "Kelowna International Airport"
-        ],
+        "Kelowna International Airport",
         [
           "/wiki/Kelowna_International_Airport"
         ]
@@ -412,33 +296,25 @@
     ],
     [
       [
-        [
-          "Canada"
-        ],
+        "Canada",
         [
           "/wiki/Canada"
         ]
       ],
       [
-        [
-          "British Columbia"
-        ],
+        "British Columbia",
         [
           "/wiki/British_Columbia"
         ]
       ],
       [
-        [
-          "Prince George"
-        ],
+        "Prince George",
         [
           "/wiki/Prince_George,_British_Columbia"
         ]
       ],
       [
-        [
-          "Prince George Airport"
-        ],
+        "Prince George Airport",
         [
           "/wiki/Prince_George_Airport"
         ]
@@ -446,33 +322,25 @@
     ],
     [
       [
-        [
-          "Canada"
-        ],
+        "Canada",
         [
           "/wiki/Canada"
         ]
       ],
       [
-        [
-          "British Columbia"
-        ],
+        "British Columbia",
         [
           "/wiki/British_Columbia"
         ]
       ],
       [
-        [
-          "Vancouver"
-        ],
+        "Vancouver",
         [
           "/wiki/Vancouver"
         ]
       ],
       [
-        [
-          "Vancouver International Airport"
-        ],
+        "Vancouver International Airport",
         [
           "/wiki/Vancouver_International_Airport"
         ]
@@ -480,33 +348,25 @@
     ],
     [
       [
-        [
-          "Canada"
-        ],
+        "Canada",
         [
           "/wiki/Canada"
         ]
       ],
       [
-        [
-          "British Columbia"
-        ],
+        "British Columbia",
         [
           "/wiki/British_Columbia"
         ]
       ],
       [
-        [
-          "Victoria"
-        ],
+        "Victoria",
         [
           "/wiki/Victoria,_British_Columbia"
         ]
       ],
       [
-        [
-          "Victoria International Airport"
-        ],
+        "Victoria International Airport",
         [
           "/wiki/Victoria_International_Airport"
         ]
@@ -514,33 +374,25 @@
     ],
     [
       [
-        [
-          "Canada"
-        ],
+        "Canada",
         [
           "/wiki/Canada"
         ]
       ],
       [
-        [
-          "Manitoba"
-        ],
+        "Manitoba",
         [
           "/wiki/Manitoba"
         ]
       ],
       [
-        [
-          "Winnipeg"
-        ],
+        "Winnipeg",
         [
           "/wiki/Winnipeg"
         ]
       ],
       [
-        [
-          "Winnipeg James Armstrong Richardson International Airport"
-        ],
+        "Winnipeg James Armstrong Richardson International Airport",
         [
           "/wiki/Winnipeg_James_Armstrong_Richardson_International_Airport"
         ]
@@ -548,35 +400,26 @@
     ],
     [
       [
-        [
-          "Canada"
-        ],
+        "Canada",
         [
           "/wiki/Canada"
         ]
       ],
       [
-        [
-          "Newfoundland and Labrador"
-        ],
+        "Newfoundland and Labrador",
         [
           "/wiki/Newfoundland_and_Labrador"
         ]
       ],
       [
-        [
-          "Deer Lake",
-          "Corner Brook"
-        ],
+        "Deer Lake / Corner Brook",
         [
           "/wiki/Deer_Lake,_Newfoundland_and_Labrador",
           "/wiki/Corner_Brook"
         ]
       ],
       [
-        [
-          "Deer Lake Regional Airport"
-        ],
+        "Deer Lake Regional Airport",
         [
           "/wiki/Deer_Lake_Regional_Airport"
         ]
@@ -584,33 +427,25 @@
     ],
     [
       [
-        [
-          "Canada"
-        ],
+        "Canada",
         [
           "/wiki/Canada"
         ]
       ],
       [
-        [
-          "Newfoundland and Labrador"
-        ],
+        "Newfoundland and Labrador",
         [
           "/wiki/Newfoundland_and_Labrador"
         ]
       ],
       [
-        [
-          "St. John 's"
-        ],
+        "St. John 's",
         [
           "/wiki/St._John's,_Newfoundland_and_Labrador"
         ]
       ],
       [
-        [
-          "St. John 's International Airport"
-        ],
+        "St. John 's International Airport",
         [
           "/wiki/St._John's_International_Airport"
         ]
@@ -618,33 +453,25 @@
     ],
     [
       [
-        [
-          "Canada"
-        ],
+        "Canada",
         [
           "/wiki/Canada"
         ]
       ],
       [
-        [
-          "Nova Scotia"
-        ],
+        "Nova Scotia",
         [
           "/wiki/Nova_Scotia"
         ]
       ],
       [
-        [
-          "Halifax"
-        ],
+        "Halifax",
         [
           "/wiki/Halifax_Regional_Municipality"
         ]
       ],
       [
-        [
-          "Halifax Stanfield International Airport"
-        ],
+        "Halifax Stanfield International Airport",
         [
           "/wiki/Halifax_Stanfield_International_Airport"
         ]
@@ -652,33 +479,25 @@
     ],
     [
       [
-        [
-          "Canada"
-        ],
+        "Canada",
         [
           "/wiki/Canada"
         ]
       ],
       [
-        [
-          "Nova Scotia"
-        ],
+        "Nova Scotia",
         [
           "/wiki/Nova_Scotia"
         ]
       ],
       [
-        [
-          "Sydney"
-        ],
+        "Sydney",
         [
           "/wiki/Sydney,_Nova_Scotia"
         ]
       ],
       [
-        [
-          "Sydney/J.A . Douglas McCurdy Airport"
-        ],
+        "Sydney/J.A . Douglas McCurdy Airport",
         [
           "/wiki/Sydney/J.A._Douglas_McCurdy_Airport"
         ]
@@ -686,33 +505,25 @@
     ],
     [
       [
-        [
-          "Canada"
-        ],
+        "Canada",
         [
           "/wiki/Canada"
         ]
       ],
       [
-        [
-          "Ontario"
-        ],
+        "Ontario",
         [
           "/wiki/Ontario"
         ]
       ],
       [
-        [
-          "Hamilton"
-        ],
+        "Hamilton",
         [
           "/wiki/Hamilton,_Ontario"
         ]
       ],
       [
-        [
-          "John C. Munro Hamilton International Airport"
-        ],
+        "John C. Munro Hamilton International Airport",
         [
           "/wiki/John_C._Munro_Hamilton_International_Airport"
         ]

@@ -3,52 +3,38 @@
   "title": "Rider deaths in motorcycle racing",
   "header": [
     [
-      [
-        "Year"
-      ],
-      [
-        null
-      ]
+      "Year",
+      []
     ],
     [
-      [
-        "Circuit"
-      ],
-      [
-        null
-      ]
+      "Rider",
+      []
     ],
     [
-      [
-        "Race"
-      ],
-      [
-        null
-      ]
+      "Circuit",
+      []
+    ],
+    [
+      "Race",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "1936"
-        ],
-        [
-          null
-        ]
+        "1936",
+        []
       ],
       [
-        [
-          "Saint-Germain-en-Laye"
-        ],
-        [
-          null
-        ]
+        "Ren\u00e9 Bourra",
+        []
       ],
       [
-        [
-          "Bol d'Or"
-        ],
+        "Saint-Germain-en-Laye",
+        []
+      ],
+      [
+        "Bol d'Or",
         [
           "/wiki/Bol_d'Or"
         ]
@@ -56,337 +42,253 @@
     ],
     [
       [
-        [
-          "1959"
-        ],
-        [
-          null
-        ]
+        "1959",
+        []
       ],
       [
-        [
-          "Montju\u00efc"
-        ],
+        "Conrado Cadirat",
+        []
+      ],
+      [
+        "Montju\u00efc",
         [
           "/wiki/Montju\u00efc_circuit"
         ]
       ],
       [
-        [
-          "24 Horas de Montju\u00efc"
-        ],
-        [
-          null
-        ]
+        "24 Horas de Montju\u00efc",
+        []
       ]
     ],
     [
       [
-        [
-          "1966"
-        ],
-        [
-          null
-        ]
+        "1966",
+        []
       ],
       [
-        [
-          "Montju\u00efc"
-        ],
+        "Pedro Bernaus",
+        []
+      ],
+      [
+        "Montju\u00efc",
         [
           "/wiki/Montju\u00efc_circuit"
         ]
       ],
       [
-        [
-          "24 Horas de Montju\u00efc"
-        ],
-        [
-          null
-        ]
+        "24 Horas de Montju\u00efc",
+        []
       ]
     ],
     [
       [
-        [
-          "1970"
-        ],
-        [
-          null
-        ]
+        "1970",
+        []
       ],
       [
-        [
-          "Circuit Maashaven"
-        ],
-        [
-          null
-        ]
+        "Franz Huber",
+        []
       ],
       [
-        [
-          "24 Hours of Oss"
-        ],
-        [
-          null
-        ]
+        "Circuit Maashaven",
+        []
+      ],
+      [
+        "24 Hours of Oss",
+        []
       ]
     ],
     [
       [
-        [
-          "1970"
-        ],
-        [
-          null
-        ]
+        "1970",
+        []
       ],
       [
-        [
-          "Montju\u00efc"
-        ],
+        "Gerald Bunting",
+        []
+      ],
+      [
+        "Montju\u00efc",
         [
           "/wiki/Montju\u00efc_circuit"
         ]
       ],
       [
-        [
-          "24 Horas de Montju\u00efc"
-        ],
-        [
-          null
-        ]
+        "24 Horas de Montju\u00efc",
+        []
       ]
     ],
     [
       [
-        [
-          "1970"
-        ],
-        [
-          null
-        ]
+        "1970",
+        []
       ],
       [
-        [
-          "Montju\u00efc"
-        ],
+        "Peter Strauss",
+        []
+      ],
+      [
+        "Montju\u00efc",
         [
           "/wiki/Montju\u00efc_circuit"
         ]
       ],
       [
-        [
-          "24 Horas de Montju\u00efc"
-        ],
-        [
-          null
-        ]
+        "24 Horas de Montju\u00efc",
+        []
       ]
     ],
     [
       [
-        [
-          "1970"
-        ],
-        [
-          null
-        ]
+        "1970",
+        []
       ],
       [
-        [
-          "Suzuka"
-        ],
+        "Satoru Takashima",
+        []
+      ],
+      [
+        "Suzuka",
         [
           "/wiki/Suzuka_Circuit"
         ]
       ],
       [
-        [
-          "Suzuka 10 Hours Production"
-        ],
-        [
-          null
-        ]
+        "Suzuka 10 Hours Production",
+        []
       ]
     ],
     [
       [
-        [
-          "1971"
-        ],
-        [
-          null
-        ]
+        "1971",
+        []
       ],
       [
-        [
-          "Circuit Maashaven"
-        ],
-        [
-          null
-        ]
+        "Herman Hertsens",
+        []
       ],
       [
-        [
-          "24 Hours of Oss"
-        ],
-        [
-          null
-        ]
+        "Circuit Maashaven",
+        []
+      ],
+      [
+        "24 Hours of Oss",
+        []
       ]
     ],
     [
       [
-        [
-          "1971"
-        ],
-        [
-          null
-        ]
+        "1971",
+        []
       ],
       [
-        [
-          "Circuit Maashaven"
-        ],
-        [
-          null
-        ]
+        "Lambert Schuurmans",
+        []
       ],
       [
-        [
-          "24 Hours of Oss"
-        ],
-        [
-          null
-        ]
+        "Circuit Maashaven",
+        []
+      ],
+      [
+        "24 Hours of Oss",
+        []
       ]
     ],
     [
       [
-        [
-          "1972"
-        ],
-        [
-          null
-        ]
+        "1972",
+        []
       ],
       [
-        [
-          "Zolder"
-        ],
+        "Claude Romain",
+        []
+      ],
+      [
+        "Zolder",
         [
           "/wiki/Circuit_Zolder"
         ]
       ],
       [
-        [
-          "24 Hours of Li\u00e8ge"
-        ],
-        [
-          null
-        ]
+        "24 Hours of Li\u00e8ge",
+        []
       ]
     ],
     [
       [
-        [
-          "1973"
-        ],
-        [
-          null
-        ]
+        "1973",
+        []
       ],
       [
-        [
-          "Montju\u00efc"
-        ],
+        "Francisco Cuf\u00ed",
+        []
+      ],
+      [
+        "Montju\u00efc",
         [
           "/wiki/Montju\u00efc_circuit"
         ]
       ],
       [
-        [
-          "24 Horas de Montju\u00efc"
-        ],
-        [
-          null
-        ]
+        "24 Horas de Montju\u00efc",
+        []
       ]
     ],
     [
       [
-        [
-          "1975"
-        ],
-        [
-          null
-        ]
+        "1975",
+        []
       ],
       [
-        [
-          "Circuit Maashaven"
-        ],
-        [
-          null
-        ]
+        "Hans Hutten",
+        []
       ],
       [
-        [
-          "24 Hours of Oss"
-        ],
-        [
-          null
-        ]
+        "Circuit Maashaven",
+        []
+      ],
+      [
+        "24 Hours of Oss",
+        []
       ]
     ],
     [
       [
-        [
-          "1976"
-        ],
-        [
-          null
-        ]
+        "1976",
+        []
       ],
       [
-        [
-          "Interlagos"
-        ],
+        "Francisco Teixeira",
+        []
+      ],
+      [
+        "Interlagos",
         [
           "/wiki/Aut\u00f3dromo_Jos\u00e9_Carlos_Pace"
         ]
       ],
       [
-        [
-          "24 Horas de Interlagos"
-        ],
-        [
-          null
-        ]
+        "24 Horas de Interlagos",
+        []
       ]
     ],
     [
       [
-        [
-          "1976"
-        ],
-        [
-          null
-        ]
+        "1976",
+        []
       ],
       [
-        [
-          "Bugatti"
-        ],
+        "Gilbert Lavelle",
+        []
+      ],
+      [
+        "Bugatti",
         [
           "/wiki/Bugatti_Circuit"
         ]
       ],
       [
-        [
-          "Bol d'Or"
-        ],
+        "Bol d'Or",
         [
           "/wiki/Bol_d'Or"
         ]
@@ -394,25 +296,21 @@
     ],
     [
       [
-        [
-          "1983"
-        ],
-        [
-          null
-        ]
+        "1983",
+        []
       ],
       [
-        [
-          "Suzuka"
-        ],
+        "Kunio Katsumata",
+        []
+      ],
+      [
+        "Suzuka",
         [
           "/wiki/Suzuka_Circuit"
         ]
       ],
       [
-        [
-          "Suzuka 8 Hours"
-        ],
+        "Suzuka 8 Hours",
         [
           "/wiki/Suzuka_8_Hours"
         ]
@@ -420,25 +318,21 @@
     ],
     [
       [
-        [
-          "1985"
-        ],
-        [
-          null
-        ]
+        "1985",
+        []
       ],
       [
-        [
-          "Bugatti"
-        ],
+        "Dominique Litaudon",
+        []
+      ],
+      [
+        "Bugatti",
         [
           "/wiki/Bugatti_Circuit"
         ]
       ],
       [
-        [
-          "24 Hours of Le Mans"
-        ],
+        "24 Hours of Le Mans",
         [
           "/wiki/24_Hours_of_Le_Mans_(motorcycle_race)"
         ]
@@ -446,106 +340,82 @@
     ],
     [
       [
-        [
-          "1985"
-        ],
-        [
-          null
-        ]
+        "1985",
+        []
       ],
       [
-        [
-          "Montju\u00efc"
-        ],
+        "Nickolaus Ruck",
+        []
+      ],
+      [
+        "Montju\u00efc",
         [
           "/wiki/Montju\u00efc_circuit"
         ]
       ],
       [
-        [
-          "24 Horas de Montju\u00efc"
-        ],
-        [
-          null
-        ]
+        "24 Horas de Montju\u00efc",
+        []
       ]
     ],
     [
       [
-        [
-          "1985"
-        ],
-        [
-          null
-        ]
+        "1985",
+        []
       ],
       [
-        [
-          "Spa-Francorchamps"
-        ],
+        "Jean-Pierre Haemisch",
+        []
+      ],
+      [
+        "Spa-Francorchamps",
         [
           "/wiki/Circuit_de_Spa-Francorchamps"
         ]
       ],
       [
-        [
-          "24 Hours of Li\u00e8ge"
-        ],
-        [
-          null
-        ]
+        "24 Hours of Li\u00e8ge",
+        []
       ]
     ],
     [
       [
-        [
-          "1985"
-        ],
-        [
-          null
-        ]
+        "1985",
+        []
       ],
       [
-        [
-          "Spa-Francorchamps"
-        ],
+        "Harald Layher",
+        []
+      ],
+      [
+        "Spa-Francorchamps",
         [
           "/wiki/Circuit_de_Spa-Francorchamps"
         ]
       ],
       [
-        [
-          "24 Hours of Li\u00e8ge"
-        ],
-        [
-          null
-        ]
+        "24 Hours of Li\u00e8ge",
+        []
       ]
     ],
     [
       [
-        [
-          "1986"
-        ],
-        [
-          null
-        ]
+        "1986",
+        []
       ],
       [
-        [
-          "Hockenheim"
-        ],
+        "Erwin Loichinger",
+        []
+      ],
+      [
+        "Hockenheim",
         [
           "/wiki/Hockenheimring"
         ]
       ],
       [
-        [
-          "1000 km Hockenheim"
-        ],
-        [
-          null
-        ]
+        "1000 km Hockenheim",
+        []
       ]
     ]
   ],

@@ -3,1081 +3,643 @@
   "title": "2004 Spanish Grand Prix",
   "header": [
     [
-      [
-        "Pos"
-      ],
-      [
-        null
-      ]
+      "Pos",
+      []
     ],
     [
-      [
-        "No"
-      ],
-      [
-        null
-      ]
+      "No",
+      []
     ],
     [
-      [
-        "Driver"
-      ],
-      [
-        null
-      ]
+      "Driver",
+      []
     ],
     [
-      [
-        "Constructor"
-      ],
-      [
-        null
-      ]
+      "Constructor",
+      []
     ],
     [
-      [
-        "Time"
-      ],
-      [
-        null
-      ]
+      "Time",
+      []
     ],
     [
-      [
-        "Gap"
-      ],
-      [
-        null
-      ]
+      "Gap",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "Michael Schumacher"
-        ],
+        "Michael Schumacher",
         [
           "/wiki/Michael_Schumacher"
         ]
       ],
       [
-        [
-          "Ferrari"
-        ],
+        "Ferrari",
         [
           "/wiki/Scuderia_Ferrari"
         ]
       ],
       [
-        [
-          "1:15.022"
-        ],
-        [
-          null
-        ]
+        "1:15.022",
+        []
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ]
     ],
     [
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "Juan Pablo Montoya"
-        ],
+        "Juan Pablo Montoya",
         [
           "/wiki/Juan_Pablo_Montoya"
         ]
       ],
       [
-        [
-          "Williams",
-          "BMW"
-        ],
+        "Williams - BMW",
         [
           "/wiki/Williams_Grand_Prix_Engineering",
           "/wiki/BMW_in_Formula_One"
         ]
       ],
       [
-        [
-          "1:15.639"
-        ],
-        [
-          null
-        ]
+        "1:15.639",
+        []
       ],
       [
-        [
-          "+0.617"
-        ],
-        [
-          null
-        ]
+        "+0.617",
+        []
       ]
     ],
     [
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "10"
-        ],
-        [
-          null
-        ]
+        "10",
+        []
       ],
       [
-        [
-          "Takuma Sato"
-        ],
+        "Takuma Sato",
         [
           "/wiki/Takuma_Sato"
         ]
       ],
       [
-        [
-          "BAR",
-          "Honda"
-        ],
+        "BAR - Honda",
         [
           "/wiki/British_American_Racing",
           "/wiki/Honda_in_Formula_One"
         ]
       ],
       [
-        [
-          "1:15.809"
-        ],
-        [
-          null
-        ]
+        "1:15.809",
+        []
       ],
       [
-        [
-          "+0.787"
-        ],
-        [
-          null
-        ]
+        "+0.787",
+        []
       ]
     ],
     [
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "7"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ],
       [
-        [
-          "Jarno Trulli"
-        ],
+        "Jarno Trulli",
         [
           "/wiki/Jarno_Trulli"
         ]
       ],
       [
-        [
-          "Renault"
-        ],
+        "Renault",
         [
           "/wiki/Renault_in_Formula_One"
         ]
       ],
       [
-        [
-          "1:16.144"
-        ],
-        [
-          null
-        ]
+        "1:16.144",
+        []
       ],
       [
-        [
-          "+1.122"
-        ],
-        [
-          null
-        ]
+        "+1.122",
+        []
       ]
     ],
     [
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "Rubens Barrichello"
-        ],
+        "Rubens Barrichello",
         [
           "/wiki/Rubens_Barrichello"
         ]
       ],
       [
-        [
-          "Ferrari"
-        ],
+        "Ferrari",
         [
           "/wiki/Scuderia_Ferrari"
         ]
       ],
       [
-        [
-          "1:16.272"
-        ],
-        [
-          null
-        ]
+        "1:16.272",
+        []
       ],
       [
-        [
-          "+1.250"
-        ],
-        [
-          null
-        ]
+        "+1.250",
+        []
       ]
     ],
     [
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "Ralf Schumacher"
-        ],
+        "Ralf Schumacher",
         [
           "/wiki/Ralf_Schumacher"
         ]
       ],
       [
-        [
-          "Williams",
-          "BMW"
-        ],
+        "Williams - BMW",
         [
           "/wiki/Williams_Grand_Prix_Engineering",
           "/wiki/BMW_in_Formula_One"
         ]
       ],
       [
-        [
-          "1:16.293"
-        ],
-        [
-          null
-        ]
+        "1:16.293",
+        []
       ],
       [
-        [
-          "+1.271"
-        ],
-        [
-          null
-        ]
+        "+1.271",
+        []
       ]
     ],
     [
       [
-        [
-          "7"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ],
       [
-        [
-          "17"
-        ],
-        [
-          null
-        ]
+        "17",
+        []
       ],
       [
-        [
-          "Olivier Panis"
-        ],
+        "Olivier Panis",
         [
           "/wiki/Olivier_Panis"
         ]
       ],
       [
-        [
-          "Toyota"
-        ],
+        "Toyota",
         [
           "/wiki/Toyota_Racing_(Formula_One_team)"
         ]
       ],
       [
-        [
-          "1:16.313"
-        ],
-        [
-          null
-        ]
+        "1:16.313",
+        []
       ],
       [
-        [
-          "+1.291"
-        ],
-        [
-          null
-        ]
+        "+1.291",
+        []
       ]
     ],
     [
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "Fernando Alonso"
-        ],
+        "Fernando Alonso",
         [
           "/wiki/Fernando_Alonso"
         ]
       ],
       [
-        [
-          "Renault"
-        ],
+        "Renault",
         [
           "/wiki/Renault_in_Formula_One"
         ]
       ],
       [
-        [
-          "1:16.422"
-        ],
-        [
-          null
-        ]
+        "1:16.422",
+        []
       ],
       [
-        [
-          "+1.400"
-        ],
-        [
-          null
-        ]
+        "+1.400",
+        []
       ]
     ],
     [
       [
-        [
-          "9"
-        ],
-        [
-          null
-        ]
+        "9",
+        []
       ],
       [
-        [
-          "14"
-        ],
-        [
-          null
-        ]
+        "14",
+        []
       ],
       [
-        [
-          "Mark Webber"
-        ],
+        "Mark Webber",
         [
           "/wiki/Mark_Webber"
         ]
       ],
       [
-        [
-          "Jaguar",
-          "Cosworth"
-        ],
+        "Jaguar - Cosworth",
         [
           "/wiki/Jaguar_Racing",
           "/wiki/Cosworth"
         ]
       ],
       [
-        [
-          "1:16.514"
-        ],
-        [
-          null
-        ]
+        "1:16.514",
+        []
       ],
       [
-        [
-          "+1.492"
-        ],
-        [
-          null
-        ]
+        "+1.492",
+        []
       ]
     ],
     [
       [
-        [
-          "10"
-        ],
-        [
-          null
-        ]
+        "10",
+        []
       ],
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "David Coulthard"
-        ],
+        "David Coulthard",
         [
           "/wiki/David_Coulthard"
         ]
       ],
       [
-        [
-          "McLaren",
-          "Mercedes"
-        ],
+        "McLaren - Mercedes",
         [
           "/wiki/McLaren",
           "/wiki/Mercedes_AMG_High_Performance_Powertrains"
         ]
       ],
       [
-        [
-          "1:16.636"
-        ],
-        [
-          null
-        ]
+        "1:16.636",
+        []
       ],
       [
-        [
-          "+1.614"
-        ],
-        [
-          null
-        ]
+        "+1.614",
+        []
       ]
     ],
     [
       [
-        [
-          "11"
-        ],
-        [
-          null
-        ]
+        "11",
+        []
       ],
       [
-        [
-          "16"
-        ],
-        [
-          null
-        ]
+        "16",
+        []
       ],
       [
-        [
-          "Cristiano da Matta"
-        ],
+        "Cristiano da Matta",
         [
           "/wiki/Cristiano_da_Matta"
         ]
       ],
       [
-        [
-          "Toyota"
-        ],
+        "Toyota",
         [
           "/wiki/Toyota_Racing_(Formula_One_team)"
         ]
       ],
       [
-        [
-          "1:17.038"
-        ],
-        [
-          null
-        ]
+        "1:17.038",
+        []
       ],
       [
-        [
-          "+2.016"
-        ],
-        [
-          null
-        ]
+        "+2.016",
+        []
       ]
     ],
     [
       [
-        [
-          "12"
-        ],
-        [
-          null
-        ]
+        "12",
+        []
       ],
       [
-        [
-          "11"
-        ],
-        [
-          null
-        ]
+        "11",
+        []
       ],
       [
-        [
-          "Giancarlo Fisichella"
-        ],
+        "Giancarlo Fisichella",
         [
           "/wiki/Giancarlo_Fisichella"
         ]
       ],
       [
-        [
-          "Sauber",
-          "Petronas"
-        ],
+        "Sauber - Petronas",
         [
           "/wiki/Sauber",
           "/wiki/Sauber_Petronas_Engineering"
         ]
       ],
       [
-        [
-          "1:17.444"
-        ],
-        [
-          null
-        ]
+        "1:17.444",
+        []
       ],
       [
-        [
-          "+2.422"
-        ],
-        [
-          null
-        ]
+        "+2.422",
+        []
       ]
     ],
     [
       [
-        [
-          "13"
-        ],
-        [
-          null
-        ]
+        "13",
+        []
       ],
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "Kimi R\u00e4ikk\u00f6nen"
-        ],
+        "Kimi R\u00e4ikk\u00f6nen",
         [
           "/wiki/Kimi_R\u00e4ikk\u00f6nen"
         ]
       ],
       [
-        [
-          "McLaren",
-          "Mercedes"
-        ],
+        "McLaren - Mercedes",
         [
           "/wiki/McLaren",
           "/wiki/Mercedes_AMG_High_Performance_Powertrains"
         ]
       ],
       [
-        [
-          "1:17.445"
-        ],
-        [
-          null
-        ]
+        "1:17.445",
+        []
       ],
       [
-        [
-          "+2.423"
-        ],
-        [
-          null
-        ]
+        "+2.423",
+        []
       ]
     ],
     [
       [
-        [
-          "14"
-        ],
-        [
-          null
-        ]
+        "14",
+        []
       ],
       [
-        [
-          "9"
-        ],
-        [
-          null
-        ]
+        "9",
+        []
       ],
       [
-        [
-          "Jenson Button"
-        ],
+        "Jenson Button",
         [
           "/wiki/Jenson_Button"
         ]
       ],
       [
-        [
-          "BAR",
-          "Honda"
-        ],
+        "BAR - Honda",
         [
           "/wiki/British_American_Racing",
           "/wiki/Honda_in_Formula_One"
         ]
       ],
       [
-        [
-          "1:17.575"
-        ],
-        [
-          null
-        ]
+        "1:17.575",
+        []
       ],
       [
-        [
-          "+2.553"
-        ],
-        [
-          null
-        ]
+        "+2.553",
+        []
       ]
     ],
     [
       [
-        [
-          "15"
-        ],
-        [
-          null
-        ]
+        "15",
+        []
       ],
       [
-        [
-          "18"
-        ],
-        [
-          null
-        ]
+        "18",
+        []
       ],
       [
-        [
-          "Nick Heidfeld"
-        ],
+        "Nick Heidfeld",
         [
           "/wiki/Nick_Heidfeld"
         ]
       ],
       [
-        [
-          "Jordan",
-          "Ford"
-        ],
+        "Jordan - Ford",
         [
           "/wiki/Jordan_Grand_Prix",
           "/wiki/Ford_Motor_Company"
         ]
       ],
       [
-        [
-          "1:17.802"
-        ],
-        [
-          null
-        ]
+        "1:17.802",
+        []
       ],
       [
-        [
-          "+2.780"
-        ],
-        [
-          null
-        ]
+        "+2.780",
+        []
       ]
     ],
     [
       [
-        [
-          "16"
-        ],
-        [
-          null
-        ]
+        "16",
+        []
       ],
       [
-        [
-          "15"
-        ],
-        [
-          null
-        ]
+        "15",
+        []
       ],
       [
-        [
-          "Christian Klien"
-        ],
+        "Christian Klien",
         [
           "/wiki/Christian_Klien"
         ]
       ],
       [
-        [
-          "Jaguar",
-          "Cosworth"
-        ],
+        "Jaguar - Cosworth",
         [
           "/wiki/Jaguar_Racing",
           "/wiki/Cosworth"
         ]
       ],
       [
-        [
-          "1:17.812"
-        ],
-        [
-          null
-        ]
+        "1:17.812",
+        []
       ],
       [
-        [
-          "+2.790"
-        ],
-        [
-          null
-        ]
+        "+2.790",
+        []
       ]
     ],
     [
       [
-        [
-          "17"
-        ],
-        [
-          null
-        ]
+        "17",
+        []
       ],
       [
-        [
-          "12"
-        ],
-        [
-          null
-        ]
+        "12",
+        []
       ],
       [
-        [
-          "Felipe Massa"
-        ],
+        "Felipe Massa",
         [
           "/wiki/Felipe_Massa"
         ]
       ],
       [
-        [
-          "Sauber",
-          "Petronas"
-        ],
+        "Sauber - Petronas",
         [
           "/wiki/Sauber",
           "/wiki/Sauber_Petronas_Engineering"
         ]
       ],
       [
-        [
-          "1:17.866"
-        ],
-        [
-          null
-        ]
+        "1:17.866",
+        []
       ],
       [
-        [
-          "+2.844"
-        ],
-        [
-          null
-        ]
+        "+2.844",
+        []
       ]
     ],
     [
       [
-        [
-          "18"
-        ],
-        [
-          null
-        ]
+        "18",
+        []
       ],
       [
-        [
-          "20"
-        ],
-        [
-          null
-        ]
+        "20",
+        []
       ],
       [
-        [
-          "Gianmaria Bruni"
-        ],
+        "Gianmaria Bruni",
         [
           "/wiki/Gianmaria_Bruni"
         ]
       ],
       [
-        [
-          "Minardi",
-          "Cosworth"
-        ],
+        "Minardi - Cosworth",
         [
           "/wiki/Minardi",
           "/wiki/Cosworth"
         ]
       ],
       [
-        [
-          "1:19.817"
-        ],
-        [
-          null
-        ]
+        "1:19.817",
+        []
       ],
       [
-        [
-          "+4.795"
-        ],
-        [
-          null
-        ]
+        "+4.795",
+        []
       ]
     ],
     [
       [
-        [
-          "19"
-        ],
-        [
-          null
-        ]
+        "19",
+        []
       ],
       [
-        [
-          "19"
-        ],
-        [
-          null
-        ]
+        "19",
+        []
       ],
       [
-        [
-          "Giorgio Pantano"
-        ],
+        "Giorgio Pantano",
         [
           "/wiki/Giorgio_Pantano"
         ]
       ],
       [
-        [
-          "Jordan",
-          "Ford"
-        ],
+        "Jordan - Ford",
         [
           "/wiki/Jordan_Grand_Prix",
           "/wiki/Ford_Motor_Company"
         ]
       ],
       [
-        [
-          "1:20.607"
-        ],
-        [
-          null
-        ]
+        "1:20.607",
+        []
       ],
       [
-        [
-          "+5.585"
-        ],
-        [
-          null
-        ]
+        "+5.585",
+        []
       ]
     ],
     [
       [
-        [
-          "20"
-        ],
-        [
-          null
-        ]
+        "20",
+        []
       ],
       [
-        [
-          "21"
-        ],
-        [
-          null
-        ]
+        "21",
+        []
       ],
       [
-        [
-          "Zsolt Baumgartner"
-        ],
+        "Zsolt Baumgartner",
         [
           "/wiki/Zsolt_Baumgartner"
         ]
       ],
       [
-        [
-          "Minardi",
-          "Cosworth"
-        ],
+        "Minardi - Cosworth",
         [
           "/wiki/Minardi",
           "/wiki/Cosworth"
         ]
       ],
       [
-        [
-          "1:21.470"
-        ],
-        [
-          null
-        ]
+        "1:21.470",
+        []
       ],
       [
-        [
-          "+6.448"
-        ],
-        [
-          null
-        ]
+        "+6.448",
+        []
       ]
     ]
   ],

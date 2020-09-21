@@ -3,68 +3,40 @@
   "title": "Asian Network of Major Cities 21",
   "header": [
     [
-      [
-        "City Name"
-      ],
-      [
-        null
-      ]
+      "City Name",
+      []
     ],
     [
-      [
-        "Native Name"
-      ],
-      [
-        null
-      ]
+      "Native Name",
+      []
     ],
     [
-      [
-        "Metro Population"
-      ],
-      [
-        null
-      ]
+      "Metro Population",
+      []
     ],
     [
-      [
-        "Country"
-      ],
-      [
-        null
-      ]
+      "Country",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Bangkok"
-        ],
+        "Bangkok",
         [
           "/wiki/Bangkok"
         ]
       ],
       [
-        [
-          "\u0e01\u0e23\u0e38\u0e07\u0e40\u0e17\u0e1e\u0e21\u0e2b\u0e32\u0e19\u0e04\u0e23\u0e2f"
-        ],
-        [
-          null
-        ]
+        "\u0e01\u0e23\u0e38\u0e07\u0e40\u0e17\u0e1e\u0e21\u0e2b\u0e32\u0e19\u0e04\u0e23\u0e2f",
+        []
       ],
       [
-        [
-          "14,500,000"
-        ],
-        [
-          null
-        ]
+        "14,500,000",
+        []
       ],
       [
-        [
-          "Thailand"
-        ],
+        "Thailand",
         [
           "/wiki/Thailand"
         ]
@@ -72,33 +44,21 @@
     ],
     [
       [
-        [
-          "Delhi"
-        ],
+        "Delhi",
         [
           "/wiki/Delhi"
         ]
       ],
       [
-        [
-          "\u0926\u093f\u0932\u094d\u0932\u0940"
-        ],
-        [
-          null
-        ]
+        "\u0926\u093f\u0932\u094d\u0932\u0940",
+        []
       ],
       [
-        [
-          "21,000,000"
-        ],
-        [
-          null
-        ]
+        "21,000,000",
+        []
       ],
       [
-        [
-          "India"
-        ],
+        "India",
         [
           "/wiki/India"
         ]
@@ -106,33 +66,21 @@
     ],
     [
       [
-        [
-          "Hanoi"
-        ],
+        "Hanoi",
         [
           "/wiki/Hanoi"
         ]
       ],
       [
-        [
-          "H\u00e0 N\u1ed9i"
-        ],
-        [
-          null
-        ]
+        "H\u00e0 N\u1ed9i",
+        []
       ],
       [
-        [
-          "16,100,000"
-        ],
-        [
-          null
-        ]
+        "16,100,000",
+        []
       ],
       [
-        [
-          "Vietnam"
-        ],
+        "Vietnam",
         [
           "/wiki/Vietnam"
         ]
@@ -140,33 +88,21 @@
     ],
     [
       [
-        [
-          "Jakarta"
-        ],
+        "Jakarta",
         [
           "/wiki/Jakarta"
         ]
       ],
       [
-        [
-          "Jakarta"
-        ],
-        [
-          null
-        ]
+        "Jakarta",
+        []
       ],
       [
-        [
-          "30,000,000"
-        ],
-        [
-          null
-        ]
+        "30,000,000",
+        []
       ],
       [
-        [
-          "Indonesia"
-        ],
+        "Indonesia",
         [
           "/wiki/Indonesia"
         ]
@@ -174,33 +110,21 @@
     ],
     [
       [
-        [
-          "Kuala Lumpur"
-        ],
+        "Kuala Lumpur",
         [
           "/wiki/Kuala_Lumpur"
         ]
       ],
       [
-        [
-          "Kuala Lumpur"
-        ],
-        [
-          null
-        ]
+        "Kuala Lumpur",
+        []
       ],
       [
-        [
-          "7,200,000"
-        ],
-        [
-          null
-        ]
+        "7,200,000",
+        []
       ],
       [
-        [
-          "Malaysia"
-        ],
+        "Malaysia",
         [
           "/wiki/Malaysia"
         ]
@@ -208,33 +132,21 @@
     ],
     [
       [
-        [
-          "Metropolitan Manila"
-        ],
+        "Metropolitan Manila",
         [
           "/wiki/Metro_Manila"
         ]
       ],
       [
-        [
-          "Kalakhang Maynila"
-        ],
-        [
-          null
-        ]
+        "Kalakhang Maynila",
+        []
       ],
       [
-        [
-          "19,700,000"
-        ],
-        [
-          null
-        ]
+        "19,700,000",
+        []
       ],
       [
-        [
-          "Philippines"
-        ],
+        "Philippines",
         [
           "/wiki/Philippines"
         ]
@@ -242,33 +154,21 @@
     ],
     [
       [
-        [
-          "Seoul"
-        ],
+        "Seoul",
         [
           "/wiki/Seoul"
         ]
       ],
       [
-        [
-          "\uc11c\uc6b8"
-        ],
-        [
-          null
-        ]
+        "\uc11c\uc6b8",
+        []
       ],
       [
-        [
-          "25,620,000"
-        ],
-        [
-          null
-        ]
+        "25,620,000",
+        []
       ],
       [
-        [
-          "South Korea"
-        ],
+        "South Korea",
         [
           "/wiki/South_Korea"
         ]
@@ -276,33 +176,21 @@
     ],
     [
       [
-        [
-          "Singapore"
-        ],
+        "Singapore",
         [
           "/wiki/Singapore"
         ]
       ],
       [
-        [
-          "Singapore"
-        ],
-        [
-          null
-        ]
+        "Singapore",
+        []
       ],
       [
-        [
-          "5,535,000"
-        ],
-        [
-          null
-        ]
+        "5,535,000",
+        []
       ],
       [
-        [
-          "Singapore"
-        ],
+        "Singapore",
         [
           "/wiki/Singapore"
         ]
@@ -310,33 +198,21 @@
     ],
     [
       [
-        [
-          "Taipei"
-        ],
+        "Taipei",
         [
           "/wiki/Taipei"
         ]
       ],
       [
-        [
-          "\u53f0\u5317 \u81fa\u5317"
-        ],
-        [
-          null
-        ]
+        "\u53f0\u5317 \u81fa\u5317",
+        []
       ],
       [
-        [
-          "7,042,210"
-        ],
-        [
-          null
-        ]
+        "7,042,210",
+        []
       ],
       [
-        [
-          "Taiwan"
-        ],
+        "Taiwan",
         [
           "/wiki/Taiwan"
         ]
@@ -344,33 +220,21 @@
     ],
     [
       [
-        [
-          "Tokyo"
-        ],
+        "Tokyo",
         [
           "/wiki/Tokyo"
         ]
       ],
       [
-        [
-          "\u6771\u4eac \u3068\u3046\u304d\u3087\u3046 \u30c8\u30a6\u30ad\u30e7\u30a6"
-        ],
-        [
-          null
-        ]
+        "\u6771\u4eac \u3068\u3046\u304d\u3087\u3046 \u30c8\u30a6\u30ad\u30e7\u30a6",
+        []
       ],
       [
-        [
-          "37,800,000"
-        ],
-        [
-          null
-        ]
+        "37,800,000",
+        []
       ],
       [
-        [
-          "Japan"
-        ],
+        "Japan",
         [
           "/wiki/Japan"
         ]
@@ -378,33 +242,21 @@
     ],
     [
       [
-        [
-          "Tomsk"
-        ],
+        "Tomsk",
         [
           "/wiki/Tomsk"
         ]
       ],
       [
-        [
-          "\u0422\u043e\u043c\u0441\u043a"
-        ],
-        [
-          null
-        ]
+        "\u0422\u043e\u043c\u0441\u043a",
+        []
       ],
       [
-        [
-          "1,045,541"
-        ],
-        [
-          null
-        ]
+        "1,045,541",
+        []
       ],
       [
-        [
-          "Russia"
-        ],
+        "Russia",
         [
           "/wiki/Russia"
         ]
@@ -412,33 +264,21 @@
     ],
     [
       [
-        [
-          "Ulaanbaatar"
-        ],
+        "Ulaanbaatar",
         [
           "/wiki/Ulaanbaatar"
         ]
       ],
       [
-        [
-          "\u0423\u043b\u0430\u0430\u043d\u0431\u0430\u0430\u0442\u0430\u0440"
-        ],
-        [
-          null
-        ]
+        "\u0423\u043b\u0430\u0430\u043d\u0431\u0430\u0430\u0442\u0430\u0440",
+        []
       ],
       [
-        [
-          "1,372,000"
-        ],
-        [
-          null
-        ]
+        "1,372,000",
+        []
       ],
       [
-        [
-          "Mongolia"
-        ],
+        "Mongolia",
         [
           "/wiki/Mongolia"
         ]
@@ -446,33 +286,21 @@
     ],
     [
       [
-        [
-          "Yangon"
-        ],
+        "Yangon",
         [
           "/wiki/Yangon"
         ]
       ],
       [
-        [
-          "\u101b\u1014\u103a\u1000\u102f\u1014\u103a"
-        ],
-        [
-          null
-        ]
+        "\u101b\u1014\u103a\u1000\u102f\u1014\u103a",
+        []
       ],
       [
-        [
-          "7,610,703"
-        ],
-        [
-          null
-        ]
+        "7,610,703",
+        []
       ],
       [
-        [
-          "Myanmar"
-        ],
+        "Myanmar",
         [
           "/wiki/Myanmar"
         ]

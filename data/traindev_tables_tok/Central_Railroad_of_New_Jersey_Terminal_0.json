@@ -3,70 +3,40 @@
   "title": "Central Railroad of New Jersey Terminal",
   "header": [
     [
-      [
-        "Operators"
-      ],
-      [
-        null
-      ]
+      "Operators",
+      []
     ],
     [
-      [
-        "Named trains"
-      ],
-      [
-        null
-      ]
+      "Named trains",
+      []
     ],
     [
-      [
-        "Destination"
-      ],
-      [
-        null
-      ]
+      "Destination",
+      []
     ],
     [
-      [
-        "Year begun"
-      ],
-      [
-        null
-      ]
+      "Year begun",
+      []
     ],
     [
-      [
-        "Year discontinued"
-      ],
-      [
-        null
-      ]
+      "Year discontinued",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Baltimore and Ohio"
-        ],
-        [
-          null
-        ]
+        "Baltimore and Ohio",
+        []
       ],
       [
-        [
-          "Capitol Limited"
-        ],
+        "Capitol Limited",
         [
           "/wiki/Capitol_Limited_(B&O_train)"
         ]
       ],
       [
-        [
-          "Chicago , Illinois",
-          "Washington , D.C",
-          "Pittsburgh , Pennsylvania"
-        ],
+        "Chicago , Illinois via Washington , D.C. and Pittsburgh , Pennsylvania",
         [
           "/wiki/Chicago,_Illinois",
           "/wiki/Washington,_D.C.",
@@ -74,129 +44,79 @@
         ]
       ],
       [
-        [
-          "1923"
-        ],
-        [
-          null
-        ]
+        "1923",
+        []
       ],
       [
-        [
-          "1958*"
-        ],
-        [
-          null
-        ]
+        "1958*",
+        []
       ]
     ],
     [
       [
-        [
-          "Baltimore and Ohio"
-        ],
-        [
-          null
-        ]
+        "Baltimore and Ohio",
+        []
       ],
       [
-        [
-          "Columbian"
-        ],
+        "Columbian",
         [
           "/wiki/Columbian_(B&O_train)"
         ]
       ],
       [
-        [
-          "Chicago , Illinois"
-        ],
+        "Chicago , Illinois via Washington , D.C. and Pittsburgh , Pennsylvania",
         [
           "/wiki/Chicago,_Illinois"
         ]
       ],
       [
-        [
-          "1931"
-        ],
-        [
-          null
-        ]
+        "1931",
+        []
       ],
       [
-        [
-          "1958*"
-        ],
-        [
-          null
-        ]
+        "1958*",
+        []
       ]
     ],
     [
       [
-        [
-          "Baltimore and Ohio"
-        ],
-        [
-          null
-        ]
+        "Baltimore and Ohio",
+        []
       ],
       [
-        [
-          "Diplomat"
-        ],
+        "Diplomat",
         [
           "/wiki/Diplomat_(train)"
         ]
       ],
       [
-        [
-          "St. Louis , Missouri"
-        ],
+        "St. Louis , Missouri via Washington , D.C. and Cincinnati , Ohio",
         [
           "/wiki/St._Louis,_Missouri"
         ]
       ],
       [
-        [
-          "1920s"
-        ],
-        [
-          null
-        ]
+        "1920s",
+        []
       ],
       [
-        [
-          "1958*"
-        ],
-        [
-          null
-        ]
+        "1958*",
+        []
       ]
     ],
     [
       [
-        [
-          "Baltimore and Ohio"
-        ],
-        [
-          null
-        ]
+        "Baltimore and Ohio",
+        []
       ],
       [
-        [
-          "Metropolitan Special"
-        ],
+        "Metropolitan Special ( Washington Night Express from Jersey City to Baltimore , meeting with the Metropolitan Special )",
         [
           "/wiki/Metropolitan_Special"
         ]
       ],
       [
-        [
-          "St. Louis , Missouri",
-          "Washington , D.C",
-          "Cincinnati , Ohio"
-        ],
+        "St. Louis , Missouri via Washington , D.C. and Cincinnati , Ohio",
         [
           "/wiki/St._Louis,_Missouri",
           "/wiki/Washington,_D.C.",
@@ -204,482 +124,290 @@
         ]
       ],
       [
-        [
-          "ca . 1920"
-        ],
-        [
-          null
-        ]
+        "ca . 1920",
+        []
       ],
       [
-        [
-          "1958*"
-        ],
-        [
-          null
-        ]
+        "1958*",
+        []
       ]
     ],
     [
       [
-        [
-          "Baltimore and Ohio"
-        ],
-        [
-          null
-        ]
+        "Baltimore and Ohio",
+        []
       ],
       [
-        [
-          "National Limited"
-        ],
+        "National Limited",
         [
           "/wiki/National_Limited"
         ]
       ],
       [
-        [
-          "St. Louis , Missouri"
-        ],
+        "St. Louis , Missouri via Washington , D.C. and Cincinnati , Ohio",
         [
           "/wiki/St._Louis,_Missouri"
         ]
       ],
       [
-        [
-          "1925"
-        ],
-        [
-          null
-        ]
+        "1925",
+        []
       ],
       [
-        [
-          "1958*"
-        ],
-        [
-          null
-        ]
+        "1958*",
+        []
       ]
     ],
     [
       [
-        [
-          "Baltimore and Ohio"
-        ],
-        [
-          null
-        ]
+        "Baltimore and Ohio",
+        []
       ],
       [
-        [
-          "Royal Blue"
-        ],
+        "Royal Blue",
         [
           "/wiki/Royal_Blue_(train)"
         ]
       ],
       [
-        [
-          "Washington , D.C"
-        ],
+        "Washington , D.C",
         [
           "/wiki/Washington,_D.C."
         ]
       ],
       [
-        [
-          "1890"
-        ],
-        [
-          null
-        ]
+        "1890",
+        []
       ],
       [
-        [
-          "1958*"
-        ],
-        [
-          null
-        ]
+        "1958*",
+        []
       ]
     ],
     [
       [
-        [
-          "Baltimore and Ohio"
-        ],
-        [
-          null
-        ]
+        "Baltimore and Ohio",
+        []
       ],
       [
-        [
-          "Shenandoah"
-        ],
+        "Shenandoah",
         [
           "/wiki/Shenandoah_(B&O_train)"
         ]
       ],
       [
-        [
-          "Chicago , Illinois"
-        ],
+        "Chicago , Illinois via Washington , D.C. and Pittsburgh , Pennsylvania",
         [
           "/wiki/Chicago,_Illinois"
         ]
       ],
       [
-        [
-          "1930s"
-        ],
-        [
-          null
-        ]
+        "1930s",
+        []
       ],
       [
-        [
-          "1958*"
-        ],
-        [
-          null
-        ]
+        "1958*",
+        []
       ]
     ],
     [
       [
-        [
-          "Baltimore and Ohio"
-        ],
-        [
-          null
-        ]
+        "Baltimore and Ohio",
+        []
       ],
       [
-        [
-          "Washington Night Express"
-        ],
-        [
-          null
-        ]
+        "Washington Night Express",
+        []
       ],
       [
-        [
-          "Washington , D.C"
-        ],
+        "Washington , D.C",
         [
           "/wiki/Washington,_D.C."
         ]
       ],
       [
-        [
-          "1947"
-        ],
-        [
-          null
-        ]
+        "1947",
+        []
       ],
       [
-        [
-          "1952"
-        ],
-        [
-          null
-        ]
+        "1952",
+        []
       ]
     ],
     [
       [
-        [
-          "Central Railroad of New Jersey"
-        ],
+        "Central Railroad of New Jersey",
         [
           "/wiki/Central_Railroad_of_New_Jersey"
         ]
       ],
       [
-        [
-          "Blue Comet"
-        ],
+        "Blue Comet",
         [
           "/wiki/Blue_Comet"
         ]
       ],
       [
-        [
-          "Atlantic City , New Jersey"
-        ],
+        "Atlantic City , New Jersey",
         [
           "/wiki/Atlantic_City,_New_Jersey"
         ]
       ],
       [
-        [
-          "1929"
-        ],
-        [
-          null
-        ]
+        "1929",
+        []
       ],
       [
-        [
-          "1941"
-        ],
-        [
-          null
-        ]
+        "1941",
+        []
       ]
     ],
     [
       [
-        [
-          "Central Railroad of New Jersey"
-        ],
+        "Central Railroad of New Jersey",
         [
           "/wiki/Central_Railroad_of_New_Jersey"
         ]
       ],
       [
-        [
-          "Bullet"
-        ],
-        [
-          null
-        ]
+        "Bullet",
+        []
       ],
       [
-        [
-          "Wilkes-Barre , Pennsylvania"
-        ],
+        "Wilkes-Barre , Pennsylvania",
         [
           "/wiki/Wilkes-Barre,_Pennsylvania"
         ]
       ],
       [
-        [
-          "1929"
-        ],
-        [
-          null
-        ]
+        "1929",
+        []
       ],
       [
-        [
-          "1931"
-        ],
-        [
-          null
-        ]
+        "1931",
+        []
       ]
     ],
     [
       [
-        [
-          "Reading Railroad"
-        ],
+        "Reading Railroad with the Central Railroad of New Jersey",
         [
           "/wiki/Reading_Railroad"
         ]
       ],
       [
-        [
-          "Crusader"
-        ],
+        "Crusader",
         [
           "/wiki/Crusader_(train)"
         ]
       ],
       [
-        [
-          "Philadelphia , Pennsylvania"
-        ],
+        "Philadelphia , Pennsylvania",
         [
           "/wiki/Philadelphia,_Pennsylvania"
         ]
       ],
       [
-        [
-          "1937"
-        ],
-        [
-          null
-        ]
+        "1937",
+        []
       ],
       [
-        [
-          "1967"
-        ],
-        [
-          null
-        ]
+        "1967",
+        []
       ]
     ],
     [
       [
-        [
-          "Reading Railroad with the Central Railroad of New Jersey"
-        ],
-        [
-          null
-        ]
+        "Reading Railroad with the Central Railroad of New Jersey",
+        []
       ],
       [
-        [
-          "Harrisburg Special"
-        ],
-        [
-          null
-        ]
+        "Harrisburg Special",
+        []
       ],
       [
-        [
-          "Harrisburg , Pennsylvania"
-        ],
+        "Harrisburg , Pennsylvania",
         [
           "/wiki/Harrisburg,_Pennsylvania"
         ]
       ],
       [
-        [
-          "1910"
-        ],
-        [
-          null
-        ]
+        "1910",
+        []
       ],
       [
-        [
-          "1953"
-        ],
-        [
-          null
-        ]
+        "1953",
+        []
       ]
     ],
     [
       [
-        [
-          "Reading Railroad with the Central Railroad of New Jersey"
-        ],
-        [
-          null
-        ]
+        "Reading Railroad with the Central Railroad of New Jersey",
+        []
       ],
       [
-        [
-          "Queen of the Valley"
-        ],
+        "Queen of the Valley",
         [
           "/wiki/Queen_of_the_Valley"
         ]
       ],
       [
-        [
-          "Harrisburg , Pennsylvania"
-        ],
-        [
-          null
-        ]
+        "Harrisburg , Pennsylvania",
+        []
       ],
       [
-        [
-          "1902"
-        ],
-        [
-          null
-        ]
+        "1902",
+        []
       ],
       [
-        [
-          "1967"
-        ],
-        [
-          null
-        ]
+        "1967",
+        []
       ]
     ],
     [
       [
-        [
-          "Reading Railroad with the Central Railroad of New Jersey"
-        ],
-        [
-          null
-        ]
+        "Reading Railroad with the Central Railroad of New Jersey",
+        []
       ],
       [
-        [
-          "Wall Street"
-        ],
-        [
-          null
-        ]
+        "Wall Street",
+        []
       ],
       [
-        [
-          "Philadelphia , Pennsylvania"
-        ],
-        [
-          null
-        ]
+        "Philadelphia , Pennsylvania",
+        []
       ],
       [
-        [
-          "1948"
-        ],
-        [
-          null
-        ]
+        "1948",
+        []
       ],
       [
-        [
-          "1968"
-        ],
-        [
-          null
-        ]
+        "1968",
+        []
       ]
     ],
     [
       [
-        [
-          "Reading Railroad with the Central Railroad of New Jersey"
-        ],
-        [
-          null
-        ]
+        "Reading Railroad with the Central Railroad of New Jersey",
+        []
       ],
       [
-        [
-          "Williamsporter"
-        ],
-        [
-          null
-        ]
+        "Williamsporter",
+        []
       ],
       [
-        [
-          "Williamsport , Pennsylvania"
-        ],
+        "Williamsport , Pennsylvania",
         [
           "/wiki/Williamsport,_Pennsylvania"
         ]
       ],
       [
-        [
-          "1931"
-        ],
-        [
-          null
-        ]
+        "1931",
+        []
       ],
       [
-        [
-          "1944"
-        ],
-        [
-          null
-        ]
+        "1944",
+        []
       ]
     ]
   ],

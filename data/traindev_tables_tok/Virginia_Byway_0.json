@@ -3,71 +3,42 @@
   "title": "List of Virginia Byways",
   "header": [
     [
-      [
-        "County"
-      ],
-      [
-        null
-      ]
+      "County",
+      []
     ],
     [
-      [
-        "Route"
-      ],
-      [
-        null
-      ]
+      "Route",
+      []
     ],
     [
-      [
-        "Endpoints"
-      ],
-      [
-        null
-      ]
+      "Endpoints",
+      []
     ],
     [
-      [
-        "Designated"
-      ],
-      [
-        null
-      ]
+      "Designated",
+      []
     ],
     [
-      [
-        "Notes"
-      ],
-      [
-        null
-      ]
+      "Notes",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Fairfax"
-        ],
+        "Fairfax",
         [
           "/wiki/Fairfax_County,_VA"
         ]
       ],
       [
-        [
-          "SR 193"
-        ],
+        "SR 193 ( Georgetown Pike )",
         [
           "/wiki/Virginia_State_Route_193"
         ]
       ],
       [
-        [
-          "SR 7",
-          "Dranesville",
-          "SR 123",
-          "Langley"
-        ],
+        "SR 7 ( Leesburg Pike ) at Dranesville to SR 123 ( Dolley Madison Boulevard ) at Langley",
         [
           "/wiki/SR_7_(VA)",
           "/wiki/Dranesville,_VA",
@@ -76,29 +47,17 @@
         ]
       ],
       [
-        [
-          "June 20 , 1974"
-        ],
-        [
-          null
-        ]
+        "June 20 , 1974",
+        []
       ],
       [
-        [
-          "Very winding , highly used commuter route"
-        ],
-        [
-          null
-        ]
+        "Very winding , highly used commuter route",
+        []
       ]
     ],
     [
       [
-        [
-          "Charles City",
-          "Henrico",
-          "James City"
-        ],
+        "Charles City / Henrico / James City",
         [
           "/wiki/Charles_City_County,_VA",
           "/wiki/Henrico_County,_VA",
@@ -106,36 +65,24 @@
         ]
       ],
       [
-        [
-          "SR 5"
-        ],
+        "SR 5 ( New Market Road / John Tyler Highway )",
         [
           "/wiki/Virginia_State_Route_5"
         ]
       ],
       [
-        [
-          "Richmond",
-          "Williamsburg"
-        ],
+        "Richmond to Williamsburg",
         [
           "/wiki/Richmond,_VA",
           "/wiki/Williamsburg,_VA"
         ]
       ],
       [
-        [
-          "August 21 , 1975"
-        ],
-        [
-          null
-        ]
+        "August 21 , 1975",
+        []
       ],
       [
-        [
-          "U.S. Bike Route 76",
-          "SR 156"
-        ],
+        "part of U.S. Bike Route 76 east of SR 156",
         [
           "/wiki/U.S._Bike_Route_76",
           "/wiki/SR_156_(VA)"
@@ -144,28 +91,19 @@
     ],
     [
       [
-        [
-          "Albemarle"
-        ],
+        "Albemarle",
         [
           "/wiki/Albemarle_County,_VA"
         ]
       ],
       [
-        [
-          "SR 20"
-        ],
+        "SR 20 ( Scottsville Road )",
         [
           "/wiki/Virginia_State_Route_20"
         ]
       ],
       [
-        [
-          "I-64",
-          "Charlottesville",
-          "James River",
-          "Scottsville"
-        ],
+        "I-64 south of Charlottesville to James River in Scottsville",
         [
           "/wiki/I-64_(VA)",
           "/wiki/Charlottesville,_VA",
@@ -174,21 +112,12 @@
         ]
       ],
       [
-        [
-          "August 19 , 1976"
-        ],
-        [
-          null
-        ]
+        "August 19 , 1976",
+        []
       ],
       [
+        "part of the Journey Through Hallowed Ground National Scenic Byway ( designated October 16 , 2009 ) north of SR 53",
         [
-          "Journey Through Hallowed Ground",
-          "National Scenic Byway",
-          "SR 53"
-        ],
-        [
-          null,
           "/wiki/National_Scenic_Byway",
           "/wiki/SR_53_(VA)"
         ]
@@ -196,128 +125,81 @@
     ],
     [
       [
-        [
-          "Albemarle",
-          "Nelson"
-        ],
+        "Albemarle / Nelson",
         [
           "/wiki/Albemarle_County,_VA",
           "/wiki/Nelson_County,_VA"
         ]
       ],
       [
-        [
-          "SR 6",
-          "SR 151"
-        ],
+        "SR 6 / SR 151 ( Irish Road / River Road / Rockfish Valley Highway / Critzers Shop Road )",
         [
           "/wiki/Virginia_State_Route_6",
           "/wiki/Virginia_State_Route_151"
         ]
       ],
       [
-        [
-          "SR 20",
-          "Scottsville",
-          "US 250",
-          "Critzers Shop"
-        ],
+        "SR 20 in Scottsville to US 250 near Critzers Shop",
         [
           "/wiki/SR_20_(VA)",
           "/wiki/Scottsville,_VA",
-          "/wiki/US_250_(VA)",
-          null
+          "/wiki/US_250_(VA)"
         ]
       ],
       [
-        [
-          "August 19 , 1976"
-        ],
-        [
-          null
-        ]
+        "August 19 , 1976",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Nelson"
-        ],
+        "Nelson",
         [
           "/wiki/Nelson_County,_VA"
         ]
       ],
       [
-        [
-          "SR 56"
-        ],
+        "SR 56 ( Crabtree Falls Highway )",
         [
           "/wiki/Virginia_State_Route_56"
         ]
       ],
       [
-        [
-          "Blue Ridge Parkway",
-          "Tye River Gap",
-          "SR 151",
-          "Roseland"
-        ],
+        "Blue Ridge Parkway at Tye River Gap to SR 151 near Roseland",
         [
           "/wiki/Blue_Ridge_Parkway",
-          null,
           "/wiki/SR_151_(VA)",
           "/wiki/Roseland,_VA"
         ]
       ],
       [
-        [
-          "August 19 , 1976"
-        ],
-        [
-          null
-        ]
+        "August 19 , 1976",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Nelson"
-        ],
+        "Nelson",
         [
           "/wiki/Nelson_County,_VA"
         ]
       ],
       [
-        [
-          "SR 151"
-        ],
+        "SR 151 ( Patrick Henry Highway / Rockfish Valley Highway )",
         [
           "/wiki/Virginia_State_Route_151"
         ]
       ],
       [
-        [
-          "SR 56",
-          "Roseland",
-          "SR 6",
-          "Martins Store"
-        ],
+        "SR 56 near Roseland to SR 6 at Martins Store",
         [
           "/wiki/SR_56_(VA)",
           "/wiki/Roseland,_VA",
@@ -326,46 +208,29 @@
         ]
       ],
       [
-        [
-          "August 19 , 1976"
-        ],
-        [
-          null
-        ]
+        "August 19 , 1976",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Rockbridge"
-        ],
+        "Rockbridge",
         [
           "/wiki/Rockbridge_County,_VA"
         ]
       ],
       [
-        [
-          "SR 39"
-        ],
+        "SR 39 ( Maury River Road )",
         [
           "/wiki/Virginia_State_Route_39"
         ]
       ],
       [
-        [
-          "US 11",
-          "East Lexington",
-          "SR 42",
-          "Goshen"
-        ],
+        "US 11 near East Lexington to SR 42 in Goshen",
         [
           "/wiki/US_11_(VA)",
           "/wiki/East_Lexington,_VA",
@@ -374,48 +239,30 @@
         ]
       ],
       [
-        [
-          "January 20 , 1977"
-        ],
-        [
-          null
-        ]
+        "January 20 , 1977",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Clarke",
-          "Frederick"
-        ],
+        "Clarke / Frederick",
         [
           "/wiki/Clarke_County,_VA",
           "/wiki/Frederick_County,_VA"
         ]
       ],
       [
-        [
-          "SR 723"
-        ],
+        "SR 723 ( Millwood Road / Carpers Valley Road )",
         [
           "/wiki/Virginia_State_Route_723"
         ]
       ],
       [
-        [
-          "US 17",
-          "US 50",
-          "Berrys",
-          "Winchester"
-        ],
+        "US 17 / US 50 near Berrys to US 17 / US 50 southeast of Winchester",
         [
           "/wiki/US_17_(VA)",
           "/wiki/US_50_(VA)",
@@ -424,95 +271,60 @@
         ]
       ],
       [
-        [
-          "July 14 , 1977"
-        ],
-        [
-          null
-        ]
+        "July 14 , 1977",
+        []
       ],
       [
-        [
-          "former alignment of US 50"
-        ],
-        [
-          null
-        ]
+        "former alignment of US 50",
+        []
       ]
     ],
     [
       [
-        [
-          "Bath",
-          "Rockbridge"
-        ],
+        "Bath / Rockbridge",
         [
           "/wiki/Bath_County,_VA",
           "/wiki/Rockbridge_County,_VA"
         ]
       ],
       [
-        [
-          "SR 39"
-        ],
+        "SR 39 ( Mountain Valley Road )",
         [
           "/wiki/Virginia_State_Route_39"
         ]
       ],
       [
-        [
-          "SR 42",
-          "Goshen",
-          "West Virginia",
-          "Ryder Gap"
-        ],
+        "SR 42 in Goshen to West Virginia state line at Ryder Gap",
         [
           "/wiki/SR_42_(VA)",
           "/wiki/Goshen,_VA",
-          "/wiki/West_Virginia",
-          null
+          "/wiki/West_Virginia"
         ]
       ],
       [
-        [
-          "October 27 , 1977"
-        ],
-        [
-          null
-        ]
+        "October 27 , 1977",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Tazewell"
-        ],
+        "Tazewell",
         [
           "/wiki/Tazewell_County,_VA"
         ]
       ],
       [
-        [
-          "SR 623"
-        ],
+        "SR 623 ( Burkes Garden Road )",
         [
           "/wiki/Virginia_State_Route_623_(Tazewell_County)"
         ]
       ],
       [
-        [
-          "SR 61",
-          "Gratton",
-          "Burkes Garden"
-        ],
+        "SR 61 at Gratton to SR 667 in Burkes Garden",
         [
           "/wiki/SR_61_(VA)",
           "/wiki/Gratton,_VA",
@@ -520,51 +332,30 @@
         ]
       ],
       [
-        [
-          "June 22 , 1979"
-        ],
-        [
-          null
-        ]
+        "June 22 , 1979",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Albemarle",
-          "Nelson"
-        ],
+        "Albemarle / Nelson",
         [
           "/wiki/Albemarle_County,_VA",
           "/wiki/Nelson_County,_VA"
         ]
       ],
       [
+        "US 250 ( Ivy Road / Rockfish Gap Turnpike )",
         [
-          "US 250",
-          "Rockfish Gap Turnpike"
-        ],
-        [
-          "/wiki/U.S._Route_250_in_Virginia",
-          null
+          "/wiki/U.S._Route_250_in_Virginia"
         ]
       ],
       [
-        [
-          "US 29",
-          "Charlottesville",
-          "Blue Ridge Parkway",
-          "Skyline Drive",
-          "Rockfish Gap"
-        ],
+        "US 29 near Charlottesville to Blue Ridge Parkway / Skyline Drive at Rockfish Gap",
         [
           "/wiki/US_29_(VA)",
           "/wiki/Charlottesville,_VA",
@@ -574,49 +365,28 @@
         ]
       ],
       [
-        [
-          "December 17 , 1981"
-        ],
-        [
-          null
-        ]
+        "December 17 , 1981",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Culpeper",
-          "Fauquier"
-        ],
+        "Culpeper / Fauquier",
         [
           "/wiki/Culpeper_County,_VA",
           "/wiki/Fauquier_County,_VA"
         ]
       ],
       [
-        [
-          "SR 802"
-        ],
-        [
-          null
-        ]
+        "SR 802 ( Springs Road )",
+        []
       ],
       [
-        [
-          "SR 229",
-          "Jeffersonton",
-          "US 17 Bus",
-          "US 29 Bus",
-          "Warrenton"
-        ],
+        "SR 229 near Jeffersonton to US 17 Bus . / US 29 Bus . in Warrenton",
         [
           "/wiki/SR_229_(VA)",
           "/wiki/Jeffersonton,_VA",
@@ -626,49 +396,31 @@
         ]
       ],
       [
-        [
-          "September 15 , 1983"
-        ],
-        [
-          null
-        ]
+        "September 15 , 1983",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Fauquier",
-          "Loudoun"
-        ],
+        "Fauquier / Loudoun",
         [
           "/wiki/Fauquier_County,_VA",
           "/wiki/Loudoun_County,_VA"
         ]
       ],
       [
-        [
-          "SR 245",
-          "SR 626"
-        ],
+        "SR 245 ( Old Tavern Road ) / SR 626 ( Halfway Road )",
         [
           "/wiki/Virginia_State_Route_245",
           "/wiki/Virginia_State_Route_626_(Fauquier_County)"
         ]
       ],
       [
-        [
-          "US 17",
-          "Old Tavern",
-          "Middleburg"
-        ],
+        "US 17 at Old Tavern to Middleburg",
         [
           "/wiki/US_17_(VA)",
           "/wiki/Old_Tavern,_VA",
@@ -676,17 +428,11 @@
         ]
       ],
       [
-        [
-          "September 15 , 1983"
-        ],
-        [
-          null
-        ]
+        "September 15 , 1983",
+        []
       ],
       [
-        [
-          "US 15"
-        ],
+        "former alignment of US 15",
         [
           "/wiki/US_15_(VA)"
         ]
@@ -694,48 +440,31 @@
     ],
     [
       [
-        [
-          "Montgomery",
-          "Roanoke"
-        ],
+        "Montgomery / Roanoke",
         [
           "/wiki/Montgomery_County,_VA",
           "/wiki/Roanoke_County,_VA"
         ]
       ],
       [
-        [
-          "SR 785"
-        ],
+        "SR 785 ( Catawba Road / Blacksburg Road )",
         [
           "/wiki/Virginia_State_Route_785"
         ]
       ],
       [
+        "SR 723 at Lusters Gate to SR 311 near Catawba",
         [
-          "Lusters Gate",
-          "SR 311",
-          "Catawba"
-        ],
-        [
-          null,
           "/wiki/SR_311_(VA)",
           "/wiki/Catawba,_VA"
         ]
       ],
       [
-        [
-          "May 15 , 1986"
-        ],
-        [
-          null
-        ]
+        "May 15 , 1986",
+        []
       ],
       [
-        [
-          "U.S. Bike Route 76",
-          "SR 114"
-        ],
+        "part of U.S. Bike Route 76 ; former SR 114",
         [
           "/wiki/U.S._Bike_Route_76",
           "/wiki/SR_114_(VA)"
@@ -744,11 +473,7 @@
     ],
     [
       [
-        [
-          "Fluvanna",
-          "Goochland",
-          "Henrico"
-        ],
+        "Fluvanna / Goochland / Henrico",
         [
           "/wiki/Fluvanna_County,_VA",
           "/wiki/Goochland_County,_VA",
@@ -756,21 +481,14 @@
         ]
       ],
       [
-        [
-          "SR 6",
-          "SR 650"
-        ],
+        "SR 6 / SR 650 ( River Road )",
         [
           "/wiki/Virginia_State_Route_6",
           "/wiki/Virginia_State_Route_650_(Goochland_County)"
         ]
       ],
       [
-        [
-          "Scottsville",
-          "SR 150",
-          "Tuckahoe"
-        ],
+        "Scottsville to SR 150 near Tuckahoe",
         [
           "/wiki/Scottsville,_VA",
           "/wiki/SR_150_(VA)",
@@ -778,48 +496,30 @@
         ]
       ],
       [
-        [
-          "January 15 , 1987"
-        ],
-        [
-          null
-        ]
+        "January 15 , 1987",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Amherst",
-          "Rockbridge"
-        ],
+        "Amherst / Rockbridge",
         [
           "/wiki/Amherst_County,_VA",
           "/wiki/Rockbridge_County,_VA"
         ]
       ],
       [
-        [
-          "SR 130"
-        ],
+        "SR 130 ( Elon Road / Wert Faulkner Highway )",
         [
           "/wiki/Virginia_State_Route_130"
         ]
       ],
       [
-        [
-          "US 29 Bus",
-          "Madison Heights",
-          "US 11",
-          "Natural Bridge"
-        ],
+        "US 29 Bus . near Madison Heights to US 11 at Natural Bridge",
         [
           "/wiki/U.S._Route_29_Business_(Madison_Heights,_Virginia)",
           "/wiki/Madison_Heights,_VA",
@@ -828,37 +528,23 @@
         ]
       ],
       [
-        [
-          "January 15 , 1987"
-        ],
-        [
-          null
-        ]
+        "January 15 , 1987",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Albemarle"
-        ],
+        "Albemarle",
         [
           "/wiki/Albemarle_County,_VA"
         ]
       ],
       [
-        [
-          "SR 601",
-          "SR 676",
-          "SR 614"
-        ],
+        "SR 601 / SR 676 / SR 614 ( Garth Road )",
         [
           "/wiki/Virginia_State_Route_601_(Albemarle_County)",
           "/wiki/Virginia_State_Route_676_(Albemarle_County)",
@@ -866,33 +552,20 @@
         ]
       ],
       [
-        [
-          "US 29",
-          "US 250",
-          "Charlottesville",
-          "SR 810",
-          "White Hall"
-        ],
+        "US 29 / US 250 near Charlottesville to SR 810 at White Hall",
         [
           "/wiki/US_29_(VA)",
           "/wiki/US_250_(VA)",
           "/wiki/Charlottesville,_VA",
-          null,
           "/wiki/White_Hall,_Albemarle_County,_Virginia"
         ]
       ],
       [
-        [
-          "July 16 , 1987"
-        ],
-        [
-          null
-        ]
+        "July 16 , 1987",
+        []
       ],
       [
-        [
-          "U.S. Bike Route 76"
-        ],
+        "part of U.S. Bike Route 76",
         [
           "/wiki/U.S._Bike_Route_76"
         ]
@@ -900,30 +573,20 @@
     ],
     [
       [
-        [
-          "Albemarle",
-          "Orange"
-        ],
+        "Albemarle / Orange",
         [
           "/wiki/Albemarle_County,_VA",
           "/wiki/Orange_County,_VA"
         ]
       ],
       [
-        [
-          "SR 20"
-        ],
+        "SR 20 ( Stony Point Road / Constitution Highway )",
         [
           "/wiki/Virginia_State_Route_20"
         ]
       ],
       [
-        [
-          "US 250",
-          "Charlottesville",
-          "US 15",
-          "Orange"
-        ],
+        "US 250 east of Charlottesville to US 15 in Orange",
         [
           "/wiki/US_250_(VA)",
           "/wiki/Charlottesville,_VA",
@@ -932,31 +595,19 @@
         ]
       ],
       [
-        [
-          "November 19 , 1987"
-        ],
-        [
-          null
-        ]
+        "November 19 , 1987",
+        []
       ],
       [
+        "part of the Journey Through Hallowed Ground National Scenic Byway ( designated October 16 , 2009 )",
         [
-          "Journey Through Hallowed Ground",
-          "National Scenic Byway"
-        ],
-        [
-          null,
           "/wiki/National_Scenic_Byway"
         ]
       ]
     ],
     [
       [
-        [
-          "Albemarle",
-          "Louisa",
-          "Orange"
-        ],
+        "Albemarle / Louisa / Orange",
         [
           "/wiki/Albemarle_County,_VA",
           "/wiki/Louisa_County,_VA",
@@ -964,23 +615,14 @@
         ]
       ],
       [
-        [
-          "SR 22",
-          "SR 231"
-        ],
+        "SR 22 ( Louisa Road ) / SR 231 ( Gordonsville Road )",
         [
           "/wiki/Virginia_State_Route_22",
           "/wiki/Virginia_State_Route_231"
         ]
       ],
       [
-        [
-          "US 250",
-          "Shadwell",
-          "US 15",
-          "US 33",
-          "Gordonsville"
-        ],
+        "US 250 at Shadwell to US 15 / US 33 in Gordonsville",
         [
           "/wiki/US_250_(VA)",
           "/wiki/Shadwell,_VA",
@@ -990,50 +632,32 @@
         ]
       ],
       [
-        [
-          "November 19 , 1987"
-        ],
-        [
-          null
-        ]
+        "November 19 , 1987",
+        []
       ],
       [
+        "part of the Journey Through Hallowed Ground National Scenic Byway ( designated October 16 , 2009 )",
         [
-          "Journey Through Hallowed Ground",
-          "National Scenic Byway"
-        ],
-        [
-          null,
           "/wiki/National_Scenic_Byway"
         ]
       ]
     ],
     [
       [
-        [
-          "Loudoun"
-        ],
+        "Loudoun",
         [
           "/wiki/Loudoun_County,_VA"
         ]
       ],
       [
-        [
-          "US 15",
-          "US 15 Bus"
-        ],
+        "US 15 / US 15 Bus . ( James Monroe Highway / King Street )",
         [
           "/wiki/U.S._Route_15_in_Virginia",
           "/wiki/U.S._Route_15_Business_(Leesburg,_Virginia)"
         ]
       ],
       [
-        [
-          "US 50",
-          "Gilberts Corner",
-          "Potomac River",
-          "Point of Rocks , MD"
-        ],
+        "US 50 at Gilberts Corner to Potomac River at Point of Rocks , MD",
         [
           "/wiki/US_50_(VA)",
           "/wiki/Gilberts_Corner,_VA",
@@ -1042,20 +666,12 @@
         ]
       ],
       [
-        [
-          "May 19 , 1988"
-        ],
-        [
-          null
-        ]
+        "May 19 , 1988",
+        []
       ],
       [
+        "part of the Journey Through Hallowed Ground National Scenic Byway ( designated October 16 , 2009 )",
         [
-          "Journey Through Hallowed Ground",
-          "National Scenic Byway"
-        ],
-        [
-          null,
           "/wiki/National_Scenic_Byway"
         ]
       ]

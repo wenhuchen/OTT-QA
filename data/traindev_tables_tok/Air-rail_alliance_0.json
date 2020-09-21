@@ -3,146 +3,92 @@
   "title": "Air-rail alliance",
   "header": [
     [
-      [
-        "Train Operating Company"
-      ],
-      [
-        null
-      ]
+      "Train Operating Company",
+      []
     ],
     [
-      [
-        "Airline"
-      ],
-      [
-        null
-      ]
+      "Airline",
+      []
     ],
     [
-      [
-        "From Airport"
-      ],
-      [
-        null
-      ]
+      "From Airport",
+      []
     ],
     [
-      [
-        "To City"
-      ],
-      [
-        null
-      ]
+      "To City",
+      []
     ],
     [
-      [
-        "Marketed As"
-      ],
-      [
-        null
-      ]
+      "Marketed As",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Amtrak"
-        ],
+        "Amtrak",
         [
           "/wiki/Amtrak"
         ]
       ],
       [
-        [
-          "United Airlines"
-        ],
+        "United Airlines",
         [
           "/wiki/United_Airlines"
         ]
       ],
       [
-        [
-          "Newark Liberty International Airport"
-        ],
+        "Newark Liberty International Airport",
         [
           "/wiki/Newark_Liberty_International_Airport"
         ]
       ],
       [
-        [
-          "New Haven , CT Philadelphia , PA Stamford , CT Wilmington , DE"
-        ],
-        [
-          null
-        ]
+        "New Haven , CT Philadelphia , PA Stamford , CT Wilmington , DE",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "CRH"
-        ],
+        "CRH",
         [
           "/wiki/China_Railway_High-speed"
         ]
       ],
       [
-        [
-          "China Eastern Airlines"
-        ],
+        "China Eastern Airlines",
         [
           "/wiki/China_Eastern_Airlines"
         ]
       ],
       [
-        [
-          "Shanghai Hongqiao International Airport"
-        ],
+        "Shanghai Hongqiao International Airport",
         [
           "/wiki/Shanghai_Hongqiao_International_Airport"
         ]
       ],
       [
-        [
-          "Shanghai-Hangzhou Shanghai-Wuxi"
-        ],
-        [
-          null
-        ]
+        "Shanghai-Hangzhou Shanghai-Wuxi",
+        []
       ],
       [
-        [
-          "China Eastern Air-Rail Service"
-        ],
-        [
-          null
-        ]
+        "China Eastern Air-Rail Service",
+        []
       ]
     ],
     [
       [
-        [
-          "Deutsche Bahn"
-        ],
+        "Deutsche Bahn",
         [
           "/wiki/Deutsche_Bahn"
         ]
       ],
       [
-        [
-          "Lufthansa",
-          "American Airlines",
-          "Emirates"
-        ],
+        "Lufthansa American Airlines Emirates",
         [
           "/wiki/Lufthansa",
           "/wiki/American_Airlines",
@@ -150,25 +96,17 @@
         ]
       ],
       [
-        [
-          "Frankfurt Airport"
-        ],
+        "Frankfurt Airport",
         [
           "/wiki/Frankfurt_Airport"
         ]
       ],
       [
-        [
-          "Stuttgart Cologne Siegburg/Bonn / Kassel Wilhelmsh\u00f6he / Karlsruhe main station"
-        ],
-        [
-          null
-        ]
+        "Stuttgart Cologne Siegburg/Bonn / Kassel Wilhelmsh\u00f6he / Karlsruhe main station",
+        []
       ],
       [
-        [
-          "AIRail"
-        ],
+        "AIRail",
         [
           "/wiki/AIRail_Service"
         ]
@@ -176,214 +114,145 @@
     ],
     [
       [
-        [
-          "\u00d6BB"
-        ],
+        "\u00d6BB",
         [
           "/wiki/\u00d6BB"
         ]
       ],
       [
-        [
-          "Austrian Airlines"
-        ],
+        "Austrian Airlines",
         [
           "/wiki/Austrian_Airlines"
         ]
       ],
       [
-        [
-          "Vienna International Airport"
-        ],
+        "Vienna International Airport",
         [
           "/wiki/Vienna_International_Airport"
         ]
       ],
       [
-        [
-          "Linz",
-          "Salzburg"
-        ],
+        "Linz Salzburg",
         [
           "/wiki/Linz",
           "/wiki/Salzburg"
         ]
       ],
       [
-        [
-          "AIRail"
-        ],
-        [
-          null
-        ]
+        "AIRail",
+        []
       ]
     ],
     [
       [
-        [
-          "SBB"
-        ],
+        "SBB",
         [
           "/wiki/Swiss_Federal_Railways"
         ]
       ],
       [
-        [
-          "Swiss International Air Lines"
-        ],
+        "Swiss International Air Lines",
         [
           "/wiki/Swiss_International_Air_Lines"
         ]
       ],
       [
-        [
-          "Zurich Airport"
-        ],
+        "Zurich Airport",
         [
           "/wiki/Zurich_Airport"
         ]
       ],
       [
-        [
-          "Basel"
-        ],
-        [
-          null
-        ]
+        "Basel",
+        []
       ],
       [
-        [
-          "Airtrain"
-        ],
-        [
-          null
-        ]
+        "Airtrain",
+        []
       ]
     ],
     [
       [
-        [
-          "SNCF"
-        ],
+        "SNCF",
         [
           "/wiki/SNCF"
         ]
       ],
       [
-        [
-          "Air France"
-        ],
+        "Air France",
         [
           "/wiki/Air_France"
         ]
       ],
       [
-        [
-          "Paris-Charles de Gaulle Airport"
-        ],
+        "Paris-Charles de Gaulle Airport",
         [
           "/wiki/Paris-Charles_de_Gaulle_Airport"
         ]
       ],
       [
-        [
-          "Brussels-Midi Strasbourg"
-        ],
-        [
-          null
-        ]
+        "Brussels-Midi Strasbourg",
+        []
       ],
       [
-        [
-          "Air & Rail"
-        ],
-        [
-          null
-        ]
+        "Air & Rail",
+        []
       ]
     ],
     [
       [
-        [
-          "Thalys"
-        ],
+        "Thalys",
         [
           "/wiki/Thalys"
         ]
       ],
       [
-        [
-          "KLM"
-        ],
+        "KLM",
         [
           "/wiki/KLM"
         ]
       ],
       [
-        [
-          "Amsterdam-Schiphol Airport"
-        ],
+        "Amsterdam-Schiphol Airport",
         [
           "/wiki/Amsterdam-Schiphol_Airport"
         ]
       ],
       [
-        [
-          "Antwerp Brussels"
-        ],
-        [
-          null
-        ]
+        "Antwerp Brussels",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Thalys"
-        ],
+        "Thalys",
         [
           "/wiki/Thalys"
         ]
       ],
       [
-        [
-          "American Airlines"
-        ],
+        "American Airlines",
         [
           "/wiki/American_Airlines"
         ]
       ],
       [
-        [
-          "Paris-Charles de Gaulle Airport"
-        ],
+        "Paris-Charles de Gaulle Airport",
         [
           "/wiki/Paris-Charles_de_Gaulle_Airport"
         ]
       ],
       [
-        [
-          "Brussels-Midi"
-        ],
-        [
-          null
-        ]
+        "Brussels-Midi",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ]
   ],

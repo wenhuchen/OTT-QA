@@ -3,52 +3,40 @@
   "title": "Fortifications of Paris in the 19th and 20th centuries",
   "header": [
     [
-      [
-        "Dir"
-      ],
-      [
-        null
-      ]
+      "",
+      []
     ],
     [
-      [
-        "Name"
-      ],
-      [
-        null
-      ]
+      "Dir",
+      []
     ],
     [
-      [
-        "Emplacement"
-      ],
-      [
-        null
-      ]
+      "Name",
+      []
+    ],
+    [
+      "Emplacement",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "N"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "Fort de Cormeilles-en-Parisis"
-        ],
+        "N",
+        []
+      ],
+      [
+        "Fort de Cormeilles-en-Parisis",
         [
           "/wiki/Fort_de_Cormeilles-en-Parisis"
         ]
       ],
       [
-        [
-          "Cormeilles-en-Parisis"
-        ],
+        "Cormeilles-en-Parisis",
         [
           "/wiki/Cormeilles-en-Parisis"
         ]
@@ -56,25 +44,19 @@
     ],
     [
       [
-        [
-          "N"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "Fort de Montlignon"
-        ],
-        [
-          null
-        ]
+        "N",
+        []
       ],
       [
-        [
-          "Montlignon"
-        ],
+        "Fort de Montlignon",
+        []
+      ],
+      [
+        "Montlignon",
         [
           "/wiki/Montlignon"
         ]
@@ -82,25 +64,21 @@
     ],
     [
       [
-        [
-          "N"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "Fort de Domont"
-        ],
+        "N",
+        []
+      ],
+      [
+        "Fort de Domont",
         [
           "/wiki/Fort_de_Domont"
         ]
       ],
       [
-        [
-          "Domont"
-        ],
+        "Domont",
         [
           "/wiki/Domont"
         ]
@@ -108,25 +86,21 @@
     ],
     [
       [
-        [
-          "N"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "Fort de Montmorency"
-        ],
+        "N",
+        []
+      ],
+      [
+        "Fort de Montmorency",
         [
           "/wiki/Fort_de_Montmorency"
         ]
       ],
       [
-        [
-          "Montmorency"
-        ],
+        "Montmorency",
         [
           "/wiki/Montmorency,_Val-d'Oise"
         ]
@@ -134,25 +108,19 @@
     ],
     [
       [
-        [
-          "N"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "Fort d'\u00c9couen"
-        ],
-        [
-          null
-        ]
+        "N",
+        []
       ],
       [
-        [
-          "\u00c9couen"
-        ],
+        "Fort d'\u00c9couen",
+        []
+      ],
+      [
+        "\u00c9couen",
         [
           "/wiki/\u00c9couen"
         ]
@@ -160,51 +128,37 @@
     ],
     [
       [
-        [
-          "N"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "Redoute de la Butte-Pinson"
-        ],
-        [
-          null
-        ]
+        "N",
+        []
       ],
       [
-        [
-          "Montmagny"
-        ],
-        [
-          null
-        ]
+        "Redoute de la Butte-Pinson",
+        []
+      ],
+      [
+        "Montmagny",
+        []
       ]
     ],
     [
       [
-        [
-          "N"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ],
       [
-        [
-          "Fort de Stains"
-        ],
-        [
-          null
-        ]
+        "N",
+        []
       ],
       [
-        [
-          "Garges-les-Gonesse"
-        ],
+        "Fort de Stains",
+        []
+      ],
+      [
+        "Garges-les-Gonesse",
         [
           "/wiki/Garges-les-Gonesse"
         ]
@@ -212,25 +166,21 @@
     ],
     [
       [
-        [
-          "E"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "Fort de Vaujours"
-        ],
+        "E",
+        []
+      ],
+      [
+        "Fort de Vaujours",
         [
           "/wiki/Fort_de_Vaujours"
         ]
       ],
       [
-        [
-          "Courtry"
-        ],
+        "Courtry",
         [
           "/wiki/Courtry"
         ]
@@ -238,25 +188,19 @@
     ],
     [
       [
-        [
-          "E"
-        ],
-        [
-          null
-        ]
+        "9",
+        []
       ],
       [
-        [
-          "Fort de Chelles"
-        ],
-        [
-          null
-        ]
+        "E",
+        []
       ],
       [
-        [
-          "Chelles"
-        ],
+        "Fort de Chelles",
+        []
+      ],
+      [
+        "Chelles",
         [
           "/wiki/Chelles,_Seine-et-Marne"
         ]
@@ -264,25 +208,21 @@
     ],
     [
       [
-        [
-          "E"
-        ],
-        [
-          null
-        ]
+        "10",
+        []
       ],
       [
-        [
-          "Fort de Villiers"
-        ],
+        "E",
+        []
+      ],
+      [
+        "Fort de Villiers",
         [
           "/wiki/Fort_de_Villiers"
         ]
       ],
       [
-        [
-          "Noisy-le-Grand"
-        ],
+        "Noisy-le-Grand",
         [
           "/wiki/Noisy-le-Grand"
         ]
@@ -290,25 +230,21 @@
     ],
     [
       [
-        [
-          "E"
-        ],
-        [
-          null
-        ]
+        "11",
+        []
       ],
       [
-        [
-          "Fort de Champigny"
-        ],
+        "E",
+        []
+      ],
+      [
+        "Fort de Champigny",
         [
           "/wiki/Fort_de_Champigny"
         ]
       ],
       [
-        [
-          "Champigny-sur-Marne"
-        ],
+        "Champigny-sur-Marne",
         [
           "/wiki/Champigny-sur-Marne"
         ]
@@ -316,25 +252,21 @@
     ],
     [
       [
-        [
-          "E"
-        ],
-        [
-          null
-        ]
+        "12",
+        []
       ],
       [
-        [
-          "Fort de Sucy"
-        ],
+        "E",
+        []
+      ],
+      [
+        "Fort de Sucy",
         [
           "/wiki/Fort_de_Sucy"
         ]
       ],
       [
-        [
-          "Sucy-en-Brie"
-        ],
+        "Sucy-en-Brie",
         [
           "/wiki/Sucy-en-Brie"
         ]
@@ -342,25 +274,19 @@
     ],
     [
       [
-        [
-          "E"
-        ],
-        [
-          null
-        ]
+        "13",
+        []
       ],
       [
-        [
-          "Fort de Villeneuve"
-        ],
-        [
-          null
-        ]
+        "E",
+        []
       ],
       [
-        [
-          "Villeneuve-Saint-Georges"
-        ],
+        "Fort de Villeneuve",
+        []
+      ],
+      [
+        "Villeneuve-Saint-Georges",
         [
           "/wiki/Villeneuve-Saint-Georges"
         ]
@@ -368,25 +294,19 @@
     ],
     [
       [
-        [
-          "S/W"
-        ],
-        [
-          null
-        ]
+        "14",
+        []
       ],
       [
-        [
-          "Fort de Palaiseau"
-        ],
-        [
-          null
-        ]
+        "S/W",
+        []
       ],
       [
-        [
-          "Palaiseau"
-        ],
+        "Fort de Palaiseau",
+        []
+      ],
+      [
+        "Palaiseau",
         [
           "/wiki/Palaiseau"
         ]
@@ -394,26 +314,21 @@
     ],
     [
       [
-        [
-          "S/W"
-        ],
-        [
-          null
-        ]
+        "15",
+        []
       ],
       [
-        [
-          "Fort de Ch\u00e2tillon"
-        ],
+        "S/W",
+        []
+      ],
+      [
+        "Fort de Ch\u00e2tillon",
         [
           "/wiki/Fort_de_Ch\u00e2tillon_(Paris)"
         ]
       ],
       [
-        [
-          "Ch\u00e2tillon-sous-Bagneux",
-          "Fontenay-aux-Roses"
-        ],
+        "Ch\u00e2tillon-sous-Bagneux Fontenay-aux-Roses",
         [
           "/wiki/Ch\u00e2tillon-sous-Bagneux",
           "/wiki/Fontenay-aux-Roses"
@@ -422,25 +337,19 @@
     ],
     [
       [
-        [
-          "S/W"
-        ],
-        [
-          null
-        ]
+        "16",
+        []
       ],
       [
-        [
-          "Fort de Villeras"
-        ],
-        [
-          null
-        ]
+        "S/W",
+        []
       ],
       [
-        [
-          "Saclay"
-        ],
+        "Fort de Villeras",
+        []
+      ],
+      [
+        "Saclay",
         [
           "/wiki/Saclay"
         ]
@@ -448,25 +357,21 @@
     ],
     [
       [
-        [
-          "S/W"
-        ],
-        [
-          null
-        ]
+        "17",
+        []
       ],
       [
-        [
-          "Batterie de Bouviers"
-        ],
+        "S/W",
+        []
+      ],
+      [
+        "Batterie de Bouviers",
         [
           "/wiki/Batterie_de_Bouviers"
         ]
       ],
       [
-        [
-          "Guyancourt"
-        ],
+        "Guyancourt",
         [
           "/wiki/Guyancourt"
         ]
@@ -474,25 +379,19 @@
     ],
     [
       [
-        [
-          "S/W"
-        ],
-        [
-          null
-        ]
+        "18",
+        []
       ],
       [
-        [
-          "Batterie du Ravin de Bouviers"
-        ],
-        [
-          null
-        ]
+        "S/W",
+        []
       ],
       [
-        [
-          "Versailles"
-        ],
+        "Batterie du Ravin de Bouviers",
+        []
+      ],
+      [
+        "Versailles",
         [
           "/wiki/Versailles_(city)"
         ]
@@ -500,51 +399,39 @@
     ],
     [
       [
-        [
-          "S/W"
-        ],
-        [
-          null
-        ]
+        "19",
+        []
       ],
       [
-        [
-          "Fort du Haut-Buc"
-        ],
-        [
-          null
-        ]
+        "S/W",
+        []
       ],
       [
-        [
-          "Buc ( Yvelines )"
-        ],
-        [
-          null
-        ]
+        "Fort du Haut-Buc",
+        []
+      ],
+      [
+        "Buc ( Yvelines )",
+        []
       ]
     ],
     [
       [
-        [
-          "S/W"
-        ],
-        [
-          null
-        ]
+        "20",
+        []
       ],
       [
-        [
-          "Fort de Saint-Cyr"
-        ],
+        "S/W",
+        []
+      ],
+      [
+        "Fort de Saint-Cyr",
         [
           "/wiki/Fort_de_Saint-Cyr"
         ]
       ],
       [
-        [
-          "Montigny-le-Bretonneux"
-        ],
+        "Montigny-le-Bretonneux",
         [
           "/wiki/Montigny-le-Bretonneux"
         ]

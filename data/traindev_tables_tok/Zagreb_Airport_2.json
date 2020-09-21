@@ -3,69 +3,42 @@
   "title": "Zagreb Airport",
   "header": [
     [
-      [
-        "City"
-      ],
-      [
-        null
-      ]
+      "City",
+      []
     ],
     [
-      [
-        "Airport ( s )"
-      ],
-      [
-        null
-      ]
+      "Airport ( s )",
+      []
     ],
     [
-      [
-        "Weekly Departures ( Summer 2018 )"
-      ],
-      [
-        null
-      ]
+      "Weekly Departures ( Summer 2018 )",
+      []
     ],
     [
-      [
-        "Airlines"
-      ],
-      [
-        null
-      ]
+      "Airlines",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Frankfurt"
-        ],
+        "Frankfurt",
         [
           "/wiki/Frankfurt"
         ]
       ],
       [
-        [
-          "Frankfurt Airport"
-        ],
+        "Frankfurt Airport",
         [
           "/wiki/Frankfurt_Airport"
         ]
       ],
       [
-        [
-          "35"
-        ],
-        [
-          null
-        ]
+        "35",
+        []
       ],
       [
-        [
-          "Croatia Airlines",
-          "Lufthansa"
-        ],
+        "Croatia Airlines , Lufthansa",
         [
           "/wiki/Croatia_Airlines",
           "/wiki/Lufthansa"
@@ -74,33 +47,23 @@
     ],
     [
       [
-        [
-          "Dubrovnik"
-        ],
+        "Dubrovnik",
         [
           "/wiki/Dubrovnik"
         ]
       ],
       [
-        [
-          "Dubrovnik Airport"
-        ],
+        "Dubrovnik Airport",
         [
           "/wiki/Dubrovnik_Airport"
         ]
       ],
       [
-        [
-          "34"
-        ],
-        [
-          null
-        ]
+        "34",
+        []
       ],
       [
-        [
-          "Croatia Airlines"
-        ],
+        "Croatia Airlines",
         [
           "/wiki/Croatia_Airlines"
         ]
@@ -108,34 +71,23 @@
     ],
     [
       [
-        [
-          "Vienna"
-        ],
+        "Vienna",
         [
           "/wiki/Vienna"
         ]
       ],
       [
-        [
-          "Schwechat Airport"
-        ],
+        "Schwechat Airport",
         [
           "/wiki/Vienna_Airport"
         ]
       ],
       [
-        [
-          "33"
-        ],
-        [
-          null
-        ]
+        "33",
+        []
       ],
       [
-        [
-          "Austrian Airlines",
-          "Croatia Airlines"
-        ],
+        "Austrian Airlines , Croatia Airlines",
         [
           "/wiki/Austrian_Airlines",
           "/wiki/Croatia_Airlines"
@@ -144,33 +96,23 @@
     ],
     [
       [
-        [
-          "Split"
-        ],
+        "Split",
         [
           "/wiki/Split,_Croatia"
         ]
       ],
       [
-        [
-          "Split Airport"
-        ],
+        "Split Airport",
         [
           "/wiki/Split_Airport"
         ]
       ],
       [
-        [
-          "33"
-        ],
-        [
-          null
-        ]
+        "33",
+        []
       ],
       [
-        [
-          "Croatia Airlines"
-        ],
+        "Croatia Airlines",
         [
           "/wiki/Croatia_Airlines"
         ]
@@ -178,34 +120,23 @@
     ],
     [
       [
-        [
-          "Munich"
-        ],
+        "Munich",
         [
           "/wiki/Munich"
         ]
       ],
       [
-        [
-          "Franz Josef Strauss Airport"
-        ],
+        "Franz Josef Strauss Airport",
         [
           "/wiki/Munich_Airport"
         ]
       ],
       [
-        [
-          "28"
-        ],
-        [
-          null
-        ]
+        "28",
+        []
       ],
       [
-        [
-          "Croatia Airlines",
-          "Lufthansa"
-        ],
+        "Croatia Airlines , Lufthansa",
         [
           "/wiki/Croatia_Airlines",
           "/wiki/Lufthansa"
@@ -214,34 +145,23 @@
     ],
     [
       [
-        [
-          "Z\u00fcrich"
-        ],
+        "Z\u00fcrich",
         [
           "/wiki/Z\u00fcrich"
         ]
       ],
       [
-        [
-          "Z\u00fcrich Airport"
-        ],
+        "Z\u00fcrich Airport",
         [
           "/wiki/Z\u00fcrich_Airport"
         ]
       ],
       [
-        [
-          "17"
-        ],
-        [
-          null
-        ]
+        "17",
+        []
       ],
       [
-        [
-          "Croatia Airlines",
-          "Swiss Air Lines"
-        ],
+        "Croatia Airlines , Swiss Air Lines",
         [
           "/wiki/Croatia_Airlines",
           "/wiki/Swiss_Air_Lines"
@@ -250,34 +170,23 @@
     ],
     [
       [
-        [
-          "Brussels"
-        ],
+        "Brussels",
         [
           "/wiki/Brussels"
         ]
       ],
       [
-        [
-          "Brussels Airport"
-        ],
+        "Brussels Airport",
         [
           "/wiki/Brussels_Airport"
         ]
       ],
       [
-        [
-          "16"
-        ],
-        [
-          null
-        ]
+        "16",
+        []
       ],
       [
-        [
-          "Brussels Airlines",
-          "Croatia Airlines"
-        ],
+        "Brussels Airlines , Croatia Airlines",
         [
           "/wiki/Brussels_Airlines",
           "/wiki/Croatia_Airlines"
@@ -286,34 +195,23 @@
     ],
     [
       [
-        [
-          "London"
-        ],
+        "London",
         [
           "/wiki/London"
         ]
       ],
       [
-        [
-          "Heathrow Airport"
-        ],
+        "Heathrow Airport",
         [
           "/wiki/Heathrow_Airport"
         ]
       ],
       [
-        [
-          "15"
-        ],
-        [
-          null
-        ]
+        "15",
+        []
       ],
       [
-        [
-          "British Airways",
-          "Croatia Airlines"
-        ],
+        "British Airways , Croatia Airlines",
         [
           "/wiki/British_Airways",
           "/wiki/Croatia_Airlines"
@@ -322,34 +220,23 @@
     ],
     [
       [
-        [
-          "Paris"
-        ],
+        "Paris",
         [
           "/wiki/Paris"
         ]
       ],
       [
-        [
-          "Charles de Gaulle Airport"
-        ],
+        "Charles de Gaulle Airport",
         [
           "/wiki/Charles_de_Gaulle_Airport"
         ]
       ],
       [
-        [
-          "14"
-        ],
-        [
-          null
-        ]
+        "14",
+        []
       ],
       [
-        [
-          "Air France",
-          "Croatia Airlines"
-        ],
+        "Air France , Croatia Airlines",
         [
           "/wiki/Air_France",
           "/wiki/Croatia_Airlines"
@@ -358,34 +245,23 @@
     ],
     [
       [
-        [
-          "Amsterdam"
-        ],
+        "Amsterdam",
         [
           "/wiki/Amsterdam"
         ]
       ],
       [
-        [
-          "Schiphol Airport"
-        ],
+        "Schiphol Airport",
         [
           "/wiki/Schiphol_Airport"
         ]
       ],
       [
-        [
-          "14"
-        ],
-        [
-          null
-        ]
+        "14",
+        []
       ],
       [
-        [
-          "Croatia Airlines",
-          "KLM"
-        ],
+        "Croatia Airlines , KLM",
         [
           "/wiki/Croatia_Airlines",
           "/wiki/KLM"
@@ -394,33 +270,23 @@
     ],
     [
       [
-        [
-          "Doha"
-        ],
+        "Doha",
         [
           "/wiki/Doha"
         ]
       ],
       [
-        [
-          "Hamad International Airport"
-        ],
+        "Hamad International Airport",
         [
           "/wiki/Hamad_International_Airport"
         ]
       ],
       [
-        [
-          "14"
-        ],
-        [
-          null
-        ]
+        "14",
+        []
       ],
       [
-        [
-          "Qatar Airways"
-        ],
+        "Qatar Airways",
         [
           "/wiki/Qatar_Airways"
         ]
@@ -428,33 +294,23 @@
     ],
     [
       [
-        [
-          "Istanbul"
-        ],
+        "Istanbul",
         [
           "/wiki/Istanbul"
         ]
       ],
       [
-        [
-          "Atat\u00fcrk Airport"
-        ],
+        "Atat\u00fcrk Airport",
         [
           "/wiki/Istanbul_Atat\u00fcrk_Airport"
         ]
       ],
       [
-        [
-          "14"
-        ],
-        [
-          null
-        ]
+        "14",
+        []
       ],
       [
-        [
-          "Turkish Airlines"
-        ],
+        "Turkish Airlines",
         [
           "/wiki/Turkish_Airlines"
         ]
@@ -462,33 +318,23 @@
     ],
     [
       [
-        [
-          "Madrid"
-        ],
+        "Madrid",
         [
           "/wiki/Madrid"
         ]
       ],
       [
-        [
-          "Adolfo Su\u00e1rez Madrid-Barajas Airport"
-        ],
+        "Adolfo Su\u00e1rez Madrid-Barajas Airport",
         [
           "/wiki/Madrid_Barajas_International_Airport"
         ]
       ],
       [
-        [
-          "14"
-        ],
-        [
-          null
-        ]
+        "14",
+        []
       ],
       [
-        [
-          "Iberia"
-        ],
+        "Iberia",
         [
           "/wiki/Iberia_(airline)"
         ]
@@ -496,33 +342,23 @@
     ],
     [
       [
-        [
-          "Warsaw"
-        ],
+        "Warsaw",
         [
           "/wiki/Warsaw"
         ]
       ],
       [
-        [
-          "Warsaw Chopin Airport"
-        ],
+        "Warsaw Chopin Airport",
         [
           "/wiki/Warsaw_Chopin_Airport"
         ]
       ],
       [
-        [
-          "14"
-        ],
-        [
-          null
-        ]
+        "14",
+        []
       ],
       [
-        [
-          "LOT Polish Airlines"
-        ],
+        "LOT Polish Airlines",
         [
           "/wiki/LOT_Polish_Airlines"
         ]
@@ -530,33 +366,23 @@
     ],
     [
       [
-        [
-          "Sarajevo"
-        ],
+        "Sarajevo",
         [
           "/wiki/Sarajevo"
         ]
       ],
       [
-        [
-          "Sarajevo Airport"
-        ],
+        "Sarajevo Airport",
         [
           "/wiki/Sarajevo_Airport"
         ]
       ],
       [
-        [
-          "13"
-        ],
-        [
-          null
-        ]
+        "13",
+        []
       ],
       [
-        [
-          "Croatia Airlines"
-        ],
+        "Croatia Airlines",
         [
           "/wiki/Croatia_Airlines"
         ]
@@ -564,33 +390,23 @@
     ],
     [
       [
-        [
-          "Zadar"
-        ],
+        "Zadar",
         [
           "/wiki/Zadar"
         ]
       ],
       [
-        [
-          "Zadar Airport"
-        ],
+        "Zadar Airport",
         [
           "/wiki/Zadar_Airport"
         ]
       ],
       [
-        [
-          "13"
-        ],
-        [
-          null
-        ]
+        "13",
+        []
       ],
       [
-        [
-          "Croatia Airlines"
-        ],
+        "Croatia Airlines",
         [
           "/wiki/Croatia_Airlines"
         ]
@@ -598,33 +414,23 @@
     ],
     [
       [
-        [
-          "Pula"
-        ],
+        "Pula",
         [
           "/wiki/Pula"
         ]
       ],
       [
-        [
-          "Pula Airport"
-        ],
+        "Pula Airport",
         [
           "/wiki/Pula_Airport"
         ]
       ],
       [
-        [
-          "13"
-        ],
-        [
-          null
-        ]
+        "13",
+        []
       ],
       [
-        [
-          "Croatia Airlines"
-        ],
+        "Croatia Airlines ( via Zadar )",
         [
           "/wiki/Croatia_Airlines"
         ]
@@ -632,33 +438,23 @@
     ],
     [
       [
-        [
-          "Skopje"
-        ],
+        "Skopje",
         [
           "/wiki/Skopje"
         ]
       ],
       [
-        [
-          "Skopje International Airport"
-        ],
+        "Skopje International Airport",
         [
           "/wiki/Skopje_International_Airport"
         ]
       ],
       [
-        [
-          "12"
-        ],
-        [
-          null
-        ]
+        "12",
+        []
       ],
       [
-        [
-          "Croatia Airlines"
-        ],
+        "Croatia Airlines",
         [
           "/wiki/Croatia_Airlines"
         ]
@@ -666,33 +462,23 @@
     ],
     [
       [
-        [
-          "Belgrade"
-        ],
+        "Belgrade",
         [
           "/wiki/Belgrade"
         ]
       ],
       [
-        [
-          "Belgrade Nikola Tesla Airport"
-        ],
+        "Belgrade Nikola Tesla Airport",
         [
           "/wiki/Belgrade_Nikola_Tesla_Airport"
         ]
       ],
       [
-        [
-          "11"
-        ],
-        [
-          null
-        ]
+        "11",
+        []
       ],
       [
-        [
-          "Air Serbia"
-        ],
+        "Air Serbia",
         [
           "/wiki/Air_Serbia"
         ]
@@ -700,34 +486,23 @@
     ],
     [
       [
-        [
-          "Prague"
-        ],
+        "Prague",
         [
           "/wiki/Prague"
         ]
       ],
       [
-        [
-          "V\u00e1clav Havel Airport"
-        ],
+        "V\u00e1clav Havel Airport",
         [
           "/wiki/V\u00e1clav_Havel_Airport"
         ]
       ],
       [
-        [
-          "11"
-        ],
-        [
-          null
-        ]
+        "11",
+        []
       ],
       [
-        [
-          "Croatia Airlines",
-          "Czech Airlines"
-        ],
+        "Croatia Airlines , Czech Airlines",
         [
           "/wiki/Croatia_Airlines",
           "/wiki/Czech_Airlines"

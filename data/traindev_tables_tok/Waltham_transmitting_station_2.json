@@ -3,84 +3,48 @@
   "title": "Waltham transmitting station",
   "header": [
     [
-      [
-        "Frequency"
-      ],
-      [
-        null
-      ]
+      "Frequency",
+      []
     ],
     [
-      [
-        "UHF"
-      ],
-      [
-        null
-      ]
+      "UHF",
+      []
     ],
     [
-      [
-        "kW"
-      ],
-      [
-        null
-      ]
+      "kW",
+      []
     ],
     [
-      [
-        "Operator"
-      ],
-      [
-        null
-      ]
+      "Operator",
+      []
     ],
     [
-      [
-        "System"
-      ],
-      [
-        null
-      ]
+      "System",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "MHz"
-        ],
+        "514.000 MHz",
         [
           "/wiki/Hertz"
         ]
       ],
       [
-        [
-          "26"
-        ],
-        [
-          null
-        ]
+        "26",
+        []
       ],
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "LTVmux"
-        ],
-        [
-          null
-        ]
+        "LTVmux",
+        []
       ],
       [
-        [
-          "DVB-T"
-        ],
+        "DVB-T",
         [
           "/wiki/DVB-T"
         ]
@@ -88,83 +52,53 @@
     ],
     [
       [
-        [
-          "MHz"
-        ],
+        "538.000 MHz",
         [
           "/wiki/Hertz"
         ]
       ],
       [
-        [
-          "29"
-        ],
-        [
-          null
-        ]
+        "29",
+        []
       ],
       [
-        [
-          "25"
-        ],
-        [
-          null
-        ]
+        "25",
+        []
       ],
       [
-        [
-          "SDN"
-        ],
+        "COM4 ( SDN )",
         [
           "/wiki/S4C_Digital_Networks"
         ]
       ],
       [
-        [
-          "DVB-T"
-        ],
-        [
-          null
-        ]
+        "DVB-T",
+        []
       ]
     ],
     [
       [
-        [
-          "MHz"
-        ],
+        "554.000 MHz",
         [
           "/wiki/Hertz"
         ]
       ],
       [
-        [
-          "31"
-        ],
-        [
-          null
-        ]
+        "31",
+        []
       ],
       [
-        [
-          "10.2"
-        ],
-        [
-          null
-        ]
+        "10.2",
+        []
       ],
       [
-        [
-          "ARQ"
-        ],
+        "COM7 ( ARQ C )",
         [
           "/wiki/Arqiva"
         ]
       ],
       [
-        [
-          "DVB-T2"
-        ],
+        "DVB-T2",
         [
           "/wiki/DVB-T2"
         ]
@@ -172,254 +106,150 @@
     ],
     [
       [
-        [
-          "MHz"
-        ],
+        "602.000 MHz",
         [
           "/wiki/Hertz"
         ]
       ],
       [
-        [
-          "37"
-        ],
-        [
-          null
-        ]
+        "37",
+        []
       ],
       [
-        [
-          "25"
-        ],
-        [
-          null
-        ]
+        "25",
+        []
       ],
       [
-        [
-          "COM5 ( ARQ A )"
-        ],
-        [
-          null
-        ]
+        "COM5 ( ARQ A )",
+        []
       ],
       [
-        [
-          "DVB-T"
-        ],
-        [
-          null
-        ]
+        "DVB-T",
+        []
       ]
     ],
     [
       [
-        [
-          "MHz"
-        ],
+        "698.000 MHz",
         [
           "/wiki/Hertz"
         ]
       ],
       [
-        [
-          "49"
-        ],
-        [
-          null
-        ]
+        "49",
+        []
       ],
       [
-        [
-          "50"
-        ],
-        [
-          null
-        ]
+        "50",
+        []
       ],
       [
-        [
-          "BBC"
-        ],
+        "PSB1 ( BBC A )",
         [
           "/wiki/BBC"
         ]
       ],
       [
-        [
-          "DVB-T"
-        ],
-        [
-          null
-        ]
+        "DVB-T",
+        []
       ]
     ],
     [
       [
-        [
-          "MHz"
-        ],
+        "737.833 MHz",
         [
           "/wiki/Hertz"
         ]
       ],
       [
-        [
-          "54-"
-        ],
-        [
-          null
-        ]
+        "54-",
+        []
       ],
       [
-        [
-          "50"
-        ],
-        [
-          null
-        ]
+        "50",
+        []
       ],
       [
-        [
-          "D3 & 4"
-        ],
+        "PSB2 ( D3 & 4 )",
         [
           "/wiki/Digital_3&4"
         ]
       ],
       [
-        [
-          "DVB-T"
-        ],
-        [
-          null
-        ]
+        "DVB-T",
+        []
       ]
     ],
     [
       [
-        [
-          "MHz"
-        ],
+        "754.000 MHz",
         [
           "/wiki/Hertz"
         ]
       ],
       [
-        [
-          "56"
-        ],
-        [
-          null
-        ]
+        "56",
+        []
       ],
       [
-        [
-          "1.4"
-        ],
-        [
-          null
-        ]
+        "1.4",
+        []
       ],
       [
-        [
-          "COM8 ( ARQ D )"
-        ],
-        [
-          null
-        ]
+        "COM8 ( ARQ D )",
+        []
       ],
       [
-        [
-          "DVB-T2"
-        ],
-        [
-          null
-        ]
+        "DVB-T2",
+        []
       ]
     ],
     [
       [
-        [
-          "MHz"
-        ],
+        "762.000 MHz",
         [
           "/wiki/Hertz"
         ]
       ],
       [
-        [
-          "57"
-        ],
-        [
-          null
-        ]
+        "57",
+        []
       ],
       [
-        [
-          "25"
-        ],
-        [
-          null
-        ]
+        "25",
+        []
       ],
       [
-        [
-          "COM6 ( ARQ B )"
-        ],
-        [
-          null
-        ]
+        "COM6 ( ARQ B )",
+        []
       ],
       [
-        [
-          "DVB-T"
-        ],
-        [
-          null
-        ]
+        "DVB-T",
+        []
       ]
     ],
     [
       [
-        [
-          "MHz"
-        ],
+        "770.000 MHz",
         [
           "/wiki/Hertz"
         ]
       ],
       [
-        [
-          "58"
-        ],
-        [
-          null
-        ]
+        "58",
+        []
       ],
       [
-        [
-          "50"
-        ],
-        [
-          null
-        ]
+        "50",
+        []
       ],
       [
-        [
-          "PSB3 ( BBC B )"
-        ],
-        [
-          null
-        ]
+        "PSB3 ( BBC B )",
+        []
       ],
       [
-        [
-          "DVB-T2"
-        ],
-        [
-          null
-        ]
+        "DVB-T2",
+        []
       ]
     ]
   ],

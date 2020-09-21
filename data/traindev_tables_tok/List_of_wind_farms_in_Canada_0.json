@@ -3,94 +3,56 @@
   "title": "List of wind farms in Canada",
   "header": [
     [
-      [
-        "Rank"
-      ],
-      [
-        null
-      ]
+      "Rank",
+      []
     ],
     [
-      [
-        "Name"
-      ],
-      [
-        null
-      ]
+      "Name",
+      []
     ],
     [
-      [
-        "MW"
-      ],
+      "Capacity ( MW )",
       [
         "/wiki/Megawatt"
       ]
     ],
     [
-      [
-        "Province"
-      ],
-      [
-        null
-      ]
+      "Province",
+      []
     ],
     [
-      [
-        "Owner"
-      ],
-      [
-        null
-      ]
+      "Owner",
+      []
     ],
     [
-      [
-        "Year"
-      ],
-      [
-        null
-      ]
+      "Year",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "Seigneurie de Beaupr\u00e9"
-        ],
+        "Seigneurie de Beaupr\u00e9",
         [
           "/wiki/Seigneurie_de_Beaupr\u00e9_Wind_Farms"
         ]
       ],
       [
-        [
-          "363.5"
-        ],
-        [
-          null
-        ]
+        "363.5",
+        []
       ],
       [
-        [
-          "Quebec"
-        ],
+        "Quebec",
         [
           "/wiki/Quebec"
         ]
       ],
       [
-        [
-          "Boralex",
-          "Gaz M\u00e9tro",
-          "La C\u00f4te-de-Beaupr\u00e9"
-        ],
+        "Boralex ( 50% ) Gaz M\u00e9tro ( 46.8% ) La C\u00f4te-de-Beaupr\u00e9 ( 3.2% )",
         [
           "/wiki/Boralex",
           "/wiki/Gaz_M\u00e9tro",
@@ -98,980 +60,614 @@
         ]
       ],
       [
-        [
-          "2013"
-        ],
-        [
-          null
-        ]
+        "2013",
+        []
       ]
     ],
     [
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "Rivi\u00e8re-du-Moulin"
-        ],
+        "Rivi\u00e8re-du-Moulin",
         [
           "/wiki/Rivi\u00e8re-du-Moulin_Wind_Project"
         ]
       ],
       [
-        [
-          "350"
-        ],
-        [
-          null
-        ]
+        "350",
+        []
       ],
       [
-        [
-          "Quebec"
-        ],
+        "Quebec",
         [
           "/wiki/Quebec"
         ]
       ],
       [
-        [
-          "EDF Renewables"
-        ],
+        "EDF Renewables",
         [
           "/wiki/EDF_Renewables"
         ]
       ],
       [
-        [
-          "2014"
-        ],
-        [
-          null
-        ]
+        "2014",
+        []
       ]
     ],
     [
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "Blackspring Ridge"
-        ],
+        "Blackspring Ridge",
         [
           "/wiki/Blackspring_Ridge_Wind_Project"
         ]
       ],
       [
-        [
-          "300"
-        ],
-        [
-          null
-        ]
+        "300",
+        []
       ],
       [
-        [
-          "Alberta"
-        ],
+        "Alberta",
         [
           "/wiki/Alberta"
         ]
       ],
       [
-        [
-          "EDF Renewables",
-          "Enbridge"
-        ],
+        "EDF Renewables Enbridge",
         [
           "/wiki/EDF_Renewables",
           "/wiki/Enbridge"
         ]
       ],
       [
-        [
-          "2014"
-        ],
-        [
-          null
-        ]
+        "2014",
+        []
       ]
     ],
     [
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "Henvey Inlet"
-        ],
-        [
-          null
-        ]
+        "Henvey Inlet",
+        []
       ],
       [
-        [
-          "300"
-        ],
-        [
-          null
-        ]
+        "300",
+        []
       ],
       [
-        [
-          "Ontario"
-        ],
+        "Ontario",
         [
           "/wiki/Ontario"
         ]
       ],
       [
+        "Pattern Energy Nigig Power",
         [
-          "Pattern Energy",
-          "Nigig Power"
-        ],
-        [
-          "/wiki/Pattern_Energy",
-          null
+          "/wiki/Pattern_Energy"
         ]
       ],
       [
-        [
-          "2019"
-        ],
-        [
-          null
-        ]
+        "2019",
+        []
       ]
     ],
     [
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "Lac Alfred"
-        ],
+        "Lac Alfred",
         [
           "/wiki/Lac_Alfred_Wind_Project"
         ]
       ],
       [
-        [
-          "300"
-        ],
-        [
-          null
-        ]
+        "300",
+        []
       ],
       [
-        [
-          "Quebec"
-        ],
+        "Quebec",
         [
           "/wiki/Quebec"
         ]
       ],
       [
-        [
-          "EDF Renewables",
-          "Enbridge"
-        ],
+        "EDF Renewables Enbridge",
         [
           "/wiki/EDF_Renewables",
           "/wiki/Enbridge"
         ]
       ],
       [
-        [
-          "2013"
-        ],
-        [
-          null
-        ]
+        "2013",
+        []
       ]
     ],
     [
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "Niagara Region"
-        ],
+        "Niagara Region",
         [
           "/wiki/Niagara_Region_Wind_Farm"
         ]
       ],
       [
-        [
-          "230"
-        ],
-        [
-          null
-        ]
+        "230",
+        []
       ],
       [
-        [
-          "Ontario"
-        ],
+        "Ontario",
         [
           "/wiki/Ontario"
         ]
       ],
       [
-        [
-          "Boralex",
-          "Enercon",
-          "SNGRDC"
-        ],
+        "Boralex Enercon SNGRDC",
         [
           "/wiki/Boralex",
-          "/wiki/Enercon",
-          null
+          "/wiki/Enercon"
         ]
       ],
       [
-        [
-          "2016"
-        ],
-        [
-          null
-        ]
+        "2016",
+        []
       ]
     ],
     [
       [
-        [
-          "7"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ],
       [
-        [
-          "Gros-Morne"
-        ],
+        "Gros-Morne",
         [
           "/wiki/Gros-Morne_Wind_Farm"
         ]
       ],
       [
-        [
-          "211.5"
-        ],
-        [
-          null
-        ]
+        "211.5",
+        []
       ],
       [
-        [
-          "Quebec"
-        ],
+        "Quebec",
         [
           "/wiki/Quebec"
         ]
       ],
       [
-        [
-          "Cartier Wind Energy"
-        ],
+        "Cartier Wind Energy",
         [
           "/wiki/Cartier_Wind_Energy"
         ]
       ],
       [
-        [
-          "2011"
-        ],
-        [
-          null
-        ]
+        "2011",
+        []
       ]
     ],
     [
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "Amaranth"
-        ],
+        "Amaranth",
         [
           "/wiki/Amaranth_Wind_Farm"
         ]
       ],
       [
-        [
-          "199.5"
-        ],
-        [
-          null
-        ]
+        "199.5",
+        []
       ],
       [
-        [
-          "Ontario"
-        ],
+        "Ontario",
         [
           "/wiki/Ontario"
         ]
       ],
       [
-        [
-          "TransAlta"
-        ],
+        "TransAlta",
         [
           "/wiki/TransAlta"
         ]
       ],
       [
-        [
-          "2008"
-        ],
-        [
-          null
-        ]
+        "2008",
+        []
       ]
     ],
     [
       [
-        [
-          "9"
-        ],
-        [
-          null
-        ]
+        "9",
+        []
       ],
       [
-        [
-          "Wolfe Island"
-        ],
+        "Wolfe Island",
         [
           "/wiki/Wolfe_Island_Wind_Farm"
         ]
       ],
       [
-        [
-          "197"
-        ],
-        [
-          null
-        ]
+        "197",
+        []
       ],
       [
-        [
-          "Ontario"
-        ],
+        "Ontario",
         [
           "/wiki/Ontario"
         ]
       ],
       [
-        [
-          "Canadian Hydro Developers"
-        ],
+        "Canadian Hydro Developers",
         [
           "/wiki/Canadian_Hydro_Developers"
         ]
       ],
       [
-        [
-          "2009"
-        ],
-        [
-          null
-        ]
+        "2009",
+        []
       ]
     ],
     [
       [
-        [
-          "10"
-        ],
-        [
-          null
-        ]
+        "10",
+        []
       ],
       [
-        [
-          "Prince Township"
-        ],
+        "Prince Township",
         [
           "/wiki/Prince_Township_Wind_Farm"
         ]
       ],
       [
-        [
-          "189"
-        ],
-        [
-          null
-        ]
+        "189",
+        []
       ],
       [
-        [
-          "Ontario"
-        ],
+        "Ontario",
         [
           "/wiki/Ontario"
         ]
       ],
       [
-        [
-          "Brookfield Power"
-        ],
+        "Brookfield Power",
         [
           "/wiki/Brookfield_Asset_Management"
         ]
       ],
       [
-        [
-          "2006"
-        ],
-        [
-          null
-        ]
+        "2006",
+        []
       ]
     ],
     [
       [
-        [
-          "11"
-        ],
-        [
-          null
-        ]
+        "11",
+        []
       ],
       [
-        [
-          "Meikle"
-        ],
+        "Meikle",
         [
           "/wiki/Meikle_Wind_Farm"
         ]
       ],
       [
-        [
-          "184.6"
-        ],
-        [
-          null
-        ]
+        "184.6",
+        []
       ],
       [
-        [
-          "British Columbia"
-        ],
+        "British Columbia",
         [
           "/wiki/British_Columbia"
         ]
       ],
       [
-        [
-          "Pattern Energy",
-          "PSP Investments"
-        ],
+        "Pattern Energy PSP Investments",
         [
           "/wiki/Pattern_Energy",
           "/wiki/Public_Sector_Pension_Investment_Board"
         ]
       ],
       [
-        [
-          "2016"
-        ],
-        [
-          null
-        ]
+        "2016",
+        []
       ]
     ],
     [
       [
-        [
-          "12"
-        ],
-        [
-          null
-        ]
+        "12",
+        []
       ],
       [
-        [
-          "Underwood"
-        ],
+        "Underwood",
         [
           "/wiki/Underwood_Wind_Farm"
         ]
       ],
       [
-        [
-          "181.5"
-        ],
-        [
-          null
-        ]
+        "181.5",
+        []
       ],
       [
-        [
-          "Ontario"
-        ],
+        "Ontario",
         [
           "/wiki/Ontario"
         ]
       ],
       [
-        [
-          "Enbridge"
-        ],
+        "Enbridge",
         [
           "/wiki/Enbridge"
         ]
       ],
       [
-        [
-          "2009"
-        ],
-        [
-          null
-        ]
+        "2009",
+        []
       ]
     ],
     [
       [
-        [
-          "13"
-        ],
-        [
-          null
-        ]
+        "13",
+        []
       ],
       [
-        [
-          "Armow"
-        ],
-        [
-          null
-        ]
+        "Armow",
+        []
       ],
       [
-        [
-          "180"
-        ],
-        [
-          null
-        ]
+        "180",
+        []
       ],
       [
-        [
-          "Ontario"
-        ],
+        "Ontario",
         [
           "/wiki/Ontario"
         ]
       ],
       [
-        [
-          "Pattern Energy"
-        ],
+        "Pattern Energy",
         [
           "/wiki/Pattern_Energy"
         ]
       ],
       [
-        [
-          "2015"
-        ],
-        [
-          null
-        ]
+        "2015",
+        []
       ]
     ],
     [
       [
-        [
-          "14"
-        ],
-        [
-          null
-        ]
+        "14",
+        []
       ],
       [
-        [
-          "Kent Hills"
-        ],
+        "Kent Hills",
         [
           "/wiki/Kent_Hills_Wind_Farm"
         ]
       ],
       [
-        [
-          "167"
-        ],
-        [
-          null
-        ]
+        "167",
+        []
       ],
       [
-        [
-          "New Brunswick"
-        ],
+        "New Brunswick",
         [
           "/wiki/New_Brunswick"
         ]
       ],
       [
-        [
-          "TransAlta"
-        ],
+        "TransAlta",
         [
           "/wiki/TransAlta"
         ]
       ],
       [
-        [
-          "2008"
-        ],
-        [
-          null
-        ]
+        "2008",
+        []
       ]
     ],
     [
       [
-        [
-          "15"
-        ],
-        [
-          null
-        ]
+        "15",
+        []
       ],
       [
-        [
-          "Comber"
-        ],
+        "Comber",
         [
           "/wiki/Comber_Wind_Farm"
         ]
       ],
       [
-        [
-          "165.6"
-        ],
-        [
-          null
-        ]
+        "165.6",
+        []
       ],
       [
-        [
-          "Ontario"
-        ],
+        "Ontario",
         [
           "/wiki/Ontario"
         ]
       ],
       [
-        [
-          "Brookfield Renewable Power"
-        ],
+        "Brookfield Renewable Power",
         [
           "/wiki/Brookfield_Renewable_Power"
         ]
       ],
       [
-        [
-          "2012"
-        ],
-        [
-          null
-        ]
+        "2012",
+        []
       ]
     ],
     [
       [
-        [
-          "16"
-        ],
-        [
-          null
-        ]
+        "16",
+        []
       ],
       [
-        [
-          "Centennial"
-        ],
+        "Centennial",
         [
           "/wiki/Centennial_Wind_Power_Facility"
         ]
       ],
       [
-        [
-          "150"
-        ],
-        [
-          null
-        ]
+        "150",
+        []
       ],
       [
-        [
-          "Saskatchewan"
-        ],
+        "Saskatchewan",
         [
           "/wiki/Saskatchewan"
         ]
       ],
       [
-        [
-          "SaskPower"
-        ],
+        "SaskPower",
         [
           "/wiki/SaskPower"
         ]
       ],
       [
-        [
-          "2006"
-        ],
-        [
-          null
-        ]
+        "2006",
+        []
       ]
     ],
     [
       [
-        [
-          "16"
-        ],
-        [
-          null
-        ]
+        "16",
+        []
       ],
       [
-        [
-          "Massif du Sud"
-        ],
+        "Massif du Sud",
         [
           "/wiki/Massif_du_Sud_Wind_Project"
         ]
       ],
       [
-        [
-          "150"
-        ],
-        [
-          null
-        ]
+        "150",
+        []
       ],
       [
-        [
-          "Quebec"
-        ],
+        "Quebec",
         [
           "/wiki/Quebec"
         ]
       ],
       [
-        [
-          "EDF Renewables",
-          "Enbridge"
-        ],
+        "EDF Renewables Enbridge",
         [
           "/wiki/EDF_Renewables",
           "/wiki/Enbridge"
         ]
       ],
       [
-        [
-          "2013"
-        ],
-        [
-          null
-        ]
+        "2013",
+        []
       ]
     ],
     [
       [
-        [
-          "18"
-        ],
-        [
-          null
-        ]
+        "18",
+        []
       ],
       [
-        [
-          "Halkirk"
-        ],
-        [
-          null
-        ]
+        "Halkirk",
+        []
       ],
       [
-        [
-          "149.4"
-        ],
-        [
-          null
-        ]
+        "149.4",
+        []
       ],
       [
-        [
-          "Alberta"
-        ],
+        "Alberta",
         [
           "/wiki/Alberta"
         ]
       ],
       [
-        [
-          "Capital Power"
-        ],
+        "Capital Power",
         [
           "/wiki/Capital_Power"
         ]
       ],
       [
-        [
-          "2012"
-        ],
-        [
-          null
-        ]
+        "2012",
+        []
       ]
     ],
     [
       [
-        [
-          "19"
-        ],
-        [
-          null
-        ]
+        "19",
+        []
       ],
       [
-        [
-          "Dokie Ridge"
-        ],
+        "Dokie Ridge",
         [
           "/wiki/Dokie_Ridge_Wind_Farm"
         ]
       ],
       [
-        [
-          "144"
-        ],
-        [
-          null
-        ]
+        "144",
+        []
       ],
       [
-        [
-          "British Columbia"
-        ],
+        "British Columbia",
         [
           "/wiki/British_Columbia"
         ]
       ],
       [
+        "Axium Infrastructure GE Power Innergex Renewable Energy",
         [
-          "Axium Infrastructure",
-          "GE Power",
-          "Innergex Renewable Energy"
-        ],
-        [
-          null,
           "/wiki/GE_Power",
           "/wiki/Innergex_Renewable_Energy"
         ]
       ],
       [
-        [
-          "2011"
-        ],
-        [
-          null
-        ]
+        "2011",
+        []
       ]
     ],
     [
       [
-        [
-          "20"
-        ],
-        [
-          null
-        ]
+        "20",
+        []
       ],
       [
-        [
-          "Quality"
-        ],
-        [
-          null
-        ]
+        "Quality",
+        []
       ],
       [
-        [
-          "142.2"
-        ],
-        [
-          null
-        ]
+        "142.2",
+        []
       ],
       [
-        [
-          "British Columbia"
-        ],
+        "British Columbia",
         [
           "/wiki/British_Columbia"
         ]
       ],
       [
-        [
-          "Capital Power"
-        ],
+        "Capital Power",
         [
           "/wiki/Capital_Power"
         ]
       ],
       [
-        [
-          "2012"
-        ],
-        [
-          null
-        ]
+        "2012",
+        []
       ]
     ]
   ],

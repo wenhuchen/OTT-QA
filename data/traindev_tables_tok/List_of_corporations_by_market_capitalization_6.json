@@ -3,41 +3,23 @@
   "title": "List of public corporations by market capitalization",
   "header": [
     [
-      [
-        "Rank"
-      ],
-      [
-        null
-      ]
+      "Rank",
+      []
     ],
     [
-      [
-        "Name"
-      ],
-      [
-        null
-      ]
+      "Name",
+      []
     ],
     [
-      [
-        "Headquarters"
-      ],
-      [
-        null
-      ]
+      "Headquarters",
+      []
     ],
     [
-      [
-        "Primary industry"
-      ],
-      [
-        null
-      ]
+      "Primary industry",
+      []
     ],
     [
-      [
-        "USD"
-      ],
+      "Market value ( USD million )",
       [
         "/wiki/USD"
       ]
@@ -46,422 +28,256 @@
   "data": [
     [
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "Microsoft"
-        ],
+        "Microsoft",
         [
           "/wiki/Microsoft"
         ]
       ],
       [
-        [
-          "United States"
-        ],
-        [
-          null
-        ]
+        "United States",
+        []
       ],
       [
-        [
-          "Software industry"
-        ],
+        "Software industry",
         [
           "/wiki/Software_industry"
         ]
       ],
       [
-        [
-          "586,197"
-        ],
-        [
-          null
-        ]
+        "586,197",
+        []
       ]
     ],
     [
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "General Electric"
-        ],
+        "General Electric",
         [
           "/wiki/General_Electric"
         ]
       ],
       [
-        [
-          "United States"
-        ],
-        [
-          null
-        ]
+        "United States",
+        []
       ],
       [
-        [
-          "Conglomerate"
-        ],
+        "Conglomerate",
         [
           "/wiki/Conglomerate_(company)"
         ]
       ],
       [
-        [
-          "474,956"
-        ],
-        [
-          null
-        ]
+        "474,956",
+        []
       ]
     ],
     [
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "NTT DoCoMo"
-        ],
+        "NTT DoCoMo",
         [
           "/wiki/NTT_DoCoMo"
         ]
       ],
       [
-        [
-          "Japan"
-        ],
-        [
-          null
-        ]
+        "Japan",
+        []
       ],
       [
-        [
-          "Telecommunications"
-        ],
+        "Telecommunications",
         [
           "/wiki/Telecommunications"
         ]
       ],
       [
-        [
-          "366,204"
-        ],
-        [
-          null
-        ]
+        "366,204",
+        []
       ]
     ],
     [
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "Cisco Systems"
-        ],
+        "Cisco Systems",
         [
           "/wiki/Cisco_Systems"
         ]
       ],
       [
-        [
-          "United States"
-        ],
-        [
-          null
-        ]
+        "United States",
+        []
       ],
       [
-        [
-          "Networking hardware"
-        ],
+        "Networking hardware",
         [
           "/wiki/Networking_hardware"
         ]
       ],
       [
-        [
-          "348,965"
-        ],
-        [
-          null
-        ]
+        "348,965",
+        []
       ]
     ],
     [
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "Wal-Mart"
-        ],
+        "Wal-Mart",
         [
           "/wiki/Wal-Mart"
         ]
       ],
       [
-        [
-          "United States"
-        ],
-        [
-          null
-        ]
+        "United States",
+        []
       ],
       [
-        [
-          "Retail"
-        ],
+        "Retail",
         [
           "/wiki/Retail"
         ]
       ],
       [
-        [
-          "286,153"
-        ],
-        [
-          null
-        ]
+        "286,153",
+        []
       ]
     ],
     [
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "Intel Corporation"
-        ],
+        "Intel Corporation",
         [
           "/wiki/Intel_Corporation"
         ]
       ],
       [
-        [
-          "United States"
-        ],
-        [
-          null
-        ]
+        "United States",
+        []
       ],
       [
-        [
-          "Computer hardware"
-        ],
+        "Computer hardware",
         [
           "/wiki/Computer_hardware"
         ]
       ],
       [
-        [
-          "277,096"
-        ],
-        [
-          null
-        ]
+        "277,096",
+        []
       ]
     ],
     [
       [
-        [
-          "7"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ],
       [
-        [
-          "Nippon Telegraph and Telephone"
-        ],
+        "Nippon Telegraph and Telephone",
         [
           "/wiki/Nippon_Telegraph_and_Telephone"
         ]
       ],
       [
-        [
-          "Japan"
-        ],
-        [
-          null
-        ]
+        "Japan",
+        []
       ],
       [
-        [
-          "Telecommunications"
-        ],
-        [
-          null
-        ]
+        "Telecommunications",
+        []
       ],
       [
-        [
-          "274,905"
-        ],
-        [
-          null
-        ]
+        "274,905",
+        []
       ]
     ],
     [
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "Exxon Mobil"
-        ],
+        "Exxon Mobil",
         [
           "/wiki/Exxon_Mobil"
         ]
       ],
       [
-        [
-          "United States"
-        ],
-        [
-          null
-        ]
+        "United States",
+        []
       ],
       [
-        [
-          "Oil and gas"
-        ],
+        "Oil and gas",
         [
           "/wiki/Petroleum_industry"
         ]
       ],
       [
-        [
-          "265,894"
-        ],
-        [
-          null
-        ]
+        "265,894",
+        []
       ]
     ],
     [
       [
-        [
-          "9"
-        ],
-        [
-          null
-        ]
+        "9",
+        []
       ],
       [
-        [
-          "Lucent Technologies"
-        ],
+        "Lucent Technologies",
         [
           "/wiki/Lucent_Technologies_(old_company)"
         ]
       ],
       [
-        [
-          "United States"
-        ],
-        [
-          null
-        ]
+        "United States",
+        []
       ],
       [
-        [
-          "Telecommunications"
-        ],
-        [
-          null
-        ]
+        "Telecommunications",
+        []
       ],
       [
-        [
-          "237,668"
-        ],
-        [
-          null
-        ]
+        "237,668",
+        []
       ]
     ],
     [
       [
-        [
-          "10"
-        ],
-        [
-          null
-        ]
+        "10",
+        []
       ],
       [
-        [
-          "Deutsche Telekom"
-        ],
+        "Deutsche Telekom",
         [
           "/wiki/Deutsche_Telekom"
         ]
       ],
       [
-        [
-          "Germany"
-        ],
-        [
-          null
-        ]
+        "Germany",
+        []
       ],
       [
-        [
-          "Telecommunications"
-        ],
-        [
-          null
-        ]
+        "Telecommunications",
+        []
       ],
       [
-        [
-          "209,628"
-        ],
-        [
-          null
-        ]
+        "209,628",
+        []
       ]
     ]
   ],

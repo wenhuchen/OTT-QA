@@ -3,84 +3,52 @@
   "title": "List of Minor League Baseball leagues and teams",
   "header": [
     [
-      [
-        "Team"
-      ],
-      [
-        null
-      ]
+      "Team",
+      []
     ],
     [
-      [
-        "Division"
-      ],
-      [
-        null
-      ]
+      "Division",
+      []
     ],
     [
-      [
-        "City"
-      ],
-      [
-        null
-      ]
+      "City",
+      []
     ],
     [
-      [
-        "State"
-      ],
-      [
-        null
-      ]
+      "State",
+      []
     ],
     [
-      [
-        "Stadium"
-      ],
-      [
-        null
-      ]
+      "Stadium",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Alpine Cowboys"
-        ],
+        "Alpine Cowboys",
         [
           "/wiki/Alpine_Cowboys"
         ]
       ],
       [
-        [
-          "Mountain"
-        ],
-        [
-          null
-        ]
+        "Mountain",
+        []
       ],
       [
-        [
-          "Alpine"
-        ],
+        "Alpine",
         [
           "/wiki/Alpine,_Texas"
         ]
       ],
       [
-        [
-          "Texas"
-        ],
+        "Texas",
         [
           "/wiki/Texas"
         ]
       ],
       [
-        [
-          "Kokernot Field"
-        ],
+        "Kokernot Field",
         [
           "/wiki/Kokernot_Field"
         ]
@@ -88,41 +56,29 @@
     ],
     [
       [
-        [
-          "Bakersfield Train Robbers"
-        ],
+        "Bakersfield Train Robbers",
         [
           "/wiki/Bakersfield_Train_Robbers"
         ]
       ],
       [
-        [
-          "Pacific"
-        ],
-        [
-          null
-        ]
+        "Pacific",
+        []
       ],
       [
-        [
-          "Bakersfield"
-        ],
+        "Bakersfield",
         [
           "/wiki/Bakersfield,_California"
         ]
       ],
       [
-        [
-          "California"
-        ],
+        "California",
         [
           "/wiki/California"
         ]
       ],
       [
-        [
-          "Sam Lynn Ballpark"
-        ],
+        "Sam Lynn Ballpark",
         [
           "/wiki/Sam_Lynn_Ballpark"
         ]
@@ -130,125 +86,85 @@
     ],
     [
       [
-        [
-          "California City Whiptails"
-        ],
+        "California City Whiptails",
         [
           "/wiki/California_City_Whiptails"
         ]
       ],
       [
-        [
-          "Pacific"
-        ],
-        [
-          null
-        ]
+        "Pacific",
+        []
       ],
       [
-        [
-          "California City"
-        ],
+        "California City",
         [
           "/wiki/California_City,_California"
         ]
       ],
       [
-        [
-          "California"
-        ],
+        "California",
         [
           "/wiki/California"
         ]
       ],
       [
-        [
-          "Balsitis Park"
-        ],
-        [
-          null
-        ]
+        "Balsitis Park",
+        []
       ]
     ],
     [
       [
-        [
-          "Garden City Wind"
-        ],
+        "Garden City Wind",
         [
           "/wiki/Garden_City_Wind"
         ]
       ],
       [
-        [
-          "Mountain"
-        ],
-        [
-          null
-        ]
+        "Mountain",
+        []
       ],
       [
-        [
-          "Garden City"
-        ],
+        "Garden City",
         [
           "/wiki/Garden_City,_Kansas"
         ]
       ],
       [
-        [
-          "Kansas"
-        ],
+        "Kansas",
         [
           "/wiki/Kansas"
         ]
       ],
       [
-        [
-          "Clint Lightner Field"
-        ],
-        [
-          null
-        ]
+        "Clint Lightner Field",
+        []
       ]
     ],
     [
       [
-        [
-          "High Desert Yardbirds"
-        ],
+        "High Desert Yardbirds",
         [
           "/wiki/High_Desert_Yardbirds"
         ]
       ],
       [
-        [
-          "Pacific"
-        ],
-        [
-          null
-        ]
+        "Pacific",
+        []
       ],
       [
-        [
-          "Adelanto"
-        ],
+        "Adelanto",
         [
           "/wiki/Adelanto,_California"
         ]
       ],
       [
-        [
-          "California"
-        ],
+        "California",
         [
           "/wiki/California"
         ]
       ],
       [
-        [
-          "Adelanto Stadium"
-        ],
+        "Adelanto Stadium",
         [
           "/wiki/Adelanto_Stadium"
         ]
@@ -256,209 +172,141 @@
     ],
     [
       [
-        [
-          "Monterey Amberjacks"
-        ],
+        "Monterey Amberjacks",
         [
           "/wiki/Monterey_Amberjacks"
         ]
       ],
       [
-        [
-          "Pacific"
-        ],
-        [
-          null
-        ]
+        "Pacific",
+        []
       ],
       [
-        [
-          "Monterey"
-        ],
+        "Monterey",
         [
           "/wiki/Monterey,_California"
         ]
       ],
       [
-        [
-          "California"
-        ],
+        "California",
         [
           "/wiki/California"
         ]
       ],
       [
-        [
-          "Frank E. Sollecito , Jr . Ballpark"
-        ],
-        [
-          null
-        ]
+        "Frank E. Sollecito , Jr . Ballpark",
+        []
       ]
     ],
     [
       [
-        [
-          "Roswell Invaders"
-        ],
+        "Roswell Invaders",
         [
           "/wiki/Roswell_Invaders"
         ]
       ],
       [
-        [
-          "Mountain"
-        ],
-        [
-          null
-        ]
+        "Mountain",
+        []
       ],
       [
-        [
-          "Roswell"
-        ],
+        "Roswell",
         [
           "/wiki/Roswell,_New_Mexico"
         ]
       ],
       [
-        [
-          "New Mexico"
-        ],
+        "New Mexico",
         [
           "/wiki/New_Mexico"
         ]
       ],
       [
-        [
-          "Joe Baumann Stadium"
-        ],
-        [
-          null
-        ]
+        "Joe Baumann Stadium",
+        []
       ]
     ],
     [
       [
-        [
-          "Santa Fe Fuego"
-        ],
+        "Santa Fe Fuego",
         [
           "/wiki/Santa_Fe_Fuego"
         ]
       ],
       [
-        [
-          "Mountain"
-        ],
-        [
-          null
-        ]
+        "Mountain",
+        []
       ],
       [
-        [
-          "Santa Fe"
-        ],
+        "Santa Fe",
         [
           "/wiki/Santa_Fe,_New_Mexico"
         ]
       ],
       [
-        [
-          "New Mexico"
-        ],
+        "New Mexico",
         [
           "/wiki/New_Mexico"
         ]
       ],
       [
-        [
-          "Fort Marcy Park"
-        ],
-        [
-          null
-        ]
+        "Fort Marcy Park",
+        []
       ]
     ],
     [
       [
-        [
-          "Trinidad Triggers"
-        ],
+        "Trinidad Triggers",
         [
           "/wiki/Trinidad_Triggers"
         ]
       ],
       [
-        [
-          "Mountain"
-        ],
-        [
-          null
-        ]
+        "Mountain",
+        []
       ],
       [
-        [
-          "Trinidad"
-        ],
+        "Trinidad",
         [
           "/wiki/Trinidad,_Colorado"
         ]
       ],
       [
-        [
-          "Colorado"
-        ],
+        "Colorado",
         [
           "/wiki/Colorado"
         ]
       ],
       [
-        [
-          "Central Park"
-        ],
-        [
-          null
-        ]
+        "Central Park",
+        []
       ]
     ],
     [
       [
-        [
-          "Tucson Saguaros"
-        ],
+        "Tucson Saguaros",
         [
           "/wiki/Tucson_Saguaros"
         ]
       ],
       [
-        [
-          "Pacific"
-        ],
-        [
-          null
-        ]
+        "Pacific",
+        []
       ],
       [
-        [
-          "Tucson"
-        ],
+        "Tucson",
         [
           "/wiki/Tucson,_Arizona"
         ]
       ],
       [
-        [
-          "Arizona"
-        ],
+        "Arizona",
         [
           "/wiki/Arizona"
         ]
       ],
       [
-        [
-          "Kino Veterans Memorial Stadium"
-        ],
+        "Kino Veterans Memorial Stadium",
         [
           "/wiki/Kino_Veterans_Memorial_Stadium"
         ]
@@ -466,86 +314,58 @@
     ],
     [
       [
-        [
-          "Wasco Reserves"
-        ],
+        "Wasco Reserves",
         [
           "/wiki/Wasco_Reserves"
         ]
       ],
       [
-        [
-          "Pacific"
-        ],
-        [
-          null
-        ]
+        "Pacific",
+        []
       ],
       [
-        [
-          "Wasco"
-        ],
+        "Wasco",
         [
           "/wiki/Wasco,_California"
         ]
       ],
       [
-        [
-          "California"
-        ],
+        "California",
         [
           "/wiki/California"
         ]
       ],
       [
-        [
-          "Wasco Park"
-        ],
-        [
-          null
-        ]
+        "Wasco Park",
+        []
       ]
     ],
     [
       [
-        [
-          "White Sands Pupfish"
-        ],
+        "White Sands Pupfish",
         [
           "/wiki/White_Sands_Pupfish_(baseball)"
         ]
       ],
       [
-        [
-          "Mountain"
-        ],
-        [
-          null
-        ]
+        "Mountain",
+        []
       ],
       [
-        [
-          "Alamogordo"
-        ],
+        "Alamogordo",
         [
           "/wiki/Alamogordo,_New_Mexico"
         ]
       ],
       [
-        [
-          "New Mexico"
-        ],
+        "New Mexico",
         [
           "/wiki/New_Mexico"
         ]
       ],
       [
-        [
-          "Griggs Park"
-        ],
-        [
-          null
-        ]
+        "Griggs Park",
+        []
       ]
     ]
   ],

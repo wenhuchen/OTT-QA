@@ -3,289 +3,177 @@
   "title": "Zurich Airport",
   "header": [
     [
-      [
-        "Rank"
-      ],
-      [
-        null
-      ]
+      "Rank",
+      []
     ],
     [
-      [
-        "City"
-      ],
-      [
-        null
-      ]
+      "City",
+      []
     ],
     [
-      [
-        "Total departing passengers"
-      ],
-      [
-        null
-      ]
+      "Total departing passengers",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "London"
-        ],
+        "London",
         [
           "/wiki/London"
         ]
       ],
       [
-        [
-          "888,876"
-        ],
-        [
-          null
-        ]
+        "888,876",
+        []
       ]
     ],
     [
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "Berlin"
-        ],
+        "Berlin",
         [
           "/wiki/Berlin"
         ]
       ],
       [
-        [
-          "508,589"
-        ],
-        [
-          null
-        ]
+        "508,589",
+        []
       ]
     ],
     [
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "Vienna"
-        ],
+        "Vienna",
         [
           "/wiki/Vienna_Airport"
         ]
       ],
       [
-        [
-          "492,968"
-        ],
-        [
-          null
-        ]
+        "492,968",
+        []
       ]
     ],
     [
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "D\u00fcsseldorf"
-        ],
+        "D\u00fcsseldorf",
         [
           "/wiki/D\u00fcsseldorf_Airport"
         ]
       ],
       [
-        [
-          "403,759"
-        ],
-        [
-          null
-        ]
+        "403,759",
+        []
       ]
     ],
     [
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "Amsterdam"
-        ],
+        "Amsterdam",
         [
           "/wiki/Amsterdam_Airport"
         ]
       ],
       [
-        [
-          "402,922"
-        ],
-        [
-          null
-        ]
+        "402,922",
+        []
       ]
     ],
     [
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "Frankfurt"
-        ],
+        "Frankfurt",
         [
           "/wiki/Frankfurt_Airport"
         ]
       ],
       [
-        [
-          "330,326"
-        ],
-        [
-          null
-        ]
+        "330,326",
+        []
       ]
     ],
     [
       [
-        [
-          "7"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ],
       [
-        [
-          "Paris"
-        ],
+        "Paris",
         [
           "/wiki/Paris_Charles_de_Gaulle_Airport"
         ]
       ],
       [
-        [
-          "322,188"
-        ],
-        [
-          null
-        ]
+        "322,188",
+        []
       ]
     ],
     [
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "Barcelona"
-        ],
+        "Barcelona",
         [
           "/wiki/Barcelona_El_Prat_Airport"
         ]
       ],
       [
-        [
-          "318,050"
-        ],
-        [
-          null
-        ]
+        "318,050",
+        []
       ]
     ],
     [
       [
-        [
-          "9"
-        ],
-        [
-          null
-        ]
+        "9",
+        []
       ],
       [
-        [
-          "Hamburg"
-        ],
+        "Hamburg",
         [
           "/wiki/Hamburg_Airport"
         ]
       ],
       [
-        [
-          "300,526"
-        ],
-        [
-          null
-        ]
+        "300,526",
+        []
       ]
     ],
     [
       [
-        [
-          "10"
-        ],
-        [
-          null
-        ]
+        "10",
+        []
       ],
       [
-        [
-          "Madrid"
-        ],
+        "Madrid",
         [
           "/wiki/Madrid\u2013Barajas_Airport"
         ]
       ],
       [
-        [
-          "290,174"
-        ],
-        [
-          null
-        ]
+        "290,174",
+        []
       ]
     ]
   ],

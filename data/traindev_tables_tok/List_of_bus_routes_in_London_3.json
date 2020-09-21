@@ -3,68 +3,42 @@
   "title": "List of bus routes in London",
   "header": [
     [
-      [
-        "Route"
-      ],
-      [
-        null
-      ]
+      "Route",
+      []
     ],
     [
-      [
-        "Start"
-      ],
-      [
-        null
-      ]
+      "Start",
+      []
     ],
     [
-      [
-        "End"
-      ],
-      [
-        null
-      ]
+      "End",
+      []
     ],
     [
-      [
-        "Operator"
-      ],
-      [
-        null
-      ]
+      "Operator",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "300"
-        ],
-        [
-          null
-        ]
+        "300",
+        []
       ],
       [
-        [
-          "Canning Town bus station"
-        ],
+        "Canning Town bus station",
         [
           "/wiki/Canning_Town_bus_station"
         ]
       ],
       [
-        [
-          "East Ham station"
-        ],
+        "East Ham station",
         [
           "/wiki/East_Ham_station"
         ]
       ],
       [
-        [
-          "Blue Triangle"
-        ],
+        "Blue Triangle",
         [
           "/wiki/Blue_Triangle"
         ]
@@ -72,33 +46,23 @@
     ],
     [
       [
-        [
-          "301"
-        ],
-        [
-          null
-        ]
+        "301",
+        []
       ],
       [
-        [
-          "Bexleyheath"
-        ],
+        "Bexleyheath",
         [
           "/wiki/Bexleyheath"
         ]
       ],
       [
-        [
-          "Woolwich"
-        ],
+        "Woolwich",
         [
           "/wiki/Woolwich"
         ]
       ],
       [
-        [
-          "Arriva London"
-        ],
+        "Arriva London",
         [
           "/wiki/Arriva_London"
         ]
@@ -106,33 +70,23 @@
     ],
     [
       [
-        [
-          "302"
-        ],
-        [
-          null
-        ]
+        "302",
+        []
       ],
       [
-        [
-          "Mill Hill Broadway"
-        ],
+        "Mill Hill Broadway",
         [
           "/wiki/Mill_Hill_Broadway"
         ]
       ],
       [
-        [
-          "Kensal Rise"
-        ],
+        "Kensal Rise",
         [
           "/wiki/Kensal_Rise"
         ]
       ],
       [
-        [
-          "Metroline"
-        ],
+        "Metroline",
         [
           "/wiki/Metroline"
         ]
@@ -140,33 +94,21 @@
     ],
     [
       [
-        [
-          "303"
-        ],
-        [
-          null
-        ]
+        "303",
+        []
       ],
       [
-        [
-          "Kingsbury Circle"
-        ],
-        [
-          null
-        ]
+        "Kingsbury Circle",
+        []
       ],
       [
-        [
-          "Edgware bus station"
-        ],
+        "Edgware bus station",
         [
           "/wiki/Edgware_bus_station"
         ]
       ],
       [
-        [
-          "London Sovereign"
-        ],
+        "London Sovereign",
         [
           "/wiki/London_Sovereign"
         ]
@@ -174,33 +116,23 @@
     ],
     [
       [
-        [
-          "306"
-        ],
-        [
-          null
-        ]
+        "306",
+        []
       ],
       [
-        [
-          "Acton Vale"
-        ],
+        "Acton Vale",
         [
           "/wiki/Acton_Vale,_London"
         ]
       ],
       [
-        [
-          "Sands End"
-        ],
+        "Sands End",
         [
           "/wiki/Sands_End"
         ]
       ],
       [
-        [
-          "London United"
-        ],
+        "London United",
         [
           "/wiki/London_United_Busways"
         ]
@@ -208,33 +140,23 @@
     ],
     [
       [
-        [
-          "307"
-        ],
-        [
-          null
-        ]
+        "307",
+        []
       ],
       [
-        [
-          "Barnet Hospital"
-        ],
+        "Barnet Hospital",
         [
           "/wiki/Barnet_Hospital"
         ]
       ],
       [
-        [
-          "Brimsdown"
-        ],
+        "Brimsdown",
         [
           "/wiki/Brimsdown"
         ]
       ],
       [
-        [
-          "Metroline"
-        ],
+        "Metroline",
         [
           "/wiki/Metroline"
         ]
@@ -242,33 +164,23 @@
     ],
     [
       [
-        [
-          "308"
-        ],
-        [
-          null
-        ]
+        "308",
+        []
       ],
       [
-        [
-          "Clapton Pond"
-        ],
+        "Clapton Pond",
         [
           "/wiki/Clapton_Pond"
         ]
       ],
       [
-        [
-          "Wanstead"
-        ],
+        "Wanstead",
         [
           "/wiki/Wanstead"
         ]
       ],
       [
-        [
-          "Tower Transit"
-        ],
+        "Tower Transit",
         [
           "/wiki/Tower_Transit"
         ]
@@ -276,35 +188,24 @@
     ],
     [
       [
-        [
-          "309"
-        ],
-        [
-          null
-        ]
+        "309",
+        []
       ],
       [
-        [
-          "Bethnal Green",
-          "London Chest Hospital"
-        ],
+        "Bethnal Green London Chest Hospital",
         [
           "/wiki/Bethnal_Green",
           "/wiki/London_Chest_Hospital"
         ]
       ],
       [
-        [
-          "Canning Town bus station"
-        ],
+        "Canning Town bus station",
         [
           "/wiki/Canning_Town_bus_station"
         ]
       ],
       [
-        [
-          "HCT Group"
-        ],
+        "HCT Group",
         [
           "/wiki/HCT_Group"
         ]
@@ -312,35 +213,26 @@
     ],
     [
       [
-        [
-          "312"
-        ],
+        "312",
         [
           "/wiki/London_Buses_route_312"
         ]
       ],
       [
-        [
-          "Norwood Junction"
-        ],
+        "Norwood Junction",
         [
           "/wiki/Norwood_Junction_railway_station"
         ]
       ],
       [
-        [
-          "South Croydon",
-          "bus garage"
-        ],
+        "South Croydon bus garage",
         [
           "/wiki/South_Croydon",
           "/wiki/Arriva_London"
         ]
       ],
       [
-        [
-          "Arriva London"
-        ],
+        "Arriva London",
         [
           "/wiki/Arriva_London"
         ]
@@ -348,33 +240,23 @@
     ],
     [
       [
-        [
-          "313"
-        ],
-        [
-          null
-        ]
+        "313",
+        []
       ],
       [
-        [
-          "Chingford station"
-        ],
+        "Chingford station",
         [
           "/wiki/Chingford_railway_station"
         ]
       ],
       [
-        [
-          "Potters Bar station"
-        ],
+        "Potters Bar station",
         [
           "/wiki/Potters_Bar_railway_station"
         ]
       ],
       [
-        [
-          "Arriva London"
-        ],
+        "Arriva London",
         [
           "/wiki/Arriva_London"
         ]
@@ -382,33 +264,23 @@
     ],
     [
       [
-        [
-          "314"
-        ],
-        [
-          null
-        ]
+        "314",
+        []
       ],
       [
-        [
-          "Eltham station"
-        ],
+        "Eltham station",
         [
           "/wiki/Eltham_railway_station"
         ]
       ],
       [
-        [
-          "New Addington"
-        ],
+        "New Addington",
         [
           "/wiki/New_Addington"
         ]
       ],
       [
-        [
-          "Stagecoach London"
-        ],
+        "Stagecoach London",
         [
           "/wiki/Stagecoach_London"
         ]
@@ -416,33 +288,23 @@
     ],
     [
       [
-        [
-          "315"
-        ],
-        [
-          null
-        ]
+        "315",
+        []
       ],
       [
-        [
-          "Balham"
-        ],
+        "Balham",
         [
           "/wiki/Balham,_London"
         ]
       ],
       [
-        [
-          "West Norwood"
-        ],
+        "West Norwood",
         [
           "/wiki/West_Norwood"
         ]
       ],
       [
-        [
-          "London General"
-        ],
+        "London General",
         [
           "/wiki/London_General"
         ]
@@ -450,35 +312,24 @@
     ],
     [
       [
-        [
-          "316"
-        ],
-        [
-          null
-        ]
+        "316",
+        []
       ],
       [
-        [
-          "Cricklewood",
-          "Cricklewood bus garage"
-        ],
+        "Cricklewood Cricklewood bus garage",
         [
           "/wiki/Cricklewood",
           "/wiki/Metroline"
         ]
       ],
       [
-        [
-          "White City bus station"
-        ],
+        "White City bus station",
         [
           "/wiki/White_City_bus_station"
         ]
       ],
       [
-        [
-          "Metroline"
-        ],
+        "Metroline",
         [
           "/wiki/Metroline"
         ]
@@ -486,33 +337,23 @@
     ],
     [
       [
-        [
-          "317"
-        ],
-        [
-          null
-        ]
+        "317",
+        []
       ],
       [
-        [
-          "Enfield"
-        ],
+        "Enfield",
         [
           "/wiki/London_Borough_of_Enfield"
         ]
       ],
       [
-        [
-          "Waltham Cross"
-        ],
+        "Waltham Cross",
         [
           "/wiki/Waltham_Cross"
         ]
       ],
       [
-        [
-          "Metroline"
-        ],
+        "Metroline",
         [
           "/wiki/Metroline"
         ]
@@ -520,33 +361,23 @@
     ],
     [
       [
-        [
-          "318"
-        ],
-        [
-          null
-        ]
+        "318",
+        []
       ],
       [
-        [
-          "North Middlesex Hospital"
-        ],
+        "North Middlesex Hospital",
         [
           "/wiki/North_Middlesex_Hospital"
         ]
       ],
       [
-        [
-          "Stamford Hill"
-        ],
+        "Stamford Hill",
         [
           "/wiki/Stamford_Hill"
         ]
       ],
       [
-        [
-          "Arriva London"
-        ],
+        "Arriva London",
         [
           "/wiki/Arriva_London"
         ]
@@ -554,33 +385,23 @@
     ],
     [
       [
-        [
-          "319"
-        ],
-        [
-          null
-        ]
+        "319",
+        []
       ],
       [
-        [
-          "Sloane Square"
-        ],
+        "Sloane Square",
         [
           "/wiki/Sloane_Square"
         ]
       ],
       [
-        [
-          "Streatham Hill"
-        ],
+        "Streatham Hill Telford Avenue",
         [
           "/wiki/Streatham_Hill"
         ]
       ],
       [
-        [
-          "Arriva London"
-        ],
+        "Arriva London",
         [
           "/wiki/Arriva_London"
         ]
@@ -588,33 +409,23 @@
     ],
     [
       [
-        [
-          "320"
-        ],
-        [
-          null
-        ]
+        "320",
+        []
       ],
       [
-        [
-          "Biggin Hill Valley"
-        ],
+        "Biggin Hill Valley",
         [
           "/wiki/Biggin_Hill_Valley"
         ]
       ],
       [
-        [
-          "Catford Bridge station"
-        ],
+        "Catford Bridge station",
         [
           "/wiki/Catford_Bridge_railway_station"
         ]
       ],
       [
-        [
-          "London General"
-        ],
+        "London General",
         [
           "/wiki/London_General"
         ]
@@ -622,35 +433,24 @@
     ],
     [
       [
-        [
-          "321"
-        ],
-        [
-          null
-        ]
+        "321",
+        []
       ],
       [
-        [
-          "Foots Cray",
-          "Tesco"
-        ],
+        "Foots Cray Tesco",
         [
           "/wiki/Foots_Cray",
           "/wiki/Tesco"
         ]
       ],
       [
-        [
-          "New Cross Gate"
-        ],
+        "New Cross Gate",
         [
           "/wiki/New_Cross_Gate"
         ]
       ],
       [
-        [
-          "London Central"
-        ],
+        "London Central",
         [
           "/wiki/London_Central"
         ]
@@ -658,33 +458,23 @@
     ],
     [
       [
-        [
-          "322"
-        ],
-        [
-          null
-        ]
+        "322",
+        []
       ],
       [
-        [
-          "Clapham Common"
-        ],
+        "Clapham Common",
         [
           "/wiki/Clapham_Common"
         ]
       ],
       [
-        [
-          "Crystal Palace"
-        ],
+        "Crystal Palace",
         [
           "/wiki/Crystal_Palace,_London"
         ]
       ],
       [
-        [
-          "London General"
-        ],
+        "London General",
         [
           "/wiki/London_General"
         ]
@@ -692,33 +482,23 @@
     ],
     [
       [
-        [
-          "323"
-        ],
-        [
-          null
-        ]
+        "323",
+        []
       ],
       [
-        [
-          "Canning Town bus station"
-        ],
+        "Canning Town bus station",
         [
           "/wiki/Canning_Town_bus_station"
         ]
       ],
       [
-        [
-          "Mile End"
-        ],
+        "Mile End",
         [
           "/wiki/Mile_End"
         ]
       ],
       [
-        [
-          "Stagecoach London"
-        ],
+        "Stagecoach London",
         [
           "/wiki/Stagecoach_London"
         ]

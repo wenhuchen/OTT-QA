@@ -3,41 +3,23 @@
   "title": "List of companies based in the Philadelphia area",
   "header": [
     [
-      [
-        "Name"
-      ],
-      [
-        null
-      ]
+      "Name",
+      []
     ],
     [
-      [
-        "City"
-      ],
-      [
-        null
-      ]
+      "City",
+      []
     ],
     [
-      [
-        "Industry"
-      ],
-      [
-        null
-      ]
+      "Industry",
+      []
     ],
     [
-      [
-        "Parent"
-      ],
-      [
-        null
-      ]
+      "Parent",
+      []
     ],
     [
-      [
-        "Fortune 1000"
-      ],
+      "Fortune 1000 rank ( 2014 )",
       [
         "/wiki/Fortune_1000"
       ]
@@ -46,842 +28,554 @@
   "data": [
     [
       [
-        [
-          "Acme Markets"
-        ],
+        "Acme Markets",
         [
           "/wiki/Acme_Markets"
         ]
       ],
       [
-        [
-          "Malvern , PA"
-        ],
+        "Malvern , PA",
         [
           "/wiki/Malvern,_PA"
         ]
       ],
       [
-        [
-          "retail"
-        ],
-        [
-          null
-        ]
+        "retail",
+        []
       ],
       [
-        [
-          "Albertsons"
-        ],
+        "Albertsons",
         [
           "/wiki/Albertsons"
         ]
       ],
       [
-        [
-          "94"
-        ],
-        [
-          null
-        ]
+        "94",
+        []
       ]
     ],
     [
       [
-        [
-          "Boeing Rotorcraft"
-        ],
+        "Boeing Rotorcraft",
         [
           "/wiki/Boeing_Rotorcraft_Systems"
         ]
       ],
       [
-        [
-          "Ridley Township , PA"
-        ],
+        "Ridley Township , PA",
         [
           "/wiki/Ridley_Township,_PA"
         ]
       ],
       [
-        [
-          "aviation"
-        ],
-        [
-          null
-        ]
+        "aviation",
+        []
       ],
       [
-        [
-          "Boeing"
-        ],
+        "Boeing",
         [
           "/wiki/Boeing"
         ]
       ],
       [
-        [
-          "30"
-        ],
-        [
-          null
-        ]
+        "30",
+        []
       ]
     ],
     [
       [
-        [
-          "Centocor"
-        ],
+        "Centocor",
         [
           "/wiki/Centocor"
         ]
       ],
       [
-        [
-          "Malvern , PA"
-        ],
+        "Malvern , PA",
         [
           "/wiki/Malvern,_PA"
         ]
       ],
       [
-        [
-          "pharmaceuticals"
-        ],
-        [
-          null
-        ]
+        "pharmaceuticals",
+        []
       ],
       [
-        [
-          "Johnson & Johnson"
-        ],
+        "Johnson & Johnson",
         [
           "/wiki/Johnson_&_Johnson"
         ]
       ],
       [
-        [
-          "39"
-        ],
-        [
-          null
-        ]
+        "39",
+        []
       ]
     ],
     [
       [
-        [
-          "Colonial Penn"
-        ],
+        "Colonial Penn",
         [
           "/wiki/Colonial_Penn"
         ]
       ],
       [
-        [
-          "Philadelphia , PA"
-        ],
-        [
-          null
-        ]
+        "Philadelphia , PA",
+        []
       ],
       [
-        [
-          "insurance"
-        ],
-        [
-          null
-        ]
+        "insurance",
+        []
       ],
       [
-        [
-          "Conseco"
-        ],
+        "Conseco",
         [
           "/wiki/Conseco"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Delmarva Power"
-        ],
+        "Delmarva Power",
         [
           "/wiki/Delmarva_Power"
         ]
       ],
       [
-        [
-          "Wilmington , DE"
-        ],
+        "Wilmington , DE",
         [
           "/wiki/Wilmington,_DE"
         ]
       ],
       [
-        [
-          "energy"
-        ],
-        [
-          null
-        ]
+        "energy",
+        []
       ],
       [
-        [
-          "Exelon"
-        ],
+        "Exelon",
         [
           "/wiki/Exelon"
         ]
       ],
       [
-        [
-          "561"
-        ],
-        [
-          null
-        ]
+        "561",
+        []
       ]
     ],
     [
       [
-        [
-          "Economy.com"
-        ],
+        "Economy.com",
         [
           "/wiki/Economy.com"
         ]
       ],
       [
-        [
-          "West Chester , PA"
-        ],
+        "West Chester , PA",
         [
           "/wiki/West_Chester,_PA"
         ]
       ],
       [
-        [
-          "economic research"
-        ],
-        [
-          null
-        ]
+        "economic research",
+        []
       ],
       [
-        [
-          "Moody 's Analytics"
-        ],
+        "Moody 's Analytics",
         [
           "/wiki/Moody's_Analytics"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "GSI Commerce"
-        ],
+        "GSI Commerce",
         [
           "/wiki/GSI_Commerce"
         ]
       ],
       [
-        [
-          "King of Prussia , PA"
-        ],
+        "King of Prussia , PA",
         [
           "/wiki/King_of_Prussia,_PA"
         ]
       ],
       [
-        [
-          "retail"
-        ],
-        [
-          null
-        ]
+        "retail",
+        []
       ],
       [
-        [
-          "eBay"
-        ],
+        "eBay",
         [
           "/wiki/EBay"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Happy Harry 's"
-        ],
+        "Happy Harry 's",
         [
           "/wiki/Happy_Harry's"
         ]
       ],
       [
-        [
-          "Newark , DE"
-        ],
+        "Newark , DE",
         [
           "/wiki/Newark,_DE"
         ]
       ],
       [
-        [
-          "retail"
-        ],
-        [
-          null
-        ]
+        "retail",
+        []
       ],
       [
-        [
-          "Walgreens"
-        ],
+        "Walgreens",
         [
           "/wiki/Walgreens"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Harrah 's Philadelphia"
-        ],
+        "Harrah 's Philadelphia",
         [
           "/wiki/Harrah's_Philadelphia"
         ]
       ],
       [
-        [
-          "Chester , PA"
-        ],
+        "Chester , PA",
         [
           "/wiki/Chester,_PA"
         ]
       ],
       [
-        [
-          "entertainment"
-        ],
-        [
-          null
-        ]
+        "entertainment",
+        []
       ],
       [
-        [
-          "Caesars Entertainment"
-        ],
+        "Caesars Entertainment",
         [
           "/wiki/Caesars_Entertainment_Corporation"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Janney Montgomery Scott"
-        ],
+        "Janney Montgomery Scott",
         [
           "/wiki/Janney_Montgomery_Scott"
         ]
       ],
       [
-        [
-          "Philadelphia , PA"
-        ],
-        [
-          null
-        ]
+        "Philadelphia , PA",
+        []
       ],
       [
-        [
-          "investment"
-        ],
-        [
-          null
-        ]
+        "investment",
+        []
       ],
       [
-        [
-          "Penn Mutual"
-        ],
+        "Penn Mutual",
         [
           "/wiki/Penn_Mutual"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Genuardi 's"
-        ],
+        "Genuardi 's",
         [
           "/wiki/Genuardi's"
         ]
       ],
       [
-        [
-          "Norristown , PA"
-        ],
+        "Norristown , PA",
         [
           "/wiki/Norristown,_PA"
         ]
       ],
       [
-        [
-          "retail"
-        ],
-        [
-          null
-        ]
+        "retail",
+        []
       ],
       [
-        [
-          "Safeway"
-        ],
+        "Safeway",
         [
           "/wiki/Safeway_Inc."
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Keystone Helicopter"
-        ],
+        "Keystone Helicopter",
         [
           "/wiki/Sikorsky_Aircraft"
         ]
       ],
       [
-        [
-          "Coatesville , PA"
-        ],
+        "Coatesville , PA",
         [
           "/wiki/Coatesville,_PA"
         ]
       ],
       [
-        [
-          "aviation"
-        ],
-        [
-          null
-        ]
+        "aviation",
+        []
       ],
       [
-        [
-          "United Technologies"
-        ],
+        "United Technologies",
         [
           "/wiki/United_Technologies_Corporation"
         ]
       ],
       [
-        [
-          "45"
-        ],
-        [
-          null
-        ]
+        "45",
+        []
       ]
     ],
     [
       [
-        [
-          "M.A.B . Paints"
-        ],
+        "M.A.B . Paints",
         [
           "/wiki/M.A.B._Paints"
         ]
       ],
       [
-        [
-          "Broomall , PA"
-        ],
+        "Broomall , PA",
         [
           "/wiki/Broomall,_PA"
         ]
       ],
       [
-        [
-          "paint"
-        ],
-        [
-          null
-        ]
+        "paint",
+        []
       ],
       [
-        [
-          "Sherwin-Williams"
-        ],
+        "Sherwin-Williams",
         [
           "/wiki/Sherwin-Williams"
         ]
       ],
       [
-        [
-          "278"
-        ],
-        [
-          null
-        ]
+        "278",
+        []
       ]
     ],
     [
       [
-        [
-          "MBNA"
-        ],
+        "MBNA",
         [
           "/wiki/MBNA"
         ]
       ],
       [
-        [
-          "Wilmington , DE"
-        ],
+        "Wilmington , DE",
         [
           "/wiki/Wilmington,_DE"
         ]
       ],
       [
-        [
-          "financial"
-        ],
-        [
-          null
-        ]
+        "financial",
+        []
       ],
       [
-        [
-          "Bank of America"
-        ],
+        "Bank of America",
         [
           "/wiki/Bank_of_America"
         ]
       ],
       [
-        [
-          "21"
-        ],
-        [
-          null
-        ]
+        "21",
+        []
       ]
     ],
     [
       [
-        [
-          "McNeil Laboratories"
-        ],
+        "McNeil Laboratories",
         [
           "/wiki/McNeil_Laboratories"
         ]
       ],
       [
-        [
-          "Fort Washington , PA"
-        ],
+        "Fort Washington , PA",
         [
           "/wiki/Fort_Washington,_PA"
         ]
       ],
       [
-        [
-          "pharmaceuticals"
-        ],
-        [
-          null
-        ]
+        "pharmaceuticals",
+        []
       ],
       [
-        [
-          "Johnson & Johnson"
-        ],
+        "Johnson & Johnson",
         [
           "/wiki/Johnson_&_Johnson"
         ]
       ],
       [
-        [
-          "36"
-        ],
-        [
-          null
-        ]
+        "36",
+        []
       ]
     ],
     [
       [
-        [
-          "Neoware"
-        ],
+        "Neoware",
         [
           "/wiki/Neoware"
         ]
       ],
       [
-        [
-          "King of Prussia , PA"
-        ],
+        "King of Prussia , PA",
         [
           "/wiki/King_of_Prussia,_PA"
         ]
       ],
       [
-        [
-          "electronics"
-        ],
-        [
-          null
-        ]
+        "electronics",
+        []
       ],
       [
-        [
-          "Hewlett-Packard"
-        ],
+        "Hewlett-Packard",
         [
           "/wiki/Hewlett-Packard"
         ]
       ],
       [
-        [
-          "17"
-        ],
-        [
-          null
-        ]
+        "17",
+        []
       ]
     ],
     [
       [
-        [
-          "NextGen Healthcare Information Systems"
-        ],
+        "NextGen Healthcare Information Systems",
         [
           "/wiki/NextGen_Healthcare_Information_Systems"
         ]
       ],
       [
-        [
-          "Horsham , PA"
-        ],
+        "Horsham , PA",
         [
           "/wiki/Horsham,_PA"
         ]
       ],
       [
-        [
-          "software"
-        ],
-        [
-          null
-        ]
+        "software",
+        []
       ],
       [
-        [
-          "Quality Systems"
-        ],
+        "Quality Systems",
         [
           "/wiki/Quality_Systems"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "PECO Energy"
-        ],
+        "PECO Energy",
         [
           "/wiki/PECO_Energy"
         ]
       ],
       [
-        [
-          "Philadelphia , PA"
-        ],
-        [
-          null
-        ]
+        "Philadelphia , PA",
+        []
       ],
       [
-        [
-          "energy"
-        ],
-        [
-          null
-        ]
+        "energy",
+        []
       ],
       [
-        [
-          "Exelon"
-        ],
+        "Exelon",
         [
           "/wiki/Exelon"
         ]
       ],
       [
-        [
-          "119"
-        ],
-        [
-          null
-        ]
+        "119",
+        []
       ]
     ],
     [
       [
-        [
-          "QVC"
-        ],
+        "QVC",
         [
           "/wiki/QVC"
         ]
       ],
       [
-        [
-          "West Chester , PA"
-        ],
+        "West Chester , PA",
         [
           "/wiki/West_Chester,_Pennsylvania"
         ]
       ],
       [
-        [
-          "retail"
-        ],
-        [
-          null
-        ]
+        "retail",
+        []
       ],
       [
-        [
-          "Liberty Media"
-        ],
+        "Liberty Media",
         [
           "/wiki/Liberty_Media"
         ]
       ],
       [
-        [
-          "607"
-        ],
-        [
-          null
-        ]
+        "607",
+        []
       ]
     ],
     [
       [
-        [
-          "Rohm and Haas"
-        ],
+        "Rohm and Haas",
         [
           "/wiki/Rohm_and_Haas"
         ]
       ],
       [
-        [
-          "Philadelphia , PA"
-        ],
-        [
-          null
-        ]
+        "Philadelphia , PA",
+        []
       ],
       [
-        [
-          "chemicals"
-        ],
-        [
-          null
-        ]
+        "chemicals",
+        []
       ],
       [
-        [
-          "Dow Chemical"
-        ],
+        "Dow Chemical",
         [
           "/wiki/Dow_Chemical"
         ]
       ],
       [
-        [
-          "48"
-        ],
-        [
-          null
-        ]
+        "48",
+        []
       ]
     ]
   ],

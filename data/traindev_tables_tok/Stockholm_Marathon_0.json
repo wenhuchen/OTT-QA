@@ -3,35 +3,19 @@
   "title": "Stockholm Marathon",
   "header": [
     [
-      [
-        "Year"
-      ],
-      [
-        null
-      ]
+      "Year",
+      []
     ],
     [
-      [
-        "Athlete"
-      ],
-      [
-        null
-      ]
+      "Athlete",
+      []
     ],
     [
-      [
-        "Country"
-      ],
-      [
-        null
-      ]
+      "Country",
+      []
     ],
     [
-      [
-        "h",
-        "m",
-        "s"
-      ],
+      "Time ( h : m : s )",
       [
         "/wiki/Hour",
         "/wiki/Minute",
@@ -42,692 +26,431 @@
   "data": [
     [
       [
-        [
-          "1979"
-        ],
-        [
-          null
-        ]
+        "1979",
+        []
       ],
       [
-        [
-          "Jukka Toivola"
-        ],
+        "Jukka Toivola",
         [
           "/wiki/Jukka_Toivola"
         ]
       ],
       [
-        [
-          "Finland"
-        ],
+        "Finland",
         [
           "/wiki/Finland"
         ]
       ],
       [
-        [
-          "2:17:35"
-        ],
-        [
-          null
-        ]
+        "2:17:35",
+        []
       ]
     ],
     [
       [
-        [
-          "1980"
-        ],
-        [
-          null
-        ]
+        "1980",
+        []
       ],
       [
-        [
-          "Jeff Wells"
-        ],
+        "Jeff Wells",
         [
           "/wiki/Jeff_Wells"
         ]
       ],
       [
-        [
-          "United States"
-        ],
+        "United States",
         [
           "/wiki/United_States"
         ]
       ],
       [
-        [
-          "2:15:49"
-        ],
-        [
-          null
-        ]
+        "2:15:49",
+        []
       ]
     ],
     [
       [
-        [
-          "1981"
-        ],
-        [
-          null
-        ]
+        "1981",
+        []
       ],
       [
-        [
-          "Bill Rodgers"
-        ],
+        "Bill Rodgers",
         [
           "/wiki/Bill_Rodgers_(runner)"
         ]
       ],
       [
-        [
-          "United States"
-        ],
+        "United States",
         [
           "/wiki/United_States"
         ]
       ],
       [
-        [
-          "2:13:26"
-        ],
-        [
-          null
-        ]
+        "2:13:26",
+        []
       ]
     ],
     [
       [
-        [
-          "1982"
-        ],
-        [
-          null
-        ]
+        "1982",
+        []
       ],
       [
-        [
-          "Kjell-Erik St\u00e5hl"
-        ],
+        "Kjell-Erik St\u00e5hl",
         [
           "/wiki/Kjell-Erik_St\u00e5hl"
         ]
       ],
       [
+        "Sweden - H\u00e4ssleholms AIS",
         [
-          "Sweden",
-          "H\u00e4ssleholms AIS"
-        ],
-        [
-          "/wiki/Sweden",
-          null
+          "/wiki/Sweden"
         ]
       ],
       [
-        [
-          "2:19:20"
-        ],
-        [
-          null
-        ]
+        "2:19:20",
+        []
       ]
     ],
     [
       [
-        [
-          "1983"
-        ],
-        [
-          null
-        ]
+        "1983",
+        []
       ],
       [
-        [
-          "Hugh Jones"
-        ],
+        "Hugh Jones",
         [
           "/wiki/Hugh_Jones_(runner)"
         ]
       ],
       [
-        [
-          "United Kingdom"
-        ],
+        "United Kingdom",
         [
           "/wiki/United_Kingdom"
         ]
       ],
       [
-        [
-          "2:11:37"
-        ],
-        [
-          null
-        ]
+        "2:11:37",
+        []
       ]
     ],
     [
       [
-        [
-          "1984"
-        ],
-        [
-          null
-        ]
+        "1984",
+        []
       ],
       [
-        [
-          "Agapius Masong"
-        ],
+        "Agapius Masong",
         [
           "/wiki/Agapius_Masong"
         ]
       ],
       [
-        [
-          "Tanzania"
-        ],
+        "Tanzania",
         [
           "/wiki/Tanzania"
         ]
       ],
       [
-        [
-          "2:13:47"
-        ],
-        [
-          null
-        ]
+        "2:13:47",
+        []
       ]
     ],
     [
       [
-        [
-          "1985"
-        ],
-        [
-          null
-        ]
+        "1985",
+        []
       ],
       [
-        [
-          "Tommy Persson"
-        ],
+        "Tommy Persson",
         [
           "/wiki/Tommy_Persson"
         ]
       ],
       [
+        "Sweden - Heleneholms IF",
         [
-          "Sweden",
-          "Heleneholms IF"
-        ],
-        [
-          "/wiki/Sweden",
-          null
+          "/wiki/Sweden"
         ]
       ],
       [
-        [
-          "2:17:18"
-        ],
-        [
-          null
-        ]
+        "2:17:18",
+        []
       ]
     ],
     [
       [
-        [
-          "1986"
-        ],
-        [
-          null
-        ]
+        "1986",
+        []
       ],
       [
-        [
-          "Kjell-Erik St\u00e5hl"
-        ],
+        "Kjell-Erik St\u00e5hl",
         [
           "/wiki/Kjell-Erik_St\u00e5hl"
         ]
       ],
       [
-        [
-          "Sweden",
-          "Enh\u00f6rna IF"
-        ],
+        "Sweden - Enh\u00f6rna IF",
         [
           "/wiki/Sweden",
           "/wiki/Enh\u00f6rna_IF"
         ]
       ],
       [
-        [
-          "2:12:33"
-        ],
-        [
-          null
-        ]
+        "2:12:33",
+        []
       ]
     ],
     [
       [
-        [
-          "1987"
-        ],
-        [
-          null
-        ]
+        "1987",
+        []
       ],
       [
-        [
-          "Kevin Forster"
-        ],
+        "Kevin Forster",
         [
           "/wiki/Kevin_Forster"
         ]
       ],
       [
-        [
-          "United Kingdom"
-        ],
+        "United Kingdom",
         [
           "/wiki/United_Kingdom"
         ]
       ],
       [
-        [
-          "2:13:52"
-        ],
-        [
-          null
-        ]
+        "2:13:52",
+        []
       ]
     ],
     [
       [
-        [
-          "1988"
-        ],
-        [
-          null
-        ]
+        "1988",
+        []
       ],
       [
-        [
-          "Suleiman Nyambui"
-        ],
+        "Suleiman Nyambui",
         [
           "/wiki/Suleiman_Nyambui"
         ]
       ],
       [
-        [
-          "Tanzania"
-        ],
+        "Tanzania",
         [
           "/wiki/Tanzania"
         ]
       ],
       [
-        [
-          "2:14:26"
-        ],
-        [
-          null
-        ]
+        "2:14:26",
+        []
       ]
     ],
     [
       [
-        [
-          "1989"
-        ],
-        [
-          null
-        ]
+        "1989",
+        []
       ],
       [
-        [
-          "Dave Clarke"
-        ],
-        [
-          null
-        ]
+        "Dave Clarke",
+        []
       ],
       [
-        [
-          "United Kingdom"
-        ],
+        "United Kingdom",
         [
           "/wiki/United_Kingdom"
         ]
       ],
       [
-        [
-          "2:13:34"
-        ],
-        [
-          null
-        ]
+        "2:13:34",
+        []
       ]
     ],
     [
       [
-        [
-          "1990"
-        ],
-        [
-          null
-        ]
+        "1990",
+        []
       ],
       [
-        [
-          "Simon Naali"
-        ],
+        "Simon Naali",
         [
           "/wiki/Simon_Robert_Naali"
         ]
       ],
       [
-        [
-          "Tanzania"
-        ],
+        "Tanzania",
         [
           "/wiki/Tanzania"
         ]
       ],
       [
-        [
-          "2:13:04"
-        ],
-        [
-          null
-        ]
+        "2:13:04",
+        []
       ]
     ],
     [
       [
-        [
-          "1991"
-        ],
-        [
-          null
-        ]
+        "1991",
+        []
       ],
       [
-        [
-          "\u00c5ke Eriksson"
-        ],
-        [
-          null
-        ]
+        "\u00c5ke Eriksson",
+        []
       ],
       [
-        [
-          "Sweden",
-          "H\u00e4sselby SK"
-        ],
+        "Sweden - H\u00e4sselby SK",
         [
           "/wiki/Sweden",
           "/wiki/H\u00e4sselby_SK"
         ]
       ],
       [
-        [
-          "2:12:38"
-        ],
-        [
-          null
-        ]
+        "2:12:38",
+        []
       ]
     ],
     [
       [
-        [
-          "1992"
-        ],
-        [
-          null
-        ]
+        "1992",
+        []
       ],
       [
-        [
-          "Hugh Jones"
-        ],
+        "Hugh Jones",
         [
           "/wiki/Hugh_Jones_(runner)"
         ]
       ],
       [
-        [
-          "United Kingdom"
-        ],
+        "United Kingdom",
         [
           "/wiki/United_Kingdom"
         ]
       ],
       [
-        [
-          "2:15:58"
-        ],
-        [
-          null
-        ]
+        "2:15:58",
+        []
       ]
     ],
     [
       [
-        [
-          "1993"
-        ],
-        [
-          null
-        ]
+        "1993",
+        []
       ],
       [
-        [
-          "Daniel Mbuli"
-        ],
-        [
-          null
-        ]
+        "Daniel Mbuli",
+        []
       ],
       [
-        [
-          "South Africa"
-        ],
+        "South Africa",
         [
           "/wiki/South_Africa"
         ]
       ],
       [
-        [
-          "2:16:30"
-        ],
-        [
-          null
-        ]
+        "2:16:30",
+        []
       ]
     ],
     [
       [
-        [
-          "1994"
-        ],
-        [
-          null
-        ]
+        "1994",
+        []
       ],
       [
-        [
-          "Tesfaye Bekele"
-        ],
-        [
-          null
-        ]
+        "Tesfaye Bekele",
+        []
       ],
       [
-        [
-          "Ethiopia"
-        ],
+        "Ethiopia",
         [
           "/wiki/Ethiopia"
         ]
       ],
       [
-        [
-          "2:14:06"
-        ],
-        [
-          null
-        ]
+        "2:14:06",
+        []
       ]
     ],
     [
       [
-        [
-          "1995"
-        ],
-        [
-          null
-        ]
+        "1995",
+        []
       ],
       [
-        [
-          "\u00c5ke Eriksson"
-        ],
-        [
-          null
-        ]
+        "\u00c5ke Eriksson",
+        []
       ],
       [
-        [
-          "Sweden",
-          "H\u00e4sselby SK"
-        ],
+        "Sweden - H\u00e4sselby SK",
         [
           "/wiki/Sweden",
           "/wiki/H\u00e4sselby_SK"
         ]
       ],
       [
-        [
-          "2:14:29"
-        ],
-        [
-          null
-        ]
+        "2:14:29",
+        []
       ]
     ],
     [
       [
-        [
-          "1996"
-        ],
-        [
-          null
-        ]
+        "1996",
+        []
       ],
       [
-        [
-          "Tesfaye Bekele"
-        ],
-        [
-          null
-        ]
+        "Tesfaye Bekele",
+        []
       ],
       [
-        [
-          "Ethiopia"
-        ],
+        "Ethiopia",
         [
           "/wiki/Ethiopia"
         ]
       ],
       [
-        [
-          "2:15:05"
-        ],
-        [
-          null
-        ]
+        "2:15:05",
+        []
       ]
     ],
     [
       [
-        [
-          "1997"
-        ],
-        [
-          null
-        ]
+        "1997",
+        []
       ],
       [
-        [
-          "Benson Masya"
-        ],
+        "Benson Masya",
         [
           "/wiki/Benson_Masya"
         ]
       ],
       [
-        [
-          "Kenya"
-        ],
+        "Kenya",
         [
           "/wiki/Kenya"
         ]
       ],
       [
-        [
-          "2:17:22"
-        ],
-        [
-          null
-        ]
+        "2:17:22",
+        []
       ]
     ],
     [
       [
-        [
-          "1998"
-        ],
-        [
-          null
-        ]
+        "1998",
+        []
       ],
       [
-        [
-          "Martin Ojuko"
-        ],
-        [
-          null
-        ]
+        "Martin Ojuko",
+        []
       ],
       [
-        [
-          "Kenya"
-        ],
+        "Kenya",
         [
           "/wiki/Kenya"
         ]
       ],
       [
-        [
-          "2:16:12"
-        ],
-        [
-          null
-        ]
+        "2:16:12",
+        []
       ]
     ]
   ],

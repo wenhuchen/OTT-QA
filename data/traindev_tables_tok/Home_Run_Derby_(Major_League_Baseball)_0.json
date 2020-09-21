@@ -3,453 +3,269 @@
   "title": "Home Run Derby",
   "header": [
     [
-      [
-        "Player"
-      ],
-      [
-        null
-      ]
+      "Player",
+      []
     ],
     [
-      [
-        "Team"
-      ],
-      [
-        null
-      ]
+      "Team",
+      []
     ],
     [
-      [
-        "Round 1"
-      ],
-      [
-        null
-      ]
+      "Round 1",
+      []
     ],
     [
-      [
-        "Semis"
-      ],
-      [
-        null
-      ]
+      "Semis",
+      []
     ],
     [
-      [
-        "Finals"
-      ],
-      [
-        null
-      ]
+      "Finals",
+      []
     ],
     [
-      [
-        "Totals"
-      ],
-      [
-        null
-      ]
+      "Totals",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Luis Gonzalez"
-        ],
+        "Luis Gonzalez",
         [
           "/wiki/Luis_Gonzalez_(outfielder)"
         ]
       ],
       [
-        [
-          "Diamondbacks"
-        ],
+        "Diamondbacks",
         [
           "/wiki/Arizona_Diamondbacks"
         ]
       ],
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "16"
-        ],
-        [
-          null
-        ]
+        "16",
+        []
       ]
     ],
     [
       [
-        [
-          "Sammy Sosa"
-        ],
+        "Sammy Sosa",
         [
           "/wiki/Sammy_Sosa"
         ]
       ],
       [
-        [
-          "Cubs"
-        ],
+        "Cubs",
         [
           "/wiki/Chicago_Cubs"
         ]
       ],
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "13"
-        ],
-        [
-          null
-        ]
+        "13",
+        []
       ]
     ],
     [
       [
-        [
-          "Jason Giambi"
-        ],
+        "Jason Giambi",
         [
           "/wiki/Jason_Giambi"
         ]
       ],
       [
-        [
-          "Athletics"
-        ],
+        "Athletics",
         [
           "/wiki/Oakland_Athletics"
         ]
       ],
       [
-        [
-          "14"
-        ],
-        [
-          null
-        ]
+        "14",
+        []
       ],
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "20"
-        ],
-        [
-          null
-        ]
+        "20",
+        []
       ]
     ],
     [
       [
-        [
-          "Barry Bonds"
-        ],
+        "Barry Bonds",
         [
           "/wiki/Barry_Bonds"
         ]
       ],
       [
-        [
-          "Giants"
-        ],
+        "Giants",
         [
           "/wiki/San_Francisco_Giants"
         ]
       ],
       [
-        [
-          "7"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ],
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "10"
-        ],
-        [
-          null
-        ]
+        "10",
+        []
       ]
     ],
     [
       [
-        [
-          "Bret Boone"
-        ],
+        "Bret Boone",
         [
           "/wiki/Bret_Boone"
         ]
       ],
       [
-        [
-          "Mariners"
-        ],
+        "Mariners",
         [
           "/wiki/Seattle_Mariners"
         ]
       ],
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ]
     ],
     [
       [
-        [
-          "Todd Helton"
-        ],
+        "Todd Helton",
         [
           "/wiki/Todd_Helton"
         ]
       ],
       [
-        [
-          "Rockies"
-        ],
+        "Rockies",
         [
           "/wiki/Colorado_Rockies"
         ]
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ]
     ],
     [
       [
-        [
-          "Alex Rodriguez"
-        ],
+        "Alex Rodriguez",
         [
           "/wiki/Alex_Rodriguez"
         ]
       ],
       [
-        [
-          "Rangers"
-        ],
+        "Rangers",
         [
           "/wiki/Texas_Rangers_(baseball)"
         ]
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ]
     ],
     [
       [
-        [
-          "Troy Glaus"
-        ],
+        "Troy Glaus",
         [
           "/wiki/Troy_Glaus"
         ]
       ],
       [
-        [
-          "Angels"
-        ],
+        "Angels",
         [
           "/wiki/Los_Angeles_Angels_of_Anaheim"
         ]
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ]
     ]
   ],

@@ -3,53 +3,34 @@
   "title": "County of Canning",
   "header": [
     [
-      [
-        "Parish"
-      ],
-      [
-        null
-      ]
+      "Parish",
+      []
     ],
     [
-      [
-        "LGA"
-      ],
+      "LGA",
       [
         "/wiki/Local_government_in_Australia"
       ]
     ],
     [
-      [
-        "Towns"
-      ],
-      [
-        null
-      ]
+      "Towns",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Beerwah"
-        ],
-        [
-          null
-        ]
+        "Beerwah",
+        []
       ],
       [
-        [
-          "Sunshine Coast"
-        ],
+        "Sunshine Coast",
         [
           "/wiki/Sunshine_Coast_Region"
         ]
       ],
       [
-        [
-          "Beerwah",
-          "Beerburrum"
-        ],
+        "Beerwah , Beerburrum",
         [
           "/wiki/Beerwah,_Queensland",
           "/wiki/Beerburrum,_Queensland"
@@ -58,26 +39,17 @@
     ],
     [
       [
-        [
-          "Bowman"
-        ],
-        [
-          null
-        ]
+        "Bowman",
+        []
       ],
       [
-        [
-          "Somerset"
-        ],
+        "Somerset",
         [
           "/wiki/Somerset_Region"
         ]
       ],
       [
-        [
-          "Somerset Dam",
-          "Hazeldean"
-        ],
+        "Somerset Dam , Hazeldean",
         [
           "/wiki/Somerset_Dam",
           "/wiki/Hazeldean,_Queensland"
@@ -86,26 +58,17 @@
     ],
     [
       [
-        [
-          "Bribie"
-        ],
-        [
-          null
-        ]
+        "Bribie",
+        []
       ],
       [
-        [
-          "Sunshine Coast"
-        ],
+        "Sunshine Coast",
         [
           "/wiki/Sunshine_Coast_Region"
         ]
       ],
       [
-        [
-          "Caloundra",
-          "Landsborough"
-        ],
+        "Caloundra , Landsborough",
         [
           "/wiki/Caloundra",
           "/wiki/Landsborough,_Queensland"
@@ -114,26 +77,17 @@
     ],
     [
       [
-        [
-          "Canning"
-        ],
-        [
-          null
-        ]
+        "Canning",
+        []
       ],
       [
-        [
-          "Moreton Bay"
-        ],
+        "Moreton Bay",
         [
           "/wiki/Moreton_Bay_Region"
         ]
       ],
       [
-        [
-          "Caboolture",
-          "Elimbah"
-        ],
+        "Caboolture , Elimbah",
         [
           "/wiki/Caboolture",
           "/wiki/Elimbah,_Queensland"
@@ -142,51 +96,33 @@
     ],
     [
       [
-        [
-          "Cressbrook"
-        ],
-        [
-          null
-        ]
+        "Cressbrook",
+        []
       ],
       [
-        [
-          "Somerset"
-        ],
+        "Somerset",
         [
           "/wiki/Somerset_Region"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Durundur"
-        ],
-        [
-          null
-        ]
+        "Durundur",
+        []
       ],
       [
-        [
-          "Moreton Bay"
-        ],
+        "Moreton Bay",
         [
           "/wiki/Moreton_Bay_Region"
         ]
       ],
       [
-        [
-          "Woodford"
-        ],
+        "Woodford",
         [
           "/wiki/Woodford,_Queensland"
         ]
@@ -194,25 +130,17 @@
     ],
     [
       [
-        [
-          "Kilcoy"
-        ],
-        [
-          null
-        ]
+        "Kilcoy",
+        []
       ],
       [
-        [
-          "Somerset"
-        ],
+        "Somerset",
         [
           "/wiki/Somerset_Region"
         ]
       ],
       [
-        [
-          "Kilcoy"
-        ],
+        "Kilcoy",
         [
           "/wiki/Kilcoy,_Queensland"
         ]
@@ -220,27 +148,17 @@
     ],
     [
       [
-        [
-          "Maroochy"
-        ],
-        [
-          null
-        ]
+        "Maroochy",
+        []
       ],
       [
-        [
-          "Sunshine Coast"
-        ],
+        "Sunshine Coast",
         [
           "/wiki/Sunshine_Coast_Region"
         ]
       ],
       [
-        [
-          "Nambour",
-          "Eumundi",
-          "Coolum"
-        ],
+        "Nambour , Eumundi , Coolum",
         [
           "/wiki/Nambour,_Queensland",
           "/wiki/Eumundi,_Queensland",
@@ -250,53 +168,33 @@
     ],
     [
       [
-        [
-          "Monsildale"
-        ],
-        [
-          null
-        ]
+        "Monsildale",
+        []
       ],
       [
-        [
-          "Somerset"
-        ],
+        "Somerset",
         [
           "/wiki/Somerset_Region"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Mooloolah"
-        ],
-        [
-          null
-        ]
+        "Mooloolah",
+        []
       ],
       [
-        [
-          "Sunshine Coast"
-        ],
+        "Sunshine Coast",
         [
           "/wiki/Sunshine_Coast_Region"
         ]
       ],
       [
-        [
-          "Maroochydore",
-          "Eudlo",
-          "Sippy Downs"
-        ],
+        "Maroochydore , Eudlo , Sippy Downs",
         [
           "/wiki/Maroochydore,_Queensland",
           "/wiki/Eudlo,_Queensland",
@@ -306,52 +204,33 @@
     ],
     [
       [
-        [
-          "Neara"
-        ],
-        [
-          null
-        ]
+        "Neara",
+        []
       ],
       [
-        [
-          "Somerset"
-        ],
+        "Somerset",
         [
           "/wiki/Somerset_Region"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Toorbul"
-        ],
-        [
-          null
-        ]
+        "Toorbul",
+        []
       ],
       [
-        [
-          "Moreton Bay"
-        ],
+        "Moreton Bay",
         [
           "/wiki/Moreton_Bay_Region"
         ]
       ],
       [
-        [
-          "Toorbul",
-          "Ningi"
-        ],
+        "Toorbul , Ningi",
         [
           "/wiki/Toorbul,_Queensland",
           "/wiki/Ningi,_Queensland"
@@ -360,25 +239,17 @@
     ],
     [
       [
-        [
-          "Wararba"
-        ],
-        [
-          null
-        ]
+        "Wararba",
+        []
       ],
       [
-        [
-          "Moreton Bay"
-        ],
+        "Moreton Bay",
         [
           "/wiki/Moreton_Bay_Region"
         ]
       ],
       [
-        [
-          "Wamuran"
-        ],
+        "Wamuran",
         [
           "/wiki/Wamuran,_Queensland"
         ]
@@ -386,25 +257,17 @@
     ],
     [
       [
-        [
-          "Woorim"
-        ],
-        [
-          null
-        ]
+        "Woorim",
+        []
       ],
       [
-        [
-          "Moreton Bay"
-        ],
+        "Moreton Bay",
         [
           "/wiki/Moreton_Bay_Region"
         ]
       ],
       [
-        [
-          "Bribie Island"
-        ],
+        "Bribie Island",
         [
           "/wiki/Bribie_Island"
         ]

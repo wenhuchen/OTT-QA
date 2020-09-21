@@ -3,377 +3,241 @@
   "title": "List of busiest passenger air routes",
   "header": [
     [
-      [
-        "Rank"
-      ],
-      [
-        null
-      ]
+      "Rank",
+      []
     ],
     [
-      [
-        "Airport 1"
-      ],
-      [
-        null
-      ]
+      "Airport 1",
+      []
     ],
     [
-      [
-        "Airport 2"
-      ],
-      [
-        null
-      ]
+      "Airport 2",
+      []
     ],
     [
-      [
-        "Passengers ( 2017 )"
-      ],
-      [
-        null
-      ]
+      "Passengers ( 2017 )",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "Buenos Aires"
-        ],
+        "Buenos Aires",
         [
           "/wiki/Buenos_Aires"
         ]
       ],
       [
-        [
-          "C\u00f3rdoba"
-        ],
+        "C\u00f3rdoba",
         [
           "/wiki/Ingeniero_Aeron\u00e1utico_Ambrosio_L.V._Taravella_International_Airport"
         ]
       ],
       [
-        [
-          "1,368,000"
-        ],
-        [
-          null
-        ]
+        "1,368,000",
+        []
       ]
     ],
     [
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "Buenos Aires - Aeroparque"
-        ],
+        "Buenos Aires - Aeroparque",
         [
           "/wiki/Aeroparque_Jorge_Newbery"
         ]
       ],
       [
-        [
-          "Bariloche"
-        ],
+        "Bariloche",
         [
           "/wiki/San_Carlos_de_Bariloche_Airport"
         ]
       ],
       [
-        [
-          "1,005,000"
-        ],
-        [
-          null
-        ]
+        "1,005,000",
+        []
       ]
     ],
     [
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "Buenos Aires - Aeroparque"
-        ],
+        "Buenos Aires - Aeroparque",
         [
           "/wiki/Aeroparque_Jorge_Newbery"
         ]
       ],
       [
-        [
-          "Mendoza"
-        ],
+        "Mendoza",
         [
           "/wiki/Governor_Francisco_Gabrielli_International_Airport"
         ]
       ],
       [
-        [
-          "880,000"
-        ],
-        [
-          null
-        ]
+        "880,000",
+        []
       ]
     ],
     [
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "Buenos Aires - Aeroparque"
-        ],
+        "Buenos Aires - Aeroparque",
         [
           "/wiki/Aeroparque_Jorge_Newbery"
         ]
       ],
       [
-        [
-          "Iguaz\u00fa"
-        ],
+        "Iguaz\u00fa",
         [
           "/wiki/Cataratas_del_Iguaz\u00fa_International_Airport"
         ]
       ],
       [
-        [
-          "841,000"
-        ],
-        [
-          null
-        ]
+        "841,000",
+        []
       ]
     ],
     [
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "Buenos Aires - Aeroparque"
-        ],
+        "Buenos Aires - Aeroparque",
         [
           "/wiki/Aeroparque_Jorge_Newbery"
         ]
       ],
       [
-        [
-          "Salta"
-        ],
+        "Salta",
         [
           "/wiki/Mart\u00edn_Miguel_de_G\u00fcemes_International_Airport"
         ]
       ],
       [
-        [
-          "828,000"
-        ],
-        [
-          null
-        ]
+        "828,000",
+        []
       ]
     ],
     [
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "Buenos Aires - Aeroparque"
-        ],
+        "Buenos Aires - Aeroparque",
         [
           "/wiki/Aeroparque_Jorge_Newbery"
         ]
       ],
       [
-        [
-          "Neuqu\u00e9n"
-        ],
+        "Neuqu\u00e9n",
         [
           "/wiki/Presidente_Per\u00f3n_International_Airport"
         ]
       ],
       [
-        [
-          "722,000"
-        ],
-        [
-          null
-        ]
+        "722,000",
+        []
       ]
     ],
     [
       [
-        [
-          "7"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ],
       [
-        [
-          "Buenos Aires - Aeroparque"
-        ],
+        "Buenos Aires - Aeroparque",
         [
           "/wiki/Aeroparque_Jorge_Newbery"
         ]
       ],
       [
-        [
-          "Tucum\u00e1n"
-        ],
+        "Tucum\u00e1n",
         [
           "/wiki/Teniente_General_Benjam\u00edn_Matienzo_International_Airport"
         ]
       ],
       [
-        [
-          "501,000"
-        ],
-        [
-          null
-        ]
+        "501,000",
+        []
       ]
     ],
     [
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "Buenos Aires - Aeroparque"
-        ],
+        "Buenos Aires - Aeroparque",
         [
           "/wiki/Aeroparque_Jorge_Newbery"
         ]
       ],
       [
-        [
-          "Ushuaia"
-        ],
+        "Ushuaia",
         [
           "/wiki/Ushuaia_\u2013_Malvinas_Argentinas_International_Airport"
         ]
       ],
       [
-        [
-          "490,000"
-        ],
-        [
-          null
-        ]
+        "490,000",
+        []
       ]
     ],
     [
       [
-        [
-          "9"
-        ],
-        [
-          null
-        ]
+        "9",
+        []
       ],
       [
-        [
-          "Buenos Aires - Aeroparque"
-        ],
+        "Buenos Aires - Aeroparque",
         [
           "/wiki/Aeroparque_Jorge_Newbery"
         ]
       ],
       [
-        [
-          "Comodoro Rivadavia"
-        ],
+        "Comodoro Rivadavia",
         [
           "/wiki/General_Enrique_Mosconi_International_Airport"
         ]
       ],
       [
-        [
-          "462,000"
-        ],
-        [
-          null
-        ]
+        "462,000",
+        []
       ]
     ],
     [
       [
-        [
-          "10"
-        ],
-        [
-          null
-        ]
+        "10",
+        []
       ],
       [
-        [
-          "Buenos Aires - Aeroparque"
-        ],
+        "Buenos Aires - Aeroparque",
         [
           "/wiki/Aeroparque_Jorge_Newbery"
         ]
       ],
       [
-        [
-          "El Calafate"
-        ],
+        "El Calafate",
         [
           "/wiki/Comandante_Armando_Tola_International_Airport"
         ]
       ],
       [
-        [
-          "383,000"
-        ],
-        [
-          null
-        ]
+        "383,000",
+        []
       ]
     ]
   ],

@@ -3,70 +3,40 @@
   "title": "Top 14",
   "header": [
     [
-      [
-        "Rank"
-      ],
-      [
-        null
-      ]
+      "Rank",
+      []
     ],
     [
-      [
-        "Player"
-      ],
-      [
-        null
-      ]
+      "Player",
+      []
     ],
     [
-      [
-        "Club ( s )"
-      ],
-      [
-        null
-      ]
+      "Club ( s )",
+      []
     ],
     [
-      [
-        "Years"
-      ],
-      [
-        null
-      ]
+      "Years",
+      []
     ],
     [
-      [
-        "Tries"
-      ],
-      [
-        null
-      ]
+      "Tries",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "Vincent Clerc"
-        ],
+        "Vincent Clerc",
         [
           "/wiki/Vincent_Clerc"
         ]
       ],
       [
-        [
-          "Grenoble",
-          "Toulouse",
-          "Toulon"
-        ],
+        "Grenoble , Toulouse , Toulon",
         [
           "/wiki/FC_Grenoble",
           "/wiki/Stade_Toulousain",
@@ -74,46 +44,25 @@
         ]
       ],
       [
-        [
-          "2002-2018"
-        ],
-        [
-          null
-        ]
+        "2002-2018",
+        []
       ],
       [
-        [
-          "101"
-        ],
-        [
-          null
-        ]
+        "101",
+        []
       ]
     ],
     [
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "Laurent Arbo"
-        ],
-        [
-          null
-        ]
+        "Laurent Arbo",
+        []
       ],
       [
-        [
-          "Pau",
-          "Castres",
-          "Montpellier",
-          "Perpignan"
-        ],
+        "Pau , Castres , Montpellier , Perpignan",
         [
           "/wiki/Section_Paloise",
           "/wiki/Castres_Olympique",
@@ -122,301 +71,185 @@
         ]
       ],
       [
-        [
-          "1991-2007"
-        ],
-        [
-          null
-        ]
+        "1991-2007",
+        []
       ],
       [
-        [
-          "100"
-        ],
-        [
-          null
-        ]
+        "100",
+        []
       ]
     ],
     [
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "Aur\u00e9lien Rougerie"
-        ],
+        "Aur\u00e9lien Rougerie",
         [
           "/wiki/Aur\u00e9lien_Rougerie"
         ]
       ],
       [
-        [
-          "Clermont"
-        ],
+        "Clermont",
         [
           "/wiki/ASM_Clermont_Auvergne"
         ]
       ],
       [
-        [
-          "1999-2018"
-        ],
-        [
-          null
-        ]
+        "1999-2018",
+        []
       ],
       [
-        [
-          "96"
-        ],
-        [
-          null
-        ]
+        "96",
+        []
       ]
     ],
     [
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "Napolioni Nalaga"
-        ],
+        "Napolioni Nalaga",
         [
           "/wiki/Napolioni_Nalaga"
         ]
       ],
       [
-        [
-          "Clermont",
-          "Lyon"
-        ],
+        "Clermont , Lyon",
         [
           "/wiki/ASM_Clermont_Auvergne",
           "/wiki/Lyon_OU"
         ]
       ],
       [
-        [
-          "2006-2017"
-        ],
-        [
-          null
-        ]
+        "2006-2017",
+        []
       ],
       [
-        [
-          "87"
-        ],
-        [
-          null
-        ]
+        "87",
+        []
       ]
     ],
     [
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "Maxime Medard"
-        ],
+        "Maxime Medard",
         [
           "/wiki/Maxime_Medard"
         ]
       ],
       [
-        [
-          "Toulouse"
-        ],
+        "Toulouse",
         [
           "/wiki/Stade_Toulousain"
         ]
       ],
       [
-        [
-          "2004-"
-        ],
-        [
-          null
-        ]
+        "2004-",
+        []
       ],
       [
-        [
-          "81"
-        ],
-        [
-          null
-        ]
+        "81",
+        []
       ]
     ],
     [
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "Timoci Nagusa"
-        ],
+        "Timoci Nagusa",
         [
           "/wiki/Timoci_Nagusa"
         ]
       ],
       [
-        [
-          "Montpellier"
-        ],
+        "Montpellier",
         [
           "/wiki/Montpellier_H\u00e9rault_Rugby"
         ]
       ],
       [
-        [
-          "2010-"
-        ],
-        [
-          null
-        ]
+        "2010-",
+        []
       ],
       [
-        [
-          "78"
-        ],
-        [
-          null
-        ]
+        "78",
+        []
       ]
     ],
     [
       [
-        [
-          "7"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ],
       [
-        [
-          "Julien Arias"
-        ],
+        "Julien Arias",
         [
           "/wiki/Julien_Arias"
         ]
       ],
       [
-        [
-          "Colomiers",
-          "Stade Fran\u00e7ais"
-        ],
+        "Colomiers , Stade Fran\u00e7ais",
         [
           "/wiki/US_Colomiers",
           "/wiki/Stade_Fran\u00e7ais"
         ]
       ],
       [
-        [
-          "2001-"
-        ],
-        [
-          null
-        ]
+        "2001-",
+        []
       ],
       [
-        [
-          "76"
-        ],
-        [
-          null
-        ]
+        "76",
+        []
       ]
     ],
     [
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "C\u00e9dric Heymans"
-        ],
+        "C\u00e9dric Heymans",
         [
           "/wiki/C\u00e9dric_Heymans"
         ]
       ],
       [
-        [
-          "Toulouse"
-        ],
+        "Toulouse",
         [
           "/wiki/Stade_Toulousain"
         ]
       ],
       [
-        [
-          "2001-2013"
-        ],
-        [
-          null
-        ]
+        "2001-2013",
+        []
       ],
       [
-        [
-          "65"
-        ],
-        [
-          null
-        ]
+        "65",
+        []
       ]
     ],
     [
       [
-        [
-          "9"
-        ],
-        [
-          null
-        ]
+        "9",
+        []
       ],
       [
-        [
-          "Marc Andreu"
-        ],
+        "Marc Andreu",
         [
           "/wiki/Marc_Andreu"
         ]
       ],
       [
-        [
-          "Castres",
-          "Racing 92",
-          "La Rochelle"
-        ],
+        "Castres , Racing 92 , La Rochelle",
         [
           "/wiki/Castres_Olympique",
           "/wiki/Racing_92",
@@ -424,64 +257,39 @@
         ]
       ],
       [
-        [
-          "2005-"
-        ],
-        [
-          null
-        ]
+        "2005-",
+        []
       ],
       [
-        [
-          "60"
-        ],
-        [
-          null
-        ]
+        "60",
+        []
       ]
     ],
     [
       [
-        [
-          "10"
-        ],
-        [
-          null
-        ]
+        "10",
+        []
       ],
       [
-        [
-          "Julien Candelon"
-        ],
+        "Julien Candelon",
         [
           "/wiki/Julien_Candelon"
         ]
       ],
       [
-        [
-          "Narbonne",
-          "Perpignan"
-        ],
+        "Narbonne , Perpignan",
         [
           "/wiki/RC_Narbonne",
           "/wiki/USA_Perpignan"
         ]
       ],
       [
-        [
-          "2003-2012"
-        ],
-        [
-          null
-        ]
+        "2003-2012",
+        []
       ],
       [
-        [
-          "58"
-        ],
-        [
-          null
-        ]
+        "58",
+        []
       ]
     ]
   ],

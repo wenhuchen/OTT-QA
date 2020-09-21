@@ -3,56 +3,32 @@
   "title": "List of Muni Metro stations",
   "header": [
     [
-      [
-        "Station"
-      ],
-      [
-        null
-      ]
+      "Station",
+      []
     ],
     [
-      [
-        "Line ( s )"
-      ],
-      [
-        null
-      ]
+      "Line ( s )",
+      []
     ],
     [
-      [
-        "Platform Layout"
-      ],
-      [
-        null
-      ]
+      "Platform Layout",
+      []
     ],
     [
-      [
-        "Year Opened"
-      ],
-      [
-        null
-      ]
+      "Year Opened",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Castro Street"
-        ],
+        "Castro Street",
         [
           "/wiki/Castro_Street_Station"
         ]
       ],
       [
-        [
-          "K Ingleside",
-          "L Taraval",
-          "M Ocean View",
-          "T Third Street",
-          "S Shuttle"
-        ],
+        "K Ingleside ( outbound ) L Taraval M Ocean View T Third Street ( inbound ) S Shuttle ( peak hours/game days )",
         [
           "/wiki/K_Ingleside",
           "/wiki/L_Taraval",
@@ -62,39 +38,23 @@
         ]
       ],
       [
-        [
-          "Side"
-        ],
-        [
-          null
-        ]
+        "Side",
+        []
       ],
       [
-        [
-          "1980"
-        ],
-        [
-          null
-        ]
+        "1980",
+        []
       ]
     ],
     [
       [
-        [
-          "Church Street"
-        ],
+        "Church Street",
         [
           "/wiki/Church_Street_Station_(San_Francisco)"
         ]
       ],
       [
-        [
-          "K Ingleside",
-          "L Taraval",
-          "M Ocean View",
-          "T Third Street",
-          "S Shuttle"
-        ],
+        "K Ingleside ( outbound ) L Taraval M Ocean View T Third Street ( inbound ) S Shuttle ( peak hours/game days )",
         [
           "/wiki/K_Ingleside",
           "/wiki/L_Taraval",
@@ -104,41 +64,23 @@
         ]
       ],
       [
-        [
-          "Side"
-        ],
-        [
-          null
-        ]
+        "Side",
+        []
       ],
       [
-        [
-          "1980"
-        ],
-        [
-          null
-        ]
+        "1980",
+        []
       ]
     ],
     [
       [
-        [
-          "Civic Center"
-        ],
+        "Civic Center",
         [
           "/wiki/Civic_Center_/_UN_Plaza_Station"
         ]
       ],
       [
-        [
-          "J Church",
-          "K Ingleside",
-          "L Taraval",
-          "M Ocean View",
-          "N Judah",
-          "T Third Street",
-          "S Shuttle"
-        ],
+        "J Church K Ingleside ( outbound ) L Taraval M Ocean View N Judah T Third Street ( inbound ) S Shuttle ( peak hours/game days )",
         [
           "/wiki/J_Church",
           "/wiki/K_Ingleside",
@@ -150,41 +92,23 @@
         ]
       ],
       [
-        [
-          "Island"
-        ],
-        [
-          null
-        ]
+        "Island",
+        []
       ],
       [
-        [
-          "1980"
-        ],
-        [
-          null
-        ]
+        "1980",
+        []
       ]
     ],
     [
       [
-        [
-          "Embarcadero"
-        ],
+        "Embarcadero",
         [
           "/wiki/Embarcadero_Station"
         ]
       ],
       [
-        [
-          "J Church",
-          "K Ingleside",
-          "L Taraval",
-          "M Ocean View",
-          "N Judah",
-          "T Third Street",
-          "S Shuttle"
-        ],
+        "J Church K Ingleside ( outbound ) L Taraval M Ocean View N Judah T Third Street ( inbound ) S Shuttle ( peak hours/game days )",
         [
           "/wiki/J_Church",
           "/wiki/K_Ingleside",
@@ -196,39 +120,23 @@
         ]
       ],
       [
-        [
-          "Island"
-        ],
-        [
-          null
-        ]
+        "Island",
+        []
       ],
       [
-        [
-          "1980"
-        ],
-        [
-          null
-        ]
+        "1980",
+        []
       ]
     ],
     [
       [
-        [
-          "Forest Hill"
-        ],
+        "Forest Hill",
         [
           "/wiki/Forest_Hill_Station_(San_Francisco)"
         ]
       ],
       [
-        [
-          "K Ingleside",
-          "L Taraval",
-          "M Ocean View",
-          "T Third Street",
-          "S Shuttle"
-        ],
+        "K Ingleside ( outbound ) L Taraval M Ocean View T Third Street ( inbound ) S Shuttle ( game days )",
         [
           "/wiki/K_Ingleside",
           "/wiki/L_Taraval",
@@ -238,41 +146,23 @@
         ]
       ],
       [
-        [
-          "Side"
-        ],
-        [
-          null
-        ]
+        "Side",
+        []
       ],
       [
-        [
-          "1918"
-        ],
-        [
-          null
-        ]
+        "1918",
+        []
       ]
     ],
     [
       [
-        [
-          "Montgomery Street"
-        ],
+        "Montgomery Street",
         [
           "/wiki/Montgomery_Street_Station"
         ]
       ],
       [
-        [
-          "J Church",
-          "K Ingleside",
-          "L Taraval",
-          "M Ocean View",
-          "N Judah",
-          "T Third Street",
-          "S Shuttle"
-        ],
+        "J Church K Ingleside ( outbound ) L Taraval M Ocean View N Judah T Third Street ( inbound ) S Shuttle ( peak hours/game days )",
         [
           "/wiki/J_Church",
           "/wiki/K_Ingleside",
@@ -284,41 +174,23 @@
         ]
       ],
       [
-        [
-          "Island"
-        ],
-        [
-          null
-        ]
+        "Island",
+        []
       ],
       [
-        [
-          "1980"
-        ],
-        [
-          null
-        ]
+        "1980",
+        []
       ]
     ],
     [
       [
-        [
-          "Powell Street"
-        ],
+        "Powell Street",
         [
           "/wiki/Powell_Street_Station"
         ]
       ],
       [
-        [
-          "J Church",
-          "K Ingleside",
-          "L Taraval",
-          "M Ocean View",
-          "N Judah",
-          "T Third Street",
-          "S Shuttle"
-        ],
+        "J Church K Ingleside ( outbound ) L Taraval M Ocean View N Judah T Third Street ( inbound ) S Shuttle ( peak hours/game days )",
         [
           "/wiki/J_Church",
           "/wiki/K_Ingleside",
@@ -330,41 +202,23 @@
         ]
       ],
       [
-        [
-          "Island"
-        ],
-        [
-          null
-        ]
+        "Island",
+        []
       ],
       [
-        [
-          "1980"
-        ],
-        [
-          null
-        ]
+        "1980",
+        []
       ]
     ],
     [
       [
-        [
-          "Van Ness"
-        ],
+        "Van Ness",
         [
           "/wiki/Van_Ness_Station"
         ]
       ],
       [
-        [
-          "J Church",
-          "K Ingleside",
-          "L Taraval",
-          "M Ocean View",
-          "N Judah",
-          "T Third Street",
-          "S Shuttle"
-        ],
+        "J Church K Ingleside ( outbound ) L Taraval M Ocean View N Judah T Third Street ( inbound ) S Shuttle ( peak hours/game days )",
         [
           "/wiki/J_Church",
           "/wiki/K_Ingleside",
@@ -376,39 +230,23 @@
         ]
       ],
       [
-        [
-          "Island"
-        ],
-        [
-          null
-        ]
+        "Island",
+        []
       ],
       [
-        [
-          "1980"
-        ],
-        [
-          null
-        ]
+        "1980",
+        []
       ]
     ],
     [
       [
-        [
-          "West Portal"
-        ],
+        "West Portal",
         [
           "/wiki/West_Portal_Station"
         ]
       ],
       [
-        [
-          "K Ingleside",
-          "L Taraval",
-          "M Ocean View",
-          "T Third Street",
-          "S Shuttle"
-        ],
+        "K Ingleside ( outbound ) L Taraval M Ocean View T Third Street ( inbound ) S Shuttle ( game days )",
         [
           "/wiki/K_Ingleside",
           "/wiki/L_Taraval",
@@ -418,20 +256,12 @@
         ]
       ],
       [
-        [
-          "Side"
-        ],
-        [
-          null
-        ]
+        "Side",
+        []
       ],
       [
-        [
-          "1918"
-        ],
-        [
-          null
-        ]
+        "1918",
+        []
       ]
     ]
   ],

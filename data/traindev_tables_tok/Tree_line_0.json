@@ -3,69 +3,38 @@
   "title": "Tree line",
   "header": [
     [
-      [
-        "Location"
-      ],
-      [
-        null
-      ]
+      "Location",
+      []
     ],
     [
-      [
-        "Approx . longitude"
-      ],
-      [
-        null
-      ]
+      "Approx . longitude",
+      []
     ],
     [
-      [
-        "Approx . latitude of tree line"
-      ],
-      [
-        null
-      ]
+      "Approx . latitude of tree line",
+      []
     ],
     [
-      [
-        "Notes"
-      ],
-      [
-        null
-      ]
+      "Notes",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Norway"
-        ],
-        [
-          null
-        ]
+        "Norway",
+        []
       ],
       [
-        [
-          "24\u00b0E"
-        ],
-        [
-          null
-        ]
+        "24\u00b0E",
+        []
       ],
       [
-        [
-          "70\u00b0N"
-        ],
-        [
-          null
-        ]
+        "70\u00b0N",
+        []
       ],
       [
-        [
-          "North Atlantic current",
-          "permafrost"
-        ],
+        "The North Atlantic current makes Arctic climates in this region warmer than other coastal locations at comparable latitude . In particular the mildness of winters prevents permafrost",
         [
           "/wiki/North_Atlantic_current",
           "/wiki/Permafrost"
@@ -74,71 +43,41 @@
     ],
     [
       [
-        [
-          "West Siberian Plain"
-        ],
+        "West Siberian Plain",
         [
           "/wiki/West_Siberian_Plain"
         ]
       ],
       [
-        [
-          "75\u00b0E"
-        ],
-        [
-          null
-        ]
+        "75\u00b0E",
+        []
       ],
       [
-        [
-          "66\u00b0N"
-        ],
-        [
-          null
-        ]
+        "66\u00b0N",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Central Siberian Plateau"
-        ],
+        "Central Siberian Plateau",
         [
           "/wiki/Central_Siberian_Plateau"
         ]
       ],
       [
-        [
-          "102\u00b0E"
-        ],
-        [
-          null
-        ]
+        "102\u00b0E",
+        []
       ],
       [
-        [
-          "72\u00b0N"
-        ],
-        [
-          null
-        ]
+        "72\u00b0N",
+        []
       ],
       [
-        [
-          "continental climate",
-          "Ary-Mas",
-          "Novaya River",
-          "Khatanga River",
-          "Lukunsky grove"
-        ],
+        "Extreme continental climate means the summer is warm enough to allow tree growth at higher latitudes , extending to northernmost forests of the world at 72\u00b028 ' N at Ary-Mas ( 102\u00b0 15 ' E ) in the Novaya River valley , a tributary of the Khatanga River and the more northern Lukunsky grove at 72\u00b031 ' N , 105\u00b0 03 ' E east from Khatanga River",
         [
           "/wiki/Continental_climate",
           "/wiki/Ary-Mas",
@@ -150,11 +89,7 @@
     ],
     [
       [
-        [
-          "Russian Far East",
-          "Kamchatka",
-          "Chukotka"
-        ],
+        "Russian Far East ( Kamchatka and Chukotka )",
         [
           "/wiki/Russian_Far_East",
           "/wiki/Kamchatka_Peninsula",
@@ -162,26 +97,15 @@
         ]
       ],
       [
-        [
-          "160\u00b0E"
-        ],
-        [
-          null
-        ]
+        "160\u00b0E",
+        []
       ],
       [
-        [
-          "60\u00b0N"
-        ],
-        [
-          null
-        ]
+        "60\u00b0N",
+        []
       ],
       [
-        [
-          "Oyashio Current",
-          "Aleutian Islands"
-        ],
+        "The Oyashio Current and strong winds affect summer temperatures to prevent tree growth . The Aleutian Islands are almost completely treeless",
         [
           "/wiki/Oyashio_Current",
           "/wiki/Aleutian_Islands"
@@ -190,101 +114,61 @@
     ],
     [
       [
-        [
-          "Alaska"
-        ],
+        "Alaska",
         [
           "/wiki/Alaska"
         ]
       ],
       [
-        [
-          "152\u00b0W"
-        ],
-        [
-          null
-        ]
+        "152\u00b0W",
+        []
       ],
       [
-        [
-          "68\u00b0N"
-        ],
-        [
-          null
-        ]
+        "68\u00b0N",
+        []
       ],
       [
-        [
-          "Trees grow north to the south-facing slopes of the Brooks Range . The mountains block cold air coming off of the Arctic Ocean"
-        ],
-        [
-          null
-        ]
+        "Trees grow north to the south-facing slopes of the Brooks Range . The mountains block cold air coming off of the Arctic Ocean",
+        []
       ]
     ],
     [
       [
-        [
-          "Northwest Territories"
-        ],
+        "Northwest Territories , Canada",
         [
           "/wiki/Northwest_Territories"
         ]
       ],
       [
-        [
-          "132\u00b0W"
-        ],
-        [
-          null
-        ]
+        "132\u00b0W",
+        []
       ],
       [
-        [
-          "69\u00b0N"
-        ],
-        [
-          null
-        ]
+        "69\u00b0N",
+        []
       ],
       [
-        [
-          "Reaches north of the Arctic Circle because of the continental nature of the climate and warmer summer temperatures"
-        ],
-        [
-          null
-        ]
+        "Reaches north of the Arctic Circle because of the continental nature of the climate and warmer summer temperatures",
+        []
       ]
     ],
     [
       [
-        [
-          "Nunavut"
-        ],
+        "Nunavut",
         [
           "/wiki/Nunavut"
         ]
       ],
       [
-        [
-          "95\u00b0W"
-        ],
-        [
-          null
-        ]
+        "95\u00b0W",
+        []
       ],
       [
-        [
-          "61\u00b0N"
-        ],
-        [
-          null
-        ]
+        "61\u00b0N",
+        []
       ],
       [
-        [
-          "Hudson Bay"
-        ],
+        "Influence of the very cold Hudson Bay moves the treeline southwards",
         [
           "/wiki/Hudson_Bay"
         ]
@@ -292,34 +176,21 @@
     ],
     [
       [
-        [
-          "Labrador Peninsula"
-        ],
+        "Labrador Peninsula",
         [
           "/wiki/Labrador_Peninsula"
         ]
       ],
       [
-        [
-          "72\u00b0W"
-        ],
-        [
-          null
-        ]
+        "72\u00b0W",
+        []
       ],
       [
-        [
-          "56\u00b0N"
-        ],
-        [
-          null
-        ]
+        "56\u00b0N",
+        []
       ],
       [
-        [
-          "Labrador",
-          "Napartok Bay"
-        ],
+        "Very strong influence of the Labrador Current on summer temperatures as well as altitude effects ( much of Labrador is a plateau ) . In parts of Labrador , the treeline extends as far south as 53\u00b0N . Along the coast the northernmost trees are at 58\u00b0N in Napartok Bay",
         [
           "/wiki/Labrador",
           "/wiki/Napartok_Bay"
@@ -328,34 +199,21 @@
     ],
     [
       [
-        [
-          "Greenland"
-        ],
+        "Greenland",
         [
           "/wiki/Greenland"
         ]
       ],
       [
-        [
-          "50\u00b0W"
-        ],
-        [
-          null
-        ]
+        "50\u00b0W",
+        []
       ],
       [
-        [
-          "64\u00b0N"
-        ],
-        [
-          null
-        ]
+        "64\u00b0N",
+        []
       ],
       [
-        [
-          "S\u00f8ndre Str\u00f8mfjord",
-          "Qinngua Valley"
-        ],
+        "Determined by experimental tree planting in the absence of native trees because of isolation from natural seed sources ; a very few trees are surviving , but growing slowly , at S\u00f8ndre Str\u00f8mfjord , 67\u00b0N . There is one natural forest in the Qinngua Valley",
         [
           "/wiki/Kangerlussuaq_Fjord",
           "/wiki/Qinngua_Valley"

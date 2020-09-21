@@ -3,52 +3,32 @@
   "title": "List of build automation software",
   "header": [
     [
-      [
-        "Tool name"
-      ],
-      [
-        null
-      ]
+      "Tool name",
+      []
     ],
     [
-      [
-        "Description language"
-      ],
-      [
-        null
-      ]
+      "Description language",
+      []
     ],
     [
-      [
-        "License"
-      ],
-      [
-        null
-      ]
+      "License",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "A-A-P"
-        ],
+        "A-A-P",
         [
           "/wiki/A-A-P"
         ]
       ],
       [
-        [
-          "recipe"
-        ],
-        [
-          null
-        ]
+        "recipe",
+        []
       ],
       [
-        [
-          "GNU GPL"
-        ],
+        "GNU GPL",
         [
           "/wiki/GNU_General_Public_License"
         ]
@@ -56,25 +36,19 @@
     ],
     [
       [
-        [
-          "Ant"
-        ],
+        "Ant",
         [
           "/wiki/Apache_Ant"
         ]
       ],
       [
-        [
-          "XML"
-        ],
+        "XML",
         [
           "/wiki/XML"
         ]
       ],
       [
-        [
-          "Apache License 2.0"
-        ],
+        "Apache License 2.0",
         [
           "/wiki/Apache_License_2.0"
         ]
@@ -82,51 +56,33 @@
     ],
     [
       [
-        [
-          "AnthillPro"
-        ],
+        "AnthillPro",
         [
           "/wiki/AnthillPro"
         ]
       ],
       [
-        [
-          "Wraps Make , Ant , Maven , MsBuild , Nant , etc . for controlled build , deploy , test processes"
-        ],
-        [
-          null
-        ]
+        "Wraps Make , Ant , Maven , MsBuild , Nant , etc . for controlled build , deploy , test processes",
+        []
       ],
       [
-        [
-          "Discontinued"
-        ],
-        [
-          null
-        ]
+        "Discontinued",
+        []
       ]
     ],
     [
       [
-        [
-          "Bamboo"
-        ],
+        "Bamboo",
         [
           "/wiki/Atlassian_bamboo"
         ]
       ],
       [
-        [
-          "continuous integration"
-        ],
-        [
-          null
-        ]
+        "continuous integration",
+        []
       ],
       [
-        [
-          "Trialware"
-        ],
+        "Trialware",
         [
           "/wiki/Trialware"
         ]
@@ -134,25 +90,17 @@
     ],
     [
       [
-        [
-          "Bazel"
-        ],
+        "Bazel",
         [
           "/wiki/Bazel_(software)"
         ]
       ],
       [
-        [
-          "BUILD/Starlark , a Python-like DSL"
-        ],
-        [
-          null
-        ]
+        "BUILD/Starlark , a Python-like DSL",
+        []
       ],
       [
-        [
-          "Apache License 2.0"
-        ],
+        "Apache License 2.0",
         [
           "/wiki/Apache_License_2.0"
         ]
@@ -160,27 +108,20 @@
     ],
     [
       [
-        [
-          "BuildAMation"
-        ],
+        "BuildAMation",
         [
           "/wiki/BuildAMation"
         ]
       ],
       [
-        [
-          "C #",
-          "XML"
-        ],
+        "C # for build scripts , XML for high level dependencies",
         [
           "/wiki/C_Sharp_(programming_language)",
           "/wiki/XML"
         ]
       ],
       [
-        [
-          "New BSD License"
-        ],
+        "New BSD License",
         [
           "/wiki/New_BSD_License"
         ]
@@ -188,25 +129,19 @@
     ],
     [
       [
-        [
-          "Buildr"
-        ],
+        "Buildr",
         [
           "/wiki/Apache_Buildr"
         ]
       ],
       [
-        [
-          "Ruby"
-        ],
+        "Ruby",
         [
           "/wiki/Ruby_(programming_language)"
         ]
       ],
       [
-        [
-          "Apache License 2.0"
-        ],
+        "Apache License 2.0",
         [
           "/wiki/Apache_License_2.0"
         ]
@@ -214,25 +149,17 @@
     ],
     [
       [
-        [
-          "Boot"
-        ],
+        "Boot",
         [
           "/wiki/Boot_(software)"
         ]
       ],
       [
-        [
-          "Clojure"
-        ],
-        [
-          null
-        ]
+        "Clojure",
+        []
       ],
       [
-        [
-          "Eclipse Public License"
-        ],
+        "Eclipse Public License",
         [
           "/wiki/Eclipse_Public_License"
         ]
@@ -240,25 +167,19 @@
     ],
     [
       [
-        [
-          "Capistrano"
-        ],
+        "Capistrano",
         [
           "/wiki/Capistrano_(software)"
         ]
       ],
       [
-        [
-          "XML"
-        ],
+        "XML",
         [
           "/wiki/XML"
         ]
       ],
       [
-        [
-          "MIT License"
-        ],
+        "MIT License",
         [
           "/wiki/MIT_License"
         ]
@@ -266,25 +187,17 @@
     ],
     [
       [
-        [
-          "CMake"
-        ],
+        "CMake",
         [
           "/wiki/CMake"
         ]
       ],
       [
-        [
-          "uses CMakeLists.txt file"
-        ],
-        [
-          null
-        ]
+        "uses CMakeLists.txt file",
+        []
       ],
       [
-        [
-          "New BSD License"
-        ],
+        "New BSD License",
         [
           "/wiki/New_BSD_License"
         ]
@@ -292,25 +205,15 @@
     ],
     [
       [
-        [
-          "Cake"
-        ],
-        [
-          null
-        ]
+        "Cake",
+        []
       ],
       [
-        [
-          "C # , .NET , .NET core . Uses C # written cake file"
-        ],
-        [
-          null
-        ]
+        "C # , .NET , .NET core . Uses C # written cake file",
+        []
       ],
       [
-        [
-          "MIT License"
-        ],
+        "MIT License",
         [
           "/wiki/MIT_License"
         ]
@@ -318,19 +221,13 @@
     ],
     [
       [
-        [
-          "Collective Knowledge Framework"
-        ],
+        "Collective Knowledge Framework",
         [
           "/wiki/Collective_Knowledge_(software)"
         ]
       ],
       [
-        [
-          "Python",
-          "JSON",
-          "JSON"
-        ],
+        "Python scripts with JSON API and JSON meta-description",
         [
           "/wiki/Python_(language)",
           "/wiki/JSON",
@@ -338,9 +235,7 @@
         ]
       ],
       [
-        [
-          "New BSD License"
-        ],
+        "New BSD License",
         [
           "/wiki/New_BSD_License"
         ]
@@ -348,25 +243,17 @@
     ],
     [
       [
-        [
-          "Continuum"
-        ],
+        "Continuum",
         [
           "/wiki/Apache_Continuum"
         ]
       ],
       [
-        [
-          "?"
-        ],
-        [
-          null
-        ]
+        "?",
+        []
       ],
       [
-        [
-          "Apache License 2.0"
-        ],
+        "Apache License 2.0",
         [
           "/wiki/Apache_License_2.0"
         ]
@@ -374,25 +261,19 @@
     ],
     [
       [
-        [
-          "CruiseControl"
-        ],
+        "CruiseControl",
         [
           "/wiki/CruiseControl"
         ]
       ],
       [
-        [
-          "XML"
-        ],
+        "XML",
         [
           "/wiki/XML"
         ]
       ],
       [
-        [
-          "BSD"
-        ],
+        "BSD -style license",
         [
           "/wiki/BSD_licenses"
         ]
@@ -400,27 +281,20 @@
     ],
     [
       [
-        [
-          "FinalBuilder"
-        ],
+        "FinalBuilder",
         [
           "/wiki/FinalBuilder"
         ]
       ],
       [
-        [
-          "IronPython",
-          "PowerShell"
-        ],
+        "graphical IDE with support for Ant/NAnt , MSBuild , JScript , VBScript , IronPython , PowerShell",
         [
           "/wiki/IronPython",
           "/wiki/Windows_PowerShell"
         ]
       ],
       [
-        [
-          "Trialware"
-        ],
+        "Trialware",
         [
           "/wiki/Trialware"
         ]
@@ -428,25 +302,17 @@
     ],
     [
       [
-        [
-          "Gradle"
-        ],
+        "Gradle",
         [
           "/wiki/Gradle"
         ]
       ],
       [
-        [
-          "Groovy-based DSL"
-        ],
-        [
-          null
-        ]
+        "Groovy-based DSL",
+        []
       ],
       [
-        [
-          "Apache License 2.0"
-        ],
+        "Apache License 2.0",
         [
           "/wiki/Apache_License_2.0"
         ]
@@ -454,25 +320,17 @@
     ],
     [
       [
-        [
-          "Jenkins"
-        ],
+        "Jenkins",
         [
           "/wiki/Jenkins_(software)"
         ]
       ],
       [
-        [
-          "continuous integration"
-        ],
-        [
-          null
-        ]
+        "continuous integration",
+        []
       ],
       [
-        [
-          "MIT License"
-        ],
+        "MIT License",
         [
           "/wiki/MIT_License"
         ]
@@ -480,25 +338,19 @@
     ],
     [
       [
-        [
-          "Homebrew"
-        ],
+        "Homebrew",
         [
           "/wiki/Homebrew_(package_management_software)"
         ]
       ],
       [
-        [
-          "Ruby"
-        ],
+        "Ruby",
         [
           "/wiki/Ruby_(programming_language)"
         ]
       ],
       [
-        [
-          "Simplified BSD License"
-        ],
+        "Simplified BSD License",
         [
           "/wiki/Simplified_BSD_License"
         ]
@@ -506,25 +358,17 @@
     ],
     [
       [
-        [
-          "Leiningen"
-        ],
+        "Leiningen",
         [
           "/wiki/Leiningen_(software)"
         ]
       ],
       [
-        [
-          "Clojure"
-        ],
-        [
-          null
-        ]
+        "Clojure",
+        []
       ],
       [
-        [
-          "Eclipse Public License"
-        ],
+        "Eclipse Public License",
         [
           "/wiki/Eclipse_Public_License"
         ]
@@ -532,28 +376,18 @@
     ],
     [
       [
-        [
-          "make"
-        ],
+        "make",
         [
           "/wiki/Make_(software)"
         ]
       ],
       [
-        [
-          "uses Makefile"
-        ],
-        [
-          null
-        ]
+        "uses Makefile",
+        []
       ],
       [
-        [
-          "Same as the bundling OS"
-        ],
-        [
-          null
-        ]
+        "Same as the bundling OS",
+        []
       ]
     ]
   ],

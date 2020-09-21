@@ -3,84 +3,50 @@
   "title": "Hannington transmitting station",
   "header": [
     [
-      [
-        "Frequency"
-      ],
-      [
-        null
-      ]
+      "Frequency",
+      []
     ],
     [
-      [
-        "UHF"
-      ],
-      [
-        null
-      ]
+      "UHF",
+      []
     ],
     [
-      [
-        "kW"
-      ],
-      [
-        null
-      ]
+      "kW",
+      []
     ],
     [
-      [
-        "Operator"
-      ],
-      [
-        null
-      ]
+      "Operator",
+      []
     ],
     [
-      [
-        "System"
-      ],
-      [
-        null
-      ]
+      "System",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "MHz"
-        ],
+        "618.000 MHz",
         [
           "/wiki/Hertz"
         ]
       ],
       [
-        [
-          "39"
-        ],
-        [
-          null
-        ]
+        "39",
+        []
       ],
       [
-        [
-          "50"
-        ],
-        [
-          null
-        ]
+        "50",
+        []
       ],
       [
-        [
-          "BBC"
-        ],
+        "BBC B",
         [
           "/wiki/BBC"
         ]
       ],
       [
-        [
-          "DVB-T2"
-        ],
+        "DVB-T2",
         [
           "/wiki/DVB-T2"
         ]
@@ -88,41 +54,27 @@
     ],
     [
       [
-        [
-          "MHz"
-        ],
+        "626.000 MHz",
         [
           "/wiki/Hertz"
         ]
       ],
       [
-        [
-          "40"
-        ],
-        [
-          null
-        ]
+        "40",
+        []
       ],
       [
-        [
-          "25"
-        ],
-        [
-          null
-        ]
+        "25",
+        []
       ],
       [
-        [
-          "SDN"
-        ],
+        "SDN",
         [
           "/wiki/S4C_Digital_Networks"
         ]
       ],
       [
-        [
-          "DVB-T"
-        ],
+        "DVB-T",
         [
           "/wiki/DVB-T"
         ]
@@ -130,41 +82,27 @@
     ],
     [
       [
-        [
-          "MHz"
-        ],
+        "642.000 MHz",
         [
           "/wiki/Hertz"
         ]
       ],
       [
-        [
-          "42"
-        ],
-        [
-          null
-        ]
+        "42",
+        []
       ],
       [
-        [
-          "50"
-        ],
-        [
-          null
-        ]
+        "50",
+        []
       ],
       [
-        [
-          "Digital 3 & 4"
-        ],
+        "Digital 3 & 4",
         [
           "/wiki/Digital_3&4"
         ]
       ],
       [
-        [
-          "DVB-T"
-        ],
+        "DVB-T",
         [
           "/wiki/DVB-T"
         ]
@@ -172,41 +110,27 @@
     ],
     [
       [
-        [
-          "MHz"
-        ],
+        "650.000 MHz",
         [
           "/wiki/Hertz"
         ]
       ],
       [
-        [
-          "43"
-        ],
-        [
-          null
-        ]
+        "43",
+        []
       ],
       [
-        [
-          "25"
-        ],
-        [
-          null
-        ]
+        "25",
+        []
       ],
       [
-        [
-          "Arqiva"
-        ],
+        "Arqiva A",
         [
           "/wiki/Arqiva"
         ]
       ],
       [
-        [
-          "DVB-T"
-        ],
+        "DVB-T",
         [
           "/wiki/DVB-T"
         ]
@@ -214,41 +138,27 @@
     ],
     [
       [
-        [
-          "MHz"
-        ],
+        "666.000 MHz",
         [
           "/wiki/Hertz"
         ]
       ],
       [
-        [
-          "45"
-        ],
-        [
-          null
-        ]
+        "45",
+        []
       ],
       [
-        [
-          "50"
-        ],
-        [
-          null
-        ]
+        "50",
+        []
       ],
       [
-        [
-          "BBC"
-        ],
+        "BBC A",
         [
           "/wiki/BBC"
         ]
       ],
       [
-        [
-          "DVB-T"
-        ],
+        "DVB-T",
         [
           "/wiki/DVB-T"
         ]
@@ -256,41 +166,27 @@
     ],
     [
       [
-        [
-          "MHz"
-        ],
+        "674.000 MHz",
         [
           "/wiki/Hertz"
         ]
       ],
       [
-        [
-          "46"
-        ],
-        [
-          null
-        ]
+        "46",
+        []
       ],
       [
-        [
-          "25"
-        ],
-        [
-          null
-        ]
+        "25",
+        []
       ],
       [
-        [
-          "Arqiva"
-        ],
+        "Arqiva B",
         [
           "/wiki/Arqiva"
         ]
       ],
       [
-        [
-          "DVB-T"
-        ],
+        "DVB-T",
         [
           "/wiki/DVB-T"
         ]
@@ -298,41 +194,25 @@
     ],
     [
       [
-        [
-          "MHz"
-        ],
+        "746.000 MHz",
         [
           "/wiki/Hertz"
         ]
       ],
       [
-        [
-          "55"
-        ],
-        [
-          null
-        ]
+        "55",
+        []
       ],
       [
-        [
-          "36.7"
-        ],
-        [
-          null
-        ]
+        "36.7",
+        []
       ],
       [
-        [
-          "com7"
-        ],
-        [
-          null
-        ]
+        "com7",
+        []
       ],
       [
-        [
-          "DVB-T"
-        ],
+        "DVB-T",
         [
           "/wiki/DVB-T"
         ]
@@ -340,41 +220,25 @@
     ],
     [
       [
-        [
-          "MHz"
-        ],
+        "754.000 MHz",
         [
           "/wiki/Hertz"
         ]
       ],
       [
-        [
-          "56"
-        ],
-        [
-          null
-        ]
+        "56",
+        []
       ],
       [
-        [
-          "26.2"
-        ],
-        [
-          null
-        ]
+        "26.2",
+        []
       ],
       [
-        [
-          "com8"
-        ],
-        [
-          null
-        ]
+        "com8",
+        []
       ],
       [
-        [
-          "DVB-T"
-        ],
+        "DVB-T",
         [
           "/wiki/DVB-T"
         ]

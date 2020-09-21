@@ -3,101 +3,66 @@
   "title": "List of mountain peaks by prominence",
   "header": [
     [
-      [
-        "Peak"
-      ],
+      "Peak",
       [
         "/wiki/Summit_(topography)"
       ]
     ],
     [
-      [
-        "Location"
-      ],
-      [
-        null
-      ]
+      "Location",
+      []
     ],
     [
-      [
-        "Height"
-      ],
+      "Height ( m )",
       [
         "/wiki/Elevation"
       ]
     ],
     [
-      [
-        "Prominence"
-      ],
+      "Prominence ( m )",
       [
         "/wiki/Topographic_prominence"
       ]
     ],
     [
-      [
-        "Col"
-      ],
+      "Col ( m )",
       [
         "/wiki/Mountain_pass"
       ]
     ],
     [
-      [
-        "Parent/ Notable for"
-      ],
-      [
-        null
-      ]
+      "Parent/ Notable for",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Mount Ruapehu"
-        ],
+        "Mount Ruapehu",
         [
           "/wiki/Mount_Ruapehu"
         ]
       ],
       [
-        [
-          "New Zealand"
-        ],
+        "New Zealand",
         [
           "/wiki/New_Zealand"
         ]
       ],
       [
-        [
-          "2,797"
-        ],
-        [
-          null
-        ]
+        "2,797",
+        []
       ],
       [
-        [
-          "2,797"
-        ],
-        [
-          null
-        ]
+        "2,797",
+        []
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "North Island",
-          "New Zealand"
-        ],
+        "none / HP North Island , New Zealand",
         [
           "/wiki/North_Island",
           "/wiki/New_Zealand"
@@ -106,49 +71,31 @@
     ],
     [
       [
-        [
-          "Mount Cereme"
-        ],
+        "Mount Cereme",
         [
           "/wiki/Mount_Cereme"
         ]
       ],
       [
-        [
-          "Indonesia"
-        ],
+        "Indonesia",
         [
           "/wiki/Indonesia"
         ]
       ],
       [
-        [
-          "3,078"
-        ],
-        [
-          null
-        ]
+        "3,078",
+        []
       ],
       [
-        [
-          "2,792"
-        ],
-        [
-          null
-        ]
+        "2,792",
+        []
       ],
       [
-        [
-          "286"
-        ],
-        [
-          null
-        ]
+        "286",
+        []
       ],
       [
-        [
-          "Semeru"
-        ],
+        "Semeru",
         [
           "/wiki/Semeru"
         ]
@@ -156,49 +103,31 @@
     ],
     [
       [
-        [
-          "Huascar\u00e1n"
-        ],
+        "Huascar\u00e1n",
         [
           "/wiki/Huascar\u00e1n"
         ]
       ],
       [
-        [
-          "Peru"
-        ],
+        "Peru",
         [
           "/wiki/Peru"
         ]
       ],
       [
-        [
-          "6,746"
-        ],
-        [
-          null
-        ]
+        "6,746",
+        []
       ],
       [
-        [
-          "2,776"
-        ],
-        [
-          null
-        ]
+        "2,776",
+        []
       ],
       [
-        [
-          "3,970"
-        ],
-        [
-          null
-        ]
+        "3,970",
+        []
       ],
       [
-        [
-          "Ojos del Salado"
-        ],
+        "Ojos del Salado",
         [
           "/wiki/Ojos_del_Salado"
         ]
@@ -206,99 +135,61 @@
     ],
     [
       [
-        [
-          "Mount Arfak"
-        ],
+        "Mount Arfak",
         [
           "/wiki/Mount_Arfak"
         ]
       ],
       [
-        [
-          "Indonesia"
-        ],
+        "Indonesia",
         [
           "/wiki/Indonesia"
         ]
       ],
       [
-        [
-          "2,955"
-        ],
-        [
-          null
-        ]
+        "2,955",
+        []
       ],
       [
-        [
-          "2,775"
-        ],
-        [
-          null
-        ]
+        "2,775",
+        []
       ],
       [
-        [
-          "179"
-        ],
-        [
-          null
-        ]
+        "179",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Mount Elbert"
-        ],
+        "Mount Elbert",
         [
           "/wiki/Mount_Elbert"
         ]
       ],
       [
-        [
-          "United States"
-        ],
+        "United States",
         [
           "/wiki/United_States"
         ]
       ],
       [
-        [
-          "4,401"
-        ],
-        [
-          null
-        ]
+        "4,401",
+        []
       ],
       [
-        [
-          "2,772"
-        ],
-        [
-          null
-        ]
+        "2,772",
+        []
       ],
       [
-        [
-          "1,629"
-        ],
-        [
-          null
-        ]
+        "1,629",
+        []
       ],
       [
-        [
-          "Mount Whitney"
-        ],
+        "Mount Whitney",
         [
           "/wiki/Mount_Whitney"
         ]
@@ -306,49 +197,31 @@
     ],
     [
       [
-        [
-          "San Gorgonio Mountain"
-        ],
+        "San Gorgonio Mountain",
         [
           "/wiki/San_Gorgonio_Mountain"
         ]
       ],
       [
-        [
-          "United States"
-        ],
+        "United States",
         [
           "/wiki/United_States"
         ]
       ],
       [
-        [
-          "3,506"
-        ],
-        [
-          null
-        ]
+        "3,506",
+        []
       ],
       [
-        [
-          "2,528"
-        ],
-        [
-          null
-        ]
+        "2,528",
+        []
       ],
       [
-        [
-          "978"
-        ],
-        [
-          null
-        ]
+        "978",
+        []
       ],
       [
-        [
-          "Olancha"
-        ],
+        "Olancha",
         [
           "/wiki/Olancha_Peak"
         ]
@@ -356,49 +229,31 @@
     ],
     [
       [
-        [
-          "Anamudi"
-        ],
+        "Anamudi",
         [
           "/wiki/Anamudi"
         ]
       ],
       [
-        [
-          "India"
-        ],
+        "India",
         [
           "/wiki/India"
         ]
       ],
       [
-        [
-          "2,695"
-        ],
-        [
-          null
-        ]
+        "2,695",
+        []
       ],
       [
-        [
-          "2,479"
-        ],
-        [
-          null
-        ]
+        "2,479",
+        []
       ],
       [
-        [
-          "216"
-        ],
-        [
-          null
-        ]
+        "216",
+        []
       ],
       [
-        [
-          "Western Ghats"
-        ],
+        "Western Ghats",
         [
           "/wiki/Western_Ghats"
         ]
@@ -406,53 +261,31 @@
     ],
     [
       [
-        [
-          "Musala"
-        ],
+        "Musala",
         [
           "/wiki/Musala"
         ]
       ],
       [
-        [
-          "Bulgaria"
-        ],
+        "Bulgaria",
         [
           "/wiki/Bulgaria"
         ]
       ],
       [
-        [
-          "2,925"
-        ],
-        [
-          null
-        ]
+        "2,925",
+        []
       ],
       [
-        [
-          "2,473"
-        ],
-        [
-          null
-        ]
+        "2,473",
+        []
       ],
       [
-        [
-          "432"
-        ],
-        [
-          null
-        ]
+        "432",
+        []
       ],
       [
-        [
-          "Gro\u00dfglockner",
-          "Mont Blanc",
-          "Southeast Europe",
-          "Balkan Peninsula",
-          "Bulgaria"
-        ],
+        "Gro\u00dfglockner \u00b9 / Mont Blanc \u00b2 / HP Southeast Europe , Balkan Peninsula and Bulgaria",
         [
           "/wiki/Gro\u00dfglockner",
           "/wiki/Mont_Blanc",
@@ -464,153 +297,92 @@
     ],
     [
       [
-        [
-          "Mount Bazard\u00fcz\u00fc"
-        ],
+        "Mount Bazard\u00fcz\u00fc",
         [
           "/wiki/Mount_Bazard\u00fcz\u00fc"
         ]
       ],
       [
-        [
-          "Azerbaijan",
-          "Russia"
-        ],
+        "Azerbaijan Russia",
         [
           "/wiki/Azerbaijan",
           "/wiki/Russia"
         ]
       ],
       [
-        [
-          "4,466"
-        ],
-        [
-          null
-        ]
+        "4,466",
+        []
       ],
       [
-        [
-          "2,454"
-        ],
-        [
-          null
-        ]
+        "2,454",
+        []
       ],
       [
-        [
-          "2012"
-        ],
-        [
-          null
-        ]
+        "2012",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Qurnat as Sawda"
-        ],
+        "Qurnat as Sawda",
         [
           "/wiki/Qurnat_as_Sawda"
         ]
       ],
       [
-        [
-          "Lebanon"
-        ],
+        "Lebanon",
         [
           "/wiki/Lebanon"
         ]
       ],
       [
-        [
-          "3,093"
-        ],
-        [
-          null
-        ]
+        "3,093",
+        []
       ],
       [
-        [
-          "2,393"
-        ],
-        [
-          null
-        ]
+        "2,393",
+        []
       ],
       [
-        [
-          "700"
-        ],
-        [
-          null
-        ]
+        "700",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Galdh\u00f8piggen"
-        ],
+        "Galdh\u00f8piggen",
         [
           "/wiki/Galdh\u00f8piggen"
         ]
       ],
       [
-        [
-          "Norway"
-        ],
+        "Norway",
         [
           "/wiki/Norway"
         ]
       ],
       [
-        [
-          "2,469"
-        ],
-        [
-          null
-        ]
+        "2,469",
+        []
       ],
       [
-        [
-          "2,372"
-        ],
-        [
-          null
-        ]
+        "2,372",
+        []
       ],
       [
-        [
-          "97"
-        ],
-        [
-          null
-        ]
+        "97",
+        []
       ],
       [
-        [
-          "Sauyr Zhotasy",
-          "Everest",
-          "Scandinavia"
-        ],
+        "Sauyr Zhotasy \u00b9 / Everest \u00b2/ HP Scandinavia",
         [
           "/wiki/Sauyr_Zhotasy",
           "/wiki/Mount_Everest",
@@ -620,51 +392,31 @@
     ],
     [
       [
-        [
-          "Gerlachovsk\u00fd \u0161t\u00edt"
-        ],
+        "Gerlachovsk\u00fd \u0161t\u00edt",
         [
           "/wiki/Gerlachovsk\u00fd_\u0161t\u00edt"
         ]
       ],
       [
-        [
-          "Slovakia"
-        ],
+        "Slovakia",
         [
           "/wiki/Slovakia"
         ]
       ],
       [
-        [
-          "2,655"
-        ],
-        [
-          null
-        ]
+        "2,655",
+        []
       ],
       [
-        [
-          "2,355"
-        ],
-        [
-          null
-        ]
+        "2,355",
+        []
       ],
       [
-        [
-          "300"
-        ],
-        [
-          null
-        ]
+        "300",
+        []
       ],
       [
-        [
-          "Mont Blanc",
-          "Hight Tatras",
-          "Slovakia"
-        ],
+        "Mont Blanc / HP Hight Tatras and Slovakia",
         [
           "/wiki/Mont_Blanc",
           "/wiki/Tatra_Mountains",
@@ -674,51 +426,31 @@
     ],
     [
       [
-        [
-          "Mount Olympos"
-        ],
+        "Mount Olympos ( Mytikas )",
         [
           "/wiki/Mount_Olympos"
         ]
       ],
       [
-        [
-          "Greece"
-        ],
+        "Greece",
         [
           "/wiki/Greece"
         ]
       ],
       [
-        [
-          "2,917"
-        ],
-        [
-          null
-        ]
+        "2,917",
+        []
       ],
       [
-        [
-          "2,353"
-        ],
-        [
-          null
-        ]
+        "2,353",
+        []
       ],
       [
-        [
-          "564"
-        ],
-        [
-          null
-        ]
+        "564",
+        []
       ],
       [
-        [
-          "Gro\u00dfglockner",
-          "Mont Blanc",
-          "Greece"
-        ],
+        "Gro\u00dfglockner \u00b9 / Mont Blanc \u00b2/ HP Greece",
         [
           "/wiki/Gro\u00dfglockner",
           "/wiki/Mont_Blanc",
@@ -728,51 +460,31 @@
     ],
     [
       [
-        [
-          "Mount Taranaki"
-        ],
+        "Mount Taranaki",
         [
           "/wiki/Mount_Taranaki"
         ]
       ],
       [
-        [
-          "New Zealand"
-        ],
+        "New Zealand",
         [
           "/wiki/New_Zealand"
         ]
       ],
       [
-        [
-          "2,518"
-        ],
-        [
-          null
-        ]
+        "2,518",
+        []
       ],
       [
-        [
-          "2,308"
-        ],
-        [
-          null
-        ]
+        "2,308",
+        []
       ],
       [
-        [
-          "210"
-        ],
-        [
-          null
-        ]
+        "210",
+        []
       ],
       [
-        [
-          "Mount Ruapehu",
-          "North Island",
-          "New Zealand"
-        ],
+        "Mount Ruapehu , North Island , New Zealand",
         [
           "/wiki/Mount_Ruapehu",
           "/wiki/North_Island",
@@ -782,49 +494,31 @@
     ],
     [
       [
-        [
-          "Mount Kosciuszko"
-        ],
+        "Mount Kosciuszko",
         [
           "/wiki/Mount_Kosciuszko"
         ]
       ],
       [
-        [
-          "Australia"
-        ],
+        "Australia",
         [
           "/wiki/Australia"
         ]
       ],
       [
-        [
-          "2,228"
-        ],
-        [
-          null
-        ]
+        "2,228",
+        []
       ],
       [
-        [
-          "2,228"
-        ],
-        [
-          null
-        ]
+        "2,228",
+        []
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "mainland Australia"
-        ],
+        "none / HP mainland Australia",
         [
           "/wiki/Mainland_Australia"
         ]
@@ -832,50 +526,31 @@
     ],
     [
       [
-        [
-          "Monte Rosa"
-        ],
+        "Monte Rosa",
         [
           "/wiki/Monte_Rosa"
         ]
       ],
       [
-        [
-          "Switzerland"
-        ],
+        "Switzerland",
         [
           "/wiki/Switzerland"
         ]
       ],
       [
-        [
-          "4,634"
-        ],
-        [
-          null
-        ]
+        "4,634",
+        []
       ],
       [
-        [
-          "2,165"
-        ],
-        [
-          null
-        ]
+        "2,165",
+        []
       ],
       [
-        [
-          "2,469"
-        ],
-        [
-          null
-        ]
+        "2,469",
+        []
       ],
       [
-        [
-          "Mont Blanc",
-          "Switzerland"
-        ],
+        "Mont Blanc / HP Switzerland",
         [
           "/wiki/Mont_Blanc",
           "/wiki/Switzerland"
@@ -884,49 +559,31 @@
     ],
     [
       [
-        [
-          "Hvannadalshn\u00fakur"
-        ],
+        "Hvannadalshn\u00fakur",
         [
           "/wiki/Hvannadalshn\u00fakur"
         ]
       ],
       [
-        [
-          "Iceland"
-        ],
+        "Iceland",
         [
           "/wiki/Iceland"
         ]
       ],
       [
-        [
-          "2,110"
-        ],
-        [
-          null
-        ]
+        "2,110",
+        []
       ],
       [
-        [
-          "2,110"
-        ],
-        [
-          null
-        ]
+        "2,110",
+        []
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "Iceland"
-        ],
+        "none / HP Iceland",
         [
           "/wiki/Iceland"
         ]
@@ -934,49 +591,31 @@
     ],
     [
       [
-        [
-          "Barre des \u00c9crins"
-        ],
+        "Barre des \u00c9crins",
         [
           "/wiki/Barre_des_\u00c9crins"
         ]
       ],
       [
-        [
-          "France"
-        ],
+        "France",
         [
           "/wiki/France"
         ]
       ],
       [
-        [
-          "4,102"
-        ],
-        [
-          null
-        ]
+        "4,102",
+        []
       ],
       [
-        [
-          "2,045"
-        ],
-        [
-          null
-        ]
+        "2,045",
+        []
       ],
       [
-        [
-          "2057"
-        ],
-        [
-          null
-        ]
+        "2057",
+        []
       ],
       [
-        [
-          "Mont Blanc"
-        ],
+        "Mont Blanc",
         [
           "/wiki/Mont_Blanc"
         ]
@@ -984,52 +623,32 @@
     ],
     [
       [
-        [
-          "Hermon"
-        ],
+        "Hermon",
         [
           "/wiki/Hermon"
         ]
       ],
       [
-        [
-          "Lebanon",
-          "Syria"
-        ],
+        "Lebanon Syria",
         [
           "/wiki/Lebanon",
           "/wiki/Syria"
         ]
       ],
       [
-        [
-          "2,814"
-        ],
-        [
-          null
-        ]
+        "2,814",
+        []
       ],
       [
-        [
-          "1,804"
-        ],
-        [
-          null
-        ]
+        "1,804",
+        []
       ],
       [
-        [
-          "1010"
-        ],
-        [
-          null
-        ]
+        "1010",
+        []
       ],
       [
-        [
-          "Qurnat as Sawda '",
-          "Lebanon"
-        ],
+        "Qurnat as Sawda ' / HP Lebanon",
         [
           "/wiki/Qurnat_as_Sawda'",
           "/wiki/Lebanon"
@@ -1038,49 +657,31 @@
     ],
     [
       [
-        [
-          "Vihren"
-        ],
+        "Vihren",
         [
           "/wiki/Vihren"
         ]
       ],
       [
-        [
-          "Bulgaria"
-        ],
+        "Bulgaria",
         [
           "/wiki/Bulgaria"
         ]
       ],
       [
-        [
-          "2,914"
-        ],
-        [
-          null
-        ]
+        "2,914",
+        []
       ],
       [
-        [
-          "1,784"
-        ],
-        [
-          null
-        ]
+        "1,784",
+        []
       ],
       [
-        [
-          "1,131"
-        ],
-        [
-          null
-        ]
+        "1,131",
+        []
       ],
       [
-        [
-          "Pirin Mountain"
-        ],
+        "Musala / HP Pirin Mountain",
         [
           "/wiki/Pirin"
         ]

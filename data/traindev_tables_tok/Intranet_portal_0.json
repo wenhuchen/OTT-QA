@@ -3,68 +3,40 @@
   "title": "Intranet portal",
   "header": [
     [
-      [
-        "Product Name"
-      ],
-      [
-        null
-      ]
+      "Product Name",
+      []
     ],
     [
-      [
-        "Vendor"
-      ],
-      [
-        null
-      ]
+      "Vendor",
+      []
     ],
     [
-      [
-        "Cost"
-      ],
-      [
-        null
-      ]
+      "Cost",
+      []
     ],
     [
-      [
-        "Software license"
-      ],
-      [
-        null
-      ]
+      "Software license",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Central Desktop"
-        ],
+        "Central Desktop",
         [
           "/wiki/Central_Desktop"
         ]
       ],
       [
-        [
-          "Central Desktop Inc"
-        ],
-        [
-          null
-        ]
+        "Central Desktop Inc",
+        []
       ],
       [
-        [
-          "Not free"
-        ],
-        [
-          null
-        ]
+        "Not free",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary",
         [
           "/wiki/Proprietary_software"
         ]
@@ -72,33 +44,21 @@
     ],
     [
       [
-        [
-          "Confluence"
-        ],
+        "Confluence",
         [
           "/wiki/Confluence_(software)"
         ]
       ],
       [
-        [
-          "Atlassian Pty Ltd"
-        ],
-        [
-          null
-        ]
+        "Atlassian Pty Ltd",
+        []
       ],
       [
-        [
-          "Support From $ 49.00/month to $ 3,990.00/month"
-        ],
-        [
-          null
-        ]
+        "Support From $ 49.00/month to $ 3,990.00/month",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary",
         [
           "/wiki/Proprietary_software"
         ]
@@ -106,33 +66,23 @@
     ],
     [
       [
-        [
-          "Huddle"
-        ],
+        "Huddle",
         [
           "/wiki/Huddle_(software)"
         ]
       ],
       [
-        [
-          "Huddle"
-        ],
+        "Huddle",
         [
           "/wiki/Huddle_(software)"
         ]
       ],
       [
-        [
-          "Not free . Pricing depends on package options and number of users"
-        ],
-        [
-          null
-        ]
+        "Not free . Pricing depends on package options and number of users",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary",
         [
           "/wiki/Proprietary_software"
         ]
@@ -140,33 +90,21 @@
     ],
     [
       [
-        [
-          "Hyperoffice"
-        ],
+        "Hyperoffice",
         [
           "/wiki/Hyperoffice"
         ]
       ],
       [
-        [
-          "HyperOffice"
-        ],
-        [
-          null
-        ]
+        "HyperOffice",
+        []
       ],
       [
-        [
-          "Not free.Various Price Models"
-        ],
-        [
-          null
-        ]
+        "Not free.Various Price Models",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary",
         [
           "/wiki/Proprietary_software"
         ]
@@ -174,33 +112,21 @@
     ],
     [
       [
-        [
-          "Intrexx"
-        ],
+        "Intrexx",
         [
           "/wiki/Intrexx"
         ]
       ],
       [
-        [
-          "United Planet GmbH"
-        ],
-        [
-          null
-        ]
+        "United Planet GmbH",
+        []
       ],
       [
-        [
-          "Not free"
-        ],
-        [
-          null
-        ]
+        "Not free",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary",
         [
           "/wiki/Proprietary_software"
         ]
@@ -208,33 +134,23 @@
     ],
     [
       [
-        [
-          "Lotus Domino"
-        ],
+        "Lotus Domino",
         [
           "/wiki/IBM_Lotus_Domino"
         ]
       ],
       [
-        [
-          "IBM"
-        ],
+        "IBM",
         [
           "/wiki/IBM"
         ]
       ],
       [
-        [
-          "Not free"
-        ],
-        [
-          null
-        ]
+        "Not free",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary",
         [
           "/wiki/Proprietary_software"
         ]
@@ -242,33 +158,21 @@
     ],
     [
       [
-        [
-          "Jostle Corporation"
-        ],
+        "Jostle Corporation",
         [
           "/wiki/Jostle_Corporation"
         ]
       ],
       [
-        [
-          "Jostle"
-        ],
-        [
-          null
-        ]
+        "Jostle",
+        []
       ],
       [
-        [
-          "Not free"
-        ],
-        [
-          null
-        ]
+        "Not free",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary",
         [
           "/wiki/Proprietary_software"
         ]
@@ -276,33 +180,23 @@
     ],
     [
       [
-        [
-          "Liferay"
-        ],
+        "Liferay",
         [
           "/wiki/Liferay"
         ]
       ],
       [
-        [
-          "Liferay"
-        ],
+        "Liferay",
         [
           "/wiki/Liferay"
         ]
       ],
       [
-        [
-          "Free under LGPL . Must pay for support"
-        ],
-        [
-          null
-        ]
+        "Free under LGPL . Must pay for support",
+        []
       ],
       [
-        [
-          "LGPL"
-        ],
+        "LGPL",
         [
           "/wiki/Open_Source_software"
         ]
@@ -310,33 +204,23 @@
     ],
     [
       [
-        [
-          "Microsoft SharePoint Foundation"
-        ],
+        "Microsoft SharePoint Foundation",
         [
           "/wiki/Microsoft_SharePoint_Foundation"
         ]
       ],
       [
-        [
-          "Microsoft"
-        ],
+        "Microsoft",
         [
           "/wiki/Microsoft"
         ]
       ],
       [
-        [
-          "Free"
-        ],
-        [
-          null
-        ]
+        "Free",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary , Open-API",
         [
           "/wiki/Proprietary_software"
         ]
@@ -344,33 +228,23 @@
     ],
     [
       [
-        [
-          "Microsoft SharePoint Server"
-        ],
+        "Microsoft SharePoint Server",
         [
           "/wiki/Microsoft_SharePoint_Server"
         ]
       ],
       [
-        [
-          "Microsoft"
-        ],
+        "Microsoft",
         [
           "/wiki/Microsoft"
         ]
       ],
       [
-        [
-          "Not free . From $ 90/user or $ 3/mo"
-        ],
-        [
-          null
-        ]
+        "Not free . From $ 90/user or $ 3/mo",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary , Open-API",
         [
           "/wiki/Proprietary_software"
         ]
@@ -378,33 +252,21 @@
     ],
     [
       [
-        [
-          "MindQuarry"
-        ],
+        "MindQuarry",
         [
           "/wiki/Mindquarry"
         ]
       ],
       [
-        [
-          "Mindquarry GmbH"
-        ],
-        [
-          null
-        ]
+        "Mindquarry GmbH",
+        []
       ],
       [
-        [
-          "Free . ( open source )"
-        ],
-        [
-          null
-        ]
+        "Free . ( open source )",
+        []
       ],
       [
-        [
-          "Mozilla Public License"
-        ],
+        "Mozilla Public License",
         [
           "/wiki/Mozilla_Public_License"
         ]
@@ -412,33 +274,21 @@
     ],
     [
       [
-        [
-          "MindTouch"
-        ],
+        "MindTouch",
         [
           "/wiki/MindTouch"
         ]
       ],
       [
-        [
-          "MindTouch"
-        ],
-        [
-          null
-        ]
+        "MindTouch",
+        []
       ],
       [
-        [
-          "Not free"
-        ],
-        [
-          null
-        ]
+        "Not free",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary",
         [
           "/wiki/Proprietary_software"
         ]
@@ -446,33 +296,23 @@
     ],
     [
       [
-        [
-          "Plone"
-        ],
+        "Plone",
         [
           "/wiki/Plone_(software)"
         ]
       ],
       [
-        [
-          "Plone Foundation"
-        ],
+        "Plone Foundation",
         [
           "/wiki/Plone_(software)"
         ]
       ],
       [
-        [
-          "Free Download . Free/Community and paid support"
-        ],
-        [
-          null
-        ]
+        "Free Download . Free/Community and paid support",
+        []
       ],
       [
-        [
-          "GPL"
-        ],
+        "GPL",
         [
           "/wiki/GPL"
         ]
@@ -480,33 +320,21 @@
     ],
     [
       [
-        [
-          "OpenAtrium"
-        ],
+        "OpenAtrium",
         [
           "/wiki/Drupal"
         ]
       ],
       [
-        [
-          "DevelopmentSeed"
-        ],
-        [
-          null
-        ]
+        "DevelopmentSeed",
+        []
       ],
       [
-        [
-          "Free Download . Free/Community and paid support"
-        ],
-        [
-          null
-        ]
+        "Free Download . Free/Community and paid support",
+        []
       ],
       [
-        [
-          "GPL"
-        ],
+        "GPL",
         [
           "/wiki/GPL"
         ]
@@ -514,33 +342,21 @@
     ],
     [
       [
-        [
-          "SORCE Intranet"
-        ],
+        "SORCE Intranet",
         [
           "/wiki/Sorce_intranet"
         ]
       ],
       [
-        [
-          "SORCE"
-        ],
-        [
-          null
-        ]
+        "SORCE",
+        []
       ],
       [
-        [
-          "Not free"
-        ],
-        [
-          null
-        ]
+        "Not free",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary",
         [
           "/wiki/Proprietary_software"
         ]
@@ -548,33 +364,21 @@
     ],
     [
       [
-        [
-          "TeamLab"
-        ],
+        "TeamLab",
         [
           "/wiki/TeamLab"
         ]
       ],
       [
-        [
-          "Ascensio System"
-        ],
-        [
-          null
-        ]
+        "Ascensio System",
+        []
       ],
       [
-        [
-          "Online . Free Intranet Server Bundle"
-        ],
-        [
-          null
-        ]
+        "Online . Free Intranet Server Bundle",
+        []
       ],
       [
-        [
-          "GPL"
-        ],
+        "GPL",
         [
           "/wiki/GPL"
         ]
@@ -582,33 +386,19 @@
     ],
     [
       [
-        [
-          "uPortal"
-        ],
-        [
-          null
-        ]
+        "uPortal",
+        []
       ],
       [
-        [
-          "Apereo"
-        ],
-        [
-          null
-        ]
+        "Apereo",
+        []
       ],
       [
-        [
-          "Free . Free/Community and paid support"
-        ],
-        [
-          null
-        ]
+        "Free . Free/Community and paid support",
+        []
       ],
       [
-        [
-          "Apache 2.0"
-        ],
+        "Apache 2.0",
         [
           "/wiki/Apache_license"
         ]
@@ -616,33 +406,23 @@
     ],
     [
       [
-        [
-          "WebSphere"
-        ],
+        "WebSphere",
         [
           "/wiki/IBM_WebSphere"
         ]
       ],
       [
-        [
-          "IBM"
-        ],
+        "IBM",
         [
           "/wiki/IBM"
         ]
       ],
       [
-        [
-          "Not free"
-        ],
-        [
-          null
-        ]
+        "Not free",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary",
         [
           "/wiki/Proprietary_software"
         ]
@@ -650,33 +430,21 @@
     ],
     [
       [
-        [
-          "Zoho"
-        ],
+        "Zoho",
         [
           "/wiki/Zoho_Office_Suite"
         ]
       ],
       [
-        [
-          "ZOHO Corporation"
-        ],
-        [
-          null
-        ]
+        "ZOHO Corporation",
+        []
       ],
       [
-        [
-          "Free for individual . Prices depend on needs of team or group"
-        ],
-        [
-          null
-        ]
+        "Free for individual . Prices depend on needs of team or group",
+        []
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary",
         [
           "/wiki/Proprietary_software"
         ]

@@ -3,57 +3,32 @@
   "title": "List of Long Island Rail Road stations",
   "header": [
     [
-      [
-        "Line"
-      ],
-      [
-        null
-      ]
+      "Line",
+      []
     ],
     [
-      [
-        "Stations"
-      ],
-      [
-        null
-      ]
+      "Stations",
+      []
     ],
     [
-      [
-        "Termini"
-      ],
-      [
-        null
-      ]
+      "Termini",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "City Terminal Zone"
-        ],
+        "City Terminal Zone",
         [
           "/wiki/City_Terminal_Zone"
         ]
       ],
       [
-        [
-          "10"
-        ],
-        [
-          null
-        ]
+        "10",
+        []
       ],
       [
-        [
-          "Penn Station",
-          "Hunterspoint Avenue",
-          "Long Island City",
-          "Atlantic Terminal",
-          "Grand Central Terminal",
-          "Jamaica"
-        ],
+        "Penn Station , Hunterspoint Avenue ( diesel ) / Long Island City ( electric ) , Atlantic Terminal , Grand Central Terminal ( proposed ) Jamaica",
         [
           "/wiki/Pennsylvania_Station_(New_York_City)",
           "/wiki/Hunterspoint_Avenue_station_(LIRR)",
@@ -66,26 +41,17 @@
     ],
     [
       [
-        [
-          "Port Washington Branch"
-        ],
+        "Port Washington Branch",
         [
           "/wiki/Port_Washington_Branch"
         ]
       ],
       [
-        [
-          "13"
-        ],
-        [
-          null
-        ]
+        "13",
+        []
       ],
       [
-        [
-          "Woodside",
-          "Port Washington"
-        ],
+        "Woodside Port Washington",
         [
           "/wiki/Woodside_station_(LIRR)",
           "/wiki/Port_Washington_station"
@@ -94,26 +60,17 @@
     ],
     [
       [
-        [
-          "Hempstead Branch"
-        ],
+        "Hempstead Branch",
         [
           "/wiki/Hempstead_Branch"
         ]
       ],
       [
-        [
-          "9"
-        ],
-        [
-          null
-        ]
+        "9",
+        []
       ],
       [
-        [
-          "Hollis",
-          "Hempstead"
-        ],
+        "Hollis Hempstead",
         [
           "/wiki/Hollis_station",
           "/wiki/Rosa_Parks_Hempstead_Transit_Center"
@@ -122,26 +79,17 @@
     ],
     [
       [
-        [
-          "Oyster Bay Branch"
-        ],
+        "Oyster Bay Branch",
         [
           "/wiki/Oyster_Bay_Branch"
         ]
       ],
       [
-        [
-          "10"
-        ],
-        [
-          null
-        ]
+        "10",
+        []
       ],
       [
-        [
-          "East Williston",
-          "Oyster Bay"
-        ],
+        "East Williston Oyster Bay",
         [
           "/wiki/East_Williston_station",
           "/wiki/Oyster_Bay_station"
@@ -150,27 +98,17 @@
     ],
     [
       [
-        [
-          "Port Jefferson Branch"
-        ],
+        "Port Jefferson Branch",
         [
           "/wiki/Port_Jefferson_Branch"
         ]
       ],
       [
-        [
-          "16"
-        ],
-        [
-          null
-        ]
+        "16",
+        []
       ],
       [
-        [
-          "New Hyde Park",
-          "Huntington",
-          "Port Jefferson"
-        ],
+        "New Hyde Park Huntington ( electric ) / Port Jefferson ( diesel )",
         [
           "/wiki/New_Hyde_Park_station",
           "/wiki/Huntington_station_(LIRR)",
@@ -180,27 +118,17 @@
     ],
     [
       [
-        [
-          "Ronkonkoma Branch"
-        ],
+        "Ronkonkoma Branch",
         [
           "/wiki/Ronkonkoma_Branch"
         ]
       ],
       [
-        [
-          "14"
-        ],
-        [
-          null
-        ]
+        "14",
+        []
       ],
       [
-        [
-          "Bethpage",
-          "Ronkonkoma",
-          "Greenport"
-        ],
+        "Bethpage Ronkonkoma ( electric ) / Greenport ( diesel )",
         [
           "/wiki/Bethpage_station",
           "/wiki/Ronkonkoma_station",
@@ -210,25 +138,17 @@
     ],
     [
       [
-        [
-          "Belmont Park Branch"
-        ],
+        "Belmont Park Branch",
         [
           "/wiki/Belmont_Park_Branch"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "Belmont Park"
-        ],
+        "Belmont Park ( seasonal service only )",
         [
           "/wiki/Belmont_Park_station"
         ]
@@ -236,26 +156,17 @@
     ],
     [
       [
-        [
-          "Far Rockaway Branch"
-        ],
+        "Far Rockaway Branch",
         [
           "/wiki/Far_Rockaway_Branch"
         ]
       ],
       [
-        [
-          "11"
-        ],
-        [
-          null
-        ]
+        "11",
+        []
       ],
       [
-        [
-          "Locust Manor",
-          "Far Rockaway"
-        ],
+        "Locust Manor Far Rockaway",
         [
           "/wiki/Locust_Manor_station",
           "/wiki/Far_Rockaway_station_(LIRR)"
@@ -264,26 +175,17 @@
     ],
     [
       [
-        [
-          "West Hempstead Branch"
-        ],
+        "West Hempstead Branch",
         [
           "/wiki/West_Hempstead_Branch"
         ]
       ],
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "St. Albans",
-          "West Hempstead"
-        ],
+        "St. Albans West Hempstead",
         [
           "/wiki/St._Albans_station_(LIRR)",
           "/wiki/West_Hempstead_station"
@@ -292,26 +194,17 @@
     ],
     [
       [
-        [
-          "Long Beach Branch"
-        ],
+        "Long Beach Branch",
         [
           "/wiki/Long_Beach_Branch"
         ]
       ],
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "Lynbrook",
-          "Long Beach"
-        ],
+        "Lynbrook Long Beach",
         [
           "/wiki/Lynbrook_station",
           "/wiki/Long_Beach_station_(LIRR)"
@@ -320,26 +213,17 @@
     ],
     [
       [
-        [
-          "Babylon Branch"
-        ],
+        "Babylon Branch",
         [
           "/wiki/Babylon_Branch"
         ]
       ],
       [
-        [
-          "13"
-        ],
-        [
-          null
-        ]
+        "13",
+        []
       ],
       [
-        [
-          "Rockville Centre",
-          "Babylon"
-        ],
+        "Rockville Centre Babylon",
         [
           "/wiki/Rockville_Centre_station",
           "/wiki/Babylon_station"
@@ -348,26 +232,17 @@
     ],
     [
       [
-        [
-          "Montauk Branch"
-        ],
+        "Montauk Branch",
         [
           "/wiki/Montauk_Branch"
         ]
       ],
       [
-        [
-          "16"
-        ],
-        [
-          null
-        ]
+        "16",
+        []
       ],
       [
-        [
-          "Bay Shore",
-          "Montauk"
-        ],
+        "Bay Shore Montauk",
         [
           "/wiki/Bay_Shore_station",
           "/wiki/Montauk_station"

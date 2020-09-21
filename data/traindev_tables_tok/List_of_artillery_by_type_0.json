@@ -3,137 +3,88 @@
   "title": "List of artillery by type",
   "header": [
     [
-      [
-        "Caliber"
-      ],
+      "Caliber ( mm )",
       [
         "/wiki/Caliber"
       ]
     ],
     [
-      [
-        "Weapon name"
-      ],
-      [
-        null
-      ]
+      "Weapon name",
+      []
     ],
     [
-      [
-        "Country of origin"
-      ],
-      [
-        null
-      ]
+      "Country of origin",
+      []
     ],
     [
-      [
-        "Period"
-      ],
-      [
-        null
-      ]
+      "Period",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "30"
-        ],
-        [
-          null
-        ]
+        "30",
+        []
       ],
       [
-        [
-          "Rheinmetall RMK30"
-        ],
+        "Rheinmetall RMK30",
         [
           "/wiki/Rheinmetall_RMK30"
         ]
       ],
       [
-        [
-          "Germany"
-        ],
+        "Germany",
         [
           "/wiki/Germany"
         ]
       ],
       [
-        [
-          "Modern"
-        ],
-        [
-          null
-        ]
+        "Modern",
+        []
       ]
     ],
     [
       [
-        [
-          "50"
-        ],
-        [
-          null
-        ]
+        "50",
+        []
       ],
       [
-        [
-          "Jagdfaust"
-        ],
+        "Jagdfaust",
         [
           "/wiki/Jagdfaust"
         ]
       ],
       [
-        [
-          "Nazi Germany"
-        ],
+        "Nazi Germany",
         [
           "/wiki/Nazi_Germany"
         ]
       ],
       [
-        [
-          "World War II"
-        ],
-        [
-          null
-        ]
+        "World War II",
+        []
       ]
     ],
     [
       [
-        [
-          "57"
-        ],
-        [
-          null
-        ]
+        "57",
+        []
       ],
       [
-        [
-          "M18 Kromuskit"
-        ],
+        "M18 Kromuskit",
         [
           "/wiki/M18_recoilless_rifle"
         ]
       ],
       [
-        [
-          "United States"
-        ],
+        "United States",
         [
           "/wiki/United_States"
         ]
       ],
       [
-        [
-          "World War II",
-          "Cold War"
-        ],
+        "World War II / Cold War",
         [
           "/wiki/World_War_II",
           "/wiki/Cold_War"
@@ -142,33 +93,23 @@
     ],
     [
       [
-        [
-          "73"
-        ],
-        [
-          null
-        ]
+        "73",
+        []
       ],
       [
-        [
-          "SPG-9"
-        ],
+        "SPG-9",
         [
           "/wiki/SPG-9"
         ]
       ],
       [
-        [
-          "Soviet Union"
-        ],
+        "Soviet Union",
         [
           "/wiki/Soviet_Union"
         ]
       ],
       [
-        [
-          "Cold War"
-        ],
+        "Cold War / Modern",
         [
           "/wiki/Cold_War"
         ]
@@ -176,33 +117,23 @@
     ],
     [
       [
-        [
-          "74"
-        ],
-        [
-          null
-        ]
+        "74",
+        []
       ],
       [
-        [
-          "Miniman"
-        ],
+        "Miniman",
         [
           "/wiki/Miniman"
         ]
       ],
       [
-        [
-          "Sweden"
-        ],
+        "Sweden",
         [
           "/wiki/Sweden"
         ]
       ],
       [
-        [
-          "Cold War"
-        ],
+        "Cold War",
         [
           "/wiki/Cold_War"
         ]
@@ -210,305 +141,195 @@
     ],
     [
       [
-        [
-          "75"
-        ],
-        [
-          null
-        ]
+        "75",
+        []
       ],
       [
-        [
-          "LG 40"
-        ],
+        "LG 40",
         [
           "/wiki/7.5_cm_Leicht_Gesch\u00fctz_40"
         ]
       ],
       [
-        [
-          "Nazi Germany"
-        ],
+        "Nazi Germany",
         [
           "/wiki/Nazi_Germany"
         ]
       ],
       [
-        [
-          "World War II"
-        ],
-        [
-          null
-        ]
+        "World War II",
+        []
       ]
     ],
     [
       [
-        [
-          "75"
-        ],
-        [
-          null
-        ]
+        "75",
+        []
       ],
       [
-        [
-          "M20"
-        ],
+        "M20",
         [
           "/wiki/M20_recoilless_rifle"
         ]
       ],
       [
-        [
-          "United States"
-        ],
+        "United States",
         [
           "/wiki/United_States"
         ]
       ],
       [
-        [
-          "World War II / Cold War"
-        ],
-        [
-          null
-        ]
+        "World War II / Cold War",
+        []
       ]
     ],
     [
       [
-        [
-          "80"
-        ],
-        [
-          null
-        ]
+        "80",
+        []
       ],
       [
-        [
-          "Breda Folgore"
-        ],
+        "Breda Folgore",
         [
           "/wiki/Breda_Folgore"
         ]
       ],
       [
-        [
-          "Italy"
-        ],
+        "Italy",
         [
           "/wiki/Italy"
         ]
       ],
       [
-        [
-          "Cold War / Modern"
-        ],
-        [
-          null
-        ]
+        "Cold War / Modern",
+        []
       ]
     ],
     [
       [
-        [
-          "82"
-        ],
-        [
-          null
-        ]
+        "82",
+        []
       ],
       [
-        [
-          "BzK vzor 59"
-        ],
-        [
-          null
-        ]
+        "BzK vzor 59",
+        []
       ],
       [
-        [
-          "Czechoslovakia"
-        ],
+        "Czechoslovakia",
         [
           "/wiki/Czechoslovakia"
         ]
       ],
       [
-        [
-          "Cold War"
-        ],
-        [
-          null
-        ]
+        "Cold War",
+        []
       ]
     ],
     [
       [
-        [
-          "82"
-        ],
-        [
-          null
-        ]
+        "82",
+        []
       ],
       [
-        [
-          "B-10"
-        ],
+        "B-10",
         [
           "/wiki/B-10_recoilless_rifle"
         ]
       ],
       [
-        [
-          "Soviet Union"
-        ],
+        "Soviet Union",
         [
           "/wiki/Soviet_Union"
         ]
       ],
       [
-        [
-          "Cold War"
-        ],
-        [
-          null
-        ]
+        "Cold War",
+        []
       ]
     ],
     [
       [
-        [
-          "82"
-        ],
-        [
-          null
-        ]
+        "82",
+        []
       ],
       [
-        [
-          "M-60"
-        ],
-        [
-          null
-        ]
+        "M-60",
+        []
       ],
       [
-        [
-          "Yugoslavia"
-        ],
+        "Yugoslavia",
         [
           "/wiki/Socialist_Federal_Republic_of_Yugoslavia"
         ]
       ],
       [
-        [
-          "Cold War"
-        ],
-        [
-          null
-        ]
+        "Cold War",
+        []
       ]
     ],
     [
       [
-        [
-          "84"
-        ],
-        [
-          null
-        ]
+        "84",
+        []
       ],
       [
-        [
-          "M3 Carl Gustav"
-        ],
+        "M3 Carl Gustav",
         [
           "/wiki/Carl_Gustav_recoilless_rifle"
         ]
       ],
       [
-        [
-          "Sweden"
-        ],
+        "Sweden",
         [
           "/wiki/Sweden"
         ]
       ],
       [
-        [
-          "Cold War / Modern"
-        ],
-        [
-          null
-        ]
+        "Cold War / Modern",
+        []
       ]
     ],
     [
       [
-        [
-          "84"
-        ],
-        [
-          null
-        ]
+        "84",
+        []
       ],
       [
-        [
-          "AT4"
-        ],
+        "AT4",
         [
           "/wiki/AT4"
         ]
       ],
       [
-        [
-          "Sweden"
-        ],
+        "Sweden",
         [
           "/wiki/Sweden"
         ]
       ],
       [
-        [
-          "Modern"
-        ],
-        [
-          null
-        ]
+        "Modern",
+        []
       ]
     ],
     [
       [
-        [
-          "88"
-        ],
-        [
-          null
-        ]
+        "88",
+        []
       ],
       [
-        [
-          "55 S 55"
-        ],
+        "55 S 55",
         [
           "/wiki/55_S_55"
         ]
       ],
       [
-        [
-          "Finland"
-        ],
+        "Finland",
         [
           "/wiki/Finland"
         ]
       ],
       [
-        [
-          "Cold War"
-        ],
+        "Cold War",
         [
           "/wiki/Cold_War"
         ]
@@ -516,33 +337,23 @@
     ],
     [
       [
-        [
-          "88"
-        ],
-        [
-          null
-        ]
+        "88",
+        []
       ],
       [
-        [
-          "RCL 3.45 inch Gun"
-        ],
+        "RCL 3.45 inch Gun",
         [
           "/wiki/Ordnance,_RCL,_3.45_in"
         ]
       ],
       [
-        [
-          "United Kingdom"
-        ],
+        "United Kingdom",
         [
           "/wiki/United_Kingdom"
         ]
       ],
       [
-        [
-          "World War II"
-        ],
+        "World War II",
         [
           "/wiki/World_War_II"
         ]
@@ -550,172 +361,112 @@
     ],
     [
       [
-        [
-          "90"
-        ],
-        [
-          null
-        ]
+        "90",
+        []
       ],
       [
-        [
-          "Pvpj 1110"
-        ],
+        "Pvpj 1110",
         [
           "/wiki/Pvpj_1110"
         ]
       ],
       [
-        [
-          "Sweden"
-        ],
+        "Sweden",
         [
           "/wiki/Sweden"
         ]
       ],
       [
-        [
-          "Cold War / Modern"
-        ],
-        [
-          null
-        ]
+        "Cold War / Modern",
+        []
       ]
     ],
     [
       [
-        [
-          "90"
-        ],
-        [
-          null
-        ]
+        "90",
+        []
       ],
       [
-        [
-          "M67"
-        ],
+        "M67",
         [
           "/wiki/M67_recoilless_rifle"
         ]
       ],
       [
-        [
-          "United States"
-        ],
+        "United States",
         [
           "/wiki/United_States"
         ]
       ],
       [
-        [
-          "Cold War"
-        ],
-        [
-          null
-        ]
+        "Cold War",
+        []
       ]
     ],
     [
       [
-        [
-          "94"
-        ],
-        [
-          null
-        ]
+        "94",
+        []
       ],
       [
-        [
-          "RCL 3.7 inch Gun"
-        ],
+        "RCL 3.7 inch Gun",
         [
           "/wiki/RCL_3.7_inch_Gun"
         ]
       ],
       [
-        [
-          "United Kingdom"
-        ],
+        "United Kingdom",
         [
           "/wiki/United_Kingdom"
         ]
       ],
       [
-        [
-          "World War II / Cold War"
-        ],
-        [
-          null
-        ]
+        "World War II / Cold War",
+        []
       ]
     ],
     [
       [
-        [
-          "95"
-        ],
-        [
-          null
-        ]
+        "95",
+        []
       ],
       [
-        [
-          "95 S 58-61"
-        ],
+        "95 S 58-61",
         [
           "/wiki/95_S_58-61"
         ]
       ],
       [
-        [
-          "Finland"
-        ],
+        "Finland",
         [
           "/wiki/Finland"
         ]
       ],
       [
-        [
-          "Cold War"
-        ],
-        [
-          null
-        ]
+        "Cold War",
+        []
       ]
     ],
     [
       [
-        [
-          "102"
-        ],
-        [
-          null
-        ]
+        "102",
+        []
       ],
       [
-        [
-          "M28 Nuclear Recoilless Rifle"
-        ],
+        "M28 Nuclear Recoilless Rifle",
         [
           "/wiki/Davy_Crockett_(nuclear_device)"
         ]
       ],
       [
-        [
-          "United States"
-        ],
+        "United States",
         [
           "/wiki/United_States"
         ]
       ],
       [
-        [
-          "Cold War"
-        ],
-        [
-          null
-        ]
+        "Cold War",
+        []
       ]
     ]
   ],

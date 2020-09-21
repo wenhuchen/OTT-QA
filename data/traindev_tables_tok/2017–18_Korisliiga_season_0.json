@@ -3,52 +3,34 @@
   "title": "2017\u201318 Korisliiga season",
   "header": [
     [
-      [
-        "Team"
-      ],
-      [
-        null
-      ]
+      "Team",
+      []
     ],
     [
-      [
-        "City"
-      ],
-      [
-        null
-      ]
+      "City",
+      []
     ],
     [
-      [
-        "Arena"
-      ],
-      [
-        null
-      ]
+      "Arena",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Espoo United"
-        ],
+        "Espoo United",
         [
           "/wiki/Espoo_United_(basketball)"
         ]
       ],
       [
-        [
-          "Espoo"
-        ],
+        "Espoo",
         [
           "/wiki/Espoo"
         ]
       ],
       [
-        [
-          "Espoo Metro Areena"
-        ],
+        "Espoo Metro Areena",
         [
           "/wiki/Espoo_Metro_Areena"
         ]
@@ -56,25 +38,19 @@
     ],
     [
       [
-        [
-          "Helsinki Seagulls"
-        ],
+        "Helsinki Seagulls",
         [
           "/wiki/Helsinki_Seagulls"
         ]
       ],
       [
-        [
-          "Helsinki"
-        ],
+        "Helsinki",
         [
           "/wiki/Helsinki"
         ]
       ],
       [
-        [
-          "T\u00f6\u00f6l\u00f6 Sports Hall"
-        ],
+        "T\u00f6\u00f6l\u00f6 Sports Hall",
         [
           "/wiki/T\u00f6\u00f6l\u00f6_Sports_Hall"
         ]
@@ -82,103 +58,73 @@
     ],
     [
       [
-        [
-          "Kataja"
-        ],
+        "Kataja",
         [
           "/wiki/Kataja_Basket_Club"
         ]
       ],
       [
-        [
-          "Joensuu"
-        ],
+        "Joensuu",
         [
           "/wiki/Joensuu"
         ]
       ],
       [
-        [
-          "Joensuu Areena"
-        ],
-        [
-          null
-        ]
+        "Joensuu Areena",
+        []
       ]
     ],
     [
       [
-        [
-          "Kauhajoki Karhu"
-        ],
+        "Kauhajoki Karhu",
         [
           "/wiki/Kauhajoen_Karhu"
         ]
       ],
       [
-        [
-          "Kauhajoki"
-        ],
+        "Kauhajoki",
         [
           "/wiki/Kauhajoki"
         ]
       ],
       [
-        [
-          "Kauhajoen Yhteiskoulu"
-        ],
-        [
-          null
-        ]
+        "Kauhajoen Yhteiskoulu",
+        []
       ]
     ],
     [
       [
-        [
-          "Kobrat"
-        ],
+        "Kobrat",
         [
           "/wiki/Korikobrat"
         ]
       ],
       [
-        [
-          "Lapua"
-        ],
+        "Lapua",
         [
           "/wiki/Lapua"
         ]
       ],
       [
-        [
-          "Lapuan Urheilutalo"
-        ],
-        [
-          null
-        ]
+        "Lapuan Urheilutalo",
+        []
       ]
     ],
     [
       [
-        [
-          "Korihait"
-        ],
+        "Korihait",
         [
           "/wiki/Korihait"
         ]
       ],
       [
-        [
-          "Uusikaupunki"
-        ],
+        "Uusikaupunki",
         [
           "/wiki/Uusikaupunki"
         ]
       ],
       [
-        [
-          "Pohitullin Sports Hall"
-        ],
+        "Pohitullin Sports Hall",
         [
           "/wiki/Pohitullin_Sports_Hall"
         ]
@@ -186,132 +132,92 @@
     ],
     [
       [
-        [
-          "Kouvot"
-        ],
+        "Kouvot",
         [
           "/wiki/Kouvot"
         ]
       ],
       [
-        [
-          "Kouvola"
-        ],
+        "Kouvola",
         [
           "/wiki/Kouvola"
         ]
       ],
       [
-        [
-          "Mansikka-Ahon Urheiluhalli"
-        ],
-        [
-          null
-        ]
+        "Mansikka-Ahon Urheiluhalli",
+        []
       ]
     ],
     [
       [
-        [
-          "KTP"
-        ],
+        "KTP",
         [
           "/wiki/KTP-Basket"
         ]
       ],
       [
-        [
-          "Kotka"
-        ],
+        "Kotka",
         [
           "/wiki/Kotka"
         ]
       ],
       [
-        [
-          "Steveco-Areena"
-        ],
-        [
-          null
-        ]
+        "Steveco-Areena",
+        []
       ]
     ],
     [
       [
-        [
-          "Nokia"
-        ],
+        "Nokia",
         [
           "/wiki/BC_Nokia"
         ]
       ],
       [
-        [
-          "Nokia"
-        ],
+        "Nokia",
         [
           "/wiki/Nokia,_Finland"
         ]
       ],
       [
-        [
-          "Nokian Palloiluhalli"
-        ],
-        [
-          null
-        ]
+        "Nokian Palloiluhalli",
+        []
       ]
     ],
     [
       [
-        [
-          "Pyrint\u00f6"
-        ],
+        "Pyrint\u00f6",
         [
           "/wiki/Tampereen_Pyrint\u00f6_(basketball)"
         ]
       ],
       [
-        [
-          "Tampere"
-        ],
+        "Tampere",
         [
           "/wiki/Tampere"
         ]
       ],
       [
-        [
-          "Pyynikin Palloiluhalli"
-        ],
-        [
-          null
-        ]
+        "Pyynikin Palloiluhalli",
+        []
       ]
     ],
     [
       [
-        [
-          "Salon Vilpas"
-        ],
+        "Salon Vilpas",
         [
           "/wiki/Salon_Vilpas_Vikings"
         ]
       ],
       [
-        [
-          "Vilpas"
-        ],
+        "Vilpas",
         [
           "/wiki/Vilpas"
         ]
       ],
       [
-        [
-          "Salohalli"
-        ],
-        [
-          null
-        ]
+        "Salohalli",
+        []
       ]
     ]
   ],

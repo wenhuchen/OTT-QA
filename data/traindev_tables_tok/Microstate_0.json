@@ -3,84 +3,50 @@
   "title": "Microstate",
   "header": [
     [
-      [
-        "Rank"
-      ],
-      [
-        null
-      ]
+      "Rank",
+      []
     ],
     [
-      [
-        "Country / Territory"
-      ],
-      [
-        null
-      ]
+      "Country / Territory",
+      []
     ],
     [
-      [
-        "Area ( km\u00b2/sqmi )"
-      ],
-      [
-        null
-      ]
+      "Area ( km\u00b2/sqmi )",
+      []
     ],
     [
-      [
-        "Capital city"
-      ],
-      [
-        null
-      ]
+      "Capital city",
+      []
     ],
     [
-      [
-        "Region"
-      ],
-      [
-        null
-      ]
+      "Region",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "Vatican City"
-        ],
+        "Vatican City",
         [
           "/wiki/Vatican_City"
         ]
       ],
       [
-        [
-          "0.44 km ( 0.17 sq mi )"
-        ],
-        [
-          null
-        ]
+        "0.44 km ( 0.17 sq mi )",
+        []
       ],
       [
-        [
-          "Vatican City"
-        ],
+        "Vatican City",
         [
           "/wiki/Vatican_City"
         ]
       ],
       [
-        [
-          "Europe"
-        ],
+        "Europe",
         [
           "/wiki/Europe"
         ]
@@ -88,41 +54,27 @@
     ],
     [
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "Monaco"
-        ],
+        "Monaco",
         [
           "/wiki/Monaco"
         ]
       ],
       [
-        [
-          "2.02 km ( 0.78 sq mi )"
-        ],
-        [
-          null
-        ]
+        "2.02 km ( 0.78 sq mi )",
+        []
       ],
       [
-        [
-          "Monaco"
-        ],
+        "Monaco",
         [
           "/wiki/Monaco"
         ]
       ],
       [
-        [
-          "Europe"
-        ],
+        "Europe",
         [
           "/wiki/Europe"
         ]
@@ -130,41 +82,27 @@
     ],
     [
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "Nauru"
-        ],
+        "Nauru",
         [
           "/wiki/Nauru"
         ]
       ],
       [
-        [
-          "21 km ( 8 sq mi )"
-        ],
-        [
-          null
-        ]
+        "21 km ( 8 sq mi )",
+        []
       ],
       [
-        [
-          "Yaren"
-        ],
+        "Yaren",
         [
           "/wiki/Yaren_District"
         ]
       ],
       [
-        [
-          "Oceania"
-        ],
+        "Oceania",
         [
           "/wiki/Oceania"
         ]
@@ -172,41 +110,27 @@
     ],
     [
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "Tuvalu"
-        ],
+        "Tuvalu",
         [
           "/wiki/Tuvalu"
         ]
       ],
       [
-        [
-          "26 km ( 10 sq mi )"
-        ],
-        [
-          null
-        ]
+        "26 km ( 10 sq mi )",
+        []
       ],
       [
-        [
-          "Funafuti"
-        ],
+        "Funafuti",
         [
           "/wiki/Funafuti"
         ]
       ],
       [
-        [
-          "Oceania"
-        ],
+        "Oceania",
         [
           "/wiki/Oceania"
         ]
@@ -214,41 +138,27 @@
     ],
     [
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "San Marino"
-        ],
+        "San Marino",
         [
           "/wiki/San_Marino"
         ]
       ],
       [
-        [
-          "61 km ( 24 sq mi )"
-        ],
-        [
-          null
-        ]
+        "61 km ( 24 sq mi )",
+        []
       ],
       [
-        [
-          "San Marino"
-        ],
+        "San Marino",
         [
           "/wiki/City_of_San_Marino"
         ]
       ],
       [
-        [
-          "Europe"
-        ],
+        "Europe",
         [
           "/wiki/Europe"
         ]
@@ -256,41 +166,27 @@
     ],
     [
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "Liechtenstein"
-        ],
+        "Liechtenstein",
         [
           "/wiki/Liechtenstein"
         ]
       ],
       [
-        [
-          "160 km ( 62 sq mi )"
-        ],
-        [
-          null
-        ]
+        "160 km ( 62 sq mi )",
+        []
       ],
       [
-        [
-          "Vaduz"
-        ],
+        "Vaduz",
         [
           "/wiki/Vaduz"
         ]
       ],
       [
-        [
-          "Europe"
-        ],
+        "Europe",
         [
           "/wiki/Europe"
         ]
@@ -298,41 +194,27 @@
     ],
     [
       [
-        [
-          "7"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ],
       [
-        [
-          "Marshall Islands"
-        ],
+        "Marshall Islands",
         [
           "/wiki/Marshall_Islands"
         ]
       ],
       [
-        [
-          "181 km ( 70 sq mi )"
-        ],
-        [
-          null
-        ]
+        "181 km ( 70 sq mi )",
+        []
       ],
       [
-        [
-          "Majuro"
-        ],
+        "Majuro",
         [
           "/wiki/Majuro"
         ]
       ],
       [
-        [
-          "Oceania"
-        ],
+        "Oceania",
         [
           "/wiki/Oceania"
         ]
@@ -340,41 +222,27 @@
     ],
     [
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "Saint Kitts and Nevis"
-        ],
+        "Saint Kitts and Nevis",
         [
           "/wiki/Saint_Kitts_and_Nevis"
         ]
       ],
       [
-        [
-          "261 km ( 101 sq mi )"
-        ],
-        [
-          null
-        ]
+        "261 km ( 101 sq mi )",
+        []
       ],
       [
-        [
-          "Basseterre"
-        ],
+        "Basseterre",
         [
           "/wiki/Basseterre"
         ]
       ],
       [
-        [
-          "Caribbean"
-        ],
+        "Caribbean",
         [
           "/wiki/Caribbean"
         ]
@@ -382,42 +250,27 @@
     ],
     [
       [
-        [
-          "9"
-        ],
-        [
-          null
-        ]
+        "9",
+        []
       ],
       [
-        [
-          "Maldives"
-        ],
+        "Maldives",
         [
           "/wiki/Maldives"
         ]
       ],
       [
-        [
-          "298 km ( 115 sq mi )"
-        ],
-        [
-          null
-        ]
+        "298 km ( 115 sq mi )",
+        []
       ],
       [
-        [
-          "Mal\u00e9"
-        ],
+        "Mal\u00e9",
         [
           "/wiki/Mal\u00e9"
         ]
       ],
       [
-        [
-          "Asia",
-          "Indian Ocean"
-        ],
+        "Asia - Indian Ocean",
         [
           "/wiki/Asia",
           "/wiki/Indian_Ocean"
@@ -426,42 +279,27 @@
     ],
     [
       [
-        [
-          "10"
-        ],
-        [
-          null
-        ]
+        "10",
+        []
       ],
       [
-        [
-          "Malta"
-        ],
+        "Malta",
         [
           "/wiki/Malta"
         ]
       ],
       [
-        [
-          "316 km ( 122 sq mi )"
-        ],
-        [
-          null
-        ]
+        "316 km ( 122 sq mi )",
+        []
       ],
       [
-        [
-          "Valletta"
-        ],
+        "Valletta",
         [
           "/wiki/Valletta"
         ]
       ],
       [
-        [
-          "Europe",
-          "Mediterranean Sea"
-        ],
+        "Europe - Mediterranean Sea",
         [
           "/wiki/Europe",
           "/wiki/Mediterranean_Sea"
@@ -470,41 +308,27 @@
     ],
     [
       [
-        [
-          "11"
-        ],
-        [
-          null
-        ]
+        "11",
+        []
       ],
       [
-        [
-          "Grenada"
-        ],
+        "Grenada",
         [
           "/wiki/Grenada"
         ]
       ],
       [
-        [
-          "344 km ( 133 sq mi )"
-        ],
-        [
-          null
-        ]
+        "344 km ( 133 sq mi )",
+        []
       ],
       [
-        [
-          "St. George 's"
-        ],
+        "St. George 's",
         [
           "/wiki/St._George's,_Grenada"
         ]
       ],
       [
-        [
-          "Caribbean"
-        ],
+        "Caribbean",
         [
           "/wiki/Caribbean"
         ]
@@ -512,41 +336,27 @@
     ],
     [
       [
-        [
-          "12"
-        ],
-        [
-          null
-        ]
+        "12",
+        []
       ],
       [
-        [
-          "Saint Vincent and the Grenadines"
-        ],
+        "Saint Vincent and the Grenadines",
         [
           "/wiki/Saint_Vincent_and_the_Grenadines"
         ]
       ],
       [
-        [
-          "389 km ( 150 sq mi )"
-        ],
-        [
-          null
-        ]
+        "389 km ( 150 sq mi )",
+        []
       ],
       [
-        [
-          "Kingstown"
-        ],
+        "Kingstown",
         [
           "/wiki/Kingstown"
         ]
       ],
       [
-        [
-          "Caribbean"
-        ],
+        "Caribbean",
         [
           "/wiki/Caribbean"
         ]
@@ -554,41 +364,27 @@
     ],
     [
       [
-        [
-          "13"
-        ],
-        [
-          null
-        ]
+        "13",
+        []
       ],
       [
-        [
-          "Barbados"
-        ],
+        "Barbados",
         [
           "/wiki/Barbados"
         ]
       ],
       [
-        [
-          "430 km ( 166 sq mi )"
-        ],
-        [
-          null
-        ]
+        "430 km ( 166 sq mi )",
+        []
       ],
       [
-        [
-          "Bridgetown"
-        ],
+        "Bridgetown",
         [
           "/wiki/Bridgetown"
         ]
       ],
       [
-        [
-          "Caribbean"
-        ],
+        "Caribbean",
         [
           "/wiki/Caribbean"
         ]
@@ -596,41 +392,27 @@
     ],
     [
       [
-        [
-          "14"
-        ],
-        [
-          null
-        ]
+        "14",
+        []
       ],
       [
-        [
-          "Antigua and Barbuda"
-        ],
+        "Antigua and Barbuda",
         [
           "/wiki/Antigua_and_Barbuda"
         ]
       ],
       [
-        [
-          "443 km ( 171 sq mi )"
-        ],
-        [
-          null
-        ]
+        "443 km ( 171 sq mi )",
+        []
       ],
       [
-        [
-          "St. John 's"
-        ],
+        "St. John 's",
         [
           "/wiki/St._John's,_Antigua_and_Barbuda"
         ]
       ],
       [
-        [
-          "Caribbean"
-        ],
+        "Caribbean",
         [
           "/wiki/Caribbean"
         ]
@@ -638,42 +420,27 @@
     ],
     [
       [
-        [
-          "15"
-        ],
-        [
-          null
-        ]
+        "15",
+        []
       ],
       [
-        [
-          "Seychelles"
-        ],
+        "Seychelles",
         [
           "/wiki/Seychelles"
         ]
       ],
       [
-        [
-          "455 km ( 176 sq mi )"
-        ],
-        [
-          null
-        ]
+        "455 km ( 176 sq mi )",
+        []
       ],
       [
-        [
-          "Victoria"
-        ],
+        "Victoria",
         [
           "/wiki/Victoria,_Seychelles"
         ]
       ],
       [
-        [
-          "Africa",
-          "Indian Ocean"
-        ],
+        "Africa - Indian Ocean",
         [
           "/wiki/Africa",
           "/wiki/Indian_Ocean"
@@ -682,41 +449,27 @@
     ],
     [
       [
-        [
-          "16"
-        ],
-        [
-          null
-        ]
+        "16",
+        []
       ],
       [
-        [
-          "Palau"
-        ],
+        "Palau",
         [
           "/wiki/Palau"
         ]
       ],
       [
-        [
-          "459 km ( 177 sq mi )"
-        ],
-        [
-          null
-        ]
+        "459 km ( 177 sq mi )",
+        []
       ],
       [
-        [
-          "Ngerulmud"
-        ],
+        "Ngerulmud",
         [
           "/wiki/Ngerulmud"
         ]
       ],
       [
-        [
-          "Oceania"
-        ],
+        "Oceania",
         [
           "/wiki/Oceania"
         ]
@@ -724,41 +477,27 @@
     ],
     [
       [
-        [
-          "17"
-        ],
-        [
-          null
-        ]
+        "17",
+        []
       ],
       [
-        [
-          "Andorra"
-        ],
+        "Andorra",
         [
           "/wiki/Andorra"
         ]
       ],
       [
-        [
-          "468 km ( 181 sq mi )"
-        ],
-        [
-          null
-        ]
+        "468 km ( 181 sq mi )",
+        []
       ],
       [
-        [
-          "Andorra la Vella"
-        ],
+        "Andorra la Vella",
         [
           "/wiki/Andorra_la_Vella"
         ]
       ],
       [
-        [
-          "Europe"
-        ],
+        "Europe",
         [
           "/wiki/Europe"
         ]
@@ -766,41 +505,27 @@
     ],
     [
       [
-        [
-          "18"
-        ],
-        [
-          null
-        ]
+        "18",
+        []
       ],
       [
-        [
-          "Saint Lucia"
-        ],
+        "Saint Lucia",
         [
           "/wiki/Saint_Lucia"
         ]
       ],
       [
-        [
-          "616 km ( 238 sq mi )"
-        ],
-        [
-          null
-        ]
+        "616 km ( 238 sq mi )",
+        []
       ],
       [
-        [
-          "Castries"
-        ],
+        "Castries",
         [
           "/wiki/Castries"
         ]
       ],
       [
-        [
-          "Caribbean"
-        ],
+        "Caribbean",
         [
           "/wiki/Caribbean"
         ]
@@ -808,41 +533,27 @@
     ],
     [
       [
-        [
-          "19"
-        ],
-        [
-          null
-        ]
+        "19",
+        []
       ],
       [
-        [
-          "Micronesia , Federated States of"
-        ],
+        "Micronesia , Federated States of",
         [
           "/wiki/Federated_States_of_Micronesia"
         ]
       ],
       [
-        [
-          "702 km ( 271 sq mi )"
-        ],
-        [
-          null
-        ]
+        "702 km ( 271 sq mi )",
+        []
       ],
       [
-        [
-          "Palikir"
-        ],
+        "Palikir",
         [
           "/wiki/Palikir"
         ]
       ],
       [
-        [
-          "Oceania"
-        ],
+        "Oceania",
         [
           "/wiki/Oceania"
         ]
@@ -850,41 +561,27 @@
     ],
     [
       [
-        [
-          "20"
-        ],
-        [
-          null
-        ]
+        "20",
+        []
       ],
       [
-        [
-          "Singapore"
-        ],
+        "Singapore",
         [
           "/wiki/Singapore"
         ]
       ],
       [
-        [
-          "714 km ( 276 sq mi )"
-        ],
-        [
-          null
-        ]
+        "714 km ( 276 sq mi )",
+        []
       ],
       [
-        [
-          "Singapore"
-        ],
+        "Singapore",
         [
           "/wiki/Singapore"
         ]
       ],
       [
-        [
-          "Asia"
-        ],
+        "Asia",
         [
           "/wiki/Asia"
         ]

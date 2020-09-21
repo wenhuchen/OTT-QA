@@ -3,465 +3,285 @@
   "title": "Southwestern United States",
   "header": [
     [
-      [
-        "Rank"
-      ],
-      [
-        null
-      ]
+      "Rank",
+      []
     ],
     [
-      [
-        "City"
-      ],
-      [
-        null
-      ]
+      "City",
+      []
     ],
     [
-      [
-        "State"
-      ],
-      [
-        null
-      ]
+      "State",
+      []
     ],
     [
-      [
-        "Population"
-      ],
-      [
-        null
-      ]
+      "Population",
+      []
     ],
     [
-      [
-        "Metro Population"
-      ],
-      [
-        null
-      ]
+      "Metro Population",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "Phoenix"
-        ],
+        "Phoenix",
         [
           "/wiki/Phoenix,_Arizona"
         ]
       ],
       [
-        [
-          "Arizona"
-        ],
+        "Arizona",
         [
           "/wiki/Arizona"
         ]
       ],
       [
-        [
-          "1,445,632"
-        ],
-        [
-          null
-        ]
+        "1,445,632",
+        []
       ],
       [
-        [
-          "4,192,887"
-        ],
-        [
-          null
-        ]
+        "4,192,887",
+        []
       ]
     ],
     [
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "El Paso"
-        ],
+        "El Paso",
         [
           "/wiki/El_Paso,_Texas"
         ]
       ],
       [
-        [
-          "Texas"
-        ],
+        "Texas",
         [
           "/wiki/Texas"
         ]
       ],
       [
-        [
-          "649,133"
-        ],
-        [
-          null
-        ]
+        "649,133",
+        []
       ],
       [
-        [
-          "804,123"
-        ],
-        [
-          null
-        ]
+        "804,123",
+        []
       ]
     ],
     [
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "Las Vegas"
-        ],
+        "Las Vegas",
         [
           "/wiki/Las_Vegas"
         ]
       ],
       [
-        [
-          "Nevada"
-        ],
+        "Nevada",
         [
           "/wiki/Nevada"
         ]
       ],
       [
-        [
-          "583,736"
-        ],
-        [
-          null
-        ]
+        "583,736",
+        []
       ],
       [
-        [
-          "1,951,269"
-        ],
-        [
-          null
-        ]
+        "1,951,269",
+        []
       ]
     ],
     [
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "Albuquerque"
-        ],
+        "Albuquerque",
         [
           "/wiki/Albuquerque,_New_Mexico"
         ]
       ],
       [
-        [
-          "New Mexico"
-        ],
+        "New Mexico",
         [
           "/wiki/New_Mexico"
         ]
       ],
       [
-        [
-          "558,000"
-        ],
-        [
-          null
-        ]
+        "558,000",
+        []
       ],
       [
-        [
-          "887,077"
-        ],
-        [
-          null
-        ]
+        "887,077",
+        []
       ]
     ],
     [
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "Tucson"
-        ],
+        "Tucson",
         [
           "/wiki/Tucson,_Arizona"
         ]
       ],
       [
-        [
-          "Arizona"
-        ],
+        "Arizona",
         [
           "/wiki/Arizona"
         ]
       ],
       [
-        [
-          "520,116"
-        ],
-        [
-          null
-        ]
+        "520,116",
+        []
       ],
       [
-        [
-          "980,263"
-        ],
-        [
-          null
-        ]
+        "980,263",
+        []
       ]
     ],
     [
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "Mesa"
-        ],
+        "Mesa",
         [
           "/wiki/Mesa,_Arizona"
         ]
       ],
       [
-        [
-          "Arizona"
-        ],
+        "Arizona",
         [
           "/wiki/Arizona"
         ]
       ],
       [
-        [
-          "439,041"
-        ],
-        [
-          null
-        ]
+        "439,041",
+        []
       ],
       [
-        [
-          "4,192,887"
-        ],
-        [
-          null
-        ]
+        "4,192,887",
+        []
       ]
     ],
     [
       [
-        [
-          "7"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ],
       [
-        [
-          "Henderson"
-        ],
+        "Henderson",
         [
           "/wiki/Henderson,_Nevada"
         ]
       ],
       [
-        [
-          "Nevada"
-        ],
+        "Nevada",
         [
           "/wiki/Nevada"
         ]
       ],
       [
-        [
-          "257,729"
-        ],
-        [
-          null
-        ]
+        "257,729",
+        []
       ],
       [
-        [
-          "1,951,269"
-        ],
-        [
-          null
-        ]
+        "1,951,269",
+        []
       ]
     ],
     [
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "Chandler"
-        ],
+        "Chandler",
         [
           "/wiki/Chandler,_Arizona"
         ]
       ],
       [
-        [
-          "Arizona"
-        ],
+        "Arizona",
         [
           "/wiki/Arizona"
         ]
       ],
       [
-        [
-          "236,123"
-        ],
-        [
-          null
-        ]
+        "236,123",
+        []
       ],
       [
-        [
-          "4,192,887"
-        ],
-        [
-          null
-        ]
+        "4,192,887",
+        []
       ]
     ],
     [
       [
-        [
-          "9"
-        ],
-        [
-          null
-        ]
+        "9",
+        []
       ],
       [
-        [
-          "Glendale"
-        ],
+        "Glendale",
         [
           "/wiki/Glendale,_Arizona"
         ]
       ],
       [
-        [
-          "Arizona"
-        ],
+        "Arizona",
         [
           "/wiki/Arizona"
         ]
       ],
       [
-        [
-          "226,721"
-        ],
-        [
-          null
-        ]
+        "226,721",
+        []
       ],
       [
-        [
-          "4,192,887"
-        ],
-        [
-          null
-        ]
+        "4,192,887",
+        []
       ]
     ],
     [
       [
-        [
-          "10"
-        ],
-        [
-          null
-        ]
+        "10",
+        []
       ],
       [
-        [
-          "Scottsdale"
-        ],
+        "Scottsdale",
         [
           "/wiki/Scottsdale,_Arizona"
         ]
       ],
       [
-        [
-          "Arizona"
-        ],
+        "Arizona",
         [
           "/wiki/Arizona"
         ]
       ],
       [
-        [
-          "217,385"
-        ],
-        [
-          null
-        ]
+        "217,385",
+        []
       ],
       [
-        [
-          "4,192,887"
-        ],
-        [
-          null
-        ]
+        "4,192,887",
+        []
       ]
     ]
   ],

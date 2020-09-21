@@ -3,101 +3,60 @@
   "title": "List of ice hockey arenas by capacity",
   "header": [
     [
-      [
-        "Rank"
-      ],
-      [
-        null
-      ]
+      "Rank",
+      []
     ],
     [
-      [
-        "Arena"
-      ],
-      [
-        null
-      ]
+      "Arena",
+      []
     ],
     [
-      [
-        "Seating capacity"
-      ],
+      "Capacity ( Seating capacity only )",
       [
         "/wiki/Seating_capacity"
       ]
     ],
     [
-      [
-        "City"
-      ],
-      [
-        null
-      ]
+      "City",
+      []
     ],
     [
-      [
-        "Country"
-      ],
-      [
-        null
-      ]
+      "Country",
+      []
     ],
     [
-      [
-        "Home Team ( s ) ( League , Dates )"
-      ],
-      [
-        null
-      ]
+      "Home Team ( s ) ( League , Dates )",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "Bell Centre"
-        ],
+        "Bell Centre",
         [
           "/wiki/Bell_Centre"
         ]
       ],
       [
-        [
-          "21,273"
-        ],
-        [
-          null
-        ]
+        "21,273",
+        []
       ],
       [
-        [
-          "Montreal"
-        ],
+        "Montreal",
         [
           "/wiki/Montreal"
         ]
       ],
       [
-        [
-          "Canada"
-        ],
-        [
-          null
-        ]
+        "Canada",
+        []
       ],
       [
-        [
-          "Montreal Canadiens",
-          "NHL"
-        ],
+        "Montreal Canadiens ( NHL ) ( 1996-present )",
         [
           "/wiki/Montreal_Canadiens",
           "/wiki/National_Hockey_League"
@@ -106,50 +65,31 @@
     ],
     [
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "United Center"
-        ],
+        "United Center",
         [
           "/wiki/United_Center"
         ]
       ],
       [
-        [
-          "19,717"
-        ],
-        [
-          null
-        ]
+        "19,717",
+        []
       ],
       [
-        [
-          "Chicago"
-        ],
+        "Chicago",
         [
           "/wiki/Chicago"
         ]
       ],
       [
-        [
-          "United States"
-        ],
-        [
-          null
-        ]
+        "United States",
+        []
       ],
       [
-        [
-          "Chicago Blackhawks",
-          "NHL"
-        ],
+        "Chicago Blackhawks ( NHL ) ( 1995-present )",
         [
           "/wiki/Chicago_Blackhawks",
           "/wiki/National_Hockey_League"
@@ -158,50 +98,31 @@
     ],
     [
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "Wells Fargo Center"
-        ],
+        "Wells Fargo Center",
         [
           "/wiki/Wells_Fargo_Center_(Philadelphia)"
         ]
       ],
       [
-        [
-          "19,537"
-        ],
-        [
-          null
-        ]
+        "19,537",
+        []
       ],
       [
-        [
-          "Philadelphia"
-        ],
+        "Philadelphia",
         [
           "/wiki/Philadelphia"
         ]
       ],
       [
-        [
-          "United States"
-        ],
-        [
-          null
-        ]
+        "United States",
+        []
       ],
       [
-        [
-          "Philadelphia Flyers",
-          "NHL"
-        ],
+        "Philadelphia Flyers ( NHL ) ( 1996-present )",
         [
           "/wiki/Philadelphia_Flyers",
           "/wiki/National_Hockey_League"
@@ -210,50 +131,31 @@
     ],
     [
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "Little Caesars Arena"
-        ],
+        "Little Caesars Arena",
         [
           "/wiki/Little_Caesars_Arena"
         ]
       ],
       [
-        [
-          "19,515"
-        ],
-        [
-          null
-        ]
+        "19,515",
+        []
       ],
       [
-        [
-          "Detroit"
-        ],
+        "Detroit",
         [
           "/wiki/Detroit"
         ]
       ],
       [
-        [
-          "United States"
-        ],
-        [
-          null
-        ]
+        "United States",
+        []
       ],
       [
-        [
-          "Detroit Red Wings",
-          "NHL"
-        ],
+        "Detroit Red Wings ( NHL ) ( 2017-present )",
         [
           "/wiki/Detroit_Red_Wings",
           "/wiki/National_Hockey_League"
@@ -262,52 +164,31 @@
     ],
     [
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "Scotiabank Saddledome"
-        ],
+        "Scotiabank Saddledome",
         [
           "/wiki/Scotiabank_Saddledome"
         ]
       ],
       [
-        [
-          "19,289"
-        ],
-        [
-          null
-        ]
+        "19,289",
+        []
       ],
       [
-        [
-          "Calgary"
-        ],
+        "Calgary",
         [
           "/wiki/Calgary"
         ]
       ],
       [
-        [
-          "Canada"
-        ],
-        [
-          null
-        ]
+        "Canada",
+        []
       ],
       [
-        [
-          "Calgary Flames",
-          "NHL",
-          "Calgary Hitmen",
-          "WHL"
-        ],
+        "Calgary Flames ( NHL ) ( 1983-present ) , Calgary Hitmen ( WHL ) ( 1995-present )",
         [
           "/wiki/Calgary_Flames",
           "/wiki/National_Hockey_League",
@@ -318,50 +199,31 @@
     ],
     [
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "BB & T Center"
-        ],
+        "BB & T Center",
         [
           "/wiki/BB&T_Center_(Sunrise,_Florida)"
         ]
       ],
       [
-        [
-          "19,250"
-        ],
-        [
-          null
-        ]
+        "19,250",
+        []
       ],
       [
-        [
-          "Sunrise"
-        ],
+        "Sunrise",
         [
           "/wiki/Sunrise,_Florida"
         ]
       ],
       [
-        [
-          "United States"
-        ],
-        [
-          null
-        ]
+        "United States",
+        []
       ],
       [
-        [
-          "Florida Panthers",
-          "NHL"
-        ],
+        "Florida Panthers ( NHL ) ( 1998-present )",
         [
           "/wiki/Florida_Panthers",
           "/wiki/National_Hockey_League"
@@ -370,50 +232,31 @@
     ],
     [
       [
-        [
-          "7"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ],
       [
-        [
-          "Enterprise Center"
-        ],
+        "Enterprise Center",
         [
           "/wiki/Enterprise_Center"
         ]
       ],
       [
-        [
-          "19,150"
-        ],
-        [
-          null
-        ]
+        "19,150",
+        []
       ],
       [
-        [
-          "St. Louis"
-        ],
+        "St. Louis",
         [
           "/wiki/St._Louis"
         ]
       ],
       [
-        [
-          "United States"
-        ],
-        [
-          null
-        ]
+        "United States",
+        []
       ],
       [
-        [
-          "St. Louis Blues",
-          "NHL"
-        ],
+        "St. Louis Blues ( NHL ) ( 1994-present )",
         [
           "/wiki/St._Louis_Blues",
           "/wiki/National_Hockey_League"
@@ -422,50 +265,31 @@
     ],
     [
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "Amalie Arena"
-        ],
+        "Amalie Arena",
         [
           "/wiki/Amalie_Arena"
         ]
       ],
       [
-        [
-          "19,092"
-        ],
-        [
-          null
-        ]
+        "19,092",
+        []
       ],
       [
-        [
-          "Tampa"
-        ],
+        "Tampa",
         [
           "/wiki/Tampa,_Florida"
         ]
       ],
       [
-        [
-          "United States"
-        ],
-        [
-          null
-        ]
+        "United States",
+        []
       ],
       [
-        [
-          "Tampa Bay Lightning",
-          "NHL"
-        ],
+        "Tampa Bay Lightning ( NHL ) ( 1996-present )",
         [
           "/wiki/Tampa_Bay_Lightning",
           "/wiki/National_Hockey_League"
@@ -474,50 +298,31 @@
     ],
     [
       [
-        [
-          "9"
-        ],
-        [
-          null
-        ]
+        "9",
+        []
       ],
       [
-        [
-          "KeyBank Center"
-        ],
+        "KeyBank Center",
         [
           "/wiki/KeyBank_Center"
         ]
       ],
       [
-        [
-          "19,070"
-        ],
-        [
-          null
-        ]
+        "19,070",
+        []
       ],
       [
-        [
-          "Buffalo"
-        ],
+        "Buffalo",
         [
           "/wiki/Buffalo,_New_York"
         ]
       ],
       [
-        [
-          "United States"
-        ],
-        [
-          null
-        ]
+        "United States",
+        []
       ],
       [
-        [
-          "Buffalo Sabres",
-          "NHL"
-        ],
+        "Buffalo Sabres ( NHL ) ( 1996-present )",
         [
           "/wiki/Buffalo_Sabres",
           "/wiki/National_Hockey_League"
@@ -526,50 +331,31 @@
     ],
     [
       [
-        [
-          "10"
-        ],
-        [
-          null
-        ]
+        "10",
+        []
       ],
       [
-        [
-          "Quicken Loans Arena"
-        ],
+        "Quicken Loans Arena",
         [
           "/wiki/Quicken_Loans_Arena"
         ]
       ],
       [
-        [
-          "18,924"
-        ],
-        [
-          null
-        ]
+        "18,924",
+        []
       ],
       [
-        [
-          "Cleveland"
-        ],
+        "Cleveland",
         [
           "/wiki/Cleveland"
         ]
       ],
       [
-        [
-          "United States"
-        ],
-        [
-          null
-        ]
+        "United States",
+        []
       ],
       [
-        [
-          "Cleveland Monsters",
-          "AHL"
-        ],
+        "Cleveland Monsters ( AHL ) ( 2007-present )",
         [
           "/wiki/Cleveland_Monsters",
           "/wiki/American_Hockey_League"
@@ -578,50 +364,31 @@
     ],
     [
       [
-        [
-          "11"
-        ],
-        [
-          null
-        ]
+        "11",
+        []
       ],
       [
-        [
-          "Rogers Arena"
-        ],
+        "Rogers Arena",
         [
           "/wiki/Rogers_Arena"
         ]
       ],
       [
-        [
-          "18,910"
-        ],
-        [
-          null
-        ]
+        "18,910",
+        []
       ],
       [
-        [
-          "Vancouver"
-        ],
+        "Vancouver",
         [
           "/wiki/Vancouver"
         ]
       ],
       [
-        [
-          "Canada"
-        ],
-        [
-          null
-        ]
+        "Canada",
+        []
       ],
       [
-        [
-          "Vancouver Canucks",
-          "NHL"
-        ],
+        "Vancouver Canucks ( NHL ) ( 1995-present )",
         [
           "/wiki/Vancouver_Canucks",
           "/wiki/National_Hockey_League"
@@ -630,50 +397,31 @@
     ],
     [
       [
-        [
-          "12"
-        ],
-        [
-          null
-        ]
+        "12",
+        []
       ],
       [
-        [
-          "Scotiabank Arena"
-        ],
+        "Scotiabank Arena",
         [
           "/wiki/Scotiabank_Arena"
         ]
       ],
       [
-        [
-          "18,800"
-        ],
-        [
-          null
-        ]
+        "18,800",
+        []
       ],
       [
-        [
-          "Toronto"
-        ],
+        "Toronto",
         [
           "/wiki/Toronto"
         ]
       ],
       [
-        [
-          "Canada"
-        ],
-        [
-          null
-        ]
+        "Canada",
+        []
       ],
       [
-        [
-          "Toronto Maple Leafs",
-          "NHL"
-        ],
+        "Toronto Maple Leafs ( NHL ) ( 1999-present )",
         [
           "/wiki/Toronto_Maple_Leafs",
           "/wiki/National_Hockey_League"
@@ -682,50 +430,31 @@
     ],
     [
       [
-        [
-          "13"
-        ],
-        [
-          null
-        ]
+        "13",
+        []
       ],
       [
-        [
-          "PNC Arena"
-        ],
+        "PNC Arena",
         [
           "/wiki/PNC_Arena"
         ]
       ],
       [
-        [
-          "18,680"
-        ],
-        [
-          null
-        ]
+        "18,680",
+        []
       ],
       [
-        [
-          "Raleigh"
-        ],
+        "Raleigh",
         [
           "/wiki/Raleigh,_North_Carolina"
         ]
       ],
       [
-        [
-          "United States"
-        ],
-        [
-          null
-        ]
+        "United States",
+        []
       ],
       [
-        [
-          "Carolina Hurricanes",
-          "NHL"
-        ],
+        "Carolina Hurricanes ( NHL ) ( 1999-present )",
         [
           "/wiki/Carolina_Hurricanes",
           "/wiki/National_Hockey_League"
@@ -734,50 +463,31 @@
     ],
     [
       [
-        [
-          "14"
-        ],
-        [
-          null
-        ]
+        "14",
+        []
       ],
       [
-        [
-          "Canadian Tire Centre"
-        ],
+        "Canadian Tire Centre",
         [
           "/wiki/Canadian_Tire_Centre"
         ]
       ],
       [
-        [
-          "18,652"
-        ],
-        [
-          null
-        ]
+        "18,652",
+        []
       ],
       [
-        [
-          "Ottawa"
-        ],
+        "Ottawa",
         [
           "/wiki/Ottawa"
         ]
       ],
       [
-        [
-          "Canada"
-        ],
-        [
-          null
-        ]
+        "Canada",
+        []
       ],
       [
-        [
-          "Ottawa Senators",
-          "NHL"
-        ],
+        "Ottawa Senators ( NHL ) ( 1996-present )",
         [
           "/wiki/Ottawa_Senators",
           "/wiki/National_Hockey_League"
@@ -786,52 +496,31 @@
     ],
     [
       [
-        [
-          "15"
-        ],
-        [
-          null
-        ]
+        "15",
+        []
       ],
       [
-        [
-          "Rogers Place"
-        ],
+        "Rogers Place",
         [
           "/wiki/Rogers_Place"
         ]
       ],
       [
-        [
-          "18,641"
-        ],
-        [
-          null
-        ]
+        "18,641",
+        []
       ],
       [
-        [
-          "Edmonton"
-        ],
+        "Edmonton",
         [
           "/wiki/Edmonton"
         ]
       ],
       [
-        [
-          "Canada"
-        ],
-        [
-          null
-        ]
+        "Canada",
+        []
       ],
       [
-        [
-          "Edmonton Oilers",
-          "NHL",
-          "Edmonton Oil Kings",
-          "WHL"
-        ],
+        "Edmonton Oilers ( NHL ) ( 2016-present ) , Edmonton Oil Kings ( WHL ) ( 2016-present )",
         [
           "/wiki/Edmonton_Oilers",
           "/wiki/National_Hockey_League",
@@ -842,50 +531,31 @@
     ],
     [
       [
-        [
-          "16"
-        ],
-        [
-          null
-        ]
+        "16",
+        []
       ],
       [
-        [
-          "American Airlines Center"
-        ],
+        "American Airlines Center",
         [
           "/wiki/American_Airlines_Center"
         ]
       ],
       [
-        [
-          "18,532"
-        ],
-        [
-          null
-        ]
+        "18,532",
+        []
       ],
       [
-        [
-          "Dallas"
-        ],
+        "Dallas",
         [
           "/wiki/Dallas"
         ]
       ],
       [
-        [
-          "United States"
-        ],
-        [
-          null
-        ]
+        "United States",
+        []
       ],
       [
-        [
-          "Dallas Stars",
-          "NHL"
-        ],
+        "Dallas Stars ( NHL ) ( 2001-present )",
         [
           "/wiki/Dallas_Stars",
           "/wiki/National_Hockey_League"
@@ -894,50 +564,31 @@
     ],
     [
       [
-        [
-          "17"
-        ],
-        [
-          null
-        ]
+        "17",
+        []
       ],
       [
-        [
-          "Capital One Arena"
-        ],
+        "Capital One Arena",
         [
           "/wiki/Capital_One_Arena"
         ]
       ],
       [
-        [
-          "18,506"
-        ],
-        [
-          null
-        ]
+        "18,506",
+        []
       ],
       [
-        [
-          "Washington"
-        ],
+        "Washington",
         [
           "/wiki/Washington,_D.C."
         ]
       ],
       [
-        [
-          "United States"
-        ],
-        [
-          null
-        ]
+        "United States",
+        []
       ],
       [
-        [
-          "Washington Capitals",
-          "NHL"
-        ],
+        "Washington Capitals ( NHL ) ( 1997-present )",
         [
           "/wiki/Washington_Capitals",
           "/wiki/National_Hockey_League"
@@ -946,50 +597,31 @@
     ],
     [
       [
-        [
-          "18"
-        ],
-        [
-          null
-        ]
+        "18",
+        []
       ],
       [
-        [
-          "Lanxess Arena"
-        ],
+        "Lanxess Arena",
         [
           "/wiki/Lanxess_Arena"
         ]
       ],
       [
-        [
-          "18,500"
-        ],
-        [
-          null
-        ]
+        "18,500",
+        []
       ],
       [
-        [
-          "Cologne"
-        ],
+        "Cologne",
         [
           "/wiki/Cologne"
         ]
       ],
       [
-        [
-          "Germany"
-        ],
-        [
-          null
-        ]
+        "Germany",
+        []
       ],
       [
-        [
-          "K\u00f6lner Haie",
-          "DEL"
-        ],
+        "K\u00f6lner Haie ( DEL ) ( 1998-present )",
         [
           "/wiki/K\u00f6lner_Haie",
           "/wiki/Deutsche_Eishockey_Liga"
@@ -998,50 +630,31 @@
     ],
     [
       [
-        [
-          "19"
-        ],
-        [
-          null
-        ]
+        "19",
+        []
       ],
       [
-        [
-          "PPG Paints Arena"
-        ],
+        "PPG Paints Arena",
         [
           "/wiki/PPG_Paints_Arena"
         ]
       ],
       [
-        [
-          "18,387"
-        ],
-        [
-          null
-        ]
+        "18,387",
+        []
       ],
       [
-        [
-          "Pittsburgh"
-        ],
+        "Pittsburgh",
         [
           "/wiki/Pittsburgh"
         ]
       ],
       [
-        [
-          "United States"
-        ],
-        [
-          null
-        ]
+        "United States",
+        []
       ],
       [
-        [
-          "Pittsburgh Penguins",
-          "NHL"
-        ],
+        "Pittsburgh Penguins ( NHL ) ( 2010-present )",
         [
           "/wiki/Pittsburgh_Penguins",
           "/wiki/National_Hockey_League"
@@ -1050,50 +663,31 @@
     ],
     [
       [
-        [
-          "20"
-        ],
-        [
-          null
-        ]
+        "20",
+        []
       ],
       [
-        [
-          "The Moda Center"
-        ],
+        "The Moda Center",
         [
           "/wiki/Moda_Center"
         ]
       ],
       [
-        [
-          "18,280"
-        ],
-        [
-          null
-        ]
+        "18,280",
+        []
       ],
       [
-        [
-          "Portland"
-        ],
+        "Portland",
         [
           "/wiki/Portland,_Oregon"
         ]
       ],
       [
-        [
-          "United States"
-        ],
-        [
-          null
-        ]
+        "United States",
+        []
       ],
       [
-        [
-          "Portland Winterhawks",
-          "WHL"
-        ],
+        "Portland Winterhawks ( WHL ) ( 1995-present )",
         [
           "/wiki/Portland_Winterhawks",
           "/wiki/Western_Hockey_League"

@@ -3,84 +3,58 @@
   "title": "List of airports in Cameroon",
   "header": [
     [
-      [
-        "City served"
-      ],
+      "City served",
       [
         "/wiki/List_of_cities_in_Cameroon"
       ]
     ],
     [
-      [
-        "Region"
-      ],
+      "Region",
       [
         "/wiki/Regions_of_Cameroon"
       ]
     ],
     [
-      [
-        "ICAO"
-      ],
+      "ICAO",
       [
         "/wiki/ICAO_airport_code"
       ]
     ],
     [
-      [
-        "IATA"
-      ],
+      "IATA",
       [
         "/wiki/IATA_airport_code"
       ]
     ],
     [
-      [
-        "Airport name"
-      ],
-      [
-        null
-      ]
+      "Airport name",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Bafoussam"
-        ],
+        "Bafoussam",
         [
           "/wiki/Bafoussam"
         ]
       ],
       [
-        [
-          "West"
-        ],
+        "West",
         [
           "/wiki/West_Province_(Cameroon)"
         ]
       ],
       [
-        [
-          "FKKU"
-        ],
-        [
-          null
-        ]
+        "FKKU",
+        []
       ],
       [
-        [
-          "BFX"
-        ],
-        [
-          null
-        ]
+        "BFX",
+        []
       ],
       [
-        [
-          "Bafoussam Airport"
-        ],
+        "Bafoussam Airport",
         [
           "/wiki/Bafoussam_Airport"
         ]
@@ -88,41 +62,27 @@
     ],
     [
       [
-        [
-          "Bali"
-        ],
+        "Bali",
         [
           "/wiki/Bali,_Cameroon"
         ]
       ],
       [
-        [
-          "Northwest"
-        ],
+        "Northwest",
         [
           "/wiki/Northwest_Province_(Cameroon)"
         ]
       ],
       [
-        [
-          "FKKG"
-        ],
-        [
-          null
-        ]
+        "FKKG",
+        []
       ],
       [
-        [
-          "BLC"
-        ],
-        [
-          null
-        ]
+        "BLC",
+        []
       ],
       [
-        [
-          "Bali Airport"
-        ],
+        "Bali Airport",
         [
           "/wiki/Bali_Airport"
         ]
@@ -130,41 +90,27 @@
     ],
     [
       [
-        [
-          "Bamenda"
-        ],
+        "Bamenda",
         [
           "/wiki/Bamenda"
         ]
       ],
       [
-        [
-          "Northwest"
-        ],
+        "Northwest",
         [
           "/wiki/Northwest_Province_(Cameroon)"
         ]
       ],
       [
-        [
-          "FKKV"
-        ],
-        [
-          null
-        ]
+        "FKKV",
+        []
       ],
       [
-        [
-          "BPC"
-        ],
-        [
-          null
-        ]
+        "BPC",
+        []
       ],
       [
-        [
-          "Bamenda Airport"
-        ],
+        "Bamenda Airport",
         [
           "/wiki/Bamenda_Airport"
         ]
@@ -172,41 +118,27 @@
     ],
     [
       [
-        [
-          "Banyo"
-        ],
+        "Banyo",
         [
           "/wiki/Banyo,_Cameroon"
         ]
       ],
       [
-        [
-          "Adamaoua"
-        ],
+        "Adamaoua",
         [
           "/wiki/Adamaoua_Province"
         ]
       ],
       [
-        [
-          "FKAB"
-        ],
-        [
-          null
-        ]
+        "FKAB",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Banyo Airport"
-        ],
+        "Banyo Airport",
         [
           "/wiki/Banyo_Airport"
         ]
@@ -214,41 +146,27 @@
     ],
     [
       [
-        [
-          "Batouri"
-        ],
+        "Batouri",
         [
           "/wiki/Batouri"
         ]
       ],
       [
-        [
-          "East"
-        ],
+        "East",
         [
           "/wiki/East_Province_(Cameroon)"
         ]
       ],
       [
-        [
-          "FKKI"
-        ],
-        [
-          null
-        ]
+        "FKKI",
+        []
       ],
       [
-        [
-          "OUR"
-        ],
-        [
-          null
-        ]
+        "OUR",
+        []
       ],
       [
-        [
-          "Batouri Airport"
-        ],
+        "Batouri Airport",
         [
           "/wiki/Batouri_Airport"
         ]
@@ -256,41 +174,27 @@
     ],
     [
       [
-        [
-          "Bertoua"
-        ],
+        "Bertoua",
         [
           "/wiki/Bertoua"
         ]
       ],
       [
-        [
-          "East"
-        ],
+        "East",
         [
           "/wiki/East_Province_(Cameroon)"
         ]
       ],
       [
-        [
-          "FKKO"
-        ],
-        [
-          null
-        ]
+        "FKKO",
+        []
       ],
       [
-        [
-          "BTA"
-        ],
-        [
-          null
-        ]
+        "BTA",
+        []
       ],
       [
-        [
-          "Bertoua Airport"
-        ],
+        "Bertoua Airport",
         [
           "/wiki/Bertoua_Airport"
         ]
@@ -298,41 +202,27 @@
     ],
     [
       [
-        [
-          "Douala"
-        ],
+        "Douala",
         [
           "/wiki/Douala"
         ]
       ],
       [
-        [
-          "Littoral"
-        ],
+        "Littoral",
         [
           "/wiki/Littoral_Province_(Cameroon)"
         ]
       ],
       [
-        [
-          "FKKD"
-        ],
-        [
-          null
-        ]
+        "FKKD",
+        []
       ],
       [
-        [
-          "DLA"
-        ],
-        [
-          null
-        ]
+        "DLA",
+        []
       ],
       [
-        [
-          "Douala International Airport"
-        ],
+        "Douala International Airport",
         [
           "/wiki/Douala_International_Airport"
         ]
@@ -340,41 +230,27 @@
     ],
     [
       [
-        [
-          "Dschang"
-        ],
+        "Dschang",
         [
           "/wiki/Dschang"
         ]
       ],
       [
-        [
-          "West"
-        ],
+        "West",
         [
           "/wiki/West_Province_(Cameroon)"
         ]
       ],
       [
-        [
-          "FKKS"
-        ],
-        [
-          null
-        ]
+        "FKKS",
+        []
       ],
       [
-        [
-          "DSC"
-        ],
-        [
-          null
-        ]
+        "DSC",
+        []
       ],
       [
-        [
-          "Dschang Airport"
-        ],
+        "Dschang Airport",
         [
           "/wiki/Dschang_Airport"
         ]
@@ -382,41 +258,27 @@
     ],
     [
       [
-        [
-          "Ebolowa"
-        ],
+        "Ebolowa",
         [
           "/wiki/Ebolowa"
         ]
       ],
       [
-        [
-          "South"
-        ],
+        "South",
         [
           "/wiki/South_Province_(Cameroon)"
         ]
       ],
       [
-        [
-          "FKKW"
-        ],
-        [
-          null
-        ]
+        "FKKW",
+        []
       ],
       [
-        [
-          "EBW"
-        ],
-        [
-          null
-        ]
+        "EBW",
+        []
       ],
       [
-        [
-          "Ebolowa Airport"
-        ],
+        "Ebolowa Airport",
         [
           "/wiki/Ebolowa_Airport"
         ]
@@ -424,41 +286,27 @@
     ],
     [
       [
-        [
-          "Es\u00e9ka"
-        ],
+        "Es\u00e9ka",
         [
           "/wiki/Es\u00e9ka"
         ]
       ],
       [
-        [
-          "Centre"
-        ],
+        "Centre",
         [
           "/wiki/Centre_Province_(Cameroon)"
         ]
       ],
       [
-        [
-          "FKKE"
-        ],
-        [
-          null
-        ]
+        "FKKE",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Es\u00e9ka Airport"
-        ],
+        "Es\u00e9ka Airport",
         [
           "/wiki/Es\u00e9ka_Airport"
         ]
@@ -466,43 +314,28 @@
     ],
     [
       [
-        [
-          "Foumban",
-          "Koutaba"
-        ],
+        "Foumban / Koutaba",
         [
           "/wiki/Foumban",
           "/wiki/Koutaba"
         ]
       ],
       [
-        [
-          "West"
-        ],
+        "West",
         [
           "/wiki/West_Province_(Cameroon)"
         ]
       ],
       [
-        [
-          "FKKM"
-        ],
-        [
-          null
-        ]
+        "FKKM",
+        []
       ],
       [
-        [
-          "FOM / KOB"
-        ],
-        [
-          null
-        ]
+        "FOM / KOB",
+        []
       ],
       [
-        [
-          "Foumban Nkounja Airport"
-        ],
+        "Foumban Nkounja Airport ( Koutaba Airport )",
         [
           "/wiki/Foumban_Nkounja_Airport"
         ]
@@ -510,41 +343,27 @@
     ],
     [
       [
-        [
-          "Garoua"
-        ],
+        "Garoua",
         [
           "/wiki/Garoua"
         ]
       ],
       [
-        [
-          "North"
-        ],
+        "North",
         [
           "/wiki/North_Province,_Cameroon"
         ]
       ],
       [
-        [
-          "FKKR"
-        ],
-        [
-          null
-        ]
+        "FKKR",
+        []
       ],
       [
-        [
-          "GOU"
-        ],
-        [
-          null
-        ]
+        "GOU",
+        []
       ],
       [
-        [
-          "Garoua International Airport"
-        ],
+        "Garoua International Airport",
         [
           "/wiki/Garoua_International_Airport"
         ]
@@ -552,41 +371,27 @@
     ],
     [
       [
-        [
-          "Ka\u00e9l\u00e9"
-        ],
+        "Ka\u00e9l\u00e9",
         [
           "/wiki/Ka\u00e9l\u00e9"
         ]
       ],
       [
-        [
-          "Far North"
-        ],
+        "Far North",
         [
           "/wiki/Far_North_Province"
         ]
       ],
       [
-        [
-          "FKKH"
-        ],
-        [
-          null
-        ]
+        "FKKH",
+        []
       ],
       [
-        [
-          "KLE"
-        ],
-        [
-          null
-        ]
+        "KLE",
+        []
       ],
       [
-        [
-          "Ka\u00e9l\u00e9 Airport"
-        ],
+        "Ka\u00e9l\u00e9 Airport",
         [
           "/wiki/Ka\u00e9l\u00e9_Airport"
         ]
@@ -594,41 +399,27 @@
     ],
     [
       [
-        [
-          "Kribi"
-        ],
+        "Kribi",
         [
           "/wiki/Kribi"
         ]
       ],
       [
-        [
-          "South"
-        ],
+        "South",
         [
           "/wiki/South_Province_(Cameroon)"
         ]
       ],
       [
-        [
-          "FKKB"
-        ],
-        [
-          null
-        ]
+        "FKKB",
+        []
       ],
       [
-        [
-          "KBI"
-        ],
-        [
-          null
-        ]
+        "KBI",
+        []
       ],
       [
-        [
-          "Kribi Airport"
-        ],
+        "Kribi Airport",
         [
           "/wiki/Kribi_Airport"
         ]
@@ -636,41 +427,27 @@
     ],
     [
       [
-        [
-          "Limbe"
-        ],
+        "Limbe",
         [
           "/wiki/Limbe,_Cameroon"
         ]
       ],
       [
-        [
-          "Southwest"
-        ],
+        "Southwest",
         [
           "/wiki/Southwest_Province_(Cameroon)"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "VCC"
-        ],
-        [
-          null
-        ]
+        "VCC",
+        []
       ],
       [
-        [
-          "Limbe Airport"
-        ],
+        "Limbe Airport",
         [
           "/wiki/Limbe_Airport"
         ]
@@ -678,41 +455,27 @@
     ],
     [
       [
-        [
-          "Mamfe"
-        ],
+        "Mamfe",
         [
           "/wiki/Mamfe"
         ]
       ],
       [
-        [
-          "Southwest"
-        ],
+        "Southwest",
         [
           "/wiki/Southwest_Province_(Cameroon)"
         ]
       ],
       [
-        [
-          "FKKF"
-        ],
-        [
-          null
-        ]
+        "FKKF",
+        []
       ],
       [
-        [
-          "MMF"
-        ],
-        [
-          null
-        ]
+        "MMF",
+        []
       ],
       [
-        [
-          "Mamfe Airport"
-        ],
+        "Mamfe Airport",
         [
           "/wiki/Mamfe_Airport"
         ]
@@ -720,43 +483,28 @@
     ],
     [
       [
-        [
-          "Maroua",
-          "Salak"
-        ],
+        "Maroua / Salak",
         [
           "/wiki/Maroua",
           "/wiki/Salak,_Cameroon"
         ]
       ],
       [
-        [
-          "Far North"
-        ],
+        "Far North",
         [
           "/wiki/Far_North_Province"
         ]
       ],
       [
-        [
-          "FKKL"
-        ],
-        [
-          null
-        ]
+        "FKKL",
+        []
       ],
       [
-        [
-          "MVR"
-        ],
-        [
-          null
-        ]
+        "MVR",
+        []
       ],
       [
-        [
-          "Maroua Salak Airport"
-        ],
+        "Maroua Salak Airport",
         [
           "/wiki/Salak_Airport"
         ]
@@ -764,41 +512,27 @@
     ],
     [
       [
-        [
-          "Ngaound\u00e9r\u00e9"
-        ],
+        "Ngaound\u00e9r\u00e9",
         [
           "/wiki/Ngaound\u00e9r\u00e9"
         ]
       ],
       [
-        [
-          "Adamawa"
-        ],
+        "Adamawa",
         [
           "/wiki/Adamawa_Province"
         ]
       ],
       [
-        [
-          "FKKN"
-        ],
-        [
-          null
-        ]
+        "FKKN",
+        []
       ],
       [
-        [
-          "NGE"
-        ],
-        [
-          null
-        ]
+        "NGE",
+        []
       ],
       [
-        [
-          "Ngaound\u00e9r\u00e9 Airport"
-        ],
+        "Ngaound\u00e9r\u00e9 Airport ( N'Gaound\u00e9r\u00e9 Airport )",
         [
           "/wiki/Ngaound\u00e9r\u00e9_Airport"
         ]
@@ -806,41 +540,27 @@
     ],
     [
       [
-        [
-          "Nkongsamba"
-        ],
+        "Nkongsamba",
         [
           "/wiki/Nkongsamba"
         ]
       ],
       [
-        [
-          "Littoral"
-        ],
+        "Littoral",
         [
           "/wiki/Littoral_Province_(Cameroon)"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "NKS"
-        ],
-        [
-          null
-        ]
+        "NKS",
+        []
       ],
       [
-        [
-          "Nkongsamba Airport"
-        ],
+        "Nkongsamba Airport",
         [
           "/wiki/Nkongsamba_Airport"
         ]
@@ -848,41 +568,27 @@
     ],
     [
       [
-        [
-          "Tiko"
-        ],
+        "Tiko",
         [
           "/wiki/Tiko"
         ]
       ],
       [
-        [
-          "Southwest"
-        ],
+        "Southwest",
         [
           "/wiki/Southwest_Province_(Cameroon)"
         ]
       ],
       [
-        [
-          "FKKC"
-        ],
-        [
-          null
-        ]
+        "FKKC",
+        []
       ],
       [
-        [
-          "TKC"
-        ],
-        [
-          null
-        ]
+        "TKC",
+        []
       ],
       [
-        [
-          "Tiko Airport"
-        ],
+        "Tiko Airport",
         [
           "/wiki/Tiko_Airport"
         ]

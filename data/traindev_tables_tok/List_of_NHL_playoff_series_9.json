@@ -3,89 +3,44 @@
   "title": "List of NHL playoff series",
   "header": [
     [
-      [
-        "Opponent"
-      ],
-      [
-        null
-      ]
+      "Opponent",
+      []
     ],
     [
-      [
-        "S"
-      ],
-      [
-        null
-      ]
+      "S",
+      []
     ],
     [
-      [
-        "Occurrences"
-      ],
-      [
-        null
-      ]
+      "Occurrences",
+      []
     ],
     [
-      [
-        "GP"
-      ],
-      [
-        null
-      ]
+      "GP",
+      []
     ],
     [
-      [
-        "Rec"
-      ],
-      [
-        null
-      ]
+      "Rec",
+      []
     ],
     [
-      [
-        "%"
-      ],
-      [
-        null
-      ]
+      "%",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "St. Louis Blues"
-        ],
+        "St. Louis Blues",
         [
           "/wiki/St._Louis_Blues"
         ]
       ],
       [
-        [
-          "14"
-        ],
-        [
-          null
-        ]
+        "14",
+        []
       ],
       [
-        [
-          "1968",
-          "1970",
-          "1971",
-          "1972",
-          "1984",
-          "1985",
-          "1986",
-          "1989",
-          "1991",
-          "1994",
-          "1999",
-          "2001",
-          "2016",
-          "2019"
-        ],
+        "1968 , 1970 , 1971 , 1972 , 1984 , 1985 , 1986 , 1989 , 1991 , 1994 , 1999 , 2001 , 2016 , 2019",
         [
           "/wiki/1968_Stanley_Cup_playoffs",
           "/wiki/1970_Stanley_Cup_playoffs",
@@ -104,58 +59,31 @@
         ]
       ],
       [
-        [
-          "80"
-        ],
-        [
-          null
-        ]
+        "80",
+        []
       ],
       [
-        [
-          "6-8"
-        ],
-        [
-          null
-        ]
+        "6-8",
+        []
       ],
       [
-        [
-          ".429"
-        ],
-        [
-          null
-        ]
+        ".429",
+        []
       ]
     ],
     [
       [
-        [
-          "Edmonton Oilers"
-        ],
+        "Edmonton Oilers",
         [
           "/wiki/Edmonton_Oilers"
         ]
       ],
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "1984",
-          "1991",
-          "1997",
-          "1998",
-          "1999",
-          "2000",
-          "2001",
-          "2003"
-        ],
+        "1984 , 1991 , 1997 , 1998 , 1999 , 2000 , 2001 , 2003",
         [
           "/wiki/1984_Stanley_Cup_playoffs",
           "/wiki/1991_Stanley_Cup_playoffs",
@@ -168,56 +96,31 @@
         ]
       ],
       [
-        [
-          "42"
-        ],
-        [
-          null
-        ]
+        "42",
+        []
       ],
       [
-        [
-          "6-2"
-        ],
-        [
-          null
-        ]
+        "6-2",
+        []
       ],
       [
-        [
-          ".750"
-        ],
-        [
-          null
-        ]
+        ".750",
+        []
       ]
     ],
     [
       [
-        [
-          "Chicago Blackhawks"
-        ],
+        "Chicago Blackhawks",
         [
           "/wiki/Chicago_Blackhawks"
         ]
       ],
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "1982",
-          "1983",
-          "1984",
-          "1985",
-          "1990",
-          "1991"
-        ],
+        "1982 , 1983 , 1984 , 1985 , 1990 , 1991",
         [
           "/wiki/1982_Stanley_Cup_playoffs",
           "/wiki/1983_Stanley_Cup_playoffs",
@@ -228,54 +131,31 @@
         ]
       ],
       [
-        [
-          "33"
-        ],
-        [
-          null
-        ]
+        "33",
+        []
       ],
       [
-        [
-          "2-4"
-        ],
-        [
-          null
-        ]
+        "2-4",
+        []
       ],
       [
-        [
-          ".333"
-        ],
-        [
-          null
-        ]
+        ".333",
+        []
       ]
     ],
     [
       [
-        [
-          "Colorado Avalanche"
-        ],
+        "Colorado Avalanche",
         [
           "/wiki/Colorado_Avalanche"
         ]
       ],
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "1999",
-          "2000",
-          "2004",
-          "2006"
-        ],
+        "1999 , 2000 , 2004 , 2006",
         [
           "/wiki/1999_Stanley_Cup_playoffs",
           "/wiki/2000_Stanley_Cup_playoffs",
@@ -284,54 +164,31 @@
         ]
       ],
       [
-        [
-          "24"
-        ],
-        [
-          null
-        ]
+        "24",
+        []
       ],
       [
-        [
-          "2-2"
-        ],
-        [
-          null
-        ]
+        "2-2",
+        []
       ],
       [
-        [
-          ".500"
-        ],
-        [
-          null
-        ]
+        ".500",
+        []
       ]
     ],
     [
       [
-        [
-          "Detroit Red Wings"
-        ],
+        "Detroit Red Wings",
         [
           "/wiki/Detroit_Red_Wings"
         ]
       ],
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "1992",
-          "1995",
-          "1998",
-          "2008"
-        ],
+        "1992 , 1995 , 1998 , 2008",
         [
           "/wiki/1992_Stanley_Cup_playoffs",
           "/wiki/1995_Stanley_Cup_playoffs",
@@ -340,53 +197,31 @@
         ]
       ],
       [
-        [
-          "24"
-        ],
-        [
-          null
-        ]
+        "24",
+        []
       ],
       [
-        [
-          "0-4"
-        ],
-        [
-          null
-        ]
+        "0-4",
+        []
       ],
       [
-        [
-          ".000"
-        ],
-        [
-          null
-        ]
+        ".000",
+        []
       ]
     ],
     [
       [
-        [
-          "San Jose Sharks"
-        ],
+        "San Jose Sharks",
         [
           "/wiki/San_Jose_Sharks"
         ]
       ],
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "1998",
-          "2000",
-          "2008"
-        ],
+        "1998 , 2000 , 2008",
         [
           "/wiki/1998_Stanley_Cup_playoffs",
           "/wiki/2000_Stanley_Cup_playoffs",
@@ -394,53 +229,31 @@
         ]
       ],
       [
-        [
-          "17"
-        ],
-        [
-          null
-        ]
+        "17",
+        []
       ],
       [
-        [
-          "3-0"
-        ],
-        [
-          null
-        ]
+        "3-0",
+        []
       ],
       [
-        [
-          "1.000"
-        ],
-        [
-          null
-        ]
+        "1.000",
+        []
       ]
     ],
     [
       [
-        [
-          "Buffalo Sabres"
-        ],
+        "Buffalo Sabres",
         [
           "/wiki/Buffalo_Sabres"
         ]
       ],
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "1977",
-          "1981",
-          "1999"
-        ],
+        "1977 , 1981 , 1999",
         [
           "/wiki/1977_Stanley_Cup_playoffs",
           "/wiki/1981_Stanley_Cup_playoffs",
@@ -448,53 +261,31 @@
         ]
       ],
       [
-        [
-          "13"
-        ],
-        [
-          null
-        ]
+        "13",
+        []
       ],
       [
-        [
-          "2-1"
-        ],
-        [
-          null
-        ]
+        "2-1",
+        []
       ],
       [
-        [
-          ".667"
-        ],
-        [
-          null
-        ]
+        ".667",
+        []
       ]
     ],
     [
       [
-        [
-          "Anaheim Ducks"
-        ],
+        "Anaheim Ducks",
         [
           "/wiki/Anaheim_Ducks"
         ]
       ],
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "2003",
-          "2008",
-          "2014"
-        ],
+        "2003 , 2008 , 2014",
         [
           "/wiki/2003_Stanley_Cup_playoffs",
           "/wiki/2008_Stanley_Cup_playoffs",
@@ -502,636 +293,380 @@
         ]
       ],
       [
-        [
-          "18"
-        ],
-        [
-          null
-        ]
+        "18",
+        []
       ],
       [
-        [
-          "1-2"
-        ],
-        [
-          null
-        ]
+        "1-2",
+        []
       ],
       [
-        [
-          ".333"
-        ],
-        [
-          null
-        ]
+        ".333",
+        []
       ]
     ],
     [
       [
-        [
-          "Toronto Maple Leafs"
-        ],
+        "Toronto Maple Leafs",
         [
           "/wiki/Toronto_Maple_Leafs"
         ]
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "1980",
-          "1983"
-        ],
+        "1980 , 1983",
         [
           "/wiki/1980_Stanley_Cup_playoffs",
           "/wiki/1983_Stanley_Cup_playoffs"
         ]
       ],
       [
-        [
-          "7"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ],
       [
-        [
-          "2-0"
-        ],
-        [
-          null
-        ]
+        "2-0",
+        []
       ],
       [
-        [
-          "1.000"
-        ],
-        [
-          null
-        ]
+        "1.000",
+        []
       ]
     ],
     [
       [
-        [
-          "Montreal Canadiens"
-        ],
+        "Montreal Canadiens",
         [
           "/wiki/Montreal_Canadiens"
         ]
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "1971",
-          "1980"
-        ],
+        "1971 , 1980",
         [
           "/wiki/1971_Stanley_Cup_playoffs",
           "/wiki/1980_Stanley_Cup_playoffs"
         ]
       ],
       [
-        [
-          "13"
-        ],
-        [
-          null
-        ]
+        "13",
+        []
       ],
       [
-        [
-          "1-1"
-        ],
-        [
-          null
-        ]
+        "1-1",
+        []
       ],
       [
-        [
-          ".500"
-        ],
-        [
-          null
-        ]
+        ".500",
+        []
       ]
     ],
     [
       [
-        [
-          "Philadelphia Flyers"
-        ],
+        "Philadelphia Flyers",
         [
           "/wiki/Philadelphia_Flyers"
         ]
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "1973",
-          "1980"
-        ],
+        "1973 , 1980",
         [
           "/wiki/1973_Stanley_Cup_playoffs",
           "/wiki/1980_Stanley_Cup_playoffs"
         ]
       ],
       [
-        [
-          "11"
-        ],
-        [
-          null
-        ]
+        "11",
+        []
       ],
       [
-        [
-          "0-2"
-        ],
-        [
-          null
-        ]
+        "0-2",
+        []
       ],
       [
-        [
-          ".000"
-        ],
-        [
-          null
-        ]
+        ".000",
+        []
       ]
     ],
     [
       [
-        [
-          "Vancouver Canucks"
-        ],
+        "Vancouver Canucks",
         [
           "/wiki/Vancouver_Canucks"
         ]
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "1994",
-          "2007"
-        ],
+        "1994 , 2007",
         [
           "/wiki/1994_Stanley_Cup_playoffs",
           "/wiki/2007_Stanley_Cup_playoffs"
         ]
       ],
       [
-        [
-          "12"
-        ],
-        [
-          null
-        ]
+        "12",
+        []
       ],
       [
-        [
-          "0-2"
-        ],
-        [
-          null
-        ]
+        "0-2",
+        []
       ],
       [
-        [
-          ".000"
-        ],
-        [
-          null
-        ]
+        ".000",
+        []
       ]
     ],
     [
       [
-        [
-          "Boston Bruins"
-        ],
+        "Boston Bruins",
         [
           "/wiki/Boston_Bruins"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "1981"
-        ],
+        "1981",
         [
           "/wiki/1981_Stanley_Cup_playoffs"
         ]
       ],
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "1-0"
-        ],
-        [
-          null
-        ]
+        "1-0",
+        []
       ],
       [
-        [
-          "1.000"
-        ],
-        [
-          null
-        ]
+        "1.000",
+        []
       ]
     ],
     [
       [
-        [
-          "Calgary Flames"
-        ],
+        "Calgary Flames",
         [
           "/wiki/Calgary_Flames"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "1981"
-        ],
+        "1981",
         [
           "/wiki/1981_Stanley_Cup_playoffs"
         ]
       ],
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "1-0"
-        ],
-        [
-          null
-        ]
+        "1-0",
+        []
       ],
       [
-        [
-          "1.000"
-        ],
-        [
-          null
-        ]
+        "1.000",
+        []
       ]
     ],
     [
       [
-        [
-          "Los Angeles Kings"
-        ],
+        "Los Angeles Kings",
         [
           "/wiki/Los_Angeles_Kings"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "1968"
-        ],
+        "1968",
         [
           "/wiki/1968_Stanley_Cup_playoffs"
         ]
       ],
       [
-        [
-          "7"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ],
       [
-        [
-          "1-0"
-        ],
-        [
-          null
-        ]
+        "1-0",
+        []
       ],
       [
-        [
-          "1.000"
-        ],
-        [
-          null
-        ]
+        "1.000",
+        []
       ]
     ],
     [
       [
-        [
-          "Minnesota Wild"
-        ],
+        "Minnesota Wild",
         [
           "/wiki/Minnesota_Wild"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "2016"
-        ],
+        "2016",
         [
           "/wiki/2016_Stanley_Cup_playoffs"
         ]
       ],
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "1-0"
-        ],
-        [
-          null
-        ]
+        "1-0",
+        []
       ],
       [
-        [
-          "1.000"
-        ],
-        [
-          null
-        ]
+        "1.000",
+        []
       ]
     ],
     [
       [
-        [
-          "Nashville Predators"
-        ],
+        "Nashville Predators",
         [
           "/wiki/Nashville_Predators"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "2019"
-        ],
+        "2019",
         [
           "/wiki/2019_Stanley_Cup_playoffs"
         ]
       ],
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "1-0"
-        ],
-        [
-          null
-        ]
+        "1-0",
+        []
       ],
       [
-        [
-          "1.000"
-        ],
-        [
-          null
-        ]
+        "1.000",
+        []
       ]
     ],
     [
       [
-        [
-          "New Jersey Devils"
-        ],
+        "New Jersey Devils",
         [
           "/wiki/New_Jersey_Devils"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "2000"
-        ],
+        "2000",
         [
           "/wiki/2000_Stanley_Cup_playoffs"
         ]
       ],
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "0-1"
-        ],
-        [
-          null
-        ]
+        "0-1",
+        []
       ],
       [
-        [
-          ".000"
-        ],
-        [
-          null
-        ]
+        ".000",
+        []
       ]
     ],
     [
       [
-        [
-          "New York Islanders"
-        ],
+        "New York Islanders",
         [
           "/wiki/New_York_Islanders"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "1981"
-        ],
+        "1981",
         [
           "/wiki/1981_Stanley_Cup_playoffs"
         ]
       ],
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "0-1"
-        ],
-        [
-          null
-        ]
+        "0-1",
+        []
       ],
       [
-        [
-          ".000"
-        ],
-        [
-          null
-        ]
+        ".000",
+        []
       ]
     ],
     [
       [
-        [
-          "Pittsburgh Penguins"
-        ],
+        "Pittsburgh Penguins",
         [
           "/wiki/Pittsburgh_Penguins"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "1991"
-        ],
+        "1991",
         [
           "/wiki/1991_Stanley_Cup_playoffs"
         ]
       ],
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "0-1"
-        ],
-        [
-          null
-        ]
+        "0-1",
+        []
       ],
       [
-        [
-          ".000"
-        ],
-        [
-          null
-        ]
+        ".000",
+        []
       ]
     ]
   ],

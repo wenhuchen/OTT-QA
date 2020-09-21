@@ -3,717 +3,461 @@
   "title": "Bentley Infrastructure 500",
   "header": [
     [
-      [
-        "Rank"
-      ],
-      [
-        null
-      ]
+      "Rank",
+      []
     ],
     [
-      [
-        "Organization"
-      ],
-      [
-        null
-      ]
+      "Organization",
+      []
     ],
     [
-      [
-        "Headquarters Country"
-      ],
-      [
-        null
-      ]
+      "Headquarters Country",
+      []
     ],
     [
-      [
-        "Infrastructure Value ( millions USD ) *"
-      ],
-      [
-        null
-      ]
+      "Infrastructure Value ( millions USD ) *",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "Federal government of the United States"
-        ],
+        "Federal government of the United States",
         [
           "/wiki/Federal_government_of_the_United_States"
         ]
       ],
       [
-        [
-          "United States"
-        ],
+        "United States",
         [
           "/wiki/United_States"
         ]
       ],
       [
-        [
-          "342,900"
-        ],
-        [
-          null
-        ]
+        "342,900",
+        []
       ]
     ],
     [
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "State Grid Corporation of China"
-        ],
+        "State Grid Corporation of China",
         [
           "/wiki/State_Grid_Corporation_of_China"
         ]
       ],
       [
-        [
-          "China"
-        ],
+        "China",
         [
           "/wiki/China"
         ]
       ],
       [
-        [
-          "236,012"
-        ],
-        [
-          null
-        ]
+        "236,012",
+        []
       ]
     ],
     [
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "GAZPROM"
-        ],
+        "GAZPROM",
         [
           "/wiki/GAZPROM"
         ]
       ],
       [
-        [
-          "Russia"
-        ],
+        "Russia",
         [
           "/wiki/Russia"
         ]
       ],
       [
-        [
-          "228,366"
-        ],
-        [
-          null
-        ]
+        "228,366",
+        []
       ]
     ],
     [
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "ExxonMobil"
-        ],
+        "ExxonMobil",
         [
           "/wiki/ExxonMobil"
         ]
       ],
       [
-        [
-          "United States"
-        ],
+        "United States",
         [
           "/wiki/United_States"
         ]
       ],
       [
-        [
-          "226,949"
-        ],
-        [
-          null
-        ]
+        "226,949",
+        []
       ]
     ],
     [
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "Petrobras"
-        ],
+        "Petrobras",
         [
           "/wiki/Petrobras"
         ]
       ],
       [
-        [
-          "Brazil"
-        ],
+        "Brazil",
         [
           "/wiki/Brazil"
         ]
       ],
       [
-        [
-          "204,962"
-        ],
-        [
-          null
-        ]
+        "204,962",
+        []
       ]
     ],
     [
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "Royal Dutch Shell"
-        ],
+        "Royal Dutch Shell",
         [
           "/wiki/Royal_Dutch_Shell"
         ]
       ],
       [
-        [
-          "Netherlands"
-        ],
+        "Netherlands",
         [
           "/wiki/Netherlands"
         ]
       ],
       [
-        [
-          "172,293"
-        ],
-        [
-          null
-        ]
+        "172,293",
+        []
       ]
     ],
     [
       [
-        [
-          "7"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ],
       [
-        [
-          "Highways Agency"
-        ],
+        "Highways Agency",
         [
           "/wiki/Highways_Agency"
         ]
       ],
       [
-        [
-          "United Kingdom"
-        ],
+        "United Kingdom",
         [
           "/wiki/United_Kingdom"
         ]
       ],
       [
-        [
-          "166,985"
-        ],
-        [
-          null
-        ]
+        "166,985",
+        []
       ]
     ],
     [
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "\u00c9lectricit\u00e9 de France"
-        ],
+        "\u00c9lectricit\u00e9 de France - EDF",
         [
           "/wiki/\u00c9lectricit\u00e9_de_France"
         ]
       ],
       [
-        [
-          "France"
-        ],
+        "France",
         [
           "/wiki/France"
         ]
       ],
       [
-        [
-          "161,286"
-        ],
-        [
-          null
-        ]
+        "161,286",
+        []
       ]
     ],
     [
       [
-        [
-          "9"
-        ],
-        [
-          null
-        ]
+        "9",
+        []
       ],
       [
-        [
-          "Chevron Corporation"
-        ],
+        "Chevron Corporation",
         [
           "/wiki/Chevron_Corporation"
         ]
       ],
       [
-        [
-          "United States"
-        ],
+        "United States",
         [
           "/wiki/United_States"
         ]
       ],
       [
-        [
-          "141,348"
-        ],
-        [
-          null
-        ]
+        "141,348",
+        []
       ]
     ],
     [
       [
-        [
-          "10"
-        ],
-        [
-          null
-        ]
+        "10",
+        []
       ],
       [
-        [
-          "Petroleos Mexicanos"
-        ],
+        "Petroleos Mexicanos",
         [
           "/wiki/Petroleos_Mexicanos"
         ]
       ],
       [
-        [
-          "Mexico"
-        ],
+        "Mexico",
         [
           "/wiki/Mexico"
         ]
       ],
       [
-        [
-          "127,449"
-        ],
-        [
-          null
-        ]
+        "127,449",
+        []
       ]
     ],
     [
       [
-        [
-          "11"
-        ],
-        [
-          null
-        ]
+        "11",
+        []
       ],
       [
-        [
-          "Kingdom of the Netherlands"
-        ],
+        "Kingdom of the Netherlands",
         [
           "/wiki/Kingdom_of_the_Netherlands"
         ]
       ],
       [
-        [
-          "Netherlands"
-        ],
+        "Netherlands",
         [
           "/wiki/Netherlands"
         ]
       ],
       [
-        [
-          "118,205"
-        ],
-        [
-          null
-        ]
+        "118,205",
+        []
       ]
     ],
     [
       [
-        [
-          "12"
-        ],
-        [
-          null
-        ]
+        "12",
+        []
       ],
       [
-        [
-          "Walmart"
-        ],
+        "Walmart",
         [
           "/wiki/Walmart"
         ]
       ],
       [
-        [
-          "United States"
-        ],
+        "United States",
         [
           "/wiki/United_States"
         ]
       ],
       [
-        [
-          "116,681"
-        ],
-        [
-          null
-        ]
+        "116,681",
+        []
       ]
     ],
     [
       [
-        [
-          "13"
-        ],
-        [
-          null
-        ]
+        "13",
+        []
       ],
       [
-        [
-          "BP"
-        ],
+        "BP",
         [
           "/wiki/BP"
         ]
       ],
       [
-        [
-          "United Kingdom"
-        ],
+        "United Kingdom",
         [
           "/wiki/United_Kingdom"
         ]
       ],
       [
-        [
-          "115,421"
-        ],
-        [
-          null
-        ]
+        "115,421",
+        []
       ]
     ],
     [
       [
-        [
-          "14"
-        ],
-        [
-          null
-        ]
+        "14",
+        []
       ],
       [
-        [
-          "Korea Electric Power"
-        ],
+        "Korea Electric Power Corporation",
         [
           "/wiki/Korea_Electric_Power"
         ]
       ],
       [
-        [
-          "Korea"
-        ],
+        "Korea",
         [
           "/wiki/Korea"
         ]
       ],
       [
-        [
-          "113,498"
-        ],
-        [
-          null
-        ]
+        "113,498",
+        []
       ]
     ],
     [
       [
-        [
-          "15"
-        ],
-        [
-          null
-        ]
+        "15",
+        []
       ],
       [
-        [
-          "GDF Suez"
-        ],
+        "GDF Suez",
         [
           "/wiki/GDF_Suez"
         ]
       ],
       [
-        [
-          "France"
-        ],
+        "France",
         [
           "/wiki/France"
         ]
       ],
       [
-        [
-          "113,416"
-        ],
-        [
-          null
-        ]
+        "113,416",
+        []
       ]
     ],
     [
       [
-        [
-          "16"
-        ],
-        [
-          null
-        ]
+        "16",
+        []
       ],
       [
-        [
-          "Commonwealth of Australia"
-        ],
+        "Commonwealth of Australia",
         [
           "/wiki/Commonwealth_of_Australia"
         ]
       ],
       [
-        [
-          "Australia"
-        ],
+        "Australia",
         [
           "/wiki/Australia"
         ]
       ],
       [
-        [
-          "113,386"
-        ],
-        [
-          null
-        ]
+        "113,386",
+        []
       ]
     ],
     [
       [
-        [
-          "17"
-        ],
-        [
-          null
-        ]
+        "17",
+        []
       ],
       [
-        [
-          "State of California"
-        ],
+        "State of California",
         [
           "/wiki/Government_of_California"
         ]
       ],
       [
-        [
-          "United States"
-        ],
+        "United States",
         [
           "/wiki/United_States"
         ]
       ],
       [
-        [
-          "112,470"
-        ],
-        [
-          null
-        ]
+        "112,470",
+        []
       ]
     ],
     [
       [
-        [
-          "18"
-        ],
-        [
-          null
-        ]
+        "18",
+        []
       ],
       [
-        [
-          "AT & T"
-        ],
+        "AT & T",
         [
           "/wiki/AT&T"
         ]
       ],
       [
-        [
-          "United States"
-        ],
+        "United States",
         [
           "/wiki/United_States"
         ]
       ],
       [
-        [
-          "109,767"
-        ],
-        [
-          null
-        ]
+        "109,767",
+        []
       ]
     ],
     [
       [
-        [
-          "19"
-        ],
-        [
-          null
-        ]
+        "19",
+        []
       ],
       [
-        [
-          "Enel"
-        ],
+        "Enel",
         [
           "/wiki/Enel"
         ]
       ],
       [
-        [
-          "Italy"
-        ],
+        "Italy",
         [
           "/wiki/Italy"
         ]
       ],
       [
-        [
-          "109,662"
-        ],
-        [
-          null
-        ]
+        "109,662",
+        []
       ]
     ],
     [
       [
-        [
-          "20"
-        ],
-        [
-          null
-        ]
+        "20",
+        []
       ],
       [
-        [
-          "Tokyo Electric Power Company"
-        ],
+        "Tokyo Electric Power Company",
         [
           "/wiki/Tokyo_Electric_Power_Company"
         ]
       ],
       [
-        [
-          "Japan"
-        ],
+        "Japan",
         [
           "/wiki/Japan"
         ]
       ],
       [
-        [
-          "106,365"
-        ],
-        [
-          null
-        ]
+        "106,365",
+        []
       ]
     ]
   ],

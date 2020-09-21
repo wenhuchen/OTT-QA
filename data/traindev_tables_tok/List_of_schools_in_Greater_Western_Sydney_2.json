@@ -3,1053 +3,627 @@
   "title": "List of schools in Greater Western Sydney",
   "header": [
     [
-      [
-        "Name"
-      ],
-      [
-        null
-      ]
+      "Name",
+      []
     ],
     [
-      [
-        "Suburb"
-      ],
-      [
-        null
-      ]
+      "Suburb",
+      []
     ],
     [
-      [
-        "LGA"
-      ],
-      [
-        null
-      ]
+      "LGA",
+      []
     ],
     [
-      [
-        "Opened"
-      ],
-      [
-        null
-      ]
+      "Opened",
+      []
     ],
     [
-      [
-        "Website"
-      ],
-      [
-        null
-      ]
+      "Website",
+      []
     ],
     [
-      [
-        "Notes"
-      ],
-      [
-        null
-      ]
+      "Notes",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Ajuga School"
-        ],
-        [
-          null
-        ]
+        "Ajuga School",
+        []
       ],
       [
-        [
-          "Glenfield"
-        ],
+        "Glenfield",
         [
           "/wiki/Glenfield,_New_South_Wales"
         ]
       ],
       [
-        [
-          "Campbelltown"
-        ],
+        "Campbelltown",
         [
           "/wiki/City_of_Campbelltown_(New_South_Wales)"
         ]
       ],
       [
-        [
-          "1992"
-        ],
-        [
-          null
-        ]
+        "1992",
+        []
       ],
       [
-        [
-          "Website"
-        ],
-        [
-          null
-        ]
+        "Website",
+        []
       ],
       [
-        [
-          "Autism and emotional disturbance"
-        ],
-        [
-          null
-        ]
+        "Autism and emotional disturbance",
+        []
       ]
     ],
     [
       [
-        [
-          "Bankstown Hospital School"
-        ],
-        [
-          null
-        ]
+        "Bankstown Hospital School",
+        []
       ],
       [
-        [
-          "Bankstown"
-        ],
+        "Bankstown",
         [
           "/wiki/Bankstown,_New_South_Wales"
         ]
       ],
       [
-        [
-          "Bankstown"
-        ],
+        "Bankstown",
         [
           "/wiki/City_of_Bankstown"
         ]
       ],
       [
-        [
-          "1966"
-        ],
-        [
-          null
-        ]
+        "1966",
+        []
       ],
       [
-        [
-          "Website"
-        ],
-        [
-          null
-        ]
+        "Website",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Beverley Park School"
-        ],
-        [
-          null
-        ]
+        "Beverley Park School",
+        []
       ],
       [
-        [
-          "Campbelltown"
-        ],
+        "Campbelltown",
         [
           "/wiki/Campbelltown,_New_South_Wales"
         ]
       ],
       [
-        [
-          "Campbelltown"
-        ],
+        "Campbelltown",
         [
           "/wiki/City_of_Campbelltown_(New_South_Wales)"
         ]
       ],
       [
-        [
-          "1941"
-        ],
-        [
-          null
-        ]
+        "1941",
+        []
       ],
       [
-        [
-          "Website"
-        ],
-        [
-          null
-        ]
+        "Website",
+        []
       ],
       [
-        [
-          "Intellectual disabilities"
-        ],
-        [
-          null
-        ]
+        "Intellectual disabilities",
+        []
       ]
     ],
     [
       [
-        [
-          "Broderick Gillawarna School"
-        ],
-        [
-          null
-        ]
+        "Broderick Gillawarna School",
+        []
       ],
       [
-        [
-          "Revesby"
-        ],
+        "Revesby",
         [
           "/wiki/Revesby,_New_South_Wales"
         ]
       ],
       [
-        [
-          "Bankstown"
-        ],
+        "Bankstown",
         [
           "/wiki/City_of_Bankstown"
         ]
       ],
       [
-        [
-          "1954"
-        ],
-        [
-          null
-        ]
+        "1954",
+        []
       ],
       [
-        [
-          "Website"
-        ],
-        [
-          null
-        ]
+        "Website",
+        []
       ],
       [
-        [
-          "Intellectual disabilities"
-        ],
-        [
-          null
-        ]
+        "Intellectual disabilities",
+        []
       ]
     ],
     [
       [
-        [
-          "Campbell House School"
-        ],
-        [
-          null
-        ]
+        "Campbell House School",
+        []
       ],
       [
-        [
-          "Glenfield"
-        ],
+        "Glenfield",
         [
           "/wiki/Glenfield,_New_South_Wales"
         ]
       ],
       [
-        [
-          "Campbelltown"
-        ],
+        "Campbelltown",
         [
           "/wiki/City_of_Campbelltown_(New_South_Wales)"
         ]
       ],
       [
-        [
-          "1990"
-        ],
-        [
-          null
-        ]
+        "1990",
+        []
       ],
       [
-        [
-          "Website"
-        ],
-        [
-          null
-        ]
+        "Website",
+        []
       ],
       [
-        [
-          "Behaviour disorder , emotional disturbance"
-        ],
-        [
-          null
-        ]
+        "Behaviour disorder , emotional disturbance",
+        []
       ]
     ],
     [
       [
-        [
-          "Caroline Chisholm School"
-        ],
-        [
-          null
-        ]
+        "Caroline Chisholm School",
+        []
       ],
       [
-        [
-          "Padstow"
-        ],
+        "Padstow",
         [
           "/wiki/Padstow,_New_South_Wales"
         ]
       ],
       [
-        [
-          "Bankstown"
-        ],
+        "Bankstown",
         [
           "/wiki/City_of_Bankstown"
         ]
       ],
       [
-        [
-          "1966"
-        ],
-        [
-          null
-        ]
+        "1966",
+        []
       ],
       [
-        [
-          "Website"
-        ],
-        [
-          null
-        ]
+        "Website",
+        []
       ],
       [
-        [
-          "Intellectual disability support . Formally Bankstown-East Hills until Jan 1975"
-        ],
-        [
-          null
-        ]
+        "Intellectual disability support . Formally Bankstown-East Hills until Jan 1975",
+        []
       ]
     ],
     [
       [
-        [
-          "Casuarina School"
-        ],
-        [
-          null
-        ]
+        "Casuarina School",
+        []
       ],
       [
-        [
-          "Riverstone"
-        ],
+        "Riverstone",
         [
           "/wiki/Riverstone,_New_South_Wales"
         ]
       ],
       [
-        [
-          "Blacktown"
-        ],
+        "Blacktown",
         [
           "/wiki/City_of_Blacktown"
         ]
       ],
       [
-        [
-          "2001"
-        ],
-        [
-          null
-        ]
+        "2001",
+        []
       ],
       [
-        [
-          "Website"
-        ],
-        [
-          null
-        ]
+        "Website",
+        []
       ],
       [
-        [
-          "Behaviour disorder , emotional disturbance"
-        ],
-        [
-          null
-        ]
+        "Behaviour disorder , emotional disturbance",
+        []
       ]
     ],
     [
       [
-        [
-          "The Children 's Hospital School"
-        ],
-        [
-          null
-        ]
+        "The Children 's Hospital School",
+        []
       ],
       [
-        [
-          "Westmead"
-        ],
+        "Westmead",
         [
           "/wiki/Westmead,_New_South_Wales"
         ]
       ],
       [
-        [
-          "Parramatta"
-        ],
+        "Parramatta",
         [
           "/wiki/City_of_Parramatta"
         ]
       ],
       [
-        [
-          "1996"
-        ],
-        [
-          null
-        ]
+        "1996",
+        []
       ],
       [
-        [
-          "Website"
-        ],
-        [
-          null
-        ]
+        "Website",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Coreen School"
-        ],
-        [
-          null
-        ]
+        "Coreen School",
+        []
       ],
       [
-        [
-          "Blacktown"
-        ],
+        "Blacktown",
         [
           "/wiki/Blacktown,_New_South_Wales"
         ]
       ],
       [
-        [
-          "Blacktown"
-        ],
+        "Blacktown",
         [
           "/wiki/City_of_Blacktown"
         ]
       ],
       [
-        [
-          "1970"
-        ],
-        [
-          null
-        ]
+        "1970",
+        []
       ],
       [
-        [
-          "Website"
-        ],
-        [
-          null
-        ]
+        "Website",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Dorchester School"
-        ],
-        [
-          null
-        ]
+        "Dorchester School",
+        []
       ],
       [
-        [
-          "Airds"
-        ],
+        "Airds",
         [
           "/wiki/Airds,_New_South_Wales"
         ]
       ],
       [
-        [
-          "Campbelltown"
-        ],
+        "Campbelltown",
         [
           "/wiki/City_of_Campbelltown_(New_South_Wales)"
         ]
       ],
       [
-        [
-          "1973"
-        ],
-        [
-          null
-        ]
+        "1973",
+        []
       ],
       [
-        [
-          "Website"
-        ],
-        [
-          null
-        ]
+        "Website",
+        []
       ],
       [
-        [
-          "Juvenile justice . Formerly Relby until Mar 1995"
-        ],
-        [
-          null
-        ]
+        "Juvenile justice . Formerly Relby until Mar 1995",
+        []
       ]
     ],
     [
       [
-        [
-          "Fowler Road School"
-        ],
-        [
-          null
-        ]
+        "Fowler Road School",
+        []
       ],
       [
-        [
-          "Merrylands"
-        ],
+        "Merrylands",
         [
           "/wiki/Merrylands,_New_South_Wales"
         ]
       ],
       [
-        [
-          "Holroyd"
-        ],
+        "Holroyd",
         [
           "/wiki/City_of_Holroyd"
         ]
       ],
       [
-        [
-          "1980"
-        ],
-        [
-          null
-        ]
+        "1980",
+        []
       ],
       [
-        [
-          "Website"
-        ],
-        [
-          null
-        ]
+        "Website",
+        []
       ],
       [
-        [
-          "Emotional disturbance"
-        ],
-        [
-          null
-        ]
+        "Emotional disturbance",
+        []
       ]
     ],
     [
       [
-        [
-          "Glenfield Park School"
-        ],
-        [
-          null
-        ]
+        "Glenfield Park School",
+        []
       ],
       [
-        [
-          "Glenfield"
-        ],
+        "Glenfield",
         [
           "/wiki/Glenfield,_New_South_Wales"
         ]
       ],
       [
-        [
-          "Campbelltown"
-        ],
+        "Campbelltown",
         [
           "/wiki/City_of_Campbelltown_(New_South_Wales)"
         ]
       ],
       [
-        [
-          "1927"
-        ],
-        [
-          null
-        ]
+        "1927",
+        []
       ],
       [
-        [
-          "Website"
-        ],
-        [
-          null
-        ]
+        "Website",
+        []
       ],
       [
-        [
-          "Emotional disturbance . Glenfield SS until Jun 1958"
-        ],
-        [
-          null
-        ]
+        "Emotional disturbance . Glenfield SS until Jun 1958",
+        []
       ]
     ],
     [
       [
-        [
-          "Halinda School"
-        ],
-        [
-          null
-        ]
+        "Halinda School",
+        []
       ],
       [
-        [
-          "Whalan"
-        ],
+        "Whalan",
         [
           "/wiki/Whalan,_New_South_Wales"
         ]
       ],
       [
-        [
-          "Blacktown"
-        ],
+        "Blacktown",
         [
           "/wiki/City_of_Blacktown"
         ]
       ],
       [
-        [
-          "1974"
-        ],
-        [
-          null
-        ]
+        "1974",
+        []
       ],
       [
-        [
-          "Website"
-        ],
-        [
-          null
-        ]
+        "Website",
+        []
       ],
       [
-        [
-          "Intellectual disability support"
-        ],
-        [
-          null
-        ]
+        "Intellectual disability support",
+        []
       ]
     ],
     [
       [
-        [
-          "The Hills School"
-        ],
-        [
-          null
-        ]
+        "The Hills School",
+        []
       ],
       [
-        [
-          "Northmead"
-        ],
+        "Northmead",
         [
           "/wiki/Northmead,_New_South_Wales"
         ]
       ],
       [
-        [
-          "The Hills"
-        ],
+        "The Hills",
         [
           "/wiki/The_Hills_Shire"
         ]
       ],
       [
-        [
-          "1978"
-        ],
-        [
-          null
-        ]
+        "1978",
+        []
       ],
       [
-        [
-          "Website"
-        ],
-        [
-          null
-        ]
+        "Website",
+        []
       ],
       [
-        [
-          "Intellectual disability support"
-        ],
-        [
-          null
-        ]
+        "Intellectual disability support",
+        []
       ]
     ],
     [
       [
-        [
-          "Holroyd School"
-        ],
-        [
-          null
-        ]
+        "Holroyd School",
+        []
       ],
       [
-        [
-          "Merrylands"
-        ],
+        "Merrylands",
         [
           "/wiki/Merrylands,_New_South_Wales"
         ]
       ],
       [
-        [
-          "Holroyd"
-        ],
+        "Holroyd",
         [
           "/wiki/City_of_Holroyd"
         ]
       ],
       [
-        [
-          "1964"
-        ],
-        [
-          null
-        ]
+        "1964",
+        []
       ],
       [
-        [
-          "Website"
-        ],
-        [
-          null
-        ]
+        "Website",
+        []
       ],
       [
-        [
-          "Intellectual disability support . Dunrossil until 1969"
-        ],
-        [
-          null
-        ]
+        "Intellectual disability support . Dunrossil until 1969",
+        []
       ]
     ],
     [
       [
-        [
-          "Karningul School"
-        ],
-        [
-          null
-        ]
+        "Karningul School",
+        []
       ],
       [
-        [
-          "Regents Park"
-        ],
-        [
-          null
-        ]
+        "Regents Park",
+        []
       ],
       [
-        [
-          "Auburn"
-        ],
+        "Auburn",
         [
           "/wiki/City_of_Auburn"
         ]
       ],
       [
-        [
-          "2001"
-        ],
-        [
-          null
-        ]
+        "2001",
+        []
       ],
       [
-        [
-          "Website"
-        ],
-        [
-          null
-        ]
+        "Website",
+        []
       ],
       [
-        [
-          "5-8 ; behaviour problems"
-        ],
-        [
-          null
-        ]
+        "5-8 ; behaviour problems",
+        []
       ]
     ],
     [
       [
-        [
-          "Kurrambee School"
-        ],
-        [
-          null
-        ]
+        "Kurrambee School",
+        []
       ],
       [
-        [
-          "Werrington"
-        ],
+        "Werrington",
         [
           "/wiki/Werrington,_New_South_Wales"
         ]
       ],
       [
-        [
-          "Penrith"
-        ],
+        "Penrith",
         [
           "/wiki/City_of_Penrith"
         ]
       ],
       [
-        [
-          "1965"
-        ],
-        [
-          null
-        ]
+        "1965",
+        []
       ],
       [
-        [
-          "Website"
-        ],
-        [
-          null
-        ]
+        "Website",
+        []
       ],
       [
-        [
-          "Formerly Thorndale until 1968"
-        ],
-        [
-          null
-        ]
+        "Formerly Thorndale until 1968",
+        []
       ]
     ],
     [
       [
-        [
-          "Lawrence Hargrave School"
-        ],
-        [
-          null
-        ]
+        "Lawrence Hargrave School",
+        []
       ],
       [
-        [
-          "Warwick Farm"
-        ],
+        "Warwick Farm",
         [
           "/wiki/Warwick_Farm,_New_South_Wales"
         ]
       ],
       [
-        [
-          "Liverpool"
-        ],
+        "Liverpool",
         [
           "/wiki/City_of_Liverpool_(New_South_Wales)"
         ]
       ],
       [
-        [
-          "1970"
-        ],
-        [
-          null
-        ]
+        "1970",
+        []
       ],
       [
-        [
-          "Website"
-        ],
-        [
-          null
-        ]
+        "Website",
+        []
       ],
       [
-        [
-          "Behavior Disorder , Emotional Disturbance"
-        ],
-        [
-          null
-        ]
+        "Behavior Disorder , Emotional Disturbance",
+        []
       ]
     ],
     [
       [
-        [
-          "Les Powell School"
-        ],
-        [
-          null
-        ]
+        "Les Powell School",
+        []
       ],
       [
-        [
-          "Mount Pritchard"
-        ],
+        "Mount Pritchard",
         [
           "/wiki/Mount_Pritchard,_New_South_Wales"
         ]
       ],
       [
-        [
-          "Fairfield"
-        ],
+        "Fairfield",
         [
           "/wiki/City_of_Fairfield"
         ]
       ],
       [
-        [
-          "1985"
-        ],
-        [
-          null
-        ]
+        "1985",
+        []
       ],
       [
-        [
-          "Website"
-        ],
-        [
-          null
-        ]
+        "Website",
+        []
       ],
       [
-        [
-          "Intellectual disabilities"
-        ],
-        [
-          null
-        ]
+        "Intellectual disabilities",
+        []
       ]
     ],
     [
       [
-        [
-          "Liverpool Hospital School"
-        ],
-        [
-          null
-        ]
+        "Liverpool Hospital School",
+        []
       ],
       [
-        [
-          "Liverpool"
-        ],
+        "Liverpool",
         [
           "/wiki/Liverpool,_New_South_Wales"
         ]
       ],
       [
-        [
-          "Liverpool"
-        ],
+        "Liverpool",
         [
           "/wiki/City_of_Liverpool_(New_South_Wales)"
         ]
       ],
       [
-        [
-          "1973"
-        ],
-        [
-          null
-        ]
+        "1973",
+        []
       ],
       [
-        [
-          "Website"
-        ],
-        [
-          null
-        ]
+        "Website",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ]
   ],

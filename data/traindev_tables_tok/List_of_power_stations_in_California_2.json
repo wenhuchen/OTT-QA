@@ -3,25 +3,15 @@
   "title": "List of power stations in California",
   "header": [
     [
-      [
-        "Name"
-      ],
-      [
-        null
-      ]
+      "Name",
+      []
     ],
     [
-      [
-        "Location"
-      ],
-      [
-        null
-      ]
+      "Location",
+      []
     ],
     [
-      [
-        "MW"
-      ],
+      "Capacity ( MW )",
       [
         "/wiki/Megawatt"
       ]
@@ -30,524 +20,346 @@
   "data": [
     [
       [
-        [
-          "Shasta Dam"
-        ],
+        "Shasta Dam",
         [
           "/wiki/Shasta_Dam"
         ]
       ],
       [
-        [
-          "Redding"
-        ],
+        "Redding",
         [
           "/wiki/Redding,_California"
         ]
       ],
       [
-        [
-          "676"
-        ],
-        [
-          null
-        ]
+        "676",
+        []
       ]
     ],
     [
       [
-        [
-          "Oroville Dam"
-        ],
+        "Oroville Dam",
         [
           "/wiki/Oroville_Dam"
         ]
       ],
       [
-        [
-          "Oroville"
-        ],
+        "Oroville",
         [
           "/wiki/Oroville,_California"
         ]
       ],
       [
-        [
-          "645"
-        ],
-        [
-          null
-        ]
+        "645",
+        []
       ]
     ],
     [
       [
-        [
-          "New Bullards Bar Dam"
-        ],
+        "New Bullards Bar Dam",
         [
           "/wiki/New_Bullards_Bar_Dam"
         ]
       ],
       [
-        [
-          "Dobbins"
-        ],
+        "Dobbins",
         [
           "/wiki/Dobbins,_California"
         ]
       ],
       [
-        [
-          "315"
-        ],
-        [
-          null
-        ]
+        "315",
+        []
       ]
     ],
     [
       [
-        [
-          "New Melones Dam"
-        ],
+        "New Melones Dam",
         [
           "/wiki/New_Melones_Dam"
         ]
       ],
       [
-        [
-          "Jamestown"
-        ],
+        "Jamestown",
         [
           "/wiki/Jamestown,_California"
         ]
       ],
       [
-        [
-          "300"
-        ],
-        [
-          null
-        ]
+        "300",
+        []
       ]
     ],
     [
       [
-        [
-          "White Rock Powerplant"
-        ],
-        [
-          null
-        ]
+        "White Rock Powerplant",
+        []
       ],
       [
-        [
-          "Sacramento"
-        ],
+        "East of Sacramento",
         [
           "/wiki/Sacramento,_California"
         ]
       ],
       [
-        [
-          "224"
-        ],
-        [
-          null
-        ]
+        "224",
+        []
       ]
     ],
     [
       [
-        [
-          "New Don Pedro Dam"
-        ],
+        "New Don Pedro Dam",
         [
           "/wiki/New_Don_Pedro_Dam"
         ]
       ],
       [
-        [
-          "La Grange"
-        ],
+        "La Grange",
         [
           "/wiki/La_Grange,_California"
         ]
       ],
       [
-        [
-          "203"
-        ],
-        [
-          null
-        ]
+        "203",
+        []
       ]
     ],
     [
       [
-        [
-          "Eastwood Powerhouse"
-        ],
-        [
-          null
-        ]
+        "Eastwood Powerhouse",
+        []
       ],
       [
-        [
-          "Fresno County"
-        ],
+        "Fresno County",
         [
           "/wiki/Fresno_County"
         ]
       ],
       [
-        [
-          "199.8"
-        ],
-        [
-          null
-        ]
+        "199.8",
+        []
       ]
     ],
     [
       [
-        [
-          "Folsom Dam"
-        ],
+        "Folsom Dam",
         [
           "/wiki/Folsom_Dam"
         ]
       ],
       [
-        [
-          "Folsom"
-        ],
+        "Folsom",
         [
           "/wiki/Folsom,_California"
         ]
       ],
       [
-        [
-          "199"
-        ],
-        [
-          null
-        ]
+        "199",
+        []
       ]
     ],
     [
       [
-        [
-          "Mammoth Pool Dam"
-        ],
+        "Mammoth Pool Dam",
         [
           "/wiki/Mammoth_Pool_Dam"
         ]
       ],
       [
-        [
-          "Sierra National Forest"
-        ],
+        "Sierra National Forest",
         [
           "/wiki/Sierra_National_Forest"
         ]
       ],
       [
-        [
-          "190"
-        ],
-        [
-          null
-        ]
+        "190",
+        []
       ]
     ],
     [
       [
-        [
-          "Spring Creek Powerplant"
-        ],
-        [
-          null
-        ]
+        "Spring Creek Powerplant *",
+        []
       ],
       [
-        [
-          "Keswick"
-        ],
+        "Keswick",
         [
           "/wiki/Keswick,_California"
         ]
       ],
       [
-        [
-          "180"
-        ],
-        [
-          null
-        ]
+        "180",
+        []
       ]
     ],
     [
       [
-        [
-          "Big Creek No . 3 Powerplant"
-        ],
-        [
-          null
-        ]
+        "Big Creek No . 3 Powerplant",
+        []
       ],
       [
-        [
-          "Fresno County"
-        ],
+        "Fresno County",
         [
           "/wiki/Fresno_County"
         ]
       ],
       [
-        [
-          "174.45"
-        ],
-        [
-          null
-        ]
+        "174.45",
+        []
       ]
     ],
     [
       [
-        [
-          "Holm Powerhouse"
-        ],
-        [
-          null
-        ]
+        "Holm Powerhouse",
+        []
       ],
       [
-        [
-          "Cherry Lake"
-        ],
+        "Near Cherry Lake",
         [
           "/wiki/Cherry_Lake"
         ]
       ],
       [
-        [
-          "169"
-        ],
-        [
-          null
-        ]
+        "169",
+        []
       ]
     ],
     [
       [
-        [
-          "Pine Flat Dam"
-        ],
+        "Pine Flat Dam",
         [
           "/wiki/Pine_Flat_Dam"
         ]
       ],
       [
-        [
-          "Piedra"
-        ],
+        "Piedra",
         [
           "/wiki/Piedra,_California"
         ]
       ],
       [
-        [
-          "165"
-        ],
-        [
-          null
-        ]
+        "165",
+        []
       ]
     ],
     [
       [
-        [
-          "Judge Francis Carr Powerhouse"
-        ],
-        [
-          null
-        ]
+        "Judge Francis Carr Powerhouse *",
+        []
       ],
       [
-        [
-          "Whiskeytown"
-        ],
+        "Whiskeytown",
         [
           "/wiki/Whiskeytown,_California"
         ]
       ],
       [
-        [
-          "154"
-        ],
-        [
-          null
-        ]
+        "154",
+        []
       ]
     ],
     [
       [
-        [
-          "Camino Powerplant"
-        ],
-        [
-          null
-        ]
+        "Camino Powerplant",
+        []
       ],
       [
-        [
-          "Sacramento"
-        ],
+        "East of Sacramento",
         [
           "/wiki/Sacramento,_California"
         ]
       ],
       [
-        [
-          "150"
-        ],
-        [
-          null
-        ]
+        "150",
+        []
       ]
     ],
     [
       [
-        [
-          "Jaybird Powerplant"
-        ],
-        [
-          null
-        ]
+        "Jaybird Powerplant",
+        []
       ],
       [
-        [
-          "Sacramento"
-        ],
+        "East of Sacramento",
         [
           "/wiki/Sacramento,_California"
         ]
       ],
       [
-        [
-          "144"
-        ],
-        [
-          null
-        ]
+        "144",
+        []
       ]
     ],
     [
       [
-        [
-          "Poe Dam"
-        ],
+        "Poe Dam ( Poe Powerhouse )",
         [
           "/wiki/Poe_Dam"
         ]
       ],
       [
-        [
-          "Plumas County"
-        ],
+        "Plumas County",
         [
           "/wiki/Plumas_County"
         ]
       ],
       [
-        [
-          "143"
-        ],
-        [
-          null
-        ]
+        "143",
+        []
       ]
     ],
     [
       [
-        [
-          "Trinity Dam"
-        ],
+        "Trinity Dam",
         [
           "/wiki/Trinity_Dam"
         ]
       ],
       [
-        [
-          "Weaverville"
-        ],
+        "Weaverville",
         [
           "/wiki/Weaverville,_California"
         ]
       ],
       [
-        [
-          "140"
-        ],
-        [
-          null
-        ]
+        "140",
+        []
       ]
     ],
     [
       [
-        [
-          "Belden Powerhouse"
-        ],
+        "Belden Powerhouse",
         [
           "/wiki/Upper_North_Fork_Feather_River_Project"
         ]
       ],
       [
-        [
-          "Plumas County"
-        ],
+        "Plumas County",
         [
           "/wiki/Plumas_County"
         ]
       ],
       [
-        [
-          "125"
-        ],
-        [
-          null
-        ]
+        "125",
+        []
       ]
     ],
     [
       [
+        "O'Shaughnessy Dam / Kirkwood Powerhouse",
         [
-          "O'Shaughnessy Dam",
-          "Kirkwood Powerhouse"
-        ],
-        [
-          "/wiki/O'Shaughnessy_Dam_(California)",
-          null
+          "/wiki/O'Shaughnessy_Dam_(California)"
         ]
       ],
       [
-        [
-          "Yosemite National Park"
-        ],
+        "Yosemite National Park",
         [
           "/wiki/Yosemite_National_Park"
         ]
       ],
       [
-        [
-          "124"
-        ],
-        [
-          null
-        ]
+        "124",
+        []
       ]
     ]
   ],

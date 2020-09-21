@@ -3,1053 +3,671 @@
   "title": "1790 United States Census",
   "header": [
     [
-      [
-        "Rank"
-      ],
-      [
-        null
-      ]
+      "Rank",
+      []
     ],
     [
-      [
-        "City"
-      ],
-      [
-        null
-      ]
+      "City",
+      []
     ],
     [
-      [
-        "State"
-      ],
-      [
-        null
-      ]
+      "State",
+      []
     ],
     [
-      [
-        "Population"
-      ],
-      [
-        null
-      ]
+      "Population",
+      []
     ],
     [
-      [
-        "Region ( 2016 )"
-      ],
+      "Region ( 2016 )",
       [
         "/wiki/List_of_regions_of_the_United_States"
       ]
     ],
     [
-      [
-        "Population ( 2010 )"
-      ],
-      [
-        null
-      ]
+      "Population ( 2010 )",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "01"
-        ],
-        [
-          null
-        ]
+        "01",
+        []
       ],
       [
-        [
-          "New York"
-        ],
+        "New York",
         [
           "/wiki/Manhattan"
         ]
       ],
       [
-        [
-          "New York"
-        ],
+        "New York",
         [
           "/wiki/New_York_(state)"
         ]
       ],
       [
-        [
-          "33,131"
-        ],
-        [
-          null
-        ]
+        "33,131",
+        []
       ],
       [
-        [
-          "Northeast"
-        ],
+        "Northeast",
         [
           "/wiki/Northeastern_United_States_(U.S._Census_Bureau)"
         ]
       ],
       [
-        [
-          "1,585,873 [ Manhattan only ]"
-        ],
-        [
-          null
-        ]
+        "1,585,873 [ Manhattan only ]",
+        []
       ]
     ],
     [
       [
-        [
-          "02"
-        ],
-        [
-          null
-        ]
+        "02",
+        []
       ],
       [
-        [
-          "Philadelphia"
-        ],
+        "Philadelphia",
         [
           "/wiki/Philadelphia"
         ]
       ],
       [
-        [
-          "Pennsylvania"
-        ],
+        "Pennsylvania",
         [
           "/wiki/Pennsylvania"
         ]
       ],
       [
-        [
-          "28,522"
-        ],
-        [
-          null
-        ]
+        "28,522",
+        []
       ],
       [
-        [
-          "Northeast"
-        ],
+        "Northeast",
         [
           "/wiki/Northeastern_United_States_(U.S._Census_Bureau)"
         ]
       ],
       [
-        [
-          "1,526,006"
-        ],
-        [
-          null
-        ]
+        "1,526,006",
+        []
       ]
     ],
     [
       [
-        [
-          "03"
-        ],
-        [
-          null
-        ]
+        "03",
+        []
       ],
       [
-        [
-          "Boston"
-        ],
+        "Boston",
         [
           "/wiki/Boston"
         ]
       ],
       [
-        [
-          "Massachusetts"
-        ],
+        "Massachusetts",
         [
           "/wiki/Massachusetts"
         ]
       ],
       [
-        [
-          "18,320"
-        ],
-        [
-          null
-        ]
+        "18,320",
+        []
       ],
       [
-        [
-          "Northeast"
-        ],
+        "Northeast",
         [
           "/wiki/Northeastern_United_States_(U.S._Census_Bureau)"
         ]
       ],
       [
-        [
-          "617,594"
-        ],
-        [
-          null
-        ]
+        "617,594",
+        []
       ]
     ],
     [
       [
-        [
-          "04"
-        ],
-        [
-          null
-        ]
+        "04",
+        []
       ],
       [
-        [
-          "Charleston"
-        ],
+        "Charleston",
         [
           "/wiki/Charleston,_South_Carolina"
         ]
       ],
       [
-        [
-          "South Carolina"
-        ],
+        "South Carolina",
         [
           "/wiki/South_Carolina"
         ]
       ],
       [
-        [
-          "16,359"
-        ],
-        [
-          null
-        ]
+        "16,359",
+        []
       ],
       [
-        [
-          "South"
-        ],
+        "South",
         [
           "/wiki/Southern_United_States"
         ]
       ],
       [
-        [
-          "120,083"
-        ],
-        [
-          null
-        ]
+        "120,083",
+        []
       ]
     ],
     [
       [
-        [
-          "05"
-        ],
-        [
-          null
-        ]
+        "05",
+        []
       ],
       [
-        [
-          "Baltimore"
-        ],
+        "Baltimore",
         [
           "/wiki/Baltimore"
         ]
       ],
       [
-        [
-          "Maryland"
-        ],
+        "Maryland",
         [
           "/wiki/Maryland"
         ]
       ],
       [
-        [
-          "13,503"
-        ],
-        [
-          null
-        ]
+        "13,503",
+        []
       ],
       [
-        [
-          "South"
-        ],
+        "South",
         [
           "/wiki/Southern_United_States"
         ]
       ],
       [
-        [
-          "620,961"
-        ],
-        [
-          null
-        ]
+        "620,961",
+        []
       ]
     ],
     [
       [
-        [
-          "06"
-        ],
-        [
-          null
-        ]
+        "06",
+        []
       ],
       [
-        [
-          "Northern Liberties"
-        ],
+        "Northern Liberties",
         [
           "/wiki/Northern_Liberties_Township,_Pennsylvania"
         ]
       ],
       [
-        [
-          "Pennsylvania"
-        ],
+        "Pennsylvania",
         [
           "/wiki/Pennsylvania"
         ]
       ],
       [
-        [
-          "9,913"
-        ],
-        [
-          null
-        ]
+        "9,913",
+        []
       ],
       [
-        [
-          "Northeast"
-        ],
+        "Northeast",
         [
           "/wiki/Northeastern_United_States_(U.S._Census_Bureau)"
         ]
       ],
       [
-        [
-          "N/A"
-        ],
-        [
-          null
-        ]
+        "N/A",
+        []
       ]
     ],
     [
       [
-        [
-          "07"
-        ],
-        [
-          null
-        ]
+        "07",
+        []
       ],
       [
-        [
-          "Salem"
-        ],
+        "Salem",
         [
           "/wiki/Salem,_Massachusetts"
         ]
       ],
       [
-        [
-          "Massachusetts"
-        ],
+        "Massachusetts",
         [
           "/wiki/Massachusetts"
         ]
       ],
       [
-        [
-          "7,921"
-        ],
-        [
-          null
-        ]
+        "7,921",
+        []
       ],
       [
-        [
-          "Northeast"
-        ],
+        "Northeast",
         [
           "/wiki/Northeastern_United_States_(U.S._Census_Bureau)"
         ]
       ],
       [
-        [
-          "41,340"
-        ],
-        [
-          null
-        ]
+        "41,340",
+        []
       ]
     ],
     [
       [
-        [
-          "08"
-        ],
-        [
-          null
-        ]
+        "08",
+        []
       ],
       [
-        [
-          "Newport"
-        ],
+        "Newport",
         [
           "/wiki/Newport,_Rhode_Island"
         ]
       ],
       [
-        [
-          "Rhode Island"
-        ],
+        "Rhode Island",
         [
           "/wiki/Rhode_Island"
         ]
       ],
       [
-        [
-          "6,716"
-        ],
-        [
-          null
-        ]
+        "6,716",
+        []
       ],
       [
-        [
-          "Northeast"
-        ],
+        "Northeast",
         [
           "/wiki/Northeastern_United_States_(U.S._Census_Bureau)"
         ]
       ],
       [
-        [
-          "24,672"
-        ],
-        [
-          null
-        ]
+        "24,672",
+        []
       ]
     ],
     [
       [
-        [
-          "09"
-        ],
-        [
-          null
-        ]
+        "09",
+        []
       ],
       [
-        [
-          "Providence"
-        ],
+        "Providence",
         [
           "/wiki/Providence,_Rhode_Island"
         ]
       ],
       [
-        [
-          "Rhode Island"
-        ],
+        "Rhode Island",
         [
           "/wiki/Rhode_Island"
         ]
       ],
       [
-        [
-          "6,380"
-        ],
-        [
-          null
-        ]
+        "6,380",
+        []
       ],
       [
-        [
-          "Northeast"
-        ],
+        "Northeast",
         [
           "/wiki/Northeastern_United_States_(U.S._Census_Bureau)"
         ]
       ],
       [
-        [
-          "178,042"
-        ],
-        [
-          null
-        ]
+        "178,042",
+        []
       ]
     ],
     [
       [
-        [
-          "10"
-        ],
-        [
-          null
-        ]
+        "10",
+        []
       ],
       [
-        [
-          "Marblehead"
-        ],
+        "Marblehead",
         [
           "/wiki/Marblehead,_Massachusetts"
         ]
       ],
       [
-        [
-          "Massachusetts"
-        ],
+        "Massachusetts",
         [
           "/wiki/Massachusetts"
         ]
       ],
       [
-        [
-          "5,661"
-        ],
-        [
-          null
-        ]
+        "5,661",
+        []
       ],
       [
-        [
-          "Northeast"
-        ],
+        "Northeast",
         [
           "/wiki/Northeastern_United_States_(U.S._Census_Bureau)"
         ]
       ],
       [
-        [
-          "19,808"
-        ],
-        [
-          null
-        ]
+        "19,808",
+        []
       ]
     ],
     [
       [
-        [
-          "11"
-        ],
-        [
-          null
-        ]
+        "11",
+        []
       ],
       [
-        [
-          "Southwark"
-        ],
+        "Southwark",
         [
           "/wiki/Southwark,_Philadelphia"
         ]
       ],
       [
-        [
-          "Pennsylvania"
-        ],
+        "Pennsylvania",
         [
           "/wiki/Pennsylvania"
         ]
       ],
       [
-        [
-          "5,661"
-        ],
-        [
-          null
-        ]
+        "5,661",
+        []
       ],
       [
-        [
-          "Northeast"
-        ],
+        "Northeast",
         [
           "/wiki/Northeastern_United_States_(U.S._Census_Bureau)"
         ]
       ],
       [
-        [
-          "N/A"
-        ],
-        [
-          null
-        ]
+        "N/A",
+        []
       ]
     ],
     [
       [
-        [
-          "12"
-        ],
-        [
-          null
-        ]
+        "12",
+        []
       ],
       [
-        [
-          "Gloucester"
-        ],
+        "Gloucester",
         [
           "/wiki/Gloucester,_Massachusetts"
         ]
       ],
       [
-        [
-          "Massachusetts"
-        ],
+        "Massachusetts",
         [
           "/wiki/Massachusetts"
         ]
       ],
       [
-        [
-          "5,317"
-        ],
-        [
-          null
-        ]
+        "5,317",
+        []
       ],
       [
-        [
-          "Northeast"
-        ],
+        "Northeast",
         [
           "/wiki/Northeastern_United_States_(U.S._Census_Bureau)"
         ]
       ],
       [
-        [
-          "28,789"
-        ],
-        [
-          null
-        ]
+        "28,789",
+        []
       ]
     ],
     [
       [
-        [
-          "13"
-        ],
-        [
-          null
-        ]
+        "13",
+        []
       ],
       [
-        [
-          "Newburyport"
-        ],
+        "Newburyport",
         [
           "/wiki/Newburyport,_Massachusetts"
         ]
       ],
       [
-        [
-          "Massachusetts"
-        ],
+        "Massachusetts",
         [
           "/wiki/Massachusetts"
         ]
       ],
       [
-        [
-          "4,837"
-        ],
-        [
-          null
-        ]
+        "4,837",
+        []
       ],
       [
-        [
-          "Northeast"
-        ],
+        "Northeast",
         [
           "/wiki/Northeastern_United_States_(U.S._Census_Bureau)"
         ]
       ],
       [
-        [
-          "17,416"
-        ],
-        [
-          null
-        ]
+        "17,416",
+        []
       ]
     ],
     [
       [
-        [
-          "14"
-        ],
-        [
-          null
-        ]
+        "14",
+        []
       ],
       [
-        [
-          "Portsmouth"
-        ],
+        "Portsmouth",
         [
           "/wiki/Portsmouth,_New_Hampshire"
         ]
       ],
       [
-        [
-          "New Hampshire"
-        ],
+        "New Hampshire",
         [
           "/wiki/New_Hampshire"
         ]
       ],
       [
-        [
-          "4,720"
-        ],
-        [
-          null
-        ]
+        "4,720",
+        []
       ],
       [
-        [
-          "Northeast"
-        ],
+        "Northeast",
         [
           "/wiki/Northeastern_United_States_(U.S._Census_Bureau)"
         ]
       ],
       [
-        [
-          "21,233"
-        ],
-        [
-          null
-        ]
+        "21,233",
+        []
       ]
     ],
     [
       [
-        [
-          "15"
-        ],
-        [
-          null
-        ]
+        "15",
+        []
       ],
       [
-        [
-          "Sherburne"
-        ],
+        "Sherburne",
         [
           "/wiki/Nantucket"
         ]
       ],
       [
-        [
-          "Massachusetts"
-        ],
+        "Massachusetts",
         [
           "/wiki/Massachusetts"
         ]
       ],
       [
-        [
-          "4,555"
-        ],
-        [
-          null
-        ]
+        "4,555",
+        []
       ],
       [
-        [
-          "Northeast"
-        ],
+        "Northeast",
         [
           "/wiki/Northeastern_United_States_(U.S._Census_Bureau)"
         ]
       ],
       [
-        [
-          "10,172"
-        ],
-        [
-          null
-        ]
+        "10,172",
+        []
       ]
     ],
     [
       [
-        [
-          "16"
-        ],
-        [
-          null
-        ]
+        "16",
+        []
       ],
       [
-        [
-          "Middleborough"
-        ],
+        "Middleborough",
         [
           "/wiki/Middleborough,_Massachusetts"
         ]
       ],
       [
-        [
-          "Massachusetts"
-        ],
+        "Massachusetts",
         [
           "/wiki/Massachusetts"
         ]
       ],
       [
-        [
-          "4,526"
-        ],
-        [
-          null
-        ]
+        "4,526",
+        []
       ],
       [
-        [
-          "Northeast"
-        ],
+        "Northeast",
         [
           "/wiki/Northeastern_United_States_(U.S._Census_Bureau)"
         ]
       ],
       [
-        [
-          "23,116"
-        ],
-        [
-          null
-        ]
+        "23,116",
+        []
       ]
     ],
     [
       [
-        [
-          "17"
-        ],
-        [
-          null
-        ]
+        "17",
+        []
       ],
       [
-        [
-          "New Haven"
-        ],
+        "New Haven",
         [
           "/wiki/New_Haven,_Connecticut"
         ]
       ],
       [
-        [
-          "Connecticut"
-        ],
+        "Connecticut",
         [
           "/wiki/Connecticut"
         ]
       ],
       [
-        [
-          "4,487"
-        ],
-        [
-          null
-        ]
+        "4,487",
+        []
       ],
       [
-        [
-          "Northeast"
-        ],
+        "Northeast",
         [
           "/wiki/Northeastern_United_States_(U.S._Census_Bureau)"
         ]
       ],
       [
-        [
-          "129,779"
-        ],
-        [
-          null
-        ]
+        "129,779",
+        []
       ]
     ],
     [
       [
-        [
-          "18"
-        ],
-        [
-          null
-        ]
+        "18",
+        []
       ],
       [
-        [
-          "Taunton"
-        ],
+        "Taunton",
         [
           "/wiki/Taunton,_Massachusetts"
         ]
       ],
       [
-        [
-          "Massachusetts"
-        ],
+        "Massachusetts",
         [
           "/wiki/Massachusetts"
         ]
       ],
       [
-        [
-          "3,804"
-        ],
-        [
-          null
-        ]
+        "3,804",
+        []
       ],
       [
-        [
-          "Northeast"
-        ],
+        "Northeast",
         [
           "/wiki/Northeastern_United_States_(U.S._Census_Bureau)"
         ]
       ],
       [
-        [
-          "55,874"
-        ],
-        [
-          null
-        ]
+        "55,874",
+        []
       ]
     ],
     [
       [
-        [
-          "19"
-        ],
-        [
-          null
-        ]
+        "19",
+        []
       ],
       [
-        [
-          "Richmond"
-        ],
+        "Richmond",
         [
           "/wiki/Richmond,_Virginia"
         ]
       ],
       [
-        [
-          "Virginia"
-        ],
+        "Virginia",
         [
           "/wiki/Virginia"
         ]
       ],
       [
-        [
-          "3,761"
-        ],
-        [
-          null
-        ]
+        "3,761",
+        []
       ],
       [
-        [
-          "South"
-        ],
+        "South",
         [
           "/wiki/Southern_United_States"
         ]
       ],
       [
-        [
-          "204,214"
-        ],
-        [
-          null
-        ]
+        "204,214",
+        []
       ]
     ],
     [
       [
-        [
-          "20"
-        ],
-        [
-          null
-        ]
+        "20",
+        []
       ],
       [
-        [
-          "Albany"
-        ],
+        "Albany",
         [
           "/wiki/Albany,_New_York"
         ]
       ],
       [
-        [
-          "New York"
-        ],
+        "New York",
         [
           "/wiki/New_York_(state)"
         ]
       ],
       [
-        [
-          "3,498"
-        ],
-        [
-          null
-        ]
+        "3,498",
+        []
       ],
       [
-        [
-          "Northeast"
-        ],
+        "Northeast",
         [
           "/wiki/Northeastern_United_States_(U.S._Census_Bureau)"
         ]
       ],
       [
-        [
-          "97,856"
-        ],
-        [
-          null
-        ]
+        "97,856",
+        []
       ]
     ]
   ],

@@ -3,98 +3,52 @@
   "title": "Spaceport",
   "header": [
     [
-      [
-        "Spaceport"
-      ],
-      [
-        null
-      ]
+      "Spaceport",
+      []
     ],
     [
-      [
-        "Location"
-      ],
-      [
-        null
-      ]
+      "Location",
+      []
     ],
     [
-      [
-        "Years ( orbital )"
-      ],
-      [
-        null
-      ]
+      "Years ( orbital )",
+      []
     ],
     [
-      [
-        "Launches to orbit or inter- planetary"
-      ],
-      [
-        null
-      ]
+      "Launches to orbit or inter- planetary",
+      []
     ],
     [
-      [
-        "Launch vehicles ( operators )"
-      ],
-      [
-        null
-      ]
+      "Launch vehicles ( operators )",
+      []
     ],
     [
-      [
-        "Sources"
-      ],
-      [
-        null
-      ]
+      "Sources",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Baikonur Cosmodrome"
-        ],
+        "Baikonur Cosmodrome , Baikonur/Tyuratam , Kazakhstan",
         [
           "/wiki/Baikonur_Cosmodrome"
         ]
       ],
       [
-        [
-          "Kazakhstan"
-        ],
-        [
-          null
-        ]
+        "Kazakhstan",
+        []
       ],
       [
-        [
-          "1957-"
-        ],
-        [
-          null
-        ]
+        "1957-",
+        []
       ],
       [
-        [
-          "> 1,000"
-        ],
-        [
-          null
-        ]
+        "> 1,000",
+        []
       ],
       [
-        [
-          "R-7",
-          "Soyuz",
-          "Kosmos",
-          "Proton",
-          "Tsyklon",
-          "Zenit",
-          "Energia"
-        ],
+        "R-7 / Soyuz , Kosmos , Proton , Tsyklon , Zenit , Energia",
         [
           "/wiki/R-7_(rocket_family)",
           "/wiki/Soyuz_(rocket)",
@@ -106,57 +60,31 @@
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Cape Canaveral Air Force Station"
-        ],
+        "Cape Canaveral Air Force Station , Florida , USA",
         [
           "/wiki/Cape_Canaveral_Air_Force_Station"
         ]
       ],
       [
-        [
-          "USA"
-        ],
-        [
-          null
-        ]
+        "USA",
+        []
       ],
       [
-        [
-          "1958-"
-        ],
-        [
-          null
-        ]
+        "1958-",
+        []
       ],
       [
-        [
-          "> 400"
-        ],
-        [
-          null
-        ]
+        "> 400",
+        []
       ],
       [
-        [
-          "Delta",
-          "Scout",
-          "Atlas",
-          "Titan",
-          "Saturn",
-          "Athena",
-          "Falcon 9"
-        ],
+        "Delta , Scout , Atlas , Titan , Saturn , Athena , Falcon 9",
         [
           "/wiki/Delta_(rocket_family)",
           "/wiki/Scout_(rocket_family)",
@@ -168,58 +96,31 @@
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Vandenberg Air Force Base"
-        ],
+        "Vandenberg Air Force Base , California , USA",
         [
           "/wiki/Vandenberg_Air_Force_Base"
         ]
       ],
       [
-        [
-          "USA"
-        ],
-        [
-          null
-        ]
+        "USA",
+        []
       ],
       [
-        [
-          "1959-"
-        ],
-        [
-          null
-        ]
+        "1959-",
+        []
       ],
       [
-        [
-          "> 700"
-        ],
-        [
-          null
-        ]
+        "> 700",
+        []
       ],
       [
-        [
-          "Delta",
-          "Scout",
-          "Atlas",
-          "Titan",
-          "Taurus",
-          "Athena",
-          "Minotaur",
-          "Falcon 9"
-        ],
+        "Delta , Scout , Atlas , Titan , Taurus , Athena , Minotaur , Falcon 9",
         [
           "/wiki/Delta_(rocket_family)",
           "/wiki/Scout_(rocket_family)",
@@ -232,9 +133,7 @@
         ]
       ],
       [
-        [
-          "Vandenberg"
-        ],
+        "Vandenberg ,",
         [
           "/wiki/Vandenberg_Air_Force_Base"
         ]
@@ -242,153 +141,93 @@
     ],
     [
       [
-        [
-          "Wallops Flight Facility"
-        ],
+        "Wallops Flight Facility , Virginia , USA ( see also MARS below )",
         [
           "/wiki/Wallops_Flight_Facility"
         ]
       ],
       [
-        [
-          "USA"
-        ],
-        [
-          null
-        ]
+        "USA",
+        []
       ],
       [
-        [
-          "1961-1985"
-        ],
-        [
-          null
-        ]
+        "1961-1985",
+        []
       ],
       [
-        [
-          "19"
-        ],
-        [
-          null
-        ]
+        "19",
+        []
       ],
       [
-        [
-          "Scout"
-        ],
+        "Scout",
         [
           "/wiki/Scout_(rocket_family)"
         ]
       ],
       [
-        [
-          "6 +13"
-        ],
-        [
-          null
-        ]
+        "6 +13",
+        []
       ]
     ],
     [
       [
-        [
-          "Kapustin Yar",
-          "Astrakhan Oblast"
-        ],
+        "Kapustin Yar Cosmodrome , Astrakhan Oblast , Russia",
         [
           "/wiki/Kapustin_Yar",
           "/wiki/Astrakhan_Oblast"
         ]
       ],
       [
-        [
-          "Russia"
-        ],
-        [
-          null
-        ]
+        "Russia",
+        []
       ],
       [
-        [
-          "1962-2008"
-        ],
-        [
-          null
-        ]
+        "1962-2008",
+        []
       ],
       [
-        [
-          "85"
-        ],
-        [
-          null
-        ]
+        "85",
+        []
       ],
       [
-        [
-          "Kosmos"
-        ],
+        "Kosmos",
         [
           "/wiki/Kosmos_(rocket_family)"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Hammaguir",
-          "French Special Weapons Test Centre"
-        ],
+        "Hammaguir French Special Weapons Test Centre , Algeria",
         [
           "/wiki/Hammaguir",
           "/wiki/Centre_interarm\u00e9es_d'essais_d'engins_sp\u00e9ciaux"
         ]
       ],
       [
-        [
-          "Algeria"
-        ],
-        [
-          null
-        ]
+        "Algeria",
+        []
       ],
       [
-        [
-          "1965-1967"
-        ],
-        [
-          null
-        ]
+        "1965-1967",
+        []
       ],
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "Diamant"
-        ],
+        "Diamant A ( France )",
         [
           "/wiki/Diamant"
         ]
       ],
       [
-        [
-          "Diamant"
-        ],
+        "Diamant",
         [
           "/wiki/Diamant"
         ]
@@ -396,48 +235,26 @@
     ],
     [
       [
-        [
-          "Plesetsk Cosmodrome",
-          "Arkhangelsk Oblast"
-        ],
+        "Plesetsk Cosmodrome , Arkhangelsk Oblast , Russia",
         [
           "/wiki/Plesetsk_Cosmodrome",
           "/wiki/Arkhangelsk_Oblast"
         ]
       ],
       [
-        [
-          "Russia"
-        ],
-        [
-          null
-        ]
+        "Russia",
+        []
       ],
       [
-        [
-          "1966-"
-        ],
-        [
-          null
-        ]
+        "1966-",
+        []
       ],
       [
-        [
-          "> 1,500"
-        ],
-        [
-          null
-        ]
+        "> 1,500",
+        []
       ],
       [
-        [
-          "R-7",
-          "Soyuz",
-          "Kosmos",
-          "Tsyklon-3",
-          "Rokot",
-          "Angara"
-        ],
+        "R-7 / Soyuz , Kosmos , Tsyklon-3 , Rokot , Angara",
         [
           "/wiki/R-7_(rocket_family)",
           "/wiki/Soyuz_(rocket)",
@@ -448,53 +265,31 @@
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Broglio Space Centre"
-        ],
+        "San Marco platform , Broglio Space Centre , Malindi , Kenya",
         [
           "/wiki/Broglio_Space_Centre"
         ]
       ],
       [
-        [
-          "Kenya"
-        ],
-        [
-          null
-        ]
+        "Kenya",
+        []
       ],
       [
-        [
-          "1967-1988"
-        ],
-        [
-          null
-        ]
+        "1967-1988",
+        []
       ],
       [
-        [
-          "9"
-        ],
-        [
-          null
-        ]
+        "9",
+        []
       ],
       [
-        [
-          "Scout",
-          "ASI",
-          "Sapienza"
-        ],
+        "Scout ( ASI and Sapienza , Italy )",
         [
           "/wiki/Scout_(rocket_family)",
           "/wiki/Italian_Space_Agency",
@@ -502,9 +297,7 @@
         ]
       ],
       [
-        [
-          "Broglio"
-        ],
+        "Broglio",
         [
           "/wiki/Broglio_Space_Centre"
         ]
@@ -512,44 +305,25 @@
     ],
     [
       [
-        [
-          "Kennedy Space Center"
-        ],
+        "Kennedy Space Center , Florida , USA",
         [
           "/wiki/Kennedy_Space_Center"
         ]
       ],
       [
-        [
-          "USA"
-        ],
-        [
-          null
-        ]
+        "USA",
+        []
       ],
       [
-        [
-          "1967-"
-        ],
-        [
-          null
-        ]
+        "1967-",
+        []
       ],
       [
-        [
-          "> 170"
-        ],
-        [
-          null
-        ]
+        "> 170",
+        []
       ],
       [
-        [
-          "Saturn",
-          "Space Shuttle",
-          "Falcon 9",
-          "Falcon Heavy"
-        ],
+        "17 Saturn , 134 Space Shuttle , 32 Falcon 9 , 3 Falcon Heavy",
         [
           "/wiki/Saturn_(rocket_family)",
           "/wiki/Space_Shuttle",
@@ -558,11 +332,7 @@
         ]
       ],
       [
-        [
-          "Saturn",
-          "STS",
-          "F9"
-        ],
+        "Saturn , STS , F9",
         [
           "/wiki/Saturn_(rocket_family)",
           "/wiki/Space_Shuttle",
@@ -572,44 +342,25 @@
     ],
     [
       [
-        [
-          "Woomera Prohibited Area"
-        ],
+        "Woomera Prohibited Area , South Australia",
         [
           "/wiki/Woomera_Prohibited_Area"
         ]
       ],
       [
-        [
-          "Australia"
-        ],
-        [
-          null
-        ]
+        "Australia",
+        []
       ],
       [
-        [
-          "1967 , 1971"
-        ],
-        [
-          null
-        ]
+        "1967 , 1971",
+        []
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "Redstone",
-          "WRESAT",
-          "Black Arrow",
-          "Prospero X-3"
-        ],
+        "Redstone ( WRESAT ) , Black Arrow ( UK Prospero X-3 )",
         [
           "/wiki/Redstone_(rocket)",
           "/wiki/WRESAT",
@@ -618,10 +369,7 @@
         ]
       ],
       [
-        [
-          "WRESAT",
-          "X-3"
-        ],
+        "WRESAT , X-3",
         [
           "/wiki/WRESAT",
           "/wiki/Prospero_X-3"
@@ -630,43 +378,25 @@
     ],
     [
       [
-        [
-          "Uchinoura Space Center"
-        ],
+        "Uchinoura Space Center ( Kagoshima ) , Japan",
         [
           "/wiki/Uchinoura_Space_Center"
         ]
       ],
       [
-        [
-          "Japan"
-        ],
-        [
-          null
-        ]
+        "Japan",
+        []
       ],
       [
-        [
-          "1970-"
-        ],
-        [
-          null
-        ]
+        "1970-",
+        []
       ],
       [
-        [
-          "31"
-        ],
-        [
-          null
-        ]
+        "31",
+        []
       ],
       [
-        [
-          "Mu",
-          "Epsilon",
-          "SS-520-5"
-        ],
+        "27 Mu , 3 Epsilon , 1 SS-520-5",
         [
           "/wiki/Mu_(rocket_family)",
           "/wiki/Epsilon_(rocket)",
@@ -674,11 +404,7 @@
         ]
       ],
       [
-        [
-          "M",
-          "\u03b5",
-          "S"
-        ],
+        "M , \u03b5 , S",
         [
           "/wiki/Mu_(rocket_family)",
           "/wiki/Epsilon_(rocket)",
@@ -688,44 +414,25 @@
     ],
     [
       [
-        [
-          "Guiana Space Centre"
-        ],
+        "Guiana Space Centre , Kourou , French Guiana , France",
         [
           "/wiki/Guiana_Space_Centre"
         ]
       ],
       [
-        [
-          "French Guiana"
-        ],
-        [
-          null
-        ]
+        "French Guiana",
+        []
       ],
       [
-        [
-          "1970-"
-        ],
-        [
-          null
-        ]
+        "1970-",
+        []
       ],
       [
-        [
-          "261"
-        ],
-        [
-          null
-        ]
+        "261",
+        []
       ],
       [
-        [
-          "Diamant",
-          "Ariane",
-          "Soyuz-2",
-          "Vega"
-        ],
+        "7 Diamant , 227 Ariane , 16 Soyuz-2 , 11 Vega",
         [
           "/wiki/Diamant",
           "/wiki/Ariane_(rocket_family)",
@@ -734,58 +441,31 @@
         ]
       ],
       [
-        [
-          "see 4 rockets"
-        ],
-        [
-          null
-        ]
+        "see 4 rockets",
+        []
       ]
     ],
     [
       [
-        [
-          "Jiuquan Satellite Launch Center"
-        ],
+        "Jiuquan Satellite Launch Center , China",
         [
           "/wiki/Jiuquan_Satellite_Launch_Center"
         ]
       ],
       [
-        [
-          "China"
-        ],
-        [
-          null
-        ]
+        "China",
+        []
       ],
       [
-        [
-          "1970-"
-        ],
-        [
-          null
-        ]
+        "1970-",
+        []
       ],
       [
-        [
-          "85"
-        ],
-        [
-          null
-        ]
+        "85",
+        []
       ],
       [
-        [
-          "LM1",
-          "LM2A",
-          "LM2C",
-          "LM2D",
-          "LM2F",
-          "LM4B",
-          "LM4C",
-          "LM11"
-        ],
+        "2 LM1 , 3 LM2A , 20 LM2C , 36 LM2D , 13 LM2F , 3 LM4B , 5 LM4C , 3 LM11",
         [
           "/wiki/Long_March_1",
           "/wiki/Long_March_2A",
@@ -798,55 +478,31 @@
         ]
       ],
       [
-        [
-          "See 8 rockets"
-        ],
-        [
-          null
-        ]
+        "See 8 rockets",
+        []
       ]
     ],
     [
       [
-        [
-          "Tanegashima Space Center"
-        ],
+        "Tanegashima Space Center , Japan",
         [
           "/wiki/Tanegashima_Space_Center"
         ]
       ],
       [
-        [
-          "Japan"
-        ],
-        [
-          null
-        ]
+        "Japan",
+        []
       ],
       [
-        [
-          "1975-"
-        ],
-        [
-          null
-        ]
+        "1975-",
+        []
       ],
       [
-        [
-          "65"
-        ],
-        [
-          null
-        ]
+        "65",
+        []
       ],
       [
-        [
-          "N-I",
-          "N-II",
-          "H-I",
-          "H-II",
-          "H-IIA"
-        ],
+        "6 N-I , 8 N-II , 9 H-I , 6 H-II , 36 H-IIA",
         [
           "/wiki/N-I_(rocket)",
           "/wiki/N-II_(rocket)",
@@ -856,55 +512,31 @@
         ]
       ],
       [
-        [
-          "see 5 rockets"
-        ],
-        [
-          null
-        ]
+        "see 5 rockets",
+        []
       ]
     ],
     [
       [
-        [
-          "Satish Dhawan Space Centre"
-        ],
+        "Satish Dhawan Space Centre ( SHAR ) , Andhra Pradesh , India",
         [
           "/wiki/Satish_Dhawan_Space_Centre"
         ]
       ],
       [
-        [
-          "India"
-        ],
-        [
-          null
-        ]
+        "India",
+        []
       ],
       [
-        [
-          "1979-"
-        ],
-        [
-          null
-        ]
+        "1979-",
+        []
       ],
       [
-        [
-          "75"
-        ],
-        [
-          null
-        ]
+        "75",
+        []
       ],
       [
-        [
-          "SLV",
-          "ASLV",
-          "PSLV",
-          "GSLV",
-          "GSLV Mk III"
-        ],
+        "4 SLV , 4 ASLV , 50 PSLV , 13 GSLV , 4 GSLV Mk III",
         [
           "/wiki/Satellite_Launch_Vehicle",
           "/wiki/Augmented_Satellite_Launch_Vehicle",
@@ -914,9 +546,7 @@
         ]
       ],
       [
-        [
-          "List SDSC"
-        ],
+        "List SDSC",
         [
           "/wiki/List_of_Satish_Dhawan_Space_Centre_launches"
         ]
@@ -924,47 +554,25 @@
     ],
     [
       [
-        [
-          "Xichang Satellite Launch Center"
-        ],
+        "Xichang Satellite Launch Center , China",
         [
           "/wiki/Xichang_Satellite_Launch_Center"
         ]
       ],
       [
-        [
-          "China"
-        ],
-        [
-          null
-        ]
+        "China",
+        []
       ],
       [
-        [
-          "1984-"
-        ],
-        [
-          null
-        ]
+        "1984-",
+        []
       ],
       [
-        [
-          "104"
-        ],
-        [
-          null
-        ]
+        "104",
+        []
       ],
       [
-        [
-          "Long March",
-          "LM2C",
-          "LM2E",
-          "LM3",
-          "LM3A",
-          "LM3B",
-          "LM3C"
-        ],
+        "Long March : 6 LM2C , 5 LM2E , 11 LM3 , 25 LM3A , 42 LM3B , 15 LM3C",
         [
           "/wiki/Long_March_(rocket_family)",
           "/wiki/Long_March_2C",
@@ -976,57 +584,31 @@
         ]
       ],
       [
-        [
-          "See 6 rockets"
-        ],
-        [
-          null
-        ]
+        "See 6 rockets",
+        []
       ]
     ],
     [
       [
-        [
-          "Taiyuan Satellite Launch Center"
-        ],
+        "Taiyuan Satellite Launch Center , China",
         [
           "/wiki/Taiyuan_Satellite_Launch_Center"
         ]
       ],
       [
-        [
-          "China"
-        ],
-        [
-          null
-        ]
+        "China",
+        []
       ],
       [
-        [
-          "1988-"
-        ],
-        [
-          null
-        ]
+        "1988-",
+        []
       ],
       [
-        [
-          "62"
-        ],
-        [
-          null
-        ]
+        "62",
+        []
       ],
       [
-        [
-          "Long March",
-          "LM2C",
-          "LM2D",
-          "LM4A",
-          "LM4B",
-          "LM4C",
-          "LM6"
-        ],
+        "Long March : 16 LM2C , 2 LM2D , 2 LM4A , 25 LM4B , 15 LM4C , 2 LM6",
         [
           "/wiki/Long_March_(rocket_family)",
           "/wiki/Long_March_2C",
@@ -1038,59 +620,37 @@
         ]
       ],
       [
-        [
-          "See 6 rockets"
-        ],
-        [
-          null
-        ]
+        "See 6 rockets",
+        []
       ]
     ],
     [
       [
-        [
-          "Palmachim Air Force Base"
-        ],
+        "Palmachim Air Force Base , Israel",
         [
           "/wiki/Palmachim_Airbase"
         ]
       ],
       [
-        [
-          "Israel"
-        ],
-        [
-          null
-        ]
+        "Israel",
+        []
       ],
       [
-        [
-          "1988-"
-        ],
-        [
-          null
-        ]
+        "1988-",
+        []
       ],
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "Shavit"
-        ],
+        "Shavit",
         [
           "/wiki/Shavit"
         ]
       ],
       [
-        [
-          "Shavit"
-        ],
+        "Shavit",
         [
           "/wiki/Shavit"
         ]
@@ -1098,53 +658,33 @@
     ],
     [
       [
-        [
-          "B-52",
-          "Stargazer"
-        ],
+        "various airport runways ( B-52 , Stargazer )",
         [
           "/wiki/Boeing_B-52_Stratofortress",
           "/wiki/Stargazer_(aircraft)"
         ]
       ],
       [
-        [
-          "various"
-        ],
-        [
-          null
-        ]
+        "various",
+        []
       ],
       [
-        [
-          "1990-"
-        ],
-        [
-          null
-        ]
+        "1990-",
+        []
       ],
       [
-        [
-          "39"
-        ],
-        [
-          null
-        ]
+        "39",
+        []
       ],
       [
-        [
-          "Pegasus",
-          "Orbital Sciences Corporation"
-        ],
+        "Pegasus ( Orbital Sciences Corporation )",
         [
           "/wiki/Pegasus_(rocket)",
           "/wiki/Orbital_Sciences_Corporation"
         ]
       ],
       [
-        [
-          "Pegasus"
-        ],
+        "Pegasus",
         [
           "/wiki/Pegasus_(rocket)"
         ]
@@ -1152,52 +692,32 @@
     ],
     [
       [
-        [
-          "Svobodny Cosmodrome"
-        ],
+        "Svobodny Cosmodrome , Amur Oblast , Russia",
         [
           "/wiki/Svobodny_Cosmodrome"
         ]
       ],
       [
-        [
-          "Russia"
-        ],
-        [
-          null
-        ]
+        "Russia",
+        []
       ],
       [
-        [
-          "1997-2006"
-        ],
-        [
-          null
-        ]
+        "1997-2006",
+        []
       ],
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "Start-1"
-        ],
+        "Start-1",
         [
           "/wiki/Start-1"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ]
   ],

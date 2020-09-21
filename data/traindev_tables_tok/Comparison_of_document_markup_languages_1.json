@@ -3,1061 +3,639 @@
   "title": "Comparison of document-markup languages",
   "header": [
     [
-      [
-        "Language"
-      ],
-      [
-        null
-      ]
+      "Language",
+      []
     ],
     [
-      [
-        "Major purpose"
-      ],
-      [
-        null
-      ]
+      "Major purpose",
+      []
     ],
     [
-      [
-        "Based on"
-      ],
-      [
-        null
-      ]
+      "Based on",
+      []
     ],
     [
-      [
-        "Markup type"
-      ],
-      [
-        null
-      ]
+      "Markup type",
+      []
     ],
     [
-      [
-        "Structural markup"
-      ],
-      [
-        null
-      ]
+      "Structural markup",
+      []
     ],
     [
-      [
-        "Presentational markup"
-      ],
-      [
-        null
-      ]
+      "Presentational markup",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "AsciiDoc"
-        ],
+        "AsciiDoc",
         [
           "/wiki/AsciiDoc"
         ]
       ],
       [
-        [
-          "Multi-purpose"
-        ],
-        [
-          null
-        ]
+        "Multi-purpose",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Tag"
-        ],
-        [
-          null
-        ]
+        "Tag",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ]
     ],
     [
       [
-        [
-          "Computable Document Format"
-        ],
+        "Computable Document Format",
         [
           "/wiki/Computable_Document_Format"
         ]
       ],
       [
-        [
-          "Interactive technical documents , infographics , blogs"
-        ],
-        [
-          null
-        ]
+        "Interactive technical documents , infographics , blogs",
+        []
       ],
       [
-        [
-          "Wolfram Language"
-        ],
+        "Wolfram Language",
         [
           "/wiki/Wolfram_Language"
         ]
       ],
       [
-        [
-          "Tag"
-        ],
-        [
-          null
-        ]
+        "Tag",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ]
     ],
     [
       [
-        [
-          "Darwin Information Typing Architecture ( DITA )"
-        ],
+        "Darwin Information Typing Architecture ( DITA )",
         [
           "/wiki/Darwin_Information_Typing_Architecture"
         ]
       ],
       [
-        [
-          "Technical documents"
-        ],
-        [
-          null
-        ]
+        "Technical documents",
+        []
       ],
       [
-        [
-          "XML"
-        ],
+        "XML",
         [
           "/wiki/XML"
         ]
       ],
       [
-        [
-          "Tag"
-        ],
-        [
-          null
-        ]
+        "Tag",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ]
     ],
     [
       [
-        [
-          "DocBook"
-        ],
+        "DocBook",
         [
           "/wiki/DocBook"
         ]
       ],
       [
-        [
-          "Technical documents"
-        ],
-        [
-          null
-        ]
+        "Technical documents",
+        []
       ],
       [
-        [
-          "SGML",
-          "XML"
-        ],
+        "SGML / XML",
         [
           "/wiki/Standard_Generalized_Markup_Language",
           "/wiki/XML"
         ]
       ],
       [
-        [
-          "Tag"
-        ],
-        [
-          null
-        ]
+        "Tag",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ]
     ],
     [
       [
-        [
-          "Encoded Archival Description ( EAD )"
-        ],
+        "Encoded Archival Description ( EAD )",
         [
           "/wiki/Encoded_Archival_Description"
         ]
       ],
       [
-        [
-          "Finding aids"
-        ],
+        "Finding aids",
         [
           "/wiki/Finding_aid"
         ]
       ],
       [
-        [
-          "XML"
-        ],
+        "XML",
         [
           "/wiki/XML"
         ]
       ],
       [
-        [
-          "Tag"
-        ],
-        [
-          null
-        ]
+        "Tag",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "No"
-        ],
-        [
-          null
-        ]
+        "No",
+        []
       ]
     ],
     [
       [
-        [
-          "Extensible HyperText Markup Language ( XHTML )"
-        ],
+        "Extensible HyperText Markup Language ( XHTML )",
         [
           "/wiki/XHTML"
         ]
       ],
       [
-        [
-          "Hypertext"
-        ],
+        "Hypertext documents",
         [
           "/wiki/Hypertext"
         ]
       ],
       [
-        [
-          "XML"
-        ],
+        "XML",
         [
           "/wiki/XML"
         ]
       ],
       [
-        [
-          "Tag"
-        ],
-        [
-          null
-        ]
+        "Tag",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ]
     ],
     [
       [
-        [
-          "FictionBook"
-        ],
+        "FictionBook",
         [
           "/wiki/FB2"
         ]
       ],
       [
-        [
-          "Multi-purpose"
-        ],
-        [
-          null
-        ]
+        "Multi-purpose",
+        []
       ],
       [
-        [
-          "XML"
-        ],
+        "XML",
         [
           "/wiki/XML"
         ]
       ],
       [
-        [
-          "Tag"
-        ],
-        [
-          null
-        ]
+        "Tag",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ]
     ],
     [
       [
-        [
-          "HyperText Markup Language ( HTML )"
-        ],
+        "HyperText Markup Language ( HTML )",
         [
           "/wiki/HTML"
         ]
       ],
       [
-        [
-          "Hypertext"
-        ],
+        "Hypertext documents",
         [
           "/wiki/Hypertext"
         ]
       ],
       [
-        [
-          "SGML"
-        ],
+        "SGML",
         [
           "/wiki/Standard_Generalized_Markup_Language"
         ]
       ],
       [
-        [
-          "Tag"
-        ],
-        [
-          null
-        ]
+        "Tag",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ]
     ],
     [
       [
-        [
-          "Lilypond"
-        ],
+        "Lilypond",
         [
           "/wiki/Lilypond"
         ]
       ],
       [
-        [
-          "Music notation"
-        ],
+        "Music notation",
         [
           "/wiki/Music_notation"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Control code"
-        ],
-        [
-          null
-        ]
+        "Control code",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ]
     ],
     [
       [
-        [
-          "Maker Interchange Format ( MIF )"
-        ],
+        "Maker Interchange Format ( MIF )",
         [
           "/wiki/Maker_Interchange_Format"
         ]
       ],
       [
-        [
-          "Technical documents"
-        ],
-        [
-          null
-        ]
+        "Technical documents",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Tag"
-        ],
-        [
-          null
-        ]
+        "Tag",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ]
     ],
     [
       [
-        [
-          "Markdown"
-        ],
+        "Markdown",
         [
           "/wiki/Markdown"
         ]
       ],
       [
-        [
-          "Hypertext",
-          "E-mail"
-        ],
+        "Formatted Technical documents , Hypertext documents , E-mail",
         [
           "/wiki/Hypertext",
           "/wiki/E-mail"
         ]
       ],
       [
-        [
-          "Text E-mail conventions"
-        ],
-        [
-          null
-        ]
+        "Text E-mail conventions",
+        []
       ],
       [
-        [
-          "Tag"
-        ],
-        [
-          null
-        ]
+        "Tag",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ]
     ],
     [
       [
-        [
-          "Math Markup Language ( MathML )"
-        ],
+        "Math Markup Language ( MathML )",
         [
           "/wiki/MathML"
         ]
       ],
       [
-        [
-          "Mathematical"
-        ],
+        "Mathematical documents",
         [
           "/wiki/Mathematics"
         ]
       ],
       [
-        [
-          "XML"
-        ],
+        "XML",
         [
           "/wiki/XML"
         ]
       ],
       [
-        [
-          "Tag"
-        ],
-        [
-          null
-        ]
+        "Tag",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ]
     ],
     [
       [
-        [
-          "The Music Encoding Initiative ( MEI )"
-        ],
+        "The Music Encoding Initiative ( MEI )",
         [
           "/wiki/Music_Encoding_Initiative"
         ]
       ],
       [
-        [
-          "Music notation"
-        ],
+        "Music notation",
         [
           "/wiki/Music_notation"
         ]
       ],
       [
-        [
-          "XML"
-        ],
+        "XML",
         [
           "/wiki/XML"
         ]
       ],
       [
-        [
-          "Tag"
-        ],
-        [
-          null
-        ]
+        "Tag",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ]
     ],
     [
       [
-        [
-          "Music Extensible Markup Language ( MusicXML )"
-        ],
+        "Music Extensible Markup Language ( MusicXML )",
         [
           "/wiki/MusicXML"
         ]
       ],
       [
-        [
-          "Music notation"
-        ],
+        "Music notation",
         [
           "/wiki/Music_notation"
         ]
       ],
       [
-        [
-          "XML"
-        ],
+        "XML",
         [
           "/wiki/XML"
         ]
       ],
       [
-        [
-          "Tag"
-        ],
-        [
-          null
-        ]
+        "Tag",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ]
     ],
     [
       [
-        [
-          "Office Open XML ( OOXML )"
-        ],
+        "Office Open XML ( OOXML )",
         [
           "/wiki/Office_Open_XML"
         ]
       ],
       [
-        [
-          "Multi-purpose"
-        ],
-        [
-          null
-        ]
+        "Multi-purpose",
+        []
       ],
       [
-        [
-          "XML",
-          "ZIP"
-        ],
+        "XML / ZIP",
         [
           "/wiki/XML",
           "/wiki/ZIP_(file_format)"
         ]
       ],
       [
-        [
-          "Tag"
-        ],
-        [
-          null
-        ]
+        "Tag",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ]
     ],
     [
       [
-        [
-          "OpenDocument Format ( ODF )"
-        ],
+        "OpenDocument Format ( ODF )",
         [
           "/wiki/OpenDocument"
         ]
       ],
       [
-        [
-          "Multi-purpose"
-        ],
-        [
-          null
-        ]
+        "Multi-purpose",
+        []
       ],
       [
-        [
-          "XML",
-          "ZIP"
-        ],
+        "XML / ZIP",
         [
           "/wiki/XML",
           "/wiki/ZIP_(file_format)"
         ]
       ],
       [
-        [
-          "Tag"
-        ],
-        [
-          null
-        ]
+        "Tag",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ]
     ],
     [
       [
-        [
-          "Open Mathematical Document ( OMDoc )"
-        ],
+        "Open Mathematical Document ( OMDoc )",
         [
           "/wiki/OMDoc"
         ]
       ],
       [
-        [
-          "Mathematical"
-        ],
+        "Mathematical documents",
         [
           "/wiki/Mathematics"
         ]
       ],
       [
-        [
-          "XML"
-        ],
+        "XML",
         [
           "/wiki/XML"
         ]
       ],
       [
-        [
-          "Tag"
-        ],
-        [
-          null
-        ]
+        "Tag",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ]
     ],
     [
       [
-        [
-          "Org-mode"
-        ],
+        "Org-mode",
         [
           "/wiki/Org-mode"
         ]
       ],
       [
-        [
-          "Multi-purpose ( notes , project management , publishing , literate programming )"
-        ],
-        [
-          null
-        ]
+        "Multi-purpose ( notes , project management , publishing , literate programming )",
+        []
       ],
       [
-        [
-          "Text outliner"
-        ],
-        [
-          null
-        ]
+        "Text outliner",
+        []
       ],
       [
-        [
-          "Tag"
-        ],
-        [
-          null
-        ]
+        "Tag",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ]
     ],
     [
       [
-        [
-          "reStructuredText"
-        ],
+        "reStructuredText",
         [
           "/wiki/ReStructuredText"
         ]
       ],
       [
-        [
-          "Technical and Multi-purpose documents"
-        ],
-        [
-          null
-        ]
+        "Technical and Multi-purpose documents",
+        []
       ],
       [
-        [
-          "Structured Text and Setext"
-        ],
-        [
-          null
-        ]
+        "Structured Text and Setext",
+        []
       ],
       [
-        [
-          "Tag"
-        ],
-        [
-          null
-        ]
+        "Tag",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ]
     ],
     [
       [
-        [
-          "Rich Text Format ( RTF )"
-        ],
+        "Rich Text Format ( RTF )",
         [
           "/wiki/Rich_Text_Format"
         ]
       ],
       [
-        [
-          "Formatted documents"
-        ],
-        [
-          null
-        ]
+        "Formatted documents",
+        []
       ],
       [
-        [
-          "TeX"
-        ],
+        "TeX",
         [
           "/wiki/TeX"
         ]
       ],
       [
-        [
-          "Pattern parsing"
-        ],
-        [
-          null
-        ]
+        "Pattern parsing",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ],
       [
-        [
-          "Yes"
-        ],
-        [
-          null
-        ]
+        "Yes",
+        []
       ]
     ]
   ],

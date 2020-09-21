@@ -3,699 +3,445 @@
   "title": "List of MTR stations",
   "header": [
     [
-      [
-        "Name"
-      ],
-      [
-        null
-      ]
+      "Name",
+      []
     ],
     [
-      [
-        "Connections"
-      ],
-      [
-        null
-      ]
+      "Connections",
+      []
     ],
     [
-      [
-        "District"
-      ],
+      "District",
       [
         "/wiki/Districts_of_Hong_Kong"
       ]
     ],
     [
-      [
-        "Opened"
-      ],
-      [
-        null
-      ]
+      "Opened",
+      []
     ],
     [
-      [
-        "Code"
-      ],
-      [
-        null
-      ]
+      "Code",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Tsuen Wan"
-        ],
+        "Tsuen Wan",
         [
           "/wiki/Tsuen_Wan_station"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Tsuen Wan"
-        ],
+        "Tsuen Wan",
         [
           "/wiki/Tsuen_Wan_District"
         ]
       ],
       [
-        [
-          "10 May 1982"
-        ],
-        [
-          null
-        ]
+        "10 May 1982",
+        []
       ],
       [
-        [
-          "TSW"
-        ],
-        [
-          null
-        ]
+        "TSW",
+        []
       ]
     ],
     [
       [
-        [
-          "Tai Wo Hau"
-        ],
+        "Tai Wo Hau",
         [
           "/wiki/Tai_Wo_Hau_station"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Kwai Tsing",
-          "Tsuen Wan"
-        ],
+        "Kwai Tsing / Tsuen Wan",
         [
           "/wiki/Kwai_Tsing_District",
           "/wiki/Tsuen_Wan_District"
         ]
       ],
       [
-        [
-          "10 May 1982"
-        ],
-        [
-          null
-        ]
+        "10 May 1982",
+        []
       ],
       [
-        [
-          "TWH"
-        ],
-        [
-          null
-        ]
+        "TWH",
+        []
       ]
     ],
     [
       [
-        [
-          "Kwai Hing"
-        ],
+        "Kwai Hing",
         [
           "/wiki/Kwai_Hing_station"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Kwai Tsing"
-        ],
+        "Kwai Tsing",
         [
           "/wiki/Kwai_Tsing_District"
         ]
       ],
       [
-        [
-          "10 May 1982"
-        ],
-        [
-          null
-        ]
+        "10 May 1982",
+        []
       ],
       [
-        [
-          "KWH"
-        ],
-        [
-          null
-        ]
+        "KWH",
+        []
       ]
     ],
     [
       [
-        [
-          "Kwai Fong"
-        ],
+        "Kwai Fong",
         [
           "/wiki/Kwai_Fong_station"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Kwai Tsing"
-        ],
+        "Kwai Tsing",
         [
           "/wiki/Kwai_Tsing_District"
         ]
       ],
       [
-        [
-          "10 May 1982"
-        ],
-        [
-          null
-        ]
+        "10 May 1982",
+        []
       ],
       [
-        [
-          "KWF"
-        ],
-        [
-          null
-        ]
+        "KWF",
+        []
       ]
     ],
     [
       [
-        [
-          "Lai King"
-        ],
+        "Lai King",
         [
           "/wiki/Lai_King_station"
         ]
       ],
       [
-        [
-          "Tung Chung line"
-        ],
+        "Tung Chung line",
         [
           "/wiki/Tung_Chung_line"
         ]
       ],
       [
-        [
-          "Kwai Tsing"
-        ],
+        "Kwai Tsing",
         [
           "/wiki/Kwai_Tsing_District"
         ]
       ],
       [
-        [
-          "10 May 1982"
-        ],
-        [
-          null
-        ]
+        "10 May 1982",
+        []
       ],
       [
-        [
-          "LAK"
-        ],
-        [
-          null
-        ]
+        "LAK",
+        []
       ]
     ],
     [
       [
-        [
-          "Mei Foo"
-        ],
+        "Mei Foo formerly Lai Wan",
         [
           "/wiki/Mei_Foo_station"
         ]
       ],
       [
-        [
-          "West Rail line"
-        ],
+        "West Rail line",
         [
           "/wiki/West_Rail_line"
         ]
       ],
       [
-        [
-          "Sham Shui Po"
-        ],
+        "Sham Shui Po",
         [
           "/wiki/Sham_Shui_Po_District"
         ]
       ],
       [
-        [
-          "17 May 1982"
-        ],
-        [
-          null
-        ]
+        "17 May 1982",
+        []
       ],
       [
-        [
-          "MEF"
-        ],
-        [
-          null
-        ]
+        "MEF",
+        []
       ]
     ],
     [
       [
-        [
-          "Lai Chi Kok"
-        ],
+        "Lai Chi Kok",
         [
           "/wiki/Lai_Chi_Kok_station"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Sham Shui Po"
-        ],
+        "Sham Shui Po",
         [
           "/wiki/Sham_Shui_Po_District"
         ]
       ],
       [
-        [
-          "17 May 1982"
-        ],
-        [
-          null
-        ]
+        "17 May 1982",
+        []
       ],
       [
-        [
-          "LCK"
-        ],
-        [
-          null
-        ]
+        "LCK",
+        []
       ]
     ],
     [
       [
-        [
-          "Cheung Sha Wan"
-        ],
+        "Cheung Sha Wan",
         [
           "/wiki/Cheung_Sha_Wan_station"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Sham Shui Po"
-        ],
+        "Sham Shui Po",
         [
           "/wiki/Sham_Shui_Po_District"
         ]
       ],
       [
-        [
-          "17 May 1982"
-        ],
-        [
-          null
-        ]
+        "17 May 1982",
+        []
       ],
       [
-        [
-          "CSW"
-        ],
-        [
-          null
-        ]
+        "CSW",
+        []
       ]
     ],
     [
       [
-        [
-          "Sham Shui Po"
-        ],
+        "Sham Shui Po",
         [
           "/wiki/Sham_Shui_Po_station"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Sham Shui Po"
-        ],
+        "Sham Shui Po",
         [
           "/wiki/Sham_Shui_Po_District"
         ]
       ],
       [
-        [
-          "17 May 1982"
-        ],
-        [
-          null
-        ]
+        "17 May 1982",
+        []
       ],
       [
-        [
-          "SSP"
-        ],
-        [
-          null
-        ]
+        "SSP",
+        []
       ]
     ],
     [
       [
-        [
-          "Prince Edward"
-        ],
+        "Prince Edward",
         [
           "/wiki/Prince_Edward_station_(MTR)"
         ]
       ],
       [
-        [
-          "Kwun Tong line"
-        ],
+        "Kwun Tong line",
         [
           "/wiki/Kwun_Tong_line"
         ]
       ],
       [
-        [
-          "Yau Tsim Mong"
-        ],
+        "Yau Tsim Mong",
         [
           "/wiki/Yau_Tsim_Mong_District"
         ]
       ],
       [
-        [
-          "10 May 1982"
-        ],
-        [
-          null
-        ]
+        "10 May 1982",
+        []
       ],
       [
-        [
-          "PRE"
-        ],
-        [
-          null
-        ]
+        "PRE",
+        []
       ]
     ],
     [
       [
-        [
-          "Mong Kok"
-        ],
+        "Mong Kok formerly Argyle",
         [
           "/wiki/Mong_Kok_station"
         ]
       ],
       [
-        [
-          "Kwun Tong line"
-        ],
+        "Kwun Tong line",
         [
           "/wiki/Kwun_Tong_line"
         ]
       ],
       [
-        [
-          "Yau Tsim Mong"
-        ],
+        "Yau Tsim Mong",
         [
           "/wiki/Yau_Tsim_Mong_District"
         ]
       ],
       [
-        [
-          "31 December 1979"
-        ],
-        [
-          null
-        ]
+        "31 December 1979",
+        []
       ],
       [
-        [
-          "MOK"
-        ],
-        [
-          null
-        ]
+        "MOK",
+        []
       ]
     ],
     [
       [
-        [
-          "Yau Ma Tei"
-        ],
+        "Yau Ma Tei formerly Waterloo",
         [
           "/wiki/Yau_Ma_Tei_station"
         ]
       ],
       [
-        [
-          "Kwun Tong line"
-        ],
+        "Kwun Tong line",
         [
           "/wiki/Kwun_Tong_line"
         ]
       ],
       [
-        [
-          "Yau Tsim Mong"
-        ],
+        "Yau Tsim Mong",
         [
           "/wiki/Yau_Tsim_Mong_District"
         ]
       ],
       [
-        [
-          "31 December 1979"
-        ],
-        [
-          null
-        ]
+        "31 December 1979",
+        []
       ],
       [
-        [
-          "YMT"
-        ],
-        [
-          null
-        ]
+        "YMT",
+        []
       ]
     ],
     [
       [
-        [
-          "Jordan"
-        ],
+        "Jordan",
         [
           "/wiki/Jordan_station"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Yau Tsim Mong"
-        ],
+        "Yau Tsim Mong",
         [
           "/wiki/Yau_Tsim_Mong_District"
         ]
       ],
       [
-        [
-          "31 December 1979"
-        ],
-        [
-          null
-        ]
+        "31 December 1979",
+        []
       ],
       [
-        [
-          "JOR"
-        ],
-        [
-          null
-        ]
+        "JOR",
+        []
       ]
     ],
     [
       [
-        [
-          "Tsim Sha Tsui"
-        ],
+        "Tsim Sha Tsui",
         [
           "/wiki/Tsim_Sha_Tsui_station"
         ]
       ],
       [
-        [
-          "West Rail line",
-          "East Tsim Sha Tsui Station"
-        ],
+        "Transfer to West Rail line via East Tsim Sha Tsui Station",
         [
           "/wiki/West_Rail_line",
           "/wiki/East_Tsim_Sha_Tsui_Station"
         ]
       ],
       [
-        [
-          "Yau Tsim Mong"
-        ],
+        "Yau Tsim Mong",
         [
           "/wiki/Yau_Tsim_Mong_District"
         ]
       ],
       [
-        [
-          "31 December 1979"
-        ],
-        [
-          null
-        ]
+        "31 December 1979",
+        []
       ],
       [
-        [
-          "TST"
-        ],
-        [
-          null
-        ]
+        "TST",
+        []
       ]
     ],
     [
       [
-        [
-          "Admiralty"
-        ],
+        "Admiralty",
         [
           "/wiki/Admiralty_station_(MTR)"
         ]
       ],
       [
-        [
-          "Island line",
-          "South Island line"
-        ],
+        "Island line South Island line",
         [
           "/wiki/Island_line_(MTR)",
           "/wiki/South_Island_line"
         ]
       ],
       [
-        [
-          "Central and Western"
-        ],
+        "Central and Western",
         [
           "/wiki/Central_and_Western_District"
         ]
       ],
       [
-        [
-          "12 February 1980"
-        ],
-        [
-          null
-        ]
+        "12 February 1980",
+        []
       ],
       [
-        [
-          "ADM"
-        ],
-        [
-          null
-        ]
+        "ADM",
+        []
       ]
     ],
     [
       [
-        [
-          "Central"
-        ],
+        "Central formerly Chater",
         [
           "/wiki/Central_station_(MTR)"
         ]
       ],
       [
-        [
-          "Island line",
-          "Tung Chung line",
-          "Airport Express",
-          "Hong Kong Station"
-        ],
+        "Island line Transfer to Tung Chung line and Airport Express via Hong Kong Station",
         [
           "/wiki/Island_line_(MTR)",
           "/wiki/Tung_Chung_line",
@@ -704,28 +450,18 @@
         ]
       ],
       [
-        [
-          "Central and Western"
-        ],
+        "Central and Western",
         [
           "/wiki/Central_and_Western_District"
         ]
       ],
       [
-        [
-          "12 February 1980"
-        ],
-        [
-          null
-        ]
+        "12 February 1980",
+        []
       ],
       [
-        [
-          "CEN"
-        ],
-        [
-          null
-        ]
+        "CEN",
+        []
       ]
     ]
   ],

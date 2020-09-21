@@ -3,52 +3,34 @@
   "title": "Svenska Serien",
   "header": [
     [
-      [
-        "Season"
-      ],
-      [
-        null
-      ]
+      "Season",
+      []
     ],
     [
-      [
-        "Winners"
-      ],
-      [
-        null
-      ]
+      "Winners",
+      []
     ],
     [
-      [
-        "Runners-up"
-      ],
-      [
-        null
-      ]
+      "Runners-up",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "1910"
-        ],
+        "1910",
         [
           "/wiki/1910_Svenska_Serien"
         ]
       ],
       [
-        [
-          "\u00d6rgryte IS"
-        ],
+        "\u00d6rgryte IS ( 1 )",
         [
           "/wiki/\u00d6rgryte_IS"
         ]
       ],
       [
-        [
-          "AIK"
-        ],
+        "AIK",
         [
           "/wiki/AIK_Fotboll"
         ]
@@ -56,25 +38,19 @@
     ],
     [
       [
-        [
-          "1911-12"
-        ],
+        "1911-12",
         [
           "/wiki/1911\u201312_Svenska_Serien"
         ]
       ],
       [
-        [
-          "\u00d6rgryte IS"
-        ],
+        "\u00d6rgryte IS ( 2 )",
         [
           "/wiki/\u00d6rgryte_IS"
         ]
       ],
       [
-        [
-          "Djurg\u00e5rdens IF"
-        ],
+        "Djurg\u00e5rdens IF",
         [
           "/wiki/Djurg\u00e5rdens_IF_Fotboll"
         ]
@@ -82,25 +58,19 @@
     ],
     [
       [
-        [
-          "1912-13"
-        ],
+        "1912-13",
         [
           "/wiki/1912\u201313_Svenska_Serien"
         ]
       ],
       [
-        [
-          "IFK G\u00f6teborg"
-        ],
+        "IFK G\u00f6teborg ( 1 )",
         [
           "/wiki/IFK_G\u00f6teborg"
         ]
       ],
       [
-        [
-          "\u00d6rgryte IS"
-        ],
+        "\u00d6rgryte IS",
         [
           "/wiki/\u00d6rgryte_IS"
         ]
@@ -108,25 +78,19 @@
     ],
     [
       [
-        [
-          "1913-14"
-        ],
+        "1913-14",
         [
           "/wiki/1913\u201314_Svenska_Serien"
         ]
       ],
       [
-        [
-          "IFK G\u00f6teborg"
-        ],
+        "IFK G\u00f6teborg ( 2 )",
         [
           "/wiki/IFK_G\u00f6teborg"
         ]
       ],
       [
-        [
-          "\u00d6rgryte IS"
-        ],
+        "\u00d6rgryte IS",
         [
           "/wiki/\u00d6rgryte_IS"
         ]
@@ -134,25 +98,19 @@
     ],
     [
       [
-        [
-          "1914-15"
-        ],
+        "1914-15",
         [
           "/wiki/1914\u201315_Svenska_Serien"
         ]
       ],
       [
-        [
-          "IFK G\u00f6teborg"
-        ],
+        "IFK G\u00f6teborg ( 3 )",
         [
           "/wiki/IFK_G\u00f6teborg"
         ]
       ],
       [
-        [
-          "AIK"
-        ],
+        "AIK",
         [
           "/wiki/AIK_Fotboll"
         ]
@@ -160,25 +118,19 @@
     ],
     [
       [
-        [
-          "1915-16"
-        ],
+        "1915-16",
         [
           "/wiki/1915\u201316_Svenska_Serien"
         ]
       ],
       [
-        [
-          "IFK G\u00f6teborg"
-        ],
+        "IFK G\u00f6teborg ( 4 )",
         [
           "/wiki/IFK_G\u00f6teborg"
         ]
       ],
       [
-        [
-          "AIK"
-        ],
+        "AIK",
         [
           "/wiki/AIK_Fotboll"
         ]
@@ -186,25 +138,19 @@
     ],
     [
       [
-        [
-          "1916-17"
-        ],
+        "1916-17",
         [
           "/wiki/1916\u201317_Svenska_Serien"
         ]
       ],
       [
-        [
-          "IFK G\u00f6teborg"
-        ],
+        "IFK G\u00f6teborg ( 5 )",
         [
           "/wiki/IFK_G\u00f6teborg"
         ]
       ],
       [
-        [
-          "\u00d6rgryte IS"
-        ],
+        "\u00d6rgryte IS",
         [
           "/wiki/\u00d6rgryte_IS"
         ]
@@ -212,103 +158,61 @@
     ],
     [
       [
-        [
-          "1917-18"
-        ],
-        [
-          null
-        ]
+        "1917-18",
+        []
       ],
       [
-        [
-          "No competition"
-        ],
-        [
-          null
-        ]
+        "No competition",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "1918-19"
-        ],
-        [
-          null
-        ]
+        "1918-19",
+        []
       ],
       [
-        [
-          "No competition"
-        ],
-        [
-          null
-        ]
+        "No competition",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "1919-20"
-        ],
-        [
-          null
-        ]
+        "1919-20",
+        []
       ],
       [
-        [
-          "No competition"
-        ],
-        [
-          null
-        ]
+        "No competition",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "1920-21"
-        ],
+        "1920-21",
         [
           "/wiki/1920\u201321_Svenska_Serien"
         ]
       ],
       [
-        [
-          "\u00d6rgryte IS"
-        ],
+        "\u00d6rgryte IS ( 3 )",
         [
           "/wiki/\u00d6rgryte_IS"
         ]
       ],
       [
-        [
-          "GAIS"
-        ],
+        "GAIS",
         [
           "/wiki/GAIS"
         ]
@@ -316,51 +220,33 @@
     ],
     [
       [
-        [
-          "1921-22"
-        ],
-        [
-          null
-        ]
+        "1921-22",
+        []
       ],
       [
-        [
-          "No competition"
-        ],
-        [
-          null
-        ]
+        "No competition",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "1922-23"
-        ],
+        "1922-23",
         [
           "/wiki/1922\u201323_Svenska_Serien"
         ]
       ],
       [
-        [
-          "GAIS"
-        ],
+        "GAIS ( 1 )",
         [
           "/wiki/GAIS"
         ]
       ],
       [
-        [
-          "AIK"
-        ],
+        "AIK",
         [
           "/wiki/AIK_Fotboll"
         ]
@@ -368,25 +254,19 @@
     ],
     [
       [
-        [
-          "1923-24"
-        ],
+        "1923-24",
         [
           "/wiki/1923\u201324_Svenska_Serien"
         ]
       ],
       [
-        [
-          "\u00d6rgryte IS"
-        ],
+        "\u00d6rgryte IS ( 4 )",
         [
           "/wiki/\u00d6rgryte_IS"
         ]
       ],
       [
-        [
-          "AIK"
-        ],
+        "AIK",
         [
           "/wiki/AIK_Fotboll"
         ]

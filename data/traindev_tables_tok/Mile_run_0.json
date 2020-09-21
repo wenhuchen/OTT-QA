@@ -3,68 +3,40 @@
   "title": "Mile run",
   "header": [
     [
-      [
-        "Year"
-      ],
-      [
-        null
-      ]
+      "Year",
+      []
     ],
     [
-      [
-        "Time"
-      ],
-      [
-        null
-      ]
+      "Time",
+      []
     ],
     [
-      [
-        "Athlete"
-      ],
-      [
-        null
-      ]
+      "Athlete",
+      []
     ],
     [
-      [
-        "Place"
-      ],
-      [
-        null
-      ]
+      "Place",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "2001"
-        ],
-        [
-          null
-        ]
+        "2001",
+        []
       ],
       [
-        [
-          "3:44.95"
-        ],
-        [
-          null
-        ]
+        "3:44.95",
+        []
       ],
       [
-        [
-          "Hicham El Guerrouj"
-        ],
+        "Hicham El Guerrouj ( MAR )",
         [
           "/wiki/Hicham_El_Guerrouj"
         ]
       ],
       [
-        [
-          "Rome"
-        ],
+        "Rome",
         [
           "/wiki/Rome"
         ]
@@ -72,33 +44,21 @@
     ],
     [
       [
-        [
-          "2002"
-        ],
-        [
-          null
-        ]
+        "2002",
+        []
       ],
       [
-        [
-          "3:48.28"
-        ],
-        [
-          null
-        ]
+        "3:48.28",
+        []
       ],
       [
-        [
-          "Hicham El Guerrouj"
-        ],
+        "Hicham El Guerrouj ( MAR )",
         [
           "/wiki/Hicham_El_Guerrouj"
         ]
       ],
       [
-        [
-          "Rome"
-        ],
+        "Rome",
         [
           "/wiki/Rome"
         ]
@@ -106,33 +66,21 @@
     ],
     [
       [
-        [
-          "2003"
-        ],
-        [
-          null
-        ]
+        "2003",
+        []
       ],
       [
-        [
-          "3:48.17"
-        ],
-        [
-          null
-        ]
+        "3:48.17",
+        []
       ],
       [
-        [
-          "Paul Korir"
-        ],
+        "Paul Korir ( KEN )",
         [
           "/wiki/Paul_Korir"
         ]
       ],
       [
-        [
-          "London"
-        ],
+        "London",
         [
           "/wiki/London"
         ]
@@ -140,33 +88,21 @@
     ],
     [
       [
-        [
-          "2004"
-        ],
-        [
-          null
-        ]
+        "2004",
+        []
       ],
       [
-        [
-          "3:49.84"
-        ],
-        [
-          null
-        ]
+        "3:49.84",
+        []
       ],
       [
-        [
-          "Paul Korir"
-        ],
+        "Paul Korir ( KEN )",
         [
           "/wiki/Paul_Korir"
         ]
       ],
       [
-        [
-          "London"
-        ],
+        "London",
         [
           "/wiki/London"
         ]
@@ -174,33 +110,21 @@
     ],
     [
       [
-        [
-          "2005"
-        ],
-        [
-          null
-        ]
+        "2005",
+        []
       ],
       [
-        [
-          "3:47.97"
-        ],
-        [
-          null
-        ]
+        "3:47.97",
+        []
       ],
       [
-        [
-          "Daham Najim Bashir"
-        ],
+        "Daham Najim Bashir ( QAT )",
         [
           "/wiki/Daham_Najim_Bashir"
         ]
       ],
       [
-        [
-          "Oslo"
-        ],
+        "Oslo",
         [
           "/wiki/Oslo"
         ]
@@ -208,33 +132,21 @@
     ],
     [
       [
-        [
-          "2006"
-        ],
-        [
-          null
-        ]
+        "2006",
+        []
       ],
       [
-        [
-          "3:50.32"
-        ],
-        [
-          null
-        ]
+        "3:50.32",
+        []
       ],
       [
-        [
-          "Alex Kipchirchir"
-        ],
+        "Alex Kipchirchir ( KEN )",
         [
           "/wiki/Alex_Kipchirchir"
         ]
       ],
       [
-        [
-          "Oslo"
-        ],
+        "Oslo",
         [
           "/wiki/Oslo"
         ]
@@ -242,33 +154,21 @@
     ],
     [
       [
-        [
-          "2007"
-        ],
-        [
-          null
-        ]
+        "2007",
+        []
       ],
       [
-        [
-          "3:46.91"
-        ],
-        [
-          null
-        ]
+        "3:46.91",
+        []
       ],
       [
-        [
-          "Alan Webb"
-        ],
+        "Alan Webb ( USA )",
         [
           "/wiki/Alan_Webb_(runner)"
         ]
       ],
       [
-        [
-          "Brasschaat"
-        ],
+        "Brasschaat",
         [
           "/wiki/Brasschaat"
         ]
@@ -276,33 +176,21 @@
     ],
     [
       [
-        [
-          "2008"
-        ],
-        [
-          null
-        ]
+        "2008",
+        []
       ],
       [
-        [
-          "3:49.38"
-        ],
-        [
-          null
-        ]
+        "3:49.38",
+        []
       ],
       [
-        [
-          "Andrew Baddeley"
-        ],
+        "Andrew Baddeley ( GBR )",
         [
           "/wiki/Andrew_Baddeley"
         ]
       ],
       [
-        [
-          "Oslo"
-        ],
+        "Oslo",
         [
           "/wiki/Oslo"
         ]
@@ -310,33 +198,21 @@
     ],
     [
       [
-        [
-          "2009"
-        ],
-        [
-          null
-        ]
+        "2009",
+        []
       ],
       [
-        [
-          "3:48.50"
-        ],
-        [
-          null
-        ]
+        "3:48.50",
+        []
       ],
       [
-        [
-          "Asbel Kiprop"
-        ],
+        "Asbel Kiprop ( KEN )",
         [
           "/wiki/Asbel_Kiprop"
         ]
       ],
       [
-        [
-          "Eugene"
-        ],
+        "Eugene",
         [
           "/wiki/Eugene,_Oregon"
         ]
@@ -344,33 +220,21 @@
     ],
     [
       [
-        [
-          "2010"
-        ],
-        [
-          null
-        ]
+        "2010",
+        []
       ],
       [
-        [
-          "3:49.56"
-        ],
-        [
-          null
-        ]
+        "3:49.56",
+        []
       ],
       [
-        [
-          "Asbel Kiprop"
-        ],
+        "Asbel Kiprop ( KEN )",
         [
           "/wiki/Asbel_Kiprop"
         ]
       ],
       [
-        [
-          "Oslo"
-        ],
+        "Oslo",
         [
           "/wiki/Oslo"
         ]
@@ -378,33 +242,21 @@
     ],
     [
       [
-        [
-          "2011"
-        ],
-        [
-          null
-        ]
+        "2011",
+        []
       ],
       [
-        [
-          "3:49.09"
-        ],
-        [
-          null
-        ]
+        "3:49.09",
+        []
       ],
       [
-        [
-          "Haron Keitany"
-        ],
+        "Haron Keitany ( KEN )",
         [
           "/wiki/Haron_Keitany"
         ]
       ],
       [
-        [
-          "Eugene"
-        ],
+        "Eugene",
         [
           "/wiki/Eugene,_Oregon"
         ]
@@ -412,33 +264,21 @@
     ],
     [
       [
-        [
-          "2012"
-        ],
-        [
-          null
-        ]
+        "2012",
+        []
       ],
       [
-        [
-          "3:49.22"
-        ],
-        [
-          null
-        ]
+        "3:49.22",
+        []
       ],
       [
-        [
-          "Asbel Kiprop"
-        ],
+        "Asbel Kiprop ( KEN )",
         [
           "/wiki/Asbel_Kiprop"
         ]
       ],
       [
-        [
-          "Oslo"
-        ],
+        "Oslo",
         [
           "/wiki/Oslo"
         ]
@@ -446,33 +286,21 @@
     ],
     [
       [
-        [
-          "2013"
-        ],
-        [
-          null
-        ]
+        "2013",
+        []
       ],
       [
-        [
-          "3:49.48"
-        ],
-        [
-          null
-        ]
+        "3:49.48",
+        []
       ],
       [
-        [
-          "Silas Kiplagat"
-        ],
+        "Silas Kiplagat ( KEN )",
         [
           "/wiki/Silas_Kiplagat"
         ]
       ],
       [
-        [
-          "Eugene"
-        ],
+        "Eugene",
         [
           "/wiki/Eugene,_Oregon"
         ]
@@ -480,33 +308,21 @@
     ],
     [
       [
-        [
-          "2014"
-        ],
-        [
-          null
-        ]
+        "2014",
+        []
       ],
       [
-        [
-          "3:47.32"
-        ],
-        [
-          null
-        ]
+        "3:47.32",
+        []
       ],
       [
-        [
-          "Ayanleh Souleiman"
-        ],
+        "Ayanleh Souleiman ( DJI )",
         [
           "/wiki/Ayanleh_Souleiman"
         ]
       ],
       [
-        [
-          "Eugene"
-        ],
+        "Eugene",
         [
           "/wiki/Eugene,_Oregon"
         ]
@@ -514,33 +330,21 @@
     ],
     [
       [
-        [
-          "2015"
-        ],
-        [
-          null
-        ]
+        "2015",
+        []
       ],
       [
-        [
-          "3:51.10"
-        ],
-        [
-          null
-        ]
+        "3:51.10",
+        []
       ],
       [
-        [
-          "Ayanleh Souleiman"
-        ],
+        "Ayanleh Souleiman ( DJI )",
         [
           "/wiki/Ayanleh_Souleiman"
         ]
       ],
       [
-        [
-          "Eugene"
-        ],
+        "Eugene",
         [
           "/wiki/Eugene,_Oregon"
         ]
@@ -548,33 +352,21 @@
     ],
     [
       [
-        [
-          "2016"
-        ],
-        [
-          null
-        ]
+        "2016",
+        []
       ],
       [
-        [
-          "3:50.63 i"
-        ],
-        [
-          null
-        ]
+        "3:50.63 i",
+        []
       ],
       [
-        [
-          "Matthew Centrowitz"
-        ],
+        "Matthew Centrowitz ( USA )",
         [
           "/wiki/Matthew_Centrowitz,_Jr."
         ]
       ],
       [
-        [
-          "New York City"
-        ],
+        "New York City",
         [
           "/wiki/New_York_City"
         ]
@@ -582,33 +374,21 @@
     ],
     [
       [
-        [
-          "2017"
-        ],
-        [
-          null
-        ]
+        "2017",
+        []
       ],
       [
-        [
-          "3:49.04"
-        ],
-        [
-          null
-        ]
+        "3:49.04",
+        []
       ],
       [
-        [
-          "Ronald Kwemoi"
-        ],
+        "Ronald Kwemoi ( KEN )",
         [
           "/wiki/Ronald_Kwemoi"
         ]
       ],
       [
-        [
-          "Eugene"
-        ],
+        "Eugene",
         [
           "/wiki/Eugene,_Oregon"
         ]
@@ -616,33 +396,21 @@
     ],
     [
       [
-        [
-          "2018"
-        ],
-        [
-          null
-        ]
+        "2018",
+        []
       ],
       [
-        [
-          "3:49.44 i"
-        ],
-        [
-          null
-        ]
+        "3:49.44 i",
+        []
       ],
       [
-        [
-          "Edward Cheserek"
-        ],
+        "Edward Cheserek ( KEN )",
         [
           "/wiki/Edward_Cheserek"
         ]
       ],
       [
-        [
-          "Boston"
-        ],
+        "Boston",
         [
           "/wiki/Boston,_Massachusetts"
         ]
@@ -650,33 +418,21 @@
     ],
     [
       [
-        [
-          "2019"
-        ],
-        [
-          null
-        ]
+        "2019",
+        []
       ],
       [
-        [
-          "3:47.01 i"
-        ],
-        [
-          null
-        ]
+        "3:47.01 i",
+        []
       ],
       [
-        [
-          "Yomif Kejelcha"
-        ],
+        "Yomif Kejelcha ( ETH )",
         [
           "/wiki/Yomif_Kejelcha"
         ]
       ],
       [
-        [
-          "Boston"
-        ],
+        "Boston",
         [
           "/wiki/Boston,_Massachusetts"
         ]

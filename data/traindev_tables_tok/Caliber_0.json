@@ -3,68 +3,40 @@
   "title": "Caliber",
   "header": [
     [
-      [
-        "Inch caliber"
-      ],
-      [
-        null
-      ]
+      "Inch caliber",
+      []
     ],
     [
-      [
-        "Metric caliber"
-      ],
-      [
-        null
-      ]
+      "Metric caliber",
+      []
     ],
     [
-      [
-        "Typical bullet diameter"
-      ],
-      [
-        null
-      ]
+      "Typical bullet diameter",
+      []
     ],
     [
-      [
-        "Common cartridges"
-      ],
-      [
-        null
-      ]
+      "Common cartridges",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          ".172"
-        ],
-        [
-          null
-        ]
+        ".172",
+        []
       ],
       [
-        [
-          "4 mm"
-        ],
+        "4 mm",
         [
           "/wiki/4_mm_caliber"
         ]
       ],
       [
-        [
-          "0.172 in"
-        ],
-        [
-          null
-        ]
+        "0.172 in",
+        []
       ],
       [
-        [
-          ".17 HMR"
-        ],
+        ".17 HMR , .17 Hornet , .17 Ackley Hornet , .17 Winchester Super Magnum , .17-32 Magnum , .17 VHA , .17 Remington , .17/222 , .17 Mach III-IV , .17 Ackley Improved Bee , .17-357 RG , .17 Remington Fireball , .17 Incinerator , 4.39\u00d739Rmm SPS",
         [
           "/wiki/.17_HMR"
         ]
@@ -72,34 +44,21 @@
     ],
     [
       [
-        [
-          ".20 , .204"
-        ],
-        [
-          null
-        ]
+        ".20 , .204",
+        []
       ],
       [
-        [
-          "5 mm"
-        ],
+        "5 mm",
         [
           "/wiki/5_mm_caliber"
         ]
       ],
       [
-        [
-          "0.204 in"
-        ],
-        [
-          null
-        ]
+        "0.204 in",
+        []
       ],
       [
-        [
-          ".204 Ruger",
-          "5mm Remington Rimfire Magnum"
-        ],
+        ".204 Ruger , 5mm Remington Rimfire Magnum",
         [
           "/wiki/.204_Ruger",
           "/wiki/5mm_Remington_Rimfire_Magnum"
@@ -108,33 +67,19 @@
     ],
     [
       [
-        [
-          ".221"
-        ],
-        [
-          null
-        ]
+        ".221",
+        []
       ],
       [
-        [
-          "5.45 mm"
-        ],
-        [
-          null
-        ]
+        "5.45 mm",
+        []
       ],
       [
-        [
-          "0.221 in"
-        ],
-        [
-          null
-        ]
+        "0.221 in",
+        []
       ],
       [
-        [
-          "5.45\u00d739mm"
-        ],
+        "5.45\u00d739mm Russian family",
         [
           "/wiki/5.45\u00d739mm"
         ]
@@ -142,38 +87,19 @@
     ],
     [
       [
-        [
-          ".22"
-        ],
-        [
-          null
-        ]
+        ".22",
+        []
       ],
       [
-        [
-          "5.6 mm"
-        ],
-        [
-          null
-        ]
+        "5.6 mm",
+        []
       ],
       [
-        [
-          "0.223 in"
-        ],
-        [
-          null
-        ]
+        "0.223 in",
+        []
       ],
       [
-        [
-          ".22 Short",
-          ".22 Long",
-          ".22 Long Rifle",
-          "22 Extra Long",
-          ".22 WMR",
-          ".22 Hornet"
-        ],
+        ".22 Short , .22 Long , .22 Long Rifle , .22 Stinger , 22 Extra Long , .22 WMR ( magnum ) , .297/230 Morris Extra Long , .22 Hornet , .22 Rem Automatic , 5.66 x39 MPS , .22 Rem Jet",
         [
           "/wiki/.22_Short",
           "/wiki/.22_Long",
@@ -186,48 +112,19 @@
     ],
     [
       [
-        [
-          ".224"
-        ],
-        [
-          null
-        ]
+        ".224",
+        []
       ],
       [
-        [
-          "5.7 mm"
-        ],
-        [
-          null
-        ]
+        "5.7 mm",
+        []
       ],
       [
-        [
-          "0.224 in"
-        ],
-        [
-          null
-        ]
+        "0.224 in",
+        []
       ],
       [
-        [
-          ".218 Bee",
-          ".219 Zipper",
-          ".220 Swift",
-          ".222 Remington",
-          ".222 Remington Magnum",
-          ".223 Remington",
-          "5.56\u00d745mm NATO",
-          "5.7\u00d728mm",
-          ".22 TCM",
-          "5.8 \u00d7 42 Chinese",
-          ".224 Weatherby Magnum",
-          ".225 Winchester",
-          ".223 Winchester Super Short Magnum ( Obsolete )",
-          ".219 Donaldson Wasp",
-          ".221 Remington Fireball",
-          ".22-250 Remington"
-        ],
+        ".218 Bee , .219 Zipper , .22 Hornet-K , .220 Swift , .222 Remington , .222 Remington Magnum , .223 Remington , 5.56\u00d745mm NATO , 5.7\u00d728mm , .22 TCM , 5.8 \u00d7 42 Chinese , .224 Weatherby Magnum , .225 Winchester , .223 Winchester Super Short Magnum ( Obsolete ) .223 Ackley Improved , .219 Donaldson Wasp , .221 Remington Fireball , .22-250 Remington and many more",
         [
           "/wiki/.218_Bee",
           "/wiki/.219_Zipper",
@@ -250,36 +147,21 @@
     ],
     [
       [
-        [
-          ".243"
-        ],
-        [
-          null
-        ]
+        ".243",
+        []
       ],
       [
-        [
-          "6 mm"
-        ],
+        "6 mm",
         [
           "/wiki/6_mm_caliber"
         ]
       ],
       [
-        [
-          "0.243 in"
-        ],
-        [
-          null
-        ]
+        "0.243 in",
+        []
       ],
       [
-        [
-          ".243 Winchester",
-          ".244 Remington",
-          "6mm Remington",
-          "6mm PPC"
-        ],
+        ".243 Winchester , .244 Remington , 6mm Remington , 6mm Whisper , 6mm PPC , 6mm Bench Rest Remington , 6\u00d745mm , 6\u00d747mm , 6mm Cheetah , .240 Weatherby , 6\u00d762 Freres , 6mm Norma BR , 6XC Tubb , 6mm JDJ , 6mm SAW , 6-250 Walker , 6.17 Spitfire , 6.17 Flash , 6mm Lee Navy , and more ,",
         [
           "/wiki/.243_Winchester",
           "/wiki/6mm_Remington",
@@ -290,36 +172,19 @@
     ],
     [
       [
-        [
-          ".25"
-        ],
-        [
-          null
-        ]
+        ".25",
+        []
       ],
       [
-        [
-          "6.35 mm"
-        ],
-        [
-          null
-        ]
+        "6.35 mm",
+        []
       ],
       [
-        [
-          "0.257 in , 6.35 mm"
-        ],
-        [
-          null
-        ]
+        "0.257 in , 6.35 mm",
+        []
       ],
       [
-        [
-          ".25 ACP",
-          "250/3000 Savage",
-          "257 Roberts",
-          ".25-06"
-        ],
+        ".25 ACP ( 0.251 ) , 250/3000 Savage , 257 Roberts , .25-06 ( 0.257 ) ,",
         [
           "/wiki/.25_ACP",
           "/wiki/.250-3000_Savage",
@@ -330,37 +195,19 @@
     ],
     [
       [
-        [
-          ".26"
-        ],
-        [
-          null
-        ]
+        ".26",
+        []
       ],
       [
-        [
-          "6.5 mm"
-        ],
-        [
-          null
-        ]
+        "6.5 mm",
+        []
       ],
       [
-        [
-          "0.264 in , 6.7 mm"
-        ],
-        [
-          null
-        ]
+        "0.264 in , 6.7 mm",
+        []
       ],
       [
-        [
-          "6.5\u00d755mm Swedish",
-          ".260 Remington",
-          ".26 Nosler",
-          "6.5mm Creedmoor",
-          "6.5\u00d747mm Lapua"
-        ],
+        "6.5\u00d755mm Swedish , .260 Remington , .26 Nosler , 6.5mm Creedmoor , 6.5\u00d747mm Lapua",
         [
           "/wiki/6.5\u00d755mm_Swedish",
           "/wiki/.260_Remington",
@@ -372,34 +219,19 @@
     ],
     [
       [
-        [
-          ".27"
-        ],
-        [
-          null
-        ]
+        ".27",
+        []
       ],
       [
-        [
-          "6.8 mm"
-        ],
-        [
-          null
-        ]
+        "6.8 mm",
+        []
       ],
       [
-        [
-          "0.277 in , 7.035 mm"
-        ],
-        [
-          null
-        ]
+        "0.277 in , 7.035 mm",
+        []
       ],
       [
-        [
-          ".270 Winchester",
-          "6.8 SPC"
-        ],
+        ".270 Winchester , 6.8 SPC",
         [
           "/wiki/.270_Winchester",
           "/wiki/6.8_SPC"
@@ -408,38 +240,21 @@
     ],
     [
       [
-        [
-          ".284"
-        ],
-        [
-          null
-        ]
+        ".284",
+        []
       ],
       [
-        [
-          "7 mm"
-        ],
+        "7 mm",
         [
           "/wiki/7_mm_caliber"
         ]
       ],
       [
-        [
-          "0.284 in , 7.213 mm"
-        ],
-        [
-          null
-        ]
+        "0.284 in , 7.213 mm",
+        []
       ],
       [
-        [
-          ".280 Remington",
-          "7mm-08 Remington",
-          "7mm Weatherby Magnum",
-          "7mm Remington Magnum",
-          "7\u00d757mm Mauser",
-          "7\u00d764mm"
-        ],
+        ".280 Remington , 7mm-08 Remington , 7mm Weatherby Magnum , 7mm Remington Magnum , 7\u00d757mm Mauser , 7\u00d764mm",
         [
           "/wiki/.280_Remington",
           "/wiki/7mm-08_Remington",
@@ -452,41 +267,19 @@
     ],
     [
       [
-        [
-          ".308"
-        ],
-        [
-          null
-        ]
+        ".308",
+        []
       ],
       [
-        [
-          "7.62 mm"
-        ],
-        [
-          null
-        ]
+        "7.62 mm",
+        []
       ],
       [
-        [
-          "0.308 in , 7.82 mm"
-        ],
-        [
-          null
-        ]
+        "0.308 in , 7.82 mm",
+        []
       ],
       [
-        [
-          ".30-30 Win",
-          "300 AAC Blackout ( 7.62\u00d735mm )",
-          ".300 Winchester Magnum",
-          ".30 Carbine",
-          ".30-03",
-          ".30-06 Springfield",
-          ".30-06 JDJ",
-          ".308 Winchester ( 7.62\u00d751mm NATO )",
-          ".300 Weatherby Magnum"
-        ],
+        ".30 Luger ( 7.65 \u00d7 21mm Luger ) , .30-30 Win , 30 Herrett , .300 Whisper , .30-378 Weatherby , 7.63 Mannlicher-Schoenauer , 7.63 Mauser , .30 USA Rimless , .308 Corbon , .3-9 Savage , .30 Kurz , 300 AAC Blackout ( 7.62\u00d735mm ) , 7.5mm Schmidt-Rubin , .300 Winchester Magnum , .30 Carbine , 309 JDJ , .30-03 , .30-06 Springfield , .30-06 JDJ , .307 GNR , .308 Winchester ( 7.62\u00d751mm NATO ) , .300 Weatherby Magnum , .30 Army ( .30-40 Krag ) , 7.82mm Lazzeroni , and dozens more",
         [
           "/wiki/.30-30_Win",
           "/wiki/300_AAC_Blackout_(7.62\u00d735mm)",
@@ -502,37 +295,19 @@
     ],
     [
       [
-        [
-          ".311"
-        ],
-        [
-          null
-        ]
+        ".311",
+        []
       ],
       [
-        [
-          "7.9 mm"
-        ],
-        [
-          null
-        ]
+        "7.9 mm",
+        []
       ],
       [
-        [
-          "0.311 in , 7.92 mm"
-        ],
-        [
-          null
-        ]
+        "0.311 in , 7.92 mm",
+        []
       ],
       [
-        [
-          ".303 British",
-          "7.62\u00d739mm Soviet",
-          "7.62\u00d754mmR",
-          "7.62\u00d725mm",
-          "7.7\u00d758mm"
-        ],
+        ".303 British , 7.62\u00d739mm Soviet , 7.62\u00d754mmR , 7.62\u00d725mm , 7.7\u00d758mm",
         [
           "/wiki/.303_British",
           "/wiki/7.62\u00d739mm_Soviet",
@@ -544,33 +319,19 @@
     ],
     [
       [
-        [
-          ".312"
-        ],
-        [
-          null
-        ]
+        ".312",
+        []
       ],
       [
-        [
-          "7.94 mm"
-        ],
-        [
-          null
-        ]
+        "7.94 mm",
+        []
       ],
       [
-        [
-          "0.312 in , 7.94 mm"
-        ],
-        [
-          null
-        ]
+        "0.312 in , 7.94 mm",
+        []
       ],
       [
-        [
-          ".32 ACP"
-        ],
+        ".32 ACP",
         [
           "/wiki/.32_ACP"
         ]
@@ -578,36 +339,21 @@
     ],
     [
       [
-        [
-          ".323"
-        ],
-        [
-          null
-        ]
+        ".323",
+        []
       ],
       [
-        [
-          "8 mm"
-        ],
+        "8 mm",
         [
           "/wiki/8_mm_caliber"
         ]
       ],
       [
-        [
-          "0.323 in , 8.20 mm"
-        ],
-        [
-          null
-        ]
+        "0.323 in , 8.20 mm",
+        []
       ],
       [
-        [
-          "8\u00d757mm IS",
-          ".325 WSM",
-          "8mm Remington Magnum",
-          "airsoft"
-        ],
+        "8\u00d757mm IS , .325 WSM , 8mm Remington Magnum , 8 mm plastic ( airsoft ) BBs",
         [
           "/wiki/8\u00d757mm_IS",
           "/wiki/.325_WSM",
@@ -618,36 +364,19 @@
     ],
     [
       [
-        [
-          ".338"
-        ],
-        [
-          null
-        ]
+        ".338",
+        []
       ],
       [
-        [
-          "8.6 mm"
-        ],
-        [
-          null
-        ]
+        "8.6 mm",
+        []
       ],
       [
-        [
-          "0.338 in"
-        ],
-        [
-          null
-        ]
+        "0.338 in",
+        []
       ],
       [
-        [
-          ".338 Lapua",
-          ".338 Norma Magnum",
-          ".338 Winchester Magnum",
-          ".338-378 Weatherby Magnum"
-        ],
+        ".338 Lapua , .338 Norma Magnum , .338 Winchester Magnum , .338-378 Weatherby Magnum",
         [
           "/wiki/.338_Lapua",
           "/wiki/.338_Norma_Magnum",
@@ -658,35 +387,19 @@
     ],
     [
       [
-        [
-          ".355"
-        ],
-        [
-          null
-        ]
+        ".355",
+        []
       ],
       [
-        [
-          "9 mm"
-        ],
-        [
-          null
-        ]
+        "9 mm",
+        []
       ],
       [
-        [
-          "0.355 in"
-        ],
-        [
-          null
-        ]
+        "0.355 in",
+        []
       ],
       [
-        [
-          "9mm Luger",
-          "9mm Mauser",
-          "9mm Steyr"
-        ],
+        "9mm Luger , 9\u00d719mm Parabellum , 9mm Ultra , 9mm Bayard Long , 9mm Browning Long , 9mm Mauser , 9mm Winchester Magnum , 9mm Glisenti , 9 \u00d7 21mm , 9 \u00d7 23mm Winchester , 9mm Mi-Bullet , 9mm Steyr , .356 Team Smith & Wesson , 9mm Federal , 9mm \u00d7 25mm Dillon , 9mm Action Express",
         [
           "/wiki/9mm_Luger",
           "/wiki/9mm_Mauser",
@@ -696,33 +409,19 @@
     ],
     [
       [
-        [
-          ".356"
-        ],
-        [
-          null
-        ]
+        ".356",
+        []
       ],
       [
-        [
-          "9 mm"
-        ],
-        [
-          null
-        ]
+        "9 mm",
+        []
       ],
       [
-        [
-          "0.356 in"
-        ],
-        [
-          null
-        ]
+        "0.356 in",
+        []
       ],
       [
-        [
-          ".380 ACP"
-        ],
+        ".380 ACP ( 9mm Short ) , 9\u00d756mm Mannlicher-Schoenauer , 9mm \u00d7 57mm Mauser",
         [
           "/wiki/.380_ACP"
         ]
@@ -730,37 +429,21 @@
     ],
     [
       [
-        [
-          ".357"
-        ],
-        [
-          null
-        ]
+        ".357",
+        []
       ],
       [
-        [
-          "9 mm"
-        ],
+        "9 mm",
         [
           "/wiki/9_mm_caliber"
         ]
       ],
       [
-        [
-          "0.357 in"
-        ],
-        [
-          null
-        ]
+        "0.357 in",
+        []
       ],
       [
-        [
-          ".38 Super",
-          ".38 Special",
-          ".357 Magnum",
-          ".357 SIG",
-          ".35 Remington"
-        ],
+        ".38 Super , .38 Special , .357 Magnum , .357 SIG , .35 Remington",
         [
           "/wiki/.38_Super",
           "/wiki/.38_Special",
@@ -772,33 +455,19 @@
     ],
     [
       [
-        [
-          ".363"
-        ],
-        [
-          null
-        ]
+        ".363",
+        []
       ],
       [
-        [
-          "9 mm"
-        ],
-        [
-          null
-        ]
+        "9 mm",
+        []
       ],
       [
-        [
-          "0.363 in"
-        ],
-        [
-          null
-        ]
+        "0.363 in",
+        []
       ],
       [
-        [
-          "9\u00d718mm Makarov"
-        ],
+        "9\u00d718mm Makarov",
         [
           "/wiki/9\u00d718mm_Makarov"
         ]
@@ -806,40 +475,22 @@
     ],
     [
       [
-        [
-          ".365"
-        ],
-        [
-          null
-        ]
+        ".365",
+        []
       ],
       [
-        [
-          "9.3 mm"
-        ],
-        [
-          null
-        ]
+        "9.3 mm",
+        []
       ],
       [
-        [
-          "0.365 in"
-        ],
-        [
-          null
-        ]
+        "0.365 in",
+        []
       ],
       [
-        [
-          "9.3\u00d762mm",
-          "9.3\u00d764mm Brenneke",
-          "9.3\u00d772mmR",
-          "9.3\u00d774mmR"
-        ],
+        "9.3\u00d762mm , 9.3\u00d764mm Brenneke , 9.3\u00d772mmR , 9.3\u00d774mmR",
         [
           "/wiki/9.3\u00d762mm",
           "/wiki/9.3\u00d764mm_Brenneke",
-          null,
           "/wiki/9.3\u00d774mmR"
         ]
       ]

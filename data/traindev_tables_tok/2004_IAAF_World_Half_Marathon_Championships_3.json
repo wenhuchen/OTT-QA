@@ -3,62 +3,36 @@
   "title": "2004 IAAF World Half Marathon Championships",
   "header": [
     [
-      [
-        "Rank"
-      ],
-      [
-        null
-      ]
+      "Rank",
+      []
     ],
     [
-      [
-        "Country"
-      ],
-      [
-        null
-      ]
+      "Country",
+      []
     ],
     [
-      [
-        "Team"
-      ],
-      [
-        null
-      ]
+      "Team",
+      []
     ],
     [
-      [
-        "Time"
-      ],
-      [
-        null
-      ]
+      "Time",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "Ethiopia"
-        ],
+        "Ethiopia",
         [
           "/wiki/Ethiopia"
         ]
       ],
       [
-        [
-          "Eyerusalem Kuma",
-          "Bezunesh Bekele",
-          "Teyba Erkesso"
-        ],
+        "Eyerusalem Kuma Bezunesh Bekele Teyba Erkesso",
         [
           "/wiki/Eyerusalem_Kuma",
           "/wiki/Bezunesh_Bekele",
@@ -66,37 +40,23 @@
         ]
       ],
       [
-        [
-          "3:36:00"
-        ],
-        [
-          null
-        ]
+        "3:36:00",
+        []
       ]
     ],
     [
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "Romania"
-        ],
+        "Romania",
         [
           "/wiki/Romania"
         ]
       ],
       [
-        [
-          "Constantina Di\u0163\u0103-Tomescu",
-          "Mihaela Botezan",
-          "Lumini\u021ba Talpo\u0219"
-        ],
+        "Constantina Di\u0163\u0103-Tomescu Mihaela Botezan Lumini\u021ba Talpo\u0219",
         [
           "/wiki/Constantina_Di\u0163\u0103-Tomescu",
           "/wiki/Mihaela_Botezan",
@@ -104,113 +64,66 @@
         ]
       ],
       [
-        [
-          "3:36:08"
-        ],
-        [
-          null
-        ]
+        "3:36:08",
+        []
       ]
     ],
     [
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "Russia"
-        ],
+        "Russia",
         [
           "/wiki/Russia"
         ]
       ],
       [
-        [
-          "Irina Timofeyeva",
-          "Alina Ivanova",
-          "Yelena Burykina"
-        ],
+        "Irina Timofeyeva Alina Ivanova Yelena Burykina",
         [
           "/wiki/Irina_Timofeyeva",
-          "/wiki/Alina_Ivanova",
-          null
+          "/wiki/Alina_Ivanova"
         ]
       ],
       [
-        [
-          "3:38:21"
-        ],
-        [
-          null
-        ]
+        "3:38:21",
+        []
       ]
     ],
     [
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "Japan"
-        ],
+        "Japan",
         [
           "/wiki/Japan"
         ]
       ],
       [
-        [
-          "Yuki Saito",
-          "Kei Terada",
-          "Keiko Isogai"
-        ],
-        [
-          null,
-          null,
-          null
-        ]
+        "Yuki Saito Kei Terada Keiko Isogai",
+        []
       ],
       [
-        [
-          "3:38:51"
-        ],
-        [
-          null
-        ]
+        "3:38:51",
+        []
       ]
     ],
     [
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "Italy"
-        ],
+        "Italy",
         [
           "/wiki/Italy"
         ]
       ],
       [
-        [
-          "Gloria Marconi",
-          "Patrizia Tisi",
-          "Ivana Iozzia"
-        ],
+        "Gloria Marconi Patrizia Tisi Ivana Iozzia",
         [
           "/wiki/Gloria_Marconi",
           "/wiki/Patrizia_Tisi",
@@ -218,164 +131,94 @@
         ]
       ],
       [
-        [
-          "3:43:39"
-        ],
-        [
-          null
-        ]
+        "3:43:39",
+        []
       ]
     ],
     [
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "France"
-        ],
+        "France",
         [
           "/wiki/France"
         ]
       ],
       [
+        "Fatiha Klilech-Fauvel Christelle Daunay Yamna Oubouhou",
         [
-          "Fatiha Klilech-Fauvel",
-          "Christelle Daunay",
-          "Yamna Oubouhou"
-        ],
-        [
-          null,
           "/wiki/Christelle_Daunay",
           "/wiki/Yamna_Oubouhou"
         ]
       ],
       [
-        [
-          "3:46:26"
-        ],
-        [
-          null
-        ]
+        "3:46:26",
+        []
       ]
     ],
     [
       [
-        [
-          "7"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ],
       [
-        [
-          "United States"
-        ],
+        "United States",
         [
           "/wiki/United_States"
         ]
       ],
       [
-        [
-          "Emily Nay",
-          "Kimberly Fitchen-Young",
-          "Melissa White"
-        ],
-        [
-          null,
-          null,
-          null
-        ]
+        "Emily Nay Kimberly Fitchen-Young Melissa White",
+        []
       ],
       [
-        [
-          "3:53:31"
-        ],
-        [
-          null
-        ]
+        "3:53:31",
+        []
       ]
     ],
     [
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "India"
-        ],
+        "India",
         [
           "/wiki/India"
         ]
       ],
       [
-        [
-          "Geeta Rani",
-          "Sarita Marbade",
-          "Purshot Laima Devi"
-        ],
-        [
-          null,
-          null,
-          null
-        ]
+        "Geeta Rani Sarita Marbade Purshot Laima Devi",
+        []
       ],
       [
-        [
-          "4:11:00"
-        ],
-        [
-          null
-        ]
+        "4:11:00",
+        []
       ]
     ],
     [
       [
-        [
-          "-"
-        ],
-        [
-          null
-        ]
+        "-",
+        []
       ],
       [
-        [
-          "Kenya"
-        ],
+        "Kenya",
         [
           "/wiki/Kenya"
         ]
       ],
       [
-        [
-          "Lydia Cheromei",
-          "Rita Sitienei Jeptoo",
-          "Emily Kimuria"
-        ],
+        "Lydia Cheromei Rita Sitienei Jeptoo Emily Kimuria",
         [
           "/wiki/Lydia_Cheromei",
-          "/wiki/Rita_Sitienei_Jeptoo",
-          null
+          "/wiki/Rita_Sitienei_Jeptoo"
         ]
       ],
       [
-        [
-          "DNF"
-        ],
-        [
-          null
-        ]
+        "DNF",
+        []
       ]
     ]
   ],

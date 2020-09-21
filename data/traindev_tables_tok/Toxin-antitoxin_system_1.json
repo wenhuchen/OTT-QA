@@ -3,52 +3,34 @@
   "title": "Toxin-antitoxin system",
   "header": [
     [
-      [
-        "Toxin"
-      ],
-      [
-        null
-      ]
+      "Toxin",
+      []
     ],
     [
-      [
-        "Antitoxin"
-      ],
-      [
-        null
-      ]
+      "Antitoxin",
+      []
     ],
     [
-      [
-        "Notes"
-      ],
-      [
-        null
-      ]
+      "Notes",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "ccdB"
-        ],
+        "ccdB",
         [
           "/wiki/CcdA/CcdB_Type_II_Toxin-antitoxin_system"
         ]
       ],
       [
-        [
-          "ccdA"
-        ],
+        "ccdA",
         [
           "/wiki/CcdA/CcdB_Type_II_Toxin-antitoxin_system"
         ]
       ],
       [
-        [
-          "Escherichia coli"
-        ],
+        "Found on the F plasmid of Escherichia coli",
         [
           "/wiki/Escherichia_coli"
         ]
@@ -56,26 +38,19 @@
     ],
     [
       [
-        [
-          "parE"
-        ],
+        "parE",
         [
           "/wiki/ParDE_type_II_toxin-antitoxin_system"
         ]
       ],
       [
-        [
-          "parD"
-        ],
+        "parD",
         [
           "/wiki/ParDE_type_II_toxin-antitoxin_system"
         ]
       ],
       [
-        [
-          "multiple copies",
-          "Caulobacter crescentus"
-        ],
+        "Found in multiple copies in Caulobacter crescentus",
         [
           "/wiki/Copy-number_variation",
           "/wiki/Caulobacter_crescentus"
@@ -84,25 +59,15 @@
     ],
     [
       [
-        [
-          "mazF"
-        ],
-        [
-          null
-        ]
+        "mazF",
+        []
       ],
       [
-        [
-          "mazE"
-        ],
-        [
-          null
-        ]
+        "mazE",
+        []
       ],
       [
-        [
-          "chromosomes"
-        ],
+        "Found in E. coli and in chromosomes of other bacteria",
         [
           "/wiki/Chromosome"
         ]
@@ -110,51 +75,29 @@
     ],
     [
       [
-        [
-          "yafO"
-        ],
-        [
-          null
-        ]
+        "yafO",
+        []
       ],
       [
-        [
-          "yafN"
-        ],
-        [
-          null
-        ]
+        "yafN",
+        []
       ],
       [
-        [
-          "A system induced by the SOS response to DNA damage in E. coli"
-        ],
-        [
-          null
-        ]
+        "A system induced by the SOS response to DNA damage in E. coli",
+        []
       ]
     ],
     [
       [
-        [
-          "hicA"
-        ],
-        [
-          null
-        ]
+        "hicA",
+        []
       ],
       [
-        [
-          "hicB"
-        ],
-        [
-          null
-        ]
+        "hicB",
+        []
       ],
       [
-        [
-          "archaea"
-        ],
+        "Found in archaea and bacteria",
         [
           "/wiki/Archaea"
         ]
@@ -162,25 +105,15 @@
     ],
     [
       [
-        [
-          "kid"
-        ],
-        [
-          null
-        ]
+        "kid",
+        []
       ],
       [
-        [
-          "kis"
-        ],
-        [
-          null
-        ]
+        "kis",
+        []
       ],
       [
-        [
-          "R1 plasmid"
-        ],
+        "Stabilises the R1 plasmid and is related to the CcdB/A system",
         [
           "/wiki/R1_plasmid"
         ]
@@ -188,25 +121,17 @@
     ],
     [
       [
-        [
-          "\u03b6"
-        ],
+        "\u03b6",
         [
           "/wiki/Zeta_toxin_protein_domain"
         ]
       ],
       [
-        [
-          "\u03b5"
-        ],
-        [
-          null
-        ]
+        "\u03b5",
+        []
       ],
       [
-        [
-          "Gram-positive bacteria"
-        ],
+        "Found mostly in Gram-positive bacteria",
         [
           "/wiki/Gram-positive_bacteria"
         ]
@@ -214,26 +139,15 @@
     ],
     [
       [
-        [
-          "ataT"
-        ],
-        [
-          null
-        ]
+        "ataT",
+        []
       ],
       [
-        [
-          "ataR"
-        ],
-        [
-          null
-        ]
+        "ataR",
+        []
       ],
       [
-        [
-          "enterohemorragic E. coli",
-          "Klebsiella spp"
-        ],
+        "Found in enterohemorragic E. coli and Klebsiella spp",
         [
           "/wiki/Shigatoxigenic_and_verotoxigenic_Escherichia_coli",
           "/wiki/Klebsiella"

@@ -3,52 +3,36 @@
   "title": "List of airports in Mali",
   "header": [
     [
-      [
-        "City served"
-      ],
+      "City served",
       [
         "/wiki/List_of_cities_in_Mali"
       ]
     ],
     [
-      [
-        "ICAO"
-      ],
+      "ICAO",
       [
         "/wiki/ICAO_airport_code"
       ]
     ],
     [
-      [
-        "Airport name"
-      ],
-      [
-        null
-      ]
+      "Airport name",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Ansongo"
-        ],
+        "Ansongo",
         [
           "/wiki/Ansongo"
         ]
       ],
       [
-        [
-          "GAAO"
-        ],
-        [
-          null
-        ]
+        "GAAO",
+        []
       ],
       [
-        [
-          "Ansongo Airport"
-        ],
+        "Ansongo Airport",
         [
           "/wiki/Ansongo_Airport"
         ]
@@ -56,25 +40,17 @@
     ],
     [
       [
-        [
-          "Bafoulabe"
-        ],
+        "Bafoulabe",
         [
           "/wiki/Bafoulabe"
         ]
       ],
       [
-        [
-          "GABF"
-        ],
-        [
-          null
-        ]
+        "GABF",
+        []
       ],
       [
-        [
-          "Bafoulabe Airport"
-        ],
+        "Bafoulabe Airport",
         [
           "/wiki/Bafoulabe_Airport"
         ]
@@ -82,25 +58,17 @@
     ],
     [
       [
-        [
-          "Bamako"
-        ],
+        "Bamako",
         [
           "/wiki/Bamako"
         ]
       ],
       [
-        [
-          "GABS"
-        ],
-        [
-          null
-        ]
+        "GABS",
+        []
       ],
       [
-        [
-          "Senou International Airport"
-        ],
+        "Senou International Airport",
         [
           "/wiki/Senou_International_Airport"
         ]
@@ -108,25 +76,17 @@
     ],
     [
       [
-        [
-          "Bandiagara"
-        ],
+        "Bandiagara",
         [
           "/wiki/Bandiagara"
         ]
       ],
       [
-        [
-          "GABD"
-        ],
-        [
-          null
-        ]
+        "GABD",
+        []
       ],
       [
-        [
-          "Bandiagara Airport"
-        ],
+        "Bandiagara Airport",
         [
           "/wiki/Bandiagara_Airport"
         ]
@@ -134,25 +94,17 @@
     ],
     [
       [
-        [
-          "Bougouni"
-        ],
+        "Bougouni",
         [
           "/wiki/Bougouni"
         ]
       ],
       [
-        [
-          "GABG"
-        ],
-        [
-          null
-        ]
+        "GABG",
+        []
       ],
       [
-        [
-          "Bougouni Airport"
-        ],
+        "Bougouni Airport",
         [
           "/wiki/Bougouni_Airport"
         ]
@@ -160,25 +112,17 @@
     ],
     [
       [
-        [
-          "Bourem"
-        ],
+        "Bourem",
         [
           "/wiki/Bourem"
         ]
       ],
       [
-        [
-          "GABR"
-        ],
-        [
-          null
-        ]
+        "GABR",
+        []
       ],
       [
-        [
-          "Bourem Airport"
-        ],
+        "Bourem Airport",
         [
           "/wiki/Bourem_Airport"
         ]
@@ -186,25 +130,17 @@
     ],
     [
       [
-        [
-          "Douentza"
-        ],
+        "Douentza",
         [
           "/wiki/Douentza"
         ]
       ],
       [
-        [
-          "GADZ"
-        ],
-        [
-          null
-        ]
+        "GADZ",
+        []
       ],
       [
-        [
-          "Douentza Airport"
-        ],
+        "Douentza Airport",
         [
           "/wiki/Douentza_Airport"
         ]
@@ -212,25 +148,17 @@
     ],
     [
       [
-        [
-          "Goundam"
-        ],
+        "Goundam",
         [
           "/wiki/Goundam"
         ]
       ],
       [
-        [
-          "GAGM"
-        ],
-        [
-          null
-        ]
+        "GAGM",
+        []
       ],
       [
-        [
-          "Goundam Airport"
-        ],
+        "Goundam Airport",
         [
           "/wiki/Goundam_Airport"
         ]
@@ -238,25 +166,17 @@
     ],
     [
       [
-        [
-          "Gao"
-        ],
+        "Gao",
         [
           "/wiki/Gao"
         ]
       ],
       [
-        [
-          "GAGO"
-        ],
-        [
-          null
-        ]
+        "GAGO",
+        []
       ],
       [
-        [
-          "Gao International Airport"
-        ],
+        "Gao International Airport",
         [
           "/wiki/Gao_International_Airport"
         ]
@@ -264,25 +184,17 @@
     ],
     [
       [
-        [
-          "Kayes"
-        ],
+        "Kayes",
         [
           "/wiki/Kayes"
         ]
       ],
       [
-        [
-          "GAKY"
-        ],
-        [
-          null
-        ]
+        "GAKY",
+        []
       ],
       [
-        [
-          "Kayes Airport"
-        ],
+        "Kayes Airport",
         [
           "/wiki/Kayes_Airport"
         ]
@@ -290,25 +202,17 @@
     ],
     [
       [
-        [
-          "Kenieba"
-        ],
+        "Kenieba",
         [
           "/wiki/Kenieba"
         ]
       ],
       [
-        [
-          "GAKA"
-        ],
-        [
-          null
-        ]
+        "GAKA",
+        []
       ],
       [
-        [
-          "Kenieba Airport"
-        ],
+        "Kenieba Airport",
         [
           "/wiki/Kenieba_Airport"
         ]
@@ -316,25 +220,17 @@
     ],
     [
       [
-        [
-          "Kidal"
-        ],
+        "Kidal",
         [
           "/wiki/Kidal"
         ]
       ],
       [
-        [
-          "GAKL"
-        ],
-        [
-          null
-        ]
+        "GAKL",
+        []
       ],
       [
-        [
-          "Kidal Airport"
-        ],
+        "Kidal Airport",
         [
           "/wiki/Kidal_Airport"
         ]
@@ -342,25 +238,17 @@
     ],
     [
       [
-        [
-          "Kita"
-        ],
+        "Kita",
         [
           "/wiki/Kita,_Mali"
         ]
       ],
       [
-        [
-          "GAKT"
-        ],
-        [
-          null
-        ]
+        "GAKT",
+        []
       ],
       [
-        [
-          "Kita Airport"
-        ],
+        "Kita Airport",
         [
           "/wiki/Kita_Airport"
         ]
@@ -368,25 +256,17 @@
     ],
     [
       [
-        [
-          "Kolokani"
-        ],
+        "Kolokani",
         [
           "/wiki/Kolokani"
         ]
       ],
       [
-        [
-          "GAKN"
-        ],
-        [
-          null
-        ]
+        "GAKN",
+        []
       ],
       [
-        [
-          "Kolokani Airport"
-        ],
+        "Kolokani Airport",
         [
           "/wiki/Kolokani_Airport"
         ]
@@ -394,25 +274,17 @@
     ],
     [
       [
-        [
-          "Koutiala"
-        ],
+        "Koutiala",
         [
           "/wiki/Koutiala"
         ]
       ],
       [
-        [
-          "GAKO"
-        ],
-        [
-          null
-        ]
+        "GAKO",
+        []
       ],
       [
-        [
-          "Koutiala Airport"
-        ],
+        "Koutiala Airport",
         [
           "/wiki/Koutiala_Airport"
         ]
@@ -420,25 +292,17 @@
     ],
     [
       [
-        [
-          "Manantali"
-        ],
+        "Manantali",
         [
           "/wiki/Manantali"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Bengassi Airport"
-        ],
+        "Bengassi Airport",
         [
           "/wiki/Bengassi_Airport"
         ]
@@ -446,25 +310,17 @@
     ],
     [
       [
-        [
-          "Markala"
-        ],
+        "Markala",
         [
           "/wiki/Markala"
         ]
       ],
       [
-        [
-          "GAMA"
-        ],
-        [
-          null
-        ]
+        "GAMA",
+        []
       ],
       [
-        [
-          "Markala Airport"
-        ],
+        "Markala Airport",
         [
           "/wiki/Markala_Airport"
         ]
@@ -472,25 +328,17 @@
     ],
     [
       [
-        [
-          "M\u00e9naka"
-        ],
+        "M\u00e9naka",
         [
           "/wiki/M\u00e9naka"
         ]
       ],
       [
-        [
-          "GAMK"
-        ],
-        [
-          null
-        ]
+        "GAMK",
+        []
       ],
       [
-        [
-          "Menaka Airport"
-        ],
+        "Menaka Airport",
         [
           "/wiki/Menaka_Airport"
         ]
@@ -498,25 +346,17 @@
     ],
     [
       [
-        [
-          "Mopti"
-        ],
+        "Mopti",
         [
           "/wiki/Mopti"
         ]
       ],
       [
-        [
-          "GAMB"
-        ],
-        [
-          null
-        ]
+        "GAMB",
+        []
       ],
       [
-        [
-          "Mopti Airport"
-        ],
+        "Mopti Airport",
         [
           "/wiki/Mopti_Airport"
         ]
@@ -524,25 +364,17 @@
     ],
     [
       [
-        [
-          "Nara"
-        ],
+        "Nara",
         [
           "/wiki/Nara,_Mali"
         ]
       ],
       [
-        [
-          "GANK"
-        ],
-        [
-          null
-        ]
+        "GANK",
+        []
       ],
       [
-        [
-          "Keibane Airport"
-        ],
+        "Keibane Airport",
         [
           "/wiki/Keibane_Airport"
         ]

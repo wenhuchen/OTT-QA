@@ -3,89 +3,56 @@
   "title": "Sally Corporation",
   "header": [
     [
-      [
-        "Name"
-      ],
-      [
-        null
-      ]
+      "Name",
+      []
     ],
     [
-      [
-        "Park"
-      ],
-      [
-        null
-      ]
+      "Park",
+      []
     ],
     [
-      [
-        "Location"
-      ],
-      [
-        null
-      ]
+      "Location",
+      []
     ],
     [
-      [
-        "Type"
-      ],
-      [
-        null
-      ]
+      "Type",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Around the World in 80 Days"
-        ],
+        "Around the World in 80 Days",
         [
           "/wiki/Around_the_World_in_80_Days_(Alton_Towers_ride)"
         ]
       ],
       [
-        [
-          "Alton Towers"
-        ],
+        "Alton Towers",
         [
           "/wiki/Alton_Towers"
         ]
       ],
       [
-        [
-          "Alton , Staffordshire"
-        ],
+        "Alton , Staffordshire , England",
         [
           "/wiki/Alton,_Staffordshire"
         ]
       ],
       [
-        [
-          "Redeveloped Dark Ride"
-        ],
-        [
-          null
-        ]
+        "Redeveloped Dark Ride",
+        []
       ]
     ],
     [
       [
-        [
-          "Boo Blasters on Boo Hill"
-        ],
+        "Boo Blasters on Boo Hill",
         [
           "/wiki/Boo_Blasters_on_Boo_Hill"
         ]
       ],
       [
-        [
-          "Canada 's Wonderland",
-          "Carowinds",
-          "Kings Dominion",
-          "Kings Island"
-        ],
+        "Canada 's Wonderland Carowinds Kings Dominion Kings Island",
         [
           "/wiki/Canada's_Wonderland",
           "/wiki/Carowinds",
@@ -94,13 +61,7 @@
         ]
       ],
       [
-        [
-          "Vaughan",
-          "Ontario",
-          "Charlotte , North Carolina",
-          "Doswell , Virginia",
-          "Mason , Ohio"
-        ],
+        "Vaughan , Ontario , Canada Charlotte , North Carolina , United States Doswell , Virginia , United States Mason , Ohio , United States",
         [
           "/wiki/Vaughan",
           "/wiki/Ontario",
@@ -110,175 +71,114 @@
         ]
       ],
       [
-        [
-          "Interactive Dark Ride"
-        ],
-        [
-          null
-        ]
+        "Interactive Dark Ride",
+        []
       ]
     ],
     [
       [
-        [
-          "Challenge of Tutankhamen"
-        ],
-        [
-          null
-        ]
+        "Challenge of Tutankhamen",
+        []
       ],
       [
-        [
-          "Walibi Belgium"
-        ],
+        "Walibi Belgium",
         [
           "/wiki/Walibi_Belgium"
         ]
       ],
       [
-        [
-          "Wavre",
-          "Walloon Brabant"
-        ],
+        "Wavre , Walloon Brabant , Belgium",
         [
           "/wiki/Wavre",
           "/wiki/Walloon_Brabant"
         ]
       ],
       [
-        [
-          "Interactive Dark Ride"
-        ],
-        [
-          null
-        ]
+        "Interactive Dark Ride",
+        []
       ]
     ],
     [
       [
-        [
-          "Den of Lost Thieves"
-        ],
-        [
-          null
-        ]
+        "Den of Lost Thieves",
+        []
       ],
       [
-        [
-          "Indiana Beach",
-          "Seoul Land"
-        ],
+        "Indiana Beach Seoul Land",
         [
           "/wiki/Indiana_Beach",
           "/wiki/Seoul_Land"
         ]
       ],
       [
-        [
-          "Indiana",
-          "South Korea"
-        ],
+        "Indiana , United States South Korea",
         [
           "/wiki/Indiana",
           "/wiki/South_Korea"
         ]
       ],
       [
-        [
-          "Interactive Dark Ride"
-        ],
-        [
-          null
-        ]
+        "Interactive Dark Ride",
+        []
       ]
     ],
     [
       [
-        [
-          "E.T . Adventure"
-        ],
+        "E.T . Adventure",
         [
           "/wiki/E.T._Adventure"
         ]
       ],
       [
-        [
-          "Universal Studios Florida",
-          "Universal Studios Hollywood"
-        ],
+        "Universal Studios Florida Universal Studios Hollywood",
         [
           "/wiki/Universal_Studios_Florida",
           "/wiki/Universal_Studios_Hollywood"
         ]
       ],
       [
-        [
-          "Orlando , Florida",
-          "Universal City , California"
-        ],
+        "Orlando , Florida , United States Universal City , California , United States",
         [
           "/wiki/Orlando,_Florida",
           "/wiki/Universal_City,_California"
         ]
       ],
       [
-        [
-          "Conventional Dark Ride"
-        ],
-        [
-          null
-        ]
+        "Conventional Dark Ride",
+        []
       ]
     ],
     [
       [
-        [
-          "El Ultimo Minuto"
-        ],
-        [
-          null
-        ]
+        "El Ultimo Minuto",
+        []
       ],
       [
-        [
-          "Dinopolis"
-        ],
+        "Dinopolis",
         [
           "/wiki/Dinopolis"
         ]
       ],
       [
-        [
-          "Teruel"
-        ],
+        "Teruel , Spain",
         [
           "/wiki/Teruel"
         ]
       ],
       [
-        [
-          "Conventional Dark Ride"
-        ],
-        [
-          null
-        ]
+        "Conventional Dark Ride",
+        []
       ]
     ],
     [
       [
-        [
-          "Ghost Blasters"
-        ],
+        "Ghost Blasters",
         [
           "/wiki/Ghost_Blasters"
         ]
       ],
       [
-        [
-          "Castle Park",
-          "Nickelodeon Universe",
-          "Santa Cruz Beach Boardwalk"
-        ],
+        "Castle Park Great Canadian Midway Nickelodeon Universe Santa Cruz Beach Boardwalk",
         [
           "/wiki/Castle_Park_(Amusement_Park)",
           "/wiki/Nickelodeon_Universe",
@@ -286,13 +186,7 @@
         ]
       ],
       [
-        [
-          "Riverside , California",
-          "Clifton Hill",
-          "Ontario",
-          "Minneapolis , Minnesota",
-          "Santa Cruz , California"
-        ],
+        "Riverside , California , United States Clifton Hill , Ontario , Canada Minneapolis , Minnesota , United States Santa Cruz , California , United States",
         [
           "/wiki/Riverside,_California",
           "/wiki/Clifton_Hill,_Niagara_Falls",
@@ -302,105 +196,71 @@
         ]
       ],
       [
-        [
-          "Interactive Dark Ride"
-        ],
-        [
-          null
-        ]
+        "Interactive Dark Ride",
+        []
       ]
     ],
     [
       [
-        [
-          "Ghost Blasters II"
-        ],
+        "Ghost Blasters II",
         [
           "/wiki/Ghost_Blasters"
         ]
       ],
       [
-        [
-          "Elitch Gardens Theme Park"
-        ],
+        "Elitch Gardens Theme Park",
         [
           "/wiki/Elitch_Gardens_Theme_Park"
         ]
       ],
       [
-        [
-          "Denver , Colorado"
-        ],
+        "Denver , Colorado , United States",
         [
           "/wiki/Denver,_Colorado"
         ]
       ],
       [
-        [
-          "Interactive Dark Ride"
-        ],
-        [
-          null
-        ]
+        "Interactive Dark Ride",
+        []
       ]
     ],
     [
       [
-        [
-          "Ghost Hunt"
-        ],
+        "Ghost Hunt",
         [
           "/wiki/Ghost_Blasters"
         ]
       ],
       [
-        [
-          "Lake Compounce"
-        ],
+        "Lake Compounce",
         [
           "/wiki/Lake_Compounce"
         ]
       ],
       [
-        [
-          "Bristol , Connecticut"
-        ],
+        "Bristol , Connecticut , United States",
         [
           "/wiki/Bristol,_Connecticut"
         ]
       ],
       [
-        [
-          "Interactive Dark Ride"
-        ],
-        [
-          null
-        ]
+        "Interactive Dark Ride",
+        []
       ]
     ],
     [
       [
-        [
-          "The Great Pistolero Roundup"
-        ],
-        [
-          null
-        ]
+        "The Great Pistolero Roundup",
+        []
       ],
       [
-        [
-          "Frontier City"
-        ],
+        "Family Kingdom Frontier City",
         [
           "/wiki/Frontier_City"
         ]
       ],
       [
-        [
-          "Myrtle Beach , South Carolina",
-          "Oklahoma City",
-          "Oklahoma"
-        ],
+        "Myrtle Beach , South Carolina , United States Oklahoma City , Oklahoma , United States",
         [
           "/wiki/Myrtle_Beach,_South_Carolina",
           "/wiki/Oklahoma_City",
@@ -408,73 +268,48 @@
         ]
       ],
       [
-        [
-          "Interactive Dark Ride"
-        ],
-        [
-          null
-        ]
+        "Interactive Dark Ride",
+        []
       ]
     ],
     [
       [
-        [
-          "Gobbler Getaway"
-        ],
+        "Gobbler Getaway",
         [
           "/wiki/Gobbler_Getaway"
         ]
       ],
       [
-        [
-          "Holiday World & Splashin ' Safari"
-        ],
+        "Holiday World & Splashin ' Safari",
         [
           "/wiki/Holiday_World_&_Splashin'_Safari"
         ]
       ],
       [
-        [
-          "Santa Claus , Indiana"
-        ],
+        "Santa Claus , Indiana , United States",
         [
           "/wiki/Santa_Claus,_Indiana"
         ]
       ],
       [
-        [
-          "Interactive Dark Ride"
-        ],
-        [
-          null
-        ]
+        "Interactive Dark Ride",
+        []
       ]
     ],
     [
       [
-        [
-          "Haunted Castle"
-        ],
-        [
-          null
-        ]
+        "Haunted Castle",
+        []
       ],
       [
-        [
-          "Santa Cruz Beach Boardwalk",
-          "Galaxyland"
-        ],
+        "Santa Cruz Beach Boardwalk Galaxyland",
         [
           "/wiki/Santa_Cruz_Beach_Boardwalk",
           "/wiki/Galaxyland"
         ]
       ],
       [
-        [
-          "Santa Cruz",
-          "California",
-          "Edmonton , Alberta , Canada"
-        ],
+        "Santa Cruz , California , United States Edmonton , Alberta , Canada",
         [
           "/wiki/Santa_Cruz,_California",
           "/wiki/California",
@@ -482,137 +317,90 @@
         ]
       ],
       [
-        [
-          "Custom Dark Ride"
-        ],
-        [
-          null
-        ]
+        "Custom Dark Ride",
+        []
       ]
     ],
     [
       [
-        [
-          "Haunted Hotel"
-        ],
-        [
-          null
-        ]
+        "Haunted Hotel",
+        []
       ],
       [
-        [
-          "Myrtle Beach Pavilion"
-        ],
+        "Myrtle Beach Pavilion",
         [
           "/wiki/Myrtle_Beach_Pavilion"
         ]
       ],
       [
-        [
-          "Myrtle Beach",
-          "South Carolina"
-        ],
+        "Myrtle Beach , South Carolina , United States",
         [
           "/wiki/Myrtle_Beach",
           "/wiki/South_Carolina"
         ]
       ],
       [
-        [
-          "Redeveloped Dark Ride"
-        ],
-        [
-          null
-        ]
+        "Redeveloped Dark Ride",
+        []
       ]
     ],
     [
       [
-        [
-          "Jocco 's Mardi Gras Madness"
-        ],
+        "Jocco 's Mardi Gras Madness",
         [
           "/wiki/Jocco's_Mardi_Gras_Madness"
         ]
       ],
       [
-        [
-          "Six Flags New Orleans"
-        ],
+        "Six Flags New Orleans",
         [
           "/wiki/Six_Flags_New_Orleans"
         ]
       ],
       [
-        [
-          "New Orleans , Louisiana"
-        ],
+        "New Orleans , Louisiana , United States",
         [
           "/wiki/New_Orleans,_Louisiana"
         ]
       ],
       [
-        [
-          "Interactive Dark Ride"
-        ],
-        [
-          null
-        ]
+        "Interactive Dark Ride",
+        []
       ]
     ],
     [
       [
-        [
-          "Justice League : Alien Invasion 3D"
-        ],
+        "Justice League : Alien Invasion 3D",
         [
           "/wiki/Justice_League:_Alien_Invasion_3D"
         ]
       ],
       [
-        [
-          "Warner Bros. Movie World"
-        ],
+        "Warner Bros. Movie World",
         [
           "/wiki/Warner_Bros._Movie_World"
         ]
       ],
       [
-        [
-          "Gold Coast , Queensland"
-        ],
+        "Gold Coast , Queensland , Australia",
         [
           "/wiki/Gold_Coast,_Queensland"
         ]
       ],
       [
-        [
-          "Interactive Dark Ride"
-        ],
-        [
-          null
-        ]
+        "Interactive Dark Ride",
+        []
       ]
     ],
     [
       [
-        [
-          "Justice League : Battle for Metropolis"
-        ],
+        "Justice League : Battle for Metropolis",
         [
           "/wiki/Justice_League:_Battle_for_Metropolis"
         ]
       ],
       [
-        [
-          "Six Flags Over Texas",
-          "Six Flags St. Louis",
-          "Six Flags Great America",
-          "Six Flags Mexico",
-          "Six Flags Magic Mountain",
-          "Six Flags Great Adventure",
-          "Six Flags Over Georgia"
-        ],
+        "Six Flags Over Texas Six Flags St. Louis Six Flags Great America Six Flags Mexico Six Flags Magic Mountain Six Flags Great Adventure Six Flags Over Georgia",
         [
           "/wiki/Six_Flags_Over_Texas",
           "/wiki/Six_Flags_St._Louis",
@@ -624,15 +412,7 @@
         ]
       ],
       [
-        [
-          "Arlington , Texas",
-          "Eureka , Missouri",
-          "Gurnee , Illinois",
-          "Mexico City",
-          "Valencia , California",
-          "Jackson , New Jersey",
-          "Austell , Georgia"
-        ],
+        "Arlington , Texas , United States Eureka , Missouri , United States Gurnee , Illinois , United States Mexico City , Mexico Valencia , California , United States Jackson , New Jersey , United States Austell , Georgia , United States",
         [
           "/wiki/Arlington,_Texas",
           "/wiki/Eureka,_Missouri",
@@ -644,133 +424,86 @@
         ]
       ],
       [
-        [
-          "Interactive Dark Ride"
-        ],
-        [
-          null
-        ]
+        "Interactive Dark Ride",
+        []
       ]
     ],
     [
       [
-        [
-          "La Aventura de Scooby-Doo"
-        ],
-        [
-          null
-        ]
+        "La Aventura de Scooby-Doo",
+        []
       ],
       [
-        [
-          "Parque Warner Madrid"
-        ],
+        "Parque Warner Madrid",
         [
           "/wiki/Parque_Warner_Madrid"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "Spain",
+        []
       ],
       [
-        [
-          "Interactive Dark Ride"
-        ],
-        [
-          null
-        ]
+        "Interactive Dark Ride",
+        []
       ]
     ],
     [
       [
-        [
-          "Labyrinth of the Minotaur"
-        ],
-        [
-          null
-        ]
+        "Labyrinth of the Minotaur",
+        []
       ],
       [
-        [
-          "Terra M\u00edtica"
-        ],
+        "Terra M\u00edtica",
         [
           "/wiki/Terra_M\u00edtica"
         ]
       ],
       [
-        [
-          "Benidorm",
-          "Alicante province"
-        ],
+        "Benidorm , Alicante province , Spain",
         [
           "/wiki/Benidorm",
           "/wiki/Alicante_province"
         ]
       ],
       [
-        [
-          "Interactive Dark Ride"
-        ],
-        [
-          null
-        ]
+        "Interactive Dark Ride",
+        []
       ]
     ],
     [
       [
-        [
-          "Laser Raiders"
-        ],
+        "Laser Raiders",
         [
           "/wiki/Laser_Raiders"
         ]
       ],
       [
-        [
-          "Legoland Windsor"
-        ],
+        "Legoland Windsor",
         [
           "/wiki/Legoland_Windsor"
         ]
       ],
       [
-        [
-          "Windsor , Berkshire"
-        ],
+        "Windsor , Berkshire , England",
         [
           "/wiki/Windsor,_Berkshire"
         ]
       ],
       [
-        [
-          "Interactive Dark Ride"
-        ],
-        [
-          null
-        ]
+        "Interactive Dark Ride",
+        []
       ]
     ],
     [
       [
-        [
-          "Lost Kingdom Adventure"
-        ],
+        "Lost Kingdom Adventure",
         [
           "/wiki/Lost_Kingdom_Adventure"
         ]
       ],
       [
-        [
-          "Legoland California",
-          "Legoland Florida",
-          "Legoland Malaysia"
-        ],
+        "Legoland California Legoland Florida Legoland Malaysia",
         [
           "/wiki/Legoland_California",
           "/wiki/Legoland_Florida",
@@ -778,13 +511,7 @@
         ]
       ],
       [
-        [
-          "Carlsbad , California",
-          "Winter Haven , Florida",
-          "Nusajaya",
-          "Johor",
-          "Malaysia"
-        ],
+        "Carlsbad , California , United States Winter Haven , Florida , United States Nusajaya , Johor , Malaysia",
         [
           "/wiki/Carlsbad,_California",
           "/wiki/Winter_Haven,_Florida",
@@ -794,12 +521,8 @@
         ]
       ],
       [
-        [
-          "Interactive Dark Ride"
-        ],
-        [
-          null
-        ]
+        "Interactive Dark Ride",
+        []
       ]
     ]
   ],

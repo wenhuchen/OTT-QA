@@ -3,69 +3,40 @@
   "title": "Timeline of free and open-source software",
   "header": [
     [
-      [
-        "Date"
-      ],
-      [
-        null
-      ]
+      "Date",
+      []
     ],
     [
-      [
-        "Project"
-      ],
-      [
-        null
-      ]
+      "Project",
+      []
     ],
     [
-      [
-        "Event"
-      ],
-      [
-        null
-      ]
+      "Event",
+      []
     ],
     [
-      [
-        "Achievements"
-      ],
-      [
-        null
-      ]
+      "Achievements",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "2000"
-        ],
-        [
-          null
-        ]
+        "2000",
+        []
       ],
       [
-        [
-          "LLVM"
-        ],
+        "LLVM",
         [
           "/wiki/LLVM"
         ]
       ],
       [
-        [
-          "Compiler toolkit , started at the University of Illinois at Urbana-Champaign . Initially a research project and known as Low-Level Virtual Machine"
-        ],
-        [
-          null
-        ]
+        "Compiler toolkit , started at the University of Illinois at Urbana-Champaign . Initially a research project and known as Low-Level Virtual Machine",
+        []
       ],
       [
-        [
-          "Apple",
-          "Mac OS X"
-        ],
+        "Adopted by Apple as their primary compilation platform for Mac OS X",
         [
           "/wiki/Apple_Inc.",
           "/wiki/MacOS"
@@ -74,103 +45,66 @@
     ],
     [
       [
-        [
-          "2001"
-        ],
-        [
-          null
-        ]
+        "2001",
+        []
       ],
       [
-        [
-          "Free Software Foundation Europe"
-        ],
+        "Free Software Foundation Europe",
         [
           "/wiki/Free_Software_Foundation_Europe"
         ]
       ],
       [
-        [
-          "software patents"
-        ],
+        "Founded to support free software and oppose software patents in Europe",
         [
           "/wiki/Software_patent"
         ]
       ],
       [
-        [
-          "Theodor Heuss Medal ( 2010 )"
-        ],
-        [
-          null
-        ]
+        "Theodor Heuss Medal ( 2010 )",
+        []
       ]
     ],
     [
       [
-        [
-          "2002"
-        ],
-        [
-          null
-        ]
+        "2002",
+        []
       ],
       [
-        [
-          "Blender"
-        ],
+        "Blender",
         [
           "/wiki/Blender_(software)"
         ]
       ],
       [
-        [
-          "proprietary software",
-          "crowdfunding"
-        ],
+        "Formerly proprietary software , released as open source in 2002 after a crowdfunding campaign",
         [
           "/wiki/Proprietary_software",
           "/wiki/Crowdfunding"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "2002"
-        ],
-        [
-          null
-        ]
+        "2002",
+        []
       ],
       [
-        [
-          "MediaWiki"
-        ],
+        "MediaWiki",
         [
           "/wiki/MediaWiki"
         ]
       ],
       [
-        [
-          "There was no name for the project , until the Wikimedia Foundation was announced in June 2003 , when name MediaWiki was coined by a Wikipedia contributor"
-        ],
-        [
-          null
-        ]
+        "There was no name for the project , until the Wikimedia Foundation was announced in June 2003 , when name MediaWiki was coined by a Wikipedia contributor",
+        []
       ],
       [
-        [
-          "Wikipedia"
-        ],
+        "Integral to the development of Wikipedia",
         [
           "/wiki/Wikipedia"
         ]
@@ -178,137 +112,84 @@
     ],
     [
       [
-        [
-          "2003 , February"
-        ],
-        [
-          null
-        ]
+        "2003 , February",
+        []
       ],
       [
-        [
-          "New Zealand Open Source Society"
-        ],
+        "New Zealand Open Source Society",
         [
           "/wiki/New_Zealand_Open_Source_Society"
         ]
       ],
       [
-        [
-          "New Zealand Open Source Society ( NZOSS ) , a non-profit organization and incorporated society began with a suggestive letter by David Lane to the government , along with 400 supporters signatures to begin the advancement of open software in New Zealand"
-        ],
-        [
-          null
-        ]
+        "New Zealand Open Source Society ( NZOSS ) , a non-profit organization and incorporated society began with a suggestive letter by David Lane to the government , along with 400 supporters signatures to begin the advancement of open software in New Zealand",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "2003 , April"
-        ],
-        [
-          null
-        ]
+        "2003 , April",
+        []
       ],
       [
-        [
-          "Firefox"
-        ],
+        "Firefox",
         [
           "/wiki/Firefox"
         ]
       ],
       [
-        [
-          "Mozilla Application Suite",
-          "Mozilla Project"
-        ],
+        "Descended from the Mozilla Application Suite , the project started as an experimental branch of the Mozilla Project . Originally titled Phoenix , then renamed as Firebird , the project was finally named Mozilla Firefox . The version 1.0 was released on November 9 , 2004",
         [
           "/wiki/Mozilla_Application_Suite",
           "/wiki/Mozilla_Project"
         ]
       ],
       [
-        [
-          "Second most popular web browser in the world"
-        ],
-        [
-          null
-        ]
+        "Second most popular web browser in the world",
+        []
       ]
     ],
     [
       [
-        [
-          "2004"
-        ],
-        [
-          null
-        ]
+        "2004",
+        []
       ],
       [
-        [
-          "Ubuntu"
-        ],
+        "Ubuntu",
         [
           "/wiki/Ubuntu"
         ]
       ],
       [
-        [
-          "a user friendly linux distro"
-        ],
-        [
-          null
-        ]
+        "a user friendly linux distro",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "2005"
-        ],
-        [
-          null
-        ]
+        "2005",
+        []
       ],
       [
-        [
-          "Git"
-        ],
+        "Git",
         [
           "/wiki/Git"
         ]
       ],
       [
-        [
-          "Created by Linux founder Linus Torvalds"
-        ],
-        [
-          null
-        ]
+        "Created by Linux founder Linus Torvalds",
+        []
       ],
       [
-        [
-          "distributed revision control system"
-        ],
+        "World 's most popular distributed revision control system",
         [
           "/wiki/Distributed_version_control"
         ]
@@ -316,33 +197,21 @@
     ],
     [
       [
-        [
-          "2008 , September"
-        ],
-        [
-          null
-        ]
+        "2008 , September",
+        []
       ],
       [
-        [
-          "Chromium"
-        ],
+        "Chromium",
         [
           "/wiki/Chromium_(web_browser)"
         ]
       ],
       [
-        [
-          "Released by Google"
-        ],
-        [
-          null
-        ]
+        "Released by Google",
+        []
       ],
       [
-        [
-          "Google Chrome"
-        ],
+        "Forms the majority of the code in Google Chrome , the most popular web browser in the world",
         [
           "/wiki/Google_Chrome"
         ]
@@ -350,67 +219,41 @@
     ],
     [
       [
-        [
-          "2008"
-        ],
-        [
-          null
-        ]
+        "2008",
+        []
       ],
       [
-        [
-          "Android"
-        ],
+        "Android",
         [
           "/wiki/Android_(operating_system)"
         ]
       ],
       [
-        [
-          "Released by Google"
-        ],
-        [
-          null
-        ]
+        "Released by Google",
+        []
       ],
       [
-        [
-          "Most popular mobile platform in the world"
-        ],
-        [
-          null
-        ]
+        "Most popular mobile platform in the world",
+        []
       ]
     ],
     [
       [
-        [
-          "2009"
-        ],
-        [
-          null
-        ]
+        "2009",
+        []
       ],
       [
-        [
-          "Chromium OS"
-        ],
+        "Chromium OS",
         [
           "/wiki/Chromium_OS"
         ]
       ],
       [
-        [
-          "Released by Google"
-        ],
-        [
-          null
-        ]
+        "Released by Google",
+        []
       ],
       [
-        [
-          "Chromebooks"
-        ],
+        "Has since enjoyed popular use in types of devices known as Chromebooks and Chromeboxes",
         [
           "/wiki/Chromebook"
         ]

@@ -3,445 +3,273 @@
   "title": "Ranked lists of Chilean regions",
   "header": [
     [
-      [
-        "Region"
-      ],
-      [
-        null
-      ]
+      "Region",
+      []
     ],
     [
-      [
-        "Main economic activity"
-      ],
-      [
-        null
-      ]
+      "Main economic activity",
+      []
     ],
     [
-      [
-        "% of regional GDP"
-      ],
-      [
-        null
-      ]
+      "% of regional GDP",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Arica and Parinacota"
-        ],
+        "Arica and Parinacota",
         [
           "/wiki/Arica_and_Parinacota_Region"
         ]
       ],
       [
-        [
-          "Personal services"
-        ],
-        [
-          null
-        ]
+        "Personal services",
+        []
       ],
       [
-        [
-          "19.90"
-        ],
-        [
-          null
-        ]
+        "19.90",
+        []
       ]
     ],
     [
       [
-        [
-          "Tarapac\u00e1"
-        ],
+        "Tarapac\u00e1",
         [
           "/wiki/Tarapac\u00e1_Region"
         ]
       ],
       [
-        [
-          "Mining"
-        ],
-        [
-          null
-        ]
+        "Mining",
+        []
       ],
       [
-        [
-          "44.84"
-        ],
-        [
-          null
-        ]
+        "44.84",
+        []
       ]
     ],
     [
       [
-        [
-          "Antofagasta"
-        ],
+        "Antofagasta",
         [
           "/wiki/Antofagasta_Region"
         ]
       ],
       [
-        [
-          "Mining"
-        ],
-        [
-          null
-        ]
+        "Mining",
+        []
       ],
       [
-        [
-          "56.30"
-        ],
-        [
-          null
-        ]
+        "56.30",
+        []
       ]
     ],
     [
       [
-        [
-          "Atacama"
-        ],
+        "Atacama",
         [
           "/wiki/Atacama_Region"
         ]
       ],
       [
-        [
-          "Mining"
-        ],
-        [
-          null
-        ]
+        "Mining",
+        []
       ],
       [
-        [
-          "44.33"
-        ],
-        [
-          null
-        ]
+        "44.33",
+        []
       ]
     ],
     [
       [
-        [
-          "Coquimbo"
-        ],
+        "Coquimbo",
         [
           "/wiki/Coquimbo_Region"
         ]
       ],
       [
-        [
-          "Mining"
-        ],
-        [
-          null
-        ]
+        "Mining",
+        []
       ],
       [
-        [
-          "35.00"
-        ],
-        [
-          null
-        ]
+        "35.00",
+        []
       ]
     ],
     [
       [
-        [
-          "Valpara\u00edso"
-        ],
+        "Valpara\u00edso",
         [
           "/wiki/Valpara\u00edso_Region"
         ]
       ],
       [
-        [
-          "Manufacturing industry"
-        ],
-        [
-          null
-        ]
+        "Manufacturing industry",
+        []
       ],
       [
-        [
-          "18.31"
-        ],
-        [
-          null
-        ]
+        "18.31",
+        []
       ]
     ],
     [
       [
-        [
-          "Santiago"
-        ],
+        "Santiago",
         [
           "/wiki/Santiago_Metropolitan_Region"
         ]
       ],
       [
-        [
-          "Business and financial services"
-        ],
-        [
-          null
-        ]
+        "Business and financial services",
+        []
       ],
       [
-        [
-          "35.32"
-        ],
-        [
-          null
-        ]
+        "35.32",
+        []
       ]
     ],
     [
       [
-        [
-          "O'Higgins"
-        ],
+        "O'Higgins",
         [
           "/wiki/O'Higgins_Region"
         ]
       ],
       [
-        [
-          "Mining"
-        ],
-        [
-          null
-        ]
+        "Mining",
+        []
       ],
       [
-        [
-          "23.68"
-        ],
-        [
-          null
-        ]
+        "23.68",
+        []
       ]
     ],
     [
       [
-        [
-          "Maule"
-        ],
+        "Maule",
         [
           "/wiki/Maule_Region"
         ]
       ],
       [
-        [
-          "Manufacturing industry"
-        ],
-        [
-          null
-        ]
+        "Manufacturing industry",
+        []
       ],
       [
-        [
-          "15.90"
-        ],
-        [
-          null
-        ]
+        "15.90",
+        []
       ]
     ],
     [
       [
-        [
-          "Biob\u00edo"
-        ],
+        "Biob\u00edo",
         [
           "/wiki/Biob\u00edo_Region"
         ]
       ],
       [
-        [
-          "Manufacturing industry"
-        ],
-        [
-          null
-        ]
+        "Manufacturing industry",
+        []
       ],
       [
-        [
-          "23.83"
-        ],
-        [
-          null
-        ]
+        "23.83",
+        []
       ]
     ],
     [
       [
-        [
-          "Araucan\u00eda"
-        ],
+        "Araucan\u00eda",
         [
           "/wiki/Araucan\u00eda_Region"
         ]
       ],
       [
-        [
-          "Personal services"
-        ],
-        [
-          null
-        ]
+        "Personal services",
+        []
       ],
       [
-        [
-          "22.14"
-        ],
-        [
-          null
-        ]
+        "22.14",
+        []
       ]
     ],
     [
       [
-        [
-          "Los R\u00edos"
-        ],
+        "Los R\u00edos",
         [
           "/wiki/Los_R\u00edos_Region"
         ]
       ],
       [
-        [
-          "Manufacturing industry"
-        ],
-        [
-          null
-        ]
+        "Manufacturing industry",
+        []
       ],
       [
-        [
-          "24.03"
-        ],
-        [
-          null
-        ]
+        "24.03",
+        []
       ]
     ],
     [
       [
-        [
-          "Los Lagos"
-        ],
+        "Los Lagos",
         [
           "/wiki/Los_Lagos_Region"
         ]
       ],
       [
-        [
-          "Manufacturing industry"
-        ],
-        [
-          null
-        ]
+        "Manufacturing industry",
+        []
       ],
       [
-        [
-          "20.27"
-        ],
-        [
-          null
-        ]
+        "20.27",
+        []
       ]
     ],
     [
       [
-        [
-          "Ais\u00e9n"
-        ],
+        "Ais\u00e9n",
         [
           "/wiki/Ais\u00e9n_Region"
         ]
       ],
       [
-        [
-          "Public administration"
-        ],
-        [
-          null
-        ]
+        "Public administration",
+        []
       ],
       [
-        [
-          "19.66"
-        ],
-        [
-          null
-        ]
+        "19.66",
+        []
       ]
     ],
     [
       [
-        [
-          "Magallanes"
-        ],
+        "Magallanes",
         [
           "/wiki/Magallanes_Region"
         ]
       ],
       [
-        [
-          "Public administration"
-        ],
-        [
-          null
-        ]
+        "Public administration",
+        []
       ],
       [
-        [
-          "16.71"
-        ],
-        [
-          null
-        ]
+        "16.71",
+        []
       ]
     ],
     [
       [
-        [
-          "Chile"
-        ],
+        "Chile",
         [
           "/wiki/Chile"
         ]
       ],
       [
-        [
-          "Business and financial services"
-        ],
-        [
-          null
-        ]
+        "Business and financial services",
+        []
       ],
       [
-        [
-          "18.41"
-        ],
-        [
-          null
-        ]
+        "18.41",
+        []
       ]
     ]
   ],

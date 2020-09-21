@@ -3,62 +3,38 @@
   "title": "List of MTR stations",
   "header": [
     [
-      [
-        "Name"
-      ],
-      [
-        null
-      ]
+      "Name",
+      []
     ],
     [
-      [
-        "Connections"
-      ],
-      [
-        null
-      ]
+      "Connections",
+      []
     ],
     [
-      [
-        "District"
-      ],
+      "District",
       [
         "/wiki/Districts_of_Hong_Kong"
       ]
     ],
     [
-      [
-        "Opened"
-      ],
-      [
-        null
-      ]
+      "Opened",
+      []
     ],
     [
-      [
-        "Code"
-      ],
-      [
-        null
-      ]
+      "Code",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Tuen Mun"
-        ],
+        "Tuen Mun",
         [
           "/wiki/Tuen_Mun_station"
         ]
       ],
       [
-        [
-          "Light Rail",
-          "505",
-          "Tuen Mun Stop"
-        ],
+        "Transfer to Light Rail 505 507 751 at Tuen Mun Stop",
         [
           "/wiki/Light_Rail_(MTR)",
           "/wiki/MTR_Light_Rail_Route_505",
@@ -66,45 +42,29 @@
         ]
       ],
       [
-        [
-          "Tuen Mun"
-        ],
+        "Tuen Mun",
         [
           "/wiki/Tuen_Mun_District"
         ]
       ],
       [
-        [
-          "20 December 2003"
-        ],
-        [
-          null
-        ]
+        "20 December 2003",
+        []
       ],
       [
-        [
-          "TUM"
-        ],
-        [
-          null
-        ]
+        "TUM",
+        []
       ]
     ],
     [
       [
-        [
-          "Siu Hong"
-        ],
+        "Siu Hong",
         [
           "/wiki/Siu_Hong_station"
         ]
       ],
       [
-        [
-          "Light Rail",
-          "505",
-          "Siu Hong Stop"
-        ],
+        "Transfer to Light Rail 505 610 614 614P 615 615P 751 at Siu Hong Stop",
         [
           "/wiki/Light_Rail_(MTR)",
           "/wiki/MTR_Light_Rail_Route_505",
@@ -112,46 +72,29 @@
         ]
       ],
       [
-        [
-          "Tuen Mun"
-        ],
+        "Tuen Mun",
         [
           "/wiki/Tuen_Mun_District"
         ]
       ],
       [
-        [
-          "20 December 2003"
-        ],
-        [
-          null
-        ]
+        "20 December 2003",
+        []
       ],
       [
-        [
-          "SIH"
-        ],
-        [
-          null
-        ]
+        "SIH",
+        []
       ]
     ],
     [
       [
-        [
-          "Tin Shui Wai"
-        ],
+        "Tin Shui Wai",
         [
           "/wiki/Tin_Shui_Wai_station"
         ]
       ],
       [
-        [
-          "Light Rail",
-          "705",
-          "706",
-          "Tin Shui Wai Stop"
-        ],
+        "Transfer to Light Rail 705 706 751 751P at Tin Shui Wai Stop",
         [
           "/wiki/Light_Rail_(MTR)",
           "/wiki/MTR_Light_Rail_Routes_705_and_706",
@@ -160,412 +103,265 @@
         ]
       ],
       [
-        [
-          "Yuen Long"
-        ],
+        "Yuen Long",
         [
           "/wiki/Yuen_Long_District"
         ]
       ],
       [
-        [
-          "20 December 2003"
-        ],
-        [
-          null
-        ]
+        "20 December 2003",
+        []
       ],
       [
-        [
-          "TIS"
-        ],
-        [
-          null
-        ]
+        "TIS",
+        []
       ]
     ],
     [
       [
-        [
-          "Long Ping"
-        ],
+        "Long Ping",
         [
           "/wiki/Long_Ping_station"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Yuen Long"
-        ],
+        "Yuen Long",
         [
           "/wiki/Yuen_Long_District"
         ]
       ],
       [
-        [
-          "20 December 2003"
-        ],
-        [
-          null
-        ]
+        "20 December 2003",
+        []
       ],
       [
-        [
-          "LOP"
-        ],
-        [
-          null
-        ]
+        "LOP",
+        []
       ]
     ],
     [
       [
-        [
-          "Yuen Long"
-        ],
+        "Yuen Long",
         [
           "/wiki/Yuen_Long_station"
         ]
       ],
       [
-        [
-          "Light Rail",
-          "Yuen Long Stop"
-        ],
+        "Transfer to Light Rail 610 614 615 761P at Yuen Long Stop",
         [
           "/wiki/Light_Rail_(MTR)",
           "/wiki/Yuen_Long_Stop"
         ]
       ],
       [
-        [
-          "Yuen Long"
-        ],
+        "Yuen Long",
         [
           "/wiki/Yuen_Long_District"
         ]
       ],
       [
-        [
-          "20 December 2003"
-        ],
-        [
-          null
-        ]
+        "20 December 2003",
+        []
       ],
       [
-        [
-          "YUL"
-        ],
-        [
-          null
-        ]
+        "YUL",
+        []
       ]
     ],
     [
       [
-        [
-          "Kam Sheung Road"
-        ],
+        "Kam Sheung Road",
         [
           "/wiki/Kam_Sheung_Road_station"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Yuen Long"
-        ],
+        "Yuen Long",
         [
           "/wiki/Yuen_Long_District"
         ]
       ],
       [
-        [
-          "20 December 2003"
-        ],
-        [
-          null
-        ]
+        "20 December 2003",
+        []
       ],
       [
-        [
-          "KSR"
-        ],
-        [
-          null
-        ]
+        "KSR",
+        []
       ]
     ],
     [
       [
-        [
-          "Tsuen Wan West"
-        ],
+        "Tsuen Wan West",
         [
           "/wiki/Tsuen_Wan_West_station"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Tsuen Wan"
-        ],
+        "Tsuen Wan",
         [
           "/wiki/Tsuen_Wan_District"
         ]
       ],
       [
-        [
-          "20 December 2003"
-        ],
-        [
-          null
-        ]
+        "20 December 2003",
+        []
       ],
       [
-        [
-          "TWW"
-        ],
-        [
-          null
-        ]
+        "TWW",
+        []
       ]
     ],
     [
       [
-        [
-          "Mei Foo"
-        ],
+        "Mei Foo",
         [
           "/wiki/Mei_Foo_station"
         ]
       ],
       [
-        [
-          "Tsuen Wan line"
-        ],
+        "Tsuen Wan line",
         [
           "/wiki/Tsuen_Wan_line"
         ]
       ],
       [
-        [
-          "Sham Shui Po"
-        ],
+        "Sham Shui Po",
         [
           "/wiki/Sham_Shui_Po_District"
         ]
       ],
       [
-        [
-          "20 December 2003"
-        ],
-        [
-          null
-        ]
+        "20 December 2003",
+        []
       ],
       [
-        [
-          "MEF"
-        ],
-        [
-          null
-        ]
+        "MEF",
+        []
       ]
     ],
     [
       [
-        [
-          "Nam Cheong"
-        ],
+        "Nam Cheong",
         [
           "/wiki/Nam_Cheong_station"
         ]
       ],
       [
-        [
-          "Tung Chung line"
-        ],
+        "Tung Chung line",
         [
           "/wiki/Tung_Chung_line"
         ]
       ],
       [
-        [
-          "Sham Shui Po"
-        ],
+        "Sham Shui Po",
         [
           "/wiki/Sham_Shui_Po_District"
         ]
       ],
       [
-        [
-          "20 December 2003"
-        ],
-        [
-          null
-        ]
+        "20 December 2003",
+        []
       ],
       [
-        [
-          "NAC"
-        ],
-        [
-          null
-        ]
+        "NAC",
+        []
       ]
     ],
     [
       [
-        [
-          "Austin"
-        ],
+        "Austin",
         [
           "/wiki/Austin_station_(MTR)"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Yau Tsim Mong"
-        ],
+        "Yau Tsim Mong",
         [
           "/wiki/Yau_Tsim_Mong_District"
         ]
       ],
       [
-        [
-          "16 August 2009"
-        ],
-        [
-          null
-        ]
+        "16 August 2009",
+        []
       ],
       [
-        [
-          "AUS"
-        ],
-        [
-          null
-        ]
+        "AUS",
+        []
       ]
     ],
     [
       [
-        [
-          "East Tsim Sha Tsui"
-        ],
+        "East Tsim Sha Tsui",
         [
           "/wiki/East_Tsim_Sha_Tsui_station"
         ]
       ],
       [
-        [
-          "Tsuen Wan line",
-          "Tsim Sha Tsui Station"
-        ],
+        "Transfer to Tsuen Wan line via Tsim Sha Tsui Station",
         [
           "/wiki/Tsuen_Wan_line",
           "/wiki/Tsim_Sha_Tsui_Station"
         ]
       ],
       [
-        [
-          "Yau Tsim Mong"
-        ],
+        "Yau Tsim Mong",
         [
           "/wiki/Yau_Tsim_Mong_District"
         ]
       ],
       [
-        [
-          "24 October 2004"
-        ],
-        [
-          null
-        ]
+        "24 October 2004",
+        []
       ],
       [
-        [
-          "ETS"
-        ],
-        [
-          null
-        ]
+        "ETS",
+        []
       ]
     ],
     [
       [
-        [
-          "Hung Hom"
-        ],
+        "Hung Hom",
         [
           "/wiki/Hung_Hom_station"
         ]
       ],
       [
-        [
-          "East Rail line"
-        ],
+        "East Rail line",
         [
           "/wiki/East_Rail_line"
         ]
       ],
       [
-        [
-          "Yau Tsim Mong",
-          "Kowloon City"
-        ],
+        "Yau Tsim Mong / Kowloon City",
         [
           "/wiki/Yau_Tsim_Mong_District",
           "/wiki/Kowloon_City_District"
         ]
       ],
       [
-        [
-          "30 November 1975"
-        ],
-        [
-          null
-        ]
+        "30 November 1975",
+        []
       ],
       [
-        [
-          "HUH"
-        ],
-        [
-          null
-        ]
+        "HUH",
+        []
       ]
     ]
   ],

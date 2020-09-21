@@ -3,69 +3,40 @@
   "title": "List of RNAs",
   "header": [
     [
-      [
-        "Type"
-      ],
-      [
-        null
-      ]
+      "Type",
+      []
     ],
     [
-      [
-        "Abbr"
-      ],
-      [
-        null
-      ]
+      "Abbr",
+      []
     ],
     [
-      [
-        "Function"
-      ],
-      [
-        null
-      ]
+      "Function",
+      []
     ],
     [
-      [
-        "Distribution"
-      ],
-      [
-        null
-      ]
+      "Distribution",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Small nuclear RNA"
-        ],
+        "Small nuclear RNA",
         [
           "/wiki/Small_nuclear_RNA"
         ]
       ],
       [
-        [
-          "snRNA"
-        ],
-        [
-          null
-        ]
+        "snRNA",
+        []
       ],
       [
-        [
-          "Splicing and other functions"
-        ],
-        [
-          null
-        ]
+        "Splicing and other functions",
+        []
       ],
       [
-        [
-          "Eukaryotes",
-          "archaea"
-        ],
+        "Eukaryotes and archaea",
         [
           "/wiki/Eukaryotes",
           "/wiki/Archaea"
@@ -74,67 +45,41 @@
     ],
     [
       [
-        [
-          "Small nucleolar RNA"
-        ],
+        "Small nucleolar RNA",
         [
           "/wiki/Small_nucleolar_RNA"
         ]
       ],
       [
-        [
-          "snoRNA"
-        ],
-        [
-          null
-        ]
+        "snoRNA",
+        []
       ],
       [
-        [
-          "Nucleotide modification of RNAs"
-        ],
-        [
-          null
-        ]
+        "Nucleotide modification of RNAs",
+        []
       ],
       [
-        [
-          "Eukaryotes and archaea"
-        ],
-        [
-          null
-        ]
+        "Eukaryotes and archaea",
+        []
       ]
     ],
     [
       [
-        [
-          "SmY RNA"
-        ],
+        "SmY RNA",
         [
           "/wiki/SmY_RNA"
         ]
       ],
       [
-        [
-          "SmY"
-        ],
-        [
-          null
-        ]
+        "SmY",
+        []
       ],
       [
-        [
-          "mRNA trans-splicing"
-        ],
-        [
-          null
-        ]
+        "mRNA trans-splicing",
+        []
       ],
       [
-        [
-          "Nematodes"
-        ],
+        "Nematodes",
         [
           "/wiki/Nematodes"
         ]
@@ -142,68 +87,41 @@
     ],
     [
       [
-        [
-          "Small Cajal body-specific RNA"
-        ],
+        "Small Cajal body-specific RNA",
         [
           "/wiki/Small_Cajal_body-specific_RNA"
         ]
       ],
       [
-        [
-          "scaRNA"
-        ],
-        [
-          null
-        ]
+        "scaRNA",
+        []
       ],
       [
-        [
-          "Type of snoRNA ; Nucleotide modification of RNAs"
-        ],
-        [
-          null
-        ]
+        "Type of snoRNA ; Nucleotide modification of RNAs",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Guide RNA"
-        ],
+        "Guide RNA",
         [
           "/wiki/Guide_RNA"
         ]
       ],
       [
-        [
-          "gRNA"
-        ],
-        [
-          null
-        ]
+        "gRNA",
+        []
       ],
       [
-        [
-          "mRNA nucleotide modification"
-        ],
-        [
-          null
-        ]
+        "mRNA nucleotide modification",
+        []
       ],
       [
-        [
-          "Kinetoplastid",
-          "mitochondria"
-        ],
+        "Kinetoplastid mitochondria",
         [
           "/wiki/Kinetoplastida",
           "/wiki/Mitochondria"
@@ -212,101 +130,63 @@
     ],
     [
       [
-        [
-          "Ribonuclease P"
-        ],
+        "Ribonuclease P",
         [
           "/wiki/RNase_P"
         ]
       ],
       [
-        [
-          "RNase P"
-        ],
-        [
-          null
-        ]
+        "RNase P",
+        []
       ],
       [
-        [
-          "tRNA maturation"
-        ],
-        [
-          null
-        ]
+        "tRNA maturation",
+        []
       ],
       [
-        [
-          "All organisms"
-        ],
-        [
-          null
-        ]
+        "All organisms",
+        []
       ]
     ],
     [
       [
-        [
-          "Ribonuclease MRP"
-        ],
+        "Ribonuclease MRP",
         [
           "/wiki/RNase_MRP"
         ]
       ],
       [
-        [
-          "RNase MRP"
-        ],
-        [
-          null
-        ]
+        "RNase MRP",
+        []
       ],
       [
-        [
-          "DNA replication"
-        ],
+        "rRNA maturation , DNA replication",
         [
           "/wiki/DNA_replication"
         ]
       ],
       [
-        [
-          "Eukaryotes"
-        ],
-        [
-          null
-        ]
+        "Eukaryotes",
+        []
       ]
     ],
     [
       [
-        [
-          "Y RNA"
-        ],
+        "Y RNA",
         [
           "/wiki/Y_RNA"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "RNA processing , DNA replication"
-        ],
-        [
-          null
-        ]
+        "RNA processing , DNA replication",
+        []
       ],
       [
-        [
-          "Animals"
-        ],
+        "Animals",
         [
           "/wiki/Animal"
         ]
@@ -314,70 +194,44 @@
     ],
     [
       [
-        [
-          "Telomerase RNA Component"
-        ],
+        "Telomerase RNA Component",
         [
           "/wiki/Telomerase_RNA"
         ]
       ],
       [
-        [
-          "TERC"
-        ],
-        [
-          null
-        ]
+        "TERC",
+        []
       ],
       [
-        [
-          "Telomere"
-        ],
+        "Telomere synthesis",
         [
           "/wiki/Telomere"
         ]
       ],
       [
-        [
-          "Most eukaryotes"
-        ],
-        [
-          null
-        ]
+        "Most eukaryotes",
+        []
       ]
     ],
     [
       [
-        [
-          "Spliced Leader RNA"
-        ],
+        "Spliced Leader RNA",
         [
           "/wiki/SL1_RNA"
         ]
       ],
       [
-        [
-          "SL RNA"
-        ],
-        [
-          null
-        ]
+        "SL RNA",
+        []
       ],
       [
-        [
-          "mRNA trans-splicing , RNA processing"
-        ],
-        [
-          null
-        ]
+        "mRNA trans-splicing , RNA processing",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ]
   ],

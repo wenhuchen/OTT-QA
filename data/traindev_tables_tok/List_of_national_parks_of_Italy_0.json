@@ -3,70 +3,40 @@
   "title": "List of national parks of Italy",
   "header": [
     [
-      [
-        "Name"
-      ],
-      [
-        null
-      ]
+      "Name",
+      []
     ],
     [
-      [
-        "Regions"
-      ],
-      [
-        null
-      ]
+      "Regions",
+      []
     ],
     [
-      [
-        "Area"
-      ],
-      [
-        null
-      ]
+      "Area",
+      []
     ],
     [
-      [
-        "High Point"
-      ],
-      [
-        null
-      ]
+      "High Point",
+      []
     ],
     [
-      [
-        "Elevation"
-      ],
-      [
-        null
-      ]
+      "Elevation",
+      []
     ],
     [
-      [
-        "Established"
-      ],
-      [
-        null
-      ]
+      "Established",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Abruzzo , Lazio and Molise"
-        ],
+        "Abruzzo , Lazio and Molise",
         [
           "/wiki/Abruzzo_National_Park"
         ]
       ],
       [
-        [
-          "Abruzzo",
-          "Lazio",
-          "Molise"
-        ],
+        "Abruzzo , Lazio , Molise",
         [
           "/wiki/Abruzzo",
           "/wiki/Lazio",
@@ -74,271 +44,168 @@
         ]
       ],
       [
-        [
-          "506.83 km ( 195.69 sq mi )"
-        ],
-        [
-          null
-        ]
+        "506.83 km ( 195.69 sq mi )",
+        []
       ],
       [
-        [
-          "Monte Petroso"
-        ],
+        "Monte Petroso",
         [
           "/wiki/Monti_della_Meta"
         ]
       ],
       [
-        [
-          "2,249 m ( 7,379 ft )"
-        ],
-        [
-          null
-        ]
+        "2,249 m ( 7,379 ft )",
+        []
       ],
       [
-        [
-          "1923"
-        ],
-        [
-          null
-        ]
+        "1923",
+        []
       ]
     ],
     [
       [
-        [
-          "Alta Murgia"
-        ],
+        "Alta Murgia",
         [
           "/wiki/Alta_Murgia_National_Park"
         ]
       ],
       [
-        [
-          "Apulia"
-        ],
+        "Apulia",
         [
           "/wiki/Apulia"
         ]
       ],
       [
-        [
-          "677.39 km ( 261.54 sq mi )"
-        ],
-        [
-          null
-        ]
+        "677.39 km ( 261.54 sq mi )",
+        []
       ],
       [
-        [
-          "Torre Disperata"
-        ],
-        [
-          null
-        ]
+        "Torre Disperata",
+        []
       ],
       [
-        [
-          "686 m ( 2,251 ft )"
-        ],
-        [
-          null
-        ]
+        "686 m ( 2,251 ft )",
+        []
       ],
       [
-        [
-          "2004"
-        ],
-        [
-          null
-        ]
+        "2004",
+        []
       ]
     ],
     [
       [
-        [
-          "Appennino Lucano - Val d'Agri - Lagonegrese"
-        ],
+        "Appennino Lucano - Val d'Agri - Lagonegrese",
         [
           "/wiki/Appennino_Lucano_-_Val_d'Agri_-_Lagonegrese_National_Park"
         ]
       ],
       [
-        [
-          "Basilicata"
-        ],
+        "Basilicata",
         [
           "/wiki/Basilicata"
         ]
       ],
       [
-        [
-          "689.96 km ( 266.40 sq mi )"
-        ],
-        [
-          null
-        ]
+        "689.96 km ( 266.40 sq mi )",
+        []
       ],
       [
-        [
-          "Monte del Papa"
-        ],
-        [
-          null
-        ]
+        "Monte del Papa",
+        []
       ],
       [
-        [
-          "2,005 m ( 6,578 ft )"
-        ],
-        [
-          null
-        ]
+        "2,005 m ( 6,578 ft )",
+        []
       ],
       [
-        [
-          "2007"
-        ],
-        [
-          null
-        ]
+        "2007",
+        []
       ]
     ],
     [
       [
-        [
-          "Appennino Tosco-Emiliano"
-        ],
+        "Appennino Tosco-Emiliano",
         [
           "/wiki/Appennino_Tosco-Emiliano_National_Park"
         ]
       ],
       [
-        [
-          "Emilia-Romagna",
-          "Tuscany"
-        ],
+        "Emilia-Romagna , Tuscany",
         [
           "/wiki/Emilia-Romagna",
           "/wiki/Tuscany"
         ]
       ],
       [
-        [
-          "227.92 km ( 88.00 sq mi )"
-        ],
-        [
-          null
-        ]
+        "227.92 km ( 88.00 sq mi )",
+        []
       ],
       [
-        [
-          "Monte Cusna"
-        ],
+        "Monte Cusna",
         [
           "/wiki/Monte_Cusna"
         ]
       ],
       [
-        [
-          "2,121 m ( 6,959 ft )"
-        ],
-        [
-          null
-        ]
+        "2,121 m ( 6,959 ft )",
+        []
       ],
       [
-        [
-          "1997"
-        ],
-        [
-          null
-        ]
+        "1997",
+        []
       ]
     ],
     [
       [
-        [
-          "Archipelago of La Maddalena"
-        ],
+        "Archipelago of La Maddalena",
         [
           "/wiki/Arcipelago_di_La_Maddalena_National_Park"
         ]
       ],
       [
-        [
-          "Sardinia"
-        ],
+        "Sardinia",
         [
           "/wiki/Sardinia"
         ]
       ],
       [
-        [
-          "201.46 km ( 77.78 sq mi )"
-        ],
-        [
-          null
-        ]
+        "201.46 km ( 77.78 sq mi )",
+        []
       ],
       [
-        [
-          "Caprera"
-        ],
+        "Punta Tejalone , Caprera",
         [
           "/wiki/Caprera"
         ]
       ],
       [
-        [
-          "212 m ( 696 ft )"
-        ],
-        [
-          null
-        ]
+        "212 m ( 696 ft )",
+        []
       ],
       [
-        [
-          "1994"
-        ],
-        [
-          null
-        ]
+        "1994",
+        []
       ]
     ],
     [
       [
-        [
-          "Tuscan Archipelago"
-        ],
+        "Tuscan Archipelago",
         [
           "/wiki/Arcipelago_Toscano_National_Park"
         ]
       ],
       [
-        [
-          "Tuscany"
-        ],
+        "Tuscany",
         [
           "/wiki/Tuscany"
         ]
       ],
       [
-        [
-          "746.53 km ( 288.24 sq mi )"
-        ],
-        [
-          null
-        ]
+        "746.53 km ( 288.24 sq mi )",
+        []
       ],
       [
-        [
-          "Monte Capanne",
-          "Elba",
-          "Tuscan Archipelago"
-        ],
+        "Monte Capanne on Elba in the Tuscan Archipelago",
         [
           "/wiki/Monte_Capanne",
           "/wiki/Elba",
@@ -346,541 +213,335 @@
         ]
       ],
       [
-        [
-          "1,018 m ( 3,340 ft )"
-        ],
-        [
-          null
-        ]
+        "1,018 m ( 3,340 ft )",
+        []
       ],
       [
-        [
-          "1989"
-        ],
-        [
-          null
-        ]
+        "1989",
+        []
       ]
     ],
     [
       [
-        [
-          "Asinara"
-        ],
+        "Asinara",
         [
           "/wiki/Asinara_National_Park"
         ]
       ],
       [
-        [
-          "Sardinia"
-        ],
+        "Sardinia",
         [
           "/wiki/Sardinia"
         ]
       ],
       [
-        [
-          "269.60 km ( 104.09 sq mi )"
-        ],
-        [
-          null
-        ]
+        "269.60 km ( 104.09 sq mi )",
+        []
       ],
       [
-        [
-          "Punta Scomunica"
-        ],
-        [
-          null
-        ]
+        "Punta Scomunica",
+        []
       ],
       [
-        [
-          "408 m ( 1,339 ft )"
-        ],
-        [
-          null
-        ]
+        "408 m ( 1,339 ft )",
+        []
       ],
       [
-        [
-          "1997"
-        ],
-        [
-          null
-        ]
+        "1997",
+        []
       ]
     ],
     [
       [
-        [
-          "Aspromonte"
-        ],
+        "Aspromonte",
         [
           "/wiki/Aspromonte_National_Park"
         ]
       ],
       [
-        [
-          "Calabria"
-        ],
+        "Calabria",
         [
           "/wiki/Calabria"
         ]
       ],
       [
-        [
-          "760.53 km ( 293.64 sq mi )"
-        ],
-        [
-          null
-        ]
+        "760.53 km ( 293.64 sq mi )",
+        []
       ],
       [
-        [
-          "Montalto"
-        ],
+        "Montalto",
         [
           "/wiki/Montalto_(Aspromonte)"
         ]
       ],
       [
-        [
-          "1,955 m ( 6,414 ft )"
-        ],
-        [
-          null
-        ]
+        "1,955 m ( 6,414 ft )",
+        []
       ],
       [
-        [
-          "1989"
-        ],
-        [
-          null
-        ]
+        "1989",
+        []
       ]
     ],
     [
       [
-        [
-          "Cilento , Vallo di Diano , and Alburni"
-        ],
+        "Cilento , Vallo di Diano , and Alburni",
         [
           "/wiki/Parco_Nazionale_del_Cilento,_Vallo_di_Diano_e_Alburni"
         ]
       ],
       [
-        [
-          "Campania"
-        ],
+        "Campania",
         [
           "/wiki/Campania"
         ]
       ],
       [
-        [
-          "1,810.48 km ( 699.03 sq mi )"
-        ],
-        [
-          null
-        ]
+        "1,810.48 km ( 699.03 sq mi )",
+        []
       ],
       [
-        [
-          "Monte Cervati"
-        ],
-        [
-          null
-        ]
+        "Monte Cervati",
+        []
       ],
       [
-        [
-          "1,898 m ( 6,227 ft )"
-        ],
-        [
-          null
-        ]
+        "1,898 m ( 6,227 ft )",
+        []
       ],
       [
-        [
-          "1991"
-        ],
-        [
-          null
-        ]
+        "1991",
+        []
       ]
     ],
     [
       [
-        [
-          "Cinque Terre"
-        ],
+        "Cinque Terre",
         [
           "/wiki/Parco_Nazionale_delle_Cinque_Terre"
         ]
       ],
       [
-        [
-          "Liguria"
-        ],
+        "Liguria",
         [
           "/wiki/Liguria"
         ]
       ],
       [
-        [
-          "38.60 km ( 14.90 sq mi )"
-        ],
-        [
-          null
-        ]
+        "38.60 km ( 14.90 sq mi )",
+        []
       ],
       [
-        [
-          "Monte ( Mai- ) Pertuso"
-        ],
-        [
-          null
-        ]
+        "Monte ( Mai- ) Pertuso",
+        []
       ],
       [
-        [
-          "820 m ( 2,690 ft )"
-        ],
-        [
-          null
-        ]
+        "820 m ( 2,690 ft )",
+        []
       ],
       [
-        [
-          "1999"
-        ],
-        [
-          null
-        ]
+        "1999",
+        []
       ]
     ],
     [
       [
-        [
-          "Circeo"
-        ],
+        "Circeo",
         [
           "/wiki/Parco_Nazionale_del_Circeo"
         ]
       ],
       [
-        [
-          "Lazio"
-        ],
+        "Lazio",
         [
           "/wiki/Lazio"
         ]
       ],
       [
-        [
-          "84.40 km ( 32.59 sq mi )"
-        ],
-        [
-          null
-        ]
+        "84.40 km ( 32.59 sq mi )",
+        []
       ],
       [
-        [
-          "Monte Circeo"
-        ],
+        "Monte Circeo",
         [
           "/wiki/Monte_Circeo"
         ]
       ],
       [
-        [
-          "541 m ( 1,775 ft )"
-        ],
-        [
-          null
-        ]
+        "541 m ( 1,775 ft )",
+        []
       ],
       [
-        [
-          "1934"
-        ],
-        [
-          null
-        ]
+        "1934",
+        []
       ]
     ],
     [
       [
-        [
-          "Dolomiti Bellunesi"
-        ],
+        "Dolomiti Bellunesi",
         [
           "/wiki/Dolomiti_Bellunesi_National_Park"
         ]
       ],
       [
-        [
-          "Veneto"
-        ],
+        "Veneto",
         [
           "/wiki/Veneto"
         ]
       ],
       [
-        [
-          "31.51 km ( 12.17 sq mi )"
-        ],
-        [
-          null
-        ]
+        "31.51 km ( 12.17 sq mi )",
+        []
       ],
       [
-        [
-          "Monte Pavione"
-        ],
-        [
-          null
-        ]
+        "Monte Pavione",
+        []
       ],
       [
-        [
-          "2,335 m ( 7,661 ft )"
-        ],
-        [
-          null
-        ]
+        "2,335 m ( 7,661 ft )",
+        []
       ],
       [
-        [
-          "1988"
-        ],
-        [
-          null
-        ]
+        "1988",
+        []
       ]
     ],
     [
       [
-        [
-          "Foreste Casentinesi , Monte Falterona , and Campigna"
-        ],
+        "Foreste Casentinesi , Monte Falterona , and Campigna",
         [
           "/wiki/Foreste_Casentinesi,_Monte_Falterona,_Campigna_National_Park"
         ]
       ],
       [
-        [
-          "Emilia-Romagna",
-          "Tuscany"
-        ],
+        "Emilia-Romagna , Tuscany",
         [
           "/wiki/Emilia-Romagna",
           "/wiki/Tuscany"
         ]
       ],
       [
-        [
-          "364.00 km ( 140.54 sq mi )"
-        ],
-        [
-          null
-        ]
+        "364.00 km ( 140.54 sq mi )",
+        []
       ],
       [
-        [
-          "Monte Falterona"
-        ],
+        "Monte Falterona",
         [
           "/wiki/Monte_Falterona"
         ]
       ],
       [
-        [
-          "1,645 m ( 5,397 ft )"
-        ],
-        [
-          null
-        ]
+        "1,645 m ( 5,397 ft )",
+        []
       ],
       [
-        [
-          "1989"
-        ],
-        [
-          null
-        ]
+        "1989",
+        []
       ]
     ],
     [
       [
-        [
-          "Gargano"
-        ],
+        "Gargano",
         [
           "/wiki/Gargano_National_Park"
         ]
       ],
       [
-        [
-          "Apulia"
-        ],
+        "Apulia",
         [
           "/wiki/Apulia"
         ]
       ],
       [
-        [
-          "1,211.18 km ( 467.64 sq mi )"
-        ],
-        [
-          null
-        ]
+        "1,211.18 km ( 467.64 sq mi )",
+        []
       ],
       [
-        [
-          "Monte Calvo"
-        ],
-        [
-          null
-        ]
+        "Monte Calvo",
+        []
       ],
       [
-        [
-          "1,065 m ( 3,494 ft )"
-        ],
-        [
-          null
-        ]
+        "1,065 m ( 3,494 ft )",
+        []
       ],
       [
-        [
-          "1991"
-        ],
-        [
-          null
-        ]
+        "1991",
+        []
       ]
     ],
     [
       [
-        [
-          "Gennargentu"
-        ],
+        "Gennargentu",
         [
           "/wiki/Gennargentu_National_Park"
         ]
       ],
       [
-        [
-          "Sardinia"
-        ],
+        "Sardinia",
         [
           "/wiki/Sardinia"
         ]
       ],
       [
-        [
-          "730.00 km ( 281.85 sq mi )"
-        ],
-        [
-          null
-        ]
+        "730.00 km ( 281.85 sq mi )",
+        []
       ],
       [
-        [
-          "Punta La Marmora"
-        ],
+        "Punta La Marmora",
         [
           "/wiki/Punta_La_Marmora"
         ]
       ],
       [
-        [
-          "1,834 m ( 6,017 ft )"
-        ],
-        [
-          null
-        ]
+        "1,834 m ( 6,017 ft )",
+        []
       ],
       [
-        [
-          "1998"
-        ],
-        [
-          null
-        ]
+        "1998",
+        []
       ]
     ],
     [
       [
-        [
-          "Gran Paradiso"
-        ],
+        "Gran Paradiso",
         [
           "/wiki/Gran_Paradiso_National_Park"
         ]
       ],
       [
-        [
-          "Valle d'Aosta",
-          "Piedmont"
-        ],
+        "Valle d'Aosta , Piedmont",
         [
           "/wiki/Valle_d'Aosta",
           "/wiki/Piedmont"
         ]
       ],
       [
-        [
-          "700.00 km ( 270.27 sq mi )"
-        ],
-        [
-          null
-        ]
+        "700.00 km ( 270.27 sq mi )",
+        []
       ],
       [
-        [
-          "Gran Paradiso"
-        ],
+        "Gran Paradiso",
         [
           "/wiki/Gran_Paradiso"
         ]
       ],
       [
-        [
-          "4,061 m ( 13,323 ft )"
-        ],
-        [
-          null
-        ]
+        "4,061 m ( 13,323 ft )",
+        []
       ],
       [
-        [
-          "1922"
-        ],
-        [
-          null
-        ]
+        "1922",
+        []
       ]
     ],
     [
       [
-        [
-          "Gran Sasso and Monti della Laga"
-        ],
+        "Gran Sasso and Monti della Laga",
         [
           "/wiki/Gran_Sasso_e_Monti_della_Laga_National_Park"
         ]
       ],
       [
-        [
-          "Marche",
-          "Abruzzo",
-          "Lazio"
-        ],
+        "Marche , Abruzzo , Lazio",
         [
           "/wiki/Marche",
           "/wiki/Abruzzo",
@@ -888,136 +549,117 @@
         ]
       ],
       [
-        [
-          "1,413.31 km ( 545.68 sq mi )"
-        ],
-        [
-          null
-        ]
+        "1,413.31 km ( 545.68 sq mi )",
+        []
       ],
       [
-        [
-          "Corno Grande"
-        ],
+        "Corno Grande",
         [
           "/wiki/Corno_Grande"
         ]
       ],
       [
-        [
-          "2,912 m ( 9,554 ft )"
-        ],
-        [
-          null
-        ]
+        "2,912 m ( 9,554 ft )",
+        []
       ],
       [
-        [
-          "1991"
-        ],
-        [
-          null
-        ]
+        "1991",
+        []
       ]
     ],
     [
       [
-        [
-          "Pantelleria"
-        ],
+        "Isola di Pantelleria",
         [
           "/wiki/Pantelleria"
         ]
       ],
       [
-        [
-          "Sicily"
-        ],
+        "Sicily",
         [
           "/wiki/Sicily"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Montagna Grande"
-        ],
-        [
-          null
-        ]
+        "Montagna Grande",
+        []
       ],
       [
-        [
-          "836 m ( 2,743 ft )"
-        ],
-        [
-          null
-        ]
+        "836 m ( 2,743 ft )",
+        []
       ],
       [
-        [
-          "2016"
-        ],
-        [
-          null
-        ]
+        "2016",
+        []
       ]
     ],
     [
       [
-        [
-          "Majella"
-        ],
+        "Majella",
         [
           "/wiki/Maiella_National_Park"
         ]
       ],
       [
-        [
-          "Abruzzo"
-        ],
+        "Abruzzo",
         [
           "/wiki/Abruzzo"
         ]
       ],
       [
-        [
-          "704.00 km ( 271.82 sq mi )"
-        ],
-        [
-          null
-        ]
+        "704.00 km ( 271.82 sq mi )",
+        []
       ],
       [
-        [
-          "Monte Amaro"
-        ],
+        "Monte Amaro",
         [
           "/wiki/Maiella"
         ]
       ],
       [
+        "2,793 meters ( 9,163 ft )",
+        []
+      ],
+      [
+        "1991",
+        []
+      ]
+    ],
+    [
+      [
+        "Sibillini Mountains",
         [
-          "2,793 meters ( 9,163 ft )"
-        ],
-        [
-          null
+          "/wiki/Monti_Sibillini_National_Park"
         ]
       ],
       [
+        "Marche , Umbria",
         [
-          "1991"
-        ],
-        [
-          null
+          "/wiki/Marche",
+          "/wiki/Umbria"
         ]
+      ],
+      [
+        "697.22 km ( 269.20 sq mi )",
+        []
+      ],
+      [
+        "Monte Vettore",
+        [
+          "/wiki/Monte_Vettore"
+        ]
+      ],
+      [
+        "2,476 m ( 8,123 ft )",
+        []
+      ],
+      [
+        "1988",
+        []
       ]
     ]
   ],

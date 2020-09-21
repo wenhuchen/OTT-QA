@@ -3,62 +3,36 @@
   "title": "Anna & Kristina's Grocery Bag",
   "header": [
     [
-      [
-        "Season"
-      ],
-      [
-        null
-      ]
+      "Season",
+      []
     ],
     [
-      [
-        "Book title"
-      ],
-      [
-        null
-      ]
+      "Book title",
+      []
     ],
     [
-      [
-        "Book author ( s )"
-      ],
-      [
-        null
-      ]
+      "Book author ( s )",
+      []
     ],
     [
-      [
-        "Cuisine type or Genre"
-      ],
-      [
-        null
-      ]
+      "Cuisine type or Genre",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "Mastering the Art of French Cooking"
-        ],
+        "Mastering the Art of French Cooking , Volume 1",
         [
           "/wiki/Mastering_the_Art_of_French_Cooking"
         ]
       ],
       [
-        [
-          "Julia Child",
-          "Simone Beck",
-          "Louisette Bertholle"
-        ],
+        "Julia Child , Simone Beck , Louisette Bertholle",
         [
           "/wiki/Julia_Child",
           "/wiki/Simone_Beck",
@@ -66,9 +40,7 @@
         ]
       ],
       [
-        [
-          "French cuisine"
-        ],
+        "French cuisine",
         [
           "/wiki/French_cuisine"
         ]
@@ -76,69 +48,42 @@
     ],
     [
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "Cooking with Jamie"
-        ],
-        [
-          null
-        ]
+        "Cooking with Jamie",
+        []
       ],
       [
-        [
-          "Jamie Oliver"
-        ],
+        "Jamie Oliver",
         [
           "/wiki/Jamie_Oliver"
         ]
       ],
       [
-        [
-          "Fresh & Organic cooking"
-        ],
-        [
-          null
-        ]
+        "Fresh & Organic cooking",
+        []
       ]
     ],
     [
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "Mangoes and Curry Leaves"
-        ],
-        [
-          null
-        ]
+        "Mangoes and Curry Leaves",
+        []
       ],
       [
-        [
-          "Jeffrey Alford",
-          "Naomi Duguid"
-        ],
+        "Jeffrey Alford , Naomi Duguid",
         [
           "/wiki/Jeffrey_Alford",
           "/wiki/Naomi_Duguid"
         ]
       ],
       [
-        [
-          "Indian cuisine"
-        ],
+        "Indian cuisine",
         [
           "/wiki/Indian_cuisine"
         ]
@@ -146,34 +91,21 @@
     ],
     [
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "How to Grill"
-        ],
-        [
-          null
-        ]
+        "How to Grill",
+        []
       ],
       [
-        [
-          "Steven Raichlen"
-        ],
+        "Steven Raichlen",
         [
           "/wiki/Steven_Raichlen"
         ]
       ],
       [
-        [
-          "Grilling",
-          "Barbecue"
-        ],
+        "Grilling , Barbecue",
         [
           "/wiki/Grilling",
           "/wiki/Barbecue"
@@ -182,33 +114,21 @@
     ],
     [
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "Everyday Italian"
-        ],
-        [
-          null
-        ]
+        "Everyday Italian",
+        []
       ],
       [
-        [
-          "Giada De Laurentiis"
-        ],
+        "Giada De Laurentiis",
         [
           "/wiki/Giada_De_Laurentiis"
         ]
       ],
       [
-        [
-          "Italian cuisine"
-        ],
+        "Italian cuisine",
         [
           "/wiki/Italian_cuisine"
         ]
@@ -216,33 +136,21 @@
     ],
     [
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "Essentials of Classic Italian Cooking"
-        ],
-        [
-          null
-        ]
+        "Essentials of Classic Italian Cooking",
+        []
       ],
       [
-        [
-          "Marcella Hazan"
-        ],
+        "Marcella Hazan",
         [
           "/wiki/Marcella_Hazan"
         ]
       ],
       [
-        [
-          "Italian cuisine"
-        ],
+        "Italian cuisine",
         [
           "/wiki/Italian_cuisine"
         ]
@@ -250,33 +158,23 @@
     ],
     [
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "The French Laundry"
-        ],
+        "The French Laundry Cookbook",
         [
           "/wiki/The_French_Laundry"
         ]
       ],
       [
-        [
-          "Thomas Keller"
-        ],
+        "Thomas Keller , Deborah Jones",
         [
           "/wiki/Thomas_Keller"
         ]
       ],
       [
-        [
-          "French cuisine"
-        ],
+        "French cuisine",
         [
           "/wiki/French_cuisine"
         ]
@@ -284,33 +182,21 @@
     ],
     [
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "Rick Bayless 's Mexican Kitchen"
-        ],
-        [
-          null
-        ]
+        "Rick Bayless 's Mexican Kitchen",
+        []
       ],
       [
-        [
-          "Rick Bayless"
-        ],
+        "Rick Bayless",
         [
           "/wiki/Rick_Bayless"
         ]
       ],
       [
-        [
-          "Mexican cuisine"
-        ],
+        "Mexican cuisine",
         [
           "/wiki/Mexican_cuisine"
         ]
@@ -318,135 +204,81 @@
     ],
     [
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "Deceptively Delicious"
-        ],
-        [
-          null
-        ]
+        "Deceptively Delicious",
+        []
       ],
       [
-        [
-          "Jessica Seinfeld"
-        ],
+        "Jessica Seinfeld",
         [
           "/wiki/Jessica_Seinfeld"
         ]
       ],
       [
-        [
-          "Kid-friendly dishes"
-        ],
-        [
-          null
-        ]
+        "Kid-friendly dishes",
+        []
       ]
     ],
     [
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "The Oprah Magazine Cookbook"
-        ],
-        [
-          null
-        ]
+        "The Oprah Magazine Cookbook",
+        []
       ],
       [
-        [
-          "O : The Oprah Magazine editors"
-        ],
+        "O : The Oprah Magazine editors",
         [
           "/wiki/O:_The_Oprah_Magazine"
         ]
       ],
       [
-        [
-          "General cooking"
-        ],
-        [
-          null
-        ]
+        "General cooking",
+        []
       ]
     ],
     [
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "The Joy of Cooking"
-        ],
+        "The Joy of Cooking , 75th Anniversary Edition",
         [
           "/wiki/The_Joy_of_Cooking"
         ]
       ],
       [
-        [
-          "Irma S. Rombauer"
-        ],
+        "Irma S. Rombauer , Marion Rombauer Becker , Ethan Becker",
         [
           "/wiki/Irma_S._Rombauer"
         ]
       ],
       [
-        [
-          "General cooking"
-        ],
-        [
-          null
-        ]
+        "General cooking",
+        []
       ]
     ],
     [
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "Fat : An Appreciation of a Misunderstood Ingredient , with Recipes"
-        ],
-        [
-          null
-        ]
+        "Fat : An Appreciation of a Misunderstood Ingredient , with Recipes",
+        []
       ],
       [
-        [
-          "Jennifer McLagan"
-        ],
-        [
-          null
-        ]
+        "Jennifer McLagan",
+        []
       ],
       [
-        [
-          "Fat"
-        ],
+        "Cooking with Fat",
         [
           "/wiki/Fat"
         ]
@@ -454,35 +286,21 @@
     ],
     [
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "The Cake Bible"
-        ],
-        [
-          null
-        ]
+        "The Cake Bible",
+        []
       ],
       [
-        [
-          "Rose Levy Beranbaum"
-        ],
+        "Rose Levy Beranbaum",
         [
           "/wiki/Rose_Levy_Beranbaum"
         ]
       ],
       [
-        [
-          "Baking",
-          "Cakes",
-          "Cake decorating"
-        ],
+        "Baking , Cakes , Cake decorating",
         [
           "/wiki/Baking",
           "/wiki/Cakes",
@@ -492,68 +310,39 @@
     ],
     [
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "Barefoot Contessa : Back to Basics"
-        ],
-        [
-          null
-        ]
+        "Barefoot Contessa : Back to Basics",
+        []
       ],
       [
-        [
-          "Ina Garten"
-        ],
+        "Ina Garten",
         [
           "/wiki/Ina_Garten"
         ]
       ],
       [
-        [
-          "General cooking"
-        ],
-        [
-          null
-        ]
+        "General cooking",
+        []
       ]
     ],
     [
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "The Flexitarian Table"
-        ],
-        [
-          null
-        ]
+        "The Flexitarian Table",
+        []
       ],
       [
-        [
-          "Peter Berley"
-        ],
-        [
-          null
-        ]
+        "Peter Berley",
+        []
       ],
       [
-        [
-          "Flexitarianism",
-          "Vegetarian cuisine"
-        ],
+        "Flexitarianism , Vegetarian cuisine",
         [
           "/wiki/Flexitarianism",
           "/wiki/Vegetarian_cuisine"
@@ -562,33 +351,21 @@
     ],
     [
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "Gourmet Magazine"
-        ],
+        "Gourmet Magazine",
         [
           "/wiki/Gourmet_(magazine)"
         ]
       ],
       [
-        [
-          "Gourmet Magazine editors"
-        ],
-        [
-          null
-        ]
+        "Gourmet Magazine editors",
+        []
       ],
       [
-        [
-          "Magazine"
-        ],
+        "Magazine , General cooking",
         [
           "/wiki/Magazine"
         ]
@@ -596,33 +373,21 @@
     ],
     [
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "Chef Daniel Boulud : Cooking in New York City"
-        ],
-        [
-          null
-        ]
+        "Chef Daniel Boulud : Cooking in New York City",
+        []
       ],
       [
-        [
-          "Daniel Boulud"
-        ],
+        "Daniel Boulud",
         [
           "/wiki/Daniel_Boulud"
         ]
       ],
       [
-        [
-          "French cuisine"
-        ],
+        "French cuisine",
         [
           "/wiki/French_cuisine"
         ]
@@ -630,33 +395,19 @@
     ],
     [
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "Lucinda 's Authentic Jamaican Kitchen"
-        ],
-        [
-          null
-        ]
+        "Lucinda 's Authentic Jamaican Kitchen",
+        []
       ],
       [
-        [
-          "Lucinda Scala Quinn"
-        ],
-        [
-          null
-        ]
+        "Lucinda Scala Quinn",
+        []
       ],
       [
-        [
-          "Jamaican cuisine"
-        ],
+        "Jamaican cuisine",
         [
           "/wiki/Jamaican_cuisine"
         ]
@@ -664,33 +415,21 @@
     ],
     [
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "Bon App\u00e9tit , Y'all"
-        ],
-        [
-          null
-        ]
+        "Bon App\u00e9tit , Y'all",
+        []
       ],
       [
-        [
-          "Virginia Willis"
-        ],
+        "Virginia Willis",
         [
           "/wiki/Virginia_Willis"
         ]
       ],
       [
-        [
-          "Southern US cuisine"
-        ],
+        "Southern US cuisine",
         [
           "/wiki/Cuisine_of_the_Southern_United_States"
         ]
@@ -698,36 +437,22 @@
     ],
     [
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "Gordon Ramsay 's Family Fare"
-        ],
-        [
-          null
-        ]
+        "Gordon Ramsay 's Family Fare",
+        []
       ],
       [
-        [
-          "Gordon Ramsay"
-        ],
+        "Gordon Ramsay",
         [
           "/wiki/Gordon_Ramsay"
         ]
       ],
       [
-        [
-          "General cooking"
-        ],
-        [
-          null
-        ]
+        "General cooking",
+        []
       ]
     ]
   ],

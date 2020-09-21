@@ -3,537 +3,317 @@
   "title": "1969 International Cross Country Championships",
   "header": [
     [
-      [
-        "Rank"
-      ],
-      [
-        null
-      ]
+      "Rank",
+      []
     ],
     [
-      [
-        "Country"
-      ],
-      [
-        null
-      ]
+      "Country",
+      []
     ],
     [
-      [
-        "Team"
-      ],
-      [
-        null
-      ]
+      "Team",
+      []
     ],
     [
-      [
-        "Points"
-      ],
-      [
-        null
-      ]
+      "Points",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "England"
-        ],
+        "England",
         [
           "/wiki/England"
         ]
       ],
       [
-        [
-          "Dick Taylor",
-          "Mike Tagg",
-          "Tim Johnston",
-          "Trevor Wright"
-        ],
+        "Dick Taylor Mike Tagg Tim Johnston Mike Turner Trevor Wright Bob Richardson",
         [
           "/wiki/Dick_Taylor_(athlete)",
           "/wiki/Mike_Tagg",
-          "/wiki/Tim_Johnston_(athlete)",
-          null
+          "/wiki/Tim_Johnston_(athlete)"
         ]
       ],
       [
-        [
-          "57"
-        ],
-        [
-          null
-        ]
+        "57",
+        []
       ]
     ],
     [
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "France"
-        ],
+        "France",
         [
           "/wiki/France"
         ]
       ],
       [
-        [
-          "Noel Tijou",
-          "Ren\u00e9 Jourdan",
-          "Jean Wadoux",
-          "Lucien Rault"
-        ],
+        "Noel Tijou Ren\u00e9 Jourdan Jean Wadoux Lucien Rault Gilbert Gauthier Jean-Pierre Ouine",
         [
           "/wiki/Noel_Tijou",
-          null,
           "/wiki/Jean_Wadoux",
           "/wiki/Lucien_Rault"
         ]
       ],
       [
-        [
-          "121"
-        ],
-        [
-          null
-        ]
+        "121",
+        []
       ]
     ],
     [
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "Belgium"
-        ],
+        "Belgium",
         [
           "/wiki/Belgium"
         ]
       ],
       [
-        [
-          "Gaston Roelants",
-          "Willy Polleunis",
-          "Albien van Holsbeek",
-          "Paul Thijs"
-        ],
+        "Gaston Roelants Willy Polleunis Gaston Heleven Eug\u00e8ne Allonsius Albien van Holsbeek Paul Thijs",
         [
           "/wiki/Gaston_Roelants",
           "/wiki/Willy_Polleunis",
-          null,
           "/wiki/Paul_Thijs"
         ]
       ],
       [
-        [
-          "125"
-        ],
-        [
-          null
-        ]
+        "125",
+        []
       ]
     ],
     [
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "New Zealand"
-        ],
+        "New Zealand",
         [
           "/wiki/New_Zealand"
         ]
       ],
       [
-        [
-          "Euan Robertson",
-          "Bryan Rose"
-        ],
+        "Rex Maddaford Euan Robertson Gavin Thorley Barry Everitt Bryan Rose John Robinson",
         [
           "/wiki/Euan_Robertson",
           "/wiki/Bryan_Rose"
         ]
       ],
       [
-        [
-          "160"
-        ],
-        [
-          null
-        ]
+        "160",
+        []
       ]
     ],
     [
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "Scotland"
-        ],
+        "Scotland",
         [
           "/wiki/Scotland"
         ]
       ],
       [
-        [
-          "Ian McCafferty",
-          "Lachie Stewart",
-          "Dick Wedlock"
-        ],
+        "Ian McCafferty Lachie Stewart Fergus Murray Dick Wedlock Gareth Bryan-Jones Bill Mullett",
         [
           "/wiki/Ian_McCafferty",
-          "/wiki/Lachie_Stewart",
-          null
+          "/wiki/Lachie_Stewart"
         ]
       ],
       [
-        [
-          "179"
-        ],
-        [
-          null
-        ]
+        "179",
+        []
       ]
     ],
     [
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "Spain"
-        ],
+        "Spain",
         [
           "/wiki/Spain"
         ]
       ],
       [
-        [
-          "Mariano Haro",
-          "Javier Alvarez",
-          "Jos\u00e9 Maiz",
-          "Fernando Aguilar"
-        ],
+        "Mariano Haro Javier Alvarez Carlos P\u00e9rez Jos\u00e9 Maiz Fernando Aguilar Ramon Tasende",
         [
           "/wiki/Mariano_Haro",
           "/wiki/Javier_\u00c1lvarez_(athlete)",
-          null,
           "/wiki/Fernando_Aguilar"
         ]
       ],
       [
-        [
-          "203"
-        ],
-        [
-          null
-        ]
+        "203",
+        []
       ]
     ],
     [
       [
-        [
-          "7"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ],
       [
-        [
-          "Morocco"
-        ],
+        "Morocco",
         [
           "/wiki/Morocco"
         ]
       ],
       [
+        "Moha A\u00eft Bassou Ben Assou El Ghazi Moumoh Haddou Mohamed Ben Abdelsalem M'Barek Ahdib Haddou Jaddour",
         [
-          "Ben Assou El Ghazi",
-          "Moumoh Haddou",
-          "Mohamed Ben Abdelsalem",
-          "Haddou Jaddour"
-        ],
-        [
-          "/wiki/Ben_Assou_El_Ghazi",
-          null,
-          null,
-          null
+          "/wiki/Ben_Assou_El_Ghazi"
         ]
       ],
       [
-        [
-          "228"
-        ],
-        [
-          null
-        ]
+        "228",
+        []
       ]
     ],
     [
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "United States"
-        ],
+        "United States",
         [
           "/wiki/United_States"
         ]
       ],
       [
-        [
-          "Tracy Smith"
-        ],
+        "Bill Clark Tracy Smith Charles Messenger Jim Murphy Bill Norris Tom Heinonen",
         [
           "/wiki/Tracy_Smith_(long-distance_runner)"
         ]
       ],
       [
-        [
-          "369"
-        ],
-        [
-          null
-        ]
+        "369",
+        []
       ]
     ],
     [
       [
-        [
-          "9"
-        ],
-        [
-          null
-        ]
+        "9",
+        []
       ],
       [
-        [
-          "Wales"
-        ],
+        "Wales",
         [
           "/wiki/Wales"
         ]
       ],
       [
+        "Malcolm Thomas Tony Simmons Cyril Leigh Bernie Plain Paul Darney Alan Jones",
         [
-          "Malcolm Thomas",
-          "Tony Simmons",
-          "Bernie Plain"
-        ],
-        [
-          null,
-          "/wiki/Tony_Simmons_(athlete)",
-          null
+          "/wiki/Tony_Simmons_(athlete)"
         ]
       ],
       [
-        [
-          "372"
-        ],
-        [
-          null
-        ]
+        "372",
+        []
       ]
     ],
     [
       [
-        [
-          "10"
-        ],
-        [
-          null
-        ]
+        "10",
+        []
       ],
       [
-        [
-          "Ireland"
-        ],
+        "Ireland",
         [
           "/wiki/Republic_of_Ireland"
         ]
       ],
       [
+        "Paddy Coyle Danny McDaid Tom O'Riordan Sean O'Sullivan Dennis Quinlan Jim Timoney",
         [
-          "Paddy Coyle",
-          "Danny McDaid",
-          "Tom O'Riordan"
-        ],
-        [
-          null,
           "/wiki/Danny_McDaid",
           "/wiki/Tom_O'Riordan"
         ]
       ],
       [
-        [
-          "389"
-        ],
-        [
-          null
-        ]
+        "389",
+        []
       ]
     ],
     [
       [
-        [
-          "11"
-        ],
-        [
-          null
-        ]
+        "11",
+        []
       ],
       [
-        [
-          "Tunisia"
-        ],
+        "Tunisia",
         [
           "/wiki/Tunisia"
         ]
       ],
       [
+        "Mhedheb Hannachi Labidi Ayachi Abdelkader Zaddem Ammar Khemiri Adelaziz Bouguerra Hamdouni Sghaier",
         [
-          "Mhedheb Hannachi",
-          "Labidi Ayachi",
-          "Abdelkader Zaddem",
-          "Adelaziz Bouguerra",
-          "Hamdouni Sghaier"
-        ],
-        [
-          null,
           "/wiki/Labidi_Ayachi",
-          "/wiki/Abdelkader_Zaddem",
-          null,
-          null
+          "/wiki/Abdelkader_Zaddem"
         ]
       ],
       [
-        [
-          "461"
-        ],
-        [
-          null
-        ]
+        "461",
+        []
       ]
     ],
     [
       [
-        [
-          "12"
-        ],
-        [
-          null
-        ]
+        "12",
+        []
       ],
       [
-        [
-          "Northern Ireland"
-        ],
+        "Northern Ireland",
         [
           "/wiki/Northern_Ireland"
         ]
       ],
       [
+        "Derek Graham David Logue Cyril Pennington Malcolm Edger Mike Teer Roy Kernoghan",
         [
-          "Derek Graham",
-          "David Logue",
-          "Mike Teer",
-          "Roy Kernoghan"
-        ],
-        [
-          "/wiki/Derek_Graham",
-          null,
-          null,
-          null
+          "/wiki/Derek_Graham"
         ]
       ],
       [
-        [
-          "480"
-        ],
-        [
-          null
-        ]
+        "480",
+        []
       ]
     ],
     [
       [
-        [
-          "13"
-        ],
-        [
-          null
-        ]
+        "13",
+        []
       ],
       [
-        [
-          "Canada"
-        ],
+        "Canada",
         [
           "/wiki/Canada"
         ]
       ],
       [
-        [
-          "Robert Finlay Grant McLaren Dave Atkinson Brian Bisson Brian Armstrong David Wighton"
-        ],
-        [
-          null
-        ]
+        "Robert Finlay Grant McLaren Dave Atkinson Brian Bisson Brian Armstrong David Wighton",
+        []
       ],
       [
-        [
-          "489"
-        ],
-        [
-          null
-        ]
+        "489",
+        []
       ]
     ]
   ],

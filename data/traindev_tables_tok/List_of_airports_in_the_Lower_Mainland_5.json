@@ -3,20 +3,11 @@
   "title": "List of airports in the Lower Mainland",
   "header": [
     [
-      [
-        "Airport name"
-      ],
-      [
-        null
-      ]
+      "Airport name",
+      []
     ],
     [
-      [
-        "ICAO",
-        "TC",
-        "LID",
-        "IATA"
-      ],
+      "ICAO / TC LID / IATA",
       [
         "/wiki/International_Civil_Aviation_Organization_airport_code",
         "/wiki/Transport_Canada",
@@ -25,36 +16,24 @@
       ]
     ],
     [
-      [
-        "Location"
-      ],
-      [
-        null
-      ]
+      "Location",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Abbotsford ( Regional Hospital & Cancer Centre ) Heliport"
-        ],
+        "Abbotsford ( Regional Hospital & Cancer Centre ) Heliport",
         [
           "/wiki/List_of_heliports_in_Canada"
         ]
       ],
       [
-        [
-          "CAB5"
-        ],
-        [
-          null
-        ]
+        "CAB5",
+        []
       ],
       [
-        [
-          "Abbotsford"
-        ],
+        "Abbotsford",
         [
           "/wiki/Abbotsford,_British_Columbia"
         ]
@@ -62,25 +41,17 @@
     ],
     [
       [
-        [
-          "Abbotsford ( Sumas Mountain ) Heliport"
-        ],
+        "Abbotsford ( Sumas Mountain ) Heliport",
         [
           "/wiki/List_of_heliports_in_Canada"
         ]
       ],
       [
-        [
-          "CSM7"
-        ],
-        [
-          null
-        ]
+        "CSM7",
+        []
       ],
       [
-        [
-          "Abbotsford"
-        ],
+        "Abbotsford",
         [
           "/wiki/Abbotsford,_British_Columbia"
         ]
@@ -88,25 +59,17 @@
     ],
     [
       [
-        [
-          "Abbotsford ( Teck ) Heliport"
-        ],
+        "Abbotsford ( Teck ) Heliport",
         [
           "/wiki/List_of_heliports_in_Canada"
         ]
       ],
       [
-        [
-          "CTK8"
-        ],
-        [
-          null
-        ]
+        "CTK8",
+        []
       ],
       [
-        [
-          "Abbotsford"
-        ],
+        "Abbotsford",
         [
           "/wiki/Abbotsford,_British_Columbia"
         ]
@@ -114,25 +77,17 @@
     ],
     [
       [
-        [
-          "Langley ( Russell Farm ) Heliport"
-        ],
+        "Langley ( Russell Farm ) Heliport",
         [
           "/wiki/List_of_heliports_in_Canada"
         ]
       ],
       [
-        [
-          "CRF2"
-        ],
-        [
-          null
-        ]
+        "CRF2",
+        []
       ],
       [
-        [
-          "Langley Township"
-        ],
+        "Langley Township",
         [
           "/wiki/Langley,_British_Columbia_(district_municipality)"
         ]
@@ -140,25 +95,17 @@
     ],
     [
       [
-        [
-          "New Westminster ( Royal Columbian Hospital ) Heliport"
-        ],
+        "New Westminster ( Royal Columbian Hospital ) Heliport",
         [
           "/wiki/Royal_Columbian_Hospital"
         ]
       ],
       [
-        [
-          "CNW9"
-        ],
-        [
-          null
-        ]
+        "CNW9",
+        []
       ],
       [
-        [
-          "New Westminster"
-        ],
+        "New Westminster",
         [
           "/wiki/New_Westminster"
         ]
@@ -166,27 +113,18 @@
     ],
     [
       [
-        [
-          "Children",
-          "Women 's Health Centre"
-        ],
+        "Vancouver ( Children & Women 's Health Centre ) Heliport",
         [
           "/wiki/British_Columbia_Children's_Hospital",
           "/wiki/B.C._Women's_Hospital_&_Health_Centre"
         ]
       ],
       [
-        [
-          "CAK7"
-        ],
-        [
-          null
-        ]
+        "CAK7",
+        []
       ],
       [
-        [
-          "Vancouver"
-        ],
+        "Vancouver",
         [
           "/wiki/Vancouver"
         ]
@@ -194,25 +132,17 @@
     ],
     [
       [
-        [
-          "Vancouver/Coquitlam Fire and Rescue Heliport"
-        ],
+        "Vancouver/Coquitlam Fire and Rescue Heliport",
         [
           "/wiki/List_of_heliports_in_Canada"
         ]
       ],
       [
-        [
-          "CFR6"
-        ],
-        [
-          null
-        ]
+        "CFR6",
+        []
       ],
       [
-        [
-          "Vancouver"
-        ],
+        "Vancouver",
         [
           "/wiki/Vancouver"
         ]
@@ -220,25 +150,17 @@
     ],
     [
       [
-        [
-          "Vancouver/Delta ( North ) Heliport"
-        ],
+        "Vancouver/Delta ( North ) Heliport",
         [
           "/wiki/List_of_heliports_in_Canada"
         ]
       ],
       [
-        [
-          "CBD2"
-        ],
-        [
-          null
-        ]
+        "CBD2",
+        []
       ],
       [
-        [
-          "Delta"
-        ],
+        "Delta",
         [
           "/wiki/Delta,_British_Columbia"
         ]
@@ -246,25 +168,17 @@
     ],
     [
       [
-        [
-          "Vancouver/Delta ( SEI ) Heliport"
-        ],
+        "Vancouver/Delta ( SEI ) Heliport",
         [
           "/wiki/List_of_heliports_in_Canada"
         ]
       ],
       [
-        [
-          "CSE7"
-        ],
-        [
-          null
-        ]
+        "CSE7",
+        []
       ],
       [
-        [
-          "Delta"
-        ],
+        "Delta",
         [
           "/wiki/Delta,_British_Columbia"
         ]
@@ -272,25 +186,17 @@
     ],
     [
       [
-        [
-          "Vancouver ( General Hospital ) Heliport"
-        ],
+        "Vancouver ( General Hospital ) Heliport",
         [
           "/wiki/Vancouver_General_Hospital"
         ]
       ],
       [
-        [
-          "CBK4"
-        ],
-        [
-          null
-        ]
+        "CBK4",
+        []
       ],
       [
-        [
-          "Vancouver"
-        ],
+        "Vancouver",
         [
           "/wiki/Vancouver"
         ]
@@ -298,25 +204,17 @@
     ],
     [
       [
-        [
-          "Vancouver ( Surrey Memorial Hospital ) Heliport"
-        ],
+        "Vancouver ( Surrey Memorial Hospital ) Heliport",
         [
           "/wiki/Surrey_Memorial_Hospital"
         ]
       ],
       [
-        [
-          "CVS3"
-        ],
-        [
-          null
-        ]
+        "CVS3",
+        []
       ],
       [
-        [
-          "Surrey"
-        ],
+        "Surrey",
         [
           "/wiki/Surrey,_British_Columbia"
         ]

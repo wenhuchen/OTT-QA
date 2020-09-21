@@ -3,52 +3,34 @@
   "title": "OK Liga",
   "header": [
     [
-      [
-        "Team"
-      ],
-      [
-        null
-      ]
+      "Team",
+      []
     ],
     [
-      [
-        "Arena"
-      ],
-      [
-        null
-      ]
+      "Arena",
+      []
     ],
     [
-      [
-        "City/Area"
-      ],
-      [
-        null
-      ]
+      "City/Area",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Barcelona"
-        ],
+        "Barcelona",
         [
           "/wiki/FC_Barcelona_Hoquei"
         ]
       ],
       [
-        [
-          "Palau Blaugrana"
-        ],
+        "Palau Blaugrana",
         [
           "/wiki/Palau_Blaugrana"
         ]
       ],
       [
-        [
-          "Barcelona"
-        ],
+        "Barcelona",
         [
           "/wiki/Barcelona"
         ]
@@ -56,25 +38,15 @@
     ],
     [
       [
-        [
-          "Calafell Tot l'Any"
-        ],
-        [
-          null
-        ]
+        "Calafell Tot l'Any",
+        []
       ],
       [
-        [
-          "Joan Ortoll"
-        ],
-        [
-          null
-        ]
+        "Joan Ortoll",
+        []
       ],
       [
-        [
-          "Calafell"
-        ],
+        "Calafell",
         [
           "/wiki/Calafell"
         ]
@@ -82,25 +54,17 @@
     ],
     [
       [
-        [
-          "Caldes Recam L\u00e0ser"
-        ],
+        "Caldes Recam L\u00e0ser",
         [
           "/wiki/CH_Caldes"
         ]
       ],
       [
-        [
-          "Torre Roja"
-        ],
-        [
-          null
-        ]
+        "Torre Roja",
+        []
       ],
       [
-        [
-          "Caldes de Montbui"
-        ],
+        "Caldes de Montbui",
         [
           "/wiki/Caldes_de_Montbui"
         ]
@@ -108,25 +72,15 @@
     ],
     [
       [
-        [
-          "Corredor Mat\u00f3 Palafrugell"
-        ],
-        [
-          null
-        ]
+        "Corredor Mat\u00f3 Palafrugell",
+        []
       ],
       [
-        [
-          "Pavell\u00f3 Municipal"
-        ],
-        [
-          null
-        ]
+        "Pavell\u00f3 Municipal",
+        []
       ],
       [
-        [
-          "Palafrugell"
-        ],
+        "Palafrugell",
         [
           "/wiki/Palafrugell"
         ]
@@ -134,25 +88,19 @@
     ],
     [
       [
-        [
-          "Deportivo Liceo"
-        ],
+        "Deportivo Liceo",
         [
           "/wiki/HC_Liceo"
         ]
       ],
       [
-        [
-          "Riazor"
-        ],
+        "Riazor",
         [
           "/wiki/Pazo_dos_Deportes_de_Riazor"
         ]
       ],
       [
-        [
-          "A Coru\u00f1a"
-        ],
+        "A Coru\u00f1a",
         [
           "/wiki/A_Coru\u00f1a"
         ]
@@ -160,25 +108,17 @@
     ],
     [
       [
-        [
-          "Garatge Plana Girona"
-        ],
+        "Garatge Plana Girona",
         [
           "/wiki/Girona_CH"
         ]
       ],
       [
-        [
-          "Palau II"
-        ],
-        [
-          null
-        ]
+        "Palau II",
+        []
       ],
       [
-        [
-          "Girona"
-        ],
+        "Girona",
         [
           "/wiki/Girona"
         ]
@@ -186,25 +126,17 @@
     ],
     [
       [
-        [
-          "Igualada Rigat"
-        ],
+        "Igualada Rigat",
         [
           "/wiki/Igualada_HC"
         ]
       ],
       [
-        [
-          "Les Comes"
-        ],
-        [
-          null
-        ]
+        "Les Comes",
+        []
       ],
       [
-        [
-          "Igualada"
-        ],
+        "Igualada",
         [
           "/wiki/Igualada"
         ]
@@ -212,25 +144,17 @@
     ],
     [
       [
-        [
-          "Lleida Llista Blava"
-        ],
+        "Lleida Llista Blava",
         [
           "/wiki/CE_Lleida_Llista_Blava"
         ]
       ],
       [
-        [
-          "Onze de Setembre"
-        ],
-        [
-          null
-        ]
+        "Onze de Setembre",
+        []
       ],
       [
-        [
-          "Lleida"
-        ],
+        "Lleida",
         [
           "/wiki/Lleida"
         ]
@@ -238,25 +162,15 @@
     ],
     [
       [
-        [
-          "Lloret Vila Esportiva"
-        ],
-        [
-          null
-        ]
+        "Lloret Vila Esportiva",
+        []
       ],
       [
-        [
-          "Pavell\u00f3 Municipal"
-        ],
-        [
-          null
-        ]
+        "Pavell\u00f3 Municipal",
+        []
       ],
       [
-        [
-          "Lloret de Mar"
-        ],
+        "Lloret de Mar",
         [
           "/wiki/Lloret_de_Mar"
         ]
@@ -264,25 +178,17 @@
     ],
     [
       [
-        [
-          "Noia Freixenet"
-        ],
+        "Noia Freixenet",
         [
           "/wiki/CE_Noia"
         ]
       ],
       [
-        [
-          "Pavell\u00f3 Ol\u00edmpic"
-        ],
-        [
-          null
-        ]
+        "Pavell\u00f3 Ol\u00edmpic",
+        []
       ],
       [
-        [
-          "Sant Sadurn\u00ed d'Anoia"
-        ],
+        "Sant Sadurn\u00ed d'Anoia",
         [
           "/wiki/Sant_Sadurn\u00ed_d'Anoia"
         ]
@@ -290,25 +196,17 @@
     ],
     [
       [
-        [
-          "Reus Deportiu Mir\u00f3"
-        ],
+        "Reus Deportiu Mir\u00f3",
         [
           "/wiki/Reus_Deportiu"
         ]
       ],
       [
-        [
-          "Pavell\u00f3 del Reus Deportiu"
-        ],
-        [
-          null
-        ]
+        "Pavell\u00f3 del Reus Deportiu",
+        []
       ],
       [
-        [
-          "Reus"
-        ],
+        "Reus",
         [
           "/wiki/Reus"
         ]
@@ -316,25 +214,17 @@
     ],
     [
       [
-        [
-          "Stern Motor Voltreg\u00e0"
-        ],
+        "Stern Motor Voltreg\u00e0",
         [
           "/wiki/CP_Voltreg\u00e0"
         ]
       ],
       [
-        [
-          "Victori\u00e0 Oliveras de la Riva"
-        ],
-        [
-          null
-        ]
+        "Victori\u00e0 Oliveras de la Riva",
+        []
       ],
       [
-        [
-          "Sant Hip\u00f2lit de Voltreg\u00e0"
-        ],
+        "Sant Hip\u00f2lit de Voltreg\u00e0",
         [
           "/wiki/Sant_Hip\u00f2lit_de_Voltreg\u00e0"
         ]
@@ -342,25 +232,15 @@
     ],
     [
       [
-        [
-          "Taradell"
-        ],
-        [
-          null
-        ]
+        "Taradell",
+        []
       ],
       [
-        [
-          "El Pujol\u00f3"
-        ],
-        [
-          null
-        ]
+        "El Pujol\u00f3",
+        []
       ],
       [
-        [
-          "Taradell"
-        ],
+        "Taradell",
         [
           "/wiki/Taradell"
         ]
@@ -368,25 +248,17 @@
     ],
     [
       [
-        [
-          "Vic"
-        ],
+        "Vic",
         [
           "/wiki/CP_Vic"
         ]
       ],
       [
-        [
-          "Pavell\u00f3 Ol\u00edmpic"
-        ],
-        [
-          null
-        ]
+        "Pavell\u00f3 Ol\u00edmpic",
+        []
       ],
       [
-        [
-          "Vic"
-        ],
+        "Vic",
         [
           "/wiki/Vic"
         ]

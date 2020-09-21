@@ -3,136 +3,86 @@
   "title": "List of personal information managers",
   "header": [
     [
-      [
-        "PIM application"
-      ],
-      [
-        null
-      ]
+      "PIM application",
+      []
     ],
     [
-      [
-        "Platform ( s )"
-      ],
-      [
-        null
-      ]
+      "Platform ( s )",
+      []
     ],
     [
-      [
-        "Software license"
-      ],
+      "Software license",
       [
         "/wiki/Software_license"
       ]
     ],
     [
-      [
-        "Notes"
-      ],
-      [
-        null
-      ]
+      "Notes",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "askSam"
-        ],
+        "askSam",
         [
           "/wiki/AskSam"
         ]
       ],
       [
-        [
-          "DOS , Windows"
-        ],
-        [
-          null
-        ]
+        "DOS , Windows",
+        []
       ],
       [
-        [
-          "Commercial"
-        ],
-        [
-          null
-        ]
+        "Commercial",
+        []
       ],
       [
-        [
-          "Free form database"
-        ],
-        [
-          null
-        ]
+        "Free form database",
+        []
       ]
     ],
     [
       [
-        [
-          "Backpack"
-        ],
+        "Backpack",
         [
           "/wiki/Basecamp_(company)"
         ]
       ],
       [
-        [
-          "Web"
-        ],
+        "Web",
         [
           "/wiki/Web_application"
         ]
       ],
       [
-        [
-          "Commercial"
-        ],
-        [
-          null
-        ]
+        "Commercial",
+        []
       ],
       [
-        [
-          "Todo list and calendar"
-        ],
-        [
-          null
-        ]
+        "Todo list and calendar",
+        []
       ]
     ],
     [
       [
-        [
-          "Chandler"
-        ],
+        "Chandler",
         [
           "/wiki/Chandler_(software)"
         ]
       ],
       [
-        [
-          "Linux , OS X , Windows"
-        ],
-        [
-          null
-        ]
+        "Linux , OS X , Windows",
+        []
       ],
       [
-        [
-          "Apache"
-        ],
+        "Apache",
         [
           "/wiki/Apache_License"
         ]
       ],
       [
-        [
-          "Lotus Agenda"
-        ],
+        "Free form approach based on Lotus Agenda",
         [
           "/wiki/Lotus_Agenda"
         ]
@@ -140,68 +90,45 @@
     ],
     [
       [
-        [
-          "Ecco Pro"
-        ],
+        "Ecco Pro",
         [
           "/wiki/Ecco_Pro"
         ]
       ],
       [
-        [
-          "Windows"
-        ],
-        [
-          null
-        ]
+        "Windows",
+        []
       ],
       [
-        [
-          "Freeware"
-        ],
-        [
-          null
-        ]
+        "Freeware",
+        []
       ],
       [
-        [
-          "organizes information via full power outline and tag assignments . ( Tags can contain text , numeric , or date data . Date data automatically mapped to calendar . )"
-        ],
-        [
-          null
-        ]
+        "organizes information via full power outline and tag assignments . ( Tags can contain text , numeric , or date data . Date data automatically mapped to calendar . )",
+        []
       ]
     ],
     [
       [
-        [
-          "Google Notebook"
-        ],
+        "Google Notebook",
         [
           "/wiki/Google_Notebook"
         ]
       ],
       [
-        [
-          "Web"
-        ],
+        "Web",
         [
           "/wiki/Web_application"
         ]
       ],
       [
-        [
-          "Freeware"
-        ],
+        "Freeware",
         [
           "/wiki/Freeware"
         ]
       ],
       [
-        [
-          "Google Docs",
-          "Google Keep"
-        ],
+        "deprecated by Google Docs , Google Keep",
         [
           "/wiki/Google_Docs",
           "/wiki/Google_Keep"
@@ -210,69 +137,50 @@
     ],
     [
       [
-        [
-          "Haystack"
-        ],
+        "Haystack",
         [
           "/wiki/Haystack_(MIT_project)"
         ]
       ],
       [
-        [
-          "POSIX",
-          "Java"
-        ],
+        "all operating systems with POSIX and Java",
         [
           "/wiki/POSIX",
           "/wiki/Java_(programming_language)"
         ]
       ],
       [
-        [
-          "MIT"
-        ],
+        "MIT",
         [
           "/wiki/MIT_License"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Hula"
-        ],
+        "Hula",
         [
           "/wiki/Hula_(software)"
         ]
       ],
       [
-        [
-          "Linux"
-        ],
+        "Linux",
         [
           "/wiki/Linux"
         ]
       ],
       [
-        [
-          "GPL"
-        ],
+        "GPL",
         [
           "/wiki/GNU_General_Public_License"
         ]
       ],
       [
-        [
-          "Bongo project"
-        ],
+        "Replaced by Bongo project",
         [
           "/wiki/Bongo_(software)"
         ]
@@ -280,101 +188,65 @@
     ],
     [
       [
-        [
-          "IBM Lotus Organizer"
-        ],
+        "IBM Lotus Organizer",
         [
           "/wiki/IBM_Lotus_Organizer"
         ]
       ],
       [
-        [
-          "Windows"
-        ],
-        [
-          null
-        ]
+        "Windows",
+        []
       ],
       [
-        [
-          "Commercial"
-        ],
-        [
-          null
-        ]
+        "Commercial",
+        []
       ],
       [
-        [
-          "2003-2013"
-        ],
-        [
-          null
-        ]
+        "2003-2013",
+        []
       ]
     ],
     [
       [
-        [
-          "ideaList"
-        ],
+        "ideaList",
         [
           "/wiki/IdeaList"
         ]
       ],
       [
-        [
-          "DOS , Windows , Mac"
-        ],
-        [
-          null
-        ]
+        "DOS , Windows , Mac",
+        []
       ],
       [
-        [
-          "Commercial"
-        ],
-        [
-          null
-        ]
+        "Commercial",
+        []
       ],
       [
-        [
-          "Free form database"
-        ],
-        [
-          null
-        ]
+        "Free form database",
+        []
       ]
     ],
     [
       [
-        [
-          "Lotus Agenda"
-        ],
+        "Lotus Agenda",
         [
           "/wiki/Lotus_Agenda"
         ]
       ],
       [
-        [
-          "DOS"
-        ],
+        "DOS",
         [
           "/wiki/DOS"
         ]
       ],
       [
-        [
-          "Freeware"
-        ],
+        "Freeware",
         [
           "/wiki/Freeware"
         ]
       ],
       [
-        [
-          "IBM Lotus Organizer"
-        ],
+        "deprecated by IBM Lotus Organizer",
         [
           "/wiki/IBM_Lotus_Organizer"
         ]
@@ -382,124 +254,78 @@
     ],
     [
       [
-        [
-          "Meeting Maker"
-        ],
+        "Meeting Maker",
         [
           "/wiki/Meeting_Maker"
         ]
       ],
       [
-        [
-          "Solaris"
-        ],
+        "Linux , OS X , Solaris",
         [
           "/wiki/Solaris_(operating_system)"
         ]
       ],
       [
-        [
-          "Commercial"
-        ],
-        [
-          null
-        ]
+        "Commercial",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Microsoft Entourage"
-        ],
+        "Microsoft Entourage",
         [
           "/wiki/Microsoft_Entourage"
         ]
       ],
       [
-        [
-          "OS X"
-        ],
-        [
-          null
-        ]
+        "OS X",
+        []
       ],
       [
-        [
-          "Commercial"
-        ],
-        [
-          null
-        ]
+        "Commercial",
+        []
       ],
       [
-        [
-          "deprecated by Microsoft Outlook for Mac"
-        ],
-        [
-          null
-        ]
+        "deprecated by Microsoft Outlook for Mac",
+        []
       ]
     ],
     [
       [
-        [
-          "MORE",
-          "GrandView"
-        ],
+        "MORE , GrandView",
         [
           "/wiki/MORE_(application)",
           "/wiki/GrandView_(software)"
         ]
       ],
       [
-        [
-          "Classic Mac OS"
-        ],
+        "Classic Mac OS , DOS",
         [
           "/wiki/Classic_Mac_OS"
         ]
       ],
       [
-        [
-          "Commercial"
-        ],
-        [
-          null
-        ]
+        "Commercial",
+        []
       ],
       [
-        [
-          "1986-1990"
-        ],
-        [
-          null
-        ]
+        "1986-1990",
+        []
       ]
     ],
     [
       [
-        [
-          "Mozilla Calendar Project"
-        ],
+        "Mozilla Calendar Project",
         [
           "/wiki/Mozilla_Calendar_Project"
         ]
       ],
       [
-        [
-          "OpenSolaris",
-          "Solaris",
-          "OS X",
-          "OS/2"
-        ],
+        "Linux , BSD UNIX , OpenSolaris , Solaris , OS X , Windows , OS/2",
         [
           "/wiki/OpenSolaris",
           "/wiki/Solaris_(operating_system)",
@@ -508,17 +334,13 @@
         ]
       ],
       [
-        [
-          "MPL"
-        ],
+        "MPL",
         [
           "/wiki/Mozilla_Public_License"
         ]
       ],
       [
-        [
-          "Lightning"
-        ],
+        "deprecated by Lightning",
         [
           "/wiki/Lightning_(software)"
         ]
@@ -526,20 +348,13 @@
     ],
     [
       [
-        [
-          "Mozilla Sunbird"
-        ],
+        "Mozilla Sunbird",
         [
           "/wiki/Mozilla_Sunbird"
         ]
       ],
       [
-        [
-          "OpenSolaris",
-          "Solaris",
-          "OS X",
-          "OS/2"
-        ],
+        "Linux , BSD UNIX , OpenSolaris , Solaris , OS X , Windows , OS/2",
         [
           "/wiki/OpenSolaris",
           "/wiki/Solaris_(operating_system)",
@@ -548,11 +363,7 @@
         ]
       ],
       [
-        [
-          "MPL",
-          "GPL",
-          "LGPL"
-        ],
+        "MPL , GPL , LGPL",
         [
           "/wiki/Mozilla_Public_License",
           "/wiki/GNU_GPL",
@@ -560,9 +371,7 @@
         ]
       ],
       [
-        [
-          "Lightning"
-        ],
+        "deprecated by Lightning",
         [
           "/wiki/Lightning_(software)"
         ]
@@ -570,101 +379,67 @@
     ],
     [
       [
-        [
-          "Palm Desktop"
-        ],
+        "Palm Desktop",
         [
           "/wiki/Palm_Desktop"
         ]
       ],
       [
-        [
-          "Mac OS , Windows"
-        ],
-        [
-          null
-        ]
+        "Mac OS , Windows",
+        []
       ],
       [
-        [
-          "Commercial"
-        ],
-        [
-          null
-        ]
+        "Commercial",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Sidekick"
-        ],
+        "Sidekick",
         [
           "/wiki/Borland_Sidekick"
         ]
       ],
       [
-        [
-          "Windows"
-        ],
+        "DOS , Windows",
         [
           "/wiki/Microsoft_Windows"
         ]
       ],
       [
-        [
-          "Commercial"
-        ],
-        [
-          null
-        ]
+        "Commercial",
+        []
       ],
       [
-        [
-          "1983-1999"
-        ],
-        [
-          null
-        ]
+        "1983-1999",
+        []
       ]
     ],
     [
       [
-        [
-          "Spicebird"
-        ],
+        "Spicebird",
         [
           "/wiki/Spicebird"
         ]
       ],
       [
-        [
-          "Cross-platform"
-        ],
+        "Cross-platform",
         [
           "/wiki/Cross-platform"
         ]
       ],
       [
-        [
-          "LGPL"
-        ],
+        "GPL , LGPL , MPL",
         [
           "/wiki/GNU_Lesser_General_Public_License"
         ]
       ],
       [
-        [
-          "Lightning"
-        ],
+        "deprecated by Lightning",
         [
           "/wiki/Lightning_(software)"
         ]

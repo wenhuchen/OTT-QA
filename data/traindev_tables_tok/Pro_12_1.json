@@ -3,68 +3,42 @@
   "title": "Pro14",
   "header": [
     [
-      [
-        "Team"
-      ],
-      [
-        null
-      ]
+      "Team",
+      []
     ],
     [
-      [
-        "Years"
-      ],
-      [
-        null
-      ]
+      "Years",
+      []
     ],
     [
-      [
-        "Location"
-      ],
-      [
-        null
-      ]
+      "Location",
+      []
     ],
     [
-      [
-        "Stadium ( s ) ( capacity )"
-      ],
-      [
-        null
-      ]
+      "Stadium ( s ) ( capacity )",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Aironi"
-        ],
+        "Aironi",
         [
           "/wiki/Aironi"
         ]
       ],
       [
-        [
-          "2010-12"
-        ],
-        [
-          null
-        ]
+        "2010-12",
+        []
       ],
       [
-        [
-          "Viadana"
-        ],
+        "Viadana",
         [
           "/wiki/Viadana,_Lombardy"
         ]
       ],
       [
-        [
-          "Stadio Luigi Zaffanella"
-        ],
+        "Stadio Luigi Zaffanella ( 6,000 )",
         [
           "/wiki/Stadio_Luigi_Zaffanella"
         ]
@@ -72,33 +46,23 @@
     ],
     [
       [
-        [
-          "Border Reivers"
-        ],
+        "Border Reivers",
         [
           "/wiki/Border_Reivers_(rugby_union)"
         ]
       ],
       [
-        [
-          "2002-07"
-        ],
-        [
-          null
-        ]
+        "2002-07",
+        []
       ],
       [
-        [
-          "Galashiels"
-        ],
+        "Galashiels",
         [
           "/wiki/Galashiels"
         ]
       ],
       [
-        [
-          "Netherdale"
-        ],
+        "Netherdale ( 6,000 )",
         [
           "/wiki/Netherdale"
         ]
@@ -106,36 +70,24 @@
     ],
     [
       [
-        [
-          "Celtic Warriors"
-        ],
+        "Celtic Warriors",
         [
           "/wiki/Celtic_Warriors"
         ]
       ],
       [
-        [
-          "2003-04"
-        ],
-        [
-          null
-        ]
+        "2003-04",
+        []
       ],
       [
-        [
-          "Bridgend",
-          "Pontypridd"
-        ],
+        "Bridgend and Pontypridd",
         [
           "/wiki/Bridgend",
           "/wiki/Pontypridd"
         ]
       ],
       [
-        [
-          "Brewery Field",
-          "Sardis Road"
-        ],
+        "Brewery Field ( 12,000 ) Sardis Road ( 8,000 )",
         [
           "/wiki/Brewery_Field",
           "/wiki/Sardis_Road"
@@ -144,33 +96,23 @@
     ],
     [
       [
-        [
-          "Bridgend"
-        ],
+        "Bridgend",
         [
           "/wiki/Bridgend_Ravens"
         ]
       ],
       [
-        [
-          "2001-03"
-        ],
-        [
-          null
-        ]
+        "2001-03",
+        []
       ],
       [
-        [
-          "Bridgend"
-        ],
+        "Bridgend , Wales",
         [
           "/wiki/Bridgend"
         ]
       ],
       [
-        [
-          "Brewery Field"
-        ],
+        "Brewery Field ( 6,000 )",
         [
           "/wiki/Brewery_Field"
         ]
@@ -178,33 +120,23 @@
     ],
     [
       [
-        [
-          "Caerphilly"
-        ],
+        "Caerphilly",
         [
           "/wiki/Caerphilly_RFC"
         ]
       ],
       [
-        [
-          "2001-03"
-        ],
-        [
-          null
-        ]
+        "2001-03",
+        []
       ],
       [
-        [
-          "Caerphilly"
-        ],
+        "Caerphilly , Wales",
         [
           "/wiki/Caerphilly"
         ]
       ],
       [
-        [
-          "Virginia Park"
-        ],
+        "Virginia Park ( 5,000 )",
         [
           "/wiki/Virginia_Park_(Caerphilly)"
         ]
@@ -212,33 +144,23 @@
     ],
     [
       [
-        [
-          "Cardiff"
-        ],
+        "Cardiff",
         [
           "/wiki/Cardiff_RFC"
         ]
       ],
       [
-        [
-          "2001-03"
-        ],
-        [
-          null
-        ]
+        "2001-03",
+        []
       ],
       [
-        [
-          "Cardiff"
-        ],
+        "Cardiff , Wales",
         [
           "/wiki/Cardiff"
         ]
       ],
       [
-        [
-          "Cardiff Arms Park"
-        ],
+        "Cardiff Arms Park ( 12,500 )",
         [
           "/wiki/Cardiff_Arms_Park"
         ]
@@ -246,33 +168,23 @@
     ],
     [
       [
-        [
-          "Ebbw Vale"
-        ],
+        "Ebbw Vale",
         [
           "/wiki/Ebbw_Vale_RFC"
         ]
       ],
       [
-        [
-          "2001-03"
-        ],
-        [
-          null
-        ]
+        "2001-03",
+        []
       ],
       [
-        [
-          "Ebbw Vale"
-        ],
+        "Ebbw Vale , Wales",
         [
           "/wiki/Ebbw_Vale"
         ]
       ],
       [
-        [
-          "Eugene Cross Park"
-        ],
+        "Eugene Cross Park ( 8,000 )",
         [
           "/wiki/Eugene_Cross_Park"
         ]
@@ -280,33 +192,23 @@
     ],
     [
       [
-        [
-          "Llanelli"
-        ],
+        "Llanelli",
         [
           "/wiki/Llanelli_RFC"
         ]
       ],
       [
-        [
-          "2001-03"
-        ],
-        [
-          null
-        ]
+        "2001-03",
+        []
       ],
       [
-        [
-          "Llanelli"
-        ],
+        "Llanelli , Wales",
         [
           "/wiki/Llanelli"
         ]
       ],
       [
-        [
-          "Stradey Park"
-        ],
+        "Stradey Park ( 10,800 )",
         [
           "/wiki/Stradey_Park"
         ]
@@ -314,33 +216,23 @@
     ],
     [
       [
-        [
-          "Neath"
-        ],
+        "Neath",
         [
           "/wiki/Neath_RFC"
         ]
       ],
       [
-        [
-          "2001-03"
-        ],
-        [
-          null
-        ]
+        "2001-03",
+        []
       ],
       [
-        [
-          "Neath"
-        ],
+        "Neath , Wales",
         [
           "/wiki/Neath"
         ]
       ],
       [
-        [
-          "The Gnoll"
-        ],
+        "The Gnoll ( 6,000 )",
         [
           "/wiki/The_Gnoll"
         ]
@@ -348,33 +240,23 @@
     ],
     [
       [
-        [
-          "Newport"
-        ],
+        "Newport",
         [
           "/wiki/Newport_RFC"
         ]
       ],
       [
-        [
-          "2001-03"
-        ],
-        [
-          null
-        ]
+        "2001-03",
+        []
       ],
       [
-        [
-          "Newport"
-        ],
+        "Newport , Wales",
         [
           "/wiki/Newport,_Wales"
         ]
       ],
       [
-        [
-          "Rodney Parade"
-        ],
+        "Rodney Parade ( 11,676 )",
         [
           "/wiki/Rodney_Parade"
         ]
@@ -382,33 +264,23 @@
     ],
     [
       [
-        [
-          "Pontypridd"
-        ],
+        "Pontypridd",
         [
           "/wiki/Pontypridd_RFC"
         ]
       ],
       [
-        [
-          "2001-03"
-        ],
-        [
-          null
-        ]
+        "2001-03",
+        []
       ],
       [
-        [
-          "Pontypridd"
-        ],
+        "Pontypridd , Wales",
         [
           "/wiki/Pontypridd"
         ]
       ],
       [
-        [
-          "Sardis Road"
-        ],
+        "Sardis Road ( 7,861 )",
         [
           "/wiki/Sardis_Road"
         ]
@@ -416,33 +288,23 @@
     ],
     [
       [
-        [
-          "Swansea"
-        ],
+        "Swansea",
         [
           "/wiki/Swansea_RFC"
         ]
       ],
       [
-        [
-          "2001-03"
-        ],
-        [
-          null
-        ]
+        "2001-03",
+        []
       ],
       [
-        [
-          "Swansea"
-        ],
+        "Swansea , Wales",
         [
           "/wiki/Swansea"
         ]
       ],
       [
-        [
-          "St Helen 's"
-        ],
+        "St Helen 's ( 4,500 )",
         [
           "/wiki/St._Helen's_Rugby_and_Cricket_Ground"
         ]

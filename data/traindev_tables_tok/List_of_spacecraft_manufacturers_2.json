@@ -3,54 +3,28 @@
   "title": "List of spacecraft manufacturers",
   "header": [
     [
-      [
-        "Company"
-      ],
-      [
-        null
-      ]
+      "Company",
+      []
     ],
     [
-      [
-        "Location"
-      ],
-      [
-        null
-      ]
+      "Location",
+      []
     ],
     [
-      [
-        "Comments"
-      ],
-      [
-        null
-      ]
+      "Comments",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Arianespace"
-        ],
+        "Arianespace",
         [
           "/wiki/Arianespace"
         ]
       ],
       [
-        [
-          "Europe",
-          "France",
-          "Germany",
-          "Italy",
-          "Belgium",
-          "Switzerland",
-          "Sweden",
-          "Spain",
-          "Netherlands",
-          "Norway",
-          "Denmark"
-        ],
+        "Europe ( France / Germany / Italy / Belgium / Switzerland / Sweden / Spain / Netherlands / Norway / Denmark )",
         [
           "/wiki/Europe",
           "/wiki/France",
@@ -66,9 +40,7 @@
         ]
       ],
       [
-        [
-          "Ariane ( rocket family )"
-        ],
+        "Ariane ( rocket family )",
         [
           "/wiki/Ariane_(rocket_family)"
         ]
@@ -76,53 +48,37 @@
     ],
     [
       [
-        [
-          "Delft Aerospace Rocket Engineering"
-        ],
+        "Delft Aerospace Rocket Engineering",
         [
           "/wiki/Delft_Aerospace_Rocket_Engineering"
         ]
       ],
       [
-        [
-          "Netherlands"
-        ],
+        "Netherlands",
         [
           "/wiki/Netherlands"
         ]
       ],
       [
-        [
-          "Suborbital student-built sounding rockets"
-        ],
-        [
-          null
-        ]
+        "Suborbital student-built sounding rockets",
+        []
       ]
     ],
     [
       [
-        [
-          "ISRO"
-        ],
+        "ISRO",
         [
           "/wiki/ISRO"
         ]
       ],
       [
-        [
-          "India"
-        ],
+        "India",
         [
           "/wiki/India"
         ]
       ],
       [
-        [
-          "PSLV",
-          "GSLV",
-          "GSLV III"
-        ],
+        "PSLV , GSLV , GSLV III",
         [
           "/wiki/PSLV",
           "/wiki/GSLV",
@@ -132,27 +88,20 @@
     ],
     [
       [
-        [
-          "COSMOS International"
-        ],
+        "COSMOS International",
         [
           "/wiki/COSMOS_International"
         ]
       ],
       [
-        [
-          "Russia",
-          "Germany"
-        ],
+        "Russia / Germany",
         [
           "/wiki/Russia",
           "/wiki/Germany"
         ]
       ],
       [
-        [
-          "Kosmos-3M"
-        ],
+        "commercialises the Kosmos-3M launcher",
         [
           "/wiki/Kosmos-3M"
         ]
@@ -160,23 +109,13 @@
     ],
     [
       [
-        [
-          "Eurockot Launch Services"
-        ],
+        "Eurockot Launch Services",
         [
           "/wiki/Eurockot_Launch_Services"
         ]
       ],
       [
-        [
-          "Europe",
-          "Germany",
-          "France",
-          "United Kingdom",
-          "Spain",
-          "Netherlands",
-          "Russia"
-        ],
+        "Europe ( Germany / France / United Kingdom / Spain / Netherlands / Russia )",
         [
           "/wiki/Europe",
           "/wiki/Germany",
@@ -188,9 +127,7 @@
         ]
       ],
       [
-        [
-          "EADS Astrium"
-        ],
+        "owned by EADS Astrium",
         [
           "/wiki/EADS_Astrium"
         ]
@@ -198,73 +135,50 @@
     ],
     [
       [
-        [
-          "International Launch Services"
-        ],
+        "International Launch Services",
         [
           "/wiki/International_Launch_Services"
         ]
       ],
       [
-        [
-          "United States",
-          "Russia"
-        ],
+        "United States Russia",
         [
           "/wiki/United_States",
           "/wiki/Russia"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Iranian Space Agency"
-        ],
+        "Iranian Space Agency",
         [
           "/wiki/Iranian_Space_Agency"
         ]
       ],
       [
-        [
-          "Iran"
-        ],
+        "Iran",
         [
           "/wiki/Iran"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "ISC Kosmotras"
-        ],
+        "ISC Kosmotras",
         [
           "/wiki/ISC_Kosmotras"
         ]
       ],
       [
-        [
-          "Russia",
-          "Ukraine",
-          "Kazakhstan"
-        ],
+        "Russia / Ukraine / Kazakhstan",
         [
           "/wiki/Russia",
           "/wiki/Ukraine",
@@ -272,63 +186,43 @@
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Mitsubishi Heavy Industries"
-        ],
+        "Mitsubishi Heavy Industries",
         [
           "/wiki/Mitsubishi_Heavy_Industries"
         ]
       ],
       [
-        [
-          "Japan"
-        ],
+        "Japan",
         [
           "/wiki/Japan"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Orbital ATK"
-        ],
+        "Orbital ATK",
         [
           "/wiki/Orbital_ATK"
         ]
       ],
       [
-        [
-          "United States"
-        ],
+        "United States",
         [
           "/wiki/United_States"
         ]
       ],
       [
-        [
-          "Antares",
-          "Minotaur",
-          "Pegasus"
-        ],
+        "manufacturer of Antares , Minotaur and Pegasus",
         [
           "/wiki/Antares_(rocket)",
           "/wiki/Minotaur_(rocket)",
@@ -338,81 +232,54 @@
     ],
     [
       [
-        [
-          "Rocket Crafters Inc"
-        ],
-        [
-          null
-        ]
+        "Rocket Crafters Inc",
+        []
       ],
       [
-        [
-          "United States"
-        ],
+        "United States",
         [
           "/wiki/United_States"
         ]
       ],
       [
-        [
-          "manufacturer of Intrepid-1"
-        ],
-        [
-          null
-        ]
+        "manufacturer of Intrepid-1",
+        []
       ]
     ],
     [
       [
-        [
-          "Rocket Lab"
-        ],
+        "Rocket Lab",
         [
           "/wiki/Rocket_Lab"
         ]
       ],
       [
-        [
-          "New Zealand",
-          "United States"
-        ],
+        "New Zealand / United States",
         [
           "/wiki/New_Zealand",
           "/wiki/United_States"
         ]
       ],
       [
-        [
-          "manufacturer of Electron launch vehicle"
-        ],
-        [
-          null
-        ]
+        "manufacturer of Electron launch vehicle",
+        []
       ]
     ],
     [
       [
-        [
-          "SpaceX"
-        ],
+        "SpaceX",
         [
           "/wiki/SpaceX"
         ]
       ],
       [
-        [
-          "United States"
-        ],
+        "United States",
         [
           "/wiki/United_States"
         ]
       ],
       [
-        [
-          "Falcon 1",
-          "Falcon 9",
-          "Falcon Heavy"
-        ],
+        "Falcon 1 , Falcon 9 and Falcon Heavy",
         [
           "/wiki/Falcon_1",
           "/wiki/Falcon_9",
@@ -422,20 +289,13 @@
     ],
     [
       [
-        [
-          "Sea Launch"
-        ],
+        "Sea Launch",
         [
           "/wiki/Sea_Launch"
         ]
       ],
       [
-        [
-          "United States",
-          "Russia",
-          "Ukraine",
-          "Norway"
-        ],
+        "United States / Russia / Ukraine / Norway",
         [
           "/wiki/United_States",
           "/wiki/Russia",
@@ -444,9 +304,7 @@
         ]
       ],
       [
-        [
-          "Land Launch"
-        ],
+        "provider of Sea Launch and Land Launch service",
         [
           "/wiki/Land_Launch"
         ]
@@ -454,26 +312,19 @@
     ],
     [
       [
-        [
-          "Makeyev Rocket Design Bureau"
-        ],
+        "Makeyev Rocket Design Bureau",
         [
           "/wiki/Makeyev_Rocket_Design_Bureau"
         ]
       ],
       [
-        [
-          "Russia"
-        ],
+        "Russia",
         [
           "/wiki/Russia"
         ]
       ],
       [
-        [
-          "Volna",
-          "Shtil '"
-        ],
+        "commercialises the Volna and Shtil ' launchers",
         [
           "/wiki/Volna",
           "/wiki/Shtil'"
@@ -482,25 +333,19 @@
     ],
     [
       [
-        [
-          "NPO Mashinostroyeniya"
-        ],
+        "NPO Mashinostroyeniya",
         [
           "/wiki/NPO_Mashinostroyeniya"
         ]
       ],
       [
-        [
-          "Russia"
-        ],
+        "Russia",
         [
           "/wiki/Russia"
         ]
       ],
       [
-        [
-          "Strela"
-        ],
+        "commercialises the Strela launcher",
         [
           "/wiki/Strela_(rocket)"
         ]
@@ -508,29 +353,13 @@
     ],
     [
       [
-        [
-          "Starsem"
-        ],
+        "Starsem",
         [
           "/wiki/Starsem"
         ]
       ],
       [
-        [
-          "Europe",
-          "Germany",
-          "France",
-          "United Kingdom",
-          "Spain",
-          "Netherlands",
-          "Italy",
-          "Belgium",
-          "Switzerland",
-          "Sweden",
-          "Norway",
-          "Denmark",
-          "Russia"
-        ],
+        "Europe ( Germany / France / United Kingdom / Spain / Netherlands / Italy / Belgium / Switzerland / Sweden / Norway / Denmark / and Russia )",
         [
           "/wiki/Europe",
           "/wiki/Germany",
@@ -548,9 +377,7 @@
         ]
       ],
       [
-        [
-          "Soyuz"
-        ],
+        "commercialises the Soyuz launcher",
         [
           "/wiki/Soyuz_(rocket_family)"
         ]
@@ -558,51 +385,37 @@
     ],
     [
       [
-        [
-          "The Spaceship Company"
-        ],
+        "The Spaceship Company",
         [
           "/wiki/The_Spaceship_Company"
         ]
       ],
       [
-        [
-          "United States"
-        ],
+        "United States",
         [
           "/wiki/United_States"
         ]
       ],
       [
-        [
-          "Reusable spaceship launched from the White Knight Aircraft for space tourism and zero-g experimentation"
-        ],
-        [
-          null
-        ]
+        "Reusable spaceship launched from the White Knight Aircraft for space tourism and zero-g experimentation",
+        []
       ]
     ],
     [
       [
-        [
-          "TsSKB-Progress"
-        ],
+        "TsSKB-Progress",
         [
           "/wiki/TsSKB-Progress"
         ]
       ],
       [
-        [
-          "Russia"
-        ],
+        "Russia",
         [
           "/wiki/Russia"
         ]
       ],
       [
-        [
-          "Soyuz"
-        ],
+        "manufacturer of Soyuz launch vehicle",
         [
           "/wiki/Soyuz_(rocket_family)"
         ]
@@ -610,28 +423,20 @@
     ],
     [
       [
-        [
-          "United Launch Alliance"
-        ],
+        "United Launch Alliance",
         [
           "/wiki/United_Launch_Alliance"
         ]
       ],
       [
-        [
-          "United States"
-        ],
+        "United States",
         [
           "/wiki/United_States"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ]
   ],

@@ -3,20 +3,11 @@
   "title": "List of airports in the Montreal area",
   "header": [
     [
-      [
-        "Airport name"
-      ],
-      [
-        null
-      ]
+      "Airport name",
+      []
     ],
     [
-      [
-        "ICAO",
-        "TC",
-        "LID",
-        "IATA"
-      ],
+      "ICAO / TC LID / ( IATA )",
       [
         "/wiki/International_Civil_Aviation_Organization_airport_code",
         "/wiki/Transport_Canada",
@@ -25,36 +16,24 @@
       ]
     ],
     [
-      [
-        "Location"
-      ],
-      [
-        null
-      ]
+      "Location",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Alexandria Aerodrome"
-        ],
+        "Alexandria Aerodrome",
         [
           "/wiki/Alexandria_Aerodrome"
         ]
       ],
       [
-        [
-          "CNS4"
-        ],
-        [
-          null
-        ]
+        "CNS4",
+        []
       ],
       [
-        [
-          "North Glengarry , Ontario"
-        ],
+        "North Glengarry , Ontario",
         [
           "/wiki/North_Glengarry,_Ontario"
         ]
@@ -62,25 +41,17 @@
     ],
     [
       [
-        [
-          "Hawkesbury Airport"
-        ],
+        "Hawkesbury Airport",
         [
           "/wiki/Hawkesbury_Airport"
         ]
       ],
       [
-        [
-          "CNV4"
-        ],
-        [
-          null
-        ]
+        "CNV4",
+        []
       ],
       [
-        [
-          "Hawkesbury , Ontario"
-        ],
+        "Hawkesbury , Ontario",
         [
           "/wiki/Hawkesbury,_Ontario"
         ]
@@ -88,25 +59,17 @@
     ],
     [
       [
-        [
-          "Hawkesbury ( East ) Airport"
-        ],
+        "Hawkesbury ( East ) Airport",
         [
           "/wiki/Hawkesbury_(East)_Airport"
         ]
       ],
       [
-        [
-          "CPG5"
-        ],
-        [
-          null
-        ]
+        "CPG5",
+        []
       ],
       [
-        [
-          "Hawkesbury , Ontario"
-        ],
+        "Hawkesbury , Ontario",
         [
           "/wiki/Hawkesbury,_Ontario"
         ]
@@ -114,25 +77,17 @@
     ],
     [
       [
-        [
-          "Lac Agile ( Mascouche ) Airport"
-        ],
+        "Lac Agile ( Mascouche ) Airport",
         [
           "/wiki/Lac_Agile_(Mascouche)_Airport"
         ]
       ],
       [
-        [
-          "CSA2"
-        ],
-        [
-          null
-        ]
+        "CSA2",
+        []
       ],
       [
-        [
-          "Mascouche"
-        ],
+        "Mascouche",
         [
           "/wiki/Mascouche"
         ]
@@ -140,25 +95,17 @@
     ],
     [
       [
-        [
-          "Lachute Airport"
-        ],
+        "Lachute Airport",
         [
           "/wiki/Lachute_Airport"
         ]
       ],
       [
-        [
-          "CSE4"
-        ],
-        [
-          null
-        ]
+        "CSE4",
+        []
       ],
       [
-        [
-          "Lachute"
-        ],
+        "Lachute",
         [
           "/wiki/Lachute"
         ]
@@ -166,25 +113,17 @@
     ],
     [
       [
-        [
-          "Montr\u00e9al/A\u00e9roparc \u00cele Perrot"
-        ],
+        "Montr\u00e9al/A\u00e9roparc \u00cele Perrot",
         [
           "/wiki/Montr\u00e9al/A\u00e9roparc_\u00cele_Perrot"
         ]
       ],
       [
-        [
-          "CSP6"
-        ],
-        [
-          null
-        ]
+        "CSP6",
+        []
       ],
       [
-        [
-          "Montreal"
-        ],
+        "Montreal",
         [
           "/wiki/Montreal"
         ]
@@ -192,25 +131,17 @@
     ],
     [
       [
-        [
-          "Montr\u00e9al/Les C\u00e8dres Airport"
-        ],
+        "Montr\u00e9al/Les C\u00e8dres Airport",
         [
           "/wiki/Montr\u00e9al/Les_C\u00e8dres_Airport"
         ]
       ],
       [
-        [
-          "CSS3"
-        ],
-        [
-          null
-        ]
+        "CSS3",
+        []
       ],
       [
-        [
-          "Les C\u00e8dres"
-        ],
+        "Les C\u00e8dres",
         [
           "/wiki/Les_C\u00e8dres,_Quebec"
         ]
@@ -218,25 +149,17 @@
     ],
     [
       [
-        [
-          "Montr\u00e9al/Saint-Lazare Aerodrome"
-        ],
+        "Montr\u00e9al/Saint-Lazare Aerodrome",
         [
           "/wiki/Montr\u00e9al/Saint-Lazare_Aerodrome"
         ]
       ],
       [
-        [
-          "CST3"
-        ],
-        [
-          null
-        ]
+        "CST3",
+        []
       ],
       [
-        [
-          "Saint-Lazare"
-        ],
+        "Saint-Lazare",
         [
           "/wiki/Saint-Lazare,_Quebec"
         ]
@@ -244,25 +167,17 @@
     ],
     [
       [
-        [
-          "Saint-Jean Airport"
-        ],
+        "Saint-Jean Airport",
         [
           "/wiki/Saint-Jean_Airport"
         ]
       ],
       [
-        [
-          "CYJN ( YJN )"
-        ],
-        [
-          null
-        ]
+        "CYJN ( YJN )",
+        []
       ],
       [
-        [
-          "Saint-Jean-sur-Richelieu"
-        ],
+        "Saint-Jean-sur-Richelieu",
         [
           "/wiki/Saint-Jean-sur-Richelieu"
         ]
@@ -270,25 +185,17 @@
     ],
     [
       [
-        [
-          "Saint-Mathias Aerodrome"
-        ],
+        "Saint-Mathias Aerodrome",
         [
           "/wiki/Saint-Mathias_Aerodrome"
         ]
       ],
       [
-        [
-          "CSP5"
-        ],
-        [
-          null
-        ]
+        "CSP5",
+        []
       ],
       [
-        [
-          "Saint-Mathias-sur-Richelieu"
-        ],
+        "Saint-Mathias-sur-Richelieu",
         [
           "/wiki/Saint-Mathias-sur-Richelieu,_Quebec"
         ]
@@ -296,25 +203,17 @@
     ],
     [
       [
-        [
-          "Saint-Mathias/Grant Aerodrome"
-        ],
+        "Saint-Mathias/Grant Aerodrome",
         [
           "/wiki/Saint-Mathias/Grant_Aerodrome"
         ]
       ],
       [
-        [
-          "CSX5"
-        ],
-        [
-          null
-        ]
+        "CSX5",
+        []
       ],
       [
-        [
-          "Saint-Mathias-sur-Richelieu"
-        ],
+        "Saint-Mathias-sur-Richelieu",
         [
           "/wiki/Saint-Mathias-sur-Richelieu,_Quebec"
         ]
@@ -322,25 +221,17 @@
     ],
     [
       [
-        [
-          "Saint-Mathieu-de-Beloeil Aerodrome"
-        ],
+        "Saint-Mathieu-de-Beloeil Aerodrome",
         [
           "/wiki/Saint-Mathieu-de-Beloeil_Aerodrome"
         ]
       ],
       [
-        [
-          "CSB3"
-        ],
-        [
-          null
-        ]
+        "CSB3",
+        []
       ],
       [
-        [
-          "Saint-Mathieu-de-Beloeil"
-        ],
+        "Saint-Mathieu-de-Beloeil",
         [
           "/wiki/Saint-Mathieu-de-Beloeil,_Quebec"
         ]
@@ -348,25 +239,17 @@
     ],
     [
       [
-        [
-          "Salaberry-de-Valleyfield Aerodrome"
-        ],
+        "Salaberry-de-Valleyfield Aerodrome",
         [
           "/wiki/Salaberry-de-Valleyfield_Aerodrome"
         ]
       ],
       [
-        [
-          "CSD3"
-        ],
-        [
-          null
-        ]
+        "CSD3",
+        []
       ],
       [
-        [
-          "Salaberry-de-Valleyfield"
-        ],
+        "Salaberry-de-Valleyfield",
         [
           "/wiki/Salaberry-de-Valleyfield"
         ]
@@ -374,25 +257,17 @@
     ],
     [
       [
-        [
-          "Richelieu Airport"
-        ],
+        "Richelieu Airport",
         [
           "/wiki/Richelieu_Airport"
         ]
       ],
       [
-        [
-          "CSX3"
-        ],
-        [
-          null
-        ]
+        "CSX3",
+        []
       ],
       [
-        [
-          "Richelieu"
-        ],
+        "Richelieu",
         [
           "/wiki/Richelieu,_Quebec"
         ]
@@ -400,25 +275,17 @@
     ],
     [
       [
-        [
-          "Richelieu/Messier Aerodrome"
-        ],
+        "Richelieu/Messier Aerodrome",
         [
           "/wiki/Richelieu/Messier_Aerodrome"
         ]
       ],
       [
-        [
-          "CRM3"
-        ],
-        [
-          null
-        ]
+        "CRM3",
+        []
       ],
       [
-        [
-          "Richelieu"
-        ],
+        "Richelieu",
         [
           "/wiki/Richelieu,_Quebec"
         ]

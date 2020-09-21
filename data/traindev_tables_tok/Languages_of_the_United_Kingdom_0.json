@@ -3,106 +3,63 @@
   "title": "Languages of the United Kingdom",
   "header": [
     [
-      [
-        "Language"
-      ],
-      [
-        null
-      ]
+      "Language",
+      []
     ],
     [
-      [
-        "Type"
-      ],
-      [
-        null
-      ]
+      "Type",
+      []
     ],
     [
-      [
-        "Spoken in"
-      ],
-      [
-        null
-      ]
+      "Spoken in",
+      []
     ],
     [
-      [
-        "No . of speakers in the UK"
-      ],
-      [
-        null
-      ]
+      "No . of speakers in the UK",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "English"
-        ],
+        "English",
         [
           "/wiki/English_language"
         ]
       ],
       [
-        [
-          "Germanic",
-          "West Germanic"
-        ],
+        "Germanic ( West Germanic )",
         [
           "/wiki/Germanic_languages",
           "/wiki/West_Germanic_languages"
         ]
       ],
       [
-        [
-          "Throughout the United Kingdom"
-        ],
-        [
-          null
-        ]
+        "Throughout the United Kingdom",
+        []
       ],
       [
-        [
-          "59,824,194 ; 98% ( 2011 census )"
-        ],
-        [
-          null
-        ]
+        "59,824,194 ; 98% ( 2011 census )",
+        []
       ]
     ],
     [
       [
-        [
-          "Scots",
-          "Ulster Scots"
-        ],
+        "Scots ( Ulster Scots in Northern Ireland )",
         [
           "/wiki/Scots_language",
           "/wiki/Ulster_Scots_dialects"
         ]
       ],
       [
-        [
-          "Germanic",
-          "West Germanic"
-        ],
+        "Germanic ( West Germanic )",
         [
           "/wiki/Germanic_languages",
           "/wiki/West_Germanic_languages"
         ]
       ],
       [
-        [
-          "Scottish Lowlands",
-          "Caithness",
-          "Northern Isles",
-          "Down",
-          "Antrim",
-          "Londonderry",
-          "Berwick-on-Tweed"
-        ],
+        "Scotland ( Scottish Lowlands , Caithness , Northern Isles ) Northern Ireland ( counties Down , Antrim , Londonderry ) , Berwick-on-Tweed",
         [
           "/wiki/Scottish_Lowlands",
           "/wiki/Caithness",
@@ -114,10 +71,7 @@
         ]
       ],
       [
-        [
-          "Scotland",
-          "Northern Ireland"
-        ],
+        "2.6% ( 2011 census ) Scotland : 1,541,693 ; 30% Northern Ireland : 34,439 ; 2% ( although 8.1% with some ability )",
         [
           "/wiki/Scotland",
           "/wiki/Northern_Ireland"
@@ -126,38 +80,26 @@
     ],
     [
       [
-        [
-          "Welsh"
-        ],
+        "Welsh",
         [
           "/wiki/Welsh_language"
         ]
       ],
       [
-        [
-          "Celtic",
-          "Brythonic"
-        ],
+        "Celtic ( Brythonic )",
         [
           "/wiki/Celtic_languages",
           "/wiki/Brythonic_languages"
         ]
       ],
       [
-        [
-          "Welsh-English border"
-        ],
+        "Wales ( especially west and north ) and parts of England near the Welsh-English border ; Welsh communities in major English cities such as London , Birmingham , Manchester and Liverpool",
         [
           "/wiki/Wales\u2013England_border"
         ]
       ],
       [
-        [
-          "Wales",
-          "England",
-          "Scotland",
-          "Northern Ireland"
-        ],
+        "1,123,500 ; 1.7% ( 2019 Wales figures , with England , Scotland and Northen Ireland esitmated figures from 2011 census ) Wales : 874,600 ; 29% ( 2019 ) All skills ( speaking , reading , or writing ) : 1,012,500 England : 110,000 ( estimated speakers in 2001 ) 8,200 first language speakers ( 2011 census ) Scotland and Northern Ireland : 1,000 ( estimated speakers in 2001 )",
         [
           "/wiki/Wales",
           "/wiki/England",
@@ -168,282 +110,186 @@
     ],
     [
       [
-        [
-          "British Sign Language"
-        ],
+        "British Sign Language",
         [
           "/wiki/British_Sign_Language"
         ]
       ],
       [
-        [
-          "BANZSL"
-        ],
+        "BANZSL",
         [
           "/wiki/BANZSL"
         ]
       ],
       [
-        [
-          "Throughout the United Kingdom"
-        ],
-        [
-          null
-        ]
+        "Throughout the United Kingdom",
+        []
       ],
       [
-        [
-          "125,000 ( 2010 data )"
-        ],
-        [
-          null
-        ]
+        "125,000 ( 2010 data )",
+        []
       ]
     ],
     [
       [
-        [
-          "Irish"
-        ],
+        "Irish",
         [
           "/wiki/Irish_language_in_Northern_Ireland"
         ]
       ],
       [
-        [
-          "Celtic",
-          "Goidelic"
-        ],
+        "Celtic ( Goidelic )",
         [
           "/wiki/Celtic_languages",
           "/wiki/Goidelic_languages"
         ]
       ],
       [
-        [
-          "Northern Ireland , with communities in Glasgow , Liverpool , Manchester , London etc"
-        ],
-        [
-          null
-        ]
+        "Northern Ireland , with communities in Glasgow , Liverpool , Manchester , London etc",
+        []
       ],
       [
-        [
-          "95,000 ( 2004 data )"
-        ],
-        [
-          null
-        ]
+        "95,000 ( 2004 data )",
+        []
       ]
     ],
     [
       [
-        [
-          "Angloromani"
-        ],
+        "Angloromani",
         [
           "/wiki/Angloromani_language"
         ]
       ],
       [
-        [
-          "Mixed"
-        ],
+        "Mixed",
         [
           "/wiki/Mixed_language"
         ]
       ],
       [
-        [
-          "Spoken by English Romanichal Traveller communities in England , Scotland and Wales"
-        ],
-        [
-          null
-        ]
+        "Spoken by English Romanichal Traveller communities in England , Scotland and Wales",
+        []
       ],
       [
-        [
-          "90,000 ( 1990 data )"
-        ],
-        [
-          null
-        ]
+        "90,000 ( 1990 data )",
+        []
       ]
     ],
     [
       [
-        [
-          "Scottish Gaelic"
-        ],
+        "Scottish Gaelic",
         [
           "/wiki/Scottish_Gaelic"
         ]
       ],
       [
-        [
-          "Celtic",
-          "Goidelic"
-        ],
+        "Celtic ( Goidelic )",
         [
           "/wiki/Celtic_languages",
           "/wiki/Goidelic_languages"
         ]
       ],
       [
-        [
-          "Scottish Highlands",
-          "Hebrides"
-        ],
+        "Scotland ( Scottish Highlands and Hebrides with substantial minorities in various Scottish cities ; a small community in London )",
         [
           "/wiki/Scottish_Highlands",
           "/wiki/Hebrides"
         ]
       ],
       [
-        [
-          "65,674 total , ( Scotland 's 2001 Census ) though those who have fluency in all three skills is 32,400"
-        ],
-        [
-          null
-        ]
+        "65,674 total , ( Scotland 's 2001 Census ) though those who have fluency in all three skills is 32,400",
+        []
       ]
     ],
     [
       [
-        [
-          "Cornish"
-        ],
+        "Cornish",
         [
           "/wiki/Cornish_language"
         ]
       ],
       [
-        [
-          "Celtic",
-          "Brythonic"
-        ],
+        "Celtic ( Brythonic )",
         [
           "/wiki/Celtic_languages",
           "/wiki/Brythonic_languages"
         ]
       ],
       [
-        [
-          "Cornwall"
-        ],
+        "Cornwall ( small minorities of speakers in Plymouth , London , and South Wales )",
         [
           "/wiki/Cornwall"
         ]
       ],
       [
-        [
-          "557 ( 2011 data )"
-        ],
-        [
-          null
-        ]
+        "557 ( 2011 data )",
+        []
       ]
     ],
     [
       [
-        [
-          "Shelta"
-        ],
+        "Shelta",
         [
           "/wiki/Shelta"
         ]
       ],
       [
-        [
-          "Mixed"
-        ],
+        "Mixed",
         [
           "/wiki/Mixed_language"
         ]
       ],
       [
-        [
-          "Spoken by Irish Traveller communities throughout the United Kingdom"
-        ],
-        [
-          null
-        ]
+        "Spoken by Irish Traveller communities throughout the United Kingdom",
+        []
       ],
       [
-        [
-          "Est . 30,000 in UK . Fewer than 86,000 worldwide"
-        ],
-        [
-          null
-        ]
+        "Est . 30,000 in UK . Fewer than 86,000 worldwide",
+        []
       ]
     ],
     [
       [
-        [
-          "Irish Sign Language"
-        ],
+        "Irish Sign Language",
         [
           "/wiki/Irish_Sign_Language"
         ]
       ],
       [
-        [
-          "Francosign"
-        ],
+        "Francosign",
         [
           "/wiki/French_Sign_Language_family"
         ]
       ],
       [
-        [
-          "Northern Ireland"
-        ],
-        [
-          null
-        ]
+        "Northern Ireland",
+        []
       ],
       [
-        [
-          "Unknown"
-        ],
-        [
-          null
-        ]
+        "Unknown",
+        []
       ]
     ],
     [
       [
-        [
-          "Northern Ireland Sign Language"
-        ],
+        "Northern Ireland Sign Language",
         [
           "/wiki/Northern_Ireland_Sign_Language"
         ]
       ],
       [
-        [
-          "BANZSL"
-        ],
+        "BANZSL",
         [
           "/wiki/BANZSL"
         ]
       ],
       [
-        [
-          "Northern Ireland"
-        ],
-        [
-          null
-        ]
+        "Northern Ireland",
+        []
       ],
       [
-        [
-          "Unknown"
-        ],
-        [
-          null
-        ]
+        "Unknown",
+        []
       ]
     ]
   ],

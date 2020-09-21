@@ -3,63 +3,36 @@
   "title": "1968 International Cross Country Championships",
   "header": [
     [
-      [
-        "Rank"
-      ],
-      [
-        null
-      ]
+      "Rank",
+      []
     ],
     [
-      [
-        "Country"
-      ],
-      [
-        null
-      ]
+      "Country",
+      []
     ],
     [
-      [
-        "Team"
-      ],
-      [
-        null
-      ]
+      "Team",
+      []
     ],
     [
-      [
-        "Points"
-      ],
-      [
-        null
-      ]
+      "Points",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "England"
-        ],
+        "England",
         [
           "/wiki/England"
         ]
       ],
       [
-        [
-          "Ron Hill",
-          "Roy Fowler",
-          "Jim Hogan",
-          "Bill Adcocks"
-        ],
+        "Ron Hill Roy Fowler Mike Freary Alan Rushmer Jim Hogan Bill Adcocks",
         [
           "/wiki/Ron_Hill",
           "/wiki/Roy_Fowler_(runner)",
@@ -68,115 +41,70 @@
         ]
       ],
       [
-        [
-          "58"
-        ],
-        [
-          null
-        ]
+        "58",
+        []
       ]
     ],
     [
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "France"
-        ],
+        "France",
         [
           "/wiki/France"
         ]
       ],
       [
-        [
-          "Noel Tijou",
-          "Ren\u00e9 Jourdan",
-          "Lucien Rault",
-          "Michel Bernard"
-        ],
+        "Guy Texereau Noel Tijou Ren\u00e9 Jourdan Lucien Rault Bernard Maroquin Michel Bernard",
         [
           "/wiki/Noel_Tijou",
-          null,
           "/wiki/Lucien_Rault",
           "/wiki/Michel_Bernard_(runner)"
         ]
       ],
       [
-        [
-          "101"
-        ],
-        [
-          null
-        ]
+        "101",
+        []
       ]
     ],
     [
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "Spain"
-        ],
+        "Spain",
         [
           "/wiki/Spain"
         ]
       ],
       [
-        [
-          "Mariano Haro",
-          "Jos\u00e9 Maiz",
-          "Javier \u00c1lvarez"
-        ],
+        "Mariano Haro Jos\u00e9 Maiz Javier \u00c1lvarez Iluminado Corcuera Carlos P\u00e9rez Ramon Tasende",
         [
           "/wiki/Mariano_Haro",
-          null,
           "/wiki/Javier_\u00c1lvarez_(athlete)"
         ]
       ],
       [
-        [
-          "129"
-        ],
-        [
-          null
-        ]
+        "129",
+        []
       ]
     ],
     [
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "Scotland"
-        ],
+        "Scotland",
         [
           "/wiki/Scotland"
         ]
       ],
       [
-        [
-          "Ian McCafferty",
-          "Lachie Stewart",
-          "Jim Alder"
-        ],
+        "Ian McCafferty Lachie Stewart Andy Brown Jim Wright Jim Alder Gareth Bryan-Jones",
         [
           "/wiki/Ian_McCafferty",
           "/wiki/Lachie_Stewart",
@@ -184,336 +112,201 @@
         ]
       ],
       [
-        [
-          "137"
-        ],
-        [
-          null
-        ]
+        "137",
+        []
       ]
     ],
     [
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "Morocco"
-        ],
+        "Morocco",
         [
           "/wiki/Morocco"
         ]
       ],
       [
+        "Mohamed Said Larbi Oukada Ben Assou El Ghazi Haddou Jaddour Moha A\u00eft Bassou Hammadi Ben Mohamed",
         [
-          "Ben Assou El Ghazi",
-          "Haddou Jaddour"
-        ],
-        [
-          "/wiki/Ben_Assou_El_Ghazi",
-          null
+          "/wiki/Ben_Assou_El_Ghazi"
         ]
       ],
       [
-        [
-          "178"
-        ],
-        [
-          null
-        ]
+        "178",
+        []
       ]
     ],
     [
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "Tunisia"
-        ],
+        "Tunisia",
         [
           "/wiki/Tunisia"
         ]
       ],
       [
-        [
-          "Mohamed Gammoudi",
-          "Ahmed Zammel",
-          "Mhedheb Hannachi",
-          "Abdelkader Zaddem",
-          "Hamdouni Sghaier"
-        ],
+        "Mohamed Gammoudi Ahmed Zammel Mhedheb Hannachi Ammar Khemiri Abdelkader Zaddem Hamdouni Sghaier",
         [
           "/wiki/Mohamed_Gammoudi",
           "/wiki/Ahmed_Zammel",
-          null,
-          "/wiki/Abdelkader_Zaddem",
-          null
+          "/wiki/Abdelkader_Zaddem"
         ]
       ],
       [
-        [
-          "227"
-        ],
-        [
-          null
-        ]
+        "227",
+        []
       ]
     ],
     [
       [
-        [
-          "7"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ],
       [
-        [
-          "United States"
-        ],
+        "United States",
         [
           "/wiki/United_States"
         ]
       ],
       [
-        [
-          "Bill Clark Herb Lorenz Don Lakin Tom Heinonen Doug Wiebe Bill Reilly"
-        ],
-        [
-          null
-        ]
+        "Bill Clark Herb Lorenz Don Lakin Tom Heinonen Doug Wiebe Bill Reilly",
+        []
       ],
       [
-        [
-          "246"
-        ],
-        [
-          null
-        ]
+        "246",
+        []
       ]
     ],
     [
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "Belgium"
-        ],
+        "Belgium",
         [
           "/wiki/Belgium"
         ]
       ],
       [
-        [
-          "Gaston Roelants"
-        ],
+        "Gaston Roelants Robert Folie Pierre de Pauw Jean-Pierre Delloye Leon Moreels Johan Janssens",
         [
           "/wiki/Gaston_Roelants"
         ]
       ],
       [
-        [
-          "304"
-        ],
-        [
-          null
-        ]
+        "304",
+        []
       ]
     ],
     [
       [
-        [
-          "9"
-        ],
-        [
-          null
-        ]
+        "9",
+        []
       ],
       [
-        [
-          "Switzerland"
-        ],
+        "Switzerland",
         [
           "/wiki/Switzerland"
         ]
       ],
       [
-        [
-          "Walter Huss Werner D\u00f6ssegger Alfons Sidler Werner Wildschek Walter Dietiker Hansruedi Knill"
-        ],
-        [
-          null
-        ]
+        "Walter Huss Werner D\u00f6ssegger Alfons Sidler Werner Wildschek Walter Dietiker Hansruedi Knill",
+        []
       ],
       [
-        [
-          "355"
-        ],
-        [
-          null
-        ]
+        "355",
+        []
       ]
     ],
     [
       [
-        [
-          "10"
-        ],
-        [
-          null
-        ]
+        "10",
+        []
       ],
       [
-        [
-          "Ireland"
-        ],
+        "Ireland",
         [
           "/wiki/Republic_of_Ireland"
         ]
       ],
       [
-        [
-          "Tom O'Riordan",
-          "Donal Walsh"
-        ],
+        "Dennis Quinlan Matt Murphy Tom O'Riordan Donal Walsh Joe O'Keefe John Buckley",
         [
           "/wiki/Tom_O'Riordan",
           "/wiki/Donal_Walsh"
         ]
       ],
       [
-        [
-          "360"
-        ],
-        [
-          null
-        ]
+        "360",
+        []
       ]
     ],
     [
       [
-        [
-          "11"
-        ],
-        [
-          null
-        ]
+        "11",
+        []
       ],
       [
-        [
-          "Northern Ireland"
-        ],
+        "Northern Ireland",
         [
           "/wiki/Northern_Ireland"
         ]
       ],
       [
+        "Derek Graham Roy Kernoghan Matt Wilson Mike Teer Malcolm Edger David Logue",
         [
-          "Derek Graham",
-          "Roy Kernoghan",
-          "Mike Teer",
-          "David Logue"
-        ],
-        [
-          "/wiki/Derek_Graham",
-          null,
-          null,
-          null
+          "/wiki/Derek_Graham"
         ]
       ],
       [
-        [
-          "407"
-        ],
-        [
-          null
-        ]
+        "407",
+        []
       ]
     ],
     [
       [
-        [
-          "12"
-        ],
-        [
-          null
-        ]
+        "12",
+        []
       ],
       [
-        [
-          "Wales"
-        ],
+        "Wales",
         [
           "/wiki/Wales"
         ]
       ],
       [
-        [
-          "Alan Joslyn Alan Jones Hedydd Davies Cyril Leigh Mel Evans Jeff Kirby"
-        ],
-        [
-          null
-        ]
+        "Alan Joslyn Alan Jones Hedydd Davies Cyril Leigh Mel Evans Jeff Kirby",
+        []
       ],
       [
-        [
-          "428"
-        ],
-        [
-          null
-        ]
+        "428",
+        []
       ]
     ],
     [
       [
-        [
-          "13"
-        ],
-        [
-          null
-        ]
+        "13",
+        []
       ],
       [
-        [
-          "Algeria"
-        ],
+        "Algeria",
         [
           "/wiki/Algeria"
         ]
       ],
       [
-        [
-          "Abderrahmane Delhoum Guenaoui Behloul Kamali Benmissi Mohamed Gouasmi Mustapha Lerari Aissa Benfar\u00e8s"
-        ],
-        [
-          null
-        ]
+        "Abderrahmane Delhoum Guenaoui Behloul Kamali Benmissi Mohamed Gouasmi Mustapha Lerari Aissa Benfar\u00e8s",
+        []
       ],
       [
-        [
-          "533"
-        ],
-        [
-          null
-        ]
+        "533",
+        []
       ]
     ]
   ],

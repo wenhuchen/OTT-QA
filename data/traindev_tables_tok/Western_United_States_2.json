@@ -3,71 +3,38 @@
   "title": "Western United States",
   "header": [
     [
-      [
-        "Rank ( West )"
-      ],
-      [
-        null
-      ]
+      "Rank ( West )",
+      []
     ],
     [
-      [
-        "Rank ( USA )"
-      ],
-      [
-        null
-      ]
+      "Rank ( USA )",
+      []
     ],
     [
-      [
-        "MSA"
-      ],
-      [
-        null
-      ]
+      "MSA",
+      []
     ],
     [
-      [
-        "Population"
-      ],
-      [
-        null
-      ]
+      "Population",
+      []
     ],
     [
-      [
-        "State ( s )"
-      ],
-      [
-        null
-      ]
+      "State ( s )",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "Los Angeles",
-          "Long Beach",
-          "Anaheim",
-          "MSA"
-        ],
+        "Los Angeles - Long Beach - Anaheim MSA",
         [
           "/wiki/Los_Angeles",
           "/wiki/Long_Beach,_California",
@@ -76,17 +43,11 @@
         ]
       ],
       [
-        [
-          "13,340,068"
-        ],
-        [
-          null
-        ]
+        "13,340,068",
+        []
       ],
       [
-        [
-          "California"
-        ],
+        "California",
         [
           "/wiki/California"
         ]
@@ -94,28 +55,15 @@
     ],
     [
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "11"
-        ],
-        [
-          null
-        ]
+        "11",
+        []
       ],
       [
-        [
-          "San Francisco",
-          "Oakland",
-          "Hayward",
-          "MSA"
-        ],
+        "San Francisco - Oakland - Hayward MSA",
         [
           "/wiki/San_Francisco",
           "/wiki/Oakland,_California",
@@ -124,17 +72,11 @@
         ]
       ],
       [
-        [
-          "4,656,132"
-        ],
-        [
-          null
-        ]
+        "4,656,132",
+        []
       ],
       [
-        [
-          "California"
-        ],
+        "California",
         [
           "/wiki/California"
         ]
@@ -142,28 +84,15 @@
     ],
     [
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "12"
-        ],
-        [
-          null
-        ]
+        "12",
+        []
       ],
       [
-        [
-          "Phoenix",
-          "Mesa",
-          "Scottsdale",
-          "MSA"
-        ],
+        "Phoenix - Mesa - Scottsdale MSA",
         [
           "/wiki/Phoenix,_Arizona",
           "/wiki/Mesa,_Arizona",
@@ -172,17 +101,11 @@
         ]
       ],
       [
-        [
-          "4,574,531"
-        ],
-        [
-          null
-        ]
+        "4,574,531",
+        []
       ],
       [
-        [
-          "Arizona"
-        ],
+        "Arizona",
         [
           "/wiki/Arizona"
         ]
@@ -190,28 +113,15 @@
     ],
     [
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ],
       [
-        [
-          "13"
-        ],
-        [
-          null
-        ]
+        "13",
+        []
       ],
       [
-        [
-          "San Bernardino",
-          "Riverside",
-          "Ontario",
-          "MSA"
-        ],
+        "San Bernardino - Riverside - Ontario MSA",
         [
           "/wiki/San_Bernardino,_California",
           "/wiki/Riverside,_California",
@@ -220,17 +130,11 @@
         ]
       ],
       [
-        [
-          "4,489,159"
-        ],
-        [
-          null
-        ]
+        "4,489,159",
+        []
       ],
       [
-        [
-          "California"
-        ],
+        "California",
         [
           "/wiki/California"
         ]
@@ -238,28 +142,15 @@
     ],
     [
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ],
       [
-        [
-          "15"
-        ],
-        [
-          null
-        ]
+        "15",
+        []
       ],
       [
-        [
-          "Seattle",
-          "Tacoma",
-          "Bellevue",
-          "MSA"
-        ],
+        "Seattle - Tacoma - Bellevue MSA",
         [
           "/wiki/Seattle",
           "/wiki/Tacoma,_Washington",
@@ -268,17 +159,11 @@
         ]
       ],
       [
-        [
-          "3,733,580"
-        ],
-        [
-          null
-        ]
+        "3,733,580",
+        []
       ],
       [
-        [
-          "Washington"
-        ],
+        "Washington",
         [
           "/wiki/Washington_(state)"
         ]
@@ -286,27 +171,15 @@
     ],
     [
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ],
       [
-        [
-          "17"
-        ],
-        [
-          null
-        ]
+        "17",
+        []
       ],
       [
-        [
-          "San Diego",
-          "Carlsbad",
-          "MSA"
-        ],
+        "San Diego - Carlsbad MSA",
         [
           "/wiki/San_Diego",
           "/wiki/Carlsbad,_California",
@@ -314,17 +187,11 @@
         ]
       ],
       [
-        [
-          "3,299,521"
-        ],
-        [
-          null
-        ]
+        "3,299,521",
+        []
       ],
       [
-        [
-          "California"
-        ],
+        "California",
         [
           "/wiki/California"
         ]
@@ -332,28 +199,15 @@
     ],
     [
       [
-        [
-          "7"
-        ],
-        [
-          null
-        ]
+        "7",
+        []
       ],
       [
-        [
-          "19"
-        ],
-        [
-          null
-        ]
+        "19",
+        []
       ],
       [
-        [
-          "Denver",
-          "Aurora",
-          "Lakewood",
-          "MSA"
-        ],
+        "Denver - Aurora - Lakewood MSA",
         [
           "/wiki/Denver",
           "/wiki/Aurora,_Colorado",
@@ -362,17 +216,11 @@
         ]
       ],
       [
-        [
-          "2,814,330"
-        ],
-        [
-          null
-        ]
+        "2,814,330",
+        []
       ],
       [
-        [
-          "Colorado"
-        ],
+        "Colorado",
         [
           "/wiki/Colorado"
         ]
@@ -380,28 +228,15 @@
     ],
     [
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ],
       [
-        [
-          "23"
-        ],
-        [
-          null
-        ]
+        "23",
+        []
       ],
       [
-        [
-          "Portland",
-          "Vancouver",
-          "Hillsboro",
-          "MSA"
-        ],
+        "Portland - Vancouver - Hillsboro MSA",
         [
           "/wiki/Portland,_Oregon",
           "/wiki/Vancouver,_Washington",
@@ -410,18 +245,11 @@
         ]
       ],
       [
-        [
-          "2,389,228"
-        ],
-        [
-          null
-        ]
+        "2,389,228",
+        []
       ],
       [
-        [
-          "Oregon",
-          "Washington"
-        ],
+        "Oregon Washington",
         [
           "/wiki/Oregon",
           "/wiki/Washington_(state)"
@@ -430,28 +258,15 @@
     ],
     [
       [
-        [
-          "9"
-        ],
-        [
-          null
-        ]
+        "9",
+        []
       ],
       [
-        [
-          "27"
-        ],
-        [
-          null
-        ]
+        "27",
+        []
       ],
       [
-        [
-          "Sacramento",
-          "Roseville",
-          "Arden-Arcade",
-          "MSA"
-        ],
+        "Sacramento - Roseville - Arden-Arcade MSA",
         [
           "/wiki/Sacramento,_California",
           "/wiki/Roseville,_California",
@@ -460,17 +275,11 @@
         ]
       ],
       [
-        [
-          "2,274,194"
-        ],
-        [
-          null
-        ]
+        "2,274,194",
+        []
       ],
       [
-        [
-          "California"
-        ],
+        "California",
         [
           "/wiki/California"
         ]
@@ -478,28 +287,15 @@
     ],
     [
       [
-        [
-          "10"
-        ],
-        [
-          null
-        ]
+        "10",
+        []
       ],
       [
-        [
-          "29"
-        ],
-        [
-          null
-        ]
+        "29",
+        []
       ],
       [
-        [
-          "Las Vegas",
-          "Henderson",
-          "Paradise",
-          "MSA"
-        ],
+        "Las Vegas - Henderson - Paradise MSA",
         [
           "/wiki/Las_Vegas",
           "/wiki/Henderson,_Nevada",
@@ -508,17 +304,11 @@
         ]
       ],
       [
-        [
-          "2,114,801"
-        ],
-        [
-          null
-        ]
+        "2,114,801",
+        []
       ],
       [
-        [
-          "Nevada"
-        ],
+        "Nevada",
         [
           "/wiki/Nevada"
         ]
@@ -526,28 +316,15 @@
     ],
     [
       [
-        [
-          "11"
-        ],
-        [
-          null
-        ]
+        "11",
+        []
       ],
       [
-        [
-          "35"
-        ],
-        [
-          null
-        ]
+        "35",
+        []
       ],
       [
-        [
-          "San Jose",
-          "Sunnyvale",
-          "Santa Clara",
-          "MSA"
-        ],
+        "San Jose - Sunnyvale - Santa Clara MSA",
         [
           "/wiki/San_Jose,_California",
           "/wiki/Sunnyvale,_California",
@@ -556,17 +333,11 @@
         ]
       ],
       [
-        [
-          "1,976,836"
-        ],
-        [
-          null
-        ]
+        "1,976,836",
+        []
       ],
       [
-        [
-          "California"
-        ],
+        "California",
         [
           "/wiki/California"
         ]
@@ -574,43 +345,26 @@
     ],
     [
       [
-        [
-          "12"
-        ],
-        [
-          null
-        ]
+        "12",
+        []
       ],
       [
-        [
-          "48"
-        ],
-        [
-          null
-        ]
+        "48",
+        []
       ],
       [
-        [
-          "Salt Lake City",
-          "MSA"
-        ],
+        "Salt Lake City MSA",
         [
           "/wiki/Salt_Lake_City",
           "/wiki/Wasatch_Front"
         ]
       ],
       [
-        [
-          "1,170,266"
-        ],
-        [
-          null
-        ]
+        "1,170,266",
+        []
       ],
       [
-        [
-          "Utah"
-        ],
+        "Utah",
         [
           "/wiki/Utah"
         ]
@@ -618,41 +372,25 @@
     ],
     [
       [
-        [
-          "13"
-        ],
-        [
-          null
-        ]
+        "13",
+        []
       ],
       [
-        [
-          "53"
-        ],
-        [
-          null
-        ]
+        "53",
+        []
       ],
       [
-        [
-          "Tucson"
-        ],
+        "Tucson MSA",
         [
           "/wiki/Tucson,_Arizona"
         ]
       ],
       [
-        [
-          "1,010,025"
-        ],
-        [
-          null
-        ]
+        "1,010,025",
+        []
       ],
       [
-        [
-          "Arizona"
-        ],
+        "Arizona",
         [
           "/wiki/Arizona"
         ]
@@ -660,41 +398,25 @@
     ],
     [
       [
-        [
-          "14"
-        ],
-        [
-          null
-        ]
+        "14",
+        []
       ],
       [
-        [
-          "54"
-        ],
-        [
-          null
-        ]
+        "54",
+        []
       ],
       [
-        [
-          "Honolulu"
-        ],
+        "Honolulu MSA",
         [
           "/wiki/Honolulu"
         ]
       ],
       [
-        [
-          "998,714"
-        ],
-        [
-          null
-        ]
+        "998,714",
+        []
       ],
       [
-        [
-          "Hawaii"
-        ],
+        "Hawaii",
         [
           "/wiki/Hawaii"
         ]
@@ -702,43 +424,26 @@
     ],
     [
       [
-        [
-          "15"
-        ],
-        [
-          null
-        ]
+        "15",
+        []
       ],
       [
-        [
-          "56"
-        ],
-        [
-          null
-        ]
+        "56",
+        []
       ],
       [
-        [
-          "Fresno",
-          "MSA"
-        ],
+        "Fresno MSA",
         [
           "/wiki/Fresno,_California",
           "/wiki/Metropolitan_Fresno"
         ]
       ],
       [
-        [
-          "974,861"
-        ],
-        [
-          null
-        ]
+        "974,861",
+        []
       ],
       [
-        [
-          "California"
-        ],
+        "California",
         [
           "/wiki/California"
         ]
@@ -746,43 +451,26 @@
     ],
     [
       [
-        [
-          "16"
-        ],
-        [
-          null
-        ]
+        "16",
+        []
       ],
       [
-        [
-          "60"
-        ],
-        [
-          null
-        ]
+        "60",
+        []
       ],
       [
-        [
-          "Albuquerque",
-          "MSA"
-        ],
+        "Albuquerque MSA",
         [
           "/wiki/Albuquerque,_New_Mexico",
           "/wiki/Albuquerque_metropolitan_area"
         ]
       ],
       [
-        [
-          "907,301"
-        ],
-        [
-          null
-        ]
+        "907,301",
+        []
       ],
       [
-        [
-          "New Mexico"
-        ],
+        "New Mexico",
         [
           "/wiki/New_Mexico"
         ]
@@ -790,43 +478,26 @@
     ],
     [
       [
-        [
-          "17"
-        ],
-        [
-          null
-        ]
+        "17",
+        []
       ],
       [
-        [
-          "61"
-        ],
-        [
-          null
-        ]
+        "61",
+        []
       ],
       [
-        [
-          "Bakersfield",
-          "Delano"
-        ],
+        "Bakersfield - Delano MSA",
         [
           "/wiki/Bakersfield,_California",
           "/wiki/Delano,_California"
         ]
       ],
       [
-        [
-          "882,176"
-        ],
-        [
-          null
-        ]
+        "882,176",
+        []
       ],
       [
-        [
-          "California"
-        ],
+        "California",
         [
           "/wiki/California"
         ]
@@ -834,28 +505,15 @@
     ],
     [
       [
-        [
-          "18"
-        ],
-        [
-          null
-        ]
+        "18",
+        []
       ],
       [
-        [
-          "66"
-        ],
-        [
-          null
-        ]
+        "66",
+        []
       ],
       [
-        [
-          "Oxnard",
-          "Thousand Oaks",
-          "Ventura",
-          "MSA"
-        ],
+        "Oxnard - Thousand Oaks - Ventura MSA",
         [
           "/wiki/Oxnard,_California",
           "/wiki/Thousand_Oaks,_California",
@@ -864,17 +522,11 @@
         ]
       ],
       [
-        [
-          "850,536"
-        ],
-        [
-          null
-        ]
+        "850,536",
+        []
       ],
       [
-        [
-          "California"
-        ],
+        "California",
         [
           "/wiki/California"
         ]
@@ -882,43 +534,26 @@
     ],
     [
       [
-        [
-          "19"
-        ],
-        [
-          null
-        ]
+        "19",
+        []
       ],
       [
-        [
-          "77"
-        ],
-        [
-          null
-        ]
+        "77",
+        []
       ],
       [
-        [
-          "Stockton",
-          "Lodi"
-        ],
+        "Stockton - Lodi MSA",
         [
           "/wiki/Stockton,_California",
           "/wiki/Lodi,_California"
         ]
       ],
       [
-        [
-          "726,106"
-        ],
-        [
-          null
-        ]
+        "726,106",
+        []
       ],
       [
-        [
-          "California"
-        ],
+        "California",
         [
           "/wiki/California"
         ]
@@ -926,43 +561,26 @@
     ],
     [
       [
-        [
-          "20"
-        ],
-        [
-          null
-        ]
+        "20",
+        []
       ],
       [
-        [
-          "80"
-        ],
-        [
-          null
-        ]
+        "80",
+        []
       ],
       [
-        [
-          "Colorado Springs",
-          "MSA"
-        ],
+        "Colorado Springs MSA",
         [
           "/wiki/Colorado_Springs,_Colorado",
           "/wiki/Colorado_Springs_metropolitan_area"
         ]
       ],
       [
-        [
-          "697,856"
-        ],
-        [
-          null
-        ]
+        "697,856",
+        []
       ],
       [
-        [
-          "Colorado"
-        ],
+        "Colorado",
         [
           "/wiki/Colorado"
         ]

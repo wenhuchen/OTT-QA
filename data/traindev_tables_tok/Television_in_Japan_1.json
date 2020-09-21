@@ -3,52 +3,32 @@
   "title": "Television in Japan",
   "header": [
     [
-      [
-        "Channel Number"
-      ],
-      [
-        null
-      ]
+      "Channel Number",
+      []
     ],
     [
-      [
-        "Channel Name"
-      ],
-      [
-        null
-      ]
+      "Channel Name",
+      []
     ],
     [
-      [
-        "Description"
-      ],
-      [
-        null
-      ]
+      "Description",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "4K-BS101"
-        ],
-        [
-          null
-        ]
+        "4K-BS101",
+        []
       ],
       [
-        [
-          "NHK BS4K"
-        ],
+        "NHK BS4K",
         [
           "/wiki/NHK"
         ]
       ],
       [
-        [
-          "NHK"
-        ],
+        "NHK Programming ( 4K )",
         [
           "/wiki/NHK"
         ]
@@ -56,25 +36,17 @@
     ],
     [
       [
-        [
-          "8K-BS102"
-        ],
-        [
-          null
-        ]
+        "8K-BS102",
+        []
       ],
       [
-        [
-          "NHK BS8K"
-        ],
+        "NHK BS8K",
         [
           "/wiki/NHK"
         ]
       ],
       [
-        [
-          "NHK"
-        ],
+        "NHK Programming ( 8K )",
         [
           "/wiki/NHK"
         ]
@@ -82,25 +54,17 @@
     ],
     [
       [
-        [
-          "4K-BS141"
-        ],
-        [
-          null
-        ]
+        "4K-BS141",
+        []
       ],
       [
-        [
-          "BS Nittere 4K"
-        ],
+        "BS Nittere 4K",
         [
           "/wiki/Nippon_Television"
         ]
       ],
       [
-        [
-          "Nippon TV"
-        ],
+        "Nippon TV /NNN Programming ( 4K )",
         [
           "/wiki/Nippon_Television"
         ]
@@ -108,25 +72,17 @@
     ],
     [
       [
-        [
-          "4K-BS151"
-        ],
-        [
-          null
-        ]
+        "4K-BS151",
+        []
       ],
       [
-        [
-          "BS Asahi 4K"
-        ],
+        "BS Asahi 4K",
         [
           "/wiki/TV_Asahi"
         ]
       ],
       [
-        [
-          "TV Asahi"
-        ],
+        "TV Asahi /ANN Programming ( 4K )",
         [
           "/wiki/TV_Asahi"
         ]
@@ -134,25 +90,17 @@
     ],
     [
       [
-        [
-          "4K-BS161"
-        ],
-        [
-          null
-        ]
+        "4K-BS161",
+        []
       ],
       [
-        [
-          "BS-TBS 4K"
-        ],
+        "BS-TBS 4K",
         [
           "/wiki/BS-TBS"
         ]
       ],
       [
-        [
-          "TBS"
-        ],
+        "TBS /JNN Programming ( 4K )",
         [
           "/wiki/Tokyo_Broadcasting_System"
         ]
@@ -160,25 +108,17 @@
     ],
     [
       [
-        [
-          "4K-BS171"
-        ],
-        [
-          null
-        ]
+        "4K-BS171",
+        []
       ],
       [
-        [
-          "BS TV Tokyo 4K"
-        ],
+        "BS TV Tokyo 4K",
         [
           "/wiki/TV_Tokyo"
         ]
       ],
       [
-        [
-          "TV Tokyo"
-        ],
+        "TV Tokyo /TXN Programming ( 4K )",
         [
           "/wiki/TV_Tokyo"
         ]
@@ -186,25 +126,17 @@
     ],
     [
       [
-        [
-          "4K-BS181"
-        ],
-        [
-          null
-        ]
+        "4K-BS181",
+        []
       ],
       [
-        [
-          "BS Fuji 4K"
-        ],
+        "BS Fuji 4K",
         [
           "/wiki/Fuji_Television"
         ]
       ],
       [
-        [
-          "Fuji Television"
-        ],
+        "Fuji Television /FNN Programming ( 4K )",
         [
           "/wiki/Fuji_Television"
         ]
@@ -212,80 +144,46 @@
     ],
     [
       [
-        [
-          "4K-BS203"
-        ],
-        [
-          null
-        ]
+        "4K-BS203",
+        []
       ],
       [
-        [
-          "The Cinema 4K"
-        ],
-        [
-          null
-        ]
+        "The Cinema 4K",
+        []
       ],
       [
-        [
-          "Movies ( 4K )"
-        ],
-        [
-          null
-        ]
+        "Movies ( 4K )",
+        []
       ]
     ],
     [
       [
-        [
-          "4K-BS211"
-        ],
-        [
-          null
-        ]
+        "4K-BS211",
+        []
       ],
       [
-        [
-          "Shop Channel 4K"
-        ],
-        [
-          null
-        ]
+        "Shop Channel 4K",
+        []
       ],
       [
-        [
-          "Shopping ( 4K )"
-        ],
-        [
-          null
-        ]
+        "Shopping ( 4K )",
+        []
       ]
     ],
     [
       [
-        [
-          "4K-BS221"
-        ],
-        [
-          null
-        ]
+        "4K-BS221",
+        []
       ],
       [
-        [
-          "4K QVC"
-        ],
+        "4K QVC",
         [
           "/wiki/QVC"
         ]
       ],
       [
-        [
-          "Shopping ( 4K )"
-        ],
-        [
-          null
-        ]
+        "Shopping ( 4K )",
+        []
       ]
     ]
   ],

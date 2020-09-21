@@ -3,35 +3,19 @@
   "title": "Stockholm Marathon",
   "header": [
     [
-      [
-        "Year"
-      ],
-      [
-        null
-      ]
+      "Year",
+      []
     ],
     [
-      [
-        "Athlete"
-      ],
-      [
-        null
-      ]
+      "Athlete",
+      []
     ],
     [
-      [
-        "Country"
-      ],
-      [
-        null
-      ]
+      "Country",
+      []
     ],
     [
-      [
-        "h",
-        "m",
-        "s"
-      ],
+      "Time ( h : m : s )",
       [
         "/wiki/Hour",
         "/wiki/Minute",
@@ -42,698 +26,423 @@
   "data": [
     [
       [
-        [
-          "1979"
-        ],
-        [
-          null
-        ]
+        "1979",
+        []
       ],
       [
-        [
-          "Heide Brenner"
-        ],
-        [
-          null
-        ]
+        "Heide Brenner",
+        []
       ],
       [
-        [
-          "Germany"
-        ],
+        "Germany",
         [
           "/wiki/Germany"
         ]
       ],
       [
-        [
-          "2:47:06"
-        ],
-        [
-          null
-        ]
+        "2:47:06",
+        []
       ]
     ],
     [
       [
-        [
-          "1980"
-        ],
-        [
-          null
-        ]
+        "1980",
+        []
       ],
       [
-        [
-          "Ingrid Kristiansen"
-        ],
+        "Ingrid Kristiansen",
         [
           "/wiki/Ingrid_Kristiansen"
         ]
       ],
       [
-        [
-          "Norway"
-        ],
+        "Norway",
         [
           "/wiki/Norway"
         ]
       ],
       [
-        [
-          "2:38:45"
-        ],
-        [
-          null
-        ]
+        "2:38:45",
+        []
       ]
     ],
     [
       [
-        [
-          "1981"
-        ],
-        [
-          null
-        ]
+        "1981",
+        []
       ],
       [
-        [
-          "Ingrid Kristiansen"
-        ],
-        [
-          null
-        ]
+        "Ingrid Kristiansen",
+        []
       ],
       [
-        [
-          "Norway"
-        ],
+        "Norway",
         [
           "/wiki/Norway"
         ]
       ],
       [
-        [
-          "2:41:34"
-        ],
-        [
-          null
-        ]
+        "2:41:34",
+        []
       ]
     ],
     [
       [
-        [
-          "1982"
-        ],
-        [
-          null
-        ]
+        "1982",
+        []
       ],
       [
-        [
-          "Ingrid Kristiansen"
-        ],
-        [
-          null
-        ]
+        "Ingrid Kristiansen",
+        []
       ],
       [
-        [
-          "Norway"
-        ],
+        "Norway",
         [
           "/wiki/Norway"
         ]
       ],
       [
-        [
-          "2:34:26"
-        ],
-        [
-          null
-        ]
+        "2:34:26",
+        []
       ]
     ],
     [
       [
-        [
-          "1983"
-        ],
-        [
-          null
-        ]
+        "1983",
+        []
       ],
       [
-        [
-          "Tuulikki R\u00e4is\u00e4nen"
-        ],
-        [
-          null
-        ]
+        "Tuulikki R\u00e4is\u00e4nen",
+        []
       ],
       [
-        [
-          "Sweden",
-          "Enh\u00f6rna IF"
-        ],
+        "Sweden - Enh\u00f6rna IF",
         [
           "/wiki/Sweden",
           "/wiki/Enh\u00f6rna_IF"
         ]
       ],
       [
-        [
-          "2:36:58"
-        ],
-        [
-          null
-        ]
+        "2:36:58",
+        []
       ]
     ],
     [
       [
-        [
-          "1984"
-        ],
-        [
-          null
-        ]
+        "1984",
+        []
       ],
       [
-        [
-          "Ria Van Landeghem"
-        ],
+        "Ria Van Landeghem",
         [
           "/wiki/Ria_Van_Landeghem"
         ]
       ],
       [
-        [
-          "Belgium"
-        ],
+        "Belgium",
         [
           "/wiki/Belgium"
         ]
       ],
       [
-        [
-          "2:34:13"
-        ],
-        [
-          null
-        ]
+        "2:34:13",
+        []
       ]
     ],
     [
       [
+        "1985",
+        []
+      ],
+      [
+        "Jeanette Nordgren",
+        []
+      ],
+      [
+        "Sweden - IK Vikingen",
         [
-          "1985"
-        ],
-        [
-          null
+          "/wiki/Sweden"
         ]
       ],
       [
-        [
-          "Jeanette Nordgren"
-        ],
-        [
-          null
-        ]
-      ],
-      [
-        [
-          "Sweden",
-          "IK Vikingen"
-        ],
-        [
-          "/wiki/Sweden",
-          null
-        ]
-      ],
-      [
-        [
-          "2:36:43"
-        ],
-        [
-          null
-        ]
+        "2:36:43",
+        []
       ]
     ],
     [
       [
-        [
-          "1986"
-        ],
-        [
-          null
-        ]
+        "1986",
+        []
       ],
       [
-        [
-          "Evy Palm"
-        ],
+        "Evy Palm",
         [
           "/wiki/Evy_Palm"
         ]
       ],
       [
+        "Sweden - M\u00f6lndals AIK",
         [
-          "Sweden",
-          "M\u00f6lndals AIK"
-        ],
-        [
-          "/wiki/Sweden",
-          null
+          "/wiki/Sweden"
         ]
       ],
       [
-        [
-          "2:34:42"
-        ],
-        [
-          null
-        ]
+        "2:34:42",
+        []
       ]
     ],
     [
       [
+        "1987",
+        []
+      ],
+      [
+        "Evy Palm",
+        []
+      ],
+      [
+        "Sweden - M\u00f6lndals AIK",
         [
-          "1987"
-        ],
-        [
-          null
+          "/wiki/Sweden"
         ]
       ],
       [
-        [
-          "Evy Palm"
-        ],
-        [
-          null
-        ]
-      ],
-      [
-        [
-          "Sweden",
-          "M\u00f6lndals AIK"
-        ],
-        [
-          "/wiki/Sweden",
-          null
-        ]
-      ],
-      [
-        [
-          "2:35:14"
-        ],
-        [
-          null
-        ]
+        "2:35:14",
+        []
       ]
     ],
     [
       [
-        [
-          "1988"
-        ],
-        [
-          null
-        ]
+        "1988",
+        []
       ],
       [
-        [
-          "Grete Waitz"
-        ],
+        "Grete Waitz",
         [
           "/wiki/Grete_Waitz"
         ]
       ],
       [
-        [
-          "Norway"
-        ],
+        "Norway",
         [
           "/wiki/Norway"
         ]
       ],
       [
-        [
-          "2:28:24"
-        ],
-        [
-          null
-        ]
+        "2:28:24",
+        []
       ]
     ],
     [
       [
-        [
-          "1989"
-        ],
-        [
-          null
-        ]
+        "1989",
+        []
       ],
       [
-        [
-          "Evy Palm"
-        ],
+        "Evy Palm",
         [
           "/wiki/Evy_Palm"
         ]
       ],
       [
+        "Sweden - M\u00f6lndals AIK",
         [
-          "Sweden",
-          "M\u00f6lndals AIK"
-        ],
-        [
-          "/wiki/Sweden",
-          null
+          "/wiki/Sweden"
         ]
       ],
       [
-        [
-          "2:33:26"
-        ],
-        [
-          null
-        ]
+        "2:33:26",
+        []
       ]
     ],
     [
       [
-        [
-          "1990"
-        ],
-        [
-          null
-        ]
+        "1990",
+        []
       ],
       [
-        [
-          "Midde Hamrin"
-        ],
+        "Midde Hamrin",
         [
           "/wiki/Midde_Hamrin"
         ]
       ],
       [
+        "Sweden - M\u00f6lndals AIK",
         [
-          "Sweden",
-          "M\u00f6lndals AIK"
-        ],
-        [
-          "/wiki/Sweden",
-          null
+          "/wiki/Sweden"
         ]
       ],
       [
-        [
-          "2:37:07"
-        ],
-        [
-          null
-        ]
+        "2:37:07",
+        []
       ]
     ],
     [
       [
+        "1991",
+        []
+      ],
+      [
+        "Midde Hamrin",
+        []
+      ],
+      [
+        "Sweden - M\u00f6lndals AIK",
         [
-          "1991"
-        ],
-        [
-          null
+          "/wiki/Sweden"
         ]
       ],
       [
-        [
-          "Midde Hamrin"
-        ],
-        [
-          null
-        ]
-      ],
-      [
-        [
-          "Sweden",
-          "M\u00f6lndals AIK"
-        ],
-        [
-          "/wiki/Sweden",
-          null
-        ]
-      ],
-      [
-        [
-          "2:36:15"
-        ],
-        [
-          null
-        ]
+        "2:36:15",
+        []
       ]
     ],
     [
       [
-        [
-          "1992"
-        ],
-        [
-          null
-        ]
+        "1992",
+        []
       ],
       [
-        [
-          "Linda Milo"
-        ],
-        [
-          null
-        ]
+        "Linda Milo",
+        []
       ],
       [
-        [
-          "Belgium"
-        ],
+        "Belgium",
         [
           "/wiki/Belgium"
         ]
       ],
       [
-        [
-          "2:39:10"
-        ],
-        [
-          null
-        ]
+        "2:39:10",
+        []
       ]
     ],
     [
       [
-        [
-          "1993"
-        ],
-        [
-          null
-        ]
+        "1993",
+        []
       ],
       [
-        [
-          "Grete Kirkeberg"
-        ],
+        "Grete Kirkeberg",
         [
           "/wiki/Grete_Kirkeberg"
         ]
       ],
       [
-        [
-          "Norway"
-        ],
+        "Norway",
         [
           "/wiki/Norway"
         ]
       ],
       [
-        [
-          "2:37:58"
-        ],
-        [
-          null
-        ]
+        "2:37:58",
+        []
       ]
     ],
     [
       [
-        [
-          "1994"
-        ],
-        [
-          null
-        ]
+        "1994",
+        []
       ],
       [
-        [
-          "Irina Sklarenko"
-        ],
-        [
-          null
-        ]
+        "Irina Sklarenko",
+        []
       ],
       [
-        [
-          "Ukraine"
-        ],
+        "Ukraine",
         [
           "/wiki/Ukraine"
         ]
       ],
       [
-        [
-          "2:40:34"
-        ],
-        [
-          null
-        ]
+        "2:40:34",
+        []
       ]
     ],
     [
       [
+        "1995",
+        []
+      ],
+      [
+        "Ingmarie Nilsson",
+        []
+      ],
+      [
+        "Sweden - Ullevi Friidrott",
         [
-          "1995"
-        ],
-        [
-          null
+          "/wiki/Sweden"
         ]
       ],
       [
-        [
-          "Ingmarie Nilsson"
-        ],
-        [
-          null
-        ]
-      ],
-      [
-        [
-          "Sweden",
-          "Ullevi Friidrott"
-        ],
-        [
-          "/wiki/Sweden",
-          null
-        ]
-      ],
-      [
-        [
-          "2:33:03"
-        ],
-        [
-          null
-        ]
+        "2:33:03",
+        []
       ]
     ],
     [
       [
-        [
-          "1996"
-        ],
-        [
-          null
-        ]
+        "1996",
+        []
       ],
       [
-        [
-          "Grete Kirkeberg"
-        ],
+        "Grete Kirkeberg",
         [
           "/wiki/Grete_Kirkeberg"
         ]
       ],
       [
-        [
-          "Norway"
-        ],
+        "Norway",
         [
           "/wiki/Norway"
         ]
       ],
       [
-        [
-          "2:36:40"
-        ],
-        [
-          null
-        ]
+        "2:36:40",
+        []
       ]
     ],
     [
       [
-        [
-          "1997"
-        ],
-        [
-          null
-        ]
+        "1997",
+        []
       ],
       [
-        [
-          "Anita H\u00e5kenstad"
-        ],
+        "Anita H\u00e5kenstad",
         [
           "/wiki/Anita_H\u00e5kenstad"
         ]
       ],
       [
-        [
-          "Norway"
-        ],
+        "Norway",
         [
           "/wiki/Norway"
         ]
       ],
       [
-        [
-          "2:33:26"
-        ],
-        [
-          null
-        ]
+        "2:33:26",
+        []
       ]
     ],
     [
       [
-        [
-          "1998"
-        ],
-        [
-          null
-        ]
+        "1998",
+        []
       ],
       [
-        [
-          "Grete Kirkeberg"
-        ],
+        "Grete Kirkeberg",
         [
           "/wiki/Grete_Kirkeberg"
         ]
       ],
       [
-        [
-          "Norway"
-        ],
+        "Norway",
         [
           "/wiki/Norway"
         ]
       ],
       [
-        [
-          "2:37:39"
-        ],
-        [
-          null
-        ]
+        "2:37:39",
+        []
       ]
     ]
   ],

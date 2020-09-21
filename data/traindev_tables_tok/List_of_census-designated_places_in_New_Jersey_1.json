@@ -3,85 +3,52 @@
   "title": "List of census-designated places in New Jersey",
   "header": [
     [
-      [
-        "CDP name"
-      ],
-      [
-        null
-      ]
+      "CDP name",
+      []
     ],
     [
-      [
-        "County"
-      ],
-      [
-        null
-      ]
+      "County",
+      []
     ],
     [
-      [
-        "Parent Township"
-      ],
-      [
-        null
-      ]
+      "Parent Township",
+      []
     ],
     [
-      [
-        "Pop"
-      ],
+      "Pop . ( 2000 )",
       [
         "/wiki/Population"
       ]
     ],
     [
-      [
-        "Notes"
-      ],
-      [
-        null
-      ]
+      "Notes",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Allamuchy-Panther Valley"
-        ],
+        "Allamuchy-Panther Valley",
         [
           "/wiki/Allamuchy-Panther_Valley,_New_Jersey"
         ]
       ],
       [
-        [
-          "Warren"
-        ],
-        [
-          null
-        ]
+        "Warren",
+        []
       ],
       [
-        [
-          "Allamuchy"
-        ],
+        "Allamuchy",
         [
           "/wiki/Allamuchy_Township,_New_Jersey"
         ]
       ],
       [
-        [
-          "3,125"
-        ],
-        [
-          null
-        ]
+        "3,125",
+        []
       ],
       [
-        [
-          "Allamuchy",
-          "Panther Valley"
-        ],
+        "split to Allamuchy and Panther Valley",
         [
           "/wiki/Allamuchy_(CDP),_New_Jersey",
           "/wiki/Panther_Valley,_New_Jersey"
@@ -90,42 +57,27 @@
     ],
     [
       [
-        [
-          "Barclay-Kingston"
-        ],
+        "Barclay-Kingston",
         [
           "/wiki/Barclay-Kingston,_New_Jersey"
         ]
       ],
       [
-        [
-          "Camden"
-        ],
-        [
-          null
-        ]
+        "Camden",
+        []
       ],
       [
-        [
-          "Cherry Hill"
-        ],
+        "Cherry Hill",
         [
           "/wiki/Cherry_Hill,_New_Jersey"
         ]
       ],
       [
-        [
-          "10,728"
-        ],
-        [
-          null
-        ]
+        "10,728",
+        []
       ],
       [
-        [
-          "Barclay",
-          "Kingston Estates"
-        ],
+        "split to Barclay and Kingston Estates",
         [
           "/wiki/Barclay,_New_Jersey",
           "/wiki/Kingston_Estates,_New_Jersey"
@@ -134,41 +86,27 @@
     ],
     [
       [
-        [
-          "Erlton-Ellisburg"
-        ],
+        "Erlton-Ellisburg",
         [
           "/wiki/Erlton-Ellisburg,_New_Jersey"
         ]
       ],
       [
-        [
-          "Camden"
-        ],
-        [
-          null
-        ]
+        "Camden",
+        []
       ],
       [
-        [
-          "Cherry Hill"
-        ],
+        "Cherry Hill",
         [
           "/wiki/Cherry_Hill,_New_Jersey"
         ]
       ],
       [
-        [
-          "8,168"
-        ],
-        [
-          null
-        ]
+        "8,168",
+        []
       ],
       [
-        [
-          "Ellisburg"
-        ],
+        "part taken to create Ellisburg",
         [
           "/wiki/Ellisburg,_New_Jersey"
         ]
@@ -176,42 +114,27 @@
     ],
     [
       [
-        [
-          "Florence-Roebling"
-        ],
+        "Florence-Roebling",
         [
           "/wiki/Florence-Roebling,_New_Jersey"
         ]
       ],
       [
-        [
-          "Burlington"
-        ],
-        [
-          null
-        ]
+        "Burlington",
+        []
       ],
       [
-        [
-          "Florence"
-        ],
+        "Florence",
         [
           "/wiki/Florence_Township,_New_Jersey"
         ]
       ],
       [
-        [
-          "8,200"
-        ],
-        [
-          null
-        ]
+        "8,200",
+        []
       ],
       [
-        [
-          "Florence",
-          "Roebling"
-        ],
+        "split to Florence and Roebling",
         [
           "/wiki/Florence_(CDP),_New_Jersey",
           "/wiki/Roebling,_New_Jersey"
@@ -220,42 +143,27 @@
     ],
     [
       [
-        [
-          "Great Meadows-Vienna"
-        ],
+        "Great Meadows-Vienna",
         [
           "/wiki/Great_Meadows-Vienna,_New_Jersey"
         ]
       ],
       [
-        [
-          "Warren"
-        ],
-        [
-          null
-        ]
+        "Warren",
+        []
       ],
       [
-        [
-          "Independence"
-        ],
+        "Independence",
         [
           "/wiki/Independence_Township,_New_Jersey"
         ]
       ],
       [
-        [
-          "1,264"
-        ],
-        [
-          null
-        ]
+        "1,264",
+        []
       ],
       [
-        [
-          "Great Meadows",
-          "Vienna"
-        ],
+        "split to Great Meadows and Vienna",
         [
           "/wiki/Great_Meadows,_New_Jersey",
           "/wiki/Vienna,_New_Jersey"
@@ -264,42 +172,27 @@
     ],
     [
       [
-        [
-          "Leisure Village West-Pine Lake Park"
-        ],
+        "Leisure Village West-Pine Lake Park",
         [
           "/wiki/Leisure_Village_West-Pine_Lake_Park,_New_Jersey"
         ]
       ],
       [
-        [
-          "Ocean"
-        ],
-        [
-          null
-        ]
+        "Ocean",
+        []
       ],
       [
-        [
-          "Manchester"
-        ],
+        "Manchester",
         [
           "/wiki/Manchester_Township,_New_Jersey"
         ]
       ],
       [
-        [
-          "11,085"
-        ],
-        [
-          null
-        ]
+        "11,085",
+        []
       ],
       [
-        [
-          "Leisure Village West",
-          "Pine Lake Park"
-        ],
+        "split to Leisure Village West and Pine Lake Park",
         [
           "/wiki/Leisure_Village_West,_New_Jersey",
           "/wiki/Pine_Lake_Park,_New_Jersey"
@@ -308,42 +201,27 @@
     ],
     [
       [
-        [
-          "Mercerville-Hamilton Square"
-        ],
+        "Mercerville-Hamilton Square",
         [
           "/wiki/Mercerville-Hamilton_Square,_New_Jersey"
         ]
       ],
       [
-        [
-          "Mercer"
-        ],
-        [
-          null
-        ]
+        "Mercer",
+        []
       ],
       [
-        [
-          "Hamilton"
-        ],
+        "Hamilton",
         [
           "/wiki/Hamilton_Township,_Mercer_County,_New_Jersey"
         ]
       ],
       [
-        [
-          "26,419"
-        ],
-        [
-          null
-        ]
+        "26,419",
+        []
       ],
       [
-        [
-          "Hamilton Square",
-          "Mercerville"
-        ],
+        "split to Hamilton Square and Mercerville",
         [
           "/wiki/Hamilton_Square,_New_Jersey",
           "/wiki/Mercerville,_New_Jersey"
@@ -352,84 +230,53 @@
     ],
     [
       [
-        [
-          "Princeton North"
-        ],
+        "Princeton North",
         [
           "/wiki/Princeton_North,_New_Jersey"
         ]
       ],
       [
-        [
-          "Mercer"
-        ],
-        [
-          null
-        ]
+        "Mercer",
+        []
       ],
       [
-        [
-          "Princeton"
-        ],
+        "Princeton",
         [
           "/wiki/Princeton_Township,_New_Jersey"
         ]
       ],
       [
-        [
-          "4,528"
-        ],
-        [
-          null
-        ]
+        "4,528",
+        []
       ],
       [
-        [
-          "eliminated"
-        ],
-        [
-          null
-        ]
+        "eliminated",
+        []
       ]
     ],
     [
       [
-        [
-          "Succasunna-Kenvil"
-        ],
+        "Succasunna-Kenvil",
         [
           "/wiki/Succasunna-Kenvil,_New_Jersey"
         ]
       ],
       [
-        [
-          "Morris"
-        ],
-        [
-          null
-        ]
+        "Morris",
+        []
       ],
       [
-        [
-          "Roxbury"
-        ],
+        "Roxbury",
         [
           "/wiki/Roxbury_Township,_New_Jersey"
         ]
       ],
       [
-        [
-          "12,569"
-        ],
-        [
-          null
-        ]
+        "12,569",
+        []
       ],
       [
-        [
-          "Kenvil",
-          "Succasunna"
-        ],
+        "split to Kenvil and Succasunna",
         [
           "/wiki/Kenvil,_New_Jersey",
           "/wiki/Succasunna,_New_Jersey"
@@ -438,42 +285,27 @@
     ],
     [
       [
-        [
-          "Whitesboro-Burleigh"
-        ],
+        "Whitesboro-Burleigh",
         [
           "/wiki/Whitesboro-Burleigh,_New_Jersey"
         ]
       ],
       [
-        [
-          "Cape May"
-        ],
-        [
-          null
-        ]
+        "Cape May",
+        []
       ],
       [
-        [
-          "Middle"
-        ],
+        "Middle",
         [
           "/wiki/Middle_Township,_New_Jersey"
         ]
       ],
       [
-        [
-          "1,836"
-        ],
-        [
-          null
-        ]
+        "1,836",
+        []
       ],
       [
-        [
-          "Burleigh",
-          "Whitesboro"
-        ],
+        "split to Burleigh and Whitesboro",
         [
           "/wiki/Burleigh,_New_Jersey",
           "/wiki/Whitesboro,_New_Jersey"
@@ -482,42 +314,27 @@
     ],
     [
       [
-        [
-          "Yardville-Groveville"
-        ],
+        "Yardville-Groveville",
         [
           "/wiki/Yardville-Groveville,_New_Jersey"
         ]
       ],
       [
-        [
-          "Mercer"
-        ],
-        [
-          null
-        ]
+        "Mercer",
+        []
       ],
       [
-        [
-          "Hamilton"
-        ],
+        "Hamilton",
         [
           "/wiki/Hamilton_Township,_Mercer_County,_New_Jersey"
         ]
       ],
       [
-        [
-          "9,208"
-        ],
-        [
-          null
-        ]
+        "9,208",
+        []
       ],
       [
-        [
-          "Groveville",
-          "Yardville"
-        ],
+        "split to Groveville and Yardville",
         [
           "/wiki/Groveville,_New_Jersey",
           "/wiki/Yardville,_New_Jersey"

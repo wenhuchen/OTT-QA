@@ -3,85 +3,50 @@
   "title": "Tape drive",
   "header": [
     [
-      [
-        "Year"
-      ],
-      [
-        null
-      ]
+      "Year",
+      []
     ],
     [
-      [
-        "Manufacturer"
-      ],
-      [
-        null
-      ]
+      "Manufacturer",
+      []
     ],
     [
-      [
-        "Model"
-      ],
-      [
-        null
-      ]
+      "Model",
+      []
     ],
     [
-      [
-        "Capacity"
-      ],
-      [
-        null
-      ]
+      "Capacity",
+      []
     ],
     [
-      [
-        "Advancements"
-      ],
-      [
-        null
-      ]
+      "Advancements",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "1951"
-        ],
-        [
-          null
-        ]
+        "1951",
+        []
       ],
       [
-        [
-          "Remington Rand"
-        ],
+        "Remington Rand",
         [
           "/wiki/Remington_Rand"
         ]
       ],
       [
-        [
-          "UNISERVO"
-        ],
+        "UNISERVO",
         [
           "/wiki/UNISERVO"
         ]
       ],
       [
-        [
-          "224 KB"
-        ],
-        [
-          null
-        ]
+        "224 KB",
+        []
       ],
       [
-        [
-          "nickel",
-          "phosphor bronze"
-        ],
+        "First computer tape drive , used \u200b \u2044 2 nickel -plated phosphor bronze tape",
         [
           "/wiki/Nickel",
           "/wiki/Phosphor_bronze"
@@ -90,42 +55,27 @@
     ],
     [
       [
-        [
-          "1952"
-        ],
-        [
-          null
-        ]
+        "1952",
+        []
       ],
       [
-        [
-          "IBM"
-        ],
+        "IBM",
         [
           "/wiki/IBM"
         ]
       ],
       [
-        [
-          "726"
-        ],
+        "726",
         [
           "/wiki/IBM_726"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "cellulose acetate",
-          "7-track tape"
-        ],
+        "Use of plastic tape ( cellulose acetate ) ; 7-track tape that could store every 6-bit byte plus a parity bit",
         [
           "/wiki/Cellulose_acetate",
           "/wiki/IBM_7_track"
@@ -134,42 +84,27 @@
     ],
     [
       [
-        [
-          "1958"
-        ],
-        [
-          null
-        ]
+        "1958",
+        []
       ],
       [
-        [
-          "IBM"
-        ],
+        "IBM",
         [
           "/wiki/IBM"
         ]
       ],
       [
-        [
-          "729"
-        ],
+        "729",
         [
           "/wiki/IBM_729"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Computer History Museum",
-          "IBM 1401"
-        ],
+        "Separate read/write heads providing transparent read-after-write verification . As of January 2009 , the Computer History Museum in Mountain View , California has working IBM 729 tape drives attached to its working IBM 1401 system",
         [
           "/wiki/Computer_History_Museum",
           "/wiki/IBM_1401"
@@ -178,41 +113,25 @@
     ],
     [
       [
-        [
-          "1964"
-        ],
-        [
-          null
-        ]
+        "1964",
+        []
       ],
       [
-        [
-          "IBM"
-        ],
+        "IBM",
         [
           "/wiki/IBM"
         ]
       ],
       [
-        [
-          "2400"
-        ],
-        [
-          null
-        ]
+        "2400",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "9-track tape"
-        ],
+        "9-track tape that could store every 8-bit byte plus a parity bit",
         [
           "/wiki/9-track_tape"
         ]
@@ -220,41 +139,25 @@
     ],
     [
       [
-        [
-          "1970s"
-        ],
-        [
-          null
-        ]
+        "1970s",
+        []
       ],
       [
-        [
-          "IBM"
-        ],
+        "IBM",
         [
           "/wiki/IBM"
         ]
       ],
       [
-        [
-          "3400"
-        ],
-        [
-          null
-        ]
+        "3400",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Group coded recording"
-        ],
+        "Auto-loading tape reels and drives , avoiding manual tape threading Group coded recording for error recovery",
         [
           "/wiki/Group_coded_recording"
         ]
@@ -262,41 +165,27 @@
     ],
     [
       [
-        [
-          "1972"
-        ],
-        [
-          null
-        ]
+        "1972",
+        []
       ],
       [
-        [
-          "3M"
-        ],
+        "3M",
         [
           "/wiki/3M"
         ]
       ],
       [
-        [
-          "Quarter Inch Cartridge"
-        ],
+        "Quarter Inch Cartridge ( QIC-11 )",
         [
           "/wiki/Quarter_Inch_Cartridge"
         ]
       ],
       [
-        [
-          "20 MB"
-        ],
-        [
-          null
-        ]
+        "20 MB",
+        []
       ],
       [
-        [
-          "Linear serpentine"
-        ],
+        "Tape cassette ( with two reels ) Linear serpentine recording",
         [
           "/wiki/Magnetic_tape_data_storage"
         ]
@@ -304,83 +193,49 @@
     ],
     [
       [
-        [
-          "1974"
-        ],
-        [
-          null
-        ]
+        "1974",
+        []
       ],
       [
-        [
-          "IBM"
-        ],
-        [
-          null
-        ]
+        "IBM",
+        []
       ],
       [
-        [
-          "3850"
-        ],
+        "3850",
         [
           "/wiki/IBM_3850"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Tape cartridge ( with single reel ) First tape library with robotic access"
-        ],
-        [
-          null
-        ]
+        "Tape cartridge ( with single reel ) First tape library with robotic access",
+        []
       ]
     ],
     [
       [
-        [
-          "1975"
-        ],
-        [
-          null
-        ]
+        "1975",
+        []
       ],
       [
-        [
-          "( various )"
-        ],
-        [
-          null
-        ]
+        "( various )",
+        []
       ],
       [
-        [
-          "Kansas City standard"
-        ],
+        "Kansas City standard",
         [
           "/wiki/Kansas_City_standard"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "standard audio cassettes"
-        ],
+        "Use of standard audio cassettes",
         [
           "/wiki/Compact_Cassette"
         ]
@@ -388,41 +243,27 @@
     ],
     [
       [
-        [
-          "1977"
-        ],
-        [
-          null
-        ]
+        "1977",
+        []
       ],
       [
-        [
-          "Commodore International"
-        ],
+        "Commodore International",
         [
           "/wiki/Commodore_International"
         ]
       ],
       [
-        [
-          "Commodore Datasette"
-        ],
+        "Commodore Datasette",
         [
           "/wiki/Commodore_Datasette"
         ]
       ],
       [
-        [
-          "1978 KB"
-        ],
-        [
-          null
-        ]
+        "1978 KB",
+        []
       ],
       [
-        [
-          "standard audio cassettes"
-        ],
+        "Also used standard audio cassettes",
         [
           "/wiki/Compact_Cassette"
         ]
@@ -430,83 +271,47 @@
     ],
     [
       [
-        [
-          "1980"
-        ],
-        [
-          null
-        ]
+        "1980",
+        []
       ],
       [
-        [
-          "Cipher"
-        ],
-        [
-          null
-        ]
+        "Cipher",
+        []
       ],
       [
-        [
-          "( F880 ? )"
-        ],
-        [
-          null
-        ]
+        "( F880 ? )",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "RAM buffer to mask start-stop delays"
-        ],
-        [
-          null
-        ]
+        "RAM buffer to mask start-stop delays",
+        []
       ]
     ],
     [
       [
-        [
-          "1984"
-        ],
-        [
-          null
-        ]
+        "1984",
+        []
       ],
       [
-        [
-          "IBM"
-        ],
-        [
-          null
-        ]
+        "IBM",
+        []
       ],
       [
-        [
-          "3480"
-        ],
+        "3480",
         [
           "/wiki/IBM_3480_Family"
         ]
       ],
       [
-        [
-          "200 MB"
-        ],
-        [
-          null
-        ]
+        "200 MB",
+        []
       ],
       [
-        [
-          "magnetoresistive"
-        ],
+        "Internal takeup reel with automatic tape takeup mechanism . Thin-film magnetoresistive ( MR ) head",
         [
           "/wiki/Giant_magnetoresistance"
         ]
@@ -514,41 +319,27 @@
     ],
     [
       [
-        [
-          "1984"
-        ],
-        [
-          null
-        ]
+        "1984",
+        []
       ],
       [
-        [
-          "DEC"
-        ],
+        "DEC",
         [
           "/wiki/Digital_Equipment_Corporation"
         ]
       ],
       [
-        [
-          "TK50"
-        ],
+        "TK50",
         [
           "/wiki/Digital_Linear_Tape"
         ]
       ],
       [
-        [
-          "94 MB"
-        ],
-        [
-          null
-        ]
+        "94 MB",
+        []
       ],
       [
-        [
-          "Digital Linear Tape"
-        ],
+        "Digital Linear Tape ( DLT ) line of products",
         [
           "/wiki/Digital_Linear_Tape"
         ]
@@ -556,337 +347,196 @@
     ],
     [
       [
-        [
-          "1986"
-        ],
-        [
-          null
-        ]
+        "1986",
+        []
       ],
       [
-        [
-          "IBM"
-        ],
-        [
-          null
-        ]
+        "IBM",
+        []
       ],
       [
-        [
-          "3480"
-        ],
+        "3480",
         [
           "/wiki/IBM_3480_Family"
         ]
       ],
       [
-        [
-          "400 MB"
-        ],
-        [
-          null
-        ]
+        "400 MB",
+        []
       ],
       [
-        [
-          "Hardware data compression ( IDRC algorithm )"
-        ],
-        [
-          null
-        ]
+        "Hardware data compression ( IDRC algorithm )",
+        []
       ]
     ],
     [
       [
-        [
-          "1987"
-        ],
-        [
-          null
-        ]
+        "1987",
+        []
       ],
       [
-        [
-          "Exabyte",
-          "Sony"
-        ],
+        "Exabyte / Sony",
         [
           "/wiki/Exabyte_(company)",
           "/wiki/Sony"
         ]
       ],
       [
-        [
-          "EXB-8200"
-        ],
+        "EXB-8200",
         [
           "/wiki/Data8"
         ]
       ],
       [
-        [
-          "2.4 GB"
-        ],
-        [
-          null
-        ]
+        "2.4 GB",
+        []
       ],
       [
-        [
-          "First helical digital tape drive Elimination of the capstan and pinch-roller system"
-        ],
-        [
-          null
-        ]
+        "First helical digital tape drive Elimination of the capstan and pinch-roller system",
+        []
       ]
     ],
     [
       [
-        [
-          "1993"
-        ],
-        [
-          null
-        ]
+        "1993",
+        []
       ],
       [
-        [
-          "DEC"
-        ],
-        [
-          null
-        ]
+        "DEC",
+        []
       ],
       [
-        [
-          "Tx87"
-        ],
+        "Tx87",
         [
           "/wiki/Digital_Linear_Tape"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Tape directory ( database with first tapemark nr on each serpentine pass )"
-        ],
-        [
-          null
-        ]
+        "Tape directory ( database with first tapemark nr on each serpentine pass )",
+        []
       ]
     ],
     [
       [
-        [
-          "1995"
-        ],
-        [
-          null
-        ]
+        "1995",
+        []
       ],
       [
-        [
-          "IBM"
-        ],
-        [
-          null
-        ]
+        "IBM",
+        []
       ],
       [
-        [
-          "3570"
-        ],
-        [
-          null
-        ]
+        "3570",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Servo tracks - factory-recorded tracks for precise head positioning ( Time Based Servoing or TBS ) Tape on unload rewound to the midpoint - halving access time ( requires two-reel cassette )"
-        ],
-        [
-          null
-        ]
+        "Servo tracks - factory-recorded tracks for precise head positioning ( Time Based Servoing or TBS ) Tape on unload rewound to the midpoint - halving access time ( requires two-reel cassette )",
+        []
       ]
     ],
     [
       [
-        [
-          "1996"
-        ],
-        [
-          null
-        ]
+        "1996",
+        []
       ],
       [
-        [
-          "HP"
-        ],
+        "HP",
         [
           "/wiki/Hewlett-Packard"
         ]
       ],
       [
-        [
-          "DDS3"
-        ],
+        "DDS3",
         [
           "/wiki/Digital_Data_Storage"
         ]
       ],
       [
-        [
-          "12 GB"
-        ],
-        [
-          null
-        ]
+        "12 GB",
+        []
       ],
       [
-        [
-          "Partial Response Maximum Likelihood ( PRML ) reading method - no fixed thresholds"
-        ],
-        [
-          null
-        ]
+        "Partial Response Maximum Likelihood ( PRML ) reading method - no fixed thresholds",
+        []
       ]
     ],
     [
       [
-        [
-          "1997"
-        ],
-        [
-          null
-        ]
+        "1997",
+        []
       ],
       [
-        [
-          "IBM"
-        ],
-        [
-          null
-        ]
+        "IBM",
+        []
       ],
       [
-        [
-          "VTS"
-        ],
-        [
-          null
-        ]
+        "VTS",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Virtual tape - disk cache that emulates tape drive"
-        ],
-        [
-          null
-        ]
+        "Virtual tape - disk cache that emulates tape drive",
+        []
       ]
     ],
     [
       [
-        [
-          "1999"
-        ],
-        [
-          null
-        ]
+        "1999",
+        []
       ],
       [
-        [
-          "Exabyte"
-        ],
-        [
-          null
-        ]
+        "Exabyte",
+        []
       ],
       [
-        [
-          "Mammoth-2"
-        ],
+        "Mammoth-2",
         [
           "/wiki/Data8"
         ]
       ],
       [
-        [
-          "60 GB"
-        ],
-        [
-          null
-        ]
+        "60 GB",
+        []
       ],
       [
-        [
-          "The small cloth-covered wheel cleaning tape heads Inactive burnishing heads to prep the tape and deflect any debris or excess lubricant Section of cleaning material at the beginning of each data tape"
-        ],
-        [
-          null
-        ]
+        "The small cloth-covered wheel cleaning tape heads Inactive burnishing heads to prep the tape and deflect any debris or excess lubricant Section of cleaning material at the beginning of each data tape",
+        []
       ]
     ],
     [
       [
-        [
-          "2000"
-        ],
-        [
-          null
-        ]
+        "2000",
+        []
       ],
       [
-        [
-          "Quantum"
-        ],
+        "Quantum",
         [
           "/wiki/Quantum_Corporation"
         ]
       ],
       [
-        [
-          "Super DLT"
-        ],
+        "Super DLT",
         [
           "/wiki/Super_DLT"
         ]
       ],
       [
-        [
-          "110 GB"
-        ],
-        [
-          null
-        ]
+        "110 GB",
+        []
       ],
       [
-        [
-          "Optical servo"
-        ],
+        "Optical servo precisely positioning the heads",
         [
           "/wiki/Visual_Servoing"
         ]

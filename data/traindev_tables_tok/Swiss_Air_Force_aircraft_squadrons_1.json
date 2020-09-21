@@ -3,100 +3,58 @@
   "title": "Swiss Air Force aircraft squadrons",
   "header": [
     [
-      [
-        "Name"
-      ],
-      [
-        null
-      ]
+      "Name",
+      []
     ],
     [
-      [
-        "Status"
-      ],
-      [
-        null
-      ]
+      "Status",
+      []
     ],
     [
-      [
-        "Homebase"
-      ],
-      [
-        null
-      ]
+      "Homebase",
+      []
     ],
     [
-      [
-        "Aircrafttype"
-      ],
-      [
-        null
-      ]
+      "Aircrafttype",
+      []
     ],
     [
-      [
-        "History"
-      ],
-      [
-        null
-      ]
+      "History",
+      []
     ],
     [
-      [
-        "Notes"
-      ],
-      [
-        null
-      ]
+      "Notes",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Berufsfliegerkorps"
-        ],
+        "Berufsfliegerkorps",
         [
           "/wiki/Berufsfliegerkorps"
         ]
       ],
       [
-        [
-          "active"
-        ],
-        [
-          null
-        ]
+        "active",
+        []
       ],
       [
-        [
-          "D\u00fcbendorf Air Base"
-        ],
+        "D\u00fcbendorf Air Base HQ",
         [
           "/wiki/D\u00fcbendorf_Air_Base"
         ]
       ],
       [
-        [
-          "all AC types"
-        ],
-        [
-          null
-        ]
+        "all AC types",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "\u00dcberwachungsgeschwader"
-        ],
+        "former UeG \u00dcberwachungsgeschwader",
         [
           "/wiki/\u00dcberwachungsgeschwader"
         ]
@@ -104,38 +62,23 @@
     ],
     [
       [
-        [
-          "Lufttransportdienst des Bundes"
-        ],
+        "Lufttransportdienst des Bundes",
         [
           "/wiki/Lufttransportdienst_des_Bundes"
         ]
       ],
       [
-        [
-          "active"
-        ],
-        [
-          null
-        ]
+        "active",
+        []
       ],
       [
-        [
-          "Bern Airport"
-        ],
+        "Bern Airport",
         [
           "/wiki/Bern_Airport"
         ]
       ],
       [
-        [
-          "Cessna Citation Excel",
-          "DHC-6",
-          "B350",
-          "B1900",
-          "Falcon 900",
-          "EC635"
-        ],
+        "Cessna Citation Excel , DHC-6 , B350 , B1900 , Falcon 900 , EC635",
         [
           "/wiki/Cessna_Citation_Excel",
           "/wiki/De_Havilland_Canada_Twin_Otter",
@@ -146,11 +89,7 @@
         ]
       ],
       [
-        [
-          "Learjet 35",
-          "Falcon 50",
-          "Eurocopter Dauphin"
-        ],
+        "Learjet 35 , Falcon 50 , Eurocopter Dauphin",
         [
           "/wiki/Learjet_35",
           "/wiki/Dassault_Falcon_50",
@@ -158,53 +97,33 @@
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Pilotenschule"
-        ],
-        [
-          null
-        ]
+        "Pilotenschule",
+        []
       ],
       [
-        [
-          "active"
-        ],
-        [
-          null
-        ]
+        "active",
+        []
       ],
       [
-        [
-          "Emmen Air Base"
-        ],
+        "Emmen Air Base",
         [
           "/wiki/Emmen_Air_Base"
         ]
       ],
       [
-        [
-          "Pilatus PC-21"
-        ],
+        "Pilatus PC-21",
         [
           "/wiki/Pilatus_PC-21"
         ]
       ],
       [
-        [
-          "F-5F",
-          "BAE Hawk",
-          "DH-100 Vampire"
-        ],
+        "F-5F , BAE Hawk , DH-100 Vampire T",
         [
           "/wiki/Northrop_F-5_Tiger_II",
           "/wiki/BAE_Hawk",
@@ -212,95 +131,61 @@
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Drohnenstaffel 7"
-        ],
+        "Drohnenstaffel 7",
         [
           "/wiki/Drohnenstaffel_7"
         ]
       ],
       [
-        [
-          "active"
-        ],
-        [
-          null
-        ]
+        "active",
+        []
       ],
       [
-        [
-          "Emmen Air Base"
-        ],
+        "Emmen Air Base",
         [
           "/wiki/Emmen_Air_Base"
         ]
       ],
       [
-        [
-          "ADS-95"
-        ],
+        "ADS-95",
         [
           "/wiki/RUAG_Ranger"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Armasuisse"
-        ],
+        "GRD Armasuisse",
         [
           "/wiki/Armasuisse"
         ]
       ],
       [
-        [
-          "active"
-        ],
-        [
-          null
-        ]
+        "active",
+        []
       ],
       [
-        [
-          "Emmen Air Base"
-        ],
+        "Emmen Air Base",
         [
           "/wiki/Emmen_Air_Base"
         ]
       ],
       [
-        [
-          "Pilatus PC-6 Turbo-Porter",
-          "Pilatus PC-12",
-          "Diamond DA42 Aurora Centauer"
-        ],
+        "Pilatus PC-6 Turbo-Porter , Pilatus PC-12 , Diamond DA42 Aurora Centauer",
         [
           "/wiki/Pilatus_PC-6_Turbo-Porter",
           "/wiki/Pilatus_PC-12",
@@ -308,11 +193,7 @@
         ]
       ],
       [
-        [
-          "Hawker Hunter",
-          "Mirage IIIC",
-          "F-5E"
-        ],
+        "Hawker Hunter , Mirage IIIC , F-5E ( J-3001 )",
         [
           "/wiki/Hawker_Hunter",
           "/wiki/Dassault_Mirage_III",
@@ -320,162 +201,104 @@
         ]
       ],
       [
-        [
-          "Flight test Service"
-        ],
-        [
-          null
-        ]
+        "Flight test Service",
+        []
       ]
     ],
     [
       [
-        [
-          "Patrouille Suisse"
-        ],
+        "Patrouille Suisse",
         [
           "/wiki/Patrouille_Suisse"
         ]
       ],
       [
-        [
-          "active"
-        ],
-        [
-          null
-        ]
+        "active",
+        []
       ],
       [
-        [
-          "Emmen Air Base"
-        ],
+        "Emmen Air Base",
         [
           "/wiki/Emmen_Air_Base"
         ]
       ],
       [
-        [
-          "F-5E"
-        ],
+        "F-5E",
         [
           "/wiki/Northrop_F-5_Tiger_II"
         ]
       ],
       [
-        [
-          "Hawker Hunter",
-          "D\u00fcbendorf"
-        ],
+        "Hawker Hunter AFB D\u00fcbendorf",
         [
           "/wiki/Hawker_Hunter",
           "/wiki/D\u00fcbendorf"
         ]
       ],
       [
-        [
-          "Created from parts of the Fliegerstaffel 1"
-        ],
-        [
-          null
-        ]
+        "Created from parts of the Fliegerstaffel 1",
+        []
       ]
     ],
     [
       [
-        [
-          "PC-7 Team"
-        ],
+        "PC-7 Team",
         [
           "/wiki/PC-7_Team"
         ]
       ],
       [
-        [
-          "active"
-        ],
-        [
-          null
-        ]
+        "active",
+        []
       ],
       [
-        [
-          "D\u00fcbendorf Air Base"
-        ],
+        "D\u00fcbendorf Air Base",
         [
           "/wiki/D\u00fcbendorf_Air_Base"
         ]
       ],
       [
-        [
-          "Pilatus PC-7"
-        ],
+        "Pilatus PC-7",
         [
           "/wiki/Pilatus_PC-7"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ]
     ],
     [
       [
-        [
-          "Milit\u00e4r-Helikopter-Rettungsdienst"
-        ],
+        "MHR Milit\u00e4r-Helikopter-Rettungsdienst",
         [
           "/wiki/Milit\u00e4r-Helikopter-Rettungsdienst"
         ]
       ],
       [
-        [
-          "Inactive"
-        ],
-        [
-          null
-        ]
+        "Inactive",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Alouette III"
-        ],
+        "Alouette III",
         [
           "/wiki/A\u00e9rospatiale_Alouette_III"
         ]
       ],
       [
-        [
-          "SAR",
-          "Rega ( air rescue )"
-        ],
+        "SAR , Today made by the civil Rega ( air rescue )",
         [
           "/wiki/Search_and_rescue",
           "/wiki/Rega_(air_rescue)"
@@ -484,102 +307,60 @@
     ],
     [
       [
-        [
-          "ADDC"
-        ],
-        [
-          null
-        ]
+        "ADDC",
+        []
       ],
       [
-        [
-          "active"
-        ],
-        [
-          null
-        ]
+        "active",
+        []
       ],
       [
-        [
-          "D\u00fcbendorf Air Base"
-        ],
+        "D\u00fcbendorf Air Base",
         [
           "/wiki/D\u00fcbendorf_Air_Base"
         ]
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Air Force HQ , Air Operations Centre , Air Defence & Directions Center"
-        ],
-        [
-          null
-        ]
+        "Air Force HQ , Air Operations Centre , Air Defence & Directions Center",
+        []
       ]
     ],
     [
       [
-        [
-          "Parachute Reconnaissance Company 17"
-        ],
+        "Parachute Reconnaissance Company 17",
         [
           "/wiki/Parachute_Reconnaissance_Company_17"
         ]
       ],
       [
-        [
-          "active"
-        ],
-        [
-          null
-        ]
+        "active",
+        []
       ],
       [
-        [
-          "Locarno"
-        ],
+        "Locarno",
         [
           "/wiki/Locarno"
         ]
       ],
       [
-        [
-          "MT-1"
-        ],
-        [
-          null
-        ]
+        "MT-1",
+        []
       ],
       [
-        [
-          ""
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Para reccon"
-        ],
-        [
-          null
-        ]
+        "Para reccon",
+        []
       ]
     ]
   ],

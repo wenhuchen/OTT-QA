@@ -3,80 +3,48 @@
   "title": "List of content management systems",
   "header": [
     [
-      [
-        "Name"
-      ],
-      [
-        null
-      ]
+      "Name",
+      []
     ],
     [
-      [
-        "Platform"
-      ],
-      [
-        null
-      ]
+      "Platform",
+      []
     ],
     [
-      [
-        "Supported databases"
-      ],
+      "Supported databases",
       [
         "/wiki/Relational_database_management_system"
       ]
     ],
     [
-      [
-        "Latest stable release"
-      ],
-      [
-        null
-      ]
+      "Latest stable release",
+      []
     ],
     [
-      [
-        "Licenses"
-      ],
-      [
-        null
-      ]
+      "Licenses",
+      []
     ],
     [
-      [
-        "Latest release date"
-      ],
-      [
-        null
-      ]
+      "Latest release date",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Alfresco"
-        ],
+        "Alfresco Community Edition",
         [
           "/wiki/Alfresco_(software)"
         ]
       ],
       [
-        [
-          "Java"
-        ],
+        "Java",
         [
           "/wiki/Java_platform"
         ]
       ],
       [
-        [
-          "MySQL",
-          "Oracle",
-          "SQL Server",
-          "PostgreSQL",
-          "DB2"
-        ],
+        "MySQL , Oracle , SQL Server , PostgreSQL , DB2 ,",
         [
           "/wiki/MySQL",
           "/wiki/Oracle_database",
@@ -86,55 +54,35 @@
         ]
       ],
       [
-        [
-          "201901"
-        ],
-        [
-          null
-        ]
+        "201901",
+        []
       ],
       [
-        [
-          "LGPL"
-        ],
+        "LGPL",
         [
           "/wiki/LGPL"
         ]
       ],
       [
-        [
-          "[ \u00b1 ]"
-        ],
-        [
-          null
-        ]
+        "2019-02-04 [ \u00b1 ]",
+        []
       ]
     ],
     [
       [
-        [
-          "Ametys CMS"
-        ],
+        "Ametys CMS",
         [
           "/wiki/Ametys_CMS"
         ]
       ],
       [
-        [
-          "Java"
-        ],
+        "Java",
         [
           "/wiki/Java_(programming_language)"
         ]
       ],
       [
-        [
-          "MySQL",
-          "Oracle",
-          "SQL Server",
-          "JCR",
-          "Apache Derby"
-        ],
+        "MySQL , Oracle , SQL Server , JCR , Apache Derby",
         [
           "/wiki/MySQL",
           "/wiki/Oracle_database",
@@ -144,57 +92,35 @@
         ]
       ],
       [
-        [
-          "4.1.11"
-        ],
-        [
-          null
-        ]
+        "4.1.11",
+        []
       ],
       [
-        [
-          "Apache 2.0 License"
-        ],
+        "Apache 2.0 License",
         [
           "/wiki/Apache_License"
         ]
       ],
       [
-        [
-          "[ \u00b1 ]"
-        ],
-        [
-          null
-        ]
+        "2019- ? ? - ? ? [ \u00b1 ]",
+        []
       ]
     ],
     [
       [
-        [
-          "Apache Roller"
-        ],
+        "Apache Roller",
         [
           "/wiki/Apache_Roller"
         ]
       ],
       [
-        [
-          "Java"
-        ],
+        "Java",
         [
           "/wiki/Java_(programming_language)"
         ]
       ],
       [
-        [
-          "HSQL",
-          "MySQL",
-          "Oracle",
-          "SQL Server",
-          "DB2",
-          "PostgreSQL",
-          "Apache Derby"
-        ],
+        "HSQL , MySQL , Oracle , SQL Server , DB2 , PostgreSQL , Apache Derby",
         [
           "/wiki/HSQL",
           "/wiki/MySQL",
@@ -206,106 +132,69 @@
         ]
       ],
       [
-        [
-          "5.2.2"
-        ],
-        [
-          null
-        ]
+        "5.2.2",
+        []
       ],
       [
-        [
-          "Apache 2.0 License"
-        ],
+        "Apache 2.0 License",
         [
           "/wiki/Apache_License"
         ]
       ],
       [
-        [
-          "[ \u00b1 ]"
-        ],
-        [
-          null
-        ]
+        "2019-01-11 [ \u00b1 ]",
+        []
       ]
     ],
     [
       [
-        [
-          "Apache Sling"
-        ],
+        "Apache Sling CMS",
         [
           "/wiki/Apache_Sling"
         ]
       ],
       [
-        [
-          "Java"
-        ],
+        "Java",
         [
           "/wiki/Java_(programming_language)"
         ]
       ],
       [
-        [
-          "JCR"
-        ],
+        "JCR",
         [
           "/wiki/Content_repository_API_for_Java"
         ]
       ],
       [
-        [
-          "0.14.0"
-        ],
-        [
-          null
-        ]
+        "0.14.0",
+        []
       ],
       [
-        [
-          "Apache 2.0 License"
-        ],
+        "Apache 2.0 License",
         [
           "/wiki/Apache_License"
         ]
       ],
       [
-        [
-          "2019-11-22"
-        ],
-        [
-          null
-        ]
+        "2019-11-22",
+        []
       ]
     ],
     [
       [
-        [
-          "Bloomreach Experience Manager"
-        ],
+        "Bloomreach Experience Manager",
         [
           "/wiki/Hippo_CMS"
         ]
       ],
       [
-        [
-          "Java"
-        ],
+        "Java",
         [
           "/wiki/Java_(programming_language)"
         ]
       ],
       [
-        [
-          "MySQL",
-          "Oracle",
-          "SQL Server",
-          "Ingres",
-          "PostgreSQL",
-          "JCR"
-        ],
+        "MySQL , Oracle , SQL Server , Ingres , PostgreSQL , JCR",
         [
           "/wiki/MySQL",
           "/wiki/Oracle_database",
@@ -316,53 +205,35 @@
         ]
       ],
       [
-        [
-          "13.1"
-        ],
-        [
-          null
-        ]
+        "13.1",
+        []
       ],
       [
-        [
-          "Apache 2.0 License"
-        ],
+        "Apache 2.0 License",
         [
           "/wiki/Apache_License"
         ]
       ],
       [
-        [
-          "2019-03-20"
-        ],
-        [
-          null
-        ]
+        "2019-03-20",
+        []
       ]
     ],
     [
       [
-        [
-          "Crafter CMS"
-        ],
+        "Crafter CMS",
         [
           "/wiki/Crafter_CMS"
         ]
       ],
       [
-        [
-          "Java"
-        ],
+        "Java",
         [
           "/wiki/Java_(programming_language)"
         ]
       ],
       [
-        [
-          "Git",
-          "Solr",
-          "CMIS"
-        ],
+        "Git , Solr , CMIS",
         [
           "/wiki/Git",
           "/wiki/Solr",
@@ -370,56 +241,36 @@
         ]
       ],
       [
-        [
-          "3.1.3"
-        ],
-        [
-          null
-        ]
+        "3.1.3",
+        []
       ],
       [
-        [
-          "GNU",
-          "GPL"
-        ],
+        "GNU GPL v3",
         [
           "/wiki/GNU",
           "/wiki/GPL"
         ]
       ],
       [
-        [
-          "[ \u00b1 ]"
-        ],
-        [
-          null
-        ]
+        "2019-09-10 [ \u00b1 ]",
+        []
       ]
     ],
     [
       [
-        [
-          "dotCMS"
-        ],
+        "dotCMS",
         [
           "/wiki/DotCMS"
         ]
       ],
       [
-        [
-          "Java"
-        ],
+        "Java",
         [
           "/wiki/Java_(programming_language)"
         ]
       ],
       [
-        [
-          "MySQL",
-          "Oracle",
-          "MSSQL",
-          "PostgreSQL"
-        ],
+        "MySQL , Oracle , MSSQL , PostgreSQL",
         [
           "/wiki/MySQL",
           "/wiki/Oracle_Database",
@@ -428,158 +279,105 @@
         ]
       ],
       [
-        [
-          "5.2.4"
-        ],
-        [
-          null
-        ]
+        "5.2.4",
+        []
       ],
       [
-        [
-          "GNU",
-          "GPL"
-        ],
+        "GNU GPL v3",
         [
           "/wiki/GNU",
           "/wiki/GPL"
         ]
       ],
       [
-        [
-          "[ \u00b1 ]"
-        ],
-        [
-          null
-        ]
+        "2020-01-24 [ \u00b1 ]",
+        []
       ]
     ],
     [
       [
-        [
-          "DSpace"
-        ],
+        "DSpace",
         [
           "/wiki/DSpace"
         ]
       ],
       [
-        [
-          "Java"
-        ],
+        "Java",
         [
           "/wiki/Java_(programming_language)"
         ]
       ],
       [
-        [
-          "Oracle",
-          "PostgreSQL"
-        ],
+        "Oracle , PostgreSQL",
         [
           "/wiki/Oracle_database",
           "/wiki/PostgreSQL"
         ]
       ],
       [
-        [
-          "6.3"
-        ],
-        [
-          null
-        ]
+        "6.3",
+        []
       ],
       [
-        [
-          "BSD License"
-        ],
+        "BSD License",
         [
           "/wiki/BSD_License"
         ]
       ],
       [
-        [
-          "2018-06-27"
-        ],
-        [
-          null
-        ]
+        "2018-06-27",
+        []
       ]
     ],
     [
       [
-        [
-          "Enonic XP"
-        ],
+        "Enonic XP",
         [
           "/wiki/Enonic_XP"
         ]
       ],
       [
-        [
-          "Java"
-        ],
+        "Java",
         [
           "/wiki/Java_(programming_language)"
         ]
       ],
       [
-        [
-          "NoSQL"
-        ],
+        "Embedded NoSQL",
         [
           "/wiki/NoSQL"
         ]
       ],
       [
-        [
-          "7.2.0"
-        ],
-        [
-          null
-        ]
+        "7.2.0",
+        []
       ],
       [
-        [
-          "GPL"
-        ],
+        "GPL v3",
         [
           "/wiki/GPL"
         ]
       ],
       [
-        [
-          "2019-12-19"
-        ],
-        [
-          null
-        ]
+        "2019-12-19",
+        []
       ]
     ],
     [
       [
-        [
-          "Fedora Commons"
-        ],
+        "Fedora Commons",
         [
           "/wiki/Fedora_Commons"
         ]
       ],
       [
-        [
-          "Java"
-        ],
+        "Java",
         [
           "/wiki/Java_(programming_language)"
         ]
       ],
       [
-        [
-          "MySQL",
-          "Oracle",
-          "PostgreSQL",
-          "Mulgara"
-        ],
+        "MySQL , Oracle , PostgreSQL , Mulgara ( MPTSTore RDF Semantic Triplestore )",
         [
           "/wiki/MySQL",
           "/wiki/Oracle_database",
@@ -588,54 +386,35 @@
         ]
       ],
       [
-        [
-          "5.0.2"
-        ],
-        [
-          null
-        ]
+        "5.0.2",
+        []
       ],
       [
-        [
-          "Apache License"
-        ],
+        "Apache License",
         [
           "/wiki/Apache_License"
         ]
       ],
       [
-        [
-          "[ \u00b1 ]"
-        ],
-        [
-          null
-        ]
+        "2019-02-14 [ \u00b1 ]",
+        []
       ]
     ],
     [
       [
-        [
-          "Jahia"
-        ],
+        "Jahia Community Distribution",
         [
           "/wiki/Jahia"
         ]
       ],
       [
-        [
-          "Java"
-        ],
+        "Java",
         [
           "/wiki/Java_(programming_language)"
         ]
       ],
       [
-        [
-          "Apache Derby",
-          "JCR",
-          "MySQL",
-          "PostgreSQL"
-        ],
+        "Apache Derby , JCR , MySQL , PostgreSQL",
         [
           "/wiki/Apache_Derby",
           "/wiki/Content_repository_API_for_Java",
@@ -644,54 +423,35 @@
         ]
       ],
       [
-        [
-          "7.2.2"
-        ],
-        [
-          null
-        ]
+        "7.2.2",
+        []
       ],
       [
-        [
-          "GPL"
-        ],
+        "GPL",
         [
           "/wiki/GPL"
         ]
       ],
       [
-        [
-          "2018-03-01"
-        ],
-        [
-          null
-        ]
+        "2018-03-01",
+        []
       ]
     ],
     [
       [
-        [
-          "LogicalDOC"
-        ],
+        "LogicalDOC Community Edition",
         [
           "/wiki/LogicalDOC"
         ]
       ],
       [
-        [
-          "Java"
-        ],
+        "Java",
         [
           "/wiki/Java_platform"
         ]
       ],
       [
-        [
-          "MySQL",
-          "Oracle",
-          "SQL Server",
-          "PostgreSQL"
-        ],
+        "MySQL , Oracle , SQL Server , PostgreSQL",
         [
           "/wiki/MySQL",
           "/wiki/Oracle_database",
@@ -700,56 +460,35 @@
         ]
       ],
       [
-        [
-          "7.4.2"
-        ],
-        [
-          null
-        ]
+        "7.4.2",
+        []
       ],
       [
-        [
-          "LGPL"
-        ],
+        "LGPL",
         [
           "/wiki/LGPL"
         ]
       ],
       [
-        [
-          "2016-03-24"
-        ],
-        [
-          null
-        ]
+        "2016-03-24",
+        []
       ]
     ],
     [
       [
-        [
-          "Nuxeo EP"
-        ],
+        "Nuxeo EP",
         [
           "/wiki/Nuxeo"
         ]
       ],
       [
-        [
-          "Java"
-        ],
+        "Java",
         [
           "/wiki/Java_(programming_language)"
         ]
       ],
       [
-        [
-          "MySQL",
-          "Oracle",
-          "SQL Server",
-          "Ingres",
-          "PostgreSQL",
-          "MongoDB"
-        ],
+        "MySQL , Oracle , SQL Server , Ingres , PostgreSQL , MongoDB",
         [
           "/wiki/MySQL",
           "/wiki/Oracle_database",
@@ -760,56 +499,35 @@
         ]
       ],
       [
-        [
-          "10.2"
-        ],
-        [
-          null
-        ]
+        "10.2",
+        []
       ],
       [
-        [
-          "Apache 2.0 License"
-        ],
+        "Apache 2.0 License",
         [
           "/wiki/Apache_License"
         ]
       ],
       [
-        [
-          "2018-07-26"
-        ],
-        [
-          null
-        ]
+        "2018-07-26",
+        []
       ]
     ],
     [
       [
-        [
-          "Magnolia"
-        ],
+        "Magnolia",
         [
           "/wiki/Magnolia_(CMS)"
         ]
       ],
       [
-        [
-          "Java"
-        ],
+        "Java",
         [
           "/wiki/Java_(programming_language)"
         ]
       ],
       [
-        [
-          "H2",
-          "Derby",
-          "MySQL",
-          "PostgreSQL",
-          "Oracle",
-          "MSSQL"
-        ],
+        "H2 , Derby , MySQL , PostgreSQL , Oracle , MSSQL",
         [
           "/wiki/H2_(DBMS)",
           "/wiki/Apache_Derby",
@@ -820,56 +538,35 @@
         ]
       ],
       [
-        [
-          "6.1.4"
-        ],
-        [
-          null
-        ]
+        "6.1.4",
+        []
       ],
       [
-        [
-          "GPL"
-        ],
+        "GPL & proprietary",
         [
           "/wiki/GPL"
         ]
       ],
       [
-        [
-          "2019-12-20"
-        ],
-        [
-          null
-        ]
+        "2019-12-20",
+        []
       ]
     ],
     [
       [
-        [
-          "OpenCms"
-        ],
+        "OpenCms",
         [
           "/wiki/OpenCms"
         ]
       ],
       [
-        [
-          "Java"
-        ],
+        "Java",
         [
           "/wiki/Java_(programming_language)"
         ]
       ],
       [
-        [
-          "HSQL",
-          "MySQL",
-          "Oracle",
-          "SQL Server",
-          "DB2",
-          "PostgreSQL"
-        ],
+        "HSQL , MySQL , Oracle , SQL Server , DB2 , PostgreSQL",
         [
           "/wiki/HSQL",
           "/wiki/MySQL",
@@ -880,55 +577,35 @@
         ]
       ],
       [
-        [
-          "11.0.0"
-        ],
-        [
-          null
-        ]
+        "11.0.0",
+        []
       ],
       [
-        [
-          "LGPL"
-        ],
+        "LGPL",
         [
           "/wiki/LGPL"
         ]
       ],
       [
-        [
-          "[ \u00b1 ]"
-        ],
-        [
-          null
-        ]
+        "2019-04-30 [ \u00b1 ]",
+        []
       ]
     ],
     [
       [
-        [
-          "OpenKM"
-        ],
+        "OpenKM Community Edition",
         [
           "/wiki/OpenKM"
         ]
       ],
       [
-        [
-          "Java"
-        ],
+        "Java",
         [
           "/wiki/Java_(programming_language)"
         ]
       ],
       [
-        [
-          "MySQL",
-          "PostgreSQL",
-          "Oracle",
-          "SQL Server",
-          "HSQLDB"
-        ],
+        "MySQL , PostgreSQL , Oracle , SQL Server , HSQLDB",
         [
           "/wiki/MySQL",
           "/wiki/PostgreSQL",
@@ -938,58 +615,35 @@
         ]
       ],
       [
-        [
-          "6.3.6"
-        ],
-        [
-          null
-        ]
+        "6.3.6",
+        []
       ],
       [
-        [
-          "GPL"
-        ],
+        "GPL",
         [
           "/wiki/GPL"
         ]
       ],
       [
-        [
-          "2018-03-06"
-        ],
-        [
-          null
-        ]
+        "2018-03-06",
+        []
       ]
     ],
     [
       [
-        [
-          "OpenWGA"
-        ],
+        "OpenWGA",
         [
           "/wiki/OpenWGA"
         ]
       ],
       [
-        [
-          "Java"
-        ],
+        "Java",
         [
           "/wiki/Java_(programming_language)"
         ]
       ],
       [
-        [
-          "MySQL",
-          "PostgreSQL",
-          "IBM DB2",
-          "HSQLDB",
-          "Oracle",
-          "SQL Server",
-          "IBM Lotus Domino",
-          "CMIS"
-        ],
+        "MySQL , PostgreSQL , IBM DB2 , HSQLDB , Oracle , SQL Server , IBM Lotus Domino , CMIS",
         [
           "/wiki/MySQL",
           "/wiki/PostgreSQL",
@@ -1002,55 +656,35 @@
         ]
       ],
       [
-        [
-          "7.7.1"
-        ],
-        [
-          null
-        ]
+        "7.7.1",
+        []
       ],
       [
-        [
-          "GPL"
-        ],
+        "GPL & proprietary",
         [
           "/wiki/GPL"
         ]
       ],
       [
-        [
-          "[ \u00b1 ]"
-        ],
-        [
-          null
-        ]
+        "2019-07-28 [ \u00b1 ]",
+        []
       ]
     ],
     [
       [
-        [
-          "XWiki"
-        ],
+        "XWiki",
         [
           "/wiki/XWiki"
         ]
       ],
       [
-        [
-          "Java"
-        ],
+        "Java",
         [
           "/wiki/Java_(programming_language)"
         ]
       ],
       [
-        [
-          "MySQL",
-          "PostgreSQL",
-          "Oracle",
-          "SQL Server",
-          "HSQLDB"
-        ],
+        "MySQL , PostgreSQL , Oracle , SQL Server , HSQLDB",
         [
           "/wiki/MySQL",
           "/wiki/PostgreSQL",
@@ -1060,28 +694,18 @@
         ]
       ],
       [
-        [
-          "12.0"
-        ],
-        [
-          null
-        ]
+        "12.0",
+        []
       ],
       [
-        [
-          "LGPL"
-        ],
+        "LGPL",
         [
           "/wiki/LGPL"
         ]
       ],
       [
-        [
-          "[ \u00b1 ]"
-        ],
-        [
-          null
-        ]
+        "2020-01-29 [ \u00b1 ]",
+        []
       ]
     ]
   ],

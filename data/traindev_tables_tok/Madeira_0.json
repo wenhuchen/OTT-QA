@@ -3,41 +3,23 @@
   "title": "Madeira",
   "header": [
     [
-      [
-        "Municipality"
-      ],
-      [
-        null
-      ]
+      "Municipality",
+      []
     ],
     [
-      [
-        "Population ( 2011 )"
-      ],
-      [
-        null
-      ]
+      "Population ( 2011 )",
+      []
     ],
     [
-      [
-        "Area"
-      ],
-      [
-        null
-      ]
+      "Area",
+      []
     ],
     [
-      [
-        "Main settlement"
-      ],
-      [
-        null
-      ]
+      "Main settlement",
+      []
     ],
     [
-      [
-        "Parishes"
-      ],
+      "Parishes",
       [
         "/wiki/Freguesia"
       ]
@@ -46,464 +28,288 @@
   "data": [
     [
       [
-        [
-          "Funchal"
-        ],
+        "Funchal",
         [
           "/wiki/Funchal"
         ]
       ],
       [
-        [
-          "111,892"
-        ],
-        [
-          null
-        ]
+        "111,892",
+        []
       ],
       [
-        [
-          "75.7 km ( 29.2 sq mi )"
-        ],
-        [
-          null
-        ]
+        "75.7 km ( 29.2 sq mi )",
+        []
       ],
       [
-        [
-          "Funchal"
-        ],
+        "Funchal",
         [
           "/wiki/Funchal"
         ]
       ],
       [
-        [
-          "10"
-        ],
-        [
-          null
-        ]
+        "10",
+        []
       ]
     ],
     [
       [
-        [
-          "Santa Cruz"
-        ],
+        "Santa Cruz",
         [
           "/wiki/Santa_Cruz,_Madeira"
         ]
       ],
       [
-        [
-          "43,005"
-        ],
-        [
-          null
-        ]
+        "43,005",
+        []
       ],
       [
-        [
-          "68.0 km ( 26.3 sq mi )"
-        ],
-        [
-          null
-        ]
+        "68.0 km ( 26.3 sq mi )",
+        []
       ],
       [
-        [
-          "Santa Cruz"
-        ],
+        "Santa Cruz",
         [
           "/wiki/Santa_Cruz,_Madeira"
         ]
       ],
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ]
     ],
     [
       [
-        [
-          "C\u00e2mara de Lobos"
-        ],
+        "C\u00e2mara de Lobos",
         [
           "/wiki/C\u00e2mara_de_Lobos"
         ]
       ],
       [
-        [
-          "35,666"
-        ],
-        [
-          null
-        ]
+        "35,666",
+        []
       ],
       [
-        [
-          "52.6 km ( 20.3 sq mi )"
-        ],
-        [
-          null
-        ]
+        "52.6 km ( 20.3 sq mi )",
+        []
       ],
       [
-        [
-          "C\u00e2mara de Lobos"
-        ],
+        "C\u00e2mara de Lobos",
         [
           "/wiki/C\u00e2mara_de_Lobos"
         ]
       ],
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ]
     ],
     [
       [
-        [
-          "Machico"
-        ],
+        "Machico",
         [
           "/wiki/Machico"
         ]
       ],
       [
-        [
-          "21,828"
-        ],
-        [
-          null
-        ]
+        "21,828",
+        []
       ],
       [
-        [
-          "67.6 km ( 26.1 sq mi )"
-        ],
-        [
-          null
-        ]
+        "67.6 km ( 26.1 sq mi )",
+        []
       ],
       [
-        [
-          "Machico"
-        ],
+        "Machico",
         [
           "/wiki/Machico"
         ]
       ],
       [
-        [
-          "5"
-        ],
-        [
-          null
-        ]
+        "5",
+        []
       ]
     ],
     [
       [
-        [
-          "Ribeira Brava"
-        ],
+        "Ribeira Brava",
         [
           "/wiki/Ribeira_Brava,_Madeira"
         ]
       ],
       [
-        [
-          "13,375"
-        ],
-        [
-          null
-        ]
+        "13,375",
+        []
       ],
       [
-        [
-          "64.9 km ( 25.1 sq mi )"
-        ],
-        [
-          null
-        ]
+        "64.9 km ( 25.1 sq mi )",
+        []
       ],
       [
-        [
-          "Ribeira Brava"
-        ],
+        "Ribeira Brava",
         [
           "/wiki/Ribeira_Brava,_Madeira"
         ]
       ],
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ]
     ],
     [
       [
-        [
-          "Calheta"
-        ],
+        "Calheta",
         [
           "/wiki/Calheta_(Madeira)"
         ]
       ],
       [
-        [
-          "11,521"
-        ],
-        [
-          null
-        ]
+        "11,521",
+        []
       ],
       [
-        [
-          "110.3 km ( 42.6 sq mi )"
-        ],
-        [
-          null
-        ]
+        "110.3 km ( 42.6 sq mi )",
+        []
       ],
       [
-        [
-          "Calheta"
-        ],
+        "Calheta",
         [
           "/wiki/Calheta_(Madeira)"
         ]
       ],
       [
-        [
-          "8"
-        ],
-        [
-          null
-        ]
+        "8",
+        []
       ]
     ],
     [
       [
-        [
-          "Ponta do Sol"
-        ],
+        "Ponta do Sol",
         [
           "/wiki/Ponta_do_Sol"
         ]
       ],
       [
-        [
-          "8,862"
-        ],
-        [
-          null
-        ]
+        "8,862",
+        []
       ],
       [
-        [
-          "46.8 km ( 18.1 sq mi )"
-        ],
-        [
-          null
-        ]
+        "46.8 km ( 18.1 sq mi )",
+        []
       ],
       [
-        [
-          "Ponta do Sol"
-        ],
+        "Ponta do Sol",
         [
           "/wiki/Ponta_do_Sol"
         ]
       ],
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ]
     ],
     [
       [
-        [
-          "Santana"
-        ],
+        "Santana",
         [
           "/wiki/Santana,_Madeira"
         ]
       ],
       [
-        [
-          "7,719"
-        ],
-        [
-          null
-        ]
+        "7,719",
+        []
       ],
       [
-        [
-          "93.1 km ( 35.9 sq mi )"
-        ],
-        [
-          null
-        ]
+        "93.1 km ( 35.9 sq mi )",
+        []
       ],
       [
-        [
-          "Santana"
-        ],
+        "Santana",
         [
           "/wiki/Santana,_Madeira"
         ]
       ],
       [
-        [
-          "6"
-        ],
-        [
-          null
-        ]
+        "6",
+        []
       ]
     ],
     [
       [
-        [
-          "S\u00e3o Vicente"
-        ],
+        "S\u00e3o Vicente",
         [
           "/wiki/S\u00e3o_Vicente,_Madeira"
         ]
       ],
       [
-        [
-          "5,723"
-        ],
-        [
-          null
-        ]
+        "5,723",
+        []
       ],
       [
-        [
-          "80.8 km ( 31.2 sq mi )"
-        ],
-        [
-          null
-        ]
+        "80.8 km ( 31.2 sq mi )",
+        []
       ],
       [
-        [
-          "S\u00e3o Vicente"
-        ],
+        "S\u00e3o Vicente",
         [
           "/wiki/S\u00e3o_Vicente,_Madeira"
         ]
       ],
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ]
     ],
     [
       [
-        [
-          "Porto Santo"
-        ],
+        "Porto Santo",
         [
           "/wiki/Porto_Santo_(Madeira)"
         ]
       ],
       [
-        [
-          "5,483"
-        ],
-        [
-          null
-        ]
+        "5,483",
+        []
       ],
       [
-        [
-          "42.4 km ( 16.4 sq mi )"
-        ],
-        [
-          null
-        ]
+        "42.4 km ( 16.4 sq mi )",
+        []
       ],
       [
-        [
-          "Vila Baleira"
-        ],
+        "Vila Baleira",
         [
           "/wiki/Vila_Baleira"
         ]
       ],
       [
-        [
-          "1"
-        ],
-        [
-          null
-        ]
+        "1",
+        []
       ]
     ],
     [
       [
-        [
-          "Porto Moniz"
-        ],
+        "Porto Moniz",
         [
           "/wiki/Porto_Moniz"
         ]
       ],
       [
-        [
-          "2,711"
-        ],
-        [
-          null
-        ]
+        "2,711",
+        []
       ],
       [
-        [
-          "82.6 km ( 31.9 sq mi )"
-        ],
-        [
-          null
-        ]
+        "82.6 km ( 31.9 sq mi )",
+        []
       ],
       [
-        [
-          "Porto Moniz"
-        ],
+        "Porto Moniz",
         [
           "/wiki/Porto_Moniz"
         ]
       ],
       [
-        [
-          "4"
-        ],
-        [
-          null
-        ]
+        "4",
+        []
       ]
     ]
   ],

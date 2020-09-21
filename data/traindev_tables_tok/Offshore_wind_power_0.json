@@ -3,51 +3,30 @@
   "title": "Offshore wind power",
   "header": [
     [
-      [
-        "Wind farm"
-      ],
-      [
-        null
-      ]
+      "Wind farm",
+      []
     ],
     [
-      [
-        "Capacity",
-        "MW"
-      ],
+      "Capacity ( MW )",
       [
         "/wiki/Nameplate_capacity",
         "/wiki/Megawatt"
       ]
     ],
     [
-      [
-        "Location"
-      ],
-      [
-        null
-      ]
+      "Location",
+      []
     ],
     [
-      [
-        "Site coordinates"
-      ],
-      [
-        null
-      ]
+      "Site coordinates",
+      []
     ],
     [
-      [
-        "Turbines & model"
-      ],
-      [
-        null
-      ]
+      "Turbines & model",
+      []
     ],
     [
-      [
-        "Commissioning date"
-      ],
+      "Commissioning date",
       [
         "/wiki/Project_commissioning"
       ]
@@ -56,43 +35,27 @@
   "data": [
     [
       [
-        [
-          "Walney Extension"
-        ],
+        "Walney Extension",
         [
           "/wiki/Walney_Extension"
         ]
       ],
       [
-        [
-          "659"
-        ],
-        [
-          null
-        ]
+        "659",
+        []
       ],
       [
-        [
-          "United Kingdom"
-        ],
+        "United Kingdom",
         [
           "/wiki/United_Kingdom"
         ]
       ],
       [
-        [
-          "54\u00b05\u203217\u2033N 3\u00b044\u203217\u2033W / 54.08806\u00b0N 3.73806\u00b0W / 54.08806 ; -3.73806 ( Walney Extension )"
-        ],
-        [
-          null
-        ]
+        "54\u00b05\u203217\u2033N 3\u00b044\u203217\u2033W / 54.08806\u00b0N 3.73806\u00b0W / 54.08806 ; -3.73806 ( Walney Extension )",
+        []
       ],
       [
-        [
-          "MHI",
-          "Vestas",
-          "Siemens Gamesa"
-        ],
+        "40 x MHI - Vestas 8.25 MW 47 x Siemens Gamesa 7 MW",
         [
           "/wiki/Mitsubishi_Heavy_Industries",
           "/wiki/Vestas",
@@ -100,966 +63,580 @@
         ]
       ],
       [
-        [
-          "2018"
-        ],
-        [
-          null
-        ]
+        "2018",
+        []
       ]
     ],
     [
       [
-        [
-          "London Array"
-        ],
+        "London Array",
         [
           "/wiki/London_Array"
         ]
       ],
       [
-        [
-          "630"
-        ],
-        [
-          null
-        ]
+        "630",
+        []
       ],
       [
-        [
-          "United Kingdom"
-        ],
+        "United Kingdom",
         [
           "/wiki/United_Kingdom"
         ]
       ],
       [
-        [
-          "51\u00b038\u203238\u2033N 01\u00b033\u203213\u2033E / 51.64389\u00b0N 1.55361\u00b0E / 51.64389 ; 1.55361 ( London Array )"
-        ],
-        [
-          null
-        ]
+        "51\u00b038\u203238\u2033N 01\u00b033\u203213\u2033E / 51.64389\u00b0N 1.55361\u00b0E / 51.64389 ; 1.55361 ( London Array )",
+        []
       ],
       [
-        [
-          "Siemens"
-        ],
+        "175 \u00d7 Siemens SWT-3.6-120",
         [
           "/wiki/Siemens_Wind_Power"
         ]
       ],
       [
-        [
-          "2012"
-        ],
-        [
-          null
-        ]
+        "2012",
+        []
       ]
     ],
     [
       [
-        [
-          "Gemini Wind Farm"
-        ],
+        "Gemini Wind Farm",
         [
           "/wiki/Gemini_Wind_Farm"
         ]
       ],
       [
-        [
-          "600"
-        ],
-        [
-          null
-        ]
+        "600",
+        []
       ],
       [
-        [
-          "Netherlands"
-        ],
+        "Netherlands",
         [
           "/wiki/Netherlands"
         ]
       ],
       [
-        [
-          "54\u00b02\u203210\u2033N 05\u00b057\u203247\u2033W / 54.03611\u00b0N 5.96306\u00b0W / 54.03611 ; -5.96306 ( Gemini Wind Farm )"
-        ],
-        [
-          null
-        ]
+        "54\u00b02\u203210\u2033N 05\u00b057\u203247\u2033W / 54.03611\u00b0N 5.96306\u00b0W / 54.03611 ; -5.96306 ( Gemini Wind Farm )",
+        []
       ],
       [
-        [
-          "150 \u00d7 Siemens SWT-4.0"
-        ],
-        [
-          null
-        ]
+        "150 \u00d7 Siemens SWT-4.0",
+        []
       ],
       [
-        [
-          "2017"
-        ],
-        [
-          null
-        ]
+        "2017",
+        []
       ]
     ],
     [
       [
-        [
-          "Beatrice"
-        ],
+        "Beatrice",
         [
           "/wiki/Beatrice_Wind_Farm"
         ]
       ],
       [
-        [
-          "588"
-        ],
-        [
-          null
-        ]
+        "588",
+        []
       ],
       [
-        [
-          "United Kingdom"
-        ],
+        "United Kingdom",
         [
           "/wiki/United_Kingdom"
         ]
       ],
       [
-        [
-          "58\u00b007\u203248\u2033N 03\u00b004\u203212\u2033W / 58.13000\u00b0N 3.07000\u00b0W / 58.13000 ; -3.07000 ( Beatrice Offshore Windfarm Ltd ( BOWL ) project )"
-        ],
-        [
-          null
-        ]
+        "58\u00b007\u203248\u2033N 03\u00b004\u203212\u2033W / 58.13000\u00b0N 3.07000\u00b0W / 58.13000 ; -3.07000 ( Beatrice Offshore Windfarm Ltd ( BOWL ) project )",
+        []
       ],
       [
-        [
-          "Siemens Gamesa"
-        ],
+        "84 \u00d7 7MW Siemens Gamesa",
         [
           "/wiki/Siemens_Gamesa"
         ]
       ],
       [
-        [
-          "2019"
-        ],
-        [
-          null
-        ]
+        "2019",
+        []
       ]
     ],
     [
       [
-        [
-          "Gode Wind"
-        ],
+        "Gode Wind ( phases 1+2 )",
         [
           "/wiki/Gode_Wind_Farm"
         ]
       ],
       [
-        [
-          "582"
-        ],
-        [
-          null
-        ]
+        "582",
+        []
       ],
       [
-        [
-          "Germany"
-        ],
+        "Germany",
         [
           "/wiki/Germany"
         ]
       ],
       [
-        [
-          "54\u00b004\u2032N 7\u00b002\u2032E / 54.067\u00b0N 7.033\u00b0E / 54.067 ; 7.033 ( Gode Wind I+II )"
-        ],
-        [
-          null
-        ]
+        "54\u00b004\u2032N 7\u00b002\u2032E / 54.067\u00b0N 7.033\u00b0E / 54.067 ; 7.033 ( Gode Wind I+II )",
+        []
       ],
       [
-        [
-          "97 x Siemens SWT-6.0-154"
-        ],
-        [
-          null
-        ]
+        "97 x Siemens SWT-6.0-154",
+        []
       ],
       [
-        [
-          "2017"
-        ],
-        [
-          null
-        ]
+        "2017",
+        []
       ]
     ],
     [
       [
-        [
-          "Gwynt y M\u00f4r"
-        ],
+        "Gwynt y M\u00f4r",
         [
           "/wiki/Gwynt_y_M\u00f4r"
         ]
       ],
       [
-        [
-          "576"
-        ],
-        [
-          null
-        ]
+        "576",
+        []
       ],
       [
-        [
-          "United Kingdom"
-        ],
+        "United Kingdom",
         [
           "/wiki/United_Kingdom"
         ]
       ],
       [
-        [
-          "53\u00b027\u203200\u2033N 03\u00b035\u203200\u2033W / 53.45000\u00b0N 3.58333\u00b0W / 53.45000 ; -3.58333 ( Gwynt y M\u00f4r )"
-        ],
-        [
-          null
-        ]
+        "53\u00b027\u203200\u2033N 03\u00b035\u203200\u2033W / 53.45000\u00b0N 3.58333\u00b0W / 53.45000 ; -3.58333 ( Gwynt y M\u00f4r )",
+        []
       ],
       [
-        [
-          "160 \u00d7 Siemens SWT-3.6-107"
-        ],
-        [
-          null
-        ]
+        "160 \u00d7 Siemens SWT-3.6-107",
+        []
       ],
       [
-        [
-          "2015"
-        ],
-        [
-          null
-        ]
+        "2015",
+        []
       ]
     ],
     [
       [
-        [
-          "Race Bank"
-        ],
+        "Race Bank",
         [
           "/wiki/Race_Bank_wind_farm"
         ]
       ],
       [
-        [
-          "573"
-        ],
-        [
-          null
-        ]
+        "573",
+        []
       ],
       [
-        [
-          "United Kingdom"
-        ],
+        "United Kingdom",
         [
           "/wiki/United_Kingdom"
         ]
       ],
       [
-        [
-          "53\u00b016\u2032N 0\u00b050\u2032E / 53.267\u00b0N 0.833\u00b0E / 53.267 ; 0.833 ( Race Bank )"
-        ],
-        [
-          null
-        ]
+        "53\u00b016\u2032N 0\u00b050\u2032E / 53.267\u00b0N 0.833\u00b0E / 53.267 ; 0.833 ( Race Bank )",
+        []
       ],
       [
-        [
-          "91 x Siemens SWT-6.0-154"
-        ],
-        [
-          null
-        ]
+        "91 x Siemens SWT-6.0-154",
+        []
       ],
       [
-        [
-          "2018"
-        ],
-        [
-          null
-        ]
+        "2018",
+        []
       ]
     ],
     [
       [
-        [
-          "Greater Gabbard"
-        ],
+        "Greater Gabbard",
         [
           "/wiki/Greater_Gabbard_wind_farm"
         ]
       ],
       [
-        [
-          "504"
-        ],
-        [
-          null
-        ]
+        "504",
+        []
       ],
       [
-        [
-          "United Kingdom"
-        ],
+        "United Kingdom",
         [
           "/wiki/United_Kingdom"
         ]
       ],
       [
-        [
-          "51\u00b052\u203248\u2033N 1\u00b056\u203224\u2033E / 51.88000\u00b0N 1.94000\u00b0E / 51.88000 ; 1.94000 ( Greater Gabbard wind farm )"
-        ],
-        [
-          null
-        ]
+        "51\u00b052\u203248\u2033N 1\u00b056\u203224\u2033E / 51.88000\u00b0N 1.94000\u00b0E / 51.88000 ; 1.94000 ( Greater Gabbard wind farm )",
+        []
       ],
       [
-        [
-          "140 \u00d7 Siemens SWT-3.6-107"
-        ],
-        [
-          null
-        ]
+        "140 \u00d7 Siemens SWT-3.6-107",
+        []
       ],
       [
-        [
-          "2012"
-        ],
-        [
-          null
-        ]
+        "2012",
+        []
       ]
     ],
     [
       [
-        [
-          "Dudgeon"
-        ],
+        "Dudgeon",
         [
           "/wiki/Dudgeon_Offshore_Wind_Farm"
         ]
       ],
       [
-        [
-          "402"
-        ],
-        [
-          null
-        ]
+        "402",
+        []
       ],
       [
-        [
-          "United Kingdom"
-        ],
+        "United Kingdom",
         [
           "/wiki/United_Kingdom"
         ]
       ],
       [
-        [
-          "53\u00b014\u203256\u2033N 1\u00b023\u203224\u2033E / 53.24889\u00b0N 1.39000\u00b0E / 53.24889 ; 1.39000 ( Dudgeon Offshore Wind Farm )"
-        ],
-        [
-          null
-        ]
+        "53\u00b014\u203256\u2033N 1\u00b023\u203224\u2033E / 53.24889\u00b0N 1.39000\u00b0E / 53.24889 ; 1.39000 ( Dudgeon Offshore Wind Farm )",
+        []
       ],
       [
-        [
-          "67 \u00d7 Siemens 6 MW"
-        ],
-        [
-          null
-        ]
+        "67 \u00d7 Siemens 6 MW",
+        []
       ],
       [
-        [
-          "2017"
-        ],
-        [
-          null
-        ]
+        "2017",
+        []
       ]
     ],
     [
       [
-        [
-          "Veja Mate"
-        ],
+        "Veja Mate",
         [
           "/wiki/Veja_Mate_Offshore_Wind_Farm"
         ]
       ],
       [
-        [
-          "402"
-        ],
-        [
-          null
-        ]
+        "402",
+        []
       ],
       [
-        [
-          "Germany"
-        ],
+        "Germany",
         [
           "/wiki/Germany"
         ]
       ],
       [
-        [
-          "54\u00b019\u20321\u2033N 5\u00b052\u203215\u2033E / 54.31694\u00b0N 5.87083\u00b0E / 54.31694 ; 5.87083 ( Veja Mate Wind Farm )"
-        ],
-        [
-          null
-        ]
+        "54\u00b019\u20321\u2033N 5\u00b052\u203215\u2033E / 54.31694\u00b0N 5.87083\u00b0E / 54.31694 ; 5.87083 ( Veja Mate Wind Farm )",
+        []
       ],
       [
-        [
-          "67 \u00d7 Siemens SWT-6.0-154"
-        ],
-        [
-          null
-        ]
+        "67 \u00d7 Siemens SWT-6.0-154",
+        []
       ],
       [
-        [
-          "2017"
-        ],
-        [
-          null
-        ]
+        "2017",
+        []
       ]
     ],
     [
       [
-        [
-          "Anholt"
-        ],
+        "Anholt",
         [
           "/wiki/Anholt_Offshore_Wind_Farm"
         ]
       ],
       [
-        [
-          "400"
-        ],
-        [
-          null
-        ]
+        "400",
+        []
       ],
       [
-        [
-          "Denmark"
-        ],
+        "Denmark",
         [
           "/wiki/Denmark"
         ]
       ],
       [
-        [
-          "56\u00b036\u203200\u2033N 11\u00b012\u203236\u2033E / 56.60000\u00b0N 11.21000\u00b0E / 56.60000 ; 11.21000 ( Anholt Offshore Wind Farm )"
-        ],
-        [
-          null
-        ]
+        "56\u00b036\u203200\u2033N 11\u00b012\u203236\u2033E / 56.60000\u00b0N 11.21000\u00b0E / 56.60000 ; 11.21000 ( Anholt Offshore Wind Farm )",
+        []
       ],
       [
-        [
-          "111 \u00d7 Siemens SWT-3.6-120"
-        ],
-        [
-          null
-        ]
+        "111 \u00d7 Siemens SWT-3.6-120",
+        []
       ],
       [
-        [
-          "2013"
-        ],
-        [
-          null
-        ]
+        "2013",
+        []
       ]
     ],
     [
       [
-        [
-          "BARD Offshore 1"
-        ],
+        "BARD Offshore 1",
         [
           "/wiki/BARD_Offshore_1"
         ]
       ],
       [
-        [
-          "400"
-        ],
-        [
-          null
-        ]
+        "400",
+        []
       ],
       [
-        [
-          "Germany"
-        ],
+        "Germany",
         [
           "/wiki/Germany"
         ]
       ],
       [
-        [
-          "54\u00b022\u20320\u2033N 5\u00b059\u20320\u2033E / 54.36667\u00b0N 5.98333\u00b0E / 54.36667 ; 5.98333 ( BARD Offshore 1 )"
-        ],
-        [
-          null
-        ]
+        "54\u00b022\u20320\u2033N 5\u00b059\u20320\u2033E / 54.36667\u00b0N 5.98333\u00b0E / 54.36667 ; 5.98333 ( BARD Offshore 1 )",
+        []
       ],
       [
-        [
-          "80 \u00d7 BARD 5.0MW"
-        ],
-        [
-          null
-        ]
+        "80 \u00d7 BARD 5.0MW",
+        []
       ],
       [
-        [
-          "2013"
-        ],
-        [
-          null
-        ]
+        "2013",
+        []
       ]
     ],
     [
       [
-        [
-          "Global Tech I",
-          "de"
-        ],
-        [
-          null,
-          null
-        ]
+        "Global Tech I [ de ]",
+        []
       ],
       [
-        [
-          "400"
-        ],
-        [
-          null
-        ]
+        "400",
+        []
       ],
       [
-        [
-          "Germany"
-        ],
+        "Germany",
         [
           "/wiki/Germany"
         ]
       ],
       [
-        [
-          "54\u00b030\u203200\u2033N 6\u00b021\u203230\u2033E / 54.50000\u00b0N 6.35833\u00b0E / 54.50000 ; 6.35833 ( Global Tech I )"
-        ],
-        [
-          null
-        ]
+        "54\u00b030\u203200\u2033N 6\u00b021\u203230\u2033E / 54.50000\u00b0N 6.35833\u00b0E / 54.50000 ; 6.35833 ( Global Tech I )",
+        []
       ],
       [
-        [
-          "Areva Multibrid"
-        ],
+        "80 \u00d7 Areva Multibrid M5000 5.0MW",
         [
           "/wiki/Areva_Wind"
         ]
       ],
       [
-        [
-          "2015"
-        ],
-        [
-          null
-        ]
+        "2015",
+        []
       ]
     ],
     [
       [
-        [
-          "West of Duddon Sands"
-        ],
+        "West of Duddon Sands",
         [
           "/wiki/West_of_Duddon_Sands_Wind_Farm"
         ]
       ],
       [
-        [
-          "389"
-        ],
-        [
-          null
-        ]
+        "389",
+        []
       ],
       [
-        [
-          "United Kingdom"
-        ],
+        "United Kingdom",
         [
           "/wiki/United_Kingdom"
         ]
       ],
       [
-        [
-          "53\u00b059\u203202\u2033N 3\u00b027\u203250\u2033W / 53.98389\u00b0N 3.46389\u00b0W / 53.98389 ; -3.46389 ( West of Duddon Sands )"
-        ],
-        [
-          null
-        ]
+        "53\u00b059\u203202\u2033N 3\u00b027\u203250\u2033W / 53.98389\u00b0N 3.46389\u00b0W / 53.98389 ; -3.46389 ( West of Duddon Sands )",
+        []
       ],
       [
-        [
-          "108 \u00d7 Siemens SWT-3.6-120"
-        ],
-        [
-          null
-        ]
+        "108 \u00d7 Siemens SWT-3.6-120",
+        []
       ],
       [
-        [
-          "2014"
-        ],
-        [
-          null
-        ]
+        "2014",
+        []
       ]
     ],
     [
       [
-        [
-          "Walney ( phases 1 & 2 )"
-        ],
+        "Walney ( phases 1 & 2 )",
         [
           "/wiki/Walney_Wind_Farm"
         ]
       ],
       [
-        [
-          "367"
-        ],
-        [
-          null
-        ]
+        "367",
+        []
       ],
       [
-        [
-          "United Kingdom"
-        ],
+        "United Kingdom",
         [
           "/wiki/United_Kingdom"
         ]
       ],
       [
-        [
-          "54\u00b002\u203238\u2033N 3\u00b031\u203219\u2033W / 54.04389\u00b0N 3.52194\u00b0W / 54.04389 ; -3.52194 ( Walney Wind Farm )"
-        ],
-        [
-          null
-        ]
+        "54\u00b002\u203238\u2033N 3\u00b031\u203219\u2033W / 54.04389\u00b0N 3.52194\u00b0W / 54.04389 ; -3.52194 ( Walney Wind Farm )",
+        []
       ],
       [
-        [
-          "102 \u00d7 Siemens SWT-3.6-107"
-        ],
-        [
-          null
-        ]
+        "102 \u00d7 Siemens SWT-3.6-107",
+        []
       ],
       [
-        [
-          "2011 ( phase 1 ) 2012 ( phase 2 )"
-        ],
-        [
-          null
-        ]
+        "2011 ( phase 1 ) 2012 ( phase 2 )",
+        []
       ]
     ],
     [
       [
-        [
-          "Wikinger"
-        ],
-        [
-          null
-        ]
+        "Wikinger",
+        []
       ],
       [
-        [
-          "350"
-        ],
-        [
-          null
-        ]
+        "350",
+        []
       ],
       [
-        [
-          "Germany"
-        ],
+        "Germany",
         [
           "/wiki/Germany"
         ]
       ],
       [
-        [
-          "54\u00b050\u20322\u2033N 14\u00b04\u20325\u2033E / 54.83389\u00b0N 14.06806\u00b0E / 54.83389 ; 14.06806 ( Wikinger Wind Farm )"
-        ],
-        [
-          null
-        ]
+        "54\u00b050\u20322\u2033N 14\u00b04\u20325\u2033E / 54.83389\u00b0N 14.06806\u00b0E / 54.83389 ; 14.06806 ( Wikinger Wind Farm )",
+        []
       ],
       [
-        [
-          "70 x Adwen AD 5-135"
-        ],
-        [
-          null
-        ]
+        "70 x Adwen AD 5-135",
+        []
       ],
       [
-        [
-          "2018"
-        ],
-        [
-          null
-        ]
+        "2018",
+        []
       ]
     ],
     [
       [
-        [
-          "Nordsee One"
-        ],
+        "Nordsee One",
         [
           "/wiki/Nordsee_One_offshore_wind_farm"
         ]
       ],
       [
-        [
-          "332"
-        ],
-        [
-          null
-        ]
+        "332",
+        []
       ],
       [
-        [
-          "Germany"
-        ],
+        "Germany",
         [
           "/wiki/Germany"
         ]
       ],
       [
-        [
-          "53\u00b058\u20320\u2033N 06\u00b048\u203200\u2033E / 53.96667\u00b0N 6.80000\u00b0E / 53.96667 ; 6.80000 ( Nordsee One Wind Farm )"
-        ],
-        [
-          null
-        ]
+        "53\u00b058\u20320\u2033N 06\u00b048\u203200\u2033E / 53.96667\u00b0N 6.80000\u00b0E / 53.96667 ; 6.80000 ( Nordsee One Wind Farm )",
+        []
       ],
       [
-        [
-          "54 \u00d7 Senvion 6.2M126"
-        ],
-        [
-          null
-        ]
+        "54 \u00d7 Senvion 6.2M126",
+        []
       ],
       [
-        [
-          "2017"
-        ],
-        [
-          null
-        ]
+        "2017",
+        []
       ]
     ],
     [
       [
-        [
-          "Thorntonbank ( phases 1-3 )"
-        ],
+        "Thorntonbank ( phases 1-3 )",
         [
           "/wiki/Thorntonbank_Wind_Farm"
         ]
       ],
       [
-        [
-          "325"
-        ],
-        [
-          null
-        ]
+        "325",
+        []
       ],
       [
-        [
-          "Belgium"
-        ],
+        "Belgium",
         [
           "/wiki/Belgium"
         ]
       ],
       [
-        [
-          "51\u00b033\u203200\u2033N 2\u00b056\u203200\u2033E / 51.55000\u00b0N 2.93333\u00b0E / 51.55000 ; 2.93333 ( Thorntonbank phases 1 & 2 & 3 )"
-        ],
-        [
-          null
-        ]
+        "51\u00b033\u203200\u2033N 2\u00b056\u203200\u2033E / 51.55000\u00b0N 2.93333\u00b0E / 51.55000 ; 2.93333 ( Thorntonbank phases 1 & 2 & 3 )",
+        []
       ],
       [
-        [
-          "Senvion"
-        ],
+        "6 \u00d7 Senvion 5MW 48 \u00d7 Senvion 6.15MW",
         [
           "/wiki/Senvion"
         ]
       ],
       [
-        [
-          "2009 ( phase 1 ) 2012 ( phase 2 ) 2013 ( phase 3 )"
-        ],
-        [
-          null
-        ]
+        "2009 ( phase 1 ) 2012 ( phase 2 ) 2013 ( phase 3 )",
+        []
       ]
     ],
     [
       [
-        [
-          "Sheringham Shoal"
-        ],
+        "Sheringham Shoal",
         [
           "/wiki/Sheringham_Shoal_Offshore_Wind_Farm"
         ]
       ],
       [
-        [
-          "315"
-        ],
-        [
-          null
-        ]
+        "315",
+        []
       ],
       [
-        [
-          "United Kingdom"
-        ],
+        "United Kingdom",
         [
           "/wiki/United_Kingdom"
         ]
       ],
       [
-        [
-          "53\u00b07\u20320\u2033N 1\u00b08\u20320\u2033E / 53.11667\u00b0N 1.13333\u00b0E / 53.11667 ; 1.13333 ( Sheringham Shoal Offshore Wind Farm )"
-        ],
-        [
-          null
-        ]
+        "53\u00b07\u20320\u2033N 1\u00b08\u20320\u2033E / 53.11667\u00b0N 1.13333\u00b0E / 53.11667 ; 1.13333 ( Sheringham Shoal Offshore Wind Farm )",
+        []
       ],
       [
-        [
-          "88 \u00d7 Siemens SWT-3.6-107"
-        ],
-        [
-          null
-        ]
+        "88 \u00d7 Siemens SWT-3.6-107",
+        []
       ],
       [
-        [
-          "2012"
-        ],
-        [
-          null
-        ]
+        "2012",
+        []
       ]
     ],
     [
       [
-        [
-          "Borkum Riffgrund 1",
-          "de"
-        ],
-        [
-          null,
-          null
-        ]
+        "Borkum Riffgrund 1 [ de ]",
+        []
       ],
       [
-        [
-          "312"
-        ],
-        [
-          null
-        ]
+        "312",
+        []
       ],
       [
-        [
-          "Germany"
-        ],
+        "Germany",
         [
           "/wiki/Germany"
         ]
       ],
       [
-        [
-          "53\u00b058\u20320\u2033N 06\u00b033\u203200\u2033E / 53.96667\u00b0N 6.55000\u00b0E / 53.96667 ; 6.55000 ( Borkum Riffgrund 1 Wind Farm )"
-        ],
-        [
-          null
-        ]
+        "53\u00b058\u20320\u2033N 06\u00b033\u203200\u2033E / 53.96667\u00b0N 6.55000\u00b0E / 53.96667 ; 6.55000 ( Borkum Riffgrund 1 Wind Farm )",
+        []
       ],
       [
-        [
-          "78 \u00d7 Siemens SWT-4.0-120"
-        ],
-        [
-          null
-        ]
+        "78 \u00d7 Siemens SWT-4.0-120",
+        []
       ],
       [
-        [
-          "2015"
-        ],
-        [
-          null
-        ]
+        "2015",
+        []
       ]
     ]
   ],

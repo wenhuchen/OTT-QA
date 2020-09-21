@@ -3,19 +3,11 @@
   "title": "Solar power in Germany",
   "header": [
     [
-      [
-        "Name & Description"
-      ],
-      [
-        null
-      ]
+      "Name & Description",
+      []
     ],
     [
-      [
-        "Capacity",
-        "MW",
-        "p"
-      ],
+      "Capacity in MW p",
       [
         "/wiki/Nameplate_capacity",
         "/wiki/Megawatt",
@@ -23,541 +15,322 @@
       ]
     ],
     [
-      [
-        "Location"
-      ],
-      [
-        null
-      ]
+      "Location",
+      []
     ],
     [
-      [
-        "MWh"
-      ],
+      "Annual yield in MWh",
       [
         "/wiki/Megawatt-hour"
       ]
     ],
     [
-      [
-        "Capacity factor"
-      ],
-      [
-        null
-      ]
+      "Capacity factor",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Erlasee Solar Park",
-          "SOLON"
-        ],
+        "Erlasee Solar Park , 1408 SOLON",
         [
           "/wiki/Erlasee_Solar_Park",
           "/wiki/Solon_SE"
         ]
       ],
       [
-        [
-          "12"
-        ],
-        [
-          null
-        ]
+        "12",
+        []
       ],
       [
-        [
-          "Arnstein"
-        ],
+        "Arnstein",
         [
           "/wiki/Arnstein"
         ]
       ],
       [
-        [
-          "14,000"
-        ],
-        [
-          null
-        ]
+        "14,000",
+        []
       ],
       [
-        [
-          "0.13"
-        ],
-        [
-          null
-        ]
+        "0.13",
+        []
       ]
     ],
     [
       [
-        [
-          "Gottelborn Solar Park"
-        ],
+        "Gottelborn Solar Park",
         [
           "/wiki/Gottelborn_Solar_Park"
         ]
       ],
       [
-        [
-          "8.4"
-        ],
-        [
-          null
-        ]
+        "8.4",
+        []
       ],
       [
-        [
-          "G\u00f6ttelborn"
-        ],
-        [
-          null
-        ]
+        "G\u00f6ttelborn",
+        []
       ],
       [
-        [
-          "n.a"
-        ],
-        [
-          null
-        ]
+        "n.a",
+        []
       ],
       [
-        [
-          "n.a"
-        ],
-        [
-          null
-        ]
+        "n.a",
+        []
       ]
     ],
     [
       [
-        [
-          "Bavaria Solarpark"
-        ],
+        "Bavaria Solarpark , 57,600 solar modules",
         [
           "/wiki/Bavaria_Solarpark"
         ]
       ],
       [
-        [
-          "6.3"
-        ],
-        [
-          null
-        ]
+        "6.3",
+        []
       ],
       [
-        [
-          "M\u00fchlhausen"
-        ],
+        "M\u00fchlhausen",
         [
           "/wiki/M\u00fchlhausen"
         ]
       ],
       [
-        [
-          "6,750"
-        ],
-        [
-          null
-        ]
+        "6,750",
+        []
       ],
       [
-        [
-          "0.12"
-        ],
-        [
-          null
-        ]
+        "0.12",
+        []
       ]
     ],
     [
       [
-        [
-          "Rote Jahne Solar Park",
-          "First Solar"
-        ],
+        "Rote Jahne Solar Park , 92,880 thin-film modules , First Solar , FS-260 , FS-262 and FS-265",
         [
           "/wiki/Rote_Jahne_Solar_Park",
           "/wiki/First_Solar"
         ]
       ],
       [
-        [
-          "6.0"
-        ],
-        [
-          null
-        ]
+        "6.0",
+        []
       ],
       [
-        [
-          "Dobersch\u00fctz"
-        ],
+        "Dobersch\u00fctz",
         [
           "/wiki/Dobersch\u00fctz"
         ]
       ],
       [
-        [
-          "5,700"
-        ],
-        [
-          null
-        ]
+        "5,700",
+        []
       ],
       [
-        [
-          "0.11"
-        ],
-        [
-          null
-        ]
+        "0.11",
+        []
       ]
     ],
     [
       [
-        [
-          "BP Solar"
-        ],
+        "B\u00fcrstadt Solar Farm , 30,000 BP Solar modules",
         [
           "/wiki/BP_Solar"
         ]
       ],
       [
-        [
-          "5.0"
-        ],
-        [
-          null
-        ]
+        "5.0",
+        []
       ],
       [
-        [
-          "B\u00fcrstadt"
-        ],
+        "B\u00fcrstadt",
         [
           "/wiki/B\u00fcrstadt"
         ]
       ],
       [
-        [
-          "4,200"
-        ],
-        [
-          null
-        ]
+        "4,200",
+        []
       ],
       [
-        [
-          "0.10"
-        ],
-        [
-          null
-        ]
+        "0.10",
+        []
       ]
     ],
     [
       [
-        [
-          "Espenhain , 33,500 Shell Solar modules"
-        ],
-        [
-          null
-        ]
+        "Espenhain , 33,500 Shell Solar modules",
+        []
       ],
       [
-        [
-          "5.0"
-        ],
-        [
-          null
-        ]
+        "5.0",
+        []
       ],
       [
-        [
-          "Espenhain"
-        ],
+        "Espenhain",
         [
           "/wiki/Espenhain"
         ]
       ],
       [
-        [
-          "5,000"
-        ],
-        [
-          null
-        ]
+        "5,000",
+        []
       ],
       [
-        [
-          "0.11"
-        ],
-        [
-          null
-        ]
+        "0.11",
+        []
       ]
     ],
     [
       [
-        [
-          "Geiseltalsee Solarpark"
-        ],
+        "Geiseltalsee Solarpark , 24,864 BP solar modules",
         [
           "/wiki/Geiseltalsee_Solarpark"
         ]
       ],
       [
-        [
-          "4.0"
-        ],
-        [
-          null
-        ]
+        "4.0",
+        []
       ],
       [
-        [
-          "Merseburg"
-        ],
+        "Merseburg",
         [
           "/wiki/Merseburg"
         ]
       ],
       [
-        [
-          "3,400"
-        ],
-        [
-          null
-        ]
+        "3,400",
+        []
       ],
       [
-        [
-          "0.10"
-        ],
-        [
-          null
-        ]
+        "0.10",
+        []
       ]
     ],
     [
       [
-        [
-          "Hemau Solar Farm , 32,740 solar modules"
-        ],
-        [
-          null
-        ]
+        "Hemau Solar Farm , 32,740 solar modules",
+        []
       ],
       [
-        [
-          "4.0"
-        ],
-        [
-          null
-        ]
+        "4.0",
+        []
       ],
       [
-        [
-          "Hemau"
-        ],
+        "Hemau",
         [
           "/wiki/Hemau"
         ]
       ],
       [
-        [
-          "3,900"
-        ],
-        [
-          null
-        ]
+        "3,900",
+        []
       ],
       [
-        [
-          "0.11"
-        ],
-        [
-          null
-        ]
+        "0.11",
+        []
       ]
     ],
     [
       [
-        [
-          "Sharp",
-          "Kyocera"
-        ],
+        "Solara , Sharp and Kyocera solar modules",
         [
           "/wiki/Sharp_Corporation",
           "/wiki/Kyocera"
         ]
       ],
       [
-        [
-          "3.3"
-        ],
-        [
-          null
-        ]
+        "3.3",
+        []
       ],
       [
-        [
-          "Dingolfing"
-        ],
+        "Dingolfing",
         [
           "/wiki/Dingolfing"
         ]
       ],
       [
-        [
-          "3,050"
-        ],
-        [
-          null
-        ]
+        "3,050",
+        []
       ],
       [
-        [
-          "0.11"
-        ],
-        [
-          null
-        ]
+        "0.11",
+        []
       ]
     ],
     [
       [
-        [
-          "Solarpark Herten",
-          "Astronergy"
-        ],
-        [
-          null,
-          null
-        ]
+        "Solarpark Herten , 11.319 Modules from Astronergy",
+        []
       ],
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "Rheinfelden"
-        ],
+        "Rheinfelden",
         [
           "/wiki/Rheinfelden"
         ]
       ],
       [
-        [
-          "3,000"
-        ],
-        [
-          null
-        ]
+        "3,000",
+        []
       ],
       [
-        [
-          "0.11"
-        ],
-        [
-          null
-        ]
+        "0.11",
+        []
       ]
     ],
     [
       [
-        [
-          "Bavaria Solarpark"
-        ],
+        "Bavaria Solarpark , Sharp solar modules",
         [
           "/wiki/Bavaria_Solarpark"
         ]
       ],
       [
-        [
-          "1.9"
-        ],
-        [
-          null
-        ]
+        "1.9",
+        []
       ],
       [
-        [
-          "G\u00fcnching"
-        ],
-        [
-          null
-        ]
+        "G\u00fcnching",
+        []
       ],
       [
-        [
-          "n.a"
-        ],
-        [
-          null
-        ]
+        "n.a",
+        []
       ],
       [
-        [
-          "n.a"
-        ],
-        [
-          null
-        ]
+        "n.a",
+        []
       ]
     ],
     [
       [
-        [
-          "Bavaria Solarpark"
-        ],
+        "Bavaria Solarpark , Sharp solar modules",
         [
           "/wiki/Bavaria_Solarpark"
         ]
       ],
       [
-        [
-          "1.9"
-        ],
-        [
-          null
-        ]
+        "1.9",
+        []
       ],
       [
-        [
-          "Minihof"
-        ],
-        [
-          null
-        ]
+        "Minihof",
+        []
       ],
       [
-        [
-          "n.a"
-        ],
-        [
-          null
-        ]
+        "n.a",
+        []
       ],
       [
-        [
-          "n.a"
-        ],
-        [
-          null
-        ]
+        "n.a",
+        []
       ]
     ]
   ],

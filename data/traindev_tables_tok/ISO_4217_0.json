@@ -3,84 +3,48 @@
   "title": "ISO 4217",
   "header": [
     [
-      [
-        "Code"
-      ],
-      [
-        null
-      ]
+      "Code",
+      []
     ],
     [
-      [
-        "Num"
-      ],
-      [
-        null
-      ]
+      "Num",
+      []
     ],
     [
-      [
-        "E"
-      ],
-      [
-        null
-      ]
+      "E",
+      []
     ],
     [
-      [
-        "Currency"
-      ],
-      [
-        null
-      ]
+      "Currency",
+      []
     ],
     [
-      [
-        "Locations using this currency"
-      ],
-      [
-        null
-      ]
+      "Locations using this currency",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "AED"
-        ],
-        [
-          null
-        ]
+        "AED",
+        []
       ],
       [
-        [
-          "784"
-        ],
-        [
-          null
-        ]
+        "784",
+        []
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "United Arab Emirates dirham"
-        ],
+        "United Arab Emirates dirham",
         [
           "/wiki/United_Arab_Emirates_dirham"
         ]
       ],
       [
-        [
-          "United Arab Emirates"
-        ],
+        "United Arab Emirates",
         [
           "/wiki/United_Arab_Emirates"
         ]
@@ -88,41 +52,25 @@
     ],
     [
       [
-        [
-          "AFN"
-        ],
-        [
-          null
-        ]
+        "AFN",
+        []
       ],
       [
-        [
-          "971"
-        ],
-        [
-          null
-        ]
+        "971",
+        []
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "Afghan afghani"
-        ],
+        "Afghan afghani",
         [
           "/wiki/Afghan_afghani"
         ]
       ],
       [
-        [
-          "Afghanistan"
-        ],
+        "Afghanistan",
         [
           "/wiki/Afghanistan"
         ]
@@ -130,41 +78,25 @@
     ],
     [
       [
-        [
-          "ALL"
-        ],
-        [
-          null
-        ]
+        "ALL",
+        []
       ],
       [
-        [
-          "008"
-        ],
-        [
-          null
-        ]
+        "008",
+        []
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "Albanian lek"
-        ],
+        "Albanian lek",
         [
           "/wiki/Albanian_lek"
         ]
       ],
       [
-        [
-          "Albania"
-        ],
+        "Albania",
         [
           "/wiki/Albania"
         ]
@@ -172,41 +104,25 @@
     ],
     [
       [
-        [
-          "AMD"
-        ],
-        [
-          null
-        ]
+        "AMD",
+        []
       ],
       [
-        [
-          "051"
-        ],
-        [
-          null
-        ]
+        "051",
+        []
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "Armenian dram"
-        ],
+        "Armenian dram",
         [
           "/wiki/Armenian_dram"
         ]
       ],
       [
-        [
-          "Armenia"
-        ],
+        "Armenia",
         [
           "/wiki/Armenia"
         ]
@@ -214,42 +130,25 @@
     ],
     [
       [
-        [
-          "ANG"
-        ],
-        [
-          null
-        ]
+        "ANG",
+        []
       ],
       [
-        [
-          "532"
-        ],
-        [
-          null
-        ]
+        "532",
+        []
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "Netherlands Antillean guilder"
-        ],
+        "Netherlands Antillean guilder",
         [
           "/wiki/Netherlands_Antillean_guilder"
         ]
       ],
       [
-        [
-          "Cura\u00e7ao",
-          "Sint Maarten"
-        ],
+        "Cura\u00e7ao ( CW ) , Sint Maarten ( SX )",
         [
           "/wiki/Cura\u00e7ao",
           "/wiki/Sint_Maarten"
@@ -258,41 +157,25 @@
     ],
     [
       [
-        [
-          "AOA"
-        ],
-        [
-          null
-        ]
+        "AOA",
+        []
       ],
       [
-        [
-          "973"
-        ],
-        [
-          null
-        ]
+        "973",
+        []
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "Angolan kwanza"
-        ],
+        "Angolan kwanza",
         [
           "/wiki/Angolan_kwanza"
         ]
       ],
       [
-        [
-          "Angola"
-        ],
+        "Angola",
         [
           "/wiki/Angola"
         ]
@@ -300,41 +183,25 @@
     ],
     [
       [
-        [
-          "ARS"
-        ],
-        [
-          null
-        ]
+        "ARS",
+        []
       ],
       [
-        [
-          "032"
-        ],
-        [
-          null
-        ]
+        "032",
+        []
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "Argentine peso"
-        ],
+        "Argentine peso",
         [
           "/wiki/Argentine_peso"
         ]
       ],
       [
-        [
-          "Argentina"
-        ],
+        "Argentina",
         [
           "/wiki/Argentina"
         ]
@@ -342,48 +209,25 @@
     ],
     [
       [
-        [
-          "AUD"
-        ],
-        [
-          null
-        ]
+        "AUD",
+        []
       ],
       [
-        [
-          "036"
-        ],
-        [
-          null
-        ]
+        "036",
+        []
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "Australian dollar"
-        ],
+        "Australian dollar",
         [
           "/wiki/Australian_dollar"
         ]
       ],
       [
-        [
-          "Australia",
-          "Christmas Island",
-          "Cocos ( Keeling ) Islands",
-          "Heard Island and McDonald Islands",
-          "Kiribati",
-          "Nauru",
-          "Norfolk Island",
-          "Tuvalu"
-        ],
+        "Australia , Christmas Island ( CX ) , Cocos ( Keeling ) Islands ( CC ) , Heard Island and McDonald Islands ( HM ) , Kiribati ( KI ) , Nauru ( NR ) , Norfolk Island ( NF ) , Tuvalu ( TV )",
         [
           "/wiki/Australia",
           "/wiki/Christmas_Island",
@@ -398,41 +242,25 @@
     ],
     [
       [
-        [
-          "AWG"
-        ],
-        [
-          null
-        ]
+        "AWG",
+        []
       ],
       [
-        [
-          "533"
-        ],
-        [
-          null
-        ]
+        "533",
+        []
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "Aruban florin"
-        ],
+        "Aruban florin",
         [
           "/wiki/Aruban_florin"
         ]
       ],
       [
-        [
-          "Aruba"
-        ],
+        "Aruba",
         [
           "/wiki/Aruba"
         ]
@@ -440,41 +268,25 @@
     ],
     [
       [
-        [
-          "AZN"
-        ],
-        [
-          null
-        ]
+        "AZN",
+        []
       ],
       [
-        [
-          "944"
-        ],
-        [
-          null
-        ]
+        "944",
+        []
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "Azerbaijani manat"
-        ],
+        "Azerbaijani manat",
         [
           "/wiki/Azerbaijani_manat"
         ]
       ],
       [
-        [
-          "Azerbaijan"
-        ],
+        "Azerbaijan",
         [
           "/wiki/Azerbaijan"
         ]
@@ -482,41 +294,25 @@
     ],
     [
       [
-        [
-          "BAM"
-        ],
-        [
-          null
-        ]
+        "BAM",
+        []
       ],
       [
-        [
-          "977"
-        ],
-        [
-          null
-        ]
+        "977",
+        []
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "Bosnia and Herzegovina convertible mark"
-        ],
+        "Bosnia and Herzegovina convertible mark",
         [
           "/wiki/Bosnia_and_Herzegovina_convertible_mark"
         ]
       ],
       [
-        [
-          "Bosnia and Herzegovina"
-        ],
+        "Bosnia and Herzegovina",
         [
           "/wiki/Bosnia_and_Herzegovina"
         ]
@@ -524,41 +320,25 @@
     ],
     [
       [
-        [
-          "BBD"
-        ],
-        [
-          null
-        ]
+        "BBD",
+        []
       ],
       [
-        [
-          "052"
-        ],
-        [
-          null
-        ]
+        "052",
+        []
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "Barbados dollar"
-        ],
+        "Barbados dollar",
         [
           "/wiki/Barbados_dollar"
         ]
       ],
       [
-        [
-          "Barbados"
-        ],
+        "Barbados",
         [
           "/wiki/Barbados"
         ]
@@ -566,41 +346,25 @@
     ],
     [
       [
-        [
-          "BDT"
-        ],
-        [
-          null
-        ]
+        "BDT",
+        []
       ],
       [
-        [
-          "050"
-        ],
-        [
-          null
-        ]
+        "050",
+        []
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "Bangladeshi taka"
-        ],
+        "Bangladeshi taka",
         [
           "/wiki/Bangladeshi_taka"
         ]
       ],
       [
-        [
-          "Bangladesh"
-        ],
+        "Bangladesh",
         [
           "/wiki/Bangladesh"
         ]
@@ -608,41 +372,25 @@
     ],
     [
       [
-        [
-          "BGN"
-        ],
-        [
-          null
-        ]
+        "BGN",
+        []
       ],
       [
-        [
-          "975"
-        ],
-        [
-          null
-        ]
+        "975",
+        []
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "Bulgarian lev"
-        ],
+        "Bulgarian lev",
         [
           "/wiki/Bulgarian_lev"
         ]
       ],
       [
-        [
-          "Bulgaria"
-        ],
+        "Bulgaria",
         [
           "/wiki/Bulgaria"
         ]
@@ -650,41 +398,25 @@
     ],
     [
       [
-        [
-          "BHD"
-        ],
-        [
-          null
-        ]
+        "BHD",
+        []
       ],
       [
-        [
-          "048"
-        ],
-        [
-          null
-        ]
+        "048",
+        []
       ],
       [
-        [
-          "3"
-        ],
-        [
-          null
-        ]
+        "3",
+        []
       ],
       [
-        [
-          "Bahraini dinar"
-        ],
+        "Bahraini dinar",
         [
           "/wiki/Bahraini_dinar"
         ]
       ],
       [
-        [
-          "Bahrain"
-        ],
+        "Bahrain",
         [
           "/wiki/Bahrain"
         ]
@@ -692,41 +424,25 @@
     ],
     [
       [
-        [
-          "BIF"
-        ],
-        [
-          null
-        ]
+        "BIF",
+        []
       ],
       [
-        [
-          "108"
-        ],
-        [
-          null
-        ]
+        "108",
+        []
       ],
       [
-        [
-          "0"
-        ],
-        [
-          null
-        ]
+        "0",
+        []
       ],
       [
-        [
-          "Burundian franc"
-        ],
+        "Burundian franc",
         [
           "/wiki/Burundian_franc"
         ]
       ],
       [
-        [
-          "Burundi"
-        ],
+        "Burundi",
         [
           "/wiki/Burundi"
         ]
@@ -734,41 +450,25 @@
     ],
     [
       [
-        [
-          "BMD"
-        ],
-        [
-          null
-        ]
+        "BMD",
+        []
       ],
       [
-        [
-          "060"
-        ],
-        [
-          null
-        ]
+        "060",
+        []
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "Bermudian dollar"
-        ],
+        "Bermudian dollar",
         [
           "/wiki/Bermudian_dollar"
         ]
       ],
       [
-        [
-          "Bermuda"
-        ],
+        "Bermuda",
         [
           "/wiki/Bermuda"
         ]
@@ -776,41 +476,25 @@
     ],
     [
       [
-        [
-          "BND"
-        ],
-        [
-          null
-        ]
+        "BND",
+        []
       ],
       [
-        [
-          "096"
-        ],
-        [
-          null
-        ]
+        "096",
+        []
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "Brunei dollar"
-        ],
+        "Brunei dollar",
         [
           "/wiki/Brunei_dollar"
         ]
       ],
       [
-        [
-          "Brunei"
-        ],
+        "Brunei",
         [
           "/wiki/Brunei"
         ]
@@ -818,41 +502,25 @@
     ],
     [
       [
-        [
-          "BOB"
-        ],
-        [
-          null
-        ]
+        "BOB",
+        []
       ],
       [
-        [
-          "068"
-        ],
-        [
-          null
-        ]
+        "068",
+        []
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "Boliviano"
-        ],
+        "Boliviano",
         [
           "/wiki/Boliviano"
         ]
       ],
       [
-        [
-          "Bolivia"
-        ],
+        "Bolivia",
         [
           "/wiki/Bolivia"
         ]
@@ -860,41 +528,23 @@
     ],
     [
       [
-        [
-          "BOV"
-        ],
-        [
-          null
-        ]
+        "BOV",
+        []
       ],
       [
-        [
-          "984"
-        ],
-        [
-          null
-        ]
+        "984",
+        []
       ],
       [
-        [
-          "2"
-        ],
-        [
-          null
-        ]
+        "2",
+        []
       ],
       [
-        [
-          "Bolivian Mvdol ( funds code )"
-        ],
-        [
-          null
-        ]
+        "Bolivian Mvdol ( funds code )",
+        []
       ],
       [
-        [
-          "Bolivia"
-        ],
+        "Bolivia",
         [
           "/wiki/Bolivia"
         ]

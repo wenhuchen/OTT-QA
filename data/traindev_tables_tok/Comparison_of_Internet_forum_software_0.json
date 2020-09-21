@@ -3,84 +3,60 @@
   "title": "Comparison of Internet forum software",
   "header": [
     [
-      [
-        "Creator"
-      ],
-      [
-        null
-      ]
+      "",
+      []
     ],
     [
-      [
-        "Latest release date"
-      ],
-      [
-        null
-      ]
+      "Creator",
+      []
     ],
     [
-      [
-        "Current stable version"
-      ],
-      [
-        null
-      ]
+      "Latest release date",
+      []
     ],
     [
-      [
-        "Programming language"
-      ],
+      "Current stable version",
+      []
+    ],
+    [
+      "Programming language",
       [
         "/wiki/Programming_language"
       ]
     ],
     [
-      [
-        "License"
-      ],
-      [
-        null
-      ]
+      "License",
+      []
     ]
   ],
   "data": [
     [
       [
+        "bbPress",
         [
-          "WordPress Foundation"
-        ],
-        [
-          null
+          "/wiki/BbPress"
         ]
       ],
       [
-        [
-          "2019-09-04"
-        ],
-        [
-          null
-        ]
+        "WordPress Foundation",
+        []
       ],
       [
-        [
-          "5.2.3"
-        ],
-        [
-          null
-        ]
+        "2019-09-04",
+        []
       ],
       [
-        [
-          "PHP"
-        ],
+        "5.2.3",
+        []
+      ],
+      [
+        "PHP",
         [
           "/wiki/PHP"
         ]
       ],
       [
-        [
-          "GPL"
-        ],
+        "GPL",
         [
           "/wiki/GNU_General_Public_License"
         ]
@@ -88,41 +64,31 @@
     ],
     [
       [
+        "Beehive Forum",
         [
-          "Project Beehive Forum Developers"
-        ],
-        [
-          null
+          "/wiki/Beehive_Forum"
         ]
       ],
       [
-        [
-          "2016-11-05"
-        ],
-        [
-          null
-        ]
+        "Project Beehive Forum Developers",
+        []
       ],
       [
-        [
-          "1.5.2"
-        ],
-        [
-          null
-        ]
+        "2016-11-05",
+        []
       ],
       [
-        [
-          "PHP"
-        ],
+        "1.5.2",
+        []
+      ],
+      [
+        "PHP",
         [
           "/wiki/PHP"
         ]
       ],
       [
-        [
-          "GPL"
-        ],
+        "GPL",
         [
           "/wiki/GNU_General_Public_License"
         ]
@@ -130,43 +96,32 @@
     ],
     [
       [
+        "Discourse",
         [
-          "Civilized Discourse Construction Kit , Inc"
-        ],
-        [
-          null
+          "/wiki/Discourse_(software)"
         ]
       ],
       [
-        [
-          "2019-11-06"
-        ],
-        [
-          null
-        ]
+        "Civilized Discourse Construction Kit , Inc",
+        []
       ],
       [
-        [
-          "2.3.6"
-        ],
-        [
-          null
-        ]
+        "2019-11-06",
+        []
       ],
       [
-        [
-          "Ruby",
-          "JavaScript"
-        ],
+        "2.3.6",
+        []
+      ],
+      [
+        "Ruby , JavaScript",
         [
           "/wiki/Ruby_(programming_language)",
           "/wiki/JavaScript"
         ]
       ],
       [
-        [
-          "GPL"
-        ],
+        "GPL",
         [
           "/wiki/GNU_General_Public_License"
         ]
@@ -174,42 +129,31 @@
     ],
     [
       [
+        "Discuz !",
         [
-          "Comsenz Inc"
-        ],
-        [
-          null
+          "/wiki/Discuz!"
         ]
       ],
       [
-        [
-          "2018-01-01"
-        ],
-        [
-          null
-        ]
+        "Comsenz Inc",
+        []
       ],
       [
-        [
-          "X3.4"
-        ],
-        [
-          null
-        ]
+        "2018-01-01",
+        []
       ],
       [
-        [
-          "PHP"
-        ],
+        "X3.4",
+        []
+      ],
+      [
+        "PHP",
         [
           "/wiki/PHP"
         ]
       ],
       [
-        [
-          "proprietary",
-          "gratis"
-        ],
+        "Discuz ! EULA ( proprietary , gratis for non-commercial use )",
         [
           "/wiki/Proprietary_software",
           "/wiki/Gratis_versus_libre"
@@ -218,41 +162,31 @@
     ],
     [
       [
+        "FluxBB",
         [
-          "FluxBB.org Developers"
-        ],
-        [
-          null
+          "/wiki/FluxBB"
         ]
       ],
       [
-        [
-          "2018-12-31"
-        ],
-        [
-          null
-        ]
+        "FluxBB.org Developers",
+        []
       ],
       [
-        [
-          "1.5.11"
-        ],
-        [
-          null
-        ]
+        "2018-12-31",
+        []
       ],
       [
-        [
-          "PHP"
-        ],
+        "1.5.11",
+        []
+      ],
+      [
+        "PHP",
         [
           "/wiki/PHP"
         ]
       ],
       [
-        [
-          "GPL"
-        ],
+        "GPL",
         [
           "/wiki/GNU_General_Public_License"
         ]
@@ -260,41 +194,31 @@
     ],
     [
       [
+        "FUDforum",
         [
-          "Advanced Internet Designs Inc"
-        ],
-        [
-          null
+          "/wiki/FUDforum"
         ]
       ],
       [
-        [
-          "2018-04-09"
-        ],
-        [
-          null
-        ]
+        "Advanced Internet Designs Inc",
+        []
       ],
       [
-        [
-          "3.0.9"
-        ],
-        [
-          null
-        ]
+        "2018-04-09",
+        []
       ],
       [
-        [
-          "PHP"
-        ],
+        "3.0.9",
+        []
+      ],
+      [
+        "PHP",
         [
           "/wiki/PHP"
         ]
       ],
       [
-        [
-          "GPL"
-        ],
+        "GPL",
         [
           "/wiki/GNU_General_Public_License"
         ]
@@ -302,41 +226,31 @@
     ],
     [
       [
+        "Ikonboard",
         [
-          "Matt Mecham ( original creator ) Joshua Johnson"
-        ],
-        [
-          null
+          "/wiki/Ikonboard"
         ]
       ],
       [
-        [
-          "2012-10-19"
-        ],
-        [
-          null
-        ]
+        "Matt Mecham ( original creator ) Joshua Johnson",
+        []
       ],
       [
-        [
-          "3.1.5A"
-        ],
-        [
-          null
-        ]
+        "2012-10-19",
+        []
       ],
       [
-        [
-          "Perl"
-        ],
+        "3.1.5A",
+        []
+      ],
+      [
+        "Perl",
         [
           "/wiki/Perl"
         ]
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary",
         [
           "/wiki/Proprietary_software"
         ]
@@ -344,41 +258,33 @@
     ],
     [
       [
+        "Invision Power Board",
         [
-          "Invision Power Services Inc"
-        ],
+          "/wiki/Invision_Power_Board"
+        ]
+      ],
+      [
+        "Invision Power Services Inc",
         [
           "/wiki/Invision_Power_Services"
         ]
       ],
       [
-        [
-          "2019-06-12"
-        ],
-        [
-          null
-        ]
+        "2019-06-12",
+        []
       ],
       [
-        [
-          "4.4.4"
-        ],
-        [
-          null
-        ]
+        "4.4.4",
+        []
       ],
       [
-        [
-          "PHP"
-        ],
+        "PHP",
         [
           "/wiki/PHP"
         ]
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary",
         [
           "/wiki/Proprietary_software"
         ]
@@ -386,42 +292,31 @@
     ],
     [
       [
+        "MyBB",
         [
-          "MyBB Group"
-        ],
-        [
-          null
+          "/wiki/MyBB"
         ]
       ],
       [
-        [
-          "2019-12-30"
-        ],
-        [
-          null
-        ]
+        "MyBB Group",
+        []
       ],
       [
-        [
-          "1.8.22"
-        ],
-        [
-          null
-        ]
+        "2019-12-30",
+        []
       ],
       [
-        [
-          "PHP"
-        ],
+        "1.8.22",
+        []
+      ],
+      [
+        "PHP",
         [
           "/wiki/PHP"
         ]
       ],
       [
-        [
-          "LGPL",
-          "BSD"
-        ],
+        "LGPL , moving to BSD in 2.0",
         [
           "/wiki/GNU_Lesser_General_Public_License",
           "/wiki/BSD_License"
@@ -430,41 +325,31 @@
     ],
     [
       [
+        "Phorum",
         [
-          "Brian Moon"
-        ],
-        [
-          null
+          "/wiki/Phorum"
         ]
       ],
       [
-        [
-          "2017-08-23"
-        ],
-        [
-          null
-        ]
+        "Brian Moon",
+        []
       ],
       [
-        [
-          "5.2.23"
-        ],
-        [
-          null
-        ]
+        "2017-08-23",
+        []
       ],
       [
-        [
-          "PHP"
-        ],
+        "5.2.23",
+        []
+      ],
+      [
+        "PHP",
         [
           "/wiki/PHP"
         ]
       ],
       [
-        [
-          "BSD"
-        ],
+        "Phorum License 2 ( BSD like )",
         [
           "/wiki/BSD_licenses"
         ]
@@ -472,41 +357,33 @@
     ],
     [
       [
-        [
-          "phpBB Ltd"
-        ],
+        "phpBB",
         [
           "/wiki/PhpBB"
         ]
       ],
       [
+        "phpBB Ltd",
         [
-          "2020-01-06"
-        ],
-        [
-          null
+          "/wiki/PhpBB"
         ]
       ],
       [
-        [
-          "3.3.0"
-        ],
-        [
-          null
-        ]
+        "2020-01-06",
+        []
       ],
       [
-        [
-          "PHP"
-        ],
+        "3.3.0",
+        []
+      ],
+      [
+        "PHP",
         [
           "/wiki/PHP"
         ]
       ],
       [
-        [
-          "GPL"
-        ],
+        "GPL",
         [
           "/wiki/GNU_General_Public_License"
         ]
@@ -514,41 +391,31 @@
     ],
     [
       [
+        "PunBB",
         [
-          "PunBB"
-        ],
-        [
-          null
+          "/wiki/PunBB"
         ]
       ],
       [
-        [
-          "2015-10-14"
-        ],
-        [
-          null
-        ]
+        "PunBB",
+        []
       ],
       [
-        [
-          "1.4.4"
-        ],
-        [
-          null
-        ]
+        "2015-10-14",
+        []
       ],
       [
-        [
-          "PHP"
-        ],
+        "1.4.4",
+        []
+      ],
+      [
+        "PHP",
         [
           "/wiki/PHP"
         ]
       ],
       [
-        [
-          "GPL"
-        ],
+        "GPL",
         [
           "/wiki/GNU_General_Public_License"
         ]
@@ -556,41 +423,31 @@
     ],
     [
       [
+        "Simple Machines Forum",
         [
-          "Simple Machines"
-        ],
-        [
-          null
+          "/wiki/Simple_Machines_Forum"
         ]
       ],
       [
-        [
-          "2019-12-30"
-        ],
-        [
-          null
-        ]
+        "Simple Machines",
+        []
       ],
       [
-        [
-          "2.0.17"
-        ],
-        [
-          null
-        ]
+        "2019-12-30",
+        []
       ],
       [
-        [
-          "PHP"
-        ],
+        "2.0.17",
+        []
+      ],
+      [
+        "PHP",
         [
           "/wiki/PHP"
         ]
       ],
       [
-        [
-          "BSD License"
-        ],
+        "BSD License",
         [
           "/wiki/BSD_License"
         ]
@@ -598,83 +455,63 @@
     ],
     [
       [
+        "Syndie",
         [
-          "I2P"
-        ],
+          "/wiki/Syndie"
+        ]
+      ],
+      [
+        "Anonymous ( related to I2P )",
         [
           "/wiki/I2P"
         ]
       ],
       [
-        [
-          "2014-08-14"
-        ],
-        [
-          null
-        ]
+        "2014-08-14",
+        []
       ],
       [
-        [
-          "1.107b"
-        ],
-        [
-          null
-        ]
+        "1.107b",
+        []
       ],
       [
-        [
-          "Java"
-        ],
+        "Java",
         [
           "/wiki/Java_(programming_language)"
         ]
       ],
       [
-        [
-          "Open source , multiple licenses"
-        ],
-        [
-          null
-        ]
+        "Open source , multiple licenses",
+        []
       ]
     ],
     [
       [
+        "Thredded",
         [
-          "Joel Oliveira , Gleb Mazovetskiy , et al"
-        ],
-        [
-          null
+          "/wiki/Thredded"
         ]
       ],
       [
-        [
-          "2019-08-17"
-        ],
-        [
-          null
-        ]
+        "Joel Oliveira , Gleb Mazovetskiy , et al",
+        []
       ],
       [
-        [
-          "0.16.13"
-        ],
-        [
-          null
-        ]
+        "2019-08-17",
+        []
       ],
       [
-        [
-          "Ruby"
-        ],
+        "0.16.13",
+        []
+      ],
+      [
+        "Ruby",
         [
           "/wiki/Ruby_(programming_language)"
         ]
       ],
       [
-        [
-          "MIT"
-        ],
+        "MIT",
         [
           "/wiki/MIT_License"
         ]
@@ -682,42 +519,33 @@
     ],
     [
       [
-        [
-          "Vanilla Forums"
-        ],
+        "Vanilla Forums",
         [
           "/wiki/Vanilla_Forums"
         ]
       ],
       [
+        "Vanilla Forums",
         [
-          "2019-03-15"
-        ],
-        [
-          null
+          "/wiki/Vanilla_Forums"
         ]
       ],
       [
-        [
-          "2.8.1"
-        ],
-        [
-          null
-        ]
+        "2019-03-15",
+        []
       ],
       [
-        [
-          "PHP"
-        ],
+        "2.8.1",
+        []
+      ],
+      [
+        "PHP",
         [
           "/wiki/PHP"
         ]
       ],
       [
-        [
-          "Proprietary",
-          "GPL"
-        ],
+        "Proprietary / GPL",
         [
           "/wiki/Proprietary_software",
           "/wiki/GNU_General_Public_License"
@@ -726,41 +554,31 @@
     ],
     [
       [
+        "vBulletin",
         [
-          "vBulletin Solutions Inc"
-        ],
-        [
-          null
+          "/wiki/VBulletin"
         ]
       ],
       [
-        [
-          "2019-05-14"
-        ],
-        [
-          null
-        ]
+        "vBulletin Solutions Inc",
+        []
       ],
       [
-        [
-          "5.5.2"
-        ],
-        [
-          null
-        ]
+        "2019-05-14",
+        []
       ],
       [
-        [
-          "PHP"
-        ],
+        "5.5.2",
+        []
+      ],
+      [
+        "PHP",
         [
           "/wiki/PHP"
         ]
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary",
         [
           "/wiki/Proprietary_software"
         ]
@@ -768,41 +586,31 @@
     ],
     [
       [
+        "XenForo",
         [
-          "XenForo Limited , Kier Darby , Mike Sullivan"
-        ],
-        [
-          null
+          "/wiki/XenForo"
         ]
       ],
       [
-        [
-          "2019-11-06"
-        ],
-        [
-          null
-        ]
+        "XenForo Limited , Kier Darby , Mike Sullivan",
+        []
       ],
       [
-        [
-          "2.1.5"
-        ],
-        [
-          null
-        ]
+        "2019-11-06",
+        []
       ],
       [
-        [
-          "PHP"
-        ],
+        "2.1.5",
+        []
+      ],
+      [
+        "PHP",
         [
           "/wiki/PHP"
         ]
       ],
       [
-        [
-          "Proprietary"
-        ],
+        "Proprietary",
         [
           "/wiki/Proprietary_software"
         ]
@@ -810,44 +618,30 @@
     ],
     [
       [
-        [
-          "Creator"
-        ],
-        [
-          null
-        ]
+        "",
+        []
       ],
       [
-        [
-          "Latest release date"
-        ],
-        [
-          null
-        ]
+        "Creator",
+        []
       ],
       [
-        [
-          "Current stable version"
-        ],
-        [
-          null
-        ]
+        "Latest release date",
+        []
       ],
       [
-        [
-          "Programming language"
-        ],
+        "Current stable version",
+        []
+      ],
+      [
+        "Programming language",
         [
           "/wiki/Programming_language"
         ]
       ],
       [
-        [
-          "License"
-        ],
-        [
-          null
-        ]
+        "License",
+        []
       ]
     ]
   ],

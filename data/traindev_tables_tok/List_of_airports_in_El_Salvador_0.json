@@ -3,52 +3,34 @@
   "title": "List of airports in El Salvador",
   "header": [
     [
-      [
-        "LOCATION"
-      ],
+      "LOCATION",
       [
         "/wiki/List_of_cities_in_El_Salvador"
       ]
     ],
     [
-      [
-        "ICAO"
-      ],
+      "ICAO",
       [
         "/wiki/ICAO_airport_code"
       ]
     ],
     [
-      [
-        "AIRPORT NAME"
-      ],
-      [
-        null
-      ]
+      "AIRPORT NAME",
+      []
     ]
   ],
   "data": [
     [
       [
-        [
-          "Barrillas"
-        ],
-        [
-          null
-        ]
+        "Barrillas",
+        []
       ],
       [
-        [
-          "MSBS"
-        ],
-        [
-          null
-        ]
+        "MSBS",
+        []
       ],
       [
-        [
-          "Barrillas Airport"
-        ],
+        "Barrillas Airport",
         [
           "/wiki/Barrillas_Airport"
         ]
@@ -56,25 +38,15 @@
     ],
     [
       [
-        [
-          "Cangrejera"
-        ],
-        [
-          null
-        ]
+        "Cangrejera",
+        []
       ],
       [
-        [
-          "MSCS"
-        ],
-        [
-          null
-        ]
+        "MSCS",
+        []
       ],
       [
-        [
-          "Las Cachas Airport"
-        ],
+        "Las Cachas Airport",
         [
           "/wiki/Las_Cachas_Airport"
         ]
@@ -82,25 +54,15 @@
     ],
     [
       [
-        [
-          "Ceiba Doblada"
-        ],
-        [
-          null
-        ]
+        "Ceiba Doblada",
+        []
       ],
       [
-        [
-          "MSCD"
-        ],
-        [
-          null
-        ]
+        "MSCD",
+        []
       ],
       [
-        [
-          "Ceiba Doblada Airport"
-        ],
+        "Ceiba Doblada Airport",
         [
           "/wiki/Ceiba_Doblada_Airport"
         ]
@@ -108,25 +70,15 @@
     ],
     [
       [
-        [
-          "Corral de Mulas"
-        ],
-        [
-          null
-        ]
+        "Corral de Mulas",
+        []
       ],
       [
-        [
-          "MSCM"
-        ],
-        [
-          null
-        ]
+        "MSCM",
+        []
       ],
       [
-        [
-          "Corral de Mulas Airport"
-        ],
+        "Corral de Mulas Airport",
         [
           "/wiki/Corral_de_Mulas_Airport"
         ]
@@ -134,25 +86,15 @@
     ],
     [
       [
-        [
-          "Corral de Mulas"
-        ],
-        [
-          null
-        ]
+        "Corral de Mulas",
+        []
       ],
       [
-        [
-          "MSSJ"
-        ],
-        [
-          null
-        ]
+        "MSSJ",
+        []
       ],
       [
-        [
-          "Punta San Juan Airport"
-        ],
+        "Punta San Juan Airport",
         [
           "/wiki/Punta_San_Juan_Airport"
         ]
@@ -160,25 +102,15 @@
     ],
     [
       [
-        [
-          "El Jocotillo"
-        ],
-        [
-          null
-        ]
+        "El Jocotillo",
+        []
       ],
       [
-        [
-          "MSJC"
-        ],
-        [
-          null
-        ]
+        "MSJC",
+        []
       ],
       [
-        [
-          "El Jocotillo Airport"
-        ],
+        "El Jocotillo Airport",
         [
           "/wiki/El_Jocotillo_Airport"
         ]
@@ -186,25 +118,15 @@
     ],
     [
       [
-        [
-          "El Platanar"
-        ],
-        [
-          null
-        ]
+        "El Platanar",
+        []
       ],
       [
-        [
-          "MSPT"
-        ],
-        [
-          null
-        ]
+        "MSPT",
+        []
       ],
       [
-        [
-          "El Platanar Airport"
-        ],
+        "El Platanar Airport",
         [
           "/wiki/El_Platanar_Airport"
         ]
@@ -212,25 +134,17 @@
     ],
     [
       [
-        [
-          "Metap\u00e1n"
-        ],
+        "Metap\u00e1n",
         [
           "/wiki/Metap\u00e1n"
         ]
       ],
       [
-        [
-          "MSRC"
-        ],
-        [
-          null
-        ]
+        "MSRC",
+        []
       ],
       [
-        [
-          "El Ronco Airport"
-        ],
+        "El Ronco Airport - closed",
         [
           "/wiki/El_Ronco_Airport"
         ]
@@ -238,25 +152,15 @@
     ],
     [
       [
-        [
-          "El Tamarindo"
-        ],
-        [
-          null
-        ]
+        "El Tamarindo",
+        []
       ],
       [
-        [
-          "MSET"
-        ],
-        [
-          null
-        ]
+        "MSET",
+        []
       ],
       [
-        [
-          "El Tamarindo Airport"
-        ],
+        "El Tamarindo Airport",
         [
           "/wiki/El_Tamarindo_Airport"
         ]
@@ -264,25 +168,15 @@
     ],
     [
       [
-        [
-          "El Zapote"
-        ],
-        [
-          null
-        ]
+        "El Zapote",
+        []
       ],
       [
-        [
-          "MSZT"
-        ],
-        [
-          null
-        ]
+        "MSZT",
+        []
       ],
       [
-        [
-          "El Zapote Airport"
-        ],
+        "El Zapote Airport",
         [
           "/wiki/El_Zapote_Airport"
         ]
@@ -290,25 +184,15 @@
     ],
     [
       [
-        [
-          "Espiritu Santo"
-        ],
-        [
-          null
-        ]
+        "Espiritu Santo",
+        []
       ],
       [
-        [
-          "MSES"
-        ],
-        [
-          null
-        ]
+        "MSES",
+        []
       ],
       [
-        [
-          "Espiritu Santo Airport"
-        ],
+        "Espiritu Santo Airport",
         [
           "/wiki/Espiritu_Santo_Airport"
         ]
@@ -316,25 +200,17 @@
     ],
     [
       [
-        [
-          "Jiquilisco"
-        ],
+        "Jiquilisco",
         [
           "/wiki/Jiquilisco"
         ]
       ],
       [
-        [
-          "MSCN"
-        ],
-        [
-          null
-        ]
+        "MSCN",
+        []
       ],
       [
-        [
-          "Casas Nuevas Airport"
-        ],
+        "Casas Nuevas Airport",
         [
           "/wiki/Casas_Nuevas_Airport"
         ]
@@ -342,25 +218,15 @@
     ],
     [
       [
-        [
-          "La Caba\u00f1a"
-        ],
-        [
-          null
-        ]
+        "La Caba\u00f1a",
+        []
       ],
       [
-        [
-          "MSLC"
-        ],
-        [
-          null
-        ]
+        "MSLC",
+        []
       ],
       [
-        [
-          "La Caba\u00f1a Airport"
-        ],
+        "La Caba\u00f1a Airport",
         [
           "/wiki/La_Caba\u00f1a_Airport"
         ]
@@ -368,25 +234,17 @@
     ],
     [
       [
-        [
-          "Jiquilisco"
-        ],
+        "Jiquilisco",
         [
           "/wiki/Jiquilisco"
         ]
       ],
       [
-        [
-          "MSCR"
-        ],
-        [
-          null
-        ]
+        "MSCR",
+        []
       ],
       [
-        [
-          "La Carrera Airport"
-        ],
+        "La Carrera Airport",
         [
           "/wiki/La_Carrera_Airport"
         ]
@@ -394,25 +252,15 @@
     ],
     [
       [
-        [
-          "La Chepona"
-        ],
-        [
-          null
-        ]
+        "La Chepona",
+        []
       ],
       [
-        [
-          "MSCH"
-        ],
-        [
-          null
-        ]
+        "MSCH",
+        []
       ],
       [
-        [
-          "La Chepona Airport"
-        ],
+        "La Chepona Airport",
         [
           "/wiki/La_Chepona_Airport"
         ]
@@ -420,25 +268,17 @@
     ],
     [
       [
-        [
-          "San Francisco Gotera"
-        ],
+        "San Francisco Gotera",
         [
           "/wiki/San_Francisco_Gotera"
         ]
       ],
       [
-        [
-          "MSLD"
-        ],
-        [
-          null
-        ]
+        "MSLD",
+        []
       ],
       [
-        [
-          "Los Comandos Airport"
-        ],
+        "Los Comandos Airport",
         [
           "/wiki/Los_Comandos_Airport"
         ]
@@ -446,25 +286,17 @@
     ],
     [
       [
-        [
-          "San Miguel"
-        ],
+        "San Miguel",
         [
           "/wiki/San_Miguel,_El_Salvador"
         ]
       ],
       [
-        [
-          "MSSM"
-        ],
-        [
-          null
-        ]
+        "MSSM",
+        []
       ],
       [
-        [
-          "El Papalon Airport"
-        ],
+        "El Papalon Airport",
         [
           "/wiki/El_Papalon_Airport"
         ]
@@ -472,25 +304,17 @@
     ],
     [
       [
-        [
-          "San Miguel"
-        ],
+        "San Miguel",
         [
           "/wiki/San_Miguel,_El_Salvador"
         ]
       ],
       [
-        [
-          "MSAC"
-        ],
-        [
-          null
-        ]
+        "MSAC",
+        []
       ],
       [
-        [
-          "La Aramuaca Airport"
-        ],
+        "La Aramuaca Airport",
         [
           "/wiki/La_Aramuaca_Airport"
         ]
@@ -498,25 +322,17 @@
     ],
     [
       [
-        [
-          "San Salvador"
-        ],
+        "San Salvador",
         [
           "/wiki/San_Salvador"
         ]
       ],
       [
-        [
-          "MSLP"
-        ],
-        [
-          null
-        ]
+        "MSLP",
+        []
       ],
       [
-        [
-          "\u00d3scar Arnulfo Romero International Airport"
-        ],
+        "\u00d3scar Arnulfo Romero International Airport",
         [
           "/wiki/El_Salvador_International_Airport"
         ]
@@ -524,25 +340,17 @@
     ],
     [
       [
-        [
-          "San Salvador"
-        ],
+        "San Salvador",
         [
           "/wiki/San_Salvador"
         ]
       ],
       [
-        [
-          "MSSS"
-        ],
-        [
-          null
-        ]
+        "MSSS",
+        []
       ],
       [
-        [
-          "Ilopango International Airport"
-        ],
+        "Ilopango International Airport",
         [
           "/wiki/Ilopango_International_Airport"
         ]
