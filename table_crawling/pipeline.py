@@ -163,10 +163,7 @@ def crawl_hyperlinks(table):
     # Getting page summary
     assert '.org' in table['url']
     name = re.sub(r'.+\.org', '', table['url'])
-    try:
-        summary = get_summary(name)
-    except Exception:
-        summary = 'N/A'
+    summary = get_summary(name)
     dictionary[name] = summary
     return dictionary
 
@@ -273,15 +270,6 @@ def tokenize_and_clean_text(kv):
     if not k.startswith('/wiki/'):
         k = '/wiki/{}'.format(k)
     return k, v
-
-def summarize(table):
-    tmp = '_'.join(table['title'].split(' '))
-    name = '/wiki/{}'.format(tmp)
-    try:
-        summary = get_summary(table['url'])
-    except Exception:
-        summary = 'N/A'
-    return {name: summary}
 
 def distribute_to_separate_files(table):
     for row_idx, row in enumerate(table['data']):
