@@ -13,17 +13,21 @@ if __name__ == '__main__':
     pool = Pool(64)
     if args.split in ['train', 'dev', 'test']:
         print("using {}".format(args.split))
-        with open(f'released_data/{args.split}.traced.json', 'r') as f:
-            data = json.load(f)
+        if not os.path.exists(f'preprocessed_data/{args.split}_linked.json'):
+            with open(f'released_data/{args.split}.traced.json', 'r') as f:
+                data = json.load(f)
 
-        results1 = pool.map(IR, data)
-        results2 = pool.map(CELL, results1)
-        results = analyze(results2)
-        random.shuffle(train_results)
-        with open('preprocessed_data/{}_linked.json'.format(args.split), 'w') as f:
-            json.dump(results, f, indent=2)
- 
+            results1 = pool.map(IR, data)
+            results2 = pool.map(CELL, results1)
+            train_results = analyze(results2)
+            random.shuffle(train_results)
+            with open(f'preprocessed_data/{args.split}_linked.json', 'w') as f:
+                json.dump(train_results, f, indent=2)
+
         if args.split == 'train':
+            with open(f'preprocessed_data/{args.split}_linked.json', 'r') as f:
+                train_results = json.load(f)
+
             results = prepare_stage1_data(train_results)
             with open('preprocessed_data/stage1_training_data.json', 'w') as f:
                 json.dump(results, f, indent=2)

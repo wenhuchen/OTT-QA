@@ -73,15 +73,8 @@ def IR(data_entry, table_path='traindev_tables_tok', request_path='traindev_requ
     for row_idx, row in enumerate(table['data']):
         for col_idx, cell in enumerate(row):
             for i, ent in enumerate(cell[1]):
-                if ent:
-                    if ent not in mapping_entity:
-                        mapping_entity[ent] = {cell[0][i]: [(row_idx, col_idx)]}
-                    else:
-                        if cell[0][i] not in mapping_entity[ent]:
-                            mapping_entity[ent][cell[0][i]] = [(row_idx, col_idx)]
-                        else:
-                            mapping_entity[ent][cell[0][i]] = mapping_entity[ent][cell[0][i]] + [(row_idx, col_idx)]
-    
+                mapping_entity[ent] = mapping_entity.get(ent, []) + [(row_idx, col_idx)]
+
     # Convert the paragraph and question into TF-IDF features
     keys = []
     paras = []
