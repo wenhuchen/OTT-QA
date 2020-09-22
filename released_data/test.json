@@ -196,13 +196,6 @@
     "question_postag": "WP VBZ DT NN TO NNP IN DT NNP NNP NNP NN WP VBD DT NN IN DT NNP NNP ."
   },
   {
-    "question_id": "f6298d52988c52d8",
-    "question": "What is the notability of the NYU alumnus who pardoned Mother Jones and the miners who had been imprisoned by military courts ?",
-    "table_id": "List_of_New_York_University_alumni_15",
-    "answer-text": "United States Senate , Governor of West Virginia",
-    "question_postag": "WP VBZ DT NN IN DT NNP NNP NNP NN WP VBD NNP NNP CC DT NNS WP VBD VBN VBN IN JJ NNS ."
-  },
-  {
     "question_id": "652dd3f2183f6936",
     "question": "What is the relation to NYU of the NYU senator alumnus whose notability has the ability to approve treaties ?",
     "table_id": "List_of_New_York_University_alumni_15",
@@ -784,25 +777,11 @@
     "question_postag": "IN WDT NN VBD DT NN VBN IN NNP NNP WP VBD DT NN JJ NN NN IN IN NNP NNP VBD ."
   },
   {
-    "question_id": "d000fe31092b18e1",
-    "question": "Which Steve Lavin coached player was drafted by a team that was founded in 1968 as an expansion team ?",
-    "table_id": "Steve_Lavin_0",
-    "answer-text": "Dan Gadzuric , Sr",
-    "question_postag": "WDT NNP NNP VBD NN VBD VBN IN DT NN WDT VBD VBN IN CD IN DT NN NN ."
-  },
-  {
     "question_id": "1ef4bd5ff130f79d",
     "question": "Which number pick was the player coached by Steve Lavin and drafted to the team which played at Richfield Coliseum from 1974 to 1994 ?",
     "table_id": "Steve_Lavin_0",
     "answer-text": "31st Overall",
     "question_postag": "JJ NN NN VBD DT NN VBN IN NNP NNP CC VBN TO DT NN WDT VBD IN NNP NNP IN CD TO CD ."
-  },
-  {
-    "question_id": "6fa61f00efd35a38",
-    "question": "Which Steve Lavin coached player was drafted to a team that moved to Oklahoma City before the 2008-09 season ?",
-    "table_id": "Steve_Lavin_0",
-    "answer-text": "Jelani McCoy , Jr",
-    "question_postag": "WDT NNP NNP VBD NN VBD VBN TO DT NN WDT VBD TO NNP NNP IN DT JJ NN ."
   },
   {
     "question_id": "1fd277fb1426a8ee",
@@ -817,13 +796,6 @@
     "table_id": "Rachael_vs._Guy:_Celebrity_Cook-Off_1",
     "answer-text": "Johnny Weir",
     "question_postag": "JJ NN WDT VBD IN NN CD IN NNP NN . NN : NNP NNP , VBZ DT JJS ."
-  },
-  {
-    "question_id": "ad029bda719bd6ee",
-    "question": "What is the occupation of the celebrity that participated in season two of Rachael vs . Guy : Celebrity Cook-Off , and who was born on November 28 , 1963 ?",
-    "table_id": "Rachael_vs._Guy:_Celebrity_Cook-Off_1",
-    "answer-text": "Fashion designer , Author , Philanthropist",
-    "question_postag": "WP VBZ DT NN IN DT NN WDT VBD IN NN CD IN NNP NN . NN : NNP NNP , CC WP VBD VBN IN NNP CD , CD ."
   },
   {
     "question_id": "5ff1a179632d4e14",
@@ -3969,13 +3941,6 @@
     "question_postag": "WP VBD DT NN IN DT NNP NNP NN WDT VBZ DT JJ NN NN NN IN NNS IN NNS NNP ."
   },
   {
-    "question_id": "4db24f6ea19aa322",
-    "question": "What gaming platforms were intended to be used for a fighting game developed by Arc System Works and designed by artist Daisuke Ishiwatari ?",
-    "table_id": "List_of_video_games_published_by_Aksys_Games_7",
-    "answer-text": "Nintendo DSi , DSiWare",
-    "question_postag": "WP NN NNS VBD VBN TO VB VBN IN DT JJ NN VBN IN NNP NNP NNP CC VBN IN NN NNP NNP ."
-  },
-  {
     "question_id": "d75395f6d7051090",
     "question": "What dungeon crawling role-playing game was released by Aksys for North America on August of 2008 ?",
     "table_id": "List_of_video_games_published_by_Aksys_Games_7",
@@ -4172,13 +4137,6 @@
     "question_postag": "WRB JJ JJ NNS VBZ DT NN IN DT NN NN IN CD NNP NNP NNP NNP NN NNP NNP ."
   },
   {
-    "question_id": "8fcb1daaa43198a0",
-    "question": "Of the successors installed to the 36th United States Congress in 1859 , which one of the representatives is youngest ?",
-    "table_id": "36th_United_States_Congress_1",
-    "answer-text": "Roger A. Pryor , D",
-    "question_postag": "IN DT NNS VBD TO DT CD NNP NNPS NNP IN CD , WDT CD IN DT NNS VBZ JJS ."
-  },
-  {
     "question_id": "3d712558f4c8cb29",
     "question": "How many vacators of the 36th United States Congress died after 1870 ?",
     "table_id": "36th_United_States_Congress_1",
@@ -4205,13 +4163,6 @@
     "table_id": "36th_United_States_Congress_1",
     "answer-text": "7",
     "question_postag": "WRB JJ NNS VBP VBN IN DT CD NNP NNPS NNP NN WP$ NNP VBD JJ NNP NNP NNP ."
-  },
-  {
-    "question_id": "1213534872a73a3f",
-    "question": "Of the vacators of the 36th United States Congress who retired in 1860 , which one was the oldest ?",
-    "table_id": "36th_United_States_Congress_1",
-    "answer-text": "John McQueen , D",
-    "question_postag": "IN DT NNS IN DT CD NNP NNPS NNP WP VBD IN CD , WDT CD VBD DT JJS ."
   },
   {
     "question_id": "640532f8bc699751",
@@ -6669,20 +6620,6 @@
     "table_id": "List_of_Looney_Tunes_feature_films_0",
     "answer-text": "Haunted Gold",
     "question_postag": "WP VBZ DT NN IN NN VBG NNP NNPS IN NN NNS VBG DT NN WP VBD VBN NNP NNP NNP IN CD ."
-  },
-  {
-    "question_id": "a66c6bdb8925b3e7",
-    "question": "What are the notes for the American comedy film featuring Looney Tunes in cameo roles and directed by Sidney Salkow and written by Olive Cooper ?",
-    "table_id": "List_of_Looney_Tunes_feature_films_0",
-    "answer-text": "Republic Pictures , Leon Schlesinger",
-    "question_postag": "WP VBP DT NNS IN DT JJ NN NN VBG NNP NNPS IN NN NNS CC VBN IN NNP NNP CC VBN IN NNP NNP ."
-  },
-  {
-    "question_id": "55b3ea9945a2dd67",
-    "question": "What are the notes for the film also called Diamonds and Crime featuring Looney Tunes in cameo roles ?",
-    "table_id": "List_of_Looney_Tunes_feature_films_0",
-    "answer-text": "United Artists , Leon Schlesinger",
-    "question_postag": "WP VBP DT NNS IN DT NN RB VBD NNS CC NNP VBG NNP NNPS IN NN NNS ."
   },
   {
     "question_id": "0c103320874a561f",

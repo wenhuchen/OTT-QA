@@ -22,6 +22,9 @@ tokenizer = nltk.data.load('tokenizers/punkt/english.pickle')
 resource_path = 'data/'
 best_threshold = 0.80
 
+def url2text(url):
+    return url.replace('/wiki/', '').replace('_', ' ')
+
 # Finding the longest substring
 def longestSubstringFinder(S,T):
     S = S.lower()
@@ -110,15 +113,14 @@ def IR(data_entry, table_path='traindev_tables_tok', request_path='traindev_requ
                 if d < tfidf_best_match[-1]:
                     tfidf_best_match = (k, para, d)
                 if d <= best_threshold:
-                    for content, locs in mapping_entity[k].items():
-                        for loc in locs:
-                            tfidf_nodes.append((content, loc, k, para, d))
+                    for loc in mapping_entity[k]:
+                        tfidf_nodes.append((url2text(k), loc, k, para, d))
         
         if tfidf_best_match[0] != 'N/A':
             if tfidf_best_match[-1] > best_threshold:
-                for content, locs in mapping_entity[k].items():
-                    for loc in locs:
-                        tfidf_nodes.append((content, loc, k, tfidf_best_match[1], tfidf_best_match[2]))
+                k = tfidf_best_match[0]
+                for loc in mapping_entity[k]:
+                    tfidf_nodes.append((url2text(k), loc, k, tfidf_best_match[1], tfidf_best_match[2]))
 
     # Find the best matched paragraph string
     string_nodes = []
@@ -131,15 +133,14 @@ def IR(data_entry, table_path='traindev_tables_tok', request_path='traindev_requ
             if d < string_best_match[-1]:
                 string_best_match = (k, para, d)
             if d <= best_threshold:
-                for content, locs in mapping_entity[k].items():
-                    for loc in locs:
-                        string_nodes.append((content, loc, k, para, d))
+                for loc in mapping_entity[k]:
+                    string_nodes.append((url2text(k), loc, k, para, d))
                 
     if string_best_match[0] != 'N/A':
         if string_best_match[-1] > best_threshold:
-            for content, locs in mapping_entity[k].items():
-                for loc in locs:
-                    string_nodes.append((content, loc, k, string_best_match[1], string_best_match[2]))
+            k = string_best_match[0]
+            for loc in mapping_entity[k]:
+                string_nodes.append((url2text(k), loc, k, string_best_match[1], string_best_match[2]))
     
     data_entry['tf-idf'] = tfidf_nodes
     data_entry['string-overlap'] = string_nodes
@@ -160,17 +161,14 @@ def convert2num(string):
 def find_superlative(table_id, table):
     if not os.path.exists('{}/tmp/{}.json'.format(resource_path, table_id)):
         mapping = {}
-        headers = [_[0][0] for _ in table['header']]
+        headers = [_[0] for _ in table['header']]
         for j in range(len(table['header'])):
             mapping[headers[j]] = []
             activate_date_or_num = None
             if headers[j] not in ['#', 'Type', 'Name', 'Location', 'Position', 'Category', 'Nationality',
                                   'School', 'Notes', 'Notability', 'Country']:
                 for i, row in enumerate(table['data']):
-                    if len(table['data'][i][j][0]) > 1:
-                        continue
-
-                    data = table['data'][i][j][0][0]
+                    data = table['data'][i][j][0]
                     if data in ['', '-']:
                         continue
 
@@ -235,11 +233,10 @@ def CELL(d, table_path='traindev_tables_tok'):
     tmp_link = []
     for row_idx, row in enumerate(table['data']):
         for col_idx, cell in enumerate(row):
-            if cell[0] != ['']:
-                for ent in cell[0]:
-                    ratio = fuzz.partial_ratio(' ' + ent.lower() + ' ', ' ' + d['question'].lower() + ' ')
-                    if ratio > threshold:
-                        tmp_link.append((ent, (row_idx, col_idx), None, 'string match', ratio / 100))
+            if len(cell[0]) > 0:
+                ratio = fuzz.partial_ratio(' ' + cell[0].lower() + ' ', ' ' + d['question'].lower() + ' ')
+                if ratio > threshold:
+                    tmp_link.append((cell[0], (row_idx, col_idx), None, 'string match', ratio / 100))
 
     d['links'] = tmp_link
     if any([_ in d['question_postag'] for _ in triggers]):
@@ -273,7 +270,7 @@ def analyze(processed, table_path='traindev_tables_tok'):
                 table_id = p['table_id']
                 with open(f'{resource_path}/{table_path}/{table_id}.json', 'r') as f:
                     table = json.load(f)
-                headers = [" , ".join(cell[0]) for cell in table['header']]
+                headers = [cell[0] for cell in table['header']]
                 potential_headers = set()
                 for h in headers:
                     if " " + h.lower() + " " in " " + p['question'].lower() + " ":
@@ -382,7 +379,7 @@ def generate_inputs(data, table_path='traindev_tables_tok'):
         table_id = d['table_id']
         with open(f'{resource_path}/{table_path}/{table_id}.json', 'r') as f:
             table = json.load(f)
-        headers = [cell[0][0] for cell in table['header']]
+        headers = [cell[0] for cell in table['header']]
 
         tmp = []
         labels = []
@@ -403,7 +400,7 @@ def prepare_stage1_data(data, table_path='traindev_tables_tok'):
             table_id = d['table_id']
             with open(f'{resource_path}/{table_path}/{table_id}.json', 'r') as f:
                 table = json.load(f)
-            headers = [" , ".join(cell[0]) for cell in table['header']]
+            headers = [cell[0] for cell in table['header']]
 
             answer_nodes = d['answer-node']
             answer_rows = set([_[1][0] for _ in answer_nodes])
@@ -446,7 +443,7 @@ def prepare_stage2_data(d, table_path='traindev_tables_tok', request_path='train
         with open(f'{resource_path}/{request_path}/{table_id}.json', 'r') as f:
             requested_document = json.load(f)
         
-        headers = [cell[0][0] for cell in table['header']]
+        headers = [cell[0] for cell in table['header']]
         
         answer_nodes = d['answer-node']
         answer_rows = {_[1][0]: _ for _ in answer_nodes}
@@ -456,38 +453,30 @@ def prepare_stage2_data(d, table_path='traindev_tables_tok', request_path='train
             for node in source:
                 i = node[1][0]
                 if i in answer_rows and i >= 0:
-                    tmp = {'question': d['question'], 'question_id': d['question_id'], 'table_id': d['table_id'], 
-                            'current': list(node) + [headers[node[1][1]], name]}
+                    tmp = {'question': d['question'], 'question_id': d['question_id'], 'table_id': d['table_id'], 'current': node + [headers[node[1][1]], name]}
                     target_nodes = []
                     labels = []
                     same_row = table['data'][i]
                     for j, cell in enumerate(same_row):
-                        for content, url in zip(cell[0], cell[1]):
-                            if len(content) > 0:
-                                if url:
-                                    doc = requested_document[url]
-                                    intro = filter_firstKsents(doc, 1)
-                                    target_nodes.append((content, (i, j), url, headers[j], intro))
-                                    if url == answer_rows[i][2]:
-                                        labels.append(1)
-                                    else:
-                                        labels.append(0)
-                                else:
-                                    target_nodes.append((content, (i, j), None, headers[j], ''))
-                                    if content == answer_rows[i][0]:
-                                        labels.append(1)
-                                    else:
-                                        labels.append(0)
-                                
-                        if len(cell[0]) > 1:
-                            content = ' , '.join(cell[0])
+                        content = cell[0]
+                        assert isinstance(content, str), content
+                        if len(content) > 0:
+                            target_nodes.append((content, (i, j), None, headers[j], ''))
+                            
                             if content == answer_rows[i][0]:
                                 labels.append(1)
                             else:
                                 labels.append(0)
-                                
-                            target_nodes.append((content, (i, j), None, headers[j], ''))
-                        
+
+                            for url in cell[1]:
+                                doc = requested_document[url]
+                                intro = filter_firstKsents(doc, 1)
+                                target_nodes.append((url2text(url), (i, j), url, headers[j], intro))
+                                if url == answer_rows[i][2]:
+                                    labels.append(1)
+                                else:
+                                    labels.append(0)
+
                     tmp['labels'] = labels
 
                     assert sum(labels) > 0, d['question_id']

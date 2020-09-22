@@ -5600,13 +5600,6 @@
     "question_postag": "WP VBZ DT JJ NN NN IN DT NN IN VBZ DT JJ NN IN CD NNS ( CD NN NN ) ."
   },
   {
-    "question_id": "40e704bd3a4a4d27",
-    "question": "What is the Derivation of the Irish county name whose province has a high percentage of Protestants ?",
-    "table_id": "Etymological_list_of_counties_of_Ireland_0",
-    "answer-text": "Calgacus , Proto-Celtic , some dispute , County Coleraine",
-    "question_postag": "WP VBZ DT NN IN DT NNP NN NN WP$ NN VBZ DT JJ NN IN NNS ."
-  },
-  {
     "question_id": "8fd0389dc5e2a453",
     "question": "What is the Irish name of the county name that had a population of 32,044 according to the 2016 census ?",
     "table_id": "Etymological_list_of_counties_of_Ireland_0",
@@ -6055,13 +6048,6 @@
     "question_postag": "WP VBZ DT NNP IN NNP IN DT NN WP$ NN POS RBS JJ NNS VBP DT NNP NNP NNP CC NNP NNP ."
   },
   {
-    "question_id": "33214480d31ad3f9",
-    "question": "What is the notability of the person who served on the board of the Victorian Film Corporation from 1977 to 1984 regarding the Royal Melbourne Institute of Technology ?",
-    "table_id": "List_of_alumni_and_faculty_of_the_Royal_Melbourne_Institute_of_Technology_7",
-    "answer-text": "Emmy , Saturn",
-    "question_postag": "WP VBZ DT NN IN DT NN WP VBD IN DT NN IN DT JJ NNP NNP IN CD TO CD VBG DT NNP NNP NNP IN NNP ."
-  },
-  {
     "question_id": "158a053a0873da26",
     "question": "What is the notability of the person who won the Gold Logie Award for Most Popular Personality on Australian Television regarding the Royal Melbourne Institute of Technology ?",
     "table_id": "List_of_alumni_and_faculty_of_the_Royal_Melbourne_Institute_of_Technology_7",
@@ -6207,13 +6193,6 @@
     "table_id": "2008_Major_League_Baseball_Draft_2",
     "answer-text": "Kansas City Monarchs",
     "question_postag": "WP NNP NN VBD DT NN WP VBD NNP CD , CD ."
-  },
-  {
-    "question_id": "c24e3c58cc8e24df",
-    "question": "What position ( s ) did the 2008 Major League Baseball draft athlete play who was born October 7 , 1921 ?",
-    "table_id": "2008_Major_League_Baseball_Draft_2",
-    "answer-text": "Shortstop , Third baseman",
-    "question_postag": "WP NN ( JJ ) VBD DT CD NNP NNP NNP NN JJ NN WP VBD VBN NNP CD , CD ."
   },
   {
     "question_id": "63fec86563629426",

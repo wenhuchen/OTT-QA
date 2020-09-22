@@ -12,37 +12,32 @@ if __name__ == '__main__':
 
     pool = Pool(64)
     if args.split in ['train', 'dev', 'test']:
-        if args.split == 'dev' or args.split == 'test':
-            split = '{}.oracle_retrieval'.format(args.split)
-        else:
-            split = args.split
-        print("using {}".format(split))
-        with open(f'released_data/{split}.json', 'r') as f:
-            train_data = json.load(f)       
+        print("using {}".format(args.split))
+        with open(f'released_data/{args.split}.traced.json', 'r') as f:
+            data = json.load(f)
 
-        results1 = pool.map(IR, train_data)
+        results1 = pool.map(IR, data)
         results2 = pool.map(CELL, results1)
-        train_results = analyze(results2)
+        results = analyze(results2)
         random.shuffle(train_results)
         with open('preprocessed_data/{}_linked.json'.format(args.split), 'w') as f:
-            json.dump(train_results, f, indent=2)
+            json.dump(results, f, indent=2)
  
-        if args.split == 'dev' or args.split == 'test':
-            exit()
-        results = prepare_stage1_data(train_results)
-        with open('preprocessed_data/stage1_training_data.json', 'w') as f:
-            json.dump(results, f, indent=2)
+        if args.split == 'train':
+            results = prepare_stage1_data(train_results)
+            with open('preprocessed_data/stage1_training_data.json', 'w') as f:
+                json.dump(results, f, indent=2)
 
-        results = pool.map(prepare_stage2_data, train_results)
-        train_split = []
-        for r1 in results:
-            train_split.extend(r1)
-        with open('preprocessed_data/stage2_training_data.json', 'w') as f:
-            json.dump(train_split, f, indent=2)
+            results = pool.map(prepare_stage2_data, train_results)
+            train_split = []
+            for r1 in results:
+                train_split.extend(r1)
+            with open('preprocessed_data/stage2_training_data.json', 'w') as f:
+                json.dump(train_split, f, indent=2)
 
-        results = prepare_stage3_data(train_results)
-        with open('preprocessed_data/stage3_training_data.json', 'w') as f:
-            json.dump(results, f, indent=2)
+            results = prepare_stage3_data(train_results)
+            with open('preprocessed_data/stage3_training_data.json', 'w') as f:
+                json.dump(results, f, indent=2)
             
     elif args.split in ['dev']: 
         split = args.split
