@@ -4,6 +4,9 @@ import sys
 import json
 import gzip
 from dateutil.parser import parse
+import re
+import warnings
+warnings.filterwarnings("ignore")
 
 
 def tokenize(string, remove_dot=False):
@@ -49,13 +52,14 @@ def readGZip(file_name):
             data = json.load(fin)
         return data
 
+
 class CellHelper(object):
   """Cell Helper to detect the cell type."""
 
   @staticmethod
   def is_unit(string):
     """Is the input a unit."""
-    return re.search(r'\b(kg|m|cm|lb|hz)\b', string.lower())
+    return re.search(r'\b(kg|m|cm|lb|hz|million)\b', string.lower())
 
   @staticmethod
   def is_score(string):
@@ -83,19 +87,42 @@ class CellHelper(object):
     else:
       return False
 
+  @staticmethod
+  def is_float(string):
+    if '.' in string:
+      try:
+        float(string)
+        return True
+      except Exception:
+        return False
+    else:
+      return False
+
+  @staticmethod
+  def is_normal_word(string):
+    if ' ' not in string:
+      return string.islower()
+    else:
+      return False
+
 
 def whitelist(string):
   """Is the input a whitelist string."""
   string = string.strip()
-  if len(string) == 1:
+  if len(string) < 2:
     return False
+  elif string.isdigit():
+    if len(string) == 4:
+      return True
+    else:
+      return False
   elif string.replace(',', '').isdigit():
     return False
-  elif len(string) != 4 and string.isdigit():
+  elif CellHelper.is_float(string):
     return False
-  elif is_float(string):
+  elif '#' in string or '%' in string or '+' in string or '$' in string: 
     return False
-  elif '#' in string or '%' in string or '+' in string:
+  elif CellHelper.is_normal_word(string):
     return False
   elif CellHelper.is_bool(string):
     return False

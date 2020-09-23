@@ -318,6 +318,10 @@ def get_tfidf_matrix(cnts, idf_cnts, option='tf-idf'):
     if option == 'tfidf':
         # Computing the TF parameters
         tfs = cnts.log1p()
+        #ratio = np.array(cnts.sum(0)).squeeze()
+        #ratio = sp.diags(ratio, 0)
+        #ratio.data = 1 / (ratio.data + 0.001)
+        #tfs = cnts.dot(ratio)
     elif option == 'bm25':
         k1 = 1.5
         b = 0.75
@@ -392,15 +396,12 @@ if __name__ == '__main__':
     count_matrix, doc_dict = get_count_matrix(
         args, 'sqlite', {'db_path': args.tmp_db_file}
     )
-    idf_count_matrix, _ = get_count_matrix(
-        args, 'sqlite', {'db_path': args.tmp_db_file}
-    )
 
     logger.info('Making tfidf vectors...')
-    tfidf = get_tfidf_matrix(count_matrix, idf_count_matrix, option=args.option)
+    tfidf = get_tfidf_matrix(count_matrix, count_matrix, option=args.option)
 
     logger.info('Getting word-doc frequencies...')
-    freqs = get_doc_freqs(idf_count_matrix)
+    freqs = get_doc_freqs(count_matrix)
 
     basename = 'index'
     basename += ('-%s-ngram=%d-hash=%d-tokenizer=%s' %
