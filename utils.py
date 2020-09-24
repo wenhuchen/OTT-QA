@@ -133,3 +133,10 @@ def whitelist(string):
   elif CellHelper.is_date(string):
     return False
   return True
+
+
+def is_year(string):
+  if len(string) == 4 and string.isdigit():
+    return True
+  else:
+    return False
