@@ -53,131 +53,125 @@ def use_what(whole_representation, usage):
     else:
         raise NotImplementedError()
 
-if args.split == 'train':
+
+if args.format == 'question_table':
     with open(f'released_data/{args.split}.json', 'r') as f:
         data = json.load(f)
-else:
-    with open(f'released_data/{args.split}.oracle_retrieval.json', 'r') as f:
+    for k in [1, 5, 10, 20, 50]:
+        succ = 0
+        for i, d in enumerate(data):
+            groundtruth_doc = d['table_id']
+            query = d['question']
+            doc_names, doc_scores = ranker.closest_docs(query, k)
+            if groundtruth_doc in doc_names:
+                succ += 1
+            sys.stdout.write('finished {}/{}; HITS@{} = {} \r'.format(i + 1, len(data), k, succ / (i + 1)))
+
+        print('finished {}/{}; HITS@{} = {} \r'.format(i + 1, len(data), k, succ / (i + 1)))
+
+elif args.format == 'question_text':
+    with open(f'released_data/{args.split}.json', 'r') as f:
         data = json.load(f)
+    for k in [1, 5, 10, 20, 50]:
+        succ = 0
+        fail = 0
+        for i, d in enumerate(data):
+            if d['where'] == 'passage':
+                groundtruth_doc = []
+                for node in d['answer-node']:
+                    groundtruth_doc.append(node[2])
 
-if not args.debug:
-    if not args.cell:
-        if args.format == 'table':
-            for k in [1, 5, 10, 20, 50]:
-                succ = 0
-                for i, d in enumerate(data):
-                    groundtruth_doc = d['table_id']
-                    query = d['question']
-                    doc_names, doc_scores = ranker.closest_docs(query, k)
-                    if groundtruth_doc in doc_names:
-                        succ += 1
-                    sys.stdout.write('finished {}/{}; HITS@{} = {} \r'.format(i + 1, len(data), k, succ / (i + 1)))
+                query = d['question']
+                doc_names, doc_scores = ranker.closest_docs(query, k)
+                if any([_ in doc_names for _ in groundtruth_doc]):
+                    succ += 1
+                else:
+                    fail += 1
+                sys.stdout.write('finished {}/{}; HITS@{} = {} \r'.format(i + 1, len(data), k, succ / (succ + fail)))
 
-                print('finished {}/{}; HITS@{} = {} \r'.format(i + 1, len(data), k, succ / (i + 1)))                
-        elif args.format == 'text':
-            print("running ablation study to retrieve text directly")
-            for k in [1, 5, 10, 20, 50]:
-                succ = 0
-                fail = 0
-                for i, d in enumerate(data):
-                    if d['where'] == 'passage':
-                        groundtruth_doc = []
-                        for node in d['answer-node']:
-                            groundtruth_doc.append(node[2])
+        print('finished {}/{}; HITS@{} = {} \r'.format(i + 1, len(data), k, succ / (i + 1)))
 
-                        query = d['question']
-                        doc_names, doc_scores = ranker.closest_docs(query, k)
-                        if any([_ in doc_names for _ in groundtruth_doc]):
-                            succ += 1
-                        else:
-                            fail += 1
-                        sys.stdout.write('finished {}/{}; HITS@{} = {} \r'.format(i + 1, len(data), k, succ / (succ + fail)))
+elif args.format == 'cell_text':
+    with open('data/traindev_tables.json') as f:
+        traindev_tables = json.load(f)
+    with open('released_data/train_dev_test_table_ids.json') as f:
+        tables_ids = set(json.load(f)['dev'])
+    with open('link_generator/row_passage_query.json', 'r') as f:
+        mapping = json.load(f)
 
-                print('finished {}/{}; HITS@{} = {} \r'.format(i + 1, len(data), k, succ / (i + 1)))
-    else:
-        if args.format == 'text':
-            print("running cell level retrieval for linked text")
-            pairwise_info = []
-            for d in data:
-                table_id = d['table_id']
-                with open('data/tables_tok/{}.json'.format(table_id), 'r') as f:
-                    table = json.load(f)
-                
-                meta_info = cell_representation(table)
-                for row in table['data']:
-                    for cell in row:
-                        for sub_cell, gt in zip(cell[0], cell[1]):
-                            if sub_cell and len(sub_cell) > 1:
-                                request = meta_info + [sub_cell]
-                                pairwise_info.append((request, gt))
-            with open('data/table_cell_retrieval.json', 'w') as f:
-                json.dump(pairwise_info, f, indent=2)
+    succ, prec_total, recall_total = 0, 0, 0
+    for k, table in traindev_tables.items():
+        if k not in tables_ids:
+            continue
 
-            for k in [1, 5, 10, 20, 50]:
-                succ = 0
-                fail = 0
-                for i, d in enumerate(pairwise_info):
-                    query = use_what(d[0], args.usage)
+        for j, row in enumerate(table['data']):
+            row_id = k + '_{}'.format(j)
+            queries = mapping.get(row_id, [])
+            gt_docs = []
+            for cell in row:
+                gt_docs.extend(cell[1])
+            doc_names = []
+            for query in queries:
+                #doc_names.append('/wiki/' + query.replace(' ', '_'))
+                try:
+                    doc_name, doc_scores = ranker.closest_docs(query, 1)
+                    doc_names.extend(doc_name)
+                except Exception:
+                    pass
+
+            succ += len(set(gt_docs) & set(doc_names))
+            prec_total += len(queries)
+            recall_total += len(gt_docs)
+
+            if len(queries) == 0 and len(gt_docs) > 0:
+                #import pdb
+                #pdb.set_trace()
+                pass
+
+        recall = succ / (recall_total + 0.01)
+        precision = succ / (prec_total + 0.01)
+        f1 = 2 * recall * precision / (precision + recall + 0.01)
+        sys.stdout.write('F1@{} = {} \r'.format(1, f1))
+    
+    print('F1@{} = {}'.format(1, f1))
+
+elif args.format == 'table_construction':
+    with open('preprocessed_data/test.json', 'r') as f:
+        required_test_tables = json.load(f)
+    with open(args.offline_cell_classification, 'r') as f:
+        offline_cell_classification = json.load(f)
+    with open(args.all_request, 'r') as f:
+        all_request = json.load(f)
+
+    for entry in required_test_tables:
+        table_id = entry['table_id']
+        with open('data/plain_tables_tok/{}.json'.format(table_id), 'r') as f:
+            table = json.load(f)
+
+        for i, cell in enumerate(table['header']):
+            table['header'][i] = ([cell], [None])
+
+        requests = {}
+        for i, row in enumerate(table['data']):
+            for j, cell in enumerate(row):
+                success = False
+                if offline_cell_classification['{}_{}_{}'.format(table_id, i, j)] == 1:
+                    query = use_what((None, None, cell), args.usage)
                     try:
-                        doc_names, doc_scores = ranker.closest_docs(query, k)
-                        if d[1] and d[1] in doc_names:
-                            succ += 1
-                        elif d[1] and d[1] not in doc_names:
-                            fail += 1
-                        else:
-                            pass
+                        doc_names, doc_scores = ranker.closest_docs(query, 1)
+                        table['data'][i][j] = ([cell], [doc_names[0]])
+                        requests[doc_names[0]] = all_request[doc_names[0]]
+                        success = True
                     except Exception:
                         pass
-                    sys.stdout.write('finished {}/{}; HITS@{} = {} \r'.format(i + 1, len(pairwise_info), k, succ / (succ + fail)))
-                print('finished {}/{}; HITS@{} = {}'.format(i + 1, len(pairwise_info), k, succ / (succ + fail)))
-        
-        elif args.format == 'table_construction':
-            with open('preprocessed_data/test.json', 'r') as f:
-                required_test_tables = json.load(f)
-            with open(args.offline_cell_classification, 'r') as f:
-                offline_cell_classification = json.load(f)
-            with open(args.all_request, 'r') as f:
-                all_request = json.load(f)
-
-            for entry in required_test_tables:
-                table_id = entry['table_id']
-                with open('data/plain_tables_tok/{}.json'.format(table_id), 'r') as f:
-                    table = json.load(f)
-
-                for i, cell in enumerate(table['header']):
-                    table['header'][i] = ([cell], [None])
-
-                requests = {}
-                for i, row in enumerate(table['data']):
-                    for j, cell in enumerate(row):
-                        success = False
-                        if offline_cell_classification['{}_{}_{}'.format(table_id, i, j)] == 1:
-                            query = use_what((None, None, cell), args.usage)
-                            try:
-                                doc_names, doc_scores = ranker.closest_docs(query, 1)
-                                table['data'][i][j] = ([cell], [doc_names[0]])
-                                requests[doc_names[0]] = all_request[doc_names[0]]
-                                success = True
-                            except Exception:
-                                pass
-                        
-                        if not success:
-                            table['data'][i][j] = ([cell], [None])
                 
-                with open('data/reconstructed_tables/{}.json'.format(table_id), 'w') as f:
-                    json.dump(table, f, indent=2)
-                with open('data/reconstructed_request/{}.json'.format(table_id), 'w') as f:
-                    json.dump(requests, f, indent=2)
-        else:
-            raise NotImplementedError()
-
+                if not success:
+                    table['data'][i][j] = ([cell], [None])
+        
+        with open('data/reconstructed_tables/{}.json'.format(table_id), 'w') as f:
+            json.dump(table, f, indent=2)
+        with open('data/reconstructed_request/{}.json'.format(table_id), 'w') as f:
+            json.dump(requests, f, indent=2)
 else:
-    for i, d in enumerate(data):
-        groundtruth_doc = d['table_id']
-        query = d['question']
-        doc_names, doc_scores = ranker.closest_docs(query, 5)
-        print(query)
-        print(groundtruth_doc)
-        print(doc_names)
-        input("Hit key to see next one!")
+    raise NotImplementedError()
 
