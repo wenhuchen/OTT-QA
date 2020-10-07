@@ -19,15 +19,20 @@ from multiprocessing.util import Finalize
 from functools import partial
 from collections import Counter
 
-from drqa import retriever
-from drqa import tokenizers
+import sys
+
+current_path = os.path.dirname(os.path.abspath(__file__))
+
+sys.path.append(os.path.dirname(current_path))
+
+import drqa.retriever
+import drqa.drqa_tokenizers
 
 import sqlite3
 import json
 import importlib.util
 
 from tqdm import tqdm
-from drqa.retriever import utils
 
 
 logger = logging.getLogger()
@@ -237,15 +242,15 @@ def count(ngram, hash_size, doc_id):
     global DOC2IDX
     row, col, data = [], [], []
     # Tokenize
-    tokens = tokenize(retriever.utils.normalize(fetch_text(doc_id)))
+    tokens = tokenize(drqa.retriever.utils.normalize(fetch_text(doc_id)))
 
     # Get ngrams from tokens, with stopword/punctuation filtering.
     ngrams = tokens.ngrams(
-        n=ngram, uncased=True, filter_fn=retriever.utils.filter_ngram
+        n=ngram, uncased=True, filter_fn=drqa.retriever.utils.filter_ngram
     )
 
     # Hash ngrams and count occurences
-    counts = Counter([retriever.utils.hash(gram, hash_size) for gram in ngrams])
+    counts = Counter([drqa.retriever.utils.hash(gram, hash_size) for gram in ngrams])
 
     # Return in sparse matrix data format.
     row.extend(counts.keys())
@@ -261,13 +266,13 @@ def get_count_matrix(args, db, db_opts):
     """
     # Map doc_ids to indexes
     global DOC2IDX
-    db_class = retriever.get_class(db)
+    db_class = drqa.retriever.get_class(db)
     with db_class(**db_opts) as doc_db:
         doc_ids = doc_db.get_doc_ids()
     DOC2IDX = {doc_id: i for i, doc_id in enumerate(doc_ids)}
 
     # Setup worker pool
-    tok_class = tokenizers.get_class(args.tokenizer)
+    tok_class = drqa.drqa_tokenizers.get_class(args.tokenizer)
     workers = ProcessPool(
         args.num_workers,
         initializer=init,
@@ -416,4 +421,4 @@ if __name__ == '__main__':
         'ngram': args.ngram,
         'doc_dict': doc_dict
     }
-    retriever.utils.save_sparse_csr(filename, tfidf, metadata)
+    drqa.retriever.utils.save_sparse_csr(filename, tfidf, metadata)

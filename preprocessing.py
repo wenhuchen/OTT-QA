@@ -13,7 +13,6 @@ import dateparser
 from dateparser.search import search_dates
 from dateparser import parse
 import json
-from multiprocessing import Pool
 import os
 
 stopWords = set(stopwords.words('english'))
@@ -59,14 +58,18 @@ def longest_match_distance(str1s, str2s):
     return longest_string
 
 
-def IR(data_entry, table_path='traindev_tables_tok', request_path='traindev_request_tok'):
+def IR(data_entry, table_path=None, request_path=None):
     table_id = data_entry['table_id']
     threshold = 0.99
-    # Loading the table/request information
-    with open(f'{resource_path}/{table_path}/{table_id}.json') as f:
-        table = json.load(f)
-    with open(f'{resource_path}/{request_path}/{table_id}.json') as f:
-        requested_documents = json.load(f)
+    if table_path is not None and request_path is not None:
+        # Loading the table/request information
+        with open(f'{resource_path}/{table_path}/{table_id}.json') as f:
+            table = json.load(f)
+        with open(f'{resource_path}/{request_path}/{table_id}.json') as f:
+            requested_documents = json.load(f)
+    else:
+        table = data_entry.pop('table')
+        requested_documents = data_entry.pop('requested_documents')
 
     # Mapping entity link to cell, entity link to surface word
     mapping_entity = {}
@@ -212,7 +215,7 @@ def find_superlative(table_id, table):
 
     return nodes
 
-def CELL(d, table_path='traindev_tables_tok'):
+def CELL(d, table_path=None):
     threshold = 90
     # LINKING THE CELL DATA
     triggers = ['JJR', 'JJS', 'RBR', 'RBS']
@@ -220,8 +223,12 @@ def CELL(d, table_path='traindev_tables_tok'):
     new_processed = []
 
     table_id = d['table_id']
-    with open(f'{resource_path}/{table_path}/{table_id}.json') as f:
-        table = json.load(f)        
+
+    if table_path is not None:
+        with open(f'{resource_path}/{table_path}/{table_id}.json') as f:
+            table = json.load(f)
+    else:
+        table = d.pop('table')
 
     tmp_link = []
     for row_idx, row in enumerate(table['data']):
@@ -241,7 +248,7 @@ def CELL(d, table_path='traindev_tables_tok'):
 
     return d
 
-def analyze(processed, table_path='traindev_tables_tok'):
+def analyze(processed, table_path):
     trivial, easy, medium, hard, no_answer, number, yesorno, repeated = 0, 0, 0, 0, 0, 0, 0, 0
     from_passage, from_cell, from_both = 0, 0, 0
     new_processed = []
@@ -366,12 +373,16 @@ def analyze(processed, table_path='traindev_tables_tok'):
 
     return new_processed
 
-def generate_inputs(data, table_path='traindev_tables_tok'):
+def generate_inputs(data, table_path=None):
     split = []
     for d in data:
         table_id = d['table_id']
-        with open(f'{resource_path}/{table_path}/{table_id}.json', 'r') as f:
-            table = json.load(f)
+        if table_path is not None:
+            with open(f'{resource_path}/{table_path}/{table_id}.json', 'r') as f:
+                table = json.load(f)
+        else:
+            table = d['table']
+
         headers = [cell[0] for cell in table['header']]
 
         tmp = []
@@ -386,7 +397,7 @@ def generate_inputs(data, table_path='traindev_tables_tok'):
                       'table_id': d['table_id'], 'nodes': tmp})
     return split
 
-def prepare_stage1_data(data, table_path='traindev_tables_tok'):
+def prepare_stage1_data(data, table_path):
     split = []
     for d in data:
         if d['type'] in ['medium', 'easy']:
@@ -480,7 +491,7 @@ def prepare_stage2_data(d, table_path='traindev_tables_tok', request_path='train
 
     return split
 
-def prepare_stage3_data(data, request_path='traindev_request_tok'):
+def prepare_stage3_data(data, request_path):
     split = []
     for d in data:
         if d['where'] == 'passage':

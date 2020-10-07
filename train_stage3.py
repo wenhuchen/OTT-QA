@@ -346,9 +346,6 @@ def squad_convert_examples_to_features(examples, tokenizer, max_seq_length, doc_
                 desc="convert squad examples to features",
             )
         )
-    #features = []
-    #for e in examples:
-    #    features.append(squad_convert_example_to_features(tokenizer, e, max_seq_length, doc_stride, max_query_length, is_training))
 
     new_features = []
     unique_id = 1000000000
@@ -1088,6 +1085,9 @@ def main():
         model = model_class.from_pretrained(args.model_name_or_path)
         model.to(args.device)
         
+        with open(args.request_path, 'r') as f:
+            requests = json.load(f)
+
         #evaluate(args, model, tokenizer, prefix=global_step)
         with open(args.predict_file, 'r') as f:
             data = json.load(f)
@@ -1098,13 +1098,11 @@ def main():
             if isinstance(d['pred'], str):
                 continue
 
-            table_id = d['table_id']            
-            with open('{}/{}/{}.json'.format(args.resource_dir, args.request_path, table_id)) as f:
-                requested_documents = json.load(f)  
+            table_id = d['table_id']
             
             node = d['pred']
 
-            context = 'Title : {} . {}'.format(node[0], requested_documents[node[1]])
+            context = 'Title : {} . {}'.format(node[0], requests[node[1]])
             
             full_split.append({'context': context, 'title': table_id, 
                               'question': d['question'], 'question_id': d['question_id'],

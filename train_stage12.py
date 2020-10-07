@@ -48,45 +48,14 @@ def set_seed(args):
     if args.n_gpu > 0:
         torch.cuda.manual_seed_all(args.seed)
 
-def generate_target_nodes(path, d, table_path, request_path):
-    table_id = d['table_id']
-    with open(f'{path}/{table_path}/{table_id}.json', 'r') as f:
-        table = json.load(f)
-    
-    with open(f'{path}/{request_path}/{table_id}.json', 'r') as f:
-        requested_document = json.load(f)
 
-    headers = [cell[0][0] for cell in table['header']]
+def url2text(url):
+    return url.replace('/wiki/', '').replace('_', ' ')
 
-    results = []
-    for node in d['nodes']:
-        i = node[1][0]
-        tmp = {'question': d['question'], 'question_id': d['question_id'], 
-               'table_id': d['table_id'], 'current': node}        
-        target_nodes = []
-        same_row = table['data'][i]
-        for j, cell in enumerate(same_row):
-            for content, url in zip(cell[0], cell[1]):
-                if len(content) > 0:
-                    if url:
-                        doc = requested_document[url]
-                        intro = filter_firstKsents(doc, 1)
-                        target_nodes.append((content, (i, j), url, headers[j], intro))
-                    else:
-                        target_nodes.append((content, (i, j), None, headers[j], ''))
-                    
-            if len(cell[0]) > 1:
-                content = ' , '.join(cell[0])
-                target_nodes.append((content, (i, j), None, headers[j], ''))
-
-        tmp['target'] = target_nodes
-        results.append(tmp)
-
-    return results
 
 class Stage12Dataset(Dataset):
     def __init__(self, path, data, tokenizer, max_seq_length, option, \
-                 table_path, retain_label=True, shuffle=True):
+                 tables, requests=None, retain_label=True, shuffle=True):
         super(Stage12Dataset, self).__init__()
         self.shuffle = shuffle
         self.retain_label = retain_label
@@ -95,10 +64,38 @@ class Stage12Dataset(Dataset):
         self.data = data
         self.tokenizer = tokenizer
         self.path = path
-        self.table_path = table_path
+
+        assert isinstance(tables, str) or isinstance(tables, dict)
+        self.tables = tables
+
+        if requests:
+            assert isinstance(requests, str) or isinstance(requests, dict)
+            self.requests = requests
 
     def __len__(self):
         return len(self.data)
+
+    def read_table_passage(self, table_id):
+        table, requested_document = {}, {}
+        if isinstance(self.tables, str):
+            with open(f'{self.path}/{self.tables}/{table_id}.json', 'r') as f:
+                table = json.load(f)
+        else:
+            assert hasattr(self, 'tables')
+            table = self.tables[table_id]
+
+        if self.requests:
+            # If the request path is not None 
+            if isinstance(self.requests, str):
+                with open(f'{self.path}/{self.requests}/{table_id}.json', 'r') as f:
+                    requested_document = json.load(f)
+            else:
+                for row in table['data']:
+                    for cell in row:
+                        for ent in cell[1]:
+                            requested_document[ent] = self.requests[ent]
+
+        return table, requested_document
 
     def part2_factory(self, node):
         if node[3]:
@@ -106,6 +103,35 @@ class Stage12Dataset(Dataset):
         else:
             tmp = '{} is {} . [SEP]'.format(node[5], node[0])
         return tmp
+
+    def generate_target_nodes(self, d):
+        table_id = d['table_id']
+
+        table, requested_document = self.read_table_passage(table_id)
+
+        headers = [cell[0] for cell in table['header']]
+
+        results = []
+        for node in d['nodes']:
+            i = node[1][0]
+            tmp = {'question': d['question'], 'question_id': d['question_id'], 
+                   'table_id': d['table_id'], 'current': node}        
+            target_nodes = []
+            same_row = table['data'][i]
+            for j, cell in enumerate(same_row):
+                content = cell[0]
+                assert isinstance(content, str)
+                if len(content) > 0:
+                    target_nodes.append((content, (i, j), None, headers[j], ''))
+                    for url in cell[1]:
+                        doc = requested_document[url]
+                        intro = filter_firstKsents(doc, 1)
+                        target_nodes.append((url2text(url), (i, j), url, headers[j], intro))
+
+            tmp['target'] = target_nodes
+            results.append(tmp)
+
+        return results
 
     def __getitem__(self, index):
         if self.shuffle:
@@ -115,8 +141,7 @@ class Stage12Dataset(Dataset):
 
         if self.option == 'stage1':
             table_id = d['table_id']
-            with open('{}/{}/{}.json'.format(self.path, self.table_path, table_id), 'r') as f:
-                table = json.load(f)        
+            table, _ = self.read_table_passage(table_id)
             
             question = d['question']
             input_tokens = []
@@ -129,6 +154,8 @@ class Stage12Dataset(Dataset):
                 d['nodes'] = d['nodes'][:16]
                 if self.retain_label:
                     d['labels'] = d['labels'][:16]
+
+            headers = [_[0] for _ in table['header']]
 
             # Node -> 0: content, 1: location, 2: url, 3: description, 4: confidence
             for node in d['nodes']:
@@ -150,13 +177,9 @@ class Stage12Dataset(Dataset):
                 # Neighbors of the linked enitty
                 tmp = ''
                 for i, cell in enumerate(table['data'][coordinates[0]]):
-                    for _ in cell[0]:
-                        if i != coordinates[1]:
-                            if _ == "":
-                                _ = 'unknown'
-                            tmp += '{} is {} ; '.format(table['header'][i][0][0], _)
-                        else:
-                            continue
+                    assert isinstance(cell[0], str)
+                    if i != coordinates[1]:
+                        tmp += '{} is {} ; '.format(headers[i], cell[0])
                 
                 tmp = tmp[:-3] + " ."
                 part3 = self.tokenizer.tokenize(tmp)
@@ -518,7 +541,7 @@ def main():
     if args.do_train:
         train_data = readGZip(args.train_file)
         dataset = Stage12Dataset(args.resource_dir, train_data, tokenizer, args.max_seq_length, args.option, \
-                                 table_path=args.table_path, retain_label=True, shuffle=True)
+                                 tables=args.table_path, retain_label=True, shuffle=True)
         loader = DataLoader(dataset, batch_size=None, batch_sampler=None, num_workers=8, shuffle=False, pin_memory=True)
 
         tb_writer = SummaryWriter(log_dir=args.output_dir)
@@ -615,6 +638,12 @@ def main():
         tb_writer.close()
 
     elif args.do_eval and args.option == 'stage12':
+        with open(args.table_path, 'r') as f:
+            tables = json.load(f)
+        with open(args.request_path, 'r') as f:
+            requests = json.load(f)
+        logger.info('finished reading tables and requests.')
+
         dev_data = readGZip(args.predict_file)
         filtered_dev_data = []
         for d in dev_data:
@@ -638,7 +667,7 @@ def main():
         succ, total = 0, 0
 
         dataset = Stage12Dataset(args.resource_dir, dev_data, tokenizer, args.max_seq_length, 'stage1', 
-                                 table_path=args.table_path, retain_label=False, shuffle=False)
+                                 tables=tables, requests=requests, retain_label=False, shuffle=False)
         loader = DataLoader(dataset, batch_size=None, batch_sampler=None, num_workers=8, shuffle=False, pin_memory=True)
 
         for step, batch in enumerate(tqdm(loader, desc="Evaluation")):
@@ -647,11 +676,11 @@ def main():
 
             info = dev_data[batch[-1]]
             info['nodes'] = [info['nodes'][torch.argmax(probs, 0).item()]]
-            info = generate_target_nodes(args.resource_dir, info, args.table_path, args.request_path)
+            info = dataset.generate_target_nodes(info)
             
             selected_target_nodes = []            
             inner_dataset = Stage12Dataset(args.resource_dir, info, tokenizer, args.max_seq_length, 'stage2', 
-                                           table_path=args.table_path, retain_label=False, shuffle=False)
+                                           tables=tables, retain_label=False, shuffle=False)
             for b in inner_dataset:
                 data = tuple(Variable(t).to(args.device) for t in b[:-1])
                 probs = jump_model(*data)
