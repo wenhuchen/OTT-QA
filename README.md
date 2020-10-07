@@ -59,7 +59,7 @@ This command will download the crawled tables and linked passages from Wikiepdia
 ```
 python retrieve_and_preprocess.py --split train
 ```
-This command will generate training data for different submodules in the following steps. For dev/test, it will also retrieve tables from the pool.
+This command will generate training data for different submodules in the following steps.
 
 ### Step2-2: Train the three modules in the reader.
 ```
@@ -70,11 +70,14 @@ python train_stage3.py --do_train  --do_lower_case   --train_file preprocessed_d
 The three commands separately train the step1, step2 and step3 neural modules, all of them are based on BERT-uncased-base model from HugginFace implementation.
 
 ## Step3: Evaluation
-### Step3-1: Reconstruct Hyperlinked Table using built index
+
+### Step3-1: Reconstruct Hyperlinked Table using built text title index
 ```
 python evaluate_retriever.py --format table_construction --model retriever/text_title_bm25/index-bm25-ngram\=2-hash\=16777216-tokenizer\=simple.npz
 python retrieve_and_preprocess.py --split dev_retrieve --model retriever/title_sectitle_schema/index-tfidf-ngram\=2-hash\=16777216-tokenizer\=simple.npz
 ```
+This step can potentially take a long time since it matches each cell in the 400K tables against the whole passage title pool.
+
 ### Step3-2: Evaluate with the trained model
 ```
 python train_stage12.py --stage1_model stage1/[YOUR-MODEL-FOLDER] --stage2_model stage2/[YOUR-MODEL-FOLDER] --do_lower_case --predict_file preprocessed_data/dev_retrieve_linked.json --do_eval --option stage12 --model_name_or_path bert-large-uncased --table_path data/all_constructed_tables.json --request_path data/all_passages.json
