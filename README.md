@@ -75,6 +75,7 @@ The three commands separately train the step1, step2 and step3 neural modules, a
 ```
 python evaluate_retriever.py --format table_construction --model retriever/text_title_bm25/index-bm25-ngram\=2-hash\=16777216-tokenizer\=simple.npz
 python retrieve_and_preprocess.py --split dev_retrieve --model retriever/title_sectitle_schema/index-tfidf-ngram\=2-hash\=16777216-tokenizer\=simple.npz
+python retrieve_and_preprocess.py --split test_retrieve --model retriever/title_sectitle_schema/index-tfidf-ngram\=2-hash\=16777216-tokenizer\=simple.npz
 ```
 This step can potentially take a long time since it matches each cell in the 400K tables against the whole passage title pool.
 
