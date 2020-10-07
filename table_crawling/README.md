@@ -13,7 +13,4 @@ After this step, you will have a htmls/ folder containing thousands of htmls fil
 ```
 	python pipeline.py
 ```
-In this step, the model will extract tables and their hyperlinks, which is used to request the www to obtain the passages associated with it. Finally, the tokenized data of tables_tok/ and request_tok/ will be generated for the next step.
-
-## Packed table and request files [Optional]
-The pipeline.py will generate each table as a separate file, so there will be totally over 400K files in your system, which could potentially cause some issue. If you want to have a packed table and request file. Please download from [all_tables.json](https://opendomainhybridqa.s3-us-west-2.amazonaws.com/all_tables.json) and [all_request.json](https://opendomainhybridqa.s3-us-west-2.amazonaws.com/all_requests.json)
+In this step, the model will extract tables and their hyperlinks, which is used to request the www to obtain the passages associated with it. Finally, the tokenized data of tables_tok/ and request_tok/ will be generated to the local directory. The data/all_plain_tables.json and data/all_passages.json are generated to the parent data folder.
