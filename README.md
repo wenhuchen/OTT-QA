@@ -20,17 +20,13 @@ What's new compared to [HybridQA](http://hybridqa.github.io/):
 
 ## Requirements
 - [HuggingFace](https://github.com/huggingface/transformers)
-- [DocQA](https://github.com/facebookresearch/DrQA)
 - [Pytorch 1.4](https://pytorch.org/)
+- [scipy] (https://www.scipy.org/)
 
 We suggest using virtual environment to install these dependencies.
 ```
 pip install transformers
-
 conda install pytorch torchvision cudatoolkit=10.2 -c pytorch
-
-git clone https://github.com/facebookresearch/DrQA.git
-cd DrQA; pip install -r requirements.txt; python setup.py develop
 ```
 
 ## Additional Information
@@ -76,7 +72,7 @@ The three commands separately train the step1, step2 and step3 neural modules, a
 ## Step3: Evaluation
 ### Step3-1: Reconstruct Hyperlinked Table using built index
 ```
-python retriever_baseline.py --format table_construction --model retriever/text_title_bm25/index-bm25-ngram\=2-hash\=16777216-tokenizer\=simple.npz
+python evaluate_retriever.py --format table_construction --model retriever/text_title_bm25/index-bm25-ngram\=2-hash\=16777216-tokenizer\=simple.npz
 python retrieve_and_preprocess.py --split dev_retrieve --model retriever/title_sectitle_schema/index-tfidf-ngram\=2-hash\=16777216-tokenizer\=simple.npz
 ```
 ### Step3-2: Evaluate with the trained model
