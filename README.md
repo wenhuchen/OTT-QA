@@ -21,7 +21,7 @@ What's new compared to [HybridQA](http://hybridqa.github.io/):
 ## Requirements
 - [HuggingFace](https://github.com/huggingface/transformers)
 - [Pytorch 1.4](https://pytorch.org/)
-- [scipy] (https://www.scipy.org/)
+- [scipy](https://www.scipy.org/)
 
 We suggest using virtual environment to install these dependencies.
 ```
