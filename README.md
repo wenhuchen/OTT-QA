@@ -1,17 +1,18 @@
 # Open Table-and-Text Question Answering (OTT-QA)
 
-This respository contains the dataset "Open Table-and-Text Question Answering" and baseline code for the dataset. This dataset contains open-domain questions which require retrieving tables and text from the web to answer. This dataset is re-annotated from the previous HybridQA dataset. 
+This respository contains the dataset "Open Table-and-Text Question Answering" and baseline code for the dataset (OTT-QA). This dataset contains open questions which require retrieving tables and text from the web to answer. This dataset is re-annotated from the previous HybridQA dataset. 
 
 What's new compared to [HybridQA](http://hybridqa.github.io/):
 - The questions are de-contextualized to be standalone without relying on the given context to understand.
 - We add new dev/test set questions the newly crawled tables, which removes the potential bias in table retrieval.
+- The groundtruth table and passage are not given to the model, it needs to retrieve from 400K+ candidates of tables and 5M candidates of passages to find the evidence.
 - The tables in OTT-QA do not have groundtruth hyperlinks, which simulates a more general scenario outside Wikipedia.
 
 
 ## Folder Hierarchy
 - released_data: this folder contains the question/answer pairs for training, dev and test data.
-- data/all_plain_tables.json: this file contains the 400K+ tables for the dev/test set.
-- data/all_passages.json: this file contains the 5M+ open-domain passages for the dev/test set.
+- data/all_plain_tables.json: this file contains the 400K+ table candidates for the dev/test set.
+- data/all_passages.json: this file contains the 5M+ open-domain passage candidates for the dev/test set.
 - data/traindev_tables_tok: this folder contains the train/dev tables.
 - data/traindev_request_tok: this folder cotains the linked passages for train/dev in-domain tables
 - table_crawling/: the folder contains the table extraction steps from Wikipedia.
