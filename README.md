@@ -25,8 +25,8 @@ What's new compared to [HybridQA](http://hybridqa.github.io/):
 
 We suggest using virtual environment to install these dependencies.
 ```
-pip install transformers
 conda install pytorch torchvision cudatoolkit=10.2 -c pytorch
+pip install transformers
 ```
 
 ## Additional Information
