@@ -36,15 +36,8 @@ If you want to know more about the retrieval procedure, please refer to [retriev
 
 Or you can skip these two steps to directly download the needed files from AWS in Step1.
 
-## Step0: Build inedx for retriever
-```
-cd retriever/
-python build_tfidf.py --build_option text_title --out_dir text_title_bm25 --option bm25
-python build_tfidf.py --build_option title_sectitle_schema --out_dir title_sectitle_schema
-```
-This script will print the recall@1,5,10,20,50 for TF-IDF retrieval under title+title section+schema setting.
-
-## Step1: Download the necessary files 
+## Step1: Preliminary Step
+## Step1-1: Download the necessary files 
 ```
 unzip tf-idf-index.zip
 cd data/
@@ -53,6 +46,14 @@ wget https://opendomainhybridqa.s3-us-west-2.amazonaws.com/all_passages.json
 cd ../
 ```
 This command will download the crawled tables and linked passages from Wikiepdia in a cleaned format.
+## Step1-2: Build inedx for retriever
+```
+cd retriever/
+python build_tfidf.py --build_option text_title --out_dir text_title_bm25 --option bm25
+python build_tfidf.py --build_option title_sectitle_schema --out_dir title_sectitle_schema
+```
+This script will generate index files under retriever/ folder, which are used in the following experiments
+
 
 ## Step2: Training
 ### Step2-1: Preprocess the training data
@@ -70,7 +71,6 @@ python train_stage3.py --do_train  --do_lower_case   --train_file preprocessed_d
 The three commands separately train the step1, step2 and step3 neural modules, all of them are based on BERT-uncased-base model from HugginFace implementation.
 
 ## Step3: Evaluation
-
 ### Step3-1: Reconstruct Hyperlinked Table using built text title index
 ```
 python evaluate_retriever.py --format table_construction --model retriever/text_title_bm25/index-bm25-ngram\=2-hash\=16777216-tokenizer\=simple.npz
