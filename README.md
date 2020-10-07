@@ -73,7 +73,7 @@ The three commands separately train the step1, step2 and step3 neural modules, a
 
 ## Step4: Evaluation
 ```
-python train_stage12.py --stage1_model stage1/[YOUR-MODEL-FOLDER] --stage2_model stage2/[YOUR-MODEL-FOLDER] --do_lower_case --predict_file preprocessed_data/dev_retrieve_linked.json --do_eval --option stage12
+python train_stage12.py --stage1_model stage1/[YOUR-MODEL-FOLDER] --stage2_model stage2/[YOUR-MODEL-FOLDER] --do_lower_case --predict_file preprocessed_data/dev_retrieve_linked.json --do_eval --option stage12 --model_name_or_path bert-large-uncased
 python train_stage3.py --model_name_or_path stage3/[YOUR-MODEL-FOLDER] --do_stage3   --do_lower_case  --predict_file predictions.intermediate.json --per_gpu_train_batch_size 12  --max_seq_length 384   --doc_stride 128 --threads 8
 ```
 Once you have generated the predictions.json file, you can use the following command to see the results.
