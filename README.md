@@ -15,10 +15,12 @@ Table Retrieval: We use page title + page section title + table schema as the re
 |Dev            | 41.0%         | 61.8%          | 68.5%              | 73.7%             |
 
 QA Results: We use the retrieved table + retrieved text as the evidence to run HYBRIDER model (See https://arxiv.org/pdf/2004.07347.pdf for details), the results are shown as:
-|     Model     |     Dev-EM        |     Dev-F1         |
+|     Model     |     Dev-EM        |     Dev-F1 |
 |---------------|---------------|----------------|
 | BERT-based-uncased |  8.7     |     10.9       |
-| BERT-large-uncased | 10.9      | 13.1      |
+| BERT-large-uncased | 10.9      | 13.1         |
+
+
 The BERT-large-uncased model is available for downloading.
 
 
