@@ -39,7 +39,6 @@ Or you can skip these two steps to directly download the needed files from AWS i
 ## Step1: Preliminary Step
 ## Step1-1: Download the necessary files 
 ```
-unzip tf-idf-index.zip
 cd data/
 wget https://opendomainhybridqa.s3-us-west-2.amazonaws.com/all_plain_tables.json
 wget https://opendomainhybridqa.s3-us-west-2.amazonaws.com/all_passages.json
