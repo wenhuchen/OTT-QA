@@ -64,6 +64,11 @@ python build_tfidf.py --build_option title_sectitle_schema --out_dir title_secti
 ```
 This script will generate index files under retriever/ folder, which are used in the following experiments
 
+## Step1-3: Reproducing the retrieval results
+```
+python evaluate_retriever.py --split dev --model retriever/title_sectitle_schema/index-tfidf-ngram\=2-hash\=16777216-tokenizer\=simple.npz  --format question_table
+```
+This script will produce the table retrieval results in terms of HITS@1,5,10,20,50.
 
 ## Step2: Training
 ### Step2-0: If you want to download the model, you can skip the following training procedure.
