@@ -8,8 +8,21 @@ What's new compared to [HybridQA](http://hybridqa.github.io/):
 - The groundtruth table and passage are not given to the model, it needs to retrieve from 400K+ candidates of tables and 5M candidates of passages to find the evidence.
 - The tables in OTT-QA do not have groundtruth hyperlinks, which simulates a more general scenario outside Wikipedia.
 
+## Results
+Table Retrieval: We use page title + page section title + table schema as the representation of a table for retrieval
+|     Split     |     HITS@1    |     HITS@5     |     HITS@10       |   HITS@20         | 
+|---------------|---------------|----------------|-------------------|-------------------|
+|Dev            | 41.0%         | 61.8%          | 68.5%              | 73.7%             |
 
-## Folder Hierarchy
+QA Results: We use the retrieved table + retrieved text as the evidence to run HYBRIDER model (See https://arxiv.org/pdf/2004.07347.pdf for details), the results are shown as:
+|     Model     |     Dev-EM        |     Dev-F1         |
+|---------------|---------------|----------------|
+| BERT-based-uncased |  8.7     |     10.9       |
+| BERT-large-uncased | 10.9      | 13.1      |
+The BERT-large-uncased model is available for downloading.
+
+
+## Repo Structure
 - released_data: this folder contains the question/answer pairs for training, dev and test data.
 - data/all_plain_tables.json: this file contains the 400K+ table candidates for the dev/test set.
 - data/all_passages.json: this file contains the 5M+ open-domain passage candidates for the dev/test set.
@@ -55,6 +68,11 @@ This script will generate index files under retriever/ folder, which are used in
 
 
 ## Step2: Training
+### Step2-0: If you want to download the model, you can skip the following training procedure.
+```
+wget https://opendomainhybridqa.s3-us-west-2.amazonaws.com/models.zip
+unzip models.zip
+```
 ### Step2-1: Preprocess the training data
 ```
 python retrieve_and_preprocess.py --split train
