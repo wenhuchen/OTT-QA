@@ -18,7 +18,7 @@ QA Results: We use the retrieved table + retrieved text as the evidence to run H
 |     Model     |     Dev-EM        |     Dev-F1 |
 |---------------|---------------|----------------|
 | BERT-based-uncased |  8.7     |     10.9       |
-| [BERT-large-uncased](https://opendomainhybridqa.s3-us-west-2.amazonaws.com/models.zip) | 10.9      | 13.1         |
+| [BERT-large-uncased](https://drive.google.com/file/d/1a3I2HaOIP_9wES53E5kjbb2ST5IbgrVQ/view?usp=sharing) | 10.9      | 13.1         |
 
 ## Repo Structure
 - released_data: this folder contains the question/answer pairs for training, dev and test data.
