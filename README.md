@@ -71,9 +71,8 @@ python evaluate_retriever.py --split dev --model retriever/title_sectitle_schema
 This script will produce the table retrieval results in terms of HITS@1,5,10,20,50.
 
 ## Step2: Training
-### Step2-0: If you want to download the model, you can skip the following training procedure.
+### Step2-0: If you want to download the model from [Google Drive](https://drive.google.com/file/d/1a3I2HaOIP_9wES53E5kjbb2ST5IbgrVQ/view?usp=sharing), you can skip the following training procedure.
 ```
-wget https://opendomainhybridqa.s3-us-west-2.amazonaws.com/models.zip
 unzip models.zip
 ```
 ### Step2-1: Preprocess the training data
