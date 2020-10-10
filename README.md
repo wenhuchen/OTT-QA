@@ -108,3 +108,5 @@ Once you have generated the predictions.json file, you can use the following com
 python evaluate_script.py predictions.json released_data/dev_reference.json
 ```
 
+## Visualization
+If you want to browse the tables, please go to [this website](https://wenhuchen.github.io/opendomaintables.github.io/) and type in your table_id like 'Serbia_at_the_European_Athletics_Championships_2', then you will see all the information related to the given table.
