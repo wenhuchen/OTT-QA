@@ -1,6 +1,7 @@
 # Open Table-and-Text Question Answering (OTT-QA)
 
-This respository contains the dataset used in "Open Table-and-Text Question Answering" and the baseline code for the dataset [OTT-QA](https://ott-qa.github.io/). This dataset contains open questions which require retrieving tables and text from the web to answer. This dataset is re-annotated from the previous HybridQA dataset. The dataset is collected by UCSB NLP group and issued under MIT license. You can browse the examples through our [explorer](https://ott-qa.github.io/explore.html).
+This respository contains the OTT-QA dataset used in [Open Question Answering over Tables and Text
+](https://arxiv.org/abs/2010.10439) and the baseline code for the dataset [OTT-QA](https://ott-qa.github.io/). This dataset contains open questions which require retrieving tables and text from the web to answer. This dataset is re-annotated from the previous HybridQA dataset. The dataset is collected by UCSB NLP group and issued under MIT license. You can browse the examples through our [explorer](https://ott-qa.github.io/explore.html).
 
 ![overview](./figures/overview.png)
 
