@@ -111,5 +111,21 @@ Once you have generated the predictions.json file, you can use the following com
 python evaluate_script.py predictions.json released_data/dev_reference.json
 ```
 
+## CodaLab Evaluation
+To obtain the score on the test set (released_data/test.blind.json), you need to participate the CodaLab challenge in [OTT-QA Competition](https://competitions.codalab.org/competitions/27324). Please submit your results to obtain your testing score. The submitted file should first be named "test_answers.json" and then zipped. The required format of the submission file is described as follows:
+```
+[
+  {
+    "question_id": xxxxx,
+    "pred": XXX
+  },
+  {
+    "question_id": xxxxx,
+    "pred": XXX
+  }
+]
+```
+The reported scores are EM and F1.
+
 ## Visualization
 If you want to browse the tables, please go to [this website](https://wenhuchen.github.io/opendomaintables.github.io/) and type in your table_id like 'Serbia_at_the_European_Athletics_Championships_2', then you will see all the information related to the given table.
