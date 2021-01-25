@@ -129,3 +129,15 @@ The reported scores are EM and F1.
 
 ## Visualization
 If you want to browse the tables, please go to [this website](https://wenhuchen.github.io/opendomaintables.github.io/) and type in your table_id like 'Serbia_at_the_European_Athletics_Championships_2', then you will see all the information related to the given table.
+
+## Reference
+If you find this project useful, please cite it using the following format
+
+"""
+  @article{chen2021ottqa,
+  title={Open Question Answering over Tables and Text},
+  author={Wenhu Chen, Ming-wei Chang, Eva Schlinger, William Wang, William Cohen},
+  journal={Proceedings of ICLR 2021},
+  year={2021}
+}
+"""
