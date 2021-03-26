@@ -41,6 +41,7 @@ We suggest using virtual environment to install these dependencies.
 ```
 conda install pytorch torchvision cudatoolkit=10.2 -c pytorch
 pip install transformers
+pip install pexpect
 ```
 
 ## Additional Information
