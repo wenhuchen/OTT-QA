@@ -128,6 +128,17 @@ To obtain the score on the test set (released_data/test.blind.json), you need to
 ```
 The reported scores are EM and F1.
 
+## Link Prediction in Table
+We also provide the script to predict the links from the given table based on the context using GPT-2 model. To train the model, please use the following command.
+```
+python generate_link.py --dataset data/traindev_tables.json --do_train --batch_size 512
+```
+To generate links, please run
+```
+python generate_link.py --do_all --load_from link_generator/model-ep9.pt --dataset data/all_plain_tables.json --batch_size 256
+```
+This command will generate all the link mapping in the link_generator/ folder.
+
 ## Visualization
 If you want to browse the tables, please go to [this website](https://wenhuchen.github.io/opendomaintables.github.io/) and type in your table_id like 'Serbia_at_the_European_Athletics_Championships_2', then you will see all the information related to the given table.
 
