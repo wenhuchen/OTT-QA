@@ -1,7 +1,7 @@
 # Open Table-and-Text Question Answering (OTT-QA)
 
 This respository contains the OTT-QA dataset used in [Open Question Answering over Tables and Text
-](https://arxiv.org/abs/2010.10439) and the baseline code for the dataset [OTT-QA](https://ott-qa.github.io/). This dataset contains open questions which require retrieving tables and text from the web to answer. This dataset is re-annotated from the previous HybridQA dataset. The dataset is collected by UCSB NLP group and issued under MIT license. You can browse the examples through our [explorer](https://ott-qa.github.io/explore.html).
+](https://arxiv.org/abs/2010.10439) published in [ICLR2021](https://openreview.net/group?id=ICLR.cc/2021/Conference) and the baseline code for the dataset [OTT-QA](https://ott-qa.github.io/). This dataset contains open questions which require retrieving tables and text from the web to answer. This dataset is re-annotated from the previous HybridQA dataset. The dataset is collected by UCSB NLP group and issued under MIT license. You can browse the examples through our [explorer](https://ott-qa.github.io/explore.html).
 
 ![overview](./figures/demo.png)
 
@@ -41,6 +41,7 @@ We suggest using virtual environment to install these dependencies.
 ```
 conda install pytorch torchvision cudatoolkit=10.2 -c pytorch
 pip install transformers
+pip install pexpect
 ```
 
 ## Additional Information
@@ -129,3 +130,15 @@ The reported scores are EM and F1.
 
 ## Visualization
 If you want to browse the tables, please go to [this website](https://wenhuchen.github.io/opendomaintables.github.io/) and type in your table_id like 'Serbia_at_the_European_Athletics_Championships_2', then you will see all the information related to the given table.
+
+## Reference
+If you find this project useful, please cite it using the following format
+
+```
+  @article{chen2021ottqa,
+  title={Open Question Answering over Tables and Text},
+  author={Wenhu Chen, Ming-wei Chang, Eva Schlinger, William Wang, William Cohen},
+  journal={Proceedings of ICLR 2021},
+  year={2021}
+}
+```
