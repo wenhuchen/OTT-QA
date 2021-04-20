@@ -33,7 +33,7 @@ QA Results: We use the retrieved table + retrieved text as the evidence to run H
 - retriever/: the folder contains the script to build sparse retriever index.
 
 ## Requirements
-- [HuggingFace](https://github.com/huggingface/transformers)
+- [Transformers 2.2.1](https://github.com/huggingface/transformers)
 - [Pytorch 1.4](https://pytorch.org/)
 - [scipy](https://www.scipy.org/)
 

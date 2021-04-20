@@ -71,6 +71,8 @@ class Stage12Dataset(Dataset):
         if requests:
             assert isinstance(requests, str) or isinstance(requests, dict)
             self.requests = requests
+        else:
+            self.requests = None
 
     def __len__(self):
         return len(self.data)
