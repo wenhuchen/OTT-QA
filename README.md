@@ -146,6 +146,14 @@ This command will generate all the link mapping in the link_generator/ folder.
 ## Visualization
 If you want to browse the tables, please go to [this website](https://wenhuchen.github.io/opendomaintables.github.io/) and type in your table_id like 'Serbia_at_the_European_Athletics_Championships_2', then you will see all the information related to the given table.
 
+## Leaderboard
+
+**Model**                                     |  **Organization**  |**Reference**                                                             | **Dev-EM** | **Dev-F1** | **Test-EM** | **Test-F1** | 
+----------|---------------------------|-----------------------------------|---------------------------------------------------------------------------|---------|----------|------------------|
+Fusion+Cross-Reader         | Google      | [Chen et al. (2021)](https://arxiv.org/abs/2010.10439)                    |  28.1 | 32.5  | 27.2  | 31.5 |
+Dual Reader-Parser | Amazon | [Alexander et al. (2021)](https://assets.amazon.science/09/2b/7acf41f24c998cd3c2361681e9db/dual-reader-parser-on-hybrid-textual-and-tabular-evidence-for-open-domain-question-answering.pdf)                                              |   15.8   |    -  |  -       | -        |
+BM25-HYBRIDER   | UCSB      | [Chen et al. (2021)](https://arxiv.org/abs/2010.10439)                    |    10.3     | 13.0  |  9.7           | 12.8  |
+
 ## Reference
 If you find this project useful, please cite it using the following format
 
