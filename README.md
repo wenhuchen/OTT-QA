@@ -117,7 +117,7 @@ python evaluate_script.py predictions.dev.json released_data/dev_reference.json
 ```
 
 ## CodaLab Evaluation
-To obtain the score on the test set (released_data/test.blind.json), you need to participate the CodaLab challenge in [OTT-QA Competition](https://competitions.codalab.org/competitions/27324). Please submit your results to obtain your testing score. The submitted file should first be named "test_answers.json" and then zipped. The required format of the submission file is described as follows:
+To obtain the score on the test set (released_data/test.blind.json), you need to participate the CodaLab challenge in [OTT-QA Competition](https://codalab.lisn.upsaclay.fr/competitions/7967). Please submit your results to obtain your testing score. The submitted file should first be named "test_answers.json" and then zipped. The required format of the submission file is described as follows:
 ```
 [
   {
