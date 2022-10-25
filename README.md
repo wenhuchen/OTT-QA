@@ -150,6 +150,7 @@ If you want to browse the tables, please go to [this website](https://wenhuchen.
 
 **Model**                                     |  **Organization**  |**Reference**                                                             | **Dev-EM** | **Dev-F1** | **Test-EM** | **Test-F1** | 
 ----------|---------------------------|-----------------------------------|---------------------------------------------------------------------------|---------|----------|------------------|
+CORE         | CMU + Microsoft Research      | [Ma et al. (2022)](https://arxiv.org/abs/2210.12338)                    |  49.0 | 55.7  | 47.3  | 54.1 |
 CARP         | MSRA + Sun Yet-sen University      | [Zhong et al. (2021)](https://arxiv.org/pdf/2201.05880.pdf)                    |  33.2 | 38.6  | 32.5  | 38.5 |
 Fusion+Cross-Reader         | Google      | [Chen et al. (2021)](https://arxiv.org/abs/2010.10439)                    |  28.1 | 32.5  | 27.2  | 31.5 |
 Dual Reader-Parser | Amazon | [Alexander et al. (2021)](https://assets.amazon.science/09/2b/7acf41f24c998cd3c2361681e9db/dual-reader-parser-on-hybrid-textual-and-tabular-evidence-for-open-domain-question-answering.pdf)                                              |   15.8   |    -  |  -       | -        |
