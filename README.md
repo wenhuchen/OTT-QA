@@ -150,6 +150,7 @@ If you want to browse the tables, please go to [this website](https://wenhuchen.
 
 **Model**                                     |  **Organization**  |**Reference**                                                             | **Dev-EM** | **Dev-F1** | **Test-EM** | **Test-F1** | 
 ----------|---------------------------|-----------------------------------|---------------------------------------------------------------------------|---------|----------|------------------|
+COS         | CMU + Microsoft Research + UIUC     | [Ma et al. (2023)](https://arxiv.org/abs/2305.03130)                    |  56.9 | 63.2  | 54.9  | 61.5 |
 CORE         | CMU + Microsoft Research      | [Ma et al. (2022)](https://arxiv.org/abs/2210.12338)                    |  49.0 | 55.7  | 47.3  | 54.1 |
 OTTeR        | MSRA + Beihang                | [Huang et al. (2022)](https://arxiv.org/abs/2210.05197)                 |  37.1 | 42.8 | 37.3 | 43.1 |
 CARP         | MSRA + Sun Yet-sen University      | [Zhong et al. (2021)](https://arxiv.org/pdf/2201.05880.pdf)                    |  33.2 | 38.6  | 32.5  | 38.5 |
