@@ -153,6 +153,7 @@ If you want to browse the tables, please go to [this website](https://wenhuchen.
 COS         | CMU + Microsoft Research + UIUC     | [Ma et al. (2023)](https://arxiv.org/abs/2305.03130)                    |  56.9 | 63.2  | 54.9  | 61.5 |
 CORE         | CMU + Microsoft Research      | [Ma et al. (2022)](https://arxiv.org/abs/2210.12338)                    |  49.0 | 55.7  | 47.3  | 54.1 |
 OTTeR        | MSRA + Beihang                | [Huang et al. (2022)](https://arxiv.org/abs/2210.05197)                 |  37.1 | 42.8 | 37.3 | 43.1 |
+RINK         | JBNU + NAVER                  | [Park et al. (2023)](https://ojs.aaai.org/index.php/AAAI/article/view/26577)  | 36.7 | 42.4 | 35.5 | 41.5 |
 CARP         | MSRA + Sun Yet-sen University      | [Zhong et al. (2021)](https://arxiv.org/pdf/2201.05880.pdf)                    |  33.2 | 38.6  | 32.5  | 38.5 |
 Fusion+Cross-Reader         | Google      | [Chen et al. (2021)](https://arxiv.org/abs/2010.10439)                    |  28.1 | 32.5  | 27.2  | 31.5 |
 Dual Reader-Parser | Amazon | [Alexander et al. (2021)](https://assets.amazon.science/09/2b/7acf41f24c998cd3c2361681e9db/dual-reader-parser-on-hybrid-textual-and-tabular-evidence-for-open-domain-question-answering.pdf)                                              |   15.8   |    -  |  -       | -        |
